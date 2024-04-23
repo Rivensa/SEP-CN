@@ -5,21 +5,7 @@
 查尔斯·哈茨霍恩（发音为哈茨霍恩）被许多哲学家认为是二十世纪最重要的宗教哲学家和形而上学家之一。尽管哈茨霍恩经常批评中世纪哲学中所发现的物质形而上学，但他在发展以神为中心的哲学方面与中世纪思想家非常相似。在他的整个职业生涯中，他捍卫了神论的合理性，并在几十年间几乎是英语哲学家中唯一这样做的人。哈茨霍恩也是负责重新发现圣安瑟姆本体论论证的思想家之一。但他对哲学神论最有影响力的贡献并不涉及上帝存在的论证，而是与上帝的实在性理论有关，即上帝如何存在。在传统或古典神论中，上帝被视为至高无变的存在，但在哈茨霍恩的基于过程或新古典观念中，上帝被视为至高的变化中存在着至高的存在因素。哈茨霍恩坚持认为，我们人类会有一段时间的变化，而上帝总是在变化中。哈茨霍恩的新古典观点影响了许多哲学家理解上帝的概念的方式。事实上，一小部分学者——一些哲学家和一些神学家——认为他是二十世纪下半叶最伟大的形而上学家，然而，除了下文将要讨论的少数例外情况外，他的作品在分析哲学家中的影响有限。
 
 除了哈茨霍恩的许多著作（见下面的参考书目），学者们还可以从下面的四本选集中受益，这些选集汇集了许多关于哈茨霍恩的重要二手文献。这些选集是由科布和甘威尔、汉、里斯和弗里曼以及席尔兹编辑的选集。
-
-* [ 1. 生活](https://plato.stanford.edu/entries/hartshorne/#Life)
-* [ 2. 方法](https://plato.stanford.edu/entries/hartshorne/#Meth)
-* [3. 上帝的存在和现实性](https://plato.stanford.edu/entries/hartshorne/#ExisActuGod)
-* [ 4. 价值论](https://plato.stanford.edu/entries/hartshorne/#Axio)
-* [5. 泛心灵论或心灵论](https://plato.stanford.edu/entries/hartshorne/#Panp)
-* [ 6. 批判性评价](https://plato.stanford.edu/entries/hartshorne/#CritEval)
-* [ 参考书目](https://plato.stanford.edu/entries/hartshorne/#Bib)
-
-  * [ 查尔斯·哈茨霍恩的著作](https://plato.stanford.edu/entries/hartshorne/#BookHart)
-  * [ 二手资料](https://plato.stanford.edu/entries/hartshorne/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/hartshorne/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hartshorne/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hartshorne/#Rel)
-
+ 
 ---
 
 ## 1. 生命

@@ -9,17 +9,7 @@
 
 虽然最近一些哲学文献讨论了第一种理解方式中的问题（例如，DeWeese-Boyd 2016；Garcia 2002；Nagasawa 2015），但本条目侧重于以第二种方式理解的神的隐藏。第一部分讨论了不信仰与另一种被认为是无神论的证据来源之间的关系：邪恶。第二部分阐述并捍卫了来自非抵抗性不信仰的论证。第三部分概述了试图从有神论的角度解释非抵抗性不信仰的尝试。第四部分阐述了对来自非抵抗性不信仰的论证的其他回应。第五部分讨论了不信仰的人口统计学论证，第六部分讨论了自然不信仰的论证。
 
-* [1. 不信仰与邪恶之间的关系](https://plato.stanford.edu/entries/divine-hiddenness/#RelaBetwNonbEvil)
-* [2. 来自非抵抗性不信仰的论证](https://plato.stanford.edu/entries/divine-hiddenness/#ArguNonrNonb)
-* [3. 尝试从神的隐藏角度解释非抵抗性的无神论](https://plato.stanford.edu/entries/divine-hiddenness/#AtteExplNonrNonbThei)
-* [4. 对非抵抗性无神论论点的其他评估](https://plato.stanford.edu/entries/divine-hiddenness/#OtheAsseArguNonrNonb)
-* [5. 非信仰人口统计的论点](https://plato.stanford.edu/entries/divine-hiddenness/#ArguDemoNonb)
-* [6. 自然无信仰的论证](https://plato.stanford.edu/entries/divine-hiddenness/#ArguNatuNonb)
-* [ 参考文献](https://plato.stanford.edu/entries/divine-hiddenness/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/divine-hiddenness/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/divine-hiddenness/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/divine-hiddenness/#Rel)
-
+ 
 ---
 
 ## 1. 非信仰与邪恶之间的关系

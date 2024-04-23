@@ -4,34 +4,7 @@ _首次发表于2018年1月19日星期五；实质性修订于2022年5月13日�
 
 威廉·海特斯伯里（约 1313 年至 1372/3 年），是牛津大学默顿学院和“牛津计算者”学派的成员，很可能是理查德·基尔文顿的学生，后者是约翰·邓布尔顿的年轻同代人。海特斯伯里发展了托马斯·布拉德沃丁和理查德·基尔文顿的著作，同时也受到沃尔特·伯利、威廉·奥卡姆和罗杰·斯温谢德（或斯温斯黑德）的影响。他撰写了一本流行的教科书《解决诡辩法则》和其他几本诡辩集。他将逻辑、数学和物理联系在一起。他提出了中间程度定理（也称为平均速度定理），为匀加速运动提供了适当的规则，后来被伽利略发展。他的作品预示了 19 世纪对连续体的数学分析。他影响了英国和意大利的逻辑（在那里印刷了几个晚 14 世纪和早 15 世纪的版本），他的影响一直持续到 16 世纪，当时他参与的辩论逐渐减少。
 
-* [1. 生平与著作](https://plato.stanford.edu/entries/heytesbury/#LifeWork)
-* [2. 逻辑](https://plato.stanford.edu/entries/heytesbury/#Logi)
-  * [2.1 义务](https://plato.stanford.edu/entries/heytesbury/#Obli)
-  * [2.2 术语所有权](https://plato.stanford.edu/entries/heytesbury/#PropTerm)
-  * [2.3 演绎有效性](https://plato.stanford.edu/entries/heytesbury/#DeduVali)
-  * [2.4 知识性陈述的逻辑](https://plato.stanford.edu/entries/heytesbury/#LogiEpisStat)
-    * [2.4.1 实际/按语义模糊性和知识性陈述](https://plato.stanford.edu/entries/heytesbury/#DeRedeDictAmbiEpisStat)
-    * [2.4.2 推理规则](https://plato.stanford.edu/entries/heytesbury/#InfeRule)
-  * [2.5 不可溶问题](https://plato.stanford.edu/entries/heytesbury/#Inso)
-* [3. 推理物理学](https://plato.stanford.edu/entries/heytesbury/#SpecPhys)
-  * [3.1 起始与终止](https://plato.stanford.edu/entries/heytesbury/#BegiCeas)
-  * [3.2 最大值和最小值](https://plato.stanford.edu/entries/heytesbury/#MaxiMini)
-  * [3.3 变化的三种类别](https://plato.stanford.edu/entries/heytesbury/#ThreCateChan)
-    * [3.3.1 局部运动](https://plato.stanford.edu/entries/heytesbury/#LocaMoti)
-    * [3.3.2 修改](https://plato.stanford.edu/entries/heytesbury/#Alte)
-    * [3.3.3 增强](https://plato.stanford.edu/entries/heytesbury/#Augm)
-* [4. 影响](https://plato.stanford.edu/entries/heytesbury/#Infl)
-* [参考书目](https://plato.stanford.edu/entries/heytesbury/#Bib)
-  * [缩写列表](https://plato.stanford.edu/entries/heytesbury/#ListAbbr)
-  * [一般参考书目来源](https://plato.stanford.edu/entries/heytesbury/#GeneBiblSour)
-  * [威廉·海特斯伯里文稿](https://plato.stanford.edu/entries/heytesbury/#ManuHeytText)
-  * [威廉·海特斯伯里文的早期印刷品](https://plato.stanford.edu/entries/heytesbury/#EarlPrinHeytText)
-  * [威廉·海特斯伯里文的现代版本和翻译](https://plato.stanford.edu/entries/heytesbury/#ModeEditTranHeytText)
-  * [其他学术来源](https://plato.stanford.edu/entries/heytesbury/#OtheSchoSour)
-  * [二手资料](https://plato.stanford.edu/entries/heytesbury/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/heytesbury/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/heytesbury/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/heytesbury/#Rel)
+ 
 
 ***
 

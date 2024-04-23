@@ -7,30 +7,7 @@
 
 本条目概述了关于如何讨论黑格尔思想以及其《法哲学要素》的核心贡献，随后是进一步阅读。
 
-* [1. 黑格尔社会和政治思想的地位](https://plato.stanford.edu/entries/hegel-social-political/#PlacHegeSociPoliThou)
-
-  * [1.1 保守主义和进步阅读](https://plato.stanford.edu/entries/hegel-social-political/#ConsProgRead)
-  * [1.2 形而上和非形而上阅读](https://plato.stanford.edu/entries/hegel-social-political/#MetaNonMetaRead)
-  * [1.3 系统化和非系统化阅读](https://plato.stanford.edu/entries/hegel-social-political/#SystNonSystRead)
-  * [1.4 《法哲学》](https://plato.stanford.edu/entries/hegel-social-political/#PhilRigh)
-* [2. 自由与权利](https://plato.stanford.edu/entries/hegel-social-political/#FreeRigh)
-* [ 3. 财产](https://plato.stanford.edu/entries/hegel-social-political/#Prop)
-* [ 4. 惩罚](https://plato.stanford.edu/entries/hegel-social-political/#Puni)
-* [ 5. 道德](https://plato.stanford.edu/entries/hegel-social-political/#Mora)
-* [ 6. 伦理生活](https://plato.stanford.edu/entries/hegel-social-political/#EthiLife)
-* [ 7. 家庭](https://plato.stanford.edu/entries/hegel-social-political/#Fami)
-* [ 8. 市民社会](https://plato.stanford.edu/entries/hegel-social-political/#CiviSoci)
-* [ 9. 法律](https://plato.stanford.edu/entries/hegel-social-political/#Law)
-* [ 10. 国家](https://plato.stanford.edu/entries/hegel-social-political/#Stat)
-* [11. 战争和国际关系](https://plato.stanford.edu/entries/hegel-social-political/#WarInteRela)
-* [ 参考文献](https://plato.stanford.edu/entries/hegel-social-political/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/hegel-social-political/#PrimLite)
-  * [ 次要文献](https://plato.stanford.edu/entries/hegel-social-political/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/hegel-social-political/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hegel-social-political/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hegel-social-political/#Rel)
-
+ 
 ---
 
 ## 1. 黑格尔社会和政治思想的地位

@@ -3,46 +3,7 @@
 
 卡尔·G·亨普尔（1905-1997）是“覆盖定律”解释理论和确认悖论的主要倡导者，这些是科学理论的基本要素。作为哲学方法论的大师，亨普尔致力于阐明最初模糊和含糊不清的概念，这些概念需要满足非常具体的充分性标准。与鲁道夫·卡尔纳普和汉斯·赖希巴赫一起，他在上世纪 30 年代和 40 年代主导的哲学运动——被称为“逻辑实证主义”的转变中发挥了重要作用，将其转变为更为细致的立场，即“逻辑经验主义”。他对归纳、解释和科学中的理性的研究对一代又一代的科学哲学家产生了深远影响，其中许多人成为了自己领域的领袖。
 
-* [ 1. 个人简介](https://plato.stanford.edu/entries/hempel/#BiogSket)
-* [2. 对逻辑实证主义的批判](https://plato.stanford.edu/entries/hempel/#CritLogiPosi)
-
-  * [2.1 分析/综合区分](https://plato.stanford.edu/entries/hempel/#AnalDist)
-
-    * [2.1.1 奎因的抱怨](https://plato.stanford.edu/entries/hempel/#QuinComp)
-    * [ 2.1.2 卡尔·G·亨普尔的关注](https://plato.stanford.edu/entries/hempel/#HempConc)
-    * [2.1.3 意向方法论](https://plato.stanford.edu/entries/hempel/#InteMeth)
-  * [2.2 观察/理论区分](https://plato.stanford.edu/entries/hempel/#ObseDist)
-  * [2.3 认知意义的可验证标准](https://plato.stanford.edu/entries/hempel/#VeriCritCognSign)
-* [3. 科学推理](https://plato.stanford.edu/entries/hempel/#ScieReas)
-
-  * [3.1 确证悖论](https://plato.stanford.edu/entries/hempel/#ParaConf)
-  * [3.2 等价条件](https://plato.stanford.edu/entries/hempel/#EquiCond)
-  * [3.3 可延展性的限制](https://plato.stanford.edu/entries/hempel/#LimiExte)
-* [4. 科学解释](https://plato.stanford.edu/entries/hempel/#ScieExpl)
-
-  * [4.1 半正式阐释](https://plato.stanford.edu/entries/hempel/#SemiFormExpl)
-  * [4.2 实在 vs. 认识论观念](https://plato.stanford.edu/entries/hempel/#OntiVsEpisConc)
-  * [4.3 类似定律性问题](https://plato.stanford.edu/entries/hempel/#ProbLawl)
-* [5. 解释、预测、反预测](https://plato.stanford.edu/entries/hempel/#ExplPredRetr)
-
-  * [5.1 对称性论题](https://plato.stanford.edu/entries/hempel/#SymmThes)
-  * [5.2 解释的悖论](https://plato.stanford.edu/entries/hempel/#ParaExpl)
-* [6. 归纳-统计解释](https://plato.stanford.edu/entries/hempel/#InduStatExpl)
-
-  * [6.1 最大特异性要求](https://plato.stanford.edu/entries/hempel/#RequMaxiSpec)
-  * [6.2 统计相关性 vs. 因果相关性](https://plato.stanford.edu/entries/hempel/#StatReleVsCausRele)
-  * [6.3 修订亨普尔的充分性标准](https://plato.stanford.edu/entries/hempel/#ReviHempCritAdeq)
-* [7. 条款问题](https://plato.stanford.edu/entries/hempel/#ProbProv)
-* [8. 对理性的反思](https://plato.stanford.edu/entries/hempel/#ReflRati)
-* [ 参考书目](https://plato.stanford.edu/entries/hempel/#Bib)
-
-  * [主要来源：卡尔·G·亨普尔的著作](https://plato.stanford.edu/entries/hempel/#PrimSourWorkHemp)
-  * [主要来源：合著作品](https://plato.stanford.edu/entries/hempel/#PrimSourCoauWork)
-  * [ 二手文献](https://plato.stanford.edu/entries/hempel/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/hempel/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hempel/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hempel/#Rel)
-
+ 
 ---
 
 ## 1. 传略

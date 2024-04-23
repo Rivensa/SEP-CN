@@ -6,28 +6,7 @@
 
 休谟的主要伦理著作包括他的《人性论》第三卷《道德》（在第二卷《激情》的基础上构建），他的《论道德原理的探究》以及他的一些论文。在某种程度上，道德探究只是以更易理解的方式重新表述了《人性论》中的道德部分的核心思想；但是也存在重要的差异。下面列出了《人性论》的伦理立场和论证，并指出了《道德探究》与之一致的地方；之后讨论了《道德探究》与《人性论》之间的差异。
 
-* [1. 休谟前辈的问题](https://plato.stanford.edu/entries/hume-moral/#pred)
-* [2. 激情与意志](https://plato.stanford.edu/entries/hume-moral/#pw)
-* [3. 意志的影响动机](https://plato.stanford.edu/entries/hume-moral/#inmo)
-* [4. 伦理反理性主义](https://plato.stanford.edu/entries/hume-moral/#ear)
-* [5. 是与应该](https://plato.stanford.edu/entries/hume-moral/#io)
-* [6. 道德判断的性质](https://plato.stanford.edu/entries/hume-moral/#namoj)
-* [7. 同情，道德情感的性质和起源](https://plato.stanford.edu/entries/hume-moral/#symp)
-* [8. 大众观点](https://plato.stanford.edu/entries/hume-moral/#cpv)
-* [9. 人为和自然美德](https://plato.stanford.edu/entries/hume-moral/#artnat)
-* [10. 对财产的诚实](https://plato.stanford.edu/entries/hume-moral/#honesty)
-
-  * [ 10.1 圆圈](https://plato.stanford.edu/entries/hume-moral/#circle)
-  * [10.2 材料诚实的起源](https://plato.stanford.edu/entries/hume-moral/#honorigin)
-  * [10.3 诚实行为的动机](https://plato.stanford.edu/entries/hume-moral/#honmotive)
-* [11. 忠诚守信](https://plato.stanford.edu/entries/hume-moral/#fidelity)
-* [12. 忠于政府](https://plato.stanford.edu/entries/hume-moral/#allegiance)
-* [13. 自然美德](https://plato.stanford.edu/entries/hume-moral/#natvirtues)
-* [14. 《论人性》与《道德研究》之间的差异](https://plato.stanford.edu/entries/hume-moral/#epm)
-* [ 参考书目](https://plato.stanford.edu/entries/hume-moral/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/hume-moral/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hume-moral/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hume-moral/#Rel)
+ 
 
 ---
 

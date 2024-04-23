@@ -8,32 +8,7 @@
 
 当我们转向基督教传统中的神学和哲学文献时，我们会遇到与其他伟大宗教传统一样令人困惑的各种不同（而且经常是不一致的）神学观点。特别是关于地狱的观点包括对神圣爱、神圣公正和神圣恩典非常不同的概念，对自由意志及其在决定一个人最终命运中的作用（如果有的话）有非常不同的看法，对道德恶和惩罚目的有非常不同的理解，以及对道德责任的性质和遗传罪可能性有非常不同的看法。还有这样一个进一步的复杂性：在基督教所属的亚伯拉罕一神论宗教家族中（包括犹太教和伊斯兰教），神学思考经常包括对被认为既是神圣又是权威的各种文本的解释。但是，这些文本的含义，特别是在其原始语言中阅读时，很少能被所有合理的解释者透彻理解；也就是说，甚至那些认为某一相关文本具有权威性的人也不一定能就其正确解释达成一致意见。尽管神学观点的这种令人困惑的多样性，但可能有一个相对简单的方法来确定基督教中三种主要末世观，并围绕这三种主要观点组织有关天堂与地狱的各种想法。
 
-* [1. 三种主要末世观](https://plato.stanford.edu/entries/heaven-hell/#ThrPriEscVie)
-
-  * [1.1 假设人类内部存在最终且不可逆转的分裂](https://plato.stanford.edu/entries/heaven-hell/#PosFinIrrDivWitHumRac)
-  * [1.2 限制上帝爱的范围](https://plato.stanford.edu/entries/heaven-hell/#ResScoGodLov)
-* [2. 圣奥古斯丁对地狱的理解](https://plato.stanford.edu/entries/heaven-hell/#AugUndHel)
-
-  * [2.1 报复主义者的反对意见](https://plato.stanford.edu/entries/heaven-hell/#RetObj)
-  * [2.2 挑战报应理论本身](https://plato.stanford.edu/entries/heaven-hell/#ChaRetTheIts)
-* [3. 天堂与地狱的自由意志辩护](https://plato.stanford.edu/entries/heaven-hell/#FreWilTheHel)
-
-  * [3.1 道德自由与理性](https://plato.stanford.edu/entries/heaven-hell/#MorFreRat)
-  * [3.2 道德自由与无法弥补的伤害](https://plato.stanford.edu/entries/heaven-hell/#MorFreIrrHar)
-* [4. 天堂与地狱的普世主义拒绝](https://plato.stanford.edu/entries/heaven-hell/#UniRejEveSep)
-
-  * [4.1 神圣恩典与爱的包容性特质](https://plato.stanford.edu/entries/heaven-hell/#DivGraIncNatLov)
-  * [4.2 天堂与地狱](https://plato.stanford.edu/entries/heaven-hell/#UniandHumFree)
-  * [4.3 上帝权力保护人类自由的限制](https://plato.stanford.edu/entries/heaven-hell/#LimGodPowPreHumFre)
-* [5. 天堂: 三个关键问题](https://plato.stanford.edu/entries/heaven-hell/#HeaThrCriIss)
-
-  * [5.1 天堂中的自由](https://plato.stanford.edu/entries/heaven-hell/#FreHea)
-  * [5.2 关于地狱中所爱之人的痛苦](https://plato.stanford.edu/entries/heaven-hell/#ConMisLovOneHel)
-  * [5.3 关于所谓的永生乏味](https://plato.stanford.edu/entries/heaven-hell/#ConSupTedImm)
-* [ 参考文献](https://plato.stanford.edu/entries/heaven-hell/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/heaven-hell/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/heaven-hell/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/heaven-hell/#Rel)
+ 
 
 ---
 

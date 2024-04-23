@@ -4,37 +4,7 @@
 
 大致有两种关于“幸福”的哲学文献，每种对应于该术语的不同含义。一种将“幸福”作为一个价值术语，大致等同于幸福或繁荣。另一部分作品将这个词作为纯粹描述性的心理术语，类似于“抑郁”或“宁静”。幸福哲学中的一个重要项目就是搞清楚各种作家在谈论什么：这个术语的重要含义是什么，它们之间如何联系？虽然“幸福”的“幸福”意义在当代幸福文献中受到重视，但心理概念正在重新焕发生机，成为哲学探究的一个主要焦点，这是基于幸福科学的最新发展。本条目重点关注幸福的心理意义（有关幸福概念，请参阅幸福条目）。在这个意义上，幸福的主要解释是享乐主义、生活满意度理论和情绪状态理论。抛开词语问题，我们发现，幸福在心理意义上一直是哲学家关注的重要问题。然而，幸福对美好生活的重要性在最近几十年引起了激烈争论。当代感兴趣的进一步问题涉及幸福哲学与科学之间的关系，以及幸福在社会和政治决策中的作用。
 
-* [1. “幸福”的含义](https://plato.stanford.edu/entries/happiness/#MeaHap)
-
-  * [1.1 “幸福”的两种含义](https://plato.stanford.edu/entries/happiness/#TwoSenHap)
-  * [1.2 澄清我们的探究](https://plato.stanford.edu/entries/happiness/#ClaOurInq)
-* [2. 幸福的理论](https://plato.stanford.edu/entries/happiness/#TheHap)
-
-  * [2.1 幸福的主要候选者](https://plato.stanford.edu/entries/happiness/#ChiCan)
-  * [2.2 方法论：确定一个理论](https://plato.stanford.edu/entries/happiness/#MetSetThe)
-  * [2.3 生活满意度与基于情感的解释](https://plato.stanford.edu/entries/happiness/#LifSatVerAffBasAcc)
-  * [2.4 快乐主义与情绪状态](https://plato.stanford.edu/entries/happiness/#HedVerEmoSta)
-  * [ 2.5 混合解释](https://plato.stanford.edu/entries/happiness/#HybAcc)
-* [3. 幸福的科学](https://plato.stanford.edu/entries/happiness/#SciHap)
-
-  * [3.1 幸福可以被衡量吗？](https://plato.stanford.edu/entries/happiness/#HapMea)
-  * [3.2 实证研究结果：概述](https://plato.stanford.edu/entries/happiness/#EmpFin)
-  * [3.3 幸福的来源](https://plato.stanford.edu/entries/happiness/#Sources)
-* [4. 幸福的重要性](https://plato.stanford.edu/entries/happiness/#ImpHap)
-
-  * [4.1 对幸福价值的怀疑](https://plato.stanford.edu/entries/happiness/#DouAboValHap)
-  * [4.2 将幸福恢复到幸福理论中](https://plato.stanford.edu/entries/happiness/#ResHapTheWelBei)
-  * [4.3 幸福被高估了吗？](https://plato.stanford.edu/entries/happiness/#HapOve)
-* [5. 追求和促进幸福](https://plato.stanford.edu/entries/happiness/#PurProHap)
-
-  * [ 5.1 规范问题](https://plato.stanford.edu/entries/happiness/#NorIss)
-  * [5.2 追求幸福中的错误](https://plato.stanford.edu/entries/happiness/#MisPurHap)
-  * [5.3 幸福的政治](https://plato.stanford.edu/entries/happiness/#PolHap)
-* [ 参考书目](https://plato.stanford.edu/entries/happiness/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/happiness/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/happiness/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/happiness/#Rel)
-
+ 
 ---
 
 ## 1. 幸福的含义

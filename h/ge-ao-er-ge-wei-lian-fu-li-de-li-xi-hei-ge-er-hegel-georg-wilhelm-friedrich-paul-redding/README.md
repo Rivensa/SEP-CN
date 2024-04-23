@@ -3,44 +3,7 @@
 *首次发表于1997年2月13日星期四；实质性修订于2020年1月9日星期四。*
 
 与 J.G.费希特以及至少在他早期作品中的 F.W.J.冯·谢林一起，格奥尔格·威廉·弗里德里希·黑格尔（1770-1831）属于德国唯心主义时期，紧随康德之后的几十年。作为康德之后最系统的唯心主义者，黑格尔试图在他的出版著作以及讲座中，从一个据称是逻辑起点的地方阐述一部全面而系统的哲学。他可能最为人所熟知的是他关于历史的目的论解释，这一解释后来被马克思接受，并“倒转”为一个关于历史发展最终达到共产主义的唯物主义理论。尽管德国的唯心主义哲学在黑格尔之后仍有发展（Beiser 2014），但通常被称为德国唯心主义的运动实际上随着黑格尔的逝世而结束。自 20 世纪初逻辑思维革命以来，黑格尔思想的逻辑一面已经被大部分遗忘，尽管他的政治和社会哲学以及神学观点仍然引起兴趣和支持。然而，自 20 世纪 70 年代以来，人们对黑格尔系统思想及其逻辑基础的更广泛哲学兴趣已经重新被唤起。
-
-* [1. 生平、工作和影响](https://plato.stanford.edu/entries/hegel/#LifWorInf)
-* [2. 黑格尔的哲学](https://plato.stanford.edu/entries/hegel/#Heg)
-
-  * [2.1 背景：德国传统中理解的唯心主义](https://plato.stanford.edu/entries/hegel/#BacIdeUndGerTra)
-  * [2.2 黑格尔哲学的传统形而上观](https://plato.stanford.edu/entries/hegel/#TraMetVieHeg)
-  * [2.3 康德之后的（有时被称为非形而上的）黑格尔观](https://plato.stanford.edu/entries/hegel/#PosKanSomCalNonMetVieHeg)
-  * [2.4 格奥尔格·威廉·弗里德里希·黑格尔的修正形而上学观](https://plato.stanford.edu/entries/hegel/#RevMetVieHeg)
-* [3. 格奥尔格·威廉·弗里德里希·黑格尔的已发表著作](https://plato.stanford.edu/entries/hegel/#HegPubWor)
-
-  * [ 3.1 书籍](https://plato.stanford.edu/entries/hegel/#Boo)
-
-    * [3.1.1 精神现象学](https://plato.stanford.edu/entries/hegel/#PheSpi)
-    * [ 3.1.2 逻辑学科](https://plato.stanford.edu/entries/hegel/#SciLog)
-  * [3.2 格奥尔格·威廉·弗里德里希·黑格尔的百科全书体系及其扩展](https://plato.stanford.edu/entries/hegel/#HegEncSysExp)
-
-    * [3.2.1. 自然哲学](https://plato.stanford.edu/entries/hegel/#Nat)
-    * [3.2.2 主客精神哲学](https://plato.stanford.edu/entries/hegel/#SubObjSpi)
-    * [3.2.3 绝对精神哲学](https://plato.stanford.edu/entries/hegel/#AbsSpi)
-* [ 参考书目](https://plato.stanford.edu/entries/hegel/#Bib)
-
-  * [ 德国著作](https://plato.stanford.edu/entries/hegel/#GerWor)
-  * [关键文本的英文翻译](https://plato.stanford.edu/entries/hegel/#EngTraKeyTex)
-  * [ 二手文献](https://plato.stanford.edu/entries/hegel/#SecLit)
-
-    * [一般作品和选集](https://plato.stanford.edu/entries/hegel/#GenWorAnt)
-    * [生平、作品和影响](https://plato.stanford.edu/entries/hegel/#LifWorInfbib)
-    * [*Phenomenology of Spirit *](https://plato.stanford.edu/entries/hegel/#PheSpibib)
-    * [Logic and Metaphysics ](https://plato.stanford.edu/entries/hegel/#LogMet)
-    * [Philosophy of Nature/Science ](https://plato.stanford.edu/entries/hegel/#Natbib)
-    * [主观精神哲学](https://plato.stanford.edu/entries/hegel/#SubSpi)
-    * [客观精神/实践与政治哲学](https://plato.stanford.edu/entries/hegel/#ObjSpiPol)
-    * [ 美学](https://plato.stanford.edu/entries/hegel/#Aes)
-    * [ 宗教](https://plato.stanford.edu/entries/hegel/#Relbib)
-    * [ 哲学史](https://plato.stanford.edu/entries/hegel/#His)
-* [ 学术工具](https://plato.stanford.edu/entries/hegel/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hegel/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hegel/#Rel)
+ 
 
 ---
 

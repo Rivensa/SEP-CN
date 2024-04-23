@@ -8,19 +8,7 @@
 
 胡克试图将实用主义伦理的解释应用于包括教育政策、文化自由和社会变革等各个社会行动领域。胡克将规范伦理判断应用于当代社会和政治问题，导致他的政治立场明显转变。在他早期的写作中，直接拥护马克思主义，将其理解为解决资本主义社会问题的科学方法的应用。然而，胡克对马克思主义的解释最终使他成为反共政策的主要倡导者，无论是在外交事务还是国内机构中。在他职业生涯的后期，对 20 世纪 60 年代“新左派”计划的反应之后，胡克的观点可以被理解为一种保守自由主义形式。胡克最初强调教育实践中的研究自由，后来又强调西方人文文化传统在课程中的连续性。同样，胡克最初支持社会民主主义，后来反对社会主义和激进运动中出现的极权主义潜力。因此，作为一位公共哲学家，胡克的后期著作与新保守主义运动联系在一起。
 
-* [1. 悉尼·胡克对实用主义的采纳：从自然主义形而上学的辩护到对科学方法的承诺](https://plato.stanford.edu/entries/sidney-hook/#SidnHookAdopPragJustNatuMetaCommScieMeth)
-* [2. 胡克对实用主义知识理论的辩护](https://plato.stanford.edu/entries/sidney-hook/#HookDefePragTheoKnow)
-* [3. 悉尼·胡克对伦理自然主义的辩护](https://plato.stanford.edu/entries/sidney-hook/#HookDefeEthiNatu)
-* [4. 实用主义哲学家作为公共知识分子](https://plato.stanford.edu/entries/sidney-hook/#PragPhilPublInte)
-* [5. 悉尼·胡克在实用主义历史中的地位](https://plato.stanford.edu/entries/sidney-hook/#HookPlacHistPrag)
-* [ 参考文献](https://plato.stanford.edu/entries/sidney-hook/#Bib)
-
-  * [主要文献：悉尼·胡克的引用作品](https://plato.stanford.edu/entries/sidney-hook/#PrimLiteCiteWorkSidnHook)
-  * [ 二次文献](https://plato.stanford.edu/entries/sidney-hook/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/sidney-hook/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/sidney-hook/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/sidney-hook/#Rel)
-
+ 
 ---
 
 ## 1. 悉尼·胡克对实用主义的采纳：从自然主义形而上学的辩护到对科学方法的承诺

@@ -4,24 +4,7 @@
 
 在 1920 年代初期，德国数学家大卫·希尔伯特（1862-1943）提出了一个关于古典数学基础的新提议，后来被称为希尔伯特计划。该计划要求以公理形式对所有数学进行形式化，同时证明这种数学的公理化是一致的。一致性证明本身应仅使用希尔伯特所称的“有限”方法来进行。有限推理的特殊认识论特征随后为古典数学提供了所需的理由。尽管希尔伯特仅在 1921 年以这种形式提出了他的计划，但其各个方面根植于他自约 1900 年以来的基础工作，当时他首次指出了直接给出分析一致性证明的必要性。该计划的工作在 1920 年代取得了显著进展，得益于逻辑学家如保罗·伯奈斯、威廉·阿克曼、约翰·冯·诺伊曼和雅克·埃尔布兰等人的贡献。它也对库尔特·哥德尔产生了很大影响，哥德尔关于不完备定理的工作是受到希尔伯特计划的启发。哥德尔的工作通常被认为表明希尔伯特计划无法实施。尽管如此，它仍然是数学哲学中一个有影响力的立场，并且从 1930 年代格哈德·根岑的工作开始，所谓的相对化希尔伯特计划的研究对证明论的发展至关重要。
 
-* [1. 希尔伯特计划的历史发展](https://plato.stanford.edu/entries/hilbert-program/#1)
-
-  * [1.1 基础工作的早期阶段](https://plato.stanford.edu/entries/hilbert-program/#1.1)
-  * [1.2 《数学原理》的影响](https://plato.stanford.edu/entries/hilbert-program/#1.2)
-  * [1.3 有限主义和一致性证明的追求](https://plato.stanford.edu/entries/hilbert-program/#1.3)
-  * [1.4 哥德尔不完备性定理的影响](https://plato.stanford.edu/entries/hilbert-program/#1.4)
-* [2. 有限观点](https://plato.stanford.edu/entries/hilbert-program/#2)
-
-  * [2.1 有限对象和有限主义认识论](https://plato.stanford.edu/entries/hilbert-program/#2.1)
-  * [2.2 有限意义命题和有限推理](https://plato.stanford.edu/entries/hilbert-program/#2.2)
-  * [2.3 有限运算和有限证明](https://plato.stanford.edu/entries/hilbert-program/#2.3)
-* [3. 形式主义、还原主义和工具主义](https://plato.stanford.edu/entries/hilbert-program/#3)
-* [4. 希尔伯特计划和哥德尔不完备性定理](https://plato.stanford.edu/entries/hilbert-program/#4)
-* [5. 修订后的希尔伯特计划](https://plato.stanford.edu/entries/hilbert-program/#5)
-* [ 参考文献](https://plato.stanford.edu/entries/hilbert-program/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/hilbert-program/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hilbert-program/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hilbert-program/#Rel)
+ 
 
 ---
 

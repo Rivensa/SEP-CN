@@ -4,13 +4,7 @@
 
 洞是本体论者和认识论者的一个有趣案例研究。对世界的天真、未受教育的描述将洞视为参照物，与普通物质对象平起平坐。（“奶酪上有多少洞，罐子里就有多少饼干。”）我们经常援引洞来解释因果关系，或解释某些事件的发生。（“水漏了是因为桶有个洞。”）因此，有关这种实体存在的初步证据。然而，也可以说提到洞只是一种说法，洞只是纯粹的表象实体，虚构。
 
-* [ 1. 问题](https://plato.stanford.edu/entries/holes/#Prob)
-* [ 2. 理论](https://plato.stanford.edu/entries/holes/#Theo)
-* [ 参考文献](https://plato.stanford.edu/entries/holes/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/holes/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/holes/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/holes/#Rel)
-
+ 
 ---
 
 ## 1. 问题

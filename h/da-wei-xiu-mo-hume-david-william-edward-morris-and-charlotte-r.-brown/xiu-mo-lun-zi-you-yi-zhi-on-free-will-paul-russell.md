@@ -8,21 +8,7 @@
 本文将围绕休谟的兼容主义策略的两种替代解释之间的基本对比进行安排：“古典”解释和“自然主义”解释。根据古典观点，休谟努力阐明道德责任的条件以及它们与自由意志问题的关系，应主要从他对“自由”和“必然性”概念的逻辑观点来理解。与此相反，自然主义方法认为，对休谟关于负责任行为的本质和条件的描述中，道德情感所起的作用是至关重要的。根据这一观点，我们对休谟关于自由意志辩论的核心论证的解释必须参考这些心理学上的主张和关注（这也解释了在这个背景下使用“自然主义”这个术语）。无论是哪种观点，这两种解释之间的对比都对我们对休谟哲学体系的一般理解以及对休谟关于这个主题的观点的当代价值和相关性的充分评估都非常重要。
 
 本文的前两节介绍并对比了古典解释和自然主义解释。休谟关于因果关系和必然性的观点对这两种解释都非常重要。接下来的三节考虑了休谟的贡献的当代意义，特别是自然主义解释的解读。第六和最后一节考察了休谟关于自由意志对宗教问题的相关性。
-
-* [1. 自由与必然性 - 古典解读](https://plato.stanford.edu/entries/hume-freewill/#Liberty-Necessity)
-* [2. 自由意志和道德情感 - 自然主义阅读](https://plato.stanford.edu/entries/hume-freewill/#FreeWillMoralSent)
-* [3. 休谟的自然主义和斯特劳森的“调和计划”](https://plato.stanford.edu/entries/hume-freewill/#HumNatStrRecPro)
-* [4. 美德、运气和“道德体系”](https://plato.stanford.edu/entries/hume-freewill/#LuckAndMorSys)
-* [5. 道德感和道德能力](https://plato.stanford.edu/entries/hume-freewill/#MorSenMorCap)
-* [6. 自由意志和宗教问题](https://plato.stanford.edu/entries/hume-freewill/#FreWilHumRel)
-* [ 参考书目](https://plato.stanford.edu/entries/hume-freewill/#Bib)
-
-  * [大卫·休谟作品的参考资料](https://plato.stanford.edu/entries/hume-freewill/#HumWks)
-  * [ 二次文献](https://plato.stanford.edu/entries/hume-freewill/#SecLit)
-  * [进一步阅读的简要指南](https://plato.stanford.edu/entries/hume-freewill/#BriGuiFurRea)
-* [ 学术工具](https://plato.stanford.edu/entries/hume-freewill/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hume-freewill/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hume-freewill/#Rel)
+ 
 
 ---
 

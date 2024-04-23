@@ -9,24 +9,7 @@
 
 这个条目将分为两个阶段进行，第一个阶段关注哈奇森的元伦理学，包括他的感性主义和道德心理学；第二个阶段关注他的规范伦理学，包括他对功利主义思想的一些预见，以及他的论证道德和自利是一致的。
 
-* [1. 哈奇森的元伦理学](https://plato.stanford.edu/entries/hutcheson/#HutcMeta)
-
-  * [ 1.1 感官](https://plato.stanford.edu/entries/hutcheson/#Sens)
-  * [1.2 感知和评价模式](https://plato.stanford.edu/entries/hutcheson/#SensEvalMode)
-  * [1.3 语义学和道德本体论](https://plato.stanford.edu/entries/hutcheson/#SemaMoraOnto)
-  * [1.4 对理性主义的攻击](https://plato.stanford.edu/entries/hutcheson/#AttaRati)
-* [2. 弗兰西斯·哈奇森的规范伦理学](https://plato.stanford.edu/entries/hutcheson/#HutcNormEthi)
-
-  * [2.1 自利和仁爱](https://plato.stanford.edu/entries/hutcheson/#SelfInteBene)
-  * [2.2 美德和功利主义](https://plato.stanford.edu/entries/hutcheson/#VirtUtil)
-  * [2.3 美德、幸福和享乐主义](https://plato.stanford.edu/entries/hutcheson/#VirtHappHedo)
-* [ 参考文献](https://plato.stanford.edu/entries/hutcheson/#Bib)
-
-  * [ A. 主要文献](https://plato.stanford.edu/entries/hutcheson/#PrimLite)
-  * [ B. 二级文献](https://plato.stanford.edu/entries/hutcheson/#BSecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/hutcheson/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hutcheson/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hutcheson/#Rel)
+ 
 
 ---
 

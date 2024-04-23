@@ -6,23 +6,7 @@
 
 与实践伦理学中的通常情况一样，对该标题下任何特定辩论的充分讨论很快就需要对特定增强干预措施的科学基础有所了解，并对其展开的社会和政治背景有所欣赏。在这些讨论的每个转折点上，也会出现广阔的背景哲学主题供探索。本文不提供对整个领域的详细说明，而是在主题的不同维度之间开辟一条狭窄的山脊线路，指出了侧道但不深入其各自的丛林。相反，它追踪了一条贯穿当前所有关于人类增强伦理学的辩论的核心问题的路径，作为对进一步探索感兴趣者的指南。展望未来，我们的观点是，三组哲学考虑因素对于导航这一文献至关重要：首先，对合法医疗保健限制的概念上的关注，然后是对公平、真实性和人性的道德担忧，最后是对治理和政策的政治问题。
 
-* [ 1. 介绍](https://plato.stanford.edu/entries/enhancement/#Int)
-
-  * [ 1.1 术语](https://plato.stanford.edu/entries/enhancement/#Ter)
-  * [ 1.2 背景](https://plato.stanford.edu/entries/enhancement/#Bac)
-* [2. 人类增强的适当限度是什么？](https://plato.stanford.edu/entries/enhancement/#WhaProLimHeaCar)
-
-  * [2.1 专业领域解释](https://plato.stanford.edu/entries/enhancement/#ProDomAcc)
-  * [2.2 正常功能解释](https://plato.stanford.edu/entries/enhancement/#NorFunAcc)
-  * [2.3 基于疾病的解释](https://plato.stanford.edu/entries/enhancement/#DisBasAcc)
-* [3. 使用增强技术算作作弊吗？](https://plato.stanford.edu/entries/enhancement/#ItCheUseEnh)
-* [4. 增强技术会损害真实性吗？](https://plato.stanford.edu/entries/enhancement/#DoEnhComAut)
-* [5. 增强技术是否会使人类丧失人性？](https://plato.stanford.edu/entries/enhancement/#EnhDeh)
-* [6. 结论：政策观点](https://plato.stanford.edu/entries/enhancement/#ConPolPer)
-* [ 参考文献](https://plato.stanford.edu/entries/enhancement/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/enhancement/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/enhancement/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/enhancement/#Rel)
+ 
 
 ---
 

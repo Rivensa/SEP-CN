@@ -4,23 +4,7 @@
 
 希望的讨论可以在哲学的历史中找到，并贯穿于所有西方哲学传统中，尽管哲学传统上对希望的关注不如对信念和欲望等态度的关注。然而，尽管希望在历史上很少被系统地讨论过，但几乎所有重要的哲学家都承认希望在人类动机、宗教信仰或政治方面发挥着重要作用。历史上，对希望重要性的讨论通常嵌入在特定的哲学项目中。最近对希望的讨论提供了独立的描述其本质及其与其他心理现象（如欲望、意图和乐观主义）的关系。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/hope/#Intr)
-* [2. 希望的哲学历史](https://plato.stanford.edu/entries/hope/#PhilHistHope)
-
-  * [2.1 希望的古代记载](https://plato.stanford.edu/entries/hope/#AnciAccoHope)
-  * [2.2 基督教作家对希望的看法](https://plato.stanford.edu/entries/hope/#ChriAuthHope)
-  * [2.3 17 世纪和 18 世纪哲学中的希望](https://plato.stanford.edu/entries/hope/#Hope17th18thCentPhil)
-  * [ 2.4 康德](https://plato.stanford.edu/entries/hope/#ImmaKant)
-  * [2.5 康德后哲学和存在主义](https://plato.stanford.edu/entries/hope/#PostKantPhilExis)
-  * [ 2.6 实用主义](https://plato.stanford.edu/entries/hope/#Prag)
-* [3. 标准解释和希望的合理性](https://plato.stanford.edu/entries/hope/#StanAccoRatiHope)
-* [4. 心理学文献中对希望的分析](https://plato.stanford.edu/entries/hope/#AnalHopePsycLite)
-* [5. 政治哲学中的希望](https://plato.stanford.edu/entries/hope/#HopePoliPhil)
-* [ 参考文献](https://plato.stanford.edu/entries/hope/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/hope/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hope/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hope/#Rel)
-
+ 
 ---
 
 ## 1. 引言

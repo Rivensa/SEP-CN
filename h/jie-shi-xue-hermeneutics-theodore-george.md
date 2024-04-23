@@ -7,43 +7,7 @@
 
 然而，在哲学中，解释学通常首先表示一个学科领域，其次表示这一领域已经发展的历史运动。作为一个学科领域，并且类比于其他学科领域的命名（如“心灵哲学”或“艺术哲学”），解释学本来可能被命名为“解释的哲学”。因此，解释学将解释本身作为其主题，而不是其他研究的辅助。在哲学上，解释学因此涉及解释的含义——其基本性质、范围和有效性，以及它在人类存在中的位置和影响；它将解释置于关于存在和认识、语言和历史、艺术和审美体验以及实践生活的基本哲学问题的背景下加以研究。
 
-* [1. 解释性经验](https://plato.stanford.edu/entries/hermeneutics/#InteExpe)
-
-  * [1.1 作为教育的理解](https://plato.stanford.edu/entries/hermeneutics/#UndeEduc)
-  * [1.2 反对基础主义](https://plato.stanford.edu/entries/hermeneutics/#AgaiFoun)
-  * [1.3 解释学循环](https://plato.stanford.edu/entries/hermeneutics/#HermCirc)
-* [2. 解释学作为历史运动](https://plato.stanford.edu/entries/hermeneutics/#HermHistMove)
-
-  * [2.1 解释艺术](https://plato.stanford.edu/entries/hermeneutics/#ArtInte)
-  * [2.2 人文科学的辩护](https://plato.stanford.edu/entries/hermeneutics/#JustHumaScie)
-  * [2.3 当代解释学](https://plato.stanford.edu/entries/hermeneutics/#ContHerm)
-* [3. 解释学与存在](https://plato.stanford.edu/entries/hermeneutics/#HermExis)
-
-  * [3.1 事实性解释学](https://plato.stanford.edu/entries/hermeneutics/#HermFact)
-  * [3.2 自我解释的困难](https://plato.stanford.edu/entries/hermeneutics/#DiffSelfInte)
-* [4. 当代解释学](https://plato.stanford.edu/entries/hermeneutics/#ContHerm_1)
-
-  * [4.1 人文主义与艺术](https://plato.stanford.edu/entries/hermeneutics/#HumaArt)
-  * [4.2 传统和偏见](https://plato.stanford.edu/entries/hermeneutics/#TradPrej)
-  * [4.3 规范意义](https://plato.stanford.edu/entries/hermeneutics/#NormImpl)
-  * [ 4.4 语言](https://plato.stanford.edu/entries/hermeneutics/#Lang)
-* [5. 符号、隐喻和叙事](https://plato.stanford.edu/entries/hermeneutics/#SymbMetaNarr)
-* [6. 哲学争议](https://plato.stanford.edu/entries/hermeneutics/#PhilCont)
-
-  * [6.1 解释学和批判理论](https://plato.stanford.edu/entries/hermeneutics/#HermCritTheo)
-  * [6.2 解释学和解构](https://plato.stanford.edu/entries/hermeneutics/#HermDeco)
-* [7. 后现代解释学](https://plato.stanford.edu/entries/hermeneutics/#PostHerm)
-* [8. 更多发展](https://plato.stanford.edu/entries/hermeneutics/#FurtDeve)
-
-  * [8.1 英美哲学中的解释学](https://plato.stanford.edu/entries/hermeneutics/#HermAnglAmerPhil)
-  * [8.2 伦理和政治哲学中的解释学](https://plato.stanford.edu/entries/hermeneutics/#HermEthiPoliPhil)
-  * [8.3 规范性回归解释学](https://plato.stanford.edu/entries/hermeneutics/#RetuNormHerm)
-  * [8.4 解释学和新实在主义](https://plato.stanford.edu/entries/hermeneutics/#HermNewReal)
-* [ 参考书目](https://plato.stanford.edu/entries/hermeneutics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/hermeneutics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hermeneutics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hermeneutics/#Rel)
-
+ 
 ---
 
 ## 1. 解释学经验

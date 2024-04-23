@@ -6,65 +6,7 @@
 
 尤尔根·哈贝马斯是德国、欧洲和美国战后时期的主要社会理论家和哲学家之一，是一位极其富有成效的记者，也是一位备受瞩目的公共知识分子，曾站在德国政治文化自由化的前沿。他经常被贴上第二代法兰克福学派理论家的标签，尽管他与法兰克福学派的关联只是一系列相当复杂的忠诚和影响之一，并且可能会被误解。本条目将从哈贝马斯的背景和早期及过渡作品开始概述，包括他具有影响力的公共领域概念，然后详细讨论他的三个主要哲学项目：他的社会理论、道德话语理论（或“话语伦理学”）和法律与民主话语理论。然后将更简要地讨论哈贝马斯的方法论和哲学框架（理性重建和后形而上学思维）、他的应用政治理论，重点关注国家认同和国际法等问题，最后是他最近关于宗教的研究。
 
-* [ 1. 传记](https://plato.stanford.edu/entries/habermas/#Biog)
-
-  * [1.1 传记简介](https://plato.stanford.edu/entries/habermas/#BiogIntr)
-  * [1.2 公共领域](https://plato.stanford.edu/entries/habermas/#PublSphe)
-  * [1.3 早期作品 (1964–71)](https://plato.stanford.edu/entries/habermas/#EarlWork1964)
-  * [1.4 过渡性作品（1971–1982）](https://plato.stanford.edu/entries/habermas/#TranWork1971)
-* [2. 尤尔根·哈贝马斯 的成熟社会理论：交往行动理论](https://plato.stanford.edu/entries/habermas/#HabeMatuSociTheoTheoCommActi)
-
-  * [2.1 尤尔根·哈贝马斯 的语用意义理论](https://plato.stanford.edu/entries/habermas/#HabePragTheoMean)
-  * [2.2 社会行动理论](https://plato.stanford.edu/entries/habermas/#TheoSociActi)
-
-    * [2.2.1 不可避免性命题](https://plato.stanford.edu/entries/habermas/#UnavThes)
-    * [2.2.2 不可简化性命题](https://plato.stanford.edu/entries/habermas/#IrreThes)
-  * [2.3 尤尔根·哈贝马斯的社会本体论](https://plato.stanford.edu/entries/habermas/#HabeSociOnto)
-
-    * [ 2.3.1 生活世界](https://plato.stanford.edu/entries/habermas/#Life)
-    * [ 2.3.2 系统](https://plato.stanford.edu/entries/habermas/#Syst)
-    * [2.3.3 生活世界与系统的关系](https://plato.stanford.edu/entries/habermas/#RelaLifeSyst)
-  * [2.4 尤尔根·哈贝马斯的批判社会理论](https://plato.stanford.edu/entries/habermas/#HabeCritSociTheo)
-
-    * [ 2.4.1 殖民化](https://plato.stanford.edu/entries/habermas/#Colo)
-    * [ 2.4.2 重新实现](https://plato.stanford.edu/entries/habermas/#Reif)
-    * [ 2.4.3 规范性基础](https://plato.stanford.edu/entries/habermas/#NormGrou)
-* [3. 论述伦理](https://plato.stanford.edu/entries/habermas/#DiscEthi)
-
-  * [ 3.1 论述](https://plato.stanford.edu/entries/habermas/#Disc)
-  * [3.2 履行性自相矛盾和超验实践合理化](https://plato.stanford.edu/entries/habermas/#)
-  * [3.3 论述伦理原则及其合理化](https://plato.stanford.edu/entries/habermas/#PrinDiscEthiTheiJust)
-  * [3.4 (U)和康德的范畴命题](https://plato.stanford.edu/entries/habermas/#UKantCateImpe)
-  * [3.5 尤尔根·哈贝马斯的康德主义回归和道德/伦理区分](https://plato.stanford.edu/entries/habermas/#RetuHabeKantMoraDist)
-  * [3.6 对话式与单向道德](https://plato.stanford.edu/entries/habermas/#DialVsMonoMora)
-  * [3.7 论述伦理学和批判社会理论](https://plato.stanford.edu/entries/habermas/#DiscEthiCritSociTheo)
-  * [ 3.8 其他批评](https://plato.stanford.edu/entries/habermas/#OtheCrit)
-* [4. 法律与民主的话语理论：事实与规范之间](https://plato.stanford.edu/entries/habermas/#DiscTheoLawDemoBetwFactNorm)
-
-  * [4.1 民主的双轨理论](https://plato.stanford.edu/entries/habermas/#TwoTracTheoDemo)
-  * [4.2 共同起源论](https://plato.stanford.edu/entries/habermas/#CoOrigThes)
-  * [4.3 民主原则](https://plato.stanford.edu/entries/habermas/#PrinDemo)
-  * [4.4 权利体系](https://plato.stanford.edu/entries/habermas/#SystRigh)
-  * [4.5 对《事实与规范之间》的反对意见](https://plato.stanford.edu/entries/habermas/#ObjeBetwFactNorm)
-* [5. 方法论和哲学框架](https://plato.stanford.edu/entries/habermas/#MethPhilFram)
-
-  * [5.1 合理重建](https://plato.stanford.edu/entries/habermas/#RatiReco)
-  * [5.2 后形而上思维](https://plato.stanford.edu/entries/habermas/#PostThin)
-* [6. 宪法爱国主义、世界主义和国际法](https://plato.stanford.edu/entries/habermas/#ConsPatrCosmInteLaw)
-
-  * [6.1 宪法爱国主义](https://plato.stanford.edu/entries/habermas/#ConsPatr)
-  * [6.2 世界主义与国际法的宪法化](https://plato.stanford.edu/entries/habermas/#CosmConsInteLaw)
-* [7. 宗教与后世俗化](https://plato.stanford.edu/entries/habermas/#ReliPost)
-
-  * [7.1 耶路撒冷与雅典：宗教信仰与哲学理性](https://plato.stanford.edu/entries/habermas/#JeruAtheReliFaitPhilReas)
-  * [7.2 后世俗化的辩论民主](https://plato.stanford.edu/entries/habermas/#PostDeliDemo)
-* [ 参考书目](https://plato.stanford.edu/entries/habermas/#Bib)
-
-  * [ 尤尔根·哈贝马斯的著作](https://plato.stanford.edu/entries/habermas/#WorkHabe)
-  * [ 二手文献](https://plato.stanford.edu/entries/habermas/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/habermas/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/habermas/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/habermas/#Rel)
+ 
 
 ---
 

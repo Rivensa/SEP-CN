@@ -3,34 +3,7 @@
 _首次发表于2010年2月4日星期四；实质性修订于2024年4月3日星期三_
 
 马丁·海德格尔 反对现代哲学“美学”传统，因为他支持真正的“艺术作品”，他认为美学方法对艺术的处理是模糊的。 海德格尔对美学的批判和他对艺术的倡导因此形成了一个互补的整体。第 1 节通过简要概述 马丁·海德格尔 的哲学立场反对美学，支持艺术，为读者定位。第 2 节解释 马丁·海德格尔 对美学的哲学批判，展示他为什么认为美学源自现代“主体主义”，并导致晚现代的“框架化”，海德格尔试图从内部超越这些历史世界观，部分地通过他对艺术的现象学解释。第 3 节澄清了这种试图从内部超越现代美学的努力，重点放在 马丁·海德格尔 试图通过文森特·梵高的一个特定（“存在”的）艺术作品，来建立一个从艺术的本体真理到艺术的本体真理的现象学桥梁。正如我们将看到的，海德格尔试图展示艺术如何帮助我们进入一个真正有意义的后现代时代。第 4 节通过解释这种对 马丁·海德格尔 项目的理解，使我们能够解决围绕他对梵高解释的长期争议。
-
-* [1. 介绍“ 马丁·海德格尔 的美学”：超越矛盾修辞](https://plato.stanford.edu/entries/heidegger-aesthetics/#IntHeiAesBeyOxy)
-  * [1.1 马丁·海德格尔 对真正艺术作品的理解](https://plato.stanford.edu/entries/heidegger-aesthetics/#HeiUndTruWorArt)
-* [2. 马丁·海德格尔 对美学的哲学批判：引言](https://plato.stanford.edu/entries/heidegger-aesthetics/#HeiAgaAesIntHeiPhiCriAes)
-  * [2.1 海德格尔如何理解美学](https://plato.stanford.edu/entries/heidegger-aesthetics/#HowHeiUndAes)
-  * [2.2 海德格尔对美学方法的批判](https://plato.stanford.edu/entries/heidegger-aesthetics/#HeiCriAesApp)
-  * [2.3 主观主义的症状](https://plato.stanford.edu/entries/heidegger-aesthetics/#SymSub)
-  * [2.4 美学如何反映和强化主观主义](https://plato.stanford.edu/entries/heidegger-aesthetics/#HowAesRefReiSub)
-  * [2.5 从现象学角度削弱主客体二分法](https://plato.stanford.edu/entries/heidegger-aesthetics/#UndSubDicPhe)
-  * [2.6 现象学反对美学主观主义](https://plato.stanford.edu/entries/heidegger-aesthetics/#PheAgaAesSub)
-  * [2.7 从现代主观主义到美学中的后现代框架](https://plato.stanford.edu/entries/heidegger-aesthetics/#ModSubLatModEnfAes)
-  * [2.8 结论与过渡：从黑格尔的艺术终结到 马丁·海德格尔 的另一种开始](https://plato.stanford.edu/entries/heidegger-aesthetics/#ConTraHegEndArtHeiOthBeg)
-* [3. 马丁·海德格尔的艺术观，导论：海德格尔对艺术理解的三大支柱](https://plato.stanford.edu/entries/heidegger-aesthetics/#HeiForArtIntThrPilHeiUndArt)
-  * [3.1 回到未来：海德格尔论艺术本质](https://plato.stanford.edu/entries/heidegger-aesthetics/#BacFutHeiEssArt)
-  * [3.2 艺术的现象学方法](https://plato.stanford.edu/entries/heidegger-aesthetics/#PheAppArt)
-  * [3.3 马丁·海德格尔 引入梵高来解决的现象学困难](https://plato.stanford.edu/entries/heidegger-aesthetics/#PheDifHeiIntVanGogAdd)
-  * [3.4 不同的看待方式：从无-无的无到地球和世界的基本冲突](https://plato.stanford.edu/entries/heidegger-aesthetics/#SeeDifNotIngNotEssStrEarWor)
-  * [3.5 从梵高绘画的现象学到艺术的本体论](https://plato.stanford.edu/entries/heidegger-aesthetics/#PheVanGogPaiOntArt)
-  * [3.6 代表虚无：从内部超越美学主观主义](https://plato.stanford.edu/entries/heidegger-aesthetics/#RepNotTraAesSubWit)
-  * [3.7 马丁·海德格尔 的后现代艺术理解](https://plato.stanford.edu/entries/heidegger-aesthetics/#HeiPosModUndArt)
-* [4. 结论：解决围绕海德格尔对梵高解读的争议](https://plato.stanford.edu/entries/heidegger-aesthetics/#ConResConSurHeiIntVanGog)
-* [参考文献](https://plato.stanford.edu/entries/heidegger-aesthetics/#Bib)
-  * [主要来源](https://plato.stanford.edu/entries/heidegger-aesthetics/#PriSou)
-  * [次要来源](https://plato.stanford.edu/entries/heidegger-aesthetics/#SecSou)
-* [Academic Tools](https://plato.stanford.edu/entries/heidegger-aesthetics/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/heidegger-aesthetics/#Oth)
-* [Related Entries](https://plato.stanford.edu/entries/heidegger-aesthetics/#Rel)
-
+ 
 ***
 
 ## 1. 《马丁·海德格尔的美学》简介：超越矛盾修辞

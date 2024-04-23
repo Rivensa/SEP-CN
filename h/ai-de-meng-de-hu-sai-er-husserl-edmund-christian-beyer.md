@@ -4,23 +4,7 @@ _首次发表于2003年2月28日星期五；实质性修订于2022年10月17日�
 
 埃德蒙德·胡塞尔是现象学的主要创始人，因此是 20 世纪最有影响力的哲学家之一。他对几乎所有哲学领域都做出了重要贡献，并预见了其邻近学科（如语言学、社会学和认知心理学）的核心思想。
 
-* [1. 生平与工作](https://plato.stanford.edu/entries/husserl/#LifWor)
-* [2. 纯粹逻辑、意义、直观满足和意向性](https://plato.stanford.edu/entries/husserl/#PurLogMeaIntFulInt)
-* [3. 指示性和命题内容](https://plato.stanford.edu/entries/husserl/#IndProCon)
-* [4. 独特性、意识和视界-倾向性](https://plato.stanford.edu/entries/husserl/#SinHorInt)
-* [5. 现象学的割离](https://plato.stanford.edu/entries/husserl/#PheEpo)
-* [6. 埃德蒙德·胡塞尔，感知的 noema，hýle，时间意识和现象学还原](https://plato.stanford.edu/entries/husserl/#EpoPerNoeHylTimConPheRed)
-* [7. 被动与主动](https://plato.stanford.edu/entries/husserl/#passivity)
-* [8. 交流，社会性，人格和个人价值观](https://plato.stanford.edu/entries/husserl/#communication)
-* [9. 共情、互为主体性和生活世界；伦理学和价值理论](https://plato.stanford.edu/entries/husserl/#EmpIntLif)
-* [10. 客观性的互为主体性构成和“超验唯心主义”的论证](https://plato.stanford.edu/entries/husserl/#IntConObj)
-* [参考文献](https://plato.stanford.edu/entries/husserl/#Bib)
-  * [主要文献](https://plato.stanford.edu/entries/husserl/#PriLit)
-  * [次要文献](https://plato.stanford.edu/entries/husserl/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/husserl/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/husserl/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/husserl/#Rel)
-
+ 
 ***
 
 ## 1. 生平与工作

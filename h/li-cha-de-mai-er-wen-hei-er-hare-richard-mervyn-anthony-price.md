@@ -8,22 +8,7 @@ _首次发表于2014年6月4日星期三；实质性修订于2019年5月10日星
 
 然而，他的想象力也可以不那么谦虚：一群道德哲学家被困在充满烟雾的地下室里；他们互相交谈，拒绝采纳他独自发现的通往户外的出路。他的抱负是以逻辑一致的方式将亚里士多德、康德和密尔的元素结合起来，解决伦理学的基本问题（尽管还有未完成的工作），他通常相信自己已经做到了。在他的职业生涯中的大部分时间里，他的“规范主义”在课程中占据重要地位，至少在英国是如此。他的失望在于未能说服他人（偶尔的“我们规范主义者”总是指向不确定），并且没有留下门徒；他曾告诉约翰·卢卡斯，这使他的一生成为失败。然而，他留下了一代又一代感激的学生，他们感激的不是一种教条，而是一种纪律；后人虽然不太可能认可他理论的逻辑有效性，但会因其统一表面上的对立，自由与理性、传统与理性主义、折衷主义与严谨性而钦佩他。
 
-* [1. 生平与人物](https://plato.stanford.edu/entries/hare/#LifMan)
-* [2. 道德语言](https://plato.stanford.edu/entries/hare/#LanMor)
-* [3. 指令的逻辑](https://plato.stanford.edu/entries/hare/#LogImp)
-* [4. 原则决策](https://plato.stanford.edu/entries/hare/#DecPri)
-* [5. 关注偏好](https://plato.stanford.edu/entries/hare/#AttPre)
-* [6. 可能的人](https://plato.stanford.edu/entries/hare/#PosPeo)
-* [7. 道德思维的层次](https://plato.stanford.edu/entries/hare/#LevMorThi)
-* [8. 宗教和元伦理学中的实证主义痕迹](https://plato.stanford.edu/entries/hare/#TraPosRelMet)
-* [9. 后记](https://plato.stanford.edu/entries/hare/#Aft)
-  * 补充文件：黑尔的“一篇唯一主义论文”
-* [参考书目](https://plato.stanford.edu/entries/hare/#Bib)
-  * [主要文献](https://plato.stanford.edu/entries/hare/#PriLit)
-  * [次要和其他文献](https://plato.stanford.edu/entries/hare/#SecOthLit)
-* [学术工具](https://plato.stanford.edu/entries/hare/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hare/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/hare/#Rel)
+ 
 
 ***
 

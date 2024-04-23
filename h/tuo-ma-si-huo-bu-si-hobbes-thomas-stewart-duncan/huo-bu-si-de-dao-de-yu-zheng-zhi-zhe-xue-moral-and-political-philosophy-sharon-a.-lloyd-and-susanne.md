@@ -3,26 +3,7 @@
 *首次发表于2002年2月12日星期二；实质性修订于2022年9月12日星期一*
 
 17 世纪英国哲学家托马斯·霍布斯如今被广泛认为是少数真正伟大的政治哲学家之一，他的巨著《利维坦》在重要性上与柏拉图、亚里士多德、洛克、卢梭、康德和罗尔斯的政治著作不相上下。霍布斯以其早期和复杂的发展而闻名，这种发展被称为“社会契约理论”，即通过诉诸于适当情境下的理性、自由和平等人之间可能达成的协议来证明政治原则或安排的方法。他因使用社会契约方法得出一个惊人的结论而臭名昭著，即我们应该服从一个绝对的——不可分割和无限制的——主权权力。尽管他的方法创新对政治哲学后续工作产生了深远的建设性影响，但他的实质性结论大多被用作发展更易接受的哲学立场的铺垫。霍布斯的道德哲学影响力较小，部分原因是该理论过于模糊，无法获得对其内容的普遍共识。大多数学者认为霍布斯肯定了某种形式的个人相对主义或主观主义；但认为霍布斯主张神命令理论、德性伦理学、规则利己主义或一种投射主义的观点也在霍布斯的文本和学者中得到支持。由于霍布斯认为“自然法的真正教义即是真正的道德哲学”，对霍布斯道德哲学的解释差异可以追溯到对霍布斯“自然法”的地位和运作的不同理解，这些法则将在下文中讨论。曾经占主导地位的观点认为霍布斯主张心理利己主义作为其道德理论的基础，目前被广泛拒绝，迄今为止还没有对霍布斯的道德心理学进行全面系统的研究。
-
-* [1. 主要政治著作](https://plato.stanford.edu/entries/hobbes-moral/#MajPolWri)
-* [2. 哲学项目](https://plato.stanford.edu/entries/hobbes-moral/#PhiPro)
-* [3. 自然状态](https://plato.stanford.edu/entries/hobbes-moral/#StaNat)
-* [4. 自然状态是战争状态](https://plato.stanford.edu/entries/hobbes-moral/#StaNatStaWar)
-* [5. 关于自然状态的进一步问题](https://plato.stanford.edu/entries/hobbes-moral/#FurQueAboStaNat)
-* [6. 自然法则](https://plato.stanford.edu/entries/hobbes-moral/#LawNat)
-* [7. 建立主权权威](https://plato.stanford.edu/entries/hobbes-moral/#EstSovAut)
-* [ 8. 绝对主义](https://plato.stanford.edu/entries/hobbes-moral/#Abs)
-* [9. 责任与政治义务的界限](https://plato.stanford.edu/entries/hobbes-moral/#LimPolObl)
-* [10. 宗教与社会不稳定](https://plato.stanford.edu/entries/hobbes-moral/#RelSocIns)
-* [11. 托马斯·霍布斯论性别和种族](https://plato.stanford.edu/entries/hobbes-moral/#HobGenRac)
-* [ 参考文献](https://plato.stanford.edu/entries/hobbes-moral/#Bib)
-
-  * [ 期刊](https://plato.stanford.edu/entries/hobbes-moral/#Jou)
-  * [ 文集](https://plato.stanford.edu/entries/hobbes-moral/#Col)
-  * [ 书籍和文章](https://plato.stanford.edu/entries/hobbes-moral/#BooArt)
-* [ 学术工具](https://plato.stanford.edu/entries/hobbes-moral/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hobbes-moral/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hobbes-moral/#Rel)
+ 
 
 ---
 

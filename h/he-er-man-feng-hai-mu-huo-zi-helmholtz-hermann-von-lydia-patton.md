@@ -4,21 +4,7 @@ _首次发表于2008年2月18日星期一；实质性修订于2023年5月27日�
 
 赫尔曼·冯·亥姆霍兹（1821-1894 年）参与了 19 世纪物理学和科学哲学中两个最重要的发展：证明欧几里得几何不是唯一可能的可视化和物理空间的描述，以及从基于粒子间距离作用的物理学转向场论。亥姆霍兹取得了惊人的科学成果，包括能量守恒定律的制定，流体动力学的涡旋方程，热力学中自由能的概念，以及眼底镜的发明。他对科学认识论的持续兴趣确保了他在哲学上的持久重要性。
 
-* [1. 传记和选择性时间表](https://plato.stanford.edu/entries/hermann-helmholtz/#BiogNoteSeleTime)
-* [2. 知觉理论](https://plato.stanford.edu/entries/hermann-helmholtz/#TheoPerc)
-* [3. 物理空间的几何和拓扑](https://plato.stanford.edu/entries/hermann-helmholtz/#GeomPhysSpacTopo)
-* [4. 守恒定律、电动力学和声学](https://plato.stanford.edu/entries/hermann-helmholtz/#ConsLawsElecAcou)
-  * [4.1 能量守恒：1842–1854](https://plato.stanford.edu/entries/hermann-helmholtz/#ConsEner1842)
-  * [4.2 声学、电动力学和流体动力学：1855–1881](https://plato.stanford.edu/entries/hermann-helmholtz/#AcouElecFluiDyna1855)
-* [5. 热力学、最小作用原理和自由能：1881–1887](https://plato.stanford.edu/entries/hermann-helmholtz/#TherLeasActiPrinFreeEner1881)
-* [6. 柏林物理学派：1878–1894](https://plato.stanford.edu/entries/hermann-helmholtz/#BerlSchoPhys1878)
-* [7. 认识论](https://plato.stanford.edu/entries/hermann-helmholtz/#Epis)
-* [参考书目](https://plato.stanford.edu/entries/hermann-helmholtz/#Bib)
-  * [赫尔曼·冯·亥姆霍兹的主要文献](https://plato.stanford.edu/entries/hermann-helmholtz/#PrimLiteHelm)
-  * [二手文献](https://plato.stanford.edu/entries/hermann-helmholtz/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/hermann-helmholtz/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hermann-helmholtz/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/hermann-helmholtz/#Rel)
+ 
 
 ***
 

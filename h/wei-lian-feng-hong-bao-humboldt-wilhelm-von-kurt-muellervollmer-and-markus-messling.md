@@ -7,28 +7,7 @@
 
 对于认真关注洪堡观点的哲学家们，如恩斯特·卡西勒（1923-1929）、马丁·海德格尔（1927 年，1959 年）以及最近的布鲁诺·利布鲁克斯（1965 年）、汉斯-格奥尔格·加达默尔（1960 年，1965 年，1972 年）和尤尔根·哈贝马斯（1985 年，1988 年，1991 年），也存在着部分借鉴的过程。直到最近几十年，洪堡的哲学和语言著作才成为独立关注的焦点。不同国籍的语言学家、哲学家、历史学家和文学学者都通过将洪堡的哲学和语言思想置于不同的背景中来研究它们。
 
-* [1. 威廉·冯·洪堡的生平](https://plato.stanford.edu/entries/wilhelm-humboldt/#HumbLife)
-
-  * [1.1 教育和早期著作](https://plato.stanford.edu/entries/wilhelm-humboldt/#EducEarlWrit)
-  * [1.2 在耶拿的著作和研究](https://plato.stanford.edu/entries/wilhelm-humboldt/#WritStudJena)
-  * [1.3 在巴黎的语言转向](https://plato.stanford.edu/entries/wilhelm-humboldt/#LingTurnPari)
-  * [1.4 罗马：古代世界和新世界的语言](https://plato.stanford.edu/entries/wilhelm-humboldt/#RomeWorlAntiLangNewWorl)
-  * [1.5 返回德国：公共教育和政治](https://plato.stanford.edu/entries/wilhelm-humboldt/#RetuGermPublEducPoli)
-  * [1.6 后期著作：普遍语言学和比较语言学](https://plato.stanford.edu/entries/wilhelm-humboldt/#LateWritGeneCompLing)
-* [2. 检视威廉·冯·洪堡的著作：轮廓、范围和类别](https://plato.stanford.edu/entries/wilhelm-humboldt/#ExamHumbWritContScopCate)
-* [3. 威廉·冯·洪堡对人类学、政治哲学和美学的方法](https://plato.stanford.edu/entries/wilhelm-humboldt/#HumbApprAnthPoliAest)
-* [4. 威廉·冯·洪堡对语言理解的一些要点](https://plato.stanford.edu/entries/wilhelm-humboldt/#SomeEsseHumbUndeLang)
-* [5. 超验符号学：颠覆传统客观符号概念](https://plato.stanford.edu/entries/wilhelm-humboldt/#TranSemiOverTradObjeConcSign)
-* [6. 语言产生的人类学方面和洪堡式的沟通模式；奠定现代结构语言学的基础](https://plato.stanford.edu/entries/wilhelm-humboldt/#AnthSideLangProdHumbModeCommLayiBasiModeStruLing)
-* [7. 洪堡式和笛卡尔式语言学](https://plato.stanford.edu/entries/wilhelm-humboldt/#HumbCartLing)
-* [ 参考文献](https://plato.stanford.edu/entries/wilhelm-humboldt/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/wilhelm-humboldt/#Work)
-  * [ 次要文献](https://plato.stanford.edu/entries/wilhelm-humboldt/#Lite)
-* [ 学术工具](https://plato.stanford.edu/entries/wilhelm-humboldt/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/wilhelm-humboldt/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/wilhelm-humboldt/#Rel)
-
+ 
 ---
 
 ## 1. 威廉·冯·洪堡的生活

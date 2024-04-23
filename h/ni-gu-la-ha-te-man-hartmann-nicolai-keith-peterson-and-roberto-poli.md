@@ -4,28 +4,7 @@
 
 尼古拉·哈特曼（1882-1950）是 20 世纪上半叶德国最重要的哲学家之一。最初是马尔堡新康德主义的学生，哈特曼脱离了这一传统，引领了 20 世纪初本体论的复兴。哈特曼在很多方面都是一位经典哲学家，撰写了篇幅很长的著作，审视和发展了哲学的所有主要领域，包括历史哲学、认识论、伦理学和美学，尽管他主要关注本体论。他曾在马尔堡、科隆、柏林和哥廷根担任教职，二战后担任德国哲学协会主席，并通过他持续的讨论小组对一代德国哲学家产生了重大影响。哈特曼鼓励学生通过自己思考问题来避免盲从。在经历了长期被忽视的时期后，过去二十年来，他的作品正受到国际学者团体的更多关注。或许在 20 世纪初独一无二的是，哈特曼发展了一种多元主义的人文实在论，试图兼顾科学和人文学科。哈特曼可以被视为 20 世纪第一位真正的本体论多元主义者。
 
-* [ 1. 传略](https://plato.stanford.edu/entries/nicolai-hartmann/#BiogSket)
-* [ 2. 作品](https://plato.stanford.edu/entries/nicolai-hartmann/#Work)
-* [3. 思维与存在之间的关系是什么？](https://plato.stanford.edu/entries/nicolai-hartmann/#WhatRelaBetwThinBein)
-* [4. 什么是有价值的？人类在世界中的地位是什么？](https://plato.stanford.edu/entries/nicolai-hartmann/#WhatValuWhatPlacHumaWorl)
-
-  * [ 4.1 伦理学](https://plato.stanford.edu/entries/nicolai-hartmann/#Ethi)
-  * [ 4.2 美学](https://plato.stanford.edu/entries/nicolai-hartmann/#Aest)
-  * [ 4.3 人类学](https://plato.stanford.edu/entries/nicolai-hartmann/#Anth)
-* [5. 现实世界的结构是什么？](https://plato.stanford.edu/entries/nicolai-hartmann/#WhatStruRealWorl)
-
-  * [5.1 基本范畴](https://plato.stanford.edu/entries/nicolai-hartmann/#FundCate)
-  * [ 5.2 层次](https://plato.stanford.edu/entries/nicolai-hartmann/#Stra)
-  * [ 5.3 特殊类别](https://plato.stanford.edu/entries/nicolai-hartmann/#SpecCate)
-* [6. 结论：哲学是什么？](https://plato.stanford.edu/entries/nicolai-hartmann/#ConcWhatPhil)
-* [ 参考书目](https://plato.stanford.edu/entries/nicolai-hartmann/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/nicolai-hartmann/#PrimSour)
-  * [二手资料（精选）](https://plato.stanford.edu/entries/nicolai-hartmann/#SecoSourSele)
-* [ 学术工具](https://plato.stanford.edu/entries/nicolai-hartmann/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/nicolai-hartmann/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/nicolai-hartmann/#Rel)
-
+ 
 ---
 
 ## 1. 传记草图

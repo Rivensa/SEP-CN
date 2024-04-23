@@ -10,38 +10,7 @@
 
 西方思想的各种发展既对传统体系的连贯性产生了怀疑，也对个体主张的充分性条件的实现可能性产生了怀疑。其中最重要的发展是启蒙运动对目的论形而上学的拒绝、历史主义对理解人类行为的文化重要性的强调以及达尔文主义将历史引入生物种类的介绍。本文旨在帮助澄清关于人性的主张的充分性条件、这些条件的可满足性以及与具有相关条件的主张的真实性似乎重要的原因。它分为五个步骤进行。第 1 节详细解释了传统体系，特别关注亚里士多德主题的重要性以及从科学和参与者视角提出人性主张的区别。第 2 节解释了为什么进化生物学对这个体系的连贯性和其个体组成主张的真实性都提出了严重问题。第 3 节和第 4 节则着重讨论在面对进化生物学的挑战时如何确保科学对人性的概念。本文以讨论从参与者视角发展的人性观的解释作为结论，特别是那些尽管面临进化挑战，但被认为具有规范后果的解释。
 
-* [1. “人类”，口号和传统体系](https://plato.stanford.edu/entries/human-nature/#HumaSlogTradPack)
-
-  * [ 1.1 “人类”](https://plato.stanford.edu/entries/human-nature/#Huma)
-  * [1.2 解包传统包装](https://plato.stanford.edu/entries/human-nature/#UnpaTradPack)
-  * [ 1.3 本质主义](https://plato.stanford.edu/entries/human-nature/#Esse)
-  * [1.4 关于传统口号的地位](https://plato.stanford.edu/entries/human-nature/#StatTradSlog)
-* [2. 人性进化单元 Homo sapiens 及其标本的性质](https://plato.stanford.edu/entries/human-nature/#NatuEvolUnitHomoSapiSpec)
-
-  * [2.1 物种分类单元的性质](https://plato.stanford.edu/entries/human-nature/#NatuSpecTaxo)
-  * [2.2 物种标本作为物种标本的性质](https://plato.stanford.edu/entries/human-nature/#NatuSpecSpecSpecSpec)
-  * [2.3 响应对分类本质的进化裁决](https://plato.stanford.edu/entries/human-nature/#RespEvolVerdClasEsse)
-* [3. 人性特征](https://plato.stanford.edu/entries/human-nature/#CharHumaProp)
-
-  * [3.1 优先特性](https://plato.stanford.edu/entries/human-nature/#PrivProp)
-  * [3.2 统计正态性或强健因果关系](https://plato.stanford.edu/entries/human-nature/#StatNormRobuCaus)
-* [4. 解释性人性特征](https://plato.stanford.edu/entries/human-nature/#ExplHumaProp)
-
-  * [4.1 基因为基础的心理适应？](https://plato.stanford.edu/entries/human-nature/#GeneBasePsycAdap)
-  * [4.2 放弃内在性](https://plato.stanford.edu/entries/human-nature/#AbanIntr)
-  * [4.3 次生离巢性的改变者](https://plato.stanford.edu/entries/human-nature/#SecoAltrGameChan)
-* [5. 人性，参与者的视角和道德](https://plato.stanford.edu/entries/human-nature/#HumaNatuPartPersMora)
-
-  * [5.1. 人性从参与者的角度来看](https://plato.stanford.edu/entries/human-nature/#HumaNatuPartPers)
-  * [5.2. 人性和人的工作](https://plato.stanford.edu/entries/human-nature/#HumaNatuHumaErgo)
-
-    * [5.2.1. 绕过达尔文的挑战？](https://plato.stanford.edu/entries/human-nature/#SideDarwChal)
-    * [5.2.2. 人性的繁荣](https://plato.stanford.edu/entries/human-nature/#HumaFlou)
-  * [5.3. 原因作为唯一的结构特性](https://plato.stanford.edu/entries/human-nature/#ReasUniqStruProp)
-* [ 参考文献](https://plato.stanford.edu/entries/human-nature/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/human-nature/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/human-nature/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/human-nature/#Rel)
+ 
 
 ---
 

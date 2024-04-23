@@ -4,41 +4,7 @@
 
 马丁·海德格尔（1889-1976）是一位德国哲学家，他的作品可能最容易与现象学和存在主义联系起来，尽管他的思想应被谨慎地和有条件地视为这些哲学运动的一部分。他的思想对当代欧洲哲学的发展产生了重要影响。它们也远远超出了哲学范畴，在建筑理论（参见 Sharr 2007）、文学批评（参见 Ziarek 1989）、神学（参见 Caputo 1993）、心理治疗（参见 Binswanger 1943/1964，Guignon 1993）和认知科学（参见 Dreyfus 1992, 2008；Wheeler 2005；Kiverstein 和 Wheeler 2012）等领域产生了影响。
 
-* [ 1. 传略](https://plato.stanford.edu/entries/heidegger/#BioSke)
-* [2. 存在与时间](https://plato.stanford.edu/entries/heidegger/#BeiTim)
-
-  * [2.1 文本及其前史](https://plato.stanford.edu/entries/heidegger/#TexPreHis)
-  * [2.2 第一部分](https://plato.stanford.edu/entries/heidegger/#Div1)
-
-    * [ 2.2.1 问题](https://plato.stanford.edu/entries/heidegger/#Que)
-    * [2.2.2 相遇的方式](https://plato.stanford.edu/entries/heidegger/#ModEnc)
-    * [2.2.3 生活在世界中](https://plato.stanford.edu/entries/heidegger/#BeiWor)
-    * [2.2.4 对笛卡尔主义的批判](https://plato.stanford.edu/entries/heidegger/#CriCar)
-    * [ 2.2.5 空间性](https://plato.stanford.edu/entries/heidegger/#Spa)
-    * [ 2.2.6 与存在](https://plato.stanford.edu/entries/heidegger/#Bei)
-    * [ 2.2.7 关怀](https://plato.stanford.edu/entries/heidegger/#Car)
-  * [2.3 部分 2](https://plato.stanford.edu/entries/heidegger/#Div2)
-
-    * [ 2.3.1 死亡](https://plato.stanford.edu/entries/heidegger/#Dea)
-    * [2.3.2 预期决心](https://plato.stanford.edu/entries/heidegger/#AntRes)
-    * [2.3.3 时间性和时间化](https://plato.stanford.edu/entries/heidegger/#TemTem)
-    * [2.3.4 历史性和历史化](https://plato.stanford.edu/entries/heidegger/#HisHis)
-  * [2.4 在《存在与时间》中的现实主义和相对主义](https://plato.stanford.edu/entries/heidegger/#ReaRelBeiTim)
-* [3. 马丁·海德格尔 后期哲学](https://plato.stanford.edu/entries/heidegger/#Lat)
-
-  * [3.1 转向与对《哲学的贡献》](https://plato.stanford.edu/entries/heidegger/#TurCon)
-  * [3.2 占有、居住和四重结构](https://plato.stanford.edu/entries/heidegger/#AppDweFou)
-  * [ 3.3 技术](https://plato.stanford.edu/entries/heidegger/#Tec)
-  * [ 3.4 保护](https://plato.stanford.edu/entries/heidegger/#Saf)
-  * [3.5 只有上帝能拯救我们](https://plato.stanford.edu/entries/heidegger/#OnlGodSavUs)
-* [ 参考文献](https://plato.stanford.edu/entries/heidegger/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/heidegger/#PriLit)
-  * [ 其他引用的词语](https://plato.stanford.edu/entries/heidegger/#OthCitWor)
-  * [ 额外阅读](https://plato.stanford.edu/entries/heidegger/#AddRea)
-* [ 学术工具](https://plato.stanford.edu/entries/heidegger/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/heidegger/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/heidegger/#Rel)
+ 
 
 ---
 

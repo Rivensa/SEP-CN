@@ -8,31 +8,7 @@
 
 本文集中讨论了哈耶克工作中的这一主题，并提出一个问题：为什么这位学者在 20 世纪做出了比任何人都更多的贡献，以促进我们对价格信号和自发秩序的理解，却坚持声称“社会正义是一个幻觉”（Hayek 1978b, 57）？
 
-* [1. 价格信号和自发秩序](https://plato.stanford.edu/entries/friedrich-hayek/#PricSignSponOrde)
-
-  * [1.1 秩序可以是未经设计的](https://plato.stanford.edu/entries/friedrich-hayek/#OrdeUnde)
-  * [1.1 秩序可以是不可预测的](https://plato.stanford.edu/entries/friedrich-hayek/#OrdeUnpr)
-  * [1.3 秩序实质上可以体现出分散的信息](https://plato.stanford.edu/entries/friedrich-hayek/#OrdeEmboEsseDeceInfo)
-  * [1.4 社区往往是自发秩序](https://plato.stanford.edu/entries/friedrich-hayek/#CommTendSponOrde)
-* [ 2. 进步](https://plato.stanford.edu/entries/friedrich-hayek/#Prog)
-* [3. 计划订单是次等的](https://plato.stanford.edu/entries/friedrich-hayek/#PlanOrdeInfe)
-
-  * [3.1 货车运输，以物易物，社区，尊重](https://plato.stanford.edu/entries/friedrich-hayek/#TrucBartCommEste)
-  * [3.2 法律作为生态位](https://plato.stanford.edu/entries/friedrich-hayek/#LawEcolNich)
-* [4. 作为公正性的正义，政治作为无拘无束的企业家精神](https://plato.stanford.edu/entries/friedrich-hayek/#JustImpaPoliEntrWithRest)
-* [5. 弗里德里希·哈耶克反对正义](https://plato.stanford.edu/entries/friedrich-hayek/#HayeAgaiJust)
-
-  * [5.1 输入、输出和经济化的含义](https://plato.stanford.edu/entries/friedrich-hayek/#InpuOutpWhatItMeanEcon)
-  * [5.2 分配权利](https://plato.stanford.edu/entries/friedrich-hayek/#RighDist)
-  * [ 5.3 公平做法](https://plato.stanford.edu/entries/friedrich-hayek/#FairPrac)
-  * [ 5.4 公正价格](https://plato.stanford.edu/entries/friedrich-hayek/#JustPric)
-* [ 参考文献](https://plato.stanford.edu/entries/friedrich-hayek/#Bib)
-
-  * [主要文献：弗里德里希·哈耶克的著作](https://plato.stanford.edu/entries/friedrich-hayek/#PrimLiteWorkHaye)
-  * [ 二手文献](https://plato.stanford.edu/entries/friedrich-hayek/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/friedrich-hayek/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/friedrich-hayek/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/friedrich-hayek/#Rel)
+ 
 
 ---
 

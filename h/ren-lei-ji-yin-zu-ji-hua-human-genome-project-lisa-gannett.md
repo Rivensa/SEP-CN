@@ -6,22 +6,7 @@
 
 本文首先简要介绍了人类基因组计划的历史。随后介绍了 HGP 之后发生的各种科学发展；这些发展被称为“后基因组学”，以区别于与人类和其他生物基因组的测序和编码相关的“基因组学”活动。文章还讨论了一些在项目规划阶段和实施过程中引起哲学家关注的概念、社会和伦理问题，这些问题至今仍然重要。HGP 的一个创新之处是其科学领导层决定拨款研究该项目的伦理、法律和社会影响（ELSI）。如今，距离该决定已经过去二十五年多，我们可以对 ELSI 模型及其在遗传学和基因组学/后基因组学领域的持续生物医学研究的相关性进行反思。
 
-* [1. 人类基因组计划：从基因组学到后基因组学](https://plato.stanford.edu/entries/human-genome/#HumaGenoProjGenoPost)
-
-  * [1.1 先绘制基因图谱，后进行测序](https://plato.stanford.edu/entries/human-genome/#MapFirsSequLate)
-  * [1.2 人类基因组计划的竞赛](https://plato.stanford.edu/entries/human-genome/#RaceGeno)
-  * [ 1.3 后续影响](https://plato.stanford.edu/entries/human-genome/#Afte)
-* [2. 哲学与人类基因组计划](https://plato.stanford.edu/entries/human-genome/#PhilHumaGenoProj)
-
-  * [2.1 基因化、基因还原主义和基因决定论](https://plato.stanford.edu/entries/human-genome/#GeneGeneReduGeneDete)
-  * [2.2 基因检测、基因歧视和基因隐私](https://plato.stanford.edu/entries/human-genome/#GeneTestGeneDiscGenePriv)
-  * [2.3 身份和差异： &quot;正常&quot; 人类基因组](https://plato.stanford.edu/entries/human-genome/#IdenDiffNormHumaGeno)
-  * [2.4 身份和差异：种族、民族和基因组](https://plato.stanford.edu/entries/human-genome/#IdenDiffRaceEthnGeno)
-  * [2.5 ELSI 及其遗产](https://plato.stanford.edu/entries/human-genome/#ELSILega)
-* [ 参考文献](https://plato.stanford.edu/entries/human-genome/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/human-genome/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/human-genome/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/human-genome/#Rel)
+ 
 
 ---
 

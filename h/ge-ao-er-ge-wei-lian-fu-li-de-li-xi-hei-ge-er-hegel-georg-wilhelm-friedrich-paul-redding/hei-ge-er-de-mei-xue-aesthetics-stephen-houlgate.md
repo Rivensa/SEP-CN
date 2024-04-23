@@ -3,28 +3,7 @@
 
 黑格尔的美学，或艺术哲学，是德国极其丰富的美学传统的一部分，该传统始于 J.J.温克尔曼的《关于模仿希腊绘画和雕塑的思考》（1755 年）和 G.E.莱辛的《劳科翁》（1766 年），贯穿于康德的《判断力批判》（1790 年）和弗里德里希·席勒的《人的美育书信》（1795 年），直至弗里德里希·尼采的《悲剧的诞生》（1872 年）和（在 20 世纪）马丁·海德格尔的《艺术作品的起源》（1935-1936 年）以及 T.W. 阿多诺的《美学理论》（1970 年）。黑格尔受到温克尔曼、康德和席勒的影响，他自己关于“艺术终结”的论点（或被视为该论点）本身受到海德格尔和阿多诺的密切关注。黑格尔的艺术哲学是对艺术美感、艺术的历史发展以及建筑、雕塑、绘画、音乐和诗歌等各种艺术的广泛论述。它包含对埃及艺术、希腊雕塑以及古代和现代悲剧的独特和有影响力的分析，被许多人视为自亚里士多德《诗学》以来产生的最伟大的美学理论之一。
 
-* [1. 黑格尔对艺术的认识](https://plato.stanford.edu/entries/hegel-aesthetics/#HegKnoArt)
-* [2. 黑格尔关于美学的文本和讲座](https://plato.stanford.edu/entries/hegel-aesthetics/#HegTexLecAes)
-* [3. 黑格尔体系中的艺术、宗教和哲学](https://plato.stanford.edu/entries/hegel-aesthetics/#ArtRelHegSys)
-* [4. 康德、席勒和黑格尔论美与自由](https://plato.stanford.edu/entries/hegel-aesthetics/#KanSchHegBeaFre)
-* [5. 艺术与理想化](https://plato.stanford.edu/entries/hegel-aesthetics/#ArtIde)
-* [6. 黑格尔的系统美学或艺术哲学](https://plato.stanford.edu/entries/hegel-aesthetics/#HegSysAesArt)
-
-  * [6.1 理想美本身](https://plato.stanford.edu/entries/hegel-aesthetics/#IdeBeaSuc)
-  * [6.2 艺术的特定形式](https://plato.stanford.edu/entries/hegel-aesthetics/#ParForArt)
-  * [6.3 个体艺术体系](https://plato.stanford.edu/entries/hegel-aesthetics/#SysIndArt)
-* [ 7. 结论](https://plato.stanford.edu/entries/hegel-aesthetics/#Con)
-* [ 参考书目](https://plato.stanford.edu/entries/hegel-aesthetics/#Bib)
-
-  * [ 黑格尔的文集](https://plato.stanford.edu/entries/hegel-aesthetics/#HegColWor)
-  * [黑格尔重要文本的英文译本](https://plato.stanford.edu/entries/hegel-aesthetics/#EngTraKeyTexHeg)
-  * [黑格尔美学讲座记录](https://plato.stanford.edu/entries/hegel-aesthetics/#TraHegLecAes)
-  * [英文次级文献](https://plato.stanford.edu/entries/hegel-aesthetics/#SecLitEng)
-  * [德文次级文献](https://plato.stanford.edu/entries/hegel-aesthetics/#SecLitGer)
-  * [ 其他相关作品](https://plato.stanford.edu/entries/hegel-aesthetics/#OthRelWor)
-* [ 学术工具](https://plato.stanford.edu/entries/hegel-aesthetics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hegel-aesthetics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hegel-aesthetics/#Rel)
+ 
 
 ---
 

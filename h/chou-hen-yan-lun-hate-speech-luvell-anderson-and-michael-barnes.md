@@ -6,24 +6,7 @@
 
 部分原因是由于这些复杂性，仇恨言论已经产生了大量跨学科的文献。法学者、哲学家、社会学家、人类学家、政治理论家、历史学家和其他学者都对这个话题表现出极大的兴趣。然而，在本文中，我们无法希望涵盖这些学科如何涉足仇恨言论的概念。在这里，我们将最明确地关注哲学领域对待仇恨言论的方式，特别强调诸如：如何定义仇恨言论；仇恨言论可能造成的伤害有哪些；如何描述仇恨言论可能包括明显的仇恨表达（例如，刻薄的用词）以及更隐晦的、含蓄的言辞（例如，狗哨）；仇恨言论与沉默之间的关系；以及我们可以或应该采取什么措施来对抗仇恨言论。
 
-* [1. 什么是仇恨言论？](https://plato.stanford.edu/entries/hate-speech/#WhatHateSpee)
-
-  * [1.1 仇恨言论的危害](https://plato.stanford.edu/entries/hate-speech/#HarmHateSpee)
-* [2. 宗教仇恨和反犹太主义](https://plato.stanford.edu/entries/hate-speech/#ReliHatrAntiSemi)
-* [3. 侮辱性言论、暗语和口哨声](https://plato.stanford.edu/entries/hate-speech/#SlurCodeWordDogw)
-
-  * [ 3.1 辱骂言论](https://plato.stanford.edu/entries/hate-speech/#Slur)
-  * [3.2 隐喻和编码语言](https://plato.stanford.edu/entries/hate-speech/#DogwCodeLang)
-* [4. 色情、仇恨言论和沉默](https://plato.stanford.edu/entries/hate-speech/#PornHateSpeeSile)
-* [5. 反击仇恨言论](https://plato.stanford.edu/entries/hate-speech/#CounHateSpee)
-
-  * [5.1 禁令的理由](https://plato.stanford.edu/entries/hate-speech/#CaseForBans)
-  * [5.2 反对禁令的理由，以及一些回应](https://plato.stanford.edu/entries/hate-speech/#ObjeBansSomeResp)
-  * [5.3 支持的对抗性言论替代方案](https://plato.stanford.edu/entries/hate-speech/#SuppCounAlte)
-* [ 参考文献](https://plato.stanford.edu/entries/hate-speech/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/hate-speech/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hate-speech/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hate-speech/#Rel)
+ 
 
 ---
 

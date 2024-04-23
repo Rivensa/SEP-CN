@@ -4,19 +4,7 @@
 
 保尔-亨利·提利·霍尔巴赫 是法国启蒙运动时期的哲学家、翻译家和杰出社会人物。在他的哲学著作中，霍尔巴赫发展了一种决定论和唯物主义的形而上学，这为他反对有组织宗教的论战以及他的功利主义伦理学和政治理论奠定了基础。作为一名翻译家，霍尔巴赫在科学和宗教方面为欧洲启蒙运动作出了重要贡献。他将德国关于化学和地质学的著作翻译成法语，总结了这些领域德国进展的许多内容，并在狄德罗的百科全书中撰写了相关条目。霍尔巴赫还将重要的英国宗教和政治哲学著作翻译成法语。然而，霍尔巴赫最为人所知的是他在巴黎社交圈中的角色。霍尔巴赫主持并以各种方式赞助的一群知识分子，创作了百科全书以及一些对宗教、伦理和政治进行修订的作品，为法国大革命的意识形态基础做出了贡献。然而，尽管他的圈子中许多成员持激进观点，霍尔巴赫的更广泛的客人名单包括欧洲许多最杰出的知识分子和政治人物。因此，他的沙龙既是激进思想的庇护所，也是主流文化的中心。
 
-* [ 1. 传记](https://plato.stanford.edu/entries/holbach/#Biog)
-* [2. 形而上学：物质与运动，因果关系](https://plato.stanford.edu/entries/holbach/#MetaMattMotiCausEffe)
-* [3. 伦理学：为了幸福而行善](https://plato.stanford.edu/entries/holbach/#EthiVirtForSakeHapp)
-* [4. 政治理论：伦理统治](https://plato.stanford.edu/entries/holbach/#PoliTheoEtho)
-* [ 参考书目](https://plato.stanford.edu/entries/holbach/#Bib)
-
-  * [主要文献：保尔-亨利·提利·霍尔巴赫选集](https://plato.stanford.edu/entries/holbach/#PrimLiteSeleWorkHolb)
-  * [ 其他主要来源](https://plato.stanford.edu/entries/holbach/#OthePrimSour)
-  * [ 二手文献](https://plato.stanford.edu/entries/holbach/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/holbach/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/holbach/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/holbach/#Rel)
-
+ 
 ---
 
 ## 1. 传记

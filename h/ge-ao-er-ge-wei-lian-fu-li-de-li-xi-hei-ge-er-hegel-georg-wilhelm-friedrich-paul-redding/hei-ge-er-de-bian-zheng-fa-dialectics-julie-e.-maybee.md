@@ -12,20 +12,7 @@
 > 最终以赤裸的虚无或空无结束的怀疑主义无法再有任何进展，只能等待看看是否会出现新的东西，以及它是什么，以便将其扔进同样的空虚深渊中。（PhG-M §79）
 
 黑格尔认为，由于柏拉图的辩证法无法超越任意性和怀疑，它只产生近似真理，并且未能成为真正的科学（SL-M 55–6; SL-dG 34–5; PR，§31 附注; cf. EL §81 附注）。以下各节将更详细地探讨黑格尔的辩证法以及这些问题。
-
-* [1. 黑格尔对他的辩证法的描述](https://plato.stanford.edu/entries/hegel-dialectics/#HegeDescHisDialMeth)
-* [2. 将黑格尔的辩证法应用于他的论点](https://plato.stanford.edu/entries/hegel-dialectics/#ApplHegeDialMethHisArgu)
-* [3. 为什么黑格尔使用辩证法？](https://plato.stanford.edu/entries/hegel-dialectics/#WhyDoesHegeUseDial)
-* [4. 黑格尔的辩证法是否合乎逻辑？](https://plato.stanford.edu/entries/hegel-dialectics/#HegeDialMethLogi)
-* [5. 黑格尔辩证法中的句法模式和特殊术语](https://plato.stanford.edu/entries/hegel-dialectics/#SyntPattSpecTermHegeDial)
-* [ 参考文献](https://plato.stanford.edu/entries/hegel-dialectics/#Bib)
-
-  * [黑格尔重要文本的英文翻译](https://plato.stanford.edu/entries/hegel-dialectics/#EnglTranKeyTextHege)
-  * [其他主要来源的英文翻译](https://plato.stanford.edu/entries/hegel-dialectics/#EnglTranOthePrimSour)
-  * [ 二手文献](https://plato.stanford.edu/entries/hegel-dialectics/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/hegel-dialectics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hegel-dialectics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hegel-dialectics/#Rel)
+ 
 
 ---
 

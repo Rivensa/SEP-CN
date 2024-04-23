@@ -4,16 +4,7 @@
 
 “同性恋”一词是 19 世纪末由奥地利出生的匈牙利心理学家卡罗利·玛丽亚·本克特创造的。尽管这个术语是新的，但关于性取向的讨论，特别是同性吸引力的讨论，从柏拉图的《饮宴篇》到当代酷儿理论，一直引发了哲学上的讨论。由于文化对同性吸引力的理解的历史与这些理解引发的哲学问题相关，有必要简要回顾一下同性恋的社会历史。至少在西方，自然法则的概念以及对该法则禁止同性性行为的某些解释，源于这段历史。对自然法则的引用在宗教、政治甚至法庭对同性恋的当代辩论中仍然起着重要作用。最后，涉及同性恋的最重要的近期社会变革之一是西方酷儿解放运动的兴起。在哲学界，这一运动在一定程度上通过一个被称为酷儿理论的多元化思想家群体来代表。酷儿理论提出的一个核心问题，将在下文中讨论，即同性恋，以及异性恋和双性恋，是社会构建的还是纯粹受生物力量驱动的。
 
-* [ 1. 历史](https://plato.stanford.edu/entries/homosexuality/#His)
-* [2. 历史学辩论](https://plato.stanford.edu/entries/homosexuality/#HisDeb)
-* [ 3. 自然法则](https://plato.stanford.edu/entries/homosexuality/#NatLaw)
-* [4. 酷儿理论和性取向的社会建构](https://plato.stanford.edu/entries/homosexuality/#QueTheSocConSex)
-* [ 5. 结论](https://plato.stanford.edu/entries/homosexuality/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/homosexuality/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/homosexuality/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/homosexuality/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/homosexuality/#Rel)
-
+ 
 ---
 
 ## 1. 历史

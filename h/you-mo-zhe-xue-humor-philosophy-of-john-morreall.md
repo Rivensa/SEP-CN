@@ -4,24 +4,15 @@
 
 虽然大多数人都重视幽默，但哲学家对此几乎没有多少论述，而且他们所说的大多是批评的。本文探讨了三种传统的笑声和幽默理论，以及幽默起源于猿类的模拟攻击性游戏的理论。将幽默理解为游戏有助于克服对其的传统反对意见，并揭示出它与哲学本身共享的一些好处。
 
-* [1. 幽默的坏名声](https://plato.stanford.edu/entries/humor/#HumBadRep)
-* [2. 优越性理论](https://plato.stanford.edu/entries/humor/#SupThe)
-* [3. 幽默哲学的解脱理论](https://plato.stanford.edu/entries/humor/#RelThe)
-* [4. 幽默哲学的不协调理论](https://plato.stanford.edu/entries/humor/#IncThe)
-* [5. 幽默作为游戏，笑声作为游戏信号](https://plato.stanford.edu/entries/humor/#HumPlaLauPlaSig)
-* [ 6. 幽默哲学](https://plato.stanford.edu/entries/humor/#Com)
-* [ 参考书目](https://plato.stanford.edu/entries/humor/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/humor/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/humor/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/humor/#Rel)
+ 
 
 ---
 
 ## 1. 幽默的坏名声
 
-When people are asked what’s important in their lives, they often mention humor. Couples listing the traits they prize in their spouses usually put “sense of humor” at or near the top. Philosophers are concerned with what is important in life, so two things are surprising about what they have said about humor.
+当人们被问及生活中最重要的是什么时，他们经常会提到幽默。情侣们在列出他们所珍视的配偶的特质时，通常会把 "幽默感 "放在首位或接近首位。哲学家们关注的是生活中什么是重要的，因此他们对幽默的评价有两点令人惊讶。
 
-The first is how little they have said. From ancient times to the 20th century, the most that any notable philosopher wrote about laughter or humor was an essay, and only a few lesser-known thinkers such as Frances Hutcheson and James Beattie wrote that much. The word *humor* was not used in its current sense of funniness until the 18th century, we should note, and so traditional discussions were about laughter or comedy. The most that major philosophers like Plato, Hobbes, and Kant wrote about laughter or humor was a few paragraphs within a discussion of another topic. Henri Bergson’s 1900 *Laughter* was the first book by a notable philosopher on humor. Martian anthropologists comparing the amount of philosophical writing on humor with what has been written on, say, justice, or even on Rawls’ Veil of Ignorance, might well conclude that humor could be left out of human life without much loss.
+首先是他们说得太少。从古代到 20 世纪，任何著名哲学家关于笑或幽默的论述最多不过是一篇文章，只有弗朗西斯-赫奇森和詹姆斯-比蒂等少数几位不太知名的思想家才写了那么多。我们应该注意到，"幽默"（*humor*）一词直到18世纪才被用于现在的 "风趣"（funniness）意义上，因此传统的讨论都是关于笑或喜剧的。柏拉图、霍布斯和康德等大哲学家关于笑或幽默的论述，最多也就是在讨论另一个话题时写上几段。亨利-柏格森（Henri Bergson）1900 年出版的《女儿》（*Laughter*）是第一本由著名哲学家撰写的关于幽默的著作。火星人类学家将有关幽默的哲学著作与有关正义、甚至罗尔斯的《无知的面纱》的哲学著作进行比较，很可能会得出这样的结论：幽默可以从人类生活中消失，而不会有太大的损失。
 
 第二个令人惊讶的事情是，大多数哲学家对幽默持负面评价。从古希腊到 20 世纪，关于笑和幽默的哲学评论大多集中在嘲笑或嘲弄的笑声上，或者是压倒人们的笑声，而不是喜剧、机智或开玩笑。柏拉图，作为最有影响力的对笑声的批评家，将笑声视为一种超越理性自控的情感。在《理想国》（*388e）中，他说国家的守护者应该避免笑声，“因为通常当一个人沉溺于狂笑时，他的状态会引发强烈的反应。”对柏拉图来说，特别令人不安的是《伊利亚特》和《奥德赛》中提到奥林匹斯山响起众神的笑声的段落。他抗议说，“如果有人把有价值的人描绘成被笑声压倒，我们不能接受，尤其是如果是神明。”
 

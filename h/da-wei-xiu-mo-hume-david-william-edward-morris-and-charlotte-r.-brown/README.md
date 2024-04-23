@@ -6,43 +6,7 @@
 
 尽管休谟更保守的同时代人谴责他的著作为怀疑论和无神论之作，但他的影响在他的密友亚当·斯密的道德哲学和经济著作中是显而易见的。康德报告说，休谟的作品使他从“教条主义的沉睡”中醒来（《前奏词》，引言），杰里米·边沁评论说，阅读休谟的著作使他的眼睛“看清了真相”（《政府片段》，第 1 章，第 36 段，脚注 2）。查尔斯·达尔文认为他的作品对进化论理论有着重要影响。这些作家从他的著作中汲取的东西所引发的多样化方向既反映了他们的资源的丰富性，也反映了他的经验主义的广泛范围。今天，哲学家们将休谟视为哲学自然主义的坚定倡导者，视为当代认知科学的先驱，以及当代道德哲学中发展出的几种最重要的伦理理论的灵感来源。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/hume/#LifeWork)
-* [2. Treatise 与 Enquiries 之间的关系](https://plato.stanford.edu/entries/hume/#RelaBetwTreaEnqu)
-* [3. 哲学项目](https://plato.stanford.edu/entries/hume/#PhilProj)
-* [4. 心灵的描述](https://plato.stanford.edu/entries/hume/#AccoMind)
-
-  * [4.1 复制原则](https://plato.stanford.edu/entries/hume/#CopyPrin)
-  * [4.2 大卫·休谟的定义解释](https://plato.stanford.edu/entries/hume/#HumeAccoDefi)
-  * [4.3 联想原则](https://plato.stanford.edu/entries/hume/#PrinAsso)
-* [ 5. 因果关系](https://plato.stanford.edu/entries/hume/#Caus)
-
-  * [5.1 因果推断：关键阶段](https://plato.stanford.edu/entries/hume/#CausInfeCritPhas)
-  * [5.2 因果推断：建设性阶段](https://plato.stanford.edu/entries/hume/#CausInfeConsPhas)
-  * [ 5.3 信念](https://plato.stanford.edu/entries/hume/#Beli)
-* [6. 必然联系的观念](https://plato.stanford.edu/entries/hume/#IdeaNeceConn)
-
-  * [6.1 必然联系：批判阶段](https://plato.stanford.edu/entries/hume/#NeceConnCritPhas)
-  * [6.2 必然联系：建设性阶段](https://plato.stanford.edu/entries/hume/#NeceConnConsPhas)
-* [7. 道德哲学](https://plato.stanford.edu/entries/hume/#MoraPhil)
-
-  * [7.1 道德理性主义：《论人性》中的批判阶段](https://plato.stanford.edu/entries/hume/#MoraRatiCritPhasTrea)
-  * [7.2 情感主义：建设性阶段](https://plato.stanford.edu/entries/hume/#SentConsPhas)
-  * [7.3 自利理论：《探究》中的批判阶段](https://plato.stanford.edu/entries/hume/#SelfInteTheoCritPhasEnqu)
-  * [7.4 正义：建设性阶段](https://plato.stanford.edu/entries/hume/#JustConsPhas)
-* [8. 宗教哲学](https://plato.stanford.edu/entries/hume/#PhilReli)
-
-  * [ 8.1 人物](https://plato.stanford.edu/entries/hume/#Char)
-  * [8.2 天主的自然属性](https://plato.stanford.edu/entries/hume/#GodsNatuAttr)
-  * [8.3 上帝的道德属性](https://plato.stanford.edu/entries/hume/#GodsMoraAttr)
-  * [8.4 结论：第 12 部分](https://plato.stanford.edu/entries/hume/#ConcPart12)
-* [ 参考文献](https://plato.stanford.edu/entries/hume/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/hume/#PrimLite)
-  * [ 次要文献](https://plato.stanford.edu/entries/hume/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/hume/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hume/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hume/#Rel)
-
+ 
 ---
 
 ## 1. 大卫·休谟的生平与作品

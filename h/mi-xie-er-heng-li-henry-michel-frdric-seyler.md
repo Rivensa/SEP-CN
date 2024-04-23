@@ -4,31 +4,7 @@ _首次发表于2016年10月7日星期五；实质性修订于2020年9月30日�
 
 米歇尔·亨利（1922-2002 年）通过对现象学传统（尤其是侯塞尔和海德格尔）的批判性阅读，发展了一种根本性修订的现象学方法。亨利将自己的方法命名为“生命现象学”，之前称之为“物质现象学”或“激进现象学”。他在某种程度上受到了缅因·德·比朗的影响。亨利的生命现象学最具特色、也最具争议的特征或许在于，它将意向性基础化为一种先验的出现形式，即内在情感性或“生命”。在他的最后工作时期（1992-2002 年），亨利基于自己的现象学发展了一种基于宗教和基督教的哲学。他被广泛认为是 20 世纪法国现象学的重要人物之一。
 
-* [1. 生命与工作](https://plato.stanford.edu/entries/michel-henry/#LifeWork)
-* [2. 生命现象学与超验情感性概念](https://plato.stanford.edu/entries/michel-henry/#PhenLifeConcTranAffe)
-  * [2.1 对意向性和本体论一元论的批判](https://plato.stanford.edu/entries/michel-henry/#CritInteOntoMoni)
-  * [2.2 亨利现象学的源头](https://plato.stanford.edu/entries/michel-henry/#SourHenrPhen)
-  * [2.3 生命与生存：基督教哲学](https://plato.stanford.edu/entries/michel-henry/#LifeLiviPhilChri)
-* [3. 美学](https://plato.stanford.edu/entries/michel-henry/#Aest)
-  * [3.1 应用现象学：艺术与美学](https://plato.stanford.edu/entries/michel-henry/#ApplPhenArtAest)
-  * [3.2 亨利的康定斯基现象学阅读](https://plato.stanford.edu/entries/michel-henry/#HenrPhenReadKand)
-  * [3.3 特定艺术形式：从音乐到文学](https://plato.stanford.edu/entries/michel-henry/#PartArtFormMusiLite)
-* [4. 伦理学和政治哲学](https://plato.stanford.edu/entries/michel-henry/#EthiPoliPhil)
-  * [4.1 艺术作为内在伦理](https://plato.stanford.edu/entries/michel-henry/#ArtIntrEthi)
-  * [4.2 当代文化批判为“野蛮”](https://plato.stanford.edu/entries/michel-henry/#CritContCultBarb)
-  * [4.3 基督教伦理学作为对绝对生命的认识](https://plato.stanford.edu/entries/michel-henry/#ChriEthiRecoAbsoLife)
-  * [4.4 政治哲学](https://plato.stanford.edu/entries/michel-henry/#PoliPhil)
-* [参考文献](https://plato.stanford.edu/entries/michel-henry/#Bib)
-  * [米歇尔·亨利的著作](https://plato.stanford.edu/entries/michel-henry/#WorkMichHenr)
-    * [主要作品](https://plato.stanford.edu/entries/michel-henry/#PrinWork)
-    * [小说](https://plato.stanford.edu/entries/michel-henry/#Nove)
-  * [二手文献](https://plato.stanford.edu/entries/michel-henry/#SecoLite)
-    * [精选作品](https://plato.stanford.edu/entries/michel-henry/#SeleWork)
-    * [特别版期刊](https://plato.stanford.edu/entries/michel-henry/#SpecEditPeri)
-* [学术工具](https://plato.stanford.edu/entries/michel-henry/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/michel-henry/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/michel-henry/#Rel)
-
+ 
 ***
 
 ## 1. 生平与工作

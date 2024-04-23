@@ -4,22 +4,7 @@ _首次发表于2003年12月17日星期三；实质性修订于2020年4月21日�
 
 大卫·休谟在美学理论和艺术哲学方面的观点可以在他关于道德理论的著作和几篇论文中找到。虽然有一种倾向于强调他专门研究艺术的两篇论文《品味的标准》和《悲剧》，但他对艺术和审美判断的观点与他的道德哲学、人类思维和情感理论密切相关。他的品味和美的理论并非完全原创，但他的论证通常展示了他最好的作品所具有的敏锐分析。休谟过时的术语有时会阻碍对他分析的欣赏，引发对他立场的不同解读。
 
-* [1. 背景](https://plato.stanford.edu/entries/hume-aesthetics/#Cont)
-* [2. 休谟的术语](https://plato.stanford.edu/entries/hume-aesthetics/#HumeTerm)
-* [3. 休谟的道德理论中的美和品味](https://plato.stanford.edu/entries/hume-aesthetics/#BeauTastHumeMoraTheo)
-  * [3.1 主观主义](https://plato.stanford.edu/entries/hume-aesthetics/#Subj)
-  * [3.2 大卫·休谟的倾向性分析](https://plato.stanford.edu/entries/hume-aesthetics/#DispAnal)
-  * [3.3 想象力和观点](https://plato.stanford.edu/entries/hume-aesthetics/#ImagPoinView)
-* [4. 大卫·休谟的品味论文](https://plato.stanford.edu/entries/hume-aesthetics/#HumeEssaTast)
-* [5. 大卫·休谟的悲剧论文](https://plato.stanford.edu/entries/hume-aesthetics/#HumeEssaTrag)
-* [参考文献](https://plato.stanford.edu/entries/hume-aesthetics/#Bib)
-  * [大卫·休谟的著作](https://plato.stanford.edu/entries/hume-aesthetics/#HumeWork)
-  * [有关大卫·休谟美学的著作](https://plato.stanford.edu/entries/hume-aesthetics/#WorkHumeAest)
-  * [大卫·休谟及其背景的相关作品](https://plato.stanford.edu/entries/hume-aesthetics/#RelaWorkHumeHisCont)
-* [学术工具](https://plato.stanford.edu/entries/hume-aesthetics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hume-aesthetics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/hume-aesthetics/#Rel)
-
+ 
 ***
 
 ## 1. 背景

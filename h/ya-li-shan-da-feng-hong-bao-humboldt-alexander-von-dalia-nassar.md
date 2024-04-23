@@ -10,42 +10,7 @@
 
 洪堡认为科学和艺术不应分离，这与他对自然和文化深度交织的理解相一致。他认为将它们视为独立实体不仅是错误的，而且是危险的。在他在南美的研究中，洪堡亲眼目睹了殖民实践对土地和人民造成的毁灭性后果，并得出结论，自然的破坏将导致文化的破坏，尤其是土著文化的破坏。他对帝国主义的批评以及殖民大国无思考地摧毁土著人民的家园的方式，与他对奴隶制度的批评是相互关联的，他将奴隶制度描述为“折磨人类的最大罪恶”（《古巴岛》1: 309; DA 3: 156; PN 7: 263）。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/alexander-humboldt/#LifeWork)
-
-  * [1.1 早年生活和教育](https://plato.stanford.edu/entries/alexander-humboldt/#EarlLifeEduc)
-  * [ 1.2 杰纳的联系](https://plato.stanford.edu/entries/alexander-humboldt/#JenaConn)
-  * [1.3 前往美洲的旅行](https://plato.stanford.edu/entries/alexander-humboldt/#TravAmer)
-  * [ 1.4 巴黎](https://plato.stanford.edu/entries/alexander-humboldt/#Pari)
-  * [ 1.5 柏林](https://plato.stanford.edu/entries/alexander-humboldt/#Berl)
-  * [ 1.6 西伯利亚探险](https://plato.stanford.edu/entries/alexander-humboldt/#SibeExpe)
-* [2. 亚历山大·冯·洪堡的著作：范围、体裁和翻译](https://plato.stanford.edu/entries/alexander-humboldt/#HumbWritScopGenrTran)
-* [ 3. 方法论](https://plato.stanford.edu/entries/alexander-humboldt/#Meth)
-* [4. 自然哲学](https://plato.stanford.edu/entries/alexander-humboldt/#PhilNatu)
-
-  * [ 4.1 生态学](https://plato.stanford.edu/entries/alexander-humboldt/#Ecol)
-  * [4.2 植物相和自然相](https://plato.stanford.edu/entries/alexander-humboldt/#PhysPlanPhysNatu)
-  * [4.3 树木和森林](https://plato.stanford.edu/entries/alexander-humboldt/#TreeFore)
-* [5. 艺术哲学](https://plato.stanford.edu/entries/alexander-humboldt/#PhilArt)
-
-  * [5.1 亚历山大·冯·洪堡的艺术史与自然研究](https://plato.stanford.edu/entries/alexander-humboldt/#HumbHistArtStudNatu)
-  * [5.2 “忠于自然”: 艺术的认识意义](https://plato.stanford.edu/entries/alexander-humboldt/#TrutNatuEpisSignArt)
-* [ 6. 自然画](https://plato.stanford.edu/entries/alexander-humboldt/#Natu)
-* [7. 社会和政治思想](https://plato.stanford.edu/entries/alexander-humboldt/#SociPoliThou)
-* [ 8. 争议](https://plato.stanford.edu/entries/alexander-humboldt/#Cont)
-* [9. 结论：洪堡的影响](https://plato.stanford.edu/entries/alexander-humboldt/#ConcHumbInfl)
-* [ 参考文献](https://plato.stanford.edu/entries/alexander-humboldt/#Bib)
-
-  * [亚历山大·冯·洪堡的主要著作和缩写](https://plato.stanford.edu/entries/alexander-humboldt/#HumbPrimLiteAbbr)
-
-    * [ 原始德语](https://plato.stanford.edu/entries/alexander-humboldt/#OrigGerm)
-    * [ 原始法语](https://plato.stanford.edu/entries/alexander-humboldt/#OrigFren)
-    * [ 新德国版](https://plato.stanford.edu/entries/alexander-humboldt/#NewGermEdit)
-    * [ 英文翻译](https://plato.stanford.edu/entries/alexander-humboldt/#EnglTran)
-  * [其他主要文献和缩写](https://plato.stanford.edu/entries/alexander-humboldt/#OthePrimLiteAbbr)
-  * [ 二次文献](https://plato.stanford.edu/entries/alexander-humboldt/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/alexander-humboldt/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/alexander-humboldt/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/alexander-humboldt/#Rel)
+ 
 
 ---
 

@@ -6,26 +6,7 @@ _首次发表于2005年10月4日星期二；实质性修订于2017年3月27日�
 
 本文的主要目标是：（1）对休谟关于宗教的主要论证进行阐述，涉及到各种特定问题；（2）回答关于休谟在这个主题上的一般立场的问题。
 
-* [1. 宗教哲学家和思辨无神论者](https://plato.stanford.edu/entries/hume-religion/#RelPhiSpeAth)
-* [2. 经验主义、怀疑论和上帝的概念](https://plato.stanford.edu/entries/hume-religion/#EmpSceVerIdeGod)
-* [3. 宇宙学论证和上帝的必然存在](https://plato.stanford.edu/entries/hume-religion/#CosArgGodNecExi)
-* [4. 设计论证](https://plato.stanford.edu/entries/hume-religion/#ArgDes)
-* [5. 邪恶问题](https://plato.stanford.edu/entries/hume-religion/#ProEvi)
-* [6. 奇迹](https://plato.stanford.edu/entries/hume-religion/#Mir)
-* [7. 不朽和来世](https://plato.stanford.edu/entries/hume-religion/#ImmFutSta)
-* [8. 大卫·休谟的宗教谱系学：宗教信仰的原因和动力](https://plato.stanford.edu/entries/hume-religion/#HumGenRelCauDynRelBel)
-* [9. 宗教与道德](https://plato.stanford.edu/entries/hume-religion/#RelMor)
-* [10. 休谟是无神论者吗？](https://plato.stanford.edu/entries/hume-religion/#WasHumAth)
-* [11. 无宗教信仰和休谟哲学的统一](https://plato.stanford.edu/entries/hume-religion/#IrrUniHum)
-* [参考书目](https://plato.stanford.edu/entries/hume-religion/#Bib)
-  * [休谟的著作](https://plato.stanford.edu/entries/hume-religion/#HumWor)
-  * [主要作品](https://plato.stanford.edu/entries/hume-religion/#PriWor)
-  * [次要作品](https://plato.stanford.edu/entries/hume-religion/#SecWor)
-  * [参考书目](https://plato.stanford.edu/entries/hume-religion/#morBib)
-* [学术工具](https://plato.stanford.edu/entries/hume-religion/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hume-religion/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/hume-religion/#Rel)
-
+ 
 ***
 
 ## 1. 宗教哲学家和思辨无神论者

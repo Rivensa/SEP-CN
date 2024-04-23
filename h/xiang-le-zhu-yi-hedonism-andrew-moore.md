@@ -7,22 +7,7 @@
 一般来说，享乐主义被广泛理解为包括或包含在所有愉快的感受或体验中：满足、愉悦、狂喜、兴高采烈、享受、欣快、兴奋、狂喜、喜悦、满足、感激、喜悦、喜欢、爱、宽慰、满意、幸福、宁静等等。痛苦或不快也被广泛理解为包括或包含在所有不愉快的体验或感受中：疼痛、焦虑、极度痛苦、焦虑、烦恼、焦虑、忧虑、无聊、懊恼、沮丧、抑郁、绝望、绝望、绝望、不适、困惑、不满、不满、厌恶、讨厌、惊愕、迷失、不满、痛苦、恐惧、忧郁、悲伤、内疚、憎恨、恐惧、痛苦、烦躁、厌恶等等。‘痛苦或不快’通常在下文中仅表示为‘痛苦’或‘不快’。有时，仅就享乐或仅就不快，陈述可能适用于两者的要点，以实现进一步的简洁。这种享乐-不快的平行是否确实存在是一个重要的进一步问题，本文仅简要涉及。
 
 享乐主义是何种实体？候选包括：状态、事实、物体、事件和属性。其次，它是一阶实体还是高阶实体？例如，你的疼痛是你的牙痛、它的刺痛感，还是两者兼有？当你欣赏视野下的城市景观时，你的快乐是你的视野、你对它的享受、你对它的享受的愉悦感，还是三者兼有？等等。第三，快乐本质上是否具有“感觉”或现象学，一种“它是什么样子”的东西（纳格尔 1974 年）。第四，它本质上是否具有指向性、关于性或关于意向性？这些关于快乐和不快的本质的问题将在下文中讨论（另请参阅有关快乐的条目），因为它们涉及各种形式的享乐主义的本质和优点。
-
-* [1. 心理学享乐主义](https://plato.stanford.edu/entries/hedonism/#PsyHed)
-
-  * [1.1 支持心理学享乐主义的论点](https://plato.stanford.edu/entries/hedonism/#ArgForPsyHed)
-  * [1.2 反对心理享乐主义的论点](https://plato.stanford.edu/entries/hedonism/#ArgAgaPsyHed)
-* [2. 伦理享乐主义](https://plato.stanford.edu/entries/hedonism/#EthHed)
-
-  * [2.1 伦理享乐主义与快乐的本质](https://plato.stanford.edu/entries/hedonism/#EthHedNatPle)
-  * [2.2 享乐主义的其他论据](https://plato.stanford.edu/entries/hedonism/#OthArgForEthHed)
-  * [2.3 反对享乐主义的其他论据](https://plato.stanford.edu/entries/hedonism/#OthArgAgaEthHed)
-* [ 3. 结论性说明](https://plato.stanford.edu/entries/hedonism/#ConRem)
-* [ 参考文献](https://plato.stanford.edu/entries/hedonism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/hedonism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hedonism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hedonism/#RelEnt)
-
+ 
 ---
 
 ## 1. 心理享乐主义

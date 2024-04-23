@@ -4,35 +4,7 @@
 
 罗伯特·霍尔柯特，OP（1349 年去世）属于第一代学者，吸收和发展了威廉·奥卡姆的观点。他以他的“契约神学”和他对人类自由的观点而闻名，这些观点是在神圣命令伦理框架内发展起来的。他发展了一种基于奥卡姆的逻辑和形而上学的原创神学，他的作品对 16 世纪产生了影响。
 
-* [1. 生平与工作](https://plato.stanford.edu/entries/holkot/#LifeWork)
-* [2. 与奥卡姆的关系](https://plato.stanford.edu/entries/holkot/#RelaOckh)
-
-  * [ 2.1 罗伯特·霍尔柯特的影响](https://plato.stanford.edu/entries/holkot/#OckhInfl)
-  * [2.2 在认识论上与罗伯特·霍尔柯特的差异](https://plato.stanford.edu/entries/holkot/#DiffOckhEpis)
-* [3. 自然神学](https://plato.stanford.edu/entries/holkot/#NatuTheo)
-
-  * [3.1 什么原因无法做到](https://plato.stanford.edu/entries/holkot/#WhatReasCannDo)
-  * [3.2 什么原因可以做到](https://plato.stanford.edu/entries/holkot/#WhatReasDo)
-* [4. 必然性和偶然性](https://plato.stanford.edu/entries/holkot/#NeceCont)
-
-  * [ 4.1 历史背景](https://plato.stanford.edu/entries/holkot/#HistCont)
-  * [4.2 上帝的绝对和命定权力](https://plato.stanford.edu/entries/holkot/#GodsAbsoOrdaPowe)
-* [5. 神命伦理学](https://plato.stanford.edu/entries/holkot/#DiviCommEthi)
-
-  * [ 5.1 约定神学](https://plato.stanford.edu/entries/holkot/#CoveTheo)
-  * [5.2 意图的重要性](https://plato.stanford.edu/entries/holkot/#SignInte)
-* [6. 神的先见](https://plato.stanford.edu/entries/holkot/#DiviFore)
-
-  * [6.1 “义务”模型](https://plato.stanford.edu/entries/holkot/#ObliMode)
-  * [6.2 经验的模态基础](https://plato.stanford.edu/entries/holkot/#ModaGrouExpe)
-* [ 参考文献](https://plato.stanford.edu/entries/holkot/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/holkot/#PrimLite)
-  * [ 翻译](https://plato.stanford.edu/entries/holkot/#Tran)
-  * [ 二次文献](https://plato.stanford.edu/entries/holkot/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/holkot/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/holkot/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/holkot/#Rel)
+ 
 
 ---
 

@@ -12,33 +12,7 @@
 
 本条目是对基质主义和反基质主义引发的问题的概述。在第一至第三部分中，介绍了基质主义的各种表述，并探讨了基质主义、基质和本质主义之间的联系。在第四和第五部分，调查了支持和反对基质主义的论点。第六部分讨论了基质差异的范围以及接受仅某些类型的基质差异的前景。最后，第七部分简要说明了基质主义及其在形而上学各个领域内的否定的重要性。
 
-* [1. 制定基质主义](https://plato.stanford.edu/entries/haecceitism/#ForHae)
-
-  * [1.1 可能性和可能世界](https://plato.stanford.edu/entries/haecceitism/#PosPosWor)
-  * [1.2. 基质主义和模态实在论](https://plato.stanford.edu/entries/haecceitism/#HaeModRea)
-* [2. 基质和基质主义](https://plato.stanford.edu/entries/haecceitism/#HaeHae)
-* [3. 基质主义和本质主义](https://plato.stanford.edu/entries/haecceitism/#HaeEss)
-* [4. 基质主义的论点](https://plato.stanford.edu/entries/haecceitism/#ArgForHae)
-
-  * [4.1. 基质主义的可想象性论证](https://plato.stanford.edu/entries/haecceitism/#ConArgForHae)
-  * [ 4.2. 基质主义悖论](https://plato.stanford.edu/entries/haecceitism/#ChiPar)
-* [5. 反对基质主义的论点](https://plato.stanford.edu/entries/haecceitism/#ArgAgaHae)
-
-  * [5.1. 反对裸同一性](https://plato.stanford.edu/entries/haecceitism/#AgaBarIde)
-  * [5.2. 根据不可辨识性的同一性的论点](https://plato.stanford.edu/entries/haecceitism/#ArgIdeInd)
-* [6. 限制基质主义](https://plato.stanford.edu/entries/haecceitism/#ResHae)
-* [7. 与基质主义的联系](https://plato.stanford.edu/entries/haecceitism/#ConHae)
-
-  * [7.1 基质主义与本质主义](https://plato.stanford.edu/entries/haecceitism/#HaeQui)
-  * [7.2 基质主义与个人身份](https://plato.stanford.edu/entries/haecceitism/#HaePerIde)
-  * [7.3 基质主义与物理主义](https://plato.stanford.edu/entries/haecceitism/#HaePhy)
-  * [7.4 基质主义与时空](https://plato.stanford.edu/entries/haecceitism/#HaeSpa)
-  * [7.5 基质主义与语言哲学](https://plato.stanford.edu/entries/haecceitism/#HaeLan)
-* [ 参考文献](https://plato.stanford.edu/entries/haecceitism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/haecceitism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/haecceitism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/haecceitism/#Rel)
-
+ 
 ---
 
 ## 1. 制定基质主义

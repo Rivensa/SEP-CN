@@ -4,25 +4,7 @@
 
 健康与疾病是生物伦理学中至关重要的概念，具有深远的社会和政治影响。例如，任何试图教育医生或监管健康保险的努力都必须采用一些标准，以评估人们是否患病。健康与疾病的概念还与生物医学科学哲学中关于功能和解释以及伦理学中关于幸福理论的问题有着有趣的联系。
 
-* [ 1. 简介](https://plato.stanford.edu/entries/health-disease/#Intr)
-* [2. 自然主义与建构主义](https://plato.stanford.edu/entries/health-disease/#NatuCons)
-* [3. 构成主义的问题](https://plato.stanford.edu/entries/health-disease/#ProbForCons)
-* [ 4. 自然主义](https://plato.stanford.edu/entries/health-disease/#Natu)
-
-  * [4.1 自然主义形式](https://plato.stanford.edu/entries/health-disease/#FormNatu)
-  * [ 4.2 确定原因](https://plato.stanford.edu/entries/health-disease/#SpecCaus)
-  * [ 4.3 功能](https://plato.stanford.edu/entries/health-disease/#Func)
-  * [4.4 正常与变异](https://plato.stanford.edu/entries/health-disease/#NormVari)
-* [ 5. 健康](https://plato.stanford.edu/entries/health-disease/#Heal)
-
-  * [5.1 健康与生物学](https://plato.stanford.edu/entries/health-disease/#HealBiol)
-  * [5.2 嵌入式工具主义](https://plato.stanford.edu/entries/health-disease/#EmbeInst)
-* [ 6. 结论](https://plato.stanford.edu/entries/health-disease/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/health-disease/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/health-disease/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/health-disease/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/health-disease/#Rel)
-
+ 
 ---
 
 ## 1. 简介

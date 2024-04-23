@@ -3,27 +3,7 @@
 
 马克斯·霍克海默（1895-1973）是“法兰克福学派”的领导者，该学派是与法兰克福社会研究所（Institut für Sozialforschung）相关联的一群哲学家和社会科学家。霍克海默曾任该研究所所长和法兰克福大学社会哲学教授，任期分别为 1930 年至 1933 年和 1949 年至 1958 年。在这两个时期之间，他主要在美国领导该研究所的流亡工作。作为一位哲学家，他最著名的作品是在 1940 年代期间的《启蒙辩证法》，该书是与泰奥多尔·阿多诺合著的。尽管《启蒙辩证法》（以及那个时期的其他作品）具有重要影响力，但不能将其与霍克海默整体工作的背景分离。在这方面尤为重要的是他在 1930 年代的著作，这些著作在发展法兰克福学派批判理论的认识论和方法论方向上起到了重要作用。这些工作既影响了他的同时代人（包括阿多诺和赫伯特·马尔库塞），也对批判理论的后来从业者（包括于尔根·哈贝马斯和该研究所的现任所长阿克塞尔·霍内特）产生了持久影响。
 
-* [ 1. 传记](https://plato.stanford.edu/entries/horkheimer/#Bio)
-* [2. 唯物主义和社会研究所的早期计划](https://plato.stanford.edu/entries/horkheimer/#MatEarProInsSocRes)
-
-  * [2.1. 苦难与对幸福的渴望](https://plato.stanford.edu/entries/horkheimer/#SufDesForHap)
-  * [2.2 理性与解放](https://plato.stanford.edu/entries/horkheimer/#ReaEma)
-  * [2.3 对形而上学和科学的批判](https://plato.stanford.edu/entries/horkheimer/#CriMetSci)
-  * [2.4 跨学科研究的认识论和方法论](https://plato.stanford.edu/entries/horkheimer/#EpiMetIntRes)
-* [3. “传统与批判理论”：早期计划的总结与解散](https://plato.stanford.edu/entries/horkheimer/#TraCriTheSumDisEarPro)
-* [4. 理性批判与自然的统治](https://plato.stanford.edu/entries/horkheimer/#CriReaDomNat)
-
-  * [4.1 批判工具理性](https://plato.stanford.edu/entries/horkheimer/#CriInsRea)
-  * [4.2 外部和内部自然的统治](https://plato.stanford.edu/entries/horkheimer/#DomOutInnNat)
-  * [4.3 解放的来源](https://plato.stanford.edu/entries/horkheimer/#SouEma)
-* [ 5. 迟到的工作](https://plato.stanford.edu/entries/horkheimer/#LatWor)
-* [ 参考文献](https://plato.stanford.edu/entries/horkheimer/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/horkheimer/#PriSou)
-  * [马克斯·霍克海默和其他来源](https://plato.stanford.edu/entries/horkheimer/#SecOthSou)
-* [ 学术工具](https://plato.stanford.edu/entries/horkheimer/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/horkheimer/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/horkheimer/#Rel)
+ 
 
 ---
 

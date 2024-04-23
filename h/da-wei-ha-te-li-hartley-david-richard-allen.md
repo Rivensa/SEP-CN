@@ -14,24 +14,7 @@
 
 大卫·哈特利是一位圣公会牧师的儿子，于 1705 年 6 月出生在约克郡哈利法克斯附近。他的母亲在他出生后三个月去世，父亲在大卫十五岁时去世。哈特利从剑桥大学耶稣学院获得学士和硕士学位后，在伯里圣埃德蒙兹（1730-1735 年）、伦敦（1735-1742 年）和巴斯从事医学工作，他于 1757 年 8 月 28 日在巴斯去世。他两次结婚：1730 年与爱丽丝·罗利结婚，1731 年在生下他们的儿子大卫后去世（1731-1813 年）；1735 年与伊丽莎白·帕克（1713-1778 年）结婚，尽管遭到她非常富有的家族的反对。这对夫妇育有两个子女，玛丽（1736-1803 年）和温科姆·亨利（1740-1794 年）。尽管患有膀胱结石，哈特利过着充实而积极的生活：从事医学工作，进行数学研究，寻求治疗“结石”的方法，致力于知识和慈善项目，并著有《人的观察》。
 
-* [1. 《人的观察》的接受情况](https://plato.stanford.edu/entries/hartley/#ReceObseMan)
-* [2. 哈特利的观察——初见印象](https://plato.stanford.edu/entries/hartley/#HartObseFirsSigh)
-* [3. 人的科学](https://plato.stanford.edu/entries/hartley/#ScieMan)
-* [4. 知觉与行动： “联合印象” 的作用](https://plato.stanford.edu/entries/hartley/#PercActiRoleJoinImpr)
-* [5. 行动范围：从“自动”到“去复杂化”](https://plato.stanford.edu/entries/hartley/#RangActiAutoDeco)
-* [6. 语言与思维](https://plato.stanford.edu/entries/hartley/#LangThou)
-* [7. 语言作为代数](https://plato.stanford.edu/entries/hartley/#LangAlge)
-* [ 8. 道德心理学](https://plato.stanford.edu/entries/hartley/#MoraPsyc)
-* [ 参考文献](https://plato.stanford.edu/entries/hartley/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/hartley/#PrimLite)
-  * [大卫·哈特利的其他作品精选](https://plato.stanford.edu/entries/hartley/#SeleOtheWorkHart)
-  * [ 引用文献](https://plato.stanford.edu/entries/hartley/#WorkCite)
-  * [ 二手资料](https://plato.stanford.edu/entries/hartley/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/hartley/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hartley/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hartley/#Rel)
-
+ 
 ---
 
 ## 1. 对《人的观察》的接受

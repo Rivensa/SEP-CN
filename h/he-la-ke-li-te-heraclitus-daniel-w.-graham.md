@@ -4,26 +4,7 @@
 
 赫拉克利特是古希腊以弗所（今土耳其库沙达斯附近）的哲学家，活跃于公元前 500 年左右，他提出了一种独特的理论，用神谕般的语言表达。他以认为万物在不断变化（宇宙流变）、对立统一（对立的统一）以及火是世界的基本物质而闻名。对这些理论的确切解释存在争议，以及从这一理论中经常得出的推断，即在赫拉克利特构想的世界中，矛盾的命题必须是真实的。
 
-* [1. 生平与工作](https://plato.stanford.edu/entries/heraclitus/#LifWor)
-* [ 2. 方法](https://plato.stanford.edu/entries/heraclitus/#Met)
-* [3. 哲学原则](https://plato.stanford.edu/entries/heraclitus/#PhiPri)
-
-  * [ 3.1 流变](https://plato.stanford.edu/entries/heraclitus/#Flu)
-  * [3.2 对立统一](https://plato.stanford.edu/entries/heraclitus/#UniOpp)
-  * [ 3.3 赫拉克利特](https://plato.stanford.edu/entries/heraclitus/#Ont)
-* [ 4. 宇宙学](https://plato.stanford.edu/entries/heraclitus/#Cos)
-* [ 5. 知识](https://plato.stanford.edu/entries/heraclitus/#Kno)
-* [ 6. 价值](https://plato.stanford.edu/entries/heraclitus/#Val)
-* [ 7. 影响](https://plato.stanford.edu/entries/heraclitus/#Inf)
-* [ 8. 附录](https://plato.stanford.edu/entries/heraclitus/#Inf)
-* [ 参考书目](https://plato.stanford.edu/entries/heraclitus/#Bib)
-
-  * [ 版本](https://plato.stanford.edu/entries/heraclitus/#Edi)
-  * [ 研究](https://plato.stanford.edu/entries/heraclitus/#Stu)
-* [ 学术工具](https://plato.stanford.edu/entries/heraclitus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/heraclitus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/heraclitus/#Rel)
-
+ 
 ---
 
 ## 1. 生平与工作

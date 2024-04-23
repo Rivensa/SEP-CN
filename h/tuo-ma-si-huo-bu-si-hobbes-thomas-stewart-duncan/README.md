@@ -4,24 +4,7 @@
 
 托马斯·霍布斯（1588-1679 年），他目前的声誉主要建立在他的政治哲学上，是一个兴趣广泛的思想家。在哲学方面，他捍卫了一系列唯物主义、名义主义和经验主义观点，反对笛卡尔和亚里士多德的替代方案。在物理学方面，他的工作对莱布尼茨产生了影响，并使他卷入了与博伊尔和早期皇家学会的实验者们的争论中。在历史上，他将修昔底德的《伯罗奔尼撒战争史》翻译成英文，后来又写了自己的长议会历史。在数学上，他的成就较差，最值得铭记的是他多次未能成功地尝试求圆。但尽管如此，霍布斯是他那个时代知识生活中的一个认真而杰出的参与者。
 
-* [1. 生平与著作](https://plato.stanford.edu/entries/hobbes/#1)
-* [2. 心智与语言](https://plato.stanford.edu/entries/hobbes/#2)
-
-  * [2.1 感知与想象](https://plato.stanford.edu/entries/hobbes/#2.1)
-  * [ 2.2 意义](https://plato.stanford.edu/entries/hobbes/#2.2)
-  * [ 2.3 名实主义](https://plato.stanford.edu/entries/hobbes/#2.3)
-  * [2.4 推理作为计算](https://plato.stanford.edu/entries/hobbes/#2.4)
-* [ 3. 唯物主义](https://plato.stanford.edu/entries/hobbes/#3)
-* [ 4. 方法论](https://plato.stanford.edu/entries/hobbes/#4)
-* [5. 宗教哲学](https://plato.stanford.edu/entries/hobbes/#5)
-* [ 6. 接受](https://plato.stanford.edu/entries/hobbes/#6)
-* [ 参考书目](https://plato.stanford.edu/entries/hobbes/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/hobbes/#Pri)
-  * [ 次要文献](https://plato.stanford.edu/entries/hobbes/#Sec)
-* [ 学术工具](https://plato.stanford.edu/entries/hobbes/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hobbes/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hobbes/#Rel)
+ 
 
 ---
 

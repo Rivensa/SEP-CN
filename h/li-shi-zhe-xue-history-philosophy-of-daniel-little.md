@@ -6,31 +6,7 @@
 
 鉴于“历史哲学”内部声音的多样性，不可能给出一个适用于所有这些方法的领域定义。事实上，当我们提到“历史哲学”这个短语时，想象我们指的是一个单一的哲学传统是具有误导性的，因为这里表征的研究方向很少相互对话。尽管如此，我们可以有益地将哲学家关于历史的著作归类为围绕几个重要问题展开，涉及形而上学、解释学、认识论和伦理学：（1）历史由什么组成——个体行为、社会结构、时期和地区、文明、大规模因果过程、神的干预？（2）整体历史是否具有意义、结构或方向，超越构成它的个体事件和行为？（3）我们在了解、表达和解释历史中涉及什么？（4）人类历史事实在多大程度上为当前一代创造了道德责任？
 
-* [1. 历史及其表征](https://plato.stanford.edu/entries/history/#HisRep)
-
-  * [1.1 历史中的行动者、结构和原因](https://plato.stanford.edu/entries/history/#Actors)
-  * [1.2 历史中的选择性和规模](https://plato.stanford.edu/entries/history/#Scale)
-  * [1.3 记忆、历史和叙事](https://plato.stanford.edu/entries/history/#Memory)
-* [2. 大陆历史哲学](https://plato.stanford.edu/entries/history/#ConHis)
-
-  * [2.1 通史还是历史人类本性？](https://plato.stanford.edu/entries/history/#UniHisHumNat)
-  * [2.2 历史是否具有方向性？](https://plato.stanford.edu/entries/history/#DoeHisPosDir)
-  * [2.3 黑格尔的历史哲学](https://plato.stanford.edu/entries/history/#HegHis)
-  * [2.4 历史解释学方法](https://plato.stanford.edu/entries/history/#HerAppHis)
-  * [2.5 历史哲学的概念](https://plato.stanford.edu/entries/history/#ConcHis)
-* [3. 英美历史哲学](https://plato.stanford.edu/entries/history/#AngAmeHis)
-
-  * [3.1 历史中的一般规律？](https://plato.stanford.edu/entries/history/#GenLawHis)
-  * [3.2 历史客观性](https://plato.stanford.edu/entries/history/#HisObj)
-  * [3.3 历史中的因果关系](https://plato.stanford.edu/entries/history/#CauHis)
-  * [3.4 历史哲学中的最新话题](https://plato.stanford.edu/entries/history/#RecTopHis)
-* [4. 历史学和历史哲学](https://plato.stanford.edu/entries/history/#HistPhilHis)
-* [5. 历史理解与二十世纪](https://plato.stanford.edu/entries/history/#HistUnde)
-* [6. 伦理学、历史和记忆](https://plato.stanford.edu/entries/history/#RetHis)
-* [ 参考书目](https://plato.stanford.edu/entries/history/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/history/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/history/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/history/#Rel)
+ 
 
 ---
 
