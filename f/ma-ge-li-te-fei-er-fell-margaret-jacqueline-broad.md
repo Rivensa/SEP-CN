@@ -4,32 +4,6 @@
 
 根据她 1666 年的小册子《辩护妇女的讲道》，贵格会作家玛格丽特·费尔被誉为女权主义先驱。在这篇简短的小册子中，费尔提出了几个支持妇女讲道的论点。她主张性别的精神平等，她援引圣经中的女性榜样，并重新解释了一些似乎支持妇女服从男性的关键经文。然而，一些学者质疑费尔作为女权主义思想家的地位。他们指出，根据费尔和她的同贵格会信徒，妇女被允许在教堂发言，但仅限于作为基督的容器或代言人。在其他方面，有人认为，早期的贵格会继续要么忽视、贬低或抹去女性。其他批评者指出，贵格会的性别平等原则仅在宗教崇拜领域中运作，而不延伸至社会政治领域。尽管存在这样的批评，费尔对妇女讲道的辩护在她的时代无疑具有影响力，并可能激励了她宗教圈之外的女性作家。Foxton（1994）声称，贵格会妇女的著作总体上为 17 世纪妇女的出版活动树立了重要的先例，涉及宗教和非宗教主题。最近的学者还指出，费尔在犹太教方面的著作可能影响了斯宾诺莎（参见费尔 1987；克劳森-布朗 2019）。
 
-* [生活与作品](https://plato.stanford.edu/entries/margaret-fell/#LifeWork)
-* [贵格会的思想和实践](https://plato.stanford.edu/entries/margaret-fell/#QuakThouPrac)
-
-  * [光之教义](https://plato.stanford.edu/entries/margaret-fell/#DoctLigh)
-  * [2.2 反教权主义和反权威主义](https://plato.stanford.edu/entries/margaret-fell/#AntiClerAntiAuth)
-  * [2.3 自由的良心](https://plato.stanford.edu/entries/margaret-fell/#LibeCons)
-* [3. 拿笔者女权主义](https://plato.stanford.edu/entries/margaret-fell/#QuakFemi)
-
-  * [反对妇女传道的论点](https://plato.stanford.edu/entries/margaret-fell/#ArguAgaiWomePrea)
-  * [3.2 女性发言的前身合理化](https://plato.stanford.edu/entries/margaret-fell/#PrecWomeSpeaJust)
-  * [3.3 Arguments of Womens Speaking Justified3.3 妇女发言的论据得到了证明](https://plato.stanford.edu/entries/margaret-fell/#ArguWomeSpeaJust)
-* [4. 其他贵格会对妇女传道的辩护](https://plato.stanford.edu/entries/margaret-fell/#OtheQuakDefeWomePrea)
-* [5. 批评贵格会对妇女的辩护](https://plato.stanford.edu/entries/margaret-fell/#CritQuakDefeWome)
-
-  * [自然女性的贬低](https://plato.stanford.edu/entries/margaret-fell/#DeniNatuWome)
-  * [5.2 平等主义的局限性](https://plato.stanford.edu/entries/margaret-fell/#LimiEgal)
-  * [5.3 批评的回应](https://plato.stanford.edu/entries/margaret-fell/#RespCrit)
-* [结论：费尔在女权主义历史中的地位。](https://plato.stanford.edu/entries/margaret-fell/#ConcFellPlacHistFemi)
-* [ 参考文献](https://plato.stanford.edu/entries/margaret-fell/#Bib)
-
-  * [ 费尔的作品](https://plato.stanford.edu/entries/margaret-fell/#WorkFell)
-  * [其他主要文献](https://plato.stanford.edu/entries/margaret-fell/#OthePrimLite)
-  * [ 次级文献](https://plato.stanford.edu/entries/margaret-fell/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/margaret-fell/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/margaret-fell/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/margaret-fell/#Rel)
 
 ---
 

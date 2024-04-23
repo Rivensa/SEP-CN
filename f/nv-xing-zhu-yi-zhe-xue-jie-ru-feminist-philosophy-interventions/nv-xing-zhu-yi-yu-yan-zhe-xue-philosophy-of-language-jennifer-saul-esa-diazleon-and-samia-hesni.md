@@ -4,29 +4,6 @@
 
 女性主义语言哲学在很短的时间内取得了长足的进步。最初，该领域的大部分工作都是批判性的，要求对语言本身或语言哲学进行改变。然而，最近，情况发生了变化，随着几个重要的积极研究项目在语言哲学领域的出现。在本文中，我们首先讨论构成该领域女性主义工作第一阶段的批评，然后转向最近开始受到关注的积极研究项目。本文的重点通常集中在分析传统上。至于大陆派方法，请参阅有关分析和大陆哲学交叉的女性主义方法、女性主义方法与实用主义和大陆哲学交叉的条目。
 
-* [语言和语言哲学的批判性工作](https://plato.stanford.edu/entries/feminism-language/#CritWorkLangPhilLang)
-
-  * [错误的性别中立](https://plato.stanford.edu/entries/feminism-language/#FalsGendNeut)
-  * [女性的隐形](https://plato.stanford.edu/entries/feminism-language/#InviWome)
-  * [1.3 男性作为规范](https://plato.stanford.edu/entries/feminism-language/#MaleNorm)
-  * [ 1.4 性别标记](https://plato.stanford.edu/entries/feminism-language/#SexMark)
-  * [1.5 Encoding of male worldview男性世界观的编码](https://plato.stanford.edu/entries/feminism-language/#EncoMaleWorl)
-  * [1.6 改革努力：成功与局限](https://plato.stanford.edu/entries/feminism-language/#RefoEffoSuccLimi)
-  * [语言的男性化](https://plato.stanford.edu/entries/feminism-language/#MaleLang)
-  * [ 1.8 隐喻](https://plato.stanford.edu/entries/feminism-language/#Meta)
-  * [1.9 语言哲学](https://plato.stanford.edu/entries/feminism-language/#PhilLang)
-* [哲学语言学中的积极研究计划](https://plato.stanford.edu/entries/feminism-language/#PosiReseProgPhilLang)
-
-  * [2.1 Feminism and Speech Act Theory](https://plato.stanford.edu/entries/feminism-language/#FemiSpeeActTheo)
-  * [2.2 关于“女性”的含义](https://plato.stanford.edu/entries/feminism-language/#MeanWoma)
-  * [2.3. 改善项目与概念工程](https://plato.stanford.edu/entries/feminism-language/#AmelProjConcEngi)
-  * [2.4 解释性不公义](https://plato.stanford.edu/entries/feminism-language/#HermInju)
-  * [2.5 Generics](https://plato.stanford.edu/entries/feminism-language/#Gene)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-language/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-language/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-language/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-language/#Rel)
-
 ---
 
 ## 语言和语言哲学的批判性工作

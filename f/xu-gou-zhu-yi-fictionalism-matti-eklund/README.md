@@ -5,34 +5,7 @@
 
 这篇论文分为五个主要部分。第一部分包含虚构主义观点的简要历史和概述。第二部分更详细地描述了不同类型的虚构主义命题。在第三和第四部分，总结了支持和反对虚构主义的重要论点。第五部分致力于对虚构主义的哲学意义进行更广泛的讨论。
 
-* [简史和概述](https://plato.stanford.edu/entries/fictionalism/#BrieHistOver)
-* [一些资格和区别](https://plato.stanford.edu/entries/fictionalism/#SomeQualDist)
-
-  * [2.1 语言与本体论](https://plato.stanford.edu/entries/fictionalism/#LangOnto)
-  * [2.2 解释学和革命性虚构主义](https://plato.stanford.edu/entries/fictionalism/#HermRevoFict)
-  * [2.3 Meaning versus use](https://plato.stanford.edu/entries/fictionalism/#MeanVersUse)
-  * [ 2.4 Attitudes2.4 态度](https://plato.stanford.edu/entries/fictionalism/#Atti)
-* [虚构主义的论点](https://plato.stanford.edu/entries/fictionalism/#ArguForFict)
-
-  * [3.1 通过排除论者反实在论](https://plato.stanford.edu/entries/fictionalism/#ViaElimAnti)
-  * [3.2 The Oracle](https://plato.stanford.edu/entries/fictionalism/#Orac)
-  * [3.3 存在的悖论](https://plato.stanford.edu/entries/fictionalism/#ParaExis)
-  * [3.4 Analogies with uncontroversially non-literal discourse3.4 与毫无争议的非字面话语的类比](https://plato.stanford.edu/entries/fictionalism/#AnalUncoNonLiteDisc)
-* [虚构主义的反对论点](https://plato.stanford.edu/entries/fictionalism/#ArguAgaiFict)
-
-  * [4.1 现象学异议](https://plato.stanford.edu/entries/fictionalism/#PhenObje)
-  * [虚构主义能够实现目标吗？](https://plato.stanford.edu/entries/fictionalism/#FictDeliGood)
-  * [4.3 Criticisms concerning systematicity4.3 关于系统性的批评](https://plato.stanford.edu/entries/fictionalism/#CritConcSyst)
-  * [4.4 The fictionalist’s preferred analogies](https://plato.stanford.edu/entries/fictionalism/#FictPrefAnal)
-  * [4.5 语言哲学问题](https://plato.stanford.edu/entries/fictionalism/#PhilLangConc)
-  * [4.6 旧问题在新瓶子里？](https://plato.stanford.edu/entries/fictionalism/#OldProbNewBott)
-  * [ 其他反对意见](https://plato.stanford.edu/entries/fictionalism/#OtheObje)
-* [ 重要性](https://plato.stanford.edu/entries/fictionalism/#Sign)
-* [ 参考文献](https://plato.stanford.edu/entries/fictionalism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/fictionalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/fictionalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/fictionalism/#Rel)
-
+ 
 ---
 
 ## 简史和概述

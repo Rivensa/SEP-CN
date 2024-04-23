@@ -4,29 +4,6 @@
 
 理查德·腓茨拉尔夫（1299-1360）被认为是那一代在 1330 年代初期在牛津崭露头角的杰出思想家中的佼佼者之一，甚至在他的有生之年就被视为领先的思想家之一。尽管他后来的名声主要是由于他的辩论著作，特别是关于贫困问题和对方济各会的攻击，但他被霍尔科特、沃德汉姆、威克里夫和里米尼的格里高利等思想家公认为一个重要的对话者。尽管他在教义倾向上被认为有些传统，但他在重新阐述阿奎那、亨利·冈特和邓斯·斯科托等思想家的论证时，尤其在无限、未来的偶然事件和意志与理智的关系等问题上，备受赞誉。他的著作是第一本由爱尔兰人印刷的书（作为早期印刷品），因此，例如，他关于统治的理论在 16 世纪仍在讨论中。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/fitzralph/#Lif)
-* [ 2. 著作](https://plato.stanford.edu/entries/fitzralph/#Wri)
-* [3. 哲学史中的位置](https://plato.stanford.edu/entries/fitzralph/#PosHis)
-* [ 4. 自然哲学](https://plato.stanford.edu/entries/fitzralph/#Nat)
-* [5. 心理学与认知](https://plato.stanford.edu/entries/fitzralph/#PsyCog)
-
-  * [5.1 智力、记忆和意志的三位一体](https://plato.stanford.edu/entries/fitzralph/#MinTriIntMemWil)
-  * [ 5.2 种类理论](https://plato.stanford.edu/entries/fitzralph/#SpeThe)
-  * [5.3 意志及其与智力的关系](https://plato.stanford.edu/entries/fitzralph/#WilRelInt)
-* [6. 哲学神学](https://plato.stanford.edu/entries/fitzralph/#PhiThe)
-
-  * [6.1 证明上帝的存在](https://plato.stanford.edu/entries/fitzralph/#ProGodExi)
-  * [ 6.2 神的全能](https://plato.stanford.edu/entries/fitzralph/#DivOmn)
-  * [6.3 神圣的预知和未来的可能性](https://plato.stanford.edu/entries/fitzralph/#DivForFutCon)
-  * [6.4 预定和自由意志](https://plato.stanford.edu/entries/fitzralph/#PreFreWil)
-* [7. 伦理学和政治理论：Dominium](https://plato.stanford.edu/entries/fitzralph/#EthPolTheDom)
-* [ 参考文献](https://plato.stanford.edu/entries/fitzralph/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/fitzralph/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/fitzralph/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/fitzralph/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/fitzralph/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/fitzralph/#Rel)
 
 ---
 

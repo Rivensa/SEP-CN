@@ -4,24 +4,7 @@
 
 受康德阅读启发，约翰·戈特利布·费希特（1762-1814）在 18 世纪末十年间发展了一种根本修订且严谨系统的唯心论形式，他称之为“科学知识学说”或“Wissenschaftslehre”。也许 Wissenschaftslehre 最具特色、同时也最具争议的特征（至少在其早期和最具影响力的版本中）是费希特试图将整个系统建立在主体性的概念之上，或者如费希特所表达的那样，“纯粹的我”。在他在耶拿大学（1794-1799）的职业生涯中，费希特在这一基础上建立了一个包括科学哲学、伦理学、法哲学或“权利”以及宗教哲学的复杂的唯灵论体系。
 
-* [生活与工作](https://plato.stanford.edu/entries/johann-fichte/#LifeWork)
-* [2. 费希特的哲学项目](https://plato.stanford.edu/entries/johann-fichte/#FichPhilProj)
-* [第三部分：《耶拿科学教义》的起点](https://plato.stanford.edu/entries/johann-fichte/#StarPoinJenaWiss)
-* [4. 珍娜学说的系统概述](https://plato.stanford.edu/entries/johann-fichte/#SystOverJenaWiss)
 
-  * [4.1 The “Foundation”](https://plato.stanford.edu/entries/johann-fichte/#Foun)
-  * [4.2 自然哲学](https://plato.stanford.edu/entries/johann-fichte/#PhilNatu)
-  * [ 4.3 伦理学](https://plato.stanford.edu/entries/johann-fichte/#Ethi)
-  * [4.4 法哲学 (Recht)](https://plato.stanford.edu/entries/johann-fichte/#PhilLawRech)
-  * [4.5 宗教哲学](https://plato.stanford.edu/entries/johann-fichte/#PhilReli)
-* [5. 后期的《科学教义》和费希特哲学的接受](https://plato.stanford.edu/entries/johann-fichte/#LateWissReceFichPhil)
-* [ 参考文献](https://plato.stanford.edu/entries/johann-fichte/#Bib)
-
-  * [个人作品和英文翻译](https://plato.stanford.edu/entries/johann-fichte/#IndiWorkEnglTran)
-  * [费希特和《科学教义》的二手文献](https://plato.stanford.edu/entries/johann-fichte/#SecoLiteAbouFichWiss)
-* [ 学术工具](https://plato.stanford.edu/entries/johann-fichte/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/johann-fichte/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/johann-fichte/#Rel)
 
 ---
 

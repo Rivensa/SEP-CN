@@ -6,24 +6,6 @@
 
 本条目分为五个部分。导论部分(a)讨论了定义女性主义生物哲学的一些挑战，(b)将其置于上下文中并与非女性主义生物哲学进行对话，并(c)定义了性别和性别的关键概念。第二部分探讨了女性主义生物哲学中发现的各种动机和认识论观点。在第三部分中，我们讨论了女性主义对生物哲学和更普遍的科学哲学中一些基础概念的分析，如生物决定论、还原主义和本质主义。第四部分深入探讨了女性主义对生物研究的两个中心分析的例子：(a)性选择和(b)社会生物学/进化心理学。本条目最后讨论了进一步研究的机会。
 
-* [ 引言](https://plato.stanford.edu/entries/feminist-philosophy-biology/#Intr)
-* [动机、认识论观点和方法](https://plato.stanford.edu/entries/feminist-philosophy-biology/#MotiEpisPersMeth)
-
-  * [2.1 Motivations](https://plato.stanford.edu/entries/feminist-philosophy-biology/#Moti)
-  * [2.2 认识论视角](https://plato.stanford.edu/entries/feminist-philosophy-biology/#EpisPers)
-* [女性主义生物哲学中的概念主题](https://plato.stanford.edu/entries/feminist-philosophy-biology/#ConcThemFemiPhilBiol)
-
-  * [3.1 决定论、还原论和本质主义](https://plato.stanford.edu/entries/feminist-philosophy-biology/#DeteReduEsse)
-  * [ 3.2 隐喻](https://plato.stanford.edu/entries/feminist-philosophy-biology/#Meta)
-* [女性主义对特定生物研究领域的分析](https://plato.stanford.edu/entries/feminist-philosophy-biology/#FemiAnalPartAreaBiolRese)
-
-  * [ 性选择](https://plato.stanford.edu/entries/feminist-philosophy-biology/#SexuSele)
-  * [4.2 Sociobiology/Evolutionary Psychology4.2 社会生物学/进化心理学](https://plato.stanford.edu/entries/feminist-philosophy-biology/#SociPsyc)
-* [ 5. 结论](https://plato.stanford.edu/entries/feminist-philosophy-biology/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/feminist-philosophy-biology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminist-philosophy-biology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminist-philosophy-biology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminist-philosophy-biology/#Rel)
 
 ---
 

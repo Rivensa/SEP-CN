@@ -6,15 +6,7 @@
 
 除了 SEP 的女性主义哲学部分外，还有一些关于哲学史上的女性的条目，例如玛丽·沃斯通克拉夫特（Mary Wollstonecraft）、玛丽·阿斯特尔（Mary Astell）、简·亚当斯（Jane Addams）、罗莎·卢森堡（Rosa Luxemburg）、西蒙娜·德·波伏娃（Simone de Beauvoir）、艾丽丝·默多克（Iris Murdoch）等。此外，SEP 中还有数十个其他条目讨论女性主义哲学的各个方面，包括全球正义、尊重、当代非洲哲学、多元文化主义、隐私和拉丁裔哲学等。
 
-* [ 介绍](https://plato.stanford.edu/entries/feminist-philosophy/#Intr)
-* [什么是女性主义？](https://plato.stanford.edu/entries/feminist-philosophy/#WhatFemi)
-* [女性主义方法](https://plato.stanford.edu/entries/feminist-philosophy/#ApprFemi)
-* [4. 哲学中的干预](https://plato.stanford.edu/entries/feminist-philosophy/#IntePhil)
-* [女性主义议题](https://plato.stanford.edu/entries/feminist-philosophy/#TopiFemi)
-* [ 参考文献](https://plato.stanford.edu/entries/feminist-philosophy/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminist-philosophy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminist-philosophy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminist-philosophy/#Rel)
+
 
 ---
 

@@ -6,20 +6,6 @@
 
 女性主义理论家们问道，我们用于理解世界的框架是否在某种程度上扭曲，使男性或男子气概受到偏爱。如果我们采用亚里士多德的物质和本质框架，或者笛卡尔的非物质灵魂存在于物质身体中的框架，是否会有什么被忽略的？这种框架遗漏的内容是否与对女性的贬低或压迫相关？女性主义者还考虑了社会现实的结构以及社会世界与自然世界之间的关系。由于社会结构经常被证明是自然的，或者是控制自然的必要手段，女性主义者质疑这种对自然的引用是否合法。这导致了对社会建构概念的大量研究，更具体地说，是性别的社会建构。
 
-* [ 问题](https://plato.stanford.edu/entries/feminism-metaphysics/#Ques)
-* [社会建构](https://plato.stanford.edu/entries/feminism-metaphysics/#SociCons)
-
-  * [2.1 思想和概念的构建](https://plato.stanford.edu/entries/feminism-metaphysics/#ConsIdeaConc)
-  * [2.2 对象的构建](https://plato.stanford.edu/entries/feminism-metaphysics/#ConsObje)
-  * [2.3 建构与构成](https://plato.stanford.edu/entries/feminism-metaphysics/#ConsCons)
-  * [2.4 性别的建构](https://plato.stanford.edu/entries/feminism-metaphysics/#ConsGend)
-* [ 关系Relations refer to the connections and interactions between entities, whether they are individuals, objects, or abstract concepts. The study of relations is fundamental in various fields of philosophy, including metaphysics, epistemology, and ethics. In metaphysics, relations are often explored in the context of understanding the nature of reality and how entities relate to each other. Epistemologically, relations play a crucial role in the theory of knowledge, as they shape how we perceive and understand the world around us. Ethically, relations are central to moral philosophy, as they influence our interactions with others and our sense of moral responsibility. Overall, the concept of relations is essential in philosophical inquiry, as it underpins our understanding of the interconnectedness and complexity of the world.](https://plato.stanford.edu/entries/feminism-metaphysics/#Rela)
-* [ 双元论](https://plato.stanford.edu/entries/feminism-metaphysics/#Dual)
-* [ 5. 主题概述](https://plato.stanford.edu/entries/feminism-metaphysics/#OverThem)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-metaphysics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-metaphysics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-metaphysics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-metaphysics/#Rel)
 
 ---
 

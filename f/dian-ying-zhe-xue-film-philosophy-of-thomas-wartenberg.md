@@ -6,18 +6,7 @@
 
 这篇文章围绕着一些电影哲学中的核心问题展开。它探讨了电影作为一种艺术媒介的不同方面，展示了电影哲学中涉及的各种关注点。
 
-* [电影哲学的想法](https://plato.stanford.edu/entries/film/#IdeFil)
-* [电影的本质](https://plato.stanford.edu/entries/film/#NatFil)
-* [3. 电影与作者](https://plato.stanford.edu/entries/film/#FilAut)
-* [ 情感参与](https://plato.stanford.edu/entries/film/#EmoEng)
-* [ 5. 电影叙述](https://plato.stanford.edu/entries/film/#FilmNar)
-* [6. 电影与社会](https://plato.stanford.edu/entries/film/#FilSoc)
-* [7. 电影作为哲学](https://plato.stanford.edu/entries/film/#FilSouKnoAndIns)
-* [结论和预测](https://plato.stanford.edu/entries/film/#ConPro)
-* [ 参考文献](https://plato.stanford.edu/entries/film/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/film/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/film/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/film/#Rel)
+
 
 ---
 

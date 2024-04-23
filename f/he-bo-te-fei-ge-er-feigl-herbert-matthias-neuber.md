@@ -4,18 +4,6 @@ _首次发表于 2014 年 4 月 25 日星期五；实质性修订于 2022 年 10
 
 赫伯特·费格尔是一位出生于奥地利的逻辑实证主义哲学家，在 1931 年移民美国后发表了他大部分的著作。在很大程度上受到他的学术导师莫里茨·施利克的著作启发，费格尔对概率的哲学分析、科学现实主义的争论以及心灵-身体问题的分析做出了重要贡献。他的总体目标是通过他所称的“科学态度”来影响已有的哲学分析。
 
-* [传记](https://plato.stanford.edu/entries/feigl/#Bio)
-* [2. 费格尔和维也纳学派](https://plato.stanford.edu/entries/feigl/#FeiVieCir)
-* [逻辑实证主义与科学现实主义](https://plato.stanford.edu/entries/feigl/#LogEmpSciRea)
-* [心灵-身体问题的分析](https://plato.stanford.edu/entries/feigl/#AnaMinBodPro)
-* [价值判断、人道主义和宗教的著作](https://plato.stanford.edu/entries/feigl/#WriValJudHumRel)
-* [6. 费格尔和 20 世纪分析哲学](https://plato.stanford.edu/entries/feigl/#FeiTweCenAna)
-* [参考文献](https://plato.stanford.edu/entries/feigl/#Bib)
-  * [主要文献：赫伯特·费格尔选集](https://plato.stanford.edu/entries/feigl/#PriLitSelWorFei)
-  * [次级文献](https://plato.stanford.edu/entries/feigl/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/feigl/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feigl/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/feigl/#Rel)
 
 ***
 

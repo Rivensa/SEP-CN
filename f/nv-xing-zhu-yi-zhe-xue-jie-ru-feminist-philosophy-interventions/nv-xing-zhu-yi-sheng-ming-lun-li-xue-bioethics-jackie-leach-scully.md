@@ -6,41 +6,7 @@
 
 在过去的二十年中，女性主义生命伦理学已经成为学术界对医学和生命科学伦理问题进行研究的一个主要领域。本文追溯了女性主义生命伦理学的发展，这是从女性主义对主流思维的批判中产生的，详细描述了女性本体论和认识论的基本概念，这些概念区分了女性主义哲学对医学和医疗保健的方法。在这个背景下，女性主义对生命伦理问题的分析具有一些特征。文章的前几部分探讨了女性对生命伦理理论的贡献，特别是关怀伦理学和关系模式自主权，讨论了这些理论承诺如何对重要的主题领域做出了独特的贡献。后面的部分考虑了女性主义生命伦理学在回应医学和医疗保健领域新技术发展、对生命伦理兴趣范围的扩大以及女性主义思想和哲学中的概念工作方面的持续演变，每种情况都着眼于女性主义生命伦理学在学术和行动主义未来的发展。
 
-* [女性主义生命伦理学的发展](https://plato.stanford.edu/entries/feminist-bioethics/#DeveFemiBioe)
 
-  * [ 1.1 Introduction1.1 简介](https://plato.stanford.edu/entries/feminist-bioethics/#Intr)
-  * [1.2 Emergence and early days1.2 出现和早期阶段](https://plato.stanford.edu/entries/feminist-bioethics/#EmerEarlDays)
-* [2. 基础女性主义观点](https://plato.stanford.edu/entries/feminist-bioethics/#FounFemiPers)
-
-  * [ 本体论](https://plato.stanford.edu/entries/feminist-bioethics/#Onto)
-  * [ 2.2 认识论](https://plato.stanford.edu/entries/feminist-bioethics/#Epis)
-* [女性主义对生命伦理学的分析方法](https://plato.stanford.edu/entries/feminist-bioethics/#FemiApprBioeAnal)
-
-  * [3.1 权力动态和社会背景](https://plato.stanford.edu/entries/feminist-bioethics/#PoweDynaSociCont)
-  * [3.2 使用具体经验和经验知识](https://plato.stanford.edu/entries/feminist-bioethics/#UseSituEmpiExpeKnow)
-  * [3.3 身体和具身性的重要性](https://plato.stanford.edu/entries/feminist-bioethics/#ImpoBodyEmbo)
-  * [3.4 倾听边缘化的声音](https://plato.stanford.edu/entries/feminist-bioethics/#ListMargVoic)
-  * [3.5 政治承诺/行动](https://plato.stanford.edu/entries/feminist-bioethics/#PoliComm)
-* [女性主义对生命伦理学理论的贡献](https://plato.stanford.edu/entries/feminist-bioethics/#FemiContBioeTheo)
-
-  * [4.1 Care Ethics4.1 关怀伦理学](https://plato.stanford.edu/entries/feminist-bioethics/#EthiCareEthi)
-  * [4.2 关系性与关系自主权](https://plato.stanford.edu/entries/feminist-bioethics/#RelaRelaAuto)
-* [女性主义对主题领域的贡献](https://plato.stanford.edu/entries/feminist-bioethics/#FemiContThemArea)
-
-  * [生殖、生殖医学和辅助生殖技术](https://plato.stanford.edu/entries/feminist-bioethics/#ReprReprMediAssiReprTech)
-  * [5.2 关怀实践](https://plato.stanford.edu/entries/feminist-bioethics/#PracCare)
-  * [5.3 残疾和其他非标准化体现](https://plato.stanford.edu/entries/feminist-bioethics/#DisaOtheNonStanEmbo)
-  * [5.4 心理健康与疾病](https://plato.stanford.edu/entries/feminist-bioethics/#MentHealIlln)
-* [持续演化](https://plato.stanford.edu/entries/feminist-bioethics/#ContEvol)
-
-  * [6.1 回应新的生物医学技术和实践](https://plato.stanford.edu/entries/feminist-bioethics/#RespNewBiomTechPrac)
-  * [6.2 扩展学科兴趣的界限](https://plato.stanford.edu/entries/feminist-bioethics/#ExpaLimiDiscInte)
-  * [6.3 Incorporating theoretical developments6.3 吸收理论发展](https://plato.stanford.edu/entries/feminist-bioethics/#IncoTheoDeve)
-* [女性主义生命伦理学的未来](https://plato.stanford.edu/entries/feminist-bioethics/#FutuFemiBioe)
-* [ 参考文献](https://plato.stanford.edu/entries/feminist-bioethics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminist-bioethics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminist-bioethics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminist-bioethics/#Rel)
 
 ---
 

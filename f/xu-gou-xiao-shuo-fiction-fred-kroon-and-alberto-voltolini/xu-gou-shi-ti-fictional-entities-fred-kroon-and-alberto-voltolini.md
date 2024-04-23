@@ -8,29 +8,7 @@
 
 上述描述表明，虚构实体构成一种特殊类型的实体。因此，我们可以问一个关于虚构实体的基本哲学问题：虚构实体是什么样的东西？这个问题与一个更基本的问题分开：为什么要假设首先存在任何虚构实体？毕竟，我们的世界从未包含过夏洛克·福尔摩斯或瑞文戴尔——这些所谓的实体出现在虚构作品中，而不是事实作品中。根据 Thomasson 1999 的划分，我们将第一个问题称为形而上学问题，第二个问题称为本体论问题。
 
-* [虚构实体的形而上学](https://plato.stanford.edu/entries/fictional-entities/#MetaFictEnti)
-
-  * [ 1.1 可能主义](https://plato.stanford.edu/entries/fictional-entities/#Poss)
-  * [1.2 美诺和新美诺主义](https://plato.stanford.edu/entries/fictional-entities/#MeinNeoMein)
-
-    * [1.2.1 迈农的客体理论](https://plato.stanford.edu/entries/fictional-entities/#MeinTheoObje)
-    * [1.2.2 具体和抽象的新迈农主义](https://plato.stanford.edu/entries/fictional-entities/#OrthUnorNeoMein)
-    * [1.2.3 两种属性与两种断言方式](https://plato.stanford.edu/entries/fictional-entities/#TwoKindPropVsTwoModePred)
-  * [ 1.3 创造论](https://plato.stanford.edu/entries/fictional-entities/#Crea)
-* [虚构实体的本体论](https://plato.stanford.edu/entries/fictional-entities/#OntoFictEnti)
-
-  * [2.1 为现实主义辩护和反对的语义论证](https://plato.stanford.edu/entries/fictional-entities/#SemaArguForAgaiReal)
-
-    * [2.1.1 Russell’s 反实在论](https://plato.stanford.edu/entries/fictional-entities/#RussAntiReal)
-    * [2.1.2 元虚构句子和“在虚构中”运算符](https://plato.stanford.edu/entries/fictional-entities/#MetaSentFictOper)
-    * [2.1.3 The descriptivist problem for theories of fictional names](https://plato.stanford.edu/entries/fictional-entities/#DescProbForTheoFictName)
-    * [ 虚构实体理论](https://plato.stanford.edu/entries/fictional-entities/#PretTheo)
-    * [2.1.5 现实主义的量化论证](https://plato.stanford.edu/entries/fictional-entities/#QuanArguForReal)
-  * [2.2 实在论的本体论论证赞成与反对](https://plato.stanford.edu/entries/fictional-entities/#OntoArguForAgaiReal)
-* [ 参考文献](https://plato.stanford.edu/entries/fictional-entities/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/fictional-entities/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/fictional-entities/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/fictional-entities/#Rel)
+ 
 
 ---
 

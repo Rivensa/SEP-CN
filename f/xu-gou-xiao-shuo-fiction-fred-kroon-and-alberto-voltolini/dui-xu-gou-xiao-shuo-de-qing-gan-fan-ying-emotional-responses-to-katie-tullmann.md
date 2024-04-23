@@ -12,28 +12,7 @@
 
 进一步阅读：Carroll 2011; Currie 1995; Gendler & Kovakovich 2006; Tullmann & Buckwalter 2014; Walton 1978 & 1990.
 
-* [虚构小说对情感的心理学](https://plato.stanford.edu/entries/fiction-emotion-response/#PsycEmotAbouFict)
-
-  * [1.1 The distinct attitude view (DAV)](https://plato.stanford.edu/entries/fiction-emotion-response/#DistAttiViewDAV)
-  * [1.2 虚构小说理论](https://plato.stanford.edu/entries/fiction-emotion-response/#TheoMakeBeli)
-  * [ 1.3 模拟理论](https://plato.stanford.edu/entries/fiction-emotion-response/#SimuTheo)
-  * [ 1.4 共情](https://plato.stanford.edu/entries/fiction-emotion-response/#Empa)
-  * [ 1.5 替代观点](https://plato.stanford.edu/entries/fiction-emotion-response/#AlteView)
-* [虚构小说的悖论](https://plato.stanford.edu/entries/fiction-emotion-response/#ParaFict)
-
-  * [情感反应是不理性的。](https://plato.stanford.edu/entries/fiction-emotion-response/#EmotRespIrra)
-  * [2.2 Against the first proposition2.2 反对第一个命题](https://plato.stanford.edu/entries/fiction-emotion-response/#AgaiFirsProp)
-  * [2.3 Against the second proposition2.3 反对第二命题](https://plato.stanford.edu/entries/fiction-emotion-response/#AgaiSecoProp)
-  * [2.4 Against the third proposition2.4 反对第三命题](https://plato.stanford.edu/entries/fiction-emotion-response/#AgaiThirProp)
-* [进一步的谜题](https://plato.stanford.edu/entries/fiction-emotion-response/#FurtPuzz)
-
-  * [3.1 想象性抵抗之谜](https://plato.stanford.edu/entries/fiction-emotion-response/#PuzzImagResi)
-  * [3.2 Sympathy for the devil](https://plato.stanford.edu/entries/fiction-emotion-response/#SympForDevi)
-  * [3.3 痛苦艺术的悖论](https://plato.stanford.edu/entries/fiction-emotion-response/#ParaPainArt)
-* [ 参考文献](https://plato.stanford.edu/entries/fiction-emotion-response/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/fiction-emotion-response/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/fiction-emotion-response/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/fiction-emotion-response/#Rel)
+ 
 
 ---
 

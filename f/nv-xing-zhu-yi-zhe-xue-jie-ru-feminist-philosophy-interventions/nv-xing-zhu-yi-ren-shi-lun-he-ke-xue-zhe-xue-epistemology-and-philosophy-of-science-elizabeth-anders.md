@@ -6,20 +6,6 @@
 
 女性主义认识论的核心概念是“情境知识”：反映了认知者特定视角的知识。女性主义哲学家探讨性别如何定位认知主体。她们阐述了三种主要方法来回答这个问题——女性主义立场理论、女性主义后现代主义和女性主义经验主义——这些方法随着时间的推移逐渐融合。关于性别如何定位认知者的概念也影响了女性主义对该领域核心问题的处理：基于性别批判科学和女性主义科学、定义社会和政治价值在探究中的适当角色、评估客观性理想以及改革认识权威和认识美德实践。
 
-* [ 定位知识者](https://plato.stanford.edu/entries/feminism-epistemology/#SituKnow)
-* [女性主义立场理论](https://plato.stanford.edu/entries/feminism-epistemology/#FemiStanTheo)
-* [女性主义后现代主义](https://plato.stanford.edu/entries/feminism-epistemology/#FemiPost)
-* [ 女性主义经验主义](https://plato.stanford.edu/entries/feminism-epistemology/#FemiEmpi)
-* [女性主义立场理论、后现代主义和经验主义的互动](https://plato.stanford.edu/entries/feminism-epistemology/#InteFemiStanTheoPostEmpi)
-* [女性主义科学批评和女性主义科学](https://plato.stanford.edu/entries/feminism-epistemology/#FemiScieCritFemiScie)
-* [女性主义对价值导向调查的辩护](https://plato.stanford.edu/entries/feminism-epistemology/#FemiDefeValuLadeInqu)
-* [女性主义批评和客观性的概念](https://plato.stanford.edu/entries/feminism-epistemology/#FemiCritConcObje)
-* [认识论权威，认识论不义，无知认识论和美德认识论](https://plato.stanford.edu/entries/feminism-epistemology/#EpisAuthEpisInjuEpisIgnoVirtEpis)
-* [外部批评女性主义认识论](https://plato.stanford.edu/entries/feminism-epistemology/#ExteCritFemiEpis)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-epistemology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-epistemology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-epistemology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-epistemology/#Rel)
 
 ---
 

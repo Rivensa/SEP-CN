@@ -10,26 +10,7 @@
 
 在当前背景下，将从哲学逻辑的角度来探讨未来偶然事件的问题，并充分考虑哲学神学的起源。
 
-* [1. 古代和中世纪逻辑中对未来偶然性及其背景的讨论](https://plato.stanford.edu/entries/future-contingents/#DisFutConBacAncMedLog)
-* [2. 古典论证的形式化](https://plato.stanford.edu/entries/future-contingents/#ForClaArg)
-* [3. 分支时间语义](https://plato.stanford.edu/entries/future-contingents/#BraTimSem)
-* [4. 基于未来排中律否定的解决方案](https://plato.stanford.edu/entries/future-contingents/#SolBasRejPriFutExcMid)
-
-  * [4.1 Jan Łukasiewicz 的三值语义学](https://plato.stanford.edu/entries/future-contingents/#JanLukThrValSem)
-  * [4.2 皮尔斯的解决方案](https://plato.stanford.edu/entries/future-contingents/#PeiSol)
-* [5. 基于否定过去的必然性的解决方案](https://plato.stanford.edu/entries/future-contingents/#SolBasRejNecPas)
-
-  * [5.1 Prior 的奥卡姆主义解决方案](https://plato.stanford.edu/entries/future-contingents/#PriOckSol)
-  * [5.2 莱布尼兹理论](https://plato.stanford.edu/entries/future-contingents/#LeiThe)
-  * [5.3 真正的未来主义理论：薄红线](https://plato.stanford.edu/entries/future-contingents/#TruFutTheThiRedLin)
-  * [5.4 超价值论理](https://plato.stanford.edu/entries/future-contingents/#SupThe)
-  * [ 5.5 相对论理](https://plato.stanford.edu/entries/future-contingents/#RelThe)
-* [ 6. 结论](https://plato.stanford.edu/entries/future-contingents/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/future-contingents/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/future-contingents/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/future-contingents/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/future-contingents/#Rel)
-
+ 
 ---
 
 ## 1. 古代和中世纪逻辑中对未来偶然事件及其背景的讨论

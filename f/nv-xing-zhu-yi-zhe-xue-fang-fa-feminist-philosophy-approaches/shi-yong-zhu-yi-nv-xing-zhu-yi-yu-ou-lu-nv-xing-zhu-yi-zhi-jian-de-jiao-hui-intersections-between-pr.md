@@ -16,22 +16,6 @@ _首次发表于 2002 年 12 月 6 日星期五；实质性修订于 2024 年 2 
 
 尽管实用主义、欧陆哲学和女性主义之间存在许多亲和性，但在历史上很少有女性主义者的作品被公认为明确融合了其他两种传统。相反，有一小部分女性主义者以欧陆传统而闻名，他们在较不被认可的方式中也从实用主义的主题和人物中汲取灵感。接下来，我们将讨论那些通常与欧陆哲学联系在一起的女性主义者的作品中出现的主题，以阐明每位女性主义者如何结合实用主义和欧陆思想。在最后一部分中，我们将考虑女性主义者最近的作品，这些作品开创了欧陆和实用主义女性主义交汇的新用途，并提出这个年轻领域可能采取的未来方向。
 
-* [追求确定性和纯净](https://plato.stanford.edu/entries/femapproach-prag-cont/#Quests)
-* [空间性和物质性的进化成为](https://plato.stanford.edu/entries/femapproach-prag-cont/#Becoming)
-* [3. 技术科学的杂合性与物神崇拜](https://plato.stanford.edu/entries/femapproach-prag-cont/#Technoscientific)
-* [性主体的符号建构](https://plato.stanford.edu/entries/femapproach-prag-cont/#Semiotic)
-* [种族身份的现实](https://plato.stanford.edu/entries/femapproach-prag-cont/#Reality)
-* [身体与具身](https://plato.stanford.edu/entries/femapproach-prag-cont/#Bodies)
-* [7. 他者的概念](https://plato.stanford.edu/entries/femapproach-prag-cont/#Other)
-* [重塑未来：无意识的想象](https://plato.stanford.edu/entries/femapproach-prag-cont/#Refiguring)
-* [抵抗的认识论](https://plato.stanford.edu/entries/femapproach-prag-cont/#Epistemology)
-* [未来方向](https://plato.stanford.edu/entries/femapproach-prag-cont/#Future)
-  * [10.1 扩展经典](https://plato.stanford.edu/entries/femapproach-prag-cont/#Expanding)
-  * [10.2 批判性回应女性主义与实用主义和欧陆哲学的交叉点](https://plato.stanford.edu/entries/femapproach-prag-cont/#Limits)
-* [参考文献](https://plato.stanford.edu/entries/femapproach-prag-cont/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/femapproach-prag-cont/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/femapproach-prag-cont/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/femapproach-prag-cont/#Rel)
 
 ***
 

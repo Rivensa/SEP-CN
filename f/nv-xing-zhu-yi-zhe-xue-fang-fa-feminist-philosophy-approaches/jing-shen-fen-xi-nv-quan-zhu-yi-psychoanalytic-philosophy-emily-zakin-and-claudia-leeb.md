@@ -8,22 +8,7 @@
 
 在精神分析女性主义框架内可能存在各种不同立场，但共同之处在于从弗洛伊德对无意识的描述中下降、尊重并在批评和/或修订他的理论装置的同时进行了一些最小的借鉴。任何正统的精神分析理论至少必须提供一个关于无意识及其与生命力（性冲动）和死亡冲动的关系的描述。然而，正是这种下降也成为女性主义运用的障碍，因为弗洛伊德有时被表面地解读为提供了对心理结构化的厌恶，也许是普罗克鲁斯特式的阐述，将个体女性的多样经验缩减和减少为一个受限且单调的公式，以适应其自身的理论参数。尽管如此，弗洛伊德关于癔症、伊底普斯情结、女性性和女性特质以及女性在文明中的角色等想法，提供了女性主义重新表达的易燃基础、争议之地。在更详细讨论多种不同表达的精神分析女性主义之前，我们必须首先建立它们的历史根源和产生的概念领域。由于许多精神分析女性主义理论特别关注修订弗洛伊德的伊底普斯叙事，本文将特别关注弗洛伊德关于无意识理论与伊底普斯情结的相关性。
 
-* [弗洛伊德的女性之谜](https://plato.stanford.edu/entries/feminism-psychoanalysis/#FreudFem)
-* [女性主义对精神分析的批评](https://plato.stanford.edu/entries/feminism-psychoanalysis/#BeaCriPsy)
-* [语言、法律和性别差异](https://plato.stanford.edu/entries/feminism-psychoanalysis/#Lac)
-* [法国女性主义](https://plato.stanford.edu/entries/feminism-psychoanalysis/#FrenchFem)
 
-  * [女性主体的僵局](https://plato.stanford.edu/entries/feminism-psychoanalysis/#Iri)
-  * [主体性，他者性和异化。](https://plato.stanford.edu/entries/feminism-psychoanalysis/#Kri)
-* [5. Anglo-American Psychoanalytic Feminism5. 英美精神分析女性主义](https://plato.stanford.edu/entries/feminism-psychoanalysis/#AngAmePsyFem)
-* [ 6. 结论](https://plato.stanford.edu/entries/feminism-psychoanalysis/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-psychoanalysis/#Bib)
-
-  * [ 引用的作品](https://plato.stanford.edu/entries/feminism-psychoanalysis/#CitWor)
-  * [ 进一步阅读](https://plato.stanford.edu/entries/feminism-psychoanalysis/#FurRea)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-psychoanalysis/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-psychoanalysis/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-psychoanalysis/#Rel)
 
 ---
 

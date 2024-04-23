@@ -10,33 +10,6 @@ ST 认真对待这种常识性的想法，并将其发展成为一个完整的�
 
 本文的组织如下。在第 1 节（ST 的起源和种类）中，我们简要重建了 ST 的历史，并进一步阐述了 ST 的主要理论目标。然后我们继续解释了心理模拟的概念（第 2 节：“心理模拟”是什么意思？）。在第 3 节（两种模拟过程），我们考虑了心理模拟的认知结构，并介绍了高层次和低层次模拟过程之间的区别。在第 4 节（心理模拟在心理阅读中的作用）中，我们讨论了心理模拟在心理阅读中应该扮演的角色，根据 ST 的观点。这个讨论延续到第 5 节（模拟理论和理论理论），在这里我们对比了 ST 和 TT 对心理阅读的解释。最后，第 6 节（模拟理论：优点和缺点）审查了支持和反对 ST 作为心理阅读理论的一些主要论点。
 
-* [1. ST 的起源和种类](https://plato.stanford.edu/entries/folkpsych-simulation/#OrigVariST)
-* [2. “心理模拟”是什么意思？](https://plato.stanford.edu/entries/folkpsych-simulation/#WhatMeanMentSimu)
-  * [2.1 心理模拟作为相似性](https://plato.stanford.edu/entries/folkpsych-simulation/#MentSimuRese)
-  * [2.2 心理模拟作为重复利用](https://plato.stanford.edu/entries/folkpsych-simulation/#MentSimuReus)
-  * [2.3 关系、状态和过程](https://plato.stanford.edu/entries/folkpsych-simulation/#RelaStatProc)
-  * [2.4 最终的担忧](https://plato.stanford.edu/entries/folkpsych-simulation/#FinaWorr)
-* [3. 两种模拟过程](https://plato.stanford.edu/entries/folkpsych-simulation/#TwoTypeSimuProc)
-  * [3.1 高层次模拟过程](https://plato.stanford.edu/entries/folkpsych-simulation/#HighLeveSimuProc)
-  * [3.2 低层次模拟过程](https://plato.stanford.edu/entries/folkpsych-simulation/#LowLeveSimuProc)
-* [4. 模拟心理在心灵阅读中的作用](https://plato.stanford.edu/entries/folkpsych-simulation/#RoleMentSimuMind)
-  * [4.1 模拟心理在心灵阅读中的核心地位](https://plato.stanford.edu/entries/folkpsych-simulation/#CentMentSimuMind)
-  * [4.2 宪政还是因果？](https://plato.stanford.edu/entries/folkpsych-simulation/#ConsCaus)
-  * [4.3 无需判断的心理模拟](https://plato.stanford.edu/entries/folkpsych-simulation/#MindWithJudg)
-  * [4.4 心理模拟与内省](https://plato.stanford.edu/entries/folkpsych-simulation/#MindIntr)
-  * [4.5 总结](https://plato.stanford.edu/entries/folkpsych-simulation/#Summ)
-* [5. 模拟理论和理论理论](https://plato.stanford.edu/entries/folkpsych-simulation/#SimuTheoTheoTheo)
-  * [5.1 理论理论](https://plato.stanford.edu/entries/folkpsych-simulation/#TheoTheo)
-  * [5.2 Collapse or Cooperation?](https://plato.stanford.edu/entries/folkpsych-simulation/#CollCoop)
-* [6. Simulation Theory: Pros and Cons](https://plato.stanford.edu/entries/folkpsych-simulation/#SimuTheoProsCons)
-  * [6.1 The Mirror Neurons Controversy](https://plato.stanford.edu/entries/folkpsych-simulation/#MirrNeurCont)
-  * [6.2 自我与他人](https://plato.stanford.edu/entries/folkpsych-simulation/#SelfOthe)
-  * [6.3 发展性研究](https://plato.stanford.edu/entries/folkpsych-simulation/#DeveFind)
-* [7. 结论](https://plato.stanford.edu/entries/folkpsych-simulation/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/folkpsych-simulation/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/folkpsych-simulation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/folkpsych-simulation/#Oth)
-* [ST 的起源和变种](https://plato.stanford.edu/entries/folkpsych-simulation/#Rel)
 
 ***
 

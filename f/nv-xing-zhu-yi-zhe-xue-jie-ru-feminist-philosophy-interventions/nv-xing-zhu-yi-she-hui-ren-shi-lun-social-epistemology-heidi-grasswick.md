@@ -11,28 +11,6 @@
 
 女性主义认识论整体上存在着大量理论和方法的变化，构成女性主义认识论的理论和方法之间很少能够进行概括性的描述。一些理论家承认这种多样性，仅提到“女性主义认识论”（feminist epistemologies）的复数形式，担心将女性主义认识论的单一领域描述为更大的统一体。其他人则认为，最好将女性主义认识论的特定理论内容作为其最佳标识，而应该根据“作为女性主义者进行认识论”（Longino 1999）的实际含义来确定女性主义认识论。作为女性主义者进行认识论涉及将自己的女性主义关切和敏感性带入认识论领域。由于将这些关切带入认识论工作，女性主义对社会认识论的重要贡献包括对当代分析认识论的个人主义进行广泛批判，发展将认知者视为社会存在的替代模型，捍卫价值观和其他文化相关因素在认知中的适当角色，发展社会信息化客观性概念，分析在社会压迫条件下认知的挑战，以及分析社会正义和民主制度在认知中的益处。
 
-* [历史发展](https://plato.stanford.edu/entries/feminist-social-epistemology/#HisDev)
-* [社会认识论者模型](https://plato.stanford.edu/entries/feminist-social-epistemology/#SocModKno)
-
-  * [2.1 不同的认知者和立场理论](https://plato.stanford.edu/entries/feminist-social-epistemology/#DifKnoStaThe)
-  * [2.2 互动和关系性认知者](https://plato.stanford.edu/entries/feminist-social-epistemology/#IntRelKno)
-  * [2.3 Communities as Knowers2.3 社区作为认识者](https://plato.stanford.edu/entries/feminist-social-epistemology/#ComKno)
-* [社会认识论模型和客观性](https://plato.stanford.edu/entries/feminist-social-epistemology/#SocModKnoObj)
-
-  * [ 3.1 强势客观](https://plato.stanford.edu/entries/feminist-social-epistemology/#StrObj)
-  * [3.2 Objectivity as a Social Process3.2 客观性作为社会过程](https://plato.stanford.edu/entries/feminist-social-epistemology/#ObjSocPro)
-* [认知价值观、伦理和民主](https://plato.stanford.edu/entries/feminist-social-epistemology/#EpiValEthDem)
-
-  * [ 4.1 认知不义](https://plato.stanford.edu/entries/feminist-social-epistemology/#EpiInj)
-  * [4.2 知识论的无知](https://plato.stanford.edu/entries/feminist-social-epistemology/#EpiIgn)
-  * [4.3 知识生产的民主结构](https://plato.stanford.edu/entries/feminist-social-epistemology/#DemStrKnoPro)
-* [ 参考文献](https://plato.stanford.edu/entries/feminist-social-epistemology/#Bib)
-
-  * [ 参考文献](https://plato.stanford.edu/entries/feminist-social-epistemology/#RefCit)
-  * [ 进一步阅读](https://plato.stanford.edu/entries/feminist-social-epistemology/#FurRea)
-* [ 学术工具](https://plato.stanford.edu/entries/feminist-social-epistemology/#Aca)
-* [其他互联网资源Assistant&apos;s Note: The first translation session has been completed. Please proceed with the second translation session](https://plato.stanford.edu/entries/feminist-social-epistemology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminist-social-epistemology/#Rel)
 
 ---
 

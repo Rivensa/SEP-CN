@@ -12,22 +12,6 @@
 
 这里讨论的许多历史上的女性并没有自称为实用主义者，但当代学者和活动家依赖于她们的哲学思想，强调实用主义传统中的公共和参与哲学（Lake 2014; Hamington & Bardwell-Jones 2012; Yun Lee 2011）。本文首先将考虑古典实用主义时代特定女性的影响，然后强调女性主义对古典实用主义作品的重新阐释，描述当代实用主义女性哲学家如何借鉴早期实用主义女性作家的作品，以追求认识论、教育、社会行动和民主多元主义领域的项目。最后，本文将简要考虑全球实用主义女性主义新兴当代学术研究。
 
-* [早期女性主义对美国实用主义的贡献](https://plato.stanford.edu/entries/femapproach-pragmatism/#EarlFemiContAmerPrag)
-* [女性主义对古典实用主义哲学家的再阅读](https://plato.stanford.edu/entries/femapproach-pragmatism/#FemiReReadClasPragPhil)
-* [实用主义 女性主义 哲学主题](https://plato.stanford.edu/entries/femapproach-pragmatism/#PragFemiPhilThem)
-
-  * [ 3.1 重视经验](https://plato.stanford.edu/entries/femapproach-pragmatism/#ValuExpe)
-  * [ 3.2 认识论](https://plato.stanford.edu/entries/femapproach-pragmatism/#Epis)
-  * [3.3 Education](https://plato.stanford.edu/entries/femapproach-pragmatism/#Educ)
-  * [ 3.4 社会行动](https://plato.stanford.edu/entries/femapproach-pragmatism/#SociActi)
-  * [3.5 民主多元主义](https://plato.stanford.edu/entries/femapproach-pragmatism/#DiveDemo)
-* [全球实用主义女性主义](https://plato.stanford.edu/entries/femapproach-pragmatism/#Global)
-* [ 5. 结论](https://plato.stanford.edu/entries/femapproach-pragmatism/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/femapproach-pragmatism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/femapproach-pragmatism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/femapproach-pragmatism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/femapproach-pragmatism/#Rel)
-
 ---
 
 ## 早期女性主义对美国实用主义的贡献

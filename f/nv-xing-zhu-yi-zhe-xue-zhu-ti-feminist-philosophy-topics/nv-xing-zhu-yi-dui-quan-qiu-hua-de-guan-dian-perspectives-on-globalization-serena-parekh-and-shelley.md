@@ -4,25 +4,6 @@
 
 在最广泛的意义上，全球化指的是由跨国经济生产、移民、通讯和技术的扩张所导致的经济、社会、文化和政治一体化过程。尽管西方和非西方的女性主义者在哲学各个领域，包括伦理学、形而上学、政治哲学、认识论和美学等方面都对全球化的讨论做出了重要贡献，但本文关注其中的一个批评子集。在下文中，我们概述了主要是西方女性主义政治哲学家如何明确讨论全球化并阐明了与其经济和政治维度相关的挑战。
 
-* [什么是全球化？](https://plato.stanford.edu/entries/feminism-globalization/#WhaGlo)
-
-  * [1.1 经济全球化](https://plato.stanford.edu/entries/feminism-globalization/#EcoGlo)
-  * [1.2 政治全球化](https://plato.stanford.edu/entries/feminism-globalization/#PolGlo)
-* [女性主义对全球化的理论方法](https://plato.stanford.edu/entries/feminism-globalization/#FemTheAppGlo)
-
-  * [2.1 Key Common Features](https://plato.stanford.edu/entries/feminism-globalization/#KeyComFea)
-  * [2.2 独特的女性主义方法](https://plato.stanford.edu/entries/feminism-globalization/#DisFemApp)
-* [ 问题](https://plato.stanford.edu/entries/feminism-globalization/#Iss)
-
-  * [ 3.1 经济正义](https://plato.stanford.edu/entries/feminism-globalization/#EcoJus)
-  * [ 3.2 迁移](https://plato.stanford.edu/entries/feminism-globalization/#Mig)
-  * [ 3.3 人权](https://plato.stanford.edu/entries/feminism-globalization/#HumRig)
-  * [3.4 民主与全球治理](https://plato.stanford.edu/entries/feminism-globalization/#DemGloGov)
-* [ 4. 结论](https://plato.stanford.edu/entries/feminism-globalization/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-globalization/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-globalization/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-globalization/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-globalization/#Rel)
 
 ---
 

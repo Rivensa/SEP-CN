@@ -6,22 +6,6 @@ _首次发表于 2004 年 4 月 29 日星期四；实质性修订于 2021 年 3 
 
 读者们若急于“抓住重点”，可直接跳至第四部分，关于分析女性主义特征。前三部分通过解释分析女性主义者与她们共享的各种传统之间的关系，为分析女性主义设定了背景。
 
-* [传统分析女性主义者与其他分析哲学家分享的传统](https://plato.stanford.edu/entries/femapproach-analytic/#TradAnalFemiSharOtheAnalPhil)
-* [2. Analytic Feminists 与其他女性主义哲学家分享的特点](https://plato.stanford.edu/entries/femapproach-analytic/#WhatAnalFemiSharOtheFemiPhil)
-* [女性主义哲学家之间差异的各种刻画方式](https://plato.stanford.edu/entries/femapproach-analytic/#VariWaysCharDiffAmonFemiPhil)
-* [分析女性主义的特征](https://plato.stanford.edu/entries/femapproach-analytic/#CharAnalFemi)
-  * [教义、欲望和工具](https://plato.stanford.edu/entries/femapproach-analytic/#DoctDesiTool)
-  * [4.2 桥梁建设](https://plato.stanford.edu/entries/femapproach-analytic/#BridBuil)
-  * [4.3 风格与侵略](https://plato.stanford.edu/entries/femapproach-analytic/#StylAggr)
-  * [4.4 重建哲学](https://plato.stanford.edu/entries/femapproach-analytic/#RecoPhil)
-* [二十世纪女性主义对分析哲学的批评](https://plato.stanford.edu/entries/femapproach-analytic/#TwenCentFemiCritAnalPhil)
-* [6. Analytic Feminists’ Responses to Critiques6. 分析女性主义者对批评的回应](https://plato.stanford.edu/entries/femapproach-analytic/#AnalFemiRespCrit)
-* [分析女性主义：限制与挑战](https://plato.stanford.edu/entries/femapproach-analytic/#AnalFemiLimiChal)
-* [重要性是否通过他们的哲学方法来识别女性主义者？](https://plato.stanford.edu/entries/femapproach-analytic/#ItImpoIdenFemiTheiPhilMeth)
-* [参考文献](https://plato.stanford.edu/entries/femapproach-analytic/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/femapproach-analytic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/femapproach-analytic/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/femapproach-analytic/#Rel)
 
 ***
 

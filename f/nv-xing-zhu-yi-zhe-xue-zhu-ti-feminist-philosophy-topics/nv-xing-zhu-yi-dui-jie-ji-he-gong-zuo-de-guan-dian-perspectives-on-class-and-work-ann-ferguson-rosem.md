@@ -8,22 +8,7 @@
 
 在过去的 30 年中，已经有大量研究致力于女性和工作在全球劳动力分工转变的背景下（Ehrenreich and Hochschild 2004）。其中一些女性主义研究是基于联合国和其他政策制定机构提倡的发展观点（Chen et al. 2005），而另一些研究持更为批判的观点（Beneria 2003; Pyle and Ward 2007）。许多研究探讨了特定国家经济中性别劳动分工的变化（Freeman 1999; George 2005; Rofel; Sangster 1995），而其他研究考虑了跨国移民对女性阶级地位的影响（Pratt 2004; Romero 1992; Stephen 2007; Keogh 2015）以及女性跨阶级团结和基于草根的组织机会（Mohanty 2003）。更近期的女性主义研究探讨了工作重组及其对女性和性别文化的影响，作为新自由主义经济调整的结果（Adkins 2002; Enloe 2004; Federici 2008 [Other Internet Resources]; McRobbie 2002; Skeggs 2003）。
 
-* [马克思主义、工作和人性](https://plato.stanford.edu/entries/feminism-class/#MarxWorkHumaNatu)
-* [马克思主义女性主义分析](https://plato.stanford.edu/entries/feminism-class/#MarxFemiAnal)
-* [第三波女性主义对女性和工作的分析](https://plato.stanford.edu/entries/feminism-class/#FirsWaveFemiAnalWomeWork)
-* [第四章 女性主义对家务劳动的第二波分析](https://plato.stanford.edu/entries/feminism-class/#SecoWaveFemiAnalHous)
-* [5. 公共/私人分裂及其含义](https://plato.stanford.edu/entries/feminism-class/#PublSpliImpl)
-* [女性和工作的心理理论](https://plato.stanford.edu/entries/feminism-class/#PsycTheoWomeWork)
-* [女性关怀工作的伦理理论](https://plato.stanford.edu/entries/feminism-class/#EthiTheoWomeCariWork)
-* [现代主义与后现代主义女性主义理论](https://plato.stanford.edu/entries/feminism-class/#ModeVsPostFemiTheo)
-* [种族、阶级和交叉女性主义分析](https://plato.stanford.edu/entries/feminism-class/#RaceClasInteFemiAnal)
-* [无政府主义者对工作及其他方面的观点](https://plato.stanford.edu/entries/feminism-class/#AnarPersWorkOthe)
-* [对工作和非工作的惩罚性视角](https://plato.stanford.edu/entries/feminism-class/#PuniPersWorkNonWork)
-* [ 结束语](https://plato.stanford.edu/entries/feminism-class/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-class/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-class/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-class/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-class/#Rel)
+
 
 ---
 

@@ -3,20 +3,6 @@
 
 沙姆-托夫·本·约瑟夫·伊本·法拉奎拉（约公元 1225 年至 1295 年），曾是一位诗人和犹太哲学家，通常在犹太哲学史中被忽视，即使是该领域的学生也不太熟悉；然而，很少有中世纪犹太哲学家能与他在古希腊、中世纪伊斯兰和犹太哲学家的著作方面的学识和知识相匹敌。法拉奎拉的主要目标似乎是激发并教育同教信仰者对哲学和科学的兴趣，既是为了本身的价值，也是为了正确理解经文。在这样做的过程中，他对犹太哲学史作出了重要贡献。
 
-* [ 生命](https://plato.stanford.edu/entries/falaquera/#Lif)
-* [2. Falaquera as popularizer2. 作为普及者的法拉奎拉](https://plato.stanford.edu/entries/falaquera/#FalPop)
-* [3. Falaquera 作为释义者](https://plato.stanford.edu/entries/falaquera/#FalPar)
-* [4. Falaquera as an encyclopedist4. 闪-托夫·伊本·法拉奎拉作为百科全书编纂者](https://plato.stanford.edu/entries/falaquera/#FalEnc)
-* [5. Falaquera as a commentator5. 闪-托夫·伊本·法拉奎拉作为评论家](https://plato.stanford.edu/entries/falaquera/#FalCom)
-* [6. Falaquera as an exegete6. 作为一位圣经注释者的法拉克雷拉](https://plato.stanford.edu/entries/falaquera/#FalExe)
-* [结论：法拉奎拉作为一位哲学家。](https://plato.stanford.edu/entries/falaquera/#ConFalPhi)
-* [ 参考文献](https://plato.stanford.edu/entries/falaquera/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/falaquera/#PriSou)
-  * [ 次级来源](https://plato.stanford.edu/entries/falaquera/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/falaquera/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/falaquera/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/falaquera/#Rel)
 
 ---
 

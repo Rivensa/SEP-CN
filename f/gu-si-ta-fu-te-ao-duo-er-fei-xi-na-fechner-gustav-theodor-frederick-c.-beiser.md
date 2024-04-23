@@ -4,21 +4,6 @@ _2020 年 1 月 12 日星期日首次发表_
 
 费希纳的哲学以他的形而上学兴趣和实证主义倾向之间的冲突为特征。他的形而上学兴趣使他倾向于心灵万物论：即宇宙是由心灵或灵魂创造和统治的学说；他的实证主义倾向使他坚持早期验证主义和现象主义。费希纳坚称这些倾向之间没有差异，最好的科学证据支持宇宙是心灵的观点。他的心灵哲学是早期的中性唯心主义形式。
 
-* [一个分裂的灵魂](https://plato.stanford.edu/entries/fechner/#DiviSoul)
-* [早期岁月](https://plato.stanford.edu/entries/fechner/#EarlYear)
-* [3. 分裂](https://plato.stanford.edu/entries/fechner/#Brea)
-* [植物的灵魂](https://plato.stanford.edu/entries/fechner/#SoulPlan)
-* [宇宙的灵魂](https://plato.stanford.edu/entries/fechner/#SoulUniv)
-* [6. 原子的存在](https://plato.stanford.edu/entries/fechner/#ExisAtom)
-* [心灵理论](https://plato.stanford.edu/entries/fechner/#TheoMind)
-* [参考文献](https://plato.stanford.edu/entries/fechner/#Bib)
-  * [费希纳的作品](https://plato.stanford.edu/entries/fechner/#WorkFech)
-  * [其他主要来源](https://plato.stanford.edu/entries/fechner/#OthePrimSour)
-  * [次级来源](https://plato.stanford.edu/entries/fechner/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/fechner/#Aca)
-* [其他互联网资源Assistant's Note: The first translation session has been completed. Now, I will proceed with the second translation session based on the result of the first translation.其他网络资源](https://plato.stanford.edu/entries/fechner/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/fechner/#Rel)
-
 ***
 
 ## 一个分裂的灵魂

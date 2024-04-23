@@ -3,19 +3,7 @@
 *首次发表于 2006 年 6 月 15 日；实质性修订于 2020 年 3 月 31 日。*
 
 关于未来偶然事件的真值问题的哲学辩论源自亚里士多德的著作《解释学》（Peri hermeneias）第 9 章。在第 7 至 8 章中，亚里士多德讨论了对立的断言性陈述对真假的划分，以至于其中一个是真的，另一个是假的。在第 9 章中，他提出了一个问题，即这是否适用于所有的断言性陈述，或者关于特定未来事件或状态的陈述是否可能存在例外情况，这些事件或状态既不是必然的，也不是不可能的，因此可能发生，也可能不发生。亚里士多德著名的例子是明天的海战。如果预测明天将发生一场海战是真的，那么这个预测是否必然成立？它的真实性是否意味着海战是不可避免的？在讨论了决定论的论证和宿命论的荒谬性之后（18a34–19a22），亚里士多德在 19a23–39 中给出了他模棱两可的回答。博伊修斯（约公元 480 年至 524 年）对《解释学》的拉丁翻译通过中世纪产生了一系列的评论传统，始于 11 世纪。博伊修斯自己的两个评论也非常有影响力，并提供了关于其他古代评论的信息（Magee 2010）。第 9 章也在彼得·伦巴德的《句子集》（I.38）的神学评论和单独的问题中进行了讨论（Isaac 1953；Lohr 1967–1974；Craig 1988；Marenbon 2000；Braakhuis & Kneepkens 2003a；Knuuttila 2010）。阿尔法拉比（约公元 870 年至 950 年）对《解释学》的评论在中世纪阿拉伯哲学中具有影响力；阿维罗伊斯（1126 年至 1198 年）撰写了另一篇阿拉伯评论。（有关中世纪阿拉伯思想中的未来偶然事件，请参见 Marmura 1985；Adamson 2006。）
-
-* [1. 从亚里士多德到博伊修斯](https://plato.stanford.edu/entries/medieval-futcont/#ArisBoet)
-* [2. Medieval Developments from Abelard to Aquinas](https://plato.stanford.edu/entries/medieval-futcont/#MediDeveAbelAqui)
-* [3. Interpreting Aristotle](https://plato.stanford.edu/entries/medieval-futcont/#InteAris)
-* [4. Later Medieval Views](https://plato.stanford.edu/entries/medieval-futcont/#LateMediView)
-* [Bibliography](https://plato.stanford.edu/entries/medieval-futcont/#Bib)
-
-  * [Primary sources](https://plato.stanford.edu/entries/medieval-futcont/#PrimSour)
-  * [Secondary sources](https://plato.stanford.edu/entries/medieval-futcont/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/medieval-futcont/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/medieval-futcont/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/medieval-futcont/#Rel)
-
+ 
 ---
 
 ## 1. 从亚里士多德到博伊修斯

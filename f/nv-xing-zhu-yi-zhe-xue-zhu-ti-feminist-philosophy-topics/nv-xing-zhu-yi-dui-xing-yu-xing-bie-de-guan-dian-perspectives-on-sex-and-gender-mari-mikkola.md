@@ -4,41 +4,6 @@
 
 女性主义被认为是结束女性压迫的运动 (hooks 2000, 26)。理解这一说法的一种可能方式是将“女性”视为一个性别术语：‘女性’指代人类的雌性，而作为人类的雌性取决于各种生物学和解剖学特征（如生殖器官）。历史上许多女性主义者对“女性”有不同的理解：不是作为一个性别术语，而是作为一个依赖社会和文化因素（如社会地位）的性别术语。这样做，他们区分了性别（雌性或雄性）和性别（女性或男性）,尽管大多数普通语言使用者似乎将这两者视为可互换的。在女性主义哲学中，这种区别引发了激烈的辩论。核心问题包括：如果有的话，性别与性别有何不同？我们应该如何理解性别取决于社会和/或文化因素的说法？作为被赋予性别的女性、男性或性别酷儿意味着什么？本文概述并讨论了关于性别和性别的明显女性主义辩论，考虑了历史和更当代的立场。
 
-* [性与性别的区分。](https://plato.stanford.edu/entries/feminism-gender/#SexDis)
-
-  * [1.1 生物决定论](https://plato.stanford.edu/entries/feminism-gender/#BioDet)
-  * [ 1.2 性别术语](https://plato.stanford.edu/entries/feminism-gender/#GenTer)
-* [性别作为社会构建的概念](https://plato.stanford.edu/entries/feminism-gender/#GenSocCon)
-
-  * [2.1 Gender socialisation2.1 性别社会化](https://plato.stanford.edu/entries/feminism-gender/#GenSoc)
-  * [2.2 Gender as feminine and masculine personality2.2 性别作为女性和男性人格](https://plato.stanford.edu/entries/feminism-gender/#GenFemMasPer)
-  * [2.3 Gender as feminine and masculine sexuality2.3 性别作为女性和男性的性取向](https://plato.stanford.edu/entries/feminism-gender/#GenFemMasSex)
-* [性别区分的问题](https://plato.stanford.edu/entries/feminism-gender/#ProSexDis)
-
-  * [性别是否统一？](https://plato.stanford.edu/entries/feminism-gender/#GenUni)
-
-    * [3.1.1 特殊性论证](https://plato.stanford.edu/entries/feminism-gender/#ParArg)
-    * [3.1.2 规范性论证](https://plato.stanford.edu/entries/feminism-gender/#NorArg)
-  * [性别分类仅仅是生物学问题吗？](https://plato.stanford.edu/entries/feminism-gender/#SexClaSolMatBio)
-  * [3.3 性与性别是否不同？](https://plato.stanford.edu/entries/feminism-gender/#SexGenDis)
-  * [3.4 性/性别区分是否有用？](https://plato.stanford.edu/entries/feminism-gender/#SexDisUse)
-* [女性作为一个群体](https://plato.stanford.edu/entries/feminism-gender/#WomGro)
-
-  * [性别名实主义](https://plato.stanford.edu/entries/feminism-gender/#GenNom)
-
-    * [性别社会序列](https://plato.stanford.edu/entries/feminism-gender/#YouSocSer)
-    * [4.1.2 相似名义主义](https://plato.stanford.edu/entries/feminism-gender/#StoResNom)
-  * [4.2 新性别现实主义](https://plato.stanford.edu/entries/feminism-gender/#NewGenRea)
-
-    * [社会服从和性别](https://plato.stanford.edu/entries/feminism-gender/#HasSocSub)
-    * [性别非本质主义](https://plato.stanford.edu/entries/feminism-gender/#WitGenUni)
-    * [性别作为位置性](https://plato.stanford.edu/entries/feminism-gender/#AlcPos)
-* [超越二元论](https://plato.stanford.edu/entries/feminism-gender/#BeyBin)
-* [ 6. 结论](https://plato.stanford.edu/entries/feminism-gender/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-gender/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-gender/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-gender/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-gender/#Rel)
 
 ---
 

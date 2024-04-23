@@ -4,20 +4,6 @@
 
 友谊在这里的理解是一种独特的个人关系，它根植于每个朋友对他人福祉的关切，是为了他人的利益，并涉及一定程度的亲密。因此，友谊无疑是我们生活中的核心部分，部分原因是因为我们对朋友的特殊关切必须在更广泛的关切中占有一席之地，包括道德关切，另一部分原因是因为我们的朋友可以帮助塑造我们作为个人的形象。鉴于这种核心性，关于友谊的正当化以及在这种情境下，当有新人出现时是否可以“升级”以及关于在友谊的要求与道德的要求似乎相冲突的情况下是否可能调和友谊的要求的重要问题就出现了。
 
-* [1. 友谊的本质](https://plato.stanford.edu/entries/friendship/#NatuFrie)
-
-  * [ 1.1 相互关怀](https://plato.stanford.edu/entries/friendship/#MutuCari)
-  * [ 1.2 亲密](https://plato.stanford.edu/entries/friendship/#Inti)
-  * [ 1.3 共享活动](https://plato.stanford.edu/entries/friendship/#SharActi)
-* [2. 友谊的价值和理由](https://plato.stanford.edu/entries/friendship/#ValuJustFrie)
-
-  * [ 2.1 个人价值](https://plato.stanford.edu/entries/friendship/#IndiValu)
-  * [ 2.2 社会价值](https://plato.stanford.edu/entries/friendship/#SociValu)
-* [3. 友谊与道德理论](https://plato.stanford.edu/entries/friendship/#FrieMoraTheo)
-* [ 参考文献](https://plato.stanford.edu/entries/friendship/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/friendship/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/friendship/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/friendship/#Rel)
 
 ---
 

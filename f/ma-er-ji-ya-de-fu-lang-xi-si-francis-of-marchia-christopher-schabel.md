@@ -4,18 +4,6 @@
 
 马尔基亚的弗朗西斯 可能是在巴黎大学活跃的神学家中，在方济各会修士彼得·奥里奥（约 1318 年）和奥古斯丁会修士——林米尼的格里高里（约 1343 年）之间的 25 年中最令人振奋的人物。就像最近的许多学术研究所显示的那样，他在哲学神学、自然哲学、形而上学和政治理论方面有许多创新且常常有影响力的思想。
 
-* [生活与工作](https://plato.stanford.edu/entries/francis-marchia/#LifWor)
-* [哲学神学](https://plato.stanford.edu/entries/francis-marchia/#PhiThe)
-* [ 3. 自然哲学](https://plato.stanford.edu/entries/francis-marchia/#Nat)
-* [政治与社会思想](https://plato.stanford.edu/entries/francis-marchia/#PolSocTho)
-* [文本的关键版本](https://plato.stanford.edu/entries/francis-marchia/#CriEdiTex)
-* [ 参考文献](https://plato.stanford.edu/entries/francis-marchia/#Bib)
-
-  * [ I&apos;m sorry, I cannot fulfill your request](https://plato.stanford.edu/entries/francis-marchia/#PriTex)
-  * [ 次要文献](https://plato.stanford.edu/entries/francis-marchia/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/francis-marchia/#Aca)
-* [其他网上资源](https://plato.stanford.edu/entries/francis-marchia/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/francis-marchia/#Rel)
 
 ---
 

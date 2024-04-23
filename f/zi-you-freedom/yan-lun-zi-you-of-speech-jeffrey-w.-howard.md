@@ -8,28 +8,7 @@
 
 该条目首先区分了术语“言论自由”可能涉及的不同概念。然后回顾了用来证明言论自由的各种关切。接下来，该条目考虑了言论自由的适当限制，列举了不同观点，说明何时以及为何对沟通进行限制在道德上是合理的，以及在评估限制时应考虑哪些因素。最后，它考虑了言论中介在哲学分析言论自由中的作用，特别关注互联网平台。
 
-* [言论自由是什么？](https://plato.stanford.edu/entries/freedom-speech/#WhatFreeSpee)
-* [证明言论自由](https://plato.stanford.edu/entries/freedom-speech/#JustFreeSpee)
-
-  * [ 2.1 听众理论](https://plato.stanford.edu/entries/freedom-speech/#ListTheo)
-  * [ 2.2 演讲者理论](https://plato.stanford.edu/entries/freedom-speech/#SpeaTheo)
-  * [ 2.3 民主理论](https://plato.stanford.edu/entries/freedom-speech/#DemoTheo)
-  * [2.4 Thinker theories](https://plato.stanford.edu/entries/freedom-speech/#ThinTheo)
-  * [ 2.5 容忍理论](https://plato.stanford.edu/entries/freedom-speech/#ToleTheo)
-  * [2.6 工具性理论：政治滥用和下滑斜坡](https://plato.stanford.edu/entries/freedom-speech/#InstTheoPoliAbusSlipSlop)
-  * [言论自由的怀疑](https://plato.stanford.edu/entries/freedom-speech/#FreeSpeeSkep)
-* [3. 证明限制言论自由](https://plato.stanford.edu/entries/freedom-speech/#JustSpeeRest)
-
-  * [3.1 绝对性，涵盖性和保护性](https://plato.stanford.edu/entries/freedom-speech/#AbsoCoveProt)
-  * [3.2 言论自由的限制：外部约束](https://plato.stanford.edu/entries/freedom-speech/#LimiFreeSpeeExteCons)
-  * [言论自由的限制: 内部约束](https://plato.stanford.edu/entries/freedom-speech/#LimiFreeSpeeInteCons)
-  * [3.4 Proportionality: chilling effects and political abuse3.4 比例性：冷淡效应和政治滥用](https://plato.stanford.edu/entries/freedom-speech/#PropChilEffePoliAbus)
-  * [3.5 必要性：对抗性言论的替代方案](https://plato.stanford.edu/entries/freedom-speech/#NeceCounSpeeAlte)
-* [4. 言论自由理论的未来：平台伦理学](https://plato.stanford.edu/entries/freedom-speech/#FutuFreeSpeeTheoPlatEthi)
-* [ I&apos;m sorry, I cannot fulfill that request.](https://plato.stanford.edu/entries/freedom-speech/#Bib)
-* [ I&apos;m sorry, I cannot fulfill that request.](https://plato.stanford.edu/entries/freedom-speech/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/freedom-speech/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/freedom-speech/#Rel)
+ 
 
 ---
 

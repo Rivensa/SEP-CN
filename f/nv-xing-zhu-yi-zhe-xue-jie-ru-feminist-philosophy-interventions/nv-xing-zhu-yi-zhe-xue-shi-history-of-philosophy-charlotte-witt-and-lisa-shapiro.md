@@ -10,23 +10,6 @@
 
 以下条目包含 4 个主要部分。第 1 部分（“女性主义对经典的批评：作为厌恶女性主义者”）描述了对哲学经典的女性主义阅读，挑战了其对女性的贬低性描述。这些批评主要有三种：（a）记录伟大哲学家明显的厌恶女性主义的阅读（比如亚里士多德将女性描述为畸形男性）；（b）主张对理论概念进行性别解读的阅读（比如亚里士多德中的物质和形式）；（c）对经典的综合解读（比如历史上理性和客观性被赋予男性性别的观点）。女性主义对经典的第三类批评诊断了整个哲学领域最深层次的错误，从而构建了一个哲学的负经典。负经典揭示了哲学史上经典哲学家的观点明显或隐含地带有厌恶女性或性别歧视。第 2 部分（“女性主义对哲学史的修订”）讨论了女性主义哲学对“没有女性哲学家”或者“没有重要女性哲学家”的神话的回应。其中一种回应是为了历史记录而挖掘女性哲学家。另一个相关发展是将像玛丽·沃斯通克拉夫特、汉娜·阿伦特和西蒙娜·德·波伏娃这样的女性哲学家提升到经典地位。最后，女性主义对哲学史和经典的修订提出了重要而紧迫的问题，关于如何将女性哲学家牢固地编织到哲学故事中，使她们开始出现在哲学课程中。第 3 部分（“女性主义对经典哲学家的吸收”）考察了女性主义哲学家重新阅读经典的方式，寻找那些哲学家（如休谟）和那些理论（如亚里士多德的德行伦理学）中对当前女性主义潮流最友好或为女性主义思想提供最多支持的先例。这是将经典用作其他运动所做的方式——作为资源，并且作为证实女性主义视角或问题牢固根植于我们的哲学文化中的方式。第 4 部分（“女性主义对哲学史的方法论反思”）讨论了女性主义对哲学史的研究所引发的方法论问题。对传统哲学史阅读方法持批判态度的女性主义者提出了几种替代阅读策略，他们认为这些策略比传统方法更适合女性主义目的。这些作家对第 3 部分中概述的吸收项目持怀疑态度，他们的怀疑引发了有趣的问题，即我们在研究哲学史时所做的是什么。
 
-* [女性主义对哲学史中的男性至上主义的批评](https://plato.stanford.edu/entries/feminism-femhist/#Crit)
-
-  * [1.1 哲学文本中的明显厌女言论](https://plato.stanford.edu/entries/feminism-femhist/#Mis)
-  * [1.2 Gendered Interpretations of Philosophical Concepts1.2 哲学概念的性别化解读](https://plato.stanford.edu/entries/feminism-femhist/#Int)
-  * [1.3 哲学经典的综合解释](https://plato.stanford.edu/entries/feminism-femhist/#Syn)
-* [女性主义对哲学史的修订](https://plato.stanford.edu/entries/feminism-femhist/#Rev)
-
-  * [2.1 早期现代女性哲学家：一个案例研究](https://plato.stanford.edu/entries/feminism-femhist/#EarModWomPhi)
-* [女性主义对经典哲学家的挪用](https://plato.stanford.edu/entries/feminism-femhist/#Appr)
-* [女性主义对哲学史的方法论反思](https://plato.stanford.edu/entries/feminism-femhist/#Meth)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-femhist/#Bib)
-
-  * [综合书目 [阿比盖尔·戈斯林、罗莎琳德·查普林、艾米丽·霍奇斯和阿林·瓦尔丘的补充文件]](https://plato.stanford.edu/entries/feminism-femhist/bib.html)
-  * [ 参考文献](https://plato.stanford.edu/entries/feminism-femhist/#Ref)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-femhist/#Aca)
-* [其他互联网资源Assistant&apos;s Note: The first translation session has been completed. Please proceed with the second translation session](https://plato.stanford.edu/entries/feminism-femhist/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-femhist/#Rel)
 
 ---
 

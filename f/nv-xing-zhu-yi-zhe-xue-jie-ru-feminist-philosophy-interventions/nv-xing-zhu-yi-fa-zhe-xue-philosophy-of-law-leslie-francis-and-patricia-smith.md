@@ -6,23 +6,6 @@
 
 解决女性主义法哲学的目标需要理论发展、概念分析和概念修订。促进妇女的自由和平等反映了对妇女性质及其在世界中适当地位的基本假设发生了深刻转变：从性别不平等到性别平等的转变，以及重新审视平等本身所需的内容。这还需要重新审视性别、性别和性别角色的理解。鉴于这种变化的范围和细节，女性主义法律理论在多个层面上进行，从务实、具体和特定到概念性和最终愿景。一些这样的著作出现在哲学期刊和专著中，但也有很多出现在性别研究和女性主义期刊、通俗法律评论以及许多专门关注性别和正义问题的法律期刊中。本文首先简要概述了女性主义法律理论的基本主题，然后讨论了关于法律若干实质领域中所需制度变革观点的演变：政治平等、移民和公民权利；婚姻、生殖权利和身体商品化；暴力保护；以及经济权利。
 
-* [女性主义法哲学中的基本主题](https://plato.stanford.edu/entries/feminism-law/#FunTheFemLeg)
-
-  * [法治](https://plato.stanford.edu/entries/feminism-law/#RulLaw)
-  * [1.2 平等与差异](https://plato.stanford.edu/entries/feminism-law/#EquDif)
-  * [1.3 法律中的合理性](https://plato.stanford.edu/entries/feminism-law/#ReaLaw)
-  * [1.4 公共与私人](https://plato.stanford.edu/entries/feminism-law/#PubPri)
-  * [ 1.5 人权](https://plato.stanford.edu/entries/feminism-law/#HumRig)
-  * [1.6 多重方法论](https://plato.stanford.edu/entries/feminism-law/#MulMet)
-* [2. 形式平等与平等公民身份](https://plato.stanford.edu/entries/feminism-law/#ForEquEquCit)
-* [婚姻、生殖权和身体的商品化](https://plato.stanford.edu/entries/feminism-law/#MarRepRigComBod)
-* [对女性的暴力](https://plato.stanford.edu/entries/feminism-law/#VioAgaWom)
-* [社会和经济生活中的平等](https://plato.stanford.edu/entries/feminism-law/#EquSocEcoLif)
-* [ 6. 结论](https://plato.stanford.edu/entries/feminism-law/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-law/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-law/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-law/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-law/#Rel)
 
 ---
 

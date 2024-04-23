@@ -8,23 +8,6 @@
 
 女性主义哲学在批判和重建许多哲学领域方面发挥了重要作用，从美学到科学哲学，女性主义政治哲学也是典范，因为它最好地体现了女性主义理论的要点，即借用马克思的一句话，不仅是理解世界，而且是改变世界（Marx 1845）。尽管其他领域可能会改变世界，女性主义政治哲学最直接地关注集体生活如何得以改善的方式。这个项目涉及理解权力是如何在公共生活中出现并被使用或滥用的方式（参见女性主义权力观的条目）。与其他类型的女性主义理论一样，共同的主题已经出现供讨论和批判，但在女性主义理论家中，关于最佳理解方式的共识却很少。这篇介绍性文章概述了过去四十年来占据这一充满活力的哲学领域的关注领域。它广泛理解女性主义哲学，包括由女性主义理论家从其他学科进行的这项哲学工作，尤其是政治科学，但也包括人类学、比较文学、法律以及其他人文社会科学项目。
 
-* [历史背景和发展](https://plato.stanford.edu/entries/feminism-political/#HistContDeve)
-* [当代方法与辩论](https://plato.stanford.edu/entries/feminism-political/#ContApprDeba)
-
-  * [2.1 Feminist Engagements with Liberalism and Neoliberalism](https://plato.stanford.edu/entries/feminism-political/#FemiEngaLibeNeol)
-  * [ 2.2 Radical Feminism2.2 激进女性主义](https://plato.stanford.edu/entries/feminism-political/#RadiFemi)
-  * [社会主义、马克思主义和唯物主义女性主义。](https://plato.stanford.edu/entries/feminism-political/#SociMarxMateFemi)
-  * [2.4 后结构主义女性主义](https://plato.stanford.edu/entries/feminism-political/#PostFemi)
-  * [2.5 Care, Vulnerability, Affect2.5 关怀、脆弱性、情感](https://plato.stanford.edu/entries/feminism-political/#CareVulnAffe)
-  * [2.6 交叉女性主义](https://plato.stanford.edu/entries/feminism-political/#InteFemi)
-  * [2.7 跨国、去殖民化和土著女性主义](https://plato.stanford.edu/entries/feminism-political/#TranDecoIndiFemi)
-  * [2.8 Feminist Democratic Theory](https://plato.stanford.edu/entries/feminism-political/#FemiDemoTheo)
-* [女性主义政治哲学的新方向](https://plato.stanford.edu/entries/feminism-political/#NewDireFemiPoliPhil)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-political/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-political/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-political/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-political/#Rel)
-
 ---
 
 ## 历史背景和发展

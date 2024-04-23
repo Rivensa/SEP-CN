@@ -4,40 +4,7 @@
 
 保罗·费耶阿本德 (b.1924, d.1994)，在维也纳大学学习科学后，转向哲学撰写博士论文，以对卡尔·波普尔的“批判理性主义”进行阐述和批评而闻名，并成为二十世纪最著名的科学哲学家之一。作为一位富有想象力的特立独行者，他成为科学哲学本身的批评者，特别是对“理性主义”试图制定或发现科学方法规则的尝试持批判态度。
 
-* [费耶阿本德生平及工作简要年表](https://plato.stanford.edu/entries/feyerabend/#BrieChroFeyeLifeWork)
-* [费耶阿本德的早年生活](https://plato.stanford.edu/entries/feyerabend/#FeyeEarlLife)
 
-  * [青年时期（1924 年-1938 年）](https://plato.stanford.edu/entries/feyerabend/#Yout19241938)
-  * [2.2 The ](https://plato.stanford.edu/entries/feyerabend/#Ansc1938)​*[Anschluss](https://plato.stanford.edu/entries/feyerabend/#Ansc1938)*​[ (1938)](https://plato.stanford.edu/entries/feyerabend/#Ansc1938)
-  * [2.3 战争 (1939–1945)](https://plato.stanford.edu/entries/feyerabend/#War1939)
-  * [战后活动 (1945–1947)](https://plato.stanford.edu/entries/feyerabend/#PostWarActi1945)
-* [费耶阿本德的哲学转向：维也纳学派、波普尔和维特根斯坦](https://plato.stanford.edu/entries/feyerabend/#FeyeTurnPhilVienCircPoppWitt)
-
-  * [3.1 返回维也纳：大学生活，阿尔巴赫和波普尔（1947-1948）](https://plato.stanford.edu/entries/feyerabend/#RetuVienUnivLifeAlpbPopp1947)
-  * [3.2 与维特根斯坦的早期接触（1948–1952）](https://plato.stanford.edu/entries/feyerabend/#EarlContWitt1948)
-  * [3.3 伦敦政治经济学院的生活（1952-1953）](https://plato.stanford.edu/entries/feyerabend/#LifeLondSchoEcon1952)
-  * [3.4 Return to Vienna (1953–1955)](https://plato.stanford.edu/entries/feyerabend/#RetuVien1953)
-* [费耶阿本德的早期工作：自由化经验主义](https://plato.stanford.edu/entries/feyerabend/#FeyeEarlWorkLibeEmpi)
-
-  * [第一次学术任命：布里斯托大学（1955-1958）](https://plato.stanford.edu/entries/feyerabend/#FirsAcadAppoUnivBris1955)
-  * [4.2 加州大学伯克利分校：早期岁月（1958-1964）](https://plato.stanford.edu/entries/feyerabend/#UnivCaliBerkEarlYear1958)
-  * [4.3 The Impact of the “Student Revolution”](https://plato.stanford.edu/entries/feyerabend/#ImpaStudRevo)
-  * [4.4 晚期的六十年代](https://plato.stanford.edu/entries/feyerabend/#LateSixt)
-* [费耶阿本德的后期作品：走向相对主义，但又超越它](https://plato.stanford.edu/entries/feyerabend/#FeyeLateWorkTowaRelaButThenBeyoIt)
-
-  * [反对方法（1970-75）](https://plato.stanford.edu/entries/feyerabend/#AgaiMeth1970)
-  * [5.2 The Political Consequences of Epistemological Anarchism: ](https://plato.stanford.edu/entries/feyerabend/#PoliConsEpisAnarScieFreeSoci1978)​*[Science in a Free Society](https://plato.stanford.edu/entries/feyerabend/#PoliConsEpisAnarScieFreeSoci1978)*​[ (1978)](https://plato.stanford.edu/entries/feyerabend/#PoliConsEpisAnarScieFreeSoci1978)
-  * [五点三：美好的十年：柏克莱和苏黎世的八十年代](https://plato.stanford.edu/entries/feyerabend/#TenWondYearEighBerkZuri)
-  * [费耶阿本德在九十年代。](https://plato.stanford.edu/entries/feyerabend/#FeyeNine)
-* [6. 结论：最后的事物](https://plato.stanford.edu/entries/feyerabend/#ConcLastThin)
-* [ 参考文献](https://plato.stanford.edu/entries/feyerabend/#Bib)
-
-  * [费耶阿本德的主要著作](https://plato.stanford.edu/entries/feyerabend/#FeyeMajoWrit)
-  * [ 音频记录](https://plato.stanford.edu/entries/feyerabend/#AudiReco)
-  * [ 次级来源](https://plato.stanford.edu/entries/feyerabend/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/feyerabend/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feyerabend/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feyerabend/#Rel)
 
 ---
 

@@ -9,34 +9,7 @@
 模态虚构主义对于关注模态的形而上学的人应该是有兴趣的，因为承认可能世界的字面存在（甚至更令人担忧的是，承认仅仅可能存在的对象“包含”在这些世界中）会带来成本，既对经济也对许多人的直觉。但它也应该是更广泛的兴趣，因为它是虚构主义对抽象对象的处理的最常讨论的应用之一，与数学虚构主义一起。在模态虚构主义的案例中学到的经验教训有望应用于我们可能希望避免字面理论承诺的其他领域。模态虚构主义仍然是一个活跃的研究和辩论课题，除了数十篇支持或批评模态虚构主义的论文外，甚至还有一本关于这个主题的出版专著（Warzoszczak 2014）。
 
 我将首先讨论模态虚构主义的动机，并区分其中的一些变体。接下来，我将讨论“虚构主义”与典型虚构作品处理之间可能存在的联系。然后，我将讨论关于“布洛克/罗森反对意见”的辩论以及鲍勃·黑尔提出的一个问题，这两个问题都涉及有关模态虚构状态的技术问题。最后，在第 4 节中，将讨论有关模态虚构主义的其他问题。
-
-* [1. 模态虚构主义的类型](https://plato.stanford.edu/entries/fictionalism-modal/#TypModFic)
-
-  * [1.1 可能世界虚构的内容](https://plato.stanford.edu/entries/fictionalism-modal/#ConFicPosWor)
-  * [1.2 强势 vs. 胆小](https://plato.stanford.edu/entries/fictionalism-modal/#StrVsTim)
-  * [1.3 规范性 vs. 描述性](https://plato.stanford.edu/entries/fictionalism-modal/#NorVsDes)
-  * [1.4 关于模态的虚构主义和模态虚构主义](https://plato.stanford.edu/entries/fictionalism-modal/#FicAboModModFic)
-  * [ 1.5 进一步扩展](https://plato.stanford.edu/entries/fictionalism-modal/#FurExt)
-* [2. 上下文中的虚构主义](https://plato.stanford.edu/entries/fictionalism-modal/#FicCon)
-
-  * [2.1 模态虚构主义和虚构](https://plato.stanford.edu/entries/fictionalism-modal/#ModFicFic)
-* [3. 技术问题](https://plato.stanford.edu/entries/fictionalism-modal/#TecPro)
-
-  * [3.1 布洛克/罗森反对意见](https://plato.stanford.edu/entries/fictionalism-modal/#BroObj)
-  * [ 3.2 哈尔的困境](https://plato.stanford.edu/entries/fictionalism-modal/#HalDil)
-* [4. 其他关注点](https://plato.stanford.edu/entries/fictionalism-modal/#OthCon)
-
-  * [ 4.1 人工性](https://plato.stanford.edu/entries/fictionalism-modal/#Art)
-  * [ 4.2 不完整性](https://plato.stanford.edu/entries/fictionalism-modal/#Inc)
-  * [4.3 应该采用哪种虚构？](https://plato.stanford.edu/entries/fictionalism-modal/#WhiFicShoEmp)
-  * [4.4 模态虚构主义的理论基础](https://plato.stanford.edu/entries/fictionalism-modal/#ThePriModFic)
-  * [4.5 模态虚构主义是否提供可能世界语义？](https://plato.stanford.edu/entries/fictionalism-modal/#DoeModFicDelPosWorSem)
-  * [4.6 三个更多的关注点](https://plato.stanford.edu/entries/fictionalism-modal/#ThrCon)
-* [ 参考文献](https://plato.stanford.edu/entries/fictionalism-modal/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/fictionalism-modal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/fictionalism-modal/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/fictionalism-modal/#Rel)
-
+ 
 ---
 
 ## 1. 模态虚构主义的类型

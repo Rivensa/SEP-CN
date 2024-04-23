@@ -4,27 +4,6 @@
 
 马尔西利奥·费奇诺（1433–99）结合了来自不同哲学、宗教和文学传统的元素，成为意大利文艺复兴时期最著名的哲学家之一。然而，费奇诺的著作很难理解，而且在西方哲学史的历史学立足于 18 世纪的现代基础上，他的作品没有一个达到了经典地位。
 
-* [生活，哲学风格，柏拉图的“学园”](https://plato.stanford.edu/entries/ficino/#LifStyPlaAca)
-* [ 工作](https://plato.stanford.edu/entries/ficino/#Wor)
-
-  * [2.1 柏拉图神学](https://plato.stanford.edu/entries/ficino/#PlaThe)
-  * [2.2 1474 and beyond2.2 1474 年及以后](https://plato.stanford.edu/entries/ficino/#147Bey)
-  * [2.3 柏拉图的全集和翻译的位置](https://plato.stanford.edu/entries/ficino/#ComWorPlaPlaTra)
-  * [2.4 The 1480s and 1490s](https://plato.stanford.edu/entries/ficino/#148149)
-* [哲学主题](https://plato.stanford.edu/entries/ficino/#PhiThe)
-
-  * [3.1 古代神学](https://plato.stanford.edu/entries/ficino/#AncThe)
-  * [3.2 Ontology](https://plato.stanford.edu/entries/ficino/#Ont)
-  * [3.3 Psychology](https://plato.stanford.edu/entries/ficino/#Psy)
-  * [ 3.4 伦理学，爱情](https://plato.stanford.edu/entries/ficino/#EthLov)
-* [ 遗产](https://plato.stanford.edu/entries/ficino/#Leg)
-* [ 参考文献](https://plato.stanford.edu/entries/ficino/#Bib)
-
-  * [ 费奇诺的著作](https://plato.stanford.edu/entries/ficino/#WorFic)
-  * [ 其他作品](https://plato.stanford.edu/entries/ficino/#OthWor)
-* [ 学术工具](https://plato.stanford.edu/entries/ficino/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ficino/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ficino/#Rel)
 
 ---
 

@@ -4,23 +4,6 @@
 
 在 1930 年代，波兰犹太微生物学家路德维克·弗莱克（1896-1961）发展了第一个历史哲学和科学社会学的体系。弗莱克认为认知是一种集体活动，因为它只有在基于从他人那里获得的某种知识体系的基础上才可能存在。当人们开始交流思想时，就会形成一个思想集体，通过特定的情绪相互联系，并通过一系列的理解和误解形成一种独特的思维风格。当一个思维风格变得足够复杂时，集体会分为一个内圈（专业人士）和一个外圈（外行人）。思维风格由主动元素组成，这些元素塑造了集体成员看待和思考世界的方式，以及被动元素的总和，被视为“客观现实”。我们所称之为“事实”是社会构建的：只有符合文化的才是符合自然的。思维风格常常是不可比较的：对于思维集体 A 的成员来说是事实的东西，对于思维集体 B 的成员来说可能不存在，而对于 A 的成员来说重要且真实的思想对于 B 的成员来说有时可能是错误或无意义的。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/fleck/#LifeWork)
-* [  2. 前辈](https://plato.stanford.edu/entries/fleck/#Pred)
-* [ 3. 思维集体](https://plato.stanford.edu/entries/fleck/#ThouColl)
-* [ 4. 集体情绪](https://plato.stanford.edu/entries/fleck/#CollMood)
-* [5. 思维风格和事实的起源和发展](https://plato.stanford.edu/entries/fleck/#GeneDeveThouStylFact)
-* [6. 思维风格的主动和被动要素](https://plato.stanford.edu/entries/fleck/#ActiPassElemThouStyl)
-* [7. 思维集体如何将社会构建的事物转化为“现实”？](https://plato.stanford.edu/entries/fleck/#HowThouCollTranWhatSociConsReal)
-* [8. 思维风格的不可比较性和真理问题](https://plato.stanford.edu/entries/fleck/#IncoThouStylProbTrut)
-* [ 9. 接受](https://plato.stanford.edu/entries/fleck/#Rece)
-* [  参考文献](https://plato.stanford.edu/entries/fleck/#Bib)
-
-  * [主要文献：弗莱克的认识论著作](https://plato.stanford.edu/entries/fleck/#PrimLiteFlecEpisWrit)
-  * [ 辅助文献](https://plato.stanford.edu/entries/fleck/#Tran)
-  * [ 学术工具](https://plato.stanford.edu/entries/fleck/#SecoLite)
-* [](https://plato.stanford.edu/entries/fleck/#Aca)
-* [其他网络资源](https://plato.stanford.edu/entries/fleck/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/fleck/#Rel)
 
 ---
 

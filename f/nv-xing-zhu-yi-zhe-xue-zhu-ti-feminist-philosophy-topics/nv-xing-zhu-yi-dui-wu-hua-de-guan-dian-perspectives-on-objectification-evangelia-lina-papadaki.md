@@ -20,17 +20,6 @@ Rae Langton (2009, 228–229)已经在 Nussbaum 的清单上增加了三个特�
 
 大多数讨论物化的思想家认为这是一个道德上有问题的现象。这在女性主义对色情的讨论中尤为明显。受到伊曼纽尔·康德对物化的概念的影响，反色情主义者凯瑟琳·麦金农和安德烈亚·多金等人曾经声称，由于男性对色情的消费，女性作为一个群体被降低到仅仅是男性目的的工具。此外，像桑德拉·巴特基和苏珊·博尔多这样的女性主义者认为，女性通过过分关注外表而被物化。最近一些重要的女性主义作品也致力于探讨客观性和物化之间的联系。最近一些思想家，如玛莎·努斯鲍姆，挑战了物化是一个必然负面现象的观念，主张物化可能具有积极的可能性。尽管以某种方式将一个人视为物体（在上述一种或多种方式中）通常是有问题的，但努斯鲍姆认为，在某些情境下，物化可以呈现良性甚至积极的形式，并且可以构成我们生活中有价值且令人愉悦的一部分。在她即将出版的作品中，南希·鲍尔质疑了规定“物化”术语的标记和特征是否有意义的观念。她认为，这样的尝试只会扭曲所讨论的现象（2015）。
 
-* [康德论性与物化](https://plato.stanford.edu/entries/feminism-objectification/#KanSexObj)
-* [色情和物化](https://plato.stanford.edu/entries/feminism-objectification/#PorObj)
-* [女性外表和物化](https://plato.stanford.edu/entries/feminism-objectification/#FemAppObj)
-* [客观性与物化](https://plato.stanford.edu/entries/feminism-objectification/#ObjObj)
-* [5. 积极物化的可能性](https://plato.stanford.edu/entries/feminism-objectification/#PosPosObj)
-* [物化的标记和特征的无用性](https://plato.stanford.edu/entries/feminism-objectification/#FutSepMar)
-* [ 结论](https://plato.stanford.edu/entries/feminism-objectification/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-objectification/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-objectification/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-objectification/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-objectification/#Rel)
 
 ---
 

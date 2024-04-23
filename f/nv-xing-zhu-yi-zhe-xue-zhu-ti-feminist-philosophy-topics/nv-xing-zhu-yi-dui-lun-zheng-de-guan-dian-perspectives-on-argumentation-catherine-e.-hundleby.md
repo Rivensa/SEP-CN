@@ -10,28 +10,6 @@
 
 其他女性主义者发现了与哲学学科特定的论证标准相关的问题。事实表明，哲学家经常援引关于论证和辩论的主张，与公认的论证学相悖。女性主义者特别注意到这个问题，即哲学家如何使用谬误标签以及他们如何在批判性思维课程中教授论证。尽管论证学需要进一步的女性主义发展，但它提供了一些资源，以帮助哲学更好地应对社会正义关切。
 
-* [辩论以取胜](https://plato.stanford.edu/entries/feminism-argumentation/#ArguWin)
-
-  * [1.1 男性侵略的隐喻和规范](https://plato.stanford.edu/entries/feminism-argumentation/#MetaNormMascAggr)
-  * [1.2 对手范式与哲学学科](https://plato.stanford.edu/entries/feminism-argumentation/#AdveParaDiscPhil)
-* [其他目标和论证风格](https://plato.stanford.edu/entries/feminism-argumentation/#OtheGoalForStylArgu)
-
-  * [ 2.1 Gendered Reasoning2.1 性别推理](https://plato.stanford.edu/entries/feminism-argumentation/#GendReas)
-  * [2.2 关怀与融合论证](https://plato.stanford.edu/entries/feminism-argumentation/#CariCoalArgu)
-  * [2.3 知识与批判](https://plato.stanford.edu/entries/feminism-argumentation/#KnowCrit)
-  * [2.4 Politeness and civility](https://plato.stanford.edu/entries/feminism-argumentation/#PoliCivi)
-* [3. 非正式逻辑与论证解释](https://plato.stanford.edu/entries/feminism-argumentation/#InfoLogiArguInte)
-
-  * [ 3.1 形式逻辑](https://plato.stanford.edu/entries/feminism-argumentation/#FormLogi)
-  * [3.2 修辞方法和权力差异](https://plato.stanford.edu/entries/feminism-argumentation/#RhetApprPoweDiff)
-* [4. 可信度与论证不公](https://plato.stanford.edu/entries/feminism-argumentation/#CredArguInju)
-* [5. 论证评估的谬误方法](https://plato.stanford.edu/entries/feminism-argumentation/#FallApprArguEval)
-* [6. 批判性思维与论证教学](https://plato.stanford.edu/entries/feminism-argumentation/#CritThinArguPeda)
-* [女性主义，哲学学科和论证学者](https://plato.stanford.edu/entries/feminism-argumentation/#FemiDiscPhilArguScho)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-argumentation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-argumentation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-argumentation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-argumentation/#Rel)
 
 ---
 

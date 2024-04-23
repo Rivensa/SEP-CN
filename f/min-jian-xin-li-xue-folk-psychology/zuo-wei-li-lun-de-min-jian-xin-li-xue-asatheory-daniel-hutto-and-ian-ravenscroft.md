@@ -14,29 +14,6 @@
 
 第四部分关注了针对理论论的哲学挑战。该部分勾勒了淘汰论的论点，认为民间心理学是一种理论，但应该被心灵的成熟科学所取代，拒绝了它的核心主张。文中考虑了主要竞争对手心理模拟理论提出的挑战，该理论假设我们理解他人的核心过程并非基于任何理论而是以心理学术语来解释。它解释了对理论论的现象学批评的关注，批评者认为将民间心理学描述为任何一种理论都会系统地误解目标解释。文中回顾了认为民间心理学有许多不同用途的多元主义理由——在最极端的诠释上，这可能会对民间心理学主要是理论性的本质产生质疑。最后，结论部分引入了一个假设，即民间心理素质的核心结构和其他特征最好通过把这种素质看作是植根于特殊类型的叙述实践而不是植根于理论来理解和解释。
 
-* [ 理论理论](https://plato.stanford.edu/entries/folkpsych-theory/#TheoTheo)
-* [2. 理论理论的多样性](https://plato.stanford.edu/entries/folkpsych-theory/#VariTheoTheo)
-
-  * [2.1 模块化理论](https://plato.stanford.edu/entries/folkpsych-theory/#ModuTheoTheo)
-  * [科学理论理论](https://plato.stanford.edu/entries/folkpsych-theory/#ScieTheoTheo)
-  * [2.3 Model Theory Theory](https://plato.stanford.edu/entries/folkpsych-theory/#ModeTheoTheo)
-* [经验调查](https://plato.stanford.edu/entries/folkpsych-theory/#EmpiFind)
-
-  * [3.1 比较心理学](https://plato.stanford.edu/entries/folkpsych-theory/#CompPsyc)
-  * [3.2 发展心理学](https://plato.stanford.edu/entries/folkpsych-theory/#DevePsyc)
-  * [ 3.3 神经科学](https://plato.stanford.edu/entries/folkpsych-theory/#Neur)
-  * [3.4 跨文化心理学](https://plato.stanford.edu/entries/folkpsych-theory/#CrosCultPsyc)
-* [哲学对理论理论的挑战](https://plato.stanford.edu/entries/folkpsych-theory/#PhilChalTheoTheo)
-
-  * [ 淘汰论](https://plato.stanford.edu/entries/folkpsych-theory/#Elim)
-  * [ 4.2 模拟理论](https://plato.stanford.edu/entries/folkpsych-theory/#SimuTheo)
-  * [4.3 TT 的现象学批判](https://plato.stanford.edu/entries/folkpsych-theory/#PhenCritTT)
-  * [ 4.4 Pluralism4.4 多元主义](https://plato.stanford.edu/entries/folkpsych-theory/#Plur)
-  * [4.5 叙事实践假说](https://plato.stanford.edu/entries/folkpsych-theory/#NarrPracHypo)
-* [ 参考文献](https://plato.stanford.edu/entries/folkpsych-theory/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/folkpsych-theory/#Aca)
-* [其他网络资源](https://plato.stanford.edu/entries/folkpsych-theory/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/folkpsych-theory/#Rel)
 
 ---
 

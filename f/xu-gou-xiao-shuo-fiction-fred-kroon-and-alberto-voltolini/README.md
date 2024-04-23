@@ -14,29 +14,7 @@
 
 这些绝非虚构小说引发的唯一哲学问题。事实上，虚构小说的悖论立即引发其他问题。以字面意义理解，“夏洛克·福尔摩斯是一位杰出的侦探”这样的陈述似乎充其量只在虚构作品中才是真实的，而不是绝对真实的。相比之下，“许多读者为安娜·卡列尼娜感到怜悯”这样的陈述似乎是绝对真实的。（同样适用于其他涉及虚构人物与现实世界的陈述，例如“柯南·道尔创造了福尔摩斯”，“弗罗多并不存在”，“福尔摩斯比任何真实侦探都更有名”）。这引发了涉及虚构讨论的本体承诺的棘手问题。如果许多读者确实为安娜·卡列尼娜感到怜悯，或者道尔创造了福尔摩斯，那么很可能有一些事物——安娜·卡列尼娜和福尔摩斯——关于他们是真实的。但是，这种主张与福尔摩斯和安娜·卡列尼娜并不存在的明显事实如何一致？这样的不存在的事物会是什么样子？我们将详细评论这类本体论和形而上学问题的内容留给虚构实体条目。本条目致力于虚构及其“真相”的本质，包括我们对这些真相的情感参与——这些主题可以独立讨论，无论一个人是虚构实体的现实主义者还是反现实主义者。在我们开始之前，值得注意的是，研究这些主题并非仅仅是哲学家的领域。例如，虚构是什么，也是一个问题，也引起叙事学家和虚构历史学家的兴趣（参见，例如，加拉格尔 2006 年，沃尔什 2007 年），尽管他们从不同的学术角度探讨这个问题，通常目的有所不同。本条目主要关注哲学家的研究。
 
-* [虚构小说的本质](https://plato.stanford.edu/entries/fiction/#NatuFict)
-
-  * [1.1 语义学和语言学解释](https://plato.stanford.edu/entries/fiction/#SemaLingAcco)
-  * [1.2 Fiction as Making Up Stories1.2 小说的定义是编造故事](https://plato.stanford.edu/entries/fiction/#FictMakiUpStor)
-  * [1.3 Fiction as Authorial Pretense](https://plato.stanford.edu/entries/fiction/#FictAuthPret)
-  * [虚构小说作为虚构](https://plato.stanford.edu/entries/fiction/#FictMakeBeli)
-  * [ 1.5 话语行为解释](https://plato.stanford.edu/entries/fiction/#SpeeActAcco)
-  * [虚构小说, 假装, 和认知心理学](https://plato.stanford.edu/entries/fiction/#FictPretCognPsyc)
-  * [ 1.7 新挑战](https://plato.stanford.edu/entries/fiction/#NewChal)
-* [虚构小说中的真相](https://plato.stanford.edu/entries/fiction/#TrutFict)
-
-  * [虚构小说中的真实作为虚构世界中的真实](https://plato.stanford.edu/entries/fiction/#TrutFictTrutWorlFict)
-  * [2.2 Truth in Fiction as Make-Believe Truth2.2 虚构小说中的真实作为虚构真实](https://plato.stanford.edu/entries/fiction/#TrutFictMakeBeliTrut)
-  * [2.3 虚构小说中的真相与“作者”的角色](https://plato.stanford.edu/entries/fiction/#TrutFictRoleAuth)
-  * [ 2.4 Impossible Fictions2.4 不可能的虚构小说](https://plato.stanford.edu/entries/fiction/#ImpoFict)
-* [3. 通过虚构小说寻求真理](https://plato.stanford.edu/entries/fiction/#TrutThroFict)
-* [虚构小说的悖论](https://plato.stanford.edu/entries/fiction/#ParaFict)
-* [ 结论](https://plato.stanford.edu/entries/fiction/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/fiction/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/fiction/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/fiction/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/fiction/#Rel)
-
+ 
 ---
 
 ## 虚构小说的本质

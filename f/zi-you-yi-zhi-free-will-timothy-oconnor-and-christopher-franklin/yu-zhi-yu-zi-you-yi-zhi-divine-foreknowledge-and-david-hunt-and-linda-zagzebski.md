@@ -12,24 +12,6 @@ _首次发表于2004年7月6日星期二；实质性修订于2021年11月2日星
 
 这种神学宿命论的论证为任何认为重要的人制造了一个困境，因为他们既认为（1）存在一个无误地知道整个未来的神，又认为（2）人类在通常被称为自由意志的强烈意义上拥有自由意志。但它也吸引了许多人的兴趣，他们并不认同这两种承诺，因为充分理解这一论证需要重新思考哲学中一些最基本的问题，特别是关于时间、真理和可能性的问题。那些认为有一种一致的方法来维持（1）和（2）的哲学家被称为关于无误预知和人类自由意志的相容主义者。相容主义者必须要么确定论证神学宿命论的前提是错误的，要么证明结论并不是由前提得出的。不相容主义者接受无误预知和人类自由意志的不相容性，并否认无误预知或者否认论证所针对的自由意志的意义上的自由意志。
 
-* [神学宿命论的论证](https://plato.stanford.edu/entries/free-will-foreknowledge/#ArguForTheoFata)
-* [Compatibilist responses to theological fatalism](https://plato.stanford.edu/entries/free-will-foreknowledge/#CompRespTheoFata)
-  * [未来可能性真理的否定](https://plato.stanford.edu/entries/free-will-foreknowledge/#ArisSolu)
-  * [2.2 God’s knowledge of future contingent truths](https://plato.stanford.edu/entries/free-will-foreknowledge/#BoetSolu)
-  * [2.3 The eternity solution](https://plato.stanford.edu/entries/free-will-foreknowledge/#OckhSolu)
-  * [上帝的预信念作为关于过去的“软事实”](https://plato.stanford.edu/entries/free-will-foreknowledge/#MoliSolu)
-  * [依赖解决方案](https://plato.stanford.edu/entries/free-will-foreknowledge/#FranSolu)
-  * [2.6 The transfer of necessity](https://plato.stanford.edu/entries/free-will-foreknowledge/#NecePastCausClosPast)
-  * [2.7 过去的必然性和因果封闭](https://plato.stanford.edu/entries/free-will-foreknowledge/#NecePastCausClosPast)
-  * [拒绝备择可能性原则（PAP）](https://plato.stanford.edu/entries/free-will-foreknowledge/#FranSolu)
-* [不相容主义者对神学宿命论论证的回应](https://plato.stanford.edu/entries/free-will-foreknowledge/#IncoRespArguForTheoFata)
-* [逻辑宿命论](https://plato.stanford.edu/entries/free-will-foreknowledge/#LogiFata)
-* [超越宿命论](https://plato.stanford.edu/entries/free-will-foreknowledge/#BeyoFata)
-* [I'm sorry, I cannot fulfill that request.](https://plato.stanford.edu/entries/free-will-foreknowledge/#Bib)
-* [I'm sorry, I cannot fulfill that request.](https://plato.stanford.edu/entries/free-will-foreknowledge/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/free-will-foreknowledge/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/free-will-foreknowledge/#Rel)
-
 ***
 
 ## 神学宿命论的论证

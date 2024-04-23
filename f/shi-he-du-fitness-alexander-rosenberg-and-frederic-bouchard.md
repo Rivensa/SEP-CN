@@ -4,17 +4,6 @@
 
 生物界的多样性、复杂性和适应性是显而易见的。直到达尔文出现之前，对于生物界这三个特征的最佳解释是“设计论”的结论。达尔文的自然选择理论提供了对生物界这三个特征的解释，而无需借助某种神秘的设计实体，通过解释“适者生存”的过程。但是，这个解释的成功取决于其核心解释概念“适合度”的含义。此外，由于达尔文理论为目的论的纯粹因果解释提供了资源，无论它在哪里表现出来，它对“适合度”概念的依赖使得解决威胁到这一概念解释合法性的概念问题变得迫在眉睫。
 
-* [1. 适合度的经典问题](https://plato.stanford.edu/entries/fitness/#ClaProFit)
-* [ 2. 生态适合度](https://plato.stanford.edu/entries/fitness/#EcoFit)
-* [3. 个体适合度与特质适合度](https://plato.stanford.edu/entries/fitness/#IndVerTraFit)
-* [4. 适合度的倾向解释](https://plato.stanford.edu/entries/fitness/#ProIntFit)
-* [5. 适合度作为倾向和自然选择原则](https://plato.stanford.edu/entries/fitness/#FitProPriNatSel)
-* [6. 如何定义生物个体性的问题对适合度概念的影响](https://plato.stanford.edu/entries/fitness/#HowProDefBioIndAffNotFit)
-* [7. 生态适合度与进化漂移问题](https://plato.stanford.edu/entries/fitness/#EcoFitProEvoDri)
-* [ 参考文献](https://plato.stanford.edu/entries/fitness/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/fitness/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/fitness/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/fitness/#Rel)
 
 ---
 

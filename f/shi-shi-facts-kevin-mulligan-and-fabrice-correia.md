@@ -4,26 +4,6 @@ _首次发表于 2007 年 9 月 21 日星期五；实质性修订于 2020 年 10
 
 事实，哲学家们喜欢说，与理论和价值相对立（参见 Rundle 1993），应与事物，特别是复杂对象、复合体和整体以及关系相区分开来。它们是某些心理状态和行为的对象，它们使真理承担者成为真实，并与真理相对应，它们是世界的一部分。哲学家不仅将事实与理论和价值对立起来，有时还区分那些是蛮力的事实和那些不是的事实（Anscombe 1958）。我们提出并讨论了一些关于事实的哲学和形式化解释。
 
-* [事实哲学](https://plato.stanford.edu/entries/facts/#PhilFact)
-  * [事实，事实和事实](https://plato.stanford.edu/entries/facts/#FactFactFact)
-  * [1.2 事实、本体论和形而上学](https://plato.stanford.edu/entries/facts/#FactOntoMeta)
-  * [1.3 事实与知识](https://plato.stanford.edu/entries/facts/#FactKnow)
-  * [1.4 事实，意向性，语义学和真理制造](https://plato.stanford.edu/entries/facts/#FactInteSemaTrut)
-  * [1.5 Brute Facts](https://plato.stanford.edu/entries/facts/#BrutFact)
-* [事实的正式理论](https://plato.stanford.edu/entries/facts/#FormTheoFact)
-  * [事实和世界](https://plato.stanford.edu/entries/facts/#FactWorl)
-    * [2.1.1 一些表征原则](https://plato.stanford.edu/entries/facts/#SomeCharPrin)
-    * [事实作为世界的集合，世界作为事实，世界作为集合（或复数，或事实的总和）](https://plato.stanford.edu/entries/facts/#FactSetsWorlWorlFactWorlSetsPlurSumsFact)
-  * [2.2 事实的布尔运算](https://plato.stanford.edu/entries/facts/#BoolOperFact)
-  * [2.3 Independency](https://plato.stanford.edu/entries/facts/#Inde)
-  * [事实和命题](https://plato.stanford.edu/entries/facts/#FactProp)
-    * [2.4.1 事实作为真命题](https://plato.stanford.edu/entries/facts/#FactTrueProp)
-    * [2.4.2 制造真实](https://plato.stanford.edu/entries/facts/#MakiTrue)
-  * [事实的内在结构](https://plato.stanford.edu/entries/facts/#InneStruFact)
-* [参考文献](https://plato.stanford.edu/entries/facts/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/facts/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/facts/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/facts/#Rel)
 
 ***
 

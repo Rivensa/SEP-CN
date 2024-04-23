@@ -4,19 +4,6 @@
 
 菲利帕·福特在元伦理学、道德心理学和应用伦理学领域撰写了许多论文，还著有一部有关道德哲学的专著。在她的整个职业生涯中，她捍卫了道德的客观性，抵制了各种形式的非认知主义，并涉足了道德动机的问题，众所周知，她对于道德判断是否必然为理性主体提供行动理由曾反复更改了想法。在更广泛的世界中，也许尤其对于本科哲学学生，她最著名的是发明了电车难题，该难题引发了一个问题，即为何看似可以将一辆朝着五个人驶去的电车转向一个人，而似乎不允许做出像杀死一个健康男子以使用他的器官拯救其它五个即将死亡的人这样的行为。福特还以在当代哲学中复兴亚里士多德的德性伦理学而闻名，尽管鲜为人知的是，她强烈否认自己是对该观点的拥护者，因为这一观点目前被理解得不够深刻。
 
-* [ 生命](https://plato.stanford.edu/entries/philippa-foot/#Life)
-* [2. 菲利帕·福特早期著作中的伦理自然主义](https://plato.stanford.edu/entries/philippa-foot/#EthiNatuFootEarlWrit)
-* [3. 反对道德理性主义](https://plato.stanford.edu/entries/philippa-foot/#AgaiMoraRati)
-* [ 4. 应用伦理学](https://plato.stanford.edu/entries/philippa-foot/#ApplEthi)
-* [美德和道德](https://plato.stanford.edu/entries/philippa-foot/#VirtMora)
-* [ 自然的善](https://plato.stanford.edu/entries/philippa-foot/#NatuGood)
-* [ 参考文献](https://plato.stanford.edu/entries/philippa-foot/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/philippa-foot/#PrimSour)
-  * [ 次级文献](https://plato.stanford.edu/entries/philippa-foot/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/philippa-foot/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/philippa-foot/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/philippa-foot/#Rel)
 
 ---
 

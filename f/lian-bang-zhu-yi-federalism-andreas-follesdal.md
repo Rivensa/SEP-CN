@@ -4,32 +4,6 @@
 
 联邦主义是一种理论或主张，旨在将权力分配给成员单位和共同机构的联邦原则。与单一国家不同，在联邦政治秩序中，主权是非集中的，通常在至少两个层面之间，在每个层面的单位具有最终权威，并在某些问题领域可以自治。因此，公民对两个当局有政治义务，或者他们的权利由两个当局保障。成员单位和中央之间的权力分配可能有所不同，通常中央拥有有关国防和外交政策的权力，但成员单位也可能具有国际角色。成员单位的决策机构也可能参与中央决策机构。最近，许多哲学关注点受到对联邦主义的政治兴趣的重新激发以及针对特定情况的反弹的推动，再加上有关公民在联邦政治秩序中稳定性和信任的必要和合法基础的实证发现。哲学贡献已经解决了加拿大、澳大利亚、欧洲、俄罗斯、伊拉克、尼泊尔、埃塞俄比亚和尼日利亚等地面临的困境和机遇，仅举几个联邦安排被视为解决由种族或文化裂痕分隔的人口之间差异，但寻求一个共同的、通常是民主的政治秩序的领域。
 
-* [ 分类学](https://plato.stanford.edu/entries/federalism/#Taxo)
-* [联邦主义的历史](https://plato.stanford.edu/entries/federalism/#HistFede)
-
-  * [2.1 一些全球视角](https://plato.stanford.edu/entries/federalism/#SomeGlobPers)
-  * [2.2 西方贡献](https://plato.stanford.edu/entries/federalism/#WestCont)
-* [联邦主义的理由](https://plato.stanford.edu/entries/federalism/#ReasForFede)
-
-  * [3.1 为联邦秩序而非独立州或分裂的理由](https://plato.stanford.edu/entries/federalism/#ReasForFedeOrdeRathThanSepaStatSece)
-  * [3.2 偏好联邦秩序而非单一国家的原因](https://plato.stanford.edu/entries/federalism/#ReasForPrefFedeOrdeOverUnitStat)
-* [进一步的哲学问题](https://plato.stanford.edu/entries/federalism/#FurtPhilIssu)
-
-  * [4.1 主权或联邦主义](https://plato.stanford.edu/entries/federalism/#SoveFede)
-  * [4.2 宪法和制度设计问题](https://plato.stanford.edu/entries/federalism/#IssuConsInstDesi)
-  * [4.3 Sources of Stability4.3 稳定的来源](https://plato.stanford.edu/entries/federalism/#SourStab)
-  * [4.4 Division of Power](https://plato.stanford.edu/entries/federalism/#DiviPowe)
-  * [4.5 Distributive Justice4.5 分配正义](https://plato.stanford.edu/entries/federalism/#DistJust)
-  * [ 4.6 民主理论](https://plato.stanford.edu/entries/federalism/#DemoTheo)
-  * [4.7 Politics of Recognition](https://plato.stanford.edu/entries/federalism/#PoliReco)
-* [ 参考文献](https://plato.stanford.edu/entries/federalism/#Bib)
-
-  * [ 历史](https://plato.stanford.edu/entries/federalism/#Hist)
-  * [ 当代](https://plato.stanford.edu/entries/federalism/#Cont)
-* [ 学术工具](https://plato.stanford.edu/entries/federalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/federalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/federalism/#Rel)
-
 ---
 
 ## 分类学

@@ -6,23 +6,6 @@
 
 然而，在过去的半个世纪里，许多学科的学者开始意识到差异的更广泛意义。在这种精神下，哲学家开始质疑赋予正常性的首要地位，以及随之而来的对被视为残疾的身体和认知状况的贬低（Canguilhem 1989）。最近，女性主义思想家开始引领这种对残疾兴趣的转变，有时是由于她们对包容性的哲学承诺，有时是由于个人与残疾的遭遇。残疾视角在女性主义对一些哲学主题的探讨中变得常见，例如伦理学和正义理论，以及关于具身的形而上学。女性主义对其他主题的探讨，比如知识的模型和标准，也可能受益于包含残疾视角的扩展。
 
-* [残疾研究与残疾哲学](https://plato.stanford.edu/entries/feminism-disability/#DisStuDis)
-* [2. 女性主义哲学的重要性和相关性](https://plato.stanford.edu/entries/feminism-disability/#ImpRelFem)
-* [女性主义认识论和残疾立场](https://plato.stanford.edu/entries/feminism-disability/#FemEpiDisSta)
-* [ 身份](https://plato.stanford.edu/entries/feminism-disability/#Ide)
-* [ 具身化](https://plato.stanford.edu/entries/feminism-disability/#Emb)
-
-  * [5.1 扰乱性的具身](https://plato.stanford.edu/entries/feminism-disability/#DisEmb)
-* [伦理学与包容](https://plato.stanford.edu/entries/feminism-disability/#EthInc)
-* [ 应用](https://plato.stanford.edu/entries/feminism-disability/#Applic)
-
-  * [ 7.1 照料责任](https://plato.stanford.edu/entries/feminism-disability/#Car)
-  * [ 7.2 生物伦理学](https://plato.stanford.edu/entries/feminism-disability/#Bio)
-* [ 结论](https://plato.stanford.edu/entries/feminism-disability/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-disability/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-disability/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-disability/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-disability/#Rel)
 
 ---
 

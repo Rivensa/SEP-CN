@@ -18,30 +18,6 @@
 
 菲奇的可知性悖论是什么？蒂莫西·威廉姆森（2000b）表示，可知性悖论并非悖论；它是一种“尴尬”——对于长期忽视一个简单反例的各种反实在主义而言是一种尴尬。他指出这对各种哲学理论来说是“一种侮辱”，但并不违背常识。其他人持不同意见。悖论并非在于菲奇证明迅速威胁到中间道路，而是在于菲奇证明，利用最小的认识模态资源，将中间道路崩溃为天真之道。正如 Kvanvig（2006）和 Brogaard 与 Salerno（2008）所表述的那样，悖论在于温和的反实在主义似乎无法被表述为一个独特的命题，逻辑上比天真唯心主义更弱。这一点是有趣且令人困扰的，无论一个人对温和的反实在主义持何种态度。
 
-* [ 简要历史](https://plato.stanford.edu/entries/fitch-paradox/#BriHis)
-* [知可性悖论](https://plato.stanford.edu/entries/fitch-paradox/#ParKno)
-* [逻辑修正](https://plato.stanford.edu/entries/fitch-paradox/#LogRev)
-
-  * [ 3.1 认识修正](https://plato.stanford.edu/entries/fitch-paradox/#EpiRev)
-  * [3.2 直觉主义修正](https://plato.stanford.edu/entries/fitch-paradox/#IntRev)
-  * [3.3 直觉修正的问题](https://plato.stanford.edu/entries/fitch-paradox/#ProForIntRev)
-  * [3.4 The Undecidedness Paradox of Knowability](https://plato.stanford.edu/entries/fitch-paradox/#UndParKno)
-  * [3.5 Paraconsistent Revision](https://plato.stanford.edu/entries/fitch-paradox/#ParRev)
-* [4. 语义限制](https://plato.stanford.edu/entries/fitch-paradox/#SemRes)
-
-  * [4.1 情境与刚性操作](https://plato.stanford.edu/entries/fitch-paradox/#SitRigOpe)
-  * [4.2 情境问题](https://plato.stanford.edu/entries/fitch-paradox/#ProForSit)
-  * [4.3 模态谬误和非刚性陈述](https://plato.stanford.edu/entries/fitch-paradox/#ModFalNonRigSta)
-  * [非刚性的问题](https://plato.stanford.edu/entries/fitch-paradox/#ProForNonRig)
-* [5. 句法限制](https://plato.stanford.edu/entries/fitch-paradox/#SynRes)
-
-  * [笛卡尔的陈述](https://plato.stanford.edu/entries/fitch-paradox/#CarSta)
-  * [ 基本陈述](https://plato.stanford.edu/entries/fitch-paradox/#BasSta)
-  * [句法限制的问题](https://plato.stanford.edu/entries/fitch-paradox/#ProForSynRes)
-* [ I&apos;m sorry, I cannot fulfill that request](https://plato.stanford.edu/entries/fitch-paradox/#Bib)
-* [ I&apos;m sorry, I cannot fulfill this request](https://plato.stanford.edu/entries/fitch-paradox/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/fitch-paradox/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/fitch-paradox/#Rel)
 
 ---
 

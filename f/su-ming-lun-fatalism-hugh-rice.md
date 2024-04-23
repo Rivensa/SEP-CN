@@ -6,33 +6,6 @@ _首次发表于 2002 年 12 月 18 日星期三；实质性修订于 2023 年 2
 
 宿命论的论点至少在于如何避免结论的问题上，而不仅仅是在于它是否属实。
 
-* [逻辑宿命论：亚里士多德的论点与真理的本质](https://plato.stanford.edu/entries/fatalism/#LogiFataArisArguNatuTrut)
-  * [1.1 亚里士多德的解决方案](https://plato.stanford.edu/entries/fatalism/#ArisSolu)
-  * [1.2 相关解决方案](https://plato.stanford.edu/entries/fatalism/#RelaSolu)
-  * [1.3 拒绝真理理论](https://plato.stanford.edu/entries/fatalism/#RejeTheoTrut)
-  * [1.4 时间的 A 理论和 B 理论](https://plato.stanford.edu/entries/fatalism/#TheoBTheoTime)
-  * [1.5 Truth and fatalism1.5 真理与宿命论](https://plato.stanford.edu/entries/fatalism/#TrutFata)
-* [2. 逻辑宿命论：Diodorus Cronus 和过去的必然性](https://plato.stanford.edu/entries/fatalism/#LogiFataDiodCronNecePast)
-  * [2.1 亚里士多德的解决方案](https://plato.stanford.edu/entries/fatalism/#ArisSolu\1)
-  * [2.2 An Ockhamist solution2.2 一种奥卡姆主义解决方案](https://plato.stanford.edu/entries/fatalism/#OckhSolu)
-* [逻辑宿命论：理查德·泰勒的论点和权力的条件](https://plato.stanford.edu/entries/fatalism/#LogiFataRichTaylArguCondPowe)
-  * [3.1 一个亚里士多德的解决方案](https://plato.stanford.edu/entries/fatalism/#ArisSolu\2)
-  * [3.2 The conditions of power3.2 权力的条件](https://plato.stanford.edu/entries/fatalism/#CondPowe)
-* [4. The necessity of the past and Aristotelian solutions过去的必然性和亚里士多德的解决方案](https://plato.stanford.edu/entries/fatalism/#NecePastArisSolu)
-* [神学宿命论：派克的论点与上帝的全知](https://plato.stanford.edu/entries/fatalism/#TheoFataPikeArguGodsOmni)
-  * [5.1 亚里士多德的解决方案](https://plato.stanford.edu/entries/fatalism/#ArisSolu\3)
-  * [5.2 一个奥卡姆主义的解决方案](https://plato.stanford.edu/entries/fatalism/#OckhSolu\1)
-  * [5.3 影响过去](https://plato.stanford.edu/entries/fatalism/#AffePast)
-  * [5.4 一种博伊斯解决方案](https://plato.stanford.edu/entries/fatalism/#BoetSolu)
-  * [5.5 上帝知识的本质](https://plato.stanford.edu/entries/fatalism/#NatuGodsKnow)
-  * [5.6 必须上帝是全知的吗？](https://plato.stanford.edu/entries/fatalism/#MustGodOmni)
-* [6. 神学宿命论：莫利纳，普兰廷加和中间知识](https://plato.stanford.edu/entries/fatalism/#TheoFataMoliPlanMiddKnow)
-* [宿命论](https://plato.stanford.edu/entries/fatalism/#IdleArgu)
-* [结论](https://plato.stanford.edu/entries/fatalism/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/fatalism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/fatalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/fatalism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/fatalism/#Rel)
 
 ***
 

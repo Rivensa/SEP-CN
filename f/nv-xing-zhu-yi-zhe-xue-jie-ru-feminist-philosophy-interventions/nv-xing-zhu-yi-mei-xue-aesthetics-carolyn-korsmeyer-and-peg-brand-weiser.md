@@ -8,18 +8,6 @@
 
 这些部分都以对理论传统和女性主义干预及替代方案的批判开始。这些努力不仅导致哲学立场的修订，还在传统美学相关领域传播女性主义观点。这一进展在历史上沿着激发该领域的主题逐步发展，从早期工作到最近的工作。
 
-* [艺术与艺术家：历史背景](https://plato.stanford.edu/entries/feminism-aesthetics/#ArtArtHisBac)
-* [2. 创造力与天才](https://plato.stanford.edu/entries/feminism-aesthetics/#CreGen)
-* [美学范畴与女性主义批评](https://plato.stanford.edu/entries/feminism-aesthetics/#AesCatFemCri)
-* [女性主义实践与艺术概念](https://plato.stanford.edu/entries/feminism-aesthetics/#FemPraConArt)
-* [艺术与哲学中的身体](https://plato.stanford.edu/entries/feminism-aesthetics/#BodArt)
-* [美学与日常生活](https://plato.stanford.edu/entries/feminism-aesthetics/#AesEvLife)
-* [ 7. 结论](https://plato.stanford.edu/entries/feminism-aesthetics/#Conclusion)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-aesthetics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-aesthetics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-aesthetics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-aesthetics/#Rel)
-
 ---
 
 ## 艺术与艺术家：历史背景

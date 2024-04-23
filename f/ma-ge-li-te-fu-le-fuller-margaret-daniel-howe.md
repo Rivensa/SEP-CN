@@ -4,21 +4,7 @@
 
 玛格丽特·富勒（1810 年-1850 年）是她时代最重要的美国女权主义者之一，也是一位哲学家、记者和文学评论家。她属于被称为超验主义者的新英格兰知识界，其中还包括拉尔夫·沃尔多·爱默生和亨利·大卫·梭罗。她最重要的著作是《19 世纪的女性》（1845 年），这是她一篇名为《伟大的诉讼：男人对抗男人，女人对抗女人》（1843 年）的文章的扩展。富勒不仅因她的著作而被铭记，还因她的生活：一系列努力以实现她自己超越当时常规性别差异的理想。本文将概述她的哲学，并注意她寻求（或未寻求）实现她哲学理想的各种方式。
 
-* [ 1. 传记](https://plato.stanford.edu/entries/fuller-margaret/#Biog)
-* [2. 富勒哲学的主要主题](https://plato.stanford.edu/entries/fuller-margaret/#MajoThemFullPhil)
 
-  * [2.1 Unitarianism and the Cultivation of the Self](https://plato.stanford.edu/entries/fuller-margaret/#UnitCultSelf)
-  * [2.2 Transcendentalism and Platonism](https://plato.stanford.edu/entries/fuller-margaret/#TranPlat)
-  * [2.3 Feminism and Conversations](https://plato.stanford.edu/entries/fuller-margaret/#FemiConv)
-  * [2.4 The Philosopher’s Politics](https://plato.stanford.edu/entries/fuller-margaret/#PhilPoli)
-* [ 参考文献](https://plato.stanford.edu/entries/fuller-margaret/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/fuller-margaret/#PrimSour)
-  * [ 次要来源](https://plato.stanford.edu/entries/fuller-margaret/#SecoSour)
-  * [ 文献目录](https://plato.stanford.edu/entries/fuller-margaret/#Bibl)
-* [Academic Tools](https://plato.stanford.edu/entries/fuller-margaret/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/fuller-margaret/#Oth)
-* [Related Entries](https://plato.stanford.edu/entries/fuller-margaret/#Rel)
 
 ---
 

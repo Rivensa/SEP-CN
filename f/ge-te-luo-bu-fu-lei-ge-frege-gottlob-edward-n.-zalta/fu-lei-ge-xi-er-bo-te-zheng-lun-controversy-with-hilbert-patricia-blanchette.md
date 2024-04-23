@@ -4,22 +4,6 @@
 
 在二十世纪初期，数理逻辑领域的两位巨匠戈特洛布·弗雷格（Gottlob Frege）和大卫·希尔伯特（David Hilbert）就数学理论中公理的正确理解以及如何证明这些公理的一致性和独立性结果展开了一场争论。这场争论涉及逻辑和逻辑哲学中的许多难题，并标志着现代逻辑发展中的一个重要转折点。本条目概述了这场争论及其哲学基础。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/frege-hilbert/#Intr)
-* [2. 希尔伯特的几何基础](https://plato.stanford.edu/entries/frege-hilbert/#HilbFounGeom)
-
-  * [ 2.1 概要](https://plato.stanford.edu/entries/frege-hilbert/#Outline)
-  * [2.2 策略的新颖性](https://plato.stanford.edu/entries/frege-hilbert/#NoveStra)
-* [3. 弗雷格——背景和最初的差异](https://plato.stanford.edu/entries/frege-hilbert/#FregBackInitDiff)
-* [4. 更深层次的分歧](https://plato.stanford.edu/entries/frege-hilbert/#DeepDisa)
-* [ 5. 悬而未决的问题](https://plato.stanford.edu/entries/frege-hilbert/#LingIssu)
-* [ 6. 结论](https://plato.stanford.edu/entries/frege-hilbert/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/frege-hilbert/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/frege-hilbert/#PrimSour)
-  * [ 二次来源](https://plato.stanford.edu/entries/frege-hilbert/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/frege-hilbert/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/frege-hilbert/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/frege-hilbert/#Rel)
 
 ---
 

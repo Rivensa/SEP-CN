@@ -8,36 +8,6 @@
 
 在现代谬误研究中，通常区分形式谬误和非形式谬误。形式谬误是那些很容易被看作是可识别的无效逻辑形式的实例，比如未分配中项和否定前提。尽管许多非形式谬误也是无效论证，但一般认为，从识别和理解的角度来看，通过不涉及对形式语言的呼吁来揭示它们的弱点更具益处。因此，已经成为一种惯例，在分析这些谬误时避免使用形式逻辑的符号语言；因此，“非形式谬误”一词已经广泛流传。在接下来的这篇文章中，分为四个部分，将审查被认为是非形式谬误文献的内容。第一部分是介绍由教科书传统带给我们的核心谬误。第二部分回顾了从亚里士多德到科皮的谬误概念发展的历史。第三部分调查了一些关于谬误的最新创新研究，第四部分考虑了谬误理论中一些当前的研究主题。
 
-* [核心谬误](https://plato.stanford.edu/entries/fallacies/#CorFal)
-* [谬误理论的历史](https://plato.stanford.edu/entries/fallacies/#HisFalThe)
-
-  * [ 亚里士多德](https://plato.stanford.edu/entries/fallacies/#Ari)
-  * [ 2.2 培根](https://plato.stanford.edu/entries/fallacies/#Bac)
-  * [2.3 阿诺德和妮可](https://plato.stanford.edu/entries/fallacies/#ArnNic)
-  * [2.4 Locke](https://plato.stanford.edu/entries/fallacies/#Loc)
-  * [ 2.5 瓦特](https://plato.stanford.edu/entries/fallacies/#Wat)
-  * [ 2.6 Bentham2.6 本丹](https://plato.stanford.edu/entries/fallacies/#Ben)
-  * [2.7 Whately](https://plato.stanford.edu/entries/fallacies/#Wha)
-  * [2.8 Mill](https://plato.stanford.edu/entries/fallacies/#Mil)
-  * [2.9 Copi](https://plato.stanford.edu/entries/fallacies/#Cop)
-* [新的谬误方法](https://plato.stanford.edu/entries/fallacies/#NewAppFal)
-
-  * [ 3.1 Renewed interest3.1 重新引起的兴趣](https://plato.stanford.edu/entries/fallacies/#RenInt)
-  * [3.2 谬误的疑虑](https://plato.stanford.edu/entries/fallacies/#DouAboFal)
-  * [3.3 The informal logic approach to fallacies3.3 谬误的非正式逻辑方法](https://plato.stanford.edu/entries/fallacies/#InfLogAppFal)
-  * [3.4 The formal approach to informal fallacies3.4 非正式谬误的形式方法](https://plato.stanford.edu/entries/fallacies/#ForAppInfFal)
-  * [3.5 The epistemic approach to fallacies](https://plato.stanford.edu/entries/fallacies/#EpiAppFal)
-  * [辩证/对话式谬误处理方法](https://plato.stanford.edu/entries/fallacies/#DiaAppFal)
-* [谬误理论中的当前问题](https://plato.stanford.edu/entries/fallacies/#CurIssFalThe)
-
-  * [谬误的本质](https://plato.stanford.edu/entries/fallacies/#NatFal)
-  * [4.2 外观条件](https://plato.stanford.edu/entries/fallacies/#AppCon)
-  * [ 4.3 Teaching4.3 教学](https://plato.stanford.edu/entries/fallacies/#Tea)
-  * [ 4.4 偏见](https://plato.stanford.edu/entries/fallacies/#Bia)
-* [ 参考文献](https://plato.stanford.edu/entries/fallacies/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/fallacies/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/fallacies/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/fallacies/#Rel)
 
 ---
 

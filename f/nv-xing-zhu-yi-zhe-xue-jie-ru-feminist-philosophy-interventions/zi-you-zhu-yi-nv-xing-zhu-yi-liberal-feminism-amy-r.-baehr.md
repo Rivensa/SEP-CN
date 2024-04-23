@@ -16,39 +16,7 @@ Egalitarian-liberal feminists 认为应该尽力支持妇女的个人和政治�
 
 本文概述了当代古典自由主义女性主义和当代平等自由主义女性主义的研究工作。第一部分探讨了学术哲学家们的平等自由主义女性主义作品；重点关注个人和政治自主权的价值，国家在确保女性自主权方面的作用，以及如何证明平等自由主义女性主义主张；最后讨论了对平等自由主义女性主义的批评。第二部分涉及古典自由主义女性主义的著作，其中大部分面向公共政策和普通读者，而不是学术读者；探讨了古典自由主义女性主义关于女性权利的核心理念，这为国家提供了什么角色，以及如何证明古典自由主义女性主义主张；最后讨论了对古典自由主义女性主义的批评。
 
-* [平等自由主义女性主义](https://plato.stanford.edu/entries/feminism-liberal/#EgalLibeFemi)
 
-  * [个人自主权](https://plato.stanford.edu/entries/feminism-liberal/#PersAuto)
-
-    * [1.1.1 个人自主的程序性解释](https://plato.stanford.edu/entries/feminism-liberal/#ProcAccoPersAuto)
-    * [1.1.2 个人关系中的公平](https://plato.stanford.edu/entries/feminism-liberal/#FairPersRela)
-    * [1.1.3 个人自治与人类繁荣](https://plato.stanford.edu/entries/feminism-liberal/#PersAutoHumaFlou)
-    * [1.1.4 个人自治与国家](https://plato.stanford.edu/entries/feminism-liberal/#PersAutoStat)
-  * [1.2 政治自治](https://plato.stanford.edu/entries/feminism-liberal/#PoliAuto)
-
-    * [1.2.1 分配正义](https://plato.stanford.edu/entries/feminism-liberal/#DistJust)
-    * [1.2.2 公共磋商与选举政治](https://plato.stanford.edu/entries/feminism-liberal/#PublDeliElecPoli)
-  * [ 1.3 正当化](https://plato.stanford.edu/entries/feminism-liberal/#Just)
-  * [ 1.4 批评](https://plato.stanford.edu/entries/feminism-liberal/#Crit)
-* [古典自由主义女性主义](https://plato.stanford.edu/entries/feminism-liberal/#ClasLibeFemi)
-
-  * [2.1 自我所有权和女性权利](https://plato.stanford.edu/entries/feminism-liberal/#SelfOwneWomeRigh)
-  * [2.2 Equity Feminism](https://plato.stanford.edu/entries/feminism-liberal/#EquiFemi)
-
-    * [2.2.1 女性主义对妇女压迫的平等主义](https://plato.stanford.edu/entries/feminism-liberal/#EquiFemiOpprWome)
-    * [2.2.2 Feminism’s Nonpolitical Role2.2.2 女性主义的非政治角色](https://plato.stanford.edu/entries/feminism-liberal/#FemiNonpRole)
-    * [社会保守主义平等女性主义](https://plato.stanford.edu/entries/feminism-liberal/#SociConsEquiFemi)
-  * [2.3 文化自由主义女性主义](https://plato.stanford.edu/entries/feminism-liberal/#CultLibeFemi)
-  * [2.4 反歧视法和优惠待遇](https://plato.stanford.edu/entries/feminism-liberal/#AntiDiscLawPrefTrea)
-  * [ 2.5 Justification2.5 辩护](https://plato.stanford.edu/entries/feminism-liberal/#Just_1)
-  * [ 2.6 批评](https://plato.stanford.edu/entries/feminism-liberal/#Crit_1)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-liberal/#Bib)
-
-  * [ 参考文献](https://plato.stanford.edu/entries/feminism-liberal/#WorkCite)
-  * [ 其他来源](https://plato.stanford.edu/entries/feminism-liberal/#AddiSour)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-liberal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-liberal/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-liberal/#Rel)
 
 ---
 

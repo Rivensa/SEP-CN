@@ -9,28 +9,6 @@
 
 弗里德里希·路德维希·戈特洛布·弗雷格（出生于 1848 年，逝世于 1925 年）是一位德国数学家、逻辑学家和哲学家，曾在耶拿大学工作。弗雷格通过构建一种形式系统，实质上重新构思了逻辑学，这种形式系统也被视为第一个“谓词演算”。在这种形式系统中，弗雷格通过分析量化语句并形式化“证明”的概念，开创性地提出了一种依然被广泛接受的方法。弗雷格还证明了可以使用他的系统通过简单的逻辑和数学概念解决理论数学陈述。弗雷格后来为了从逻辑推导出数学的重要部分，向他的系统中添加了一个公理，但这证明是不一致的。尽管如此，他的定义（例如，前导关系和自然数概念）和方法（例如，推导数论公理）仍然是一次重要的进展。为了证明逻辑和数学的关系，弗雷格构思了一种全面的语言哲学，许多哲学家至今仍然认为是有深刻见解的，尽管最近的研究表明弗雷格从斯多葛学派借鉴了他的语言哲学的许多要素。此外，他终生的目标，即将数学归约为逻辑，没有取得成功。
 
-* [1. 弗雷格的生平和影响](https://plato.stanford.edu/entries/frege/#FreLif)
-* [2. 弗雷格的逻辑和数学哲学](https://plato.stanford.edu/entries/frege/#FreLogMat)
-
-  * [2.1 弗雷格术语逻辑和谓词演算的基础](https://plato.stanford.edu/entries/frege/#BasFreTerLogPreCal)
-  * [2.2 复杂语句与一般性](https://plato.stanford.edu/entries/frege/#ComStaGen)
-  * [2.3 证明和定义](https://plato.stanford.edu/entries/frege/#ProDef)
-  * [2.4 值域、扩展和拟议的数学基础](https://plato.stanford.edu/entries/frege/#CouExtProMatFou)
-  * [2.5 数字陈述的分析](https://plato.stanford.edu/entries/frege/#AnaStaNum)
-  * [ 2.6 自然数](https://plato.stanford.edu/entries/frege/#NatNum)
-  * [2.7 弗雷格对逻辑的理解](https://plato.stanford.edu/entries/frege/#FreConLog)
-* [3. 弗雷格的语言哲学](https://plato.stanford.edu/entries/frege/#FreLan)
-
-  * [ 3.1 弗雷格的难题](https://plato.stanford.edu/entries/frege/#FrePuz)
-  * [3.2 弗雷格的意义和指称理论](https://plato.stanford.edu/entries/frege/#FreTheSenDen)
-  * [3.3 弗雷格语言哲学的语境](https://plato.stanford.edu/entries/frege/#FrePhiLanCon)
-* [ 参考文献](https://plato.stanford.edu/entries/frege/#Bib)
-
-  * [ A. 主要来源](https://plato.stanford.edu/entries/frege/#PriSou)
-  * [ B. 二级来源](https://plato.stanford.edu/entries/frege/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/frege/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/frege/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/frege/#Rel)
 
 ---
 

@@ -17,21 +17,7 @@
 
 该条目以辩证法进行，后续部分预设了先前的讨论。各节标题如下：
 
-* [信仰模型及其关键组成部分](https://plato.stanford.edu/entries/faith/#ModFaiTheKeyCom)
-* [信仰的情感组成部分](https://plato.stanford.edu/entries/faith/#AffComFai)
-* [信仰作为知识](https://plato.stanford.edu/entries/faith/#FaiKno)
-* [信仰与理性：信仰的认识论](https://plato.stanford.edu/entries/faith/#FaiReaEpiFai)
-* [信仰作为信念](https://plato.stanford.edu/entries/faith/#FaiBel)
-* [信仰作为信任的行为](https://plato.stanford.edu/entries/faith/#FaiTru)
-* [信仰作为信念冒险。](https://plato.stanford.edu/entries/faith/#FaiDoxVen)
-* [冒险信仰，无信仰](https://plato.stanford.edu/entries/faith/#FaiSubDoxVen)
-* [信仰与希望](https://plato.stanford.edu/entries/faith/#FaiHop)
-* [信仰作为一种美德](https://plato.stanford.edu/entries/faith/#FaiVir)
-* [信仰超越（正统）神论](https://plato.stanford.edu/entries/faith/#FaiBeyOrtThe)
-* [ 参考文献](https://plato.stanford.edu/entries/faith/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/faith/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/faith/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/faith/#Rel)
+
 
 ---
 

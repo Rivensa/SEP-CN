@@ -4,32 +4,7 @@
 
 “女性主义环境哲学”早期主要关注于女性、非人类动物和自然之间的伦理观点（例如，卡罗尔·亚当斯 1990 年；黛博拉·斯莱瑟 1991 年）。随着发展，对女性主义环境哲学的引用变成了现在的样子——一个涵盖了各种不同、有时不兼容的哲学观点的总称，涉及女性之间的不同种族/族裔、社会经济地位和地理位置之间的联系，一方面，以及非人类动物和自然之间的联系，另一方面。在本文中，“女性主义环境哲学”指的是西方哲学中关于女性、非人类动物和自然之间联系多样性的立场，简称为“女性-自然联系”。除非特别或单独标识，非人类动物被包括在“自然”概念中。（本文不涉及考虑关于环境的非西方哲学立场。）
 
-* [关键术语和区分](https://plato.stanford.edu/entries/feminism-environmental/#KeyTerDis)
 
-  * [自然是一个女性主义问题](https://plato.stanford.edu/entries/feminism-environmental/#NatFemIss)
-  * [1.2 西方经典哲学](https://plato.stanford.edu/entries/feminism-environmental/#CanWes)
-  * [1.3 女性主义环境哲学中的三种立场](https://plato.stanford.edu/entries/feminism-environmental/#ThrKinPosFemEnv)
-* [女性主义环境哲学中的第一种立场：一种历史上与非女性主义环境哲学相关联。](https://plato.stanford.edu/entries/feminism-environmental/#FirKinPosFemEnvOneHisAssNonFemEnv)
-
-  * [2.1 西方环境哲学](https://plato.stanford.edu/entries/feminism-environmental/#WesEnv)
-  * [2.2 Revised Environmental Philosophy: Feminist Perspectives on Animal Ethics2.2 修订后的环境哲学：女性主义视角下的动物伦理学](https://plato.stanford.edu/entries/feminism-environmental/#RevEnvFemPerAniEth)
-  * [2.3 扩展的环境哲学：女性主义哲学视角对利奥波德的土地伦理学](https://plato.stanford.edu/entries/feminism-environmental/#ExpEnvFemPhiPerLeoLanEth)
-  * [2.4 激进环境哲学：女性主义对深层生态学的哲学观点](https://plato.stanford.edu/entries/feminism-environmental/#TraEnvFemPhiPerDeeEco)
-* [第二种立场在女性主义环境哲学中：生态女性主义哲学](https://plato.stanford.edu/entries/feminism-environmental/#SecKinPosFemEnvEco)
-
-  * [3.1 Ecofeminist Philosophy 的特征](https://plato.stanford.edu/entries/feminism-environmental/#ChaEco)
-  * [3.2 压迫性概念框架](https://plato.stanford.edu/entries/feminism-environmental/#OppConFra)
-  * [3.3 语言学视角](https://plato.stanford.edu/entries/feminism-environmental/#LinPer)
-  * [3.4 历史观点](https://plato.stanford.edu/entries/feminism-environmental/#HisPer)
-  * [3.5 社会经济学视角](https://plato.stanford.edu/entries/feminism-environmental/#SocPer)
-  * [3.6 认识论视角](https://plato.stanford.edu/entries/feminism-environmental/#EpiPer)
-  * [3.7 政治视角](https://plato.stanford.edu/entries/feminism-environmental/#PolPer)
-  * [3.8 伦理观点](https://plato.stanford.edu/entries/feminism-environmental/#EthPer)
-* [第四部分：女性主义环境哲学中的第三种立场：新的或新兴的立场和观点](https://plato.stanford.edu/entries/feminism-environmental/#ThiKinPosFemEnvNewEmePosPer)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-environmental/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-environmental/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-environmental/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-environmental/#Rel)
 
 ---
 

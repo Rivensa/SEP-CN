@@ -6,19 +6,6 @@
 
 “信仰主义”是赋予那种思想流派的名称 - 特尔图利安本人经常被说成是属于这种流派 - 这种流派回答说，信仰在某种意义上是独立于理性的，甚至可以说是对抗理性的。与更理性主义的自然神学传统相对，后者通过证明上帝的存在来论证，信仰主义认为 - 或者至少表面上认为（稍后会更详细地讨论这一警告） - 理性对于宗教信仰的实践和证明是不必要和不适当的。这个术语本身源自拉丁语中的 fides，意为信仰，可以直译为信仰主义。因此，“信仰主义”不应被理解为“宗教信仰”的同义词，而是指一种关于信仰适当辖区与理性辖区之间关系的特定哲学观点。
 
-* [第一次翻译结果：一个正式定义Second translation session based on the first result:一个正式的定义](https://plato.stanford.edu/entries/fideism/#1)
-* [2. &quot;Fideism&quot;简史](https://plato.stanford.edu/entries/fideism/#2)
-
-  * [2.1 Sin, Skepticism, and Kant: Theological and Philosophical Roots](https://plato.stanford.edu/entries/fideism/#2.1)
-  * [2.2 The Usual Suspects](https://plato.stanford.edu/entries/fideism/#2.2)
-* [3. 偏见性术语](https://plato.stanford.edu/entries/fideism/#3)
-* [4. 一个理性的信仰主义？](https://plato.stanford.edu/entries/fideism/#4)
-* [5. 没有限制的理性？](https://plato.stanford.edu/entries/fideism/#5)
-* [ 参考文献](https://plato.stanford.edu/entries/fideism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/fideism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/fideism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/fideism/#Rel)
-
 ---
 
 ## 一个正式定义

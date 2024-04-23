@@ -6,18 +6,7 @@ _首次发表于 1999 年 6 月 28 日星期一；实质性修订于 2020 年 2 
 
 对此现状的回应，女性主义对自我进行了三种主要方式的哲学探讨：(1) 批判主导的现代、西方自我观，(2) 重新夺回女性身份，以及(3) 将自我重新构想为(a) 一个动态的、关系性的个体，受无意识欲望和社会纽带的约束，以及(b) 交叉和甚至是异质的。女性主义对自我进行的重新构想挑战了标准哲学模型的偏见，并将学科转向认识自我作为一种关系性、多层次现象。本文将概述对自我进行的批判性和建设性女性主义方法。
 
-* [对自我性经典方法的批判](https://plato.stanford.edu/entries/feminism-self/#CritClasApprSelf)
-* [女性身份和妇女地位的重塑](https://plato.stanford.edu/entries/feminism-self/#ReclFemiIdenWomeStat)
-* [自我的再概念化](https://plato.stanford.edu/entries/feminism-self/#RecoSelf)
-  * [动态和关系自我](https://plato.stanford.edu/entries/feminism-self/#DynaRelaSelf)
-  * [3.2 交叉性和多元自我](https://plato.stanford.edu/entries/feminism-self/#InteMultSelf)
-* [4. 结论](https://plato.stanford.edu/entries/feminism-self/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/feminism-self/#Bib)
-  * [全面参考书目](https://plato.stanford.edu/entries/feminism-self/#CompBibl)
-  * [参考文献](https://plato.stanford.edu/entries/feminism-self/#Refe)
-* [学术工具](https://plato.stanford.edu/entries/feminism-self/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-self/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/feminism-self/#Rel)
+
 
 ***
 

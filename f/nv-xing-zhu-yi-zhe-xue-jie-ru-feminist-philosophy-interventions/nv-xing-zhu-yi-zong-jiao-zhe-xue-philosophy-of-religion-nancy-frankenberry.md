@@ -5,28 +5,6 @@
 
 在当前情况下，大多数女性主义宗教哲学和女性主义神学的实践者都认为，他们的学科不能仅仅局限于对特定宗教团体认为真实的事物的社会学评估或信仰叙事，而不考虑性别带来的差异。因为女性主义宗教哲学是哲学性的，它既不能将被认为是启示和自我认证的经文作为首要数据，也不能将自我特权的努力作为文本内神学的主要目标。因为它是宗教哲学，一个涵盖广泛跨文化材料的主题，它不能仅仅关注基督教宗教中提出的主题或问题。而且因为它是女性主义的，它必须促进性别不平等的消除，并考虑到映射到宗教场域的人类身体、欲望和差异的多样性。同时，它不能假定宗教存在于一种普遍的共同基础之下，贯穿所有不同的传统；只有特定的宗教存在，甚至宗教本身的概念也被认为是一个现代的西方概念。
 
-* [ 介绍](https://plato.stanford.edu/entries/feminist-religion/#Intr)
-* [女性主义对传统宗教哲学的批判](https://plato.stanford.edu/entries/feminist-religion/#FemiCritTradPhilReli)
-* [上帝的问题](https://plato.stanford.edu/entries/feminist-religion/#ProbGod)
-
-  * [女性主义对传统神学的批判](https://plato.stanford.edu/entries/feminist-religion/#FemiCritTradThei)
-  * [从图像和符号到概念和本体论](https://plato.stanford.edu/entries/feminist-religion/#ImagSymbConcOnto)
-* [女性主义对超越的重建](https://plato.stanford.edu/entries/feminist-religion/#FemiRecoTran)
-
-  * [4.1 一个过程女性主义提议](https://plato.stanford.edu/entries/feminist-religion/#ProcFemiProp)
-  * [4.2 投射一个女性神灵](https://plato.stanford.edu/entries/feminist-religion/#ProjFemiDivi)
-* [内在主题和方法](https://plato.stanford.edu/entries/feminist-religion/#ImmaThemMeth)
-
-  * [女性主义立场认识论](https://plato.stanford.edu/entries/feminist-religion/#FemiStanEpis)
-  * [5.2 女性象征的进一步精神分析视角](https://plato.stanford.edu/entries/feminist-religion/#FurtPsycPersFemaSymb)
-  * [5.3 肉体主体性](https://plato.stanford.edu/entries/feminist-religion/#CorpSubj)
-  * [语言、经验、权力和话语的网络关系](https://plato.stanford.edu/entries/feminist-religion/#WebbRelaLangExpePoweDisc)
-  * [5.5 实用化女性主义宗教哲学](https://plato.stanford.edu/entries/feminist-religion/#PragFemiPhilReli)
-* [ 6. 结论](https://plato.stanford.edu/entries/feminist-religion/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/feminist-religion/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminist-religion/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminist-religion/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminist-religion/#Rel)
 
 ---
 

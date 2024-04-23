@@ -4,24 +4,7 @@
 
 性产业中的市场（色情作品）和性服务（卖淫）引起了哲学家和女性主义者的诸多担忧。主要关注点是这些市场似乎对女性——无论是个体女性还是女性群体都造成了无法摆脱和严重的伤害。女性主义哲学家运用道德和政治哲学、语言学和艺术哲学的概念，分析了卖淫和色情作品如何伤害女性。
 
-* [ 色情片](https://plato.stanford.edu/entries/feminist-sex-markets/#Porn)
 
-  * [为什么女性主义者将注意力集中在色情作品上？](https://plato.stanford.edu/entries/feminist-sex-markets/#WhyDoFemiSingOutPorn)
-  * [1.2 色情作品是否使女性沉默和屈从？](https://plato.stanford.edu/entries/feminist-sex-markets/#DoPornWorkSileSuboWome)
-  * [1.3 色情片是否将女性性化为物体？](https://plato.stanford.edu/entries/feminist-sex-markets/#DoesPornSexuObjeWome)
-  * [一些色情作品是否符合女性主义目的？](https://plato.stanford.edu/entries/feminist-sex-markets/#DoesSomePornServFemiEnds)
-* [ 性产业](https://plato.stanford.edu/entries/feminist-sex-markets/#Pros)
-
-  * [2.1 应该禁止一些性产业吗？](https://plato.stanford.edu/entries/feminist-sex-markets/#ShouSomeSexMarkProh)
-  * [我们能否区分人口贩卖和自愿性工作？](https://plato.stanford.edu/entries/feminist-sex-markets/#WeDistHumaTrafConsSexWork)
-  * [性服务市场能有效地被规范吗？](https://plato.stanford.edu/entries/feminist-sex-markets/#MarkSexuServEffeRegu)
-* [ 参考文献](https://plato.stanford.edu/entries/feminist-sex-markets/#Bib)
-
-  * [ 参考文献](https://plato.stanford.edu/entries/feminist-sex-markets/#WorkCite)
-  * [ 其他重要作品](https://plato.stanford.edu/entries/feminist-sex-markets/#OtheImpoWork)
-* [ 学术工具](https://plato.stanford.edu/entries/feminist-sex-markets/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminist-sex-markets/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminist-sex-markets/#Rel)
 
 ---
 

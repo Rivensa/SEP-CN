@@ -8,25 +8,6 @@
 
 在美国，追溯拉丁美洲女性主义及其思想的历史是一项紧迫的任务。尽管对更广泛的拉丁美洲哲学的兴趣日益增长，要求增加文本表现和获取途径，但女性在拉丁美洲哲学思想演变中所扮演的角色却被大多数忽视。然而，存在着大量关于身份、政治和文化理论的批判性女性主义思想。
 
-* [历史：拉丁美洲女性主义的系谱](https://plato.stanford.edu/entries/feminism-latin-america/#HistGeneLatiAmerFemi)
-
-  * [1.1 拉丁美洲女性主义起源（20 世纪前）](https://plato.stanford.edu/entries/feminism-latin-america/#LatiAmerFemiOrigPre20thCent)
-  * [1.2 20 世纪初拉丁美洲女性主义思想](https://plato.stanford.edu/entries/feminism-latin-america/#LatiAmerFemiIdeaEarl20thCent)
-  * [沉默的岁月（1950-1970）](https://plato.stanford.edu/entries/feminism-latin-america/#YearSile1950)
-  * [20 世纪末的拉丁美洲女性主义思想（1970 年代至 1990 年代）](https://plato.stanford.edu/entries/feminism-latin-america/#IdeaMoveLatiAmerFemiLate20thCent1970)
-  * [1.5 反对派之声：21 世纪拉丁美洲女性主义思想](https://plato.stanford.edu/entries/feminism-latin-america/#DissVoicLatiAmerFemiIdea21stCent)
-* [关键问题和辩论](https://plato.stanford.edu/entries/feminism-latin-america/#KeyIssuDeba)
-
-  * [2.1 拉丁美洲女性主义自治](https://plato.stanford.edu/entries/feminism-latin-america/#LatiAmerFemiAuto)
-  * [2.2 翻译与位置的政治](https://plato.stanford.edu/entries/feminism-latin-america/#PoliTranLoca)
-  * [2.3 ](https://plato.stanford.edu/entries/feminism-latin-america/#GendHemiCont)​*[Gender](https://plato.stanford.edu/entries/feminism-latin-america/#GendHemiCont)*​[ in Hemispheric Context](https://plato.stanford.edu/entries/feminism-latin-america/#GendHemiCont)
-  * [2.4 Negotiating Complex Identities2.4 复杂身份的协商](https://plato.stanford.edu/entries/feminism-latin-america/#NegoCompIden)
-* [3. 拉丁美洲女性主义哲学](https://plato.stanford.edu/entries/feminism-latin-america/#LatiAmerFemiPhil)
-* [ 4. 结论](https://plato.stanford.edu/entries/feminism-latin-america/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-latin-america/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-latin-america/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-latin-america/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-latin-america/#Rel)
 
 ---
 

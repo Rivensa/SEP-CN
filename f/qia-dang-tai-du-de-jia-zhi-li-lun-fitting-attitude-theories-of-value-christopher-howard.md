@@ -10,28 +10,6 @@
 
 FA 理论具有许多优点。例如，它们似乎构成了关于评价事实的“原始主义”（即这些事实是基本的或无法用其他术语解释的观点）和“主观主义”（即评价事实完全可以用非规范的、自然主义的关于人类反应的事实来解释的观点）之间的一个有吸引力的中间立场（McHugh 和 Way 2016）。相关地，关于价值本身的 FA 理论声称“揭秘”涉及这一属性的事实（Rabinowicz 和 Rønnow-Rasmussen 2004）。而且，FA 理论更一般地可以提供统一解释各种价值的解释（Schroeder 2010；Rowland 2019），并解释规范和评价领域中某些部分的结构以及其中的各种必要联系（Way 2013）。但是，FA 理论也面临一些未解决的问题，包括对循环性和潜在反例的担忧。本文阐明了 FA 价值理论的性质，强调了这些理论支持者面临的一些重要选择点，并概述和分类了这些理论的主要优点以及它们今天面临的最紧迫的未解决问题。
 
-* [1. 澄清 FA 理论：一些选择点](https://plato.stanford.edu/entries/fitting-attitude-theories/#ClarFATheoSomeChoiPoin)
-
-  * [1.1 形而上学的、概念的还是语义的？](https://plato.stanford.edu/entries/fitting-attitude-theories/#MetaConcSema)
-  * [1.2 FA 理论、原始主义和主观主义](https://plato.stanford.edu/entries/fitting-attitude-theories/#FATheoPrimSubj)
-  * [1.3 哪种规范属性？](https://plato.stanford.edu/entries/fitting-attitude-theories/#WhicNormProp)
-  * [1.4 适合谁？](https://plato.stanford.edu/entries/fitting-attitude-theories/#FittForWhom)
-  * [ 1.5 换向传递](https://plato.stanford.edu/entries/fitting-attitude-theories/#BuckPass)
-* [ 2. 吸引力](https://plato.stanford.edu/entries/fitting-attitude-theories/#Attr)
-
-  * [2.1 规范-评价联系](https://plato.stanford.edu/entries/fitting-attitude-theories/#NormEvalConn)
-  * [ 2.2 价值“揭秘”](https://plato.stanford.edu/entries/fitting-attitude-theories/#ValuDemy)
-  * [2.3 统一评价](https://plato.stanford.edu/entries/fitting-attitude-theories/#UnifEval)
-* [3. 未解决的问题](https://plato.stanford.edu/entries/fitting-attitude-theories/#OutsIssu)
-
-  * [3.1 不当类别的理由问题](https://plato.stanford.edu/entries/fitting-attitude-theories/#WronKindReasProb)
-  * [3.2 不当类别的价值问题](https://plato.stanford.edu/entries/fitting-attitude-theories/#WronKindValuProb)
-  * [3.3 偏袒问题](https://plato.stanford.edu/entries/fitting-attitude-theories/#ProbPart)
-  * [ 3.4 循环性](https://plato.stanford.edu/entries/fitting-attitude-theories/#Circ)
-* [ 参考文献](https://plato.stanford.edu/entries/fitting-attitude-theories/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/fitting-attitude-theories/#Aca)
-* [其他网络资源](https://plato.stanford.edu/entries/fitting-attitude-theories/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/fitting-attitude-theories/#Rel)
 
 ---
 

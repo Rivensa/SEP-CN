@@ -6,25 +6,7 @@
 
 约翰·斯图尔特·密尔（John Stuart Mill）是一个显著的例外，他在《妇女的受制》中主张，家庭中妇女的不平等与她们在更广泛社会世界中的平等是不相容的。他询问道，考虑“自我崇拜，不公正的自我偏爱”在男孩们成长过程中在男性主导的家庭中所滋养的后果，其中“仅仅因为出生为男性，他就是整个人类的一半中所有人的合法优越者”（1869, 86–87）。这样的男孩将如何成长为将女性视为平等者的男人？女性主义学术一直在继续、扩展和深化对家庭概念作为私人领域的攻击。事实上，“个人（即家庭）即政治”这一观念是大多数当代女性主义的核心理念。
 
-* [为什么家庭受到正义原则的约束](https://plato.stanford.edu/entries/feminism-family/#1)
 
-  * [家庭是一个政治机构。](https://plato.stanford.edu/entries/feminism-family/#1.1)
-  * [1.2 家庭影响未来公民的发展](https://plato.stanford.edu/entries/feminism-family/#1.2)
-  * [1.3 家庭限制或赋予女性自由。](https://plato.stanford.edu/entries/feminism-family/#1.3)
-* [2. 家庭结构应该如何评估？](https://plato.stanford.edu/entries/feminism-family/#2)
-
-  * [2.1 基于选择的评估](https://plato.stanford.edu/entries/feminism-family/#2.1)
-  * [2.2 Equality based evaluations2.2 平等基础评估](https://plato.stanford.edu/entries/feminism-family/#2.2)
-  * [2.3 儿童的利益](https://plato.stanford.edu/entries/feminism-family/#2.3)
-* [生殖选择](https://plato.stanford.edu/entries/feminism-family/#3)
-
-  * [ 3.1 流产](https://plato.stanford.edu/entries/feminism-family/#3.1)
-  * [3.2 商业代孕](https://plato.stanford.edu/entries/feminism-family/#3.2)
-* [ 结束思考](https://plato.stanford.edu/entries/feminism-family/#4)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-family/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-family/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-family/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-family/#Rel)
 
 ---
 

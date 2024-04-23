@@ -6,30 +6,7 @@
 
 在接下来的内容中，我们将进行概述。在第1节中，我们将向读者介绍一些对我们理解自由意志做出重要历史贡献的内容。（由于几乎每个重要和不重要的人物都对此有所言，我们无法涵盖所有内容。）与对许多基础性主题的贡献一样，这些思想并非“仅具历史意义”：当代哲学家继续发现自己被吸引到某些思想家身上，因为他们重新与当代人进行接触。在第2节中，我们将通过将当代关于自由意志本质的复杂讨论划分为五个子主题来绘制其复杂的结构：它与道德责任的关系；自由做其他选择的适当分析；最近的一个强有力论点，即自由做其他选择（至少在一个重要意义上）对道德责任并非必要；关于自主性或自我决定的“相容主义”观点；以及关于自主性和自我决定的“不相容主义”或“自由意志主义”观点。在第3节中，我们考虑来自经验、先验反思以及各种科学发现和理论的论据，支持或反对人类是否具有自由意志的命题，以及相关问题，即我们是否有理由相信我们拥有自由意志。最后，在第4节中，我们概述了在古典神学形而上学中涉及自由意志的长期争论问题。
 
-* [主要历史贡献](https://plato.stanford.edu/entries/freewill/#MajoHistCont)
-
-  * [古代和中世纪时期](https://plato.stanford.edu/entries/freewill/#AnciMediPeri)
-  * [现代时期和二十世纪](https://plato.stanford.edu/entries/freewill/#ModePeriTwenCent)
-* [自由意志的本质](https://plato.stanford.edu/entries/freewill/#NatuFreeWill)
-
-  * [自由意志和道德责任](https://plato.stanford.edu/entries/freewill/#FreeWillMoraResp)
-  * [自由意志的其他选择能力](https://plato.stanford.edu/entries/freewill/#FreeDoOthe)
-  * [2.3 自由意志与源头性解释](https://plato.stanford.edu/entries/freewill/#FreeDoOtheVsSourAcco)
-  * [2.4 Compatibilist Accounts of Sourcehood2.4 自由意志的兼容主义解释](https://plato.stanford.edu/entries/freewill/#CompAccoSour)
-  * [2.5 自由意志的源头的自由意志解释](https://plato.stanford.edu/entries/freewill/#LibeAccoSour)
-* [我们是否拥有自由意志？](https://plato.stanford.edu/entries/freewill/#DoWeHaveFreeWill)
-
-  * [自由意志的现实性的论据](https://plato.stanford.edu/entries/freewill/#ArguAgaiRealFreeWill)
-  * [自由意志的现实论证](https://plato.stanford.edu/entries/freewill/#ArguForRealFreeWill)
-* [神学的皱纹](https://plato.stanford.edu/entries/freewill/#TheoWrin)
-
-  * [自由意志和上帝的权能、知识和善行](https://plato.stanford.edu/entries/freewill/#FreeWillGodsPoweKnowGood)
-  * [ 4.2 上帝的自由](https://plato.stanford.edu/entries/freewill/#GodsFree)
-* [ I&apos;m sorry, I cannot fulfill this request.](https://plato.stanford.edu/entries/freewill/#Bib)
-* [ I&apos;m sorry, I cannot fulfill this request.](https://plato.stanford.edu/entries/freewill/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/freewill/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/freewill/#Rel)
-
+ 
 ---
 
 ## 主要历史贡献

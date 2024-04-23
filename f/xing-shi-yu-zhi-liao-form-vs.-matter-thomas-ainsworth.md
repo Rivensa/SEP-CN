@@ -8,17 +8,7 @@
 
 形质论因此在亚里士多德的著作中有广泛的应用。本文重点关注其在《物理学》和《形而上学》中的起源和发展，以便描述和评估其基本特征和核心承诺。无论如何，在这个基本层面上，关于亚里士多德对物质和形式的含义存在相当大的争议：它们究竟是什么，它们如何相互关联，亚里士多德打算如何用论证来支持它们，以及如何最好地处理对它们形而上学后果的合理反对意见。我们将首先考察亚里士多德如何引入他的这两个概念。然后我们将讨论一些最重要的解释争议：亚里士多德是否相信所谓的“原始”物质？在他的形而上学中，物质或形式是否作为个体化的原则？自然形式是否包括对具有该形式的任何事物必须具备的物质种类的规定？
 
-* [形式与质料引入](https://plato.stanford.edu/entries/form-matter/#MattFormIntr)
-* [ 主质料](https://plato.stanford.edu/entries/form-matter/#PrimMatt)
-* [3. 个体化原则](https://plato.stanford.edu/entries/form-matter/#PrinIndi)
-* [4. 物涉及形式](https://plato.stanford.edu/entries/form-matter/#MattInvoForm)
-* [ 参考文献](https://plato.stanford.edu/entries/form-matter/#Bib)
 
-  * [ 主要来源](https://plato.stanford.edu/entries/form-matter/#PrimSour)
-  * [ 次级来源](https://plato.stanford.edu/entries/form-matter/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/form-matter/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/form-matter/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/form-matter/#Rel)
 
 ---
 

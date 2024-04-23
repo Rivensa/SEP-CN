@@ -4,23 +4,7 @@
 
 自主权通常被女性主义作家理解为道德心理学中的理解方式，即自我管理或自我指导：自主行为是根据自己的动机、理由或价值观行事。早期的女性主义文学对自主的概念持怀疑态度，因为人们认为它促进了令人不悦的“男性主义”人格理想；也就是说，人们认为它预设了一个“原子化”的人格概念，理想上是自给自足的，是在不受社会关系影响的真空中运作的，或者是一个摆脱情感等扭曲影响的抽象推理者。最近，女性主义者试图恢复自主的概念。一些人认为，阐明自主选择的条件对于理解性别压迫和相关概念如客体化至关重要。因此，女性主义理论家面临的挑战是从女性主义的角度重新构想自主权。术语“关系自主权”经常用来指代女性主义对自主权的重新概念化，以将其与被认为预设了自我原子化概念的自主权概念相对比。
 
-* [ 介绍](https://plato.stanford.edu/entries/feminism-autonomy/#Int)
-* [女性主义“困难案例”](https://plato.stanford.edu/entries/feminism-autonomy/#FemHarCas)
 
-  * [ 2.1 自我放弃](https://plato.stanford.edu/entries/feminism-autonomy/#SelAbn)
-  * [2.2 自适应偏好形成](https://plato.stanford.edu/entries/feminism-autonomy/#AdaPreFor)
-  * [2.3 压迫的实践](https://plato.stanford.edu/entries/feminism-autonomy/#PraOpp)
-* [ 3. 关系自主权](https://plato.stanford.edu/entries/feminism-autonomy/#RelAut)
-* [第四部分：程序概念](https://plato.stanford.edu/entries/feminism-autonomy/#ProCon)
-* [规范性能力概念](https://plato.stanford.edu/entries/feminism-autonomy/#NorComCon)
-* [情感与自我关注态度](https://plato.stanford.edu/entries/feminism-autonomy/#EmoSelRegAtt)
-* [对话观念](https://plato.stanford.edu/entries/feminism-autonomy/#DiaCon)
-* [强实质和社会关系观念](https://plato.stanford.edu/entries/feminism-autonomy/#StrSubSocRelCon)
-* [ 结论](https://plato.stanford.edu/entries/feminism-autonomy/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-autonomy/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-autonomy/#Aca)
-* [其他互联网资源Assistant&apos;s Note: The first translation session has been completed. Please proceed with the second translation session based on the result provided above](https://plato.stanford.edu/entries/feminism-autonomy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-autonomy/#Rel)
 
 ---
 

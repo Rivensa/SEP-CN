@@ -8,38 +8,7 @@ _首次发表于 2009 年 9 月 26 日星期六；实质性修订于 2014 年 1 
 
 一个相关的主题集涉及在制定性别压迫理论和抵抗策略时所面临的政治和哲学困难：如果跨性别者作为跨性别者受到压迫，女性作为女性受到压迫，那么似乎我们需要至少两种不同性别压迫的解释。这两种不同的模式是否导致彼此不可避免地对立的政治？如果是这样，那么我们如何才能容纳那些作为女性和跨性别者受到压迫的个体？非跨性别女性主义者和跨性别活动家之间的联盟如何可能？共同点在哪里？紧张关系在哪里？
 
-* [术语](https://plato.stanford.edu/entries/feminism-trans/#Ter)
-* [2. 变性现象](https://plato.stanford.edu/entries/feminism-trans/#TraPhe)
-* [第三章 《跨性别帝国》](https://plato.stanford.edu/entries/feminism-trans/#TraEmp)
-* [帝国反击战](https://plato.stanford.edu/entries/feminism-trans/#EmpStrBac)
-  * [4.1 宣言](https://plato.stanford.edu/entries/feminism-trans/#Man)
-  * [4.2 Cyborg and ](https://plato.stanford.edu/entries/feminism-trans/#CybMes)​\*[Mestiza](https://plato.stanford.edu/entries/feminism-trans/#CybMes)\*
-  * [跨性别范式](https://plato.stanford.edu/entries/feminism-trans/#TraPar)
-* [(Trans) Gender Trouble](https://plato.stanford.edu/entries/feminism-trans/#TraGenTro)
-  * [性别困扰](https://plato.stanford.edu/entries/feminism-trans/#GenTro)
-  * [5.2 事关身体](https://plato.stanford.edu/entries/feminism-trans/#BodMat)
-  * [5.3 巴特勒的跨性别批评](https://plato.stanford.edu/entries/feminism-trans/#TraCriBut)
-  * [5.4 撤销性别](https://plato.stanford.edu/entries/feminism-trans/#UndGen)
-* [6. 技术与性别的生产](https://plato.stanford.edu/entries/feminism-trans/#TecProGen)
-* [女性主义/FTM 边界战争和边界地带居民](https://plato.stanford.edu/entries/feminism-trans/#ButBorWarBorZonDwe)
-  * [女性阳刚特质](https://plato.stanford.edu/entries/feminism-trans/#FemMas)
-  * [没有比家更好的地方](https://plato.stanford.edu/entries/feminism-trans/#NoPlaLikHom)
-  * [7.3 在边疆中寻找声音](https://plato.stanford.edu/entries/feminism-trans/#FinVoiBor)
-* [女性主义团结在酷儿理论之后](https://plato.stanford.edu/entries/feminism-trans/#FemSolAftQueThe)
-  * [世俗犹太人和跨性别女性](https://plato.stanford.edu/entries/feminism-trans/#SecJewTraWom)
-  * [8.2 性别作为关系性](https://plato.stanford.edu/entries/feminism-trans/#GenRel)
-  * [8.3 种族/性别类比](https://plato.stanford.edu/entries/feminism-trans/#RacAna)
-  * [渴望的身份](https://plato.stanford.edu/entries/feminism-trans/#AspIde)
-* [跨性别体验的现象学](https://plato.stanford.edu/entries/feminism-trans/#PhenTransEmb)
-* [朝向跨性别/女性主义](https://plato.stanford.edu/entries/feminism-trans/#TowTra)
-  * [10.1 一份跨性别女权主义宣言](https://plato.stanford.edu/entries/feminism-trans/#TraMan)
-  * [10.2 跨性别女性宣言](https://plato.stanford.edu/entries/feminism-trans/#TraWomMan)
-  * [邪恶的欺骗者和虚伪者](https://plato.stanford.edu/entries/feminism-trans/#EviDecMakBel)
-* [结论](https://plato.stanford.edu/entries/feminism-trans/#Con)
-* [参考文献](https://plato.stanford.edu/entries/feminism-trans/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/feminism-trans/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-trans/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/feminism-trans/#Rel)
+
 
 ***
 

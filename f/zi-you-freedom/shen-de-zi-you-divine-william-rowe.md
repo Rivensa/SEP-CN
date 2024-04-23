@@ -3,16 +3,7 @@
 *首次发表于 2003 年 4 月 1 日星期二；实质性修订于 2007 年 7 月 31 日星期二*
 
 神的自由的话题涉及到一个神圣存在——特别是至高无上的神——能够有多自由。两个初步问题在界定神的自由讨论中起着核心作用。第一：除了自由之外，还有哪些属性被认为是神的本质？第二：哪些自由观念主导这个探究？对于第二个问题，在哲学讨论中有两种常见的自由观念：相容主义观念和自由意志观念。神的自由的话题通常涉及到对于传统上被看作是无所不能、无所不知、完美善良和永恒的神的概念。关于第二个问题，有两种自由观念在哲学讨论中很常见：相容主义观念和自由意志观念。神的自由的话题涉及到一个问题：按照传统的概念，神是否能够享有道德责任、感恩和赞美所需的自由程度和种类。但是当问到“神是否能够自由？”时，重要的是要明确神可能被认为是在哪方面自由行动。由于神是无所不能、无所不知、完美善良和永恒的，很明显神不自由于削弱自己、变得无知、做坏事或者毁灭自己。但是，神似乎有必要在引发任何一个可能的世界方面是自由的，也有自由不引发任何世界。然而，如果在可能的世界中有一个是最好的，那么神是否自由创造除了最好的世界之外的任何世界呢？这个问题几个世纪以来一直是争议的焦点。在考虑这个问题和其他问题时，考虑一些对神的自由话题的文献做出了重要贡献的哲学家的观点将是有帮助的。将会详细考虑的哲学家是莱布尼茨和塞缪尔·克拉克。这两位哲学家特别重要，因为除了是非常有能力的哲学家之外，他们还在相容主义者和自由意志观点之间的争议中相互交锋。在著名的莱布尼茨-克拉克通信中，莱布尼茨支持相容主义，而克拉克代表自由意志的立场。除了莱布尼茨和克拉克之外，还将讨论托马斯·莫里斯和罗伯特·亚当斯在这个话题上对于 20 世纪的重要贡献。
-
-* [莱布尼茨-克拉克通信与充分理由原则](https://plato.stanford.edu/entries/divine-freedom/#1)
-* [莱布尼茨对神的自由的问题：上帝选择最好的必然性。](https://plato.stanford.edu/entries/divine-freedom/#2)
-* [3. 克拉克对神的自由的问题：自由需要能够选择其他方式的能力。](https://plato.stanford.edu/entries/divine-freedom/#3)
-* [神的自由方面来说，祂是否可以在造就自己的本性上是自由的呢？](https://plato.stanford.edu/entries/divine-freedom/#4)
-* [创造最佳可能世界的替代方案。](https://plato.stanford.edu/entries/divine-freedom/#5)
-* [ I&apos;m sorry, I cannot fulfill that request](https://plato.stanford.edu/entries/divine-freedom/#Bib)
-* [ I&apos;m sorry, I cannot fulfill this request](https://plato.stanford.edu/entries/divine-freedom/#Aca)
-* [其他网络资源](https://plato.stanford.edu/entries/divine-freedom/#Oth)
-* [ 相关词条](https://plato.stanford.edu/entries/divine-freedom/#Rel)
+ 
 
 ---
 

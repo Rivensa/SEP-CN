@@ -9,20 +9,6 @@
 
 除了上述影响之外，费尔巴哈对现代哲学史的重要性在于他于 1841 年出版《基督教的本质》，可以被视为象征性地标志着六十年前康德的《纯粹理性批判》出现而开始的古典德国哲学时期的结束，正如恩格斯所认为的那样，尽管有些人可能会质疑这种表述方式中所涉及的假设，即古典德国哲学的顶点是恩格斯认为费尔巴哈推翻的黑格尔体系。无论如何，费尔巴哈的思想传记；他最初对黑格尔事业的深刻投入，以及随后努力与之保持距离；以及他试图开创一种新的感性主义“未来哲学”，都与德国在这一时期的政治和思想发展密切相关。尽管费尔巴哈最终未能充分发展他在 1843 年提出的新哲学的格言式阐述的“原则”，但他后来的论文中对实体性、感官、有限性、互为主体性和驱动心理学的强调，成功地引入了现代欧洲思想史中由马克思、弗里德里希·尼采、西格蒙德·弗洛伊德、马克斯·舍勒、马丁·布伯、卡尔·勒维特、莫里斯·梅洛-庞蒂和阿尔弗雷德·施密特等人进一步发展的主题。
 
-* [传记介绍](https://plato.stanford.edu/entries/ludwig-feuerbach/#BiogIntr)
-* [早期理想主义泛神论](https://plato.stanford.edu/entries/ludwig-feuerbach/#EarlIdeaPant)
-* [3. 费尔巴哈作为哲学史家](https://plato.stanford.edu/entries/ludwig-feuerbach/#FeueHistPhil)
-* [4. 基督教的批判](https://plato.stanford.edu/entries/ludwig-feuerbach/#CritChri)
-* [5. “新”哲学](https://plato.stanford.edu/entries/ludwig-feuerbach/#NewPhil)
-* [后期宗教理论](https://plato.stanford.edu/entries/ludwig-feuerbach/#LateTheoReli)
-* [费尔巴哈最后著作中的伦理道德自然化](https://plato.stanford.edu/entries/ludwig-feuerbach/#NatuEthiFeueLastWrit)
-* [ 参考文献](https://plato.stanford.edu/entries/ludwig-feuerbach/#Bib)
-
-  * [ 费尔巴哈作品](https://plato.stanford.edu/entries/ludwig-feuerbach/#FeueWork)
-  * [ 其他参考](https://plato.stanford.edu/entries/ludwig-feuerbach/#OtheRefe)
-* [ 学术工具](https://plato.stanford.edu/entries/ludwig-feuerbach/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ludwig-feuerbach/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ludwig-feuerbach/#Rel)
 
 ---
 

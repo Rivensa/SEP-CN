@@ -6,42 +6,6 @@
 
 “微调”出现在哲学辩论中，通常是关于宇宙对生命的微调：根据许多物理学家的观点，宇宙能够支持生命的事实取决于其各种基本特征，特别是自然法则的形式、一些自然常数的数值，以及宇宙在早期阶段的条件。对宇宙对生命的微调提出了各种反应：认为这是一个幸运的巧合，我们必须接受它作为原始给定；它将被未来最佳的基本物理理论所避免；宇宙是由某位建立了有利于生命条件的神圣设计者创造的；以及微调生命表明存在着多个其他宇宙，其条件与我们自己的宇宙大不相同。本文的第 1 至 4 节回顾了对生命微调的论据、对其的反应以及对这些反应的主要批评。第 5 节从生命微调转向自然性的标准——这是一种不同意义上的无微调条件，适用于量子场论中的理论，在当代粒子物理学和宇宙学中起着重要作用。
 
-* [生命的微调：证据](https://plato.stanford.edu/entries/fine-tuning/#FineTuniForLifeEvid)
-
-  * [物理学中的例子](https://plato.stanford.edu/entries/fine-tuning/#ExamPhys)
-
-    * [微调常数](https://plato.stanford.edu/entries/fine-tuning/#FineTuneCons)
-    * [1.1.2 早期宇宙的微调条件](https://plato.stanford.edu/entries/fine-tuning/#FineTuneCondEarlUniv)
-    * [ 精细调整的法则](https://plato.stanford.edu/entries/fine-tuning/#FineTuneLaws)
-  * [条件真的为生命微调了吗？](https://plato.stanford.edu/entries/fine-tuning/#CondRealFineTuneForLife)
-  * [生物学中的微调](https://plato.stanford.edu/entries/fine-tuning/#FineTuniBiol)
-* [生命的微调需要回应吗？](https://plato.stanford.edu/entries/fine-tuning/#DoesFineTuniForLifeRequResp)
-
-  * [在哪种意义上，生命友好的条件是不太可能的？](https://plato.stanford.edu/entries/fine-tuning/#WhicSensLifeFrieCondImpr)
-  * [不可思议的微调是否不可避免地需要回应？](https://plato.stanford.edu/entries/fine-tuning/#DoesImprFineTuniUnavCallForResp)
-  * [避免通过新物理微调生命？](https://plato.stanford.edu/entries/fine-tuning/#AvoiFineTuniForLifeThroNewPhys)
-* [微调和设计](https://plato.stanford.edu/entries/fine-tuning/#FineTuniDesi)
-
-  * [精细调节论证的概率设计](https://plato.stanford.edu/entries/fine-tuning/#ArguFineTuniForDesiUsinProb)
-  * [3.2 人类论反对意见](https://plato.stanford.edu/entries/fine-tuning/#AnthObje)
-  * [3.3 生命友好条件作为旧证据](https://plato.stanford.edu/entries/fine-tuning/#LifeFrieCondOldEvid)
-  * [3.4 我们能期待设计者设计吗？](https://plato.stanford.edu/entries/fine-tuning/#WeExpeDesiDesi)
-  * [精调论的另一种设计论证](https://plato.stanford.edu/entries/fine-tuning/#AlteArguFineTuniForDesi)
-* [微调和多元宇宙](https://plato.stanford.edu/entries/fine-tuning/#FineTuniMult)
-
-  * [精细调整论证多元宇宙作为人类学解释的推论？](https://plato.stanford.edu/entries/fine-tuning/#ArguFineTuniForMultInfeAnthExpl)
-  * [4.2 微调论证与多元宇宙的概率](https://plato.stanford.edu/entries/fine-tuning/#ArguFineTuniForMultUsinProb)
-  * [4.3 The Inverse Gambler’s Fallacy Charge](https://plato.stanford.edu/entries/fine-tuning/#InveGambFallChar)
-  * [4.4 Independently Motivating and Testing the Multiverse Hypothesis?](https://plato.stanford.edu/entries/fine-tuning/#IndeMotiTestMultHypo)
-* [微调和自然性](https://plato.stanford.edu/entries/fine-tuning/#FineTuniNatu)
-
-  * [5.1 引入自然性自然性是哲学和科学中一个重要的概念。它涉及到事物的本性和存在的方式。自然性的概念在哲学和科学领域中有着广泛的应用，涉及到伦理学、形而上学、物理学等多个领域。在哲学中，自然性通常与人类行为和价值观念相关联，而在科学中，它通常涉及到自然规律和物质世界的本质。自然性的概念在不同的文化和思想体系中有着不同的诠释，但它一直是哲学和科学探讨的重要议题之一。](https://plato.stanford.edu/entries/fine-tuning/#IntrNatu)
-  * [5.2 Violations of Naturalness: Examples](https://plato.stanford.edu/entries/fine-tuning/#ViolNatuExam)
-  * [5.3 违反自然性和生命微调](https://plato.stanford.edu/entries/fine-tuning/#ViolNatuFineTuniForLife)
-* [ I&apos;m sorry, I cannot fulfill that request](https://plato.stanford.edu/entries/fine-tuning/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/fine-tuning/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/fine-tuning/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/fine-tuning/#Rel)
 
 ---
 

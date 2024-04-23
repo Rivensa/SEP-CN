@@ -6,21 +6,6 @@ _首次发表于 2009 年 1 月 30 日星期五；实质性修订于 2020 年 6 
 
 女性主义道德心理学涉及女性主义者在道德心理学领域所做的贡献，或者说他们对这些问题的处理方式是如何受到女性主义关切的驱使，特别是在理解和试图结束妇女压迫方面。女性主义对道德心理学的贡献至少有三方面。首先，一些女性主义者强调情感在行动中的作用；特别是他们强调关怀动机在促使行动方面的作用。他们这样做的原因是，总体而言，情感和关怀在传统道德理论中被忽视或贬低，因为它们与女性有关。他们认为，如果我们要结束妇女的压迫，我们应该将与女性和女性相关的事物纳入我们的哲学理论中，而这些事物以前被排除在外。然而，其他女性主义者担心关怀特别对妇女有害，他们认为将关怀纳入道德理论将使妇女的压迫持续下去。还有其他女性主义者挑战内在主义论题，即认为在承认道德行动理由时，动机在理性主体中必然存在。其次，女性主义者对压迫的关注导致从事道德心理学领域工作的女性主义者承认系统性压迫在受压迫者和压迫者心理中的作用。一个问题是父权制如何影响一个人的动机和随后的行动。父权制如何影响妇女的欲望？如果妇女的欲望被父权制扭曲，她们能够自主吗？满足妇女扭曲的欲望是否有助于她们自身的压迫？是什么驱使那些从事有助于妇女压迫的性别歧视行为的人？女性主义者在道德心理学领域关注的第三个相关问题是责任。当我们的行动受到父权制扭曲的欲望的驱使时，我们在多大程度上对我们的行为负责？受压迫者在某种程度上对自己的压迫负责吗？他们对抗压迫负责吗？主导社会群体的成员对理解压迫负责吗，他们如何能够理解压迫？即使并非每个男人都怀有性别歧视意图，男性集体对妇女的压迫负责吗？
 
-* [道德动机](https://plato.stanford.edu/entries/feminism-moralpsych/#MorMot)
-* [扭曲的欲望](https://plato.stanford.edu/entries/feminism-moralpsych/#DefDes)
-* [责任](https://plato.stanford.edu/entries/feminism-moralpsych/#Res)
-  * [压迫者对压迫的责任](https://plato.stanford.edu/entries/feminism-moralpsych/#ResOppForOpp)
-  * [3.2 采取他人的视角](https://plato.stanford.edu/entries/feminism-moralpsych/#TakAnoPer)
-  * [3.3 集体责任](https://plato.stanford.edu/entries/feminism-moralpsych/#ColRes)
-  * [3.4 被压迫者对不道德行为的责任](https://plato.stanford.edu/entries/feminism-moralpsych/#ResOppForImm)
-  * [3.5 抵抗自身压迫的责任；对受害者的责备](https://plato.stanford.edu/entries/feminism-moralpsych/#ResForResOneOwnOppVicBla)
-* [压迫者的心理学](https://plato.stanford.edu/entries/feminism-moralpsych/#PsyOpp)
-* [5. 结论](https://plato.stanford.edu/entries/feminism-moralpsych/#Con)
-* [参考文献](https://plato.stanford.edu/entries/feminism-moralpsych/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/feminism-moralpsych/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-moralpsych/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/feminism-moralpsych/#Rel)
-
 ***
 
 ## 道德动机

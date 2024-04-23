@@ -8,22 +8,6 @@
 
 女性主义伦理学不仅仅是伦理学的一个分支，而是“一种进行伦理学的方式”（Lindemann 2005, 4），从事上述任务的哲学家可能关注任何伦理学分支，包括元伦理学、规范理论以及实践或应用伦理学。女性主义伦理学的重点在于通过改进伦理理论并提供更好的方法来改善伦理学，包括处理涉及性别等问题的议题。女性主义伦理学并不仅限于性别议题，因为女性主义伦理学的洞见通常适用于道德经验的分析，这些经验具有与性别议题相似的特征，或者反映了性别与其他压迫基础的交叉。女性主义哲学努力包括将由女性主义伦理学激发的调查引入广义伦理问题的探讨。
 
-* [女性主义伦理学：历史背景](https://plato.stanford.edu/entries/feminism-ethics/#FemiEthiHistBack)
-
-  * [十七和十八世纪女性主义伦理学的先驱者](https://plato.stanford.edu/entries/feminism-ethics/#SeveEighCentForeFemiEthi)
-  * [1.2 十九世纪的影响和问题](https://plato.stanford.edu/entries/feminism-ethics/#NineCentInflIssu)
-  * [1.3 二十世纪的影响和问题](https://plato.stanford.edu/entries/feminism-ethics/#TwenCentInflIssu)
-* [女性主义伦理学中的主题](https://plato.stanford.edu/entries/feminism-ethics/#ThemFemiEthi)
-
-  * [2.1 性别二元论、本质主义和分离主义](https://plato.stanford.edu/entries/feminism-ethics/#GendBinaEsseSepa)
-  * [2.2 伦理学关怀作为一种女性或性别化的道德方法](https://plato.stanford.edu/entries/feminism-ethics/#EthiCareFemiGendApprMora)
-  * [ 2.3 交叉性](https://plato.stanford.edu/entries/feminism-ethics/#Inte)
-  * [2.4 Feminist criticisms and expansions of traditional moral theories2.4 女性主义对传统道德理论的批评和拓展](https://plato.stanford.edu/entries/feminism-ethics/#FemiCritExpaTradMoraTheo)
-  * [2.5 拒绝绝对主义：实用主义、跨国女性主义和非理想理论](https://plato.stanford.edu/entries/feminism-ethics/#RejeAbsoPragTranFemiNoniTheo)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-ethics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-ethics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-ethics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-ethics/#Rel)
 
 ---
 

@@ -6,28 +6,6 @@
 
 几乎所有女性主义者都同意，强奸是一种严重的错误，经常被忽视、错误描述和合法化。然而，女性主义者在如何最好地理解强奸罪以及如何在法律和社会上打击强奸方面存在分歧。
 
-* [常见主题和自由至激进的连续体](https://plato.stanford.edu/entries/feminism-rape/#ComTheLibRadCon)
-* [2. 准则：什么算？](https://plato.stanford.edu/entries/feminism-rape/#CriWhaCou)
-
-  * [ 同意。](https://plato.stanford.edu/entries/feminism-rape/#Con)
-  * [2.2 ](https://plato.stanford.edu/entries/feminism-rape/#MenRea)​*[Mens rea](https://plato.stanford.edu/entries/feminism-rape/#MenRea)*
-  * [2.3 Force](https://plato.stanford.edu/entries/feminism-rape/#For)
-  * [ 其他方法](https://plato.stanford.edu/entries/feminism-rape/#OthApp)
-* [强奸的错误和伤害](https://plato.stanford.edu/entries/feminism-rape/#WroHarRap)
-
-  * [3.1 Harms to individual victims3.1 对个体受害者的伤害](https://plato.stanford.edu/entries/feminism-rape/#HarIndVic)
-  * [3.2 对女性的伤害](https://plato.stanford.edu/entries/feminism-rape/#HarWom)
-  * [强奸和种族主义](https://plato.stanford.edu/entries/feminism-rape/#RapRac)
-  * [战争强奸和种族灭绝强奸](https://plato.stanford.edu/entries/feminism-rape/#WarRapGenRap)
-* [ 4. 结论](https://plato.stanford.edu/entries/feminism-rape/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/feminism-rape/#Bib)
-
-  * [ 引用的作品](https://plato.stanford.edu/entries/feminism-rape/#WorCit)
-  * [ 其他重要作品](https://plato.stanford.edu/entries/feminism-rape/#OthImpWor)
-* [ 学术工具](https://plato.stanford.edu/entries/feminism-rape/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminism-rape/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminism-rape/#Rel)
-
 ---
 
 ## 常见主题和自由至激进的连续体

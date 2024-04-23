@@ -4,23 +4,6 @@
 
 尽管任何关于女性主义的一般定义无疑会引起争议，但似乎不可否认的是，女性主义理论中的许多工作致力于批判性别压迫，分析其与其他形式的压迫（如种族主义、异性恋主义和阶级压迫）的交叉点，并设想个人和集体抵抗与解放的前景。鉴于权力概念对于这些理论任务的每一个都是核心的，权力显然也是女性主义理论的一个核心概念。然而，耐人寻味的是，这个概念在女性主义工作中并不经常被明确地主题化（例外包括 Allen 1998, 1999, Caputi 2013, Hartsock 1983 和 1996, Yeatmann 1997, 以及 Young 1992）。事实上，Wendy Brown 认为“权力是我们无法直接或孤立地接近的事物之一，如果我们要明智地谈论它”（Brown 1988, 207）。这给评估女性主义对权力的观点提出了独特的挑战，因为这些观点必须首先从其他主题的讨论中重建。然而，可以确定女性主义者构想权力的三种主要方式：作为（重新）分配的资源，作为统治，以及作为赋权。在简要讨论社会和政治理论中的权力争论之后，本文将概述这些女性主义概念。
 
-* [ 定义权力](https://plato.stanford.edu/entries/feminist-power/#DefiPowe)
-* [2. Power as Resource: 自由女性主义方法](https://plato.stanford.edu/entries/feminist-power/#PoweResoLibeFemiAppr)
-* [3. 权力作为统治](https://plato.stanford.edu/entries/feminist-power/#PoweDomi)
-
-  * [3.1 现象学女性主义方法](https://plato.stanford.edu/entries/feminist-power/#PhenFemiAppr)
-  * [3.2 Radical Feminist Approaches](https://plato.stanford.edu/entries/feminist-power/#RadiFemiAppr)
-  * [社会主义女性主义方法](https://plato.stanford.edu/entries/feminist-power/#SociFemiAppr)
-  * [3.4 交叉方法论](https://plato.stanford.edu/entries/feminist-power/#InteAppr)
-  * [3.5 后结构主义女性主义方法](https://plato.stanford.edu/entries/feminist-power/#PostFemiAppr)
-  * [3.6 后殖民和去殖民化女性主义方法](https://plato.stanford.edu/entries/feminist-power/#PostDecoFemiAppr)
-  * [3.7 分析性女性主义方法](https://plato.stanford.edu/entries/feminist-power/#AnalFemiAppr)
-* [权力作为赋权](https://plato.stanford.edu/entries/feminist-power/#PoweEmpo)
-* [ 结束思考](https://plato.stanford.edu/entries/feminist-power/#ConcThou)
-* [ 参考文献](https://plato.stanford.edu/entries/feminist-power/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/feminist-power/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/feminist-power/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/feminist-power/#Rel)
 
 ---
 
