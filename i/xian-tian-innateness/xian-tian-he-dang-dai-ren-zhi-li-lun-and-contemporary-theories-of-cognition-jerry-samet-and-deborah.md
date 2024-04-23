@@ -240,7 +240,7 @@ P(Scene∣Image)=P(Image∣Scene)P(Scene)P(Image)
 
 考虑这个（再次简化的）例子，取自 Scholl 2005。在图 1 中，圆圈是模糊的；它们可以是凸起的或凹陷的。观察者通常将（a）视为凸起，将（b）视为凹陷，（但如果显示器颠倒，这些属性会反转）。
 
-![two grey rectangles with circles, one appears convex to most people and the other concave](https://plato.stanford.edu/entries/innateness-cognition/figure1.png "figure 1")
+![two grey rectangles with circles, one appears convex to most people and the other concave](https://plato.stanford.edu/entries/innateness-cognition/figure1.png)
 
  图 1
 
