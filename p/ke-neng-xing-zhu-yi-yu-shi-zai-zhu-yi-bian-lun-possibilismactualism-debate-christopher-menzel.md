@@ -1052,11 +1052,11 @@ Lp→Lp 现在仍然可以被证明为必要的：
 * _Quantificational Axiom Schemas_\
   [**Q1**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas), [**FQ2**](https://plato.stanford.edu/entries/possibilism-actualism/#FQ2\_A), [**Q3**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas)
 * _Existence Axiom Schema_\
-  [\*\*E!\*\*_A_](https://plato.stanford.edu/entries/possibilism-actualism/#Ex\_A)
+  [__E!___A_](https://plato.stanford.edu/entries/possibilism-actualism/#Ex\_A)
 * _Identity Axiom Schemas_\
   [**∀Id1**](https://plato.stanford.edu/entries/possibilism-actualism/#GenId1), [**Id2**](https://plato.stanford.edu/entries/possibilism-actualism/#IdSchemas)
 * _Rules of Inference_\
-  **MP**, **Gen**, [**Nec**\*](https://plato.stanford.edu/entries/possibilism-actualism/#Necz)
+  **MP**, **Gen**, [**Nec**_](https://plato.stanford.edu/entries/possibilism-actualism/#Necz)
 
 _A_\* (under the name “_A_”) is proved sound and complete in Menzel 1991.
 

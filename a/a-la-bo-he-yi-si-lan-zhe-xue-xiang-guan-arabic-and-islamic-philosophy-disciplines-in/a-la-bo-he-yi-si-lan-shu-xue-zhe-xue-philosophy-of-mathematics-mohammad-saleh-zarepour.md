@@ -245,8 +245,8 @@ _awwalīyāt_和_fiṭrīyāt_的真理是通过智力的自然运作（_fiṭra
 * De Smet, Daniel, 2022, “Pythagoras’ Philosophy of Unity as a Precursor of Islamic Monotheism: Pseudo-Ammonius and Related Sources”, in Caiazzo, Macris, and Robert 2022: 277–295. doi:10.1163/9789004499461\*010
 * Dhanani, Alnoor, 1994, _The Physical Theory of Kalām_, Leiden: Brill.
 * –––, 2015, “The Impact of Ibn Sīnā’s Critique of Atomism on Subsequent _Kalām_ Discussions of Atomism”, _Arabic Sciences and Philosophy_, 25(1): 79–104. doi:10.1017/S0957423914000101
-* Eftekhari, Banafsheh, 2018, “The Inconsistency Between Geometrical Continuism and Kalām Atomism in Fakhr al-Dīn Rāzī”, _Philosophy of Science_ (Iran), 8(15): 1–26. \[[Eftekhari 2018 available online](https://philosophy.ihcs.ac.ir/article\*3234.html?lang=en)]
-* –––, 2019, “Fakhr Rāzī’s Theory of Motion in Interaction with Aristotelian Physics”, _Philosophy of Science_, 9(17): 1–25. \[[Eftekhari 2019 available online](https://philosophy.ihcs.ac.ir/article\*4164.html?lang=en)]
+* Eftekhari, Banafsheh, 2018, “The Inconsistency Between Geometrical Continuism and Kalām Atomism in Fakhr al-Dīn Rāzī”, _Philosophy of Science_ (Iran), 8(15): 1–26. \[[Eftekhari 2018 available online](https://philosophy.ihcs.ac.ir/article_3234.html?lang=en)]
+* –––, 2019, “Fakhr Rāzī’s Theory of Motion in Interaction with Aristotelian Physics”, _Philosophy of Science_, 9(17): 1–25. \[[Eftekhari 2019 available online](https://philosophy.ihcs.ac.ir/article_4164.html?lang=en)]
 * El-Bizri, Nader, 2018, “The Occult in Numbers: The Arithmology and Arithmetic of the Ikhwān al-Ṣafā”, in _The Occult Sciences in Pre-Modern Islamic Cultures_, Nader El-Bizri and Eva Orthmann (eds), Beirut: Orient-Institut / Würzburg: Ergon Verlag, 17–40.
 * Endress, Gerhard, 2003, “Mathematics and Philosophy in Medieval Islam”, in _The Enterprise of Science in Islam: New Perspectives_, Jan P. Hogendijk and Abdelhamid I. Sabra (eds), Cambridge MA: The MIT Press, 121–176.
 * Fazlıoğlu, İhsan, 2014, “Between Reality and Mentality -Fifteenth Century Mathematics and Natural Philosophy Reconsidered-”, _Nazariyat İslam Felsefe ve Bilim Tarihi Araştırmaları Dergisi (Journal for the History of Islamic Philosophy and Sciences)_, 1(1): 1–39. doi:10.15808/Nazariyat.1.1.M0001
@@ -261,7 +261,7 @@ _awwalīyāt_和_fiṭrīyāt_的真理是通过智力的自然运作（_fiṭra
 * Hussey, Edward, 1991, “Aristotle on Mathematical Objects”, _Apeiron_, 24(4): 105–133. doi:10.1515/APEIRON.1991.24.4.105
 * Ighbariah, Ahmad and Roy Wagner, 2018, “Ibn Al-Haytham’s Revision of the Euclidean Foundations of Mathematics”, _HOPOS: The Journal of the International Society for the History of Philosophy of Science_, 8(1): 62–86. doi:10.1086/695957
 * Kaş, Murat, 2021, “Apprehension and Existence, Appearance and Reality: The Reception of Nafs al-amr Debates after the 13th Century”, _Ilahiyat Studies_, 12(1): 7–39. doi:10.12730/13091719.2021.121.216
-* Kiankhah, Leila, 2015, “A Research on and a Critical Edition of ‘the Goals of Metaphysics’”, _Sophia Prennis_, 11(2): 119–157. \[[Kiankhah 2015 available online](http://www.javidankherad.ir/article\*32894.html)]
+* Kiankhah, Leila, 2015, “A Research on and a Critical Edition of ‘the Goals of Metaphysics’”, _Sophia Prennis_, 11(2): 119–157. \[[Kiankhah 2015 available online](http://www.javidankherad.ir/article_32894.html)]
 * Lear, Jonathan, 1982, “Aristotle’s Philosophy of Mathematics”, _The Philosophical Review_, 91(2): 161–192. doi:10.2307/2184625
 * Lettinck, Paul, 1999, “Ibn Sina on Atomism: Translation of Ibn Sina’s Kitab Al-Shifa, Al-Tabi’iyyat I: Al-Sama’ Al-Tabi’i Third Treatise, Chapter 3-5”, _Al-Shajarah: Journal of the International Institute of Islamic Thought and Civilization (ISTAC)_, 4(1): 1–51.
 * Mancosu, Paolo, 2009, “Measuring the Size of Infinite Collections of Natural Numbers: Was Cantor’s Theory of Infinite Number Inevitable?”, _The Review of Symbolic Logic_, 2(4): 612–646. doi:10.1017/S1755020309990128
@@ -306,7 +306,7 @@ _awwalīyāt_和_fiṭrīyāt_的真理是通过智力的自然运作（_fiṭra
 * –––, 2003, “One Ibn al-Haytham or Two? Conclusion”, _Zeitschrift für Geschichte der Arabisch-Islamischen Wissenschaften_, 15: 95–108.
 * Samian, A.L., 2011, “Reason and Spirit in Al-Biruni’s Philosophy of Mathematics”, in _Reason, Spirit and the Sacral in the New Enlightenment_, Anna-Teresa Tymieniecka (ed.), Dordrecht: Springer Netherlands, 137–146. doi:10.1007/978-90-481-9612-8\*9
 * –––, 2014, “The Question of Divinity in Newton’s and al-Biruni’s Philosophies of Mathematics: A Comparative Perspective”, in _Islamic Philosophy and Occidental Phenomenology in Dialogue_, Anna-Teresa Tymieniecka, Nazif Muhtaroglu, and Detlev Quintern (eds.), Dordrecht: Springer Netherlands, 113–123. doi:10.1007/978-94-007-7902-0\*9
-* Setia, ʿAdī, 2006, “Atomism versus Hylomorphism in the Kalām of al-Fakhr al-Dīn al-Rāzī: A Preliminary Survey of the Maṭālib al-ʿaliyyah”, _Islam & Science_, 4(2): 113–140. \[[Setia 2006 available online](https://cis-ca.org/\*media/pdf/2006/2/A\*avhitkoaaaapstma.pdf)]
+* Setia, ʿAdī, 2006, “Atomism versus Hylomorphism in the Kalām of al-Fakhr al-Dīn al-Rāzī: A Preliminary Survey of the Maṭālib al-ʿaliyyah”, _Islam & Science_, 4(2): 113–140. \[[Setia 2006 available online](https://cis-ca.org/_media/pdf/2006/2/A_avhitkoaaaapstma.pdf)]
 * Shamsi, F.A., 1975, “Al-Kindi’s Epistle: On What Cannot Be Infinite and of What Infinity May Be Attributed”, _Islamic Studies_, 14(2): 123–144.
 * Spiker, Hasan, 2021, _Things as They Are: Nafs Al-Amr & the Metaphysical Foundations of Objective Truth_, Abu Dhabi: Tabah Research.
 * Tahiri, Hassan, 2016, _Mathematics and the Mind: An Introduction into Ibn Sīnā’s Theory of Knowledge_, (SpringerBriefs in Philosophy), Cham: Springer International Publishing. doi:10.1007/978-3-319-25238-4

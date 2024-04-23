@@ -761,7 +761,7 @@ Schlenker 的研究的第二个重要结论是手语代词具有一个_图像化
 * Barker, Chris and Shan, Chun-chieh, 2014, _Continuations and Natural Language_, Oxford: Oxford University Press.
 * Beaver, David, 2001, _Presupposition and Assertion in Dynamic Semantics_, CSLI Publications.
 * Brasoveanu, Adrian, 2006, _Structured Nominal and Modal Reference_, Ph.D. dissertation, Rutgers University, New Brunswick, NJ.
-* –––, 2007, “Structured Discourse Reference to Individuals”, _Proceedings of the 6th Discourse Anaphora and Anaphor Resolution Colloquium_, Lagos (Algarve), Portugal. \[[Brasoveanu 2006 available online](http://people.ucsc.edu/\~abrsvn/DAARC6\*brasoveanu.pdf)]
+* –––, 2007, “Structured Discourse Reference to Individuals”, _Proceedings of the 6th Discourse Anaphora and Anaphor Resolution Colloquium_, Lagos (Algarve), Portugal. \[[Brasoveanu 2006 available online](http://people.ucsc.edu/\~abrsvn/DAARC6_brasoveanu.pdf)]
 * –––, 2008, “Donkey Pluralities: plural information states versus non-atomic individuals”, _Linguistics and Philosophy_, 31: 129–209.
 * –––, 2010, “Structured anaphora to quantifier domains”, _Information and Computation_, 208: 405–473.
 * Braun, David, 2012, “Hob, Nob, and Mythical Witches”, in _Reference and Referring_, Campbell, O”Rourke, and Silverstein (eds.), Cambridge, MA: MIT Press, pp. 148–188.
@@ -873,5 +873,5 @@ Schlenker 的研究的第二个重要结论是手语代词具有一个_图像化
 [discourse representation theory](https://plato.stanford.edu/entries/discourse-representation-theory/) | [presupposition](https://plato.stanford.edu/entries/presupposition/) | [semantics: dynamic](https://plato.stanford.edu/entries/dynamic-semantics/) | [situations: in natural language semantics](https://plato.stanford.edu/entries/situations-semantics/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Jeffrey C. King](http://philosophy.rutgers.edu/index.php?option=com\*content\&task=view\&id=105\&Itemid=210) <[_jcking310@gmail.com_](mailto:jcking310%40gmail%2ecom)>\
+[Jeffrey C. King](http://philosophy.rutgers.edu/index.php?option=com_content\&task=view\&id=105\&Itemid=210) <[_jcking310@gmail.com_](mailto:jcking310%40gmail%2ecom)>\
 Karen S. Lewis <[_klewis@barnard.edu_](mailto:klewis%40barnard%2eedu)>

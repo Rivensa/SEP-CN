@@ -276,7 +276,7 @@ Duddy 和 Piggins（2012）质疑使用汉明距离来衡量判断集之间的�
 * Duddy, C. and A. Piggins, 2012, “A Measure of Distance Between Judgment Sets”, _Social Choice and Welfare_, 39: 855–867.
 * Eckert, D. and C. Klamler, 2007, “How puzzling is judgment aggregation? Antipodality in distance-based aggregation rules”, Working paper, University of Graz.
 * Elmagarmid, A., M. Rusinliewicz, and A. Sheth (eds.), 1999, _Management of Heterogeneous and Autonomous Database Systems_, San Francisco, CA, USA: Morgan Kaufmann.
-* Elster, J., 2013, “Excessive Ambitions (II)”, _Capitalism and Society_, 8(1): Article 1 \[[Elster 2013 available online](http://papers.ssrn.com/sol3/papers.cfm?abstract\*id=2207111)]
+* Elster, J., 2013, “Excessive Ambitions (II)”, _Capitalism and Society_, 8(1): Article 1 \[[Elster 2013 available online](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2207111)]
 * Endriss, U., 2016, “Judgment Aggregation”, in F. Brandt, V. Conitzer, U. Endriss, J. Lang, A. Procaccia (eds.), _Handbook of Computational Social Choice_, Cambridge: Cambridge University Press, pp. 399–426.
 * Endriss, U. and R. de Haan, 2015, “Complexity of the Winner Determination Problem in Judgment Aggregation: Kemeny, Slater, Tideman, Young”, in _Proceedings of the 14th International Conference on Autonomous Agents and Multiagent Systems_, IFAMAS, pp. 117–125.
 * Endriss, U., U. Grandi, and D. Porello, 2012, “Complexity of Judgment Aggregation”, _Journal of Artificial Intelligence Research_, 45: 481–514.

@@ -1001,4 +1001,4 @@ Schiller 对 Kant 的审美论证的下一部分是，尊严是一种与优雅�
 Work on this entry was facilitated by a Laurance S. Rockefeller Visiting Fellowship at the Princeton University Center for Human Values. Section 7 draws on Guyer 2005b and Guyer 2006a. Section 8 draws on Guyer 2006b.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Paul Guyer](http://www.brown.edu/academics/philosophy/paul-guyer) <[_paul\*guyer@brown.edu_](mailto:paul\*guyer%40brown%2eedu)>
+[Paul Guyer](http://www.brown.edu/academics/philosophy/paul-guyer) <[_paul_guyer@brown.edu_](mailto:paul_guyer%40brown%2eedu)>

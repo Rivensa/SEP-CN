@@ -699,4 +699,4 @@ This article has concentrated on only a few of the many topics that Beardsley wr
 Acknowledgement goes here.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Michael Wreen](http://www.marquette.edu/phil/faculty\*wreen.shtml) <[_michael.wreen@marquette.edu_](mailto:michael%2ewreen%40marquette%2eedu)>
+[Michael Wreen](http://www.marquette.edu/phil/faculty_wreen.shtml) <[_michael.wreen@marquette.edu_](mailto:michael%2ewreen%40marquette%2eedu)>

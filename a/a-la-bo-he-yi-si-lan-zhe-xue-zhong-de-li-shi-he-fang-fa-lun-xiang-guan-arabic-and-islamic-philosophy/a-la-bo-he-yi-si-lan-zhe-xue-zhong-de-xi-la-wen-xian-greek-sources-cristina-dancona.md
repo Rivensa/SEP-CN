@@ -460,7 +460,7 @@ _首次发表于 2009 年 2 月 23 日；实质性修订于 2022 年 1 月 28 �
 ## Other Internet Resources
 
 * [Brief Bibliographical Guide for Islamic Philosophy and Theology](http://philosophy.cua.edu/faculty/druart/bibliographical-guide.cfm).
-* [Averroes Database](http://www.thomasinstitut.uni-koeln.de/averroes\*db/), at the Thomas-Institut der Universität zu Köln
+* [Averroes Database](http://www.thomasinstitut.uni-koeln.de/averroes_db/), at the Thomas-Institut der Universität zu Köln
 * [IDEO](http://www.ideo-cairo.org/), Dominican Institute for Oriental Studies, in Cairo
 * [The Learning Roads: Studia graeco-arabica](http://learningroads.cfs.unipi.it/sga/), features critical articles and reviews on the transmission of philosophical and scientific texts from and into various languages – Greek, Syriac, Arabic, and Latin – from late Antiquity to the Middle Ages and Renaissance.
 
@@ -473,4 +473,4 @@ _首次发表于 2009 年 2 月 23 日；实质性修订于 2022 年 1 月 28 �
 My warmest thanks go to Deborah L. Black for her help with the English of this entry.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Cristina D’Ancona](https://people.unipi.it/cristina\*dancona/) <[_cristina.dancona@unipi.it_](mailto:cristina%2edancona%40unipi%2eit)>
+[Cristina D’Ancona](https://people.unipi.it/cristina_dancona/) <[_cristina.dancona@unipi.it_](mailto:cristina%2edancona%40unipi%2eit)>

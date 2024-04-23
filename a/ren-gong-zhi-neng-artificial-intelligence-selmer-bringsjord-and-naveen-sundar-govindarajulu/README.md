@@ -104,7 +104,7 @@ _根据 AIMA，人工智能的四个可能目标_
 
 那么，Russell 和 Norvig 自己呢？对于“什么是 AI？”这个问题，他们坚定地站在“以理性行动”阵营。事实上，可以说他们是这个答案的主要支持者，并且他们一直是非常成功的传道者。他们极具影响力的_AIMA_系列可以被视为一本书长的对理想/行动类别的辩护和规范。稍后我们将看一下 Russell 和 Norvig 如何以**智能代理**的术语来概述整个 AI 领域，智能代理是按照各种理性的理想标准行动的系统。但首先，让我们更仔细地看一下_AIMA_文本所基于的智能观。我们可以通过参考 Russell（1997）来做到这一点。在这里，Russell 将“什么是 AI？”的问题重新解释为“什么是智能？”的问题（假设我们对人造物有很好的理解），然后他将智能与**理性**等同起来。更具体地说，Russell 将 AI 视为致力于构建**智能代理**的领域，这些代理是根据来自外部环境的感知元组作为输入，并根据这些感知产生行为（动作）的函数。Russell 的整体观点如下：
 
-!['感知历史'到'代理功能'到'行为'到'环境'到'感知历史'; 同样 '环境'到/从'状态历史'到'绩效度量'](https://plato.stanford.edu/entries/artificial-intelligence/rationality\*diagram\*3.png)
+!['感知历史'到'代理功能'到'行为'到'环境'到'感知历史'; 同样 '环境'到/从'状态历史'到'绩效度量'](https://plato.stanford.edu/entries/artificial-intelligence/rationality_diagram_3.png)
 
 _罗素对智能/理性的基本图景_
 
@@ -250,7 +250,7 @@ CL 如何实现两个系统之间的互操作性？假设其中一个系统基�
 
 神经网络由用于表示神经元的**单元**或**节点**组成，这些单元通过用于表示树突的**链接**连接在一起，每个链接都有一个数值**权重**。
 
-![通过激活函数生成输出的加权输入之和](https://plato.stanford.edu/entries/artificial-intelligence/neuron-unit\*1.png)
+![通过激活函数生成输出的加权输入之和](https://plato.stanford.edu/entries/artificial-intelligence/neuron-unit_1.png)
 
 _人造神经网络中的“神经元”（来自 AIMA3e）_
 
@@ -264,7 +264,7 @@ ai=g(ini)=g(∑jWjiaj)
 
 一种常见（且公认为基础）的激活函数选择（通常控制给定网络中的所有单元）是阶跃函数，通常具有阈值 t，当输入大于 t 时输出 1，否则输出 0。这被认为在某种程度上类似于大脑，因为 1 代表神经元通过轴突发射脉冲，0 代表没有发射。下图显示了一个简单的三层神经网络。
 
-![具有 3 层的神经网络](https://plato.stanford.edu/entries/artificial-intelligence/neural-net\*1.png)
+![具有 3 层的神经网络](https://plato.stanford.edu/entries/artificial-intelligence/neural-net_1.png)
 
 _一个简单的三层人造神经网络（来自 AIMA3e）_
 
@@ -603,7 +603,7 @@ Searle（2014）认为 Bostrom 的书是误导和基本错误的，我们不需�
 * Bringsjord, S., 2000, “Animals, Zombanimals, and the Total Turing Test: The Essence of Artificial Intelligence,” _Journal of Logic, Language, and Information_, 9: 397–418.
 * Bringsjord, S., 1998, “Philosophy and ‘Super’ Computation,” _The Digital Phoenix: How Computers are Changing Philosophy_, J. Moor and T. Bynam, eds., Oxford, UK: Oxford University Press, pp. 231–252.
 * Bringsjord, S., 1991, “Is the Connectionist-Logicist Clash one of AI’s Wonderful Red Herrings?” _Journal of Experimental & Theoretical AI_, 3.4: 319–349.
-* Bringsjord, S., Govindarajulu N. S., Eberbach, E. & Yang, Y., 2012, “Perhaps the Rigorous Modeling of Economic Phenomena Requires Hypercomputation,” _International Journal of Unconventional Computing,_ 8.1: 3–32. \[[Preprint available online](http://kryten.mm.rpi.edu/SB\*NSG\*EE\*YY\*28-9-2010.pdf)]
+* Bringsjord, S., Govindarajulu N. S., Eberbach, E. & Yang, Y., 2012, “Perhaps the Rigorous Modeling of Economic Phenomena Requires Hypercomputation,” _International Journal of Unconventional Computing,_ 8.1: 3–32. \[[Preprint available online](http://kryten.mm.rpi.edu/SB_NSG_EE_YY_28-9-2010.pdf)]
 * Bringsjord, S., 2011, “Psychometric Artificial Intelligence,” _Journal of Experimental and Theoretical Artificial Intelligence_, 23.3: 271–277.
 * Bringsjord, S. & Govindarajulu N. S., 2012, “Given the Web, What is Intelligence, Really?” _Metaphilosophy_ 43.12: 464–479.
 * Brooks, R. A., 1991, “Intelligence Without Representation,” _Artificial Intelligence_, 47: 139–159.
@@ -809,7 +809,7 @@ Searle（2014）认为 Bostrom 的书是误导和基本错误的，我们不需�
 ### Cited Resources
 
 * Baydin A.G., Pearlmutter, B. A., Radul, A. A. & Siskind J. M., 2015, “Automatic Differentiation in Machine Learning: A Survey,” arXiv:1502.05767 \[cs.SC]. URL: [\[1502.05767\] Automatic differentiation in machine learning: a survey](http://arxiv.org/abs/1502.05767)
-* Benenson, 2016, “[Classification Datasets Results,](http://rodrigob.github.io/are\*we\*there\*yet/build/classification\*datasets\*results.html)” URL = [http://rodrigob.github.io/are\*we\*there\*yet/build/classification\*datasets\*results.html](http://rodrigob.github.io/are\*we\*there\*yet/build/classification\*datasets\*results.html) (Last accessed in July 2018).
+* Benenson, 2016, “[Classification Datasets Results,](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)” URL = [http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html) (Last accessed in July 2018).
 * LeCun, Y., Cortes, C. and Burges, C. J.C, 2017, “THE MNIST DATABASE of handwritten digits,” URL = http://yann.lecun.com/exdb/mnist/ (Last accessed in July 2018).
 * Levesque, J. H., 2013, “[On Our Best Behaviour](http://www.cs.toronto.edu/\~hector/Papers/ijcai-13-paper.pdf),” _Speech for the IJCAI 2013 Award for Research Excellence_, Beijing.
 

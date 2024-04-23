@@ -326,7 +326,7 @@ Karp 和 Masolo（2000 年）对这个新的后乌托邦阶段的描述追踪了
 * Karp, I., and D. A. Masolo, 2000, “Introduction,” in I. Karp and D. A. Masolo (eds.), _African Philosophy as Cultural Inquiry_, Bloomington, IN: Indiana University Press.
 * Kiros, T., 2004, “Zera Yacob and Traditional Ethiopian Philosophy,” in K. Wiredu (ed.), _A Companion to African Philosophy_, Malden, MA: Blackwell, pp. 183–190.
 * Lamola, M. J., 2016, “Senghor, Globalism, and Africanity,” _Phronimon_ (South Africa), 17 (2): 51–67.
-* Lockward, A., 2013, “Black Europe Body Politics: Towards an Afropean Decolonial Aesthetics,” _Social Text Online_ \[[Available online](https://socialtextjournal.org/periscope\*article/black-europe-body-politics-towards-an-afropean-decolonial-aesthetics/)].
+* Lockward, A., 2013, “Black Europe Body Politics: Towards an Afropean Decolonial Aesthetics,” _Social Text Online_ \[[Available online](https://socialtextjournal.org/periscope_article/black-europe-body-politics-towards-an-afropean-decolonial-aesthetics/)].
 * Lott, T. L., and J. P. Pittman (eds.), 2003, _A Companion to African-American Philosophy_, Malden, MA: Blackwell.
 * McBride, D. A., 2007, “Toward the New Black Studies: Or Beyond the Old Race Man,” in V. O. Okafor (ed.), _Journal of Black Studies_ (Special Issue: Sustaining Black Studies), 37 (3): 428–444.
 * McClendon, J. H., and Ferguson, S. C., 2019, _African American Philosophers and Philosophy: An Introduction to the History, Concepts, and Contemporary Issues_, London: Bloomsbury Academic.
@@ -357,7 +357,7 @@ Karp 和 Masolo（2000 年）对这个新的后乌托邦阶段的描述追踪了
 * Simpson, A., 2013, “Black Philosophy and the Erotic,” _The Black Scholar_ (Special Issue: The Role of Black Philosophy) 43, (4): 74–79.
 * Snorton, C. R., 2017, _Black on Both Sides: A Racial History of Trans Identity_, Minneapolis, MN: University of Minnesota Press.
 * Stewart, L., 2017, “Work the Root: Black Feminism, Hoodoo Love Rituals, and Practices of Freedom,” _Hypatia_, 32 (1): 103–118.
-* Taiwo, O., 2000, “Presidential Address,” 6th Annual Conference of the International Society for African Philosophy and Studies, University of Nairobi, Nairobi, Kenya, March 10–12, 2000 \[[Available online](https://www.pdcnet.org/collection/fshow?id=sixth-isaps\*2002\*R009\*R010\&file\*type=pdf)].
+* Taiwo, O., 2000, “Presidential Address,” 6th Annual Conference of the International Society for African Philosophy and Studies, University of Nairobi, Nairobi, Kenya, March 10–12, 2000 \[[Available online](https://www.pdcnet.org/collection/fshow?id=sixth-isaps_2002_R009_R010\&file_type=pdf)].
 * –––, 2004, “Post-Independence African Political Philosophy,” in K. Wiredu (ed.), _A Companion to African Philosophy_, Malden, MA: Blackwell, pp. 243–59.
 * Taylor, P. C., 2009, “A Future for Africana (Post-)Analytic Philosophy,” _South Atlantic Quarterly_, 108 (3): 501–17.
 * –––, 2016, _Black Is Beautiful: A Philosophy of Black Aesthetics_, Malden, MA: John Wiley & Sons.

@@ -373,4 +373,4 @@ Le Poidevin 通过陈述这个论证的第一个前提来进行辩护，他认�
 The author is grateful to the students in his Fall 2016 seminar on atheism and agnosticism: John Absher, Matthew Fritz, Alžbeta Hájková, Vincent Jacobson, Daniel Linford, Adam Nuske, Bianca Oprea, and Luke Wilson. They contributed in a variety of ways to making this entry much better than it would otherwise have been. The author is also grateful to Jeanine Diller and Jeffery Lowder for very helpful comments.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Paul Draper](https://www.cla.purdue.edu/philosophy/directory/?p=paul\*draper) <[_pdraper@purdue.edu_](mailto:pdraper%40purdue%2eedu)>
+[Paul Draper](https://www.cla.purdue.edu/philosophy/directory/?p=paul_draper) <[_pdraper@purdue.edu_](mailto:pdraper%40purdue%2eedu)>

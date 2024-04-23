@@ -315,4 +315,4 @@ B12 片段以对混合和分离的进一步讨论结束，并阿那克萨哥拉�
 [Democritus](https://plato.stanford.edu/entries/democritus/) | [doxography of ancient philosophy](https://plato.stanford.edu/entries/doxography-ancient/) | [Empedocles](https://plato.stanford.edu/entries/empedocles/) | [Parmenides](https://plato.stanford.edu/entries/parmenides/) | [Plato](https://plato.stanford.edu/entries/plato/) | [Presocratic Philosophy](https://plato.stanford.edu/entries/presocratics/) | [soul, ancient theories of](https://plato.stanford.edu/entries/ancient-soul/) | [Zeno of Elea](https://plato.stanford.edu/entries/zeno-elea/)
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Patricia Curd](https://www.cla.purdue.edu/philosophy/directory/?p=Patricia\*Curd)
+[Patricia Curd](https://www.cla.purdue.edu/philosophy/directory/?p=Patricia_Curd)

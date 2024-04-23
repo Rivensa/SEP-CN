@@ -102,8 +102,8 @@ _首次发表于 2019 年 1 月 18 日星期五_
 
 |               | **Examples**                                                                                                                                    | **Antecedents**   | **Consequents**     | **Deny Ante­ce­dent?** |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------- | ---------------------- |
-| \*\* 直陈条件\*\* | [(3)](https://plato.stanford.edu/entries/counterfactuals/#e-ind-kennedy),[(5)](https://plato.stanford.edu/entries/counterfactuals/#e-ind-bob)   | V-ed, … V-ed, …   | V-ed, … 过去分词，..     | 不恰当                    |
-| \*\* 虚拟语气\*\* | [(4)](https://plato.stanford.edu/entries/counterfactuals/#e-subj-kennedy),[(6)](https://plato.stanford.edu/entries/counterfactuals/#e-subj-bob) | 曾经 V 过，要 V，V 过，.. | 会有 V，会 V，会已经 V 过，.. | 可以是幸福的                 |
+| __ 直陈条件__ | [(3)](https://plato.stanford.edu/entries/counterfactuals/#e-ind-kennedy),[(5)](https://plato.stanford.edu/entries/counterfactuals/#e-ind-bob)   | V-ed, … V-ed, …   | V-ed, … 过去分词，..     | 不恰当                    |
+| __ 虚拟语气__ | [(4)](https://plato.stanford.edu/entries/counterfactuals/#e-subj-kennedy),[(6)](https://plato.stanford.edu/entries/counterfactuals/#e-subj-bob) | 曾经 V 过，要 V，V 过，.. | 会有 V，会 V，会已经 V 过，.. | 可以是幸福的                 |
 
 图 1：直陈条件和虚拟条件的简易指南
 
@@ -1267,7 +1267,7 @@ b.
 * Fintel, Kai von, 1999, “The Presupposition of Subjunctive Conditionals”, in _The Interpretive Tract_, Uli Sauerland and Orin Percus (eds.), Cambridge, MA: MITWPL, MIT Working Papers in Linguistics 25: 29–44. \[[Fintel 1999 available online](http://web.mit.edu/fintel/fintel-1998-subjunctive.pdf)]
 * –––, 2001, “Counterfactuals in a Dynamic Context”, in _Ken Hale, A Life in Language_, Michael Kenstowicz (ed.), Cambridge, MA: The MIT Press, 123–152. \[[Fintel 2001 available online](https://web.mit.edu/fintel/fintel-2001-counterfactuals.pdf)]
 * –––, 2012, “Subjunctive Conditionals”, in _The Routledge Companion to Philosophy of Language_, Gillian Russell and Delia Graff Fara (eds.), New York: Routledge, 466–477. \[[Fintel 2012 available online](http://web.mit.edu/fintel/fintel-2012-subjunctives.pdf)]
-* Fintel, Kai von and Sabine Iatridou, 2002, “If and When _If_-Clauses Can Restrict Quantifiers”, Paper for the Workshop in Philosophy and Linguistics, University of Michigan, November 8–10, 2002. \[[Fintel & Iatridou 2002 available online](http://web.mit.edu/fintel/fintel-iatridou-2002-ifwhen.pdf)]
+* Fintel, Kai von and Sabine Iatridou, 2002, “If and When _If\-Clauses Can Restrict Quantifiers”, Paper for the Workshop in Philosophy and Linguistics, University of Michigan, November 8–10, 2002. \[[Fintel & Iatridou 2002 available online](http://web.mit.edu/fintel/fintel-iatridou-2002-ifwhen.pdf)]
 * Fisher, Tyrus, 2017a, “Causal Counterfactuals Are Not Interventionist Counterfactuals”, _Synthese_, 194(12): 4935–4957. doi:10.1007/s11229-016-1183-0
 * –––, 2017b, “Counterlegal Dependence and Causation’s Arrows: Causal Models for Backtrackers and Counterlegals”, _Synthese_, 194(12): 4983–5003. doi:10.1007/s11229-016-1189-7
 * Fodor, Jerry A., 1987, _Psychosemantics: The Problem of Meaning in the Philosophy of Mind_, Cambridge, MA: The MIT Press.

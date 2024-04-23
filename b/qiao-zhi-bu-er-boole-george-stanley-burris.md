@@ -863,9 +863,9 @@ y1(1−y2)(1−y3)=0
 ## Other Internet Resources
 
 * Versions of Boole's work annotated by Stanley Burris:
-  * [_Algebra of Logic_](https://math.uwaterloo.ca/\~snburris/htdocs/MAL\*Nov\*20\*2022.pdf) (1847)
+  * [_Algebra of Logic_](https://math.uwaterloo.ca/\~snburris/htdocs/MAL_Nov_20_2022.pdf) (1847)
   * “[The Calculus of Logic](https://math.uwaterloo.ca/\~snburris/htdocs/CL.pdf)” (1848)
-  * [_An Investigation of The Laws of Thought_](https://math.uwaterloo.ca/\~snburris/htdocs/LT\*15\*CHAPS.pdf) (1854), first 15 chapters.
+  * [_An Investigation of The Laws of Thought_](https://math.uwaterloo.ca/\~snburris/htdocs/LT_15_CHAPS.pdf) (1854), first 15 chapters.
 * Other entries at the The MacTutor History of Mathematics Archive:
 * [Algebraic Logic Group](http://www.renyi.hu/staff/alglog.html), Alfred Reyni Institute of Mathematics, Hungarian Academy of Sciences
 * [George Boole 200](http://georgeboole200.ucc.ie/), maintained at University College Cork.

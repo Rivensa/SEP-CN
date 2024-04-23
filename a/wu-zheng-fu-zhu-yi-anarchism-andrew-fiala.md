@@ -310,7 +310,7 @@ Goldman 认为无政府主义的暴力只是一种反应。对于国家暴力的
 * Berdyaev, Nicolas, 1940 \[1944], _Slavery and Freedom_ (_O rabstve i svobode cheloveka_), R.M. French (trans.), London: Geoffrey Bless.
 * Berlin, Isaiah, 1969, “Two Concepts of Liberty” in I. Berlin, _Four Essays on Liberty_, Oxford: Oxford University Press.
 * Bertram, Christopher, 2010 \[2017], “Jean Jacques Rousseau”, _The Stanford Encyclopedia of Philosophy_ (Summer 2017 Edition), Edward N. Zalta (ed.), URL = https://plato.stanford.edu/archives/sum2017/entries/rousseau/
-* Bey, Hakim, 1985, _The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism_, Anti-Copyright. \[[Bey 1985 available online](https://hermetic.com/bey/taz\*cont)]
+* Bey, Hakim, 1985, _The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism_, Anti-Copyright. \[[Bey 1985 available online](https://hermetic.com/bey/taz_cont)]
 * Bookchin, Murray, 1971 \[1986], _Post-Scarcity Anarchism_, Montreal: Black Rose.
 * –––, 1995, _Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm_, Oakland, CA: AK Press.
 * Camus, Albert, 1951 \[1991], _The Rebel_ (_L’homme révolté_), Anthony Bower (trans.), New York: Vintage
@@ -346,7 +346,7 @@ Goldman 认为无政府主义的暴力只是一种反应。对于国家暴力的
 * King, Martin Luther Jr, 1961 \[1991], “Love, Law, and Civil Disobedience”, reprinted in _A Testament of Hope: The Essential Writings and Speeches of Martin Luther King, Jr._, James Melvin Washington (ed.), San Francisco: HarperCollins, pp. 43–53.
 * Kornegger, Peggy, 1975, “Anarchism: The Feminist Connection”, _The Second Wave_, Spring. \[[Kornegger 1975 available online](https://theanarchistlibrary.org/library/peggy-kornegger-anarchism-the-feminist-connection)]
 * Kropotkin, Peter, 1892 \[1995], _The Conquest of Bread_ (_La Conquête du Pain_) reprinted in _The Conquest of Bread and Other Anarchist Writings_, Marshall Shatz (ed.), Cambridge: Cambridge University Press, pp. 1–202.
-* –––, 1910, “Anarchism”, in _The Encyclopaedia Britannica_, 1910 edition. Reprinted in Kropotkin 1927. \[[Kropotkin 1910 available online](http://dwardmac.pitzer.edu/anarchist\*archives/kropotkin/britanniaanarchy.html)]
+* –––, 1910, “Anarchism”, in _The Encyclopaedia Britannica_, 1910 edition. Reprinted in Kropotkin 1927. \[[Kropotkin 1910 available online](http://dwardmac.pitzer.edu/anarchist_archives/kropotkin/britanniaanarchy.html)]
 * –––, 1927 \[2002], _Anarchism: A Collection of Revolutionary Writings_, Roger N. Baldwin (ed.), New York: Vanguard Press. Reprinted 2002 New York: Dover.
 * Lazar, Hilary, 2018, “Intersectionality”, in Benjamine Franks, Nathan Jun, and Leonard Wilson (eds.), _Anarchism: A Conceptual Approach_, London: Routledge.
 * Levy, Carl and Matthew S. Adams, (eds.), _The Palgrave Handbook of Anarchism_, New York: Palgrave MacMillan.

@@ -369,7 +369,7 @@ al-Kindī的主要形而上学论文（_关于第一哲学的书_，_Kitāb fī 
 * [Oslo Arabic Seminar Greek-Arabic (OsAr GRAR)](http://folk.uio.no/amundbjo/OsAr/sem/grar.php)
 * [Greek into Arabic. Philosophical Concepts and Linguistic Bridges](http://www.greekintoarabic.eu/)
 * [Philosophy on the Border of Civilizations and Intellectual Endeavours: Towards a Critical Edition of the Metaphysics (Ilâhiyyât of Kitâb al-Šifâʾ) of Avicenna (Ibn Sînâ)](https://www.avicennaproject.eu/), Amos Bertolacci.
-* [The Heirs of Avicenna: Philosophy in the Islamic East from the 12th to the 13th Century](http://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie\*6/dfg-funded-project\*-2016-19/), Peter Adamson.
+* [The Heirs of Avicenna: Philosophy in the Islamic East from the 12th to the 13th Century](http://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie_6/dfg-funded-project\-2016-19/), Peter Adamson.
 * [Digital Averroes Research Environment](http://dare.uni-koeln.de/), Thomas-Institute of the University of Cologne
 * [Online Arabic and Latin Glossary](http://www.arabic-latin-glossary.philosophie.uni-wuerzburg.de/), Dag Nikolaus Hasse
 * [Medieval Digital Resources](http://mdr-maa.org/), The Medieval Academy of America.

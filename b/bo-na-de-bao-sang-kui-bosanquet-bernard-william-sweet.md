@@ -487,7 +487,7 @@ Several of Bosanquet’s undergraduate essays appear in
 
 * [Many of Bosanquet’s major works may be found at the Internet Text Archive.](https://archive.org/)
 * [The Philosophical Theory of the State (second edition, 1910)](http://socserv2.socsci.mcmaster.ca/econ/ugcm/3ll3/bosanquet/state.pdf) (PDF file)
-* [Bernard Bosanquet](https://people.stfx.ca/wsweet/Bernard\*Bosanquet.html), information page, maintained by William Sweet.
+* [Bernard Bosanquet](https://people.stfx.ca/wsweet/Bernard_Bosanquet.html), information page, maintained by William Sweet.
 
 ## Related Entries
 

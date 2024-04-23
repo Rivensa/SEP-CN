@@ -224,7 +224,7 @@ Alice Crary 认为，我们对道德景观的认知发生变化，是因为这�
 * Rumbaugh, Duane M. and Sue Savage-Rumbaugh, 1999, “Primate Language” in Robert A. Wilson & Frank Keil (eds.) _The MIT Encyclopedia of the Cognitive Sciences_, Cambridge, MA: MIT Press.
 * Singer, Peter, 1990, _Animal Liberation_, second edition, New York: New York Review of Books.
 * –––, 1979 \[1993], _Practical Ethics_, second edition, Cambridge: Cambridge University Press; first edition, 1979.
-* –––, 1974, “All Animals are Equal”, _Philosophic Exchange_, 5(1), Article 6, [Singer 1974 available online](http://digitalcommons.brockport.edu/phil\*ex/vol5/iss1/6).
+* –––, 1974, “All Animals are Equal”, _Philosophic Exchange_, 5(1), Article 6, [Singer 1974 available online](http://digitalcommons.brockport.edu/phil_ex/vol5/iss1/6).
 * Singer, Peter and Jim Mason, 2006, _The Way We Eat: Why Our Food Choices Matter/The Ethics of What We Eat_, New York: Rodale Press.
 * Tomasello, Michael and Josep Call, 1997, _Primate Cognition_, Oxford: Oxford University Press.
 * VanDeVeer, Donald, 1979, “Interspecific Justice”, _Inquiry_, 22(1–4): 55–79. doi:10.1080/00201747908601866
@@ -273,7 +273,7 @@ Alice Crary 认为，我们对道德景观的认知发生变化，是因为这�
 * [The Moral Status of Animals](https://web.archive.org/web/20160216081457/http://ethics.sandiego.edu/Applied/Animals/), webpage at _Ethics Updates_ (Larry Hinman, University of San Diego), now only available at the Internet Archive.
 * Bentham, J., [An Introduction to the Principles of Morals and Legislation](http://www.econlib.org/library/Bentham/bnthPML.html), at the Library of Economics and Liberty.
 * [Nonhuman Rights Project: Hercules and Leo case](https://www.nonhumanrights.org/hercules-leo/)
-  * [petition](https://www.nonhumanrights.org/content/uploads/Suffolk-Verified-Petition-of-E.Stein-and-S.Wise\*.pdf)
+  * [petition](https://www.nonhumanrights.org/content/uploads/Suffolk-Verified-Petition-of-E.Stein-and-S.Wise_.pdf)
   * [Affidavit by Mary Lee Jensvold](https://www.nonhumanrights.org/content/uploads/Suffolk-Ex.-7-Jensvold-Affidavit-to-VP.pdf)
   * [Affidavit by James King](https://www.nonhumanrights.org/content/uploads/Suffolk-Ex.-8-K-ing-Affidavit-to-VP-1.pdf)
   * [Affidavit by Mathias Osvath](https://www.nonhumanrights.org/content/uploads/Suffolk-Ex.-11-Osvath-Affidavit-to-VP.pdf)

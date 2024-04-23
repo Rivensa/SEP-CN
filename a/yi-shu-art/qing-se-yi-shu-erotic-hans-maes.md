@@ -348,7 +348,7 @@ Longino 只是众多试图捕捉色情作品在道德上存在问题的作者之
 * Leemans, Inger, 2002, _Het woord is aan de onderkant. Radicale ideeën in Nederlandse pornografische romans_, Nijmegen: Vantilt.
 * Levinson, Jerrold, 2005, “Erotic Art and Pornographic Pictures”, _Philosophy and Literature_, 29: 228–240.
 * –––, 2006, “What is Erotic Art?” in Jerrold Levinson, _Contemplating Art_, Oxford: Oxford University Press.
-* Liedtke, Walter, 2009, “Johannes Vermeer (1632–1675) and The Milkmaid”, in _Heilbrunn Timeline of Art History_, New York: The Metropolitan Museum of Art. URL= [http://www.metmuseum.org/toah/hd/milk/hd\*milk.htm](http://www.metmuseum.org/toah/hd/milk/hd\*milk.htm) (August 2009).
+* Liedtke, Walter, 2009, “Johannes Vermeer (1632–1675) and The Milkmaid”, in _Heilbrunn Timeline of Art History_, New York: The Metropolitan Museum of Art. URL= [http://www.metmuseum.org/toah/hd/milk/hd_milk.htm](http://www.metmuseum.org/toah/hd/milk/hd_milk.htm) (August 2009).
 * Lintott, S. & S. Irvin, 2016, “Sex Objects and Sexy Subjects: A Feminist Reclamation of Sexiness”, in Irvin (ed.) 2016, 299–318.
 * Longford, F.P., 1972, _Pornography: The Longford Report_, London: Coronet Books.
 * Longino, Helen, 1980, “Pornography, Oppression, and Freedom”, in L. Lederer (ed.), _Take Back the Night: Women on Pornography_, New York: William Morrow.
@@ -427,15 +427,15 @@ Longino 只是众多试图捕捉色情作品在道德上存在问题的作者之
 * Grosz, George, [_Sex Murder in the Ackerstrasse_](http://collections.lacma.org/node/181305) (1916–7)
 * Delacroix, Eugène, [_Liberty Leading the People_](https://collections.louvre.fr/en/ark:/53355/cl010065872) (1830), Louvre
 * Goya, Francisco, [_The Naked Maja_](https://www.museodelprado.es/en/the-collection/online-gallery/on-line-gallery/obra/the-nude-maja/) (c. 1797–1800), Prado, Spain
-* Manet, Edouard, [_Olympia_](http://www.musee-orsay.fr/en/collections/works-in-focus/search/commentaire\*id/olympia-7087.html) (1863) Musée d’Orsay, Paris
+* Manet, Edouard, [_Olympia_](http://www.musee-orsay.fr/en/collections/works-in-focus/search/commentaire_id/olympia-7087.html) (1863) Musée d’Orsay, Paris
 * Ray, Man, [_The Prayer_](http://www.getty.edu/art/collection/objects/46735/man-ray-prayer-la-priere-american-negative-1930-print-1960/) (1930)
-* Rodin, Auguste, [_The Burghers of Calais_](http://en.wikipedia.org/wiki/The\*Burghers\*of\*Calais)
+* Rodin, Auguste, [_The Burghers of Calais_](http://en.wikipedia.org/wiki/The_Burghers_of_Calais)
 * Scanu, Maria, _Madonna del Naviganti_ (1999)
 * Smith, Kiki, _Tale_ (1992)
 * Smith, Kiki, [_Blood Pool_](http://www.artic.edu/aic/collections/artwork/122231) (1992)
 * Tintoretto, [_Crocifissione_](http://www.scuolagrandesanrocco.org/home/tintoretto/sala-dellalbergo-tintoretto/) (1565), Scuola Grande di San Rocco, Venice
 * Titian, [_Venus of Urbino_](http://www.uffizi.org/artworks/venus-of-urbino-by-titian/) (1538), Uffizi, Florence
-* Titian, [_Rape of Europa_](http://www.gardnermuseum.org/collection/artwork/3rd\*floor/titian\*room/europa) (1562), Isabella Stewart Gardner Museum
+* Titian, [_Rape of Europa_](http://www.gardnermuseum.org/collection/artwork/3rd_floor/titian_room/europa) (1562), Isabella Stewart Gardner Museum
 * Vermeer, Johannes, [_Milk Maid_](https://www.rijksmuseum.nl/en/collection/SK-A-2344) (1657–58), Rijksmuseum, Amsterdam
 * Wegener, Gerda, _Les Délassements d’Eros_ (1925)
 
@@ -467,7 +467,7 @@ Longino 只是众多试图捕捉色情作品在道德上存在问题的作者之
 * [the Metropolitan Museum of Art](http://www.metmuseum.org/en)
 * [Tate Online](http://www.tate.org.uk/art/)
 * [American Civil Liberties Union](https://www.aclu.org/)
-* [Feminists Against Censorship](https://www.infotextmanuscripts.org/ncropa/ncropa\*fac.html), maintained by Avedon Carol.
+* [Feminists Against Censorship](https://www.infotextmanuscripts.org/ncropa/ncropa_fac.html), maintained by Avedon Carol.
 
 \[Please contact the author with further suggestions.]
 

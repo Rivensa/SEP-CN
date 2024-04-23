@@ -71,7 +71,7 @@ CA 的标志在于它们展示复杂的新兴行为，从遵循简单局部规�
 
 > 即使对个体决策规则有着完美的了解，我们也并不总是能够预测宏观结构。尽管拥有完整的微观知识，我们仍然会遇到宏观上的惊喜。(Epstein 1999: 48)
 
-由于\* emergent \*的概念和微观-宏观相互作用在科学和哲学中扮演着如此重要的角色（参见[supervenience](https://plato.stanford.edu/entries/supervenience/)和[emergent properties](https://plato.stanford.edu/entries/properties-emergent/)上的条目；有关科学应用的示例，请参见 Mitchell 2009: 2–13；Gell-Mann 1994: Ch. 9），有人建议通过采用 CA 视角来解决许多科学和概念难题。斯蒂芬·沃尔夫勒姆（Stephen Wolfram）甚至声称 CA 可能帮助我们解决哲学中长期存在的问题：
+由于_ emergent _的概念和微观-宏观相互作用在科学和哲学中扮演着如此重要的角色（参见[supervenience](https://plato.stanford.edu/entries/supervenience/)和[emergent properties](https://plato.stanford.edu/entries/properties-emergent/)上的条目；有关科学应用的示例，请参见 Mitchell 2009: 2–13；Gell-Mann 1994: Ch. 9），有人建议通过采用 CA 视角来解决许多科学和概念难题。斯蒂芬·沃尔夫勒姆（Stephen Wolfram）甚至声称 CA 可能帮助我们解决哲学中长期存在的问题：
 
 > 其中\[哲学家探讨的基本问题]包括关于知识的最终限度、自由意志、人类独特性以及数学的必然性的问题。关于这些问题，哲学史上已经有很多讨论。然而，这些讨论不可避免地只受到当前关于事物运作方式的直觉的影响。但我在这本书\[_A New Kind of Science_]中的发现导致了根本性的新直觉。（Wolfram 2002: 10）
 
@@ -387,7 +387,7 @@ CA 也在与计算的热力学极限问题相关的讨论中得到了富有成�
 
 ### 3.1 CA 和新兴性
 
-CA 可以被视为研究与\* emergent _现象相关的典范地点（有关简介，请参阅_ [_emergent properties_](https://plato.stanford.edu/entries/properties-emergent/) _上的条目）。人们最初可以将 emergent 问题分为两个独立的问题，大致对应于认识论和本体论问题：我们如何_ recognize \* emergent？高层次属性和特征的\* ontological status \*是什么？事实上，从历史事实来看，CA 主要被用来解决前者，但我们将在下面的[第 3.4 节](https://plato.stanford.edu/entries/cellular-automata/#CAModeReal)中看到，CA 在本体论方面也有工作。
+CA 可以被视为研究与_ emergent _现象相关的典范地点（有关简介，请参阅_ [_emergent properties_](https://plato.stanford.edu/entries/properties-emergent/) _上的条目）。人们最初可以将 emergent 问题分为两个独立的问题，大致对应于认识论和本体论问题：我们如何_ recognize _ emergent？高层次属性和特征的_ ontological status _是什么？事实上，从历史事实来看，CA 主要被用来解决前者，但我们将在下面的[第 3.4 节](https://plato.stanford.edu/entries/cellular-automata/#CAModeReal)中看到，CA 在本体论方面也有工作。
 
 认识论问题通常与一般复杂系统有关。在 Miller 和 Page 对复杂社会系统的公开议程中，包括以下问题：“是否有客观基础来认识 emergent 和 complexity？”（Miller & Page 2007: 233–234）。关于 CA 的文献已经以不同方式解决了这个问题。一方面，作为低层次简单且可控的环境，CA 自然呈现为解决问题的自然框架。另一方面，CA 研究人员已经认识到，即使对低层实体和法则有完美的了解，复杂 CA 系统的系统性和全局特征也很难预测：
 

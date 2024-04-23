@@ -840,7 +840,7 @@ AGM 的粉丝们会遗憾地发现，Shoham 修订不满足 AGM 保持性（合�
 * Eriksson, Lina & Hájek, Alan, 2007, “What Are Degrees of Belief?” _Studia Logica_, 86: 183–213.
 * Fagin, Ronald and Joseph Halpern, Yoram Moses, and Moshe Y. Vardi, 1995, _Reasoning about Knowledge_, Cambridge, MA: The MIT Press.
 * Field, Hartry, 1978, “A Note on Jeffrey Conditionalization,” _Philosophy of Science_, 45: 361–367.
-* Field, Hartry, forthcoming, “Vagueness, Partial Belief, and Logic”, in G. Ostertag (ed.), _Meanings and Other Things: Essays on Stephen Schiffer_, Oxford: Oxford University Press \[[Preprint available online](https://as.nyu.edu/content/dam/nyu-as/philosophy/documents/faculty-documents/field/Field\*Vagueness-Partial-Belief-Logic.pdf)].
+* Field, Hartry, forthcoming, “Vagueness, Partial Belief, and Logic”, in G. Ostertag (ed.), _Meanings and Other Things: Essays on Stephen Schiffer_, Oxford: Oxford University Press \[[Preprint available online](https://as.nyu.edu/content/dam/nyu-as/philosophy/documents/faculty-documents/field/Field_Vagueness-Partial-Belief-Logic.pdf)].
 * Foley, Richard, 1992, “The Epistemology of Belief and the Epistemology of Degrees of Belief,” _American Philosophical Quarterly_, 29: 111–121.
 * –––, 1993, _Working without a net: A study of egocentric epistemology_, Oxford: Oxford University Press.
 * –––, 2009, “Belief, Degrees of Belief, and the Lockean Thesis,” in F. Huber & C. Schmidt-Petri (eds.), _Degrees of Belief_, Dordrecht: Springer.
@@ -1074,7 +1074,7 @@ AGM 的粉丝们会遗憾地发现，Shoham 修订不满足 AGM 保持性（合�
 
 ## Other Internet Resources
 
-* Genin, Konstantin (2017), “[How inductive is Bayesian conditioning?](http://kgenin.github.io/papers/conditioning\*long.pdf)”, unpublished manuscript.
+* Genin, Konstantin (2017), “[How inductive is Bayesian conditioning?](http://kgenin.github.io/papers/conditioning_long.pdf)”, unpublished manuscript.
 * Heinemann, Frank (1997), “[Relative Probabilities](http://www.macroeconomics.tu-berlin.de/fileadmin/fg124/heinemann/papers/relprob.pdf),” unpublished manuscript.
 * Huber, Franz, (2007a), “[Confirmation and Induction](http://www.iep.utm.edu/c/conf-ind.htm),” in J. Fieser & B. Dowden (eds.), _The Internet Encyclopedia of Philosophy_.
 * Joyce, James M. (2013), “[Why Evidentialists Need Not Worry About the Accuracy Argument for Probabilism](http://www-personal.umich.edu/\~jjoyce/papers/APA201.pdf),” unpublished manuscript.

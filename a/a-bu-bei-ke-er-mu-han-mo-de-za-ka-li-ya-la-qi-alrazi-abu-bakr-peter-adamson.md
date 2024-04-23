@@ -144,7 +144,7 @@ _首次发布于 2021 年 5 月 19 日（星期三）_
 * Goodman, Lenn Evan, 1971, “The Epicurean Ethic of Muhammad Ibn Zakariya’ Ar-Razi”, _Studia Islamica_, 34: 5–26. doi:10.2307/1595324
 * –––, 1975, “Rāzī’s Myth of the Fall of Soul: its Function in his Philosophy”, in _Essays on Islamic Philosophy and Science_, George Fadlo Hourani (ed.), Albany, NY: SUNY Press, 25–40.
 * –––, 1999, “Rāzī and Epicurus”, in _Jewish and Islamic Philosophy: Crosspollinations in the Classical Age_, Lenn E. Goodman (ed.), Edinburgh: Edinburgh University Press, 35–67.
-* –––, 2015, “How Epicurean was Rāzī?”, _Studia graeco-arabica_, 5: 247–280. \[[Goodman 2015 available online](https://learningroads.cfs.unipi.it/wp-content/uploads/2015/10/10-SGA\*V\*2015\*GOODMAN.pdf)]
+* –––, 2015, “How Epicurean was Rāzī?”, _Studia graeco-arabica_, 5: 247–280. \[[Goodman 2015 available online](https://learningroads.cfs.unipi.it/wp-content/uploads/2015/10/10-SGA_V_2015_GOODMAN.pdf)]
 * Groff, Peter S., 2014, “Leaving the Garden: Al-Rāzī and Nietzsche as Wayward Epicureans”, _Philosophy East and West_, 64(4): 983–1017. doi:10.1353/pew.2014.0084
 * Hasse, Dag Nikolaus, 2016, _Success and Suppression: Arabic Sciences and Philosophy in the Renaissance_, Cambridge, MA: Harvard University Press.
 * Ierodiakonou, Katerina, 2014, “On Galen’s Theory of Vision”, in _Philosophical Themes in Galen_ (Bulletin of the Institute of Classical Studies Supplements), Peter Adamson, Rotraud Hansberger, and James Wilberding (eds.), London: Institute of Classical Studies, 235–247.
@@ -190,4 +190,4 @@ _首次发布于 2021 年 5 月 19 日（星期三）_
 [Arabic and Islamic Philosophy, disciplines in: natural philosophy and natural science](https://plato.stanford.edu/entries/arabic-islamic-natural/) | [Arabic and Islamic Philosophy, historical and methodological topics in: Greek sources](https://plato.stanford.edu/entries/arabic-islamic-greek/) | [Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on the Latin West](https://plato.stanford.edu/entries/arabic-islamic-influence/) | [Galen](https://plato.stanford.edu/entries/galen/) | [Ibn Sina \[Avicenna\]](https://plato.stanford.edu/entries/ibn-sina/) | [Philoponus](https://plato.stanford.edu/entries/philoponus/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Peter Adamson](https://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie\*6/personen/adamson/index.html) <[_peter.adamson@lrz.uni-muenchen.de_](mailto:peter%2eadamson%40lrz%2euni-muenchen%2ede)>
+[Peter Adamson](https://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie_6/personen/adamson/index.html) <[_peter.adamson@lrz.uni-muenchen.de_](mailto:peter%2eadamson%40lrz%2euni-muenchen%2ede)>

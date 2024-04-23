@@ -168,7 +168,7 @@
 
 所有事物的循环（_il circulo di tutte_）始于它们的第一起源，并依次经过每一件事物，最终回到它的第一起源，作为它的最终目标（_ultimo fine_），从而以其循环形式包含了每个存在程度（_comprendendo tutti li gradi de le cose a modo circulare_），以至于起始点也成为终点。这个循环有两个半部分（_due mezzi_），第一个从起始点到离它最远的点，即中点，第二个从这个中点到再次回到起始点。
 
-换句话说，这个循环从神圣开始，神圣的爱创造并维持着宇宙：“每个存在程度都以父爱创造其直接下级，将其存在或父亲的美赋予它，尽管程度较低，这是合乎情理的。”（ \*\[_​_[51](https://plato.stanford.edu/entries/abrabanel/notes.html#note-51)\*​ _]_ ）这种发散的框架，即对更美的事物对较不美的事物的爱，构成了循环的前半部分。宇宙中的每一件事物都存在于一个存在层次链上，从神圣的纯实在性到原始物质的纯潜在性。正如上级渴望下级的完美，下级渴望与上级合一。循环的前半部分从上帝到彻底的混乱，而循环的后半部分则相反。它是下级对上级的爱，基于前者的缺乏和随后对上级的渴望。
+换句话说，这个循环从神圣开始，神圣的爱创造并维持着宇宙：“每个存在程度都以父爱创造其直接下级，将其存在或父亲的美赋予它，尽管程度较低，这是合乎情理的。”（ _\[_​_[51](https://plato.stanford.edu/entries/abrabanel/notes.html#note-51)_​ _]_ ）这种发散的框架，即对更美的事物对较不美的事物的爱，构成了循环的前半部分。宇宙中的每一件事物都存在于一个存在层次链上，从神圣的纯实在性到原始物质的纯潜在性。正如上级渴望下级的完美，下级渴望与上级合一。循环的前半部分从上帝到彻底的混乱，而循环的后半部分则相反。它是下级对上级的爱，基于前者的缺乏和随后对上级的渴望。
 
 ## 6. 人类生命的终结
 
@@ -273,4 +273,4 @@
 [Ficino, Marsilio](https://plato.stanford.edu/entries/ficino/) | humanism: in the Renaissance | [Maimonides](https://plato.stanford.edu/entries/maimonides/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Aaron Hughes](http://www.rochester.edu/college/rel/people/faculty/hughes\*aaron/index.html) <[_aaron.hughes@rochester.edu_](mailto:aaron%2ehughes%40rochester%2eedu)>
+[Aaron Hughes](http://www.rochester.edu/college/rel/people/faculty/hughes_aaron/index.html) <[_aaron.hughes@rochester.edu_](mailto:aaron%2ehughes%40rochester%2eedu)>

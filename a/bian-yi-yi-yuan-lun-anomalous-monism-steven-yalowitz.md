@@ -394,7 +394,7 @@ Davidson 通过辩称，仅引用因果的物理属性来提供行为的充分�
 * –––, 1999c, “Spinoza’s Causal Theory of the Affects”, in _Desire and Affect: Spinoza as Psychologist_, Y. Yovel (ed.), New York: Little Room Press.
 * –––, 1999d, “Reply to Jennifer Hornsby”, in Hahn 1999.
 * Della Rocca, M., 1991, “Causation and Spinoza’s Claim of Identity”, _History of Philosophy Quarterly_, 8: 265–276.
-* de Caro, M., 2020, ”Davidson and Putnam on the Antinomy of Free Will“, forthcoming in Chakraborty, S. and Conant, J. (eds.), _Engaging Putnam_, Cambridge: Harvard University Press, URL= https://www.academia.edu/40534172/Davidson\*and\*Putnam\*on\*Free\*Will .
+* de Caro, M., 2020, ”Davidson and Putnam on the Antinomy of Free Will“, forthcoming in Chakraborty, S. and Conant, J. (eds.), _Engaging Putnam_, Cambridge: Harvard University Press, URL= https://www.academia.edu/40534172/Davidson_and_Putnam_on_Free_Will .
 * de Pinedo, M., 2006, “Anomalous Monism: Oscillating between Dogmas”, _Synthese_, 148: 79–97.
 * Ducasse, C.J., 1926, “On the Nature and Observability of the Causal Relation”, _Journal of Philosophy_, 23: 57–68.
 * Fischer, J., 1986, “Van Inwagen on Free Will”, _The Philosophical Quarterly_, 36(143): 252–260.

@@ -29,7 +29,7 @@ _首次发布于 2021 年 3 月 8 日_
 * [3.7 动物认知对价值理论的影响](https://plato.stanford.edu/entries/cognition-animal/#InflAnimCognValuTheo)
 * [3.7.1 伦理学](https://plato.stanford.edu/entries/cognition-animal/#Ethi)
 * [3.7.2 政治理论](https://plato.stanford.edu/entries/cognition-animal/#PoliTheo)
-* [3.8 总结](https://plato.stanford.edu/entries/cognition-animal/#Summ\*1)
+* [3.8 总结](https://plato.stanford.edu/entries/cognition-animal/#Summ_1)
 * [参考文献](https://plato.stanford.edu/entries/cognition-animal/#Bib)
 * [学术工具](https://plato.stanford.edu/entries/cognition-animal/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/cognition-animal/#Oth)
@@ -323,7 +323,7 @@ Dennett 将 Grice 的结论解释为只有那些能够持有第三阶信念（�
 * Dacey, Mike, 2016, “The Varieties of Parsimony in Psychology: The Varieties of Parsimony in Psychology”, _Mind & Language_, 31(4): 414–437. doi:10.1111/mila.12113
 * Danchin, Etienne, Sabine Nöbel, Arnaud Pocheville, Anne-Cecile Dagaeff, Léa Demay, Mathilde Alphand, Sarah Ranty-Roby, Lara van Renssen, Magdalena Monier, Eva Gazagne, Mélanie Allain, and Guillaume Isabel, 2018, “Cultural Flies: Conformist Social Learning in Fruitflies Predicts Long-Lasting Mate-Choice Traditions”, _Science_, 362(6418): 1025–1030. doi:10.1126/science.aat1590
 * Darwin, Charles, 1859, _On the Origin of Species by Means of Natural Selection, or The Preservation of Favoured Races in the Struggle for Life_, London: John Murray.
-* –––, 1871 \[1874], _The Descent of Man_, London: J Murray. Second edition 1874. \[[Darwin 1871 and other editions available online](http://darwin-online.org.uk/EditorialIntroductions/Freeman\*TheDescentofMan.html)]
+* –––, 1871 \[1874], _The Descent of Man_, London: J Murray. Second edition 1874. \[[Darwin 1871 and other editions available online](http://darwin-online.org.uk/EditorialIntroductions/Freeman_TheDescentofMan.html)]
 * Davidson, Donald, 1982, “Rational Animals”, _dialectica_, 36(4): 317–327. doi:10.1111/j.1746-8361.1982.tb01546.x
 * de Waal, Frans B. M., 1999, “Anthropomorphism and Anthropodenial: Consistency in Our Thinking about Humans and Other Animals”, _Philosophical Topics_, 27(1): 255–280. doi:10.5840/philtopics199927122
 * Dennett, Daniel C., 1978, “Beliefs about Beliefs”, _Behavioral and Brain Sciences_, 1(4): 568–570. doi:10.1017/S0140525X00076664
@@ -420,7 +420,7 @@ Dennett 将 Grice 的结论解释为只有那些能够持有第三阶信念（�
 * –––, 2010b, “Clever Animals and Killjoy Explanations in Comparative Psychology”, _Trends in Cognitive Sciences_, 14(11): 477–481. doi:10.1016/j.tics.2010.07.002
 * Shillito, Daniel J., Gordon G. Gallup, and Benjamin B. Beck, 1999, “Factors Affecting Mirror Behaviour in Western Lowland Gorillas,Gorilla Gorilla”, _Animal Behaviour_, 57(5): 999–1004. doi:10.1006/anbe.1998.1062
 * Skinner, Morgan and Noam Miller, 2020, “Aggregation and Social Interaction in Garter Snakes (Thamnophis sirtalis sirtalis)”, _Behavioral Ecology and Sociobiology_, 74(5): art. 51. doi:10.1007/s00265-020-2827-0
-* Sneddon, L. U.,, 2006, “Ethics and Welfare: Pain Perception in Fish”, _Bulletin of the European Association of Fish Pathologists_, 26(1): 6–10. \[[Sneddon 2006 available online](https://www.wellbeingintlstudiesrepository.org/acwp\*aff/5/)]
+* Sneddon, L. U.,, 2006, “Ethics and Welfare: Pain Perception in Fish”, _Bulletin of the European Association of Fish Pathologists_, 26(1): 6–10. \[[Sneddon 2006 available online](https://www.wellbeingintlstudiesrepository.org/acwp_aff/5/)]
 * Sober, Elliott, 1998, “Morgan’s Canon”, in _The Evolution of Mind_, Denise Dellarosa Cummins and Colin Allen (eds.), New York: Oxford University Press, pp. 224–242.
 * –––, 2015, _Ockham’s Razors: A User’s Manual_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781107705937
 * Sterelny, Kim, 2012, _The Evolved Apprentice: How Evolution Made Humans Unique_, Cambridge, MA: MIT Press.
@@ -450,7 +450,7 @@ Dennett 将 Grice 的结论解释为只有那些能够持有第三阶信念（�
 ## Other Internet Resources
 
 * [an orangutan washing clothes and sawing wood (Youtube, BBC Earth)](https://www.youtube.com/watch?v=IFACrIx5SZ0)
-* [a dog using buttons to “speak” (Youtube, CNN)](https://www.youtube.com/watch?v=bJCxrc7Ns\*g)
+* [a dog using buttons to “speak” (Youtube, CNN)](https://www.youtube.com/watch?v=bJCxrc7Ns_g)
 * [Heider and Simmel (1944) animation (Youtube)](https://www.youtube.com/watch?v=VTNmLt7QX8E)
 
 ## Related Entries

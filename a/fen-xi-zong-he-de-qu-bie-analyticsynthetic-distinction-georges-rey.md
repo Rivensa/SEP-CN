@@ -673,7 +673,7 @@ Fodor 的理论和相关提议并非没有问题（参见 Loewer, 1996, Rey, 200
 
 ## Other Internet Resources
 
-* Allott, Nicholas and Mark Textor, 2022, “[Literal and Metaphorical Meaning: In Search of a Lost Distinction](https://www.hf.uio.no/ilos/english/people/aca/nicholea/allott-textor\*literal\*and\*metaphorical\*meaning.pdf).”
+* Allott, Nicholas and Mark Textor, 2022, “[Literal and Metaphorical Meaning: In Search of a Lost Distinction](https://www.hf.uio.no/ilos/english/people/aca/nicholea/allott-textor_literal_and_metaphorical_meaning.pdf).”
 
 ## Related Entries
 

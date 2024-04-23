@@ -168,7 +168,7 @@ McMahan 本人提出，在一个早期人和一个现在的非人之间的冲突
 
 * [Sample Advance Directive](http://www.aafp.org/afp/990201ap/617.html), American Academy of Family Physicians
 * [Papers on Advanced Directives](http://philpapers.org/browse/4425/), in philpapers.org.
-* [The Limited Wisdom of Advance Directives](https://bioethicsarchive.georgetown.edu/pcbe/reports/taking\*care/chapter2.html), Chapter 2 of _Taking Care: Ethical Caregiving in Our Aging Society_, The President's Council on Bioethics Report.
+* [The Limited Wisdom of Advance Directives](https://bioethicsarchive.georgetown.edu/pcbe/reports/taking_care/chapter2.html), Chapter 2 of _Taking Care: Ethical Caregiving in Our Aging Society_, The President's Council on Bioethics Report.
 
 ## Related Entries
 

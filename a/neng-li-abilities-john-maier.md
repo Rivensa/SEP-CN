@@ -353,7 +353,7 @@ Lewis 的提议在至少两个方面激发了进一步研究的灵感。首先�
 * Beebee, Helen, Whittle, Ann, and Svedberg, Maria, 2020. “Nihil Obstat: Lewis’s Compatibilist Account of Abilities,” _The Monist_, 103: 245–261.
 * Bengson, John and Moffett, Marc (eds.), 2011. _Know How: Essays on Mind, Knowledge, and Action_, Oxford: Oxford University Press.
 * Bennett, Jonathan, 2003. _A Philosophical Guide to Conditionals_, Oxford: Oxford University Press.
-* Bhatt, Rajesh, 1999. _Covert Modality in Non-Finite Contexts_, Ph.D. Dissertation, University of Pennsylvania. \[[Bhatt 1999 available online](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1033\&context=ircs\*reports)]
+* Bhatt, Rajesh, 1999. _Covert Modality in Non-Finite Contexts_, Ph.D. Dissertation, University of Pennsylvania. \[[Bhatt 1999 available online](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1033\&context=ircs_reports)]
 * Brown, Mark, 1988. “On The Logic of Ability,” _Journal of Philosophical Logic_, 17: 1–26.
 * Carnap, Rudolf, 1936 & 1937. “Testability and Meaning,” _Philosophy of Science_, 3: 419–471, 4:1–40.
 * Cartwright, Nancy, 1994. _Nature’s Capacities and Their Measurement_, Oxford: Oxford University Press.
@@ -373,7 +373,7 @@ Lewis 的提议在至少两个方面激发了进一步研究的灵感。首先�
 * Glick, Ephraim. 2012 “Abilities and Know-How Attributions,” in Brown and Gekken (eds.), _Knowledge Ascriptions_, Oxford: Oxford University Press.
 * Goodman, Nelson, 1954. _Fact, Fiction and Forecast_, Cambridge, Mass.: Harvard University Press.
 * Greco, John, 2010. _Achieving Knowledge: A Virtue-Theoretic Account of Epistemic Normativity_, Cambridge: Cambridge University Press.
-* Hacquard, Valentine, 2006. _Aspects of Modality_, Ph.D. Dissertation, Massachusetts Institute of Technology. \[[Hacquard 2006 available online](http://ling.umd.edu/\~hacquard/papers/hacquard\*thesis.pdf)]
+* Hacquard, Valentine, 2006. _Aspects of Modality_, Ph.D. Dissertation, Massachusetts Institute of Technology. \[[Hacquard 2006 available online](http://ling.umd.edu/\~hacquard/papers/hacquard_thesis.pdf)]
 * Honoré, A.M., 1964. “Can and Can’t,” _Mind_, 73: 463–479.
 * Hume, David, 1748. _An Enquiry Concerning Human Understanding_, Beauchamp (ed.), Oxford: Oxford University Press, 1999.
 * Jackson, Frank, 1998. _From Metaphysics to Ethics_, Oxford: Oxford University Press.

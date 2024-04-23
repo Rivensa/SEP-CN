@@ -252,5 +252,5 @@ _首次发表于 2004 年 4 月 20 日；实质性修订于 2020 年 7 月 28 �
 [Dilthey, Wilhelm](https://plato.stanford.edu/entries/dilthey/) | [education, philosophy of](https://plato.stanford.edu/entries/education-philosophy/) | [Nietzsche, Friedrich](https://plato.stanford.edu/entries/nietzsche/) | [Rosenzweig, Franz](https://plato.stanford.edu/entries/rosenzweig/) | [Wundt, Wilhelm Maximilian](https://plato.stanford.edu/entries/wilhelm-wundt/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Michael Zank](http://www.bu.edu/mzank/Michael\*Zank) <[_mzank@bu.edu_](mailto:mzank%40bu%2eedu)>\
+[Michael Zank](http://www.bu.edu/mzank/Michael_Zank) <[_mzank@bu.edu_](mailto:mzank%40bu%2eedu)>\
 Zachary Braiterman

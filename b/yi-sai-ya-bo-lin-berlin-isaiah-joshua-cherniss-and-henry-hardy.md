@@ -312,22 +312,22 @@ _© The Trustees of the Isaiah Berlin Literary Trust_
 
 The many works in languages other than English are mostly excluded.
 
-The twelve new editions of Berlin’s works published by Princeton University Press in 2013, 2014 and 2019 all contain significant additional material and new forewords by experts in the relevant fields, as does the Brookings Classics edition of _The Soviet Mind_ (2016). A new foreword by Andrew Marr was added in the second edition (Vintage, 2014) of _The Proper Study of Mankind_. Page references in this article are to the latest editions of Berlin’s books, though the date of the first edition is used to identify them. Concordances that enable readers to find corresponding pages in earlier editions are available [online](http://berlin.wolf.ox.ac.uk/published\*works/index.html).
+The twelve new editions of Berlin’s works published by Princeton University Press in 2013, 2014 and 2019 all contain significant additional material and new forewords by experts in the relevant fields, as does the Brookings Classics edition of _The Soviet Mind_ (2016). A new foreword by Andrew Marr was added in the second edition (Vintage, 2014) of _The Proper Study of Mankind_. Page references in this article are to the latest editions of Berlin’s books, though the date of the first edition is used to identify them. Concordances that enable readers to find corresponding pages in earlier editions are available [online](http://berlin.wolf.ox.ac.uk/published_works/index.html).
 
 ### A. Works by Berlin
 
 A complete list of Berlin’s works is available in [Isaiah Berlin Online](https://isaiah-berlin.wolfson.ox.ac.uk/catalogues) and in the [Isaiah Berlin Virtual Library](http://berlin.wolf.ox.ac.uk/lists/bibliography/index.html).
 
-* 1930, ‘[Some Procrustations](https://berlin.wolf.ox.ac.uk/published\*works/singles/bib3.pdf)’, _Oxford Outlook_, 10 (52): 491–502.
-* 1937a, ‘[Induction and Hypothesis](http://berlin.wolf.ox.ac.uk/published\*works/singles/bib20.pdf)’, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 16: 63–102.
+* 1930, ‘[Some Procrustations](https://berlin.wolf.ox.ac.uk/published_works/singles/bib3.pdf)’, _Oxford Outlook_, 10 (52): 491–502.
+* 1937a, ‘[Induction and Hypothesis](http://berlin.wolf.ox.ac.uk/published_works/singles/bib20.pdf)’, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 16: 63–102.
 * 1937b, ‘[Utilitarianism](http://berlin.wolf.ox.ac.uk/lists/nachlass/utilitarianism.pdf)’, online (PDF).
 * 1939, _Karl Marx: His Life and Environment_, London: Thornton Butterworth, Toronto: Nelson; 5th ed., _Karl Marx_, ed. Henry Hardy, Princeton and Oxford: Princeton University Press, 2013.
 * 1949, ‘[Democracy, Communism and the Individual](http://berlin.wolf.ox.ac.uk/lists/nachlass/demcomind.pdf)’, online and in Berlin 2000a.
 * 1951, ‘[Synthetic A Priori Propositions](https://berlin.wolf.ox.ac.uk/lists/nachlass/synthetic.pdf)’, American Philosophical Association, December 1951.
 * 1953, _The Hedgehog and the Fox: An Essay on Tolstoy’s View of History_, London: Weidenfeld and Nicolson, New York: Simon and Schuster. Expanded version of ‘Lev Tolstoy’s Historical Scepticism’, _Oxford Slavonic Papers_, 2, 1951, pp. 17–54. Reprinted in Berlin 1978a; 2nd edition, ed. Henry Hardy, Princeton: Princeton University Press, 2013; London, 2014: Phoenix.
 * 1954, _Historical Inevitability_, London: Oxford University Press. Reprinted in Berlin 2002b.
-* 1955 (with Stuart Hampshire, Iris Murdoch and Anthony Quinton), ‘[Philosophy and Beliefs](http://berlin.wolf.ox.ac.uk/published\*works/singles/bib59.pdf)’, _Twentieth Century_, 157: 495–521.
-* 1956, (ed.), _The Age of Enlightenment: The Eighteenth-Century Philosophers_, Boston: Houghton Mifflin, New York: New American Library; 2nd ed., ed. Henry Hardy, [online](https://berlin.wolf.ox.ac.uk/published\*works/ae/AE2.pdf), Oxford: The Isaiah Berlin Literary Trust, 2017 (PDF).
+* 1955 (with Stuart Hampshire, Iris Murdoch and Anthony Quinton), ‘[Philosophy and Beliefs](http://berlin.wolf.ox.ac.uk/published_works/singles/bib59.pdf)’, _Twentieth Century_, 157: 495–521.
+* 1956, (ed.), _The Age of Enlightenment: The Eighteenth-Century Philosophers_, Boston: Houghton Mifflin, New York: New American Library; 2nd ed., ed. Henry Hardy, [online](https://berlin.wolf.ox.ac.uk/published_works/ae/AE2.pdf), Oxford: The Isaiah Berlin Literary Trust, 2017 (PDF).
 * 1958, ‘Two Concepts of Liberty’, Oxford: Clarendon Press; reprinted in Berlin 2002b.
 * 1972, ‘The Originality of Machiavelli’, in _Studies on Machiavelli_, M. Gilmore (ed.), Florence: Sansoni. Reprinted in Berlin 1979.
 * 1978a, _Russian Thinkers_, Henry Hardy and Aileen Kelly (eds), London: Hogarth Press; New York, 1979: Viking; 2nd ed., revised by Henry Hardy, London etc.: Penguin Classics, 2008.
@@ -344,13 +344,13 @@ A complete list of Berlin’s works is available in [Isaiah Berlin Online](https
 * 2000b, _Three Critics of the Enlightenment: Vico, Hamann, Herder_ (1960–5), Henry Hardy (ed.), London: Pimlico; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2013; London, 2013: Pimlico.
 * 2002a, _Freedom and its Betrayal: Six Enemies of Human Liberty_ (1952), Henry Hardy (ed.), London: Chatto and Windus; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2014.
 * 2002b, _Liberty_, Henry Hardy (ed.), Oxford and New York: Oxford University Press.
-* 2004a, _Flourishing: Letters 1928–1946_, Henry Hardy (ed.), London: Chatto and Windus (initially published in the USA as _Letters 1928–1946_, New York: Cambridge University Press); [supplement online](https://berlin.wolf.ox.ac.uk/published\*works/f/l1supp.pdf) (PDF); special supplement, ‘[What about Daphne? Correspondence with H. G. Nicholas 1942–1945](https://berlin.wolf.ox.ac.uk/published\*works/f/lnicholas.pdf)’, also online (PDF).
+* 2004a, _Flourishing: Letters 1928–1946_, Henry Hardy (ed.), London: Chatto and Windus (initially published in the USA as _Letters 1928–1946_, New York: Cambridge University Press); [supplement online](https://berlin.wolf.ox.ac.uk/published_works/f/l1supp.pdf) (PDF); special supplement, ‘[What about Daphne? Correspondence with H. G. Nicholas 1942–1945](https://berlin.wolf.ox.ac.uk/published_works/f/lnicholas.pdf)’, also online (PDF).
 * 2004b, _The Soviet Mind: Russian Culture under Communism_, Henry Hardy (ed.), Washington: Brookings Institution Press; 2nd ed., Washington: Brookings Classics, Brookings Institution Press.
 * 2006, _Political Ideas in the Romantic Age: Their Rise and Influence on Modern Thought_, Henry Hardy (ed.), London: Chatto and Windus; 2nd. ed., Princeton: Princeton University Press, 2014.
 * 2006a (with Beata Polanowska-Sygulska), _Unfinished Dialogue_, New York: Prometheus Books.
-* 2009, _Enlightening: Letters 1946–1960_, Henry Hardy and Jennifer Holmes (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published\*works/e/l2supp.pdf) (PDF).
-* 2013, _Building: Letters 1960–1975_, Henry Hardy and Mark Pottle (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published\*works/b/l3supp.pdf) (PDF).
-* 2015, _Affirming: Letters 1975–1997_, Henry Hardy and Mark Pottle (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published\*works/a/l4supp.pdf) (PDF); special supplement, ‘[More Explaining: Isaiah Berlin on His Own Ideas](https://berlin.wolf.ox.ac.uk/published\*works/a/more-explaining.pdf)’, also online (PDF).
+* 2009, _Enlightening: Letters 1946–1960_, Henry Hardy and Jennifer Holmes (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published_works/e/l2supp.pdf) (PDF).
+* 2013, _Building: Letters 1960–1975_, Henry Hardy and Mark Pottle (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published_works/b/l3supp.pdf) (PDF).
+* 2015, _Affirming: Letters 1975–1997_, Henry Hardy and Mark Pottle (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published_works/a/l4supp.pdf) (PDF); special supplement, ‘[More Explaining: Isaiah Berlin on His Own Ideas](https://berlin.wolf.ox.ac.uk/published_works/a/more-explaining.pdf)’, also online (PDF).
 * 2018 \[1969], ‘The Lessons of History’, in Cherniss and Smith 2018.
 
 ### B. Books about Berlin
@@ -487,14 +487,14 @@ A complete list of Berlin’s works is available in [Isaiah Berlin Online](https
 
 ### Selected Online Items on Berlin
 
-* Billington, James H., Katharine Graham, Arthur Schlesinger, Jr., Robert Silvers, Charles Taylor and Leon Wieseltier, 1998, contributions to ‘[Washington Tributes](https://berlin.wolf.ox.ac.uk/writings\*on\*ib/washington\*tributes/)’ to Isaiah Berlin delivered at ‘An American Remembrance’ held at the British Embassy in Washington, DC, on 28 January 1998.
+* Billington, James H., Katharine Graham, Arthur Schlesinger, Jr., Robert Silvers, Charles Taylor and Leon Wieseltier, 1998, contributions to ‘[Washington Tributes](https://berlin.wolf.ox.ac.uk/writings_on_ib/washington_tributes/)’ to Isaiah Berlin delivered at ‘An American Remembrance’ held at the British Embassy in Washington, DC, on 28 January 1998.
 * Chappel, James, 2005, ‘[Dignity is Everything: Isaiah Berlin and His Jewish Identity](https://scholarship.tricolib.brynmawr.edu/items/5a4c62ca-f238-4310-976a-d962313baa5c)’, Senior Thesis, Department of History, Haverford College ([PDF](https://scholarship.tricolib.brynmawr.edu/bitstream/handle/10066/672/2005ChappelJ.pdf)).
 * Cherniss, Joshua, 2017, ‘[Liberal Understanding for Troubled Times: Isaiah Berlin’s Insights and Our Moment of Populist Revolt](http://www.thecritique.com/articles/liberal-understanding-for-troubled-times/)’, _Critique_, 15 January 2017.
-* Cohen, G. A., 2001, ‘[Freedom and Money](http://www.utdt.edu/Upload/\*115634753114776100.pdf)’ (PDF); manuscript dedicated to Isaiah Berlin.
+* Cohen, G. A., 2001, ‘[Freedom and Money](http://www.utdt.edu/Upload/_115634753114776100.pdf)’ (PDF); manuscript dedicated to Isaiah Berlin.
 * Crowder, George, 2003, ‘[Pluralism, Relativism and Liberalism in Isaiah Berlin](https://berlin.wolf.ox.ac.uk/lists/onib/crowder/IBVPREL2003.pdf)’ (PDF), presented to the Australasian Political Studies Association Conference, University of Tasmania, Hobart, 29 September to 1 October 2003.
 * –––, 2020, ‘[After Berlin: The Literature 2002–2020](https://berlin.wolf.ox.ac.uk/lists/onib/after-berlin.pdf)’ (PDF).
 * Dubnov, Arie, 2012, ‘[What is Jewish (If Anything) about Isaiah Berlin’s Philosophy?](http://www.mdpi.com/2077-1444/3/2/289)’, _Religions_, 3(2): 289–319.
-* Hardy, Henry, 1995 \[2007], ‘[Taking Pluralism Seriously](http://berlin.wolf.ox.ac.uk/writings\*on\*ib/hhonib/taking\*pluralism\*seriously.html)’, online manuscript; Dutch translation in _Nexus_, 13 (1995): 74–86; original English text published in Crowder and Hardy 2007; shortened version, ‘[Pluralism and Radical Tolerance](http://berlin.wolf.ox.ac.uk/writings\*on\*ib/hhonib/plurradtol.html)’, _Insights_, 118(1) (2002): 21–3.
+* Hardy, Henry, 1995 \[2007], ‘[Taking Pluralism Seriously](http://berlin.wolf.ox.ac.uk/writings_on_ib/hhonib/taking_pluralism_seriously.html)’, online manuscript; Dutch translation in _Nexus_, 13 (1995): 74–86; original English text published in Crowder and Hardy 2007; shortened version, ‘[Pluralism and Radical Tolerance](http://berlin.wolf.ox.ac.uk/writings_on_ib/hhonib/plurradtol.html)’, _Insights_, 118(1) (2002): 21–3.
 * –––, 1997, [obituary of Isaiah Berlin](https://www.independent.co.uk/news/obituaries/obituray-sir-isaiah-berlin-1292530.html), _Independent_, 7 November 1997.
 * Lyons, Johnny, 2019, ‘[Philosopher of the Human](https://aeon.co/essays/what-can-isaiah-berlin-tell-us-about-political-freedom-today)’, _Aeon_, 10 December 2019.
 * –––, 2020, [_Discovering Isaiah Berlin_](https://johnnylyons.org/films), filmed interview with Henry Hardy in June 2019, in short and long versions).

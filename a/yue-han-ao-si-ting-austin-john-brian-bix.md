@@ -176,7 +176,7 @@ _首次发表于 2001 年 2 月 24 日；实质性修订于 2022 年 1 月 14 �
 
 ## Other Internet Resources
 
-* Postema, Gerald, 2021, “[Philosophical Jurisprudence: A Vision](https://papers.ssrn.com/sol3/papers.cfm?abstract\*id=3972708)”, manuscript preprint at Social Science Research Network
+* Postema, Gerald, 2021, “[Philosophical Jurisprudence: A Vision](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3972708)”, manuscript preprint at Social Science Research Network
 * Schauer, Frederick, 2010, “[Positivism Before Hart](http://ssrn.com/abstract=1512646)”, manuscript preprint at the Social Science Research Network.
 
 ## Related Entries

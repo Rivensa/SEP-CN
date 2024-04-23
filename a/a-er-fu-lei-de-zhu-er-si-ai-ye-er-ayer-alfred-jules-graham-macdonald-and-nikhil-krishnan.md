@@ -203,7 +203,7 @@ A more complete bibliography of Ayer’s work up to 1979 can be found in Macdona
 
 ## Other Internet Resources
 
-* [Alfred Ayer](http://en.wikipedia.org/wiki/A.\*J.\*Ayer), entry on Ayer in Wikipedia.
+* [Alfred Ayer](http://en.wikipedia.org/wiki/A._J._Ayer), entry on Ayer in Wikipedia.
 * [The Condensed Edition of A.J. Ayer’s _Language, Truth and Logic_](http://sqapo.com/ayer.htm), maintained by Glyn Hughes.
 * [The Brains Trust](https://web.archive.org/web/20130520103149/http://atschool.eduweb.co.uk/stevemoss/bron/ayer.htm), by A.J. Ayer, maintained by Stephen Moss.
 

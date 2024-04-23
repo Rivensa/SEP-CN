@@ -395,4 +395,4 @@ _HA_ V-VI 讨论了动物繁殖的各个方面，从考虑交配和繁殖的方�
 [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Aristotle, General Topics: logic](https://plato.stanford.edu/entries/aristotle-logic/) | [Aristotle, General Topics: metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) | [Aristotle, Special Topics: causality](https://plato.stanford.edu/entries/aristotle-causality/) | [soul, ancient theories of](https://plato.stanford.edu/entries/ancient-soul/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[James Lennox](http://www.pitt.edu/\~hpsdept/people/fac\*pages/lennox.html)
+[James Lennox](http://www.pitt.edu/\~hpsdept/people/fac_pages/lennox.html)

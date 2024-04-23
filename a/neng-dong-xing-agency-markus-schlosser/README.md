@@ -354,7 +354,7 @@ Pacherie（2008）将反馈比较器模型发展为一个关于能动性现象�
 
 * [Society for philosophy of agency](https://sites.google.com/site/societyforphilosophyofagency/), maintained by Andrei Buckareff, Marist College.
 * [Philosophy of action](https://web.archive.org/web/20210521114219/http://www.philosophyofaction.com/), maintained by Istvan Zoltan Zardai.
-* [Flickers of freedom](http://philosophycommons.typepad.com/flickers\*of\*freedom/), coordinated by Thomas Nadelhoffer, College of Charleston.
+* [Flickers of freedom](http://philosophycommons.typepad.com/flickers_of_freedom/), coordinated by Thomas Nadelhoffer, College of Charleston.
 
 ## Related Entries
 

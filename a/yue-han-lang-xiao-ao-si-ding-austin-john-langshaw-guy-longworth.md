@@ -7,7 +7,7 @@ _首次发表于 2012 年 12 月 11 日；实质性修订于 2021 年 6 月 30 �
 * [1. 生平与工作](https://plato.stanford.edu/entries/austin-jl/#LifeWork)
 * [2. 语言与真理](https://plato.stanford.edu/entries/austin-jl/#LangTrut)
 * [2.1 语言与哲学](https://plato.stanford.edu/entries/austin-jl/#LangPhil)
-* [2.2 语言与真理](https://plato.stanford.edu/entries/austin-jl/#LangTrut\*1)
+* [2.2 语言与真理](https://plato.stanford.edu/entries/austin-jl/#LangTrut_1)
 * [2.3 言语行为与真理](https://plato.stanford.edu/entries/austin-jl/#SpeeActsTrut)
 * [3. 知识和感知](https://plato.stanford.edu/entries/austin-jl/#KnowPerc)
 * [3.1 知识](https://plato.stanford.edu/entries/austin-jl/#Know)
@@ -74,7 +74,7 @@ _首次发表于 2012 年 12 月 11 日；实质性修订于 2021 年 6 月 30 �
 
 奥斯丁认为，至少在某些主题上，哲学思考的一个重要前提是对我们用来谈论该主题的语言以及我们使用语言的方式进行详细研究。
 
-奥斯丁并不认为语言的研究仅仅是哲学或科学理论的一个前提。即使理论的结果可能是修正性的（参见例如 1957 年：189），他也不排斥理论构建。他关心的只是这样的理论构建应该有适当的基础，并且不应该受到我们在日常语言使用中标记的区别的忽视。此外，奥斯丁在“词语和事实或物体”之间划分了一个重要的区别，并且似乎暗示我们有办法研究世界——即事实和物体——而不受我们的词语所施加的“眼罩”束缚。我们将在[第 2.2 节](https://plato.stanford.edu/entries/austin-jl/#LangTrut\*1)中回顾奥斯丁对世界（包括他认为是特定或具体的事实）和词语（包括我们在使用词语时所做的陈述）之间的区别。我们还将在[第 3.1 节](https://plato.stanford.edu/entries/austin-jl/#Know)中回顾奥斯丁关于我们可以对世界有无眼罩的意识的观点——即我们在经历中所运用的语言或判断能力不会对我们产生束缚。
+奥斯丁并不认为语言的研究仅仅是哲学或科学理论的一个前提。即使理论的结果可能是修正性的（参见例如 1957 年：189），他也不排斥理论构建。他关心的只是这样的理论构建应该有适当的基础，并且不应该受到我们在日常语言使用中标记的区别的忽视。此外，奥斯丁在“词语和事实或物体”之间划分了一个重要的区别，并且似乎暗示我们有办法研究世界——即事实和物体——而不受我们的词语所施加的“眼罩”束缚。我们将在[第 2.2 节](https://plato.stanford.edu/entries/austin-jl/#LangTrut_1)中回顾奥斯丁对世界（包括他认为是特定或具体的事实）和词语（包括我们在使用词语时所做的陈述）之间的区别。我们还将在[第 3.1 节](https://plato.stanford.edu/entries/austin-jl/#Know)中回顾奥斯丁关于我们可以对世界有无眼罩的意识的观点——即我们在经历中所运用的语言或判断能力不会对我们产生束缚。
 
 可以说，奥斯丁的工作已经被广泛的基于普通语言的方法逐渐抛弃了。保罗·格赖斯在他的《言辞之道研究》（1989 年）中的工作，在对这些方法进行负面评估时起到了重要作用，包括奥斯丁的工作的某些方面。格赖斯工作中的一个核心思想是，我们使用语言的方式——粗略地说，我们认为在哪些情境下使用哪些句子是合适或不合适的，或者在这些情境下我们会或不会说什么——并不仅仅是与各自情境的性质和句子相关的正确性条件的简单函数。相反，关于适当性的判断也受到我们对与对话伙伴的合理合作要求的敏感性的驱动。人们认为，普通语言哲学家，包括奥斯丁在内，对适当性判断所受的额外参数不够敏感（有关这种攻击的早期论述，参见 Ayer 1967 和 Searle 1966）。本条目的范围不包括试图评估奥斯丁是否真的应该被视为这些反对意见的目标，或者如果他应该被视为这样的目标，这些意见是否显示了他的工作的弱点。然而，在进行任何这样的评估时，重要的是要注意，奥斯丁对普通语言的利用从来不是简单地诉诸于在整体情境中我们是否认为使用某个句子是合适或不合适。相反，奥斯丁和我们一样，对语言使用的细微评估敏感，并且当他判断在某个场合上的话语是错误的或无意义的时候，他意图将这种判断与对其他更轻微的否定评估进行对比，例如关于仅仅是不合适或不礼貌的说法。此外，奥斯丁对我们基于一种或另一种更细微的对句子使用的评估的情境的具体特征也很敏感。正如他强调的，“真理需要两个人”（1950a: 124 fn.1）。奥斯丁还对词语和世界之间的其他形式的交流中的参与者的细节敏感。
 
@@ -620,7 +620,7 @@ _描述性_约定将句子与事物存在的方式（类型）相关联：与情
 
 * Martin, M.G.F., 2007, “[Austin: _Sense & Sensibilia_ Revisited](http://sas-space.sas.ac.uk/631/)”, online manuscript.
 * [A recording of Austin’s voice (1959)](http://olponline.wordpress.com/2010/07/29/audio-j-l-austins-voice/)
-* [Wikipedia Entry for J.L. Austin](http://en.wikipedia.org/wiki/J.\*L.\*Austin)
+* [Wikipedia Entry for J.L. Austin](http://en.wikipedia.org/wiki/J._L._Austin)
 
 ## Related Entries
 

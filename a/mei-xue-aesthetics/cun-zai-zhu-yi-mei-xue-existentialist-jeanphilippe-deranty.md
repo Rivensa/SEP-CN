@@ -392,4 +392,4 @@ _首次发表于 2009 年 6 月 26 日；实质性修订于 2019 年 3 月 4 日
 [Beauvoir, Simone de](https://plato.stanford.edu/entries/beauvoir/) | [Camus, Albert](https://plato.stanford.edu/entries/camus/) | [existentialism](https://plato.stanford.edu/entries/existentialism/) | [Marcel, Gabriel (-Honoré)](https://plato.stanford.edu/entries/marcel/) | [Merleau-Ponty, Maurice](https://plato.stanford.edu/entries/merleau-ponty/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [Sartre, Jean-Paul](https://plato.stanford.edu/entries/sartre/)
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Jean-Philippe Deranty](http://www.phil.mq.edu.au/staff/deranty.htm) <\[\*jp.deranty@mq.edu.a
+[Jean-Philippe Deranty](http://www.phil.mq.edu.au/staff/deranty.htm) <\[_jp.deranty@mq.edu.a

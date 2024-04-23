@@ -170,4 +170,4 @@ _Discorsi_ 以完全不同的方式处理阶级冲突，即作为一个发达的
 Though the present entry is almost a completely rewritten, new text, the author would like to acknowledge the work of the late Athanasios Moulakis. Section 2 still preserves some material from the previous SEP entry on civic humanism, authored by Moulakis.
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
-[Cary Nederman](http://pols.tamu.edu/about-us/faculty-directory/cary-j-nederman-professor/) <\[\*cary-j-nederman@tamu.ed
+[Cary Nederman](http://pols.tamu.edu/about-us/faculty-directory/cary-j-nederman-professor/) <\[_cary-j-nederman@tamu.ed

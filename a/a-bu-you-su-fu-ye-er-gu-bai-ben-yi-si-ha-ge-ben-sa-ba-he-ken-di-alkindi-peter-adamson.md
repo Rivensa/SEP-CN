@@ -257,4 +257,4 @@ _关于非物质实体的存在_（阿布·里达 1950 年，265-69 页，亚当
 [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [eternity, in Christian thought](https://plato.stanford.edu/entries/eternity/) | [Philoponus](https://plato.stanford.edu/entries/philoponus/) | [Plotinus](https://plato.stanford.edu/entries/plotinus/) | [Proclus](https://plato.stanford.edu/entries/proclus/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Peter Adamson](https://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie\*6/personen/adamson/index.html) <[_peter.adamson@lrz.uni-muenchen.de_](mailto:peter%2eadamson%40lrz%2euni-muenchen%2ede)>
+[Peter Adamson](https://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie_6/personen/adamson/index.html) <[_peter.adamson@lrz.uni-muenchen.de_](mailto:peter%2eadamson%40lrz%2euni-muenchen%2ede)>

@@ -373,7 +373,7 @@ _Anti-reduction_
 
 在思想中将_P_与_S_识别为什么？ 布伦塔诺告诉我们，识别不是一种判断，识别的结果是一种呈现（PES 317，\[II 206]）。\[26] 了解布伦塔诺的一个自然方式是将识别视为形成复杂呈现的一种方式。 布伦塔诺似乎主要考虑的是连接。 我们可以将\[温暖]和\[圆形]的呈现与\[某物温暖且圆形]的呈现连接起来。 连接在这里是对呈现的原始操作，独立于判断。\[27]
 
-但这种复杂性的意义何在呢？为什么布伦塔诺不坚持我们已经熟悉的更简单的两步程序：首先，在做出任何判断之前，将_S_和_P_结合在一个表现行为中，然后承认“_S_-that-is-_P_”作为一个复杂对象？是否有一种特殊的方式来识别_S_和_P_，这种方式预设了在做出这种识别之前必须承认对象_S_？\[[28](https://plato.stanford.edu/entries/brentano-judgement/notes.html#note-28)]
+但这种复杂性的意义何在呢？为什么布伦塔诺不坚持我们已经熟悉的更简单的两步程序：首先，在做出任何判断之前，将_S_和_P_结合在一个表现行为中，然后承认“_S\-that-is-_P_”作为一个复杂对象？是否有一种特殊的方式来识别_S_和_P_，这种方式预设了在做出这种识别之前必须承认对象_S_？\[[28](https://plato.stanford.edu/entries/brentano-judgement/notes.html#note-28)]
 
 指示性判断是支持布伦塔诺新观念的一个很好的案例：
 
@@ -515,5 +515,5 @@ _Anti-reduction_
 [assertion](https://plato.stanford.edu/entries/assertion/) | [Brentano, Franz](https://plato.stanford.edu/entries/brentano/) | [negation](https://plato.stanford.edu/entries/negation/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [reism](https://plato.stanford.edu/entries/reism/) | [square of opposition](https://plato.stanford.edu/entries/square/) | [truth: correspondence theory of](https://plato.stanford.edu/entries/truth-correspondence/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Johannes L. Brandl](http://www.uni-salzburg.at/portal/page?\*pageid=1225,421004&\*dad=portal&\*schema=PORTAL) <[_johannes.brandl@sbg.ac.at_](mailto:johannes%2ebrandl%40sbg%2eac%2eat)>\
+[Johannes L. Brandl](http://www.uni-salzburg.at/portal/page?_pageid=1225,421004&_dad=portal&_schema=PORTAL) <[_johannes.brandl@sbg.ac.at_](mailto:johannes%2ebrandl%40sbg%2eac%2eat)>\
 Mark Textor <[_mark.textor@kcl.ac.uk_](mailto:mark%2etextor%40kcl%2eac%2euk)>

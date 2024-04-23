@@ -309,5 +309,5 @@ Abū l-Barakāt | [Aristotle, General Topics: logic](https://plato.stanford.edu/
 Our thanks to Hanif Amin Beidokhti, Merve Boz, Damien Janos, Andreas Lammer, Michael Sebastian Noble, and Sarah Virgi for help with this article.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Peter Adamson](https://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie\*6/personen/adamson/index.html) <[_peter.adamson@lrz.uni-muenchen.de_](mailto:peter%2eadamson%40lrz%2euni-muenchen%2ede)>\
+[Peter Adamson](https://www.philosophie.uni-muenchen.de/lehreinheiten/philosophie_6/personen/adamson/index.html) <[_peter.adamson@lrz.uni-muenchen.de_](mailto:peter%2eadamson%40lrz%2euni-muenchen%2ede)>\
 Fedor Benevich <[_Fedor.Benevich@ed.ac.uk_](mailto:Fedor%2eBenevich%40ed%2eac%2euk)>

@@ -101,7 +101,7 @@ _首次发表于 2003 年 8 月 27 日；实质性修订于 2024 年 2 月 27 �
 
 ### 1.3 人工智能中的逻辑和哲学逻辑
 
-[McCarthy 1959](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1959a1)，一个早期的逻辑人工智能贡献，讨论了如何到达机场的问题。在这里，麦卡锡提出了一个现实的推理问题。它的解决方案可能涉及许多相关的推理，尽管最终它可能看起来像一个证明——证明执行某些动作将产生一个某人位于机场的结果——但它与数学练习不同，因为它利用了更广泛和不易处理的资源。这些资源包括因果知识以及目标和偏好。相比之下，哲学逻辑的研究论文使用推理示例来_说明_，而不是_激发_逻辑理论，它们引用的推理示例是简单的、孤立的推理。
+[McCarthy 1959](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1:1959a1)，一个早期的逻辑人工智能贡献，讨论了如何到达机场的问题。在这里，麦卡锡提出了一个现实的推理问题。它的解决方案可能涉及许多相关的推理，尽管最终它可能看起来像一个证明——证明执行某些动作将产生一个某人位于机场的结果——但它与数学练习不同，因为它利用了更广泛和不易处理的资源。这些资源包括因果知识以及目标和偏好。相比之下，哲学逻辑的研究论文使用推理示例来_说明_，而不是_激发_逻辑理论，它们引用的推理示例是简单的、孤立的推理。
 
 将早期的逻辑人工智能工作描述为致力于一个新的、雄心勃勃的应用领域的哲学逻辑，并不完全错误。事实上，AI 逻辑学家的第一代\[[4](https://plato.stanford.edu/entries/logic-ai/notes.html#note-4)]阅读了哲学逻辑的文献，并受其影响。然而，随后两个领域开始分道扬镳。在逻辑人工智能领域出现了新的逻辑理论（非单调逻辑是最重要的例子），这些理论并未出现在哲学家的思考中。AI 社区对算法的理论分析以及有用技术的兴趣，也导致了其他差异。AI 研究人员经常关注使用前所未有的大量数据和推理规则的雄心勃勃的应用。它们的庞大规模产生了新的问题和新的方法论。另一方面，哲学逻辑学家是哲学家，因此他们通常对计算机科学家不感兴趣的主题（例如形而上学主题）感兴趣。
 
@@ -117,11 +117,11 @@ _首次发表于 2003 年 8 月 27 日；实质性修订于 2024 年 2 月 27 �
 
 ### 2.1 逻辑与人工智能
 
-约翰·麦卡锡（John McCarthy）是逻辑人工智能中最有影响力的人物，至今仍然如此。麦卡锡是人工智能的创始人之一，并始终主张逻辑形式化是实现人级智能的途径。麦卡锡研究计划中的几乎所有工作都可以在[Lifschitz 1990a](https://plato.stanford.edu/entries/logic-ai/#lifschitz:1990c)中找到，该文还包括[Lifschitz 1990b](https://plato.stanford.edu/entries/logic-ai/#lifschitz:1990d)，对麦卡锡的工作进行了介绍。有关更多历史背景，请参阅[Israel 1991](https://plato.stanford.edu/entries/logic-ai/#israel\*d:1991a)。
+约翰·麦卡锡（John McCarthy）是逻辑人工智能中最有影响力的人物，至今仍然如此。麦卡锡是人工智能的创始人之一，并始终主张逻辑形式化是实现人级智能的途径。麦卡锡研究计划中的几乎所有工作都可以在[Lifschitz 1990a](https://plato.stanford.edu/entries/logic-ai/#lifschitz:1990c)中找到，该文还包括[Lifschitz 1990b](https://plato.stanford.edu/entries/logic-ai/#lifschitz:1990d)，对麦卡锡的工作进行了介绍。有关更多历史背景，请参阅[Israel 1991](https://plato.stanford.edu/entries/logic-ai/#israel_d:1991a)。
 
-麦卡锡的观点首次在[McCarthy 1959](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1959a1)中得到阐述，并在[McCarthy & Hayes 1969](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1-hayes\*pj1:1969a1)中进行了详细说明和修正。他认为，即使人工智能的实现不直接使用像定理证明这样的逻辑推理技术，逻辑形式化也有助于理解推理问题本身。该观点认为，如果没有对推理领域进行逻辑描述，将无法实现推理本身。这实际上是有争议的。许多人工智能研究人员认为在他们的工作中不需要逻辑形式化。例如，机器学习的产品通常与逻辑没有明显的关系，而是依赖于训练语料库和累积学习经验的组合。无法以声明性、概念性的方式明确地描述或理解它们，它们与逻辑的关系也会存在问题。
+麦卡锡的观点首次在[McCarthy 1959](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1:1959a1)中得到阐述，并在[McCarthy & Hayes 1969](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1-hayes_pj1:1969a1)中进行了详细说明和修正。他认为，即使人工智能的实现不直接使用像定理证明这样的逻辑推理技术，逻辑形式化也有助于理解推理问题本身。该观点认为，如果没有对推理领域进行逻辑描述，将无法实现推理本身。这实际上是有争议的。许多人工智能研究人员认为在他们的工作中不需要逻辑形式化。例如，机器学习的产品通常与逻辑没有明显的关系，而是依赖于训练语料库和累积学习经验的组合。无法以声明性、概念性的方式明确地描述或理解它们，它们与逻辑的关系也会存在问题。
 
-[McCarthy & Hayes 1969](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1-hayes\*pj1:1969a1)的建议在很大程度上与分析哲学的建议重叠，但其目标不同：可编程的通用智能而不是概念分析。一些哲学家也有类似的目标；例如，参见[Carnap 1956](https://plato.stanford.edu/entries/logic-ai/#carnap:1956a)（第 244-247 页）和[Pollock 1995](https://plato.stanford.edu/entries/logic-ai/#pollock:1995a)。
+[McCarthy & Hayes 1969](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1-hayes_pj1:1969a1)的建议在很大程度上与分析哲学的建议重叠，但其目标不同：可编程的通用智能而不是概念分析。一些哲学家也有类似的目标；例如，参见[Carnap 1956](https://plato.stanford.edu/entries/logic-ai/#carnap:1956a)（第 244-247 页）和[Pollock 1995](https://plato.stanford.edu/entries/logic-ai/#pollock:1995a)。
 
 假设本文的大多数读者对逻辑人工智能与哲学逻辑之间的关系感兴趣，本文的剩余部分将忽略与哲学的一般关系以及开发人类级智能系统的可行性。
 
@@ -152,25 +152,25 @@ _首次发表于 2003 年 8 月 27 日；实质性修订于 2024 年 2 月 27 �
 
 ### 3.2 开端
 
-1980 年出现了三篇有影响力的非单调逻辑论文：McDermott 和 Doyle 1980 年，[Reiter 1980](https://plato.stanford.edu/entries/logic-ai/#reiter\*r:1980a1)，以及[McCarthy 1980](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1980a)。在每种情况下，这些论文中提出的形式化方法都经历了数年或更长时间的孕育期。为了准确阐述历史影响，需要对作者进行采访，但这尚未完成。然而，似乎存在两个动机因素：与人工智能的长期目标有关的战略考虑，以及从 20 世纪 70 年代部署的推理系统的分析中产生的更具体的战术考虑。
+1980 年出现了三篇有影响力的非单调逻辑论文：McDermott 和 Doyle 1980 年，[Reiter 1980](https://plato.stanford.edu/entries/logic-ai/#reiter_r:1980a1)，以及[McCarthy 1980](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1:1980a)。在每种情况下，这些论文中提出的形式化方法都经历了数年或更长时间的孕育期。为了准确阐述历史影响，需要对作者进行采访，但这尚未完成。然而，似乎存在两个动机因素：与人工智能的长期目标有关的战略考虑，以及从 20 世纪 70 年代部署的推理系统的分析中产生的更具体的战术考虑。
 
 [3.1 节](https://plato.stanford.edu/entries/logic-ai/#Nonm)解释了为什么人们普遍认为单调性使得经典逻辑不适合作为形式化常识推理的工具。[Minsky 1974](https://plato.stanford.edu/entries/logic-ai/#minsky:1974a1)在发表时广泛阅读，帮助明确了这种态度。Minsky 的论文提出了一系列人工智能的挑战，首先关注自然语言理解的问题。\[[10](https://plato.stanford.edu/entries/logic-ai/notes.html#note-10)]他提倡“基于框架”的知识表示技术\[[11](https://plato.stanford.edu/entries/logic-ai/notes.html#note-11)]，并（将其视为逻辑的替代方案），他提出了一系列与逻辑方法相关的挑战，包括以下问题：构建大规模表示、高效推理、表示控制知识以及提供灵活修订可废除信念的能力。回顾起来，大多数人工智能研究人员可能会同意这些问题是任何研究计划（包括当时 Minsky 本人提倡的计划）所面临的普遍挑战，并且会补充说逻辑技术是解决某些，也许是所有问题的重要元素。例如，良好结构化的逻辑设计可以在扩展任何计算上有用的知识体系方面提供很大帮助。
 
-也许无意中，Minsky 的论文通过将单调性视为逻辑的所谓缺点的源头，激励了非单调逻辑学家。尽管 Minsky 显然意图贬低人工智能中的逻辑方法，[McDermott & Doyle 1980](https://plato.stanford.edu/entries/logic-ai/#mcdermott\*d-doyle\*j:1980a)和[McCarthy 1980](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1980a)将他的批评解读为一种挑战，要通过发展不具备单调性属性的逻辑来应对。
+也许无意中，Minsky 的论文通过将单调性视为逻辑的所谓缺点的源头，激励了非单调逻辑学家。尽管 Minsky 显然意图贬低人工智能中的逻辑方法，[McDermott & Doyle 1980](https://plato.stanford.edu/entries/logic-ai/#mcdermott_d-doyle_j:1980a)和[McCarthy 1980](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1:1980a)将他的批评解读为一种挑战，要通过发展不具备单调性属性的逻辑来应对。
 
 非单调逻辑的发展也在很大程度上归功于人工智能应用的需求。事实上，这种影响力至少与麦卡锡的战略考虑一样有说服力，并且在形成出现的形式主义方面更具影响力。在这里，我们提到了三个应用，这些应用似乎对早期的非单调逻辑学家来说非常重要：信念修正、封闭世界推理和规划。
 
 #### 3.2.1 信念修正
 
-[Doyle 1979](https://plato.stanford.edu/entries/logic-ai/#doyle\*j:1979b1) 提出了一个“真实维护系统”。Doyle 的真实维护算法满足了一个普遍需求，为知识库的“信念”更新提供了一种机制。其思想是跟踪信念的支持，并在需要修订信念时使用这些支持依赖的记录。
+[Doyle 1979](https://plato.stanford.edu/entries/logic-ai/#doyle_j:1979b1) 提出了一个“真实维护系统”。Doyle 的真实维护算法满足了一个普遍需求，为知识库的“信念”更新提供了一种机制。其思想是跟踪信念的支持，并在需要修订信念时使用这些支持依赖的记录。
 
 在 TMS 中，对于一个信念的支持部分可以包括对其他信念的“缺席”。这引入了非单调性。例如，它提供了默认值：由于相反信念的缺席而引发的信念。
 
-TMS 算法及其改进对人工智能应用产生了重大影响，这就需要进行逻辑分析。（即使在相当简单的情况下，如果没有分析工具，很难看出 TMS 应该产生什么后果。）这为那些试图发展非单调逻辑的人提供了一个自然而高度具体的挑战。TMS 还提出了非单调性与基于不可证明性的推理有关的观点；这一洞察对于模态方法和默认逻辑非常重要。而 TMS 对论证之间相互作用的强调则引发了非单调逻辑中一个至今仍然重要的主题。_抽象论证_是一个与逻辑编程有关的默认推理框架，一直受到广泛关注。例如，参见[Besnard & Hunter 2008](https://plato.stanford.edu/entries/logic-ai/#besnard\*p-hunter\*a:2008a)和[Rahwan & Simari 2009](https://plato.stanford.edu/entries/logic-ai/#rahwan-simari:2009a)。
+TMS 算法及其改进对人工智能应用产生了重大影响，这就需要进行逻辑分析。（即使在相当简单的情况下，如果没有分析工具，很难看出 TMS 应该产生什么后果。）这为那些试图发展非单调逻辑的人提供了一个自然而高度具体的挑战。TMS 还提出了非单调性与基于不可证明性的推理有关的观点；这一洞察对于模态方法和默认逻辑非常重要。而 TMS 对论证之间相互作用的强调则引发了非单调逻辑中一个至今仍然重要的主题。_抽象论证_是一个与逻辑编程有关的默认推理框架，一直受到广泛关注。例如，参见[Besnard & Hunter 2008](https://plato.stanford.edu/entries/logic-ai/#besnard_p-hunter_a:2008a)和[Rahwan & Simari 2009](https://plato.stanford.edu/entries/logic-ai/#rahwan-simari:2009a)。
 
 #### 3.2.2 闭世界推理
 
-计算机科学中对数据库的研究有一个逻辑的方面；参见[Minker 1997](https://plato.stanford.edu/entries/logic-ai/#minker:1997a)进行调查。这个领域与逻辑人工智能有交互。在非单调逻辑的问题上，演绎数据库范式正在形成，与此同时，许多人工智能研究人员正在思考这些问题，并提供了几个需要分析的非单调推理的具体例子。其中，可能最重要的是“封闭世界假设”。根据这个假设，至少就简单的主张（即正面或负面的文字）而言，系统假设它知道所有应该知道的事情。当系统在其数据中找不到直飞从底特律到博洛尼亚的航班时，这个封闭世界假设就证明了对查询“是否有从底特律到博洛尼亚的直飞航班？”的否定回答。这又是一种从证据的缺失中推理出的情况。通过系统性地尝试证明正面主张的失败，实际上证明了否定主张。这个想法在[Reiter 1978](https://plato.stanford.edu/entries/logic-ai/#reiter\*r:1978a1)和[Clark 1978](https://plato.stanford.edu/entries/logic-ai/#clark\*kl:1978a1)等论文中进行了研究，为非单调逻辑学家提供了明确的挑战，以及如何应对这一挑战的建议。
+计算机科学中对数据库的研究有一个逻辑的方面；参见[Minker 1997](https://plato.stanford.edu/entries/logic-ai/#minker:1997a)进行调查。这个领域与逻辑人工智能有交互。在非单调逻辑的问题上，演绎数据库范式正在形成，与此同时，许多人工智能研究人员正在思考这些问题，并提供了几个需要分析的非单调推理的具体例子。其中，可能最重要的是“封闭世界假设”。根据这个假设，至少就简单的主张（即正面或负面的文字）而言，系统假设它知道所有应该知道的事情。当系统在其数据中找不到直飞从底特律到博洛尼亚的航班时，这个封闭世界假设就证明了对查询“是否有从底特律到博洛尼亚的直飞航班？”的否定回答。这又是一种从证据的缺失中推理出的情况。通过系统性地尝试证明正面主张的失败，实际上证明了否定主张。这个想法在[Reiter 1978](https://plato.stanford.edu/entries/logic-ai/#reiter_r:1978a1)和[Clark 1978](https://plato.stanford.edu/entries/logic-ai/#clark_kl:1978a1)等论文中进行了研究，为非单调逻辑学家提供了明确的挑战，以及如何应对这一挑战的建议。
 
 #### 3.2.3 规划
 
@@ -182,7 +182,7 @@ TMS 算法及其改进对人工智能应用产生了重大影响，这就需要�
 
 [第 3.2 节](https://plato.stanford.edu/entries/logic-ai/#Begi)提到了三种对非单调逻辑有影响的方法：_圆周缩减_（麦卡锡）、_模态方法_（多伊尔和麦克德莫特）和_默认逻辑_（赖特）。
 
-在[McCarthy 1993a](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1993a)中，麦卡锡敦促我们在考虑环绕论的早期历史时，要考虑一组三篇论文：麦卡锡[1986](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1986a1)、[1980](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1980a)和[1987](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1977a5)。第一篇论文将麦卡锡和海耶斯[1969](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1-hayes\*pj1:1969a1)的战略思想与需要非单调逻辑的联系起来，并概述了_领域环绕论_的逻辑思想，这是环绕论的最简单情况。第二篇论文提供了更全面的逻辑基础，并引入了更一般和强大的_谓词环绕论_方法。第三篇论文讨论了具有挑战性的常识例子和形式化技术。
+在[McCarthy 1993a](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1:1993a)中，麦卡锡敦促我们在考虑环绕论的早期历史时，要考虑一组三篇论文：麦卡锡[1986](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1:1986a1)、[1980](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1:1980a)和[1987](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1:1977a5)。第一篇论文将麦卡锡和海耶斯[1969](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1-hayes_pj1:1969a1)的战略思想与需要非单调逻辑的联系起来，并概述了_领域环绕论_的逻辑思想，这是环绕论的最简单情况。第二篇论文提供了更全面的逻辑基础，并引入了更一般和强大的_谓词环绕论_方法。第三篇论文讨论了具有挑战性的常识例子和形式化技术。
 
 所有形式的环绕论都涉及将注意力限制在某些集合最小化的模型上；因此，环绕论可以与非单调性的首选模型处理方法归为一类。麦卡锡的方法是保守的：它使用经典的二阶逻辑。因此，环绕论文献可以避免逻辑基础，并集中于形式化。其他形式的非单调逻辑，包括默认逻辑和模态非单调逻辑，引发了对哲学逻辑学家来说似曾相识的问题。这些问题涉及到设计新逻辑、系统研究关于有效性的问题以及管理替代逻辑的增多。
 
@@ -204,13 +204,13 @@ TMS 算法及其改进对人工智能应用产生了重大影响，这就需要�
 
 一个_默认理论_由两个组成部分组成：一组作为公理的公式和一组默认规则。
 
-乍一看，如何描述默认逻辑中的证明是令人困惑的，因为可证性的默认解释是循环的：证明是根据正确推理的链条来定义的，但正确推理是根据（不）可证性来定义的。因此，可证性不能像单调情况那样归纳地进行描述。早期的理论[Sandewall 1972](https://plato.stanford.edu/entries/logic-ai/#sandewall:1972a)没有成功地解决这个困难。[McDermott & Doyle 1980](https://plato.stanford.edu/entries/logic-ai/#mcdermott\*d-doyle\*j:1980a)和[Reiter 1980](https://plato.stanford.edu/entries/logic-ai/#reiter\*r:1980a1)提出了解决这个问题的方法。在这两种情况下，逻辑任务是（1）开发一种形式体系，可以在其中表达像 这样的规则，并且（2）定义非单调公理和规则的组合 与理论 之间的关系，后者可以被视为 的合理推论。在后来成为标准的术语中，我们需要定义默认理论 与其 _扩展_ 之间的关系。
+乍一看，如何描述默认逻辑中的证明是令人困惑的，因为可证性的默认解释是循环的：证明是根据正确推理的链条来定义的，但正确推理是根据（不）可证性来定义的。因此，可证性不能像单调情况那样归纳地进行描述。早期的理论[Sandewall 1972](https://plato.stanford.edu/entries/logic-ai/#sandewall:1972a)没有成功地解决这个困难。[McDermott & Doyle 1980](https://plato.stanford.edu/entries/logic-ai/#mcdermott_d-doyle_j:1980a)和[Reiter 1980](https://plato.stanford.edu/entries/logic-ai/#reiter_r:1980a1)提出了解决这个问题的方法。在这两种情况下，逻辑任务是（1）开发一种形式体系，可以在其中表达像 这样的规则，并且（2）定义非单调公理和规则的组合 与理论 之间的关系，后者可以被视为 的合理推论。在后来成为标准的术语中，我们需要定义默认理论 与其 _扩展_ 之间的关系。
 
 这是与经典逻辑截然不同的一种方式，它将公理基础与一组后果关联起来。默认理论可以确定许多不同的后果集合，而逻辑本身无法在它们之间进行选择。
 
 回顾起来，我们可以确定非单调逻辑的两种方法：基于“偏好”的方法和基于“冲突”的方法。第一种方法的理论（如圆满化）涉及对普通模型论定义的相对简单的修改，利用模型之间的偏好关系。第二种方法的理论（如默认逻辑）需要对逻辑思想进行更彻底的改造。多个扩展的可能性——从一组前提中可以得出不同的可能的一致、推理完备的结论集——意味着我们必须将逻辑推理视为一个关系，而不是将其视为将一组公理映射到其逻辑闭包的函数。由于逻辑推理如此基础，这代表了一个重大的理论转变。通过多个扩展，我们仍然可以以各种方式检索理论与公式之间的推理关系，其中最简单的方法是说如果在每个扩展中都是的成员，则“非单调地蕴含”。然而，基于冲突的推理关系提供了比基于偏好的推理关系更丰富的基础结构。
 
-Reiter 以保守的方式处理形式化问题。默认逻辑的语言与一阶逻辑的语言相同，其公式无法表达默认值。但是，一个理论可以涉及一组_默认规则_，即形式为的规则。因此，一个_默认理论_是一个由一组（单调的）公理和一组默认规则组成的对。[Reiter 1980](https://plato.stanford.edu/entries/logic-ai/#reiter\*r:1980a1)提供了这种理论扩展的不动点定义，并为这种方法开发了理论基础，证明了一些基本定理。
+Reiter 以保守的方式处理形式化问题。默认逻辑的语言与一阶逻辑的语言相同，其公式无法表达默认值。但是，一个理论可以涉及一组_默认规则_，即形式为的规则。因此，一个_默认理论_是一个由一组（单调的）公理和一组默认规则组成的对。[Reiter 1980](https://plato.stanford.edu/entries/logic-ai/#reiter_r:1980a1)提供了这种理论扩展的不动点定义，并为这种方法开发了理论基础，证明了一些基本定理。
 
 其中一个定理将在[第 4.5 节](https://plato.stanford.edu/entries/logic-ai/#NonmTreaInerPackProb)中提到，与耶鲁枪击异常有关。其思想是采用一个猜测的扩展（将是一个集合）并将该集合用于一种类似证明的过程中的一致性检查，该过程依次将默认规则应用于以开始的阶段。
 
@@ -245,9 +245,9 @@ Doyle 和 McDermott 的论文引用了逻辑 AI 的早期文献，将非单调�
 
 优先语义依赖于一个将模型集合映射到的子集的函数。_优先蕴涵_的关键定义规定，如果对于每个模型，当(_Models_意味着时，是(_Models_的一个（非单调）结果。Shoham 通过模型之间的偏序关系来描述。是在中的模型集合，这些模型在中是最小的。为了确保除非经典地蕴涵矛盾，否则没有集合可以优先地蕴涵矛盾，必须禁止无限下降的链。
 
-这种对非单调性的处理类似于早期条件语义理论中的模态语义理论 - 使用条件语义的演示，如与前提相关联的世界集合的[Chellas 1975](https://plato.stanford.edu/entries/logic-ai/#chellas:1975a)。当然，经典条件逻辑的结果关系是单调的，条件语义使用可能世界，而不是模型。但条件语句的左非单调性（事实上，不蕴含不引起与非单调结果关系相关的问题。条件语句与非单调逻辑之间的相互关系成为非单调逻辑后续工作中的重要主题。例如，[Gärdenfors＆Makinson 1994](https://plato.stanford.edu/entries/logic-ai/#gardenfors-makinson:1994a)，[Boutilier 1992](https://plato.stanford.edu/entries/logic-ai/#boutilier:1992a)，[Pearl 1994](https://plato.stanford.edu/entries/logic-ai/#pearl:1994b)，[Gabbay 1995](https://plato.stanford.edu/entries/logic-ai/#gabbay:1995a)，[Delgrande 1998](https://plato.stanford.edu/entries/logic-ai/#delgrande:1998b)，[Arlo-Costa＆Shapiro 1992](https://plato.stanford.edu/entries/logic-ai/#arlocosta-shapiro:1992a)，[Alcourrón 1995](https://plato.stanford.edu/entries/logic-ai/#alcourron:1995a)，[Asher 1995](https://plato.stanford.edu/entries/logic-ai/#asher:1995a)，[Kern-Isberner 2001](https://plato.stanford.edu/entries/logic-ai/#kernisberner:2001a)，[Giordano＆Schwind 2004](https://plato.stanford.edu/entries/logic-ai/#giordano-schwind\*c:2004a)，[Lent＆Thomason 2015](https://plato.stanford.edu/entries/logic-ai/#lent-thomason:2015a)和[Casini＆Straccia 2022](https://plato.stanford.edu/entries/logic-ai/#casini-straccia:2022a)。
+这种对非单调性的处理类似于早期条件语义理论中的模态语义理论 - 使用条件语义的演示，如与前提相关联的世界集合的[Chellas 1975](https://plato.stanford.edu/entries/logic-ai/#chellas:1975a)。当然，经典条件逻辑的结果关系是单调的，条件语义使用可能世界，而不是模型。但条件语句的左非单调性（事实上，不蕴含不引起与非单调结果关系相关的问题。条件语句与非单调逻辑之间的相互关系成为非单调逻辑后续工作中的重要主题。例如，[Gärdenfors＆Makinson 1994](https://plato.stanford.edu/entries/logic-ai/#gardenfors-makinson:1994a)，[Boutilier 1992](https://plato.stanford.edu/entries/logic-ai/#boutilier:1992a)，[Pearl 1994](https://plato.stanford.edu/entries/logic-ai/#pearl:1994b)，[Gabbay 1995](https://plato.stanford.edu/entries/logic-ai/#gabbay:1995a)，[Delgrande 1998](https://plato.stanford.edu/entries/logic-ai/#delgrande:1998b)，[Arlo-Costa＆Shapiro 1992](https://plato.stanford.edu/entries/logic-ai/#arlocosta-shapiro:1992a)，[Alcourrón 1995](https://plato.stanford.edu/entries/logic-ai/#alcourron:1995a)，[Asher 1995](https://plato.stanford.edu/entries/logic-ai/#asher:1995a)，[Kern-Isberner 2001](https://plato.stanford.edu/entries/logic-ai/#kernisberner:2001a)，[Giordano＆Schwind 2004](https://plato.stanford.edu/entries/logic-ai/#giordano-schwind_c:2004a)，[Lent＆Thomason 2015](https://plato.stanford.edu/entries/logic-ai/#lent-thomason:2015a)和[Casini＆Straccia 2022](https://plato.stanford.edu/entries/logic-ai/#casini-straccia:2022a)。
 
-偏好语义为制定和证明关于偏好关系条件与抽象结果关系属性的表示定理提供了机会。这一研究方向始于[Lehmann＆Magidor 1992](https://plato.stanford.edu/entries/logic-ai/#lehmann\*d-magidor:1992b1)。
+偏好语义为制定和证明关于偏好关系条件与抽象结果关系属性的表示定理提供了机会。这一研究方向始于[Lehmann＆Magidor 1992](https://plato.stanford.edu/entries/logic-ai/#lehmann_d-magidor:1992b1)。
 
 #### 3.4.2 模态和认识论理论
 
@@ -262,13 +262,13 @@ Doyle 和 McDermott 的论文引用了逻辑 AI 的早期文献，将非单调�
 
 自我认知逻辑仍然是非单调逻辑的一种流行方法，部分原因是它在为逻辑编程提供理论基础方面的实用性。参见[Marek & Truszczynski 1991](https://plato.stanford.edu/entries/logic-ai/#marek-truszcynski:1991a)、[Marek & Truszczynski 1989](https://plato.stanford.edu/entries/logic-ai/#marek-truszynski:1989a)、[Konolige 1994](https://plato.stanford.edu/entries/logic-ai/#konolige:1994b)、[Antoniou 1997](https://plato.stanford.edu/entries/logic-ai/#antoniou:1997a)、[Moore 1993](https://plato.stanford.edu/entries/logic-ai/#moore\*rc:1993b)和[Deneker ](https://plato.stanford.edu/entries/logic-ai/#denecker-etal:2003a)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#denecker-etal:2003a)\*​[. 2003](https://plato.stanford.edu/entries/logic-ai/#denecker-etal:2003a)。
 
-认知逻辑启发了其他非单调逻辑的方法。与其他非单调性的模态理论一样，这些方法使用模态性来反映对象语言中的一致性，因此允许表达类似于的默认规则。但是，与一致性不同，这些方法使用的是_无知_。参见[Halpern & Moses 1985](https://plato.stanford.edu/entries/logic-ai/#halpern-moses:1984a2)和[Levesque 1987](https://plato.stanford.edu/entries/logic-ai/#levesque:1987a)以了解这个想法的变体。这些理论在[Meyer & van der Hoek 1995](https://plato.stanford.edu/entries/logic-ai/#meyer\*jjc-vanderhoek:1995a)中得到解释并与其他非单调逻辑进行比较。在最近的工作中，Levesque 的想法被系统地呈现并应用于知识库理论中[Levesque & Lakemeyer 2000](https://plato.stanford.edu/entries/logic-ai/#levesque-lakemeyer:2000a)。
+认知逻辑启发了其他非单调逻辑的方法。与其他非单调性的模态理论一样，这些方法使用模态性来反映对象语言中的一致性，因此允许表达类似于的默认规则。但是，与一致性不同，这些方法使用的是_无知_。参见[Halpern & Moses 1985](https://plato.stanford.edu/entries/logic-ai/#halpern-moses:1984a2)和[Levesque 1987](https://plato.stanford.edu/entries/logic-ai/#levesque:1987a)以了解这个想法的变体。这些理论在[Meyer & van der Hoek 1995](https://plato.stanford.edu/entries/logic-ai/#meyer_jjc-vanderhoek:1995a)中得到解释并与其他非单调逻辑进行比较。在最近的工作中，Levesque 的想法被系统地呈现并应用于知识库理论中[Levesque & Lakemeyer 2000](https://plato.stanford.edu/entries/logic-ai/#levesque-lakemeyer:2000a)。
 
 ## 4. 推理行动和变化
 
 ### 4.1 先验时态逻辑
 
-现代时间逻辑的轮廓在 1950 年代和 1960 年代由亚瑟·普赖尔（Arthur Prior）标准化：参见普赖尔[1956](https://plato.stanford.edu/entries/logic-ai/#prior:1956b)、[1967](https://plato.stanford.edu/entries/logic-ai/#prior:1967a)、[1968](https://plato.stanford.edu/entries/logic-ai/#prior:1968a)。\[[14](https://plato.stanford.edu/entries/logic-ai/notes.html#note-14)] 由于它是在哲学逻辑中发展起来的，时态逻辑被证明是一种模态逻辑。因此，它将公式的真值相对化为世界状态或世界的时间阶段；这些是普通模态逻辑中无时无刻的可能世界的时态理论类比。然后可以从模态逻辑中借用一个研究计划，例如，研究公理系统与相应的模型论约束之间的关系，以及时间排序。例如，参见[Burgess 1984](https://plato.stanford.edu/entries/logic-ai/#burgess\*jp:1984c)和[van Benthem 1983](https://plato.stanford.edu/entries/logic-ai/#vanbenthem:1983a)。
+现代时间逻辑的轮廓在 1950 年代和 1960 年代由亚瑟·普赖尔（Arthur Prior）标准化：参见普赖尔[1956](https://plato.stanford.edu/entries/logic-ai/#prior:1956b)、[1967](https://plato.stanford.edu/entries/logic-ai/#prior:1967a)、[1968](https://plato.stanford.edu/entries/logic-ai/#prior:1968a)。\[[14](https://plato.stanford.edu/entries/logic-ai/notes.html#note-14)] 由于它是在哲学逻辑中发展起来的，时态逻辑被证明是一种模态逻辑。因此，它将公式的真值相对化为世界状态或世界的时间阶段；这些是普通模态逻辑中无时无刻的可能世界的时态理论类比。然后可以从模态逻辑中借用一个研究计划，例如，研究公理系统与相应的模型论约束之间的关系，以及时间排序。例如，参见[Burgess 1984](https://plato.stanford.edu/entries/logic-ai/#burgess_jp:1984c)和[van Benthem 1983](https://plato.stanford.edu/entries/logic-ai/#vanbenthem:1983a)。
 
 普赖尔的时态逻辑与模态逻辑共同关注使用关系的一阶理论来解释逻辑现象，期望重要的时间运算符将是对世界状态的量化器，并且与现实的、实际的时间推理之间有着相当薄弱的联系。当然，这些时态逻辑确实产生了有效性，例如
 
@@ -278,9 +278,9 @@ Doyle 和 McDermott 的论文引用了逻辑 AI 的早期文献，将非单调�
 
 规划问题为将逻辑分析与人工智能应用相结合提供了最丰富的展示场景之一。一方面，自动规划具有许多实际价值的应用，另一方面，规划的逻辑形式化在理解规划问题和设计算法方面确实是有帮助的。
 
-AI 规划问题的经典表示，如[Amarel 1968](https://plato.stanford.edu/entries/logic-ai/#amarel:1968a1)所述，显然源自 Herbert Simon 在 1966 年发表的 CMU 技术报告[Simon 1966](https://plato.stanford.edu/entries/logic-ai/#simon\*ha:1966a)的早期工作。在这样一个问题中，一个处于初始世界状态的代理被赋予一组“动作”，这些动作被认为是将世界状态转化为世界状态的部分函数。动作只在满足适当约束的世界状态下可行。（这些约束现在被称为动作的“前提条件”）。然后，规划问题就变成了寻找一系列可行动作的搜索，这些动作逐步将初始世界状态转化为所需的世界状态。
+AI 规划问题的经典表示，如[Amarel 1968](https://plato.stanford.edu/entries/logic-ai/#amarel:1968a1)所述，显然源自 Herbert Simon 在 1966 年发表的 CMU 技术报告[Simon 1966](https://plato.stanford.edu/entries/logic-ai/#simon_ha:1966a)的早期工作。在这样一个问题中，一个处于初始世界状态的代理被赋予一组“动作”，这些动作被认为是将世界状态转化为世界状态的部分函数。动作只在满足适当约束的世界状态下可行。（这些约束现在被称为动作的“前提条件”）。然后，规划问题就变成了寻找一系列可行动作的搜索，这些动作逐步将初始世界状态转化为所需的世界状态。
 
-基于逻辑的人工智能（Situation Calculus），由约翰·麦卡锡（John McCarthy）开发，是后来大部分形式化推理行为和变化工作的起源。它首次在 1969 年被描述，关于该主题的最早一篇普遍可访问的出版物是[McCarthy＆Hayes 1969](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1-hayes\*pj1:1969a1)。
+基于逻辑的人工智能（Situation Calculus），由约翰·麦卡锡（John McCarthy）开发，是后来大部分形式化推理行为和变化工作的起源。它首次在 1969 年被描述，关于该主题的最早一篇普遍可访问的出版物是[McCarthy＆Hayes 1969](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1-hayes_pj1:1969a1)。
 
 显然，普里尔时态逻辑对 Amarel 没有影响。但是 Amarel 的世界状态与普里尔时态逻辑的世界状态之间没有重要的区别。Situation Calculus 中的“情境”就是这些相同的世界状态，只是换了个名字。\[[15](https://plato.stanford.edu/entries/logic-ai/notes.html#note-15)] 它们类似于模态逻辑中的可能世界，提供支持一致和完整的真理集合的抽象位置。与时态逻辑类似，这些位置是有序的，并且变化通过从一个位置到另一个位置的真值条件的变化来表示。当然，这些差异是受到 Situation Calculus 的预期用途的启发：它旨在形式化 Simon 对规划问题的表示，其中单个代理人推理关于顺序执行动作的情景。\[[16](https://plato.stanford.edu/entries/logic-ai/notes.html#note-16)] Situation Calculus 中的变化是动态的，由行动的执行驱动。因此，基本的模型论组成部分是
 
@@ -296,11 +296,11 @@ AI 规划问题的经典表示，如[Amarel 1968](https://plato.stanford.edu/ent
 
 这种形式化，以动态逻辑的风格，实际上是对麦卡锡的一种有吸引力的替代方案。
 
-但是[McCarthy＆Hayes 1969](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1-hayes\*pj1:1969a1)使用了一种更接近一阶逻辑的语言。（这种形式化风格是 McCarthy 的作品的特点；参见[McCarthy 1979](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1979c1)。）将动作视为个体。而可以随时间改变真值的命题（命题_流变量_）也被视为个体。其中 表示一种情境， 表示一个流变量， 表示在 中 为真。
+但是[McCarthy＆Hayes 1969](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1-hayes_pj1:1969a1)使用了一种更接近一阶逻辑的语言。（这种形式化风格是 McCarthy 的作品的特点；参见[McCarthy 1979](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1:1979c1)。）将动作视为个体。而可以随时间改变真值的命题（命题_流变量_）也被视为个体。其中 表示一种情境， 表示一个流变量， 表示在 中 为真。
 
 自 19 世纪和 20 世纪初逻辑学家的开创性工作以来，形式化数学领域的过程已经变得常规化。尽管（与集合论一样），关于哪些公理和逻辑基础最适合形式化数学领域可能存在争议，但形式化的方法和评估标准是自动的，且（大多数）未经审查的。这种方法论的清晰性尚未成功扩展到其他领域；即使是对经验科学的形式化也存在难题，尚未解决。\[17]
 
-关于时间推理的形式化，特别是关于行动和计划的推理，是现代形式化技术在数学理论以外领域中最成功的扩展。这一转变需要创造新的方法论。一种方法论创新将在[第 4.5 节](https://plato.stanford.edu/entries/logic-ai/#NonmTreaInerPackProb)中出现：开发一套场景库来测试各种形式主义的适用性，并创建专门的领域，如块世界领域（在[第 4.2 节](https://plato.stanford.edu/entries/logic-ai/#PlanProbSituCalc)中提到），用于测试想法。有关块世界的更多信息，请参见[Genesereth＆Nilsson 1987](https://plato.stanford.edu/entries/logic-ai/#genesereth-nilsson\*nj:1987a)；[Davis 1991](https://plato.stanford.edu/entries/logic-ai/#davis\*e:1991a)。麦卡锡关于“详细容忍度”（elaboration tolerance）的想法[McCarthy 1999](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1999a)提供了一个有趣的尝试，以提供形式化的适用性标准。在形式化常识领域的过程中出现的另一个想法是明确本体论的重要性；例如，请参见[Fikes 1996](https://plato.stanford.edu/entries/logic-ai/#fikes:1996a)和[Lenat＆Guha 1989](https://plato.stanford.edu/entries/logic-ai/#lenat-guha:1989a)。另一个是明确表示上下文的潜在有用性；例如，请参见[Guha, 1991](https://plato.stanford.edu/entries/logic-ai/#guha:1991a)。另一个是使用模拟技术：例如，请参见[Johnstone＆Williamson 2007](https://plato.stanford.edu/entries/logic-ai/#johnstone-williamson:2007)。
+关于时间推理的形式化，特别是关于行动和计划的推理，是现代形式化技术在数学理论以外领域中最成功的扩展。这一转变需要创造新的方法论。一种方法论创新将在[第 4.5 节](https://plato.stanford.edu/entries/logic-ai/#NonmTreaInerPackProb)中出现：开发一套场景库来测试各种形式主义的适用性，并创建专门的领域，如块世界领域（在[第 4.2 节](https://plato.stanford.edu/entries/logic-ai/#PlanProbSituCalc)中提到），用于测试想法。有关块世界的更多信息，请参见[Genesereth＆Nilsson 1987](https://plato.stanford.edu/entries/logic-ai/#genesereth-nilsson_nj:1987a)；[Davis 1991](https://plato.stanford.edu/entries/logic-ai/#davis_e:1991a)。麦卡锡关于“详细容忍度”（elaboration tolerance）的想法[McCarthy 1999](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1:1999a)提供了一个有趣的尝试，以提供形式化的适用性标准。在形式化常识领域的过程中出现的另一个想法是明确本体论的重要性；例如，请参见[Fikes 1996](https://plato.stanford.edu/entries/logic-ai/#fikes:1996a)和[Lenat＆Guha 1989](https://plato.stanford.edu/entries/logic-ai/#lenat-guha:1989a)。另一个是明确表示上下文的潜在有用性；例如，请参见[Guha, 1991](https://plato.stanford.edu/entries/logic-ai/#guha:1991a)。另一个是使用模拟技术：例如，请参见[Johnstone＆Williamson 2007](https://plato.stanford.edu/entries/logic-ai/#johnstone-williamson:2007)。
 
 ### 4.4 预测和框架问题
 
@@ -316,7 +316,7 @@ AI 规划问题的经典表示，如[Amarel 1968](https://plato.stanford.edu/ent
 
 纯粹的逻辑框架问题可以通过使用单调逻辑来解决，只需编写明确的公理来陈述在执行动作时不会发生什么变化。这种技术可以成功应用于相当复杂的形式化问题。\[[21](https://plato.stanford.edu/entries/logic-ai/notes.html#note-21)] 但是，对于该框架的非单调解决方案已经得到广泛研究和应用；这些解决方案引导了新的有趣的逻辑发展方向。
 
-一些哲学家（[Fodor 1987](https://plato.stanford.edu/entries/logic-ai/#fodor\*ja:1987b)，[Lormand 1996](https://plato.stanford.edu/entries/logic-ai/#lormand:1996a)）认为，人为构造的命题在与框架问题相关时会带来特殊困难。正如 Shanahan 指出的那样[Shanahan 1997](https://plato.stanford.edu/entries/logic-ai/#shanahan:1997a)\[p. 24])，Fodor 的“冰箱”例子可以很容易地在情境演算中进行形式化，并且不会带来特殊问题。然而，正如 Lormand 所建议的那样，Goodman 的例子[Goodman, 1946](https://plato.stanford.edu/entries/logic-ai/#goodman\*n:1946a)如果被作为流变量被接受，将会产生问题；在某些异常的扩展中，物体会从绿色变为蓝色，以保持它们的绿色特性。
+一些哲学家（[Fodor 1987](https://plato.stanford.edu/entries/logic-ai/#fodor_ja:1987b)，[Lormand 1996](https://plato.stanford.edu/entries/logic-ai/#lormand:1996a)）认为，人为构造的命题在与框架问题相关时会带来特殊困难。正如 Shanahan 指出的那样[Shanahan 1997](https://plato.stanford.edu/entries/logic-ai/#shanahan:1997a)\[p. 24])，Fodor 的“冰箱”例子可以很容易地在情境演算中进行形式化，并且不会带来特殊问题。然而，正如 Lormand 所建议的那样，Goodman 的例子[Goodman, 1946](https://plato.stanford.edu/entries/logic-ai/#goodman_n:1946a)如果被作为流变量被接受，将会产生问题；在某些异常的扩展中，物体会从绿色变为蓝色，以保持它们的绿色特性。
 
 这是哲学家们对于框架问题提出的少数几个观点之一，它对于 AI 形式化提出了一个真正的困难。但是这个困难是次要的，因为这个例子是不现实的。在流畅性中并不假设闭包性质（比如布尔运算的闭包性）。事实上，通常假设在规划领域的形式化中选择的流畅性将代表状态相关函数的一个非常有限的子集；通常，它将是一个相对较小的有限变量集合，代表领域中被认为重要的特征。在特定情况下，这些变量将以与统计建模中选择变量的方式相似的方式选择。
 
@@ -338,15 +338,15 @@ _资格问题_与几乎任何常识概括的形式化有关。通常，这些概
 
 非单调逻辑通过实现增量形式化为这个问题做出了贡献。如果将一个常识概括表述为默认规则，那么可以非破坏性地添加进一步的限定。默认公理被保留，然后添加一个例外，该例外本身可能是一个默认规则。即使它不能解决更深层次的哲学问题，这也是有帮助的。
 
-资格问题是在[麦卡锡 1986 年](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1986a1)提出的，主要是基于对行动后果的概括。麦卡锡详细考虑了在汽车中转动点火钥匙将启动汽车的概括。实际上，对于几乎任何行动，包括将一个积木叠放在另一个上面，都可以得出同样的结论——这是早期情境演算的标准示例。[利夫希茨 1987 年](https://plato.stanford.edu/entries/logic-ai/#lifschitz:1987c)提出了一种圆周逻辑的解决方案，明确地将行动与其前提条件的关系引入到形式化中，并通过圆周逻辑最小化前提条件，从优选模型中消除可能使行动无效的“未知前提条件”。
+资格问题是在[麦卡锡 1986 年](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1:1986a1)提出的，主要是基于对行动后果的概括。麦卡锡详细考虑了在汽车中转动点火钥匙将启动汽车的概括。实际上，对于几乎任何行动，包括将一个积木叠放在另一个上面，都可以得出同样的结论——这是早期情境演算的标准示例。[利夫希茨 1987 年](https://plato.stanford.edu/entries/logic-ai/#lifschitz:1987c)提出了一种圆周逻辑的解决方案，明确地将行动与其前提条件的关系引入到形式化中，并通过圆周逻辑最小化前提条件，从优选模型中消除可能使行动无效的“未知前提条件”。
 
 并非每种非单调逻辑都提供了优雅的资格机制。例如，普通的默认逻辑无法提供直观上期望的结论，因为它没有办法让默认规则覆盖其他默认规则。要实现这种效果，需要一种高级版本的逻辑，其中默认规则具有优先级。这可能会大大复杂化理论；例如，参见[阿舍尔和莫罗 1991 年](https://plato.stanford.edu/entries/logic-ai/#asher-morreau:1991a)和[霍蒂 1994 年](https://plato.stanford.edu/entries/logic-ai/#horty:1994a)。正如[埃尔坎 1995 年](https://plato.stanford.edu/entries/logic-ai/#elkan:1995a)指出的，资格问题引发了计算问题。
 
 相对于时间推理中的其他问题，对于表征行动的资格问题给予的关注相对较少。特别是，对于_不成功_的行动的标准解释有些不直观。例如，在[Lifschitz 1987](https://plato.stanford.edu/entries/logic-ai/#lifschitz:1987c)的形式化中，只有在前提条件得到满足时，行动的常规效果才能得到保证，这与前提条件全部成功的行动有所区别。就好像在任何时刻都可以进行一笔 100 万美元的交易，尽管如果你没有钱，特定的效果将无法保证。\[[23](https://plato.stanford.edu/entries/logic-ai/notes.html#note-23)]此外，对于那些甚至无法尝试的行动（比如在悉尼时试图登机伦敦的飞机）、可以尝试但预计会失败的行动（比如在资金不足时取款）、可以尝试并有合理成功希望的行动，以及可以尝试并保证成功的行动之间没有区别。正如 J.L.奥斯汀在[Austin 1961](https://plato.stanford.edu/entries/logic-ai/#austin:1961x)中明确指出的那样，行动的尝试方式以及尝试行动的失败方式是常识推理中一个发展完善的部分。显然，在考虑可能失败的行动的计划时，人们可能需要推理失败的后果。对行动的病理进行形式化，提供关于行动及其包含的计划可能出错的系统理论，将是规划形式化的有益补充，也将阐明哲学中的重要主题。
 
-由_分支问题_（首次由[Finger 1987](https://plato.stanford.edu/entries/logic-ai/#finger\*j:1987a)描述）提出的挑战是形式化行动的间接后果，其中“间接”效果是同步的\[[24](https://plato.stanford.edu/entries/logic-ai/notes.html#note-24)]，但是因果上是派生的。如果一个人走进一个房间，直接效果是他现在在房间里。还有许多间接效果，例如他的衬衫现在也在房间里。
+由_分支问题_（首次由[Finger 1987](https://plato.stanford.edu/entries/logic-ai/#finger_j:1987a)描述）提出的挑战是形式化行动的间接后果，其中“间接”效果是同步的\[[24](https://plato.stanford.edu/entries/logic-ai/notes.html#note-24)]，但是因果上是派生的。如果一个人走进一个房间，直接效果是他现在在房间里。还有许多间接效果，例如他的衬衫现在也在房间里。
 
-从这个表述中可以看出，假设在行动形式主义的人工智能文献中，预设了行动的直接后果（与行动本身紧密相关并由其成功执行所确保）与其他后果之间的区别。这个假设通常被毫无疑问地接受。你可以为其常识上的合理性提出充分的论据，例如，我们很多表示行动的词语（如“加热”、“延长”、“填充”）都是从与其惯常相关的效果中派生出来的。在这些情况下，成功是必然的：如果有人把某物加热了，那就意味着它变热了。但是也存在一些复杂情况。[Lin 1995](https://plato.stanford.edu/entries/logic-ai/#lin\*fz:1995a)讨论了一个简单的例子：一个特定的手提箱有两个锁，只有当两个锁都打开时，它才是打开的。然后（假设行动不是同时进行的）如果打开一个锁只有在另一个锁打开的情况下才能打开手提箱。Lin 的形式化处理将打开每个锁都视为一种行动，具有直接后果。但是打开手提箱并不是一种行动，而是一种间接效果。
+从这个表述中可以看出，假设在行动形式主义的人工智能文献中，预设了行动的直接后果（与行动本身紧密相关并由其成功执行所确保）与其他后果之间的区别。这个假设通常被毫无疑问地接受。你可以为其常识上的合理性提出充分的论据，例如，我们很多表示行动的词语（如“加热”、“延长”、“填充”）都是从与其惯常相关的效果中派生出来的。在这些情况下，成功是必然的：如果有人把某物加热了，那就意味着它变热了。但是也存在一些复杂情况。[Lin 1995](https://plato.stanford.edu/entries/logic-ai/#lin_fz:1995a)讨论了一个简单的例子：一个特定的手提箱有两个锁，只有当两个锁都打开时，它才是打开的。然后（假设行动不是同时进行的）如果打开一个锁只有在另一个锁打开的情况下才能打开手提箱。Lin 的形式化处理将打开每个锁都视为一种行动，具有直接后果。但是打开手提箱并不是一种行动，而是一种间接效果。
 
 显然，分支问题与框架问题密切相关。在采用非单调解决方案来解决框架问题的方法中，惯性默认需要被分支所覆盖，以获得正确的结果。在 Lin 的例子中，假设手提箱的左锁是打开的，并执行了打开右锁的行动。那么默认的结论是手提箱仍然关闭，需要以某种方式被抑制。
 
@@ -356,7 +356,7 @@ _资格问题_与几乎任何常识概括的形式化有关。通常，这些概
 
 在文献中讨论的许多情景中，有婴儿情景、乘车情景、国际象棋棋盘情景、渡船连接情景、家具组装情景、藏火鸡情景、厨房水槽情景、俄罗斯火鸡情景、斯坦福谋杀之谜、斯德哥尔摩交付情景、被盗汽车情景、闷热房间情景、被罚款的汽车情景、行走的火鸡情景和耶鲁枪击异常。这些情景的描述可以在[Shanahan 1997](https://plato.stanford.edu/entries/logic-ai/#shanahan:1997a)和[Sandewall 1994](https://plato.stanford.edu/entries/logic-ai/#sandewall:1994a)中找到；特别是参见[Sandewall 1994](https://plato.stanford.edu/entries/logic-ai/#sandewall:1994a)的第 2 章和第 7 章。
 
-这些情景中的许多都是为了测试高级问题而设计的，这些问题在这里不会讨论，例如处理多个代理人或连续变化的挑战。在这里，我们集中讨论最早的、可能也是最微妙的情景之一：耶鲁枪击异常，首次报道于[Hanks & McDermott 1985](https://plato.stanford.edu/entries/logic-ai/#hanks-mcdermott\*d:1985a)，并发表于[Hanks & McDermott 1986](https://plato.stanford.edu/entries/logic-ai/#hanks-mcdermott\*d:1986a)和[Hanks & McDermott 1987](https://plato.stanford.edu/entries/logic-ai/#hanks-mcdermott\*d:1987b)。
+这些情景中的许多都是为了测试高级问题而设计的，这些问题在这里不会讨论，例如处理多个代理人或连续变化的挑战。在这里，我们集中讨论最早的、可能也是最微妙的情景之一：耶鲁枪击异常，首次报道于[Hanks & McDermott 1985](https://plato.stanford.edu/entries/logic-ai/#hanks-mcdermott_d:1985a)，并发表于[Hanks & McDermott 1986](https://plato.stanford.edu/entries/logic-ai/#hanks-mcdermott_d:1986a)和[Hanks & McDermott 1987](https://plato.stanford.edu/entries/logic-ai/#hanks-mcdermott_d:1987b)。
 
 耶鲁枪击异常涉及三个动作：装弹、射击和等待。一个命题流畅的"Loaded"跟踪某个手枪是否装弹；另一个流畅的"Alive"跟踪某只火鸡弗雷德是否活着。装弹动作没有前提条件；它的唯一效果是"Loaded"。射击动作的唯一前提条件是"Loaded"，唯一效果是"Not-Alive"；等待动作没有前提条件和效果。
 
@@ -422,13 +422,13 @@ _资格问题_与几乎任何常识概括的形式化有关。通常，这些概
 
 #### 4.6.3 事件演算中的基于状态的最小化
 
-[Baker 1989](https://plato.stanford.edu/entries/logic-ai/#baker\*ab:1989a)使用了 Yale Shooting Anomaly 的限定版本进行工作。回想一下，circumscription 使用首选模型来最小化异常性谓词的扩展。在这个最小化过程中，某些参数（包括当然要最小化的谓词）被允许变化；其余参数保持不变。哪些参数变化，哪些参数保持不变是由应用程序决定的。
+[Baker 1989](https://plato.stanford.edu/entries/logic-ai/#baker_ab:1989a)使用了 Yale Shooting Anomaly 的限定版本进行工作。回想一下，circumscription 使用首选模型来最小化异常性谓词的扩展。在这个最小化过程中，某些参数（包括当然要最小化的谓词）被允许变化；其余参数保持不变。哪些参数变化，哪些参数保持不变是由应用程序决定的。
 
 在最早的对框架问题的限定解决方案中，惯性规则使用了一个异常性谓词来表述。
 
 这个公理使用了一个双条件语句，因此可以用于逆向推理；这是常识惯性更近期的表述的典型特征。对于框架问题的一个不成熟的解决方案是将异常谓词最小化，同时允许"Holds"谓词变化并保持所有其他参数固定。这种方法与默认逻辑一样会导致耶鲁枪击异常。Circumscription 不涉及多个扩展，因此在枪击后无法得出 Fred 已经死亡的结论。
 
-在 Baker 对问题的重新表述中，单独的公理确保了与每个布尔组合的情态对应的情境的存在，并且"Result"函数允许变化，而"Holds"谓词保持不变。在这种情况下，"Result"函数需要针对"反事实"行为进行指定，特别是针对枪击和耶鲁枪击异常中的等待。正是这个特征消除了该场景的错误模型；有关详细信息，请参见[Baker 1989](https://plato.stanford.edu/entries/logic-ai/#baker\*ab:1989a)和[Shanahan 1997](https://plato.stanford.edu/entries/logic-ai/#shanahan:1997a)，第 6 章。
+在 Baker 对问题的重新表述中，单独的公理确保了与每个布尔组合的情态对应的情境的存在，并且"Result"函数允许变化，而"Holds"谓词保持不变。在这种情况下，"Result"函数需要针对"反事实"行为进行指定，特别是针对枪击和耶鲁枪击异常中的等待。正是这个特征消除了该场景的错误模型；有关详细信息，请参见[Baker 1989](https://plato.stanford.edu/entries/logic-ai/#baker_ab:1989a)和[Shanahan 1997](https://plato.stanford.edu/entries/logic-ai/#shanahan:1997a)，第 6 章。
 
 这个想法，Shanahan 称之为“基于状态的最小化”，在[Shanahan 1997](https://plato.stanford.edu/entries/logic-ai/#shanahan:1997a)中得到了发展和扩展，它是从[Kowalski＆Sergot 1986](https://plato.stanford.edu/entries/logic-ai/#kowalski-sergot:1986a)的事件演算中推导出来的时间逻辑的背景下。 Shanahan 的版本具有与逻辑编程密切相关的优势。
 
@@ -438,13 +438,13 @@ _资格问题_与几乎任何常识概括的形式化有关。通常，这些概
 
 这种策略在[Geffner 1990](https://plato.stanford.edu/entries/logic-ai/#geffner:1990a)和[1992](https://plato.stanford.edu/entries/logic-ai/#geffner:1992c)中得到了追求。从[Lifschitz 1987](https://plato.stanford.edu/entries/logic-ai/#lifschitz:1987c)开始的类似方法沿着这个方向发展了一系列的研究，不仅由 Lifschitz 及其在德克萨斯行动小组的学生和同事进行，还有其他一些人。关于这项工作和进一步的参考资料，请参见[Thielscher 1989](https://plato.stanford.edu/entries/logic-ai/#thielscher:1997a)、[Gustaffson & Doherty 1996](https://plato.stanford.edu/entries/logic-ai/#gustaffson\*j-doherty:1996a)、[Baral 1995](https://plato.stanford.edu/entries/logic-ai/#baral:1995a)、[Nakashima ](https://plato.stanford.edu/entries/logic-ai/#nakashima-etal:1997a)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#nakashima-etal:1997a)\*​[. 1997](https://plato.stanford.edu/entries/logic-ai/#nakashima-etal:1997a)、[Lifschitz 1997](https://plato.stanford.edu/entries/logic-ai/#lifschitz:1997a)、[Giunchiglia & Lifschitz 1998](https://plato.stanford.edu/entries/logic-ai/#giunchiglia\*e-lifschitz:1998a)、[Lin 1995](https://plato.stanford.edu/entries/logic-ai/#lin\*fz:1995a)、[Haugh 1987](https://plato.stanford.edu/entries/logic-ai/#haugh:1987a)、[Lifschitz 1998b](https://plato.stanford.edu/entries/logic-ai/#lifschitz:1998a)、[Turner 1999](https://plato.stanford.edu/entries/logic-ai/#turner\*h:1999a)、[McCain & Turner 1995](https://plato.stanford.edu/entries/logic-ai/#mccain-turner\*h:1995a)、[Elkan 1991](https://plato.stanford.edu/entries/logic-ai/#elkan:1991b)、[McCain & Turner 1997](https://plato.stanford.edu/entries/logic-ai/#mccain-turner\*h:1997a)、[Thielscher 1996](https://plato.stanford.edu/entries/logic-ai/#thielscher:1996a)和[Gelfond & Lifschitz 1998](https://plato.stanford.edu/entries/logic-ai/#gelfond-lifschitz:1998a)。
 
-在这里，我们描述了在[Turner 1999](https://plato.stanford.edu/entries/logic-ai/#turner\*h:1999a)中提出的因果解决方案。Turner 回到了[Geffner 1992](https://plato.stanford.edu/entries/logic-ai/#geffner:1992c)的思想，但将它们放置在一个更简单的逻辑环境中，并将它们应用于更复杂的场景的形式化，以说明因果惯性与其他考虑因素的相互作用，特别是分支问题。
+在这里，我们描述了在[Turner 1999](https://plato.stanford.edu/entries/logic-ai/#turner_h:1999a)中提出的因果解决方案。Turner 回到了[Geffner 1992](https://plato.stanford.edu/entries/logic-ai/#geffner:1992c)的思想，但将它们放置在一个更简单的逻辑环境中，并将它们应用于更复杂的场景的形式化，以说明因果惯性与其他考虑因素的相互作用，特别是分支问题。
 
 分支是由存在的_静态_法则引起的，这些法则将行动的直接后果与其他变化联系起来。一个启动汽车的场景说明了困难。有一个动作，即_turn-on_，它打开点火开关；假设这个动作没有前提条件。有一个表示点火开关是否打开的流畅状态，一个表示电池是否没电的流畅状态，以及一个表示发动机是否运行的流畅状态。一个静态法则说，如果点火开关打开且电池没电，发动机就会运行。（假设在这个场景中已经排除了其他故障的可能性；不启动的唯一可能原因是电池没电。）我们想考虑的是在点火开关未打开、电池未没电且汽车未运行的情况下执行_turn-on_的转换。
 
 当然，我们希望在这种情况下推断出，_打开_的表现将导致点火开启、电池未耗尽且发动机运行的情况。但是，对立的因果定律使得这个结论变得困难。问题在于：我们可以通过对立我们唯一的静态定律得出结论，即如果点火开启而发动机未运行，则电池已耗尽。这个定律不仅在我们的场景中是正确的，而且可以用来解释启动汽车失败的尝试。但是，如果它用于预测，那么执行_打开_将产生一个“墨菲定律”的结果，其中点火开启，电池已耗尽，发动机未运行。在这个不希望的结果中，一切都有原因：电池因为因果惯性而耗尽，发动机因为对立的因果定律而未运行。
 
-想要详细探讨在相对表达力强的行动语言中嵌入非单调解决方案的问题的读者可以参考[Gelfond & Lifschitz 1998](https://plato.stanford.edu/entries/logic-ai/#gelfond-lifschitz:1998a)。这篇论文提出了一系列越来越强大和复杂的行动语言，其中包含了对 Ramification 问题的一种相对_特设_的解决方案。[Turner 1999](https://plato.stanford.edu/entries/logic-ai/#turner\*h:1999a)是在这些方面的一种改进。
+想要详细探讨在相对表达力强的行动语言中嵌入非单调解决方案的问题的读者可以参考[Gelfond & Lifschitz 1998](https://plato.stanford.edu/entries/logic-ai/#gelfond-lifschitz:1998a)。这篇论文提出了一系列越来越强大和复杂的行动语言，其中包含了对 Ramification 问题的一种相对_特设_的解决方案。[Turner 1999](https://plato.stanford.edu/entries/logic-ai/#turner_h:1999a)是在这些方面的一种改进。
 
 Turner 的想法是将 视为一个带有非单调优先模型解释的模态运算符。在优先模型中普遍存在普遍因果关系：被引起的命题和真命题必须一致。此外，该模型必须是唯一的；它必须是与语言的外延部分一致的唯一可能性。
 
@@ -452,7 +452,7 @@ Turner 的想法是将 视为一个带有非单调优先模型解释的模态运
 
 Turner 对于的首选模型是这样的一对：（1）满足，（2） ，（3）是满足条件（1）和（2）的唯一解释_I_，_S_。条件（2）保证了“因果关系的普遍性”；它验证了。条件（3）以最强的意义上将因果关系“基于”非因果信息（在我们感兴趣的模型中，这将涉及哪些情况下的哪些流变量），它是由这些信息唯一确定的。
 
-尽管不明显，但 Turner 对于首选模型的描述与更一般的非单调逻辑（如默认逻辑）相关。有关详细信息，请参阅[Turner 1999](https://plato.stanford.edu/entries/logic-ai/#turner\*h:1999a)。
+尽管不明显，但 Turner 对于首选模型的描述与更一般的非单调逻辑（如默认逻辑）相关。有关详细信息，请参阅[Turner 1999](https://plato.stanford.edu/entries/logic-ai/#turner_h:1999a)。
 
 规定行动效果的公理将这些效果视为原因；例如，装载的公理模式如下所示：
 
@@ -494,7 +494,7 @@ Turner 的方法通过赋予因果关系以下形式来避免对偶问题：
 
 ## 5. 因果推理
 
-当然，因果推理本身就是一个重要的主题。例如，它在关于设备的定性推理中起到了作用。赫伯特·西蒙（Herbert Simon）在这个领域的工作可以追溯到 1950 年代：参见[Simon 1952](https://plato.stanford.edu/entries/logic-ai/#simon\*ha:1952a)；[1977](https://plato.stanford.edu/entries/logic-ai/#simon\*ha:1977a)；[Iwasaki & Simon 1986](https://plato.stanford.edu/entries/logic-ai/#iwasaki-simon:1986a)。朱迪亚·珀尔（Judea Pearl）及其学生和合作者负责对因果模型和因果推理进行最持久和成功的研究。珀尔和他的许多合著者是计算机科学家，但统计学家和哲学家也为这个研究项目做出了贡献。我们在这里不再讨论因果网络。请参见[Halpern 2016](https://plato.stanford.edu/entries/logic-ai/#halpern\*jy:2016a)和[Hitchcock 2022](https://plato.stanford.edu/entries/logic-ai/#hitchcock\*c:2022a)。
+当然，因果推理本身就是一个重要的主题。例如，它在关于设备的定性推理中起到了作用。赫伯特·西蒙（Herbert Simon）在这个领域的工作可以追溯到 1950 年代：参见[Simon 1952](https://plato.stanford.edu/entries/logic-ai/#simon_ha:1952a)；[1977](https://plato.stanford.edu/entries/logic-ai/#simon_ha:1977a)；[Iwasaki & Simon 1986](https://plato.stanford.edu/entries/logic-ai/#iwasaki-simon:1986a)。朱迪亚·珀尔（Judea Pearl）及其学生和合作者负责对因果模型和因果推理进行最持久和成功的研究。珀尔和他的许多合著者是计算机科学家，但统计学家和哲学家也为这个研究项目做出了贡献。我们在这里不再讨论因果网络。请参见[Halpern 2016](https://plato.stanford.edu/entries/logic-ai/#halpern_jy:2016a)和[Hitchcock 2022](https://plato.stanford.edu/entries/logic-ai/#hitchcock_c:2022a)。
 
 ## 6. 空间推理
 
@@ -502,25 +502,25 @@ Turner 的方法通过赋予因果关系以下形式来避免对偶问题：
 
 空间推理的人工智能文献非常广泛；有关这里未讨论的一些领域的参考文献，请参见[Stock 1997](https://plato.stanford.edu/entries/logic-ai/#stock:1997a)、[Kapur & Mundy 1988](https://plato.stanford.edu/entries/logic-ai/#kapur\*d-etal:1988a)、[Hammer 1995](https://plato.stanford.edu/entries/logic-ai/#hammer:1995a)、[Wilson 1998](https://plato.stanford.edu/entries/logic-ai/#wilson\*rh:1998a)、[Osherson & Lasnik 1990](https://plato.stanford.edu/entries/logic-ai/#osherson-lasnik:1990b)、[Renz & Nebel 1999](https://plato.stanford.edu/entries/logic-ai/#renz-nebel:1999a)、[Yeap & Jeffries 1999](https://plato.stanford.edu/entries/logic-ai/#yeap-jeffreys:1999a)、[Chen 1990](https://plato.stanford.edu/entries/logic-ai/#chen\*s:1990a)、[Burger & Bhanu 1992](https://plato.stanford.edu/entries/logic-ai/#burger\*w-bhanu:1992a)、[Allwein & Barwise 1996](https://plato.stanford.edu/entries/logic-ai/#allwein-barwise:1996a)、[Glasgow ](https://plato.stanford.edu/entries/logic-ai/#glasgow-etal:1995a)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#glasgow-etal:1995a)\*​[. 1995](https://plato.stanford.edu/entries/logic-ai/#glasgow-etal:1995a)和[Kosslyn 1990](https://plato.stanford.edu/entries/logic-ai/#kosslyn:1990a)。在这里，我们只讨论与哲学逻辑中的并行工作密切相关的一个趋势。
 
-二十世纪初，Stanisław Leśniewski 在逻辑文献中引入了对空间的定性方法；参见[Leśniewski 1916](https://plato.stanford.edu/entries/logic-ai/#lesniewski:1916a)，该文提出了一个关于物理个体之间的部分-整体关系的_mereology_或定性理论的概念。这种关于区域之间关系的逻辑理论的思想在哲学逻辑中仍然活跃，尽管吸引了相对较少的研究者。哲学文献中的更近期的研究，特别是[Casati & Varzi 1999](https://plato.stanford.edu/entries/logic-ai/#casati-varzi:1999a)、[Simons 1987](https://plato.stanford.edu/entries/logic-ai/#simons\*p:1987a)、[Casati & Varzi 1996](https://plato.stanford.edu/entries/logic-ai/#casati-varzi:1996a)、[Clarke 1981](https://plato.stanford.edu/entries/logic-ai/#clarke\*b:1981a)和[Clarke 1985](https://plato.stanford.edu/entries/logic-ai/#clarke\*b:1985a)，对当前的计算工作产生了影响。
+二十世纪初，Stanisław Leśniewski 在逻辑文献中引入了对空间的定性方法；参见[Leśniewski 1916](https://plato.stanford.edu/entries/logic-ai/#lesniewski:1916a)，该文提出了一个关于物理个体之间的部分-整体关系的_mereology_或定性理论的概念。这种关于区域之间关系的逻辑理论的思想在哲学逻辑中仍然活跃，尽管吸引了相对较少的研究者。哲学文献中的更近期的研究，特别是[Casati & Varzi 1999](https://plato.stanford.edu/entries/logic-ai/#casati-varzi:1999a)、[Simons 1987](https://plato.stanford.edu/entries/logic-ai/#simons_p:1987a)、[Casati & Varzi 1996](https://plato.stanford.edu/entries/logic-ai/#casati-varzi:1996a)、[Clarke 1981](https://plato.stanford.edu/entries/logic-ai/#clarke_b:1981a)和[Clarke 1985](https://plato.stanford.edu/entries/logic-ai/#clarke_b:1985a)，对当前的计算工作产生了影响。
 
 利兹大学的计算机科学家们开发的区域连接演算（RCC）是基于一种原始的空间区域关系的：对于 ，其预期解释是 和 的值的闭包的交集非空。详细信息和参考文献请参见[Cohn ](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)_​_[_. 1997_](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)_和_[_Cohn 1996_](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-:1997a)_。用这个简单的原始概念可以定义的范围令人惊讶，但技术细节很快变得复杂；例如，请参见_[_Gotts 1994_](https://plato.stanford.edu/entries/logic-ai/#gotts:1994a)_和_[_Gotts 1996_](https://plato.stanford.edu/entries/logic-ai/#gotts:1996a)_。_[_Cohn_ ](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)\*​[. 1997](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1997a)中引用的工作描述了基于 RCC 及其扩展的直觉命题逻辑中的约束传播技术和编码作为支持实现推理的方法。基于 RCC 的最新工作涉及表示和推理运动，当然这涉及到空间和时间问题的结合；请参见[Wolter & Zakharyaschev 2000](https://plato.stanford.edu/entries/logic-ai/#wolter-zakharyaschev:2000a)。有关运动的定性理论的更多信息以及其他方法的参考，请参见[Galton 1997](https://plato.stanford.edu/entries/logic-ai/#galton:1997a)。
 
 ## 7. 关于知识的推理
 
-[Hintikka 1962](https://plato.stanford.edu/entries/logic-ai/#hintikka:1962a)是认识逻辑的经典来源，它从模态逻辑中汲取灵感。因此，该工作集中于如何用模态运算符来建模单个主体的态度。由于可能世界语义适应了替代的模态运算符，Hintikka 详细讨论了哪些替代方案适用于知识和信念，并选择了模态逻辑。有关更多背景和后续发展的信息，请参阅[Rendsvig＆Symons 2022](https://plato.stanford.edu/entries/logic-ai/#rendsvig\*r-symons\*j)。而[Laux＆Wansing 1995](https://plato.stanford.edu/entries/logic-ai/#laux-wansing:1995a)则讨论了 1994 年以前的哲学和计算传统。
+[Hintikka 1962](https://plato.stanford.edu/entries/logic-ai/#hintikka:1962a)是认识逻辑的经典来源，它从模态逻辑中汲取灵感。因此，该工作集中于如何用模态运算符来建模单个主体的态度。由于可能世界语义适应了替代的模态运算符，Hintikka 详细讨论了哪些替代方案适用于知识和信念，并选择了模态逻辑。有关更多背景和后续发展的信息，请参阅[Rendsvig＆Symons 2022](https://plato.stanford.edu/entries/logic-ai/#rendsvig_r-symons_j)。而[Laux＆Wansing 1995](https://plato.stanford.edu/entries/logic-ai/#laux-wansing:1995a)则讨论了 1994 年以前的哲学和计算传统。
 
-认识论态度在博弈论以及逻辑人工智能中起着重要作用，并且在这两个应用领域中的工作要么与 Hintikka 的模态方法相平行，要么受其影响。在几篇论文中（包括[McCarthy 1979](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1979c1)），约翰·麦卡锡推荐了一种使用一阶逻辑来形式化知识的方法，但是这种方法明确地量化了个体概念等内容。然而，在这里，我们讨论的是大多数计算机科学家采取的方法，他们与麦卡锡不同，使用模态逻辑，但与 Hintikka 不同，他们专注于多主体情况。
+认识论态度在博弈论以及逻辑人工智能中起着重要作用，并且在这两个应用领域中的工作要么与 Hintikka 的模态方法相平行，要么受其影响。在几篇论文中（包括[McCarthy 1979](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1:1979c1)），约翰·麦卡锡推荐了一种使用一阶逻辑来形式化知识的方法，但是这种方法明确地量化了个体概念等内容。然而，在这里，我们讨论的是大多数计算机科学家采取的方法，他们与麦卡锡不同，使用模态逻辑，但与 Hintikka 不同，他们专注于多主体情况。
 
 [Fagin ](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)_​_[_. 1995_](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)_简化了底层的模态性，使用 表示知识（或者使用 表示信念），但是专注于代理人对彼此态度的看法。这样的逻辑在分布式系统的分析中有直接应用，动态系统通过消息行为实现变化，这些行为根据由通信协议确定的规则修改代理人的知识。多主体认识论逻辑是应用需求为逻辑学做出重要贡献的另一个例子。_[_Fagin_ ](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)\*​[. 1995](https://plato.stanford.edu/entries/logic-ai/#fagin-etal:1995b)是任何对这个主题感兴趣的人必读的重要资料。认识论逻辑的其他应用工作记录在从 1986 年开始的一系列会议的论文集中，其中包括[Halpern 1986](https://plato.stanford.edu/entries/logic-ai/#halpern:1986c)。这些会议记录了哲学家与计算机科学中的逻辑学家之间最成功的合作之一，尽管参与的哲学家群体相对较小。这些会议的重点逐渐从计算机科学转向经济学。
 
-计算机科学家习惯将推理视为符号表示的操作。而正是由于人工智能，有限理性成为一个严肃关注的话题，为哲学和经济学的理想化提供了一种对立面。\[[27](https://plato.stanford.edu/entries/logic-ai/notes.html#note-27)] 因此，你可能会认为，在人工智能领域，认知态度在逻辑推论下的封闭性将不受欢迎。但事实并非如此；在涉及的领域中，可能世界方法不仅是主导理论，而且甚至在机器人应用中得到了提倡；参见[Rosenschein & Kaelbling 1995](https://plato.stanford.edu/entries/logic-ai/#rosenschein\*sj-kaelbling:1995a); [Rosenschein 1989](https://plato.stanford.edu/entries/logic-ai/#rosenschein\*sj:1989a)。然而，超内涵性问题在人工智能文献中得到了研究；参见[Perlis 1985](https://plato.stanford.edu/entries/logic-ai/#perlis:1985a); [Konolige 1986](https://plato.stanford.edu/entries/logic-ai/#konolige:1986a); [Lakemeyer 1997](https://plato.stanford.edu/entries/logic-ai/#lakemeyer:1994a); [Levesque 1984](https://plato.stanford.edu/entries/logic-ai/#levesque:1984b))。尽管人工智能领域对这一主题的研究提供了新的理论和一些新的结果，但尚未出现主导方法。
+计算机科学家习惯将推理视为符号表示的操作。而正是由于人工智能，有限理性成为一个严肃关注的话题，为哲学和经济学的理想化提供了一种对立面。\[[27](https://plato.stanford.edu/entries/logic-ai/notes.html#note-27)] 因此，你可能会认为，在人工智能领域，认知态度在逻辑推论下的封闭性将不受欢迎。但事实并非如此；在涉及的领域中，可能世界方法不仅是主导理论，而且甚至在机器人应用中得到了提倡；参见[Rosenschein & Kaelbling 1995](https://plato.stanford.edu/entries/logic-ai/#rosenschein_sj-kaelbling:1995a); [Rosenschein 1989](https://plato.stanford.edu/entries/logic-ai/#rosenschein_sj:1989a)。然而，超内涵性问题在人工智能文献中得到了研究；参见[Perlis 1985](https://plato.stanford.edu/entries/logic-ai/#perlis:1985a); [Konolige 1986](https://plato.stanford.edu/entries/logic-ai/#konolige:1986a); [Lakemeyer 1997](https://plato.stanford.edu/entries/logic-ai/#lakemeyer:1994a); [Levesque 1984](https://plato.stanford.edu/entries/logic-ai/#levesque:1984b))。尽管人工智能领域对这一主题的研究提供了新的理论和一些新的结果，但尚未出现主导方法。
 
 ## 8. 迈向常识的形式化
 
 约翰·麦卡锡（John McCarthy）明确的长期目标——对常识知识的形式化——被相对较小的人工智能研究者子群体所采纳和追求。更大的一个群体（涉及知识表示、认知机器人和定性物理学的人员）的工作为支持更大目标的专门项目做出了贡献。任何类似于对常识的形式化的工作，远未完成，以至于——如果有可能的话——我们无法猜测何时能够完成这个任务。但至少这个努力已经使我们更好地了解如何开发一种可行的方法来形式化常识的例子和领域，以及如何将更大的问题分解为更可管理的部分。
 
-这个主题的第一本专著，[戴维斯 1991](https://plato.stanford.edu/entries/logic-ai/#davis\*e:1991a)，将这个总体问题分为以下子主题。
+这个主题的第一本专著，[戴维斯 1991](https://plato.stanford.edu/entries/logic-ai/#davis_e:1991a)，将这个总体问题分为以下子主题。
 
 1. 数量和测量
 2. 时间
@@ -530,13 +530,13 @@ Turner 的方法通过赋予因果关系以下形式来避免对偶问题：
 6. 计划和目标
 7. 社会
 
-这些主题中的前四个与定性物理学重叠。有关这个相关子领域的更多信息，请参阅[Weld & de Kleer 1990](https://plato.stanford.edu/entries/logic-ai/#weld-dekleer:1990a)、[Davis 2008](https://plato.stanford.edu/entries/logic-ai/#davis\*e:2008b)和[Forbus 2008](https://plato.stanford.edu/entries/logic-ai/#forbus\*kd:2008b)。
+这些主题中的前四个与定性物理学重叠。有关这个相关子领域的更多信息，请参阅[Weld & de Kleer 1990](https://plato.stanford.edu/entries/logic-ai/#weld-dekleer:1990a)、[Davis 2008](https://plato.stanford.edu/entries/logic-ai/#davis_e:2008b)和[Forbus 2008](https://plato.stanford.edu/entries/logic-ai/#forbus_kd:2008b)。
 
-项目 6 是戴维斯七项中研究最广泛的。[第 4 节](https://plato.stanford.edu/entries/logic-ai/#ReasAbouActiChan)讨论了这项工作的早期阶段。关于规划和目标形成的研究有着丰富的后续历史，后来的工作融入了对自主代理人规划架构的研究。项目 5 和项目 7 的研究较少。虽然人工社会和人工智能架构已经得到了深入研究，但对常识心理学和常识人际推理的形式化工作相对较少。然而，可以参考[Davis 1991](https://plato.stanford.edu/entries/logic-ai/#davis\*e:1991a)和[Hobbs & Gordon 2005](https://plato.stanford.edu/entries/logic-ai/#hobbs-gordon\*a:2005a)。
+项目 6 是戴维斯七项中研究最广泛的。[第 4 节](https://plato.stanford.edu/entries/logic-ai/#ReasAbouActiChan)讨论了这项工作的早期阶段。关于规划和目标形成的研究有着丰富的后续历史，后来的工作融入了对自主代理人规划架构的研究。项目 5 和项目 7 的研究较少。虽然人工社会和人工智能架构已经得到了深入研究，但对常识心理学和常识人际推理的形式化工作相对较少。然而，可以参考[Davis 1991](https://plato.stanford.edu/entries/logic-ai/#davis_e:1991a)和[Hobbs & Gordon 2005](https://plato.stanford.edu/entries/logic-ai/#hobbs-gordon_a:2005a)。
 
-关于常识挑战的书籍详细论述，请参见[Mueller, 2006](https://plato.stanford.edu/entries/logic-ai/#mueller\*et:2006a)。该书超过一半的篇幅用于推理行为和变化。书中还有关于空间和心理状态的简短章节，以及对非单调推理的较长论述。
+关于常识挑战的书籍详细论述，请参见[Mueller, 2006](https://plato.stanford.edu/entries/logic-ai/#mueller_et:2006a)。该书超过一半的篇幅用于推理行为和变化。书中还有关于空间和心理状态的简短章节，以及对非单调推理的较长论述。
 
-计算机科学的研究几乎完全受到资金的驱动。常识推理的形式化从未得到过大量的资金支持，但直到约翰·麦卡锡在 2011 年去世之前，仍有少量的资金可用。常识兴趣小组在 1998 年、2001 年、2003 年、2005 年、2007 年和 2009 年定期举行会议。2003 年会议上提交的许多论文在 2004 年以扩展形式收集在《人工智能》第 153 卷中。[戴维斯和莫根斯特恩 2004](https://plato.stanford.edu/entries/logic-ai/#davis\*e-morgenstern:2004a)是这个系列的引言，提供了对常识形式化和常识推理机械化研究的有用调查和赞赏。[常识问题页面](http://www-formal.stanford.edu/leora/commonsense/)仍在维护，但从 2010 年至今，该领域的活动一直较为缓慢，除了相关的知识表示研究。
+计算机科学的研究几乎完全受到资金的驱动。常识推理的形式化从未得到过大量的资金支持，但直到约翰·麦卡锡在 2011 年去世之前，仍有少量的资金可用。常识兴趣小组在 1998 年、2001 年、2003 年、2005 年、2007 年和 2009 年定期举行会议。2003 年会议上提交的许多论文在 2004 年以扩展形式收集在《人工智能》第 153 卷中。[戴维斯和莫根斯特恩 2004](https://plato.stanford.edu/entries/logic-ai/#davis_e-morgenstern:2004a)是这个系列的引言，提供了对常识形式化和常识推理机械化研究的有用调查和赞赏。[常识问题页面](http://www-formal.stanford.edu/leora/commonsense/)仍在维护，但从 2010 年至今，该领域的活动一直较为缓慢，除了相关的知识表示研究。
 
 借鉴计算机科学其他领域的思想，常识社区试图开发一系列“基准问题”：公开一些困难但不是不可能解决的问题，并鼓励解决方案的创造和比较。迄今为止，可能有最详细文档的问题是欧内斯特·戴维斯的“打蛋问题”。在[常识问题页面](http://www-formal.stanford.edu/leora/commonsense/)中，问题被表述如下。
 
@@ -568,7 +568,7 @@ _变体：_ 如果厨师将鸡蛋迅速撞击会发生什么？如果非常缓�
 
 ### 9.2 非单调继承
 
-当允许将一个领域组织成层次结构并允许有例外时，会出现更复杂的逻辑问题。探索如何使分类逻辑非单调是一种处理这个主题的方法；但是，_非单调继承_是一个独立的主题。尽管与非单调逻辑有很强的关联，非单调继承更多地依赖于基于图形的表示，而不是传统的逻辑思想，并且似乎提供了一种更细粒度的非单调推理方法，引发了全新的问题，并且很快变得棘手。因此，非单调继承系统往往表达能力较弱，并且它们与更强大的非单调逻辑之间的关系从未完全澄清。有关此主题的背景，请参阅[Thomason 1992](https://plato.stanford.edu/entries/logic-ai/#thomason\*rh:1992a)和[Horty 1994](https://plato.stanford.edu/entries/logic-ai/#horty:1994a)。
+当允许将一个领域组织成层次结构并允许有例外时，会出现更复杂的逻辑问题。探索如何使分类逻辑非单调是一种处理这个主题的方法；但是，_非单调继承_是一个独立的主题。尽管与非单调逻辑有很强的关联，非单调继承更多地依赖于基于图形的表示，而不是传统的逻辑思想，并且似乎提供了一种更细粒度的非单调推理方法，引发了全新的问题，并且很快变得棘手。因此，非单调继承系统往往表达能力较弱，并且它们与更强大的非单调逻辑之间的关系从未完全澄清。有关此主题的背景，请参阅[Thomason 1992](https://plato.stanford.edu/entries/logic-ai/#thomason_rh:1992a)和[Horty 1994](https://plato.stanford.edu/entries/logic-ai/#horty:1994a)。
 
 ## 10. 上下文推理
 
@@ -576,13 +576,13 @@ _变体：_ 如果厨师将鸡蛋迅速撞击会发生什么？如果非常缓�
 
 人工智能领域对表示大型和明显异构领域以及整合不同知识源的关注，以及对形式化常识的兴趣（如上文[2.2 节](https://plato.stanford.edu/entries/logic-ai/#FormCommSens)所讨论的），导致人工智能社区对更明确地考虑语境的形式化语言产生了兴趣。
 
-在[麦卡锡 1993b](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1:1993b)中，麦卡锡推荐研究包含一个构造的语言
+在[麦卡锡 1993b](https://plato.stanford.edu/entries/logic-ai/#mccarthy_j1:1993b)中，麦卡锡推荐研究包含一个构造的语言
 
 其中 被读作“是真的”。这类似于情境演算的 构造，但现在 代表一个上下文，而 是一个可能复杂的命题表示，许多人（包括麦卡锡）认为它指的是一个句子。
 
 这里既有模态逻辑的类比，也有带有明确真值谓词的语言。但是，对于上下文逻辑的应用所设想的机会和问题在很多方面都是新的。在麦卡锡最初的建议之后，关于上下文逻辑的研究包括[McCarthy & Buvac 1998](https://plato.stanford.edu/entries/logic-ai/#mccarthy\*j1-buvac:1995a2)、[Guha 1991](https://plato.stanford.edu/entries/logic-ai/#guha:1991a)，以及会议论文集[Akman ](https://plato.stanford.edu/entries/logic-ai/#akman-etal:2001a)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#akman-etal:2001a)_​_[_. 2001_](https://plato.stanford.edu/entries/logic-ai/#akman-etal:2001a)_和_[_Bouquet_ ](https://plato.stanford.edu/entries/logic-ai/#bouquet-etal:1999a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#bouquet-etal:1999a)\*​[. 1999](https://plato.stanford.edu/entries/logic-ai/#bouquet-etal:1999a)中的一些论文。关于麦卡锡建议所激发的 Richard Montague 的内涵逻辑的扩展，请参见[Thomason 2003](https://plato.stanford.edu/entries/logic-ai/#thomason\*rh:2003a)和[2005](https://plato.stanford.edu/entries/logic-ai/#thomason\*rh:2005a)。
 
-由于某种原因，关于上下文明确形式化的研究在计算机界并没有得到深入的追求，但是对于信息整合的应用，请参见[Snidaro 2019](https://plato.stanford.edu/entries/logic-ai/#snidaro\*l-etal:2019a)。
+由于某种原因，关于上下文明确形式化的研究在计算机界并没有得到深入的追求，但是对于信息整合的应用，请参见[Snidaro 2019](https://plato.stanford.edu/entries/logic-ai/#snidaro_l-etal:2019a)。
 
 哲学对于语境的兴趣，尤其是对语境与命题态度和情态动词的相互作用的兴趣，仍然很强烈；但是，麦卡锡设想的非常普遍的语境逻辑框架尚未被哲学家们采纳。
 
@@ -598,7 +598,7 @@ _变体：_ 如果厨师将鸡蛋迅速撞击会发生什么？如果非常缓�
 
 ## 12. 阅读材料
 
-[Minker 2000b](https://plato.stanford.edu/entries/logic-ai/#minker:2000b) 是一本关于基于逻辑的人工智能领域的综合性调研论文集，包括对文献的广泛引用和原创贡献。杰克·明克尔（Jack Minker）的引言，[Minker 2000a](https://plato.stanford.edu/entries/logic-ai/#minker:2000a)，对该领域提供了有用的导向。对于希望进一步研究这个主题的读者来说，这本书是一个很好的起点。[Brachman & Levesque 2004](https://plato.stanford.edu/entries/logic-ai/#brachman-levesque:2004a) 以教科书的形式介绍了知识表示领域。[Davis 1991](https://plato.stanford.edu/entries/logic-ai/#davis\*e:1991a) 和 [Mueller 2006](https://plato.stanford.edu/entries/logic-ai/#mueller\*et:2006a) 是关于形式化常识推理这一具有挑战性问题的专著。[Straßer & Antonelli 2012](https://plato.stanford.edu/entries/logic-ai/#strasser\*c-antonelli\*ga:2019a) 是对非单调逻辑感兴趣的读者的良好入门点，而 [Shanahan 2009](https://plato.stanford.edu/entries/logic-ai/#shanahan:2009a) 则是对框架问题的有用讨论。[Wooldridge 2000](https://plato.stanford.edu/entries/logic-ai/#wooldridge\*mj:2000a) 讨论了理性代理的逻辑形式化。
+[Minker 2000b](https://plato.stanford.edu/entries/logic-ai/#minker:2000b) 是一本关于基于逻辑的人工智能领域的综合性调研论文集，包括对文献的广泛引用和原创贡献。杰克·明克尔（Jack Minker）的引言，[Minker 2000a](https://plato.stanford.edu/entries/logic-ai/#minker:2000a)，对该领域提供了有用的导向。对于希望进一步研究这个主题的读者来说，这本书是一个很好的起点。[Brachman & Levesque 2004](https://plato.stanford.edu/entries/logic-ai/#brachman-levesque:2004a) 以教科书的形式介绍了知识表示领域。[Davis 1991](https://plato.stanford.edu/entries/logic-ai/#davis_e:1991a) 和 [Mueller 2006](https://plato.stanford.edu/entries/logic-ai/#mueller_et:2006a) 是关于形式化常识推理这一具有挑战性问题的专著。[Straßer & Antonelli 2012](https://plato.stanford.edu/entries/logic-ai/#strasser_c-antonelli_ga:2019a) 是对非单调逻辑感兴趣的读者的良好入门点，而 [Shanahan 2009](https://plato.stanford.edu/entries/logic-ai/#shanahan:2009a) 则是对框架问题的有用讨论。[Wooldridge 2000](https://plato.stanford.edu/entries/logic-ai/#wooldridge_mj:2000a) 讨论了理性代理的逻辑形式化。
 
 知识表示与推理会议的论文集提供了从 1989 年至今人工智能领域逻辑研究的最详细记录：[Brachman ](https://plato.stanford.edu/entries/logic-ai/#brachman-etal:1989b)​\*[et al](https://plato.stanford.edu/entries/logic-ai/#brachman-etal:1989b)_​_[_. 1989_](https://plato.stanford.edu/entries/logic-ai/#brachman-etal:1989b)_、_[_Allen_ ](https://plato.stanford.edu/entries/logic-ai/#allen\*jf-etal:1991a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#allen\*jf-etal:1991a)_​_[_. 1991_](https://plato.stanford.edu/entries/logic-ai/#allen\*jf-etal:1991a)_、_[_Nebel_ ](https://plato.stanford.edu/entries/logic-ai/#nebel-etal:1992a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#nebel-etal:1992a)_​_[_. 1992_](https://plato.stanford.edu/entries/logic-ai/#nebel-etal:1992a)_、_[_Doyle_ ](https://plato.stanford.edu/entries/logic-ai/#doyle\*j-etal:1994a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#doyle\*j-etal:1994a)_​_[_. 1994_](https://plato.stanford.edu/entries/logic-ai/#doyle\*j-etal:1994a)_、_[_Aiello_ ](https://plato.stanford.edu/entries/logic-ai/#aiello-etal:1996a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#aiello-etal:1996a)_​_[_. 1996_](https://plato.stanford.edu/entries/logic-ai/#aiello-etal:1996a)_、_[_Cohn_ ](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1998a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1998a)_​_[_. 1998_](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:1998a)_、_[_Cohn_ ](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:2000a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:2000a)_​_[_. 2000_](https://plato.stanford.edu/entries/logic-ai/#cohn\*ag-etal:2000a)_、_[_Fensel_ ](https://plato.stanford.edu/entries/logic-ai/#fensel-etal:2002a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#fensel-etal:2002a)_​_[_. 2002_](https://plato.stanford.edu/entries/logic-ai/#fensel-etal:2002a)_、_[_Dubois_ ](https://plato.stanford.edu/entries/logic-ai/#dubois\*d-etal:2004a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#dubois\*d-etal:2004a)_​_[_. 2004_](https://plato.stanford.edu/entries/logic-ai/#dubois\*d-etal:2004a)_、_[_Doherty_ ](https://plato.stanford.edu/entries/logic-ai/#doherty-etal:2006a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#doherty-etal:2006a)_​_[_. 2006_](https://plato.stanford.edu/entries/logic-ai/#doherty-etal:2006a)_、_[_Brewka & Lang 2008_](https://plato.stanford.edu/entries/logic-ai/#brewka-lang\*j:2008a)_、_[_Lin_ ](https://plato.stanford.edu/entries/logic-ai/#lin\*fz-etal:2010a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#lin\*fz-etal:2010a)_​_[_. 2010_](https://plato.stanford.edu/entries/logic-ai/#lin\*fz-etal:2010a)_、_[_Eiter_ ](https://plato.stanford.edu/entries/logic-ai/#eiter\*t-etal:2012a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#eiter\*t-etal:2012a)_​_[_. 2012_](https://plato.stanford.edu/entries/logic-ai/#eiter\*t-etal:2012a)_、_[_Baral_ ](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2014a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2014a)_​_[_. 2014_](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2014a)_、_[_Baral_ ](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2016a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2016a)_​_[_. 2016_](https://plato.stanford.edu/entries/logic-ai/#baral-etal:2016a)_、_[_Thielscher_ ](https://plato.stanford.edu/entries/logic-ai/#thielscher\*m-etal:2018a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#thielscher\*m-etal:2018a)_​_[_. 2018_](https://plato.stanford.edu/entries/logic-ai/#thielscher\*m-etal:2018a)_、_[_Calvanese_ ](https://plato.stanford.edu/entries/logic-ai/#calvanese\*d-etal:2020a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#calvanese\*d-etal:2020a)_​_[_. 2020_](https://plato.stanford.edu/entries/logic-ai/#calvanese\*d-etal:2020a)_、_[_Bienvenu_ ](https://plato.stanford.edu/entries/logic-ai/#bienvenu\*m-etal:2021a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#bienvenu\*m-etal:2021a)_​_[_. 2021_](https://plato.stanford.edu/entries/logic-ai/#bienvenu\*m-etal:2021a)_和_[_Kern-Isberner_ ](https://plato.stanford.edu/entries/logic-ai/#kernisberner\*g-etal:2022a)_​_[et al](https://plato.stanford.edu/entries/logic-ai/#kernisberner\*g-etal:2022a)\*​[. 2022](https://plato.stanford.edu/entries/logic-ai/#kernisberner\*g-etal:2022a)。
 

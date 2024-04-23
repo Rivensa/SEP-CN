@@ -16,7 +16,7 @@ _首次发表于 2006 年 1 月 11 日；实质性修订于 2023 年 3 月 7 日
 * [8. 亚里士多德术语词汇表](https://plato.stanford.edu/entries/aristotle-causality/#GlosArisTerm)
 * [参考文献](https://plato.stanford.edu/entries/aristotle-causality/#Bib)
 * [总体概述](https://plato.stanford.edu/entries/aristotle-causality/#GeneSurv)
-* [四个原因](https://plato.stanford.edu/entries/aristotle-causality/#FourCaus\*1)
+* [四个原因](https://plato.stanford.edu/entries/aristotle-causality/#FourCaus_1)
 * [艺术与自然](https://plato.stanford.edu/entries/aristotle-causality/#ArtNatu)
 * [目的论与必然性](https://plato.stanford.edu/entries/aristotle-causality/#TeleNece)
 * [特殊主题](https://plato.stanford.edu/entries/aristotle-causality/#SpecTopi)

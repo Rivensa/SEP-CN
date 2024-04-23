@@ -522,4 +522,4 @@ This entry was revised, updated, and expanded in 2021 by José L. Falguera and C
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [José L. Falguera](https://doctoradologifici.usal.es/?q=profesor/falguera-lopez-jose-luis) <[_joseluis.falguera@usc.es_](mailto:joseluis%2efalguera%40usc%2ees)>\
 [Concha Martínez-Vidal](https://epimenides.usal.es/?q=profesor/martinez-vidal-concepcion) <[_mconcepcion.martinez@usc.es_](mailto:mconcepcion%2emartinez%40usc%2ees)>\
-[Gideon Rosen](http://philosophy.princeton.edu/index.php?option=com\*faculty\&Itemid=78\&func=fullview\&facultyid=36)
+[Gideon Rosen](http://philosophy.princeton.edu/index.php?option=com_faculty\&Itemid=78\&func=fullview\&facultyid=36)

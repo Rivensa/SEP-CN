@@ -27,7 +27,7 @@ _首次发表于1999年11月29日星期一；实质性修订于2020年2月7日�
   * [5.2 皮尔斯的时间分支逻辑学](https://plato.stanford.edu/entries/logic-temporal/#PeiTemLog)
   * [5.3 Ockhamist 分支时间逻辑](https://plato.stanford.edu/entries/logic-temporal/#OckTemLog)
   * [5.4 Peirceanism 和 Ockhamism 的扩展](https://plato.stanford.edu/entries/logic-temporal/#GenPeiOck)
-  * [5.5 计算树逻辑 CTL 和 CTL\*的随附/监督](https://plato.stanford.edu/entries/logic-temporal/#ComTreLogCTLCTL)
+  * [5.5 计算树逻辑 CTL 和 CTL_的随附/监督](https://plato.stanford.edu/entries/logic-temporal/#ComTreLogCTLCTL)
 * [6. 时间间隔逻辑学](https://plato.stanford.edu/entries/logic-temporal/#IntTemLog)
 * [7. 其他变种的时间逻辑学](https://plato.stanford.edu/entries/logic-temporal/#OthVarTemLog)
   * [7.1 混合时间逻辑学](https://plato.stanford.edu/entries/logic-temporal/#HybTemLog)

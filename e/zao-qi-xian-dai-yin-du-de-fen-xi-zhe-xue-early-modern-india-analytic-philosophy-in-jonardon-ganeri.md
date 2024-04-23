@@ -23,7 +23,7 @@ _首次发表于 2009 年 3 月 10 日星期二；实质性修订于 2023 年 11
   * [哲学心理学概述](https://plato.stanford.edu/entries/early-modern-india/#OvePhiPsy)
   * [5.2 记忆](https://plato.stanford.edu/entries/early-modern-india/#Mem)
   * [怀疑（saṃśaya）](https://plato.stanford.edu/entries/early-modern-india/#DouSas)
-  * [5.4 \*Tarka “Suppositional Thinking”](https://plato.stanford.edu/entries/early-modern-india/#TarSupThi)
+  * [5.4 _Tarka “Suppositional Thinking”](https://plato.stanford.edu/entries/early-modern-india/#TarSupThi)
 * [因果关系与知识的因果理论](https://plato.stanford.edu/entries/early-modern-india/#CauCauTheKno)
   * [因果关系概述](https://plato.stanford.edu/entries/early-modern-india/#OveCau)
   * [6.2 引起的三种类型](https://plato.stanford.edu/entries/early-modern-india/#ThrTypCau)

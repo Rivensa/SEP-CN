@@ -805,7 +805,7 @@ Canela（一只狗）想让你给她一块饼干，所以她一直跟着你。
 ## Other Internet Resources
 
 * Wilson, George, and Samuel Shpall, “Action”, _Stanford Encyclopedia of Philosophy_ (Winter 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = [https://plato.stanford.edu/archives/win2022/entries/action/](https://plato.stanford.edu/archives/win2022/entries/action/). \[This was the previous entry on this topic in the _Stanford Encyclopedia of Philosophy_ – see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=action).]
-* Wasserman, Ryan, 2004, “[Is Causation Extensional?](https://www.academia.edu/27802061/Is\*Causation\*Extensional)”, unpublished paper.
+* Wasserman, Ryan, 2004, “[Is Causation Extensional?](https://www.academia.edu/27802061/Is_Causation_Extensional)”, unpublished paper.
 * [Action Theory](http://www.angelfire.com/ab3/freewill/ActionTheory.html), Andrei Buckareff, University of Rochester
 * [Action Theory](http://actiontheory.free.fr/), Élisabeth Pacherie, Institut Jean-Nicod, CNRS
 

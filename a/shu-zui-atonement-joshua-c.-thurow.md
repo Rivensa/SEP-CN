@@ -680,7 +680,7 @@ Guðmundsdóttir（2010; 2017）认为，一些批评没有充分区分神学被
 * Isaacs, Tracy and Richard Vernon (eds.), 2011, _Accountability for Collective Wrongdoing_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511976780
 * Jeffrey, Anne, 2021, “Is the Atonement Necessary or Fitting?”, _Religious Studies_, 57(1): 148–156. doi:10.1017/S0034412519000507
 * Jeffrey, Steve, Michael Ovey, and Andrew Sach, 2007, _Perceived for our Transgressions_, Wheaton, IL: Crossway Books.
-* John Paul II, 1984, “Reconciliatio et Paenitentia” (Reconciliation and Penance), Apostolic Exhortation, 2 December 1984, Vatican City: Libreria Editrice Vaticana. \[[John Paul II 1984 available online](https://www.vatican.va/content/john-paul-ii/en/apost\*exhortations/documents/hf\*jp-ii\*exh\*02121984\*reconciliatio-et-paenitentia.html).
+* John Paul II, 1984, “Reconciliatio et Paenitentia” (Reconciliation and Penance), Apostolic Exhortation, 2 December 1984, Vatican City: Libreria Editrice Vaticana. \[[John Paul II 1984 available online](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia.html).
 * Johnson, Adam J. (ed.), 2017, _T\&T Clark Companion to Atonement_, (Bloomsbury Companions 5), London ; New York: Bloomsbury T\&T Clark.
 * Johnson, Junius, 2016, _Patristic and Medieval Atonement Theory: A Guide to Research_, Lanham, MD: Rowman & Littlefield.
 * Kant, Immanuel, 1793 \[1998], _Die Religion innerhalb der Grenzen der bloßen Vernunft_, Konigsberg. Translated in _Religion within the Boundaries of Mere Reason: And Other Writings_, Allen W. Wood and George Di Giovanni (eds. & trans.), (Cambridge Texts in the History of Philosophy), Cambridge/New York: Cambridge University Press, 1998.
@@ -827,7 +827,7 @@ Guðmundsdóttir（2010; 2017）认为，一些批评没有充分区分神学被
 * Christian ecclesiastical bodies statements about Jesus’s atonement:
   * [Wesleyan Church: Articles of Religion](https://www.wesleyan.org/about/articles-of-religion)
   * [Resolution on the Necessity of Penal Substitutionary Atonement](https://www.sbc.net/resource-library/resolutions/on-the-necessity-of-penal-substitutionary-atonement/), Southern Baptisti Convention, 1 June 2017, 2017 Annual Meeting, Phoenix, Arizona.
-* [Catechism of the Catholic Church](https://www.vatican.va/archive/ENG0015/\*INDEX.HTM), Vatican City: Libreria Editrice Vaticana, 1993
+* [Catechism of the Catholic Church](https://www.vatican.va/archive/ENG0015/_INDEX.HTM), Vatican City: Libreria Editrice Vaticana, 1993
 
 \[Please contact the author with suggestions.]
 

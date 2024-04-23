@@ -355,7 +355,7 @@ Batson 和他的合作者取得了很大的成就。他们提出了一个复杂�
 * Aquinas, Thomas, 1270 \[1917], _The Summa Theologica_, Vol 2, Part II, New York: Benziger Brothers.
 * Aron, Arthur, Elaine N. Aron, and Danny Smollan, 1992, “Inclusion of Other in the Self Scale and the Structure of Interpersonal Closeness”, _Journal of Personality and Social Psychology_, 63(4): 596–612. doi:10.1037/0022-3514.63.4.596
 * Aron, Arthur, Elaine N. Aron, Michael Tudor, and Greg Nelson, 1991, “Close Relationships as Including Other in the Self”, _Journal of Personality and Social Psychology_, 60(2): 241–253. doi:10.1037/0022-3514.60.2.241
-* Aubrey, John, 1650–1695 \[1949], _Brief Lives_, Oliver Lawson Dick (ed.), Boston: David R. Godine. Aubrey’s sketch of Hobbes is available online at https://mathshistory.st-andrews.ac.uk/Obituaries/Hobbes\*Aubrey/
+* Aubrey, John, 1650–1695 \[1949], _Brief Lives_, Oliver Lawson Dick (ed.), Boston: David R. Godine. Aubrey’s sketch of Hobbes is available online at https://mathshistory.st-andrews.ac.uk/Obituaries/Hobbes_Aubrey/
 * Badhwar, Neera Kapur, 1993, “Altruism Versus Self-Interest: Sometimes a False Dichotomy”, _Social Philosophy and Policy_, 10(1): 90–117. doi:10.1017/S0265052500004039
 * Batson, C. Daniel, 1991, _The Altruism Question: Toward a Social-Psychological Answer_, Hillsdale, NJ: Lawrence Erlbaum Associates.
 * –––, 1998, “Altruism and Prosocial Behavior”, in Daniel T. Gilbert, Susan T. Fiske, and Gardner Lindzey (eds.), _The Handbook of Social Psychology_, volume 2, fourth edition, Boston: McGraw-Hill, pp. 282–316.

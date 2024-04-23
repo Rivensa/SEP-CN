@@ -264,7 +264,7 @@ NDEs 的证据方面可以分为几个类别。首先，有一些离体感官体
 
 ## Other Internet Resources
 
-* Augustine, Keith, 2008, [Hallucinatory Near-Death Experiences](http://www.infidels.org/library/modern/keith\*augustine/HNDEs.html), extensive critical survey of the evidence concerning NDEs.
+* Augustine, Keith, 2008, [Hallucinatory Near-Death Experiences](http://www.infidels.org/library/modern/keith_augustine/HNDEs.html), extensive critical survey of the evidence concerning NDEs.
 * [Near-Death Experience](http://www.skepdic.com/nde.html), a brief presentation of a skeptical view of NDEs.
 
 ## Related Entries

@@ -588,7 +588,7 @@ This bibliography is divided into two parts: Bolzano’s writings and Secondary 
 ## Other Internet Resources
 
 * [Bernard-Bolzano-Gesamtausgabe](http://www.frommann-holzboog.de/editionen/20), frommann-holzboog.
-* [Beiträge zur Bolzano-Forschung](http://www.academia-verlag.de/titel/serie/serie\*Beitraege\*zur\*Bolzano-Forschung.htm), Academia Verlag.
+* [Beiträge zur Bolzano-Forschung](http://www.academia-verlag.de/titel/serie/serie_Beitraege_zur_Bolzano-Forschung.htm), Academia Verlag.
 * [Bernard Bolzano Pages](https://www.plus.ac.at/philosophie-gw-fakultaet/forschung/bernard-bolzano/), Department of Philosophy, Faculty of Arts and Social Sciences, University of Salzburg.
 * [Bernard Bolzano Page](https://mathshistory.st-andrews.ac.uk/Biographies/Bolzano/), Mac Tutor History of Mathematics archive, University of St. Andrews.
 

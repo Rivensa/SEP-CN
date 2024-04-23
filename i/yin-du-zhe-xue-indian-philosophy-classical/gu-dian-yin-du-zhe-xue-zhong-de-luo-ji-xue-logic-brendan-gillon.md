@@ -474,7 +474,7 @@ Dignāga 的最后一项贡献可以在他的《Pramāṇa-samuccaya》的第六
 * ––– (ed.), 2010, _Logic in earliest classical India_, Delhi, Motilal Banarsidass Publishers (_Papers of the 12th World Sanskrit Conference_, 10(2).
 * –––, 2020, “The emergence of the canonical Indian syllogism as revealed by early Chinese Buddhist texts”, in Moriyama (ed.) 2020, chapter 2.
 * Gillon, Brendan S. and Richard P. Hayes (trans.), 2008, “Dharmakīrti on the role of causation in inference as presented in _Pramāṇavārttika Svopajñavṛtti_ 11–38”, _Journal of Indian Philosophy_, 36: 335–404.
-* Gillon, Brendan S. and Katsura Shoryu (trs), 2017, “English Translation of the \*_Upāyahṛdaya_ (pt. 1)”, _Journal of Indian and Tibetan Studies_ (_Indogaku Chibettogaku Kenkyu_), 20: 195–232. URL:http://www.jits-ryukoku.net/.
+* Gillon, Brendan S. and Katsura Shoryu (trs), 2017, “English Translation of the __Upāyahṛdaya_ (pt. 1)”, _Journal of Indian and Tibetan Studies_ (_Indogaku Chibettogaku Kenkyu_), 20: 195–232. URL:http://www.jits-ryukoku.net/.
 * Gillon, Brendan S. and Martha Lyle Love (trs), 1980, “Indian logic revisited: _Nyāyapraveśa_ reviewed”, _Journal of Indian Philosophy_, 8:349–384.
 * Gokhale, Pradīpa P. (ed.) (trans.), 1993, _Vādanyāya of Dharmakīrti: the logic of debate, critically edited and translated with introduction and notes_, Delhi, Sri Satguru Publications.
 * ––– (ed.) (trans.), 1997, _Hetubindu of Dharmakīrti: a Sanskrit version translated with an introduction and notes_, Delhi, Sri Satguru Publications (_Bibliotheca Indo-Buddhica series_: no. 183).

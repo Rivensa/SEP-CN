@@ -228,9 +228,9 @@ _首次发表于 2005 年 3 月 25 日；实质性修订于 2018 年 7 月 30 �
 
 ### Bibliographies
 
-* [Bibliographie critique des \&eeacute;ditions anciennes de J. Bodin](https://projects.iq.harvard.edu/files/bodinproject/files/lxx2\*crahay\*bibliographiecritique\*199212598.pdf), R. Crahay, M.-T. Isaac, and M.-T. Lenger, Gembloux: Académie royale de Belgique, 1992.
+* [Bibliographie critique des \&eeacute;ditions anciennes de J. Bodin](https://projects.iq.harvard.edu/files/bodinproject/files/lxx2_crahay_bibliographiecritique_199212598.pdf), R. Crahay, M.-T. Isaac, and M.-T. Lenger, Gembloux: Académie royale de Belgique, 1992.
 * Couzinet, Marie-Dominique, _Bibliographie des écrivains français: Jean Bodin_, Roma, Paris, Memini, 2001.
-* [Supplemental bibliography of secondary sources on Jean Bodin](https://projects.iq.harvard.edu/files/bodinproject/files/bodin\*bibliography\*oct2016.docx), The Bodin Project.
+* [Supplemental bibliography of secondary sources on Jean Bodin](https://projects.iq.harvard.edu/files/bodinproject/files/bodin_bibliography_oct2016.docx), The Bodin Project.
 * “A Consolidated Bibliography”, in H. A. Lloyd (ed.), in _The Reception of Bodin_, Leiden: Brill, 2013, 417–452.
 
 ### Editions of the _Commonwealth_

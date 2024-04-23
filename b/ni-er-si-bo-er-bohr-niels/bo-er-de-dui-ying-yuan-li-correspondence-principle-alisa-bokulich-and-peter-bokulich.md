@@ -382,7 +382,7 @@ Radder 的主要关注点是将波尔对应原理的各种体现与科学哲学�
 ## Other Internet Resources
 
 * Bokulich, A., 2009, “[Three Puzzles about Bohr’s Correspondence Principle](http://philsci-archive.pitt.edu/4826/),” manuscript at PhilSci Archive.
-* [Niels Bohr’s Nobel Prize Lecture and a brief biography](http://nobelprize.org/nobel\*prizes/physics/laureates/1922/bohr-lecture.html)
+* [Niels Bohr’s Nobel Prize Lecture and a brief biography](http://nobelprize.org/nobel_prizes/physics/laureates/1922/bohr-lecture.html)
 * [Niels Bohr Archive](http://www.nba.nbi.dk/)
 * [Niels Bohr Library and Archives](http://www.aip.org/history/nbl/index.html)
 * [Sources for the History of Quantum Physics (guide to the Archives for History of Quantum Physics)](http://www.amphilsoc.org/guides/ahqp/)

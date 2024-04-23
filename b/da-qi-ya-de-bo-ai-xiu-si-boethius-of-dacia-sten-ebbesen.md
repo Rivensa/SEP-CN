@@ -23,7 +23,7 @@ _首次发布于 2020 年 9 月 7 日_
 * [3.3.3 科学命题的必然性和真实性。Sophisma 测试](https://plato.stanford.edu/entries/boethius-dacia/#NeceTrutSciePropSophTest)
 * [3.4 世界的永恒性](https://plato.stanford.edu/entries/boethius-dacia/#EterWorl)
 * [3.5 占星术和梦境作为未来事件的预测者](https://plato.stanford.edu/entries/boethius-dacia/#AstrDreaPredFutuEven)
-* [3.6 伦理学](https://plato.stanford.edu/entries/boethius-dacia/#Ethi\*1)
+* [3.6 伦理学](https://plato.stanford.edu/entries/boethius-dacia/#Ethi_1)
 * [4. 影响力](https://plato.stanford.edu/entries/boethius-dacia/#Infl)
 * [5. 文学](https://plato.stanford.edu/entries/boethius-dacia/#Lite)
 * [参考文献](https://plato.stanford.edu/entries/boethius-dacia/#Bib)
@@ -292,7 +292,7 @@ See [section 2](https://plato.stanford.edu/entries/boethius-dacia/#Work), above.
 * –––, 2002, _Dansk Middelalderfilosofi_ (Den danske filosofis historie: Vol. 1), København: Gyldendal.
 * –––, 2005, “The Man Who Loved Every: Boethius of Dacia on the Logic and Metaphysics”:, _The Modern Schoolman_, 82(3): 235–250. Reprinted in Ebbesen 2009: ch. 10. doi:10.5840/schoolman200582323
 * –––, 2009, _Topics in Latin Philosophy from the 12th–14th centuries: Collected Essays of Sten Ebbesen, Volume 2_, Aldershot: Ashgate. doi:10.4324/9781315236018
-* –––, 2012, “Boethius de Dacia”, in _Medieval Nordic Literature in Latin_, Stephan Borgehammar, Kartsten Friis-Jensen, Lars Boje Mortensen & Åslaug Ommundsen (eds.),. \[[Ebbesen 2012 available online](https://wiki.app.uib.no/medieval/index.php?title=Boethius\*de\*Dacia)
+* –––, 2012, “Boethius de Dacia”, in _Medieval Nordic Literature in Latin_, Stephan Borgehammar, Kartsten Friis-Jensen, Lars Boje Mortensen & Åslaug Ommundsen (eds.),. \[[Ebbesen 2012 available online](https://wiki.app.uib.no/medieval/index.php?title=Boethius_de_Dacia)
 * –––, 2016, “Habitudines locales”, in L. Cesalli, F. Goubier, and A. de Libera (eds.), _Formal Approaches and Natural Language in Medieval logic, Proceedings of the XIXth European Symposium on Medieval Logic and Semantics_ (Textes et Études du Moyen Âge: Vol. 82), Barcelona–Roma: Fédération des Instituts d’Études Médiévales, pp. 197–215.
 * –––, forthcoming, “What does a scholastic philosopher do when he disagrees with Aristotle? Commentaries on Aristotle’s Divination through dreams”, in C. Thomsen Thörnqvist, and J. Toivanen (eds.), _Forms of Representation in the Aristotelian Tradition: Vol. 2, Dreaming_ (Philosophia Antiqua), Leiden: Brill.
 * Ebbesen, Sten, and Jan Pinborg, 1970, “Studies in the Logical Writings Attributed to Boethius de Dacia”, _Cahiers de l’Institut du Moyen-Âge Grec et Latin_, 3: 1–54.

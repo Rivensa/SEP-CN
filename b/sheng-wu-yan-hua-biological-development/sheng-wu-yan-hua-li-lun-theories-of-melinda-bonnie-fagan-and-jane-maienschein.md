@@ -525,5 +525,5 @@ Jane Maienschien 和 Kate MacCord 提供了一个有启发性的观点，即再�
 The authors would like to thank Alan Love and Karin Ekholm for helpful and constructive comments on a earlier draft. This entry includes portions of the former entry on [Epigenesis and Preformationism (Spring 2017)](https://plato.stanford.edu/archives/spr2017/entries/epigenesis/).
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Melinda Bonnie Fagan](https://faculty.utah.edu/u0976724-MELINDA\*BONNIE\*FAGAN/hm/index.hml) <[_mel.fagan@utah.edu_](mailto:mel%2efagan%40utah%2eedu)>\
+[Melinda Bonnie Fagan](https://faculty.utah.edu/u0976724-MELINDA_BONNIE_FAGAN/hm/index.hml) <[_mel.fagan@utah.edu_](mailto:mel%2efagan%40utah%2eedu)>\
 \[Jane Maienschein

@@ -345,7 +345,7 @@ Richard Sorabji has also produced a sourcebook in three volumes:
 
 ## Other Internet Resources
 
-* [List of the ancient commentators on Aristotle](https://de.wikisource.org/wiki/Commentaria\*in\*Aristotelem\*Graeca), with links to digitalized versions of the _Commentaria in Aristotelem Graeca_ \[CAG].
+* [List of the ancient commentators on Aristotle](https://de.wikisource.org/wiki/Commentaria_in_Aristotelem_Graeca), with links to digitalized versions of the _Commentaria in Aristotelem Graeca_ \[CAG].
 * [Ancient Commentators on Aristotle Project](http://www.ancientcommentators.org.uk/).
 * [Concordances with the _Commentaria in Aristotelem Graeca_](http://www.archimedespalimpsest.org/) \[CAG].
 * [Aristoteles Latinus](http://www.ancientcommentators.org.uk/concordance-with-cag.html), hosted by KU Leuven.

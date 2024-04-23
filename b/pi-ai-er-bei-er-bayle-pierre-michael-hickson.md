@@ -340,4 +340,4 @@ A bibliography of all Bayle’s primary literature and most secondary literature
 [conscience](https://plato.stanford.edu/entries/conscience/) | [Enlightenment](https://plato.stanford.edu/entries/enlightenment/) | [evil: problem of](https://plato.stanford.edu/entries/evil/) | [fideism](https://plato.stanford.edu/entries/fideism/) | [integrity](https://plato.stanford.edu/entries/integrity/) | [toleration](https://plato.stanford.edu/entries/toleration/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Michael Hickson](http://www.trentu.ca/philosophy/faculty\*hickson.php) <[_michaelhickson@trentu.ca_](mailto:michaelhickson%40trentu%2eca)>
+[Michael Hickson](http://www.trentu.ca/philosophy/faculty_hickson.php) <[_michaelhickson@trentu.ca_](mailto:michaelhickson%40trentu%2eca)>

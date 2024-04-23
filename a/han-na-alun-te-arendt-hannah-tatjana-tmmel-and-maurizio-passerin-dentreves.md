@@ -353,7 +353,7 @@ _多元性_，我们现在可以转向这个问题，是行动的另一个核心
 ## Other Internet Resources
 
 * “[Hannah Arendt](http://www.iep.utm.edu/a/arendt.htm)”, entry by Majid Yar, in _The Internet Encyclopedia of Philosophy_
-* “[Hannah Arendt](http://www.wikipedia.org/wiki/Hannah\*Arendt)”, entry in the Wikipedia.
+* “[Hannah Arendt](http://www.wikipedia.org/wiki/Hannah_Arendt)”, entry in the Wikipedia.
 
 ## Related Entries
 

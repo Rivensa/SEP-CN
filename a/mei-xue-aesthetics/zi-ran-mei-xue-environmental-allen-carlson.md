@@ -418,7 +418,7 @@ _首次发布于 2007 年 1 月 29 日；实质性修订于 2019 年 4 月 9 日
 * Welchman, J., 2018, “Aesthetics of Nature, Constitutive Goods, and Environmental Conservation: A Defense of Moderate Formalist Aesthetics,” _Journal of Aesthetics and Art Criticism_, 76: 419–428
 * Welsch, W., 2005, “Sport Viewed Aesthetically, or Even as Art,” in _The Aesthetics of Everyday Life_, A. Light and J. M. Smith (ed.), New York: Columbia University Press.
 * Xue, F., 2008, “The Universal Significance of China Natural Aesthetic Tradition,” _Nankai Journal_ (Humanities and Social Science Edition), 2: 88–96.
-* –––, 2018, “Two Types of a Doctrine of Objectivity in the Aesthetic Appreciation of Nature,” _Contemporary Aesthetics_, Special Volume 6, \[[available online](https://digitalcommons.risd.edu/liberalarts\*contempaesthetics/vol0/iss6/2/)].
+* –––, 2018, “Two Types of a Doctrine of Objectivity in the Aesthetic Appreciation of Nature,” _Contemporary Aesthetics_, Special Volume 6, \[[available online](https://digitalcommons.risd.edu/liberalarts_contempaesthetics/vol0/iss6/2/)].
 * ––– and Carlson, A., 2010, “Scientific Understanding of Environmental Aesthetics in Perspective,” in _Aesthetics International_–_Contemporary International Aestheticians Interviews_, L. Yuedi (ed.), Beijing: China Social Sciences Press.
 * Yuedi, L., 2014, “‘Living Aesthetics’ from the Perspective of the Intercultural Turn,” in _Aesthetics of Everyday Life: East and West_, L. Yuedi and C. L. Carter (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing.
 * ––– and Carter, C. L., (ed.), 2014a, _Aesthetics of Everyday Life: East and West_, Newcastle upon Tyne: Cambridge Scholars Publishing.

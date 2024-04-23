@@ -267,4 +267,4 @@ Sober 认为，即使我们接受了对人类行为的进化观点，也没有�
 [game theory: evolutionary](https://plato.stanford.edu/entries/game-evolutionary/) | [natural selection](https://plato.stanford.edu/entries/natural-selection/) | [natural selection: units and levels of](https://plato.stanford.edu/entries/selection-units/) | [sociobiology](https://plato.stanford.edu/entries/sociobiology/)
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
-[Samir Okasha](http://www.bris.ac.uk/Depts/Philosophy/PHS/PHS\*Staff.html#samir) <[_samir.okasha@bristol.ac.uk_](mailto:samir%2eokasha%40bristol%2eac%2euk)>
+[Samir Okasha](http://www.bris.ac.uk/Depts/Philosophy/PHS/PHS_Staff.html#samir) <[_samir.okasha@bristol.ac.uk_](mailto:samir%2eokasha%40bristol%2eac%2euk)>

@@ -776,7 +776,7 @@ Shimony 在他的几篇著作中（Shimony 1978, 1983, 1984a,b, 1986, 1988, 1989
 
 ## Other Internet Resources
 
-* Goldstein, S., T. Norsen, D. V. Tausk, D. and N. Zanghì, “[Bell’s Theorem](http://www.scholarpedia.org/article/Bell's\*theorem),” _Scholarpedia_ entry.
+* Goldstein, S., T. Norsen, D. V. Tausk, D. and N. Zanghì, “[Bell’s Theorem](http://www.scholarpedia.org/article/Bell's_theorem),” _Scholarpedia_ entry.
 * Nobel, 2022, “[The Nobel Prize in Physics 2022,” at nobelprize.org.](https://www.nobelprize.org/prizes/physics/2022/summary/)
 * [Virzì S., et al., 2023, “](https://www.nobelprize.org/prizes/physics/2022/summary/)[Single-pair measurement of the Bell parameter](https://arxiv.org/abs/2303.04787),” manuscript at arxiv.org.
 

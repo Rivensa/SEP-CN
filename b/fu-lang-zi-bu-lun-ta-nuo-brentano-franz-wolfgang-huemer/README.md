@@ -254,7 +254,7 @@ Meinong 对对象的理论最好可以理解为对布伦塔诺解释中本体论
 * _Die Lehre vom richtigen Urteil_, ed. by Franziska Mayer-Hillebrand, Bern: Francke, 1956.
 * _Meine letzten Wünsche für Österreich_, Stuttgart: Cotta, 1895. \[[Available online](http://www.archive.org/details/meineletztenwns00brengoog)]
 * _Philosophische Untersuchungen zu Raum, Zeit und Kontinuum_, ed. by Stephan Körner and Roderick Chisholm, Hamburg: Meiner, 1976.
-* _Die Psychologie des Aristoteles, insbesondere seine Lehre vom Nous Poietikos_, Mainz: Verlag von Franz Kirchheim, 1867. \[[Available online](http://books.google.it/books?id=jc6qm4CwpDEC\&dq=inauthor%3AFranz%20inauthor%3ABrentano\&lr\&as\*drrb\*is=q\&as\*minm\*is=0\&as\*miny\*is\&as\*maxm\*is=0\&as\*maxy\*is\&as\*brr=3\&hl=de\&pg=PP1#v=onepage\&qamp;\&f=false)]
+* _Die Psychologie des Aristoteles, insbesondere seine Lehre vom Nous Poietikos_, Mainz: Verlag von Franz Kirchheim, 1867. \[[Available online](http://books.google.it/books?id=jc6qm4CwpDEC\&dq=inauthor%3AFranz%20inauthor%3ABrentano\&lr\&as_drrb_is=q\&as_minm_is=0\&as_miny_is\&as_maxm_is=0\&as_maxy_is\&as_brr=3\&hl=de\&pg=PP1#v=onepage\&qamp;\&f=false)]
 * _Psychologie vom empirischen Standpunkt_, Leipzig: Duncker & Humblot, 1874. \[[Available online](http://www.archive.org/details/psychologievome02brengoog)]; (2nd, enl. ed. by Oskar Kraus, 1924, Leipzig: Meiner).
 * _Religion und Philosophie_, ed. by Franziska Mayer Hillebrand, Bern: Francke, 1954.
 * _Das Schlechte als Gegenstand dichterischer Dastellung_, Leipzig: & Humblot, 1892. \[[Available online](http://www.archive.org/details/dasschlechteals00brengoog)]
@@ -268,7 +268,7 @@ Meinong 对对象的理论最好可以理解为对布伦塔诺解释中本体论
 * _Vom sinnlichen und noetischen Bewußtsein, (Psychologie vom empirischen Standpukt, vol. 3)_, ed. by Oskar Kraus, Leipzig: Meiner, 1928.
 * _Vom Ursprung sittlicher Erkenntnis_, Leipzig: Dunker & Humblot, 1889 \[[Available online](http://www.archive.org/details/vomursprungsitt00brengoog)], (2nd. ed. by Oskar Kraus, Hamburg: Meiner 1921).
 * _Von der Klassifikation der psychischen Phänomene, (Psychologie vom empirischen Standpunkt, vol. 2)_, Leipzig: Duncker und Humblot, 1911. \[[Available online](http://www.archive.org/details/vonderklassifika00bren)]
-* _Von der mannigfachen Bedeutung des Seienden nach Aristoteles_, Freiburg: Herder, 1862. \[[Available online](http://books.google.it/books?id=4l0-AAAAcAAJ\&dq=inauthor%3Afranz%20inauthor%3ABrentano\&lr\&as\*drrb\*is=q\&as\*minm\*is=0\&as\*miny\*is\&as\*maxm\*is=0\&as\*maxy\*is\&as\*brr=3\&hl=de\&pg=PP1#v=onepage\&q\&f=false)]
+* _Von der mannigfachen Bedeutung des Seienden nach Aristoteles_, Freiburg: Herder, 1862. \[[Available online](http://books.google.it/books?id=4l0-AAAAcAAJ\&dq=inauthor%3Afranz%20inauthor%3ABrentano\&lr\&as_drrb_is=q\&as_minm_is=0\&as_miny_is\&as_maxm_is=0\&as_maxy_is\&as_brr=3\&hl=de\&pg=PP1#v=onepage\&q\&f=false)]
 * _Wahrheit und Evidenz_, ed. by Oskar Kraus, Leipzig: Meiner, 1930.
 * _Was für ein Philosoph manchmal Epoche macht_, Wien: Hartleben, 1876. \[[Available online](http://gallica.bnf.fr/ark:/12148/bpt6k75159j)]
 * _Werkausgabe: sämtliche veröffentlichte Schriften_ (10 vols.), Frankfurt: ontos (in publication).
@@ -349,7 +349,7 @@ Meinong 对对象的理论最好可以理解为对布伦塔诺解释中本体论
 * –––, 2006, “Things and Truths: Brentano and Leśniewski, Ontology and Logic”, in A. Chrudzimski and Dariusz Łukasiewicz (eds.) _Actions, Products, and Things: Brentano and Polish Philosophy_, Frankfurt: Ontos, 83–105.
 * Smith, Barry, 1987, “The Substance of Brentano’s Ontology”, _Topoi_, 6: 39–49. \[[Preprint available online](http://ontology.buffalo.edu/smith/articles/brentano/)]
 * –––, 1988, “The Soul and Its Parts”, _Brentano Studien_, I: 75–88. \[[Preprint available online](http://ontology.buffalo.edu/smith/articles/brentano/)]
-* –––, 1994, _Austrian Philosophy. The Legacy of Franz Brentano_, Chicago: Open Court. \[[Preprint available online](http://ontology.buffalo.edu/smith/book/austrian\*philosophy/)]
+* –––, 1994, _Austrian Philosophy. The Legacy of Franz Brentano_, Chicago: Open Court. \[[Preprint available online](http://ontology.buffalo.edu/smith/book/austrian_philosophy/)]
 * Soldati, Gianfranco, 2005, “Brentano on Inner Perception, Intrinsic Truth and Evidence”, in Maria Elisabeth Reicher and Johann Christian Marek (eds.), _Experience and Analysis_, Vienna: ÖBV & HPT, 63–73.
 * Sorabji, Richard, 1991, “From Aristotle to Brentano: the Development of the Concept of Intentionality”, _Oxford Studies in Philosophy_ (Supplementary Volume), 227–259.
 * Stumpf, Carl, 1919, “Erinnerungen an Franz Brentano”, in Kraus (1919, 85–149). \[[Available online](http://www.archive.org/details/franzbrentanozur00krauuoft)].
@@ -359,7 +359,7 @@ Meinong 对对象的理论最好可以理解为对布伦塔诺解释中本体论
 * Thomasson, Amie, 2000, “After Brentano: A One-Level Theory of Consciousness”, _European Journal of Philosophy_, 8: 190–209.
 * Twardowski, Kazimierz, 1977, _On the Content and Object of Presentations: A Psychological Investigation_, R. Grossmann (trans.), The Hague: Nijhoff.
 * Weingartner, Paul, 1978, “Brentano’s Criticism of the Correspondence Theory of Truth”, _Grazer Philosophische Studien_, 5: 183–97.
-* Zahavi, Dan, 2004, “Back to Brentano”, _Journal of Consciousness Studies_, 11: 66–87, \[[Preprint available online](http://cfs.ku.dk/staff/zahavi-publications/Back\*20to\*20Brentano.pdf)].
+* Zahavi, Dan, 2004, “Back to Brentano”, _Journal of Consciousness Studies_, 11: 66–87, \[[Preprint available online](http://cfs.ku.dk/staff/zahavi-publications/Back_20to_20Brentano.pdf)].
 * –––, 2006, “Two Takes on a One-Level Account of Consciousness”, _Psyche_ 12 (2), \[[Online journal](http://www.theassc.org/files/assc/2639.pdf)].
 
 ## Academic Tools

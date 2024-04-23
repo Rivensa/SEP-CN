@@ -326,10 +326,10 @@ The Philosopher 首先与犹太人辩论，后者奉行“严格遵守”道德�
 * –––, 2004, “Philosophy of Language”, in J. Brower and K. Guilfoy (eds.) 2004, 126–157.
 * King, Peter, 1982, _Peter Abailard and the Problem of Universals in the Twelfth Century_, Ph.D. Dissertation, Philosophy Department, Princeton University.
 * –––, 1992, “Peter Abelard (1079–1142)”, in _The Dictionary of Literary Biography_ (Volume 115: Medieval Philosophers), Jeremiah Hackett (ed.), Detroit/London: Gale Research: 3–14.
-* –––, 1995, “Abelard’s Intentionalist Ethics”, _The Modern Schoolman_, 72: 213–231. \[[Preprint available online](http://individual.utoronto.ca/pking/articles/Abelard\*on\*Ethics.pdf)].
-* –––, 2004, “Metaphysics”, in _The Cambridge Companion to Abelard_, in J. Brower and K. Guilfoy (eds.), 65–125. \[[Preprint available online](http://individual.utoronto.ca/pking/articles/Abelard\*on\*Metaphysics.CC.pdf)].
+* –––, 1995, “Abelard’s Intentionalist Ethics”, _The Modern Schoolman_, 72: 213–231. \[[Preprint available online](http://individual.utoronto.ca/pking/articles/Abelard_on_Ethics.pdf)].
+* –––, 2004, “Metaphysics”, in _The Cambridge Companion to Abelard_, in J. Brower and K. Guilfoy (eds.), 65–125. \[[Preprint available online](http://individual.utoronto.ca/pking/articles/Abelard_on_Metaphysics.CC.pdf)].
 * –––, 2007a, “Abelard on Mental Language”, _The American Catholic Philosophical Quarterly_, 81: 169–187.
-* –––, 2007b, “Abelard’s Answer to Porphyry”, in _Documenti e studi sulla tradizione filosofica medievale_, 18: 249–70. \[[Preprint available online](http://individual.utoronto.ca/pking/articles/Abelard\*on\*Porphyry.pdf)].
+* –––, 2007b, “Abelard’s Answer to Porphyry”, in _Documenti e studi sulla tradizione filosofica medievale_, 18: 249–70. \[[Preprint available online](http://individual.utoronto.ca/pking/articles/Abelard_on_Porphyry.pdf)].
 * Kretzmann, Norman, 1982, “The Culmination of the Old Logic in Peter Abelard”, in _Renaissance and Renewal in the Twelfth Century_, R. L. Benson and J. Constable (eds.), Cambridge, MA: Harvard University Press, 488–511.
 * Lenz, Martin, 2005, “Peculiar Perfection: Peter Abelard on Propositional Attitudes”, _Journal of the History of Philosophy_, 43: 377–386.
 * –––, 2007, “Are Thoughts and Sentences Compositional? A Controversy between Abelard and a Pupil of Alberic on the Reconciliation of Ancient Theses on Mind and Language”, _Vivarium_, 45: 169–188.
@@ -378,4 +378,4 @@ The Philosopher 首先与犹太人辩论，后者奉行“严格遵守”道德�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Peter King](http://individual.utoronto.ca/pking/)\
-[Andrew Arlig](http://www.brooklyn.cuny.edu/web/academics/faculty/faculty\*profile.jsp?faculty=641) <[_aarlig@brooklyn.cuny.edu_](mailto:aarlig%40brooklyn%2ecuny%2eedu)>
+[Andrew Arlig](http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=641) <[_aarlig@brooklyn.cuny.edu_](mailto:aarlig%40brooklyn%2ecuny%2eedu)>

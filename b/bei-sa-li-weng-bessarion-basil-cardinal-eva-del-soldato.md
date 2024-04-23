@@ -142,7 +142,7 @@ Other works by Bessarion, including many of his letters, have been edited by Moh
 * Karamanolis, George, 2002, “Plethon and Scholarios on Aristotle”, in Katerina Ierodiakonou (ed.), _Byzantine Philosophy and its Ancient Sources_, Oxford: Clarendon Press, pp. 253–282.
 * –––, 2011, “Basil Bessarion”, in _Encyclopedia of Medieval Philosophy_, H. Lagerlund (ed.), London: Springer, pp. 145–147. doi:10.1007/978-1-4020-9729-4\*77
 * Kraye, Jill and Martin Davies, 2011, “Cardinal Bessarion and Ludovico Saccano”, in Philippa Jackson and Guido Rebecchini (eds.), _Mantova e il Rinascimento Italiano: Studi in onore di David S. Chambers_, Mantua: Sometti, pp. 225–238.
-* Labowsky, Lotte, 1967, “Bessarione”, in _Dizionario biografico degli Italiani_, Rome: Istituto dell’Enciclopedia Italiana, 9: 686–696. \[[Labowsky 1967 available online](http://www.treccani.it/enciclopedia/bessarione\*\(Dizionario-Biografico\)/)]
+* Labowsky, Lotte, 1967, “Bessarione”, in _Dizionario biografico degli Italiani_, Rome: Istituto dell’Enciclopedia Italiana, 9: 686–696. \[[Labowsky 1967 available online](http://www.treccani.it/enciclopedia/bessarione_\(Dizionario-Biografico\)/)]
 * –––, 1979, _Bessarion’s Library and the Biblioteca Marciana: Six Early Inventories_, Rome: Edizioni di Storia e Letteratura.
 * Lamers, Hans, 2015, _Greece Reinvented: Transformations of Byzantine Hellenism in Renaissance Italy_, Leiden: Brill. doi:10.1163/9789004303799
 * Maier, Anneliese, 1982, _On the Threshold of Exact Science: Selected Writings of Anneliese Maier on Late Medieval Natural Philosophy_, Steven D. Sargent (ed. and trans.), Philadelphia: University of Pennsylvania Press.
