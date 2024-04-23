@@ -4,21 +4,7 @@
 
 威廉姆·斯坦利·杰文斯（1835-1882）是一位经济学家和哲学家，预示了 20 世纪的几个发展。他是“边际革命”的主要贡献者之一，这场革命改变了经济理论，并将古典经济学转变为新古典经济学。他是第一个构建指数的经济学家，并对实证方法的发展以及社会科学中统计学和计量经济学的应用产生了巨大影响。他的哲学可以看作是逻辑经验主义的先驱，但由于他逻辑的特殊形式，他没有太多直接的追随者。他的逻辑教科书在课堂上被广泛使用，并多次重印。
 
-* [ 1. 传记](https://plato.stanford.edu/entries/william-jevons/#Bio)
-* [2. 思维定律](https://plato.stanford.edu/entries/william-jevons/#LawTho)
-* [ 3. 逻辑](https://plato.stanford.edu/entries/william-jevons/#Log)
-* [4. 数学哲学，概率与统计理论](https://plato.stanford.edu/entries/william-jevons/#MatTheProSta)
-* [5. 经济学哲学](https://plato.stanford.edu/entries/william-jevons/#Eco)
-* [6. Unitarianism and Evolutionism](https://plato.stanford.edu/entries/william-jevons/#UniEvo)
-* [7. 经济和社会政策的影响](https://plato.stanford.edu/entries/william-jevons/#ImpForEcoSocPol)
-* [ 参考书目](https://plato.stanford.edu/entries/william-jevons/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/william-jevons/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/william-jevons/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/william-jevons/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/william-jevons/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/william-jevons/#Rel)
-
+ 
 ---
 
 ## 1. 传记

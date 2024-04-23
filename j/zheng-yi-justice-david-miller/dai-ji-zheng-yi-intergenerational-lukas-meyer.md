@@ -6,38 +6,7 @@
 
 对未来人我们应该承担的义务的讨论可以追溯到古代（Auerbach 1995: 27–35），古代哲学为代际伦理学提供了资源和洞见（Lane 2012）。在功利主义传统中的重要贡献包括对未来有感知的生物的道德地位的分析（见，例如，Sidgwick 1907 [1981: 414]），最佳储蓄的分析（Ramsey 1928，参见 Ramsey 和代际福利经济学的条目），以及繁殖义务的分析（Narveson 1967；见§2.2）。在正义理论中，我们对未来人的义务的第一个系统性阐述归功于约翰·罗尔斯（见§4.4/ §4.5）。德里克·帕菲特的工作定义了我们如何能够和应该与未来人打交道的问题（尤其见§3）。
 
-* [1. 代际关系与同代人之间的关系有何不同](https://plato.stanford.edu/entries/justice-intergenerational/#HowInteRelaDiffRelaAmonCont)
-* [2. 未来人与现在人之间的代际正义权利](https://plato.stanford.edu/entries/justice-intergenerational/#RighFutuPeopVisVisPresLiviPeop)
-
-  * [2.1 对未来人是否拥有权利的疑虑](https://plato.stanford.edu/entries/justice-intergenerational/#DoubAbouPossFutuPeopHaviRigh)
-  * [2.2 存在权利吗？](https://plato.stanford.edu/entries/justice-intergenerational/#RighNonExis)
-* [3. 由于未来人对我们的决策的不确定性而没有权利？](https://plato.stanford.edu/entries/justice-intergenerational/#NoRighDueContFutuPeopUponOurDeci)
-
-  * [3.1 对“非身份问题”的回应](https://plato.stanford.edu/entries/justice-intergenerational/#RespNonIdenProb)
-  * [3.2 Derek Parfit 的无差异观和伤害的分离概念](https://plato.stanford.edu/entries/justice-intergenerational/#DereParfNoDiffViewDisjNotiHarm)
-* [4. 如何确定阈值](https://plato.stanford.edu/entries/justice-intergenerational/#HowSpecThre)
-
-  * [4.1 通过平等考虑确定阈值](https://plato.stanford.edu/entries/justice-intergenerational/#SpecThreEgalCons)
-  * [4.2 通过优先主义推理确定阈值](https://plato.stanford.edu/entries/justice-intergenerational/#SpecThrePrioReas)
-  * [4.3 将阈值确定为足够主义标准](https://plato.stanford.edu/entries/justice-intergenerational/#SpecThreSuffStan)
-  * [4.4 关于代际正义的货币化](https://plato.stanford.edu/entries/justice-intergenerational/#CurrInteJust)
-  * [4.5 Rawls 的公正储蓄原则](https://plato.stanford.edu/entries/justice-intergenerational/#RawlJustSaviPrin)
-  * [4.6 权利为基础的观点的局限性：对未来的责任](https://plato.stanford.edu/entries/justice-intergenerational/#LimiRighBaseAccoDutiTowaFutu)
-* [5. 过去错误的重要性](https://plato.stanford.edu/entries/justice-intergenerational/#SignPastWron)
-
-  * [5.1 非身份问题和索赔](https://plato.stanford.edu/entries/justice-intergenerational/#NonIdenProbClaiComp)
-  * [5.2 过去不公正行为的伤害和补偿的共同理解](https://plato.stanford.edu/entries/justice-intergenerational/#CommUndeHarmCompForPastInju)
-  * [5.3 代际正义的超越历史不公正行为](https://plato.stanford.edu/entries/justice-intergenerational/#SupeHistInju)
-  * [ 5.4 生存义务](https://plato.stanford.edu/entries/justice-intergenerational/#SurvDuti)
-  * [5.5 在履行对死者的生存责任时进行象征性补偿行为](https://plato.stanford.edu/entries/justice-intergenerational/#CarrOutActsSymbCompFulfSurvDutyTowaDeadVict)
-* [ 6. 结论](https://plato.stanford.edu/entries/justice-intergenerational/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/justice-intergenerational/#Bib)
-
-  * [ 编辑的集合](https://plato.stanford.edu/entries/justice-intergenerational/#EditColl)
-  * [ 引用的文献](https://plato.stanford.edu/entries/justice-intergenerational/#CiteLite)
-* [ 学术工具](https://plato.stanford.edu/entries/justice-intergenerational/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justice-intergenerational/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justice-intergenerational/#Rel)
+ 
 
 ---
 

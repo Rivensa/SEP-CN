@@ -3,32 +3,7 @@
 _首次发表于2011年8月18日，实质性修订于2020年7月22日。_
 
 维泰博的詹姆斯（约 1255 年-1308 年）是 13 世纪最后一个季度活跃的一批重要神学家之一，与戈弗雷·冯坦、亨利·根特和罗马的吉尔斯并列，他经常讨论这三位作者的观点，并经常与他们意见不合。尽管詹姆斯明显受到圣奥古斯丁的工作和观点的影响，但他是一个独立思考者，他的独创性源于他对亚里士多德的希腊和阿拉伯评论家的细致阅读。在几个问题上，例如认知、自我对上帝的爱、精神和世俗权力之间的关系，詹姆斯持有引人注目的独特和常常引起争议的立场。
-
-* [1. 生平和著作](https://plato.stanford.edu/entries/james-viterbo/#LifWri)
-* [2. 哲学神学](https://plato.stanford.edu/entries/james-viterbo/#PhiThe)
-  * [2.1 神学作为一门实践科学](https://plato.stanford.edu/entries/james-viterbo/#ThePraSci)
-  * [2.2 神圣的力量](https://plato.stanford.edu/entries/james-viterbo/#DivPow)
-  * [2.3 神圣的观念](https://plato.stanford.edu/entries/james-viterbo/#DivIde)
-* [3. 形而上学](https://plato.stanford.edu/entries/james-viterbo/#Met)
-  * [3.1 存有的类比](https://plato.stanford.edu/entries/james-viterbo/#Ana)
-  * [3.2 存有与本质的区别](https://plato.stanford.edu/entries/james-viterbo/#DisBeiEss)
-  * [3.3 关系](https://plato.stanford.edu/entries/james-viterbo/#Relations)
-  * [3.4 个体化](https://plato.stanford.edu/entries/james-viterbo/#Ind)
-* [4. 自然哲学（种子理论）](https://plato.stanford.edu/entries/james-viterbo/#NatDocSemRea)
-* [5. 灵魂及其能力](https://plato.stanford.edu/entries/james-viterbo/#SouPow)
-* [6. 认知](https://plato.stanford.edu/entries/james-viterbo/#Cog)
-* [7. 伦理学](https://plato.stanford.edu/entries/james-viterbo/#Eth)
-  * [7.1 自由意志](https://plato.stanford.edu/entries/james-viterbo/#FreWil)
-  * [7.2 美德的联系](https://plato.stanford.edu/entries/james-viterbo/#ConVir)
-  * [7.3 爱自己 vs. 爱上帝](https://plato.stanford.edu/entries/james-viterbo/#LovSelVsLovGod)
-* [8. 政治思想](https://plato.stanford.edu/entries/james-viterbo/#PolTho)
-* [参考书目](https://plato.stanford.edu/entries/james-viterbo/#Bib)
-  * [维泰博的詹姆斯作品的现代版本](https://plato.stanford.edu/entries/james-viterbo/#ModEdiJamWor)
-  * [二次文献](https://plato.stanford.edu/entries/james-viterbo/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/james-viterbo/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/james-viterbo/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/james-viterbo/#Rel)
-
+ 
 ***
 
 ## 1. 生平与著作

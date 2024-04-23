@@ -8,30 +8,7 @@
 
 基于福利原则的倡导者（其中最著名的是功利主义）不认为分配的主要关注点应该是物质商品和服务。他们认为物质商品和服务没有内在价值，只有在增加福利的程度上才有价值。因此，他们认为，分配原则应该根据它们对福利的影响来设计和评估，无论是最大化还是分配。相比之下，自由主义原则的倡导者通常批评任何需要追求特定“模式”的分配理想，例如福利或物质商品的最大化或平等。他们认为追求这样的模式与自由或自我所有权的更重要的道德要求相冲突。最后，对现有分配原则的女权主义批评指出它们往往忽视了妇女的特定情况，因此女权主义者倾向于主张更加关注事实的原则，例如妇女通常对抚养子女负有主要责任，并且平均而言，在市场经济中花费的时间比男性少。
 
-* [1. 分配原则的范围和作用](https://plato.stanford.edu/entries/justice-distributive/#Scope)
-* [2. 严格平等主义](https://plato.stanford.edu/entries/justice-distributive/#Strict)
-* [3. 分配正义原则](https://plato.stanford.edu/entries/justice-distributive/#Difference)
-* [4. 机会平等和幸运平等主义](https://plato.stanford.edu/entries/justice-distributive/#Opportunity)
-* [5. 基于福利的原则](https://plato.stanford.edu/entries/justice-distributive/#Welfare)
-* [6. 基于沙漠的原则](https://plato.stanford.edu/entries/justice-distributive/#Desert)
-* [7. 自由主义原则](https://plato.stanford.edu/entries/justice-distributive/#Libertarian)
-* [ 8. 女权主义原则](https://plato.stanford.edu/entries/justice-distributive/#Feminist)
-* [9. 分配正义的方法论和实证信念](https://plato.stanford.edu/entries/justice-distributive/#Methodology)
-* [ 参考文献](https://plato.stanford.edu/entries/justice-distributive/#Bib)
-
-  * [ 严格平等主义](https://plato.stanford.edu/entries/justice-distributive/#StrEga)
-  * [分配正义原则](https://plato.stanford.edu/entries/justice-distributive/#DifPri)
-  * [机会平等和运气平等主义](https://plato.stanford.edu/entries/justice-distributive/#EopPri)
-  * [基于福利的原则](https://plato.stanford.edu/entries/justice-distributive/#WelBasPri)
-  * [ 沙漠原则](https://plato.stanford.edu/entries/justice-distributive/#DesBasPri)
-  * [ 自由主义原则](https://plato.stanford.edu/entries/justice-distributive/#LibPri)
-  * [ 女权主义原则](https://plato.stanford.edu/entries/justice-distributive/#FemPri)
-  * [分配正义的方法论和实证信念](https://plato.stanford.edu/entries/justice-distributive/#MetEmpBelDisJus)
-  * [进一步的理论和一般参考](https://plato.stanford.edu/entries/justice-distributive/#FurTheGenRef)
-  * [扩展参考文献 [补充文件]](https://plato.stanford.edu/entries/justice-distributive/bib.html)
-* [ 学术工具](https://plato.stanford.edu/entries/justice-distributive/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justice-distributive/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justice-distributive/#Rel)
+ 
 
 ---
 

@@ -12,28 +12,7 @@ _首次发表于2000年2月21日，实质性修订于2022年8月5日。_
 
 认识论学家通常区分信念证成和命题证成。粗略地说，当一个人对一个命题有证成（例如，某种理由或证据）时，他就具有命题证成。当一个人不仅对一个命题有证成，而且相信这个命题，并且基于他所具有的证成来相信这个命题时，他就具有信念证成。这种区别适用于基础和非基础信念：在相信 P 的基础上具有基础/非基础证成要求对 P 具有一些基础/非基础证成，并且基于这个证成来相信 P。（虽然这是为了理解信念证成而以命题证成为基础，但有些人更喜欢反过来，以能够获得信念证成的立场来理解具有证成。有关有益的讨论，请参见 Turri 2010 年的文章。）为了便于阐述，我们的讨论大部分是以最自然地涉及信念证成的术语来表述的，例如“证成的信念”，“在相信中具有证成”。然而，即使我们使用这样的术语，我们也关注命题证成（这是信念证成所要求的），并假设在以适当的基础上相信所涉及的其他条件已经满足。（有关基础关系的更多信息，请参见关于认识论基础关系的条目。）
 
-* [1. 基础主义的回归论证](https://plato.stanford.edu/entries/justep-foundational/#RegrArguForFoun)
-* [2. 基础证成的古典分析](https://plato.stanford.edu/entries/justep-foundational/#ClasAnalNoniJust)
-  * [2.1 基础证成作为不可错误的信念](https://plato.stanford.edu/entries/justep-foundational/#NoniJustInfaBeli)
-  * [2.2 基础证成作为不可错误的证成](https://plato.stanford.edu/entries/justep-foundational/#NoniJustInfaJust)
-* [3. 对经典基础主义的反对意见](https://plato.stanford.edu/entries/justep-foundational/#ObjeClasFoun)
-  * [3.1 对内部主义访问的回归问题](https://plato.stanford.edu/entries/justep-foundational/#RegrProbForAcceInte)
-  * [3.2 塞拉斯困境](https://plato.stanford.edu/entries/justep-foundational/#SellDile)
-  * [3.3 对对应和熟悉的怀疑](https://plato.stanford.edu/entries/justep-foundational/#DoubAbouCorrAcqu)
-  * [3.4 怀疑主义的威胁](https://plato.stanford.edu/entries/justep-foundational/#ThreSkep)
-* [4. 基础主义的内在替代方案](https://plato.stanford.edu/entries/justep-foundational/#InteAlteClasFoun)
-* [5. 对古典基础主义的内在主义替代方案的反对意见](https://plato.stanford.edu/entries/justep-foundational/#ObjeInteAlteClasFoun)
-  * [5.1 认知渗透反对意见](https://plato.stanford.edu/entries/justep-foundational/#CognPeneObje)
-* [6. 基础主义的外在主义版本](https://plato.stanford.edu/entries/justep-foundational/#ExteVersFoun)
-* [7. 对基础主义外在主义版本的反对意见](https://plato.stanford.edu/entries/justep-foundational/#ObjeExteVersFoun)
-  * [7.1 对充分性的挑战：Norman 和 Truetemp](https://plato.stanford.edu/entries/justep-foundational/#ChalSuffNormTrue)
-  * [7.2 对必要性的挑战：新邪恶魔问题](https://plato.stanford.edu/entries/justep-foundational/#ChalNeceNewEvilDemoProb)
-* [8. 简易知识问题](https://plato.stanford.edu/entries/justep-foundational/#ProbEasyKnow)
-* [参考书目](https://plato.stanford.edu/entries/justep-foundational/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/justep-foundational/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justep-foundational/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/justep-foundational/#Rel)
-
+ 
 ***
 
 ## 1. 基础主义的回归论证

@@ -6,31 +6,7 @@
 
 在一份传记概述（第 1 节）之后，第 2 至 6 节着重介绍琼斯在哲学逻辑方面的工作，特别是她的重要断言法则和对罗素的批评；第 7 节致力于介绍琼斯对伦理学理论的贡献。最后一节简要概述了女性对早期分析哲学的贡献。
 
-* [ 1. 传记概述](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#BiogSket)
-* [2. 一种新的思维法则](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#NewLawThou)
-
-  * [2.1 断言的悖论](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#ParaPred)
-  * [2.2 身份命题和重要断言](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#IdenPropSignAsse)
-  * [2.3 关于内涵和外延的观察](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#ObseInteExte)
-  * [2.4 应用分析](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#ApplAnal)
-* [3. 与弗雷格和罗素的比较](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#CompFregRuss)
-
-  * [3.1 与弗雷格的比较](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#CompFreg)
-  * [3.2 与罗素的比较](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#CompRuss)
-* [4. 罗素对艾米莉·伊丽莎白·康斯坦茨·琼斯的认可](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#RussRecoJone)
-* [ 5. 交流](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#Exch)
-* [6. 罗素的相关批评](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#RelaCritRuss)
-* [7. 实践理性的二元论](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#DualPracReas)
-* [8. 早期分析哲学中的女性](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#WomeEarlAnalPhil)
-* [ 参考文献](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#PrimSour)
-  * [ 讨论琼斯的作品](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#WorkDiscJone)
-  * [ 其他引用的作品](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#OtheWorkCite)
-* [ 学术工具](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/emily-elizabeth-constance-jones/#Rel)
-
+ 
 ---
 
 ## 1. 传记简介

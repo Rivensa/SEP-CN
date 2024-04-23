@@ -11,40 +11,7 @@
 全球正义问题的日益关注也与对民族主义的地位和价值的增强关注相吻合。这些探索追踪了一些事件，如民族主义冲突蔓延导致广泛的苦难（尤其是在前南斯拉夫和卢旺达），对国家自决的呼声日益重要，例如对巴勒斯坦人或藏人的国家承认，以及分离主义的情况（尤其是魁北克）。在这个领域，全球正义理论家关注一系列重要问题，例如：在什么条件下应该给予国家自决权利主张重要的权重？何时应该将自决权让位于保护人权的关切？民族主义和全球正义的承诺是否兼容？真正的民主只有在国家层面才可能存在，还是在更国际的论坛上也有强大的民主形式？如何将民主理想最好地纳入可辩护的全球制度安排中？世界正义是否可能在没有世界国家的情况下实现？近年来，对气候变化、战争和大流行等存在威胁的反思以及被压迫者的观点如何影响这个子学科的未来，为回答核心问题增添了新的维度，并在该领域内增加了核心问题。
 
 本文的主要目的是为全球正义这一庞大而迅速扩展的领域提供一个导向。这个百科全书中已经有一些条目很好地涵盖了一些核心主题，并将进行交叉引用。但仍然存在许多重要的空白，以及一些缺失的上下文，以了解一些主题如何相互关联。本条目主要旨在解决这些需求。
-
-* [1. 一些定义问题](https://plato.stanford.edu/entries/justice-global/#SomeDefiIssu)
-
-  * [1.1 全球正义和国际正义](https://plato.stanford.edu/entries/justice-global/#GlobInteJust)
-  * [1.2 什么是全球正义理论？](https://plato.stanford.edu/entries/justice-global/#WhatTheoGlobJust)
-  * [1.3 什么时候问题成为全球正义问题？](https://plato.stanford.edu/entries/justice-global/#WhenProbGlobJustProb)
-* [2. 国际和全球事务中行为指导原则](https://plato.stanford.edu/entries/justice-global/#PrinGuidBehaInteGlobMatt)
-
-  * [2.1 Rawls 的《人民法》的影响](https://plato.stanford.edu/entries/justice-global/#InflRawlLawPeop)
-  * [2.2 我们有哪些全球责任？](https://plato.stanford.edu/entries/justice-global/#WhatGlobDutiDoWeHave)
-  * [2.3 全球正义，对非同胞的责任和同胞](https://plato.stanford.edu/entries/justice-global/#CosmDutiNonCompComp)
-  * [2.4 人权实现](https://plato.stanford.edu/entries/justice-global/#HumaRighFulf)
-* [3. 正当使用武力，军事干预及其后果](https://plato.stanford.edu/entries/justice-global/#PropUseForcMiliInteAfte)
-
-  * [3.1 战争与正当行为](https://plato.stanford.edu/entries/justice-global/#WarJustCond)
-  * [3.2 人道主义干预](https://plato.stanford.edu/entries/justice-global/#HumaInte)
-  * [ 3.3 恐怖主义](https://plato.stanford.edu/entries/justice-global/#Terr)
-* [4. 全球经济不公正](https://plato.stanford.edu/entries/justice-global/#GlobEconInju)
-* [5. 全球性别正义](https://plato.stanford.edu/entries/justice-global/#GlobGendJust)
-* [6. 种族与全球正义](https://plato.stanford.edu/entries/justice-global/#RaceGlobJust)
-* [ 7. 移民](https://plato.stanford.edu/entries/justice-global/#Immi)
-* [8. 全球环境问题](https://plato.stanford.edu/entries/justice-global/#GlobEnviIssu)
-* [9. 全球健康问题](https://plato.stanford.edu/entries/justice-global/#GlobHealIssu)
-* [10. 一些跨越多个主题的问题](https://plato.stanford.edu/entries/justice-global/#SomeIssuCutAcroSeveThem)
-
-  * [10.1 自然资源和全球正义](https://plato.stanford.edu/entries/justice-global/#NatuResoGlobJust)
-  * [10.2 分配全球问题的责任](https://plato.stanford.edu/entries/justice-global/#AlloRespForGlobProb)
-  * [10.3 全球领域的权威：我们需要一个世界国家来确保全球正义吗？](https://plato.stanford.edu/entries/justice-global/#AuthGlobDomaDoWeNeedWorlStatSecuGlobJust)
-* [11. 对公共政策、跨学科参与和新方法的贡献](https://plato.stanford.edu/entries/justice-global/#ContPublPoliInteEngaNewMeth)
-* [ 参考文献](https://plato.stanford.edu/entries/justice-global/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/justice-global/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justice-global/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justice-global/#Rel)
-
+ 
 ---
 
 ## 1. 一些定义问题

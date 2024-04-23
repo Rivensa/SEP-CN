@@ -10,28 +10,7 @@
 
 在这里，不是追溯儒学在日本文化中的历史变迁，也不是探索个别学者的思想，而是将儒学作为一种系统的概念话语来定义哲学上关于常识现实世界的大部分言论和思考。特别关注的是儒学对语言、形而上学、认识论、伦理学、心灵、政治理论、教育、灵性和环境的思考。通过这种方式，希望能够揭示儒学作为知识话语的基础。
 
-* [序言：名称与现实](https://plato.stanford.edu/entries/japanese-confucian/#ProlNameReal)
-* [1. 日本儒学的起源和变种](https://plato.stanford.edu/entries/japanese-confucian/#OrigVariConfPhil)
-* [2. 将儒学引入日本：早期发展](https://plato.stanford.edu/entries/japanese-confucian/#IntrConfJapaEarlDeve)
-* [3. 近代儒学：主要哲学主题](https://plato.stanford.edu/entries/japanese-confucian/#EarlModeConfMajoPhilThem)
-
-  * [ 3.1 语言](https://plato.stanford.edu/entries/japanese-confucian/#Lang)
-  * [ 3.2 形而上学](https://plato.stanford.edu/entries/japanese-confucian/#Meta)
-  * [3.3 怀疑和批判精神](https://plato.stanford.edu/entries/japanese-confucian/#DoubCritSpir)
-  * [ 3.4 伦理学](https://plato.stanford.edu/entries/japanese-confucian/#Ethi)
-  * [ 3.5 心灵](https://plato.stanford.edu/entries/japanese-confucian/#Mind)
-  * [ 3.6 人性](https://plato.stanford.edu/entries/japanese-confucian/#HumaNatu)
-  * [ 3.7 政治思想](https://plato.stanford.edu/entries/japanese-confucian/#PoliThou)
-  * [ 3.8 教育](https://plato.stanford.edu/entries/japanese-confucian/#Educ)
-  * [3.9 佛教批判](https://plato.stanford.edu/entries/japanese-confucian/#CritBudd)
-  * [3.10 鬼魂与灵魂](https://plato.stanford.edu/entries/japanese-confucian/#GhosSpir)
-  * [3.11 环境：山脉、河流和森林](https://plato.stanford.edu/entries/japanese-confucian/#EnviMounRiveFore)
-* [4. 现代日本的日本儒学](https://plato.stanford.edu/entries/japanese-confucian/#ConfModeJapa)
-* [ 参考文献](https://plato.stanford.edu/entries/japanese-confucian/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/japanese-confucian/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/japanese-confucian/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/japanese-confucian/#Rel)
-
+ 
 ---
 
 ## 1. 序言：名称与现实

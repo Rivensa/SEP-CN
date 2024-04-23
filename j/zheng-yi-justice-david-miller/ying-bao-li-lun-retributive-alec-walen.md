@@ -10,49 +10,7 @@
 
 应报理论在过去几十年的惩罚理论中起着主导作用，但其中许多特征，尤其是对应得和比例的概念、苦难的规范地位以及报复的最终正当性的辩论仍然存在争议和问题。
 
-* [1. 应报理论的吸引力](https://plato.stanford.edu/entries/justice-retributive/#AppeRetrJust)
-* [2. 背景概念](https://plato.stanford.edu/entries/justice-retributive/#BackConc)
-
-  * [ 2.1 惩罚](https://plato.stanford.edu/entries/justice-retributive/#Puni)
-  * [2.2 相关的错误种类](https://plato.stanford.edu/entries/justice-retributive/#ReleKindWron)
-* [3. 含义和用途范围](https://plato.stanford.edu/entries/justice-retributive/#RangMeanUses)
-
-  * [3.1 应报理论的词源意义](https://plato.stanford.edu/entries/justice-retributive/#EtymMeanRetr)
-  * [3.2 积极的应报理论](https://plato.stanford.edu/entries/justice-retributive/#PosiRetr)
-  * [3.3 应报理论的负面报复主义](https://plato.stanford.edu/entries/justice-retributive/#NegaRetr)
-  * [3.4 限制性报复主义](https://plato.stanford.edu/entries/justice-retributive/#LimiRetr)
-  * [3.5 交流式报复主义](https://plato.stanford.edu/entries/justice-retributive/#CommRetr)
-  * [3.6 应报理论：以同样方式回应的报复](https://plato.stanford.edu/entries/justice-retributive/#LexTaliPaybRespKind)
-  * [3.7 追溯性刑事司法](https://plato.stanford.edu/entries/justice-retributive/#N37RetrCrimJust)
-  * [3.8 升华的复仇](https://plato.stanford.edu/entries/justice-retributive/#SublVeng)
-* [4. 问题范围](https://plato.stanford.edu/entries/justice-retributive/#RangIssu)
-
-  * [ 4.1 沙漠](https://plato.stanford.edu/entries/justice-retributive/#Dese)
-
-    * [4.1.1 沙漠主体](https://plato.stanford.edu/entries/justice-retributive/#DeseSubj)
-    * [4.1.2 沙漠对象](https://plato.stanford.edu/entries/justice-retributive/#DeseObje)
-    * [4.1.3 沙漠基础](https://plato.stanford.edu/entries/justice-retributive/#DeseBasi)
-  * [4.2 谁可以惩罚？](https://plato.stanford.edu/entries/justice-retributive/#WhoMayPuni)
-  * [4.3 痛苦的道德难题](https://plato.stanford.edu/entries/justice-retributive/#MoraPuzzSuff)
-
-    * [4.3.1 痛苦的可变规范价值](https://plato.stanford.edu/entries/justice-retributive/#VariNormValeSuff)
-    * [4.3.2 抽象中的痛苦与通过惩罚而产生的痛苦](https://plato.stanford.edu/entries/justice-retributive/#SuffAbstVersSuffThroPuni)
-    * [4.3.3 主观苦难与预期引起苦难的措施](https://plato.stanford.edu/entries/justice-retributive/#SubjSuffMeasExpeCausSuff)
-  * [ 4.4 相称性](https://plato.stanford.edu/entries/justice-retributive/#Prop)
-  * [4.5 应报理论的力量](https://plato.stanford.edu/entries/justice-retributive/#StreRetrReas)
-  * [4.6 应报后果主义与应报义务论](https://plato.stanford.edu/entries/justice-retributive/#RetrConsVersRetrDeon)
-* [5. 正当性问题](https://plato.stanford.edu/entries/justice-retributive/#QuesJust)
-
-  * [5.1 与我们的审慎判断相一致](https://plato.stanford.edu/entries/justice-retributive/#ConfOurConsJudg)
-  * [5.2 公平和搭便车问题](https://plato.stanford.edu/entries/justice-retributive/#FairFreeRidi)
-  * [5.3 应报理论：通过打败作恶者来维护受害者的权益](https://plato.stanford.edu/entries/justice-retributive/#VindVictDefeWron)
-  * [5.4 传播理论](https://plato.stanford.edu/entries/justice-retributive/#CommTheo)
-* [ 6. 结论](https://plato.stanford.edu/entries/justice-retributive/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/justice-retributive/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/justice-retributive/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justice-retributive/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justice-retributive/#Rel)
-
+ 
 ---
 
 ## 1. 应报理论的吸引力

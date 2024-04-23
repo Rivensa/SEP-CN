@@ -10,43 +10,7 @@
 
 因此，禅宗保持了“非一”和“非二”的立场，即“无位置的位置”，其中“非二”意味着否定将整体分为两个部分的二元立场，而“非一”意味着否定禅修者在冥想中停留在整体中的非二元立场，同时暂停判断。在“非一”和“非二”之间的自由、双边运动，表征了禅宗实现了一个无法局限于二元论或非二元论的第三视角的人格。
 
-* [1. 禅宗术语的含义](https://plato.stanford.edu/entries/japanese-zen/#MeanTermZen)
-* [2. 禅宗的方法：公安练习和坐禅](https://plato.stanford.edu/entries/japanese-zen/#ZensMethKooaPracJustSitt)
-* [3. 修行：一个三步骤的过程](https://plato.stanford.edu/entries/japanese-zen/#PracThreStepProc)
-
-  * [3.1 调整身体](https://plato.stanford.edu/entries/japanese-zen/#AdjuBody)
-  * [3.2 调整呼吸](https://plato.stanford.edu/entries/japanese-zen/#AdjuBrea)
-  * [3.3 调整心态](https://plato.stanford.edu/entries/japanese-zen/#AdjuMind)
-* [4. 禅宗作为反哲学](https://plato.stanford.edu/entries/japanese-zen/#ZenAntiPhil)
-* [5. 克服二元论](https://plato.stanford.edu/entries/japanese-zen/#OverDual)
-
-  * [5.1 不二的逻辑意义](https://plato.stanford.edu/entries/japanese-zen/#LogiMeanNotTwo)
-  * [5.2 不二的认识论意义](https://plato.stanford.edu/entries/japanese-zen/#EpisMeanNotTwo)
-  * [5.3 禅宗对“非二”的意义](https://plato.stanford.edu/entries/japanese-zen/#ZensMeanNotTwo)
-* [6. “非二”的体验意义](https://plato.stanford.edu/entries/japanese-zen/#ExpeMeanNotTwo)
-
-  * [6.1 禅宗的无念和无像](https://plato.stanford.edu/entries/japanese-zen/#ZensNoThouNoImag)
-  * [ 6.2 禅宗的无](https://plato.stanford.edu/entries/japanese-zen/#ZensNoth)
-  * [ 6.3 禅宗的“观”](https://plato.stanford.edu/entries/japanese-zen/#ZenSeei)
-* [7. 禅宗对时间和空间的理解](https://plato.stanford.edu/entries/japanese-zen/#ZensUndeTimeSpac)
-
-  * [7.1 禅宗对于理解时间和空间的经验基础：零时间和零空间](https://plato.stanford.edu/entries/japanese-zen/#ZensExpeFounForUndeTimeSpacZeroTimeZeroSpac)
-  * [7.2 禅宗对于此时此地的理解？](https://plato.stanford.edu/entries/japanese-zen/#ZensUndeHereNow)
-  * [7.3 一个整合的时间和空间](https://plato.stanford.edu/entries/japanese-zen/#InteTimeSpac)
-  * [7.4 出现事物的结构](https://plato.stanford.edu/entries/japanese-zen/#StruThinAppe)
-* [8. 回归日常生活世界：不是一个](https://plato.stanford.edu/entries/japanese-zen/#RetuEverLifeNotOne)
-
-  * [ 8.1 禅宗人士](https://plato.stanford.edu/entries/japanese-zen/#ZenPers)
-  * [ 8.2 禅宗的自由](https://plato.stanford.edu/entries/japanese-zen/#ZensFree)
-* [ 9. 总结](https://plato.stanford.edu/entries/japanese-zen/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/japanese-zen/#Bib)
-
-  * [禅宗大师著作的英文翻译](https://plato.stanford.edu/entries/japanese-zen/#EnglTranWorkZenMast)
-  * [古典禅宗选集的英文翻译](https://plato.stanford.edu/entries/japanese-zen/#EnglTranClasZenAnth)
-  * [ 二次著作](https://plato.stanford.edu/entries/japanese-zen/#SecoWork)
-* [ 学术工具](https://plato.stanford.edu/entries/japanese-zen/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/japanese-zen/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/japanese-zen/#Rel)
+ 
 
 ---
 

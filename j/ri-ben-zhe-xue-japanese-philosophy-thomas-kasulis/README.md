@@ -8,40 +8,7 @@
 
 在这个背景下，本文将日本哲学分为五个部分进行解释。第一部分考虑了日本人传统上如何理解哲学，即作为一种与现实互动的方式（道）而不是一种独立的研究方法。下一部分列举了一些分析模式，这些模式是日本哲学思考方式的标志。第三部分确定了五个有重大影响的日本哲学传统，并解释了每个传统的一些核心思想。第四部分概述了这五个传统在日本历史的四个主要时期中是如何演变和互动的，从古代到现在。第五部分总结了一些在日本哲学中特别强调的主题，这些主题可能对整个哲学领域具有挑战性。
 
-* [1. 哲学作为参与式认知](https://plato.stanford.edu/entries/japanese-philosophy/#PhilEngaKnow)
-* [2. 日本哲学分析的特点](https://plato.stanford.edu/entries/japanese-philosophy/#HallJapaPhilAnal)
-
-  * [ 2.1 内部关系](https://plato.stanford.edu/entries/japanese-philosophy/#InteRela)
-  * [2.2 整体与部分之间的全息关系](https://plato.stanford.edu/entries/japanese-philosophy/#HoloRelaBetwWholPart)
-  * [2.3 同化的形式](https://plato.stanford.edu/entries/japanese-philosophy/#FormAssi)
-* [3. 日本哲学的五个源泉](https://plato.stanford.edu/entries/japanese-philosophy/#FiveFounJapaPhil)
-
-  * [ 3.1 神道](https://plato.stanford.edu/entries/japanese-philosophy/#Shin)
-  * [ 3.2 儒教](https://plato.stanford.edu/entries/japanese-philosophy/#Conf)
-  * [ 3.3 佛教](https://plato.stanford.edu/entries/japanese-philosophy/#Budd)
-  * [3.4 西方学术哲学](https://plato.stanford.edu/entries/japanese-philosophy/#WestAcadPhil)
-  * [3.5 武士道 (武士之道)](https://plato.stanford.edu/entries/japanese-philosophy/#BushWayWarr)
-* [4. 哲学发展和互动的历史时期](https://plato.stanford.edu/entries/japanese-philosophy/#HistPeriPhilDeveInte)
-
-  * [4.1 古代和古典哲学（直到 12 世纪）](https://plato.stanford.edu/entries/japanese-philosophy/#AnciClasPhilUp12thCent)
-  * [4.2 中世纪哲学（12 世纪末至 16 世纪）](https://plato.stanford.edu/entries/japanese-philosophy/#MediPhilLate12thThro16thCent)
-  * [4.3 江户时代哲学（1600 年-1868 年）](https://plato.stanford.edu/entries/japanese-philosophy/#EdoPeriPhil1600)
-  * [4.4 现代（1868 年后）哲学](https://plato.stanford.edu/entries/japanese-philosophy/#ModePost1868Phil)
-* [5. 对整体哲学的可能贡献](https://plato.stanford.edu/entries/japanese-philosophy/#PossContPhilLarg)
-
-  * [5.1 哲学：Wissenschaft 还是道？](https://plato.stanford.edu/entries/japanese-philosophy/#PhilWissWay)
-  * [5.2 现实作为领域](https://plato.stanford.edu/entries/japanese-philosophy/#RealFiel)
-  * [5.3 无我的代理 vs. 自主自我](https://plato.stanford.edu/entries/japanese-philosophy/#AgenNoIVsAutoSelf)
-  * [5.4 语言与意义](https://plato.stanford.edu/entries/japanese-philosophy/#LangMean)
-* [ 参考书目](https://plato.stanford.edu/entries/japanese-philosophy/#Bib)
-
-  * [ 引用文献](https://plato.stanford.edu/entries/japanese-philosophy/#WorkCite)
-  * [日本哲学翻译选集](https://plato.stanford.edu/entries/japanese-philosophy/#AnthJapaPhilTran)
-  * [西方语言中的日本哲学综合研究](https://plato.stanford.edu/entries/japanese-philosophy/#GeneStudJapaPhilWestLang)
-  * [西方语言中相关的哲学期刊](https://plato.stanford.edu/entries/japanese-philosophy/#RelePhilJourWestLang)
-* [ 学术工具](https://plato.stanford.edu/entries/japanese-philosophy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/japanese-philosophy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/japanese-philosophy/#Rel)
+ 
 
 ---
 

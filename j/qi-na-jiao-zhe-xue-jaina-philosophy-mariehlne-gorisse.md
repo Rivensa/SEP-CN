@@ -10,39 +10,7 @@
 
 耆那教哲学是用阿尔达玛加迪语、耆那马哈拉斯特里语、沙乌拉塞尼语、梵语、阿帕布兰沙语、布拉吉巴沙语、卡纳达语、泰米尔语、古吉拉特语、印地语等多种语言组成的，仅举主要语言。本条目仅提供梵语术语，因为梵语在公元转换时期成为南亚哲学间教义讨论的通用语言。
 
-* [1. 修行的伦理学：从自我牺牲到非暴力和无所不知](https://plato.stanford.edu/entries/jaina-philosophy/#EthiRenuSelfSacrNonViolOmni)
-
-  * [1.1 通过自我牺牲逃离轮回](https://plato.stanford.edu/entries/jaina-philosophy/#EscaRebiThroSelfSacr)
-  * [1.2 耆那教的特征标志是非暴力](https://plato.stanford.edu/entries/jaina-philosophy/#NonViolCharMarkJain)
-  * [1.3 真实性的分类](https://plato.stanford.edu/entries/jaina-philosophy/#CateReal)
-  * [1.4 解脱作为无障碍的知识](https://plato.stanford.edu/entries/jaina-philosophy/#LibeUnobKnow)
-* [2. 一个完整的世界观：形而上学，分类学，宇宙学](https://plato.stanford.edu/entries/jaina-philosophy/#CompWorlMetaTaxoCosm)
-
-  * [2.1 六种物质](https://plato.stanford.edu/entries/jaina-philosophy/#SixTypeSubs)
-  * [ 2.2 一个原子论](https://plato.stanford.edu/entries/jaina-philosophy/#Atom)
-  * [2.3 一个理性的人类中心主义](https://plato.stanford.edu/entries/jaina-philosophy/#ReasAnth)
-  * [2.4 关于自我和业力：耆那教哲学家的哪种二元论](https://plato.stanford.edu/entries/jaina-philosophy/#SelfKarmWhicTypeDualForJainPhil)
-  * [2.5 耆那教哲学家眼中的宇宙](https://plato.stanford.edu/entries/jaina-philosophy/#UnivSeenOmniOnes)
-* [ 3. 认识论](https://plato.stanford.edu/entries/jaina-philosophy/#Epis)
-
-  * [3.1 主要的知识类型](https://plato.stanford.edu/entries/jaina-philosophy/#MainTypeKnow)
-  * [3.2 权威教导](https://plato.stanford.edu/entries/jaina-philosophy/#AuthTeac)
-  * [3.3 Inferential reasoning and the debating hall ](https://plato.stanford.edu/entries/jaina-philosophy/#InfeReasDebaHall)
-  * [3.4 Realism and many-sidedness ](https://plato.stanford.edu/entries/jaina-philosophy/#RealManySide)
-
-    * [3.4.1 On making distinctions ](https://plato.stanford.edu/entries/jaina-philosophy/#MakiDist)
-    * [3.4.2 从因果关系的悖论到解释变化和持久性](https://plato.stanford.edu/entries/jaina-philosophy/#ParaCausAccoForChanPers)
-    * [3.4.3 存在、不存在和断言方式](https://plato.stanford.edu/entries/jaina-philosophy/#ExisNonExisModePred)
-    * [3.4.4 视角的教义](https://plato.stanford.edu/entries/jaina-philosophy/#DoctPers)
-* [ 结论](https://plato.stanford.edu/entries/jaina-philosophy/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/jaina-philosophy/#Bib)
-
-  * [ 一般介绍](https://plato.stanford.edu/entries/jaina-philosophy/#GeneIntr)
-  * [ 主要文献](https://plato.stanford.edu/entries/jaina-philosophy/#PrimLite)
-  * [ 次要文献](https://plato.stanford.edu/entries/jaina-philosophy/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/jaina-philosophy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/jaina-philosophy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/jaina-philosophy/#Rel)
+ 
 
 ---
 

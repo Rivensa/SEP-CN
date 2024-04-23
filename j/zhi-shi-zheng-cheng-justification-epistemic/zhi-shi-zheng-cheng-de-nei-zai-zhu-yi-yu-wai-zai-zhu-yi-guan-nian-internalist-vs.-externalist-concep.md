@@ -6,21 +6,7 @@
 
 首先，内在主义是关于知识或合理信念基础的论题。这种第一形式的内在主义认为一个人要么已经或者可以获得对知识或合理信念基础的某种形式的接触。关键的观点是这个人要么已经或者可以意识到这个基础。相比之下，外在主义者否认一个人总是能够获得这种对知识和合理信念基础的接触。第二种形式的内在主义，仅与合理信念有关，但可能也可以扩展到知识，关注的不是接触，而是合理信念的基础到底是什么。心理主义是这样的论题，即任何信念的最终理由是认知主体持有该信念的某种心理状态。在这个维度上的外在主义，意味着除了心理状态之外，还有其他事物作为理由。第三种形式的内在主义关注的是合理化的概念本身，而不是接触或理由的性质。这种第三种形式的内在主义是关于义务论的合理化概念，其主要观点是认为认识论合理化的概念应该通过履行个人的智力义务或责任来分析。关于认识论合理化概念的外在主义则是认为这个概念应该通过其他方式来分析，而不是特殊的义务或责任。
 
-* [1. 意识和接触](https://plato.stanford.edu/entries/justep-intext/#AwarAcce)
-* [2. 可达性和内在主义](https://plato.stanford.edu/entries/justep-intext/#AcceInte)
-* [3. 知识证成和内在主义](https://plato.stanford.edu/entries/justep-intext/#JustInte)
-* [4. 内在主义的其他形式](https://plato.stanford.edu/entries/justep-intext/#OtheFormInte)
-* [5. 义务论证成](https://plato.stanford.edu/entries/justep-intext/#DeonJust)
-* [6. 一些可能的相互关系](https://plato.stanford.edu/entries/justep-intext/#SomePossInte)
-* [7. 内在主义的论证](https://plato.stanford.edu/entries/justep-intext/#ArguForInte)
-* [8. 内在主义的一般论证](https://plato.stanford.edu/entries/justep-intext/#GeneArguForInte)
-* [9. 辩护心理主义的尝试](https://plato.stanford.edu/entries/justep-intext/#AtteDefeMent)
-* [10. 一个关于道义概念的案例](https://plato.stanford.edu/entries/justep-intext/#CaseForDeonConc)
-* [ 参考文献](https://plato.stanford.edu/entries/justep-intext/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/justep-intext/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justep-intext/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justep-intext/#Rel)
-
+ 
 ---
 
 ## 1. 意识和接触

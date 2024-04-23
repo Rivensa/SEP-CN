@@ -6,29 +6,7 @@
 
 这篇文章是对这个对话发展的介绍。也许，从一些限制开始是合适的。这篇文章将仅讨论国际正义的分配方面，而不是所有可能具有道德重要性的国际关系和机构的所有方面。全球正义的哲学讨论已经变得足够丰富和复杂，以至于不再可能在一篇文章中讨论这个讨论的各个方面（有关全球正义内部辩论的更全面讨论，请参见Chatterjee [2011]）。因此，这篇文章将跳过诸如贸易公平（Risse＆Wollner 2019; James 2012; Wenar 2010; Kurjanska＆Risse 2008）; 移民（Blake即将出版; D. Miller，2016; Carens 2013; Wellman＆Cole 2011; Carens 1987 [1995]）; 和性别（Kristof＆WuDunn 2009; Jaggar 2005; Nussbaum 2000）等重要主题。我们不讨论这些主题的事实不应被视为暗示它们的无关性; 相反，它们对于任何充分的全球正义理论都非常重要，并且应该比我们在这里提供的更多关注。此外，这篇文章将主要讨论自由平等主义传统中的著作。激进或马克思主义倾向的思想家也对国际正义有所言论，但这些著作在这里基本上被忽视了（有关这些主题的讨论，请参见Bell 2010中的Kohn 2010，Humphrey 2010和Goto-Jones 2010）。最后，这篇文章几乎完全集中在最近的著作上。之所以如此，是因为如上所述，国际正义只在最近几年成为一个中心研究课题。 这绝对不是说较不久远的哲学家对国际正义没有重要的发言：例如，伊曼纽尔·康德的和平联盟理念继续对现代哲学思想产生强烈影响，米尔的自由民族主义也是如此（康德 1795 年；米尔 1859 年）。现代时期也对全球财富与贫困进行了一些持续的讨论，尤其是彼得·辛格关于全球饥荒救助伦理的讨论（辛格 1972 年；另见辛格 2002 年）。然而，关于国际分配正义的现代对话主要可以追溯到约翰·罗尔斯 1971 年出版的《正义论》一书，而这些思想的前史在当前背景下可以基本忽略。
 
-* [1. 早期世界主义](https://plato.stanford.edu/entries/international-justice/#EarlCosm)
-* [2. 正义与特殊性](https://plato.stanford.edu/entries/international-justice/#JustPart)
-* [3. 制度主义的多样性](https://plato.stanford.edu/entries/international-justice/#VariInst)
-
-  * [3.1 作为强制性法律体系的基本结构](https://plato.stanford.edu/entries/international-justice/#BasiStruCoerLegaSyst)
-  * [3.2 作为合作相互依赖的基本结构](https://plato.stanford.edu/entries/international-justice/#BasiStruCoopInte)
-  * [3.3 新共和主义作为一种制度主义理论](https://plato.stanford.edu/entries/international-justice/#NeoRepuInstTheo)
-* [4. 全球分配正义及其超越](https://plato.stanford.edu/entries/international-justice/#NewCosmBeyo)
-
-  * [ 4.1 纯粹平等主义](https://plato.stanford.edu/entries/international-justice/#PureEgal)
-  * [4.2 贫困和因果关系](https://plato.stanford.edu/entries/international-justice/#PoveCaus)
-  * [ 4.3 殖民主义](https://plato.stanford.edu/entries/international-justice/#Colo)
-  * [4.4. 产权](https://plato.stanford.edu/entries/international-justice/#PropRigh)
-
-    * [4.4.1 右倾自由主义](https://plato.stanford.edu/entries/international-justice/#RighLibe)
-    * [4.4.2 左倾自由主义和共同所有制](https://plato.stanford.edu/entries/international-justice/#LeftLibeCommOwne)
-    * [ 4.4.3 国家财产](https://plato.stanford.edu/entries/international-justice/#NatiProp)
-* [ 5. 未来方向](https://plato.stanford.edu/entries/international-justice/#FutuDire)
-* [ 参考文献](https://plato.stanford.edu/entries/international-justice/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/international-justice/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/international-justice/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/international-justice/#Rel)
-
+ 
 ---
 
 ## 1. 早期世界主义

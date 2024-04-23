@@ -8,43 +8,7 @@
 
 关于特定形式的正义的更详细讨论可以在其他条目中找到：特别是分配正义、全球正义、代际正义、国际分配正义、不幸和正义、正义作为一种美德以及报复性正义。
 
-* [1. 正义：概念映射](https://plato.stanford.edu/entries/justice/#JustMappConc)
-
-  * [1.1 正义与个人索赔](https://plato.stanford.edu/entries/justice/#JustIndiClai)
-  * [1.2 正义、慈善和可执行义务](https://plato.stanford.edu/entries/justice/#JustCharEnfoObli)
-  * [1.3 正义与公正性](https://plato.stanford.edu/entries/justice/#JustImpa)
-  * [1.4 正义与机构](https://plato.stanford.edu/entries/justice/#JustAgen)
-* [2. 正义：四个区别](https://plato.stanford.edu/entries/justice/#JustFourDist)
-
-  * [2.1 保守派与理想正义](https://plato.stanford.edu/entries/justice/#ConsVersIdeaJust)
-  * [2.2 修正正义与分配正义](https://plato.stanford.edu/entries/justice/#CorrVersDistJust)
-  * [2.3 程序正义与实质正义](https://plato.stanford.edu/entries/justice/#ProcVersSubsJust)
-  * [2.4 比较正义与非比较正义](https://plato.stanford.edu/entries/justice/#CompVersNonCompJust)
-* [3. 正义的范围](https://plato.stanford.edu/entries/justice/#ScopJust)
-
-  * [3.1 人类 vs 非人类动物](https://plato.stanford.edu/entries/justice/#HumaVsNonHumaAnim)
-  * [3.2 关系性 vs 非关系性正义](https://plato.stanford.edu/entries/justice/#RelaVsNonRelaJust)
-  * [3.3 个人 vs 机构](https://plato.stanford.edu/entries/justice/#IndiVsInst)
-  * [3.4 认可 vs 再分配](https://plato.stanford.edu/entries/justice/#RecoVsRedi)
-* [4. 功利主义和正义](https://plato.stanford.edu/entries/justice/#UtilJust)
-
-  * [4.1 关于正义的包容直觉](https://plato.stanford.edu/entries/justice/#AccoIntuAbouJust)
-  * [4.2 正义的功利主义理论：三个问题](https://plato.stanford.edu/entries/justice/#UtilTheoJustThreProb)
-* [5. 契约主义与正义](https://plato.stanford.edu/entries/justice/#ContJust)
-
-  * [ 5.1 正义](https://plato.stanford.edu/entries/justice/#Gaut)
-  * [5.2 Rawls](https://plato.stanford.edu/entries/justice/#Rawl)
-  * [5.3 Scanlon](https://plato.stanford.edu/entries/justice/#Scan)
-* [6. 平等主义和正义](https://plato.stanford.edu/entries/justice/#EgalJust)
-
-  * [6.1 正义作为平等](https://plato.stanford.edu/entries/justice/#JustEqua)
-  * [6.2 责任敏感的平等主义](https://plato.stanford.edu/entries/justice/#RespSensEgal)
-  * [6.3 关系平等主义](https://plato.stanford.edu/entries/justice/#RelaEgal)
-* [ 7. 结论](https://plato.stanford.edu/entries/justice/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/justice/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/justice/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justice/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justice/#Rel)
+ 
 
 ---
 

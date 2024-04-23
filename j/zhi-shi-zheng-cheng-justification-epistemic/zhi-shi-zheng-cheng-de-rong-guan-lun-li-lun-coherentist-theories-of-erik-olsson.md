@@ -3,20 +3,7 @@
 *首次发布于2003年11月11日；实质性修订于2021年3月9日。*
 
 根据融贯论理论，也被称为融贯主义，一个信念或一组信念之所以被证成或被合理持有，是因为该信念与一组信念相融贯，这组信念形成了一个融贯的系统或者是一些变体。融贯论证理论应该与真理的融贯论区分开来。前者是关于一个信念或一组信念被证成的意义，或者一个主体在持有该信念或一组信念时被证成的意义的理论。后者是关于一个信念或命题被证明为真的意义的理论。现代的融贯论者与一些早期的英国唯心主义传统的作家相比，通常赞同融贯论证的理论而不主张融贯论真理的理论。相反，他们要么支持对应理论的真理，要么默认真理的概念，至少在他们的认识论研究目的上是如此。这并不妨碍许多作者声称融贯证成是真理的一个指示或标准。
-
-* [1. 融贯主义与基础主义的对立](https://plato.stanford.edu/entries/justep-coherence/#CohVerFou)
-* [2. 回归问题](https://plato.stanford.edu/entries/justep-coherence/#RegPro)
-* [3. 融贯论理论的传统观点](https://plato.stanford.edu/entries/justep-coherence/#TraAccCoh)
-* [4. 融贯论理论的其他观点](https://plato.stanford.edu/entries/justep-coherence/#OthAccCoh)
-* [5. 从零开始的融贯论理论证](https://plato.stanford.edu/entries/justep-coherence/#JusCohScrLewBonCon)
-* [6. 融贯论理论的概率度量](https://plato.stanford.edu/entries/justep-coherence/#ProMeaCoh)
-* [7. 真理导向性：分析辩论](https://plato.stanford.edu/entries/justep-coherence/#TruConAnaDeb)
-* [8. 不可能性结果](https://plato.stanford.edu/entries/justep-coherence/#ImpRes)
-* [ 9. 结论](https://plato.stanford.edu/entries/justep-coherence/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/justep-coherence/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/justep-coherence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justep-coherence/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justep-coherence/#Rel)
+ 
 
 ---
 

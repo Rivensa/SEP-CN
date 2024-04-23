@@ -6,41 +6,7 @@
 
 在介绍部分之后，本文将重点讨论四个问题：如何定义京都学派？他们所谓的“绝对无”这一中心哲学概念是什么意思，京都学派的哲学家们如何在与西方思想和彼此的对话和辩论中发展这个受东方启发的思想？他们的政治著作的基本内容是什么，以及围绕这些著作的争议的基础是什么？京都学派对跨文化思维或“世界哲学”的影响是什么？
 
-* [ 1. 引言](https://plato.stanford.edu/entries/kyoto-school/#Intr)
-* [2. 身份和成员资格：谁属于谁？](https://plato.stanford.edu/entries/kyoto-school/#IdenMembWhoBeloWhat)
-
-  * [2.1 外部命名的历史](https://plato.stanford.edu/entries/kyoto-school/#HistExteNami)
-  * [2.2 定义的问题](https://plato.stanford.edu/entries/kyoto-school/#QuesDefi)
-  * [2.3 成员和合作伙伴](https://plato.stanford.edu/entries/kyoto-school/#MembAsso)
-* [3. 绝对无物：给无形以哲学形式](https://plato.stanford.edu/entries/kyoto-school/#AbsoNothGiviPhilFormForm)
-
-  * [3.1 西方存在 vs. 东方无物？本体论 vs. 无物论？](https://plato.stanford.edu/entries/kyoto-school/#WestBeinVsEastNothOntoVsMeon)
-  * [3.2 佛教和道教背景下的绝对无](https://plato.stanford.edu/entries/kyoto-school/#BuddDaoiBackForIdeaAbsoNoth)
-  * [3.3 西田绝对无的拓扑学](https://plato.stanford.edu/entries/kyoto-school/#NishTopoAbsoNoth)
-  * [3.4 田边的绝对无作为绝对调解的他力](https://plato.stanford.edu/entries/kyoto-school/#TanaAbsoNothOthePoweAbsoMedi)
-  * [3.5 西谷的三域拓扑：存在、虚无和空洞](https://plato.stanford.edu/entries/kyoto-school/#NishThreFielTopoBeinNihiEmpt)
-  * [3.6 上田的双层世界：语言视野在空洞中](https://plato.stanford.edu/entries/kyoto-school/#UedaTwoLayeWorlLingHoriWithEmptExpa)
-  * [3.7 “非自我的自我”与激进主体性的虚无](https://plato.stanford.edu/entries/kyoto-school/#SelfNotSelfNothRadiSubj)
-* [4. 政治冒险与不幸](https://plato.stanford.edu/entries/kyoto-school/#PoliVentMisa)
-
-  * [4.1 “合作抵抗”的尖锐边缘](https://plato.stanford.edu/entries/kyoto-school/#RazoEdgeCoopResi)
-  * [4.2 西田的勉强“言辞之战”及其矛盾的普遍主义](https://plato.stanford.edu/entries/kyoto-school/#NishReluWarOverWordHisAmbiUniv)
-  * [4.3 有争议的战时研讨会，以及西谷的非自我国家](https://plato.stanford.edu/entries/kyoto-school/#ContWartSympNishNatiNonEgo)
-  * [4.4 “大岛备忘录”：海军温和派智囊团的记录](https://plato.stanford.edu/entries/kyoto-school/#ShimMemoRecoThinTankForNavyMode)
-  * [4.5 战后：田边的元知转向和西谷的另一面脸颊](https://plato.stanford.edu/entries/kyoto-school/#AfteWarTanaMetaTurnNishOtheChee)
-* [5. 京都学派的跨文化遗产](https://plato.stanford.edu/entries/kyoto-school/#CrosCultLegaKyotScho)
-
-  * [5.1 在东西方之间和超越之间](https://plato.stanford.edu/entries/kyoto-school/#BetwBeyoEastWest)
-  * [5.2 世界上的日本哲学](https://plato.stanford.edu/entries/kyoto-school/#JapaPhilWorl)
-* [ 参考文献](https://plato.stanford.edu/entries/kyoto-school/#Bib)
-
-  * [京都学派的著作](https://plato.stanford.edu/entries/kyoto-school/#WorkByKyotScho)
-  * [有关京都学派的著作](https://plato.stanford.edu/entries/kyoto-school/#WorkOnKyotScho)
-  * [ 其他引用来源](https://plato.stanford.edu/entries/kyoto-school/#OtheCiteSour)
-* [ 学术工具](https://plato.stanford.edu/entries/kyoto-school/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kyoto-school/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kyoto-school/#Rel)
-
+ 
 ---
 
 ## 1. 简介

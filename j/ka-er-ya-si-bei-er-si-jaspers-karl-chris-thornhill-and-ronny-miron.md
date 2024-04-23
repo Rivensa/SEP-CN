@@ -8,20 +8,7 @@
 
 尽管卡尔·雅斯贝尔斯在二十世纪德国的哲学和政治理论发展中具有重要地位，但如今他在很大程度上被忽视了。对此的解释有很多。首先，有人认为他并没有创立一个特定的哲学学派。对他来说，哲学是一种思维方式，它在超越专业知识的同时利用专业知识。他认为通过致力于哲学，个体不是认识对象，而是阐释和实现自己作为思想者的存在，从而成为自己。因此，他没有吸引一批门徒，至少在德国以外，他的作品很少成为哲学高层讨论的主题。这部分是因为现在在现代德国哲学史上享有无可争议的主导地位的哲学家，特别是马丁·海德格尔、乔治·卢卡奇和泰奥多尔·W·阿多诺，对雅斯贝尔斯持有贬低态度，他们往往不愿意完全认真对待他的作品。雅斯贝尔斯相对边缘化的另一个解释与他的著作在英文翻译中存在问题有关，这使得他的思想对英语读者来说难以沟通。当然，他有很多翻译者，其中最著名的是拉尔夫·曼海姆和E.B.阿什顿。但是翻译经常使用误导性的表达，用不同的词语来表达原始德文中的同一个词，从而使读者感到困惑。此外，未标明的省略和其他由于偏爱美学考虑而不准确的问题都有助于篡改原作。有人认为雅斯贝尔斯之所以无法吸引英语哲学思维，是因为他过于独断和形而上学，或者简单地超出了英美文化的视野范围。 对于所有这些因素，人们可能还可以加上雅斯贝尔斯与德国政治生活中更平凡时期的关联，以及他的名字被涂上一种守旧的中产阶级常识的光环的事实。尽管如此，雅斯贝尔斯的工作为许多不同的哲学辩论设定了参数，其后果在当代哲学中仍然具有深远的影响，近年来有迹象表明，对他的工作采取更有利的重建性方法开始占上风。
 
-* [ 1. 传记](https://plato.stanford.edu/entries/jaspers/#Biog)
-* [ 2. 职业](https://plato.stanford.edu/entries/jaspers/#Care)
-* [3. 早期精神病学著作](https://plato.stanford.edu/entries/jaspers/#EarlPsycWrit)
-* [4. 哲学著作](https://plato.stanford.edu/entries/jaspers/#PhilWrit)
-* [5. 哲学与宗教](https://plato.stanford.edu/entries/jaspers/#PhilReli)
-* [6. 后期作品：人道主义的政治](https://plato.stanford.edu/entries/jaspers/#LateWorkPoliHuma)
-* [7. 卡尔·雅斯贝尔斯的评论和著作编辑](https://plato.stanford.edu/entries/jaspers/#CommEditCompWorkKJG)
-* [ 参考书目](https://plato.stanford.edu/entries/jaspers/#Bib)
-
-  * [卡尔·雅斯贝尔斯的主要作品](https://plato.stanford.edu/entries/jaspers/#MajoWorkJasp)
-  * [选定的次级文献](https://plato.stanford.edu/entries/jaspers/#SeleSecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/jaspers/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/jaspers/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/jaspers/#Rel)
+ 
 
 ---
 

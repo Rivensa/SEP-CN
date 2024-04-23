@@ -4,21 +4,7 @@
 
 虽然日本人几个世纪以来一直在创作伟大的艺术作品并对此进行写作，包括一个追溯到千年前的丰富的诗学传统，但与西方的“美学”相对应的日本哲学学科直到 19 世纪才开始。调查更广泛的领域的一个好方法是研究在传统过程中出现的最重要的美学思想，所有这些思想都是在美学正式确立为一门学科之前产生的：即物の哀れ（物事的悲伤），侘寂（朴素、简朴的美），寂（乡村的光泽），幽玄（神秘的深奥），意気（精致的风格）和切れ（剪裁）。 （最后一个术语的发音为两个重音音节，kee-reh。一些元音上的长音符表示双倍长度的元音音。当使用人名时，顺序是传统的日本顺序：姓，然后是名。）
 
-* [ 1. 引言](https://plato.stanford.edu/entries/japanese-aesthetics/#Intr)
-* [2. 物の哀れ：物事的悲伤](https://plato.stanford.edu/entries/japanese-aesthetics/#MonoNoAwarPathThin)
-* [3. Wabi: 简约、朴素的美](https://plato.stanford.edu/entries/japanese-aesthetics/#WabiSimpAustBeau)
-* [4. 利休的茶道与简约美的均衡美学](https://plato.stanford.edu/entries/japanese-aesthetics/#RikyTea)
-* 5. Sabi: 乡村风情的光泽
-* 6. 神秘的优雅：幽玄
-* 7. 幽玄与山水画
-* 8. 精致的风格：意气
-* 9. Kire: 切割
-* 10 . Ozu Yasujirō: 小津安二郎：电影剪辑
-* [ Bibliography (参考文献)](https://plato.stanford.edu/entries/japanese-aesthetics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/japanese-aesthetics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/japanese-aesthetics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/japanese-aesthetics/#Rel)
-
+ 
 ---
 
 ## 1. 引言

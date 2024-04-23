@@ -4,22 +4,7 @@ _首次发表于2011年1月19日，实质性修订于2020年9月30日。_
 
 伽耶惹悉·巴札（Jayarāśi Bhaṭṭa），可能在公元 800-840 年间在印度南部繁荣，是一位印度哲学家，一位“合格的怀疑论者”，借助一种方法论怀疑论，与唯物主义者 Cārvāka / Lokāyata 思想学派有关，是印度最杰出的哲学著作之一《Tattvôpaplava-siṁha》（“\[所有]范畴的解体之狮”或“\[摧毁]范畴幻觉之狮”）的作者。他的主要观点是，使用印度认知程序传统采用的标准手段无法获得真知，因为我们首先应该正确定义有效认知程序的基本有效性标准，而这是不可能的，除非我们对现实有先前的真知，以便我们可以测试程序的有效性等。正如传统论证的那样，我们对现实和物体的认识取决于有效的认知程序。然而，正如 Jayarāśi 指出的那样，所有有效的认知程序要么根本有缺陷且最终不可靠，要么需要进一步的有效认知程序，而这些也需要等等。因此，在传统认识论模型中，我们既不能制定有效认知程序的适当定义，也不能定义现实是什么以及基本范畴是什么。他被不同地归类为怀疑论者、不可知论者或唯物主义者。
 
-* [1. 生平、著作和哲学归属](https://plato.stanford.edu/entries/jayaraasi/#LifWorPhiAff)
-  * [1.1 伽耶惹悉·巴札的年代](https://plato.stanford.edu/entries/jayaraasi/#DatJayBha)
-  * [1.2 伽耶惹悉·巴札的出生地](https://plato.stanford.edu/entries/jayaraasi/#NatPlaJayBha)
-  * [1.3 伽耶惹悉·巴札的作品](https://plato.stanford.edu/entries/jayaraasi/#WorJayBha)
-  * [1.4 伽耶惹悉·巴札的哲学归属](https://plato.stanford.edu/entries/jayaraasi/#PhiAffJayBha)
-* [2. 伽耶惹悉·巴札的方法和哲学](https://plato.stanford.edu/entries/jayaraasi/#MetJay)
-  * [2.1 反证法的使用](https://plato.stanford.edu/entries/jayaraasi/#UseRedArg)
-  * [2.2 怀疑主义和定义](https://plato.stanford.edu/entries/jayaraasi/#SceDef)
-  * [2.3 积极观点](https://plato.stanford.edu/entries/jayaraasi/#PosVie)
-* [参考文献](https://plato.stanford.edu/entries/jayaraasi/#Bib)
-  * [主要文献](https://plato.stanford.edu/entries/jayaraasi/#PriLit)
-  * [二手文献](https://plato.stanford.edu/entries/jayaraasi/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/jayaraasi/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/jayaraasi/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/jayaraasi/#Rel)
-
+ 
 ***
 
 ## 1. 生平、作品和哲学派别

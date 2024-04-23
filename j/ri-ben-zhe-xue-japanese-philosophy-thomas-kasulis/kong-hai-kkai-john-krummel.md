@@ -5,30 +5,7 @@
 
 空海（774-835 年）是日本的一位知识巨人，在任何关于日本思想史的记述中都不容忽视。在日本传统佛教思想家中，甚至整个东亚地区，他是最系统和哲学性最强的人之一。他最著名的是作为日本真言密教的创始人。但他不仅因为作为一位宗教教师和学者的贡献而被人们铭记，还因为他在社会福利、公共教育、词典学、语言、文学和诗歌、文学理论、书法、艺术、绘画、木雕、雕塑、音乐、土木工程、建筑等方面的成就和创新，这些都发生在日本正经历快速变革的时期。在本文中，我们将限制我们的叙述在他的哲学方面。
 
-* [ 1. 传记](https://plato.stanford.edu/entries/kukai/#Bio)
-* [2. 真言密教的历史背景](https://plato.stanford.edu/entries/kukai/#HisBacEsoBud)
-* [ 3. 思想](https://plato.stanford.edu/entries/kukai/#Tho)
-
-  * [ 3.1 作品](https://plato.stanford.edu/entries/kukai/#Wor)
-  * [3.2 密教与外教](https://plato.stanford.edu/entries/kukai/#EsoMikVsExoKen)
-  * [3.3 佛陀的密教观：四种真理的具体体现（法身）](https://plato.stanford.edu/entries/kukai/#EsoVieBudFouEmbTruDha)
-  * [3.4 真理具体体现的三个方面（法身）](https://plato.stanford.edu/entries/kukai/#ThrAspEmbTruHosDha)
-  * [3.5 六大元素的相互渗透：空性的具体体现作为空体](https://plato.stanford.edu/entries/kukai/#IntSixEleEmbEmpEmpBod)
-  * [3.6 佛陀宇宙法讲授](https://plato.stanford.edu/entries/kukai/#HosSepBudCosPreDha)
-  * [3.7 咒语：宇宙的声音和（文）本](https://plato.stanford.edu/entries/kukai/#ManCosSouCon)
-  * [3.8 曼荼罗宇宙/宇宙即曼荼罗](https://plato.stanford.edu/entries/kukai/#ManCosMan)
-  * [3.9 空身成佛：通过具身实现开悟](https://plato.stanford.edu/entries/kukai/#SokEnlViaEmb)
-  * [3.10 火事：宏观-微观-宇宙共应](https://plato.stanford.edu/entries/kukai/#KajMacMicCosCoRes)
-  * [3.11 三密：三个奥秘](https://plato.stanford.edu/entries/kukai/#SanThrMys)
-  * [3.12 心灵发展的十个阶段](https://plato.stanford.edu/entries/kukai/#TenStaDevMin)
-* [ 4. 总结](https://plato.stanford.edu/entries/kukai/#ConRem)
-* [ 参考文献](https://plato.stanford.edu/entries/kukai/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/kukai/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/kukai/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/kukai/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kukai/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kukai/#Rel)
+ 
 
 ---
 

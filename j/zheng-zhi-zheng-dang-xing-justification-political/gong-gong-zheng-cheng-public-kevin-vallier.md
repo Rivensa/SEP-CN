@@ -16,43 +16,7 @@
 
 本条目首先将公共证成置于政治哲学的历史背景中。然后阐述和解释了 PJP，以及它的主要变量。变量包括理由的概念、理想化、公共证成过程等。接下来，本条目审视了支持该原则的论证，并讨论了 PJP 的不同基础。本条目还涉及与公共证成相关的政治稳定和公众性的概念。然后，它回顾了对 PJP 的各种异议。最后，本条目讨论了理论家如何将公共证成应用于具体的争议。
 
-* [ 1. 起源](https://plato.stanford.edu/entries/justification-public/#Ori)
-* [2. 公共证成原则](https://plato.stanford.edu/entries/justification-public/#PubJusPri)
-
-  * [2.1 “充分”理由](https://plato.stanford.edu/entries/justification-public/#SufRea)
-  * [ 2.2 公共证成](https://plato.stanford.edu/entries/justification-public/#Gra)
-  * [2.3 公共证成类型](https://plato.stanford.edu/entries/justification-public/#TypJusRea)
-  * [ 2.4 理想化](https://plato.stanford.edu/entries/justification-public/#Ide)
-  * [2.5 公共证成的范围](https://plato.stanford.edu/entries/justification-public/#ScoPub)
-  * [2.6 公共证成的方式](https://plato.stanford.edu/entries/justification-public/#ModPubJus)
-  * [ 2.7 仅仅是强制吗？](https://plato.stanford.edu/entries/justification-public/#Coercealone)
-* [3. 自由原则](https://plato.stanford.edu/entries/justification-public/#LibPri)
-* [4. 公共证成原则的基础](https://plato.stanford.edu/entries/justification-public/#Found)
-* [5. 姊妹概念](https://plato.stanford.edu/entries/justification-public/#SisCon)
-
-  * [ 5.1 公共证成](https://plato.stanford.edu/entries/justification-public/#Pub)
-  * [ 5.2 稳定性](https://plato.stanford.edu/entries/justification-public/#Sta)
-* [ 6. 反对意见](https://plato.stanford.edu/entries/justification-public/#Obj)
-
-  * [6.1 不完整性异议](https://plato.stanford.edu/entries/justification-public/#IncObj)
-  * [6.2 不确定性异议](https://plato.stanford.edu/entries/justification-public/#IndObj)
-  * [6.3 反民主异议](https://plato.stanford.edu/entries/justification-public/#AntObj)
-  * [6.4 公共证成](https://plato.stanford.edu/entries/justification-public/#IntObj)
-  * [6.5 不合理性异议](https://plato.stanford.edu/entries/justification-public/#UnrObj)
-  * [6.6 不对称异议](https://plato.stanford.edu/entries/justification-public/#AsyObj)
-  * [6.7 自我反驳异议](https://plato.stanford.edu/entries/justification-public/#SelRefObj)
-  * [6.8 完美主义异议](https://plato.stanford.edu/entries/justification-public/#PerObj)
-  * [6.9 空集异议](https://plato.stanford.edu/entries/justification-public/#EmpSetObj)
-  * [6.10 公共证成反对](https://plato.stanford.edu/entries/justification-public/#InsObj)
-  * [6.11 理论不确定性](https://plato.stanford.edu/entries/justification-public/#TheInd)
-  * [6.12 对理想化的担忧](https://plato.stanford.edu/entries/justification-public/#ArbIde)
-  * [6.13 收敛的新反对意见](https://plato.stanford.edu/entries/justification-public/#NewCov)
-* [ 7. 应用问题](https://plato.stanford.edu/entries/justification-public/#App)
-* [ 参考文献](https://plato.stanford.edu/entries/justification-public/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/justification-public/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justification-public/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justification-public/#Rel)
-
+ 
 ---
 
 ## 1. 起源

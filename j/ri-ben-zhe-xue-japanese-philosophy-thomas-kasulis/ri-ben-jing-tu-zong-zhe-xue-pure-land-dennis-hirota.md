@@ -9,36 +9,7 @@ _首次发布于2012年11月19日星期一；实质性修订于2022年9月7日�
 虽然铃木没有明确指出他所指的观点是什么，但他指出，特别是在净土宗传统中，我们发现了在日本发生的佛教哲学的重要创新发展。
 
 简而言之，日本净土宗对佛教哲学的贡献可以说在于融合了两种基本态度。一方面，它坚定地立足于大乘佛教对觉悟智慧的理解，认为它与现实是完全非二元且非二元对立的，用诸如如是、佛性和空性等术语来表示。另一方面，它直接面对人类存在的本质，即无法逃避的有限性：在业力的制约下，具有辨别和实在意识，并陷入对虚构的自我和实质性对象的执着激情之中。通过其深入的宗教人类学研究，日本净土宗思想探索了以下矛盾问题：无知的自我如何可能实现转化觉醒，从被玷污的自我意志中获得解脱，以及宗教实现的世界在一个人的轮回存在中展开的本质。
-
-* [1. 简介](https://plato.stanford.edu/entries/japanese-pure-land/#Intr)
-  * [1.1 经典和注释传统](https://plato.stanford.edu/entries/japanese-pure-land/#ScriCommTrad)
-  * [1.2 比较框架](https://plato.stanford.edu/entries/japanese-pure-land/#CompFram)
-  * [1.3 一个日本净土宗哲学](https://plato.stanford.edu/entries/japanese-pure-land/#JapaPureLandPhil)
-* [2. 净土宗佛教思想的轮廓](https://plato.stanford.edu/entries/japanese-pure-land/#ContPureLandBuddThou)
-  * [2.1 自我反思](https://plato.stanford.edu/entries/japanese-pure-land/#CritSelfRefl)
-  * [2.2 菩萨道中的净土思想种子](https://plato.stanford.edu/entries/japanese-pure-land/#SeedPureLandThouBodhPath)
-  * [2.3 功德转移](https://plato.stanford.edu/entries/japanese-pure-land/#MeriTran)
-  * [2.4 宇宙佛和佛土](https://plato.stanford.edu/entries/japanese-pure-land/#CosmBuddBuddFiel)
-  * [2.5 净土宗的僧侣和在家信徒](https://plato.stanford.edu/entries/japanese-pure-land/#MonaLay)
-* [3. 日本净土宗佛教思想](https://plato.stanford.edu/entries/japanese-pure-land/#JapaPureLandBuddThou)
-  * [3.1 净土宗对念佛的革命性理解](https://plato.stanford.edu/entries/japanese-pure-land/#HnenRevoUndeNembPrax)
-  * [3.2 净土宗念佛教义的问题](https://plato.stanford.edu/entries/japanese-pure-land/#ProbHnenNembTeac)
-* [4. 日本净土宗佛教思想中的哲学问题](https://plato.stanford.edu/entries/japanese-pure-land/#PhilIssuJapaPureLandBuddThou)
-  * [4.1 净土宗佛教形而上学：对现实的反思](https://plato.stanford.edu/entries/japanese-pure-land/#PureLandBuddMetaReflReal)
-  * [4.2 净土宗佛教人类学](https://plato.stanford.edu/entries/japanese-pure-land/#PureLandBuddAnth)
-  * [4.3 净土宗佛教解释学](https://plato.stanford.edu/entries/japanese-pure-land/#PureLandBuddHerm)
-  * [4.4 净土宗佛教的伦理反思](https://plato.stanford.edu/entries/japanese-pure-land/#PureLandBuddEthiRefl)
-* [5. 日本净土宗佛教与现代性的相遇](https://plato.stanford.edu/entries/japanese-pure-land/#JapaPureLandBuddEncoMode)
-  * [5.1 基督教对净土宗佛教的批评](https://plato.stanford.edu/entries/japanese-pure-land/#ChriCritPureLandBudd)
-  * [5.2 佛教思想的现代化：知识改革](https://plato.stanford.edu/entries/japanese-pure-land/#ModeBuddThouInteRefo)
-  * [5.3 对净土宗佛教的存在性参与](https://plato.stanford.edu/entries/japanese-pure-land/#ExisEngaPureLandBudd)
-* [参考文献](https://plato.stanford.edu/entries/japanese-pure-land/#Bib)
-  * [主要文献](https://plato.stanford.edu/entries/japanese-pure-land/#PrimLite)
-  * [次要文献](https://plato.stanford.edu/entries/japanese-pure-land/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/japanese-pure-land/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/japanese-pure-land/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/japanese-pure-land/#Rel)
-
+ 
 ***
 
 ## 1. 介绍

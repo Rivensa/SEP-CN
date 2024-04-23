@@ -7,37 +7,7 @@
 转型正义领域研究这些问题，涉及战争后果的哲学、法律和政治调查。本文将介绍这个相对较新领域的核心问题。通过研究战争罪法庭、真相委员会和清算政策的运作历史和困难，我们将考虑和平与稳定的欲望与将侵犯人权者绳之以法的重要性之间的紧张关系，作为政治过渡的一部分，需要创造一个可靠的过去虐待历史记录，国际刑法的承诺和局限性，以及宽恕在政治中的连贯性。
 
 第一部分通过强调过渡环境中和平与正义之间的紧张关系，对转型正义的性质进行了理论介绍。第二部分探讨了战争罪法庭所涉及的困难。第三部分集中讨论了真相委员会运作中的困境。第四部分关注行政清洗或清算政策。最后一部分考虑了遗忘作为对大规模暴行的回应的可能性。
-
-* [1. 转型正义简介](https://plato.stanford.edu/entries/justice-transitional/#IntTraJus)
-
-  * [1.1 转型正义的矛盾](https://plato.stanford.edu/entries/justice-transitional/#ConTraJus)
-  * [1.2 和平与正义之间的对立](https://plato.stanford.edu/entries/justice-transitional/#PeaVerJus)
-* [2. 战争罪法庭](https://plato.stanford.edu/entries/justice-transitional/#WarCriTri)
-
-  * [2.1 历史背景](https://plato.stanford.edu/entries/justice-transitional/#HisBac)
-  * [2.2 战争罪法庭的批评](https://plato.stanford.edu/entries/justice-transitional/#CriWarCriTri)
-
-    * [ 2.2.1 胜利者的正义](https://plato.stanford.edu/entries/justice-transitional/#VicJus)
-    * [ 2.2.2 追溯力](https://plato.stanford.edu/entries/justice-transitional/#Ret)
-    * [ 2.2.3 选择性](https://plato.stanford.edu/entries/justice-transitional/#Sel)
-* [3. 转型正义委员会](https://plato.stanford.edu/entries/justice-transitional/#TruCom)
-
-  * [3.1 历史背景](https://plato.stanford.edu/entries/justice-transitional/#HisBacB)
-  * [3.2 正当化转型正义委员会](https://plato.stanford.edu/entries/justice-transitional/#JusTruCom)
-
-    * [3.2.1 议政民主](https://plato.stanford.edu/entries/justice-transitional/#DelDem)
-    * [3.2.2 正义作为认同](https://plato.stanford.edu/entries/justice-transitional/#JusRec)
-    * [ 3.2.3 更多真相](https://plato.stanford.edu/entries/justice-transitional/#Tru)
-    * [ 3.2.4 宽恕](https://plato.stanford.edu/entries/justice-transitional/#Forn)
-* [ 4. 转型正义](https://plato.stanford.edu/entries/justice-transitional/#Lus)
-
-  * [4.1 历史背景](https://plato.stanford.edu/entries/justice-transitional/#HisBacC)
-  * [4.2 转型正义的批评](https://plato.stanford.edu/entries/justice-transitional/#CriLus)
-* [ 5. 遗忘](https://plato.stanford.edu/entries/justice-transitional/#Forg)
-* [ 参考文献](https://plato.stanford.edu/entries/justice-transitional/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/justice-transitional/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justice-transitional/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justice-transitional/#Rel)
+ 
 
 ---
 

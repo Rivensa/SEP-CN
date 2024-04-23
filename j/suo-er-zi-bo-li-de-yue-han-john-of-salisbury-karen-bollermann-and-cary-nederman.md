@@ -3,23 +3,7 @@
 *首次发表于2016年8月10日星期三；实质性修订于2022年4月27日星期三*
 
 索尔兹伯里的约翰（1115/20-1180）是所谓的十二世纪文艺复兴时期最重要的哲学家之一，对政治和道德哲学的发展以及中世纪教育理论和新兴亚里士多德学说的传播做出了贡献。他在巴黎接受了广泛的教育，大部分时间都在担任教会的积极仆人。约翰是坎特伯雷大主教托马斯·贝克特与英格兰国王亨利二世争议期间的合作伙伴，最终被提升为沙特尔主教。约翰的思想被称为“人文主义”，因为他赞美人类和自然的尊严：后者是可以理解的，并且可以通过运用自然理性来理解。然而，约翰承认在获得智慧方面存在严重的障碍。在他的著作中，他宣称自己遵循西塞罗和新学派的温和怀疑主义，后者拒绝对确定性提出教条主张。约翰说，理性人类探究在大多数问题上能够达到的最好成果是可能的真理，始终需要重新评估和修订。他的哲学的总体倾向反映在他对中庸的倡导和对自然作为地上满足的规范指南的强调上。约翰撰写了几篇哲学著作，其中最著名的是《政治学》（PC），还有《论元学》（ML）和《哲学家信条》（EMM）。这些作品都是在 1154 年至 1159 年间完成的，当时约翰在坎特伯雷主教座位上任前的主教提奥巴尔德的服务期间。约翰的其他著作——两个信件集、两个圣徒传记和一部历史著作——展示了他哲学承诺的实际应用。
-
-* [ 1. 传记](https://plato.stanford.edu/entries/john-salisbury/#Biog)
-* [2. 古典哲学来源](https://plato.stanford.edu/entries/john-salisbury/#ClasPhilSour)
-* [ 3. 哲学方法](https://plato.stanford.edu/entries/john-salisbury/#PhilMeth)
-* [ 4. 中庸之道](https://plato.stanford.edu/entries/john-salisbury/#Mode)
-* [ 5. 王者之道](https://plato.stanford.edu/entries/john-salisbury/#PrinMode)
-* [ 6. 反伊壁鸠鲁主义](https://plato.stanford.edu/entries/john-salisbury/#AntiEpic)
-* [ 7. 自然主义](https://plato.stanford.edu/entries/john-salisbury/#Natu)
-* [8. 政治体制](https://plato.stanford.edu/entries/john-salisbury/#BodyPoli)
-* [ 9. 实用哲学](https://plato.stanford.edu/entries/john-salisbury/#PracPhil)
-* [ 参考书目](https://plato.stanford.edu/entries/john-salisbury/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/john-salisbury/#PrimSour)
-  * [ 二手文献](https://plato.stanford.edu/entries/john-salisbury/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/john-salisbury/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/john-salisbury/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/john-salisbury/#Rel)
+ 
 
 ---
 

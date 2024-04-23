@@ -15,26 +15,7 @@
 
 詹姆斯在他生命的最后十年中做出了一些最重要的哲学贡献。在 1904 年至 1905 年的写作热潮中（收录在《激进经验主义论文集》（1912 年）中），他阐述了最常被称为“中性唯物主义”的形而上学观点，即存在一种既不是物质的也不是精神的基本“物质”。在《多元宇宙》中，他捍卫了神秘主义和反实用主义观点，认为概念扭曲而不是揭示现实，并在他有影响力的《实用主义》（1907 年）中，他系统地提出了一套关于真理、知识、现实、宗教和哲学的观点，这些观点贯穿于他从 19 世纪 70 年代末开始的著作中。
 
-* [1. 詹姆斯生平年表](https://plato.stanford.edu/entries/james/#ChroJameLife)
-* [2. 早期著作](https://plato.stanford.edu/entries/james/#EarlWrit)
-
-  * [“关于斯宾塞对心灵定义的评论” (1878)](https://plato.stanford.edu/entries/james/#RemaSpenDefiMindCorr1878)
-  * [“理性情感” (1879, 1882)](https://plato.stanford.edu/entries/james/#SentRati18791882)
-* [3. 心理学原理](https://plato.stanford.edu/entries/james/#PrinPsyc)
-* [4. 流行哲学论文集](https://plato.stanford.edu/entries/james/#EssaPopuPhil)
-* [5. 宗教经验的多样性](https://plato.stanford.edu/entries/james/#VariReliExpe)
-* [6. 威廉·詹姆斯晚期著作](https://plato.stanford.edu/entries/james/#LateWrit)
-
-  * [ 实用主义（1907 年）](https://plato.stanford.edu/entries/james/#Prag1907)
-  * [多元宇宙（1909 年）](https://plato.stanford.edu/entries/james/#PlurUniv1909)
-  * [威廉·詹姆斯的激进经验主义论文集（1912 年）](https://plato.stanford.edu/entries/james/#EssaRadiEmpi1912)
-* [ 参考书目](https://plato.stanford.edu/entries/james/#Bib)
-
-  * [主要文献：威廉·詹姆斯的著作](https://plato.stanford.edu/entries/james/#PrimLiteWorkWillJame)
-  * [ 二手文献](https://plato.stanford.edu/entries/james/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/james/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/james/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/james/#Rel)
+ 
 
 ---
 

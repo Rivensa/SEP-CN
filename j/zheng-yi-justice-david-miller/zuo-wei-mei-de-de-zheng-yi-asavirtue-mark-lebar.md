@@ -11,20 +11,7 @@
 
 进一步的复杂性在于，即使将正义作为个体的美德的概念似乎在范围上也不明确。柏拉图在《理想国》中将正义视为个体和社会的一种全面性美德，以至于几乎每个他（或我们）认为是伦理的问题都属于正义的范畴。但在后来的用法中，正义只涵盖个体道德的一部分，如果一个人撒谎或忽视他们的孩子，我们不会立刻认为他是不公正的——其他词汇更容易浮现在脑海中。个体正义首先且最容易涉及与物品或财产分配有关的道德问题。我们说，如果有人偷窃或不给予他们所欠的东西，那是不公正的，如果有人被要求在一个群体的成员之间分配某种好的（或坏的或两者兼有）东西，而他使用了任意或不合理的基础来进行分配，那也是不公正的。因此，对于正义作为个体美德的讨论通常集中在财产和其他可分配物品的问题上，尽管柏拉图提出的更广泛的意义从未完全消失。然而，关于政治道德所涉及的更广泛的分配问题是否使早期希腊对正义作为个体品格美德的关注降低或模糊存在争议（Hursthouse 1999 年，第 5-6 页；Coope 2007 年；Lu 2017 年）。
 
-* [ 1. 历史](https://plato.stanford.edu/entries/justice-virtue/#His)
-
-  * [ 1.1 古代](https://plato.stanford.edu/entries/justice-virtue/#Anc)
-  * [1.2 中世纪和现代](https://plato.stanford.edu/entries/justice-virtue/#Mod)
-* [2. 社会心理学和正义](https://plato.stanford.edu/entries/justice-virtue/#SocPsyJus)
-* [3. 作为美德的正义](https://plato.stanford.edu/entries/justice-virtue/#JusVirSoc)
-* [4. 作为美德的正义 and other Virtues](https://plato.stanford.edu/entries/justice-virtue/#CarJus)
-* [ 5. 最近的发展](https://plato.stanford.edu/entries/justice-virtue/#RecDev)
-* [ 6. 结论](https://plato.stanford.edu/entries/justice-virtue/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/justice-virtue/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/justice-virtue/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justice-virtue/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justice-virtue/#Rel)
-
+ 
 ---
 
 ## 1. 历史

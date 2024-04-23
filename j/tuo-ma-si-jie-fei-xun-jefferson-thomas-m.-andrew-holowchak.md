@@ -4,33 +4,7 @@
 
 学者们普遍没有认真对待托马斯·杰斐逊（1743-1826）作为一位哲学家，可能是因为他从未写过正式的哲学论著。然而，杰斐逊是一位多产的作家，他的著作充满了哲学内容。他熟悉当时和古代的哲学文献，他在宣言、总统讯息和演讲、公共文件、众多法案、写给哲学思维的通信者的信件以及他唯一的著作《弗吉尼亚州的状况说明》中留下了丰富的哲学遗产。对这些著作的审查揭示了他精炼的政治哲学以及与之合作的教育哲学的系统方法。杰斐逊的政治哲学和他对教育的看法都以一种一致而进步的人类愿景为基础和指导，这种愿景在很大程度上受到古代哲学家如埃比克泰特斯、安东尼努斯和西塞罗的影响；受到耶稣的伦理原则的影响；受到同时期苏格兰经验主义者如弗朗西斯·哈奇森和凯姆斯勋爵的影响；甚至受到受人尊敬的宗教家和在哲学方面有倾向的文学人物如劳伦斯·斯特恩、让·巴蒂斯特·马西隆和米格尔·塞万提斯的影响。然而，在一个领域，他是落后的：他对种族的看法，这是最后一节的主题。
 
-* [1. 生平和著作](https://plato.stanford.edu/entries/jefferson/#LifWri)
-* [2. 神、自然和社会](https://plato.stanford.edu/entries/jefferson/#DeiNatSoc)
-
-  * [ 2.1 宇宙](https://plato.stanford.edu/entries/jefferson/#Cos)
-  * [2.2 自然与社会](https://plato.stanford.edu/entries/jefferson/#NatSoc)
-* [ 3. 道德](https://plato.stanford.edu/entries/jefferson/#Mor)
-
-  * [3.1 宗教和道德](https://plato.stanford.edu/entries/jefferson/#RelMor)
-  * [3.2 道德感](https://plato.stanford.edu/entries/jefferson/#MorSen)
-* [4. 政治哲学](https://plato.stanford.edu/entries/jefferson/#Pol)
-
-  * [4.1 “母亲原则”](https://plato.stanford.edu/entries/jefferson/#MotPri)
-  * [4.2 “自然贵族”](https://plato.stanford.edu/entries/jefferson/#NatAri)
-  * [4.3 使用权和宪法更新](https://plato.stanford.edu/entries/jefferson/#UsuConRen)
-  * [ 4.4 革命](https://plato.stanford.edu/entries/jefferson/#Rev)
-* [5. 教育哲学](https://plato.stanford.edu/entries/jefferson/#Edu)
-
-  * [5.1 教育体系](https://plato.stanford.edu/entries/jefferson/#SysEdu)
-  * [5.2 教育与人类繁荣](https://plato.stanford.edu/entries/jefferson/#EduHumThr)
-* [ 6. 种族](https://plato.stanford.edu/entries/jefferson/#Rac)
-* [ 参考文献](https://plato.stanford.edu/entries/jefferson/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/jefferson/#PriLit)
-  * [ 次要文献](https://plato.stanford.edu/entries/jefferson/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/jefferson/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/jefferson/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/jefferson/#Rel)
+ 
 
 ---
 

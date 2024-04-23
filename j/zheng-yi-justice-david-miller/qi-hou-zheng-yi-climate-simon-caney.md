@@ -14,39 +14,7 @@
 
 在考虑这些规范问题之前，介绍一些科学术语是很重要的。气候科学家经常提到“减缓”和“适应”。减缓包括减少温室气体的排放或创建温室气体汇（吸收温室气体），或两者兼而有之。适应涉及对人们的环境进行改变，以便他们能够更好地应对气候变化的世界。适应的例子可能是建造能够更好应对极端热的建筑物，或者建造能够应对风暴潮的海堤。可以说，这种分类是不完整的。假设人类没有足够减缓，因此气候系统继续变化；假设人类社会也未能实施必要的适应政策，因此人们无法享受他们应有的生活方式。那么，许多人会认为他们有权获得补偿。
 
-* [1. 孤立主义和融合主义](https://plato.stanford.edu/entries/justice-climate/#IsolInte)
-* [2. 评估气候影响](https://plato.stanford.edu/entries/justice-climate/#AsseClimImpa)
-* [3. 代际正义](https://plato.stanford.edu/entries/justice-climate/#InteJust)
-
-  * [3.1 气候正义的原则](https://plato.stanford.edu/entries/justice-climate/#PrinInteJust)
-  * [3.2 时间跨度折现](https://plato.stanford.edu/entries/justice-climate/#InteDisc)
-  * [3.3 反对和关切](https://plato.stanford.edu/entries/justice-climate/#ObjeConc)
-* [4. 风险和不确定性](https://plato.stanford.edu/entries/justice-climate/#RiskUnce)
-* [ 5. 责任](https://plato.stanford.edu/entries/justice-climate/#Resp)
-
-  * [5.1 气候行动问题](https://plato.stanford.edu/entries/justice-climate/#ClimActiQues)
-  * [5.2 负担分担问题](https://plato.stanford.edu/entries/justice-climate/#BurdSharQues)
-
-    * [5.2.1 污染者付费原则](https://plato.stanford.edu/entries/justice-climate/#PollPaysPrin)
-    * [5.2.2 受益者付费原则](https://plato.stanford.edu/entries/justice-climate/#BenePaysPrin)
-    * [5.2.3 能力支付原则](https://plato.stanford.edu/entries/justice-climate/#AbilPayPrin)
-  * [5.3 政治行动问题和一级和二级责任](https://plato.stanford.edu/entries/justice-climate/#PoliActiQuesFirsOrdeSecoOrdeResp)
-  * [5.4 谁是责任承担者？](https://plato.stanford.edu/entries/justice-climate/#WhoDutyBear)
-* [6. 气候正义和温室气体预算](https://plato.stanford.edu/entries/justice-climate/#JustGreeGasBudg)
-
-  * [ 6.1 生存权](https://plato.stanford.edu/entries/justice-climate/#Subs)
-  * [ 6.2 平等性](https://plato.stanford.edu/entries/justice-climate/#Equa)
-* [7. 气候正义和政策](https://plato.stanford.edu/entries/justice-climate/#JustClimPoli)
-
-  * [7.1 缓解和替代能源来源](https://plato.stanford.edu/entries/justice-climate/#MitiAlteEnerSour)
-  * [ 7.2 人口](https://plato.stanford.edu/entries/justice-climate/#Popu)
-  * [ 7.3 地球工程学](https://plato.stanford.edu/entries/justice-climate/#Geoe)
-* [8. 气候正义在非理想世界中](https://plato.stanford.edu/entries/justice-climate/#ClimJustNoniWorl)
-* [ 9. 结语](https://plato.stanford.edu/entries/justice-climate/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/justice-climate/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/justice-climate/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justice-climate/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justice-climate/#Rel)
+ 
 
 ---
 

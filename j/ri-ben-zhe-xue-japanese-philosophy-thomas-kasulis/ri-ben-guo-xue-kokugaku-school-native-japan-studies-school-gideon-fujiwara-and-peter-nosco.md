@@ -6,42 +6,7 @@
 
 本居宣长认为这门学科的根源在于慶忠（1640-1701）运用历史语言学来分析八世纪的诗集《万叶集》，而篤胤则认为它源于加太安万依（1669-1736）的日本研究学术努力。两人都将賀茂真淵（1697-1769）列为创始人之一。无论如何，在平田篤胤之后，国学领导人的血统变得更加复杂，因为新的明治国家利用国学的种族认同和文化优越感来动员支持日本的民族主义意识形态和所谓的国际命运。1945 年后，这种种族认同和文化优越感的观念被短暂地视为禁忌，并被关于日本独特性的较不有害的论点所取代，尽管这些论点又一次演变成了当代日本流行文化中的重要流派——日本人论。
 
-* [1. 定义问题](https://plato.stanford.edu/entries/kokugaku-school/#MattDefi)
-* [2. 国学的出现](https://plato.stanford.edu/entries/kokugaku-school/#EmerKoku)
-
-  * [ 2.1 景樱 (1640–1701)](https://plato.stanford.edu/entries/kokugaku-school/#Keic1640)
-  * [2.2 加田东麻呂 (1666–1736)](https://plato.stanford.edu/entries/kokugaku-school/#KadaNoAzum1666)
-* [3. 国学的语言学派](https://plato.stanford.edu/entries/kokugaku-school/#PhilKoku)
-
-  * [3.1 加茂茂茂 1697–1769](https://plato.stanford.edu/entries/kokugaku-school/#KamoNoMabu1697)
-  * [3.2 本居宣长 1730–1801](https://plato.stanford.edu/entries/kokugaku-school/#MotoNori1730)
-* [4. 流行和基层国学 1800–1868](https://plato.stanford.edu/entries/kokugaku-school/#PopuGrasKoku1800)
-
-  * [4.1 平田篤胤（1776–1843）](https://plato.stanford.edu/entries/kokugaku-school/#HiraAtsu1776)
-  * [4.2 国学在国内（省份）中](https://plato.stanford.edu/entries/kokugaku-school/#KokuKuniProv)
-
-    * [宫広定男（1797-1858）](https://plato.stanford.edu/entries/kokugaku-school/#MiyaSada1797)
-  * [ 4.3 女性国学者](https://plato.stanford.edu/entries/kokugaku-school/#FemaKoku)
-
-    * [松尾太纹（1811-1894）](https://plato.stanford.edu/entries/kokugaku-school/#MatsTase1811)
-  * [4.4 东北的平田门徒](https://plato.stanford.edu/entries/kokugaku-school/#HiraDiscNort)
-
-    * [平尾露仙（1808–1880）和鹤屋有世（1808–1871）](https://plato.stanford.edu/entries/kokugaku-school/#HiraRose1808TsurAriy1808)
-  * [4.5 国学与明治维新](https://plato.stanford.edu/entries/kokugaku-school/#KokuMeijRest)
-
-    * [Yano Gendō 或 Harumichi (1823–1887)](https://plato.stanford.edu/entries/kokugaku-school/#YanoGendHaru1823)
-* [5. 明治时期 (1868–1912) 国学](https://plato.stanford.edu/entries/kokugaku-school/#MeijPeri1868Koku)
-
-  * [Ōkuni Takamasa (1792–1871) 和 Fukuba Bisei (1831–1907)](https://plato.stanford.edu/entries/kokugaku-school/#KuniTaka1792FukuBise1831)
-* [6. 明治时期的国学](https://plato.stanford.edu/entries/kokugaku-school/#KokuAfteMeij)
-* [ 参考文献](https://plato.stanford.edu/entries/kokugaku-school/#Bib)
-
-  * [ 主要资料](https://plato.stanford.edu/entries/kokugaku-school/#Prim)
-  * [ 次要的](https://plato.stanford.edu/entries/kokugaku-school/#Seco)
-* [ 学术工具](https://plato.stanford.edu/entries/kokugaku-school/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kokugaku-school/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kokugaku-school/#Rel)
-
+ 
 ---
 
 ## 1. 定义问题

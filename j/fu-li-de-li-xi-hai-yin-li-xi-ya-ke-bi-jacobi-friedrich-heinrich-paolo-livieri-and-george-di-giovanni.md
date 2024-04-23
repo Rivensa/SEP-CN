@@ -7,27 +7,7 @@
 弗里德里希·海因里希·雅可比（出生于 1743 年，逝世于 1819 年）是现代哲学及其产物（德国晚期启蒙的理性主义）、康德的先验唯心主义、费希特的系统哲学以及谢林的唯心主义的批评者。起初，他并未被视为一位一流的哲学家，但他具备了提出正确问题的天赋：哲学是否忘记了概念化条件与存在条件之间的差异？它是否忘记了解释必须从无法进一步解释的事物开始？它是否忘记了思维和存在是不同的？雅可比打算纠正这个错误，因此他将自己的努力集中在对存在的哲学定义上。通过关注以个体行动者形式存在的个体，他的哲学开辟了一条通向充满独特主体、个人上帝和神圣价值秩序的生命宇宙的孤独之路。雅可比提出的表达和主题至今仍然引人共鸣（di Giovanni，1994：115）。
 
 他是那个塑造了“虚无主义”概念哲学意义的人，与其宗教内涵有所区别。在他的词汇中，虚无主义是亚里士多德之后所有哲学的必然结果。尽管他从未认为自己是一个非理性主义者，但他被指责攻击理性并重新引入保守价值观。事实上，他批评了理性的工具性使用和推理的辩证形式。相反，他提倡一系列不同的概念，最终揭示了重新构想现实的可能性。
-
-* [1. 生平和学术生涯](https://plato.stanford.edu/entries/friedrich-jacobi/#LifeInteCare)
-* [ 2. 早期著作](https://plato.stanford.edu/entries/friedrich-jacobi/#EarlWrit)
-* [3. 主要哲学著作](https://plato.stanford.edu/entries/friedrich-jacobi/#MainPhilWork)
-
-  * [3.1 《斯宾诺莎信函》（第一版，1785 年）](https://plato.stanford.edu/entries/friedrich-jacobi/#SpinLett1stEdit1785)
-  * [3.2 弗里德里希·海因里希·雅可比的“斯宾诺莎信函”（第二版，1789 年）](https://plato.stanford.edu/entries/friedrich-jacobi/#SpinLett2ndEdit1789)
-  * [3.3 弗里德里希·海因里希·雅可比的“斯宾诺莎信函”（第三版，1819 年）](https://plato.stanford.edu/entries/friedrich-jacobi/#SpinLett3rdEdit1819)
-  * [3.4 弗里德里希·海因里希·雅可比的“大卫·休谟对话”（1787 年）](https://plato.stanford.edu/entries/friedrich-jacobi/#DaviHume1stEdit1787)
-  * [3.5 弗里德里希·海因里希·雅可比致费希特的公开信（1799 年）](https://plato.stanford.edu/entries/friedrich-jacobi/#OpenLettFich1799)
-  * [3.6 关于批判试图将理性归纳为理解力的尝试（1802 年）](https://plato.stanford.edu/entries/friedrich-jacobi/#OnCritAtRedReaUnder1802)
-  * [3.7 关于神圣事物及其启示（1811 年）](https://plato.stanford.edu/entries/friedrich-jacobi/#OnDivTh)
-* [4. 回顾（1815-1819）](https://plato.stanford.edu/entries/friedrich-jacobi/#Retr)
-* [ 参考文献](https://plato.stanford.edu/entries/friedrich-jacobi/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/friedrich-jacobi/#PrimLite)
-  * [ 二手文献](https://plato.stanford.edu/entries/friedrich-jacobi/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/friedrich-jacobi/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/friedrich-jacobi/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/friedrich-jacobi/#Rel)
-
+ 
 ---
 
 ## 1. 生平和知识生涯

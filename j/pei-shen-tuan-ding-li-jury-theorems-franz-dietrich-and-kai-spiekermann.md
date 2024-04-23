@@ -5,51 +5,7 @@
 
 本条目回顾并批评了各种陪审团定理。首先讨论了康多塞的最初陪审团定理，然后逐步引入了具有更合适前提和结论的陪审团定理。它解释了哲学基础，并将陪审团定理与多样性、研讨、共享证据、共享观点和其他现象联系起来。最后，它将陪审团定理与其历史背景以及民主理论、社会认识论和社会选择理论联系起来。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/jury-theorems/#Intr)
-
-  * [1.1 陪审团定理是什么？](https://plato.stanford.edu/entries/jury-theorems/#WhatJuryTheo)
-  * [1.2 决策的广义概念](https://plato.stanford.edu/entries/jury-theorems/#BroaNotiDeci)
-* [2. 三个陪审团定理](https://plato.stanford.edu/entries/jury-theorems/#ThreJuryTheo)
-
-  * [2.1 陪审团定理](https://plato.stanford.edu/entries/jury-theorems/#CondJuryTheo)
-  * [2.2 投票的共同原因问题](https://plato.stanford.edu/entries/jury-theorems/#ProbCommCausVote)
-  * [2.3 部分解决方案：条件陪审团定理](https://plato.stanford.edu/entries/jury-theorems/#PartSoluCondJuryTheo)
-  * [2.4 独立性与能力之间的基本张力](https://plato.stanford.edu/entries/jury-theorems/#FundTensBetwIndeComp)
-  * [2.5 能力敏感的陪审团定理](https://plato.stanford.edu/entries/jury-theorems/#CompSensJuryTheo)
-  * [2.6 三个陪审团定理的比较](https://plato.stanford.edu/entries/jury-theorems/#ThreJuryTheoComp)
-* [3. 陪审团定理和多样性](https://plato.stanford.edu/entries/jury-theorems/#JuryTheoDive)
-
-  * [3.1 多样性与能力异质性](https://plato.stanford.edu/entries/jury-theorems/#DiveVersCompHete)
-  * [3.2 能力异质性威胁到群体智慧](https://plato.stanford.edu/entries/jury-theorems/#CompHeteThreWisdCrow)
-  * [3.3 陪审团定理作为判断独立性](https://plato.stanford.edu/entries/jury-theorems/#DiveJudgInde)
-  * [3.4 陪审团定理影响决策的两个阶段：研讨和汇总](https://plato.stanford.edu/entries/jury-theorems/#DiveAffeBothDeciMakiStagDeliAggr)
-* [4. 问题和疑问](https://plato.stanford.edu/entries/jury-theorems/#ProbQues)
-
-  * [4.1 是否存在正确性事实？](https://plato.stanford.edu/entries/jury-theorems/#DoCorrFactExis)
-  * [4.2 正确性事实是否不确定？](https://plato.stanford.edu/entries/jury-theorems/#CorrFactUnde)
-  * [4.3 是否存在无限的证据生成？](https://plato.stanford.edu/entries/jury-theorems/#UnliEvidGene)
-  * [4.4 令人难以置信的真理问题](https://plato.stanford.edu/entries/jury-theorems/#ProbIncrTrut)
-  * [4.5 讨论：独立削弱者还是能力提升者？](https://plato.stanford.edu/entries/jury-theorems/#DeliIndeUndeCompBoos)
-  * [4.6 依赖于群体的个体能力](https://plato.stanford.edu/entries/jury-theorems/#GrouDepeIndiComp)
-  * [4.7 知识策略性投票](https://plato.stanford.edu/entries/jury-theorems/#EpisStraVoti)
-* [5. 其他类型的陪审团定理](https://plato.stanford.edu/entries/jury-theorems/#OtheTypeJuryTheo)
-
-  * [5.1 更一般的知识聚合问题](https://plato.stanford.edu/entries/jury-theorems/#EpisAggrProbGene)
-  * [5.2 多个选择之间的社会选择](https://plato.stanford.edu/entries/jury-theorems/#SociChoiBetwMultAlte)
-  * [5.3 聚合估计](https://plato.stanford.edu/entries/jury-theorems/#AggrEsti)
-  * [5.4 聚合评估或分级](https://plato.stanford.edu/entries/jury-theorems/#AggrEvalGrad)
-  * [5.5 陪审团定理在相互关联命题上的判断聚合](https://plato.stanford.edu/entries/jury-theorems/#JudgAggrOverInteProp)
-  * [5.6 陪审团定理用于追踪个体事实的选民](https://plato.stanford.edu/entries/jury-theorems/#JuryTheoForVoteTracIndiFact)
-* [6. 背景和选定应用](https://plato.stanford.edu/entries/jury-theorems/#BackSeleAppl)
-
-  * [6.1 陪审团定理与民主理论](https://plato.stanford.edu/entries/jury-theorems/#JuryTheoDemoTheo)
-  * [6.2 陪审团定理与社会认识论](https://plato.stanford.edu/entries/jury-theorems/#JuryTheoSociEpis)
-  * [6.3 陪审团定理与认知社会选择理论](https://plato.stanford.edu/entries/jury-theorems/#JuryTheoEpisSociChoiTheo)
-* [ 参考文献](https://plato.stanford.edu/entries/jury-theorems/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/jury-theorems/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/jury-theorems/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/jury-theorems/#Rel)
-
+ 
 ---
 
 ## 1. 介绍
