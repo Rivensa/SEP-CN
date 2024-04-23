@@ -10,22 +10,6 @@ _首次发表于 2018 年 2 月 23 日星期五；实质性修订于 2024 年 2 
 
 分歧在哲学中被用于许多任务。在元伦理学中，关于伦理学的分歧被用来激发反现实主义观点。在宗教哲学中，分歧被用来激发宗教多元主义。本文探讨了与分歧认知相关的中心认识论问题，分歧对我们知识以及信念的合理性所产生的影响。
 
-* [分歧与信念](https://plato.stanford.edu/entries/disagreement/#DisaBeli)
-* [信念分歧与行动分歧](https://plato.stanford.edu/entries/disagreement/#BeliDisaVsActiDisa)
-* [回应分歧与随后的信心水平](https://plato.stanford.edu/entries/disagreement/#RespDisaVsSubsLeveConf)
-* [与上级、下级、同级和陌生人的分歧](https://plato.stanford.edu/entries/disagreement/#DisaSupeInfePeerUnkn)
-* [同行分歧](https://plato.stanford.edu/entries/disagreement/#PeerDisa)
-  * [平等权重观](https://plato.stanford.edu/entries/disagreement/#EquaWeigView)
-  * [坚定的观点](https://plato.stanford.edu/entries/disagreement/#SteaView)
-  * [5.3 The Justificationist View](https://plato.stanford.edu/entries/disagreement/#JustView)
-  * [5.4 The Total Evidence View](https://plato.stanford.edu/entries/disagreement/#TotaEvidView)
-  * [其他问题](https://plato.stanford.edu/entries/disagreement/#OtheIssu)
-* [分歧 By the Numbers](https://plato.stanford.edu/entries/disagreement/#DisaNumb)
-* [分歧和怀疑](https://plato.stanford.edu/entries/disagreement/#DisaSkep)
-* [参考文献](https://plato.stanford.edu/entries/disagreement/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/disagreement/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/disagreement/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/disagreement/#Rel)
 
 ***
 

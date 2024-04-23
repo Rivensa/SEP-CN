@@ -4,23 +4,6 @@
 
 直到 20 世纪 60 年代之前，哲学家对于描绘或图像表达的研究比语言意义的研究要少得多。传统观点认为，图片通过复制对象的外观来代表对象的观点自 20 世纪初以来就受到艺术理论家的质疑，当时被认为是具有幻觉效果的绘画风格因“原始”艺术风格的声望日益增长以及当时艺术家们进行的野兽派和立体派实验而逐渐失宠。但是几十年过去了，哲学家们才对这些争论产生了兴趣。当他们对此感兴趣时，主要是受到了两本书的影响：恩斯特·冈布里希的《艺术与幻觉》（1960 年）和尼尔森·古德曼的《艺术语言》（1968 年）。冈布里希广泛探讨了关于描绘的本质、风格的演变以及现实主义的本质的各种问题，他在这些问题上广泛借鉴了自赫尔姆霍兹以来提出的视觉感知理论以及卡尔·波普尔的科学证伪理论。相比之下，古德曼则捍卫了一种纯粹的约定论描绘理论，特别是现实主义描绘理论，这种理论根植于他与 W.V.O.奎因合作开发的名词主义哲学。过去五十年对这个主题的哲学研究的很大一部分工作都是试图发展一种普遍的描绘理论，特别是现实主义描绘理论，以克服他们的观点所面临的反对意见，同时避免他们所拒绝的传统观念的简化和所谓的文化偏见。
 
-* [1. 描绘的相似性理论](https://plato.stanford.edu/entries/depiction/#ReseTheoDepi)
-
-  * [1.1 相似性及其批评者](https://plato.stanford.edu/entries/depiction/#ReseCrit)
-  * [1.2 最近的相似性理论](https://plato.stanford.edu/entries/depiction/#ReceReseTheo)
-* [2. 描绘的传统主义理论](https://plato.stanford.edu/entries/depiction/#ConvTheoDepi)
-* [3. 描绘的心理学理论](https://plato.stanford.edu/entries/depiction/#PsycTheoDepi)
-
-  * [3.1 经验理论](https://plato.stanford.edu/entries/depiction/#ExpeTheo)
-
-    * [3.1.1 视为和视中](https://plato.stanford.edu/entries/depiction/#SeeiSeei)
-    * [3.1.2 经验相似性和假装](https://plato.stanford.edu/entries/depiction/#ExpeReseMakeBeli)
-  * [3.2 基于识别的理论](https://plato.stanford.edu/entries/depiction/#RecoBaseTheo)
-* [ 4. 现实主义](https://plato.stanford.edu/entries/depiction/#Real)
-* [ 参考文献](https://plato.stanford.edu/entries/depiction/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/depiction/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/depiction/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/depiction/#Rel)
 
 ---
 

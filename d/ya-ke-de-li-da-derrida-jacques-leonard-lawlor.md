@@ -7,20 +7,6 @@
 
 雅克·德里达（1930-2004 年）是“解构主义”的创始人，这是一种批评文学、哲学文本以及政治制度的方式。尽管德里达有时对“解构”一词的命运表示遗憾，但它的流行表明了他的思想在哲学、文学批评与理论、艺术以及特别是建筑理论和政治理论方面的广泛影响。事实上，德里达几乎达到了媒体明星的地位，数百人涌入礼堂听他演讲，有电影和电视节目专门介绍他，有无数的书籍和文章专门研究他的思想。除了批判，德里达的解构主义还试图重新构想自我意识之间的差异（自我意识中的“的”之差异）。但更重要的是，解构主义试图实现正义，因为正义是不可能实现的，所以解构主义在这一追求上是无情的。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/derrida/#LifWor)
-* [ 2. “廉洁无瑕者”](https://plato.stanford.edu/entries/derrida/#Inc)
-* [3. 基本论证及其含义：时间、自言自语、秘密和主权](https://plato.stanford.edu/entries/derrida/#BasArgImpTimHeaOneSpeSecSov)
-* [4. 基本论证的阐述：最坏的情况和好客](https://plato.stanford.edu/entries/derrida/#ElaBasArgWorHos)
-* [ 5. 解构](https://plato.stanford.edu/entries/derrida/#Dec)
-* [ 参考书目](https://plato.stanford.edu/entries/derrida/#Bib)
-
-  * [ 德里达的著作](https://plato.stanford.edu/entries/derrida/#WorDer)
-  * [ 英文翻译](https://plato.stanford.edu/entries/derrida/#EngTra)
-  * [参考资料和进一步阅读](https://plato.stanford.edu/entries/derrida/#RefFurRea)
-* [ 学术工具](https://plato.stanford.edu/entries/derrida/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/derrida/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/derrida/#Rel)
-
 ---
 
 ## 1. 生平与作品

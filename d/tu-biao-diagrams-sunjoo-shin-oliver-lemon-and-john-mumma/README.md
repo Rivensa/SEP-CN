@@ -4,39 +4,7 @@
 
 我们所有人都参与并利用有效的推理，但我们实际执行的推理在各种方面与大多数（形式）逻辑学家研究的推理有所不同。人类通常进行的推理涉及通过多种媒介获得的信息。相比之下，形式逻辑迄今主要关注的是基于一种形式信息的有效推理，即句子形式的信息。最近，许多哲学家、心理学家、逻辑学家、数学家和计算机科学家越来越意识到多模态推理的重要性，此外，许多研究已在非符号化，特别是图解表示系统领域展开。本文概述了这一新研究领域的总体方向，并着重讨论了证明中图表的逻辑地位、它们的表征功能和适当性、不同类型的图解系统，以及图表在人类认知中的作用。
 
-* [ 介绍](https://plato.stanford.edu/entries/diagrams/#Int)
-* [图表作为表征系统](https://plato.stanford.edu/entries/diagrams/#DiaRepSys)
 
-  * [ 2.1 欧拉图](https://plato.stanford.edu/entries/diagrams/#EulDia)
-  * [ 2.2 维恩图](https://plato.stanford.edu/entries/diagrams/#VenDia)
-  * [ 皮尔斯的延伸](https://plato.stanford.edu/entries/diagrams/#PeiExt)
-  * [图表作为形式系统](https://plato.stanford.edu/entries/diagrams/#DiaForSys)
-  * [欧拉圆圈再探](https://plato.stanford.edu/entries/diagrams/#EulCirRev)
-* [图表的空间属性的后果](https://plato.stanford.edu/entries/diagrams/#ConSpaProDia)
-
-  * [图表 3.1 对图解表达和推理的限制](https://plato.stanford.edu/entries/diagrams/#LimDiaRepRea)
-  * [图表的有效性](https://plato.stanford.edu/entries/diagrams/#EffDia)
-* [几何中的图表系统](https://plato.stanford.edu/entries/diagrams/#DiaSysGeo)
-
-  * [公元前 4 世纪至公元 20 世纪对欧几里得图表的看法](https://plato.stanford.edu/entries/diagrams/#VieEucDia4thCenBC20tAD)
-  * [4.2 Manders 的确切/共确切区分与一般性问题](https://plato.stanford.edu/entries/diagrams/#ManExaExaDisGenPro)
-
-    * [确切/共同确切区分](https://plato.stanford.edu/entries/diagrams/#ExaExaDis)
-    * [欧几里德构造的普遍性问题](https://plato.stanford.edu/entries/diagrams/#GenProEucCon)
-  * [4.3 正式系统 FG 和 Eu](https://plato.stanford.edu/entries/diagrams/#ForSysFGEu)
-* [图表与认知，应用](https://plato.stanford.edu/entries/diagrams/#DiaCogApp)
-
-  * [其他一些图表系统](https://plato.stanford.edu/entries/diagrams/#SomOthDiaSys)
-  * [图表作为心智表征。](https://plato.stanford.edu/entries/diagrams/#DiaMenRep)
-  * [5.3 图表的认知作用](https://plato.stanford.edu/entries/diagrams/#CogRolDia)
-* [ 抽象](https://plato.stanford.edu/entries/diagrams/#Sum)
-* [ 参考文献](https://plato.stanford.edu/entries/diagrams/#Bib)
-
-  * [ 参考文献](https://plato.stanford.edu/entries/diagrams/#Ref)
-  * [ 相关文献](https://plato.stanford.edu/entries/diagrams/#RelLit)
-* [ 学术工具](https://plato.stanford.edu/entries/diagrams/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/diagrams/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/diagrams/#Rel)
 
 ---
 

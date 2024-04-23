@@ -10,25 +10,7 @@
 
 对主要观点和争论的概述表明，在文献中对默认解释应该具备的唯一属性集合没有共识，这引发了对该术语是否仅具有理论内部实用性的讨论。当然，接下来的问题是术语的实用性和概念的实用性 - 这是我在结论部分中在概念工程的背景下提及的内容。
 
-* [1. 语义学和语用学中的默认解释](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#DefaInteSemaPrag)
 
-  * [1.1 默认值、所说的和未说的](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#DefaSaidUnsa)
-  * [ 1.2 默认推理](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#DefaReas)
-  * [1.3 推定意义和可取消性](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#PresMeanCanc)
-  * [1.4 修辞结构规则](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#RhetStruRule)
-  * [1.5 计算语义景观](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#CompSemaLand)
-  * [1.6 优选理论语用学中的默认值](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#DefaOptiTheoPrag)
-  * [1.7 真条件语用学中的默认值](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#DefaTrutCondPrag)
-  * [1.8 默认语义中的默认值类型](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#TypeDefaDefaSema)
-* [2. 默认解释的定义特征](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#DefiCharDefaInte)
-* [3. 默认值、显著性和字面性](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#DefaSaliLite)
-* [4. 意义的共同构建：走向动态、互动的默认值](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#CoConsMeanTowaDynaInteDefa)
-* [5. 默认值和问责制](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#DefaAcco)
-* [6. 总结和未来展望](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#ConcRemaFutuPros)
-* [ 参考文献](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/defaults-semantics-pragmatics/#Rel)
 
 ---
 

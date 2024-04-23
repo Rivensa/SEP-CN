@@ -4,32 +4,7 @@
 
 在逻辑学中，析取是一个二元联结词，经典上被解释为真值函数，其输出为真，如果至少一个输入句子（析取项）为真，否则为假。它与自然语言中的析取词（如 or）的联系一直让哲学家、逻辑学家和语言学家感到困惑。在这篇文章中，我们概述了对析取的逻辑和语言分析，重点关注逻辑和语言之间的界面发展。第 1 和第 2 节将析取作为经典逻辑中的二元联结词以及在许多非经典解释中进行介绍。第 3 节讨论了自然语言中析取词的一些基本事实，并引入了一个广义的、跨范畴的析取概念，作为（布尔）代数中的连接运算符。第 4 和第 5 节介绍了 Grice 关于对话中 or 的使用以及关于语言析取词的包容和排他用法的最新讨论。最后，第 6 和第 7 节介绍了两种最近的非经典语言析取解释，并讨论了对自由选择现象、析取性问题和具有析取前提的反事实情况的应用。
 
-* [析取/逻辑或在古典逻辑中](https://plato.stanford.edu/entries/disjunction/#DisjClasLogi)
-* [非经典变体](https://plato.stanford.edu/entries/disjunction/#NonClasVari)
 
-  * [2.1 排中律和双值原则](https://plato.stanford.edu/entries/disjunction/#LawExclMiddPrinBiva)
-
-    * [析取在直觉主义逻辑中](https://plato.stanford.edu/entries/disjunction/#DisjIntuLogi)
-    * [析取在多值逻辑中](https://plato.stanford.edu/entries/disjunction/#DisjMultValuLogi)
-    * [析取在动态语义学中](https://plato.stanford.edu/entries/disjunction/#DisjDynaSema)
-    * [析取在超值论中](https://plato.stanford.edu/entries/disjunction/#DisjSupe)
-    * [析取在量子逻辑中](https://plato.stanford.edu/entries/disjunction/#DisjQuanLogi)
-  * [析取/逻辑或和加法](https://plato.stanford.edu/entries/disjunction/#DisjSyllAddi)
-* [析取/逻辑或在语言中。](https://plato.stanford.edu/entries/disjunction/#DisjLang)
-* [析取/逻辑或在对话中](https://plato.stanford.edu/entries/disjunction/#DisjConv)
-* [析取/逻辑或](https://plato.stanford.edu/entries/disjunction/#InclExclUses)
-* [模态析取和自由选择的解释](https://plato.stanford.edu/entries/disjunction/#ModaAccoDisjFreeChoi)
-* [析取的基于替代的解释](https://plato.stanford.edu/entries/disjunction/#AlteBaseAccoDisj)
-
-  * [7.1 好奇语义](https://plato.stanford.edu/entries/disjunction/#InquSema)
-  * [语言应用的例子](https://plato.stanford.edu/entries/disjunction/#ExamLingAppl)
-
-    * [析取在条件句的前件](https://plato.stanford.edu/entries/disjunction/#DisjAnteCond)
-    * [析取/逻辑或在问题中](https://plato.stanford.edu/entries/disjunction/#DisjQues)
-* [ 参考文献](https://plato.stanford.edu/entries/disjunction/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/disjunction/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/disjunction/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/disjunction/#Rel)
 
 ---
 

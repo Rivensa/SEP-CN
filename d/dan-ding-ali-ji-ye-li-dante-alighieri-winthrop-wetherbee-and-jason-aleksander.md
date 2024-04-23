@@ -4,19 +4,7 @@ _首次发表于 2001 年 1 月 29 日星期一；实质性修订于 2022 年 8 
 
 但丁与哲学的交融无法与他作为一位诗人的职业分开来研究，在这个职业中，他努力通过教育他的同胞并激励他们追求内心的幸福来提高公众话语水平。他是当时最有学问的意大利俗人之一，对亚里士多德的逻辑和自然哲学、神学以及古典文学非常熟悉。他当然以写作《神曲》而闻名，但在他的诗歌作品以及哲学论文和其他著作中，他自由地混合和综合了哲学和神学的语言，同时广泛引用和暗示了圣经、古代和当代诗歌。尽管他对世界文学和其他艺术流派的贡献得到了普遍的认可，但他的神学想象力也一直影响着他的时代直至今天。相比之下，他的哲学遗产更难以评估，尽管他的著作至少提供了一个研究晚中世纪和文艺复兴哲学景观的有力工具。
 
-* [1. 生活](https://plato.stanford.edu/entries/dante/#Lif)
-* [2. 早期诗歌](https://plato.stanford.edu/entries/dante/#EarPoe)
-* [3. 哲学影响](https://plato.stanford.edu/entries/dante/#PhiInfl)
-* [4. 《宴会》](https://plato.stanford.edu/entries/dante/#Con)
-* [5. 《通俗散文》](https://plato.stanford.edu/entries/dante/#DVE)
-* [6. 《君权论》](https://plato.stanford.edu/entries/dante/#Mon)
-* [7. 《神曲》](https://plato.stanford.edu/entries/dante/#ComDivCom)
-* [参考文献](https://plato.stanford.edu/entries/dante/#Bib)
-  * [一手资料和翻译](https://plato.stanford.edu/entries/dante/#EdiItaTex)
-  * [二手资料](https://plato.stanford.edu/entries/dante/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/dante/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dante/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/dante/#Rel)
+
 
 ***
 

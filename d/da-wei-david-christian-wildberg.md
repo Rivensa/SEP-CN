@@ -4,14 +4,6 @@
 
 “大卫”在某些哲学著作的手稿中被称为作者：一套关于哲学的入门讲座、对波菲利的《导论》的评论，以及一篇现在被归属于伊利亚斯的亚里士多德《范畴论》的评论。根据这些作品内部的证据，这个名字通常被认为是指一个基督教新柏拉图主义哲学家和评论家，他可能在 6 世纪中叶或下半叶在亚历山大工作，甚至更晚。这个“大卫”通常也被认为是大卫无敌，亚美尼亚哲学早期历史上的重要人物，但这种生平认定非常不确定。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/david/#1)
-* [ 2. 现存的著作](https://plato.stanford.edu/entries/david/#2)
-* [3. 作者身份的问题](https://plato.stanford.edu/entries/david/#3)
-* [ 参考文献](https://plato.stanford.edu/entries/david/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/david/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/david/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/david/#Rel)
-
 ---
 
 ## 1. 简介

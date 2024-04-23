@@ -6,23 +6,6 @@
 
 笛卡尔在《几何学》中提出的问题解决技巧和数学结果既是新颖的，又对早期现代数学的实践产生了极大的影响。然而，在《几何学》中，我们还可以找到一种哲学意义：代数与几何的融合以及笛卡尔数学方案中对“几何”状态的独特处理方式，这些都是围绕早期现代数学实践展开的哲学辩论中值得注意的贡献。通过借鉴笛卡尔数学研究所处的背景，并研究塑造笛卡尔早期数学研究的主要问题和议题，将在接下来的内容中突出强调《几何学》第一卷和第二卷的历史和哲学意义。[1]
 
-* [1. 笛卡尔数学研究的背景](https://plato.stanford.edu/entries/descartes-mathematics/#BacDesMatRes)
-
-  * [1.1 曲线的构造和几何问题的解决](https://plato.stanford.edu/entries/descartes-mathematics/#ConCurSolGeoPro)
-  * [1.2 几何分析和代数](https://plato.stanford.edu/entries/descartes-mathematics/#GeoAnaAlg)
-* [2. 笛卡尔早期的数学研究（约 1616 年至 1629 年）](https://plato.stanford.edu/entries/descartes-mathematics/#DesEarMatResCa161)
-
-  * [2.1 文本和来源](https://plato.stanford.edu/entries/descartes-mathematics/#TexSou)
-  * [2.2 问题和提议](https://plato.stanford.edu/entries/descartes-mathematics/#ProPro)
-* [ 3. 几何学 (1637)](https://plato.stanford.edu/entries/descartes-mathematics/#LaGeo163)
-
-  * [3.1 第一卷：笛卡尔的几何分析](https://plato.stanford.edu/entries/descartes-mathematics/#BooOneDesGeoAna)
-  * [3.2 第二卷：曲线的分类和几何综合](https://plato.stanford.edu/entries/descartes-mathematics/#BooTwoClaCurGeoSyn)
-  * [3.3 笛卡尔几何计算的紧张和限制](https://plato.stanford.edu/entries/descartes-mathematics/#TenLimDesGeoCal)
-* [ 参考文献](https://plato.stanford.edu/entries/descartes-mathematics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/descartes-mathematics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/descartes-mathematics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/descartes-mathematics/#Rel)
 
 ---
 

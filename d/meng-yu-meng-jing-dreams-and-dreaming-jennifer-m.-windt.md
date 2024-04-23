@@ -4,38 +4,6 @@
 
 梦与梦境在哲学的各个领域中被广泛讨论，涵盖认识论、伦理学、本体论，以及最近的心灵哲学和认知科学。本条目概述了睡眠和梦境哲学中的主要主题，重点关注西方分析哲学，并讨论相关的科学发现。
 
-* [梦与认识论](https://plato.stanford.edu/entries/dreams-dreaming/#DreaEpis)
-
-  * [笛卡尔的梦境怀疑主义](https://plato.stanford.edu/entries/dreams-dreaming/#CartDreaSkep)
-  * [1.2 梦怀疑论的早期讨论及笛卡尔版本的特殊之处](https://plato.stanford.edu/entries/dreams-dreaming/#EarlDiscDreaSkepWhyDescVersSpec)
-  * [梦与梦境及其他怀疑场景](https://plato.stanford.edu/entries/dreams-dreaming/#DreaOtheSkepScen)
-  * [笛卡尔对梦问题和现实世界梦的解决方案](https://plato.stanford.edu/entries/dreams-dreaming/#DescSoluDreaProbRealWorlDrea)
-* [梦的本体论](https://plato.stanford.edu/entries/dreams-dreaming/#OntoDrea)
-
-  * [梦与梦境是经历吗？](https://plato.stanford.edu/entries/dreams-dreaming/#DreaExpe)
-  * [梦与梦境作为瞬时记忆插入。](https://plato.stanford.edu/entries/dreams-dreaming/#DreaInstMemoInse)
-  * [2.3 梦与梦境的经验证据](https://plato.stanford.edu/entries/dreams-dreaming/#EmpiEvidQuesDreaExpe)
-  * [梦与幻觉](https://plato.stanford.edu/entries/dreams-dreaming/#DreaHall)
-  * [梦与幻觉](https://plato.stanford.edu/entries/dreams-dreaming/#DreaIllu)
-  * [梦与梦境作为想象体验](https://plato.stanford.edu/entries/dreams-dreaming/#DreaImagExpe)
-  * [梦与梦境及清醒时的心灵漫游](https://plato.stanford.edu/entries/dreams-dreaming/#DreaWakiMindWand)
-  * [梦与梦境](https://plato.stanford.edu/entries/dreams-dreaming/#ProbDreaBeli)
-* [梦与梦境 意识理论](https://plato.stanford.edu/entries/dreams-dreaming/#DreaTheoCons)
-
-  * [梦境作为意识研究的模型系统和测试案例](https://plato.stanford.edu/entries/dreams-dreaming/#DreaModeSystTestCaseForConsRese)
-  * [梦与梦境，精神病和妄想](https://plato.stanford.edu/entries/dreams-dreaming/#DreaPsycDelu)
-  * [梦境之外：无梦睡眠体验与睡眠、清醒和意识概念](https://plato.stanford.edu/entries/dreams-dreaming/#BeyoDreaDreaSleeExpeConcSleeWakiCons)
-* [梦与梦境自我](https://plato.stanford.edu/entries/dreams-dreaming/#DreaSelf)
-* [梦中的不道德和道德责任](https://plato.stanford.edu/entries/dreams-dreaming/#ImmoMoraRespDrea)
-* [梦的意义和梦境的功能](https://plato.stanford.edu/entries/dreams-dreaming/#MeanDreaFuncDrea)
-
-  * [梦的含义](https://plato.stanford.edu/entries/dreams-dreaming/#MeanDrea)
-  * [梦与梦境](https://plato.stanford.edu/entries/dreams-dreaming/#FuncDrea)
-* [ 结论](https://plato.stanford.edu/entries/dreams-dreaming/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/dreams-dreaming/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/dreams-dreaming/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dreams-dreaming/#Oth)
-* [ 梦与梦境](https://plato.stanford.edu/entries/dreams-dreaming/#Rel)
 
 ---
 

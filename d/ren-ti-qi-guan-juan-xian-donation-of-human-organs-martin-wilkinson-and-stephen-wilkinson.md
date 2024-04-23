@@ -13,31 +13,7 @@
 
 器官从死者和活人身上取出。每个类别都引发了不同的问题，我们从死亡器官捐赠者开始。
 
-* [死者的器官获取](https://plato.stanford.edu/entries/organ-donation/#OrgaRetrDead)
 
-  * [器官获取的实践](https://plato.stanford.edu/entries/organ-donation/#OrgaRetrPrac)
-  * [提案改革](https://plato.stanford.edu/entries/organ-donation/#PropForRefo)
-
-    * [1.2.1 鼓励或强制逝者做出更明确的选择](https://plato.stanford.edu/entries/organ-donation/#EncoMandCleaChoiDece)
-    * [结束家族否决权](https://plato.stanford.edu/entries/organ-donation/#EndFamiPoweVeto)
-    * [1.2.3 更改默认设置，除非死者正式提出异议，否则将取出器官](https://plato.stanford.edu/entries/organ-donation/#ChanDefaSoOrgaTakeExceWhenDeceFormObje)
-    * [ 1.2.4 征用器官](https://plato.stanford.edu/entries/organ-donation/#ConsOrga)
-    * [ 进一步的建议](https://plato.stanford.edu/entries/organ-donation/#FurtProp)
-* [活体器官捐献](https://plato.stanford.edu/entries/organ-donation/#OrgaRetrLiviDono)
-
-  * [不要伤害](https://plato.stanford.edu/entries/organ-donation/#DoNoHarm)
-  * [ 2.2 有效同意](https://plato.stanford.edu/entries/organ-donation/#ValiCons)
-  * [2.3 同意的道德力量](https://plato.stanford.edu/entries/organ-donation/#MoraForcCons)
-  * [2.4 不称职的活体捐献者](https://plato.stanford.edu/entries/organ-donation/#IncoLiviDono)
-* [器官的分配](https://plato.stanford.edu/entries/organ-donation/#AlloOrga)
-
-  * [器官分配的复杂性](https://plato.stanford.edu/entries/organ-donation/#CompOrgaAllo)
-  * [3.2 自我造成的疾病和社会价值](https://plato.stanford.edu/entries/organ-donation/#SelfInflIllnSociValu)
-  * [3.3 分配与捐献的互动](https://plato.stanford.edu/entries/organ-donation/#InteAlloDona)
-* [ 参考文献](https://plato.stanford.edu/entries/organ-donation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/organ-donation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/organ-donation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/organ-donation/#Rel)
 
 ---
 

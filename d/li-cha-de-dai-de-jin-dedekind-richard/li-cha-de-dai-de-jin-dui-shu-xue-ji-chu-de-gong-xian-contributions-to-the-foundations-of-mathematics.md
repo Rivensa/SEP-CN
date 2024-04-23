@@ -9,26 +9,6 @@ Richard Dedekind（1831-1916）是 19 世纪最伟大的数学家之一，也是
 
 尽管德德金德对数学及其基础的贡献是众所周知的，但很少有人将它们一起讨论。特别是，他的基础著作通常被单独对待，与他的其他著作分开。本条目提供了更广泛、更综合的调查。主要关注点将放在德德金德的基础著作上，但它们将与他的整个数学工作相关联。实际上，将会论证基础问题在整个过程中起作用，因此任何试图严格区分他的“数学”和他的“基础”工作的尝试都是人为和误导性的。本条目的另一个目标是确立他对数学哲学的贡献的持续影响力。他们的全部意义只刚刚开始被认识到，这一点将变得明显。尤其是在德德金德的方法论和认识论方面，他的方法奠定了在他的著作中出现的逻辑和形而上学观点的基础。
 
-* [1. 个人简介](https://plato.stanford.edu/entries/dedekind-foundations/#BioInf)
-* [2. 明显的基础性贡献](https://plato.stanford.edu/entries/dedekind-foundations/#OveFouWor)
-
-  * [2.1 分析的基础](https://plato.stanford.edu/entries/dedekind-foundations/#FouAna)
-  * [2.2 算术的基础](https://plato.stanford.edu/entries/dedekind-foundations/#FouAri)
-  * [2.3 现代集合论的兴起](https://plato.stanford.edu/entries/dedekind-foundations/#RisModSetThe)
-* [3. 逻辑主义和结构主义](https://plato.stanford.edu/entries/dedekind-foundations/#LogStr)
-* [4. 其他数学贡献](https://plato.stanford.edu/entries/dedekind-foundations/#OthMatWor)
-
-  * [4.1 代数数论](https://plato.stanford.edu/entries/dedekind-foundations/#AlgNumThe)
-  * [4.2 功能字段，群组，格子](https://plato.stanford.edu/entries/dedekind-foundations/#FunGroLat)
-* [5. 方法论和认识论](https://plato.stanford.edu/entries/dedekind-foundations/#MetEpi)
-* [ 6. 结语](https://plato.stanford.edu/entries/dedekind-foundations/#ConRem)
-* [ 参考文献](https://plato.stanford.edu/entries/dedekind-foundations/#Bib)
-
-  * [主要文献（德文版，英文翻译）](https://plato.stanford.edu/entries/dedekind-foundations/#PriLitGerEdiEngTra)
-  * [二次文献（英文、法文和德文）](https://plato.stanford.edu/entries/dedekind-foundations/#SecLitEngFreGer)
-* [ 学术工具](https://plato.stanford.edu/entries/dedekind-foundations/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dedekind-foundations/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dedekind-foundations/#Rel)
 
 ---
 

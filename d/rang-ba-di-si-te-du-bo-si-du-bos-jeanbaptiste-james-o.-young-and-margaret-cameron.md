@@ -4,14 +4,7 @@
 
 让·巴蒂斯特·杜博斯（生于 1670 年，卒于 1742 年）是一位法国古物学家、历史学家、外交官、博学家和美学家。他参与了古代与现代之争，撰写了关于货币学的著作，深入探讨了各种历史问题，并对美术有着持久的热爱。如今，他主要以《诗歌与绘画的批判性反思》（1719 年）的作者和现代美学的奠基人而闻名。受他的朋友约翰·洛克的深刻影响，杜博斯在法国推广经验主义方面做出了重大贡献，不仅在美学领域，还在其他哲学领域。他对几乎所有 18 世纪美学贡献者产生了影响，包括查尔斯·巴蒂斯特、亚历山大·戈特利布·鲍姆加滕、大卫·休谟、戈特霍尔德·埃弗赖姆·莱辛、摩西·门德尔松和让-雅克·卢梭。
 
-* [生活与作品](https://plato.stanford.edu/entries/du-bos/#LifeWork)
-* [批判性对诗歌和绘画的反思](https://plato.stanford.edu/entries/du-bos/#CritReflPoetPain)
-* [杜博斯对美学发展的影响](https://plato.stanford.edu/entries/du-bos/#DuBossImpaDeveAest)
-* [杜博斯论认识论和科学哲学](https://plato.stanford.edu/entries/du-bos/#DuBosEpisPhilScie)
-* [ 参考文献](https://plato.stanford.edu/entries/du-bos/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/du-bos/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/du-bos/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/du-bos/#Rel)
+
 
 ---
 

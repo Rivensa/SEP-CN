@@ -6,36 +6,6 @@
 
 本条目首先概述了 SEU 的基本承诺，然后介绍了它最著名的实证缺陷以及一些被提出来取代它的模型。接下来讨论了描述性决策理论与其规范性对应物之间的关系，并与哲学文献中的一些相关主题进行了联系。[1]
 
-* [1. 标准模型：主观预期效用](https://plato.stanford.edu/entries/decision-theory-descriptive/#StanModeSubjExpeUtil)
-
-  * [1.1 Savage 的表示定理](https://plato.stanford.edu/entries/decision-theory-descriptive/#SavaReprTheo)
-  * [ 1.2 Savage 的证明](https://plato.stanford.edu/entries/decision-theory-descriptive/#SavaProo)
-  * [1.3 概率三角形](https://plato.stanford.edu/entries/decision-theory-descriptive/#ProbTria)
-* [2. 独立性问题](https://plato.stanford.edu/entries/decision-theory-descriptive/#IssuInde)
-
-  * [ 2.1 Allais 的悖论](https://plato.stanford.edu/entries/decision-theory-descriptive/#AllaPara)
-  * [2.2 理论回应](https://plato.stanford.edu/entries/decision-theory-descriptive/#TheoResp)
-
-    * [2.2.1 概率复杂性](https://plato.stanford.edu/entries/decision-theory-descriptive/#ProbSoph)
-    * [2.2.2 具有中介性的模型](https://plato.stanford.edu/entries/decision-theory-descriptive/#ModeBetw)
-    * [2.2.3 没有介数的模型](https://plato.stanford.edu/entries/decision-theory-descriptive/#ModeWithBetw)
-* [3. 概率信念的问题](https://plato.stanford.edu/entries/decision-theory-descriptive/#IssuProbBeli)
-
-  * [3.1 艾尔斯伯格的三色悖论](https://plato.stanford.edu/entries/decision-theory-descriptive/#EllsThreColoPara)
-  * [3.2 理论响应](https://plato.stanford.edu/entries/decision-theory-descriptive/#TheoResp_1)
-
-    * [3.2.1 非加法“概率”](https://plato.stanford.edu/entries/decision-theory-descriptive/#NonAddiProb)
-    * [ 3.2.2 多个先验概率](https://plato.stanford.edu/entries/decision-theory-descriptive/#MultPrio)
-* [4. 弱序问题](https://plato.stanford.edu/entries/decision-theory-descriptive/#IssuWeakOrde)
-
-  * [ 4.1 传递性](https://plato.stanford.edu/entries/decision-theory-descriptive/#Tran)
-  * [ 4.2 完备性](https://plato.stanford.edu/entries/decision-theory-descriptive/#Comp)
-* [5. 描述性与规范性决策理论](https://plato.stanford.edu/entries/decision-theory-descriptive/#DescVsNormDeciTheo)
-* [ 6. 进一步阅读](https://plato.stanford.edu/entries/decision-theory-descriptive/#FurtRead)
-* [ 参考文献](https://plato.stanford.edu/entries/decision-theory-descriptive/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/decision-theory-descriptive/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/decision-theory-descriptive/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/decision-theory-descriptive/#Rel)
 
 ---
 

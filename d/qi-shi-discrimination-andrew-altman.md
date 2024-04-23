@@ -5,35 +5,6 @@
 
 歧视被六项核心国际人权文件禁止。世界上绝大多数国家都有宪法或法律规定禁止歧视（Osin and Porat 2005）。大多数关于歧视的哲学、政治和法律讨论都基于这样一个前提，即歧视在道德上是错误的，并且在广泛的情况下应当在法律上被禁止。然而，与这一令人印象深刻的全球共识并存的是许多有争议的问题，这表明关于歧视的看法并不像表面看起来那样一致。什么是歧视？歧视是错误的概念真理，还是实质性的道德判断？歧视与压迫和剥削之间的关系是什么？除了种族、宗教和性别等典型分类之外，歧视行为可以基于哪些类别？这些都是一些有争议的问题。
 
-* [歧视的概念](https://plato.stanford.edu/entries/discrimination/#ConDis)
-
-  * [1.1 第一次近似](https://plato.stanford.edu/entries/discrimination/#FirApp)
-  * [道德化的概念](https://plato.stanford.edu/entries/discrimination/#MorCon)
-* [歧视的类型（在其道德化意义上）](https://plato.stanford.edu/entries/discrimination/#TypDisMorSen)
-
-  * [2.1 直接歧视](https://plato.stanford.edu/entries/discrimination/#DirDis)
-  * [2.2 间接歧视](https://plato.stanford.edu/entries/discrimination/#IndDis)
-  * [2.3 组织、制度和结构性歧视](https://plato.stanford.edu/entries/discrimination/#OrgInsStrDis)
-* [挑战间接歧视概念](https://plato.stanford.edu/entries/discrimination/#ChaConIndDis)
-
-  * [间接歧视真的算是歧视吗？](https://plato.stanford.edu/entries/discrimination/#IndDisReaDis)
-  * [争议仅仅是术语上的吗？](https://plato.stanford.edu/entries/discrimination/#DisMerTer)
-* [为什么歧视是错误的？](https://plato.stanford.edu/entries/discrimination/#WhyDisWro)
-
-  * [直接歧视的错误](https://plato.stanford.edu/entries/discrimination/#WroDirDis)
-  * [4.2 间接歧视的错误](https://plato.stanford.edu/entries/discrimination/#WroIndDis)
-* [哪些群体算数？](https://plato.stanford.edu/entries/discrimination/#WhiGroCou)
-* [什么是歧视的概念有何意义？](https://plato.stanford.edu/entries/discrimination/#WhaGooConDis)
-* [ 交叉性](https://plato.stanford.edu/entries/discrimination/#Int)
-* [宗教自由和反歧视法律](https://plato.stanford.edu/entries/discrimination/#RelLibAntLaw)
-* [ 结论](https://plato.stanford.edu/entries/discrimination/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/discrimination/#Bib)
-
-  * [法律案例和文件](https://plato.stanford.edu/entries/discrimination/#LegCasDoc)
-  * [ 参考文献](https://plato.stanford.edu/entries/discrimination/#Ref)
-* [ 学术工具](https://plato.stanford.edu/entries/discrimination/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/discrimination/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/discrimination/#Rel)
 
 ---
 

@@ -4,14 +4,6 @@
 
 罗伯特·戴加贝（1610-1678）是法国洛林地区圣莫尔修道院的笛卡尔哲学的早期捍卫者和教师。他出生在安村，于 1636 年加入本笃会成为一名修士。他在图尔的圣埃夫尔教授神学，时间跨度为 1635-1655 年，并在 1648-49 年期间担任米耶尔总代表前往巴黎。尽管今天他鲜为人知，但他在笛卡尔哲学的发展和传播中发挥了重要作用，特别是在巴黎和图卢兹。他以在有关笛卡尔对圣餐的解释的神学争议中的角色而闻名（戴加贝，1671 年），以及在捍卫尼古拉·马勒布朗什对怀疑论者西蒙·富谢尔的攻击中（戴加贝，1675 年）。他的主要哲学著作直到 1983 年才出版。他在自然哲学方面的贡献包括在血液输注和力学研究方面的开创性工作。他将笛卡尔主义和经验主义结合在一起的独特观点挑战了许多关于笛卡尔和笛卡尔哲学的标准观点。
 
-* [1. 生平与著作](https://plato.stanford.edu/entries/desgabets/#Life)
-* [ 第二次翻译：2. 形而上学](https://plato.stanford.edu/entries/desgabets/#Metaphysics)
-* [ 3. 认识论](https://plato.stanford.edu/entries/desgabets/#Epistemology)
-* [ 真理](https://plato.stanford.edu/entries/desgabets/#Truth)
-* [ 参考文献](https://plato.stanford.edu/entries/desgabets/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/desgabets/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/desgabets/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/desgabets/#Rel)
 
 ---
 

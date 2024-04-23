@@ -4,39 +4,6 @@
 
 这篇文章涉及心灵哲学中的二元论。术语“二元论”在思想史上有各种用法。一般来说，这个概念是指，在某个特定领域中，存在两种基本类型或类别的事物或原则。例如，在神学中，“二元论者”是指相信善恶或上帝和魔鬼是独立且在某种程度上平等的力量的人。二元论与唯一论相对，后者认为只有一种基本类型、事物或原则；而与之相对较少的是多元论，即认为存在许多种类别的观点。在心灵哲学中，二元论是一种理论，认为心灵和物质——或心灵和身体或心灵和大脑——在某种意义上是根本不同的事物。因为常识告诉我们存在物质身体，并且有智力压力要求产生一个统一的世界观，可以说唯物主义唯一论是“默认选项”。因此，关于二元论的讨论往往从物质世界的现实性假设开始，然后考虑为什么心灵不能简单地被视为该世界的一部分的论点。
 
-* [心灵-身体问题与二元论的历史](https://plato.stanford.edu/entries/dualism/#MinBodHisDua)
-
-  * [心灵-身体问题](https://plato.stanford.edu/entries/dualism/#MinBod)
-  * [1.2 二元论的历史](https://plato.stanford.edu/entries/dualism/#HisDua)
-* [二元论的种类：本体论](https://plato.stanford.edu/entries/dualism/#VarDuaOnt)
-
-  * [ 二元论](https://plato.stanford.edu/entries/dualism/#PreDua)
-  * [ 二元论](https://plato.stanford.edu/entries/dualism/#ProDua)
-  * [ 二元论](https://plato.stanford.edu/entries/dualism/#SubDua)
-* [二元论的种类：互动](https://plato.stanford.edu/entries/dualism/#VarDuaInt)
-
-  * [ 交互主义](https://plato.stanford.edu/entries/dualism/#Int)
-  * [ 3.2 副现象论](https://plato.stanford.edu/entries/dualism/#Epi)
-  * [ 二元论](https://plato.stanford.edu/entries/dualism/#Par)
-* [二元论的论点](https://plato.stanford.edu/entries/dualism/#ArgForDua)
-
-  * [知识论证反对唯物主义](https://plato.stanford.edu/entries/dualism/#KnoArgAgaPhy)
-  * [4.2 The Argument from Predicate Dualism to Property Dualism 4.2 从谓词二元论到属性二元论的论证](https://plato.stanford.edu/entries/dualism/#ArgPreDuaProDua)
-  * [二元论的论证](https://plato.stanford.edu/entries/dualism/#ModArg)
-  * [从属性二元论到实体二元论](https://plato.stanford.edu/entries/dualism/#Propertytosubstance)
-  * [4.5 个人身份的论证](https://plato.stanford.edu/entries/dualism/#ArgPerIde)
-  * [亚里士多德论证的现代形式](https://plato.stanford.edu/entries/dualism/#AriArgModFor)
-* [二元论的问题](https://plato.stanford.edu/entries/dualism/#ProForDua)
-
-  * [心灵的奇异性](https://plato.stanford.edu/entries/dualism/#QueMen)
-  * [心灵的统一](https://plato.stanford.edu/entries/dualism/#UniMin)
-
-    * [5.2.1 Unity and Bundle Dualism 5.2.1 统一和束缚二元论](https://plato.stanford.edu/entries/dualism/#UniBunDua)
-    * [5.2.2 Unity and Substance Dualism 5.2.2 统一和物质二元论](https://plato.stanford.edu/entries/dualism/#UniSubDua)
-* [ 参考文献](https://plato.stanford.edu/entries/dualism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/dualism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dualism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dualism/#Rel)
 
 ---
 

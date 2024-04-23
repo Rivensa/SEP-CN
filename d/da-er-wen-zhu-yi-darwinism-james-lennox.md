@@ -4,22 +4,6 @@ _首次发表于 2004 年 8 月 13 日星期五；实质性修订于 2019 年 7 
 
 达尔文主义指的是一种关于地球上生命历史和多样性的进化解释。它最初的阐述可以在 1859 年的《物种起源》第一版中找到。本条目首先从五个哲学上独特的主题来阐述“达尔文的达尔文主义”：（i）概率和机会，（ii）选择的性质、力量和范围，（iii）适应和目的论，（iv）种类的名义主义与本质主义，以及（v）进化变化的速度和方式。达尔文和他的批评者都认识到，在这些主题上，他对进化的方法是独特的，尽管达尔文主义在达尔文未曾预见的许多方面得到了发展，但其支持者和批评者继续通过关注这些主题来将其与进化生物学中的其他方法区分开来。本条目的后半部分通过研究当前进化生物学哲学中关于这五个主题的辩论来说明这一点。
 
-* [1. 引言](https://plato.stanford.edu/entries/darwinism/#Int)
-* [2. 达尔文和达尔文主义](https://plato.stanford.edu/entries/darwinism/#DarAndDar)
-  * [2.1 达尔文的生活](https://plato.stanford.edu/entries/darwinism/#DarLif)
-  * [2.2 达尔文的达尔文主义](https://plato.stanford.edu/entries/darwinism/#DarDar)
-  * [2.3 达尔文的达尔文主义的哲学问题](https://plato.stanford.edu/entries/darwinism/#PhiProDarDar)
-* [3. 当今的五个核心哲学问题](https://plato.stanford.edu/entries/darwinism/#FivCorPhiProTod)
-  * [3.1 进化理论中的机遇角色](https://plato.stanford.edu/entries/darwinism/#RolChaEvoThe)
-  * [3.2 选择的性质、力量和范围](https://plato.stanford.edu/entries/darwinism/#NatPowScoSel)
-  * [3.3 选择、适应和目的论](https://plato.stanford.edu/entries/darwinism/#SelAdaTel)
-  * [3.4 物种和“物种”概念](https://plato.stanford.edu/entries/darwinism/#SpeConSpe)
-* [参考文献](https://plato.stanford.edu/entries/darwinism/#Bib)
-  * [引用](https://plato.stanford.edu/entries/darwinism/#Ref)
-  * [进一步阅读](https://plato.stanford.edu/entries/darwinism/#FurRea)
-* [学术工具](https://plato.stanford.edu/entries/darwinism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/darwinism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/darwinism/#Rel)
 
 ***
 

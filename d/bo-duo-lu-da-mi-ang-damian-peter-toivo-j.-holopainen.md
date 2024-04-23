@@ -6,23 +6,6 @@
 
 彼得·达弥盎，一位十一世纪的修道院领袖和教会改革者，因其著作《神的全能》而在早期中世纪哲学史中占有一席之地。在这部作品中，达弥盎探讨了与神力限度相关的两个问题：上帝能否使一个失去贞操的女人恢复贞洁，上帝是否能改变过去？达弥盎经常被描绘为一位思想家，他在捍卫神的全能时甚至否定了非矛盾原则的普遍有效性。在很大程度上，对达弥盎的这种描述是没有根据的。然而，《神的全能》是一份与中世纪早期关于模态和神的全能的讨论相关的有趣文件。
 
-* [生命与作品](https://plato.stanford.edu/entries/peter-damian/#LifeWork)
-* [2. 612A–B 段和达弥盎的声誉](https://plato.stanford.edu/entries/peter-damian/#Pass612ADamiRepu)
-* [3. 全能的定义](https://plato.stanford.edu/entries/peter-damian/#DefiOmni)
-* [伯多禄·达弥盎, 2024. 上帝能恢复童贞吗？](https://plato.stanford.edu/entries/peter-damian/#GodRestVirg)
-* [上帝能否撤销已经发生的事情？](https://plato.stanford.edu/entries/peter-damian/#GodUndoDone)
-
-  * [伯多禄·达弥盎的主要方法](https://plato.stanford.edu/entries/peter-damian/#DamiMainAppr)
-  * [5.2. 一种补充方法](https://plato.stanford.edu/entries/peter-damian/#SuppAppr)
-* [ 伯多禄·达弥盎的目标](https://plato.stanford.edu/entries/peter-damian/#DamiObje)
-* [ 参考文献](https://plato.stanford.edu/entries/peter-damian/#Bib)
-
-  * [ 版本](https://plato.stanford.edu/entries/peter-damian/#Edit)
-  * [ 英语翻译](https://plato.stanford.edu/entries/peter-damian/#EnglTran)
-  * [ 次级文献](https://plato.stanford.edu/entries/peter-damian/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/peter-damian/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/peter-damian/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/peter-damian/#Rel)
 
 ---
 

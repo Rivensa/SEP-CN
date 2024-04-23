@@ -6,23 +6,7 @@
 
 这些最近的趋势朝向将发展和进化的概念交织在一起，而不是分开，与 20 世纪大部分时间内进化生物学（以及生物哲学的相当部分）中的权威声音形成对比（参见 Sapp 1983; Burian 2004; Amundson 2005）。由于这一传统，这种新的整合面临着一系列概念和方法论挑战。在本文中，重点将放在与发展和进化之间关系相关的辩论上。其他关于发展和进化这两个组成部分各自是什么，或者它们如何（或应该如何）被单独概念化或研究的讨论，只有在与这个主题相关时才会被提及。
 
-* [1. 历史背景下的进化和发育](https://plato.stanford.edu/entries/evolution-development/#EvolDeveHistCont)
-* [2. 进化和发育的概念分歧与统一](https://plato.stanford.edu/entries/evolution-development/#ConcPartUnifEvolDeve)
 
-  * [2.1 近因-远因区分](https://plato.stanford.edu/entries/evolution-development/#ProxUltiDist)
-  * [2.2 近因和远因的整合](https://plato.stanford.edu/entries/evolution-development/#InteProxUltiCaus)
-* [3. 进化和发育作为演化机制](https://plato.stanford.edu/entries/evolution-development/#DeveChanMechForEvol)
-* [4. 发展演化的本体论挑战](https://plato.stanford.edu/entries/evolution-development/#OntoChalDeveEvol)
-* [5. 发展演化的解释](https://plato.stanford.edu/entries/evolution-development/#ExplDeveEvol)
-
-  * [5.1 Mechanistic explanations of developmental evolution](https://plato.stanford.edu/entries/evolution-development/#MechExplDeveEvol)
-  * [5.2 The explanatory power of developmentalist explanations of evolution](https://plato.stanford.edu/entries/evolution-development/#ExplPoweDeveExplEvol)
-* [6. Anthropological and ethical dimensions of developmental evolution](https://plato.stanford.edu/entries/evolution-development/#AnthEthiDimeDeveEvol)
-* [ 进化和发育](https://plato.stanford.edu/entries/evolution-development/#ConcRema)
-* [  参考文献](https://plato.stanford.edu/entries/evolution-development/#Bib)
-* [  学术工具](https://plato.stanford.edu/entries/evolution-development/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/evolution-development/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/evolution-development/#Rel)
 
 ---
 

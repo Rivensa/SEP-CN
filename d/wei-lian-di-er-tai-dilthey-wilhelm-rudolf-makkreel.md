@@ -4,23 +4,6 @@
 
 威廉·狄尔泰是一位德国哲学家，生活在 1833 年至 1911 年。狄尔泰以他区分自然科学和人文科学的方式而闻名。他广泛定义了人文科学，包括人文学科和社会科学。狄尔泰发现，自然科学的主要任务是得出基于法则的因果解释，而他认为人文科学的核心任务是提供对人类和历史生活的组织结构和动态力量的理解。将会显示，这种区别并不是那么尖锐，以至于排除特定人文科学领域（如心理学、政治理论和经济学）中的因果解释；它主要限定了这些领域中解释的范围。狄尔泰的目标是将康德主要以自然为导向的《纯粹理性批判》扩展为一部《历史理性批判》，以便也能充分体现人类经验的社会和文化维度。理解人类历史事件的意义需要能够将它们组织在适当的背景中，并阐明以这种方式发现的结构统一性。狄尔泰对人文科学、历史背景化和解释学的思考影响了许多后来的思想家，如胡塞尔、海德格尔、卡西勒、加达默和里克尔。最近，人们开始关注狄尔泰对经验的实证方法如何影响了卡尔纳普在早期试图摆脱形而上学，转而采用更分析方法的努力。
 
-* [威廉·狄尔泰的生平与思想](https://plato.stanford.edu/entries/dilthey/#DiltLifeThou)
-
-  * [迪尔泰的哲学发展简要概述](https://plato.stanford.edu/entries/dilthey/#BrieOverDiltPhilDeve)
-  * [1.2 威廉·狄尔泰哲学的宗教背景](https://plato.stanford.edu/entries/dilthey/#ReliBackDiltPhil)
-* [威廉·狄尔泰的主要哲学著作](https://plato.stanford.edu/entries/dilthey/#DiltMainPhilWork)
-
-  * [2.1 1880 年代：拓展批判性框架](https://plato.stanford.edu/entries/dilthey/#N188BroaCritFram)
-  * [2.2 1890 年代：理解作为结构性表达](https://plato.stanford.edu/entries/dilthey/#N189UndeStruArti)
-  * [2.3 1900–1911: Historical Understanding and Hermeneutics](https://plato.stanford.edu/entries/dilthey/#N190HistUndeHerm)
-* [威廉·狄尔泰对伦理学和世界观的思考及其对形而上学的怀疑](https://plato.stanford.edu/entries/dilthey/#DiltReflEthiWorlHisDoubAbouMeta)
-* [ 参考文献](https://plato.stanford.edu/entries/dilthey/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/dilthey/#PrimLite)
-  * [ 次级文献](https://plato.stanford.edu/entries/dilthey/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/dilthey/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dilthey/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dilthey/#Rel)
 
 ---
 

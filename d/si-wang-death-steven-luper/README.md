@@ -20,48 +20,6 @@
 
 最后一个争议是关于死亡的危害是否可以减少。也许，通过调整我们对幸福的理解，改变我们的态度，我们可以减少或消除死亡对我们的威胁。但是有人认为，如果这样的努力被推向极端，可能会适得其反。
 
-* [ 1. 生命](https://plato.stanford.edu/entries/death/#Lif)
-
-  * [1.1 作为物质的生命](https://plato.stanford.edu/entries/death/#LifSub)
-  * [1.2 作为事件的生命](https://plato.stanford.edu/entries/death/#LifEv)
-  * [1.3 作为属性的生命](https://plato.stanford.edu/entries/death/#LifProp)
-* [ 2. 死亡](https://plato.stanford.edu/entries/death/#Dea)
-
-  * [2.1 生与死](https://plato.stanford.edu/entries/death/#DeaLif)
-  * [2.2 死与悬停的生命力](https://plato.stanford.edu/entries/death/#DeaSusVit)
-  * [ 2.3 死亡状态](https://plato.stanford.edu/entries/death/#BeDea)
-  * [ 2.4 复活](https://plato.stanford.edu/entries/death/#Res)
-  * [2.5 死亡和我们的本质](https://plato.stanford.edu/entries/death/#DeaWhaWe)
-  * [2.6 死亡和存在](https://plato.stanford.edu/entries/death/#DeaExi)
-  * [2.7 死亡的标准](https://plato.stanford.edu/entries/death/#CriForDea)
-* [3. 伊壁鸠鲁和伤害论](https://plato.stanford.edu/entries/death/#HarThe)
-
-  * [3.1 伊壁鸠鲁主义的论据](https://plato.stanford.edu/entries/death/#EpiCase)
-  * [3.2 剥夺主义辩护](https://plato.stanford.edu/entries/death/#DepDef)
-* [4. 时间难题](https://plato.stanford.edu/entries/death/#TimPuz)
-
-  * [ 4.1 并行主义](https://plato.stanford.edu/entries/death/#Con)
-  * [ 4.2 先验主义](https://plato.stanford.edu/entries/death/#Pri)
-  * [ 4.3 后验主义](https://plato.stanford.edu/entries/death/#Sub)
-  * [ 4.4 不定主义](https://plato.stanford.edu/entries/death/#Ind)
-  * [ 4.5 非时间性主义](https://plato.stanford.edu/entries/death/#Atemp)
-* [5. 关于伤害论的进一步保留](https://plato.stanford.edu/entries/death/#FurResCon)
-
-  * [ 5.1 无害排除](https://plato.stanford.edu/entries/death/#HarPre)
-  * [5.2 鲁克莱修斯和对称论证](https://plato.stanford.edu/entries/death/#SymArg)
-* [6. 后世伤害](https://plato.stanford.edu/entries/death/#PostHarm)
-
-  * [6.1 对后世伤害的疑虑](https://plato.stanford.edu/entries/death/#DoPostHarm)
-  * [ 6.2 追溯性伤害](https://plato.stanford.edu/entries/death/#RetroHarm)
-* [7. 永不消逝](https://plato.stanford.edu/entries/death/#NevDy)
-
-  * [7.1 永不消逝将是好的](https://plato.stanford.edu/entries/death/#NevDyGood)
-  * [7.2 永不死亡将是一种不幸](https://plato.stanford.edu/entries/death/#NevDyBad)
-* [8. 死亡的危害能减少吗？](https://plato.stanford.edu/entries/death/#DeaHarRed)
-* [ 参考文献](https://plato.stanford.edu/entries/death/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/death/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/death/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/death/#Rel)
 
 ---
 

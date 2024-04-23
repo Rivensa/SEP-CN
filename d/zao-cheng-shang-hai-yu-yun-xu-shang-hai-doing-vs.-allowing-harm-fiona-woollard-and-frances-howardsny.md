@@ -4,24 +4,7 @@
 
 造成伤害与允许伤害之间是否存在道德区别？如果没有，那么在被允许的情况下主动安乐死应该没有道德上的异议；在战争中轰炸无辜平民以减少总死亡人数也不应该有异议。然而，我们应该对我们未能阻止第三世界数百万儿童死于营养不良、脱水和麻疹感到反对和愤怒。此外，似乎这个问题与后果主义是否正确相关，因为后果主义者认为造成伤害并不比允许伤害更糟糕，而反后果主义者几乎普遍持相反意见。但是，造成伤害与允许伤害之间是否存在道德区别？我们可以将对这个问题的方法分为两种广义类型。首先，那些试图回答这个问题而不说出有关区别性质的内容的方法（“对比策略”），或者通过诉诸据称独立于区别性质的考虑来回答。其次，那些深入分析区别并试图表明其根本性质决定了对道德问题的回答的方法。
 
-* [对比策略与分析独立的理由证明](https://plato.stanford.edu/entries/doing-allowing/#ContStraAnalIndeJust)
-* [区分区别](https://plato.stanford.edu/entries/doing-allowing/#DistDist)
-* [3. The Trolley Problem and the Doing/Allowing Distinction](https://plato.stanford.edu/entries/doing-allowing/#TrolProb)
-* [造成伤害与允许伤害](https://plato.stanford.edu/entries/doing-allowing/#CausNotCausNotOccu)
-* [反事实论述](https://plato.stanford.edu/entries/doing-allowing/#CounAcco)
-* [序列、行动、不作为以及正面和负面权利](https://plato.stanford.edu/entries/doing-allowing/#SequActiInacPosiNegaRigh)
-* [“他本可以做的大多数事情”解释](https://plato.stanford.edu/entries/doing-allowing/#MostThinHeCoulHaveDoneAcco)
-* [“安全网”案例](https://plato.stanford.edu/entries/doing-allowing/#SafeNetCase)
-* [让自己造成伤害](https://plato.stanford.edu/entries/doing-allowing/#LettYourDoHarm)
-* [X-Phi and the Doing/Allowing Distinction](https://plato.stanford.edu/entries/doing-allowing/#XPhiDoinDist)
-* [ 结论](https://plato.stanford.edu/entries/doing-allowing/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/doing-allowing/#Bib)
 
-  * [ 引用的作品](https://plato.stanford.edu/entries/doing-allowing/#CiteWork)
-  * [ 进一步阅读](https://plato.stanford.edu/entries/doing-allowing/#FurtRead)
-* [ 学术工具](https://plato.stanford.edu/entries/doing-allowing/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/doing-allowing/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/doing-allowing/#Rel)
 
 ---
 

@@ -12,33 +12,7 @@
 
 笛卡尔的作品受到了不同的评价和重视。在他那个时代的学者中，他被认为是一位顶尖的数学家，是一位新的、全面的物理学家或自然理论家（包括生物），也是一位新形而上学的提出者。在他去世后的几年里，他的自然哲学特别受到重视和讨论。他的作品被用来讨论妇女平等的问题。在 18 世纪，他的科学的某些方面仍然有影响力，他对研究认识者的认知能力以评估人类知识的可能性和程度的项目也有影响力。人们还记得他的怀疑论论证，并指责他在形而上学上未能提供成功的回应。在 19 世纪，人们因他的机械生理学和动物身体是机器（由物质机制构成，受物质法则支配）的理论而崇敬他。20 世纪对他的著名的“我思故我在”起点有不同的庆祝方式，对一些人声称是他怀疑论起点的感官数据表示反感，并将他视为一个文化参与的哲学家的典范。他被视为英雄和恶棍；作为一个在思想中开辟新方向的杰出理论家，以及冷漠、理性和计算的人类观念的先驱。初学者在形成对他的遗产的看法之前，应该详细研究他自己的作品。
 
-* [1. 知识产权传记](https://plato.stanford.edu/entries/descartes/#InteBiog)
 
-  * [1.1 早年生活和教育](https://plato.stanford.edu/entries/descartes/#EarlLifeEduc)
-  * [1.2 第一个结果，一个新任务和方法](https://plato.stanford.edu/entries/descartes/#FirsResuNewMissMeth)
-  * [1.3 形而上学转向，综合物理学，论述](https://plato.stanford.edu/entries/descartes/#MetaTurnCompPhysDisc)
-  * [1.4 揭示的形而上学和综合物理学](https://plato.stanford.edu/entries/descartes/#MetaCompPhysReve)
-  * [1.5 神学争议、激情和死亡](https://plato.stanford.edu/entries/descartes/#TheoContPassDeat)
-* [2. 哲学发展](https://plato.stanford.edu/entries/descartes/#PhilDeve)
-* [3. 新形而上学和认识论](https://plato.stanford.edu/entries/descartes/#NewMetaEpis)
-
-  * [3.1 我们的思维如何认知？](https://plato.stanford.edu/entries/descartes/#HowDoOurMindKnow)
-  * [3.2 真理的标志和循环](https://plato.stanford.edu/entries/descartes/#MarkTrutCirc)
-  * [3.3 现实的本质](https://plato.stanford.edu/entries/descartes/#NatuReal)
-  * [ 3.4 心灵与身体的关系](https://plato.stanford.edu/entries/descartes/#MindRela)
-  * [3.5 上帝和感官错误](https://plato.stanford.edu/entries/descartes/#GodSensErro)
-* [4. 新科学](https://plato.stanford.edu/entries/descartes/#NewScie)
-* [5. 感知理论](https://plato.stanford.edu/entries/descartes/#TheoSensPerc)
-* [6. 激情和情感](https://plato.stanford.edu/entries/descartes/#PassEmot)
-* [7. 接待和遗产](https://plato.stanford.edu/entries/descartes/#ReceLega)
-* [ 参考书目](https://plato.stanford.edu/entries/descartes/#Bib)
-
-  * [主要文献：笛卡尔的著作](https://plato.stanford.edu/entries/descartes/#PrimLiteWorkDesc)
-  * [其他主要文献](https://plato.stanford.edu/entries/descartes/#OthePrimLite)
-  * [ 二级文献](https://plato.stanford.edu/entries/descartes/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/descartes/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/descartes/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/descartes/#Rel)
 
 ---
 

@@ -4,52 +4,6 @@
 
 伦内·笛卡尔（1596-1650）被广泛认为是现代哲学奠基人之一。他的显著贡献涉及数学和物理学。本条目重点介绍他在知识理论方面的哲学贡献。具体而言，重点是他著名作品《第一哲学沉思集》中的认识论项目。笛卡尔将《沉思集》分发给其他哲学家以征求异议和评论，然后以详细回复的方式回应，这为原作提供了丰富的进一步信息来源。事实上，《沉思集》的第一版（1641 年）附带了六组异议和回复，第二版（1642 年）又增加了第七组。
 
-* [1. 知识的概念](https://plato.stanford.edu/entries/descartes-epistemology/#ConcKnow)
-
-  * [1.1 完美知识的分析](https://plato.stanford.edu/entries/descartes-epistemology/#AnalPerfKnow)
-  * [1.2 内在主义和合理化](https://plato.stanford.edu/entries/descartes-epistemology/#InteJust)
-  * [ 1.3 方法主义的方法](https://plato.stanford.edu/entries/descartes-epistemology/#MethAppr)
-  * [ 1.4 先天观念](https://plato.stanford.edu/entries/descartes-epistemology/#InnaIdea)
-* [2. 方法：基础主义和怀疑](https://plato.stanford.edu/entries/descartes-epistemology/#MethFounDoub)
-
-  * [ 2.1 基础主义](https://plato.stanford.edu/entries/descartes-epistemology/#Foun)
-  * [2.2 怀疑的方法](https://plato.stanford.edu/entries/descartes-epistemology/#MethDoub)
-* [3. 第一冥想怀疑论证](https://plato.stanford.edu/entries/descartes-epistemology/#FirsMediDoubArgu)
-
-  * [ 3.1 梦境怀疑](https://plato.stanford.edu/entries/descartes-epistemology/#DreaDoub)
-  * [3.2 邪恶天才的怀疑](https://plato.stanford.edu/entries/descartes-epistemology/#EvilGeniDoub)
-* [4. Cogito 和怀疑](https://plato.stanford.edu/entries/descartes-epistemology/#CogiDoub)
-
-  * [4.1 ](https://plato.stanford.edu/entries/descartes-epistemology/#CogiErgoSum)​*[Cogito Ergo Sum](https://plato.stanford.edu/entries/descartes-epistemology/#CogiErgoSum)*
-  * [4.2 柯吉托是否算作（无神论可得）完美知识？](https://plato.stanford.edu/entries/descartes-epistemology/#DoesCogiCounAtheAvaiPerfKnow)
-  * [4.3 如何间接地怀疑清晰而明确的感知？](https://plato.stanford.edu/entries/descartes-epistemology/#HowIndiDoubCleaDistPerc)
-* [5. C&amp;D 规则和通往完美知识的道路](https://plato.stanford.edu/entries/descartes-epistemology/#CaDRuleRoadPerfKnow)
-
-  * [5.1 清晰和明确作为临时真理规则](https://plato.stanford.edu/entries/descartes-epistemology/#ClarDistProvTrutRule)
-  * [5.2 推进建设性证明的策略](https://plato.stanford.edu/entries/descartes-epistemology/#StraForConsProoMoviForw)
-  * [5.3 第四次冥想 C&amp;D 规则的证明](https://plato.stanford.edu/entries/descartes-epistemology/#FourMediProoCaDRule)
-* [6. 完美的知识、循环性和真理](https://plato.stanford.edu/entries/descartes-epistemology/#PerfKnowCircTrut)
-
-  * [6.1 笛卡尔循环](https://plato.stanford.edu/entries/descartes-epistemology/#CartCirc)
-  * [6.2 自明的上帝解释](https://plato.stanford.edu/entries/descartes-epistemology/#SelfEvidGodInte)
-  * [6.3 另一个笛卡尔循环？](https://plato.stanford.edu/entries/descartes-epistemology/#AnotCartCirc)
-  * [6.4 真理是完美知识的条件吗？](https://plato.stanford.edu/entries/descartes-epistemology/#TrutCondPerfKnow)
-* [7. 证明外部物质世界](https://plato.stanford.edu/entries/descartes-epistemology/#ProvExteMateWorl)
-
-  * [7.1 感觉原因的外部性案例](https://plato.stanford.edu/entries/descartes-epistemology/#CaseForExteCausSens)
-  * [7.2 感觉原因的物质性案例](https://plato.stanford.edu/entries/descartes-epistemology/#CaseForMateCausSens)
-* [8. 清醒状态下的完美认知](https://plato.stanford.edu/entries/descartes-epistemology/#PerfKnowBeinAwak)
-* [ 9. 自我认知](https://plato.stanford.edu/entries/descartes-epistemology/#SelfKnow)
-
-  * [9.1 比起身体，我们更了解自己的心灵](https://plato.stanford.edu/entries/descartes-epistemology/#MindBettKnowThanBody)
-  * [9.2 我们是否完全了解自己的心灵](https://plato.stanford.edu/entries/descartes-epistemology/#WhetWePerfKnowOurOwnMind)
-* [ 参考文献](https://plato.stanford.edu/entries/descartes-epistemology/#Bib)
-
-  * [ 一手资料](https://plato.stanford.edu/entries/descartes-epistemology/#PrimSour)
-  * [ 二手资料](https://plato.stanford.edu/entries/descartes-epistemology/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/descartes-epistemology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/descartes-epistemology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/descartes-epistemology/#Rel)
 
 ---
 

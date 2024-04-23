@@ -6,17 +6,6 @@
 
 在解决这些问题的过程中，肮脏的手挑战也与政治现实主义有所区别，尽管它们有一些相似之处，并讨论了诉诸角色道德以使肮脏的手变得一致的问题，以及对于羞辱或惩罚肮脏的手行为者的可取性问题。探讨了“门槛义务论”的相关性，并建议肮脏的手被提及的很大一部分原因来自对绝对道德禁令的模棱两可态度，将对其的拒绝与对其味道的某种怀旧情感结合在一起。
 
-* [ 介绍](https://plato.stanford.edu/entries/dirty-hands/#Int)
-* [转变的解释](https://plato.stanford.edu/entries/dirty-hands/#ShiInt)
-* [一个概念混淆？](https://plato.stanford.edu/entries/dirty-hands/#ConCon)
-* [道德内部的冲突？](https://plato.stanford.edu/entries/dirty-hands/#ConWitMor)
-* [肮脏的手的范围和一些重要区别](https://plato.stanford.edu/entries/dirty-hands/#ScoDirHanSomSigDis)
-* [公民的肮脏的手](https://plato.stanford.edu/entries/dirty-hands/#DirHanCit)
-* [绝对主义问题](https://plato.stanford.edu/entries/dirty-hands/#IssAbs)
-* [ 参考文献](https://plato.stanford.edu/entries/dirty-hands/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/dirty-hands/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dirty-hands/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dirty-hands/#Rel)
 
 ---
 

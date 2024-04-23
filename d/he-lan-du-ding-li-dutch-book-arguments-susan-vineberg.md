@@ -6,33 +6,7 @@
 
 荷兰赌定理（DBA）支持概率主义（即主张一个代理人的信念程度应满足概率公理）的论证可以追溯到拉姆齐在《真理与概率》中的工作。他仅仅是顺便提到，违反概率公理的代理人将容易受到对他制作的一本书的影响，这引发了关于拉姆齐究竟意图展示什么，以及是否以及如何提出一个有力的论证版本的广泛辩论和困惑。这一论证背后的基本思想也被应用于捍卫各种原则，其中一些对代理人当前信念施加额外限制，而另一些，如条件化，声称规定信念程度应如何随时间演变。
 
-* [荷兰赌定理对概率主义的基本论证](https://plato.stanford.edu/entries/dutch-book/#BasiDutcBookArguForProb)
 
-  * [概率公理与荷兰赌定理](https://plato.stanford.edu/entries/dutch-book/#ProbAxioDutcBookTheo)
-  * [1.2 荷兰赌定理的详细版本](https://plato.stanford.edu/entries/dutch-book/#DetaVersDutcBookArgu)
-  * [荷兰赌定理逆定理](https://plato.stanford.edu/entries/dutch-book/#ConvDutcBookTheo)
-  * [1.4 违反概率公理是否可以是理性的？](https://plato.stanford.edu/entries/dutch-book/#ItRatiViolProbAxio)
-* [荷兰赌定理和概率一致性](https://plato.stanford.edu/entries/dutch-book/#DutcBookArguProbCons)
-
-  * [荷兰赌定理揭示的不一致性](https://plato.stanford.edu/entries/dutch-book/#DutcBookArguReveInco)
-  * [2.2 Depragmatized Arguments](https://plato.stanford.edu/entries/dutch-book/#DeprArgu)
-  * [2.3 作为一种实用一致性约束的连贯性](https://plato.stanford.edu/entries/dutch-book/#CohePragConsCons)
-* [荷兰赌定理对可数可加性的论证](https://plato.stanford.edu/entries/dutch-book/#DutcBookArguForCounAddi)
-* [时间跨度荷兰赌定理](https://plato.stanford.edu/entries/dutch-book/#DiacDutcBookArgu)
-
-  * [ 4.1 Conditionalization 4.1 条件化](https://plato.stanford.edu/entries/dutch-book/#Cond)
-  * [4.2 Jeffrey Conditionalization](https://plato.stanford.edu/entries/dutch-book/#JeffCond)
-  * [4.3 反思原则](https://plato.stanford.edu/entries/dutch-book/#PrinRefl)
-* [荷兰赌定理的其他用途](https://plato.stanford.edu/entries/dutch-book/#OtheUsesDutcBookArgu)
-
-  * [ 5.1 睡美人](https://plato.stanford.edu/entries/dutch-book/#SleeBeau)
-  * [5.2 主要原则](https://plato.stanford.edu/entries/dutch-book/#PrinPrin)
-  * [荷兰赌定理和理性选择](https://plato.stanford.edu/entries/dutch-book/#DutcBookRatiChoi)
-* [ 结论](https://plato.stanford.edu/entries/dutch-book/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/dutch-book/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/dutch-book/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dutch-book/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dutch-book/#Rel)
 
 ---
 

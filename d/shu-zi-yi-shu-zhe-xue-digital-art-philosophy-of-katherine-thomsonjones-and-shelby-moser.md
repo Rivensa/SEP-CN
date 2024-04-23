@@ -6,24 +6,6 @@
 
 尽管技术为基础的艺术被视为“二十世纪最终的前卫”（Rush 2005），数字艺术自 20 世纪 90 年代末以来一直是主流艺术界的一部分（Paul 2008），但数字艺术的哲学仍然是一个新兴的子领域。关于艺术和计算机技术的哲学问题，三部开创性专著至关重要，一部关于视频游戏（Tavinor 2009），一部关于数字电影（Gaut 2010），一部关于计算机艺术（Lopes 2010）。自这些出版物以来，数字艺术受到了进一步的哲学关注，包括第一本专注于视频游戏美学的出版物（见 Robson＆Tavinor，主编，2018）。对于哲学家来说，跟上数字技术发展的迅速速度可能是具有挑战性的。但最近关于人工智能（AI）在艺术中的一些文章表明，哲学家们对此有充分的认识并准备迎接这一挑战（Atencia-Linares 和 Artiga 2022; Millière 2022; Moruzzi 2022; Roberts 和 Krueger 2022）。关于 AI 艺术的哲学作品必将继续增长，虚拟现实艺术和互联网艺术的作品也将增加。随着这一增长，我们可以期待更多地了解数字文化革命的程度和特征。
 
-* [数字艺术是什么？](https://plato.stanford.edu/entries/digital-art/#WhatDigiArt)
-
-  * [数字艺术世界](https://plato.stanford.edu/entries/digital-art/#DigiArtWorl)
-  * [1.2 模拟-数字区分](https://plato.stanford.edu/entries/digital-art/#AnalDigiDist)
-  * [数字艺术：制作](https://plato.stanford.edu/entries/digital-art/#DigiArtProd)
-  * [数字艺术：展示](https://plato.stanford.edu/entries/digital-art/#DigiArtPres)
-* [ 数字图像](https://plato.stanford.edu/entries/digital-art/#DigiImag)
-* [数字媒体中欣赏艺术品](https://plato.stanford.edu/entries/digital-art/#ApprArtwDigiMedi)
-* [ 互动性](https://plato.stanford.edu/entries/digital-art/#Inte)
-
-  * [4.1 定义互动作品](https://plato.stanford.edu/entries/digital-art/#DefiInteWork)
-  * [ 显示的变异性](https://plato.stanford.edu/entries/digital-art/#DispVari)
-  * [4.3 互动性与创造力](https://plato.stanford.edu/entries/digital-art/#InteCrea)
-* [ 地点艺术](https://plato.stanford.edu/entries/digital-art/#LocaArt)
-* [ 参考文献](https://plato.stanford.edu/entries/digital-art/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/digital-art/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/digital-art/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/digital-art/#Rel)
 
 ---
 

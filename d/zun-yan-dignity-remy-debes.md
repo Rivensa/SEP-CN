@@ -8,31 +8,6 @@
 
 这篇文章将涉及这些问题，但并没有任何详尽的假设。目标是提供对现有理论和辩论的一般指导，重点关注哲学对人类尊严的方法，主要是作为西方传统的一部分。广泛的文献使得比这更雄心勃勃的目标变得不切实际，即使对于百科全书式的调查也是如此。
 
-* [一个历史入门 (IGNORE)](https://plato.stanford.edu/entries/dignity/#HistPrim)
-
-  * [尊严的法律历史](https://plato.stanford.edu/entries/dignity/#LegaHistDign)
-  * [1.2 四个起源故事](https://plato.stanford.edu/entries/dignity/#FourOrigStor)
-
-    * [1.2.1 革命的陈词滥调](https://plato.stanford.edu/entries/dignity/#RevoPlat)
-    * [康德的陈词滥调](https://plato.stanford.edu/entries/dignity/#KantPlat)
-    * [1.2.3 人的形象 (IGNORE)](https://plato.stanford.edu/entries/dignity/#ImagDeiPlat)
-    * [1.2.4 The Ciceronian platitude](https://plato.stanford.edu/entries/dignity/#CicePlat)
-* [制定尊严](https://plato.stanford.edu/entries/dignity/#FormDign)
-
-  * [2.1 尊严的定义属性与尊严的基础](https://plato.stanford.edu/entries/dignity/#DignDefiPropVsDignGrou)
-  * [尊严是否与权利的联系是尊严的定义特性？](https://plato.stanford.edu/entries/dignity/#ConnRighDefiPropDign)
-  * [尊严的定义特征是独特性和脆弱性吗？](https://plato.stanford.edu/entries/dignity/#DistFragDefiPropDign)
-* [人的尊严：分析的试金石](https://plato.stanford.edu/entries/dignity/#HumaDignToucAnal)
-
-  * [美德、价值、地位和“独特性”观点的重新考虑](https://plato.stanford.edu/entries/dignity/#VirtValuStatDistPoinReco)
-  * [3.2 个体 vs. 物种](https://plato.stanford.edu/entries/dignity/#IndiVsSpec)
-  * [固有 vs. 构建](https://plato.stanford.edu/entries/dignity/#InheVsCons)
-  * [尊严：尊重的另一种视角](https://plato.stanford.edu/entries/dignity/#RespAlteLensDign)
-* [ 怀疑的担忧](https://plato.stanford.edu/entries/dignity/#SkepWorr)
-* [ 参考文献](https://plato.stanford.edu/entries/dignity/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/dignity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dignity/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dignity/#Rel)
 
 ---
 

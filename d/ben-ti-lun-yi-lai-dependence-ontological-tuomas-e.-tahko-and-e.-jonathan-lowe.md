@@ -4,28 +4,7 @@
 
 本体依赖是实体或存在者（希腊语中的 onta，即本体论）之间的关系，更准确地说，是一组关系。因为一个存在者可以以多种方式依赖于一个或多个其他存在者，这种依赖的意义在本质上是形而上学的，并且可以与各种因果关系的意义进行对比。更具体地说，一个存在者可以因其存在或身份而依赖于一个或多个其他存在者。传统的方法是用模态术语来分析所有形式的本体依赖，即用明显的形而上学的可能性和必然性概念来分析，但最近在本质概念方面的分析变得流行起来。第三个选择是将本体依赖的概念视为形而上学的原始概念，这种情况下无法给出进一步的定义。本条目将对本体依赖的最终基础保持中立。至少在某些情况下，可以将本体依赖用作描述实体之间关系的工具，而不对其基础立场进行表态，但在其他情况下可能不可能这样做。形而上学家经常在他们对其他重要形而上学概念的分析中使用本体依赖的概念，例如物质的概念或者是特质依赖于物质的存在的思想。
 
-* [1. 本体依赖的多样性](https://plato.stanford.edu/entries/dependence-ontological/#VariOntoDepe)
-* [2. 依赖的模态存在分析](https://plato.stanford.edu/entries/dependence-ontological/#ModaExisAnalDepe)
 
-  * [2.1 模态存在分析](https://plato.stanford.edu/entries/dependence-ontological/#ModaExisAnal)
-  * [2.2 模态存在分析的一些问题](https://plato.stanford.edu/entries/dependence-ontological/#SomeProbForModaExisAnal)
-* [3. 非对称存在依赖](https://plato.stanford.edu/entries/dependence-ontological/#AsymExisDepe)
-* [4. 本质依赖和身份依赖](https://plato.stanford.edu/entries/dependence-ontological/#EsseDepeIdenDepe)
-
-  * [4.1 为什么是必要的依赖？](https://plato.stanford.edu/entries/dependence-ontological/#WhyEsseDepe)
-  * [ 4.2 身份依赖](https://plato.stanford.edu/entries/dependence-ontological/#IdenDepe)
-  * [4.3 基本依赖](https://plato.stanford.edu/entries/dependence-ontological/#EsseDepe)
-* [5. 本体依赖和形而上学基础](https://plato.stanford.edu/entries/dependence-ontological/#OntoDepeMetaGrou)
-* [6. 应用和其他相关概念](https://plato.stanford.edu/entries/dependence-ontological/#ApplOtheRelaNoti)
-
-  * [ 6.1 随附](https://plato.stanford.edu/entries/dependence-ontological/#Supe)
-  * [ 6.2 真实性](https://plato.stanford.edu/entries/dependence-ontological/#Trut)
-  * [ 6.3 实质](https://plato.stanford.edu/entries/dependence-ontological/#Subs)
-  * [ 6.4 基础性](https://plato.stanford.edu/entries/dependence-ontological/#Fund)
-* [ 参考文献](https://plato.stanford.edu/entries/dependence-ontological/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/dependence-ontological/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dependence-ontological/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dependence-ontological/#Rel)
 
 ---
 

@@ -4,21 +4,7 @@
 
 Elijah Del Medigo 是西方哲学史上独特的人物。在犹太思想领域，他主要因《宗教考察》（Beḥinat ha-Dat）而闻名，该作品讨论了哲学话语在犹太宗教领域中的角色和功能。然而，Del Medigo 在拉丁西方的阿维罗伊主义传统发展中也起到了核心作用：在 15 世纪最后一个季度，应他的基督教伙伴和赞助人的要求，翻译了阿维罗伊斯的作品，并撰写了对这些作品的评论。为了充分理解 Del Medigo 的贡献的性质，因此有必要在其背景的背景下评估他思想的两个方面：Del Medigo 接受初步培养的 Candia 的犹太社区，以及他职业生涯的大部分时间都在意大利北部的基督教知识界。
 
-* [1. Elijah Del Medigo 的生平](https://plato.stanford.edu/entries/delmedigo/#LifeElijDelMedi)
-* [2. 意大利时期](https://plato.stanford.edu/entries/delmedigo/#ItalPeri)
-* [3. 原创作品](https://plato.stanford.edu/entries/delmedigo/#OrigWork)
 
-  * [3.1 物理学和形而上学](https://plato.stanford.edu/entries/delmedigo/#PhysMeta)
-  * [ 3.2 心理学](https://plato.stanford.edu/entries/delmedigo/#Psyc)
-  * [3.3 ](https://plato.stanford.edu/entries/delmedigo/#BehiHaDat)​*[Beḥinat ha-Dat](https://plato.stanford.edu/entries/delmedigo/#BehiHaDat)*
-* [4. 结论：影响和遗产](https://plato.stanford.edu/entries/delmedigo/#ConcImpaLega)
-* [ 参考文献](https://plato.stanford.edu/entries/delmedigo/#Bib)
-
-  * [ 一手资料](https://plato.stanford.edu/entries/delmedigo/#PrimSour)
-  * [ 二手资料](https://plato.stanford.edu/entries/delmedigo/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/delmedigo/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/delmedigo/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/delmedigo/#Rel)
 
 ---
 

@@ -9,20 +9,6 @@
 
 笛卡尔被誉为第一位现代哲学家。他因将几何学和代数学进行了重要的联系而闻名，这使得通过代数方程解决几何问题成为可能。他还因推动了一种新的物质观念而闻名，这使得通过机械解释来解释物理现象成为可能。然而，他最著名的是他写的一部相对较短的作品，《第一哲学沉思录》（Meditations On First Philosophy），于 1641 年出版，其中他为科学的可能性提供了哲学基础。
 
-* [ 1. 早年岁月](https://plato.stanford.edu/entries/descartes-works/#EarlYear)
-* [2. 世界与话语](https://plato.stanford.edu/entries/descartes-works/#WorlDisc)
-* [ 3. 冥想](https://plato.stanford.edu/entries/descartes-works/#Medi)
-* [ 4. 原则](https://plato.stanford.edu/entries/descartes-works/#Prin)
-* [ 5. 激情](https://plato.stanford.edu/entries/descartes-works/#Pass)
-* [ 参考书目](https://plato.stanford.edu/entries/descartes-works/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/descartes-works/#PrimSour)
-  * [其他英文翻译](https://plato.stanford.edu/entries/descartes-works/#OtheEnglTran)
-  * [ 二次来源](https://plato.stanford.edu/entries/descartes-works/#SecoSour)
-  * [ 其他有用的资源](https://plato.stanford.edu/entries/descartes-works/#OtheHelpSour)
-* [ 学术工具](https://plato.stanford.edu/entries/descartes-works/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/descartes-works/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/descartes-works/#Rel)
 
 ---
 

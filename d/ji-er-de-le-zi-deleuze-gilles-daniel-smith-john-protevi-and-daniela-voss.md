@@ -8,31 +8,6 @@
 
 德勒兹希望通过他的风格让读者保持警惕，甚至“迫使”他们重新思考他们的哲学假设。（我们将在 3.1 节中讨论这种被“迫使”思考的概念。）我们将集中讨论他思想的概念架构，尽管读者应该意识到，与大多数哲学家相比，对德勒兹的作品进行这样的处理会削弱阅读原作的表演效果。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/deleuze/#LifeWork)
-* [2. 德勒兹对其他哲学家的阅读](https://plato.stanford.edu/entries/deleuze/#DeleReadOthePhil)
-* [3. 差异的哲学](https://plato.stanford.edu/entries/deleuze/#PhilDiff)
-
-  * [3.1 差异与重复](https://plato.stanford.edu/entries/deleuze/#DiffRepe)
-  * [ 3.2 意义的逻辑](https://plato.stanford.edu/entries/deleuze/#LogiSens)
-* [4. 与瓜塔里的合作](https://plato.stanford.edu/entries/deleuze/#CollGuat)
-
-  * [ 4.1 反欲望分析](https://plato.stanford.edu/entries/deleuze/#AntiOedi)
-  * [ 4.2 千高原](https://plato.stanford.edu/entries/deleuze/#ThouPlat)
-  * [ 4.3 什么是哲学？](https://plato.stanford.edu/entries/deleuze/#WhatPhil)
-* [5. 德勒兹与艺术](https://plato.stanford.edu/entries/deleuze/#DeleArts)
-* [6. 德勒兹的接受程度](https://plato.stanford.edu/entries/deleuze/#ReceDele)
-
-  * [6.1 女权主义批评](https://plato.stanford.edu/entries/deleuze/#FemiCrit)
-  * [6.2 巴迪欧批评](https://plato.stanford.edu/entries/deleuze/#BadiCrit)
-  * [6.3 德勒兹与科学](https://plato.stanford.edu/entries/deleuze/#DeleScie)
-  * [ 6.4 德勒兹效应](https://plato.stanford.edu/entries/deleuze/#DeleEffe)
-* [ 参考文献](https://plato.stanford.edu/entries/deleuze/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/deleuze/#PrimLite)
-  * [ 源文献](https://plato.stanford.edu/entries/deleuze/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/deleuze/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/deleuze/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/deleuze/#Rel)
 
 ---
 

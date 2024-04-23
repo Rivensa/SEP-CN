@@ -4,17 +4,6 @@
 
 笛卡尔有时谈论具有可能存在的事物，除了谈论事物的实际存在。他还谈论上帝自由和完全不受限制的活动所产生的永恒和必然的真理。受笛卡尔关于可能性和必然性的挑衅性主张的启发，其中一个解释性项目是构建一个笛卡尔的一般性模态理论。当然，任何这样的理论都需要对笛卡尔关于可能性和必然性的所有主张保持敏感，但它还需要在他更大的形而上学系统的术语和承诺的光线下理解和解释这些主张。
 
-* [1. 模态性和清晰明确的感知](https://plato.stanford.edu/entries/descartes-modal/#ModCleDisPer)
-* [2. 第一次冥想和根本欺骗的可能性](https://plato.stanford.edu/entries/descartes-modal/#FirMedPosRad)
-* [3. 永恒的真理](https://plato.stanford.edu/entries/descartes-modal/#EteTru)
-* [4. 未实现的可能性](https://plato.stanford.edu/entries/descartes-modal/#UnaPos)
-* [ 5. 真实的区别](https://plato.stanford.edu/entries/descartes-modal/#ReaDis)
-* [6. 可能性和人类自由](https://plato.stanford.edu/entries/descartes-modal/#PosHumFre)
-* [7. 系统及其支柱](https://plato.stanford.edu/entries/descartes-modal/#SysPil)
-* [ 参考文献](https://plato.stanford.edu/entries/descartes-modal/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/descartes-modal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/descartes-modal/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/descartes-modal/#Rel)
 
 ---
 

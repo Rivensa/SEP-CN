@@ -4,35 +4,6 @@
 
 唐纳德（赫伯特）戴维森是二十世纪后半叶最重要的哲学家之一，他的影响力在美国哲学家中可能仅次于他的老师 W. V. O.奎因。戴维森的思想从 20 世纪 60 年代开始以一系列的论文（和一本死后出版的专著）的形式呈现，对语义理论、认识论和伦理学等领域产生了影响。他的工作具有广度和系统性，这在 20 世纪分析哲学中是不寻常的。尽管他承认对奎因有重要的债务，但戴维森的思想融合了哲学以及其他领域的广泛影响。尽管戴维森的思想经常是分开发展的，但它们以一种方式结合在一起，提供了对知识、行动、语言和心灵问题的统一综合方法。他的思想的广度和统一性，加上他的散文有时显得简洁，意味着戴维森不是一个容易接近的作家。鉴于他的工作的要求性质，或许可以预料到它会得到一系列的解释和评估，尤其是在过去 20 年左右对戴维森思想的研究中。例如，柯克·路德维希在几篇论文中提出了对戴维森哲学的解读，经常与欧内斯特·莱波尔合作，尽管部分是解释性的，但也对戴维森的观点和论证提出了质疑（参见 Lepore 和 Ludwig 2005；还参见 Baghramian，2013 中 Lepore 和 Ludwig 与 Stoutland 之间的交流）。这反映了戴维森的思想更多地成为批评而不是阐述的焦点的一般趋势。尽管戴维森在 20 世纪 70 年代和 80 年代是分析哲学中的杰出人物，但在过去十年或更长时间里，他的影响力已经减弱，他的工作现在主要是以与特定问题相关的方式进行研究，尤其是心灵和行动问题（尽管这也反映了当前哲学思想和实践配置的更一般性转变-参见 Brandom，2020：260）。然而，无论是提出的各种批评还是哲学方向或方法的学科性转变，都不应该削弱戴维森的贡献的重要性，他的工作仍然对一系列思想家的工作产生影响。同时，戴维森的论文的再版，尤其是他晚年的论文，将他的思想传播给了更广泛的、有时是新的欣赏的观众。此外，戴维森的工作仍然是分析思想和所谓的“大陆”思想之间哲学互动的重要而有争议的焦点（参见例如 Malpas, 2011 年），以及对分析思维的历史和特点进行反思（参见，例如，Isaac, 2013 年；Braver, 2017 年）。
 
-* [ 1. 个人简介](https://plato.stanford.edu/entries/davidson/#BiogSket)
-* [2. 行动与心智](https://plato.stanford.edu/entries/davidson/#ActiMind)
-
-  * [2.1 原因作为原因](https://plato.stanford.edu/entries/davidson/#ReasCaus)
-  * [2.2 心理的异常性](https://plato.stanford.edu/entries/davidson/#AnomMent)
-  * [2.3 非理性问题](https://plato.stanford.edu/entries/davidson/#ProbIrra)
-  * [2.4 本体论和逻辑形式](https://plato.stanford.edu/entries/davidson/#OntoLogiForm)
-* [3. 意义和真理](https://plato.stanford.edu/entries/davidson/#MeanTrut)
-
-  * [3.1 语义理论的结构](https://plato.stanford.edu/entries/davidson/#StruSemaTheo)
-  * [3.2 Tarski 和“T 公约”](https://plato.stanford.edu/entries/davidson/#TarsConvT)
-  * [3.3 激进解释](https://plato.stanford.edu/entries/davidson/#RadiInte)
-  * [3.4 整体主义和不确定性](https://plato.stanford.edu/entries/davidson/#HoliInde)
-  * [3.5 语言和约定](https://plato.stanford.edu/entries/davidson/#LangConv)
-* [4. 知识和信念](https://plato.stanford.edu/entries/davidson/#KnowBeli)
-
-  * [4.1 &apos;三种知识的变体&apos;](https://plato.stanford.edu/entries/davidson/#ThreVariKnow)
-  * [4.2 反对相对主义和怀疑主义](https://plato.stanford.edu/entries/davidson/#AgaiRelaScep)
-  * [4.3 经验主义的“第三教条”](https://plato.stanford.edu/entries/davidson/#ThirDogmEmpi)
-  * [4.4 真理、断言和现实主义/反现实主义](https://plato.stanford.edu/entries/davidson/#TrutPredRealReal)
-* [5. 哲学背景和联系](https://plato.stanford.edu/entries/davidson/#PhilConn)
-* [ 参考文献](https://plato.stanford.edu/entries/davidson/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/davidson/#PrimLite)
-  * [ 次级文献](https://plato.stanford.edu/entries/davidson/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/davidson/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/davidson/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/davidson/#Rel)
-
 ---
 
 ## 1. 传略

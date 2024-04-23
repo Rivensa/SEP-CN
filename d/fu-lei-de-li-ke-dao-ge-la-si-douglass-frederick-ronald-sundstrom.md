@@ -14,28 +14,6 @@
 
 对于首次了解道格拉斯的学生和教师来说，没有比他的第一部自传《弗雷德里克·道格拉斯的生平叙事》（1845）更好的起点了。接着，阅读本条目中提到的一些他的演讲和著作，尤其是“奴隶眼中的 7 月 4 日是什么？”（1852 [SFD: 55–92]）。然后深入研究关于道格拉斯的历史、政治、文学和哲学文献。
 
-* [ 奴隶制](https://plato.stanford.edu/entries/frederick-douglass/#Slav)
-* [ 自然法](https://plato.stanford.edu/entries/frederick-douglass/#NatuLaw)
-* [ 自由论](https://plato.stanford.edu/entries/frederick-douglass/#Libe)
-* [美国宪法](https://plato.stanford.edu/entries/frederick-douglass/#USCons)
-* [暴力与自卫](https://plato.stanford.edu/entries/frederick-douglass/#ViolSelfDefe)
-* [尊重与尊严](https://plato.stanford.edu/entries/frederick-douglass/#RespDign)
-* [普遍人类兄弟情感](https://plato.stanford.edu/entries/frederick-douglass/#UnivHumaBrot)
-* [合并与同化](https://plato.stanford.edu/entries/frederick-douglass/#AmalAssi)
-* [集成与移民](https://plato.stanford.edu/entries/frederick-douglass/#InteVersEmig)
-* [ 领导](https://plato.stanford.edu/entries/frederick-douglass/#Lead)
-* [ 妇女参政权](https://plato.stanford.edu/entries/frederick-douglass/#WomeSuff)
-* [在吉姆·克劳的黎明](https://plato.stanford.edu/entries/frederick-douglass/#DawnJimCrow)
-* [ 参考文献](https://plato.stanford.edu/entries/frederick-douglass/#Bib)
-
-  * [主要来源](https://plato.stanford.edu/entries/frederick-douglass/#PrimSour)
-
-    * [收藏和缩写](https://plato.stanford.edu/entries/frederick-douglass/#CollAbbr)
-    * [弗雷德里克·道格拉斯的作品](https://plato.stanford.edu/entries/frederick-douglass/#WorkDoug)
-  * [ B. 二级文献](https://plato.stanford.edu/entries/frederick-douglass/#BSecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/frederick-douglass/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/frederick-douglass/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/frederick-douglass/#Rel)
 
 ---
 

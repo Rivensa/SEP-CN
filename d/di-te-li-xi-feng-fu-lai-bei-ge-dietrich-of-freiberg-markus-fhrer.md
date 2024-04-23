@@ -4,28 +4,7 @@
 
 迪特里希·冯·弗赖贝格（1250–1310）的非凡长寿和积极的教学生涯为中世纪德国哲学的开端带来了许多益处。除了他的著作庞大的文集培养了一代德意志省的多明我会学者，阿尔伯特还活得足够长，以确保这一代人的延续，其中包括斯特拉斯堡的乌尔里希（约 1225–1277）、弗赖贝格的迪特里希（1250–1310）和艾克哈特大师（约 1260–约 1327）。所有这些人在中世纪哲学、神学以及迪特里希·冯·弗赖贝格的情况下，自然科学方面都做出了非凡的贡献。然而，在所有在阿尔伯特的阴影下成长的人中，迪特里希表现出了最明显的对阿尔伯特广泛兴趣的倾向。
 
-* [迪特里希·冯·弗赖贝格的生平](https://plato.stanford.edu/entries/dietrich-freiberg/#LifeDietFrei)
-* [ 哲学作品](https://plato.stanford.edu/entries/dietrich-freiberg/#PhilWork)
-* [存在与本质](https://plato.stanford.edu/entries/dietrich-freiberg/#ExisEsse)
-* [ 迪特里希·冯·弗赖贝格。 4. Quid and Quiddity](https://plato.stanford.edu/entries/dietrich-freiberg/#QuidQuid)
-* [存在的宇宙](https://plato.stanford.edu/entries/dietrich-freiberg/#UnivBein)
-* [上帝与创造物之间的区别](https://plato.stanford.edu/entries/dietrich-freiberg/#DistBetwGodCrea)
-* [存在的等级](https://plato.stanford.edu/entries/dietrich-freiberg/#HierBein)
-* [众生的前行与回归](https://plato.stanford.edu/entries/dietrich-freiberg/#ProcReveBein)
-* [ 概念性存在](https://plato.stanford.edu/entries/dietrich-freiberg/#ConcBein)
-* [ 智力](https://plato.stanford.edu/entries/dietrich-freiberg/#Inte)
-* [智慧的光辉](https://plato.stanford.edu/entries/dietrich-freiberg/#RespInte)
-* [经验意识和超验意识](https://plato.stanford.edu/entries/dietrich-freiberg/#EmpiTranCons)
-* [代理智力与灵魂](https://plato.stanford.edu/entries/dietrich-freiberg/#AgenInteSoul)
-* [14. 知识的分离](https://plato.stanford.edu/entries/dietrich-freiberg/#SepaInte)
-* [ 结论](https://plato.stanford.edu/entries/dietrich-freiberg/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/dietrich-freiberg/#Bib)
 
-  * [迪特里希·弗赖贝格的著作](https://plato.stanford.edu/entries/dietrich-freiberg/#WorkDietVonFrei)
-  * [ B. 次级资料](https://plato.stanford.edu/entries/dietrich-freiberg/#BSecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/dietrich-freiberg/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dietrich-freiberg/#Oth)
-* [ 迪特里希·冯·弗赖贝格 (IGNORE) 相关条目](https://plato.stanford.edu/entries/dietrich-freiberg/#Rel)
 
 ---
 

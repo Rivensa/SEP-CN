@@ -6,34 +6,6 @@
 
 医疗卫生配给的伦理学引发了一系列问题，这些问题并不直接取决于对残疾人的潜在歧视影响。然而，由于很难明确区分一般的伦理问题和残疾问题引发的问题，我们首先在第 1 节中调查医疗卫生配给中的一般伦理关切，然后是由成本效益分析和生活质量作为衡量医疗资源提供的“利益”的具体问题引发的问题。然后我们在第 2 节转向审查为什么有人认为残疾在医疗卫生配给中提出了一套特殊的伦理问题。医疗资源配给的伦理问题（有时称为“优先级”）可以在特定分配决策的个人层面“在床边”或更普遍地作为医疗卫生配给的社会政策中得到体现。个人层面的伦理问题在第 2 节中进行了审查，社会政策问题在第 3 节中进行考虑，包括是否将获得医疗保健视为人权是否有任何不同。我们在第 4 节中得出不令人满意的结论，即我们仍然陷入困境：拒绝在医疗卫生配给中考虑残疾似乎是不理性和不公平的，但考虑残疾则引发了一系列看似无法解决的哲学问题。
 
-* [医疗卫生配给的伦理学](https://plato.stanford.edu/entries/disability-care-rationing/#EthiHealCareRati)
-
-  * [医疗卫生配给](https://plato.stanford.edu/entries/disability-care-rationing/#RatiHealReso)
-  * [伦理关切与 CEA 和 QALY 作为优先排序策略](https://plato.stanford.edu/entries/disability-care-rationing/#EthiConcCEAQALYPrioStra)
-
-    * [聚合问题](https://plato.stanford.edu/entries/disability-care-rationing/#AggrProb)
-    * [优先问题](https://plato.stanford.edu/entries/disability-care-rationing/#PrioProb)
-    * [民主问题](https://plato.stanford.edu/entries/disability-care-rationing/#DemoProb)
-    * [间接利益问题](https://plato.stanford.edu/entries/disability-care-rationing/#IndiBeneProb)
-    * [公平机会与最佳结果问题](https://plato.stanford.edu/entries/disability-care-rationing/#FairChanVsBestOutcProb)
-  * [1.3 健康资源优先级排序辩论的当前状态](https://plato.stanford.edu/entries/disability-care-rationing/#CurrStatDebaHealResoPrio)
-* [为什么残疾对医疗卫生配给构成问题？](https://plato.stanford.edu/entries/disability-care-rationing/#WhyDoesDisaPoseProbForHealCareRati)
-
-  * [2.1 残疾带来的差异](https://plato.stanford.edu/entries/disability-care-rationing/#DiffDisaMake)
-  * [2.2 残疾和个体，一对一分配](https://plato.stanford.edu/entries/disability-care-rationing/#DisaIndiHeadHeadAllo)
-  * [2.3 个人层面的问题情景](https://plato.stanford.edu/entries/disability-care-rationing/#ProbScenIndiLeve)
-  * [头对头的例子真的告诉我们什么？](https://plato.stanford.edu/entries/disability-care-rationing/#WhatDoHeadHeadExamRealTellUs)
-* [残疾作为系统配给考虑：伦理关切](https://plato.stanford.edu/entries/disability-care-rationing/#DisaSystRatiConsEthiConc)
-
-  * [由 CEA 引起的困境](https://plato.stanford.edu/entries/disability-care-rationing/#DileCreaCEA)
-  * [3.2 解决困境：首次尝试](https://plato.stanford.edu/entries/disability-care-rationing/#ResoDileFirsAtte)
-  * [3.3 解决困境：超越成本效益分析](https://plato.stanford.edu/entries/disability-care-rationing/#ResoDileMoviBeyoCEA)
-  * [医疗资源优先配置和医疗卫生配给人权](https://plato.stanford.edu/entries/disability-care-rationing/#HealResoPrioHumaRighHealCare)
-* [4. 一个持久的困境？](https://plato.stanford.edu/entries/disability-care-rationing/#PersDile)
-* [ 参考文献](https://plato.stanford.edu/entries/disability-care-rationing/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/disability-care-rationing/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/disability-care-rationing/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/disability-care-rationing/#Rel)
 
 ---
 

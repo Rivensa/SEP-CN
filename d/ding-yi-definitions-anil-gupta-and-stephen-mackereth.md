@@ -4,29 +4,6 @@
 
 自古以来，定义一直是哲学家们感兴趣的话题。柏拉图早期的对话描绘了苏格拉底对定义的质疑（例如，在《尤西弗洛》中，“什么是虔诚？”）——这些问题似乎既深刻又难以捉摸。安瑟姆关于上帝存在的“本体论证明”的关键步骤是对“上帝”的定义，笛卡尔在他的第五冥想中的论证也是如此。最近，弗雷格-罗素关于数的定义和塔斯基关于真理的定义对当代哲学辩论产生了重要影响。在所有这些案例中，不仅对特定的定义进行了辩论，对定义的性质和要求也进行了辩论。其中一些辩论可以通过进行必要的区分来解决，因为定义并不都是同一种类型：定义具有各种功能，其一般特征因功能而异。然而，其他一些辩论并不容易解决，因为它们涉及有争议的哲学概念，如本质、概念和意义。
 
-* [1. 定义的一些变种](https://plato.stanford.edu/entries/definitions/#SomVarDef)
-
-  * [1.1 实际和名义定义](https://plato.stanford.edu/entries/definitions/#ReaNomDef)
-  * [1.2 词典定义](https://plato.stanford.edu/entries/definitions/#DicDef)
-  * [1.3 约定性定义](https://plato.stanford.edu/entries/definitions/#StiDef)
-  * [1.4 描述性定义](https://plato.stanford.edu/entries/definitions/#DesDef)
-  * [1.5 解释性定义](https://plato.stanford.edu/entries/definitions/#ExpDef)
-  * [1.6 示意性定义](https://plato.stanford.edu/entries/definitions/#OstDef)
-  * [ 1.7 一个备注](https://plato.stanford.edu/entries/definitions/#Rem)
-* [2. 定义的逻辑](https://plato.stanford.edu/entries/definitions/#LogDef)
-
-  * [ 2.1 两个标准](https://plato.stanford.edu/entries/definitions/#TwoCri)
-  * [2.2 传统解释的基础](https://plato.stanford.edu/entries/definitions/#FouTraAcc)
-  * [2.3 保守性和可消除性](https://plato.stanford.edu/entries/definitions/#ConEli)
-  * [2.4 正常形式下的定义](https://plato.stanford.edu/entries/definitions/#DefNorFor)
-  * [2.5 条件定义](https://plato.stanford.edu/entries/definitions/#CondDef)
-  * [2.6 隐式定义](https://plato.stanford.edu/entries/definitions/#ImpDef)
-  * [2.7 无限循环原则](https://plato.stanford.edu/entries/definitions/#VicCirPri)
-  * [2.8 循环定义](https://plato.stanford.edu/entries/definitions/#CirDef)
-* [ 参考文献](https://plato.stanford.edu/entries/definitions/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/definitions/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/definitions/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/definitions/#Rel)
 
 ---
 

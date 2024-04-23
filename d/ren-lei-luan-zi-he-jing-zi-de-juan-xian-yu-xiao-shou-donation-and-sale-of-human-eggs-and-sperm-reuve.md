@@ -28,39 +28,6 @@
 2. A 期望和/或打算 B 使用那些配子来创造 C（一个孩子或一些孩子）; 和
 3. Both *A* and *B* expect that and/or intend that *A* will *not* become a social or legal parent of *C*.
 
-* [权利和义务的配子捐献者](https://plato.stanford.edu/entries/gametes-donation-sale/#RighDutiGameDono)
-
-  * [支持配子捐献父母身份的论点](https://plato.stanford.edu/entries/gametes-donation-sale/#ArguFavoGameDonoPare)
-  * [反对配子捐赠亲子关系的论点](https://plato.stanford.edu/entries/gametes-donation-sale/#ArguAgaiGameDonoPare)
-  * [1.3 父母责任的可转让性](https://plato.stanford.edu/entries/gametes-donation-sale/#TranPareResp)
-  * [1.4 非父母责任](https://plato.stanford.edu/entries/gametes-donation-sale/#NonPareResp)
-  * [ 后代限制](https://plato.stanford.edu/entries/gametes-donation-sale/#OffsLimi)
-* [捐献匿名](https://plato.stanford.edu/entries/gametes-donation-sale/#DonoAnon)
-
-  * [2.1 心理困扰与自我认知](https://plato.stanford.edu/entries/gametes-donation-sale/#PsycDistSelfKnow)
-  * [ 2.2 医疗记录](https://plato.stanford.edu/entries/gametes-donation-sale/#MediReco)
-  * [ 2.3 家庭凝聚力](https://plato.stanford.edu/entries/gametes-donation-sale/#FamiCohe)
-  * [ 基本权利](https://plato.stanford.edu/entries/gametes-donation-sale/#FundRigh)
-  * [2.5 政策类比论证到采纳](https://plato.stanford.edu/entries/gametes-donation-sale/#PoliArguAnalAdop)
-* [捐献者匹配和选择](https://plato.stanford.edu/entries/gametes-donation-sale/#DonoMatcSele)
-
-  * [3.1 捐献者选择背后的动机](https://plato.stanford.edu/entries/gametes-donation-sale/#MotiUndeDonoSele)
-  * [3.2 选择反对残疾和劣势](https://plato.stanford.edu/entries/gametes-donation-sale/#SeleAgaiDisaDisa)
-  * [3.3 与“种族”相关的特征](https://plato.stanford.edu/entries/gametes-donation-sale/#CharRelaRace)
-  * [3.4 父母的美德、期望和对未知事物的开放态度](https://plato.stanford.edu/entries/gametes-donation-sale/#PareVirtExpeOpenUnbi)
-* [ 付款](https://plato.stanford.edu/entries/gametes-donation-sale/#Paym)
-
-  * [其他背景下的熟悉论点](https://plato.stanford.edu/entries/gametes-donation-sale/#FamiArguOtheCont)
-
-    * [危害和/或捐献者的风险](https://plato.stanford.edu/entries/gametes-donation-sale/#HarmRiskDono)
-    * [4.1.2. 同意、剥削和诱因](https://plato.stanford.edu/entries/gametes-donation-sale/#ConsExplIndu)
-    * [4.1.3. 商业化与选择](https://plato.stanford.edu/entries/gametes-donation-sale/#CommSele)
-  * [付款和儿童福利](https://plato.stanford.edu/entries/gametes-donation-sale/#PaymWelfChil)
-  * [ 4.3 蛋子分享](https://plato.stanford.edu/entries/gametes-donation-sale/#EggShar)
-* [ 参考文献](https://plato.stanford.edu/entries/gametes-donation-sale/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/gametes-donation-sale/#Aca)
-* [抽象](https://plato.stanford.edu/entries/gametes-donation-sale/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/gametes-donation-sale/#Rel)
 
 ---
 

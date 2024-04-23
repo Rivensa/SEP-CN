@@ -8,21 +8,6 @@
 
 元伦道德的思考时而怀疑，时而相对主义，这里是自然主义，那里是神秘主义。道家本身没有“恒定的道”。然而，它确实有一个共同的精神。以道为中心的哲学思考在倡导中产生了独特的矛盾性，表现在他们间接的、非争论性的风格，他们使用诗歌和寓言。在古代中国，道家主义的政治含义主要是反对权威、政府、强制，甚至是对正常社会化价值观的反对。道家的“自发性”与对任何特定或社会道的微妙或明显的灌输形成对比。
 
-* [1. 道家的定义](https://plato.stanford.edu/entries/daoism/#Intro)
-* [2. 哲学道家：入门指南](https://plato.stanford.edu/entries/daoism/#Primer)
-* [3. 道家理论的起源](https://plato.stanford.edu/entries/daoism/#Origins)
-* [4. 道与名字：《老子》或《道德经》](https://plato.stanford.edu/entries/daoism/#DaoandNames)
-* [5. 名家学派的影响](https://plato.stanford.edu/entries/daoism/#Impact)
-* [6. 成熟的道教：《庄子》](https://plato.stanford.edu/entries/daoism/#Mature)
-* [ 7. 新道教](https://plato.stanford.edu/entries/daoism/#NeoTaoism)
-* [8. 道教与佛教](https://plato.stanford.edu/entries/daoism/#DaoismandBuddhism)
-* [9. 重要的道教概念](https://plato.stanford.edu/entries/daoism/#Important)
-* [10. 文本和文本理论](https://plato.stanford.edu/entries/daoism/#Texts)
-* [ 参考文献](https://plato.stanford.edu/entries/daoism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/daoism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/daoism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/daoism/#Rel)
-
 ---
 
 ## 1. “道教”的定义

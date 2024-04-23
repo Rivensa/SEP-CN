@@ -12,26 +12,6 @@
 
 这个条目的剩余部分采用辩证的形式，主要关注思想和论证，而不是历史和个人。它以一种在 20 世纪这些问题受到关注后几乎达成共识地位的方法开始：整脑方法。（这里所称的“方法”大多包括一个标准和对死亡的相应定义；少数提出了更激进的人类死亡理解方法。）讨论依次进行，涉及到高级脑方法、更新的心肺方法以及几种更激进的方法。对每种方法的讨论都会考察其主要主张、对上述问题的回答、支持其观点的主要论据以及其主要困难。整个条目旨在确定与人类死亡的定义和确定相关的主要哲学问题，介绍已经发展出来的解决这些问题的主要方法，以及这些方法作为竞争对手的主要优势和困难。
 
-* [1. 当前主流观点：整脑方法](https://plato.stanford.edu/entries/death-definition/#1CurMaiVieWhoBraApp)
-* [2. 一种进步的替代方案：高级脑方法](https://plato.stanford.edu/entries/death-definition/#ProAltHigBraApp)
-
-  * [2.1 对人类个体本质的呼吁](https://plato.stanford.edu/entries/death-definition/#AppEssHumPer)
-  * [2.2 对个人身份的呼吁](https://plato.stanford.edu/entries/death-definition/#AppPerIde)
-  * [2.3 将死亡的定义视为道德问题的主张](https://plato.stanford.edu/entries/death-definition/#ClaDefDeaMorIss)
-  * [2.4 对实用价值的呼吁](https://plato.stanford.edu/entries/death-definition/#AppPruVal)
-* [3. 对传统的提议：一种更新的心肺方法](https://plato.stanford.edu/entries/death-definition/#ProRetTraUpdCarApp)
-* [4. 进一步的可能性](https://plato.stanford.edu/entries/death-definition/#FurPos)
-
-  * [4.1 死亡作为一个过程，而不是一个确定的事件](https://plato.stanford.edu/entries/death-definition/#DeaProNotDetEve)
-  * [4.2 死亡作为一个不适合经典定义的概念群](https://plato.stanford.edu/entries/death-definition/#DeaCluConNotAmeClaDef)
-  * [4.3 死亡与道德关切是可以分开的](https://plato.stanford.edu/entries/death-definition/#DeaSepMorCon)
-* [ 参考文献](https://plato.stanford.edu/entries/death-definition/#Bib)
-
-  * [ 引用参考文献](https://plato.stanford.edu/entries/death-definition/#RefCit)
-  * [ 其他重要作品](https://plato.stanford.edu/entries/death-definition/#OthImpWor)
-* [ 学术工具](https://plato.stanford.edu/entries/death-definition/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/death-definition/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/death-definition/#Rel)
 
 ---
 

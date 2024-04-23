@@ -4,29 +4,6 @@ _首次发表于 2003 年 1 月 23 日星期四；实质性修订于 2023 年 9 
 
 因果决定论是大致上指出每一个事件都是由先前事件和条件以及自然法则所决定的观念。这个观念虽然古老，但在 18 世纪首次接受了澄清和数学分析。决定论与我们对物理科学及其解释抱有的野心密切相关，一方面，与我们对人类自由行为的看法密切相关。在这两个一般领域中，人们对于决定论是否正确（甚至是否可以知道其真假）以及在任何情况下对人类行为的影响都没有达成一致意见。
 
-* [1. 引言](https://plato.stanford.edu/entries/determinism-causal/#Int)
-* [2. 决定论中的概念问题](https://plato.stanford.edu/entries/determinism-causal/#ConIssDet)
-  * [2.1 世界](https://plato.stanford.edu/entries/determinism-causal/#Wor)
-  * [2.2 在时间 t 时事物的状态](https://plato.stanford.edu/entries/determinism-causal/#WayThiTimT)
-  * [2.3 其后](https://plato.stanford.edu/entries/determinism-causal/#The)
-  * [2.4 自然法则](https://plato.stanford.edu/entries/determinism-causal/#LawNat)
-  * [2.5 固定](https://plato.stanford.edu/entries/determinism-causal/#Fix)
-* [3. 决定论的认识论](https://plato.stanford.edu/entries/determinism-causal/#EpiDet)
-  * [3.1 Laws again](https://plato.stanford.edu/entries/determinism-causal/#LawAga)
-  * [3.2 Experience](https://plato.stanford.edu/entries/determinism-causal/#Exp)
-  * [3.3 Determinism and Chaos](https://plato.stanford.edu/entries/determinism-causal/#DetCha)
-  * [3.4 形而上学论证](https://plato.stanford.edu/entries/determinism-causal/#MetArg)
-* [4. 物理理论中决定论的地位](https://plato.stanford.edu/entries/determinism-causal/#StaDetPhyThe)
-  * [4.1 古典力学](https://plato.stanford.edu/entries/determinism-causal/#ClaMec)
-  * [4.2 特殊相对论物理](https://plato.stanford.edu/entries/determinism-causal/#SpeRelPhy)
-  * [4.3 广义相对论 (GTR)](https://plato.stanford.edu/entries/determinism-causal/#GenRelGTR)
-  * [4.4 量子力学](https://plato.stanford.edu/entries/determinism-causal/#QuaMec)
-* [因果决定论](https://plato.stanford.edu/entries/determinism-causal/#ChaDet)
-* [决定论与人类行为](https://plato.stanford.edu/entries/determinism-causal/#DetHumAct)
-* [参考文献](https://plato.stanford.edu/entries/determinism-causal/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/determinism-causal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/determinism-causal/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/determinism-causal/#Rel)
 
 ***
 

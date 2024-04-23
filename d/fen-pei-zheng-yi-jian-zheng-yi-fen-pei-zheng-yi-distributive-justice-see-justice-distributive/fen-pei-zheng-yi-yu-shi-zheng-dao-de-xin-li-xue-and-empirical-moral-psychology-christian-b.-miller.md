@@ -27,16 +27,6 @@
 
 分配正义与实证道德心理学
 
-* [终局博弈与公平](https://plato.stanford.edu/entries/justice-moral-psych/#UltGamFai)
-* [分配正义与实证道德心理学](https://plato.stanford.edu/entries/justice-moral-psych/#DicGamFai)
-* [巴森的修改版独裁者游戏和道德虚伪](https://plato.stanford.edu/entries/justice-moral-psych/#BatModDicGamMorHyp)
-* [巴特森研究对正义美德的实证现实的可能影响](https://plato.stanford.edu/entries/justice-moral-psych/#PosImpBatResForEmpReaVirJus)
-* [人格特质、经济博弈和正义](https://plato.stanford.edu/entries/justice-moral-psych/#PerTraEcoGamJus)
-* [ 结论](https://plato.stanford.edu/entries/justice-moral-psych/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/justice-moral-psych/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/justice-moral-psych/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justice-moral-psych/#Oth)
-* [ 分配正义与实证道德心理学](https://plato.stanford.edu/entries/justice-moral-psych/#Rel)
 
 ---
 

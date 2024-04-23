@@ -5,28 +5,6 @@
 
 最近关于倾向主题的许多工作都集中在试图通过用其他更易理解的术语来解释倾向来消除这种神秘感。倾向主题本身就很有趣。但更有趣的是，倾向的呼应已经在几乎每个哲学领域中都有所体现。例如，对心理状态、颜色、价值、属性和条件的明确倾向分析。对几乎任何事情感兴趣的哲学家都应该对倾向感兴趣。
 
-* [倾向归因的分析](https://plato.stanford.edu/entries/dispositions/#AnaDisAsc)
-
-  * [1.1 传统和规范的倾向](https://plato.stanford.edu/entries/dispositions/#ConCanDis)
-  * [简单条件分析和反例](https://plato.stanford.edu/entries/dispositions/#SimConAnaCou)
-  * [1.3 辩护简单条件分析](https://plato.stanford.edu/entries/dispositions/#DefSimConAna)
-  * [1.4 精细分析](https://plato.stanford.edu/entries/dispositions/#SopAna)
-  * [1.5 分析传统倾向](https://plato.stanford.edu/entries/dispositions/#AnaConDis)
-* [倾向/范畴区分](https://plato.stanford.edu/entries/dispositions/#DisDis)
-
-  * [ 倾向](https://plato.stanford.edu/entries/dispositions/#Ent)
-  * [ 内在的费恩克斯](https://plato.stanford.edu/entries/dispositions/#IntFin)
-* [分类主义、倾向主义和自然法则](https://plato.stanford.edu/entries/dispositions/#CatDisLawNat)
-* [倾向和范畴基础](https://plato.stanford.edu/entries/dispositions/#DisCatBas)
-
-  * [裸倾向的可能性](https://plato.stanford.edu/entries/dispositions/#PosBarDis)
-  * [倾向与它们的基础之间的关系](https://plato.stanford.edu/entries/dispositions/#RelBetDisTheBas)
-* [倾向的内在性](https://plato.stanford.edu/entries/dispositions/#IntDis)
-* [倾向的因果效力](https://plato.stanford.edu/entries/dispositions/#CauEffDis)
-* [ 参考文献](https://plato.stanford.edu/entries/dispositions/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/dispositions/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dispositions/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dispositions/#Rel)
 
 ---
 

@@ -12,25 +12,6 @@ _首次发表于 2011 年 8 月 19 日星期五；实质性修订于 2020 年 12
 
 在接下来的讨论中，我们的大部分内容将围绕《认识论论》展开，因为这是法称（Dharmakīrti）的作品中最大、最重要的一部。这是一部未完成的、高度哲学性的评论，评论的对象是 Dignāga 的《认识论汇编》（Pramāṇasamuccaya）。在文本的各个关键位置，我们看到法称似乎已经对 Dignāga 学生现已失传的评论提出了一些基本观念，其中最重要的是Īśvarasena 对《认识论汇编》的评论。对Īśvarasena 的一个显著反应是法称对确定性（niścaya）的强调（见 1.4 和 3.1 节）。还有一些创新，据我们所知，这些创新并非是早期评论者所引发的。无论是在形而上学、认识论还是语言哲学方面，因果理论都具有相当大的哲学意义。这些理论可能在很大程度上是原创的，在 Dignāga 自己的著作中找不到。接下来，我们将审视我们认为是法称哲学最显著特征，其中包括这种因果立场的重要性。然而，讨论所有传统上由佛教学者对法称作出评论的主要主题是不可能的。必须进行选择和排除。对于那些寻求全面了解法称在他的七部作品中立场历史发展的读者，迄今为止最好的参考资料是 Eltschinger（2010）。在 Potter（2017）中可以找到对法称作品的相当详细的摘要。
 
-* [形而上学](https://plato.stanford.edu/entries/dharmakiirti/#Met)
-  * [名义主义](https://plato.stanford.edu/entries/dharmakiirti/#Nom)
-  * [现实与瞬间性](https://plato.stanford.edu/entries/dharmakiirti/#ReaMom)
-  * [1.3 瞬时性的两种论证](https://plato.stanford.edu/entries/dharmakiirti/#TwoArgForMom)
-  * [性质的因果理论](https://plato.stanford.edu/entries/dharmakiirti/#CauThePro)
-  * [1.5 休谟和 Dharmakīrti 因果论](https://plato.stanford.edu/entries/dharmakiirti/#HumDhaCau)
-* [认识论和语言哲学](https://plato.stanford.edu/entries/dharmakiirti/#EpiLan)
-  * [2.1 Pramāṇas and justification 2.1 资格与理由](https://plato.stanford.edu/entries/dharmakiirti/#PraJus)
-  * [关于性质：阿波哈理论](https://plato.stanford.edu/entries/dharmakiirti/#AboTheApo)
-* [逻辑与逻辑哲学](https://plato.stanford.edu/entries/dharmakiirti/#LogLog)
-  * [良好理由与三重标准](https://plato.stanford.edu/entries/dharmakiirti/#GooReaTriCri)
-  * [3.2 推理-为他人](https://plato.stanford.edu/entries/dharmakiirti/#InfForOth)
-  * [3.3 不透明的语境](https://plato.stanford.edu/entries/dharmakiirti/#OpaCon)
-* [宗教与伦理学](https://plato.stanford.edu/entries/dharmakiirti/#RelEth)
-* [《认识论辩论论》的版本和翻译](https://plato.stanford.edu/entries/dharmakiirti/#EdiTraPra)
-* [参考文献](https://plato.stanford.edu/entries/dharmakiirti/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/dharmakiirti/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dharmakiirti/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/dharmakiirti/#Rel)
 
 ***
 

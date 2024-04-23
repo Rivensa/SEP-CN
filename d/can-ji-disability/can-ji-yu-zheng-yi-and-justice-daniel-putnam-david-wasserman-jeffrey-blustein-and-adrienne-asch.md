@@ -11,21 +11,7 @@
 
 本条目的组织如下：第 1 节将讨论残疾在这两种广泛不公正方面的情况。第 2 节和第 3 节将研究不同残疾模式对再分配和认同之间区别的影响。第 4 节将进一步审视当代分配正义理论中对待残疾的方式。它将解释环境和社会特征如何被契约论者和平等主义理论大多忽视，这并不是因为它们的分配焦点，而是因为它们狭隘地关注残疾的一个方面——功能限制——而忽视了排斥性态度和实践。第 4 节将通过讨论最近努力纠正这种忽视，描述分配正义理论家们如何努力考虑环境和社会障碍，并解决认同要求来结束。这些努力包括扩大公正分配的度量标准以包括尊重关系和社会实践；认为在这些更广泛的度量标准上的公正分配可以通过修改物质和社会环境而不是在个体之间重新分配资源来更有效和适当地实现；并采用不要求在任何度量标准上严格平等而是减少或消除不尊重的不平等的结果标准。第 5 节将讨论残疾认同中的一个重要问题：残疾身份与各种正义方法的关系，其中“身份”被理解为个体自我理解或自我呈现的一部分。
 
-* [残疾、承认和再分配](https://plato.stanford.edu/entries/disability-justice/#DisaRecoRedi)
-* [残疾模型及其对正义的影响](https://plato.stanford.edu/entries/disability-justice/#ModeDisaTheiImplForJust)
-* [正义、重建和合理安置](https://plato.stanford.edu/entries/disability-justice/#JustRecoReasAcco)
-* [当代正义理论中的残疾](https://plato.stanford.edu/entries/disability-justice/#DisaContTheoJust)
 
-  * [4.1 残疾和当代社会契约理论](https://plato.stanford.edu/entries/disability-justice/#DisaContSociContTheo)
-  * [4.2 残疾、结果导向理论和正义的“货币”](https://plato.stanford.edu/entries/disability-justice/#DisaOutcOrieTheoCurrJust)
-  * [4.3 分配正义的适当度量](https://plato.stanford.edu/entries/disability-justice/#ApprMetrForDistJust)
-  * [4.4 分配正义的适当标准](https://plato.stanford.edu/entries/disability-justice/#ApprStanForDistJust)
-* [正义，残疾身份和认识不义](https://plato.stanford.edu/entries/disability-justice/#JustDisaIdenEpisInju)
-* [ 6. 结论](https://plato.stanford.edu/entries/disability-justice/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/disability-justice/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/disability-justice/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/disability-justice/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/disability-justice/#Rel)
 
 ---
 

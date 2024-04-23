@@ -4,20 +4,7 @@
 
 尽管勒内·笛卡尔（1596-1650）作为现代哲学的创始人之一而闻名，但直到 20 世纪后半叶，他在现代物理学发展中的重要作用一直被历史学家和科学哲学家普遍低估和忽视。笛卡尔不仅提供了第一个明确的现代自然法则和运动守恒原理的表述，还构建了成为 17 世纪末最流行的行星运动理论。正如著名科学史学家克利福德·特鲁斯代尔所观察到的那样，"[笛卡尔的物理学]是现代意义上理论的开端"（特鲁斯代尔，1984 年，6 页）。然而，尽管笛卡尔的物理学具有前瞻性和看似现代的特点，但他的许多物理假设与晚中世纪和文艺复兴时期受亚里士多德影响的学院哲学科学密切相关。正是这种新旧物理世界概念的独特融合，可能解释了对笛卡尔物理学的当前学术兴趣的复苏。
 
-* [1. 笛卡尔科学工作的简要历史](https://plato.stanford.edu/entries/descartes-physics/#BrieHistDescScieWork)
 
-  * [1.1 关于主要文本的说明](https://plato.stanford.edu/entries/descartes-physics/#NotePrimText)
-  * [ 1.2 推荐阅读](https://plato.stanford.edu/entries/descartes-physics/#SuggRead)
-* [2. 笛卡尔物理学的策略](https://plato.stanford.edu/entries/descartes-physics/#StraCartPhys)
-* [3. 空间、物体和运动](https://plato.stanford.edu/entries/descartes-physics/#SpacBodyMoti)
-* [4. 运动定律和笛卡尔守恒原理](https://plato.stanford.edu/entries/descartes-physics/#LawsMotiCartConsPrin)
-* [5. 相对运动问题](https://plato.stanford.edu/entries/descartes-physics/#ProbRelaMoti)
-* [6. 笛卡尔物理学中的“力量”](https://plato.stanford.edu/entries/descartes-physics/#ForcCartPhys)
-* [7. 笛卡尔宇宙学和天体物理学](https://plato.stanford.edu/entries/descartes-physics/#CartCosmAstr)
-* [ 参考文献](https://plato.stanford.edu/entries/descartes-physics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/descartes-physics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/descartes-physics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/descartes-physics/#Rel)
 
 ---
 

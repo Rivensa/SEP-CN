@@ -13,30 +13,6 @@
 
 舞蹈哲学家的这些方法选择反映了规范和认识承诺（参见 McFee 2018 对舞蹈哲学规范性的另一种解释）。例如，社会权力、压迫和观点被沉默的问题可能是一组舞蹈哲学家感兴趣和关注的，而另一组舞蹈哲学家则认为这些问题与他们感兴趣的问题无关（比如三连转是否算作专家行为）。最后，随着美国和其他地方的哲学机构领域扩大，包括非西方和非传统的哲学来源，例如那些观点因各种原因被边缘化或排除的哲学家的观点，作为舞蹈哲学的内容也需要随之扩展。注意舞蹈哲学家所从事的领域、感兴趣的问题以及对他们来说什么是证据，可以避免误解和不恰当的批评他人的工作。这既是巴别塔的挑战，也是一个真正丰富多元的舞蹈哲学世界的机遇。（有关哲学与舞蹈的关系以及舞蹈哲学和跨学科性的问题，请参见 Boyce 2013 和即将出版的作品；Burt 2009；Carroll 2003；Challis 1999；Cohen 1962；Colebrook 2005；Conroy 2012；参见 Cull Ó Maoilearca 2018 [这篇文章关注哲学和戏剧，但与舞蹈存在有趣的类比]；Cvejić 2015b；DeFrantz 2005；Redfern 1983；Foster、Rothfield 和 Dunagan 2005；Fraleigh 1999；参见 Franko 2014a [这篇文章讨论舞蹈研究和美学]；Friedman with Bresnahan 即将出版；Levin 1983；T. Lewis 2007；McFee 2013a；Pakes 2019；Sheets-Johnstone 1984；Shusterman 2005；Sparshott 1982a、1982b、1983、1988、1993、1995、2004；以及 Van Camp 1996a 和 2009。）
 
-* [1. 舞蹈作为艺术的分析本体论](https://plato.stanford.edu/entries/dance/#AnalOntoDancArt)
-
-  * [1.1 身份和重建的问题](https://plato.stanford.edu/entries/dance/#ProbIdenReco)
-  * [1.2 舞蹈作为短暂的艺术形式](https://plato.stanford.edu/entries/dance/#DancEpheArt)
-* [2. 舞蹈作为行动和有意识的行为](https://plato.stanford.edu/entries/dance/#DancAgenInteActi)
-
-  * [2.1 编舞、创作和版权](https://plato.stanford.edu/entries/dance/#ChorAuthCopy)
-  * [ 2.2 舞蹈即兴创作](https://plato.stanford.edu/entries/dance/#DancImpr)
-* [3. 舞蹈、生活体验和身体感知](https://plato.stanford.edu/entries/dance/#DancLiveExpeSomaAwar)
-
-  * [3.1 实践的首要性](https://plato.stanford.edu/entries/dance/#PrimPrac)
-  * [3.2 身体（肌体）反应](https://plato.stanford.edu/entries/dance/#BodiKinaResp)
-  * [ 3.3 专业知识](https://plato.stanford.edu/entries/dance/#Expe)
-* [4. 舞蹈与认知科学](https://plato.stanford.edu/entries/dance/#DancCognScie)
-* [5. 舞蹈与哲学的其他联系](https://plato.stanford.edu/entries/dance/#AddiDancPhilConn)
-
-  * [5.1 非西方和非传统哲学与舞蹈](https://plato.stanford.edu/entries/dance/#NonWestNonTradPhilDanc)
-  * [5.2 舞蹈、伦理学和社会政治哲学](https://plato.stanford.edu/entries/dance/#DancEthiSociPoliPhil)
-  * [5.3 舞蹈、电影和数字技术](https://plato.stanford.edu/entries/dance/#DancFilmDigiTech)
-* [ 参考文献](https://plato.stanford.edu/entries/dance/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/dance/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dance/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dance/#Rel)
-
 ---
 
 ## 1. 舞蹈作为艺术的分析本体论

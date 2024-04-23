@@ -16,47 +16,6 @@
 
 为了捕捉狄德罗的哲学复杂性，本文采用了这种反思性方法。它将分为两部分进行。第一部分提供了狄德罗生平和主要著作的概述，以便将他的工作和著作呈现为一个连贯的十八世纪生活和职业中的特定片段。为了简化对这份传记的阅读，文本以两级形式呈现。第一部分提供了狄德罗生平和工作亮点的简要概述，以便读者获得概要，但更详尽的传记内容可在传记补充中找到。然后，在第二部分中，提供了对狄德罗在其著作中所展现的主要哲学关注的全面分析，以勾勒出狄德罗在启蒙哲学和整体现代哲学中的地位轮廓。随后在第三部分进行简要的结论性讨论。
 
-* [德尼·狄德罗的生平和主要著作](https://plato.stanford.edu/entries/diderot/#DideLifeMajoWrit)
-
-  * [形成与斗争的岁月（1713-1749）](https://plato.stanford.edu/entries/diderot/#YearFormStru1713)
-  * [1.2 通过《百科全书》（1750-1765）的作家和哲学家身份的提升](https://plato.stanford.edu/entries/diderot/#AsceWritPhilThroEncy1750)
-  * [名人的岁月 (1765–1773)](https://plato.stanford.edu/entries/diderot/#YearCele1765)
-  * [暮年 (1773–1784)](https://plato.stanford.edu/entries/diderot/#TwilYear1773)
-* [德尼·狄德罗哲学的主要主题](https://plato.stanford.edu/entries/diderot/#MajoThemDidePhil)
-
-  * [怀疑主义、折衷主义和语言](https://plato.stanford.edu/entries/diderot/#SkepEcleLang)
-  * [彻底实证主义](https://plato.stanford.edu/entries/diderot/#RadiEmpi)
-
-    * [经验主义，从认识论到本体论。](https://plato.stanford.edu/entries/diderot/#EmpiEpisOnto)
-    * [经验主义和实验主义](https://plato.stanford.edu/entries/diderot/#EmpiExpe)
-    * [2.2.3 一个实验性的形而上学](https://plato.stanford.edu/entries/diderot/#ExpeMeta)
-  * [唯物主义、科学和有机物质](https://plato.stanford.edu/entries/diderot/#MateScieLiviMatt)
-
-    * [2.3.1 作为“现代斯宾诺莎主义”的重要唯物主义](https://plato.stanford.edu/entries/diderot/#VitaMateModeSpin)
-    * [物质理论和生物物质](https://plato.stanford.edu/entries/diderot/#MattTheoLiviMatt)
-    * [身体与具身](https://plato.stanford.edu/entries/diderot/#BodyEmbo)
-  * [决定论与变化](https://plato.stanford.edu/entries/diderot/#DeteChan)
-  * [德尼·狄德罗的哲学人类学](https://plato.stanford.edu/entries/diderot/#DidePhilAnth)
-
-    * [ 2.5.1 美学](https://plato.stanford.edu/entries/diderot/#Aest)
-    * [2.5.2 语言哲学与表征](https://plato.stanford.edu/entries/diderot/#PhilLangRepr)
-    * [ 2.5.3 伦理学](https://plato.stanford.edu/entries/diderot/#Ethi)
-    * [人与世界](https://plato.stanford.edu/entries/diderot/#ManWorl)
-* [ 结论](https://plato.stanford.edu/entries/diderot/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/diderot/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/diderot/#PrimSour)
-
-    * [ 德尼·狄德罗的作品](https://plato.stanford.edu/entries/diderot/#DideWork)
-    * [ 著作年表](https://plato.stanford.edu/entries/diderot/#ChroWrit)
-    * [ 其他主要来源](https://plato.stanford.edu/entries/diderot/#OthePrimSour)
-  * [ 次级来源](https://plato.stanford.edu/entries/diderot/#SecoSour)
-
-    * [ 参考文献](https://plato.stanford.edu/entries/diderot/#Refe)
-    * [德尼·狄德罗的传记和文献研究](https://plato.stanford.edu/entries/diderot/#BiogBiblStudDide)
-* [ 学术工具](https://plato.stanford.edu/entries/diderot/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/diderot/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/diderot/#Rel)
 
 ---
 

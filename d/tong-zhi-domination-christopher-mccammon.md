@@ -4,28 +4,7 @@
 
 统治理论主要是试图通过研究缺席情况来理解正义、自由和平等的价值。这些理论试图澄清和系统化我们对于弱者面对无法控制的力量是什么，即对于脆弱、被贬低和无力抵抗无节制权力是什么的判断。
 
-* [统治：基本思想](https://plato.stanford.edu/entries/domination/#DomiBasiIdea)
-* [谁，或什么，可以统治？](https://plato.stanford.edu/entries/domination/#WhoWhatDomi)
 
-  * [2.1 代理人、团体代理人和团体的统治](https://plato.stanford.edu/entries/domination/#DomiAgenGrouAgenGrou)
-  * [2.2 非代理者能统治吗？](https://plato.stanford.edu/entries/domination/#NonAgenDomi)
-* [统治是否需要行使权力？](https://plato.stanford.edu/entries/domination/#DoesDomiRequExerPowe)
-
-  * [统治作为一种权力结构](https://plato.stanford.edu/entries/domination/#DomiPoweStru)
-  * [3.2 Character 是否真的重要？](https://plato.stanford.edu/entries/domination/#DoesCharMattAfteAll)
-  * [3.3 结构为基础的解释的过度概括问题](https://plato.stanford.edu/entries/domination/#OverGeneProbForStruBaseAcco)
-* [统治是什么样的权力？](https://plato.stanford.edu/entries/domination/#WhatKindPoweDomi)
-
-  * [非道德化、与规范无关的理论](https://plato.stanford.edu/entries/domination/#NonMoraNormIndeTheo)
-  * [4.2 道德化、与规范无关的理论](https://plato.stanford.edu/entries/domination/#MoraNormIndeTheo)
-  * [非道德化、依赖规范的理论](https://plato.stanford.edu/entries/domination/#NonMoraNormDepeTheo)
-  * [4.4 道德化、依赖规范的理论](https://plato.stanford.edu/entries/domination/#MoraNormDepeTheo)
-* [统治与应用伦理学](https://plato.stanford.edu/entries/domination/#DomiApplEthi)
-* [ 结论](https://plato.stanford.edu/entries/domination/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/domination/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/domination/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/domination/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/domination/#Rel)
 
 ---
 

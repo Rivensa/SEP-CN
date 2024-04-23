@@ -4,25 +4,7 @@
 
 演绎主义认为数学句子 s 应被理解为表达了 s 从适当的公理演绎出来的主张。例如，演绎主义者可能将“2+2=4”解释为“句子‘2+2=4’从算术公理演绎出来”。演绎主义承诺了许多好处。它捕捉到了数学是关于“从公理中可以推导出什么”的相当普遍的观念；它避免了抽象数学对象的本体论；并且它坚持我们对数学真理的访问不需要超出我们进行逻辑推理的能力。第 1 和第 2 节更详细地定义和推动了演绎主义。第 3 节涵盖了一些曾经支持演绎主义的作者（Russell、Hilbert、Pasch、Curry）。第 4 节旨在澄清演绎主义者所做的语义主张。第 5 至 9 节回顾了对演绎主义的反对意见和可能的回应。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/deductivism-mathematics/#Intr)
-* [ 2. 动机](https://plato.stanford.edu/entries/deductivism-mathematics/#Moti)
-* [3. 历史记载](https://plato.stanford.edu/entries/deductivism-mathematics/#HistAcco)
 
-  * [ 3.1 罗素](https://plato.stanford.edu/entries/deductivism-mathematics/#Russ)
-  * [ 3.2 希尔伯特](https://plato.stanford.edu/entries/deductivism-mathematics/#Hilb)
-  * [ 3.3 帕斯](https://plato.stanford.edu/entries/deductivism-mathematics/#Pasc)
-  * [ 3.4 咖喱](https://plato.stanford.edu/entries/deductivism-mathematics/#Curr)
-  * [3.5 直觉主义和布劳尔](https://plato.stanford.edu/entries/deductivism-mathematics/#IntuBrou)
-* [ 4. 意义至关重要](https://plato.stanford.edu/entries/deductivism-mathematics/#MeanMatt)
-* [5. 可证明性：实体化还是不实体化？](https://plato.stanford.edu/entries/deductivism-mathematics/#ProvReifNotReif)
-* [6. 非公理数学](https://plato.stanford.edu/entries/deductivism-mathematics/#UnaxMath)
-* [ 7. 一个回归？](https://plato.stanford.edu/entries/deductivism-mathematics/#Regr)
-* [ 8. 应用](https://plato.stanford.edu/entries/deductivism-mathematics/#Appl)
-* [ 9. 真实性-完整性](https://plato.stanford.edu/entries/deductivism-mathematics/#TrutComp)
-* [ 参考文献](https://plato.stanford.edu/entries/deductivism-mathematics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/deductivism-mathematics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/deductivism-mathematics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/deductivism-mathematics/#Rel)
 
 ---
 

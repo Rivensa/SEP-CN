@@ -14,34 +14,6 @@
 
 残疾对每个领域的影响在很大程度上取决于一个人接受的残疾观或模型。残疾学者和残疾哲学家现在提到了两种残疾模型，即医学模型和社会模型（见残疾：定义、模型、经验的 SEP 条目）。就目前而言，我们理解社会模型残疾是指认为身体和社会环境是导致几乎所有障碍者面临的限制和劣势的主要来源。这一模型对我们将要研究的幸福、健康和人际关系的描述具有明显的相关性。它表明，如果残疾人看起来不快乐、不健康或社会孤立，这主要是由于他们的身体和社会环境的偶然特征，而不是由于他们受损功能的任何固有特征。在某些情况下，这种认识将需要重新评估他们目前的幸福、健康或社会关系。在其他情况下，它不会挑战这种评估，但会改变改善他们的幸福、健康或关系的处方，或者对于这样做的成功期望。
 
-* [残疾与幸福](https://plato.stanford.edu/entries/disability-health/#DisWelBei)
-
-  * [残疾和主观幸福理论](https://plato.stanford.edu/entries/disability-health/#DisSubTheWelBei)
-  * [1.2 残疾和客观名单](https://plato.stanford.edu/entries/disability-health/#DisObjLis)
-  * [认知残疾与幸福](https://plato.stanford.edu/entries/disability-health/#CogDisWelBei)
-  * [残疾的中立性主张](https://plato.stanford.edu/entries/disability-health/#ClaNeuDis)
-  * [残疾对幸福的影响：什么是利害关系？](https://plato.stanford.edu/entries/disability-health/#ImpDisWelBeiWhaSta)
-
-    * [1.5.1 生殖测试](https://plato.stanford.edu/entries/disability-health/#RepTes)
-    * [1.5.2 残疾新生儿的生命支持撤销](https://plato.stanford.edu/entries/disability-health/#WitLifSupDisNew)
-    * [1.5.3 “End-of-Life” Decision Making](https://plato.stanford.edu/entries/disability-health/#EndLifDecMak)
-    * [1.5.4 健康相关生活质量测量](https://plato.stanford.edu/entries/disability-health/#HeaRelQuaLifMea)
-* [残疾与健康](https://plato.stanford.edu/entries/disability-health/#DisHea)
-
-  * [2.1 第一种方法：区分残疾和疾病](https://plato.stanford.edu/entries/disability-health/#FirAppDisDisDis)
-  * [2.2 第二种方法：健康不仅仅是没有疾病](https://plato.stanford.edu/entries/disability-health/#SecAppHeaOthThaAbsDis)
-* [个人关系、家庭和残疾](https://plato.stanford.edu/entries/disability-health/#PerRelFamDis)
-
-  * [个人关系的本质](https://plato.stanford.edu/entries/disability-health/#NatPerRel)
-  * [3.2 同伴关系：友谊与爱](https://plato.stanford.edu/entries/disability-health/#PeeRelFriLov)
-  * [浪漫爱情与性亲密关系](https://plato.stanford.edu/entries/disability-health/#RomLovSexInt)
-  * [3.4 父母和残疾](https://plato.stanford.edu/entries/disability-health/#ParDis)
-  * [个人关系和第三方协助](https://plato.stanford.edu/entries/disability-health/#PerRelThiParAss)
-* [ 4. 结论](https://plato.stanford.edu/entries/disability-health/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/disability-health/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/disability-health/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/disability-health/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/disability-health/#Rel)
 
 ---
 

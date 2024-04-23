@@ -8,34 +8,7 @@
 
 本条目的结构如下：第 1 节讨论了“对前景的偏好”这一决策理论的核心概念。第 2 节描述了规范决策理论在偏好度量方面的发展，不断提供更强大和灵活的度量方法。第 3 节讨论了最著名的两个 EU 理论版本。第 4 节考虑了 EU 理论对实际行动、推理和价值评估的更广泛意义。第 5 节转向对 EU 理论的突出挑战，而第 6 节则涉及顺序决策，以及这个更丰富的背景如何影响有关理性偏好的辩论。
 
-* [1. 什么是对前景的偏好？](https://plato.stanford.edu/entries/decision-theory/#WhaPreOvePro)
-* [2. 偏好的效用度量](https://plato.stanford.edu/entries/decision-theory/#UtiMeaPre)
 
-  * [ 2.1 序数效用](https://plato.stanford.edu/entries/decision-theory/#OrdUti)
-  * [2.2 基数化效用](https://plato.stanford.edu/entries/decision-theory/#CarUti)
-  * [2.3 冯·诺依曼和莫根斯滕 (vNM) 表示定理](https://plato.stanford.edu/entries/decision-theory/#VNMRepThe)
-* [3.做出真正的决策](https://plato.stanford.edu/entries/decision-theory/#MakReaDec)
-
-  * [ 3.1 Savage 的理论](https://plato.stanford.edu/entries/decision-theory/#SavThe)
-  * [ 3.2 Jeffrey 的理论](https://plato.stanford.edu/entries/decision-theory/#JefThe)
-* [4.预期效用（EU）理论的更广泛意义](https://plato.stanford.edu/entries/decision-theory/#BroSigEUThe)
-
-  * [4.1 关于理性信念](https://plato.stanford.edu/entries/decision-theory/#RatBel)
-  * [4.2 关于理性欲望](https://plato.stanford.edu/entries/decision-theory/#RatDes)
-* [5. 挑战欧盟理论](https://plato.stanford.edu/entries/decision-theory/#ChaEUThe)
-
-  * [5.1 关于风险和后悔态度](https://plato.stanford.edu/entries/decision-theory/#SepRisRegAtt)
-  * [5.2 关于完备性：模糊的信念和欲望](https://plato.stanford.edu/entries/decision-theory/#ComVagBelDes)
-  * [ 5.3 无意识](https://plato.stanford.edu/entries/decision-theory/#UnAw)
-* [6. 顺序决策](https://plato.stanford.edu/entries/decision-theory/#SeqDec)
-
-  * [6.1 尤利西斯是否理性？](https://plato.stanford.edu/entries/decision-theory/#WasUlyRat)
-  * [6.2 欧盟公理再审视](https://plato.stanford.edu/entries/decision-theory/#EUAxiRev)
-* [ 7. 结论](https://plato.stanford.edu/entries/decision-theory/#ConRem)
-* [ 参考文献](https://plato.stanford.edu/entries/decision-theory/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/decision-theory/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/decision-theory/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/decision-theory/#Rel)
 
 ---
 

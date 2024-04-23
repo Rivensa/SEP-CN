@@ -8,27 +8,6 @@
 
 这篇文章解释了因果决策理论，回顾了它的历史，描述了当前因果决策理论的研究，并概述了该理论的哲学基础。关于因果决策理论的文献非常丰富，而本文仅涵盖其中的一部分。
 
-* [ 1. 期望效用](https://plato.stanford.edu/entries/decision-causal/#ExpeUtil)
-* [ 2. 历史](https://plato.stanford.edu/entries/decision-causal/#Hist)
-
-  * [ 2.1 纽科姆问题](https://plato.stanford.edu/entries/decision-causal/#NewcProb)
-  * [2.2 斯坦内克解决方案](https://plato.stanford.edu/entries/decision-causal/#StalSolu)
-  * [ 2.3 变体](https://plato.stanford.edu/entries/decision-causal/#Vari)
-  * [2.4 表示定理](https://plato.stanford.edu/entries/decision-causal/#ReprTheo)
-  * [ 2.5 反对意见](https://plato.stanford.edu/entries/decision-causal/#Obje)
-* [3. 当前问题](https://plato.stanford.edu/entries/decision-causal/#CurrIssu)
-
-  * [3.1 概率和效用](https://plato.stanford.edu/entries/decision-causal/#ProbUtil)
-  * [3.2 分割不变性](https://plato.stanford.edu/entries/decision-causal/#PartInva)
-  * [ 3.3 结果](https://plato.stanford.edu/entries/decision-causal/#Outc)
-  * [ 3.4 行为](https://plato.stanford.edu/entries/decision-causal/#Acts)
-  * [3.5 推广预期效用](https://plato.stanford.edu/entries/decision-causal/#GeneExpeUtil)
-  * [ 3.6 批准](https://plato.stanford.edu/entries/decision-causal/#Rati)
-* [4. 相关主题和总结备注](https://plato.stanford.edu/entries/decision-causal/#RelaTopiConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/decision-causal/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/decision-causal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/decision-causal/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/decision-causal/#Rel)
 
 ---
 

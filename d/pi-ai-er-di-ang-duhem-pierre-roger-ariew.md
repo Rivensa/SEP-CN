@@ -4,20 +4,7 @@
 
 皮埃尔·迪昂（1861-1916 年）是一位法国物理学家、科学历史学家和哲学家。作为一名物理学家，他倡导“能量论”，认为广义热力学是物理理论的基础，即认为所有化学和物理学，包括力学、电学和磁学，都应该可以从热力学的第一原理推导出来。在科学哲学方面，他以理论与实验之间的关系而闻名，认为假设并不会直接被实验推翻，并且在科学中不存在关键实验。在科学史上，他在中世纪科学领域做出了大量开创性的工作，并捍卫了中世纪科学与近代早期科学之间的连续性论点。
 
-* [生活与作品](https://plato.stanford.edu/entries/duhem/#LifWor)
-* [科学哲学](https://plato.stanford.edu/entries/duhem/#Sci)
 
-  * [反对“牛顿方法”：迪昂论题](https://plato.stanford.edu/entries/duhem/#AgaNewMetDuhThe)
-  * [反对“笛卡尔方法”：形而上学与模型](https://plato.stanford.edu/entries/duhem/#AgaCarMetMetMod)
-  * [ 后续发展](https://plato.stanford.edu/entries/duhem/#LatDev)
-* [科学史](https://plato.stanford.edu/entries/duhem/#HisSci)
-* [ 参考文献](https://plato.stanford.edu/entries/duhem/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/duhem/#PriSou)
-  * [ 次级来源](https://plato.stanford.edu/entries/duhem/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/duhem/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/duhem/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/duhem/#Rel)
 
 ---
 

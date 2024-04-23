@@ -8,25 +8,6 @@
 
 由于这些原因以及其他原因，哲学家们一开始只是顺便提及，现在则详细讨论残疾是什么，以及“残疾”意味着什么。本文将讨论这两个问题——首先，详细阐述哲学家对长期争论的正确“模型”或一般框架，以理解残疾作为一种现象的参与；其次，探讨哲学家如何理解诸如“残疾”和“障碍”等词所指概念的含义，这些词在涉及残疾人的各种经验性和规范性论述中被使用。
 
-* [残疾模型](https://plato.stanford.edu/entries/disability/#ModeDisa)
-
-  * [1.1 医学模型和社会模型](https://plato.stanford.edu/entries/disability/#MediSociMode)
-  * [1.2 肯定模型？](https://plato.stanford.edu/entries/disability/#AffiMode)
-  * [1.3 模型、决策和政策](https://plato.stanford.edu/entries/disability/#ModeDeciPoli)
-* [残疾的定义](https://plato.stanford.edu/entries/disability/#DefiDisa)
-
-  * [2.1 残疾的官方定义的哲学讨论](https://plato.stanford.edu/entries/disability/#PhilDiscOffiDefiDisa)
-  * [2.2 残疾的哲学定义](https://plato.stanford.edu/entries/disability/#PhilDefiDisa)
-
-    * [2.2.1 正常功能观](https://plato.stanford.edu/entries/disability/#NormFuncView)
-    * [福利主义观点](https://plato.stanford.edu/entries/disability/#WelfView)
-    * [社会建构主义](https://plato.stanford.edu/entries/disability/#SociCons)
-    * [ 无法观点](https://plato.stanford.edu/entries/disability/#InabView)
-    * [2.2.5 对于定义残疾的怀疑](https://plato.stanford.edu/entries/disability/#SkepAbouDefiDisa)
-* [ 参考文献](https://plato.stanford.edu/entries/disability/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/disability/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/disability/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/disability/#Rel)
 
 ---
 

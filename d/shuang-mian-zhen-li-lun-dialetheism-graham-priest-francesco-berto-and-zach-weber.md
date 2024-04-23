@@ -14,42 +14,6 @@
 
 在本文中，1) 我们将首先解释双面真理论与其他重要相关概念之间的联系，如平凡主义和矛盾逻辑。接下来，我们将描述 2) 双面真理论的历史和 3) 当代双面真理论的动机，其中逻辑（语义和集合论）悖论在其中占据重要地位，尽管不是唯一的。然后，我们将 4) 指出并讨论一些针对双面真理论的异议，以及 5) 它与理性概念的联系。最后，6) 我们将指出一些关于双面真理论、现实主义和反现实主义在形而上学中的联系的可能研究主题。
 
-* [一些基本概念](https://plato.stanford.edu/entries/dialetheism/#SomeBasiConc)
-* [哲学史上的双面真理论](https://plato.stanford.edu/entries/dialetheism/#DialHistPhil)
-
-  * [2.1 西方哲学中的双面真理论](https://plato.stanford.edu/entries/dialetheism/#DialWestPhil)
-  * [2.2 Dialetheism in East Asian Philosophy](https://plato.stanford.edu/entries/dialetheism/#DialEastAsiaPhil)
-  * [2.3 On interpretation of history](https://plato.stanford.edu/entries/dialetheism/#InteHist)
-  * [2.4 Modern Dialetheism](https://plato.stanford.edu/entries/dialetheism/#ModeDial)
-* [3. 双面真理论的动机](https://plato.stanford.edu/entries/dialetheism/#MotiForDial)
-
-  * [3.1 自指悖论](https://plato.stanford.edu/entries/dialetheism/#ParaSelfRefe)
-  * [3.2 一个简单的案例研究：说谎者](https://plato.stanford.edu/entries/dialetheism/#SimpCaseStudLiar)
-  * [3.3 自指的其他悖论](https://plato.stanford.edu/entries/dialetheism/#OtheParaSelfRefe)
-  * [3.4 双面真理论的其他动机](https://plato.stanford.edu/entries/dialetheism/#OtheMotiForDial)
-* [4. 反对双面真理论](https://plato.stanford.edu/entries/dialetheism/#ObjeDial)
-
-  * [4.1 The Argument from Explosion](https://plato.stanford.edu/entries/dialetheism/#ArguExpl)
-  * [4.2 The Argument from Exclusion](https://plato.stanford.edu/entries/dialetheism/#ArguExcl)
-  * [4.3 The Argument from Negation](https://plato.stanford.edu/entries/dialetheism/#ArguNega)
-* [5. 双面真理论与理性](https://plato.stanford.edu/entries/dialetheism/#DialRati)
-
-  * [5.1 一致性和其他认知美德](https://plato.stanford.edu/entries/dialetheism/#ConsOtheEpisVirt)
-  * [5.2 接受和断言双面真理论](https://plato.stanford.edu/entries/dialetheism/#AcceAsseDial)
-* [6. 进一步研究的主题](https://plato.stanford.edu/entries/dialetheism/#ThemForFurtRese)
-* [ 7. 结论](https://plato.stanford.edu/entries/dialetheism/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/dialetheism/#Bib)
-
-  * [ 一些基本概念](https://plato.stanford.edu/entries/dialetheism/#BibSomeBasiConc)
-  * [双面真理论在哲学史上的地位](https://plato.stanford.edu/entries/dialetheism/#BibDialHistPhil)
-  * [双面真理论的动机](https://plato.stanford.edu/entries/dialetheism/#BibMotiForDial)
-  * [反对双面真理论](https://plato.stanford.edu/entries/dialetheism/#BibObjeDial)
-  * [双面真理论与理性](https://plato.stanford.edu/entries/dialetheism/#BibDialRati)
-  * [进一步研究的主题](https://plato.stanford.edu/entries/dialetheism/#BibThemForFurtRese)
-* [ 学术工具](https://plato.stanford.edu/entries/dialetheism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dialetheism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dialetheism/#Rel)
-
 ---
 
 ## 双面真理论一些基本概念

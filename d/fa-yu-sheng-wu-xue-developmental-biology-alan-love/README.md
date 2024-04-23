@@ -4,33 +4,7 @@
 
 发育生物学是一门研究各种相互作用过程如何产生生物体在从胚胎到成体的轨迹上出现的异质形状、大小和结构特征的科学。它代表了当代实验生物学的一个典范领域，专注于那些让自然哲学家和科学家们困惑了两千多年的现象。生物哲学家对发育生物学表现出兴趣，是因为发育对于理解进化、基因解释中还原主义主题的潜在相关性，以及通过对特定研究项目的细节增加关注，比如干细胞生物学。发育生物学展示了丰富的物质和概念实践，可以进行分析以更好地理解实验生命科学中展示的科学推理。本文简要回顾了一些本体发生的中心现象，然后探讨了代表发育生物学认识论概念反思的重要性和前景的四个领域。
 
-* [ 1. 概述](https://plato.stanford.edu/entries/biology-developmental/#Ove)
 
-  * [1.1 历史考虑](https://plato.stanford.edu/entries/biology-developmental/#HisCon)
-  * [1.2 发育现象](https://plato.stanford.edu/entries/biology-developmental/#DevPhe)
-  * [1.3 发育机制](https://plato.stanford.edu/entries/biology-developmental/#DevMech)
-* [2. 发育生物学的认识论组织](https://plato.stanford.edu/entries/biology-developmental/#EpiOrgDevBio)
-
-  * [2.1 发育理论不存在吗？](https://plato.stanford.edu/entries/biology-developmental/#NoTheDev)
-  * [2.2 询问式组织](https://plato.stanford.edu/entries/biology-developmental/#EroOrg)
-* [3. 发育的解释性方法](https://plato.stanford.edu/entries/biology-developmental/#ExpAppDev)
-
-  * [ 3.1 遗传学](https://plato.stanford.edu/entries/biology-developmental/#Gen)
-  * [ 3.2 物理学](https://plato.stanford.edu/entries/biology-developmental/#Phy)
-  * [3.3 整合方法：遗传学和物理学](https://plato.stanford.edu/entries/biology-developmental/#IntAppGenPhy)
-* [4. 研究发育的模式生物](https://plato.stanford.edu/entries/biology-developmental/#ModOrgForStuDev)
-* [5. 发育与进化](https://plato.stanford.edu/entries/biology-developmental/#DevEvo)
-
-  * [5.1 发育遗传学中的功能同源](https://plato.stanford.edu/entries/biology-developmental/#FunHomDevGen)
-  * [5.2 正常阶段和表型可塑性](https://plato.stanford.edu/entries/biology-developmental/#NorStaPhePla)
-* [  6. 结论](https://plato.stanford.edu/entries/biology-developmental/#Con)
-* [  参考文献](https://plato.stanford.edu/entries/biology-developmental/#Bib)
-
-  * [ 参考文献](https://plato.stanford.edu/entries/biology-developmental/#Ref)
-  * [ 图表来源](https://plato.stanford.edu/entries/biology-developmental/#FigCre)
-* [ 学术工具](https://plato.stanford.edu/entries/biology-developmental/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/biology-developmental/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/biology-developmental/#Rel)
 
 ---
 

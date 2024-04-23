@@ -5,18 +5,7 @@
 
 思想是笛卡尔哲学中最重要的要素之一。它们用于统一他的本体论和认识论。正如他在给吉布福（Guillaume Gibieuf，1583-1650）的一封信中所说，日期为 1642 年 1 月 19 日：“我确信，除了通过我内心的思想，我无法对我外部的事物有任何认识。”[1] 笛卡尔从未发表过任何明确阐述思想理论的作品。即便如此，他在已发表和未发表的作品以及通信中说了足够多的话，使得基本上可以重建出一个理论。本条目主要关注思想理论及其与笛卡尔的本体论的关系，尽管在本条目的第 6 节中，包括对简单本质和笛卡尔的清晰和明确概念的讨论，也简要考虑了他的认识论的某些组成部分。有关认识论的更多信息，请参阅相关条目《笛卡尔，勒内：认识论》。
 
-* [1. 将思想理解为思维方式](https://plato.stanford.edu/entries/descartes-ideas/#thoughts)
-* [2. 想法和形式客观现实的区别](https://plato.stanford.edu/entries/descartes-ideas/#ideasmodes)
-* [3. 三种类型的想法（先天的，偶然的和人为的）](https://plato.stanford.edu/entries/descartes-ideas/#ideas)
-* [4. 主要的想法和表象原则](https://plato.stanford.edu/entries/descartes-ideas/#Primeideas)
-* [5. 规则：简单的本性和清晰与明确的概念](https://plato.stanford.edu/entries/descartes-ideas/#SimNats)
-* [ 参考文献](https://plato.stanford.edu/entries/descartes-ideas/#Bib)
 
-  * [ 主要来源](https://plato.stanford.edu/entries/descartes-ideas/#PriSou)
-  * [ 二次来源](https://plato.stanford.edu/entries/descartes-ideas/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/descartes-ideas/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/descartes-ideas/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/descartes-ideas/#Rel)
 
 ---
 

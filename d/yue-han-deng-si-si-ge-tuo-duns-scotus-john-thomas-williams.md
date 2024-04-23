@@ -4,38 +4,6 @@
 
 约翰·邓斯·司各脱 (1265/66–1308) 是中世纪晚期最重要和最有影响力的哲学家神学家之一。他那复杂而微妙的思想赢得了“微妙博士”的绰号，对宗教语言的语义学、普遍概念的问题、神圣启示以及人类自由的本质等诸多不同主题的讨论产生了影响。本文首先阐述了关于司各脱生平和作品日期的已知情况，然后概述了他在哲学的四个主要领域中的一些关键立场：自然神学、形而上学、认识论以及伦理学和道德心理学。
 
-* [生平与著作](https://plato.stanford.edu/entries/duns-scotus/#LifWor)
-
-  * [约翰·邓斯·司各脱](https://plato.stanford.edu/entries/duns-scotus/#LifJohDunSco)
-  * [ 约翰·邓斯·司各脱的著作](https://plato.stanford.edu/entries/duns-scotus/#ScoWor)
-* [自然神学](https://plato.stanford.edu/entries/duns-scotus/#NatThe)
-
-  * [一些方法论前提](https://plato.stanford.edu/entries/duns-scotus/#SomMetPre)
-  * [2.2 证明上帝的存在](https://plato.stanford.edu/entries/duns-scotus/#ProExiGod)
-  * [2.3 神圣的无限和单声义学说](https://plato.stanford.edu/entries/duns-scotus/#DivInfDocUni)
-* [ 3. 形而上学](https://plato.stanford.edu/entries/duns-scotus/#Met)
-
-  * [形而上学的主题](https://plato.stanford.edu/entries/duns-scotus/#SubMatMet)
-  * [物质和形式，身体和灵魂](https://plato.stanford.edu/entries/duns-scotus/#MatForBodSou)
-  * [3.3 普遍与个体化](https://plato.stanford.edu/entries/duns-scotus/#UniInd)
-* [知识论](https://plato.stanford.edu/entries/duns-scotus/#TheKno)
-
-  * [感觉与抽象](https://plato.stanford.edu/entries/duns-scotus/#SenAbs)
-  * [ 直觉认知](https://plato.stanford.edu/entries/duns-scotus/#IntCog)
-  * [4.3 对怀疑主义和启示主义的攻击](https://plato.stanford.edu/entries/duns-scotus/#AttSkeIll)
-* [伦理学与道德心理学](https://plato.stanford.edu/entries/duns-scotus/#EthMorPsy)
-
-  * [自然法](https://plato.stanford.edu/entries/duns-scotus/#NatLaw)
-  * [自由意志与道德](https://plato.stanford.edu/entries/duns-scotus/#WilFreMor)
-* [ 参考文献](https://plato.stanford.edu/entries/duns-scotus/#Bib)
-
-  * [主要拉丁文献](https://plato.stanford.edu/entries/duns-scotus/#PriTexLat)
-  * [主要文本的英文翻译](https://plato.stanford.edu/entries/duns-scotus/#PriTexEngTra)
-  * [ 次级文献](https://plato.stanford.edu/entries/duns-scotus/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/duns-scotus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/duns-scotus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/duns-scotus/#Rel)
-
 ---
 
 ## 生平与著作

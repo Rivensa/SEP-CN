@@ -8,32 +8,6 @@
 
 理解欲望至少需要两件事：首先，要有关于欲望本身的理论，其次，要熟悉各种不同的欲望。一旦获得，对欲望的理解可以阐明围绕欲望的许多争议。
 
-* [欲望理论](https://plato.stanford.edu/entries/desire/#TheDes)
-
-  * [1.1 基于行动的欲望理论](https://plato.stanford.edu/entries/desire/#ActBasTheDes)
-  * [1.2 基于快乐的欲望理论](https://plato.stanford.edu/entries/desire/#PleBasTheDes)
-  * [1.3 欲望的基于善的理论](https://plato.stanford.edu/entries/desire/#GooBasTheDes)
-  * [1.4 欲望的基于注意力的理论](https://plato.stanford.edu/entries/desire/#AttBasTheDes)
-  * [1.5 欲望的基于学习的理论](https://plato.stanford.edu/entries/desire/#LeaBasTheDes)
-  * [1.6. 欲望的整体论（功能主义者和解释主义者）](https://plato.stanford.edu/entries/desire/#HolFunIntTheDes)
-* [2. 欲望的种类](https://plato.stanford.edu/entries/desire/#VarDes)
-
-  * [2.1 对象的欲望和事态的欲望](https://plato.stanford.edu/entries/desire/#DesForObjDesForStaAff)
-  * [2.2 内在的，工具性的和实现者的欲望](https://plato.stanford.edu/entries/desire/#IntInsReaDes)
-  * [2.3 更强烈和更弱的欲望](https://plato.stanford.edu/entries/desire/#StrWeaDes)
-  * [2.4 发生的和持续的欲望](https://plato.stanford.edu/entries/desire/#OccStaDes)
-* [3. 欲望周围的争议](https://plato.stanford.edu/entries/desire/#ConSurDes)
-
-  * [3.1 欲望的适应方向](https://plato.stanford.edu/entries/desire/#DirFitDes)
-  * [3.2 欲望的起源](https://plato.stanford.edu/entries/desire/#OriDes)
-  * [3.3 Preferences and Desires](https://plato.stanford.edu/entries/desire/#PreDes)
-  * [3.4 Reasons and Desires](https://plato.stanford.edu/entries/desire/#ReaDes)
-  * [3.5 Well-being and Desires](https://plato.stanford.edu/entries/desire/#WelBeiDes)
-  * [3.6 赞美与欲望](https://plato.stanford.edu/entries/desire/#PraDes)
-* [ 参考文献](https://plato.stanford.edu/entries/desire/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/desire/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/desire/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/desire/#Rel)
 
 ---
 

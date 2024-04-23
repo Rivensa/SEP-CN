@@ -10,16 +10,7 @@ _首次发表于 2005 年 2 月 9 日星期三；实质性修订于 2023 年 2 �
 
 作为一位公共知识分子，杜威支持妇女参政权和社区服务运动（他经常访问芝加哥的哲学家简·亚当斯和埃伦·盖茨·斯塔尔著名的赫尔之家）。他向国际听众讲学，尤其是他的教育著作在包括中国在内的许多领域产生了影响。他广泛的公共和政治活动包括担任教师工会主席、赞助美国公民自由联盟和全国有色人种协进会、支持战间期的废除战争运动、主持人民游说团，并在 1938 年（在他的学生、哲学家西德尼·胡克的说服下）参与了墨西哥对列昂·托洛茨基的“审判”。在搬到纽约后，尤其是第一次世界大战爆发后，他发表的大部分作品都是关于当时国内外政治的评论，以及代表许多国内外事业发表的公开声明。（他可能是本百科全书中唯一一位既发表过关于凡尔赛条约又发表过关于在邮局展示艺术价值的哲学家。）在这些承诺中，他支持美国参加第一次世界大战引起了巨大争议，使他与美国左翼的许多联系受到了拉紧或破裂，并成为一种深刻幻灭的根源。在某种程度上，这标志着他相信美国国家可以在不进行彻底重建的情况下与民主目标相结合的信念的高潮。他继续成为罗斯福新政左翼的杰出批评者，同时反对苏联共产主义及其西方的辩护者。在他去世时，他被奉为国家贤人（与伯特兰·罗素一样，这种地位与他提倡的有争议且常常激进的公共立场是相容的）。尽管他的哲学声誉和公众地位在随后的几年中有所减退，但他的作品已经作为民主理论的重要参考点和资源得到巩固。
 
-* [1. 将杜威的政治哲学置于特定背景中](https://plato.stanford.edu/entries/dewey-political/#SituDewePoliPhil)
-* [2. 重建自由主义](https://plato.stanford.edu/entries/dewey-political/#RecoLibe)
-* [3. 民主理想与现实](https://plato.stanford.edu/entries/dewey-political/#DemoIdeaReal)
-* [4. 遗产](https://plato.stanford.edu/entries/dewey-political/#Lega)
-* [参考文献](https://plato.stanford.edu/entries/dewey-political/#Bib)
-  * [杜威的著作](https://plato.stanford.edu/entries/dewey-political/#WorkDewe)
-  * [次级文献](https://plato.stanford.edu/entries/dewey-political/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/dewey-political/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dewey-political/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/dewey-political/#Rel)
+
 
 ***
 

@@ -4,27 +4,6 @@ _首次发表于 2007 年 5 月 22 日星期二；实质性修订于 2020 年 2 
 
 在 20 世纪 80 年代初，Hans Kamp 提出了话语表征理论（DRT）作为处理语义学和语用学中代词和时态问题的理论框架（Kamp 1981）；Irene Heim（1982）独立开发了一个非常相似的理论。DRT 的独特特点将在下文中讨论，它是一种关于解释的心理主义和表征主义理论，不仅是关于单个句子的解释，还包括关于话语的解释。在这些方面，DRT 与 20 世纪 70 年代源自蒙塔古开创性工作的古典形式语义学有了明显的区别（Thomason 1974），但在其他方面，它延续了传统，例如在使用模型理论工具方面。与此同时，DRT 已经成为解释各种现象的框架，但我们将把注意力集中在少数几个方面：指代、时态、预设和命题态度。有关其他主题的工作参考，请参阅“进一步阅读”部分。
 
-* [介绍](https://plato.stanford.edu/entries/discourse-representation-theory/#Int)
-* [话语表征理论](https://plato.stanford.edu/entries/discourse-representation-theory/#DonPro)
-* [话语表征理论](https://plato.stanford.edu/entries/discourse-representation-theory/#BasDRT)
-  * [关键思想](https://plato.stanford.edu/entries/discourse-representation-theory/#KeyIde)
-  * [3.2 定量词与不定词](https://plato.stanford.edu/entries/discourse-representation-theory/#QuaVsInd)
-  * [话语表征理论的一级与二级版本](https://plato.stanford.edu/entries/discourse-representation-theory/#OneVsTwoLevVerDRT)
-* [话语表征理论：句法、语义、可及性](https://plato.stanford.edu/entries/discourse-representation-theory/#DRSLanSynSemAcc)
-  * [4.1 Syntax](https://plato.stanford.edu/entries/discourse-representation-theory/#Syn)
-  * [可及性](https://plato.stanford.edu/entries/discourse-representation-theory/#Acc)
-  * [4.3 语义](https://plato.stanford.edu/entries/discourse-representation-theory/#Sem)
-* [超越基础](https://plato.stanford.edu/entries/discourse-representation-theory/#BeyBas)
-  * [话语表征理论](https://plato.stanford.edu/entries/discourse-representation-theory/#Ten)
-  * [5.2 前提假设](https://plato.stanford.edu/entries/discourse-representation-theory/#Pre)
-  * [5.3 态度和态度归因](https://plato.stanford.edu/entries/discourse-representation-theory/#Att)
-* [话语表征理论中的话语关系](https://plato.stanford.edu/entries/discourse-representation-theory/#DisRel)
-* [话语表征理论和组合性](https://plato.stanford.edu/entries/discourse-representation-theory/#RepAttCom)
-* [进一步阅读](https://plato.stanford.edu/entries/discourse-representation-theory/#FurRea)
-* [参考文献](https://plato.stanford.edu/entries/discourse-representation-theory/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/discourse-representation-theory/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/discourse-representation-theory/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/discourse-representation-theory/#Rel)
 
 ***
 

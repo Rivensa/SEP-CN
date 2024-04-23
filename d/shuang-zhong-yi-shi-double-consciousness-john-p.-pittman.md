@@ -4,34 +4,6 @@
 
 双重意识是社会哲学中的一个概念，最初指的是非裔美国人由于在白人主导的社会中遭受种族压迫和贬值而内心体验到的“双重性”。这一概念与威廉·爱德华·伯哈特·杜波依斯（William Edward Burghardt Du Bois）有关，他在开创性著作《黑人的灵魂》（1903 年）中将这一术语引入社会思想。最近的评论者追溯到这一概念的源头，将其与十九世纪北大西洋地区临床心理学的发展以及自我的唯心主义哲学趋势联系起来——如拉尔夫·沃尔多·爱默生的超验主义和黑格尔的《精神现象学》。因此，它间接地与十九和二十世纪关于黑格尔主题的其他演绎有关，如虚假意识和恶意。在当今社会，它继续被许多评论者用于种族文化、社会和文学的讨论；被文化和文学理论家使用；以及被非洲哲学的学生和研究者使用。最近的哲学辩论集中在这一概念对杜波依斯整体思想的重要性、其理论连贯性以及在当前社会条件下的相关性上。
 
-* [概念的轨迹](https://plato.stanford.edu/entries/double-consciousness/#TrajConc)
-* [双重意识在《黑人的灵魂》中](https://plato.stanford.edu/entries/double-consciousness/#DoubConsSoulBlacFolk)
-
-  * [美国浪漫主义的渴望](https://plato.stanford.edu/entries/double-consciousness/#AmerRomaLong)
-  * [2.2 Color-Line Hegelianism](https://plato.stanford.edu/entries/double-consciousness/#ColoLineHege)
-  * [2.3 A Deflationist Reading 2.3 一种通货紧缩的阅读](https://plato.stanford.edu/entries/double-consciousness/#DeflRead)
-  * [2.4 一个分析政治哲学的重建](https://plato.stanford.edu/entries/double-consciousness/#AnalPoliPhilReco)
-  * [卢梭式的自我疏离](https://plato.stanford.edu/entries/double-consciousness/#RousSelfEstr)
-  * [2.6 概念的运用与延伸](https://plato.stanford.edu/entries/double-consciousness/#UsesExteConc)
-* [双重意识在《黑人的灵魂》中的问题](https://plato.stanford.edu/entries/double-consciousness/#DoubConsSoulBlacFolkProb)
-* [杜波依斯的双重意识在《灵魂之后》之后？](https://plato.stanford.edu/entries/double-consciousness/#DuBoisDoubConsAfteSoul)
-
-  * [白人的灵魂（1920 年）在《黑水》中](https://plato.stanford.edu/entries/double-consciousness/#SoulWhitFolkDark1920)
-  * [对于自己感到羞耻：种族自豪论文 (1933)](https://plato.stanford.edu/entries/double-consciousness/#BeinAshaOnesEssaRacePrid1933)
-  * [黎明的黄昏 (1940)](https://plato.stanford.edu/entries/double-consciousness/#DuskDawn1940)
-* [超越黑/白二元论，超越双重意识](https://plato.stanford.edu/entries/double-consciousness/#BeyoBlacBinaBeyoDoubCons)
-
-  * [5.1 一个“后大陆”转向](https://plato.stanford.edu/entries/double-consciousness/#PostContTurn)
-  * [白人双重意识](https://plato.stanford.edu/entries/double-consciousness/#WhitDoubCons)
-  * [5.3 万花筒意识](https://plato.stanford.edu/entries/double-consciousness/#KaleCons)
-* [ 结论](https://plato.stanford.edu/entries/double-consciousness/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/double-consciousness/#Bib)
-
-  * [主要文献：W.E.B. Du Bois 的著作](https://plato.stanford.edu/entries/double-consciousness/#PrimLiteWorkWEBDuBois)
-  * [ 次级文献](https://plato.stanford.edu/entries/double-consciousness/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/double-consciousness/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/double-consciousness/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/double-consciousness/#Rel)
 
 ---
 

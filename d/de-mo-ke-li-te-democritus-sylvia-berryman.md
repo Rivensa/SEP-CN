@@ -4,18 +4,6 @@
 
 德谟克利特斯（Democritus）在古代被称为“笑面哲学家”，因为他强调“快乐”的价值，他是古代原子论的两位创始人之一。他将他的老师利伽伯斯（Leucippus）的理论发展成了一种唯物主义的自然世界解释。原子论认为，世界上的一切都由最小的不可分割的物体组成，并且这些物体在一个无限的虚空中运动。在古代唯物主义对自然世界的解释中，原子论是最有影响力的。即使是它的主要批评者亚里士多德也赞扬德谟克利特斯从适用于自然哲学的合理考虑中进行了论证。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/democritus/#1)
-* [ 2. 原子主义学说](https://plato.stanford.edu/entries/democritus/#2)
-* [3. 知觉理论](https://plato.stanford.edu/entries/democritus/#3)
-* [4. 灵魂和生物的本质](https://plato.stanford.edu/entries/democritus/#4)
-* [5. 知识论](https://plato.stanford.edu/entries/democritus/#5)
-* [6. 不可分割性与数学](https://plato.stanford.edu/entries/democritus/#6)
-* [ 7. 伦理学](https://plato.stanford.edu/entries/democritus/#7)
-* [ 8. 人类学](https://plato.stanford.edu/entries/democritus/#8)
-* [ 参考书目](https://plato.stanford.edu/entries/democritus/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/democritus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/democritus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/democritus/#Rel)
 
 ---
 

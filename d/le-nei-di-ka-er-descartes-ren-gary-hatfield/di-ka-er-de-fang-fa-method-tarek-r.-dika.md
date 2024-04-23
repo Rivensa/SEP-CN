@@ -3,29 +3,6 @@
 
 笛卡尔的方法是他哲学和科学中最重要的支柱之一。本条目介绍了笛卡尔的方法及其在光学、气象学、几何学和形而上学中的应用。
 
-* [1. 笛卡尔方法的起源和定义](https://plato.stanford.edu/entries/descartes-method/#OrigDefiDescMeth)
-* [2. 规则中的方法](https://plato.stanford.edu/entries/descartes-method/#MethRule)
-
-  * [2.1 笛卡尔对“科学”的定义](https://plato.stanford.edu/entries/descartes-method/#DescDefiScie)
-  * [ 2.2 直觉](https://plato.stanford.edu/entries/descartes-method/#Intu)
-
-    * [2.2.1 直观的对象：简单的本质](https://plato.stanford.edu/entries/descartes-method/#ObjeIntuSimpNatu)
-  * [ 2.3 推论](https://plato.stanford.edu/entries/descartes-method/#Dedu)
-  * [2.4 从推论到枚举](https://plato.stanford.edu/entries/descartes-method/#DeduEnum)
-* [3. 规则中的方法：一个例子](https://plato.stanford.edu/entries/descartes-method/#MethRuleExam)
-* [4. 论述中的方法 II](https://plato.stanford.edu/entries/descartes-method/#MethDiscII)
-* [5. 论述 VI 和原则 III-IV 中的实验和假设](https://plato.stanford.edu/entries/descartes-method/#ExpeSuppDiscVIPrinIIII)
-* [6. 光学中的方法：推导折射定律](https://plato.stanford.edu/entries/descartes-method/#MethOptiDeduLawRefr)
-* [7. 气象学中的方法：推导彩虹的原因](https://plato.stanford.edu/entries/descartes-method/#MethMeteDeduCausRain)
-* [8. 数学中的方法](https://plato.stanford.edu/entries/descartes-method/#MethMath)
-* [9. 形而上学中的方法](https://plato.stanford.edu/entries/descartes-method/#MethMeta)
-* [ 参考文献](https://plato.stanford.edu/entries/descartes-method/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/descartes-method/#PrimSour)
-  * [ 次要来源](https://plato.stanford.edu/entries/descartes-method/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/descartes-method/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/descartes-method/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/descartes-method/#Rel)
 
 ---
 

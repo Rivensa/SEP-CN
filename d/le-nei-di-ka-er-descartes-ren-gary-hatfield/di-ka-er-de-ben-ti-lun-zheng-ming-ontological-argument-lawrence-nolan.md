@@ -14,16 +14,7 @@
 
 在相同的背景下，笛卡尔还将本体论证描述为从上帝的“本质”或“性质”出发的证明，主张无法将必然存在与至高无上的存在者的本质分离而不产生矛盾。通过以这些术语来表述论证，他暗示地依赖于传统的中世纪区分一物的本质和其存在之间的区别。根据这一传统，人们可以独立于是否存在的情况下确定某物是什么（即其本质）。一些人认为，这种区别对于笛卡尔的目的是有用的，因为它使他能够在不涉及上帝存在问题的情况下指定上帝的本质。
 
-* [1. “论证”的简洁性](https://plato.stanford.edu/entries/descartes-ontological/#SimpArgu)
-* [2. 本质与存在之间的区别](https://plato.stanford.edu/entries/descartes-ontological/#DistBetwEsseExis)
-* [3. 反对和回复](https://plato.stanford.edu/entries/descartes-ontological/#ObjeRepl)
-* [ 参考文献](https://plato.stanford.edu/entries/descartes-ontological/#Bib)
 
-  * [ 主要文本](https://plato.stanford.edu/entries/descartes-ontological/#PrimText)
-  * [ 二次文本](https://plato.stanford.edu/entries/descartes-ontological/#SecoText)
-* [ 学术工具](https://plato.stanford.edu/entries/descartes-ontological/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/descartes-ontological/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/descartes-ontological/#Rel)
 
 ---
 

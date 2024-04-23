@@ -6,35 +6,6 @@ _首次发表于 2004 年 3 月 2 日星期二；实质性修订于 2022 年 9 �
 
 正如我们将看到的，这一切并没有削弱自然语言中一些表达是指称的，而另一些是量化的这一观念，或者这些问题的分析与 Russell 的认识论和形而上学项目无关，但它确实暗示了英语单词“the” 和 “a”（以及其他语言中的对应词）的作用可能没有像跟随 Russell 文章的一个世纪中的哲学家们所想象的那样清晰。
 
-* [1. 什么是描述？](https://plato.stanford.edu/entries/descriptions/#WhaDes)
-* [2. 罗素的描述理论](https://plato.stanford.edu/entries/descriptions/#RusTheDes)
-* [3. 罗素描述理论的动机](https://plato.stanford.edu/entries/descriptions/#MotForRusTheDes)
-  * [3.1 罗素描述理论的形而上动机](https://plato.stanford.edu/entries/descriptions/#MetMotForRusTheDes)
-  * [3.2 罗素描述理论的语义动机](https://plato.stanford.edu/entries/descriptions/#SemMotForRusTheDes)
-  * [3.3 罗素描述理论的认识论动机](https://plato.stanford.edu/entries/descriptions/#EpiMotForRusTheDes)
-* [4. 描述理论的延伸](https://plato.stanford.edu/entries/descriptions/#ExtTheDes)
-  * [4.1 适当名称的描述性理论](https://plato.stanford.edu/entries/descriptions/#DesTheProNam)
-  * [4.2 代词照应的描述性理论](https://plato.stanford.edu/entries/descriptions/#DesTheProAna)
-  * [4.3 不定描述](https://plato.stanford.edu/entries/descriptions/#IndDes)
-  * [4.4 复数、集合和泛指描述](https://plato.stanford.edu/entries/descriptions/#PluMasGenDes)
-* [5. 对描述理论的异议](https://plato.stanford.edu/entries/descriptions/#ObjTheDes)
-  * [5.1 对罗素真值条件的质疑](https://plato.stanford.edu/entries/descriptions/#ChaRusTruCon)
-  * [唐纳伦的区分和误描述论证](https://plato.stanford.edu/entries/descriptions/#DonDisArgMis)
-  * [不完整论证](https://plato.stanford.edu/entries/descriptions/#ArgInc)
-* [消解描述](https://plato.stanford.edu/entries/descriptions/#DisDes)
-  * [6.1 拒绝独特性主张](https://plato.stanford.edu/entries/descriptions/#RejUniCla)
-  * [6.2 统一观点的批评](https://plato.stanford.edu/entries/descriptions/#CriUniVie)
-  * [6.3 拒绝存在性主张](https://plato.stanford.edu/entries/descriptions/#RejExiCla)
-  * [6.4 在压力下的极大主张](https://plato.stanford.edu/entries/descriptions/#MaxClaUndPre)
-* [7. 透过语言学的镜头看描述](https://plato.stanford.edu/entries/descriptions/#DescLens)
-  * [7.1 描述作为谓词](https://plato.stanford.edu/entries/descriptions/#DescPred)
-  * [7.2 确定词的分解](https://plato.stanford.edu/entries/descriptions/#DetsExpl)
-  * [7.3 确定词作为格标记](https://plato.stanford.edu/entries/descriptions/#DetCase)
-* [8. 结论](https://plato.stanford.edu/entries/descriptions/#Con)
-* [参考文献](https://plato.stanford.edu/entries/descriptions/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/descriptions/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/descriptions/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/descriptions/#Rel)
 
 ***
 

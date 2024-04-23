@@ -6,39 +6,6 @@
 
 杜威的伦理学将确定最终目标或至高道德原则的目标替换为确定改进我们价值判断的方法的目标。杜威认为，伦理探究是利用反思智慧根据行动后果修订我们的判断。价值判断是在习惯失败时满意地重新引导行为的工具。作为工具，它们可以被工具性地评估。我们通过实践来测试我们的价值判断，并看看结果是否令人满意——它们是否解决了我们的问题并带来了可接受的副作用，它们是否使我们能够成功应对新问题，是否根据替代价值判断生活会带来更令人满意的结果。我们通过养成反思修订我们的价值判断的习惯来取得道德进步，以响应于遵循这些价值判断对每个人的最广泛后果。价值判断的保证条件在于人类行为，而不在于任何超越行为之外的先验固定参考点，如上帝的命令、柏拉图的形式、纯粹理性或自然。杜威提出了一个基于发展和社会心理学的价值判断的自然主义元伦理学。
 
-* [1. 发展心理学和社会心理学](https://plato.stanford.edu/entries/dewey-moral/#DeveSociPsyc)
-
-  * [ 1.1 冲动](https://plato.stanford.edu/entries/dewey-moral/#Impu)
-  * [ 1.2 习惯](https://plato.stanford.edu/entries/dewey-moral/#Habi)
-  * [ 1.3 智慧行为](https://plato.stanford.edu/entries/dewey-moral/#InteCond)
-* [2. 价值判断的元伦理学](https://plato.stanford.edu/entries/dewey-moral/#MetaValuJudg)
-
-  * [2.1 价值观与评价](https://plato.stanford.edu/entries/dewey-moral/#ValuVsEval)
-  * [2.2 欲望、利益和品味。](https://plato.stanford.edu/entries/dewey-moral/#DesiInteTast)
-  * [2.3 价值判断作为工具](https://plato.stanford.edu/entries/dewey-moral/#ValuJudgInst)
-  * [2.4 价值判断的实验确认](https://plato.stanford.edu/entries/dewey-moral/#ExpeConfValuJudg)
-  * [ 2.5 语境主义](https://plato.stanford.edu/entries/dewey-moral/#Cont)
-* [3.手段与目的](https://plato.stanford.edu/entries/dewey-moral/#MeanEnds)
-
-  * [3.1 手段与目的的相互决定](https://plato.stanford.edu/entries/dewey-moral/#ReciDeteMeanEnds)
-  * [3.2 实践判断是创造性](https://plato.stanford.edu/entries/dewey-moral/#PracJudgCrea)
-  * [3.3 实践判断是变革性的](https://plato.stanford.edu/entries/dewey-moral/#PracJudgTran)
-  * [3.4 实践判断与品格](https://plato.stanford.edu/entries/dewey-moral/#PracJudgChar)
-* [4. 道德理论：善、权利、美德](https://plato.stanford.edu/entries/dewey-moral/#MoraTheoGoodRighVirt)
-
-  * [4.1 Theories of the Good (Teleological Theories)](https://plato.stanford.edu/entries/dewey-moral/#TheoGoodTeleTheo)
-  * [4.2 Theories of Right (Deontological Theories)](https://plato.stanford.edu/entries/dewey-moral/#TheoRighDeonTheo)
-  * [4.3 Virtue Theories](https://plato.stanford.edu/entries/dewey-moral/#VirtTheo)
-  * [ 4.4 反思道德](https://plato.stanford.edu/entries/dewey-moral/#ReflMora)
-* [ 5. 美学价值](https://plato.stanford.edu/entries/dewey-moral/#AestValu)
-* [ 6. 社会伦理](https://plato.stanford.edu/entries/dewey-moral/#SociEthi)
-* [ 参考文献](https://plato.stanford.edu/entries/dewey-moral/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/dewey-moral/#PrimLite)
-  * [ 次要文献](https://plato.stanford.edu/entries/dewey-moral/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/dewey-moral/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dewey-moral/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dewey-moral/#Rel)
 
 ---
 

@@ -8,18 +8,6 @@
 
 因此，在许多背景下，无论是在哲学还是在普通非哲学对话中，对应得的呼声都频繁出现。然而，关于应得仍然存在许多问题：它如何与单纯的权利区分开来？它的概念结构是什么？什么样的事物可以被认为是应得的？什么样的事物可以被应得？什么样的属性可以作为应得者应得应得的基础？如何证明关于应得的主张？
 
-* [1. 应得和资格](https://plato.stanford.edu/entries/desert/#Entitlement)
-* [2. 应得者、应得和应得基础](https://plato.stanford.edu/entries/desert/#Bases)
-* [3. 应得主张的正当性](https://plato.stanford.edu/entries/desert/#Justification)
-* [4. 沙漠与内在价值](https://plato.stanford.edu/entries/desert/#Value)
-* [5. 正义的应得论理论](https://plato.stanford.edu/entries/desert/#Justice)
-* [ 参考文献](https://plato.stanford.edu/entries/desert/#Bib)
-
-  * [ 参考文献](https://plato.stanford.edu/entries/desert/#WorksCited)
-  * [ 其他阅读](https://plato.stanford.edu/entries/desert/#OtherReadings)
-* [ 学术工具](https://plato.stanford.edu/entries/desert/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/desert/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/desert/#Rel)
 
 ---
 

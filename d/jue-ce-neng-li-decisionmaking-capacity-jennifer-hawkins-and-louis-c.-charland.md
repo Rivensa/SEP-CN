@@ -12,36 +12,7 @@
 
 尽管存在危险，关于决策能力的理论问题仍然非常重要，因为它们具有巨大的实际影响。事实上，正是决策能力的理论和实践性质的结合使得哲学家们对此感到如此强烈的兴趣。但这仍然是一个相对未开发的哲学领域。原因之一是该领域高度跨学科且快速变化。尽管在评估能力的临床方法和测试不断增加，但对于这些工具是否真正追踪到了重要的事物仍存在争议。哲学家们有很多可以贡献的地方，但如果他们的贡献要及时和相关，他们必须小心行事。
 
-* [ 1. 术语](https://plato.stanford.edu/entries/decision-capacity/#Term)
 
-  * [1.1 “能力”还是“容量”？](https://plato.stanford.edu/entries/decision-capacity/#CompCapa)
-  * [1.2 描述性 vs. 规定性](https://plato.stanford.edu/entries/decision-capacity/#DescVsPres)
-* [ 2. 道德起源](https://plato.stanford.edu/entries/decision-capacity/#MoraOrig)
-* [3. 道德谨慎：无能力的结果是什么？](https://plato.stanford.edu/entries/decision-capacity/#MoraCautWhatFollInca)
-* [4. 能力的要素](https://plato.stanford.edu/entries/decision-capacity/#ElemCapa)
-
-  * [ 4.1 选择](https://plato.stanford.edu/entries/decision-capacity/#Choi)
-  * [ 4.2 理解](https://plato.stanford.edu/entries/decision-capacity/#Unde)
-  * [ 4.3 欣赏](https://plato.stanford.edu/entries/decision-capacity/#Appr)
-  * [ 4.4 推理](https://plato.stanford.edu/entries/decision-capacity/#Reas)
-* [5. 五个被广泛接受的假设（以及第六个更有争议的假设）](https://plato.stanford.edu/entries/decision-capacity/#FiveWideAcceAssuSixtContOne)
-
-  * [ 5.1 包容性](https://plato.stanford.edu/entries/decision-capacity/#Incl)
-  * [ 5.2 决策相对性](https://plato.stanford.edu/entries/decision-capacity/#DeciRela)
-  * [5.3 全部或无的评估（相对于特定决策）](https://plato.stanford.edu/entries/decision-capacity/#AllNothAsseRelaPartDeci)
-  * [ 5.4 价值中立性](https://plato.stanford.edu/entries/decision-capacity/#ValuNeut)
-  * [5.5 诊断的独立性](https://plato.stanford.edu/entries/decision-capacity/#IndeDiag)
-  * [5.6 风险和对称性](https://plato.stanford.edu/entries/decision-capacity/#RiskSymm)
-* [6. 我们是否在衡量正确的事物？](https://plato.stanford.edu/entries/decision-capacity/#WeMeasRighThin)
-
-  * [6.1 挑战四能力模型：情绪](https://plato.stanford.edu/entries/decision-capacity/#ChalFourAbilModeEmot)
-  * [6.2 挑战四能力模型：价值观与真实性](https://plato.stanford.edu/entries/decision-capacity/#ChalFourAbilModeValuAuth)
-* [7. 一种不同的挑战：志愿主义](https://plato.stanford.edu/entries/decision-capacity/#DiffKindChalVolu)
-* [8. 增加的相关性和显著的公众误解](https://plato.stanford.edu/entries/decision-capacity/#IncrReleSignPublMisp)
-* [ 参考文献](https://plato.stanford.edu/entries/decision-capacity/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/decision-capacity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/decision-capacity/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/decision-capacity/#Rel)
 
 ---
 

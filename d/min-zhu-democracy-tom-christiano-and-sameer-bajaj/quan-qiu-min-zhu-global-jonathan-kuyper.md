@@ -6,26 +6,6 @@ _首次发布于 2015 年 2 月 23 日星期一_
 
 这篇简短的文章包含四个部分，详细阐述了全球民主的可能性和问题。第一部分讨论了全球化对国家的影响以及对传统民主观念的意义。引入了全球民主赤字的概念，即个体在跨国决策中被排除在外的问题，并阐述了追求全球民主的原因。第二部分概述了一些重要的全球民主规范提案。具体而言，介绍了五种“全球民主模式”，并提出了一些普遍的批评意见。第三部分强调了最近追求“民主化价值观”的转向。这一文献的新方向既有方法论的意义，也有实质性的影响。最后一部分强调了应该在未来的全球民主研究中解决的持续批评。
 
-* [1. 民主与全球体系](https://plato.stanford.edu/entries/global-democracy/#DemGloSys)
-  * [1.1 民主、全球化和国家](https://plato.stanford.edu/entries/global-democracy/#DemGloNatSta)
-  * [1.2 全球民主赤字](https://plato.stanford.edu/entries/global-democracy/#GloDemDef)
-  * [1.3 为什么需要全球民主？](https://plato.stanford.edu/entries/global-democracy/#WhyGloDem)
-* [2. 全球民主的模式](https://plato.stanford.edu/entries/global-democracy/#ModGloDem)
-  * [2.1 政府间民主国家](https://plato.stanford.edu/entries/global-democracy/#IntDemSta)
-  * [2.2 大都市民主](https://plato.stanford.edu/entries/global-democracy/#CosDem)
-  * [2.3 世界政府](https://plato.stanford.edu/entries/global-democracy/#WorGov)
-  * [2.4 研讨式民主](https://plato.stanford.edu/entries/global-democracy/#DelDem)
-  * [2.5 激进民主](https://plato.stanford.edu/entries/global-democracy/#RadDem)
-* [3. 从“民主模式”到“民主化价值观”](https://plato.stanford.edu/entries/global-democracy/#ModDemValDem)
-  * [3.1 方法论基础](https://plato.stanford.edu/entries/global-democracy/#MetRat)
-  * [3.2 文献中的例子](https://plato.stanford.edu/entries/global-democracy/#ExaLit)
-* [4. 持续的批评和未来研究](https://plato.stanford.edu/entries/global-democracy/#PerCriFutRes)
-  * [4.1 现实主义和全球政治](https://plato.stanford.edu/entries/global-democracy/#ReaGloPol)
-  * [4.2 全球民主、合法性和正义](https://plato.stanford.edu/entries/global-democracy/#GloDemLegJus)
-* [参考文献](https://plato.stanford.edu/entries/global-democracy/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/global-democracy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/global-democracy/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/global-democracy/#Rel)
 
 ***
 

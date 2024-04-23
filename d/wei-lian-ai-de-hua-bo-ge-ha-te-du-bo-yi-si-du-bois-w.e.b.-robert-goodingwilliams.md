@@ -6,33 +6,6 @@
 
 杜波依斯对我们对种族和种族问题的特定哲学理解做出了贡献，因为他将这些主题视为哲学思考的对象——事实上，正是通过与杜波依斯的作品互动，许多当代哲学家开始欣赏种族和与种族相关的问题作为哲学反思的富有成果的主题。通过他在社会哲学、政治哲学和艺术哲学领域的工作，杜波依斯实际上创立了哲学与种族的领域，从而动摇和修订了我们对哲学探究的适当范围和目标的看法。
 
-* [杜波依斯的生平和主要著作](https://plato.stanford.edu/entries/dubois/#DuBoisLifeMajoPubl)
-* [社会哲学，黑人问题和种族](https://plato.stanford.edu/entries/dubois/#SociPhilNegrProbRace)
-
-  * [什么是黑人问题？](https://plato.stanford.edu/entries/dubois/#WhatNegrProb)
-  * [什么是黑人？什么是种族？什么是白人？](https://plato.stanford.edu/entries/dubois/#WhatNegrWhatRaceWhatWhit)
-* [人类行为与社会改革的科学](https://plato.stanford.edu/entries/dubois/#ScieHumaActiSociRefo)
-
-  * [社会法则和规律](https://plato.stanford.edu/entries/dubois/#SociLawsRegu)
-  * [3.2 机遇的范围和限制](https://plato.stanford.edu/entries/dubois/#ScopLimiChan)
-  * [3.3 历史探究与道德知识](https://plato.stanford.edu/entries/dubois/#HistInquMoraKnow)
-* [政治哲学](https://plato.stanford.edu/entries/dubois/#PoliPhil)
-
-  * [4.1 早期杜波依斯：《黑人之魂》时期](https://plato.stanford.edu/entries/dubois/#EarlDuBoisPeriSoulBlacFolk)
-  * [4.2 杜波依斯的政治思想在《黑人之魂》之后](https://plato.stanford.edu/entries/dubois/#DuBoisPoliThouAfteSoulBlacFolk)
-* [艺术哲学](https://plato.stanford.edu/entries/dubois/#PhilArt)
-
-  * [高艺术与低艺术](https://plato.stanford.edu/entries/dubois/#HighArtLowArt)
-  * [5.2 艺术、美和宣传](https://plato.stanford.edu/entries/dubois/#ArtBeauProp)
-* [6. 知识史、哲学史和杜·波依斯](https://plato.stanford.edu/entries/dubois/#InteHistHistPhilDuBois)
-* [ 参考文献](https://plato.stanford.edu/entries/dubois/#Bib)
-
-  * [杜波依斯的著作](https://plato.stanford.edu/entries/dubois/#BookDuBois)
-  * [杜波依斯在文中提到的其他作品](https://plato.stanford.edu/entries/dubois/#OtheWorkDuBoisRefeText)
-  * [ 次级文献](https://plato.stanford.edu/entries/dubois/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/dubois/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dubois/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dubois/#Rel)
 
 ---
 

@@ -4,22 +4,6 @@
 
 神圣光照论是心灵和知识领域中最古老且最有影响力的与自然主义相对的观点。该教义认为人类在日常认知活动中需要特殊的神圣帮助。尽管与奥古斯丁及其学院派追随者最为密切相关，但这一教义起源于古代，并在早期现代时期以变形的方式再次出现。
 
-* [1. Orientation](https://plato.stanford.edu/entries/illumination/#Ori)
-* [古代背景](https://plato.stanford.edu/entries/illumination/#AncBac)
-* [ 奥古斯丁](https://plato.stanford.edu/entries/illumination/#Aug)
-* [十三世纪的方济各会士](https://plato.stanford.edu/entries/illumination/#ThiCenFra)
-* [ 圣托马斯·阿奎那](https://plato.stanford.edu/entries/illumination/#ThoAqu)
-* [亨利·甘特](https://plato.stanford.edu/entries/illumination/#HenGhe)
-* [神圣光照论。](https://plato.stanford.edu/entries/illumination/#JohDunSco)
-* [ 结语](https://plato.stanford.edu/entries/illumination/#Epi)
-* [ 参考文献](https://plato.stanford.edu/entries/illumination/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/illumination/#PriLit)
-  * [ 次级文献](https://plato.stanford.edu/entries/illumination/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/illumination/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/illumination/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/illumination/#Rel)
-
 ---
 
 ## 定位

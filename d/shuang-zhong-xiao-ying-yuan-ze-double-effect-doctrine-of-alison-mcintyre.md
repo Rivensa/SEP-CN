@@ -4,27 +4,6 @@
 
 双重效应原则经常被援引来解释一种行为的可容许性，这种行为会导致严重伤害，比如导致人类死亡，作为促进某种良好结果的副作用。根据双重效应原则，有时候可以容许作为一种无意的、仅仅是预见到的副作用（或“双重效应”）而导致伤害，以实现一个良好结果，尽管导致这种伤害作为实现相同良好结果的手段是不可容许的。
 
-* [双重效应原则](https://plato.stanford.edu/entries/double-effect/#FormPrinDoubEffe)
-* [ 双重效应原则](https://plato.stanford.edu/entries/double-effect/#Appl)
-* [ 误解](https://plato.stanford.edu/entries/double-effect/#Misi)
-* [ 批评](https://plato.stanford.edu/entries/double-effect/#Crit)
-
-  * [4.1 Consequentialist Objections](https://plato.stanford.edu/entries/double-effect/#ConsObje)
-  * [4.2 接近性问题](https://plato.stanford.edu/entries/double-effect/#ProbClos)
-  * [副作用效应](https://plato.stanford.edu/entries/double-effect/#SideEffeEffe)
-  * [4.4 直接和间接代理](https://plato.stanford.edu/entries/double-effect/#DireIndiAgen)
-  * [双重效应原则是否提供了对有轨电车案例的充分解释？](https://plato.stanford.edu/entries/double-effect/#DoesDoubEffeProvAdeqExplTrolCase)
-  * [双重效应原则是否解释了冒险救援和通过减少伤害程度进行救援的可容许性？](https://plato.stanford.edu/entries/double-effect/#DoesDoubEffeExplPermRiskRescRescReduExteHarm)
-  * [4.7 战争中的惯例和规范的作用](https://plato.stanford.edu/entries/double-effect/#RoleConvNormWarf)
-* [生命终结决策](https://plato.stanford.edu/entries/double-effect/#EndLifeDeciMaki)
-
-  * [在临终关怀中的疼痛缓解](https://plato.stanford.edu/entries/double-effect/#PainReliPallCare)
-  * [ 终末镇静](https://plato.stanford.edu/entries/double-effect/#TermSeda)
-* [一个原则还是许多与一般禁止造成严重伤害松散相关的例外？](https://plato.stanford.edu/entries/double-effect/#OnePrinManyLoosRelaExceGeneProhCausGravHarm)
-* [ 参考文献](https://plato.stanford.edu/entries/double-effect/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/double-effect/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/double-effect/#Oth)
-* [ 双重效应原则](https://plato.stanford.edu/entries/double-effect/#Rel)
 
 ---
 

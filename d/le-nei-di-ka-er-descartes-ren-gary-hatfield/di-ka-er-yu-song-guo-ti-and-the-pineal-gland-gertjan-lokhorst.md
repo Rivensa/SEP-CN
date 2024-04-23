@@ -4,29 +4,6 @@
 
 松果体是大脑中心的一个微小器官，在笛卡尔的哲学中起着重要作用。他认为它是灵魂的主要所在地，也是我们所有思想形成的地方。在本条目中，我们讨论了笛卡尔关于松果体的观点。我们还通过描述在他之前和之后提出的关于松果体功能的主要理论，将它们置于历史背景中。
 
-* [1. 关于松果体的笛卡尔前观点](https://plato.stanford.edu/entries/pineal-gland/#PreCartViewPineGlan)
-
-  * [ 1.1 古代](https://plato.stanford.edu/entries/pineal-gland/#Anti)
-  * [ 1.2 晚期古代](https://plato.stanford.edu/entries/pineal-gland/#LateAnti)
-  * [ 1.3 中世纪](https://plato.stanford.edu/entries/pineal-gland/#MiddAges)
-  * [ 1.4 文艺复兴](https://plato.stanford.edu/entries/pineal-gland/#Rena)
-* [2. 笛卡尔对松果腺的观点](https://plato.stanford.edu/entries/pineal-gland/#DescViewPineGlan)
-
-  * [2.1 《人论》](https://plato.stanford.edu/entries/pineal-gland/#TreaMan)
-  * [2.2 人的论文与灵魂的激情之间](https://plato.stanford.edu/entries/pineal-gland/#BetwTreaManPassSoul)
-  * [2.3 灵魂的激情](https://plato.stanford.edu/entries/pineal-gland/#PassSoul)
-  * [2.4 身体和灵魂](https://plato.stanford.edu/entries/pineal-gland/#BodySoul)
-* [3. 后笛卡尔发展](https://plato.stanford.edu/entries/pineal-gland/#PostCartDeve)
-
-  * [3.1 对笛卡尔观点的反应](https://plato.stanford.edu/entries/pineal-gland/#ReacDescView)
-  * [3.2 科学发展](https://plato.stanford.edu/entries/pineal-gland/#ScieDeve)
-  * [ 3.3 伪科学](https://plato.stanford.edu/entries/pineal-gland/#PseuScie)
-  * [ 3.4 结论](https://plato.stanford.edu/entries/pineal-gland/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/pineal-gland/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/pineal-gland/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pineal-gland/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pineal-gland/#Rel)
-
 ---
 
 ## 1. 松果体的前笛卡尔观点

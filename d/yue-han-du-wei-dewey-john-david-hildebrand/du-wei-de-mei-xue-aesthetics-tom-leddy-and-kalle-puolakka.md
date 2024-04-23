@@ -6,24 +6,6 @@
 
 对试图将审美体验仅限于美术领域的尝试持批判态度，《艺术作为体验》对审美研究的趋势产生了很大影响，这些研究试图将领域范围从传统艺术扩展到流行文化（Shusterman 1992，第二版 2000）、自然环境（Berleant 1997）和日常生活（Kupfer 1983，Saito 2007，Stroud 2011，Leddy 2012）。这部作品也经常被视为杜威晚期哲学项目的关键部分，这一项目在《经验与自然》（Experience and Nature）（1925 年）中得到了最系统的发展，重新思考经验，将其沿着自然主义的思路看作是有机体与环境之间的互动，而不是离散的感官单元，如刺激、印象、观念或感官数据。杜威的出发点不是调查我们的感官如何接触现实以及它们是否正确地代表它——这是现代认识论的框架，而是根据他对达尔文进化论的阅读，看待经验如何作为人类基本联系的自然过程的一部分形成。对于杜威来说，审美体验是这种互动的最高形式。正如杜威经常使用的话语所述，这是一个阶段，当有机体与环境之间的互动达到充实的阶段。《经验与自然》中已经包括了一个关于美学的章节，杜威在十年后在《艺术作为体验》中更深入、更详细地发展了这些主题。由于杜威对审美体验的高度重视，《艺术作为体验》甚至被视为杜威晚期哲学思想的巅峰之作（Alexander 2013）。
 
-* [1. 早期对美学的探索](https://plato.stanford.edu/entries/dewey-aesthetics/#EarlForaAest)
-* [ 2. 艺术作为体验](https://plato.stanford.edu/entries/dewey-aesthetics/#ArtExpe)
-
-  * [2.1 美学理论的自然主义根源](https://plato.stanford.edu/entries/dewey-aesthetics/#NatuRootAestTheo)
-  * [2.2 反对“艺术博物馆观念”](https://plato.stanford.edu/entries/dewey-aesthetics/#AgaiMuseConcArt)
-  * [2.3 美学体验](https://plato.stanford.edu/entries/dewey-aesthetics/#AestExpe)
-  * [ 2.4 美学形式](https://plato.stanford.edu/entries/dewey-aesthetics/#AestForm)
-  * [ 2.5 表达](https://plato.stanford.edu/entries/dewey-aesthetics/#Expr)
-  * [2.6 文化与艺术的重要性](https://plato.stanford.edu/entries/dewey-aesthetics/#CultArtsSign)
-* [ 3. 批判性反应](https://plato.stanford.edu/entries/dewey-aesthetics/#CritReac)
-* [4. 更广泛的文化意义](https://plato.stanford.edu/entries/dewey-aesthetics/#WideCultRele)
-* [ 参考文献](https://plato.stanford.edu/entries/dewey-aesthetics/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/dewey-aesthetics/#PrimSour)
-  * [ 次要来源](https://plato.stanford.edu/entries/dewey-aesthetics/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/dewey-aesthetics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dewey-aesthetics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dewey-aesthetics/#Rel)
 
 ---
 

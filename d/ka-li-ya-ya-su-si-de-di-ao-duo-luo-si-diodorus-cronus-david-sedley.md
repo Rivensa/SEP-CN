@@ -4,18 +4,6 @@
 
 狄奥多罗斯是一位开创性的逻辑学家，也是公元前 4 至 3 世纪辩证学派中最著名的成员。他在逻辑学方面的贡献，特别是对于模态术语的定义和健全条件的标准，在辩证学派的文章中有所涉及（另见命运论条目的第 2 节）。本文还概述了狄奥多罗斯的其他思想。他对悖论的运用在我们关于他的古代资料中至少和他对逻辑理论的建设性贡献一样突出。
 
-* [ 生命](https://plato.stanford.edu/entries/diodorus-cronus/#Lif)
-* [卡里亚雅苏斯的狄奥多罗斯 2. Minima and motion](https://plato.stanford.edu/entries/diodorus-cronus/#MinMot)
-* [ Semantics](https://plato.stanford.edu/entries/diodorus-cronus/#Sem)
-* [哲学立场](https://plato.stanford.edu/entries/diodorus-cronus/#PhiPos)
-* [ 卡里亚雅苏斯的狄奥多罗斯对逻辑学的影响](https://plato.stanford.edu/entries/diodorus-cronus/#Inf)
-* [ 卡里亚雅苏斯的狄奥多罗斯](https://plato.stanford.edu/entries/diodorus-cronus/#Bib)
-
-  * [收集的证言，附有评论](https://plato.stanford.edu/entries/diodorus-cronus/#ColTesCom)
-  * [ 次级文献](https://plato.stanford.edu/entries/diodorus-cronus/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/diodorus-cronus/#Aca)
-* [卡里亚雅苏斯的狄奥多罗斯](https://plato.stanford.edu/entries/diodorus-cronus/#Oth)
-* [ 卡里亚雅苏斯的狄奥多罗斯](https://plato.stanford.edu/entries/diodorus-cronus/#Rel)
 
 ---
 
