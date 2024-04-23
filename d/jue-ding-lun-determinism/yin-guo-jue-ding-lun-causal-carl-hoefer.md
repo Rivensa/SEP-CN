@@ -183,7 +183,7 @@ Figure 1: 带凸障碍的台球桌
 
 在超级任务中，人们经常会遇到无限数量的粒子、无限（或无界）质量密度以及其他可疑的无穷现象。再加上 CM 中决定论的一些其他崩溃，人们开始感觉到，大多数，如果不是全部，决定论的崩溃都依赖于以下一组（物理上）可疑的数学概念的某种组合：{无限空间；无界速度；连续性；点粒子；奇异场}。问题在于，很难想象任何一个能够摒弃该组中所有内容的可识别的物理学（更不用说 CM 了）。
 
-![Norton's dome](https://plato.stanford.edu/entries/determinism-causal/dome\with\eqn.gif)
+![Norton's dome](https://plato.stanford.edu/entries/determinism-causal/dome_with_eqn.gif)
 
 图 4：一个球可能会自发地开始沿着这个圆顶滑下，而不违反牛顿定律。（由约翰·N·诺顿和《哲学家印记》提供）
 
