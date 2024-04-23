@@ -436,11 +436,11 @@ Longino 只是众多试图捕捉色情作品在道德上存在问题的作者之
 
 ## Academic Tools
 
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=erotic-art).                                                                      |
+| ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=erotic-art).                                                                      |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/erotic-art/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=erotic-art\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
-| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/erotic-art/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
+| ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/erotic-art/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](../../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=erotic-art\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](../../.gitbook/assets/pp.png)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/erotic-art/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 

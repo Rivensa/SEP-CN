@@ -238,11 +238,11 @@ Michaelian (2012b)认为，元认知的认可机制是可靠和合理的，尽�
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=memory-episprob). |
+> | ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=memory-episprob). |
 > | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/memory-episprob/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=memory-episprob&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/memory-episprob/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+> | ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/memory-episprob/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](../../.gitbook/assets/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=memory-episprob&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](../../.gitbook/assets/pp.png) | [Enhanced bibliography for this entry](https://philpapers.org/sep/memory-episprob/) at [PhilPapers](https://philpapers.org/), with links to its database. |
 
 * Adams, Fred, 2011, “Husker Du?”, *Philosophical Studies*, 153(1): 81–94. doi:10.1007/s11098-010-9663-4
 * Annis, David B., 1980, “Memory and Justification”, *Philosophy and Phenomenological Research*, 40(3): 324–333. doi:10.2307/2106396

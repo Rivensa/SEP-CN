@@ -503,11 +503,11 @@ A comprehensive annotated bibliography of the subject, up until 2003, is include
 
 ## Academic Tools
 
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=information-entropy).                                                                      |
+| ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=information-entropy).                                                                      |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/information-entropy/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=information-entropy\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
-| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/information-entropy/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
+| ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/information-entropy/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](../../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=information-entropy\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](../../.gitbook/assets/pp.png)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/information-entropy/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 

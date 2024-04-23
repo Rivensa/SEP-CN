@@ -1021,11 +1021,11 @@ Z 的子集（分离）公理： ∀x\[集合(x)→∃y\[集合(y)&∀z(z∈y≡
 
 ## Academic Tools
 
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=frege-theorem).                                                                      |
+| ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=frege-theorem).                                                                      |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/frege-theorem/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=frege-theorem\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
-| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/frege-theorem/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
+| ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/frege-theorem/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](../../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=frege-theorem\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](../../.gitbook/assets/pp.png)      | [Enhanced bibliography for this entry](http://philpapers.org/sep/frege-theorem/) at [PhilPapers](http://philpapers.org/), with links to its database.                            |
 
 ## Other Internet Resources
 
