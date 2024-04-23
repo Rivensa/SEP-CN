@@ -15,40 +15,7 @@
 
 如同逻辑学中通常的做法一样，这些语言是逻辑学的语义和语法基础。
 
-* [ 1. 语义学](https://plato.stanford.edu/entries/logic-manyvalued/#Sem)
-
-  * [1.1 标准逻辑矩阵](https://plato.stanford.edu/entries/logic-manyvalued/#StaLogMat)
-  * [ 1.2 代数语义学](https://plato.stanford.edu/entries/logic-manyvalued/#AlgSem)
-  * [ 1.3 游戏语义学](https://plato.stanford.edu/entries/logic-manyvalued/#GameSem)
-* [2. 证明论](https://plato.stanford.edu/entries/logic-manyvalued/#ProThe)
-
-  * [2.1 希尔伯特类型演算](https://plato.stanford.edu/entries/logic-manyvalued/#HilTypCal)
-  * [2.2 格恩岑类型序演算](https://plato.stanford.edu/entries/logic-manyvalued/#GenTypSeqCal)
-  * [ 2.3 表演算](https://plato.stanford.edu/entries/logic-manyvalued/#TabCal)
-* [3. 多类逻辑系统](https://plato.stanford.edu/entries/logic-manyvalued/#SysManValLog)
-
-  * [ 3.1 Łukasiewicz 逻辑学](https://plato.stanford.edu/entries/logic-manyvalued/#LukLog)
-  * [ 3.2 Gödel 逻辑学](https://plato.stanford.edu/entries/logic-manyvalued/#GodLog)
-  * [3.3 基于 t-范数的系统](https://plato.stanford.edu/entries/logic-manyvalued/#TNorBasSys)
-  * [3.4 三值系统](https://plato.stanford.edu/entries/logic-manyvalued/#ThrValSys)
-  * [3.5 Dunn/Belnap 的 4 值系统](https://plato.stanford.edu/entries/logic-manyvalued/#Dun4ValSys)
-  * [ 3.6 产品系统](https://plato.stanford.edu/entries/logic-manyvalued/#ProSys)
-* [4. 多值逻辑的应用](https://plato.stanford.edu/entries/logic-manyvalued/#AppManValLog)
-
-  * [4.1 语言学的应用](https://plato.stanford.edu/entries/logic-manyvalued/#AppLin)
-  * [4.2 逻辑学应用](https://plato.stanford.edu/entries/logic-manyvalued/#AppLog)
-  * [4.3 哲学问题的应用](https://plato.stanford.edu/entries/logic-manyvalued/#AppPhiPro)
-  * [4.4 硬件设计的应用](https://plato.stanford.edu/entries/logic-manyvalued/#AppHarDes)
-  * [4.5 人工智能应用](https://plato.stanford.edu/entries/logic-manyvalued/#AppArtInt)
-  * [4.6 数学应用](https://plato.stanford.edu/entries/logic-manyvalued/#AppMat)
-* [5. 多值逻辑的历史](https://plato.stanford.edu/entries/logic-manyvalued/#HisManValLog)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-manyvalued/#Bib)
-
-  * [专著和综述论文](https://plato.stanford.edu/entries/logic-manyvalued/#MonSurPap)
-  * [ 其他引用的作品](https://plato.stanford.edu/entries/logic-manyvalued/#OthWorCit)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-manyvalued/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-manyvalued/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-manyvalued/#Rel)
+ 
 
 ---
 

@@ -9,23 +9,7 @@
 
 许多作者更喜欢谈论积极自由和消极自由。这只是风格上的差异，政治和社会哲学家通常可以互换使用“自由”和“自由”这两个术语。尽管一些人试图区分自由和自由（Pitkin 1988; Williams 2001; Dworkin 2011），但一般来说这些区分并没有流行起来。它们也不能被翻译成其他欧洲语言，这些语言只包含一个拉丁语或日耳曼语起源的术语（例如，liberté，Freiheit），而英语则包含两个术语。
 
-* [1. 自由的两个概念](https://plato.stanford.edu/entries/liberty-positive-negative/#TwoConLib)
-* [2. 积极自由的悖论](https://plato.stanford.edu/entries/liberty-positive-negative/#ParPosLib)
-* [3. 试图创造第三种方式的两次尝试](https://plato.stanford.edu/entries/liberty-positive-negative/#TwoAttCreThiWay)
-
-  * [3.1 自由作为内容中立的积极自由](https://plato.stanford.edu/entries/liberty-positive-negative/#PosLibConNeu)
-  * [ 3.2 共和自由](https://plato.stanford.edu/entries/liberty-positive-negative/#RepLib)
-* [4. 自由的一个概念：自由作为三元关系](https://plato.stanford.edu/entries/liberty-positive-negative/#OneConLibFreTriRel)
-* [5. 约束的分析：它们的类型和来源](https://plato.stanford.edu/entries/liberty-positive-negative/#AnaConTheTypTheSou)
-* [6. 总体自由的概念](https://plato.stanford.edu/entries/liberty-positive-negative/#ConOveFre)
-* [7. 这个区别还有用吗？](https://plato.stanford.edu/entries/liberty-positive-negative/#DisStiUse)
-* [ 参考文献](https://plato.stanford.edu/entries/liberty-positive-negative/#Bib)
-
-  * [ 入门读物](https://plato.stanford.edu/entries/liberty-positive-negative/#IntWor)
-  * [ 其他作品](https://plato.stanford.edu/entries/liberty-positive-negative/#OthWor)
-* [ 学术工具](https://plato.stanford.edu/entries/liberty-positive-negative/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/liberty-positive-negative/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/liberty-positive-negative/#Rel)
+ 
 
 ---
 

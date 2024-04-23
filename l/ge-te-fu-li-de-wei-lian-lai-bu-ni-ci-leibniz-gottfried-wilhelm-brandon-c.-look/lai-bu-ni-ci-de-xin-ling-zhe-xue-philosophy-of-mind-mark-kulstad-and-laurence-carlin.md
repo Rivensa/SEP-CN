@@ -6,19 +6,7 @@
 
 但是莱布尼茨对心灵哲学的探讨远远超出了这些传统重要主题。也许令人惊讶的是，他的体系有时包含了与当代认知科学讨论相关的思想。更一般地说，他深入讨论了感知和思维的本质（有意识和无意识），以及人类动机和奋斗的本质（或者，正如他所说的欲望）。我们将在接下来的内容中探讨这些主题。
 
-* [1. 物质与思维](https://plato.stanford.edu/entries/leibniz-mind/#MatTho)
-* [2. 拒绝心灵-身体互动，主张预设和谐](https://plato.stanford.edu/entries/leibniz-mind/#DenMinBodIntAssPreEstHar)
-* [3. 语言与心灵](https://plato.stanford.edu/entries/leibniz-mind/#LanMin)
-* [4. 知觉与欲望](https://plato.stanford.edu/entries/leibniz-mind/#PerApp)
-* [5. 感知、欲望和无意识](https://plato.stanford.edu/entries/leibniz-mind/#AppDesUnc)
-* [ 参考文献](https://plato.stanford.edu/entries/leibniz-mind/#Bib)
-
-  * [ 莱布尼茨的著作](https://plato.stanford.edu/entries/leibniz-mind/#WorLei)
-  * [ 二手文献](https://plato.stanford.edu/entries/leibniz-mind/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/leibniz-mind/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/leibniz-mind/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/leibniz-mind/#Rel)
-
+ 
 ---
 
 ## 1. 物质与思想

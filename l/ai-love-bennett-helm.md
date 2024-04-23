@@ -4,23 +4,7 @@
 
 本文关注个人爱，或者说对特定个人的爱。在理解个人爱的哲学任务中，一部分是区分不同种类的个人爱。例如，我对妻子的爱似乎与我对母亲、孩子和朋友的爱有很大的不同。这个任务通常与对这些种类的个人爱进行哲学分析同时进行，这些分析部分回应了关于爱的各种难题。爱可以被证明合理吗？如果可以，如何证明？个人爱的价值是什么？爱对爱人和被爱人的自主性有什么影响？
 
-* [1. 初步区分](https://plato.stanford.edu/entries/love/#PrelDist)
-* [2. 爱作为联合](https://plato.stanford.edu/entries/love/#LoveUnio)
-* [3. 爱作为坚定的关切](https://plato.stanford.edu/entries/love/#LoveRobuConc)
-* [4. 爱作为价值评估](https://plato.stanford.edu/entries/love/#LoveValu)
-
-  * [4.1 爱作为价值评估的评价](https://plato.stanford.edu/entries/love/#LoveApprValu)
-  * [4.2 爱作为价值的赋予](https://plato.stanford.edu/entries/love/#LoveBestValu)
-  * [4.3 一个中间立场？](https://plato.stanford.edu/entries/love/#IntePosi)
-* [5. 情感观点](https://plato.stanford.edu/entries/love/#EmotView)
-
-  * [5.1 爱作为情感本质](https://plato.stanford.edu/entries/love/#LoveEmotProp)
-  * [5.2 爱作为情感复合体](https://plato.stanford.edu/entries/love/#LoveEmotComp)
-* [6. 爱的价值和理论解释](https://plato.stanford.edu/entries/love/#ValuJustLove)
-* [ 参考文献](https://plato.stanford.edu/entries/love/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/love/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/love/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/love/#Rel)
+ 
 
 ---
 

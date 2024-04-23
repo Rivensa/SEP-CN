@@ -4,23 +4,7 @@
 
 欧塞尔的兰伯特 (?) (Lambertus, Lambert, Lambert of Lagny, Lambert of Ligny) 是一位十三世纪的法国逻辑学家，他的著作《兰伯特总论》是 1240 年至 1270 年间写成的“四大”逻辑教科书之一，代表了中世纪逻辑学的终结期（约 1175 年至 1270 年）。
 
-* [1. 《兰伯特总论》及其年代](https://plato.stanford.edu/entries/lambert-auxerre/#SummLambDati)
-* [2. 姓名和身份确认](https://plato.stanford.edu/entries/lambert-auxerre/#NameIden)
-* [3. 当代观点的比较](https://plato.stanford.edu/entries/lambert-auxerre/#CompContView)
-
-  * [3.1 假设和称谓](https://plato.stanford.edu/entries/lambert-auxerre/#SuppAppe)
-  * [ 3.2 限制](https://plato.stanford.edu/entries/lambert-auxerre/#Rest)
-  * [ 3.3 模态性](https://plato.stanford.edu/entries/lambert-auxerre/#Moda)
-  * [ 3.4 关系](https://plato.stanford.edu/entries/lambert-auxerre/#Rela)
-* [4. 对未来观点的影响](https://plato.stanford.edu/entries/lambert-auxerre/#InflFutuView)
-* [ 参考文献](https://plato.stanford.edu/entries/lambert-auxerre/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/lambert-auxerre/#PrimSour)
-  * [ 次要来源](https://plato.stanford.edu/entries/lambert-auxerre/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/lambert-auxerre/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lambert-auxerre/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/lambert-auxerre/#Rel)
-
+ 
 ---
 
 ## 1. 欧塞尔的兰伯特和它的年代

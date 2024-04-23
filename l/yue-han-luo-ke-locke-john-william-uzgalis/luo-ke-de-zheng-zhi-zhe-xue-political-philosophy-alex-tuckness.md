@@ -6,21 +6,7 @@
 
 关于洛克的历史和背景、《政府论》和《论宽容》的论点，更详细的介绍，请参见本百科全书关于约翰·洛克的主要条目中的第 1 节、第 4 节和第 5 节。本条目重点介绍洛克政治哲学中的八个核心概念。
 
-* [1. 自然法和自然权利](https://plato.stanford.edu/entries/locke-political/#NatuLawNatuRigh)
-* [2. 自然状态](https://plato.stanford.edu/entries/locke-political/#StatNatu)
-* [ 3. 财产](https://plato.stanford.edu/entries/locke-political/#Prop)
-* [4. 同意、政治义务和政府的目的](https://plato.stanford.edu/entries/locke-political/#ConsPoliObliEndsGove)
-* [5. 约翰·洛克和惩罚](https://plato.stanford.edu/entries/locke-political/#LockPuni)
-* [6. 权力分立和政府解散](https://plato.stanford.edu/entries/locke-political/#SepaPoweDissGove)
-* [ 7. 宽容](https://plato.stanford.edu/entries/locke-political/#Tole)
-* [8. 教育与政治](https://plato.stanford.edu/entries/locke-political/#Edu)
-* [ 参考书目](https://plato.stanford.edu/entries/locke-political/#Bib)
-
-  * [ 选择主要来源](https://plato.stanford.edu/entries/locke-political/#SelePrimSour)
-  * [选择次要来源](https://plato.stanford.edu/entries/locke-political/#SeleSecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/locke-political/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/locke-political/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/locke-political/#Rel)
+ 
 
 ---
 

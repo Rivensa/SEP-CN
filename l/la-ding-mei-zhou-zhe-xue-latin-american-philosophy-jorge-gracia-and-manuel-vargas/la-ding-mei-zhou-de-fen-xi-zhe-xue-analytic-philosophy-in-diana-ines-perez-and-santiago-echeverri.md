@@ -4,41 +4,7 @@
 
 拉丁美洲在二十世纪中叶引入了分析哲学。该地区的不同国家的发展是异质的，但如今已经达到了相当成熟和独创的程度，拥有一个在拉丁美洲分析传统内工作的强大社群。本条目描述了拉丁美洲分析哲学的历史发展，并提供了一些拉丁美洲分析哲学家的原创贡献的例子。
 
-* [1. 地理和理论边界](https://plato.stanford.edu/entries/latin-american-analytic/#GeogTheoBoun)
-* [2. 拉丁美洲分析哲学的发展](https://plato.stanford.edu/entries/latin-american-analytic/#DeveAnalPhilLatiAmer)
-
-  * [2.1 拉丁美洲 (1940–1990)](https://plato.stanford.edu/entries/latin-american-analytic/#Arge1940)
-  * [ 2.2 墨西哥 (1940–1990)](https://plato.stanford.edu/entries/latin-american-analytic/#Mexi1940)
-  * [ 2.3 巴西 (1930–1990)](https://plato.stanford.edu/entries/latin-american-analytic/#Braz1930)
-  * [ 2.4 拉丁美洲 (1965—)](https://plato.stanford.edu/entries/latin-american-analytic/#Colo1965)
-  * [2.5 其他国家](https://plato.stanford.edu/entries/latin-american-analytic/#OtheCoun)
-
-    * [ 2.5.1 秘鲁](https://plato.stanford.edu/entries/latin-american-analytic/#Peru)
-    * [ 2.5.2 智利](https://plato.stanford.edu/entries/latin-american-analytic/#Chil)
-    * [ 2.5.3 波多黎各](https://plato.stanford.edu/entries/latin-american-analytic/#PuerRico)
-    * [ 2.5.4 乌拉圭](https://plato.stanford.edu/entries/latin-american-analytic/#Urug)
-    * [ 2.5.5 拉丁美洲](https://plato.stanford.edu/entries/latin-american-analytic/#Vene)
-    * [ 2.5.6 哥斯达黎加](https://plato.stanford.edu/entries/latin-american-analytic/#CostRica)
-* [3. 拉丁美洲分析哲学家的原创贡献](https://plato.stanford.edu/entries/latin-american-analytic/#OrigContLatiAmerAnalPhil)
-
-  * [3.1 语言和心灵哲学](https://plato.stanford.edu/entries/latin-american-analytic/#PhilLangMind)
-  * [3.2 应用伦理学、生物伦理学和法律哲学](https://plato.stanford.edu/entries/latin-american-analytic/#ApplEthiBioePhilLaw)
-  * [ 3.3 元哲学](https://plato.stanford.edu/entries/latin-american-analytic/#Meta)
-* [ 4. 结束语](https://plato.stanford.edu/entries/latin-american-analytic/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/latin-american-analytic/#Bib)
-
-  * [特刊和专题讨论](https://plato.stanford.edu/entries/latin-american-analytic/#SpecIssuSymp)
-  * [ 引用的作品](https://plato.stanford.edu/entries/latin-american-analytic/#CiteWork)
-* [ 学术工具](https://plato.stanford.edu/entries/latin-american-analytic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/latin-american-analytic/#Oth)
-
-  * [与此条目相关的作品](https://plato.stanford.edu/entries/latin-american-analytic/#WorkReleEntr)
-  * [拉丁美洲分析哲学协会](https://plato.stanford.edu/entries/latin-american-analytic/#AssoForAnalPhilLatiAmer)
-  * [与分析哲学相关的其他拉丁美洲机构](https://plato.stanford.edu/entries/latin-american-analytic/#OtheLatiAmerInstConnAnalPhil)
-  * [分析哲学研究小组（按字母顺序排列）](https://plato.stanford.edu/entries/latin-american-analytic/#ReseGrouAnalPhilAlphOrde)
-  * [拉丁美洲致力于或开放于分析哲学的期刊](https://plato.stanford.edu/entries/latin-american-analytic/#JourDevoOpenAnalPhilLatiAmer)
-* [ 相关条目](https://plato.stanford.edu/entries/latin-american-analytic/#Rel)
-
+ 
 ---
 
 ## 1. 地理和理论边界

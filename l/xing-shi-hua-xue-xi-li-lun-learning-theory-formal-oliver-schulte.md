@@ -14,42 +14,7 @@
 
 对于对学习理论的数学实质感兴趣的读者，可以在参考文献中找到一些参考资料，并在补充文件中找到基本定义的摘要。Jain 等人的一本书收集了许多主要的定义和定理[1999 年]。新的结果出现在年度会议的论文集中，例如学习理论会议（COLT）和算法学习理论会议（ALT）。与学习理论认识论相关的哲学问题和动机在哲学家普特南（Putnam）、格莱默（Glymour）和凯利（Kelly）的著作中得到了广泛讨论（Putnam [1963]，Glymour [1991]，Glymour and Kelly [1992]，Kelly [1996]）。
 
-* [1. 趋向于真理，只有真理](https://plato.stanford.edu/entries/learning-formal/#ConvTrutNothButTrut)
-
-  * [1.1 简单的普遍概括](https://plato.stanford.edu/entries/learning-formal/#SimpUnivGene)
-  * [1.2 归纳的新谜题](https://plato.stanford.edu/entries/learning-formal/#NewRiddIndu)
-  * [ 1.3 讨论](https://plato.stanford.edu/entries/learning-formal/#Disc)
-  * [1.4 反证主义和带有例外的概括](https://plato.stanford.edu/entries/learning-formal/#FalsGeneExce)
-* [2. 科学实践中的案例研究](https://plato.stanford.edu/entries/learning-formal/#CaseStudSciePrac)
-
-  * [2.1 粒子物理学中的守恒定律](https://plato.stanford.edu/entries/learning-formal/#ConsLawsPartPhys)
-  * [ 2.2 因果关系](https://plato.stanford.edu/entries/learning-formal/#CausConn)
-  * [2.3 认知架构模型](https://plato.stanford.edu/entries/learning-formal/#ModeCognArch)
-  * [ 2.4 讨论](https://plato.stanford.edu/entries/learning-formal/#Disc_1)
-* [3. 形式化学习理论的界限和经验问题的复杂性](https://plato.stanford.edu/entries/learning-formal/#LimiInquCompEmpiProb)
-
-  * [3.1 可验证和可证伪的假设](https://plato.stanford.edu/entries/learning-formal/#VeriRefuHypo)
-  * [3.2 随附性和可验证性公理的点集拓扑学](https://plato.stanford.edu/entries/learning-formal/#PoinSetTopoAxioVeri)
-  * [3.3 形式化学习理论中的可识别性](https://plato.stanford.edu/entries/learning-formal/#IdenLimiInqu)
-* [4. 短期内的长期：可靠和稳定的信念](https://plato.stanford.edu/entries/learning-formal/#LongRunShorRunReliStabBeli)
-
-  * [4.1 例子：归纳的新谜题](https://plato.stanford.edu/entries/learning-formal/#ExamNewRiddIndu)
-  * [ 4.2 更多例子](https://plato.stanford.edu/entries/learning-formal/#Exam)
-  * [4.3 退行性心智变化](https://plato.stanford.edu/entries/learning-formal/#RegrMindChan)
-* [5. 简单性、稳定信念和奥卡姆剃刀](https://plato.stanford.edu/entries/learning-formal/#SimpStabBeliOckhRazo)
-
-  * [ 5.1 定义简洁性](https://plato.stanford.edu/entries/learning-formal/#DefiSimp)
-  * [ 5.2 例子](https://plato.stanford.edu/entries/learning-formal/#Exam_1)
-  * [5.3 稳定信念和简洁性：奥卡姆定理](https://plato.stanford.edu/entries/learning-formal/#StabBeliSimpOckhTheo)
-  * [5.4 退行性心智变化与简单性：另一个奥卡姆定理](https://plato.stanford.edu/entries/learning-formal/#RegrMindChanSimpAnotOckhTheo)
-* [6. 统计假设的可靠学习](https://plato.stanford.edu/entries/learning-formal/#ReliLearForStatHypo)
-* [7. 其他方法：范畴性与假设性命题](https://plato.stanford.edu/entries/learning-formal/#OtheApprCateVsHypoImpe)
-* [随附文档：基本形式化定义](https://plato.stanford.edu/entries/learning-formal/#SuppDocuBasiFormDefi)
-* [ 参考文献](https://plato.stanford.edu/entries/learning-formal/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/learning-formal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/learning-formal/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/learning-formal/#Rel)
-
+ 
 ---
 
 ## 1. 趋向真理，只有真理

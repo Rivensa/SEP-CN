@@ -3,41 +3,7 @@
 *首次发表于2016年6月24日星期五*
 
 动态认知逻辑是对模型变化的模态逻辑研究。DEL（发音为“dell”）是应用逻辑的一个高度活跃的领域，涉及到许多领域的主题，包括形式和社会认识论、认知和信念逻辑、信念修正、多主体和分布式系统、人工智能、可废弃和非单调推理以及认知博弈论。本文对 DEL 进行了概述，同时指出了一些未解决的问题和进一步研究的自然方向。
-
-* [ 1. 引言](https://plato.stanford.edu/entries/dynamic-epistemic/#Intr)
-* [2. 公共沟通](https://plato.stanford.edu/entries/dynamic-epistemic/#PublComm)
-
-  * [2.1 公开宣布逻辑](https://plato.stanford.edu/entries/dynamic-epistemic/#PublAnnoLogi)
-  * [2.2 群体知识：共同知识和分布式知识](https://plato.stanford.edu/entries/dynamic-epistemic/#GrouKnowCommKnowDistKnow)
-
-    * [ 2.2.1 共同知识](https://plato.stanford.edu/entries/dynamic-epistemic/#CommKnow)
-    * [2.2.2 分布式知识](https://plato.stanford.edu/entries/dynamic-epistemic/#DistKnow)
-  * [ 2.3 Moore 句子](https://plato.stanford.edu/entries/dynamic-epistemic/#MoorSent)
-* [3. 复杂的认知交互](https://plato.stanford.edu/entries/dynamic-epistemic/#CompEpisInte)
-
-  * [3.1 动态认知模型描述复杂的信息场景](https://plato.stanford.edu/entries/dynamic-epistemic/#ActiModeDescCompInfoScen)
-  * [3.2 动态认知模型的示例](https://plato.stanford.edu/entries/dynamic-epistemic/#ExamActiMode)
-  * [3.3 动态认知行为的逻辑学](https://plato.stanford.edu/entries/dynamic-epistemic/#LogiEpisActi)
-  * [3.4 变体和概括](https://plato.stanford.edu/entries/dynamic-epistemic/#VariGene)
-* [4. 信念变化和动态认知逻辑](https://plato.stanford.edu/entries/dynamic-epistemic/#BeliChanDynaEpisLogi)
-
-  * [4.1 信念修正：错误感知的信念变化](https://plato.stanford.edu/entries/dynamic-epistemic/#BeliReviErroAwarBeliChan)
-  * [4.2 静态和动态信念变化](https://plato.stanford.edu/entries/dynamic-epistemic/#StatDynaBeliChan)
-  * [4.3 可信度模型和信念变化](https://plato.stanford.edu/entries/dynamic-epistemic/#PlauModeBeliChan)
-  * [4.4 动态认知行为的逻辑：行动优先更新](https://plato.stanford.edu/entries/dynamic-epistemic/#LogiDoxaActiActiPrioUpda)
-  * [4.5 动态认知和合理信念的证据动态](https://plato.stanford.edu/entries/dynamic-epistemic/#EvidDynaJustBeli)
-* [5. 动态认知逻辑中的概率更新](https://plato.stanford.edu/entries/dynamic-epistemic/#ProbUpdaDynaEpisLogi)
-* [6. 动态认知逻辑的应用](https://plato.stanford.edu/entries/dynamic-epistemic/#ApplDynaEpisLogi)
-
-  * [ 6.1 偏好动态](https://plato.stanford.edu/entries/dynamic-epistemic/#PrefDyna)
-  * [6.2 与时间逻辑的联系](https://plato.stanford.edu/entries/dynamic-epistemic/#ConnTempLogi)
-  * [6.3 与主流认识论的联系](https://plato.stanford.edu/entries/dynamic-epistemic/#ConnMainEpis)
-* [ 7. 结论](https://plato.stanford.edu/entries/dynamic-epistemic/#Conc)
-* [ 附录](https://plato.stanford.edu/entries/dynamic-epistemic/#Appe)
-* [ 参考文献](https://plato.stanford.edu/entries/dynamic-epistemic/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/dynamic-epistemic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dynamic-epistemic/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/dynamic-epistemic/#Rel)
+ 
 
 ---
 

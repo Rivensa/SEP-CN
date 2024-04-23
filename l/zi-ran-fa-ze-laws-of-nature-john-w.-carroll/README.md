@@ -6,24 +6,7 @@
 
 科学哲学家和形而上学家探讨了关于法则的各种问题，但基本问题是：什么是法则？两种有影响力的答案是系统方法（Lewis, 1973, 1983, 1986, 1994）和普遍方法（Armstrong, 1978, 1983, 1991, 1993）。其他处理方式包括反实在论观点（van Fraassen 1989, Giere 1999, Ward 2002, Mumford 2004）和反还原主义观点（Carroll 1994 and 2008, Lange 2000 and 2009, Maudlin 2007）。除了基本问题外，最近的文献还关注以下问题：（i）法则是否由事实决定，（ii）法则在归纳问题中的作用，（iii）法则是否涉及强形式的必然性，以及（iv）法则在物理学中的作用及其与特殊科学中的作用的对比。
 
-* [1. 基本问题：什么是法则？](https://plato.stanford.edu/entries/laws-of-nature/#BasQueWhaItLaw)
-* [ 2. 系统](https://plato.stanford.edu/entries/laws-of-nature/#Sys)
-* [ 3. 通用性](https://plato.stanford.edu/entries/laws-of-nature/#Uni)
-* [ 4. 休谟式随附](https://plato.stanford.edu/entries/laws-of-nature/#HumSup)
-* [ 5. 反实在论](https://plato.stanford.edu/entries/laws-of-nature/#Ant)
-* [ 6. 反还原论](https://plato.stanford.edu/entries/laws-of-nature/#Antired)
-* [ 7. 归纳](https://plato.stanford.edu/entries/laws-of-nature/#Ind)
-* [ 8. 必然性](https://plato.stanford.edu/entries/laws-of-nature/#Nec)
-* [9. 法则、循环性和解释前景](https://plato.stanford.edu/entries/laws-of-nature/#LawsCircPros)
-* [10. 物理学与特殊科学](https://plato.stanford.edu/entries/laws-of-nature/#PhySpeSci)
-
-  * [10.1 物理学家试图发现无例外的规律吗？](https://plato.stanford.edu/entries/laws-of-nature/#DoPhyTryDisExcReg)
-  * [10.2 是否可能存在特殊科学法则？](https://plato.stanford.edu/entries/laws-of-nature/#CouTheAnySpeSciLaw)
-* [11. 总结：接下来是什么？](https://plato.stanford.edu/entries/laws-of-nature/#ConRemWhaNex)
-* [ 参考文献](https://plato.stanford.edu/entries/laws-of-nature/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/laws-of-nature/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/laws-of-nature/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/laws-of-nature/#Rel)
+ 
 
 ---
 

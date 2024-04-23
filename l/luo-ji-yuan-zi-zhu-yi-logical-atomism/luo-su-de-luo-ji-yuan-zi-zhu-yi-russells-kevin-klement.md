@@ -6,25 +6,7 @@ _首次发表于2005年10月24日；实质性修订于2019年10月14日_
 
 罗素的逻辑原子主义对 20 世纪上半叶的分析哲学产生了深远影响；事实上，可以说“分析哲学”这个名称正是源自罗素对分析方法的辩护。
 
-* [1. 引言](https://plato.stanford.edu/entries/logical-atomism/#Intr)
-* [2. 罗素逻辑原子主义的起源和发展](https://plato.stanford.edu/entries/logical-atomism/#OrigDeveRussLogiAtom)
-  * [2.1 与唯心主义的决裂和关系的本质](https://plato.stanford.edu/entries/logical-atomism/#BreaIdeaNatuRela)
-  * [2.2 《数学原理》中的命题](https://plato.stanford.edu/entries/logical-atomism/#PropPrinMath)
-  * [2.3 描述理论](https://plato.stanford.edu/entries/logical-atomism/#TheoDesc)
-  * [2.4 类、命题和《数学原理》中的真理](https://plato.stanford.edu/entries/logical-atomism/#ClasPropTrutPrinMath)
-* [3. 罗素的哲学方法和分析概念](https://plato.stanford.edu/entries/logical-atomism/#RussPhilMethNotiAnal)
-* [4. 罗素的逻辑原子主义的本体论方面](https://plato.stanford.edu/entries/logical-atomism/#OntoAspeRussLogiAtom)
-  * [4.1 罗素事实：原子、否定和一般](https://plato.stanford.edu/entries/logical-atomism/#RussFactAtomNegaGene)
-  * [4.2 逻辑原子和简洁性](https://plato.stanford.edu/entries/logical-atomism/#LogiAtomSimp)
-  * [4.3 原子主义命题，逻辑独立性和必然性](https://plato.stanford.edu/entries/logical-atomism/#AtomPropLogiIndeNece)
-* [5. 影响和接受](https://plato.stanford.edu/entries/logical-atomism/#InflRece)
-* [参考文献](https://plato.stanford.edu/entries/logical-atomism/#Bib)
-  * [罗素的著作](https://plato.stanford.edu/entries/logical-atomism/#WorkRuss)
-  * [二手文献](https://plato.stanford.edu/entries/logical-atomism/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/logical-atomism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logical-atomism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/logical-atomism/#Rel)
-
+ 
 ***
 
 ## 1. 引言

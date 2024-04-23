@@ -2,38 +2,7 @@
 *首次发表于2013年3月7日；实质修订于2023年8月17日*
 
 逻辑学和概率论是形式推理研究中的两个主要工具，已经在哲学、人工智能、认知科学和数学等各个领域得到了富有成果的应用。本文讨论了将逻辑学和概率论结合的主要提议，并试图对这个快速发展的领域中的各种方法进行分类。
-
-* [1. 将逻辑学和概率论结合](https://plato.stanford.edu/entries/logic-probability/#CombLogiProbTheo)
-* [2. 命题概率逻辑学](https://plato.stanford.edu/entries/logic-probability/#PropProbLogi)
-
-  * [2.1 概率语义学](https://plato.stanford.edu/entries/logic-probability/#ProbSema)
-  * [2.2 亚当斯的概率逻辑学](https://plato.stanford.edu/entries/logic-probability/#AdamProbLogi)
-  * [2.3 进一步的概括](https://plato.stanford.edu/entries/logic-probability/#FurtGene)
-* [3. 基本概率运算符](https://plato.stanford.edu/entries/logic-probability/#BasiProbOper)
-
-  * [3.1 不确定性的定性表示](https://plato.stanford.edu/entries/logic-probability/#QualReprUnce)
-  * [3.2 概率术语的求和和乘积](https://plato.stanford.edu/entries/logic-probability/#SumsProdProbTerm)
-* [4. 模态概率逻辑学](https://plato.stanford.edu/entries/logic-probability/#ModaProbLogi)
-
-  * [4.1 基本有限模态概率模型](https://plato.stanford.edu/entries/logic-probability/#BasiFiniModaProbMode)
-  * [4.2 索引和解释](https://plato.stanford.edu/entries/logic-probability/#IndeInte)
-  * [ 4.3 概率空间](https://plato.stanford.edu/entries/logic-probability/#ProbSpac)
-  * [4.4 结合定量和定性不确定性](https://plato.stanford.edu/entries/logic-probability/#CombQuanQualUnce)
-  * [4.5 对定量和定性相互作用的约束](https://plato.stanford.edu/entries/logic-probability/#ConsQuanQualInte)
-  * [ 4.6 动力学](https://plato.stanford.edu/entries/logic-probability/#Dyna)
-* [5. 第一阶概率逻辑学](https://plato.stanford.edu/entries/logic-probability/#FirsOrdeProbLogi)
-
-  * [5.1 第一阶概率逻辑学的一个例子](https://plato.stanford.edu/entries/logic-probability/#ExamFirsOrdeProbLogi)
-
-    * [5.1.1 对多个变量进行量化](https://plato.stanford.edu/entries/logic-probability/#QuanOverThanOneVari)
-    * [5.1.2 条件概率](https://plato.stanford.edu/entries/logic-probability/#CondProb)
-    * [5.1.3 作为术语的概率](https://plato.stanford.edu/entries/logic-probability/#ProbTerm)
-  * [5.2 可能世界一阶概率逻辑](https://plato.stanford.edu/entries/logic-probability/#PossWorlFirsOrdeProbLogi)
-  * [ 5.3 元逻辑](https://plato.stanford.edu/entries/logic-probability/#Meta)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-probability/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-probability/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-probability/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-probability/#Rel)
+ 
 
 ---
 

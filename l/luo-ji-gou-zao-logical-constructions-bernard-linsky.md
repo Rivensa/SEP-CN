@@ -7,27 +7,7 @@
 直到 1924 年的纲领性论文《逻辑原子主义》中，罗素才首次将各种逻辑定义和哲学分析称为“逻辑构造”。他列举了一些例子，如弗雷格-罗素对数字的定义、确定描述的理论、从感觉数据和序列构建物质，以及序数和实数。由于罗素对表达类的“上下文”定义的特殊性质，以及确定描述理论的独特性质，他经常将这些实体的表达称为“不完全符号”，将这些实体本身称为“逻辑虚构”。
 
 逻辑构造在是否涉及明确定义或情境定义以及其结果被描述为构造对象仅仅是“虚构”这一方面存在差异。罗素在 1901 年将数字定义为等势类的类别，明确定义了一种实体作为其他实体的类别的情况。这之后，他在 1905 年提出了确定描述的理论，并在 1910 年的《数学原理》中提出了定义类别的“无类别”理论，这两者都涉及到了情境定义的独特技术。在情境定义中，明显的特定术语（无论是确定描述还是类别术语）通过定义它们所出现的整个句子的规则而被消除。通常称之为“不完全符号”的构造类似于使用情境定义的构造，而类似于类别理论的构造被称为“虚构”。罗素在他 1924 年的列表末尾将物质、空间和时间的构造作为感知数据的类别。解释逻辑构造的主要问题是理解这些不同的例子有什么共同之处，以及物质的构造如何与早期的数字构造、确定描述的理论和“无类别”类别理论相比。对于分析熟悉的物理世界和占据其中的物质对象的基本特征，都不适合使用“虚构”、“不完全符号”甚至“由...构造”的表达方式。
-
-* [ 1. 诚实的劳动](https://plato.stanford.edu/entries/logical-construction/#HoneToil)
-* [2. 逻辑分析与逻辑构造](https://plato.stanford.edu/entries/logical-construction/#LogiAnalLogiCons)
-* [ 3. 自然数](https://plato.stanford.edu/entries/logical-construction/#NatuNumb)
-* [4. 明确描述](https://plato.stanford.edu/entries/logical-construction/#DefiDesc)
-* [ 5. 类](https://plato.stanford.edu/entries/logical-construction/#Clas)
-* [6. 系列，序数和实数](https://plato.stanford.edu/entries/logical-construction/#SeriOrdiNumbRealNumb)
-* [7. 数学函数](https://plato.stanford.edu/entries/logical-construction/#MathFunc)
-* [8. 命题和命题函数](https://plato.stanford.edu/entries/logical-construction/#PropPropFunc)
-* [9. 物质、空间和时间的构造](https://plato.stanford.edu/entries/logical-construction/#ConsMattSpacTime)
-* [10. 从逻辑构造到测量理论](https://plato.stanford.edu/entries/logical-construction/#LogiConsMeasTheo)
-* [11. 逻辑构造的继承者](https://plato.stanford.edu/entries/logical-construction/#SuccLogiCons)
-* [ 参考文献](https://plato.stanford.edu/entries/logical-construction/#Bib)
-
-  * [主要文献：罗素的著作](https://plato.stanford.edu/entries/logical-construction/#PrimLiteWorkRuss)
-  * [主要文献：怀特海德的著作](https://plato.stanford.edu/entries/logical-construction/#PrimLiteWorkWhit)
-  * [主要文献：N. Wiener 的著作](https://plato.stanford.edu/entries/logical-construction/#PrimLiteWorkNWien)
-  * [ 二手文献](https://plato.stanford.edu/entries/logical-construction/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/logical-construction/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logical-construction/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logical-construction/#Rel)
+ 
 
 ---
 

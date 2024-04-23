@@ -30,44 +30,7 @@ _首次发表于2006年2月7日；实质性修订于2021年3月11日。_
 作为逻辑学的一个分支，道义逻辑出于一些与模态逻辑（必然性和可能性的逻辑）相同的理论兴趣。此外，虽然我们需要谨慎地将道义逻辑与实用性联系起来，但上述许多概念通常被用于试图调节和协调我们的生活。因此，道义逻辑经常直接涉及具有相当实际意义的主题，如道德、法律、社会和商业组织（它们的规范以及规范性构成）以及安全系统。在这种程度上，研究具有如此实际意义的概念的逻辑为道义逻辑本身增加了实际意义。然而，在本文中，我们将重点关注道义逻辑本身，而不是其应用和实际相关性。
 
 在本条目的第 1 节中，我们注意到我们上面的初始列表中的前六个概念之间的某些简单形式关系，遵循比较（和对比）基本道义概念（例如，义务、许可）与模态概念（例如，必然性和可能性）的许多世纪的传统。在第 2 节中，我们转向一个基准的符号道义逻辑系统，这个系统很快成为一个参考点。在第 3 节中，我们研究了一个密切相关的方法，通过将道义概念“简化”为纯粹的模态概念和所谓的“道义常数”来重新构建它们。从某种意义上说，第 2 节和第 3 节讨论的方法可以说是站在模态逻辑的阴影下。在第 4 节中，我们转向道义逻辑中出现的试图应对条件化道义主张的发展，而在这里，道义逻辑更加充分地展现出自己的特点。在第 5 节和第 6 节中，我们转向在第 1-4 节中引入的基准系统中的各种被认为是不足的地方。第 5 节主要关注于论证和指定基准系统中有限表达资源的扩展。最后，第 6 节不是扩展基准方法，而是提出了它们所声称代表的思想建模中的根本缺陷，从而试图解构一些系统的原则和/或构建新的系统来代替它们。
-
-* [1. 非正式的前提和背景](https://plato.stanford.edu/entries/logic-deontic/#InfoPrelBack)
-  * [1.1 一些关于真理模态逻辑的非正式基础](https://plato.stanford.edu/entries/logic-deontic/#SomeInfoRudiAletModaLogi)
-  * [1.2 传统方案和模态类比](https://plato.stanford.edu/entries/logic-deontic/#TradScheModaAnal)
-* [2. 标准道义逻辑](https://plato.stanford.edu/entries/logic-deontic/#StanDeonLogi)
-  * [2.1 SDL 语法](https://plato.stanford.edu/entries/logic-deontic/#SDLSynt)
-  * [2.2 传统方案再审视](https://plato.stanford.edu/entries/logic-deontic/#TradScheRevi)
-  * [2.3 SDL 语义学](https://plato.stanford.edu/entries/logic-deontic/#SDLSema)
-* [3. 安德森-康格-莱布尼兹约简](https://plato.stanford.edu/entries/logic-deontic/#AndeKangLeibRedu)
-  * [3.1 语法](https://plato.stanford.edu/entries/logic-deontic/#Synt)
-  * [3.2 语义](https://plato.stanford.edu/entries/logic-deontic/#Sema)
-* [4. 条件义务和奇斯霍姆之谜](https://plato.stanford.edu/entries/logic-deontic/#CondObliChisPuzz)
-  * [4.1 Chisholm 的难题和 SDL](https://plato.stanford.edu/entries/logic-deontic/#ChisPuzzSDL)
-  * [4.2 两种推理和两种丰富 SDL 的方式](https://plato.stanford.edu/entries/logic-deontic/#TwoTypeDetaTwoWaysEnriSDL)
-* [5. SDL 的其他丰富解释](https://plato.stanford.edu/entries/logic-deontic/#OtheEnriSDL)
-  * [5.1. 超额履行和相关规范概念](https://plato.stanford.edu/entries/logic-deontic/#SupeAlliNormConc)
-    * [5.1.1 可选性 vs. 冷漠](https://plato.stanford.edu/entries/logic-deontic/#OptiVsIndi)
-    * [5.1.2 必须 vs. 应该](https://plato.stanford.edu/entries/logic-deontic/#MustVsOugh)
-    * [5.1.3 最低限度的行为](https://plato.stanford.edu/entries/logic-deontic/#LeasOneDo)
-    * [5.1.4 道义和可容忍的次优行为](https://plato.stanford.edu/entries/logic-deontic/#SupePermSubo)
-  * [5.2 道义逻辑和行动机构](https://plato.stanford.edu/entries/logic-deontic/#DeonLogiAgen)
-    * [5.2.1 机构作为一种情态运算符](https://plato.stanford.edu/entries/logic-deontic/#AgenModaOper)
-    * [5.2.2 麦农-奇斯霍姆约简](https://plato.stanford.edu/entries/logic-deontic/#MeinChisRedu)
-    * [5.2.3 规范立场](https://plato.stanford.edu/entries/logic-deontic/#NormPosi)
-    * [5.2.4 对梅农-奇斯霍姆分析的挑战](https://plato.stanford.edu/entries/logic-deontic/#ChalMeinChisAnal)
-    * [5.2.5 道义补语](https://plato.stanford.edu/entries/logic-deontic/#DeonComp)
-  * [5.3 其他模态性](https://plato.stanford.edu/entries/logic-deontic/#OtheModa)
-* [6. 修订道义逻辑的基础](https://plato.stanford.edu/entries/logic-deontic/#ReviFounDeonLogi)
-  * [6.1. Jörgensen 的困境和道义逻辑的程序语义](https://plato.stanford.edu/entries/logic-deontic/#JorgDileProcSemaForDeonLogi)
-  * [6.2 道义逻辑和行动](https://plato.stanford.edu/entries/logic-deontic/#DeonLogiActi)
-  * [6.3 拒绝 SDL 的核心原则：OB-NEC 和 OB-RM](https://plato.stanford.edu/entries/logic-deontic/#RejeCorePrinSDLOBNECOBRM)
-  * [6.4 道义困境和容忍冲突的道义逻辑：拒绝 NC](https://plato.stanford.edu/entries/logic-deontic/#DeonDileConfToleDeonLogiRejeNC)
-  * [6.5 道义情态的超强内涵性和真值生成语义](https://plato.stanford.edu/entries/logic-deontic/#HypeDeonModaTrutSema)
-* [7. 结论](https://plato.stanford.edu/entries/logic-deontic/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/logic-deontic/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/logic-deontic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-deontic/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/logic-deontic/#Rel)
+ 
 
 ***
 

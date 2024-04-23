@@ -4,19 +4,7 @@
 
 混合逻辑是通过为普通模态逻辑增加进一步的表达能力而产生的逻辑学。最基本的混合逻辑是通过添加所谓的名词来获得的，这些名词是一种新类型的命题符号，每个符号在恰好一个可能世界中为真。混合逻辑的历史可以追溯到 1960 年代亚瑟·N·普赖尔的工作。
 
-* [1. 对混合逻辑的动机](https://plato.stanford.edu/entries/logic-hybrid/#MotHybLog)
-* [ 2. 形式语义学](https://plato.stanford.edu/entries/logic-hybrid/#ForSem)
-* [ 3. 翻译](https://plato.stanford.edu/entries/logic-hybrid/#Tra)
-* [4. Arthur N. Prior 和混合逻辑学](https://plato.stanford.edu/entries/logic-hybrid/#ArtPriHybLog)
-* [5. Prior 以来混合逻辑学的发展](https://plato.stanford.edu/entries/logic-hybrid/#DevHybLogSinPri)
-* [6. 混合逻辑的公理](https://plato.stanford.edu/entries/logic-hybrid/#ProMetHybLog1)
-* [7. 混合逻辑的分析证明方法](https://plato.stanford.edu/entries/logic-hybrid/#ProMetHybLog2)
-* [8. 量化混合逻辑](https://plato.stanford.edu/entries/logic-hybrid/#QuanHybrLogi)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-hybrid/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-hybrid/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-hybrid/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-hybrid/#Rel)
-
+ 
 ---
 
 ## 1. 混合逻辑的动机

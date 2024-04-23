@@ -6,33 +6,7 @@
 
 在洛伦岑和洛伦茨传统中，对话逻辑使用游戏和论证理论的概念，为意义和推理提供了一种实用主义的方法，这种方法是在两个玩家对一个给定命题进行争论的互动过程中形成的。游戏规则允许这些玩家质疑对方的陈述或为自己的陈述辩护，以一种在有限次数的移动后一个玩家获胜而另一个玩家失败的方式。逻辑常量的意义由一组交互规则（局部规则）和对话等效的证明构造提供，通过这些构造可以显示出无论对方的移动如何，一个玩家都可以获胜（获胜策略）。因此，逻辑常量的对话意义和证明的对话观念都是通过互动来构成的。
 
-* [1. 对话逻辑简要概述](https://plato.stanford.edu/entries/logic-dialogical/#BrieOverDialLogi)
-* [2. 博弈语义的洛伦森和洛伦茨传统的标准对话框架](https://plato.stanford.edu/entries/logic-dialogical/#StanDialFramLoreLoreTrad)
-
-  * [2.1 标准对话框架中的直觉逻辑](https://plato.stanford.edu/entries/logic-dialogical/#IntuLogiStanDialFram)
-
-    * [2.1.1 游戏规则：游戏层级](https://plato.stanford.edu/entries/logic-dialogical/#RuleGamePlayLeve)
-    * [2.1.2 策略层次](https://plato.stanford.edu/entries/logic-dialogical/#StraLeve)
-    * [ 2.1.3 形式性](https://plato.stanford.edu/entries/logic-dialogical/#Form)
-  * [2.2 对话框架中的其他逻辑：对话多元主义](https://plato.stanford.edu/entries/logic-dialogical/#OtheLogiDialFramDialPlur)
-
-    * [2.2.1 博弈语义中的经典一阶逻辑对话](https://plato.stanford.edu/entries/logic-dialogical/#DialForClasFirsOrdeLogi)
-    * [2.2.2 博弈语义中的基本模态逻辑对话](https://plato.stanford.edu/entries/logic-dialogical/#DialForBasiModaLogi)
-    * [2.2.3 博弈语义框架中其他逻辑的文献资料](https://plato.stanford.edu/entries/logic-dialogical/#LiteOtheLogiDialFram)
-* [3. 标准对话框架的变体](https://plato.stanford.edu/entries/logic-dialogical/#VariStanDialFram)
-
-  * [3.1 对标准对话框架的反对意见](https://plato.stanford.edu/entries/logic-dialogical/#ObjeAgaiStanDialFram)
-  * [3.2 内在推理](https://plato.stanford.edu/entries/logic-dialogical/#ImmaReas)
-
-    * [3.2.1 通过使用本地原因使一切明确化](https://plato.stanford.edu/entries/logic-dialogical/#MakiEverExplUsinLocaReas)
-    * [3.2.2 本地规则和一个例子](https://plato.stanford.edu/entries/logic-dialogical/#LocaRuleExam)
-    * [3.2.3 形成对话](https://plato.stanford.edu/entries/logic-dialogical/#FormDial)
-    * [3.2.4 材料对话](https://plato.stanford.edu/entries/logic-dialogical/#MateDial)
-  * [3.3 内置对手](https://plato.stanford.edu/entries/logic-dialogical/#BuilOppo)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-dialogical/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-dialogical/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-dialogical/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-dialogical/#Rel)
+ 
 
 ---
 

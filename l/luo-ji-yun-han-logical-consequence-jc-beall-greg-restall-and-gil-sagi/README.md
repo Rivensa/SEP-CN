@@ -14,24 +14,7 @@
 
 我们应该注意，我们只强调逻辑蕴含的一些哲学方面，几乎不涉及任何技术细节，也不涉及大量关于这个主题的哲学争论。我们这样做的理由是，通过研究具体的逻辑学——具体的逻辑蕴含理论（例如相关逻辑、次结构逻辑、非单调逻辑、动态逻辑、模态逻辑、量化理论等），人们可以了解到技术细节和激发它们的特定哲学问题。（此外，关于语言的几乎任何特征——句子的结构与形式、命题、上下文敏感性、意义，甚至真理——都与逻辑蕴含的争论相关，使得详尽讨论几乎不可能。）我们在这里的目的只是简要涉及一些对逻辑蕴含至关重要的基本问题。
 
-* [1. 演绎和归纳蕴含](https://plato.stanford.edu/entries/logical-consequence/#DeduInduCons)
-* [2. 形式和实质蕴含](https://plato.stanford.edu/entries/logical-consequence/#FormMateCons)
-* [3. 数学工具：模型与证明](https://plato.stanford.edu/entries/logical-consequence/#MathToolModeProo)
-
-  * [3.1 逻辑蕴含的模型论解释](https://plato.stanford.edu/entries/logical-consequence/#ModeTheoAccoLogiCons)
-  * [3.2 逻辑蕴含的证明论解释](https://plato.stanford.edu/entries/logical-consequence/#ProoTheoAccoLogiCons)
-  * [3.3 模型与证明之间](https://plato.stanford.edu/entries/logical-consequence/#BetwModeProo)
-* [4. 前提和结论](https://plato.stanford.edu/entries/logical-consequence/#PremConc)
-* [5. 一个还是多个？](https://plato.stanford.edu/entries/logical-consequence/#OneMany)
-* [ 参考文献](https://plato.stanford.edu/entries/logical-consequence/#Bib)
-
-  * [逻辑蕴含的历史](https://plato.stanford.edu/entries/logical-consequence/#HistLogiCons)
-  * [20 世纪的发展](https://plato.stanford.edu/entries/logical-consequence/#ThCentDeve)
-  * [逻辑蕴含的哲学](https://plato.stanford.edu/entries/logical-consequence/#PhilLogiCons)
-* [ 学术工具](https://plato.stanford.edu/entries/logical-consequence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logical-consequence/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logical-consequence/#Rel)
-
+ 
 ---
 
 ## 1. 演绎和归纳的蕴含

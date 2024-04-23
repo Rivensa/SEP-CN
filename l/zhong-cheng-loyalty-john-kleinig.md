@@ -4,30 +4,7 @@
 
 忠诚通常被视为一种美德，尽管它是一个有问题的美德。它主要由对一个人作为其身份的一部分而内在承诺的组织的坚持构成。它的典型表达可以在亲密友谊中找到，忠诚是其不可或缺的一部分，但许多其他关系和组织也试图鼓励它作为隶属或成员资格的一个方面：家庭期望它，组织经常要求它，国家尽力培养它。一个人是否也可以对原则或其他抽象事物忠诚？派生地，关于忠诚的讨论中存在两个关键问题，即它作为一种美德的地位以及如果承认这种地位，忠诚应该受到的限制。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/loyalty/#Intr)
-
-  * [ 1.1 背景](https://plato.stanford.edu/entries/loyalty/#Back)
-  * [ 1.2 根源](https://plato.stanford.edu/entries/loyalty/#Root)
-* [2. 忠诚的本质](https://plato.stanford.edu/entries/loyalty/#NatuLoya)
-
-  * [2.1 一种实践性的倾向还是仅仅是一种情感？](https://plato.stanford.edu/entries/loyalty/#PracDispOnlySent)
-* [3. 忠诚的结构](https://plato.stanford.edu/entries/loyalty/#StruLoya)
-
-  * [3.1 忠诚与忠诚度](https://plato.stanford.edu/entries/loyalty/#LoyaLoya)
-  * [3.2 忠诚本质上具有排他性吗？](https://plato.stanford.edu/entries/loyalty/#LoyaInheExcl)
-  * [3.3 通用主义和特殊主义](https://plato.stanford.edu/entries/loyalty/#UnivPart)
-  * [3.4 忠诚的主体](https://plato.stanford.edu/entries/loyalty/#SubjLoya)
-  * [3.5 忠诚的客体](https://plato.stanford.edu/entries/loyalty/#ObjeLoya)
-* [4. 忠诚作为一种美德](https://plato.stanford.edu/entries/loyalty/#LoyaVirt)
-* [ 5. 为忠诚辩护](https://plato.stanford.edu/entries/loyalty/#JustLoya)
-* [6. 限制忠诚](https://plato.stanford.edu/entries/loyalty/#LimiLoya)
-
-  * [ 6.1 吹哨行为](https://plato.stanford.edu/entries/loyalty/#WhisBlow)
-* [ 参考文献](https://plato.stanford.edu/entries/loyalty/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/loyalty/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/loyalty/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/loyalty/#Rel)
-
+ 
 ---
 
 ## 1. 引言

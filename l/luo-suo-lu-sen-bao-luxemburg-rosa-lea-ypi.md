@@ -5,21 +5,7 @@
 罗莎·卢森堡（1871-1919），被她的一位同事描述为“马克思和恩格斯科学继承人中最杰出的智力”（Fröhlich 1940/2010: 153，引用Neue Zeit中的Franz Mehring），是马克思主义历史上最原创和最有影响力的思想家之一。她的生活和作品以知识的深度和政治的正直的独特结合而脱颖而出，她能够将深刻的理论洞察力与敏锐的政治眼光相结合，发展出既是激进行动又是知识的能力。
 
 罗莎·卢森堡以她对一些最重要的经济和政治辩论的贡献而闻名，这些辩论塑造了社会主义思想的发展：对资本主义的批判和资本积累的动力，全球化的发展及其与殖民主义和帝国主义的关系，国家自决的限制，革命与民主的关系，议会改革的挑战，罢工和工会在政治组织中的作用，政党，对自由主义女权主义的批判，对种族主义与资本主义剥削的分析。她捍卫自由，理解为个人和集体自治的形式，只有在民主社会主义社会中才能完全实现，并为此献出了自己的生命。她在对资本主义和官僚威权主义社会主义的批判上都是毫不妥协的。因此，她的遗产被西方马克思主义者和对她的资本主义危机理论和对社会民主主义的激进批判感兴趣的社会主义国家所挪用（和扭曲）。在传统社会民主党的选举衰退和极右翼对陷入危机的自由政治机构的崛起的背景下，卢森堡的工作得到了显著复兴。它仍然是对全球政治经济的批判的重要来源，是对民主和革命思考的最复杂的尝试之一，并且是一个持续的灵感来源，用于反思社会主义解放的意义超越国界。
-
-* [ 1. 生平](https://plato.stanford.edu/entries/luxemburg/#Life)
-* [2. 社会改革还是革命](https://plato.stanford.edu/entries/luxemburg/#SociRefoRevo)
-* [3. 政治经济学批判](https://plato.stanford.edu/entries/luxemburg/#CritPoliEcon)
-* [4. 反帝国主义和民族自决](https://plato.stanford.edu/entries/luxemburg/#AntiImpeNatiSelfDete)
-* [5. 政治组织](https://plato.stanford.edu/entries/luxemburg/#PoliOrga)
-* [ 6. 妇女解放](https://plato.stanford.edu/entries/luxemburg/#WomeEman)
-* [7. 影响和遗产](https://plato.stanford.edu/entries/luxemburg/#InflLega)
-* [ 参考文献](https://plato.stanford.edu/entries/luxemburg/#Bib)
-
-  * [主要文献：罗莎·卢森堡的著作](https://plato.stanford.edu/entries/luxemburg/#PrimLiteWorkRosaLuxe)
-  * [ 二手文献](https://plato.stanford.edu/entries/luxemburg/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/luxemburg/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/luxemburg/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/luxemburg/#Rel)
+ 
 
 ---
 

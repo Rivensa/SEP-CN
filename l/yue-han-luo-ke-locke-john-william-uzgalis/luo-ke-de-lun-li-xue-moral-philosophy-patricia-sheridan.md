@@ -4,28 +4,7 @@
 
 约翰·洛克最伟大的哲学著作《人类理解论》通常被视为十七世纪经验主义认识论和形而上学的定义性著作。这部作品中发展的道德哲学很少被人们进行批判性分析，被洛克思想的许多学者认为过于晦涩和混乱，不能太过认真地对待。这种观点不仅被许多评论家认为是不完整的，而且它带有一定程度的理性主义，这与我们对洛克作为他那个时期的经验主义者的形象是不一致的。虽然洛克在《人类理解论》中对道德的讨论并不像他的其他观点那样发展得很好，但有理由认为道德是这部伟大作品的驱动关注点。对洛克来说，道德是除了数学之外，人类推理可以达到合理确定性水平的领域。对洛克来说，人类的理性在理解自然世界和人类思维的运作方面可能是薄弱的，但它恰好适合于弄清楚人类的道德责任。通过研究洛克的道德哲学，正如它在《人类理解论》和他早期著作中的发展，我们对洛克在《人类理解论》中的动机有了更高度的赞赏，以及对洛克经验主义程度的更细致的理解。除此之外，洛克的道德哲学为我们提供了十七世纪自然法学说的一个重要范例，可能是当时主导的道德观。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/locke-moral/#Int)
-
-  * [1.1 洛克道德哲学之谜](https://plato.stanford.edu/entries/locke-moral/#PuzLocMor)
-  * [1.2 约翰·洛克道德哲学的批判性解释](https://plato.stanford.edu/entries/locke-moral/#CriIntLocMor)
-* [2. 约翰·洛克的自然法理论：道德义务的基础](https://plato.stanford.edu/entries/locke-moral/#LocNatLawTheBasMorObl)
-
-  * [2.1 道德作为自然法](https://plato.stanford.edu/entries/locke-moral/#MorNatLaw)
-  * [2.2 道德和目的论](https://plato.stanford.edu/entries/locke-moral/#MorTel)
-  * [2.3 道德作为演绎科学](https://plato.stanford.edu/entries/locke-moral/#MorDedSci)
-* [3. 道德动机 1：奖励和惩罚](https://plato.stanford.edu/entries/locke-moral/#MorMot1RewPun)
-
-  * [3.1 约翰·洛克的动机一般理论](https://plato.stanford.edu/entries/locke-moral/#LocGenTheMot)
-  * [3.2 约翰·洛克的道德动机理论](https://plato.stanford.edu/entries/locke-moral/#LocTheMorMot)
-* [4. 道德动机 2：道德的正义性](https://plato.stanford.edu/entries/locke-moral/#MorMot2RigMor)
-
-  * [4.1 约翰·洛克的信念伦理学](https://plato.stanford.edu/entries/locke-moral/#LocEthBel)
-  * [4.2 制裁的特殊角色](https://plato.stanford.edu/entries/locke-moral/#SpeRolSan)
-* [ 参考文献](https://plato.stanford.edu/entries/locke-moral/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/locke-moral/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/locke-moral/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/locke-moral/#Rel)
-
+ 
 ---
 
 ## 1. 引言

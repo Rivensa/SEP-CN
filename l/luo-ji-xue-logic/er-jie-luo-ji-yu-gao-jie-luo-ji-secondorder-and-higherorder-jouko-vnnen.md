@@ -4,40 +4,7 @@
 
 二阶逻辑在数学哲学中扮演着微妙的角色。它比一阶逻辑更强大，因为它将“对于所有属性”纳入语法中，而一阶逻辑只能说“对于所有元素”。同时，它可以说是比集合论更弱的，因为它的量词一次只能涵盖一个有限的域，而集合论则采用普遍主义的方法，其量词涵盖所有可能的域。这种比一阶逻辑更强大/比集合论更弱的二元性是一个活跃的辩论源泉，尤其因为集合论通常被认为是基于一阶逻辑的。二阶逻辑如何同时更强大和更弱？为了充分利用二阶逻辑的强度，并确切解释“对于所有属性”，人们早期提出了一个建议，即必须假设一个一阶集合论背景，以便充分利用二阶逻辑的强度和“对于所有属性”的确切解释。这似乎削弱了二阶逻辑的声称强度，以及其作为数学的主要基础的角色。它似乎还将二阶逻辑与二阶逻辑可能希望绕过的集合论方面联系起来：更高的无穷，独立结果以及找到新的令人信服的公理的困难。撇开哲学问题不谈，毫无疑问，并通过一系列有趣的结果得到证明，二阶逻辑是逻辑学家工具箱的重要组成部分。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/logic-higher-order/#Intr)
-* [2. 二阶逻辑的语法](https://plato.stanford.edu/entries/logic-higher-order/#SyntSecoOrdeLogi)
-* [3. 二阶逻辑的语义学](https://plato.stanford.edu/entries/logic-higher-order/#SemaSecoOrdeLogi)
-
-  * [3.1 二阶逻辑的 Ehrenfeucht-Fraïssé游戏](https://plato.stanford.edu/entries/logic-higher-order/#EhreFraiGameSecoOrdeLogi)
-* [4. 二阶公式的性质](https://plato.stanford.edu/entries/logic-higher-order/#PropSecoOrdeForm)
-* [5. 二阶逻辑的臭名昭著力量](https://plato.stanford.edu/entries/logic-higher-order/#InfaPoweSecoOrdeLogi)
-
-  * [5.1 将二阶逻辑与一阶逻辑区分开来](https://plato.stanford.edu/entries/logic-higher-order/#PuttDistBetwSecoFirsOrdeLogi)
-  * [5.2 完备性定理的崩溃](https://plato.stanford.edu/entries/logic-higher-order/#CollCompTheo)
-  * [5.3 “羊皮中的集合论”](https://plato.stanford.edu/entries/logic-higher-order/#SetTheoSheeClot)
-  * [5.4 二阶逻辑是否依赖选择公理？](https://plato.stanford.edu/entries/logic-higher-order/#DoesSecoOrdeLogiDepeAxioChoi)
-* [6. 二阶逻辑中真理的非绝对性](https://plato.stanford.edu/entries/logic-higher-order/#NonAbsoTrutSecoOrdeLogi)
-* [7. 二阶逻辑的模型理论](https://plato.stanford.edu/entries/logic-higher-order/#ModeTheoSecoOrdeLogi)
-
-  * [7.1 二阶可表征结构](https://plato.stanford.edu/entries/logic-higher-order/#SecoOrdeCharStru)
-  * [7.2 二阶逻辑与大基数](https://plato.stanford.edu/entries/logic-higher-order/#SecoOrdeLogiLargCard)
-  * [7.3 一般和亨金模型的模型理论](https://plato.stanford.edu/entries/logic-higher-order/#ModeTheoGeneHenkMode)
-* [ 8. 可决定性结果](https://plato.stanford.edu/entries/logic-higher-order/#DeciResu)
-* [9. 二阶逻辑的公理](https://plato.stanford.edu/entries/logic-higher-order/#AxioSecoOrdeLogi)
-
-  * [9.1 一般模型和亨金模型](https://plato.stanford.edu/entries/logic-higher-order/#GeneModeHenkMode)
-  * [9.2 无穷公理](https://plato.stanford.edu/entries/logic-higher-order/#AxioInfi)
-* [ 10. 一致性](https://plato.stanford.edu/entries/logic-higher-order/#Cate)
-* [11. 一阶与二阶之间的逻辑学](https://plato.stanford.edu/entries/logic-higher-order/#LogiBetwFirsSecoOrde)
-* [12. 高阶逻辑学与类型理论](https://plato.stanford.edu/entries/logic-higher-order/#HighOrdeLogiVisVisTypeTheo)
-* [13. 数学基础](https://plato.stanford.edu/entries/logic-higher-order/#FounMath)
-* [14. 二阶算术](https://plato.stanford.edu/entries/logic-higher-order/#SecoOrdeArit)
-* [15. 二阶集合论](https://plato.stanford.edu/entries/logic-higher-order/#SecoOrdeSetTheo)
-* [16. 有限模型论](https://plato.stanford.edu/entries/logic-higher-order/#FiniModeTheo)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-higher-order/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-higher-order/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-higher-order/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-higher-order/#Rel)
+ 
 
 ---
 

@@ -10,26 +10,7 @@
 
 最后一节，第 6 节，专门对经典逻辑是“唯一正确的逻辑”这一哲学立场进行了简要的考察。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/logic-classical/#Intr)
-* [ 2. 语言](https://plato.stanford.edu/entries/logic-classical/#Lang)
-
-  * [ 2.1 建构块](https://plato.stanford.edu/entries/logic-classical/#BuilBloc)
-  * [ 2.2 原子公式](https://plato.stanford.edu/entries/logic-classical/#AtomForm)
-  * [ 2.3 复合公式](https://plato.stanford.edu/entries/logic-classical/#CompForm)
-  * [2.4 语法特点](https://plato.stanford.edu/entries/logic-classical/#FeatSynt)
-* [ 3. 推导](https://plato.stanford.edu/entries/logic-classical/#Dedu)
-* [ 4. 语义学](https://plato.stanford.edu/entries/logic-classical/#Sema)
-* [ 5. 元理论](https://plato.stanford.edu/entries/logic-classical/#MetaTheo)
-* [6. 唯一正确的逻辑？](https://plato.stanford.edu/entries/logic-classical/#OneRighLogi)
-
-  * [6.1 经典一阶逻辑的竞争者](https://plato.stanford.edu/entries/logic-classical/#RivaClasFirsOrdeLogi)
-  * [6.2 经典一阶逻辑的子逻辑](https://plato.stanford.edu/entries/logic-classical/#SublClasFirsOrdeLogi)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-classical/#Bib)
-
-  * [ 进一步阅读](https://plato.stanford.edu/entries/logic-classical/#FurtRead)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-classical/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-classical/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-classical/#Rel)
+ 
 
 ---
 

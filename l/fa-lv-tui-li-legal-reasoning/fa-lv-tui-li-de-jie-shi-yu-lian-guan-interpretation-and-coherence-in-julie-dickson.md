@@ -7,26 +7,7 @@
 
 在对术语“法律推理”的范围进行简要澄清考虑之后，本条目首先讨论解释，然后讨论连贯性，并讨论了关于这些概念及其与法律的相关性的各种观点。在整个讨论过程中，重点放在解释和连贯性在法律推理中所起的作用，以及为什么有些人认为这些概念在法律推理中具有独特性。
 
-* [1. 法律理论家所指的“法律推理”是什么意思？](https://plato.stanford.edu/entries/legal-reas-interpret/#WhaDoLegTheMeaLegRea)
-* [2. 法律推理中解释的角色：](https://plato.stanford.edu/entries/legal-reas-interpret/#RolIntLegRea)
-
-  * [2.1 考虑到一些知识渊源](https://plato.stanford.edu/entries/legal-reas-interpret/#SomIntRooCon)
-  * [2.2 对解释性质的初步观点：连贯性与创造性](https://plato.stanford.edu/entries/legal-reas-interpret/#IniVieNatIntConCre)
-  * [2.3 将解释定位于法律推理中](https://plato.stanford.edu/entries/legal-reas-interpret/#LocIntLegRea)
-  * [2.4 一些分歧点](https://plato.stanford.edu/entries/legal-reas-interpret/#SomPoiDis)
-  * [2.5 解释：可取还是必要的？或者为什么法律推理是解释性的？](https://plato.stanford.edu/entries/legal-reas-interpret/#IntDesNecWhyLegReaInt)
-* [3. 法律推理中的连贯性角色：](https://plato.stanford.edu/entries/legal-reas-interpret/#RolCohLegRea)
-
-  * [3.1 何为连贯性？](https://plato.stanford.edu/entries/legal-reas-interpret/#WhaConCoh)
-  * [3.2 什么的连贯性？](https://plato.stanford.edu/entries/legal-reas-interpret/#CohWha)
-  * [3.3 法律推理中的连贯性：必要、充分还是可取？](https://plato.stanford.edu/entries/legal-reas-interpret/#CohLegReaNecSufDes)
-  * [3.4 为什么连贯性应在法律推理中发挥作用？](https://plato.stanford.edu/entries/legal-reas-interpret/#WhyShoCohPlaRolLegRea)
-  * [3.5 法律推理中的连贯性：全局还是局部？](https://plato.stanford.edu/entries/legal-reas-interpret/#CohLegReaGloLoc)
-* [ 参考文献](https://plato.stanford.edu/entries/legal-reas-interpret/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/legal-reas-interpret/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/legal-reas-interpret/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/legal-reas-interpret/#Rel)
-
+ 
 ---
 
 ## 1. 法律理论家所指的“法律推理”是什么意思？

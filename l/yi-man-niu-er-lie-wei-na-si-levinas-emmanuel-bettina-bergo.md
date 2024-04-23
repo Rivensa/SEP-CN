@@ -6,39 +6,7 @@ _首次发表于2006年7月23日，实质性修订于2019年8月7日。_
 
 一些评论家称列维纳斯的工作为伦理学的伦理学，其他人称之为元伦理学，而还有人敦促他的思想可以容纳许多伦理学理论，从直觉主义到理性主义（见下文）。无论如何，他的工作与三位哲学家进行了持续的批判性对话：胡塞尔、海德格尔和黑格尔。鉴于这些目标，以及像莫里斯·梅洛-庞蒂这样的哲学对话者，列维纳斯的哲学从一个扩大的生活体验概念和对胡塞尔悬置概念化技术的强大扩展开始，以揭示经验的本来面目。他还受到海德格尔对存在于世界中的解释学的影响。
 
-* [1. 生平和事业](https://plato.stanford.edu/entries/levinas/#LifeCare)
-* [2. 伊曼纽尔·列维纳斯哲学的主题阐述](https://plato.stanford.edu/entries/levinas/#ThemExpoLeviPhil)
-  * [2.1 哲学起源：《逃避》（1935 年）或超越作为逃避的需要](https://plato.stanford.edu/entries/levinas/#PhilBegiEsca1935TranNeedEsca)
-  * [2.2 中期著作：《存在与存在者》（1947 年）和《时间与他者》（1947 年）或超越的变化和存在的变奏](https://plato.stanford.edu/entries/levinas/#MiddWritExisExis1947TimeOthe1947InflTranVariBein)
-  * [2.3 “待客之论”: 全体性与无限 (1961) 或责任、超越与正义](https://plato.stanford.edu/entries/levinas/#TreaHospTotaInfi1961RespTranJust)
-    * [2.3.1 全体性与无限对伦理学理论的贡献](https://plato.stanford.edu/entries/levinas/#TotaInfiContEthiTheo)
-    * [2.3.2 作品的结构](https://plato.stanford.edu/entries/levinas/#StruWork)
-    * [2.3.3 时间、超越和社会性](https://plato.stanford.edu/entries/levinas/#TimeTranSoci)
-    * [2.3.4 存在、中介（家庭和国家）以及伦理学和政治学中的意志](https://plato.stanford.edu/entries/levinas/#BeinMediFamiStatWillEthiPoli)
-  * [2.4 超越而非存在，或超越本质（1974 年）：内在超越](https://plato.stanford.edu/entries/levinas/#OtheThanBeinBeyoEsse1974TranImma)
-    * [2.4.1 作品的结构](https://plato.stanford.edu/entries/levinas/#StruWork\1)
-    * [2.4.2 新的存在主义情绪和肉体记忆](https://plato.stanford.edu/entries/levinas/#NewExisMoodFlesMemo)
-    * [2.4.3 说和被说的事情](https://plato.stanford.edu/entries/levinas/#SayiSaid)
-    * [2.4.4 解释学与犹太哲学](https://plato.stanford.edu/entries/levinas/#HermJewiPhil)
-    * [2.4.5 第三方、他者性和政治](https://plato.stanford.edu/entries/levinas/#ThirPartIllePoli)
-  * [2.5 《除了存在之外》之后的论文和访谈：伦理与正义之间的张力](https://plato.stanford.edu/entries/levinas/#EssaInteAfteOtheThanBeinTensBetwEthiJust)
-* [3. 结论](https://plato.stanford.edu/entries/levinas/#ConcRema)
-* [参考文献](https://plato.stanford.edu/entries/levinas/#Bib)
-  * [伊曼纽尔·列维纳斯的引用作品](https://plato.stanford.edu/entries/levinas/#CiteWorkLevi)
-  * [伊曼纽尔·列维纳斯的其他作品](https://plato.stanford.edu/entries/levinas/#OtheWorkLevi)
-    * [伊曼纽尔·列维纳斯的其他哲学作品](https://plato.stanford.edu/entries/levinas/#OthePhilWorkLevi)
-    * [哲学论文和讲座集锦](https://plato.stanford.edu/entries/levinas/#CollPhilEssaLect)
-    * [伊曼纽尔·列维纳斯的其他塔木德著作和犹太教研究](https://plato.stanford.edu/entries/levinas/#OtheTalmWritStudJudaLevi)
-    * [伊曼纽尔·列维纳斯的其他英文著作集](https://plato.stanford.edu/entries/levinas/#OtheCollWorkLeviEngl)
-  * [二级文献](https://plato.stanford.edu/entries/levinas/#SecoLite)
-    * [参考书目和一致性](https://plato.stanford.edu/entries/levinas/#BiblConc)
-    * [文章和书籍](https://plato.stanford.edu/entries/levinas/#ArtiBook)
-  * [视频和音频文件](https://plato.stanford.edu/entries/levinas/#VideSounDocu)
-* [学术工具](https://plato.stanford.edu/entries/levinas/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/levinas/#Oth)
-  * [中心和网站](https://plato.stanford.edu/entries/levinas/#CentSite)
-  * [个人网站](https://plato.stanford.edu/entries/levinas/#PersWebs)
-* [相关条目](https://plato.stanford.edu/entries/levinas/#Rel)
+ 
 
 ***
 

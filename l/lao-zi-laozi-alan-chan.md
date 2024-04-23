@@ -10,18 +10,7 @@
 
 当《老子》因其深刻的洞察力和重要性而被公认为“经典”（经），在中国文学分类中获得了正典地位时，它获得了一个更崇高和解释性的标题，《道德经》（Tao-te ching），通常被翻译为“道德经典”。它对中国文化的影响是普遍的，超越了中国。它关注道或“道”，以及它如何通过“德”（德）表达，特别是通过文本所称的“自然”（自然）和“无为”（无为）。然而，这些概念是可以解释的。一些解释者认为它们是《老子》是一部深层的精神作品的证据，而其他人则强调它们对伦理学和/或政治哲学的贡献。解释《老子》需要仔细的解释重建，这既需要分析严谨性，也需要有见识的历史想象力。
 
-* [1.《老子》的故事](https://plato.stanford.edu/entries/laozi/#LaoSto)
-* [2.《老子》的日期和作者](https://plato.stanford.edu/entries/laozi/#DatAutLao)
-* [ 3. 文本传统](https://plato.stanford.edu/entries/laozi/#TexTra)
-* [ 4. 注释](https://plato.stanford.edu/entries/laozi/#Com)
-* [5. 老子的方法](https://plato.stanford.edu/entries/laozi/#AppLao)
-* [6. 道和德](https://plato.stanford.edu/entries/laozi/#DaoVir)
-* [7. 自然和无为](https://plato.stanford.edu/entries/laozi/#NatWuwei)
-* [ 参考文献](https://plato.stanford.edu/entries/laozi/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/laozi/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/laozi/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/laozi/#Rel)
-
+ 
 ---
 
 ## 1. 老子的故事

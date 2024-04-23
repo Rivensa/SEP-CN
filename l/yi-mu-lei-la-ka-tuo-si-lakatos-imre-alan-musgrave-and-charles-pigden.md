@@ -14,33 +14,7 @@
 
 注意：在提到伊姆雷·拉卡托斯的主要作品（以及波普尔的几部作品）时，我们使用了一套缩写词，而不是姓名/日期系统，希望这对读者更加明了。这些缩写词在参考文献中有解释。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/lakatos/#Life)
-
-  * [1.1 两个拉卡托斯的故事](https://plato.stanford.edu/entries/lakatos/#TaleTwoLaka)
-  * [1.2 生平与作品：第三世界和第二世界](https://plato.stanford.edu/entries/lakatos/#LifeWorkThirWorlSeco)
-  * [1.3 从斯大林主义革命者到科学方法论者](https://plato.stanford.edu/entries/lakatos/#StalRevoMethScie)
-* [2. 伊姆雷·拉卡托斯的重要观点](https://plato.stanford.edu/entries/lakatos/#LakaBigIdea)
-
-  * [2.1 反对数学形式主义](https://plato.stanford.edu/entries/lakatos/#AgaiFormMath)
-  * [2.2 在科学哲学中改进波普尔的观点](https://plato.stanford.edu/entries/lakatos/#ImprPoppScie)
-* [ 3. 作品](https://plato.stanford.edu/entries/lakatos/#Work)
-
-  * [3.1 证明与反驳 (1963–4, 1976)](https://plato.stanford.edu/entries/lakatos/#ProoRefu19631976)
-  * [3.2 “回归”与“复兴”](https://plato.stanford.edu/entries/lakatos/#RegrRena)
-  * [3.3 “归纳逻辑问题的变化” (1968)](https://plato.stanford.edu/entries/lakatos/#ChanProbInduLogi1968)
-  * [3.4 “伪证和科学研究计划的方法论” (1970)](https://plato.stanford.edu/entries/lakatos/#FalsMethScieReseProg1970)
-  * [3.5 “科学的历史及其合理重建” (1971)](https://plato.stanford.edu/entries/lakatos/#HistScieRatiReco1971)
-  * [3.6 “波普尔论划界和归纳” (1974)](https://plato.stanford.edu/entries/lakatos/#PoppDemaIndu)
-  * [3.7 “为什么哥白尼的研究计划取代了托勒密的？”（1976 年）](https://plato.stanford.edu/entries/lakatos/#WhyDidCopeReseProgSupePtol1976)
-* [4. 面包馅未成：拉卡托斯对决费耶阿本德](https://plato.stanford.edu/entries/lakatos/#MincUnmaLakaVersFeye)
-* [ 参考文献](https://plato.stanford.edu/entries/lakatos/#Bib)
-
-  * [ 伊姆雷·拉卡托斯的作品](https://plato.stanford.edu/entries/lakatos/#WorkLaka)
-  * [ 二手文献](https://plato.stanford.edu/entries/lakatos/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/lakatos/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lakatos/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/lakatos/#Rel)
-
+ 
 ---
 
 ## 1. 生活

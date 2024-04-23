@@ -8,43 +8,7 @@ _首次发表于2009年7月23日，实质性修订于2021年11月18日。_
 
 但他最重要的贡献在于形而上学。他的形而上学中的一个分支是他受休谟启发的关于法则的还原主义。他发展了一个他称之为“休谟随附性”的立场，这个理论认为除了局部自然属性的时空分布之外，现实中没有其他东西。他通过详细展示如何将法则、机会、反事实依赖、因果关系、倾向性和颜色定位在这个休谟拼图中来实现这一点。他形而上学的另一个分支是他的模态实在论。刘易斯认为，关于模态性的最佳理论假设了具体的可能世界。一个命题只有在这些世界中的一个上为真，它才是可能的。刘易斯在他最重要的著作《世界的多样性》中为这个观点辩护。此外，刘易斯还发展了一种关于个体模态属性如何思考的新方法，即对应物理论，并展示了这个理论如何解决了几个长期存在的关于模态属性的难题。
 
-* [1. 生平和影响](https://plato.stanford.edu/entries/david-lewis/#1)
-* [2. 惯例](https://plato.stanford.edu/entries/david-lewis/#2)
-  * [2.1 会议的分析](https://plato.stanford.edu/entries/david-lewis/#2.1)
-  * [2.2 语言的惯例](https://plato.stanford.edu/entries/david-lewis/#2.2)
-  * [2.3 后期修订](https://plato.stanford.edu/entries/david-lewis/#2.3)
-* [3. 反事实](https://plato.stanford.edu/entries/david-lewis/#3)
-  * [3.1 背景](https://plato.stanford.edu/entries/david-lewis/#3.1)
-  * [3.2 分析](https://plato.stanford.edu/entries/david-lewis/#3.2)
-  * [3.3 相似性](https://plato.stanford.edu/entries/david-lewis/#3.3)
-* [4. 心灵哲学](https://plato.stanford.edu/entries/david-lewis/#4)
-  * [4.1 Ramsey 句子](https://plato.stanford.edu/entries/david-lewis/#4.1)
-  * [4.2 为身份理论辩护](https://plato.stanford.edu/entries/david-lewis/#4.2)
-  * [4.3 疯子和火星人](https://plato.stanford.edu/entries/david-lewis/#4.3)
-  * [4.4 构成性合理性](https://plato.stanford.edu/entries/david-lewis/#4.4)
-  * [4.5 自我内容](https://plato.stanford.edu/entries/david-lewis/#4.5)
-  * [4.6 自然属性](https://plato.stanford.edu/entries/david-lewis/#4.6)
-* [5. 休谟式随附性](https://plato.stanford.edu/entries/david-lewis/#5)
-  * [5.1 法律和机会](https://plato.stanford.edu/entries/david-lewis/#5.1)
-  * [5.2 因果关系](https://plato.stanford.edu/entries/david-lewis/#5.2)
-  * [5.3 为什么是休谟式的随附性](https://plato.stanford.edu/entries/david-lewis/#5.3)
-* [6 模态形而上学](https://plato.stanford.edu/entries/david-lewis/#6)
-  * [6.1 哲学家的天堂](https://plato.stanford.edu/entries/david-lewis/#6.1)
-  * [6.2 天堂中的悖论？](https://plato.stanford.edu/entries/david-lewis/#6.2)
-  * [6.3 便宜的天堂？](https://plato.stanford.edu/entries/david-lewis/#6.3)
-  * [6.4 对应物还是双重生活？](https://plato.stanford.edu/entries/david-lewis/#6.4)
-* [7. 其他著作](https://plato.stanford.edu/entries/david-lewis/#7)
-  * [7.1 数学与部分论](https://plato.stanford.edu/entries/david-lewis/#7.1)
-  * [7.2 语言哲学](https://plato.stanford.edu/entries/david-lewis/#7.2)
-  * [7.3 贝叶斯哲学](https://plato.stanford.edu/entries/david-lewis/#7.3)
-  * [7.4 宗教哲学](https://plato.stanford.edu/entries/david-lewis/#7.4)
-  * [7.5 伦理学](https://plato.stanford.edu/entries/david-lewis/#7.5)
-  * [7.6 应用形而上学](https://plato.stanford.edu/entries/david-lewis/#7.6)
-* [参考文献](https://plato.stanford.edu/entries/david-lewis/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/david-lewis/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/david-lewis/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/david-lewis/#Rel)
-
+ 
 ***
 
 ## 1. 大卫·刘易斯的生活和影响

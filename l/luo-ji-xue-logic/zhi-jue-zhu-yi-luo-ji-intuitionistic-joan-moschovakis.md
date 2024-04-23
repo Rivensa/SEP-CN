@@ -7,31 +7,7 @@
 
 布劳尔拒绝了形式主义本身，但承认表达直觉上正确的构造的一般逻辑原则的潜在有用性，例如假言推理。Heyting [1930]、Gentzen [1935]和 Kleene [1952]完全发展了直觉命题逻辑和谓词逻辑以及算术的形式系统。Gödel [1933]证明了直觉主义和经典理论的等价性。Beth [1956]和 Kripke [1965]提供了一种语义，根据这种语义，直觉逻辑是正确和完备的，尽管直觉谓词逻辑的完备性证明需要一些经典推理。
 
-* [1. 拒绝第三中立](https://plato.stanford.edu/entries/logic-intuitionistic/#RejeTertNonDatu)
-* [2. 直觉主义一阶谓词逻辑](https://plato.stanford.edu/entries/logic-intuitionistic/#IntuFirsOrdePredLogi)
-
-  * [2.1 直觉主义形式系统 H-IPC 和 H-IQC](https://plato.stanford.edu/entries/logic-intuitionistic/#FormSystMathMath)
-  * [2.2 替代形式主义和演绎定理](https://plato.stanford.edu/entries/logic-intuitionistic/#AlteFormDeduTheo)
-* [3. 直觉主义数论（Heyting 算术）HA](https://plato.stanford.edu/entries/logic-intuitionistic/#IntuNumbTheoHeytAritMath)
-* [4. 基本证明理论](https://plato.stanford.edu/entries/logic-intuitionistic/#BasiProoTheo)
-
-  * [4.1 将经典逻辑翻译为直觉主义逻辑](https://plato.stanford.edu/entries/logic-intuitionistic/#TranClasIntuLogi)
-  * [4.2 直觉主义逻辑和算术的可接受规则](https://plato.stanford.edu/entries/logic-intuitionistic/#AdmiRuleIntuLogiArit)
-* [5. 基本语义学](https://plato.stanford.edu/entries/logic-intuitionistic/#BasiSema)
-
-  * [5.1 直觉主义逻辑的 Kripke 和 Beth 语义学](https://plato.stanford.edu/entries/logic-intuitionistic/#KripBethSemaForIntuLogi)
-  * [5.2 Heyting 算术的实现语义学](https://plato.stanford.edu/entries/logic-intuitionistic/#RealSemaForHeytArit)
-* [6. 其他主题和进一步阅读](https://plato.stanford.edu/entries/logic-intuitionistic/#AddiTopiFurtRead)
-
-  * [6.1 直觉主义和中间逻辑](https://plato.stanford.edu/entries/logic-intuitionistic/#SubiInteLogi)
-  * [6.2 基本直觉主义模态逻辑](https://plato.stanford.edu/entries/logic-intuitionistic/#BasiIntuModaLogi)
-  * [ 6.3 高级主题](https://plato.stanford.edu/entries/logic-intuitionistic/#AdvaTopi)
-  * [ 6.4 推荐阅读](https://plato.stanford.edu/entries/logic-intuitionistic/#RecoRead)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-intuitionistic/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-intuitionistic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-intuitionistic/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-intuitionistic/#Rel)
-
+ 
 ---
 
 ## 1. 拒绝第三非排中律

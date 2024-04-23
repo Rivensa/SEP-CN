@@ -5,55 +5,7 @@
 [编辑注：Ori Herstein 的以下新条目取代了之前作者关于这个主题的条目。]
 
 法律权利是法律中最基本和普遍的构建模块之一。本条目阐述了“法律权利”作为一个普遍概念，涵盖了所有权利（法律的、道德的或其他的）共同的特征，并展示了这些普遍特征如何在法律权利的具体实例中体现（第 3-5 节）。此外，本条目还详细阐述了一些与法律权利独特或特别突出的权利特征和类型（第 1-2 节，第 6-10 节）。虽然依赖于法律中具体权利的例子，但本条目并未涵盖哪些具体权利构成或应构成积极法律的范围。
-
-* [1. 法律权利的法律有效性和合理性证明](https://plato.stanford.edu/entries/legal-rights/#LegaValiJustLegaRigh)
-* [2. 法律权利是什么：方法论](https://plato.stanford.edu/entries/legal-rights/#WhatRighMeth)
-* [3. 法律权利是什么：形式](https://plato.stanford.edu/entries/legal-rights/#WhatRighForm)
-
-  * [3.1 法律权利的随附性分析](https://plato.stanford.edu/entries/legal-rights/#HohfAnalRigh)
-
-    * [ 3.1.1 法律权利](https://plato.stanford.edu/entries/legal-rights/#ClaiRigh)
-    * [3.1.2 特权（或自由）](https://plato.stanford.edu/entries/legal-rights/#PrivLibe)
-    * [ 3.1.3 权力](https://plato.stanford.edu/entries/legal-rights/#Powe)
-    * [ 3.1.4 免疫](https://plato.stanford.edu/entries/legal-rights/#Immu)
-    * [3.1.5 复杂的霍菲尔德权利](https://plato.stanford.edu/entries/legal-rights/#CompHohfRigh)
-  * [3.2 法律权利以进行法律错误](https://plato.stanford.edu/entries/legal-rights/#LegaRighDoLegaWron)
-  * [3.3 没有相应义务的主张权利](https://plato.stanford.edu/entries/legal-rights/#ClaiRighWithCorrDuti)
-  * [3.4 “对人”权利和“物权”权利](https://plato.stanford.edu/entries/legal-rights/#RighPersRighRem)
-* [4. 权利的本质：功能和价值](https://plato.stanford.edu/entries/legal-rights/#WhatRighFuncValu)
-
-  * [4.1 意愿理论](https://plato.stanford.edu/entries/legal-rights/#WillTheo)
-  * [4.2 利益理论](https://plato.stanford.edu/entries/legal-rights/#InteTheo)
-  * [4.3 需求理论](https://plato.stanford.edu/entries/legal-rights/#DemaTheo)
-* [5. 批评：权利对权利持有者的贬值](https://plato.stanford.edu/entries/legal-rights/#CritRighDisvRighHold)
-* [6. 法律权利在法律证明和推理中：结果和原因](https://plato.stanford.edu/entries/legal-rights/#LegaRighLegaJustReasOutcReas)
-* [7. 法律权利作为结果](https://plato.stanford.edu/entries/legal-rights/#LegaRighOutc)
-* [8. 法律权利作为理由](https://plato.stanford.edu/entries/legal-rights/#LegaRighReas)
-
-  * [8.1 法律权利作为优先理由](https://plato.stanford.edu/entries/legal-rights/#LegaRighPreeReas)
-  * [8.2 权利的严格性：绝对还是可废止的？](https://plato.stanford.edu/entries/legal-rights/#StriRighAbsoDefe)
-  * [8.3 法律权利作为直接（非优先）理由](https://plato.stanford.edu/entries/legal-rights/#LegaRighStraNonPreeReas)
-  * [8.4 权利作为义务的理由](https://plato.stanford.edu/entries/legal-rights/#RighReasForDuti)
-  * [8.5 法律权利的冲突](https://plato.stanford.edu/entries/legal-rights/#ConfRigh)
-  * [8.6 违反和侵犯法律权利的理由](https://plato.stanford.edu/entries/legal-rights/#ViolInfrLegaRighReas)
-* [9. 法律权利的道德正当性](https://plato.stanford.edu/entries/legal-rights/#MoraJustLegaRigh)
-
-  * [9.1 权利的功能和法律权利的道德正当性](https://plato.stanford.edu/entries/legal-rights/#FuncRighMoraJustLegaRigh)
-  * [9.2 法律权利和公共利益（或公共利益）](https://plato.stanford.edu/entries/legal-rights/#LegaRighCommGoodPublInte)
-  * [9.3 道德权利和法律权利的正当性](https://plato.stanford.edu/entries/legal-rights/#MoraRighJustLegaRigh)
-* [10. 随附法律权利的显著特征](https://plato.stanford.edu/entries/legal-rights/#FeatSaliLegaRigh)
-
-  * [10.1 法律权利](https://plato.stanford.edu/entries/legal-rights/#InstRigh)
-  * [ 10.2 程序性权利](https://plato.stanford.edu/entries/legal-rights/#ProcRigh)
-  * [ 10.3 不完全权利](https://plato.stanford.edu/entries/legal-rights/#ImpeRigh)
-  * [10.4 补救权利和诉讼权](https://plato.stanford.edu/entries/legal-rights/#RemeRighRighActi)
-* [ 参考书目](https://plato.stanford.edu/entries/legal-rights/#Bib)
-
-  * [ 参考文献](https://plato.stanford.edu/entries/legal-rights/#Refe)
-  * [ 法律权利来源](https://plato.stanford.edu/entries/legal-rights/#LegaSour)
-* [ 学术工具](https://plato.stanford.edu/entries/legal-rights/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/legal-rights/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/legal-rights/#Rel)
+ 
 
 ---
 

@@ -10,48 +10,7 @@
 
 第 1 节阐述了多类逻辑的基础知识，提供了一些例子，并解释了形式语言、结构和语义与经典逻辑的异同。第 2 节解释了如何修改一阶演算以获得多类版本；此外，还讨论了完备性，并提及了一些自动定理证明器。第 3 节描述了一个计划，其中多类逻辑作为一个通用框架用于翻译各种逻辑系统。第 4 节和第 5 节分别将这个计划应用于二阶逻辑和非经典逻辑（模态逻辑和动态逻辑）。最后，第 6 节对多类逻辑的进一步结果进行评论。
 
-* [1. 语法和语义](https://plato.stanford.edu/entries/logic-many-sorted/#SyntSema)
-
-  * [ 1.1 例子](https://plato.stanford.edu/entries/logic-many-sorted/#Exam)
-  * [ 1.2 基本思想](https://plato.stanford.edu/entries/logic-many-sorted/#FundIdea)
-  * [ 1.3 形式语言](https://plato.stanford.edu/entries/logic-many-sorted/#FormLang)
-  * [1.4 多类结构](https://plato.stanford.edu/entries/logic-many-sorted/#ManySortStru)
-  * [ 1.5 语义学](https://plato.stanford.edu/entries/logic-many-sorted/#Sema)
-* [ 2. 逻辑学](https://plato.stanford.edu/entries/logic-many-sorted/#Calc)
-
-  * [ 2.1 演绎演算](https://plato.stanford.edu/entries/logic-many-sorted/#DeduCalc)
-  * [2.2 完备性概念](https://plato.stanford.edu/entries/logic-many-sorted/#CompNoti)
-  * [2.3 多类逻辑的完备性](https://plato.stanford.edu/entries/logic-many-sorted/#CompManySortLogi)
-  * [2.4 自动定理证明器的完备性](https://plato.stanford.edu/entries/logic-many-sorted/#AutoTheoProv)
-* [3. 多类逻辑作为一个统一的框架](https://plato.stanford.edu/entries/logic-many-sorted/#ManySortLogiUnifFram)
-
-  * [ 3.1 翻译](https://plato.stanford.edu/entries/logic-many-sorted/#Tran)
-  * [3.2 基本模态语言的对应语言](https://plato.stanford.edu/entries/logic-many-sorted/#CorrLangForBasiModaLang)
-  * [ 3.3 总体计划](https://plato.stanford.edu/entries/logic-many-sorted/#GenePlan)
-  * [3.4 一级：表示定理](https://plato.stanford.edu/entries/logic-many-sorted/#LeveOneReprTheo)
-  * [3.5 二级：主要定理](https://plato.stanford.edu/entries/logic-many-sorted/#LeveTwoMainTheo)
-  * [3.6 第三层：演绎对应](https://plato.stanford.edu/entries/logic-many-sorted/#LeveThreDeduCorr)
-* [4. 多类逻辑中的二阶逻辑](https://plato.stanford.edu/entries/logic-many-sorted/#SecoOrdeLogiManySortLogi)
-
-  * [ 4.1 二阶逻辑](https://plato.stanford.edu/entries/logic-many-sorted/#SecoOrdeLogi)
-  * [4.2 公式的翻译和结构的转换](https://plato.stanford.edu/entries/logic-many-sorted/#TranFormConvStru)
-  * [4.3 关于 SOL 和 MSL 的语义定理](https://plato.stanford.edu/entries/logic-many-sorted/#SemaTheoRelaSOLMSL)
-  * [4.4 SOL 的正确性和完备性](https://plato.stanford.edu/entries/logic-many-sorted/#SounCompForSOL)
-* [5. 用第二阶外观翻译成多类逻辑](https://plato.stanford.edu/entries/logic-many-sorted/#TranManySortLogiSecoOrdeAppe)
-
-  * [ 5.1 总体计划](https://plato.stanford.edu/entries/logic-many-sorted/#GenePlan_1)
-  * [5.2 命题模态逻辑作为多类逻辑](https://plato.stanford.edu/entries/logic-many-sorted/#PropModaLogiManySortLogi)
-* [6. 进一步的结果](https://plato.stanford.edu/entries/logic-many-sorted/#FurtResu)
-
-  * [6.1 多类逻辑到一类逻辑的简化](https://plato.stanford.edu/entries/logic-many-sorted/#ReduManySortLogiOneSortLogi)
-  * [6.2 插值定理](https://plato.stanford.edu/entries/logic-many-sorted/#InteTheo)
-  * [6.3 解释性和理论等价性](https://plato.stanford.edu/entries/logic-many-sorted/#InteTheoEqui)
-  * [6.4 多类逻辑对分类逻辑的扩展](https://plato.stanford.edu/entries/logic-many-sorted/#ExteManySortLogiSortLogi)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-many-sorted/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-many-sorted/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-many-sorted/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-many-sorted/#Rel)
-
+ 
 ---
 
 ## 1. 语法和语义

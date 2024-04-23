@@ -13,36 +13,7 @@
 
 这三种立场绝不是互相不兼容的，但它们也不一定可以归约为彼此。这一点将在后面的条目中进行详细阐述，并且还将说明一些进一步的研究主题，但是为了预览这三种立场如何共存，可以以由几个部分组成的结构化信息系统为例。首先，部分之间的相关性自然地允许“信息流动”，即信息作为相关性立场的意义。其次，它们还产生了局部可能性范围，因为一个部分可用的局部信息将与系统的一定范围的全局状态兼容。第三，信息的组合、类似语法的证明论方面可以以各种方式应用于这种情境。其中一种方式是将信息的相关流动视为一种组合系统，通过这种系统，局部信息状态以类似语法的方式组合，适应了对子结构逻辑的特定解释。还可以明确地向建模中添加类似代码结构的元素，例如将局部演绎演算分配给组件或系统的局部状态。然而，我们首先从信息作为范围开始
 
-* [1. 信息作为范围](https://plato.stanford.edu/entries/logic-information/#SemInfRan)
-
-  * [ 1.1 认识论逻辑](https://plato.stanford.edu/entries/logic-information/#EpiLog)
-  * [1.2 动态认知逻辑，信息变化](https://plato.stanford.edu/entries/logic-information/#DynEpiLogInfCha)
-  * [1.3 定量方法](https://plato.stanford.edu/entries/logic-information/#QuaApp)
-* [2. 信息作为相关性：情境理论](https://plato.stanford.edu/entries/logic-information/#InfCorSitThe)
-
-  * [2.1 情境和支持信息](https://plato.stanford.edu/entries/logic-information/#SitSupInf)
-  * [2.2 信息流和约束](https://plato.stanford.edu/entries/logic-information/#InfFloCon)
-  * [2.3 分布式信息系统和通道理论](https://plato.stanford.edu/entries/logic-information/#DisInfSysChaThe)
-* [3. 信息作为代码](https://plato.stanford.edu/entries/logic-information/#InfCod)
-
-  * [3.1 类别信息理论](https://plato.stanford.edu/entries/logic-information/#CatInfThe)
-  * [3.2 子结构逻辑和信息流](https://plato.stanford.edu/entries/logic-information/#SubLogInfFlo)
-  * [ 3.3 相关方法](https://plato.stanford.edu/entries/logic-information/#RelApp)
-* [4. 方法之间的联系](https://plato.stanford.edu/entries/logic-information/#ConBetApp)
-
-  * [4.1 范围和相关性](https://plato.stanford.edu/entries/logic-information/#RanCor)
-  * [4.2 代码和相关性](https://plato.stanford.edu/entries/logic-information/#CodCor)
-  * [4.3 代码和范围](https://plato.stanford.edu/entries/logic-information/#CodRan)
-* [5. 特殊主题](https://plato.stanford.edu/entries/logic-information/#SpeTop)
-
-  * [5.1 信息结构和等价性](https://plato.stanford.edu/entries/logic-information/#InfStrEqu)
-  * [5.2 负信息](https://plato.stanford.edu/entries/logic-information/#NegInf)
-* [ 6. 结论](https://plato.stanford.edu/entries/logic-information/#Con)
-* [ 信息目录](https://plato.stanford.edu/entries/logic-information/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-information/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-information/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-information/#Rel)
-
+ 
 ---
 
 ## 1. 信息作为范围

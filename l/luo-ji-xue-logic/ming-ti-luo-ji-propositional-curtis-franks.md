@@ -21,48 +21,7 @@
 命题连接词是一种语言粒子，它将句子绑定在一起以创建一个新的复合句，或者屈折一个单独的句子以创建一个新的句子。在命题连接词中，命题连接词具有特征，即当它操作的原始句子是（或表达）命题时，其应用产生的新句子也是（或表达）命题。正如人们所期望的那样，关于命题是什么的理论有很多竞争性的理论，而命题逻辑起源于这场辩论之外的科学学科。因此，确定哪些语言粒子符合命题连接词的精确划分有些模糊甚至有争议。但是，一般的启发法则是，命题连接词必须从一些原始句子中创建一个同级别的新句子。直观地说，因为“A和B”只是对A和B的内容的肯定，而“非A”只是对A的内容的否定，所以“和”和“非”作为命题连接词。另一方面，“A是必要的”不是关于A的内容的主张，而是关于句子A本身的主张。同样，“A蕴含B”是关于句子A和B的主张，它们彼此之间存在蕴含关系，而不是关于A和B本身所主张的事物的主张。因此，必要性限定词和蕴含关系通常不被视为命题连接词，而是被视为情态操作符。在“如果A，则B”等表达中，条件运算符尚未达成共识：在某些分析中，它被视为命题连接词，但在其他分析中则不是。
 
 在呈现命题逻辑时，我们不会假设任何特定的命题理论。正如我们将看到的，只有当没有特定的命题概念存在时，命题逻辑的发展和多样性才能得到充分的认识。唯一的规定是连接词始终作用于整个句子，而不是作用于子句项，如谓词或术语，并且它们创建的句子与它们所作用的句子在同一评估类中，而不是关于该类句子的高阶表达式。
-
-* [ 1. 基本框架](https://plato.stanford.edu/entries/logic-propositional/#BasiFram)
-* [2. 经典解释](https://plato.stanford.edu/entries/logic-propositional/#ClasInte)
-
-  * [2.1 真值功能性](https://plato.stanford.edu/entries/logic-propositional/#TrutFunc)
-
-    * [ 2.1.1 正常形式](https://plato.stanford.edu/entries/logic-propositional/#NormForm)
-    * [2.1.2 真值功能完备性](https://plato.stanford.edu/entries/logic-propositional/#TrutFuncComp)
-    * [2.1.3 在开关电路中的实现](https://plato.stanford.edu/entries/logic-propositional/#RealSwitCirc)
-    * [2.1.4 材料条件](https://plato.stanford.edu/entries/logic-propositional/#MateCond)
-    * [ 2.1.5 可决定性](https://plato.stanford.edu/entries/logic-propositional/#Deci)
-    * [ 2.1.6 NP 完全性](https://plato.stanford.edu/entries/logic-propositional/#NPComp)
-    * [ 2.1.7 紧凑性](https://plato.stanford.edu/entries/logic-propositional/#Comp)
-  * [ 2.2 推理](https://plato.stanford.edu/entries/logic-propositional/#Dedu)
-
-    * [2.2.1 推导定理](https://plato.stanford.edu/entries/logic-propositional/#DeduTheo)
-    * [2.2.2 基本元理论](https://plato.stanford.edu/entries/logic-propositional/#BasiMetaTheo)
-
-      * [ 2.2.2.1 一致性](https://plato.stanford.edu/entries/logic-propositional/#Cons)
-      * [ 2.2.2.2 最大性](https://plato.stanford.edu/entries/logic-propositional/#Maxi)
-      * [ 2.2.2.3 完备性](https://plato.stanford.edu/entries/logic-propositional/#Comp_1)
-      * [2.2.2.4 半可决定性的完备性](https://plato.stanford.edu/entries/logic-propositional/#CompSemiDeci)
-      * [ 2.2.2.5 独立性](https://plato.stanford.edu/entries/logic-propositional/#Inde)
-  * [2.3 Gentzen 的演算](https://plato.stanford.edu/entries/logic-propositional/#GentCalc)
-
-    * [ 2.3.1 自然推理](https://plato.stanford.edu/entries/logic-propositional/#NatuDedu)
-    * [ 2.3.2 命题演算](https://plato.stanford.edu/entries/logic-propositional/#SequCalc)
-    * [2.3.3 构造完备性的 pk 和 pi](https://plato.stanford.edu/entries/logic-propositional/#ConsCompPkPi)
-* [3. 非经典解释](https://plato.stanford.edu/entries/logic-propositional/#NonClasInte)
-
-  * [ 3.1 多值逻辑学](https://plato.stanford.edu/entries/logic-propositional/#MultValuLogi)
-  * [ 3.2 构造逻辑学](https://plato.stanford.edu/entries/logic-propositional/#ConsLogi)
-  * [3.3 相关性和连通逻辑学](https://plato.stanford.edu/entries/logic-propositional/#ReleConnLogi)
-  * [ 3.4 线性逻辑](https://plato.stanford.edu/entries/logic-propositional/#LineLogi)
-* [ 参考书目](https://plato.stanford.edu/entries/logic-propositional/#Bib)
-
-  * [ 参考文献](https://plato.stanford.edu/entries/logic-propositional/#Refe)
-  * [ 更多阅读材料](https://plato.stanford.edu/entries/logic-propositional/#OtheRead)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-propositional/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-propositional/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-propositional/#Rel)
-
+ 
 ---
 
 ## 1. 基本框架

@@ -30,21 +30,7 @@ p→(q→p),¬p→(p→q),(p→q)∨(q→r).
 
 在本文中，我们将简要介绍相干逻辑领域，而且相对非技术性。
 
-* [1. 相干蕴涵的语义学](https://plato.stanford.edu/entries/logic-relevance/#Sem)
-* [2. 否定的语义学](https://plato.stanford.edu/entries/logic-relevance/#Neg)
-* [3. 量化的语义学](https://plato.stanford.edu/entries/logic-relevance/#Semquant)
-* [ 4. 证明理论](https://plato.stanford.edu/entries/logic-relevance/#ProThe)
-* [5. 相干逻辑的一些系统](https://plato.stanford.edu/entries/logic-relevance/#SysRelLog)
-* [6. 与主流相干逻辑密切相关的系统](https://plato.stanford.edu/entries/logic-relevance/#SysRatLog)
-* [7. 相干逻辑的应用和扩展](https://plato.stanford.edu/entries/logic-relevance/#AppRelLog)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-relevance/#Bib)
-
-  * [相干逻辑和该领域的介绍书籍](https://plato.stanford.edu/entries/logic-relevance/#BooRelLogIntFie)
-  * [ 其他引用的作品](https://plato.stanford.edu/entries/logic-relevance/#OthWorCit)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-relevance/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-relevance/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-relevance/#Rel)
-
+ 
 ---
 
 ## 1. 相干蕴涵的语义学

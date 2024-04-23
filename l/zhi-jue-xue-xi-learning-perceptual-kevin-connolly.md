@@ -6,34 +6,7 @@
 
 这篇文章分为三个部分。第一部分阐述了知觉学习的定义，即由实践或经验导致的感知中的长期变化，并将知觉学习与几个对比类别进行了区分。第二部分详细说明了不同类型的知觉学习。第三部分详细介绍了哲学文献中的知觉学习案例，并解释了它们在哲学上的重要性。
 
-* [1. 知觉学习的定义](https://plato.stanford.edu/entries/perceptual-learning/#DefiPercLear)
-
-  * [1.1 知觉学习作为长期知觉变化](https://plato.stanford.edu/entries/perceptual-learning/#PercLearLongTermPercChan)
-  * [1.2 知觉学习作为知觉变化](https://plato.stanford.edu/entries/perceptual-learning/#PercLearPercChan)
-  * [1.3 知觉学习作为来自实践或经验的结果](https://plato.stanford.edu/entries/perceptual-learning/#PercLearResuPracExpe)
-  * [1.4 确定知觉学习的潜在进一步标准](https://plato.stanford.edu/entries/perceptual-learning/#PoteFurtCritForDefiPercLear)
-  * [1.5 对比类别](https://plato.stanford.edu/entries/perceptual-learning/#ContClas)
-
-    * [1.5.1 知觉发展](https://plato.stanford.edu/entries/perceptual-learning/#PercDeve)
-    * [1.5.2 知觉学习](https://plato.stanford.edu/entries/perceptual-learning/#PercBaseSkil)
-    * [1.5.3 认知渗透](https://plato.stanford.edu/entries/perceptual-learning/#CognPene)
-    * [ 1.5.4 机器学习](https://plato.stanford.edu/entries/perceptual-learning/#MachLear)
-* [2. 知觉学习的不同类型](https://plato.stanford.edu/entries/perceptual-learning/#VariPercLear)
-
-  * [ 2.1 区分](https://plato.stanford.edu/entries/perceptual-learning/#Diff)
-  * [ 2.2 单元化](https://plato.stanford.edu/entries/perceptual-learning/#Unit)
-  * [2.3 注意力加权](https://plato.stanford.edu/entries/perceptual-learning/#AtteWeig)
-  * [ 2.4 刺激印记](https://plato.stanford.edu/entries/perceptual-learning/#StimImpr)
-* [3. 知觉学习的哲学意义](https://plato.stanford.edu/entries/perceptual-learning/#PhilSignPercLear)
-
-  * [3.1 知觉的内容](https://plato.stanford.edu/entries/perceptual-learning/#ContPerc)
-  * [3.2 认知渗透](https://plato.stanford.edu/entries/perceptual-learning/#CognPene_1)
-  * [3.3 观察的理论负荷](https://plato.stanford.edu/entries/perceptual-learning/#TheoLadeObse)
-  * [ 3.4 模块化](https://plato.stanford.edu/entries/perceptual-learning/#Modu)
-* [ 参考文献](https://plato.stanford.edu/entries/perceptual-learning/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/perceptual-learning/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/perceptual-learning/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/perceptual-learning/#Rel)
+ 
 
 ---
 

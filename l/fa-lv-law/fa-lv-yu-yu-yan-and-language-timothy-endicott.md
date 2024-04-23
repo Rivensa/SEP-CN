@@ -8,30 +8,7 @@
 
 在第 1 节中，对法律哲学家对语言的关注进行了简要的历史说明，第 2 节概述了一个司法管辖区的法律与可以制定法律和表达法律的语言之间的关系。第 3 节调查了关于法律本质的哲学研究，拒绝了在本介绍和第 1 节、第 2 节中可以找到的一种先入之见：法律可以通过语言的使用来制定。第 4 节讨论了法律哲学在法律中广泛使用评价性语言的影响，第 5 节讨论了法律哲学在法律中广泛使用模糊语言的影响。第 6 节总结了哲学家利用语言哲学的见解来解决法律本质问题的努力。
 
-* [1. 历史介绍](https://plato.stanford.edu/entries/law-language/#HistIntr)
-* [2. 法律中的语言使用](https://plato.stanford.edu/entries/law-language/#UseLangLaw)
-
-  * [2.1 法律和标志](https://plato.stanford.edu/entries/law-language/#LawSign)
-  * [2.2 语言和法律解释](https://plato.stanford.edu/entries/law-language/#LangLegaInte)
-  * [2.3 法律语言的实用主义](https://plato.stanford.edu/entries/law-language/#PragLegaLang)
-* [3. 法律是否可以通过语言来制定？](https://plato.stanford.edu/entries/law-language/#LawMadeUseLang)
-
-  * [3.1 语义陷阱](https://plato.stanford.edu/entries/law-language/#SemaStin)
-  * [3.2 如何制定法律规范](https://plato.stanford.edu/entries/law-language/#HowMakeLegNorm)
-* [4. 评价性语言和法律的性质](https://plato.stanford.edu/entries/law-language/#EvalConsNatuLaw)
-* [5. 语言和法律中的模糊性](https://plato.stanford.edu/entries/law-language/#VaguLangLaw)
-* [6. 在法律哲学中使用语言哲学](https://plato.stanford.edu/entries/law-language/#UsePhilLangPhilLaw)
-
-  * [6.1 简介：法律哲学中的方法论定义](https://plato.stanford.edu/entries/law-language/#IntrDefiMethPhilLaw)
-  * [6.2 语言与法律的规范性](https://plato.stanford.edu/entries/law-language/#LangNormLaw)
-* [ 参考文献](https://plato.stanford.edu/entries/law-language/#Bib)
-
-  * [ 引用的作品](https://plato.stanford.edu/entries/law-language/#CiteWork)
-  * [ 进一步阅读](https://plato.stanford.edu/entries/law-language/#FurtRead)
-* [ 学术工具](https://plato.stanford.edu/entries/law-language/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/law-language/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/law-language/#Rel)
-
+ 
 ---
 
 ## 1. 历史介绍

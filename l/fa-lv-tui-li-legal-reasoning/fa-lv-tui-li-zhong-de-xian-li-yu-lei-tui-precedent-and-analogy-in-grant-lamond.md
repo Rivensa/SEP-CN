@@ -13,29 +13,7 @@
 
 法律提供了一个有用的背景来考虑这些问题，因为它对先例和类推的使用是明确而清晰的。本条目分为以下几个部分：
 
-* [1. 法律推理中的先例和类推](https://plato.stanford.edu/entries/legal-reas-prec/#PreAnaLegRea)
-* [ 2. 先例](https://plato.stanford.edu/entries/legal-reas-prec/#Pre)
-
-  * [2.1 先例作为制定规则](https://plato.stanford.edu/entries/legal-reas-prec/#PreLayDowRul)
-  * [2.2 先例作为基本原则的应用](https://plato.stanford.edu/entries/legal-reas-prec/#PreAppUndPri)
-  * [2.3 先例作为权衡理由的决定](https://plato.stanford.edu/entries/legal-reas-prec/#PreDecBalRea)
-* [3. 先例的正当理由](https://plato.stanford.edu/entries/legal-reas-prec/#JusForPre)
-
-  * [ 3.1 一致性](https://plato.stanford.edu/entries/legal-reas-prec/#Con)
-  * [ 3.2 期望](https://plato.stanford.edu/entries/legal-reas-prec/#Exp)
-  * [ 3.3 可复制性](https://plato.stanford.edu/entries/legal-reas-prec/#Rep)
-  * [ 3.4 法律制定](https://plato.stanford.edu/entries/legal-reas-prec/#LawMak)
-* [ 4. 类推](https://plato.stanford.edu/entries/legal-reas-prec/#Ana)
-
-  * [ 4.1 原则](https://plato.stanford.edu/entries/legal-reas-prec/#Pri)
-  * [ 4.2 理由](https://plato.stanford.edu/entries/legal-reas-prec/#Rea)
-* [5. 类推推理的正当性](https://plato.stanford.edu/entries/legal-reas-prec/#JusForAnaRea)
-* [ 6. 总结](https://plato.stanford.edu/entries/legal-reas-prec/#Sum)
-* [ 参考文献](https://plato.stanford.edu/entries/legal-reas-prec/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/legal-reas-prec/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/legal-reas-prec/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/legal-reas-prec/#Rel)
-
+ 
 ---
 
 ## 1. 法律推理中的先例和类推

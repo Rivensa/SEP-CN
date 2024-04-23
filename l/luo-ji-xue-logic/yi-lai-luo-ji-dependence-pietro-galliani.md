@@ -9,37 +9,7 @@
 
 在本文中，“依赖逻辑”一词将用于指代适当的依赖逻辑，而“依赖与独立的逻辑”一词将用于指代其变体和推广。
 
-* [1. 一阶逻辑及其扩展中的依赖模式](https://plato.stanford.edu/entries/logic-dependence/#DepePattFirsOrdeLogiExte)
-* [2. 团队语义学](https://plato.stanford.edu/entries/logic-dependence/#TeamSema)
-
-  * [2.1 博弈论语义学](https://plato.stanford.edu/entries/logic-dependence/#GameTheoSema)
-* [ 3. 属性](https://plato.stanford.edu/entries/logic-dependence/#Prop)
-
-  * [ 3.1 表达能力](https://plato.stanford.edu/entries/logic-dependence/#Expr)
-  * [3.2 依赖逻辑中的层次结构](https://plato.stanford.edu/entries/logic-dependence/#HierDepeLogi)
-  * [3.3 依赖逻辑中的否定](https://plato.stanford.edu/entries/logic-dependence/#NegaDepeLogi)
-  * [3.4 依赖逻辑中的真实性、有效性和证明系统](https://plato.stanford.edu/entries/logic-dependence/#TrutValiProoSystDepeLogi)
-* [4. 依赖逻辑的变体](https://plato.stanford.edu/entries/logic-dependence/#VariDepeLogi)
-
-  * [ 4.1 独立逻辑](https://plato.stanford.edu/entries/logic-dependence/#IndeLogi)
-  * [ 4.2 包含逻辑](https://plato.stanford.edu/entries/logic-dependence/#InclLogi)
-  * [ 4.3 逻辑学团队](https://plato.stanford.edu/entries/logic-dependence/#TeamLogi)
-  * [4.4 直觉依赖逻辑](https://plato.stanford.edu/entries/logic-dependence/#IntuDepeLogi)
-  * [4.5 团队语义中的广义依赖和连接词](https://plato.stanford.edu/entries/logic-dependence/#GeneDepTS)
-  * [4.6 命题依赖逻辑](https://plato.stanford.edu/entries/logic-dependence/#PropDepeLogi)
-  * [4.7 模态依赖逻辑](https://plato.stanford.edu/entries/logic-dependence/#ModaDepeLogi)
-  * [4.8 带团队语义的线性时间逻辑](https://plato.stanford.edu/entries/logic-dependence/#LTLTeam)
-  * [4.9 团队语义和依赖逻辑的定量变体](https://plato.stanford.edu/entries/logic-dependence/#QuantDepeLogi)
-* [5. 依赖逻辑的应用](https://plato.stanford.edu/entries/logic-dependence/#ApplDepeLogi)
-
-  * [5.1 依赖逻辑与数据库理论](https://plato.stanford.edu/entries/logic-dependence/#DepeLogiDataTheo)
-  * [5.2 依赖逻辑和信念表达](https://plato.stanford.edu/entries/logic-dependence/#DepeLogiBeliRepr)
-  * [5.3 依赖逻辑和阿罗箭定理](https://plato.stanford.edu/entries/logic-dependence/#DepeLogiArroTheo)
-  * [5.4 量子团队逻辑和贝尔不等式](https://plato.stanford.edu/entries/logic-dependence/#QuanTeamLogiBellIneq)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-dependence/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-dependence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-dependence/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-dependence/#Rel)
+ 
 
 ---
 

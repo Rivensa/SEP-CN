@@ -3,28 +3,7 @@
 
 拉丁美洲哲学的一个显著特点是其早期对其本质和意义进行反思 - 实际上，对其质量和存在的可能性进行反思。这种反思的结果是对一些问题进行了实质性的辩论，这些问题不仅对拉丁美洲哲学感兴趣，而且对元哲学一般也感兴趣。因为它们涉及可能被视为哲学的各种知识探究方式。本文评估了这些辩论。
 
-* [ 1. 准备工作](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#Prel)
-
-  * [1.1 两种类型的哲学](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#TwoTypePhil)
-  * [ 1.2 起源](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#Orig)
-* [2. 什么是拉丁美洲哲学？](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#WhatLatiAmerPhil)
-
-  * [2.1 一些主要的描述性问题](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#SomeMainDescQues)
-
-    * [2.1.1 哲学的自主性和“正常性”](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#PhilAutoNorm)
-    * [2.1.2 新怀疑主义者](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#NewSkep)
-  * [2.2 一些主要规范问题](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#SomeMainNormQues)
-
-    * [2.2.1 普遍主义 vs. 个别主义](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#UnivVsDist)
-    * [2.2.2 原创性问题](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#OrigProb)
-    * [2.2.3 真实性问题](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#AuthProb)
-    * [2.2.4 拉丁美洲哲学的还原主义](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#ReduAbouLatiAmerPhil)
-  * [ 2.3 中道理论](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#MiddWayTheo)
-* [3. 名称问题](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#IssuName)
-* [ 参考文献](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/latin-american-metaphilosophy/#Rel)
+ 
 
 ---
 

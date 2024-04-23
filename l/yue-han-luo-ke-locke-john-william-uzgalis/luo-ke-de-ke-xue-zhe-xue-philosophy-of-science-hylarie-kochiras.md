@@ -4,25 +4,7 @@
 
 约翰·洛克因为为当时的实验科学提供了认识论基础而受到广泛赞誉，阐述了适合于实验科学的新的概率知识形式。然而，尽管他在某些重要方面是这种新科学的信徒，但他的思想中也存在着重大的紧张关系。他支持实验方法，同时针对早期的推测性或理性主义哲学，因为它们依赖于不适合自然哲学的方法论和认识论期望。他还经常似乎接受新科学的微粒假说，这个假说的力量和微粒在他试图理解为什么我们不能对自然现象有确证性的确定性方面起着重要作用。然而，新科学的方法论正在发展。洛克在这个演变中走了多远，他的思想的哪些方面阻止了他进一步发展？至于微粒假说，他对它的立场到底是什么？他经常谈到微粒和力量，好像它们属于已经确立的知识，然而在解释这个假说的缺陷时，他似乎认为它们是致命的。本文主要强调这两个相关问题中的第二个问题，尽管这两个问题都引发了学术调查和辩论。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/locke-philosophy-science/#Int)
-* [2. 洛克对自然哲学中的知识：科学和人类知识](https://plato.stanford.edu/entries/locke-philosophy-science/#LocKnoNatSciHumKno)
-
-  * [2.1 科学的历史根源](https://plato.stanford.edu/entries/locke-philosophy-science/#HisRooSci)
-  * [2.2 自然哲学中的科学和人类实现的障碍](https://plato.stanford.edu/entries/locke-philosophy-science/#SciNatObsHumAtt)
-  * [2.3 自然哲学中的人类知识（感性知识）](https://plato.stanford.edu/entries/locke-philosophy-science/#HumKnoNatSenKno)
-* [3. 约翰·洛克思想中的紧张和随之而来的辩论](https://plato.stanford.edu/entries/locke-philosophy-science/#TenLocThoConDeb)
-
-  * [3.1 约翰·洛克思想中的紧张](https://plato.stanford.edu/entries/locke-philosophy-science/#TenLocTho)
-  * [3.2 微粒假说的局限性](https://plato.stanford.edu/entries/locke-philosophy-science/#LimCorHyp)
-  * [3.3 辩论中的主要立场](https://plato.stanford.edu/entries/locke-philosophy-science/#MaiPosDeb)
-* [4. 约翰·洛克和牛顿](https://plato.stanford.edu/entries/locke-philosophy-science/#LocNew)
-
-  * [4.1 认识论和方法论](https://plato.stanford.edu/entries/locke-philosophy-science/#Epi)
-  * [ 4.2 本体论](https://plato.stanford.edu/entries/locke-philosophy-science/#OntNat)
-* [ 参考文献](https://plato.stanford.edu/entries/locke-philosophy-science/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/locke-philosophy-science/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/locke-philosophy-science/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/locke-philosophy-science/#Rel)
+ 
 
 ---
 

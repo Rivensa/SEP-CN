@@ -4,29 +4,7 @@
 
 耶沙亚胡·莱博维茨（1903-1994）是二十世纪最直言不讳、最具争议的犹太思想家和以色列公共知识分子之一。他的童年同伴、来自里加的伊莎·柏林爵士曾称他为“以色列的良心”[1]。莱博维茨的思想基于一种广泛的神中心主义，使他能够将对正统犹太实践的承诺与对犹太信仰的简化定义相结合，从而产生了一种根本自然主义的神学——如果剩下的东西确实能够承担起“神学”这个术语的重担的话。但这种神中心主义承诺的影响远远超出了他对宗教信仰观点的范围。它是他对以色列拉比机构不妥协批评的最终根源，以及在当时被视为对以色列对自六日战争以来占领领土政策高度争议的立场，正如柏林（1983 年，18 页）所说：“面对如此多的压力要明智、要现实，不要让一方失望。”
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#LifWor)
-
-  * [ 1.1 作品](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#Wor)
-  * [ 1.2 方法论](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#Met)
-* [2. 上帝与神学](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#GodThe)
-* [3. 解读圣经](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#IntScr)
-* [4. 犹太信仰和犹太法律](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#JewFaiJewLaw)
-
-  * [4.1 信仰、实践和上帝](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#FaiPraGod)
-* [5. 敬拜 Lishmah 和 Mitzvoth 的意义](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#WorLisMeaMit)
-* [6. 伦理学与宗教](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#EthRel)
-
-  * [ 6.1 伦理戒律](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#EthMit)
-  * [6.2 元哈拉哈和妇女的地位](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#MetHalStaWom)
-* [7. 宗教、国家和以色列](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#RelStaIsr)
-* [ 参考文献](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#PriLit)
-  * [选定的次级文献和引用作品](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#SelSecLitWorCit)
-* [ 学术工具](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/leibowitz-yeshayahu/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品

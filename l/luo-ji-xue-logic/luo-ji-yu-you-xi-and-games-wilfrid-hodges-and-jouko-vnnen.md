@@ -4,33 +4,7 @@
 
 二名玩家之间的游戏，其中一名玩家获胜而另一名玩家失败，成为二十世纪下半叶逻辑学许多分支中常见的工具。重要的例子包括用于定义真理的语义游戏，用于比较结构的来回游戏，以及用于表达（或许解释）形式证明的对话游戏。
 
-* [1. 逻辑学史上的游戏](https://plato.stanford.edu/entries/logic-games/#GamHisLog)
-* [ 2. 逻辑游戏](https://plato.stanford.edu/entries/logic-games/#LogGam)
-* [3. 经典逻辑的语义游戏](https://plato.stanford.edu/entries/logic-games/#SemGam)
-* [4. 不完全信息的语义游戏](https://plato.stanford.edu/entries/logic-games/#SemGamIF)
-* [5. 其他逻辑的语义游戏](https://plato.stanford.edu/entries/logic-games/#MoreSemGam)
-* [ 6. 游戏的来回](https://plato.stanford.edu/entries/logic-games/#BacForGam)
-* [7. 其他模型论游戏](https://plato.stanford.edu/entries/logic-games/#OthModTheGam)
-
-  * [ 7.1 强制游戏](https://plato.stanford.edu/entries/logic-games/#ForGam)
-  * [7.2 游戏/博弈的切割和选择](https://plato.stanford.edu/entries/logic-games/#CutChoGam)
-  * [7.3 两个后继函数树上的游戏/博弈](https://plato.stanford.edu/entries/logic-games/#GamTreTwoSucFun)
-* [8. 对话、沟通和证明的游戏/博弈](https://plato.stanford.edu/entries/logic-games/#GamDiaComPro)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-games/#Bib)
-
-  * [逻辑学史上的游戏](https://plato.stanford.edu/entries/logic-games/#BibGamHisLog)
-  * [用于教授逻辑的游戏](https://plato.stanford.edu/entries/logic-games/#BibLogTeach)
-  * [ 逻辑游戏](https://plato.stanford.edu/entries/logic-games/#BibLogGam)
-  * [经典逻辑的语义游戏](https://plato.stanford.edu/entries/logic-games/#BibSemGam)
-  * [含有不完全信息的语义游戏](https://plato.stanford.edu/entries/logic-games/#BibSemGamIF)
-  * [其他逻辑的语义游戏](https://plato.stanford.edu/entries/logic-games/#BibMoreSemGam)
-  * [ 前后游戏](https://plato.stanford.edu/entries/logic-games/#BibBacFor)
-  * [其他模型论游戏](https://plato.stanford.edu/entries/logic-games/#BibOthModTheGam)
-  * [游戏、对话和证明的游戏](https://plato.stanford.edu/entries/logic-games/#BibGamDiaComPro)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-games/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-games/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-games/#Rel)
-
+ 
 ---
 
 ## 1. 逻辑学史上的游戏

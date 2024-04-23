@@ -4,34 +4,7 @@
 
 线性逻辑是经典逻辑和直觉逻辑的一种细化。与经典逻辑强调真理或直觉逻辑强调证明不同，线性逻辑强调公式作为资源的作用。为了实现这个重点，线性逻辑不允许常规的收缩和弱化结构规则适用于所有公式，而只允许适用于特定模态标记的公式。线性逻辑包含一个完全的对偶否定，同时保持强有力的建设性解释。线性逻辑还为经典逻辑和直觉逻辑中证明的性质提供了新的见解。由于其对资源的关注，线性逻辑在计算机科学中找到了许多应用。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/logic-linear/#Int)
-
-  * [1.1 一点历史](https://plato.stanford.edu/entries/logic-linear/#BitHis)
-  * [1.2 线性逻辑和计算机科学](https://plato.stanford.edu/entries/logic-linear/#LinLogComSci)
-* [2. 证明系统](https://plato.stanford.edu/entries/logic-linear/#ProSys)
-
-  * [ 2.1 推理演算](https://plato.stanford.edu/entries/logic-linear/#SeqCal)
-  * [2.2 焦点证明搜索](https://plato.stanford.edu/entries/logic-linear/#FocProSea)
-  * [ 2.3 证明网](https://plato.stanford.edu/entries/logic-linear/#ProNet)
-* [ 3. 语义学](https://plato.stanford.edu/entries/logic-linear/#Sem)
-
-  * [3.1 可证性的语义学](https://plato.stanford.edu/entries/logic-linear/#SemProv)
-  * [3.2 证明的语义学](https://plato.stanford.edu/entries/logic-linear/#SemProo)
-* [ 4. 复杂性](https://plato.stanford.edu/entries/logic-linear/#Com)
-* [5. 计算机科学的影响](https://plato.stanford.edu/entries/logic-linear/#ComSciImp)
-
-  * [ 5.1 证明规范化](https://plato.stanford.edu/entries/logic-linear/#ProNor)
-  * [ 5.2 证明搜索](https://plato.stanford.edu/entries/logic-linear/#ProSea)
-* [ 6. 变体](https://plato.stanford.edu/entries/logic-linear/#Var)
-
-  * [6.1 模态的不同处理方式](https://plato.stanford.edu/entries/logic-linear/#DifTreMod)
-  * [6.2 非交换线性逻辑](https://plato.stanford.edu/entries/logic-linear/#NonComLinLog)
-  * [6.3 处理无界行为](https://plato.stanford.edu/entries/logic-linear/#unbounded)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-linear/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-linear/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-linear/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-linear/#Rel)
-
+ 
 ---
 
 ## 1. 引言

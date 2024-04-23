@@ -6,30 +6,7 @@
 本条目讨论使用数学语言来表达和分析游戏中权力的形式属性。在本条目中讨论的数学语言将被称为逻辑，并根据其表达游戏相关概念的能力进行分类。
 
 本条目的内容将仅限于对合作和非合作正常形式游戏中（群体的）个体的策略和偏好进行逻辑分析。它不涵盖使用博弈论研究逻辑语言以及认识概念在战略决策中的作用。它也不涵盖顺序决策制定的方面，这是广泛博弈中战略推理的典型特征。这些内容可以在相关条目逻辑和游戏、博弈论的认识基础中找到（另请参阅 van Benthem, Pacuit, & Roy 2011 和 van Benthem 2014）。
-
-* [1. 游戏的逻辑基础](https://plato.stanford.edu/entries/logic-power-games/#)
-* [2. 基本要素](https://plato.stanford.edu/entries/logic-power-games/#BasiIngr)
-
-  * [ 2.1 偏好](https://plato.stanford.edu/entries/logic-power-games/#Pref)
-  * [ 2.2 选择](https://plato.stanford.edu/entries/logic-power-games/#Choi)
-* [3. 分析力量](https://plato.stanford.edu/entries/logic-power-games/#AnalPowe)
-
-  * [3.1 合作游戏及其逻辑学](https://plato.stanford.edu/entries/logic-power-games/#CoopGameTheiLogi)
-  * [3.2 非合作游戏及其逻辑学](https://plato.stanford.edu/entries/logic-power-games/#NonCoopGamesLogic)
-
-    * [3.2.1 游戏注射和带交集的 PDL](https://plato.stanford.edu/entries/logic-power-games/#InjGamesPDL)
-    * [3.2.2 非单调行动逻辑](https://plato.stanford.edu/entries/logic-power-games/#NonMonoActiLogi)
-    * [3.2.3 量化和高阶联盟逻辑](https://plato.stanford.edu/entries/logic-power-games/#QuantHighOrd)
-    * [3.2.4 概率和资源边界](https://plato.stanford.edu/entries/logic-power-games/#ProbResou)
-    * [3.2.5 条件权力和协调](https://plato.stanford.edu/entries/logic-power-games/#CondPowe)
-    * [3.2.6 动态联盟逻辑](https://plato.stanford.edu/entries/logic-power-games/#DynaCoal)
-    * [ 3.2.7 逻辑学基础的游戏](https://plato.stanford.edu/entries/logic-power-games/#LogiBasedGames)
-* [4. 结论：关于正确的分析层次](https://plato.stanford.edu/entries/logic-power-games/#ConcRighLeveAnal)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-power-games/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-power-games/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-power-games/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-power-games/#Rel)
-
+ 
 ---
 
 ## 1. 游戏下的逻辑学

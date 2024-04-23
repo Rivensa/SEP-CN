@@ -4,22 +4,7 @@
 
 对于受过现代逻辑学教育的任何人来说，一阶逻辑似乎是一种完全自然的研究对象，其发现也是不可避免的。它在语义上是完备的；它足以公理化所有普通数学；而林德斯特伦定理表明它是满足紧致性和 Löwenheim-Skolem 性质的最大逻辑。因此，一阶逻辑长期以来一直被视为研究数学基础的“正确”逻辑。它在现代数理逻辑教材中占据中心地位，其他系统则被边缘化。然而，历史并不是一帆风顺的，绝对不是某个独立研究者的突然发现。它的出现与技术发现、对逻辑的不同概念、不同的数学研究计划以及哲学和概念反思密切相关。因此，如果一阶逻辑是“自然”的，那只是事后看来如此。这个故事错综复杂，有争议的地方；以下内容只能提供一个概述。关于发展的各个方面的讨论由 Goldfarb 1979、Moore 1988、Eklund 1996、Brady 2000、Ferreirós 2001、Sieg 2009、Mancosu、Zach & Badesa 2010、Schiemer & Reck 2013、Hilbert [LFL]的注释以及百科全书手册 Gabbay & Woods 2009 提供。
 
-* [ 1. 乔治·布尔](https://plato.stanford.edu/entries/logic-firstorder-emergence/#GeorBool)
-* [2. 查尔斯·S·皮尔斯](https://plato.stanford.edu/entries/logic-firstorder-emergence/#CharSPeir)
-* [ 3. 戈特洛布·弗雷格](https://plato.stanford.edu/entries/logic-firstorder-emergence/#GottFreg)
-* [ 4. 恩斯特·施罗德](https://plato.stanford.edu/entries/logic-firstorder-emergence/#ErnsSchr)
-* [ 5. 朱塞佩·皮亚诺](https://plato.stanford.edu/entries/logic-firstorder-emergence/#GiusPean)
-* [6. 阿尔弗雷德·诺思·怀特海德和伯特兰·罗素](https://plato.stanford.edu/entries/logic-firstorder-emergence/#AlfrNortWhitBertRuss)
-* [ 7. 利奥波德·勒文海姆](https://plato.stanford.edu/entries/logic-firstorder-emergence/#LeopLowe)
-* [8. 大卫·希尔伯特和保罗·伯奈斯](https://plato.stanford.edu/entries/logic-firstorder-emergence/#DaviHilbPaulBern)
-* [9. Thoralf Skolem](https://plato.stanford.edu/entries/logic-firstorder-emergence/#ThorSkol)
-* [10. Kurt Gödel](https://plato.stanford.edu/entries/logic-firstorder-emergence/#KurtGode)
-* [ 11. 结论](https://plato.stanford.edu/entries/logic-firstorder-emergence/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-firstorder-emergence/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-firstorder-emergence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-firstorder-emergence/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-firstorder-emergence/#Rel)
-
+ 
 ---
 
 ## 1. 乔治·布尔

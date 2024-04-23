@@ -5,31 +5,7 @@
 政治合法性是政治制度和其中所做的关于法律、政策和政治职位候选人的决策的一种美德。本文将概述对以下问题提出的主要答案。首先，应如何定义合法性？它主要是一个描述性的还是规范性的概念？如果将合法性理解为规范性的，那么它意味着什么？有些人将合法性与强制权力的正当化和政治权威的建立联系起来。其他人将其与现有政治权威的正当化或至少是认可联系起来。权威代表着统治的权利，即发布命令的权利，可能还包括使用强制力来执行这些命令的权利。另一个问题是，合法的政治权威是否被理解为包含政治义务。大多数人可能认为是这样。但有些人认为遵守政治权威的道德义务可以与合法权威的解释分开，或者至少只有在进一步的条件成立时才会产生这样的义务。
 
 接下来有关于政治合法性要求的问题。何时可以适当地称政治制度和其中做出的决策为合法？有人认为，这个问题必须首先根据政治决策制定的程序特征来回答。其他人则认为，合法性依赖于实现的实质价值，要么是完全依赖，要么至少部分依赖。而程序与实质问题应该以何种依据来解决，是基于道德依据——与自由或平等等价值观有关，还是基于认识论依据——与政治决策的认识论优点有关？一个相关的问题是：政治合法性是否要求民主？只要民主被视为政治合法性的必要条件，那么何时可以认为民主决策是合法的？这个问题是否只能通过程序特征来回答，还是民主合法性既依赖于程序价值，又依赖于决策质量？在这方面，认识论考虑的作用是什么？最后，有一个问题是哪些政治制度受到合法性要求的约束。历史上，合法性与国家、国家内的制度和决策相关联。然而，当代文献倾向于认为这种观点过于狭隘。这引发了一个问题，即合法性的概念如何适用于国际和全球背景之外的范畴，包括国家之外和国家内做出的决策。
-
-* [1. 政治合法性的描述性和规范性概念](https://plato.stanford.edu/entries/legitimacy/#DescNormConcPoliLegi)
-* [2. 政治合法性的功能](https://plato.stanford.edu/entries/legitimacy/#FuncPoliLegi)
-
-  * [2.1 政治合法性与政治权威的正当化](https://plato.stanford.edu/entries/legitimacy/#LegiJustPoliAuth)
-  * [2.2 正当化权力和强制力](https://plato.stanford.edu/entries/legitimacy/#JustPoweCoer)
-  * [2.3 政治合法性与政治义务的随附性](https://plato.stanford.edu/entries/legitimacy/#PoliLegiPoliObli)
-* [3. 政治合法性的来源](https://plato.stanford.edu/entries/legitimacy/#SourPoliLegi)
-
-  * [ 3.1 同意](https://plato.stanford.edu/entries/legitimacy/#Cons)
-  * [3.2 公共正当性和政治参与](https://plato.stanford.edu/entries/legitimacy/#PublJustPoliPart)
-  * [3.3 规范事实和认知优势](https://plato.stanford.edu/entries/legitimacy/#NormFactEpisAdva)
-* [4. 政治合法性和民主](https://plato.stanford.edu/entries/legitimacy/#PoliLegiDemo)
-
-  * [4.1 民主工具主义](https://plato.stanford.edu/entries/legitimacy/#DemoInst)
-  * [4.2 纯程序主义对民主合法性的概念](https://plato.stanford.edu/entries/legitimacy/#PureProcConcDemoLegi)
-  * [4.3 民主合法性的替代概念](https://plato.stanford.edu/entries/legitimacy/#AlteConcDemoLegi)
-* [5. 合法性与政治世界主义](https://plato.stanford.edu/entries/legitimacy/#LegiPoliCosm)
-
-  * [5.1 政治民族主义](https://plato.stanford.edu/entries/legitimacy/#PoliNati)
-  * [5.2 政治世界主义](https://plato.stanford.edu/entries/legitimacy/#PoliCosm)
-* [ 参考文献](https://plato.stanford.edu/entries/legitimacy/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/legitimacy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/legitimacy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/legitimacy/#Rel)
+ 
 
 ---
 

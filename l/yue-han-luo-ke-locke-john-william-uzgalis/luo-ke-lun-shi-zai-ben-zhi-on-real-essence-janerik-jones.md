@@ -8,25 +8,7 @@
 
 关于知识，在洛克的第四册中，他认为只有当我们的观念以适当的方式与其原型相符时，知识才是真实的。科学知识发生在我们的名义本质观念与实在本质相匹配的时候。根据洛克的观点，在数学和道德中，名义本质和实在本质是相同的。也就是说，数学或道德概念的定义既构成了名义本质，也构成了实在本质。因此，我们可以有一个关于数学和道德的人类科学。然而，在物质的情况下，实在本质和名义本质总是不同的，因此没有可能有一个关于物质的人类科学（IV.vi.12–16）。
 
-* [1. 物质的本质：实在本质和名义本质](https://plato.stanford.edu/entries/real-essence/#ReaEssSub)
-* [2. 争论：实在本质和名义本质 vs. 修辞学的实体形式](https://plato.stanford.edu/entries/real-essence/#HisBacSchSubFor)
-* [3. 历史前提：培根和波义尔](https://plato.stanford.edu/entries/real-essence/#HisAntBacBoy)
-* [4. 解释性问题](https://plato.stanford.edu/entries/real-essence/#IntIss)
-
-  * [4.1 相对化的实在本质](https://plato.stanford.edu/entries/real-essence/#RelReaEss)
-  * [4.2 个体的实在本质](https://plato.stanford.edu/entries/real-essence/#IndReaEss)
-  * [4.3 实在本质与自然种类](https://plato.stanford.edu/entries/real-essence/#ReaEssNatKin)
-  * [4.4 实在本质、内在构成和物质](https://plato.stanford.edu/entries/real-essence/#ReaEssIntConSub)
-* [5. 简单观念和模式的实在本质](https://plato.stanford.edu/entries/real-essence/#ReaEssSimIdeMod)
-* [ 参考文献](https://plato.stanford.edu/entries/real-essence/#Bib)
-
-  * [ 原始来源](https://plato.stanford.edu/entries/real-essence/#OriSou)
-  * [约翰·洛克的一般研究](https://plato.stanford.edu/entries/real-essence/#GenStuLoc)
-  * [关于实在本质的洛克解释](https://plato.stanford.edu/entries/real-essence/#IntLocReaEss)
-  * [关于自然种类的洛克解释](https://plato.stanford.edu/entries/real-essence/#IntLocNatKin)
-* [ 学术工具](https://plato.stanford.edu/entries/real-essence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/real-essence/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/real-essence/#Rel)
+ 
 
 ---
 

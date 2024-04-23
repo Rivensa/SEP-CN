@@ -6,26 +6,7 @@
 
 路德的作品中有几个关键问题使他对哲学家而不仅仅是神学家或宗教改革历史学家具有兴趣，并将在本条目中进行讨论：他对神学和哲学之间关系的构想，以及理性在这种关系中的地位；他对亚里士多德和亚里士多德传统的负面构想，以及他与名义主义替代方案的关系；他对神圣和人类自由的构想；以及他对伦理学、社会和政治生活的构想。关于路德对路德教传统中后来哲学家的影响，将在关于路德对哲学的影响的单独条目中进行更详细的讨论。
 
-* [1. 路德的生平和作品](https://plato.stanford.edu/entries/luther/#LuthLifeWork)
-* [2. 神学与哲学](https://plato.stanford.edu/entries/luther/#TheoPhil)
-* [3. 马丁·路德、亚里士多德和名义主义](https://plato.stanford.edu/entries/luther/#LuthArisNomi)
-* [4. 关于意志自由的马丁·路德的观点](https://plato.stanford.edu/entries/luther/#LuthFreeWill)
-* [5. 马丁·路德的伦理学和社会哲学](https://plato.stanford.edu/entries/luther/#LuthEthiSociPhil)
-* [ 6. 马丁·路德的影响](https://plato.stanford.edu/entries/luther/#LuthInfl)
-* [ 解释/理论](https://plato.stanford.edu/entries/luther/#Bib)
-
-  * [马丁·路德著作的引用缩写](https://plato.stanford.edu/entries/luther/#AbbrForRefeLuthWork)
-  * [马丁·路德的其他著作](https://plato.stanford.edu/entries/luther/#OtheWorkByLuth)
-  * [马丁·路德主要著作的有用集锦](https://plato.stanford.edu/entries/luther/#UsefCollSomeLuthMainWrit)
-  * [马丁·路德的生活与工作](https://plato.stanford.edu/entries/luther/#LuthLifeWork_1)
-  * [ 神学与哲学](https://plato.stanford.edu/entries/luther/#TheoPhil_1)
-  * [马丁·路德、亚里士多德和名义主义](https://plato.stanford.edu/entries/luther/#LuthArisNomi_1)
-  * [马丁·路德论自由意志](https://plato.stanford.edu/entries/luther/#LuthFreeWill_1)
-  * [马丁·路德的伦理学和社会哲学](https://plato.stanford.edu/entries/luther/#LuthEthiSociPhil_1)
-  * [ 其他引用的作品](https://plato.stanford.edu/entries/luther/#OtheCiteWork)
-* [ 学术工具](https://plato.stanford.edu/entries/luther/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/luther/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/luther/#Rel)
+ 
 
 ---
 

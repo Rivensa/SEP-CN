@@ -8,42 +8,7 @@
 
 阿兰·勒罗伊·洛克（Locke），与杜波依斯一样，常常被归类为实用主义哲学传统，尽管有些令人惊讶——令人惊讶的是，洛克的实际观点在实质上更接近于杜威、詹姆斯和罗伊斯等实用主义思想家，而不是杜波依斯——但他在当代实用主义哲学家的著作中并没有像杜波依斯那样受到太多关注。尽管如此，他最为人所知的是与实用主义传统有着密切联系，但他的“批判性实用主义”，尤其是他的价值理论，也受到了雨果·门斯特伯格、F.S.C.席勒、亚历克修斯·迈农、弗朗茨·布伦塔诺和克里斯蒂安·冯·埃尔恩费尔斯的影响。在哈佛大学的早期教育阶段，洛克就对哲学中的实用主义传统产生了亲近感。洛克在价值论方面的成熟观点比许多主要的实用主义者（如杜威和詹姆斯）要早得多。在实用主义者中，洛克可以说是最发展和系统的价值哲学家，并提供了许多关于民主的批判性见解。
 
-* [ 1. 年表](https://plato.stanford.edu/entries/alain-locke/#Chro)
-* [2. 价值论/价值理论](https://plato.stanford.edu/entries/alain-locke/#AxioTheo)
-
-  * [2.1 价值感受和价值模式](https://plato.stanford.edu/entries/alain-locke/#ValuFeelValuMode)
-  * [2.2 价值的功能观点](https://plato.stanford.edu/entries/alain-locke/#FuncViewValu)
-  * [ 2.3 重新评价](https://plato.stanford.edu/entries/alain-locke/#Tran)
-  * [2.4 价值分类学](https://plato.stanford.edu/entries/alain-locke/#TaxoValu)
-* [ 3. 多元主义](https://plato.stanford.edu/entries/alain-locke/#Plur)
-
-  * [3.1 多元主义的三个障碍](https://plato.stanford.edu/entries/alain-locke/#ThreBarrPlur)
-  * [3.2 多元主义作为功能基础](https://plato.stanford.edu/entries/alain-locke/#PlurFuncBase)
-* [ 4. 相对主义](https://plato.stanford.edu/entries/alain-locke/#Rela)
-
-  * [4.1 文化等价原则](https://plato.stanford.edu/entries/alain-locke/#PrinCultEqui)
-  * [4.2 文化互惠原则](https://plato.stanford.edu/entries/alain-locke/#PrinCultReci)
-  * [4.3 文化可转换原则](https://plato.stanford.edu/entries/alain-locke/#PrinCultConv)
-* [ 5. 美学](https://plato.stanford.edu/entries/alain-locke/#Aest)
-
-  * [5.1 新黑人](https://plato.stanford.edu/entries/alain-locke/#NewNegr)
-  * [5.2 年轻黑人](https://plato.stanford.edu/entries/alain-locke/#YounNegr)
-  * [5.3 黑人灵歌](https://plato.stanford.edu/entries/alain-locke/#NegrSpir)
-  * [5.4 谁，以及什么是“黑人”？](https://plato.stanford.edu/entries/alain-locke/#WhoWhatNegr)
-* [6. 种族哲学](https://plato.stanford.edu/entries/alain-locke/#PhilRace)
-
-  * [6.1 种族的理论和科学概念](https://plato.stanford.edu/entries/alain-locke/#TheoScieConcRace)
-  * [6.2 种族的政治观念](https://plato.stanford.edu/entries/alain-locke/#PoliConcRace)
-  * [6.3 种族的社会或文化观念](https://plato.stanford.edu/entries/alain-locke/#SociCultConcRace)
-  * [6.4 种族信条、种族实践、种族差异和偏见](https://plato.stanford.edu/entries/alain-locke/#RaceCreeRacePracRaciDiffPrej)
-* [ 参考文献](https://plato.stanford.edu/entries/alain-locke/#Bib)
-
-  * [主要作品缩写](https://plato.stanford.edu/entries/alain-locke/#AbbrPrinWork)
-  * [ 主要文献](https://plato.stanford.edu/entries/alain-locke/#PrimLite)
-  * [ 二次文献](https://plato.stanford.edu/entries/alain-locke/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/alain-locke/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/alain-locke/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/alain-locke/#Rel)
+ 
 
 ---
 

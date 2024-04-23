@@ -22,39 +22,7 @@
 
 尽管如此，法律经济学，或者至少其中的一些分支，隐含地提供了对法律理论所涉及问题的独特、常常是激进的答案。此外，一些分支还提出了对法律和法律理论的根本不同的观点。下一节将阐述从大量的法律经济学分析中得出的复杂的主张，并确定了该领域中大部分工作的三个项目。随后的几节将探讨这些主张和项目隐含或明确提供的对法律的观点。
 
-* [1. 法律经济学中的主张和项目](https://plato.stanford.edu/entries/legal-econanalysis/#ClaiProjWithEconAnalLaw)
-
-  * [1.1 法律经济学中的理性](https://plato.stanford.edu/entries/legal-econanalysis/#RatiEconAnalLaw)
-  * [1.2 法律经济学的基本主张](https://plato.stanford.edu/entries/legal-econanalysis/#BasiClaiUndeEconAnalLaw)
-  * [1.3 法律经济学内的三种思潮](https://plato.stanford.edu/entries/legal-econanalysis/#ThreStraThouWithEconAnalLaw)
-* [2. 法律学说分析](https://plato.stanford.edu/entries/legal-econanalysis/#DoctAnal)
-
-  * [2.1 法律经济学作为私法的合理化](https://plato.stanford.edu/entries/legal-econanalysis/#DoctAnalRatiPrivLaw)
-  * [2.2 法律经济学作为法律的概念？](https://plato.stanford.edu/entries/legal-econanalysis/#DoctAnalConcLaw)
-* [3. 法律的性质](https://plato.stanford.edu/entries/legal-econanalysis/#NatuLaw)
-
-  * [3.1 法律的概念](https://plato.stanford.edu/entries/legal-econanalysis/#ConcLaw)
-  * [3.2 法律经济学中的法律学说概念](https://plato.stanford.edu/entries/legal-econanalysis/#DoctConcLawEconAnalLaw)
-  * [3.3 法律作为一种成就：走向社会科学的法律概念？](https://plato.stanford.edu/entries/legal-econanalysis/#LawAchiTowaSociScieConcLaw)
-* [4. 法律的规范性](https://plato.stanford.edu/entries/legal-econanalysis/#NormLaw)
-* [4.1 解释选择](https://plato.stanford.edu/entries/legal-econanalysis/#InteChoi)
-
-  * [ 4.2 法律形式](https://plato.stanford.edu/entries/legal-econanalysis/#LegaForm)
-  * [4.3 调适策略](https://plato.stanford.edu/entries/legal-econanalysis/#StraAcco)
-* [5. 判决理论](https://plato.stanford.edu/entries/legal-econanalysis/#TheoAdju)
-
-  * [5.1 政治经济中的判决](https://plato.stanford.edu/entries/legal-econanalysis/#AdjuPoliEcon)
-  * [5.2 政策分析中的裁决](https://plato.stanford.edu/entries/legal-econanalysis/#AdjuPoliAnal)
-* [6. 法律规则和机构的评估](https://plato.stanford.edu/entries/legal-econanalysis/#EvalLegaRuleInst)
-
-  * [6.1 偏好和福祉](https://plato.stanford.edu/entries/legal-econanalysis/#PrefWellBein)
-  * [6.2 帕累托准则](https://plato.stanford.edu/entries/legal-econanalysis/#PareCrit)
-  * [6.3 福利主义再探论证](https://plato.stanford.edu/entries/legal-econanalysis/#ArguForWelfRevi)
-* [ 7. 结论说明](https://plato.stanford.edu/entries/legal-econanalysis/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/legal-econanalysis/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/legal-econanalysis/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/legal-econanalysis/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/legal-econanalysis/#Rel)
+ 
 
 ---
 

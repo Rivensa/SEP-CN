@@ -11,42 +11,7 @@
 
 次协调逻辑被否定地定义：只要不是爆炸性的，任何逻辑都是次协调的。这意味着在次协调逻辑中没有单一的一组开放问题或程序。因此，本条目不是次协调逻辑的完整调查。目的是描述一个多样化领域的一些哲学上显著的特征。
 
-* [ 1. 次协调性](https://plato.stanford.edu/entries/logic-paraconsistent/#Para)
-
-  * [ 1.1 双真主义](https://plato.stanford.edu/entries/logic-paraconsistent/#Dial)
-  * [1.2 次协调逻辑的简要历史](https://plato.stanford.edu/entries/logic-paraconsistent/#BrieHistExContQuod)
-  * [1.3 次协调逻辑的现代历史](https://plato.stanford.edu/entries/logic-paraconsistent/#ModeHistParaLogi)
-* [ 2. 动机](https://plato.stanford.edu/entries/logic-paraconsistent/#Moti)
-
-  * [2.1 次协调而非琐碎性](https://plato.stanford.edu/entries/logic-paraconsistent/#IncoWithTriv)
-
-    * [2.1.1 非琐碎理论](https://plato.stanford.edu/entries/logic-paraconsistent/#NonTrivTheo)
-    * [2.1.2 真矛盾](https://plato.stanford.edu/entries/logic-paraconsistent/#TrueCont)
-    * [ 2.1.3 语言学](https://plato.stanford.edu/entries/logic-paraconsistent/#Ling)
-  * [2.2 人工智能](https://plato.stanford.edu/entries/logic-paraconsistent/#ArtiInte)
-
-    * [2.2.1 自动推理](https://plato.stanford.edu/entries/logic-paraconsistent/#AutoReas)
-    * [ 2.2.2 信念修正](https://plato.stanford.edu/entries/logic-paraconsistent/#BeliRevi)
-  * [2.3 形式语义学和集合论](https://plato.stanford.edu/entries/logic-paraconsistent/#FormSemaSetTheo)
-
-    * [ 2.3.1 真理理论](https://plato.stanford.edu/entries/logic-paraconsistent/#TrutTheo)
-    * [ 2.3.2 集合论](https://plato.stanford.edu/entries/logic-paraconsistent/#SetTheo)
-    * [2.3.3 一般数学](https://plato.stanford.edu/entries/logic-paraconsistent/#MathGene)
-  * [2.4 算术和哥德尔定理](https://plato.stanford.edu/entries/logic-paraconsistent/#AritGodeTheo)
-  * [ 2.5 模糊性](https://plato.stanford.edu/entries/logic-paraconsistent/#Vagu)
-* [3. 次协调逻辑学系统](https://plato.stanford.edu/entries/logic-paraconsistent/#SystParaLogi)
-
-  * [ 3.1 讨论逻辑学](https://plato.stanford.edu/entries/logic-paraconsistent/#DiscLogi)
-  * [3.2 非附加系统](https://plato.stanford.edu/entries/logic-paraconsistent/#NonAdjuSyst)
-  * [ 3.3 保全主义](https://plato.stanford.edu/entries/logic-paraconsistent/#Pres)
-  * [ 3.4 适应性逻辑学](https://plato.stanford.edu/entries/logic-paraconsistent/#AdapLogi)
-  * [3.5 形式不一致的逻辑学](https://plato.stanford.edu/entries/logic-paraconsistent/#LogiFormInco)
-  * [ 3.6 多值逻辑学](https://plato.stanford.edu/entries/logic-paraconsistent/#ManyValuLogi)
-  * [ 3.7 相关逻辑学](https://plato.stanford.edu/entries/logic-paraconsistent/#ReleLogi)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-paraconsistent/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-paraconsistent/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-paraconsistent/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-paraconsistent/#Rel)
+ 
 
 ---
 

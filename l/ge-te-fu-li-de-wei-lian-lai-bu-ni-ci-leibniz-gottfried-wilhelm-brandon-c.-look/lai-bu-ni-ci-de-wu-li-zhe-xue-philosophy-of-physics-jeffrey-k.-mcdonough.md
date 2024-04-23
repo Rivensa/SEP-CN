@@ -4,40 +4,7 @@
 
 尽管如今更为人所知的是他大胆的形而上学和乐观的神学辩护，但莱布尼茨的思想贡献远远超出了现在通常被认为是哲学或神学的范畴。在一个知道伽利略、笛卡尔、惠更斯、胡克和牛顿等人的时代，莱布尼茨作为科学革命发展中最重要的人物之一脱颖而出。本文将试图概述莱布尼茨广义上的物理哲学的核心主题，以及他用来捍卫自己立场的一些主要论证策略的介绍。莱布尼茨的批评、贡献及其与他更大的哲学体系的关系的价值仍然是历史和哲学研究的迷人领域。
 
-* [1. 莱布尼茨物理学的历史发展](https://plato.stanford.edu/entries/leibniz-physics/#HisDevLeiPhy)
-* [2. 莱布尼茨关于物质的观点](https://plato.stanford.edu/entries/leibniz-physics/#LeiMatSec)
-
-  * [2.1 原子论的批判](https://plato.stanford.edu/entries/leibniz-physics/#CriAto)
-  * [2.2 笛卡尔微粒论的批判](https://plato.stanford.edu/entries/leibniz-physics/#CriCarCor)
-  * [2.3 物体的被动力量](https://plato.stanford.edu/entries/leibniz-physics/#PasPowBod)
-* [3. 莱布尼茨的动力学](https://plato.stanford.edu/entries/leibniz-physics/#LeiDynSec)
-
-  * [3.1 简要演示](https://plato.stanford.edu/entries/leibniz-physics/#BriDem)
-  * [3.2 物理学和主动力量](https://plato.stanford.edu/entries/leibniz-physics/#PhyActFor)
-  * [3.3 力量与形而上学](https://plato.stanford.edu/entries/leibniz-physics/#ForMet)
-* [4. 莱布尼茨对运动定律的看法](https://plato.stanford.edu/entries/leibniz-physics/#LeiLawMotSec)
-
-  * [4.1 反驳笛卡尔的运动定律](https://plato.stanford.edu/entries/leibniz-physics/#RefCarLawMot)
-  * [4.2 保守原则的系统](https://plato.stanford.edu/entries/leibniz-physics/#SysConPri)
-  * [4.3 绝对还是相对运动？](https://plato.stanford.edu/entries/leibniz-physics/#AbsRelMot)
-* [5. 莱布尼茨对于空间和时间的观点](https://plato.stanford.edu/entries/leibniz-physics/#LeiSpaTimSec)
-
-  * [5.1 反对绝对空间和时间](https://plato.stanford.edu/entries/leibniz-physics/#AgaAbsSpaTim)
-  * [5.2 莱布尼茨式的空间和时间](https://plato.stanford.edu/entries/leibniz-physics/#LeiSpaTimSub)
-* [ 参考文献](https://plato.stanford.edu/entries/leibniz-physics/#Bib)
-
-  * [ 选定的主要文本](https://plato.stanford.edu/entries/leibniz-physics/#SelPriTex)
-  * [选定的主要文本的翻译](https://plato.stanford.edu/entries/leibniz-physics/#SelPriTexTra)
-  * [选定的一般研究和文集](https://plato.stanford.edu/entries/leibniz-physics/#SelGenStuCol)
-  * [莱布尼茨的生平与作品](https://plato.stanford.edu/entries/leibniz-physics/#LeiLifWor)
-  * [ 莱布尼茨早期物理学](https://plato.stanford.edu/entries/leibniz-physics/#LeiEarPhy)
-  * [ 莱布尼茨关于物质](https://plato.stanford.edu/entries/leibniz-physics/#LeiMatBib)
-  * [ 莱布尼茨的动力学](https://plato.stanford.edu/entries/leibniz-physics/#LeiDynBib)
-  * [莱布尼茨关于运动定律](https://plato.stanford.edu/entries/leibniz-physics/#LeiLawMotBib)
-  * [莱布尼茨关于空间和时间](https://plato.stanford.edu/entries/leibniz-physics/#LeiSpaTimBib)
-* [ 学术工具](https://plato.stanford.edu/entries/leibniz-physics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/leibniz-physics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/leibniz-physics/#Rel)
+ 
 
 ---
 

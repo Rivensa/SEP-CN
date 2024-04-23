@@ -17,35 +17,7 @@ _首次发表于2011年9月21日星期三；实质性修订于2024年3月7日星
 
 本条目的目的不是为哲学家提供语言学的一般介绍；寻求此类信息的读者应该参考适当的教材，如 Akmajian 等人（2010）或 Napoli（1996）。关于西方语言学思想的一般历史，包括最近的理论语言学，请参阅 Seuren（1998）。Newmeyer（1986）是关于 1950 年后美国语言学的有用的额外阅读材料。Tomalin（2006）追溯了 Chomsky 的巨著（1955/1956；1975 年出版）的哲学、科学和语言学前身，Scholz 和 Pullum（2007）提供了一篇批判性评论。关于生成语言学的哲学含义的文章包括 Ludlow（2011）和 Rey（2020）。关于语言学哲学的最新文章，Itkonen（2013）从其早期的希腊起源讨论了该领域的各个方面，Pullum（2019）详细介绍了从 1945 年到 2015 年哲学家们进行的辩论，Nefdt（2019a）讨论了与当代科学哲学中的相关问题的联系。
 
-* [1. 语言理论化的三种方法：外在主义、新兴主义和本质主义](https://plato.stanford.edu/entries/linguistics/#ThrAppLinTheExtEmeEss)
-  * [1.1 外在主义者](https://plato.stanford.edu/entries/linguistics/#Ext)
-  * [1.2 新兴主义者](https://plato.stanford.edu/entries/linguistics/#Eme)
-  * [1.3 本质主义者](https://plato.stanford.edu/entries/linguistics/#Ess)
-  * [1.4 比较这三种方法](https://plato.stanford.edu/entries/linguistics/#ComThrApp)
-* [2. 语言哲学的主题](https://plato.stanford.edu/entries/linguistics/#SubMatEssThe)
-  * [2.1 能力和表现](https://plato.stanford.edu/entries/linguistics/#ComPer)
-  * [2.2 “I-语言”和“E-语言”](https://plato.stanford.edu/entries/linguistics/#ILanELan)
-  * [2.3 狭义和广义上的语言能力](https://plato.stanford.edu/entries/linguistics/#FacLanNarBroSen)
-  * [2.4 语言本体论](https://plato.stanford.edu/entries/linguistics/#LingOnto)
-  * [2.5 语言理论的组成部分](https://plato.stanford.edu/entries/linguistics/#ComLinThe)
-* [3. 语言方法论和数据](https://plato.stanford.edu/entries/linguistics/#LinMetDat)
-  * [3.1 关于语言直觉的争议](https://plato.stanford.edu/entries/linguistics/#AcrOveLinInt)
-  * [3.2 语法性和可接受性判断](https://plato.stanford.edu/entries/linguistics/#GraAccJud)
-  * [3.3 评估可接受程度的方法](https://plato.stanford.edu/entries/linguistics/#AssDegAcc)
-  * [3.4 非正式和实验性引导](https://plato.stanford.edu/entries/linguistics/#InfExpEli)
-  * [3.5 非正式方法的实际含义](https://plato.stanford.edu/entries/linguistics/#WhaInfMetAct)
-  * [3.6 语料库数据](https://plato.stanford.edu/entries/linguistics/#CorDat)
-* [4. 语言习得](https://plato.stanford.edu/entries/linguistics/#LanAcq)
-  * [4.1 语言先天主义](https://plato.stanford.edu/entries/linguistics/#LinNat)
-  * [4.2 语言可学性](https://plato.stanford.edu/entries/linguistics/#LanLea)
-* [5. 语言演化](https://plato.stanford.edu/entries/linguistics/#LanEvo)
-  * [5.1 种系发生](https://plato.stanford.edu/entries/linguistics/#PhyEme)
-  * [5.2 历史演变](https://plato.stanford.edu/entries/linguistics/#HisEvo)
-* [参考文献](https://plato.stanford.edu/entries/linguistics/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/linguistics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/linguistics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/linguistics/#Rel)
-* [关于沃尔夫主义的补充](https://plato.stanford.edu/entries/linguistics/whorfianism.html)
+ 
 
 ***
 

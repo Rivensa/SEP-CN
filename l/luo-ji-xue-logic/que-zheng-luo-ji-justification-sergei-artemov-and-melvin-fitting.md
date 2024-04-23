@@ -4,43 +4,7 @@
 
 你可能会说，“我知道亚伯拉罕·林肯是个高个子。”然后你可能会被问到你是怎么知道的。你几乎肯定不会以语义上的方式回答，Hintikka 风格地说，亚伯拉罕·林肯在与你的知识相容的所有情况下都是高个子。相反，你更可能会说，“我在几本书中读到了关于亚伯拉罕·林肯身高的信息，并且我看过他与其他人合影的照片。”一个人通过提供理由、证明来证明自己的知识。Hintikka 语义将知识定义为真实的信念。证明逻辑提供了柏拉图对知识的表征中缺失的第三个组成部分，即合理的真实信念。
 
-* [1. 为什么要使用证明逻辑？](https://plato.stanford.edu/entries/logic-justification/#WhyJusLog)
-
-  * [ 1.1 认识论传统](https://plato.stanford.edu/entries/logic-justification/#EpiTra)
-  * [1.2 数理逻辑学传统](https://plato.stanford.edu/entries/logic-justification/#MatLogTra)
-* [ 1.3 超内涵性](https://plato.stanford.edu/entries/logic-justification/#Hyp)
-* [2. 确证逻辑的基本组成部分](https://plato.stanford.edu/entries/logic-justification/#BasComJusLog)
-
-  * [2.1 确证逻辑的语言](https://plato.stanford.edu/entries/logic-justification/#LanJusLog)
-  * [2.2 基本的确证逻辑 J0](https://plato.stanford.edu/entries/logic-justification/#BasJusLogMat)
-  * [2.3 逻辑意识和恒定规范](https://plato.stanford.edu/entries/logic-justification/#LogAwaConSpe)
-  * [2.4 扩展基本的确证逻辑](https://plato.stanford.edu/entries/logic-justification/#ExtBasJusLog)
-  * [ 2.5 真实性](https://plato.stanford.edu/entries/logic-justification/#Fac)
-  * [2.6 正向内省](https://plato.stanford.edu/entries/logic-justification/#PosInt)
-  * [2.7 负反思](https://plato.stanford.edu/entries/logic-justification/#NegInt)
-  * [2.8 Geach 逻辑学和更多](https://plato.stanford.edu/entries/logic-justification/#GeaLog)
-* [ 3. 语义学](https://plato.stanford.edu/entries/logic-justification/#Sem)
-
-  * [3.1 单一代理人可能世界确证模型对于 J](https://plato.stanford.edu/entries/logic-justification/#SinAgePosWorJusModForMat)
-  * [3.2 弱完备性和强完备性](https://plato.stanford.edu/entries/logic-justification/#WeaStrCom)
-  * [3.3 单一代理人家族](https://plato.stanford.edu/entries/logic-justification/#SinAgeFam)
-  * [3.4 单一世界确证模型](https://plato.stanford.edu/entries/logic-justification/#SinWorJusMod)
-  * [3.5 本体透明语义学](https://plato.stanford.edu/entries/logic-justification/#OntTraSem)
-  * [3.6 与意识模型的连接](https://plato.stanford.edu/entries/logic-justification/#ConAwaMod)
-* [ 4. 确证定理](https://plato.stanford.edu/entries/logic-justification/#ReaThe)
-* [ 5. 推广](https://plato.stanford.edu/entries/logic-justification/#Gen)
-
-  * [5.1 混合显式和隐式知识](https://plato.stanford.edu/entries/logic-justification/#MixExpImpKno)
-  * [5.2 多智能体可能世界确证模型](https://plato.stanford.edu/entries/logic-justification/#MulAgePosWorJusMod)
-* [6. 罗素的例子：诱导性事实性](https://plato.stanford.edu/entries/logic-justification/#RusExaIndFac)
-* [7. 确证的自我参照性](https://plato.stanford.edu/entries/logic-justification/#SelRefJus)
-* [8. 确证逻辑中的量词](https://plato.stanford.edu/entries/logic-justification/#QuaJusLog)
-* [ 9. 历史注释](https://plato.stanford.edu/entries/logic-justification/#HisNot)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-justification/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-justification/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-justification/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-justification/#Rel)
-
+ 
 ---
 
 ## 1. 为什么选择确定性逻辑学？

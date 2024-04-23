@@ -5,36 +5,7 @@
 
 一个术语所指和它的意义之间存在明显的区别。至少可以明显地看出存在区别。在某种程度上，意义决定了指称，但并不等同于指称。毕竟，“晨星”和“夜星”都指的是金星，但意义不同。内涵逻辑试图研究指称和意义，并探究它们之间的关系。
 
-* [1. 这是关于什么的？](https://plato.stanford.edu/entries/logic-intensional/#WhaAbo)
-* [2. 简史](https://plato.stanford.edu/entries/logic-intensional/#BriHis)
-
-  * [ 2.1 弗雷格](https://plato.stanford.edu/entries/logic-intensional/#Fre)
-  * [ 2.2 邱奇](https://plato.stanford.edu/entries/logic-intensional/#Chu)
-  * [ 2.3 卡尔纳普](https://plato.stanford.edu/entries/logic-intensional/#Car)
-  * [ 2.4 马库斯](https://plato.stanford.edu/entries/logic-intensional/#Marcus)
-  * [2.5 蒙塔古、蒂奇、布雷桑和加林](https://plato.stanford.edu/entries/logic-intensional/#MonGalBre)
-* [3. 一个特定的内涵逻辑](https://plato.stanford.edu/entries/logic-intensional/#ParIntLog)
-
-  * [3.1 命题模态逻辑](https://plato.stanford.edu/entries/logic-intensional/#ProModLog)
-  * [3.2 转向一阶逻辑](https://plato.stanford.edu/entries/logic-intensional/#MovFirOrd)
-  * [ 3.3 添加内涵](https://plato.stanford.edu/entries/logic-intensional/#AddInt)
-  * [3.4 语义学的形式化](https://plato.stanford.edu/entries/logic-intensional/#SemFor)
-  * [3.5 部分内涵对象](https://plato.stanford.edu/entries/logic-intensional/#ParIntObj)
-  * [3.6 刚性的问题](https://plato.stanford.edu/entries/logic-intensional/#ProRig)
-* [4. 算法作为意义](https://plato.stanford.edu/entries/logic-intensional/#SenAlg)
-
-  * [ 4.1 激励性例子](https://plato.stanford.edu/entries/logic-intensional/#MotExa)
-  * [ 4.2 语法](https://plato.stanford.edu/entries/logic-intensional/#Syn)
-  * [ 4.3 内涵](https://plato.stanford.edu/entries/logic-intensional/#Den)
-  * [ 4.4 意义](https://plato.stanford.edu/entries/logic-intensional/#Sen)
-  * [4.5 算法不一定需要是有效的](https://plato.stanford.edu/entries/logic-intensional/#AlgNee)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-intensional/#Bib)
-
-  * [ 附加阅读](https://plato.stanford.edu/entries/logic-intensional/#AddRea)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-intensional/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-intensional/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-intensional/#Rel)
-
+ 
 ---
 
 ## 1. 这是关于什么的？

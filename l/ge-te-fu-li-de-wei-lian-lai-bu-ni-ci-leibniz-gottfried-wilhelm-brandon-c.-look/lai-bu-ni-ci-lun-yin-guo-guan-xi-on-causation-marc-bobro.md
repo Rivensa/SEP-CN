@@ -4,23 +4,7 @@
 
 根据戈特弗里德·威廉·莱布尼茨（1646-1716）的观点，物质总是在行动；此外，即使是有限的、被创造的物质也是天然不可毁灭的，因此是永生的，物质将永远继续行动。物质的行动归因于什么或者归因于谁？在莱布尼茨的时代，这个问题基本上成为了关于上帝因果作用的问题。上帝是自然界唯一真正的因果作用者吗？或者说，上帝的因果贡献，至少在自然的普通发展中，“仅仅”是创造和保持被创造物质的作用？我们将看到，莱布尼茨认为上帝和被创造物质都对物质状态的变化负有因果责任。对于 17 世纪的哲学家来说，还有一个特别突出的问题：实质活动中存在哪些类型的原因？在莱布尼茨去世仅 30 年后，大卫·休谟声称他自己对因果的定义意味着“所有原因都是同一种类型”，即效果（即生产性）原因。莱布尼茨的因果理论则将效果、目的和形式原因整合在一起，试图通过他臭名昭著的预设和谐来解释现象之间的真正因果关系。
 
-* [1. 因果论的竞争理论](https://plato.stanford.edu/entries/leibniz-causation/#CompTheoCaus)
-* [2. 为什么莱布尼茨拒绝物质流注？](https://plato.stanford.edu/entries/leibniz-causation/#WhyDoesLeibRejePhysInfl)
-* [3. 为什么莱布尼茨拒绝偶然论？](https://plato.stanford.edu/entries/leibniz-causation/#WhyDoesLeibRejeOcca)
-* [4. 实体间因果关系](https://plato.stanford.edu/entries/leibniz-causation/#InteCaus)
-* [5. 实体内因果关系](https://plato.stanford.edu/entries/leibniz-causation/#IntrCaus)
-* [ 6. 神圣因果](https://plato.stanford.edu/entries/leibniz-causation/#DiviCaus)
-* [7. 有效（生产）因果](https://plato.stanford.edu/entries/leibniz-causation/#EffiProdCaus)
-* [8. 最终和形式因果](https://plato.stanford.edu/entries/leibniz-causation/#FinaFormCaus)
-* [ 9. 因果模型](https://plato.stanford.edu/entries/leibniz-causation/#CausMode)
-* [10. 莱布尼茨式原因的概念“概要”](https://plato.stanford.edu/entries/leibniz-causation/#ConcOutlLeibCaus)
-* [ 参考文献](https://plato.stanford.edu/entries/leibniz-causation/#Bib)
-
-  * [ 莱布尼茨的作品](https://plato.stanford.edu/entries/leibniz-causation/#WorkLeib)
-  * [ 二手文献](https://plato.stanford.edu/entries/leibniz-causation/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/leibniz-causation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/leibniz-causation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/leibniz-causation/#Rel)
+ 
 
 ---
 

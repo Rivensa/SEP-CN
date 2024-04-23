@@ -8,29 +8,7 @@
 
 行动逻辑起源于哲学。但它在语言学中也起到了一定的作用。目前，在计算机科学和人工智能中它具有重要意义。为了我们的目的，将这些发展的解释分开是很自然的。
 
-* [1. 哲学中的行动逻辑](https://plato.stanford.edu/entries/logic-action/#LogAct)
-
-  * [ 1.1 历史概述](https://plato.stanford.edu/entries/logic-action/#HisOve)
-  * [1.2 stit 传奇](https://plato.stanford.edu/entries/logic-action/#StiSag)
-  * [ 1.3 意图](https://plato.stanford.edu/entries/logic-action/#Int)
-  * [1.4 特殊类型行动的逻辑](https://plato.stanford.edu/entries/logic-action/#LogSpeKinAct)
-* [2. 语言学中的行动逻辑](https://plato.stanford.edu/entries/logic-action/#LogActLin)
-
-  * [ 2.1 言语行为](https://plato.stanford.edu/entries/logic-action/#SpeAct)
-  * [ 2.2 行动句](https://plato.stanford.edu/entries/logic-action/#ActSen)
-  * [ 2.3 动态语义](https://plato.stanford.edu/entries/logic-action/#DynSem)
-* [3. 计算机科学中的行动逻辑](https://plato.stanford.edu/entries/logic-action/#LogActComSci)
-
-  * [3.1 关于程序的推理](https://plato.stanford.edu/entries/logic-action/#ReaAboPro)
-* [4. 人工智能中的行动逻辑](https://plato.stanford.edu/entries/logic-action/#LogActArtInt)
-
-  * [4.1 行动的表示和推理](https://plato.stanford.edu/entries/logic-action/#RepReaAboAct)
-  * [4.2 智能代理的描述和规范](https://plato.stanford.edu/entries/logic-action/#DesSpeIntAge)
-* [ 结论](https://plato.stanford.edu/entries/logic-action/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-action/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-action/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-action/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-action/#Rel)
+ 
 
 ---
 

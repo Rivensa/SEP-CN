@@ -5,31 +5,7 @@
 
 卢克莱修（公元前 90 年代至公元前 50 年代中期）是一位拉丁语作家，他创作了一部有关伊壁鸠鲁物理学的六卷拉丁教诲诗《物之本性》，简称 DRN，通常译为《万物的本质》或《宇宙的本性》。DRN 是我们对伊壁鸠鲁学派原子论物理学最详尽的来源，但这主要是偶然的。卢克莱修将技术性的希腊散文翻译成拉丁诗歌，并结合了这部作品的百科全书式的范围，这是拉丁文学中的一项开创性成就，也是有史以来最雄心勃勃的诗歌之一。DRN 是完整的，但可能缺少最后的修订。尽管有一些删节和简化，卢克莱修忠实地再现了伊壁鸠鲁学派的教义。他为我们提供了关于伊壁鸠鲁原子论基础的最详细的解释，也是我们唯一的伊壁鸠鲁学派来源，关于原子的“突变”学说。在各卷的开篇诗歌中，他表达了对伊壁鸠鲁和对伊壁鸠鲁主义作为通往幸福之路的信心。DRN 是古代反目的、反守护的唯物主义观念的几乎唯一幸存之物。其中一些哲学亮点包括：第二卷中将原子描绘为阳光中的尘埃，否定了原子本身的大部分现象特性，包括颜色；第三卷中对死亡的恐惧的处理；第四卷和第五卷中对自然的目的论解释的批判，从宇宙设计到身体部分；以及从第五卷开始，对宗教起源的人文解释。
 
-* [ 1. 生活](https://plato.stanford.edu/entries/lucretius/#Life)
-* [2. 诗歌的结构和缺乏最终修订](https://plato.stanford.edu/entries/lucretius/#PoemStruLackFinaRevi)
-* [ 3. 诗歌格式](https://plato.stanford.edu/entries/lucretius/#PoetForm)
-* [ 4. 伊壁鸠鲁主义背景](https://plato.stanford.edu/entries/lucretius/#EpicBack)
-* [5. 自然科学](https://plato.stanford.edu/entries/lucretius/#NatuScie)
-
-  * [ 卷一](https://plato.stanford.edu/entries/lucretius/#Book1)
-  * [ 卷二](https://plato.stanford.edu/entries/lucretius/#Book2)
-  * [ 第三卷](https://plato.stanford.edu/entries/lucretius/#Book3)
-  * [ 第四卷](https://plato.stanford.edu/entries/lucretius/#Book4)
-  * [ 第五卷](https://plato.stanford.edu/entries/lucretius/#Book5)
-  * [ 第六卷书](https://plato.stanford.edu/entries/lucretius/#Book6)
-* [ 6. 伦理学](https://plato.stanford.edu/entries/lucretius/#Ethi)
-* [ 7. 宗教](https://plato.stanford.edu/entries/lucretius/#Reli)
-* [8. 影响与接受](https://plato.stanford.edu/entries/lucretius/#InflRece)
-* [ 参考文献](https://plato.stanford.edu/entries/lucretius/#Bib)
-
-  * [A. 版本和评论](https://plato.stanford.edu/entries/lucretius/#EditComm)
-  * [ B. 翻译](https://plato.stanford.edu/entries/lucretius/#BTran)
-  * [ C. 二次文献](https://plato.stanford.edu/entries/lucretius/#CSecoLite)
-  * [D. 影响与接受](https://plato.stanford.edu/entries/lucretius/#DInflRece)
-* [ 学术工具](https://plato.stanford.edu/entries/lucretius/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lucretius/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/lucretius/#Rel)
-
+ 
 ---
 
 ## 1. 生活

@@ -6,23 +6,7 @@
 
 逻辑哲学中的重要问题，例如：“为什么存在这么多逻辑而不仅仅是一个？”（甚至是没有一个），例如在 Epstein 1995 中提出的问题，可以自然地与其他几个问题相对立：如果确实存在许多逻辑，它们是互斥的还是兼容的？是否可以将不同的逻辑组合成一致的系统，以便在应用中使用它们并揭示复杂逻辑的属性？此外，如果我们可以组合逻辑，为什么不能将其分解？如果将逻辑分解为基本子逻辑，是否可以通过组合这些片段来恢复它？逻辑的哪些属性可以转移到它们的组合中？这类问题在文献中只有部分得到解决，并反映了这一主题发展中需要面对的挑战。
 
-* [1. 合并逻辑的哲学和方法论动机](https://plato.stanford.edu/entries/logic-combining/#PhilMethMotiForCombLogi)
-* [2. 分割逻辑与拼接逻辑](https://plato.stanford.edu/entries/logic-combining/#SpliLogiVersSpliLogi)
-* [3. 语言的重要性与逻辑的呈现](https://plato.stanford.edu/entries/logic-combining/#ImpoLangPresLogi)
-* [4. 合并和分解逻辑的方法](https://plato.stanford.edu/entries/logic-combining/#MethForCombDecoLogi)
-
-  * [4.1 合并与产品](https://plato.stanford.edu/entries/logic-combining/#FusiProd)
-  * [4.2 函数合并（或通过函数合并）](https://plato.stanford.edu/entries/logic-combining/#FibrFibrFunc)
-  * [4.3 类别（或代数）合并](https://plato.stanford.edu/entries/logic-combining/#CateAlgeFibr)
-  * [4.4 可能翻译语义学](https://plato.stanford.edu/entries/logic-combining/#PossTranSema)
-  * [4.5 时间化、参数化和机构化](https://plato.stanford.edu/entries/logic-combining/#TempParaInst)
-  * [4.6 合并逻辑的新视角](https://plato.stanford.edu/entries/logic-combining/#NewPersCombLogi)
-* [5. 互动的缺乏或过度：合并逻辑时的困惑](https://plato.stanford.edu/entries/logic-combining/#LackExceIntePerpWhenCombLogi)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-combining/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-combining/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-combining/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-combining/#Rel)
-
+ 
 ---
 
 ## 1. 合并逻辑的哲学和方法论动机

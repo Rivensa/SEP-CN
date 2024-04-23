@@ -6,19 +6,7 @@
 
 这些版本中最重要的是约翰·爱德华·埃德曼的莱布尼茨哲学著作集（1839/40），它引发了莱布尼茨逻辑的第一波接受。这个版本以及阿道夫·特伦德伦堡基于其中发表的文本对莱布尼茨符号理论的讨论，使得 19 世纪末数学逻辑学家进一步接受了莱布尼茨的思想。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/leibniz-logic-influence/#Int)
-* [2. 莱布尼茨作品第一版中的逻辑](https://plato.stanford.edu/entries/leibniz-logic-influence/#LogFirEdiLeiWor)
-* [3. 接受的第二波浪潮](https://plato.stanford.edu/entries/leibniz-logic-influence/#SecWavRec)
-
-  * [3.1 约翰·爱德华·埃德曼](https://plato.stanford.edu/entries/leibniz-logic-influence/#JohEduErd)
-  * [3.2 莱布尼茨的版权对埃德曼的影响](https://plato.stanford.edu/entries/leibniz-logic-influence/#ImpErdEdi)
-* [4. 戈特弗里德·威廉·莱布尼茨的普遍特征上的弗里德里希·阿道夫·特伦德伦堡](https://plato.stanford.edu/entries/leibniz-logic-influence/#FriAdoTreLeiGenCha)
-* [5. 在数理逻辑中发现莱布尼茨](https://plato.stanford.edu/entries/leibniz-logic-influence/#DisLeiMatLog)
-* [ 6. 结论](https://plato.stanford.edu/entries/leibniz-logic-influence/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/leibniz-logic-influence/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/leibniz-logic-influence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/leibniz-logic-influence/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/leibniz-logic-influence/#Rel)
+ 
 
 ---
 

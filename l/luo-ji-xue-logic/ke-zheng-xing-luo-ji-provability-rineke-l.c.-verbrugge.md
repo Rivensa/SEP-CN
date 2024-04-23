@@ -6,38 +6,7 @@
 
 从哲学角度来看，可证性逻辑很有趣，因为在固定的算术理论中，可证性的概念具有独特且非问题性的含义，与模态逻辑和认识逻辑中研究的必然性和知识等概念不同。此外，可证性逻辑提供了研究自指概念的工具。
 
-* [1. 可证性逻辑的历史](https://plato.stanford.edu/entries/logic-provability/#HistProvLogi)
-* [2. 可证性逻辑的命题公理系统](https://plato.stanford.edu/entries/logic-provability/#AxioSystPropProvLogi)
-
-  * [2.1 公理和规则](https://plato.stanford.edu/entries/logic-provability/#AxioRule)
-  * [2.2 不动点定理](https://plato.stanford.edu/entries/logic-provability/#FixePoinTheo)
-* [3. 可能世界语义和拓扑语义](https://plato.stanford.edu/entries/logic-provability/#PossWorlSemaTopoSema)
-
-  * [3.1 特征和模态正确性](https://plato.stanford.edu/entries/logic-provability/#CharModaSoun)
-  * [ 3.2 模态完备性](https://plato.stanford.edu/entries/logic-provability/#ModaComp)
-  * [3.3 强完备性的失败](https://plato.stanford.edu/entries/logic-provability/#FailStroComp)
-  * [3.4 可证性逻辑的拓扑语义](https://plato.stanford.edu/entries/logic-provability/#TopoSemaForProvLogi)
-* [4. 可证性逻辑与 Peano 算术](https://plato.stanford.edu/entries/logic-provability/#ProvLogiPeanArit)
-
-  * [4.1 算术的可证性](https://plato.stanford.edu/entries/logic-provability/#AritSoun)
-  * [4.2 算术的完备性](https://plato.stanford.edu/entries/logic-provability/#AritComp)
-* [5. 可证性逻辑的范围](https://plato.stanford.edu/entries/logic-provability/#ScopProvLogi)
-
-  * [ 5.1 边界](https://plato.stanford.edu/entries/logic-provability/#Boun)
-  * [5.2 可证性逻辑](https://plato.stanford.edu/entries/logic-provability/#InteLogi)
-  * [5.3 命题量词](https://plato.stanford.edu/entries/logic-provability/#PropQuan)
-  * [5.4 Japaridze 的双模和多模可证性逻辑学](https://plato.stanford.edu/entries/logic-provability/#JapaBimoPolyProvLogi)
-  * [5.5 谓词可证性逻辑学](https://plato.stanford.edu/entries/logic-provability/#PredProvLogi)
-  * [5.6 其他推广](https://plato.stanford.edu/entries/logic-provability/#OtheGene)
-* [6. 哲学意义](https://plato.stanford.edu/entries/logic-provability/#PhilSign)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-provability/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-provability/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-provability/#Oth)
-
-  * [论文和演讲](https://plato.stanford.edu/entries/logic-provability/#PapePres)
-  * [ 其他网站](https://plato.stanford.edu/entries/logic-provability/#OtheSite)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-provability/#Rel)
-
+ 
 ---
 
 ## 1. 可证性逻辑的历史

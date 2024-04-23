@@ -4,25 +4,7 @@ _首次发表于2007年2月1日；实质修订于2023年2月16日。_
 
 程序逻辑是从将每个计算机程序α与一种形式\[α]相关联的思想中产生的模态逻辑。然后，公式\[α]A 的含义是：在执行程序α之后，A 为真。这个思想来自 Engeler \[1967]，Hoare \[1969]，Yanov \[1959]等人的研究成果，他们制定并研究了可以表达程序连接词性质的逻辑语言。Salwicki \[1970]首次开发的算法逻辑（AL）和 Pratt \[1976]详细阐述的动态逻辑（DL）是这些工作的适当延续。我们将在这里集中讨论 DL。专注于 DL 的众多论文以及其在程序验证和数据结构中的许多应用表明，它构成了研究程序性质的有用工具。Pratt 选择在可以称之为一阶层面上描述 DL，正是他的工作激发了 Fischer 和 Ladner \[1979]几年后定义 DL 的命题变体。本文介绍了 DL 的命题变体 PDL 的概述。
 
-* [1. 引言](https://plato.stanford.edu/entries/logic-dynamic/#Intr)
-* [2. 定义和基本结果](https://plato.stanford.edu/entries/logic-dynamic/#DefiFundResu)
-  * [2.1 语法和语义](https://plato.stanford.edu/entries/logic-dynamic/#SyntSema)
-  * [2.2 公理化和完备性](https://plato.stanford.edu/entries/logic-dynamic/#AxioComp)
-  * [2.3 可决定性和复杂性](https://plato.stanford.edu/entries/logic-dynamic/#DeciComp)
-* [3. 结构化编程和程序的正确性](https://plato.stanford.edu/entries/logic-dynamic/#StruProgCorrProg)
-  * [3.1 霍尔演算](https://plato.stanford.edu/entries/logic-dynamic/#HoarCalc)
-  * [3.2 霍尔演算和 PDL](https://plato.stanford.edu/entries/logic-dynamic/#HoarCalcPDL)
-  * [3.3 总体正确性](https://plato.stanford.edu/entries/logic-dynamic/#TotaCorr)
-* [4. 一些变体](https://plato.stanford.edu/entries/logic-dynamic/#SomeVari)
-  * [4.1 没有测试的 PDL](https://plato.stanford.edu/entries/logic-dynamic/#PDLWithTest)
-  * [4.2 具有逆向的 PDL](https://plato.stanford.edu/entries/logic-dynamic/#PDLConv)
-  * [4.3 具有重复和循环的 PDL](https://plato.stanford.edu/entries/logic-dynamic/#PDLRepeLoop)
-  * [4.4 具有交集的 PDL](https://plato.stanford.edu/entries/logic-dynamic/#PDLInte)
-* [5. 结论](https://plato.stanford.edu/entries/logic-dynamic/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/logic-dynamic/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/logic-dynamic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-dynamic/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/logic-dynamic/#Rel)
+ 
 
 ***
 

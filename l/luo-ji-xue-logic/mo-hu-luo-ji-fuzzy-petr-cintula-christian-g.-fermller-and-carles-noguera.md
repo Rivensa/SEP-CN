@@ -10,21 +10,7 @@ _首次发表于2016年11月15日；实质修订于2021年11月11日。_
 
 数学模糊逻辑专注于基于部分真实性的真值功能解释，并以经典数学逻辑的精神研究它们，研究语法、模型论语义学、证明系统、完备性等，无论是在命题层面还是谓词层面（参见 Cintula，Fermüller，Hájek 和 Noguera 2011 和 2015）。
 
-* [1. 基于 t-范数的模糊连接词](https://plato.stanford.edu/entries/logic-fuzzy/#FuzzConnBaseTNorm)
-* [2. MTL：一种基本的模糊逻辑](https://plato.stanford.edu/entries/logic-fuzzy/#MTLFundFuzzLogi)
-* [3. Łukasiewicz 逻辑学](https://plato.stanford.edu/entries/logic-fuzzy/#LukaLogi)
-* [4. Gödel–Dummett 逻辑学](https://plato.stanford.edu/entries/logic-fuzzy/#GodeLogi)
-* [5. 其他显著的模糊逻辑学](https://plato.stanford.edu/entries/logic-fuzzy/#OtheNotaFuzzLogi)
-* [6. 谓词逻辑学](https://plato.stanford.edu/entries/logic-fuzzy/#PredLogi)
-* [7. 代数语义学](https://plato.stanford.edu/entries/logic-fuzzy/#AlgeSema)
-* [8. 证明论](https://plato.stanford.edu/entries/logic-fuzzy/#ProoTheo)
-* [9. 证明真值功能的语义学](https://plato.stanford.edu/entries/logic-fuzzy/#SemaJustTrutFunc)
-* [10. 模糊逻辑与模糊性](https://plato.stanford.edu/entries/logic-fuzzy/#FuzzLogiVagu)
-* [参考文献](https://plato.stanford.edu/entries/logic-fuzzy/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/logic-fuzzy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-fuzzy/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/logic-fuzzy/#Rel)
-
+ 
 ***
 
 ## 1. 基于 t-范数的模糊连接词

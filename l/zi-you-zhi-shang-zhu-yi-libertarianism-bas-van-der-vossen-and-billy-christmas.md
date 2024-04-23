@@ -24,15 +24,7 @@
 
 自由至上主义者为其核心规范主张依据了各种道德基础。在哲学学科中，自由至上主义最著名的是德行论（罗斯巴德 1978 年，1982 年，诺齐克 1974 年，麦克 1981 年，1989 年，1990 年，1998 年，1999 年，2010 年，2018 年，斯坦纳 1994 年），这是从约翰·洛克和伊曼努尔·康德那里得到的启示。然而，其他人是亚里士多德幸福主义者（拉斯穆森和德恩·尤尔 1991 年，2005 年，2016 年，2020 年），各种契约主义者（纳维森 2011 年，洛马斯基 1987 年，2016 年，高斯 2009 年，2010 年，2012 年），或规则后果主义者（爱泼斯坦 1995 年，1998 年，2015 年，巴尼特 1998b 年）。许多人是隐含的规则后果主义者，主要依赖经济论证而不是道德哲学论证（弗里德曼 1997 年，彭宁顿 2011 年，特布尔 2016 年）。请注意，虽然各种自由至上主义者通常以权利的术语表达其政治哲学，但他们并不都以德行论为基础来确立这些权利。例如，对于亚里士多德幸福主义者来说，权利是使自我导向的美德在社会环境中成为可能的元伦理框架；对于契约主义者来说，权利集合可能是契约程序的产物；对于经济学家来说，权利可能是一个高效的法律框架等等。
 
-* [1. 自我所有权和经济正义](https://plato.stanford.edu/entries/libertarianism/#SelfOwneEconJust)
-* [2. 产权和原始获取](https://plato.stanford.edu/entries/libertarianism/#PropRighOrigAcqu)
-* [3. 自由至上主义的其他途径](https://plato.stanford.edu/entries/libertarianism/#OtheRoutLibe)
-* [4. 自由至上主义，左派和右派](https://plato.stanford.edu/entries/libertarianism/#LibeLeftRigh)
-* [5. 无政府主义和国家](https://plato.stanford.edu/entries/libertarianism/#AnarStat)
-* [ 参考书目](https://plato.stanford.edu/entries/libertarianism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/libertarianism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/libertarianism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/libertarianism/#Rel)
+ 
 
 ---
 

@@ -3,42 +3,7 @@
 *首次发表于2009年2月9日；实质修订于2022年9月15日。*
 
 独立性友好逻辑（IF 逻辑，IF 一阶逻辑）是一阶逻辑的扩展。在其中，可以表达比一阶逻辑更多的量词依赖和独立性。它的量词仅范围在个体之上；然而，从语义上讲，IF 一阶逻辑具有与存在性二阶逻辑相同的表达能力。IF 逻辑缺乏一阶逻辑具有的某些元属性（公理化性，塔斯基类型语义）。另一方面，IF 逻辑允许自我应用的真理谓词 - 这是一阶逻辑所不具备的特性。与 IF 逻辑相关的哲学问题包括重塑逻辑主义计划，公理集合论中的真理问题以及否定的本质。在 IF 逻辑方面的研究也启发了一阶逻辑的替代推广：斜杠逻辑和依赖逻辑。
-
-* [1. 引言：量词依赖](https://plato.stanford.edu/entries/logic-if/#IntQuaDep)
-* [2. IF 逻辑的背景：博弈论语义](https://plato.stanford.edu/entries/logic-if/#BacIFLogGamTheSem)
-
-  * [ 2.1. 语义游戏](https://plato.stanford.edu/entries/logic-if/#SemGam)
-  * [2.2. 不完全信息](https://plato.stanford.edu/entries/logic-if/#ImpInf)
-* [3. IF 一阶逻辑的语法和语义](https://plato.stanford.edu/entries/logic-if/#SynSemIFFirOrdLog)
-
-  * [ 3.1. 语法](https://plato.stanford.edu/entries/logic-if/#Syn)
-  * [ 3.2. 语义](https://plato.stanford.edu/entries/logic-if/#Sem)
-  * [3.3. 基本属性和概念](https://plato.stanford.edu/entries/logic-if/#BasProNot)
-  * [3.4. 扩展的独立性友好的一阶逻辑](https://plato.stanford.edu/entries/logic-if/#ExtIFFirOrdLog)
-* [4. IF 一阶逻辑的元逻辑属性](https://plato.stanford.edu/entries/logic-if/#MetProIFFirOrdLog)
-
-  * [4.1. 一阶逻辑和存在性二阶逻辑](https://plato.stanford.edu/entries/logic-if/#FirOrdLogExiSecOrdLog)
-  * [4.2. 否定的复杂性](https://plato.stanford.edu/entries/logic-if/#IntNeg)
-  * [4.3 公理化失败](https://plato.stanford.edu/entries/logic-if/#FaiAxi)
-  * [4.4 组合性与塔斯基类型语义的失败](https://plato.stanford.edu/entries/logic-if/#ComFaiTarTypSem)
-  * [ 4.5 真理的定义](https://plato.stanford.edu/entries/logic-if/#DefTru)
-  * [4.6 扩展独立性友好一阶逻辑的属性](https://plato.stanford.edu/entries/logic-if/#ProExtIFFirOrdLog)
-* [5. 哲学后果](https://plato.stanford.edu/entries/logic-if/#PhiCon)
-
-  * [5.1 类型层次中的位置](https://plato.stanford.edu/entries/logic-if/#PlaTypHie)
-  * [5.2 集合论哲学](https://plato.stanford.edu/entries/logic-if/#SetThe)
-  * [5.3 扩展的独立性友好的一阶逻辑和数学理论化](https://plato.stanford.edu/entries/logic-if/#ExtIFFirOrdLogMatThe)
-  * [5.4 自然语言中的信息独立性](https://plato.stanford.edu/entries/logic-if/#InfIndNatLan)
-* [6. 相关逻辑学](https://plato.stanford.edu/entries/logic-if/#RelLog)
-
-  * [ 6.1 斜杠逻辑](https://plato.stanford.edu/entries/logic-if/#SlaLog)
-  * [ 6.2 独立性友好逻辑学](https://plato.stanford.edu/entries/logic-if/#DepLog)
-* [ 7. 结论](https://plato.stanford.edu/entries/logic-if/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-if/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-if/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-if/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-if/#Rel)
-
+ 
 ---
 
 ## 1. 引言：量词依赖

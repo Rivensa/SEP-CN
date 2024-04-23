@@ -4,15 +4,7 @@
 
 子结构逻辑是比经典逻辑更弱的非经典逻辑，以经典逻辑中不存在的结构规则的缺失而著名。这些逻辑受到哲学（相关逻辑）、语言学（Lambek 演算）和计算机科学（线性逻辑）的考虑的启发。此外，子结构逻辑的技术在研究传统逻辑（如经典逻辑和直觉主义逻辑）方面也很有用。本文简要介绍了子结构逻辑领域。对于更详细的介绍，包括定理、证明和示例，读者可以参考参考书目中的书籍和文章。
 
-* [ 1. 解释](https://plato.stanford.edu/entries/logic-substructural/#1)
-* [2. 家族中的逻辑](https://plato.stanford.edu/entries/logic-substructural/#2)
-* [ 3. 证明系统](https://plato.stanford.edu/entries/logic-substructural/#3)
-* [ 4. 语义学](https://plato.stanford.edu/entries/logic-substructural/#4)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-substructural/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-substructural/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-substructural/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-substructural/#Rel)
-
+ 
 ---
 
 ## 1. 子结构

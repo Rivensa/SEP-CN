@@ -28,35 +28,7 @@ d(l1)=d(l2)⇔l1||l2.
 
 逻辑主义的学说并没有呈现出明显的历史趋势，即通过渐进性的调整来处理偶发问题，同时保持相对稳定的发展轨迹朝向理想的表述。相反，该学说在方法和材料方面表现出了突然的转变，即使目标在这些变化中相对稳定。[2] 通过以下逻辑主义不同阶段的叙述，我们将看到这种变化的模式逐渐显现。
 
-* [1. 历史背景](https://plato.stanford.edu/entries/logicism/#HisBac)
-
-  * [1.1 Dedekind](https://plato.stanford.edu/entries/logicism/#Ded)
-  * [ 1.2 弗雷格](https://plato.stanford.edu/entries/logicism/#Fre)
-
-    * [1.2.1 数字作为高级概念](https://plato.stanford.edu/entries/logicism/#NumHigLevCon)
-    * [1.2.2 休谟原则和凯撒问题](https://plato.stanford.edu/entries/logicism/#HumPriCaePro)
-    * [ 1.2.3 逻辑主义的基本原理](https://plato.stanford.edu/entries/logicism/#Gru)
-    * [1.2.4 弗雷格对自然数的处理](https://plato.stanford.edu/entries/logicism/#FreTreNatNum)
-    * [ 1.2.5 罗素悖论](https://plato.stanford.edu/entries/logicism/#RusPar)
-  * [1.3 逻辑主义在弗雷格之后直到策梅洛](https://plato.stanford.edu/entries/logicism/#LogAftFreUpZer)
-
-    * [1.3.1 罗素的类型理论](https://plato.stanford.edu/entries/logicism/#RusTypThe)
-    * [1.3.2 策梅洛-弗雷因克尔集合论](https://plato.stanford.edu/entries/logicism/#ZerFraSetThe)
-* [ 2. 新逻辑主义](https://plato.stanford.edu/entries/logicism/#NeoFre)
-* [3. 第二阶逻辑与休谟原则](https://plato.stanford.edu/entries/logicism/#SecOrdLogHumPri)
-* [4. 构造逻辑主义](https://plato.stanford.edu/entries/logicism/#ConLog)
-
-  * [4.1 对新逻辑主义的不同种类的动机](https://plato.stanford.edu/entries/logicism/#MotForDifKinNeoLog)
-  * [4.2 反实在论和逻辑主义的推理主义方法](https://plato.stanford.edu/entries/logicism/#AntReaInfAppLog)
-  * [ 4.3 执行](https://plato.stanford.edu/entries/logicism/#Exe)
-* [ 5. 新逻辑主义](https://plato.stanford.edu/entries/logicism/#ModNeoLog)
-* [6. 受格兰德格塞茨启发的最新研究，或者离开它](https://plato.stanford.edu/entries/logicism/#ReceWorkFrag)
-* [7. 逻辑主义问题总结](https://plato.stanford.edu/entries/logicism/#SumProForLog)
-* [ 参考文献](https://plato.stanford.edu/entries/logicism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logicism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logicism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logicism/#Rel)
-
+ 
 ---
 
 ## 1. 历史背景

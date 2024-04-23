@@ -4,18 +4,7 @@ _首次发表于2008年5月23日，实质修订于2013年2月8日。_
 
 在关于莱布尼茨的主要文章中，声称莱布尼茨的哲学可以被视为对笛卡尔的物质实体理论和斯宾诺莎和霍布斯的必然主义的反应。本条目将讨论他哲学的第二个方面。在他的著作中，莱布尼茨发展了一种对模态问题（必然性、可能性、偶然性）的处理方法，这不仅在他的一般形而上学、认识论和哲学神学中起着重要作用，而且至今仍然具有持续的兴趣。事实上，有人认为 20 世纪模态逻辑的发展要么基于莱布尼茨的洞见，要么至少具有莱布尼茨的精神。
 
-* [1. 个体和世界](https://plato.stanford.edu/entries/leibniz-modal/#IndWor)
-* [2. 模态的本质](https://plato.stanford.edu/entries/leibniz-modal/#NatMod)
-* [3. 莱布尼茨的本质主义](https://plato.stanford.edu/entries/leibniz-modal/#LeiEss)
-* [4. 人类自由：确定性而无必然性](https://plato.stanford.edu/entries/leibniz-modal/#HumFreCerWitNec)
-* [5. 为什么是这个世界？](https://plato.stanford.edu/entries/leibniz-modal/#WhyWor)
-* [参考文献](https://plato.stanford.edu/entries/leibniz-modal/#Bib)
-  * [莱布尼茨的主要来源及缩写](https://plato.stanford.edu/entries/leibniz-modal/#PriSouForLeiAbb)
-  * [莱布尼茨的次要来源](https://plato.stanford.edu/entries/leibniz-modal/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/leibniz-modal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/leibniz-modal/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/leibniz-modal/#Rel)
-
+ 
 ***
 
 ## 1. 个体与世界

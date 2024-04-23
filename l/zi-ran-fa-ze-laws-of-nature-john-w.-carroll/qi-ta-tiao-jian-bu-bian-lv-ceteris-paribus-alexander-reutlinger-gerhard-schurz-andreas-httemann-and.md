@@ -4,35 +4,7 @@ _首次发表于2011年3月14日星期一；实质性修订于2024年2月8日星
 
 自然法则在科学哲学和形而上学中占据重要地位。法则通常被认为与许多哲学关键概念（如因果关系、解释、确认、决定论和反事实）紧密相关。传统上，哲学家们关注的是物理法则，这些法则被认为至少是真实的、普遍适用的陈述，支持反事实主张。但是，尽管这种关于法则的说法在物理学方面可能是正确的，但特殊科学（如生物学、心理学和经济学）中的法则似乎具有与物理法则不同的特征。特殊科学的法则，例如经济学中的“在完全竞争条件下，商品需求增加导致价格上涨，前提是供应商品的数量保持不变”，以及生物学中的孟德尔定律，通常被认为“有例外”，是“非普遍的”或者是“其他条件不变律”。物理学的法则和特殊科学的法则之间的差异以及它们是否存在差异是引发关于其他条件不变律的辩论的关键问题之一。另一个重要而有争议的问题涉及“其他条件不变律”这一术语的确切含义的确定。哲学家们试图以不同的方式阐明其他条件不变律条款的含义。含义问题与经验内容问题相关，即其他条件不变律是否具有非平凡且经验可验证的内容。由于许多哲学家认为其他条件不变律缺乏经验可验证的内容，这个问题对其他条件不变律理论构成了重大挑战。
 
-* [1. 引言](https://plato.stanford.edu/entries/ceteris-paribus/#Int)
-  * [1.1. 系统介绍](https://plato.stanford.edu/entries/ceteris-paribus/#SysInt)
-  * [1.2. 概述](https://plato.stanford.edu/entries/ceteris-paribus/#Ove)
-* [2. 历史与背景](https://plato.stanford.edu/entries/ceteris-paribus/#HisBac)
-  * [2.1. 简要历史调查：从学院哲学到现代经济学](https://plato.stanford.edu/entries/ceteris-paribus/#BriHisSurSchModEco)
-  * [2.2. 当代辩论的背景](https://plato.stanford.edu/entries/ceteris-paribus/#BacConDeb)
-* [3. 讨论的框架：区分独占/比较和明确/不明确的其他条件不变律](https://plato.stanford.edu/entries/ceteris-paribus/#FraForDisDisExcComDefCetParLaw)
-  * [3.1. 比较与独占的其他条件不变律](https://plato.stanford.edu/entries/ceteris-paribus/#ComVsExcCpLaw)
-  * [3.2 具体与不确定的其他条件不变律](https://plato.stanford.edu/entries/ceteris-paribus/#DefVerIndCpLaw)
-* [4. 挑战：在虚假和琐碎之间的独占性其他条件不变律](https://plato.stanford.edu/entries/ceteris-paribus/#ChaExcCetParLawBetFalTri)
-* [5. 独占性其他条件不变律：补全者方法](https://plato.stanford.edu/entries/ceteris-paribus/#ExcCPLawMetCom)
-  * [5.1. 语义和认识论的补全者](https://plato.stanford.edu/entries/ceteris-paribus/#SemEpiCom)
-  * [5.2. 批评：琐碎性和偶然性](https://plato.stanford.edu/entries/ceteris-paribus/#CriTriAcc)
-* [6. 不变性和稳定性理论](https://plato.stanford.edu/entries/ceteris-paribus/#InvStaThe)
-  * [6.1. 其他条件不变律和干扰因素的实用知识中的反事实稳定律](https://plato.stanford.edu/entries/ceteris-paribus/#CouStaLawPraKnoDisFac)
-  * [6.2. 解释性概括下的干预不变性](https://plato.stanford.edu/entries/ceteris-paribus/#InvUndIntExpGen)
-* [7. 随附性解释](https://plato.stanford.edu/entries/ceteris-paribus/#DisAcc)
-* [8. 正常性理论](https://plato.stanford.edu/entries/ceteris-paribus/#NorThe)
-  * [8.1. 规范律和演化](https://plato.stanford.edu/entries/ceteris-paribus/#NorLawEvo)
-  * [8.2. 正常条件方法](https://plato.stanford.edu/entries/ceteris-paribus/#NorConApp)
-  * [8.3. 其他条件不变律和非单调推理](https://plato.stanford.edu/entries/ceteris-paribus/#CetParLawNonMonRea)
-* [9. 道德和认识论中的表面理由和其他条件不变律](https://plato.stanford.edu/entries/ceteris-paribus/#AppOthArePriFacReaCetParConEthEpi)
-* [10. 其他条件不变律：形而上学、语言和科学](https://plato.stanford.edu/entries/ceteris-paribus/#Trends)
-* [11. 结论](https://plato.stanford.edu/entries/ceteris-paribus/#Con)
-* [12. 推荐阅读](https://plato.stanford.edu/entries/ceteris-paribus/#SugRea)
-* [参考文献](https://plato.stanford.edu/entries/ceteris-paribus/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/ceteris-paribus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ceteris-paribus/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ceteris-paribus/#Rel)
+ 
 
 ***
 

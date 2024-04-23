@@ -4,32 +4,7 @@
 
 格奥尔格·卢卡奇（1885-1971）是一位文学理论家和哲学家，被广泛认为是“西方马克思主义”的创始人之一，也是 20 世纪批判理论的先驱者。卢卡奇以他的《小说理论》（1916）和《历史与阶级意识》（1923）而闻名。在《历史与阶级意识》中，他对资本主义中“再物化”现象进行了广泛的批判，并构想了一种将马克思主义作为社会自觉转型的愿景。这篇文章不仅成为了批判社会理论的参考点，也成为了许多反文化思潮的源头。尽管他后来的作品没有像早期著作那样引起知识界的想象力，但卢卡奇在后期的职业生涯中仍然是一位多产的作家和有影响力的理论家，发表了数百篇有关文学理论和美学的文章，更不用说他的众多著作，其中包括两部关于美学和本体论的巨著。他还积极参与了匈牙利的政治活动，既参与了 1919 年的革命，也参与了 1956 年的事件。如今，他的作品仍然具有哲学上的重要性，不仅因为它包含了马克思主义的非教条、非还原主义的改革承诺，而且因为它结合了一种哲学方法，借鉴了新康德主义、黑格尔和马克思，以及对韦伯和西美尔的现代理性化社会学分析所激发的对现代生活的强烈批判。
 
-* [1. 生平与事业](https://plato.stanford.edu/entries/lukacs/#LifeCare)
-* [2. 早期著作](https://plato.stanford.edu/entries/lukacs/#EarlWrit)
-
-  * [2.1 生命与形式](https://plato.stanford.edu/entries/lukacs/#LifeForm)
-  * [2.2 新康德美学](https://plato.stanford.edu/entries/lukacs/#NeoKantAest)
-  * [2.3 现代性与整体性的丧失](https://plato.stanford.edu/entries/lukacs/#ModeLossTota)
-* [3. 历史与阶级意识](https://plato.stanford.edu/entries/lukacs/#HistClasCons)
-
-  * [ 3.1 再现理论](https://plato.stanford.edu/entries/lukacs/#ReifTheo)
-  * [3.2 立场理论和革命](https://plato.stanford.edu/entries/lukacs/#StanTheoRevo)
-  * [3.3 方法论和社会本体论在《历史与阶级意识》中的作用](https://plato.stanford.edu/entries/lukacs/#MethSociOntoHistClasCons)
-* [4. 后期卢卡奇：实践、整体性和自由](https://plato.stanford.edu/entries/lukacs/#LateLukaPraxTotaFree)
-
-  * [4.1 对《历史与阶级意识》的批判](https://plato.stanford.edu/entries/lukacs/#CritHistClasCons)
-  * [4.2 重新阅读哲学传统：黑格尔与对“非理性主义”的斗争](https://plato.stanford.edu/entries/lukacs/#ReReadPhilTradHegeStruAgaiIrra)
-  * [4.3 社会存在的本体论](https://plato.stanford.edu/entries/lukacs/#OntoSociBein)
-  * [4.4 美学：现实主义与艺术作品作为封闭整体的工作](https://plato.stanford.edu/entries/lukacs/#AestRealWorkArtClosTota)
-* [ 参考文献](https://plato.stanford.edu/entries/lukacs/#Bib)
-
-  * [ 传记](https://plato.stanford.edu/entries/lukacs/#Biog)
-  * [ 主要来源](https://plato.stanford.edu/entries/lukacs/#PrimSour)
-  * [二手资料和选定文献](https://plato.stanford.edu/entries/lukacs/#SecoSourSeleLite)
-* [ 学术工具](https://plato.stanford.edu/entries/lukacs/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lukacs/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/lukacs/#Rel)
-
+ 
 ---
 
 ## 1. 生平与事业

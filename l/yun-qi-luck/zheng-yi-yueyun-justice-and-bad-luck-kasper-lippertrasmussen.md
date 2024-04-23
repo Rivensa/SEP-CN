@@ -4,21 +4,7 @@
 
 有些人比其他人更糟糕，部分原因是因为他们的厄运。例如，有些人因为遗传疾病而早逝，而其他人则活了很长时间。这种差异的运气引起的不平等是否不公正？许多人倾向于肯定地回答这个问题。为了理解这种倾向，我们需要对运气的含义有一个清晰的解释。在某些解释中，运气使责任无效。在其他解释中，运气使应得无效。人们经常说，正义要求将运气“中和”。然而，人们争议的是是否存在任何特定的分配模式，例如平等，可以消除运气的影响。此外，一个人的努力水平——最初很少有人认为这是运气的问题——可能与她的才能水平不可分割——大多数人最初认为这是运气的问题——这可能挑战关于公正偏离平等的标准解释（或者其他受欢迎的分配模式）。批判性地，关系平等主义者认为所谓的运气平等主义者对消除反映差异厄运的不平等的过度关注误解了正义，而根据前者的观点，正义是具有适当平等特征的社会关系的问题。
 
-* [1. 不同类型的运气](https://plato.stanford.edu/entries/justice-bad-luck/#DiffKindLuck)
-* [ 2. 分配正义](https://plato.stanford.edu/entries/justice-bad-luck/#DistJust)
-* [ 3. 薄运气](https://plato.stanford.edu/entries/justice-bad-luck/#ThinLuck)
-* [ 4. 厚运气](https://plato.stanford.edu/entries/justice-bad-luck/#ThicLuck)
-* [5. 运气的独立概念](https://plato.stanford.edu/entries/justice-bad-luck/#IndeNotiLuck)
-* [6. 运气有多少？](https://plato.stanford.edu/entries/justice-bad-luck/#HowMuchLuckTher)
-* [7. 选择运气与蛮力运气](https://plato.stanford.edu/entries/justice-bad-luck/#OptiLuckVersBrutLuck)
-* [8. 中和运气与平等](https://plato.stanford.edu/entries/justice-bad-luck/#NeutLuckEqua)
-* [9. 运气和努力的不可分割性](https://plato.stanford.edu/entries/justice-bad-luck/#NonSepaLuckEffo)
-* [10. 关系平等主义与运气平等主义的批判](https://plato.stanford.edu/entries/justice-bad-luck/#RelaEgalCritLuckEgal)
-* [ 参考文献](https://plato.stanford.edu/entries/justice-bad-luck/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/justice-bad-luck/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justice-bad-luck/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justice-bad-luck/#Rel)
-
+ 
 ---
 
 ## 1. 不同种类的运气

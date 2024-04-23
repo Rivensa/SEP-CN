@@ -7,21 +7,7 @@
 
 本文关注生物学的主题：生命。本文的前半部分将重点介绍哲学家和科学家对生命的特征化的尝试。第一节将描述不同的定义观点，其两个小节将涵盖历史和当代的定义，第二节则涵盖了对生命定义持怀疑态度的最近逆势发展。由于各方利益相关者有不同的目标，后半部分将重点关注这些目标。第三、四和五节涵盖了一些人认为需要对生命进行定义的主题：人工和合成生命、生命起源以及在宇宙中寻找生命。第六节涵盖了比生物体更大或更小的实体，而第七节涵盖了生命在社会背景中所扮演的角色，特别是与新技术引发的问题相关的角色。
 
-* [ 1. 定义(们)](https://plato.stanford.edu/entries/life/#Defi)
-
-  * [1.1 从古代到达尔文的生命定义](https://plato.stanford.edu/entries/life/#DefiLifeAntiDarw)
-  * [1.2 当代的生命定义](https://plato.stanford.edu/entries/life/#ContDefiLife)
-* [2. 定义怀疑论](https://plato.stanford.edu/entries/life/#DefiSkep)
-* [3. 人工和合成生命](https://plato.stanford.edu/entries/life/#ArtiSyntLife)
-* [4. 生命的起源](https://plato.stanford.edu/entries/life/#OrigLife)
-* [5. 寻找生命](https://plato.stanford.edu/entries/life/#SearForLife)
-* [6. 宏观和微观的视角](https://plato.stanford.edu/entries/life/#MacrMicrPers)
-* [7. 伦理学、法律和政治](https://plato.stanford.edu/entries/life/#EthiLawPoli)
-* [ 8. 结论](https://plato.stanford.edu/entries/life/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/life/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/life/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/life/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/life/#Rel)
+ 
 
 ---
 

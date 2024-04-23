@@ -9,22 +9,7 @@
 为了合理地使用莱布尼茨对表面和表面之间的区别作为解释工具，我们必须对他如何理解这个区别有更详细的说明。然而，莱布尼茨对这个区别的言论也需要解释。理解他在这个问题上的观点的一个挑战是，他对此的一些最明确的言论是在他职业生涯的早期写的。虽然很明显他在后来的职业生涯中并没有放弃这个区别，但我们不应该不加批判地认为他对这个区别的看法不会随着时间的推移而改变。第二个挑战是，莱布尼茨通常不会在他的表面文本中明确标识出它们是表面的。例如，如果你只关注莱布尼茨在《自然和物质交流的新系统，以及灵魂和身体之间的结合》（New system of the nature and communication of substances, and of the union of the soul and body）中所写的内容——他哲学的首次公开展示——你就不会知道这是他观点的一种通俗呈现。只有在给他的某些通信对象的信件中，莱布尼茨才将这篇文章标识为表面的。而当他将一篇文章标识为表面时，他通常对这个标识提供的细节很少。理解莱布尼茨观点的第三个挑战是，他并不一致地使用“表面”和“表面”这两个术语。有时，这些词被用来区分哲学可能具有的不同内容；其他时候，它们表示呈现哲学观点的不同方式。在我们继续进行的过程中，澄清这些术语将是至关重要的（有关在哲学史上使用过的不同种类的表面和表面写作的深入说明，请参见Melzer 2014）。
 
 莱布尼茨的表面哲学概念常常与伯特兰·罗素对莱布尼茨的影响力解释相关联。罗素臭名昭著地声称，莱布尼茨的公开和私人著作之间的差异如此重大，以至于它们实际上包含了两种不同的哲学：一种带有神学色彩的幻想，旨在取悦皇室，以及他从严谨的逻辑原则中得出的真正哲学，他只向少数几位通信者透露（罗素 1945 年）。近几十年来，罗素的观点已经被拒绝；几乎每个人都同意，莱布尼茨的公开和私人作品之间的连续性要比罗素愿意承认的要多得多（有关罗素观点的批评，请参见 Curley 1972）。正如我们将看到的，内敛和表面之间的区别并不涉及对他的作品进行简单的分类，取决于它们是否被出版。为了更准确地理解莱布尼茨对内敛和表面之间的区别，我们必须转向他对形而上学理想形式的看法。
-
-* [1. 形而上学的理想形式](https://plato.stanford.edu/entries/leibniz-exoteric/#IdeaFormMeta)
-* [2. 内敛形式和内敛内容](https://plato.stanford.edu/entries/leibniz-exoteric/#EsotFormEsotCont)
-* [3. 表面文本的主要功能](https://plato.stanford.edu/entries/leibniz-exoteric/#PrimFuncExotText)
-* [4. 折衷主义和表面哲学](https://plato.stanford.edu/entries/leibniz-exoteric/#EcleExotPhil)
-* [5. 莱布尼茨的《新系统》中的选择性省略](https://plato.stanford.edu/entries/leibniz-exoteric/#SeleOmisLeibSystNouv)
-* [6. 额外的表面策略](https://plato.stanford.edu/entries/leibniz-exoteric/#AddiExotStra)
-* [ 7. 总结](https://plato.stanford.edu/entries/leibniz-exoteric/#Summ)
-* [ 参考文献](https://plato.stanford.edu/entries/leibniz-exoteric/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/leibniz-exoteric/#PrimSour)
-  * [ 次要来源](https://plato.stanford.edu/entries/leibniz-exoteric/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/leibniz-exoteric/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/leibniz-exoteric/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/leibniz-exoteric/#Rel)
-
+ 
 ---
 
 ## 1. 形而上学的理想形式

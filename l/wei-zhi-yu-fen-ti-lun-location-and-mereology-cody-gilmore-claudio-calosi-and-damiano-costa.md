@@ -15,50 +15,7 @@
 
 本文概述了最近关于这些问题的研究，并在此过程中讨论了其他问题。本文的目标不是提供关于位置形而上学的一般解释。相反，它侧重于与位置及其与分体论的相互作用有关的问题（例如，Kleinschmidt（2014）中收集的论文）。
 
-* [1. 准备工作：时空和分体论](https://plato.stanford.edu/entries/location-mereology/#PrelSpacPart)
-* [ 2. 位置](https://plato.stanford.edu/entries/location-mereology/#Loca)
-
-  * [2.1 哪种位置关系是基本的？](https://plato.stanford.edu/entries/location-mereology/#WhicLocaRelaFund)
-  * [2.2 位置的纯逻辑](https://plato.stanford.edu/entries/location-mereology/#PureLogiLoca)
-
-    * [ 2.2.1 逻辑形式](https://plato.stanford.edu/entries/location-mereology/#LogiForm)
-    * [2.2.2 纯粹的位置原则](https://plato.stanford.edu/entries/location-mereology/#PureLocaPrin)
-* [3. 与分体论的相互作用](https://plato.stanford.edu/entries/location-mereology/#IntePart)
-* [ 4. 互渗透](https://plato.stanford.edu/entries/location-mereology/#Inte)
-
-  * [4.1 关于互渗透 #1：来自普遍性或特质](https://plato.stanford.edu/entries/location-mereology/#ForInte1UnivTrop)
-  * [4.2 关于互渗透 #2：来自可想象性](https://plato.stanford.edu/entries/location-mereology/#ForInte2Conc)
-  * [4.3 对于相互渗透的第三种情况：来自玻色子](https://plato.stanford.edu/entries/location-mereology/#ForInte3Boso)
-  * [4.4 对于相互渗透的第四种情况：来自重组](https://plato.stanford.edu/entries/location-mereology/#ForInte4Reco)
-* [5. 扩展的简单体和非扩展的复合体](https://plato.stanford.edu/entries/location-mereology/#ExteSimpUnexComp)
-
-  * [5.1 对于扩展简单体 #1：从可想象性](https://plato.stanford.edu/entries/location-mereology/#ForExteSimp1Conc)
-  * [5.2 对于扩展简单体 #2：从弦理论](https://plato.stanford.edu/entries/location-mereology/#ForExteSimp2StriTheo)
-  * [5.3 对于扩展简单体 #3：从重组](https://plato.stanford.edu/entries/location-mereology/#ForExteSimp3Reco)
-  * [5.4 反对扩展简单体 #1：从定性变化](https://plato.stanford.edu/entries/location-mereology/#AgaiExteSimp1QualVari)
-  * [5.5 支持非扩展复合体](https://plato.stanford.edu/entries/location-mereology/#ForUnexComp)
-* [ 6. 位置](https://plato.stanford.edu/entries/location-mereology/#Mult)
-
-  * [6.1 对于多位置的位置 1：从可想象性](https://plato.stanford.edu/entries/location-mereology/#ForMult1Conc)
-  * [6.2 对于多位置的位置 2：从重组](https://plato.stanford.edu/entries/location-mereology/#ForMult2Reco)
-  * [6.3 对于多位置的位置 3：从例子中](https://plato.stanford.edu/entries/location-mereology/#ForMult3Exam)
-
-    * [6.3.1 内在普遍性](https://plato.stanford.edu/entries/location-mereology/#ImmaUniv)
-    * [6.3.2 持久的物质对象](https://plato.stanford.edu/entries/location-mereology/#EnduMateObje)
-  * [6.4 反对多位置性 #1：从定义开始](https://plato.stanford.edu/entries/location-mereology/#AgaiMult1Defi)
-  * [6.5 反对多位置 #2：从定性变化角度](https://plato.stanford.edu/entries/location-mereology/#AgaiMult2QualVari)
-  * [6.6 反对多位置 #3：从分体论结构角度](https://plato.stanford.edu/entries/location-mereology/#AgaiMult3MereStruOccu)
-
-    * [6.6.1 地面分体论和多位置](https://plato.stanford.edu/entries/location-mereology/#GrouMereMult)
-    * [6.6.2 最小分体论和多位置](https://plato.stanford.edu/entries/location-mereology/#MiniMereMult)
-    * [ 6.6.3 一般回答](https://plato.stanford.edu/entries/location-mereology/#GeneRepl)
-* [7. 超实体论和和谐](https://plato.stanford.edu/entries/location-mereology/#SupeHarm)
-* [ 8. 进一步问题](https://plato.stanford.edu/entries/location-mereology/#FurtIssu)
-* [ 参考文献](https://plato.stanford.edu/entries/location-mereology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/location-mereology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/location-mereology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/location-mereology/#Rel)
-
+ 
 [补充：位置系统](https://plato.stanford.edu/entries/location-mereology/systems-of-location.html)
 
 ---

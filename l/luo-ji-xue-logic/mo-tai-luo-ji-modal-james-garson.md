@@ -4,26 +4,7 @@
 
 模态是用于限定判断真实性的表达式（如“必然”或“可能”）。严格来说，模态逻辑是研究表达式“必然是这样的”和“可能是这样的”的演绎行为的学科。然而，“模态逻辑”这个术语可以更广泛地用于一系列相关系统。这些系统包括信念逻辑、时态和其他时间表达式的逻辑、道义（道德）表达式（如“有义务是这样的”和“被允许是这样的”）等等。对模态逻辑的理解在形式分析哲学论证中尤为重要，因为模态家族的表达式既常见又令人困惑。模态逻辑在计算机科学中也有重要应用。
 
-* [1. 什么是模态逻辑？](https://plato.stanford.edu/entries/logic-modal/#WhaModLog)
-* [ 2. 模态逻辑学](https://plato.stanford.edu/entries/logic-modal/#ModLog)
-* [ 3. 模态逻辑学](https://plato.stanford.edu/entries/logic-modal/#DeoLog)
-* [ 4. 时间逻辑学](https://plato.stanford.edu/entries/logic-modal/#TemLog)
-* [ 5. 条件逻辑学](https://plato.stanford.edu/entries/logic-modal/#ConLog)
-* [6. 模态语义学](https://plato.stanford.edu/entries/logic-modal/#PosWorSem)
-* [7. 模态公理和框架条件](https://plato.stanford.edu/entries/logic-modal/#ModAxiConFra)
-* [8. 模态逻辑之间的关系图](https://plato.stanford.edu/entries/logic-modal/#MapRelBetModLog)
-* [9. 一般公理](https://plato.stanford.edu/entries/logic-modal/#GenAxi)
-* [10. 二维语义学](https://plato.stanford.edu/entries/logic-modal/#TwoD)
-* [ 11. 可证明逻辑学](https://plato.stanford.edu/entries/logic-modal/#ProLog)
-* [12. 高级模态逻辑学](https://plato.stanford.edu/entries/logic-modal/#AdvModLog)
-* [ 13. 双模拟](https://plato.stanford.edu/entries/logic-modal/#Bis)
-* [14. 对应理论](https://plato.stanford.edu/entries/logic-modal/#Corres)
-* [15. 模态逻辑和游戏](https://plato.stanford.edu/entries/logic-modal/#Games)
-* [16. 模态逻辑中的量词](https://plato.stanford.edu/entries/logic-modal/#QuaModLog)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-modal/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-modal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-modal/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-modal/#Rel)
+ 
 
 ---
 

@@ -4,23 +4,7 @@ _首次发表于2003年12月29日；实质性修订于2022年6月30日。_
 
 无论他们做什么，所有的法律体系都承认、创造、变化和执行义务。这不是偶然的：义务对于法律的社会角色至关重要，解释它们对于理解法律的权威和因此法律的本质是必要的。不仅在法律中有义务，也有对法律的义务。历史上，大多数哲学家都同意这些义务包括对服从的道德义务，或者通常所称的“政治义务”。对于一些人来说，这是我们与国家进行某种交易的结果。由于国家为我们提供了至关重要的利益，我们承担了一定的义务作为回报，要么是因为我们同意为了这些利益而承担这些义务，要么是因为不回报对他们来说是不公平或不感激的。其他的解释是非交易性的，将政治义务基于服从法律增强我们做我们有理由做的事情的能力的事实，基于我们有责任维护公正的法律体系的事实，或者基于我们作为政治共同体成员的特殊责任。所有这些论证线路都经受了彻底的批评，这导致一些人否认法律有权利主张自己所声称的所有权威，即使法律体系是合法和相当公正的。根据这种观点，有些法律的主体没有道德义务履行法律义务。
 
-* [1. 法律中的义务](https://plato.stanford.edu/entries/legal-obligation/#ObliLaw)
-* [2. 权威、义务和合法性](https://plato.stanford.edu/entries/legal-obligation/#AuthObliLegi)
-* [3. 对法律的义务](https://plato.stanford.edu/entries/legal-obligation/#ObliLaw\1)
-* [4. 交易理论](https://plato.stanford.edu/entries/legal-obligation/#TranTheo)
-  * [4.1 同意](https://plato.stanford.edu/entries/legal-obligation/#Cons)
-  * [4.2 公平性](https://plato.stanford.edu/entries/legal-obligation/#Fair)
-  * [4.3 感激之情](https://plato.stanford.edu/entries/legal-obligation/#Grat)
-* [5. 非交易性理论](https://plato.stanford.edu/entries/legal-obligation/#NonTranTheo)
-  * [5.1 工具性正当化](https://plato.stanford.edu/entries/legal-obligation/#InstJust)
-  * [5.2 必要性和自然义务](https://plato.stanford.edu/entries/legal-obligation/#NeceNatuDuty)
-  * [5.3 构成义务](https://plato.stanford.edu/entries/legal-obligation/#ConsObli)
-* [6. 怀疑主义和无政府主义](https://plato.stanford.edu/entries/legal-obligation/#ScepAnar)
-* [参考书目](https://plato.stanford.edu/entries/legal-obligation/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/legal-obligation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/legal-obligation/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/legal-obligation/#Rel)
-
+ 
 ***
 
 ## 1. 法律中的义务

@@ -4,29 +4,7 @@
 
 道德运气发生在一个行动者可以被正确地视为道德判断的对象，尽管她被评估的重要方面取决于她无法控制的因素。伯纳德·威廉姆斯写道：“当我首次引入道德运气这个词时，我本来期望提出一个矛盾修饰法”（威廉姆斯 1993 年，251 页）。事实上，许多人认为免于运气是道德本质的一部分。然而，正如威廉姆斯（1976 年）和托马斯·纳格尔（1979 年）在他们现在经典的一对文章中所展示的那样，我们的日常判断和实践似乎使我们承认了道德运气的存在。道德运气的问题之所以出现，是因为我们似乎承认一个普遍原则，即我们只有在我们所评估的事情取决于我们控制的因素时，我们才能在道德上进行评估（将其称为“控制原则”）。与此同时，当涉及无数具体案例时，我们对行动者进行道德评估的事情取决于他们无法控制的因素。而且，更加棘手的是，一条非常自然的推理线索表明，如果我们坚持控制原则，那么对于任何事情，我们都无法对任何人进行道德评估。
 
-* [1. 产生道德运气问题和运气的种类](https://plato.stanford.edu/entries/moral-luck/#GenProMorLucKinLuc)
-* [2. 对其他辩论的影响](https://plato.stanford.edu/entries/moral-luck/#ImpForOthDeb)
-
-  * [2.1 法律和惩罚的正当性](https://plato.stanford.edu/entries/moral-luck/#JusLawPun)
-  * [ 2.2 平等主义](https://plato.stanford.edu/entries/moral-luck/#Ega)
-* [3. 道德评估的种类](https://plato.stanford.edu/entries/moral-luck/#KinMorAss)
-* [4. 回应问题：三种方法](https://plato.stanford.edu/entries/moral-luck/#ResProThrApp)
-
-  * [ 4.1 否认](https://plato.stanford.edu/entries/moral-luck/#Den)
-
-    * [4.1.1 否认道德运气并保持道德的核心地位](https://plato.stanford.edu/entries/moral-luck/#DenMorLucPreCenMor)
-    * [4.1.2 否认道德运气并将道德放在伦理之上](https://plato.stanford.edu/entries/moral-luck/#DenMorLucSetAsiMorFavEth)
-  * [ 4.2 接受](https://plato.stanford.edu/entries/moral-luck/#Acc)
-
-    * [4.2.1 接受道德运气并修正我们的实践方式](https://plato.stanford.edu/entries/moral-luck/#AccMorLucRevOurPra)
-    * [4.2.2 接受道德运气而不进行修订](https://plato.stanford.edu/entries/moral-luck/#AccMorLucWitRev)
-  * [ 4.3 不一致性](https://plato.stanford.edu/entries/moral-luck/#Inc)
-* [ 5. 结论](https://plato.stanford.edu/entries/moral-luck/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-luck/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-luck/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-luck/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-luck/#Rel)
-
+ 
 ---
 
 ## 1. 产生道德运气问题和运气种类

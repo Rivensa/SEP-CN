@@ -18,31 +18,7 @@
 
 第 4 节是给更高级读者的，他们想要了解这种逻辑如何在证据累积时导致对真实假设的收敛。这个结果表明，充分性准则确实得到满足——随着证据的累积，虚假假设很可能会具有接近 0 的证据支持值（由其后验概率测量）；而随着这种情况发生，真实假设很可能会获得接近 1 的证据支持值（由其后验概率测量）。
 
-* [ 1. 归纳论证](https://plato.stanford.edu/entries/logic-inductive/#InduArgu)
-* [2. 归纳逻辑与归纳概率](https://plato.stanford.edu/entries/logic-inductive/#InduLogiInduProb)
-
-  * [2.1 概率逻辑的历史起源](https://plato.stanford.edu/entries/logic-inductive/#HistOrigProbLogi)
-  * [2.2 概率逻辑：公理与特征](https://plato.stanford.edu/entries/logic-inductive/#ProbLogiAxioChar)
-  * [2.3 归纳概率的两种观念](https://plato.stanford.edu/entries/logic-inductive/#TwoConcInduProb)
-* [3. 归纳概率在科学假设评估中的应用](https://plato.stanford.edu/entries/logic-inductive/#ApplInduProbEvalScieHypo)
-
-  * [ 3.1 可能性](https://plato.stanford.edu/entries/logic-inductive/#Like)
-  * [3.2 后验概率和先验概率](https://plato.stanford.edu/entries/logic-inductive/#PostProbPrioProb)
-  * [ 3.3 贝叶斯定理](https://plato.stanford.edu/entries/logic-inductive/#BayeTheo)
-  * [3.4 关于先验概率和模糊和多样化可信度评估的表达方式](https://plato.stanford.edu/entries/logic-inductive/#PrioProbReprVaguDivePlauAsse)
-* [4. 归纳概率比收敛定理](https://plato.stanford.edu/entries/logic-inductive/#LikeRatiConvTheo)
-
-  * [4.1 实验和观察的可能结果空间](https://plato.stanford.edu/entries/logic-inductive/#SpacPossOutcExpeObse)
-  * [4.2 概率独立性](https://plato.stanford.edu/entries/logic-inductive/#ProbInde)
-  * [4.3 当可能出现证伪结果时的似然比收敛](https://plato.stanford.edu/entries/logic-inductive/#LikeRatiConvWhenFalsOutcPoss)
-  * [4.4 当不可能出现证伪结果时的似然比收敛](https://plato.stanford.edu/entries/logic-inductive/#LikeRatiConvWhenNoFalsOutcPoss)
-* [5. 当似然性模糊或多样化时](https://plato.stanford.edu/entries/logic-inductive/#WhenLikeVaguDive)
-* [ 补充清单](https://plato.stanford.edu/entries/logic-inductive/#ListSupp)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-inductive/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-inductive/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-inductive/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-inductive/#Rel)
-
+ 
 ---
 
 ## 1. 归纳论证

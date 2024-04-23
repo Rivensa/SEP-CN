@@ -9,57 +9,7 @@
 说谎是一个复杂的问题，但是这篇文章中第一句话的困惑与意图、社会规范或其他类似因素并没有本质上的联系。相反，它似乎与真理有关，或者至少与真理相关的某种语义概念有关。这个谜题通常被称为“说谎者悖论”，尽管这实际上是指与我们这种令人困惑的句子相关的一类悖论。这个家族被恰当地称为悖论之一，因为它们似乎导致了不连贯的结论，比如：“一切都是真的”。事实上，说谎者似乎让我们在逻辑的基础上，加上一些非常明显的原则（有时被视为逻辑原则）得出这样的结论。因此，我们面临着一个相当令人惊讶的情况，即仅仅接近或类似逻辑就会导致不连贯。这可能是最严重的悖论之一，解决它一直是逻辑学的重要任务，几乎与逻辑学的存在一样长久。
 
 在这篇文章中，我们将回顾说谎者悖论家族的重要成员，以及关于如何解决这些悖论的一些重要思想。过去几千年产生了大量的提议，我们将无法检查所有提议；相反，我们将重点关注一些在最近的讨论中被证明是重要的提议。
-
-* [1. 说谎者悖论及其更广泛的现象](https://plato.stanford.edu/entries/liar-paradox/#ParaBroaPhen)
-
-  * [ 1.1 简单-虚假的说谎者](https://plato.stanford.edu/entries/liar-paradox/#SimpFalsLiar)
-  * [ 1.2 简单-不真实的说谎者](https://plato.stanford.edu/entries/liar-paradox/#SimpUntrLiar)
-  * [ 1.3 说谎者循环](https://plato.stanford.edu/entries/liar-paradox/#LiarCycl)
-  * [ 1.4 布尔复合物](https://plato.stanford.edu/entries/liar-paradox/#BoolComp)
-  * [ 1.5 无限序列](https://plato.stanford.edu/entries/liar-paradox/#InfiSequ)
-* [2. 基本成分](https://plato.stanford.edu/entries/liar-paradox/#BasiIngr)
-
-  * [ 2.1 真理谓词](https://plato.stanford.edu/entries/liar-paradox/#TrutPred)
-  * [2.2 真理原则](https://plato.stanford.edu/entries/liar-paradox/#PrinTrut)
-  * [2.3 说谎者悖论简述](https://plato.stanford.edu/entries/liar-paradox/#LiarShor)
-
-    * [2.3.1 说谎者悖论的存在](https://plato.stanford.edu/entries/liar-paradox/#ExisLiarLikeSent)
-    * [2.3.2 其他逻辑“定律”](https://plato.stanford.edu/entries/liar-paradox/#OtheLogiLaws)
-    * [2.3.3 抽象中的说谎者悖论](https://plato.stanford.edu/entries/liar-paradox/#LiarAbst)
-* [ 3. 意义](https://plato.stanford.edu/entries/liar-paradox/#Sign)
-* [4. 一些解决方案的家族](https://plato.stanford.edu/entries/liar-paradox/#SomeFamiSolu)
-
-  * [4.1 互补和互不一致逻辑](https://plato.stanford.edu/entries/liar-paradox/#ParaParaLogi)
-
-    * [4.1.1 Paracomplete](https://plato.stanford.edu/entries/liar-paradox/#ParaA)
-    * [4.1.2 Paraconsistent](https://plato.stanford.edu/entries/liar-paradox/#ParaB)
-    * [4.1.3 表达能力和‘复仇’](https://plato.stanford.edu/entries/liar-paradox/#ExprPoweReve)
-  * [4.2 子结构逻辑](https://plato.stanford.edu/entries/liar-paradox/#SubsLogi)
-
-    * [4.2.1 非收缩逻辑](https://plato.stanford.edu/entries/liar-paradox/#NoncLogi)
-    * [4.2.2 非传递逻辑](https://plato.stanford.edu/entries/liar-paradox/#NontLogi)
-    * [4.2.3 非自反逻辑](https://plato.stanford.edu/entries/liar-paradox/#NonrLogi)
-  * [4.3 古典逻辑](https://plato.stanford.edu/entries/liar-paradox/#ClasLogi)
-
-    * [4.3.1 塔斯基的语言层次结构](https://plato.stanford.edu/entries/liar-paradox/#TarsHierLang)
-    * [4.3.2 封闭的克里普克建构](https://plato.stanford.edu/entries/liar-paradox/#ClosOffKripCons)
-    * [4.3.3 决定性再探讨](https://plato.stanford.edu/entries/liar-paradox/#DeteRevi)
-    * [4.3.4 其他经典方法](https://plato.stanford.edu/entries/liar-paradox/#OtheClasAppr)
-  * [4.4 上下文主义方法](https://plato.stanford.edu/entries/liar-paradox/#ContAppr)
-
-    * [4.4.1 不稳定性和报复](https://plato.stanford.edu/entries/liar-paradox/#InstReve)
-    * [4.4.2 真理谓词的上下文参数](https://plato.stanford.edu/entries/liar-paradox/#ContParaTrutPred)
-    * [4.4.3 量词域上的语境效应](https://plato.stanford.edu/entries/liar-paradox/#ContEffeQuanDoma)
-    * [ 4.4.4 情境理论](https://plato.stanford.edu/entries/liar-paradox/#SituTheo)
-    * [4.4.5 语境主义的问题](https://plato.stanford.edu/entries/liar-paradox/#IssuForCont)
-  * [4.5 修订理论](https://plato.stanford.edu/entries/liar-paradox/#ReviTheo)
-  * [ 4.6 不一致观点](https://plato.stanford.edu/entries/liar-paradox/#IncoView)
-* [ 5. 总结说明](https://plato.stanford.edu/entries/liar-paradox/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/liar-paradox/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/liar-paradox/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/liar-paradox/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/liar-paradox/#Rel)
-
+ 
 ---
 
 ## 1. 悖论和更广泛的现象

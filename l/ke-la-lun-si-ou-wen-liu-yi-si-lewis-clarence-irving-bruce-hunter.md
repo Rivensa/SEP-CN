@@ -4,20 +4,7 @@
 
 克拉伦斯·欧文·刘易斯（Clarence Irving (C.I.) Lewis）可能是 20 世纪 30 年代和 40 年代最重要的美国学术哲学家。他在认识论和逻辑学方面做出了重大贡献，并在伦理学方面做出了较小的贡献。刘易斯还是美国分析哲学崛起的关键人物，既通过自己的著作的发展和影响，也通过他对哈佛大学研究生的直接和间接影响，包括一些 20 世纪下半叶领先的分析哲学家。
 
-* [ 1. 简要传记](https://plato.stanford.edu/entries/lewis-ci/#BriBio)
-* [2. 概述概念实用主义](https://plato.stanford.edu/entries/lewis-ci/#OveConPra)
-* [3. 逻辑与语言](https://plato.stanford.edu/entries/lewis-ci/#LogLan)
-* [4. 先验与分析](https://plato.stanford.edu/entries/lewis-ci/#PriAna)
-* [ 5. 经验知识](https://plato.stanford.edu/entries/lewis-ci/#EmpKno)
-* [ 6. 给定的](https://plato.stanford.edu/entries/lewis-ci/#Giv)
-* [7. 行动、善和正确](https://plato.stanford.edu/entries/lewis-ci/#ActGooRig)
-* [ 参考文献](https://plato.stanford.edu/entries/lewis-ci/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/lewis-ci/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/lewis-ci/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/lewis-ci/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lewis-ci/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/lewis-ci/#Rel)
+ 
 
 ---
 

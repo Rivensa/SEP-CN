@@ -10,18 +10,7 @@ _首次发表于2010年1月5日；实质性修订于2021年6月24日_
 
 尽管刘易斯的哲学探究方法当然不是“自下而上”的，但我认为最好以自下而上的方式呈现这种探究的结果。这就是本文以及接下来的文章将尝试做到的。我将把领域分为四个部分：刘易斯的基本本体论；他的形而上学模态理论；他的“应用”形而上学（涵盖自然法则、反事实、因果关系、时间上的身份和心灵等主题）；以及刘易斯在形而上学中的方法论。我将很快解释这些区别，但请注意，本文几乎只涉及这四个主题中的第一个。关于大卫·刘易斯的其他方面在有关大卫·刘易斯的总论中有所涉及。
 
-* [1. 刘易斯的形而上学：概述](https://plato.stanford.edu/entries/lewis-metaphysics/#LewMetOve)
-* [2. 基本本体论：一个简化版本](https://plato.stanford.edu/entries/lewis-metaphysics/#FunOntSimVer)
-* [3. 完全自然的属性和关系](https://plato.stanford.edu/entries/lewis-metaphysics/#PerNatProRel)
-* [4. 时空关系和时空点](https://plato.stanford.edu/entries/lewis-metaphysics/#SpaRelSpaPoi)
-* [5. Humean 随附性](https://plato.stanford.edu/entries/lewis-metaphysics/#HumSup)
-* [6. 大卫·刘易斯 v. 几乎-大卫·刘易斯](https://plato.stanford.edu/entries/lewis-metaphysics/#LewVAlmLew)
-* [7. 一些批评](https://plato.stanford.edu/entries/lewis-metaphysics/#SomCri)
-* [8. 对应物理论](https://plato.stanford.edu/entries/lewis-metaphysics/#Counter)
-* [参考文献](https://plato.stanford.edu/entries/lewis-metaphysics/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/lewis-metaphysics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lewis-metaphysics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/lewis-metaphysics/#Rel)
+ 
 
 为了提供更深入的内容，还有一些补充文件，对以下问题进行了更详细的处理：还原论、自然/非自然区分、物理主义、时空点、休谟随附的偶然性、物理量、基本实体和量化模态逻辑的对应理论语义。
 

@@ -4,42 +4,7 @@
 
 λ演算在本质上是一种简单的函数和应用符号。其主要思想是将函数应用于参数，并通过抽象形成函数。基本λ演算的语法非常简洁，使其成为表示函数的优雅而专注的符号。函数和参数处于同等地位。结果是一种非外延的函数理论，将函数视为计算规则，与将函数视为有序对集合的外延函数理论形成对比。尽管其语法简洁，但λ演算的表达能力和灵活性使其成为逻辑和数学的宝库。本文介绍了该领域的一些核心亮点，并为读者进一步研究该主题及其在哲学、语言学、计算机科学和逻辑学中的应用做准备。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/lambda-calculus/#Int)
-
-  * [1.1 多参数操作](https://plato.stanford.edu/entries/lambda-calculus/#MulArgOpe)
-  * [ 1.2 非外延性](https://plato.stanford.edu/entries/lambda-calculus/#Non-Extensionality)
-* [ 2. 语法](https://plato.stanford.edu/entries/lambda-calculus/#Syn)
-
-  * [2.1 变量，绑定和自由](https://plato.stanford.edu/entries/lambda-calculus/#VarBouFre)
-  * [ 2.2 组合子](https://plato.stanford.edu/entries/lambda-calculus/#Com)
-* [3. λ演算简史](https://plato.stanford.edu/entries/lambda-calculus/#BriHisLCal)
-* [ 4. 简化](https://plato.stanford.edu/entries/lambda-calculus/#Red)
-
-  * [4.1 其他的规约概念](https://plato.stanford.edu/entries/lambda-calculus/#OthNotRed)
-  * [4.2 规约策略](https://plato.stanford.edu/entries/lambda-calculus/#RedStr)
-* [ 5. λ理论](https://plato.stanford.edu/entries/lambda-calculus/#LThe)
-
-  * [5.1 λ 演算的基本理论](https://plato.stanford.edu/entries/lambda-calculus/#BasTheL)
-  * [5.2 扩展λ 演算的基本理论](https://plato.stanford.edu/entries/lambda-calculus/#ExtBasTheL)
-* [6. λ 演算的一致性](https://plato.stanford.edu/entries/lambda-calculus/#ConLCal)
-* [7. λ演算的语义](https://plato.stanford.edu/entries/lambda-calculus/#SemLCal)
-
-  * [ 7.1 λ模型](https://plato.stanford.edu/entries/lambda-calculus/#LamMod)
-  * [ 7.2 模型构建](https://plato.stanford.edu/entries/lambda-calculus/#ModCon)
-* [8. 扩展和变体](https://plato.stanford.edu/entries/lambda-calculus/#ExtVar)
-
-  * [ 8.1 组合逻辑](https://plato.stanford.edu/entries/lambda-calculus/#ComLog)
-  * [ 8.2 添加类型](https://plato.stanford.edu/entries/lambda-calculus/#AddTyp)
-* [ 9. 应用](https://plato.stanford.edu/entries/lambda-calculus/#App)
-
-  * [9.1 逻辑 à la λ](https://plato.stanford.edu/entries/lambda-calculus/#LogLaL)
-  * [ 9.2 计算](https://plato.stanford.edu/entries/lambda-calculus/#Computing)
-  * [ 9.3 关系](https://plato.stanford.edu/entries/lambda-calculus/#Relations)
-* [ 参考文献](https://plato.stanford.edu/entries/lambda-calculus/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/lambda-calculus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lambda-calculus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/lambda-calculus/#Rel)
-
+ 
 ---
 
 ## 1. 简介

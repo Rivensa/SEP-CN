@@ -5,50 +5,7 @@
 在信念修正（信念变化）的逻辑学中，信念状态（或数据库）由一组句子表示。变化的主要操作是引入或删除表示信念的句子。在这两种情况下，可能需要对其他句子进行变化（例如为了保持一致性）。已经提出了这些操作的合理性假设，并且已经获得了以这些假设为基础的特定类型操作的表示定理。
 
 在信念修正理论的主导模型中，即所谓的 AGM 模型中，表示信念状态的集合被假定为一个逻辑上封闭的句子集合（信念集）。信念修正理论中最受争议的话题之一是恢复假设，即如果首先删除一个信念，然后重新插入，所有原始信念都会恢复。恢复假设在 AGM 模型中成立，但在使用信念基础的密切相关模型中不成立。另一个被广泛讨论的话题是如何充分表示重复变化。已经提出了几种替代模型，旨在提供比 AGM 模型更现实的信念变化解释。
-
-* [ 1. 引言](https://plato.stanford.edu/entries/logic-belief-revision/#Intr)
-
-  * [ 1.1 历史](https://plato.stanford.edu/entries/logic-belief-revision/#Hist)
-  * [1.2 信念和变化的表示](https://plato.stanford.edu/entries/logic-belief-revision/#ReprBeliChan)
-  * [1.3 形式初步](https://plato.stanford.edu/entries/logic-belief-revision/#FormPrel)
-* [ 2. 收缩](https://plato.stanford.edu/entries/logic-belief-revision/#Cont)
-
-  * [2.1 部分满足收缩](https://plato.stanford.edu/entries/logic-belief-revision/#PartMeetCont)
-  * [2.2 基于巩固的收缩](https://plato.stanford.edu/entries/logic-belief-revision/#EntrBaseCont)
-  * [2.3 恢复及其避免](https://plato.stanford.edu/entries/logic-belief-revision/#RecoAvoi)
-* [ 3. 修正](https://plato.stanford.edu/entries/logic-belief-revision/#Revi)
-* [4. 可能世界建模](https://plato.stanford.edu/entries/logic-belief-revision/#PossWorlMode)
-* [5. 信念基础](https://plato.stanford.edu/entries/logic-belief-revision/#BeliBase)
-
-  * [5.1 增加的表达能力](https://plato.stanford.edu/entries/logic-belief-revision/#IncrExprPowe)
-  * [5.2 信念基础收缩](https://plato.stanford.edu/entries/logic-belief-revision/#BeliBaseCont)
-  * [5.3 信念基础修正](https://plato.stanford.edu/entries/logic-belief-revision/#BeliBaseRevi)
-  * [5.4 信念基础与信念集之间的联系](https://plato.stanford.edu/entries/logic-belief-revision/#ConnBetwBeliBaseBeliSets)
-* [6. 其他操作](https://plato.stanford.edu/entries/logic-belief-revision/#OtheOper)
-
-  * [ 6.1 更新](https://plato.stanford.edu/entries/logic-belief-revision/#Upda)
-  * [ 6.2 合并](https://plato.stanford.edu/entries/logic-belief-revision/#Cons)
-  * [ 6.3 半修订](https://plato.stanford.edu/entries/logic-belief-revision/#SemiRevi)
-  * [ 6.4 选择性修订](https://plato.stanford.edu/entries/logic-belief-revision/#SeleRevi)
-  * [6.5 屏蔽收缩](https://plato.stanford.edu/entries/logic-belief-revision/#ShieCont)
-  * [ 6.6 替换](https://plato.stanford.edu/entries/logic-belief-revision/#Repl)
-  * [ 6.7 合并](https://plato.stanford.edu/entries/logic-belief-revision/#Merg)
-  * [6.8 多重收缩和修正](https://plato.stanford.edu/entries/logic-belief-revision/#MultContRevi)
-  * [6.9 不确定性信念变化](https://plato.stanford.edu/entries/logic-belief-revision/#IndeBeliChan)
-  * [6.10 对扩展语言的操作](https://plato.stanford.edu/entries/logic-belief-revision/#OperForExteLang)
-  * [6.11 信念强度的变化](https://plato.stanford.edu/entries/logic-belief-revision/#ChanStreBeli)
-  * [6.12 规范和偏好的变化](https://plato.stanford.edu/entries/logic-belief-revision/#ChanNormPref)
-* [ 7. 迭代变化](https://plato.stanford.edu/entries/logic-belief-revision/#IterChan)
-* [8. 替代解释](https://plato.stanford.edu/entries/logic-belief-revision/#AlteAcco)
-
-  * [ 8.1 学习理论](https://plato.stanford.edu/entries/logic-belief-revision/#LearTheo)
-  * [8.2 信念变化的动态逻辑学](https://plato.stanford.edu/entries/logic-belief-revision/#DynaLogiBeliChan)
-  * [ 8.3 描述符修正](https://plato.stanford.edu/entries/logic-belief-revision/#DescRevi)
-  * [ 8.4 贝叶斯模型](https://plato.stanford.edu/entries/logic-belief-revision/#BayeMode)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-belief-revision/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-belief-revision/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-belief-revision/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-belief-revision/#Rel)
+ 
 
 ---
 

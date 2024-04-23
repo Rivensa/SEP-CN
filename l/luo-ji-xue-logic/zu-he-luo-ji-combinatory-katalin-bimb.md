@@ -16,31 +16,7 @@ CL 通过类型与非经典逻辑相连接。首先，在直觉主义逻辑的�
 
 自我参照因素涉及一些悖论，例如广为人知的谬论悖论和罗素悖论。函数的集合论理解也不鼓励自我应用的想法。因此，纯无类型的组合逻辑并不排除函数的自我应用。此外，它的数学模型表明，函数可以成为自己的参数的理论是完全合理的，而且是一致的（这是早期使用证明论方法建立的）。
 
-* [1. Schönfinkel 对绑定变量的消除](https://plato.stanford.edu/entries/logic-combinatory/#SchoElimBounVari)
-
-  * [1.1 替换问题](https://plato.stanford.edu/entries/logic-combinatory/#ProbSubs)
-  * [1.2 运算符“nextand”和“U”](https://plato.stanford.edu/entries/logic-combinatory/#OperNextU)
-  * [1.3 替代方法：基本逻辑和谓词函数](https://plato.stanford.edu/entries/logic-combinatory/#AlteApprBasiLogiPredFunc)
-* [2. 组合术语及其主要属性](https://plato.stanford.edu/entries/logic-combinatory/#CombTermTheiMainProp)
-
-  * [2.1 简化、相等性及其形式化](https://plato.stanford.edu/entries/logic-combinatory/#ReduEquaTheiForm)
-  * [2.2 Church-Rosser 定理和一致性定理](https://plato.stanford.edu/entries/logic-combinatory/#ChurTheoConsTheo)
-  * [2.3 固定点的存在和组合完备性](https://plato.stanford.edu/entries/logic-combinatory/#ExisFixePoinCombComp)
-* [3. 非经典逻辑和类型组合](https://plato.stanford.edu/entries/logic-combinatory/#NoncLogiTypeCL)
-
-  * [ 3.1 简单类型](https://plato.stanford.edu/entries/logic-combinatory/#SimpType)
-  * [ 3.2 交叉类型](https://plato.stanford.edu/entries/logic-combinatory/#InteType)
-* [ 4. 模型](https://plato.stanford.edu/entries/logic-combinatory/#Mode)
-
-  * [ 4.1 斯科特的模型](https://plato.stanford.edu/entries/logic-combinatory/#ScotMode)
-  * [4.2 关系语义学](https://plato.stanford.edu/entries/logic-combinatory/#RelaSema)
-* [5. 可计算函数和算术](https://plato.stanford.edu/entries/logic-combinatory/#CompFuncArit)
-
-  * [ 5.1 哥德尔句子](https://plato.stanford.edu/entries/logic-combinatory/#GodeSent)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-combinatory/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-combinatory/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-combinatory/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-combinatory/#Rel)
+ 
 
 ---
 

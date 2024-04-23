@@ -7,28 +7,7 @@ _首次发表于2019年5月28日星期二；实质性修订于2023年10月16日�
 思维语言假说（LOTH）逐渐形成于奥古斯丁、博伊西乌斯、托马斯·阿奎纳斯、约翰·邓斯·斯科特斯等人的著作中。奥卡姆的威廉在他的《逻辑总纲》（约 1323 年）中首次对 Mentalese 表达式的意义和结构进行了系统的分析。思维语言假说在中世纪晚期非常流行，但在 16 世纪和 17 世纪逐渐消失。从那时起到 20 世纪中叶，它在有关心灵的理论中几乎没有起到重要的作用。
 
 在 1970 年代，思维语言假说经历了一次重大复兴。分水岭是杰里·福多尔（Jerry Fodor）的《思维语言》（1975）的出版。福多尔通过演绎论证：我们当前最好的心理活动科学理论假设了心理语言；因此我们有充分的理由接受心理语言的存在。福多尔的分析产生了巨大的影响。思维语言假说再次成为讨论的焦点，有些支持，有些批评。关于心理语言的存在和性质的争论在哲学和认知科学中仍然占据重要地位。这些争论对我们理解思维如何工作具有关键重要性。
-
-* [1. 思维语言](https://plato.stanford.edu/entries/language-thought/#MentLang)
-  * [1.1 思维表征理论](https://plato.stanford.edu/entries/language-thought/#ReprTheoThou)
-  * [1.2 组合语义](https://plato.stanford.edu/entries/language-thought/#CompSema)
-  * [1.3 逻辑结构](https://plato.stanford.edu/entries/language-thought/#LogiStru)
-* [2. 思维语言假说的范围](https://plato.stanford.edu/entries/language-thought/#ScopLOTH)
-* [3. 思维计算](https://plato.stanford.edu/entries/language-thought/#MentComp)
-* [4. 思维语言假说的论据](https://plato.stanford.edu/entries/language-thought/#ArguForLOTH)
-  * [4.1 认知科学实践的论据](https://plato.stanford.edu/entries/language-thought/#ArguCognSciePrac)
-  * [4.2 思维的生产力论证](https://plato.stanford.edu/entries/language-thought/#ArguProdThou)
-  * [4.3 思维的系统性论证](https://plato.stanford.edu/entries/language-thought/#ArguSystThou)
-  * [4.4 思考的系统性论证](https://plato.stanford.edu/entries/language-thought/#ArguSystThin)
-* [5. 连接主义挑战](https://plato.stanford.edu/entries/language-thought/#ConnChal)
-* [6. 思维语言假说的回归反对意见](https://plato.stanford.edu/entries/language-thought/#RegrObjeLOTH)
-  * [6.1 学习一门语言](https://plato.stanford.edu/entries/language-thought/#LearLang)
-  * [6.2 理解一种语言](https://plato.stanford.edu/entries/language-thought/#UndeLang)
-* [7. 自然化思维](https://plato.stanford.edu/entries/language-thought/#NatuMind)
-* [8. 思维语言表达的个体化](https://plato.stanford.edu/entries/language-thought/#IndiMentExpr)
-* [参考文献](https://plato.stanford.edu/entries/language-thought/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/language-thought/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/language-thought/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/language-thought/#Rel)
+ 
 
 ***
 

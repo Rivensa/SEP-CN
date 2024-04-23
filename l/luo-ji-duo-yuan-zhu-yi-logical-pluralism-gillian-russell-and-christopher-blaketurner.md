@@ -10,44 +10,7 @@ A,¬A⊨B
 经典逻辑和强克里尼逻辑将 EFQ 归类为有效的，但相关逻辑和抗矛盾逻辑则认为它是无效的。很容易想到，它们不可能都是正确的。如果 EFQ 是有效的，那么相关逻辑和抗矛盾逻辑就不是正确的有效性理论，或者可以说：它们不是正确的逻辑。而如果 EFQ 是无效的，那么经典逻辑和强克里尼逻辑就不是正确的逻辑。逻辑多元主义有多种形式，但最具哲学意义和争议的版本认为不止一种逻辑可以是正确的，也就是说：逻辑 L1 和 L2 可以在哪些论证是有效的问题上存在分歧，而且两者都可以做对。关于逻辑多元主义版本何时具有哲学意义的问题在下文中将更详细地讨论，特别是在第 6 节中。
 
 对这个主题的许多现有研究都是由 JC Beall 和 Greg Restall 的一系列论文（Beall＆Restall 2000, 2001; Restall 2002）引发的，这些论文最终在一本书（Beall＆Restall 2006）中达到了高潮，我们在这里称之为基于案例的逻辑多元主义。这项工作产生了大量的文献，包括反对多元主义的论文，支持逻辑唯一主义 - 即只有一种正确的逻辑的观点，以及最近探讨逻辑虚无主义 - 即没有正确的逻辑的观点。对这场当代辩论的兴趣还导致了对一些旧观点的重新审视，特别是关于 Rudolf Carnap 是否是逻辑多元主义者的问题（Restall 2002; Kouri Kissel 2019），以及苏格兰-法国逻辑学家 Hugh McColl（1837-1909）是否也是如此（Rahman＆Redmond 2008）。这还导致了提出几种额外的逻辑多元主义，其中一些在第 5 节中进行了调查。
-
-* [1. 基于案例的逻辑多元主义](https://plato.stanford.edu/entries/logical-pluralism/#CaseBaseLogiPlur)
-
-  * [1.1 外观论证](https://plato.stanford.edu/entries/logical-pluralism/#ArguAppe)
-  * [1.2 美德的论证](https://plato.stanford.edu/entries/logical-pluralism/#ArguVirt)
-* [2. 对基于案例的逻辑多元主义的反驳](https://plato.stanford.edu/entries/logical-pluralism/#ObjeCaseBaseLogiPlur)
-
-  * [2.1 普遍性反驳](https://plato.stanford.edu/entries/logical-pluralism/#GeneObje)
-
-    * [2.1.1 多元主义对广义塔斯基论题中“每个”一词的解释](https://plato.stanford.edu/entries/logical-pluralism/#InteEverGeneTarsThes)
-    * [2.1.2 多义性的回应](https://plato.stanford.edu/entries/logical-pluralism/#RespPoly)
-    * [2.1.3 选择一个最佳案例？](https://plato.stanford.edu/entries/logical-pluralism/#ChooBestCase)
-  * [2.2 多元主义反对](https://plato.stanford.edu/entries/logical-pluralism/#NormObje)
-  * [2.3 意义变化反对](https://plato.stanford.edu/entries/logical-pluralism/#ChanMeanObje)
-  * [2.4 元逻辑反对](https://plato.stanford.edu/entries/logical-pluralism/#MetaObje)
-
-    * [2.4.1 打破元逻辑和谐](https://plato.stanford.edu/entries/logical-pluralism/#BreaMetaHarm)
-* [3. 逻辑虚无主义](https://plato.stanford.edu/entries/logical-pluralism/#LogiNihi)
-
-  * [3.1 通过普遍性反对来实现逻辑虚无主义](https://plato.stanford.edu/entries/logical-pluralism/#LogiNihiViaGeneObje)
-  * [3.2 对逻辑虚无主义的回应](https://plato.stanford.edu/entries/logical-pluralism/#RespLogiNihi)
-* [4. 通过语言多元主义实现逻辑多元主义](https://plato.stanford.edu/entries/logical-pluralism/#LogiPlurViaLingPlur)
-
-  * [4.1 容忍原则](https://plato.stanford.edu/entries/logical-pluralism/#PrinTole)
-  * [4.2 Carnap 的多元主义问题](https://plato.stanford.edu/entries/logical-pluralism/#IssuForCarnPlur)
-* [5. 更多种类的逻辑多元主义](https://plato.stanford.edu/entries/logical-pluralism/#FurtKindLogiPlur)
-
-  * [5.1 关于逻辑常量集的多元主义](https://plato.stanford.edu/entries/logical-pluralism/#PlurRegaSetLogiCons)
-  * [5.2 多元主义关于逻辑推论对象的观点](https://plato.stanford.edu/entries/logical-pluralism/#PlurAbouObjeLogiCons)
-  * [5.3 多元主义关于建模的观点](https://plato.stanford.edu/entries/logical-pluralism/#PlurAbouMode)
-  * [5.4 多元主义关于认识规范性的观点](https://plato.stanford.edu/entries/logical-pluralism/#PlurAbouEpisNorm)
-  * [5.5 通过限制实现的多元主义](https://plato.stanford.edu/entries/logical-pluralism/#PlurRest)
-* [6. 逻辑多元主义辩论中的关键问题](https://plato.stanford.edu/entries/logical-pluralism/#WhatStakDebaAbouLogiPlur)
-* [ 参考文献](https://plato.stanford.edu/entries/logical-pluralism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logical-pluralism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logical-pluralism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logical-pluralism/#Rel)
-
+ 
 ---
 
 ## 1. 基于案例的逻辑多元主义

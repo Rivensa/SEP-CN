@@ -10,47 +10,7 @@
 
 在本文中，主要关注的是直觉主义数学中证明解释的发展及其原始背景。第 1 节对术语进行评论。第 2 节考察了布劳尔在早期著作中对逻辑概念的基础。第 3 节介绍了他后来的改进，以及他对希尔伯特计划、哥德尔不完备定理以及 20 世纪 20 年代数学基础领域的争论的看法。第 4 节讨论了直觉主义逻辑的形式化，这在证明解释明确之前就已经开始，并简要介绍了所获得形式化的数学解释。第 5 节讨论了海廷在 1930 年至 1956 年间的著作中对证明解释的解释。直觉主义逻辑对数学构造的确切概念的敏感性是直觉主义内部对证明解释的某些部分提出强烈反对的根源。这些在第 6 节中进行了讨论。最后，列出了将在未来更新中添加的主题的简短列表。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/intuitionistic-logic-development/#Intr)
-
-  * [1.1 证明解释](https://plato.stanford.edu/entries/intuitionistic-logic-development/#ProoInte)
-  * [1.2 解释、理论和名称](https://plato.stanford.edu/entries/intuitionistic-logic-development/#InteExplName)
-* [2. 1907 年和 1908 年布劳尔对逻辑的观点](https://plato.stanford.edu/entries/intuitionistic-logic-development/#BrouViewLogi19071908)
-
-  * [2.1 数学、语言和逻辑](https://plato.stanford.edu/entries/intuitionistic-logic-development/#MathLangLogi)
-  * [2.2 假设性判断](https://plato.stanford.edu/entries/intuitionistic-logic-development/#HypoJudg)
-  * [ 2.3 否定](https://plato.stanford.edu/entries/intuitionistic-logic-development/#Nega)
-  * [2.4 弱反例（“不可靠性”）和排中律](https://plato.stanford.edu/entries/intuitionistic-logic-development/#WeakCounUnreExclMidd)
-  * [2.5 没有绝对不可决定的命题](https://plato.stanford.edu/entries/intuitionistic-logic-development/#TherNoAbsoUndeProp)
-* [3. 布劳尔的后期改进和应用，1921 年至 1955 年](https://plato.stanford.edu/entries/intuitionistic-logic-development/#BrouLateRefiAppl1921)
-
-  * [3.1 隐式证明解释](https://plato.stanford.edu/entries/intuitionistic-logic-development/#ImplProoInte)
-
-    * [3.1.1 直觉主义中的命题逻辑等价性](https://plato.stanford.edu/entries/intuitionistic-logic-development/#EquiPropLogi)
-    * [3.1.2 酒吧定理的证明](https://plato.stanford.edu/entries/intuitionistic-logic-development/#ProoBarTheo)
-    * [ 3.1.3 排序公理](https://plato.stanford.edu/entries/intuitionistic-logic-development/#OrdeAxio)
-  * [3.2 扩大弱反例的范围](https://plato.stanford.edu/entries/intuitionistic-logic-development/#WideScopWeakCoun)
-  * [3.3 强反例和创造主体](https://plato.stanford.edu/entries/intuitionistic-logic-development/#StroCounCreaSubj)
-  * [3.4 命题的分类](https://plato.stanford.edu/entries/intuitionistic-logic-development/#ClasProp)
-  * [3.5 Brouwer 对形式主义计划和哥德尔不完全性定理的看法](https://plato.stanford.edu/entries/intuitionistic-logic-development/#BrouViewFormProgGodeIncoTheo)
-  * [3.6 Brouwer 的逻辑学和 Grundlagenstreit](https://plato.stanford.edu/entries/intuitionistic-logic-development/#BrouLogiGrun)
-* [4. 早期部分形式化和元数学](https://plato.stanford.edu/entries/intuitionistic-logic-development/#EarlPartFormMeta)
-
-  * [4.1 Kolmogorov 1925](https://plato.stanford.edu/entries/intuitionistic-logic-development/#Kolm1925)
-  * [4.2 Heyting 1928](https://plato.stanford.edu/entries/intuitionistic-logic-development/#Heyt1928)
-  * [4.3 Glivenko 1928 和 1929](https://plato.stanford.edu/entries/intuitionistic-logic-development/#Gliv19281929)
-  * [4.4 Heyting 1930](https://plato.stanford.edu/entries/intuitionistic-logic-development/#Heyt1930)
-  * [补充：转向 Heyting 的形式化逻辑和算术](https://plato.stanford.edu/entries/intuitionistic-logic-development/heyting-logic.html)
-* [5. 显式地进行证明解释](https://plato.stanford.edu/entries/intuitionistic-logic-development/#ProoInteMadeExpl)
-
-  * [5.1 Heyting 1930, 1931](https://plato.stanford.edu/entries/intuitionistic-logic-development/#Heyt19301931)
-  * [5.2 Heyting 的影响](https://plato.stanford.edu/entries/intuitionistic-logic-development/#InflHeyt)
-  * [5.3 Kolmogorov 1932 和 Heyting 1934](https://plato.stanford.edu/entries/intuitionistic-logic-development/#Kolm1932Heyt1934)
-  * [5.4 Heyting 1956](https://plato.stanford.edu/entries/intuitionistic-logic-development/#Heyt1956)
-  * 附录：对证明解释的反驳文件
-* [ 参考文献](https://plato.stanford.edu/entries/intuitionistic-logic-development/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/intuitionistic-logic-development/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/intuitionistic-logic-development/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/intuitionistic-logic-development/#Rel)
+ 
 
 ---
 

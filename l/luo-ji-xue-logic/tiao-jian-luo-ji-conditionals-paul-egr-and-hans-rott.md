@@ -4,49 +4,7 @@
 
 本文对条件逻辑中的经典和最新研究进行了概述。我们回顾了双值分析的问题，并研究了基于更丰富语义框架的逻辑学，这些框架被提出来处理形如“如果 A，那么 B”的条件句，包括三值语义学、可能世界语义学、前提语义学和概率语义学。我们继续研究涉及信念修正的条件理论，并强调了基于这样一个观点的最新方法：只要其前提的真实性对其结论的真实性产生相关差异，条件就是可断言的。最后，我们简要讨论了解释条件与情态和言语行为运算符相互作用的系统。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/logic-conditionals/#Intr)
-* [2. 三值条件](https://plato.stanford.edu/entries/logic-conditionals/#ThreValuCond)
-
-  * [ 2.1 动机](https://plato.stanford.edu/entries/logic-conditionals/#Moti)
-  * [2.2 一些三值逻辑](https://plato.stanford.edu/entries/logic-conditionals/#SomeTrivLogi)
-  * [ 2.3 未解决的问题](https://plato.stanford.edu/entries/logic-conditionals/#OpenIssu)
-* [3. 可能世界模型](https://plato.stanford.edu/entries/logic-conditionals/#PossWorlMode)
-
-  * [ 3.1 严格条件](https://plato.stanford.edu/entries/logic-conditionals/#StriCond)
-  * [3.2 可变严格条件](https://plato.stanford.edu/entries/logic-conditionals/#VariStriCond)
-
-    * [ 3.2.1 主要语义学](https://plato.stanford.edu/entries/logic-conditionals/#MainSema)
-    * [3.2.2 框架对应属性](https://plato.stanford.edu/entries/logic-conditionals/#FramCorrProp)
-  * [3.3 条件逻辑学](https://plato.stanford.edu/entries/logic-conditionals/#LogiForCond)
-  * [3.4 非单调逻辑和优先模型](https://plato.stanford.edu/entries/logic-conditionals/#NonmLogiPrefMode)
-  * [3.5 或者-如果，导入-导出，析取前提的简化](https://plato.stanford.edu/entries/logic-conditionals/#IfImpoExpoSimpDisjAnte)
-* [4. 前提语义学](https://plato.stanford.edu/entries/logic-conditionals/#PremSema)
-
-  * [ 4.1 动机](https://plato.stanford.edu/entries/logic-conditionals/#Moti_1)
-  * [ 4.2 前提框架](https://plato.stanford.edu/entries/logic-conditionals/#PremFram)
-  * [4.3 与排序语义的对应](https://plato.stanford.edu/entries/logic-conditionals/#CorrOrdeSema)
-* [5. 概率逻辑学](https://plato.stanford.edu/entries/logic-conditionals/#ProbLogi)
-
-  * [ 5.1 亚当斯的逻辑学](https://plato.stanford.edu/entries/logic-conditionals/#AdamLogi)
-  * [5.2 路易斯的平凡性定理](https://plato.stanford.edu/entries/logic-conditionals/#LewiTrivTheo)
-  * [5.3 基数和成像](https://plato.stanford.edu/entries/logic-conditionals/#CardImag)
-
-    * [ 5.3.1 基数](https://plato.stanford.edu/entries/logic-conditionals/#Card)
-    * [ 5.3.2 成像](https://plato.stanford.edu/entries/logic-conditionals/#Imag)
-  * [5.4 复合条件的概率](https://plato.stanford.edu/entries/logic-conditionals/#ProbForCompCond)
-* [6. 信念修正方法](https://plato.stanford.edu/entries/logic-conditionals/#BeliReviAppr)
-
-  * [6.1 信念修正模型和拉姆齐测试](https://plato.stanford.edu/entries/logic-conditionals/#BeliReviModeRamsTest)
-  * [6.2 Gärdenfors 的平凡定理](https://plato.stanford.edu/entries/logic-conditionals/#GrdeTrivTheo)
-* [7. 相关性和差异制造](https://plato.stanford.edu/entries/logic-conditionals/#ReleDiffMaki)
-* [8. 情态动词和言语行为](https://plato.stanford.edu/entries/logic-conditionals/#ModaSpeeActs)
-
-  * [ 8.1 模态性](https://plato.stanford.edu/entries/logic-conditionals/#Moda)
-  * [ 8.2 超越断言](https://plato.stanford.edu/entries/logic-conditionals/#BeyoAsse)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-conditionals/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-conditionals/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-conditionals/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-conditionals/#Rel)
+ 
 
 ---
 

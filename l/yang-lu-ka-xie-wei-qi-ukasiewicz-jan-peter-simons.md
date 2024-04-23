@@ -5,37 +5,7 @@
 
 扬-卢卡谢维奇（1878-1956）是一位波兰逻辑学家和哲学家，他将数学逻辑引入波兰，成为华沙逻辑学派的最早创始人之一，也是该学派的主要建筑师和教师之一。他最著名的成就是首次给出了多值逻辑的严格表述。他在命题逻辑方面引入了许多改进，并成为第一位从现代形式逻辑的角度来处理该学科历史的逻辑学史学家。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/lukasiewicz/#Lif)
-* [2. Twardowski 的影响](https://plato.stanford.edu/entries/lukasiewicz/#InfTwa)
-* [ 3. 早期工作](https://plato.stanford.edu/entries/lukasiewicz/#EarWor)
-* [4. 命题逻辑](https://plato.stanford.edu/entries/lukasiewicz/#ProLog)
-
-  * [4.1 命题逻辑的发现](https://plato.stanford.edu/entries/lukasiewicz/#DisProLog)
-  * [4.2 变量命题函子](https://plato.stanford.edu/entries/lukasiewicz/#VarProFun)
-  * [4.3 直觉逻辑](https://plato.stanford.edu/entries/lukasiewicz/#IntLog)
-* [5. 多值逻辑](https://plato.stanford.edu/entries/lukasiewicz/#ManValLog)
-
-  * [5.1 可能性和第三个值](https://plato.stanford.edu/entries/lukasiewicz/#PosThiVal)
-  * [5.2 不确定性和第三个值](https://plato.stanford.edu/entries/lukasiewicz/#IndThiVal)
-  * [5.3 超过三个值](https://plato.stanford.edu/entries/lukasiewicz/#ThaThrVal)
-  * [5.4 公理和定义](https://plato.stanford.edu/entries/lukasiewicz/#AxiDef)
-  * [5.5 对模态性的再思考：Ł系统](https://plato.stanford.edu/entries/lukasiewicz/#SecThoModSysL)
-* [6. 逻辑的历史](https://plato.stanford.edu/entries/lukasiewicz/#HisLog)
-
-  * [6.1 斯多嘉学派命题逻辑](https://plato.stanford.edu/entries/lukasiewicz/#StoProLog)
-  * [ 6.2 亚里士多德](https://plato.stanford.edu/entries/lukasiewicz/#Ari)
-* [7. 哲学立场](https://plato.stanford.edu/entries/lukasiewicz/#PhiPos)
-* [ 8. 遗产](https://plato.stanford.edu/entries/lukasiewicz/#Leg)
-* [ 参考文献](https://plato.stanford.edu/entries/lukasiewicz/#Bib)
-
-  * [ 总体说明](https://plato.stanford.edu/entries/lukasiewicz/#GenRem)
-  * [ 缩写](https://plato.stanford.edu/entries/lukasiewicz/#Abb)
-  * [主要来源：扬-卢卡谢维奇的著作](https://plato.stanford.edu/entries/lukasiewicz/#PriSouWorLuk)
-  * [选定的次要文献](https://plato.stanford.edu/entries/lukasiewicz/#SelSecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/lukasiewicz/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lukasiewicz/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/lukasiewicz/#Rel)
-
+ 
 ---
 
 ## 1. 生活

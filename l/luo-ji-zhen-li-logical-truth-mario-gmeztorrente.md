@@ -22,25 +22,7 @@
 
 在本条目的第一部分中，我们将以非常广泛的概述来描述有关如何理解与逻辑真理相关的模态和形式性的主要现有观点。（关于这些观点的更详细处理可在下面提到的其他条目中找到，尤其是关于分析/综合区分和逻辑常量的条目。）在第二部分中，我们将以概述的形式描述一组哲学问题，这些问题在考虑逻辑真理的尝试数学描述时会出现。这些描述是否正确或以何种方式正确与我们对模态和形式性的具体理解的问题密切相关。[2]
 
-* [1. 逻辑真理的本质](https://plato.stanford.edu/entries/logical-truth/#NatLogTru)
-
-  * [ 1.1 模态](https://plato.stanford.edu/entries/logical-truth/#Mod)
-  * [ 1.2 正式性](https://plato.stanford.edu/entries/logical-truth/#For)
-* [2. 逻辑真理的数学描述](https://plato.stanford.edu/entries/logical-truth/#MatChaLogTru)
-
-  * [ 2.1 形式化](https://plato.stanford.edu/entries/logical-truth/#Formal)
-  * [ 2.2 推导性](https://plato.stanford.edu/entries/logical-truth/#Der)
-  * [2.3 模型论的有效性](https://plato.stanford.edu/entries/logical-truth/#ModVal)
-  * [2.4 充分性问题](https://plato.stanford.edu/entries/logical-truth/#ProAde)
-
-    * [2.4.1 分析与模态性](https://plato.stanford.edu/entries/logical-truth/#AnaMod)
-    * [2.4.2 外延充分性：一个普遍的论证](https://plato.stanford.edu/entries/logical-truth/#ExtAdeGenArg)
-    * [2.4.3 外延充分性：高阶语言](https://plato.stanford.edu/entries/logical-truth/#ExtAdeHigLan)
-* [ 参考文献](https://plato.stanford.edu/entries/logical-truth/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logical-truth/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logical-truth/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logical-truth/#Rel)
-
+ 
 ---
 
 ## 1. 逻辑真理的本质

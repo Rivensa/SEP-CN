@@ -4,25 +4,7 @@
 
 认知逻辑是哲学逻辑的一个子领域，涉及到对知识、信念和相关概念的逻辑方法。虽然任何具有认知解释的逻辑都可以称为认知逻辑，但目前广泛使用的认知逻辑类型是模态逻辑。知识和信念通过模态运算符 K 和 B 来表示，通常带有下标表示持有态度的主体。然后，公式 Kaφ和 Baφ分别被解读为“主体 a 知道 phi”和“主体 a 相信 phi”。认知逻辑允许形式化地探索认知原理的含义。例如，公式 Kaφ→φ表示所知为真，而 Kaφ→KaKaφ表示所知已知为已知。认知逻辑的语义通常以基于克里普克模型的可能世界来给出，这样公式 Kaφ被解读为在主体 a 认为在其当前信息下认知上可能的所有世界中，φ为真。关于认知逻辑学家关注的核心问题包括确定哪些认知原理最适合描述知识和信念，不同知识和信念概念之间的逻辑关系，以及群体主体的认知特征。除了哲学本身，认知逻辑在理论计算机科学、人工智能、经济学和相关领域中蓬勃发展。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/logic-epistemic/#Intr)
-* [2. 知识的模态方法](https://plato.stanford.edu/entries/logic-epistemic/#ModaApprKnow)
-
-  * [2.1 认知逻辑的形式语言](https://plato.stanford.edu/entries/logic-epistemic/#FormLangEpisLogi)
-  * [2.2 高阶态度](https://plato.stanford.edu/entries/logic-epistemic/#HighOrdeAtti)
-  * [2.3 随附原则和模态语义](https://plato.stanford.edu/entries/logic-epistemic/#PartPrinModaSema)
-  * [2.4 Kripke 模型和知识的不可区分解释](https://plato.stanford.edu/entries/logic-epistemic/#KripModeIndiInteKnow)
-  * [2.5 认知逻辑中的认知原则](https://plato.stanford.edu/entries/logic-epistemic/#EpisPrinEpisLogi)
-  * [2.6 知识和信念的原则](https://plato.stanford.edu/entries/logic-epistemic/#PrinKnowBeli)
-* [3. 群体中的认知](https://plato.stanford.edu/entries/logic-epistemic/#KnowGrou)
-
-  * [3.1 多智能体语言和模型](https://plato.stanford.edu/entries/logic-epistemic/#MultAgenLangMode)
-  * [3.2 群体认知的概念](https://plato.stanford.edu/entries/logic-epistemic/#NotiGrouKnow)
-* [4. 超越认知](https://plato.stanford.edu/entries/logic-epistemic/#BeyoKnowThat)
-* [ 5. 逻辑学的全知](https://plato.stanford.edu/entries/logic-epistemic/#LogiOmni)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-epistemic/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-epistemic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-epistemic/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-epistemic/#Rel)
+ 
 
 ---
 

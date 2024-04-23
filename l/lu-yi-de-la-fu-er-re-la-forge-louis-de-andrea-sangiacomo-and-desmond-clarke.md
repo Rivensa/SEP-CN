@@ -4,19 +4,7 @@
 
 路易·德·拉弗尔热是在瑞典（1650 年）逝世后的几年里，第一批自称的追随者之一，编辑和传播笛卡尔的著作。拉弗尔热最初利用他的医学训练评论笛卡尔的生理学。他还撰写了关于笛卡尔人类心灵理论的第一篇专著，在其中他捍卫了物质二元论，并提出了一种偶然因果理论，这一理论被其他笛卡尔学派，包括马勒布朗什，采纳和发展。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/la-forge/#LifWor)
-* [ 2. 解释](https://plato.stanford.edu/entries/la-forge/#Exp)
-* [ 3. 物质二元论](https://plato.stanford.edu/entries/la-forge/#SubDua)
-* [ 4. 偶然论](https://plato.stanford.edu/entries/la-forge/#Occ)
-* [ 参考文献](https://plato.stanford.edu/entries/la-forge/#Bib)
-
-  * [ 路易·德·拉弗尔热的作品](https://plato.stanford.edu/entries/la-forge/#LaForWor)
-  * [ 相关早期作品](https://plato.stanford.edu/entries/la-forge/#RelEarWor)
-  * [ 二次文献](https://plato.stanford.edu/entries/la-forge/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/la-forge/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/la-forge/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/la-forge/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品

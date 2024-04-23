@@ -38,20 +38,7 @@ _首次发表于1999年10月19日；实质修订于2021年9月1日。_
 
 对这些问题的提出的答案通常与关于为什么各种推理似乎令人信服的主张交织在一起。因此，了解哪些推理确实是安全的，以及这些推理之所以特殊的原因，将是很好的。最常见的建议是某些推理是由于它们的逻辑形式而安全的。尽管不出所料，形式的概念随着逻辑和语言的概念的发展而演变。
 
-* [1. 推理的模式](https://plato.stanford.edu/entries/logical-form/#pat)
-* [2. 命题和传统语法](https://plato.stanford.edu/entries/logical-form/#prop)
-* [3. 修订的动机](https://plato.stanford.edu/entries/logical-form/#mot)
-* [4. 弗雷格和形式语言](https://plato.stanford.edu/entries/logical-form/#freg)
-* [5. 描述和分析](https://plato.stanford.edu/entries/logical-form/#des)
-* [6. 形式化和沟通松弛](https://plato.stanford.edu/entries/logical-form/#reg)
-* [7. 符号表示和受限量词](https://plato.stanford.edu/entries/logical-form/#not)
-* [8. 转换语法](https://plato.stanford.edu/entries/logical-form/#tran)
-* [9. 语义结构和事件](https://plato.stanford.edu/entries/logical-form/#sem)
-* [10. 进一步的问题](https://plato.stanford.edu/entries/logical-form/#fq)
-* [参考文献](https://plato.stanford.edu/entries/logical-form/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/logical-form/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logical-form/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/logical-form/#Rel)
+ 
 
 ***
 

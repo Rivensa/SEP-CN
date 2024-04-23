@@ -33,24 +33,7 @@
 不是，尽管直观上两者都是真实的、必要的、可先验的和分析的。我们在称其中一个为“逻辑真理”时，对它们之间的区别的意义是什么？对逻辑常项的原则性划分可能会提供一个答案，从而澄清在哲学争议中的重要性，即什么被视为逻辑（例如，数学哲学中的逻辑主义和结构主义）。
 
 本文将讨论逻辑常项的问题，并概述解决或解决该问题的主要方法。
-
-* [1. 随附项](https://plato.stanford.edu/entries/logical-constants/#SynTer)
-* [ 2. 语法标准](https://plato.stanford.edu/entries/logical-constants/#GraCri)
-* [3. 一种戴维森方法](https://plato.stanford.edu/entries/logical-constants/#DavApp)
-* [ 4. 主题中立性](https://plato.stanford.edu/entries/logical-constants/#TopNeu)
-* [5. 排列不变性](https://plato.stanford.edu/entries/logical-constants/#PerInv)
-* [6. 推理特征描述](https://plato.stanford.edu/entries/logical-constants/#InfCha)
-
-  * [6.1 语义值确定](https://plato.stanford.edu/entries/logical-constants/#SemValDet)
-  * [ 6.2 意义确定](https://plato.stanford.edu/entries/logical-constants/#SenDet)
-* [7. 实用主义的划界](https://plato.stanford.edu/entries/logical-constants/#PraDem)
-* [8. 问题还是伪问题？](https://plato.stanford.edu/entries/logical-constants/#ProPse)
-* [ 进一步阅读](https://plato.stanford.edu/entries/logical-constants/#FurRea)
-* [ 参考文献](https://plato.stanford.edu/entries/logical-constants/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logical-constants/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logical-constants/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logical-constants/#Rel)
-
+ 
 ---
 
 ## 1. 随附项

@@ -8,36 +8,7 @@ _首次发表于2006年12月13日，实质性修订于2020年4月15日。_
 
 从公元前 100 年至公元 250 年的逻辑学发展大部分仍然是未知的，但毫无疑问逻辑学是经常被研究和研究的主题之一。某个时候，亚里士多德学派和斯多葛学派开始注意到彼此的逻辑系统，并且我们可以看到两种术语和理论的一些混合。亚里士多德的三段论被称为“范畴三段论”，斯多葛学派对亚里士多德三段论的改编被称为“假设三段论”。在公元 2 世纪，加伦试图综合这两个传统；他还声称引入了第三种三段论，即“关系三段论”，显然是为了帮助形式化数学推理。一些中期柏拉图主义者（公元前 1 世纪至公元 2 世纪）试图声称柏拉图式逻辑，但失败了，取而代之的是新柏拉图主义者（公元 3 至 6 世纪）采用了一种学院化的亚里士多德逻辑作为自己的逻辑。在希腊评论家对亚里士多德逻辑著作的巨大（尽管很少有创造性）的卷册中，我们发现了斯多葛学派和后来的亚里士多德学派逻辑以及柏拉图主义、古代数学和修辞学的元素。对于阿普列乌斯（公元 2 世纪）和博伊修斯（公元 6 世纪）的拉丁逻辑著作也是如此，它们为亚里士多德逻辑的进入中世纪时代铺平了道路。
 
-* [1. 亚里士多德前逻辑](https://plato.stanford.edu/entries/logic-ancient/#PreAriLog)
-  * [1.1 句法和语义](https://plato.stanford.edu/entries/logic-ancient/#SynSem)
-  * [1.2 论证模式和有效推理](https://plato.stanford.edu/entries/logic-ancient/#ArgPatValInf)
-* [2. 亚里士多德](https://plato.stanford.edu/entries/logic-ancient/#Ari)
-  * [2.1 辩证法](https://plato.stanford.edu/entries/logic-ancient/#Dia)
-  * [2.2 子句分类](https://plato.stanford.edu/entries/logic-ancient/#SubSenCla)
-  * [2.3 句子的语法和语义](https://plato.stanford.edu/entries/logic-ancient/#SynSemSen)
-  * [2.4 非模态三段论](https://plato.stanford.edu/entries/logic-ancient/#NonModSyl)
-  * [2.5 模态逻辑](https://plato.stanford.edu/entries/logic-ancient/#ModLog)
-* [3. 早期的亚里士多德学派：提奥弗拉斯托和尤德穆斯](https://plato.stanford.edu/entries/logic-ancient/#EarPerTheEud)
-  * [3.1 亚里士多德逻辑的改进和修改](https://plato.stanford.edu/entries/logic-ancient/#ImpModAriLog)
-  * [3.2 预见性三段论](https://plato.stanford.edu/entries/logic-ancient/#ProSyl)
-  * [3.3 Modus Ponens 和 Modus Tollens 的先驱](https://plato.stanford.edu/entries/logic-ancient/#ForModPonModTol)
-  * [3.4 完全假设性三段论](https://plato.stanford.edu/entries/logic-ancient/#WhoHypSyl)
-* [4. 迪奥多罗斯·克罗纳斯和逻辑学家菲洛](https://plato.stanford.edu/entries/logic-ancient/#DioCroPhiLog)
-* [5. 斯多亚学派](https://plato.stanford.edu/entries/logic-ancient/#Sto)
-  * [5.1 除了命题逻辑之外的逻辑学成就](https://plato.stanford.edu/entries/logic-ancient/#LogAchBesProLog)
-  * [5.2 复合命题的语法和语义](https://plato.stanford.edu/entries/logic-ancient/#SynSemComPro)
-  * [5.3 论证](https://plato.stanford.edu/entries/logic-ancient/#Arg)
-  * [5.4 斯多葛逻辑学](https://plato.stanford.edu/entries/logic-ancient/#StoSyl)
-  * [5.5 逻辑悖论](https://plato.stanford.edu/entries/logic-ancient/#LogPar)
-* [6. 伊壁鸠鲁和伊壁鸠鲁主义者](https://plato.stanford.edu/entries/logic-ancient/#EpiEpi)
-* [7. 后期古代](https://plato.stanford.edu/entries/logic-ancient/#LatAnt)
-* [参考文献](https://plato.stanford.edu/entries/logic-ancient/#Bib)
-  * [希腊和拉丁文本](https://plato.stanford.edu/entries/logic-ancient/#GreLatTex)
-  * [希腊和拉丁文本的翻译](https://plato.stanford.edu/entries/logic-ancient/#TraGreLatTex)
-  * [二手文献](https://plato.stanford.edu/entries/logic-ancient/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/logic-ancient/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-ancient/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/logic-ancient/#Rel)
+ 
 
 ***
 

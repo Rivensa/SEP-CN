@@ -6,24 +6,7 @@
 朗格在德国劳工运动和社会民主思想的发展中起到了重要作用。他提出了一种社会达尔文主义，作为早期社会达尔文主义的替代方案。他的著作《唯物主义的历史及其当代意义批判》是一部关于唯物主义和哲学史的经典著作，影响力一直延续到 20 世纪。关于“唯物主义争论”（参见 Beiser 2014a，第 9 章和 2014b，第 2 章），重点是唯物主义科学和哲学对宗教和形而上学的影响。朗格对唯物主义争论的回应对新康德主义运动和弗里德里希·尼采等人产生了影响。朗格是“生理学新康德主义”的创始人之一，也是马尔堡新康德主义学派的重要人物。他在逻辑学方面的工作，最终体现在《逻辑研究》中，从图示推理中推导出了三段论，受到恩斯特·施罗德和约翰·文恩的赞赏。
 
 朗格对唯物主义的批判、他的哲学自然主义和他的政治活动将他的各种成就联系在一起，并使他在 19 世纪哲学家中独树一帜。
-
-* [1. 生活和职业](https://plato.stanford.edu/entries/friedrich-lange/#LifeCare)
-* [ 2. 教育学](https://plato.stanford.edu/entries/friedrich-lange/#Peda)
-* [3. 劳动问题](https://plato.stanford.edu/entries/friedrich-lange/#LaboQues)
-* [ 4. 新康德主义](https://plato.stanford.edu/entries/friedrich-lange/#NeoKant)
-
-  * [4.1 唯物主义、无灵魂的心理学和回归康德运动](https://plato.stanford.edu/entries/friedrich-lange/#MatePsycWithSoulBackKantMove)
-  * [4.2 伦理学、宗教和形而上学的批判](https://plato.stanford.edu/entries/friedrich-lange/#EthiCritReliMeta)
-  * [4.3 逻辑和科学方法论](https://plato.stanford.edu/entries/friedrich-lange/#LogiScieMeth)
-* [5. 弗里德里希·阿尔贝特·朗格作为知识分子和活动家](https://plato.stanford.edu/entries/friedrich-lange/#LangInteActi)
-* [ 参考文献](https://plato.stanford.edu/entries/friedrich-lange/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/friedrich-lange/#PrimSour)
-  * [ 次要来源](https://plato.stanford.edu/entries/friedrich-lange/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/friedrich-lange/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/friedrich-lange/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/friedrich-lange/#Rel)
-
+ 
 ---
 
 ## 1. 生平与事业

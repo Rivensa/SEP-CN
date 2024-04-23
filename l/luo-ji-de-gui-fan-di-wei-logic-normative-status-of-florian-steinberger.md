@@ -4,31 +4,7 @@
 
 我们认为不一致是一件坏事。同样地，我们批评别人没有意识到（至少是更明显的）他们信仰的逻辑后果。在这两种情况下，都没有将自己的态度符合逻辑的要求。我们通常认为未能满足逻辑要求的行为者是理性上有缺陷的。这表明逻辑在我们的理性经济中具有规范地位；它指导我们如何思考或推理。逻辑具有这种规范地位的观念在我们传统思考和教授逻辑的方式中根深蒂固。以两个例子为例，康德将他所称之为“纯粹普遍”逻辑描述为体现“绝对必要的思维规则，没有这些规则，理解力就无法被任何方式所使用”（A52/B76），它指导我们“理解力是如何和思考的”而不是“理解力应该如何进行”（康德 1974 [1800]：16）。同样地，弗雷格在他对当时心理学倾向的强烈反对中，将逻辑与伦理学一样，归类为一门“规范科学”（弗雷格 1897/1979：228），其法则“普遍规定了如果要思考，应该如何思考”（弗雷格 1893/1903/2009：xv）。本文关注的问题是传统和似乎支持传统的直觉是否正确。换句话说，它关注的问题是逻辑是否对我们具有规范权威。如果是这样，它在什么意义上可以这样说？
 
-* [1. 什么的规范地位？](https://plato.stanford.edu/entries/logic-normative/#NormStatWhat)
-
-  * [1.1 以其规范地位来描述逻辑推论](https://plato.stanford.edu/entries/logic-normative/#CharLogiConsTermNormRole)
-  * [ 1.2 逻辑学的多元论](https://plato.stanford.edu/entries/logic-normative/#LogiPlur)
-* [2. 规范地位是为了什么？](https://plato.stanford.edu/entries/logic-normative/#NormForWhat)
-
-  * [2.1 逻辑学作为推理的规范地位](https://plato.stanford.edu/entries/logic-normative/#LogiNormForReas)
-  * [2.2 逻辑学作为思维的规范地位](https://plato.stanford.edu/entries/logic-normative/#LogiConsNormForThou)
-  * [2.3 逻辑学作为公共实践的规范地位](https://plato.stanford.edu/entries/logic-normative/#LogiNormForPublPrac)
-* [3. 哈曼的挑战](https://plato.stanford.edu/entries/logic-normative/#HarmChal)
-
-  * [ 3.1 反对意见](https://plato.stanford.edu/entries/logic-normative/#Obje)
-* [4. 桥梁原则](https://plato.stanford.edu/entries/logic-normative/#BridPrin)
-
-  * [4.1 评估桥梁原则](https://plato.stanford.edu/entries/logic-normative/#EvalBridPrin)
-  * [4.2 前言悖论](https://plato.stanford.edu/entries/logic-normative/#PrefPara)
-* [5. 进一步的挑战](https://plato.stanford.edu/entries/logic-normative/#FurtChal)
-
-  * [ 5.1 Kolodny 的挑战](https://plato.stanford.edu/entries/logic-normative/#KoloChal)
-  * [5.2 一致性和连贯性](https://plato.stanford.edu/entries/logic-normative/#ConsCohe)
-  * [5.3 逻辑学 vs. 概率论](https://plato.stanford.edu/entries/logic-normative/#LogiVsProbTheo)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-normative/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-normative/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-normative/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-normative/#Rel)
+ 
 
 ---
 

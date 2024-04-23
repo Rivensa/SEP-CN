@@ -7,33 +7,7 @@
 当前的主题，即法律界限的问题，被广泛认为是一个重要的评价性问题，围绕着对道德的法律强制执行。19 世纪，约翰·斯图尔特·密尔提出了“伤害原则”作为他的答案；20 世纪末，H.L.A 哈特采用了密尔原则的一个显著修改版本，随后在乔尔·费恩伯格和约瑟夫·拉兹的手中出现了更重要的伤害原则版本（下文第 4-6 节）。伤害原则在各种表现形式中都遭遇到了强烈的抵制，尤其是来自“法律道德主义者”的抵制（第 1-3 节），在许多人眼中仍然是辩论的焦点，是要采纳、补充或修改的观点（正如一些人所说），还是要打败并取而代之的观点（正如其他人所说）。
 
 对于道德的法律强制问题，最近的一个观点源自罗尔斯，尤其是声称宪法要素和基本正义问题应受公共理由的限制（第 7 节）。另一种观点挑战了法律界限仅仅是一个评价性问题的假设，将焦点放在法律作为一个中立工具的好坏上。它认为法律的界限在某种程度上是一个概念性问题。据称，法律本质上具有自己的内在道德，具有内在的界限（第 8 节）。另一个问题与法律在强制之外的技术手段的运用有关（第 8 节）。
-
-* [1. 法律道德主义：表述和结构](https://plato.stanford.edu/entries/law-limits/#LegaMoraFormStru)
-* [2. 法律道德主义：可以打败初步错误的限制性因素](https://plato.stanford.edu/entries/law-limits/#LegaMoraRestFactDefePrimFaciWron)
-
-  * [ 2.1 隐私](https://plato.stanford.edu/entries/law-limits/#Priv)
-  * [ 2.2 自由](https://plato.stanford.edu/entries/law-limits/#Libe)
-  * [2.3 犯罪税率](https://plato.stanford.edu/entries/law-limits/#CrimTari)
-  * [2.4 自我失败和其他形式的失败](https://plato.stanford.edu/entries/law-limits/#SelfDefeOtheFormDefe)
-* [3. 法律道德主义的道德性](https://plato.stanford.edu/entries/law-limits/#MoraLegaMora)
-* [4. 伤害原则](https://plato.stanford.edu/entries/law-limits/#HarmPrin)
-* [5. 什么是伤害？](https://plato.stanford.edu/entries/law-limits/#WhatHarm)
-
-  * [5.1 他人相关行为](https://plato.stanford.edu/entries/law-limits/#OtheRegaCond)
-  * [5.2 对利益的挫折](https://plato.stanford.edu/entries/law-limits/#SetbInte)
-  * [5.3 对自主权/前景伤害的挫折](https://plato.stanford.edu/entries/law-limits/#SetbAutoHarm)
-* [6. 伤害原则的基础](https://plato.stanford.edu/entries/law-limits/#FounHarmPrin)
-
-  * [6.1 功利主义/后果主义基础](https://plato.stanford.edu/entries/law-limits/#UtilFoun)
-  * [6.2 完美主义者/价值多元主义的基础](https://plato.stanford.edu/entries/law-limits/#PerfPlurFoun)
-* [ 7. 公共理由](https://plato.stanford.edu/entries/law-limits/#PublReas)
-* [8. 其他方向：合法性，一种“模态种类”和强制](https://plato.stanford.edu/entries/law-limits/#OtheDireLegaModaKindCoer)
-* [ 9. 结论](https://plato.stanford.edu/entries/law-limits/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/law-limits/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/law-limits/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/law-limits/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/law-limits/#Rel)
-
+ 
 ---
 
 ## 1. 法律道德主义：表述和结构

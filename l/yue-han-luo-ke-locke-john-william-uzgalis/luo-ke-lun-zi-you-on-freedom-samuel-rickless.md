@@ -6,25 +6,7 @@
 
 关于文本的说明：洛克关于自由的理论包含在《人类理解论》第二卷第二十一章中。这一章在洛克的一生中经历了五次修订[E1（1689 年），E2（1694 年），E3（1695 年），E4（1700 年）和 E5（1706 年）]，最后一版是在他去世后出版的。E2 中发生了重大变化，包括对该章节的大幅扩展；E5 中也有重要的变化。
 
-* [1. 行动和忍耐](https://plato.stanford.edu/entries/locke-freedom/#ActFor)
-* [2. 意愿和意愿](https://plato.stanford.edu/entries/locke-freedom/#WilWil)
-* [3. 自愿与非自愿的行动/忍耐](https://plato.stanford.edu/entries/locke-freedom/#VolVsInvAct)
-* [4. 自由与必然性](https://plato.stanford.edu/entries/locke-freedom/#FreNec)
-* [ 5. 自由意志](https://plato.stanford.edu/entries/locke-freedom/#FreWil)
-* [6. 意愿自由](https://plato.stanford.edu/entries/locke-freedom/#FreResWil)
-* [7. 意愿自由的自由](https://plato.stanford.edu/entries/locke-freedom/#FretoWil)
-* [8. 意志的决定](https://plato.stanford.edu/entries/locke-freedom/#DetWil)
-* [9. 悬置学说](https://plato.stanford.edu/entries/locke-freedom/#DocSus)
-* [10. 兼容主义还是不兼容主义？](https://plato.stanford.edu/entries/locke-freedom/#ComInc)
-* [ 参考文献](https://plato.stanford.edu/entries/locke-freedom/#Bib)
-
-  * [ 选择主要来源](https://plato.stanford.edu/entries/locke-freedom/#SelPriSou)
-  * [选择次要来源](https://plato.stanford.edu/entries/locke-freedom/#SelSecSou)
-  * [附加次要来源](https://plato.stanford.edu/entries/locke-freedom/#AddSecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/locke-freedom/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/locke-freedom/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/locke-freedom/#Rel)
-
+ 
 ---
 
 ## 1. 行动和克制

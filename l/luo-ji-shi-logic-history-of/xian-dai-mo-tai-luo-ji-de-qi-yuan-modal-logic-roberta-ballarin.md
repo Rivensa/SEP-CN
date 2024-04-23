@@ -8,24 +8,7 @@
 
 模态逻辑是一个丰富而复杂的主题。本条目并未提供对所考虑时间段内开发的所有系统和证明的模型论结果的完整调查。然而，它确实提供了一个有意义的调查，旨在对那些寻求该主题的历史概述的人有所帮助，即使不是全面的，也勾勒出了最有趣的模型论结果并指出了进一步的探索方向。Bull 和 Segerberg（1984 年：3）将模态逻辑的原始来源分为三个不同的传统——句法、代数和模型论，并采用了这种划分。对于其他影响较小的传统，请参阅 Bull 和 Segerberg（1984 年：16）。另请参阅 Lindström 和 Segerberg 的《模态逻辑与哲学》（2007 年）。本条目的主要焦点是命题模态逻辑，而只对量化模态逻辑语义的某些特定方面进行了简要讨论。有关条目的符号表示，请注意，⇒被采用作为严格蕴涵的替代符号，⇔表示严格等价。
 
-* [1. 句法传统](https://plato.stanford.edu/entries/logic-modal-origins/#SyntTrad)
-
-  * [1.1 Lewis 系统](https://plato.stanford.edu/entries/logic-modal-origins/#LewiSyst)
-  * [1.2 其他系统和对 Lewis 系统的替代公理化](https://plato.stanford.edu/entries/logic-modal-origins/#OtheSystAlteAxioLewiSyst)
-* [2. 矩阵方法和一些代数结果](https://plato.stanford.edu/entries/logic-modal-origins/#MatrMethSomeAlgeResu)
-* [3. 模型论传统](https://plato.stanford.edu/entries/logic-modal-origins/#ModeTheoTrad)
-
-  * [ 3.1 卡尔纳普](https://plato.stanford.edu/entries/logic-modal-origins/#Carn)
-  * [3.2 克里普克的可能世界语义学](https://plato.stanford.edu/entries/logic-modal-origins/#KripPossWorlSema)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-modal-origins/#Bib)
-
-  * [ 入门文本](https://plato.stanford.edu/entries/logic-modal-origins/#IntrText)
-  * [ 主要文献](https://plato.stanford.edu/entries/logic-modal-origins/#PrimLite)
-  * [ 次要文献](https://plato.stanford.edu/entries/logic-modal-origins/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-modal-origins/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-modal-origins/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-modal-origins/#Rel)
-
+ 
 ---
 
 ## 1. 语法传统

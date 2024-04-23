@@ -3,27 +3,7 @@
 *首次发表于2021年7月7日星期三*
 
 法律解释涉及审查法律文件，如法令、宪法、合同和遗嘱的文件。本章介绍了法律解释的基本问题，即法律解释本质上追求的是什么，以及对这个问题的竞争性答案。接下来，本章概述了主要的法律解释实质理论，并深入探讨了一些有影响力的理论及其所遇到的困难。最后，本章考虑了如何捍卫和评估法律解释理论。
-
-* [ 1. 引言](https://plato.stanford.edu/entries/legal-interpretation/#Intr)
-* [2. 法律解释追求的内容](https://plato.stanford.edu/entries/legal-interpretation/#WhatLegaInteSeek)
-
-  * [ 2.1 语言意义](https://plato.stanford.edu/entries/legal-interpretation/#LingMean)
-  * [2.2 纠纷的正确解决](https://plato.stanford.edu/entries/legal-interpretation/#CorrResoDisp)
-  * [2.3 法律解释对法律内容的贡献](https://plato.stanford.edu/entries/legal-interpretation/#ProvContContLaw)
-* [3. 法律解释方法概述](https://plato.stanford.edu/entries/legal-interpretation/#OverMethLegaInte)
-* [4. 法律解释理论](https://plato.stanford.edu/entries/legal-interpretation/#TheoLegaInte)
-
-  * [4.1. 意图主义和目的主义](https://plato.stanford.edu/entries/legal-interpretation/#IntePurp)
-  * [ 4.2 法律解释的文本主义](https://plato.stanford.edu/entries/legal-interpretation/#Text)
-* [5. 如何辩论和评估法律解释理论](https://plato.stanford.edu/entries/legal-interpretation/#HowArguForEvalTheoLegaInte)
-
-  * [5.1 法律解释理论和法律理论的随附性](https://plato.stanford.edu/entries/legal-interpretation/#TheoLegaInteTheoLaw)
-  * [5.2 法律理论与法律解释理论之间的分歧潜力](https://plato.stanford.edu/entries/legal-interpretation/#PoteForDiveBetwTheoLawTheoLegaInte)
-* [ 6. 结论](https://plato.stanford.edu/entries/legal-interpretation/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/legal-interpretation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/legal-interpretation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/legal-interpretation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/legal-interpretation/#Rel)
+ 
 
 ---
 

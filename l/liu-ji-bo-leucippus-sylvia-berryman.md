@@ -3,14 +3,7 @@
 *首次发表于2004年8月14日，实质性修订于2023年1月9日。*
 
 希腊传统将留基伯视为古希腊哲学中原子论的创始人。关于他的了解很少，他的观点很难与他的同事德谟克利特的观点区分开来。有时人们说他是埃莱亚的泽诺的学生，并且为了摆脱巴门尼德和他的追随者提出的问题而设计了原子论哲学。
-
-* [1. 生平与著作](https://plato.stanford.edu/entries/leucippus/#1)
-* [ 2. 原子论主义](https://plato.stanford.edu/entries/leucippus/#2)
-* [ 参考文献](https://plato.stanford.edu/entries/leucippus/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/leucippus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/leucippus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/leucippus/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品

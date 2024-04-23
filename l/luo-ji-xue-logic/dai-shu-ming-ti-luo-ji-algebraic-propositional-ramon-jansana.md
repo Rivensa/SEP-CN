@@ -20,41 +20,7 @@ Frege 和 Russell 逻辑推理系统设计的基本思想是，定理应该是�
 
 在这个条目中，我们集中讨论将命题逻辑代数化作为推理关系的一般理论。这个理论已经发展成为被称为抽象代数逻辑（AAL）的领域。这个条目可以作为对这个领域的初步介绍。
 
-* [1. 抽象推理关系](https://plato.stanford.edu/entries/logic-algebraic-propositional/#AbstConsRela)
-* [2. 逻辑作为推理关系](https://plato.stanford.edu/entries/logic-algebraic-propositional/#LogiConsRela)
-* [3. 一些逻辑的例子](https://plato.stanford.edu/entries/logic-algebraic-propositional/#SomeExamLogi)
-
-  * [3.1 经典命题逻辑](https://plato.stanford.edu/entries/logic-algebraic-propositional/#ClasPropLogi)
-  * [3.2 直觉主义命题逻辑](https://plato.stanford.edu/entries/logic-algebraic-propositional/#IntuPropLogi)
-  * [3.3 本地正常模态逻辑](https://plato.stanford.edu/entries/logic-algebraic-propositional/#LocaNormModaLogi)
-  * [3.4 全局正常模态逻辑](https://plato.stanford.edu/entries/logic-algebraic-propositional/#GlobNormModaLogi)
-  * [3.5 没有指数的直觉线性逻辑](https://plato.stanford.edu/entries/logic-algebraic-propositional/#IntuLineLogiWithExpo)
-  * [3.6 相关逻辑系统 R](https://plato.stanford.edu/entries/logic-algebraic-propositional/#SystBRReleLogi)
-* [ 4. 代数](https://plato.stanford.edu/entries/logic-algebraic-propositional/#Alge)
-
-  * [4.1 通用代数和模型论的一些概念](https://plato.stanford.edu/entries/logic-algebraic-propositional/#SomeConcUnivAlgeModeTheo)
-  * [4.2 类型和准类型](https://plato.stanford.edu/entries/logic-algebraic-propositional/#VariQuas)
-* [ 5. 代数语义学](https://plato.stanford.edu/entries/logic-algebraic-propositional/#AlgeSema)
-* [ 6. 逻辑矩阵](https://plato.stanford.edu/entries/logic-algebraic-propositional/#LogiMatr)
-* [7. 用于证明代数完备性定理的 Lindenbaum-Tarski 方法](https://plato.stanford.edu/entries/logic-algebraic-propositional/#LindTarsMethForProvAlgeCompTheo)
-* [8. 逻辑系统的自然代数类](https://plato.stanford.edu/entries/logic-algebraic-propositional/#NatuClasAlgeLogiSyst)
-* [9. 逻辑可代数化的条件及其含义是什么？](https://plato.stanford.edu/entries/logic-algebraic-propositional/#WhenLogiAlgeWhatDoesMean)
-* [10. 逻辑的分类](https://plato.stanford.edu/entries/logic-algebraic-propositional/#ClasLogi)
-* [11. 替换原则](https://plato.stanford.edu/entries/logic-algebraic-propositional/#ReplPrin)
-* [12. 超越原代数逻辑](https://plato.stanford.edu/entries/logic-algebraic-propositional/#BeyoProtLogi)
-
-  * [12.1 合取和析取的逻辑](https://plato.stanford.edu/entries/logic-algebraic-propositional/#LogiConjDisj)
-  * [12.2 正模态逻辑](https://plato.stanford.edu/entries/logic-algebraic-propositional/#PosiModaLogi)
-  * [12.3 Visser 的次直觉逻辑](https://plato.stanford.edu/entries/logic-algebraic-propositional/#VissSubiLogi)
-  * [12.4 本地模态逻辑 lK 的严格蕴涵片段](https://plato.stanford.edu/entries/logic-algebraic-propositional/#StriImplFragLocaModaLogiLK)
-* [13. 抽象逻辑和广义矩阵](https://plato.stanford.edu/entries/logic-algebraic-propositional/#AbstLogiGeneMatr)
-* [14. 弗雷格层次](https://plato.stanford.edu/entries/logic-algebraic-propositional/#FregeHier)
-* [15. 扩展设置](https://plato.stanford.edu/entries/logic-algebraic-propositional/#ExteSett)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-algebraic-propositional/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-algebraic-propositional/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-algebraic-propositional/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-algebraic-propositional/#Rel)
-
+ 
 ---
 
 ## 1. 抽象的推论关系

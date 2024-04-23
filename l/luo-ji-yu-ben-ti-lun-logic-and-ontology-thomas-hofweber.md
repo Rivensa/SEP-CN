@@ -4,29 +4,7 @@
 
 一些重要的哲学问题处于逻辑和本体论的交叉点上。逻辑和本体论都是哲学中多样化的领域，部分原因是因为这个，它们之间并没有一个单一的哲学问题。在这篇综述文章中，我们首先讨论在“逻辑”和“本体论”这两个标题下进行的不同哲学项目，然后我们将看一下逻辑和本体论重叠的几个领域。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/logic-ontology/#Intr)
-* [ 2. 逻辑](https://plato.stanford.edu/entries/logic-ontology/#Logi)
-
-  * [2.1 逻辑的不同概念](https://plato.stanford.edu/entries/logic-ontology/#DiffConcLogi)
-  * [2.2 不同概念的逻辑如何相互关联](https://plato.stanford.edu/entries/logic-ontology/#HowDiffConcLogiRelaEachOthe)
-* [ 3. 本体论](https://plato.stanford.edu/entries/logic-ontology/#Onto)
-
-  * [3.1 本体论的不同观念](https://plato.stanford.edu/entries/logic-ontology/#DiffConcOnto)
-  * [3.2 不同本体论观念之间的关系](https://plato.stanford.edu/entries/logic-ontology/#HowDiffConcOntoRelaEachOthe)
-* [4. 重叠领域](https://plato.stanford.edu/entries/logic-ontology/#AreaOver)
-
-  * [4.1 形式语言和本体论承诺。 (L1) 随附 (O1) 和 (O4)](https://plato.stanford.edu/entries/logic-ontology/#FormLangOntoCommL1MeetO1O4)
-  * [4.2 逻辑对存在的事物是否中立？ (L2) 随附 (O2)](https://plato.stanford.edu/entries/logic-ontology/#LogiNeutAbouWhatTherL2MeetO2)
-  * [4.3 形式本体论。 (L1) 随附 (O2) 和 (O3)](https://plato.stanford.edu/entries/logic-ontology/#FormOntoL1MeetO2O3)
-  * [4.4 卡尔纳普对本体论的拒绝。 (L1) 符合 (O4) 和 (O2 的结束?)](https://plato.stanford.edu/entries/logic-ontology/#CarnRejeOntoL1MeetO4EndO2)
-  * [4.5 基本语言。 (L1) 符合 (O4) 和 (O2 的新开始?)](https://plato.stanford.edu/entries/logic-ontology/#FundLangL1MeetO4NewBegiO2)
-  * [4.6 思维形式与现实结构。 (L4) 符合 (O3)](https://plato.stanford.edu/entries/logic-ontology/#FormThouStruRealL4MeetO3)
-* [ 5. 结论](https://plato.stanford.edu/entries/logic-ontology/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-ontology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-ontology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-ontology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-ontology/#Rel)
-
+ 
 ---
 
 ## 1. 引言

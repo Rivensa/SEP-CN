@@ -4,28 +4,7 @@ _首次发表于2003年5月29日；实质修订于2023年11月30日。_
 
 华沙学派（LWS）是波兰哲学史上最重要的运动。它由卡齐米日·特瓦多夫斯基于 19 世纪末在利沃夫（即当时属于奥匈帝国的乌克兰城市利沃夫）建立。华沙学派在 1918 年至 1939 年间繁荣发展。卡齐米日·艾杜基耶维奇、塔德乌什·科塔尔宾斯基、斯坦尼斯瓦夫·莱什涅夫斯基、扬·鲁卡谢维奇和阿尔弗雷德·塔尔斯基是其最著名的成员。在许多方面，它是类似于维也纳学派的分析学派。另一方面，华沙学派对传统哲学的态度比逻辑经验主义更为积极。尽管逻辑成为华沙学派活动中最重要的领域，但其成员在哲学的各个领域都积极活跃。第二次世界大战和 1945 年后波兰的政治变革导致华沙学派作为一个有组织的哲学企业的结束。人们可以认为它后来由其代表个体继续发展。
 
-* [1. 华沙学派的起源和发展](https://plato.stanford.edu/entries/lvov-warsaw/#OrigDeveLvovWarsScho)
-* [2. 形而上学](https://plato.stanford.edu/entries/lvov-warsaw/#Meta)
-* [3. 逻辑](https://plato.stanford.edu/entries/lvov-warsaw/#Logi)
-  * [3.1 波兰记法，逻辑系统的要求和元逻辑概念](https://plato.stanford.edu/entries/lvov-warsaw/#PoliNotaRequForLogiSystMetaConc)
-  * [3.2 古典命题演算的研究](https://plato.stanford.edu/entries/lvov-warsaw/#InveClasPropCalc)
-  * [3.3 多值、模态和直觉逻辑](https://plato.stanford.edu/entries/lvov-warsaw/#ManyValuModaIntuLogi)
-  * [3.4 语义学和真理](https://plato.stanford.edu/entries/lvov-warsaw/#SemaTrut)
-  * [3.5 逻辑的历史](https://plato.stanford.edu/entries/lvov-warsaw/#HistLogi)
-  * [3.6 逻辑和数学的哲学](https://plato.stanford.edu/entries/lvov-warsaw/#PhilLogiMath)
-  * [3.7 补充和总结性的评论](https://plato.stanford.edu/entries/lvov-warsaw/#SuppConcRema)
-* [4. 科学哲学](https://plato.stanford.edu/entries/lvov-warsaw/#PhilScie)
-* [5.本体论和认识论受逻辑启发](https://plato.stanford.edu/entries/lvov-warsaw/#OntoEpisInspLogi)
-  * [5.1 实在论](https://plato.stanford.edu/entries/lvov-warsaw/#Reis)
-  * [5.2 激进的约定主义和语义认识论](https://plato.stanford.edu/entries/lvov-warsaw/#RadiConvSemaEpis)
-* [6. 华沙学派的重要性](https://plato.stanford.edu/entries/lvov-warsaw/#SignLvovWarsScho)
-* [参考文献](https://plato.stanford.edu/entries/lvov-warsaw/#Bib)
-  * [华沙学派的著作](https://plato.stanford.edu/entries/lvov-warsaw/#WorkLWS)
-  * [华沙学派及其特定成员的研究](https://plato.stanford.edu/entries/lvov-warsaw/#WorkLWSPartMemb)
-* [学术工具](https://plato.stanford.edu/entries/lvov-warsaw/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lvov-warsaw/)
-* [相关条目](https://plato.stanford.edu/entries/lvov-warsaw/#Rel)
-
+ 
 ***
 
 ## 1. 华沙学派的起源和发展

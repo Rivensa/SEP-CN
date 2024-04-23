@@ -11,25 +11,7 @@
 目前为止，拉丁美洲哲学在拉丁美洲以外的影响相对较小。尽管情况有所改善，但目前很少有拉丁美洲哲学家的作品在拉丁美洲以外被阅读。这种情况进一步恶化是因为缺乏拉丁美洲哲学作品的英文翻译。此外，在拉丁美洲内部，哲学家们相互阅读和回应的频率比人们预期或希望的要低。然而，解放哲学在北美和非洲发展中国家产生了一定影响，拉丁裔人士在美国对各种主题的讨论中积极参与，特别是与种族、族裔和社会身份有关的主题。在过去几年中，一些这样的哲学家在哲学界占据了领导地位，并且他们的作品成为非拉丁裔哲学家讨论的主题。
 
 本文分为三个主要部分：历史、当代时期以及问题和主题。我们从拉丁美洲哲学的历史概述开始。
-
-* [ 1. 历史](https://plato.stanford.edu/entries/latin-american-philosophy/#His)
-* [2. 当代时期](https://plato.stanford.edu/entries/latin-american-philosophy/#ConPer)
-
-  * [2.1 叛乱和创始人一代 (1910 年-1940 年)](https://plato.stanford.edu/entries/latin-american-philosophy/#RebGenFou191)
-  * [2.2 正常化和 1910 年一代 (1940 年-1960 年)](https://plato.stanford.edu/entries/latin-american-philosophy/#NorGen191194)
-  * [2.3 成熟期 (1960 年至今)](https://plato.stanford.edu/entries/latin-american-philosophy/#Mat196)
-* [3. 问题和主题](https://plato.stanford.edu/entries/latin-american-philosophy/#ProTop)
-
-  * [3.1 拉丁美洲人的权利](https://plato.stanford.edu/entries/latin-american-philosophy/#RigAme)
-  * [3.2 人民的身份](https://plato.stanford.edu/entries/latin-american-philosophy/#IdePeo)
-  * [3.3 哲学人类学](https://plato.stanford.edu/entries/latin-american-philosophy/#PhiAnth)
-  * [3.4 拉丁美洲的哲学身份](https://plato.stanford.edu/entries/latin-american-philosophy/#LatAmePhiIde)
-  * [ 3.5 女性主义哲学](https://plato.stanford.edu/entries/latin-american-philosophy/#Fem)
-* [ 参考文献](https://plato.stanford.edu/entries/latin-american-philosophy/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/latin-american-philosophy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/latin-american-philosophy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/latin-american-philosophy/#Rel)
-
+ 
 ---
 
 ## 1. 历史

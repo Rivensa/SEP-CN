@@ -10,23 +10,7 @@
 
 本文分为四个主要部分：历史、背景、现状以及主题和争议。
 
-* [ 1. 历史](https://plato.stanford.edu/entries/liberation/#Hist)
-
-  * [1.1 悠久的历史](https://plato.stanford.edu/entries/liberation/#LongHist)
-  * [1.2 直接历史](https://plato.stanford.edu/entries/liberation/#ImmeHist)
-* [ 2. 背景](https://plato.stanford.edu/entries/liberation/#Back)
-* [ 3. 潮流](https://plato.stanford.edu/entries/liberation/#Curr)
-
-  * [ 3.1 解放论者](https://plato.stanford.edu/entries/liberation/#Onto)
-  * [ 3.2 随附性论者](https://plato.stanford.edu/entries/liberation/#Anal)
-  * [ 3.3 历史主义者](https://plato.stanford.edu/entries/liberation/#Histo)
-  * [3.4 问题化](https://plato.stanford.edu/entries/liberation/#Prob)
-* [4. 主题与辩论](https://plato.stanford.edu/entries/liberation/#ThemDeba)
-* [ 参考文献](https://plato.stanford.edu/entries/liberation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/liberation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/liberation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/liberation/#Rel)
-
+ 
 ---
 
 ## 1. 历史

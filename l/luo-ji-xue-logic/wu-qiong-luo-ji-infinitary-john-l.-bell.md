@@ -6,17 +6,7 @@ _首次发表于2000年1月23日；实质性修订于2023年9月6日。_
 
 在第 1 节中，介绍了无穷语言的基本语法和语义；然后通过示例展示了它们的表达能力。第 2 节专门讨论了那些只允许有限量词序列的无穷语言：这些语言被证明相对行为良好。第 3 节讨论了无穷语言的紧致性问题及其与纯粹集合论问题中的“大”基数的关系。第 4 节概述了一个论证，表明大多数“无限量词”语言具有二阶性质，并且因此高度不完备。第 5 节简要介绍了一类特殊的无穷语言子语言，可以证明紧致性定理的一个令人满意的推广。本节还包括关于可接受集合定义的一个子节。第 6 节提供了历史和文献注释。
 
-* [1. 无穷语言的定义和基本属性](https://plato.stanford.edu/entries/logic-infinitary/#1)
-* [2. 有限量词语言](https://plato.stanford.edu/entries/logic-infinitary/#2)
-* [3. 紧致性质](https://plato.stanford.edu/entries/logic-infinitary/#3)
-* [4. 无穷量词语言的不完备性](https://plato.stanford.edu/entries/logic-infinitary/#4)
-* [5. L(ω1,ω)的子语言和 Barwise 紧致性定理](https://plato.stanford.edu/entries/logic-infinitary/#5)
-  * [5.1 可接受集概念的定义](https://plato.stanford.edu/entries/logic-infinitary/#5.1)
-* [6. 历史和文献评论](https://plato.stanford.edu/entries/logic-infinitary/#6)
-* [参考文献](https://plato.stanford.edu/entries/logic-infinitary/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/logic-infinitary/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-infinitary/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/logic-infinitary/#Rel)
+ 
 
 ***
 

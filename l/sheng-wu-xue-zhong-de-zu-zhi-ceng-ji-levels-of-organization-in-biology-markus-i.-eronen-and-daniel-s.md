@@ -7,30 +7,7 @@
 
 虽然在哲学、科学和日常生活中有许多与“层级”相关的短语，如抽象层级、实现层级、存在层级、分析层级、处理层级、理论层级、科学层级或复杂性层级，但在本文中，我们只关注组织层级及与该概念相关的辩论。其他层级短语只会在与主题相关时进行讨论。
 
-* [1. 概念的历史起源](https://plato.stanford.edu/entries/levels-org-biology/#HistOrigConc)
-* [2. 组织层级的哲学解释](https://plato.stanford.edu/entries/levels-org-biology/#PhilAccoLeveOrga)
-
-  * [2.1 组织层级的随附性解释](https://plato.stanford.edu/entries/levels-org-biology/#LayeCakeAcco)
-  * [2.2 组织层级](https://plato.stanford.edu/entries/levels-org-biology/#LeveMech)
-  * [2.3 一个“局部最大值”解释](https://plato.stanford.edu/entries/levels-org-biology/#ALocaMaxiAcco)
-  * [2.4 组织层级怀疑主义和贬值解释](https://plato.stanford.edu/entries/levels-org-biology/#LeveSkepDeflAcco)
-* [3. 组织层级作为一个零碎和启发性的概念](https://plato.stanford.edu/entries/levels-org-biology/#LeveFragHeurNoti)
-* [4. Reductivism, pluralism, and levels](https://plato.stanford.edu/entries/levels-org-biology/#ReduPlurLeve)
-* [5. 组织层级和向下的因果关系](https://plato.stanford.edu/entries/levels-org-biology/#LeveDownCaus)
-* [6. 组织层级在生物理论和使用中的作用](https://plato.stanford.edu/entries/levels-org-biology/#LeveBiolTheoUsag)
-
-  * [6.1 选择的层级和单位](https://plato.stanford.edu/entries/levels-org-biology/#LeveUnitSele)
-  * [6.2 进化的层级理论](https://plato.stanford.edu/entries/levels-org-biology/#HierTheoEvol)
-  * [6.3 进化转变](https://plato.stanford.edu/entries/levels-org-biology/#EvolTran)
-  * [6.4 复杂性的演化](https://plato.stanford.edu/entries/levels-org-biology/#EvolComp)
-  * [6.5 组织层级和实验生物学研究](https://plato.stanford.edu/entries/levels-org-biology/#LeveExpeBiolRese)
-  * [6.6 组织层级和生物学理论构建](https://plato.stanford.edu/entries/levels-org-biology/#LeveTheoBuilBiol)
-  * [6.7 在生物学教育中使用组织层级](https://plato.stanford.edu/entries/levels-org-biology/#UsagLeveEducBiol)
-* [ 7. 结论性评论](https://plato.stanford.edu/entries/levels-org-biology/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/levels-org-biology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/levels-org-biology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/levels-org-biology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/levels-org-biology/#Rel)
+ 
 
 ---
 

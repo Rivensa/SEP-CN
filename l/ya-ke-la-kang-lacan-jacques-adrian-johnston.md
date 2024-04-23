@@ -3,22 +3,7 @@
 *首次发表于2013年4月2日星期二；实质性修订于2022年12月24日星期六*
 
 雅克-马里-埃米尔·拉康（1901 年 4 月 13 日至 1981 年 9 月 9 日）是二十世纪巴黎知识界的重要人物。他有时被称为“法国弗洛伊德”，是精神分析史上的重要人物。他的教导和著作探索了弗洛伊德对无意识的发现在分析理论和实践中的重要性，以及与其他学科的广泛联系。对于那些对弗洛伊德思想的哲学维度感兴趣的人来说，拉康的作品是无价之宝。在过去的五十多年里，拉康的思想已经成为大陆哲学圈中各种精神分析事物的重要接受者。
-
-* [ 1. 历史概述](https://plato.stanford.edu/entries/lacan/#HisOve)
-* [2. 基本概念](https://plato.stanford.edu/entries/lacan/#FunCon)
-
-  * [ 2.1 辖域理论](https://plato.stanford.edu/entries/lacan/#RegThe)
-  * [2.2 镜像阶段、自我和主体](https://plato.stanford.edu/entries/lacan/#MirStaEgoSub)
-  * [2.3 他者性、俄狄浦斯情结和性别化](https://plato.stanford.edu/entries/lacan/#OthOedComSex)
-  * [2.4 雅克-马里-埃米尔·拉康的欲望经济学](https://plato.stanford.edu/entries/lacan/#LibEco)
-* [ 辖域](https://plato.stanford.edu/entries/lacan/#Bib)
-
-  * [ A. 主要来源](https://plato.stanford.edu/entries/lacan/#PrimSour)
-  * [B. 雅克-马里-埃米尔·拉康的英文二手文献](https://plato.stanford.edu/entries/lacan/#SecLitLacEng)
-* [ 学术工具](https://plato.stanford.edu/entries/lacan/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lacan/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/lacan/#Rel)
-
+ 
 ---
 
 ## 1. 历史概述

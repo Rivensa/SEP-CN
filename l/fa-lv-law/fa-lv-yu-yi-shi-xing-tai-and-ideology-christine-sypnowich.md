@@ -8,17 +8,7 @@
 
 问题在于将意识形态视为操纵的源泉。作为意识形态的法律以一种对受法律支配的主体本身不透明的方式引导其主体；从这个观点来看，法律掩盖了权力。相比之下，法律的理想涉及一套根据正义准则调节或限制权力的制度。因此，意识形态在法律中的存在在某种程度上会损害法律的完整性。法律作为意识形态的观点不仅与大多数关于法律的主流思想相悖，而且似乎难以与关于法律本质的中心哲学立场相调和，例如将法律视为一套形式规则的实证主义观念，或将法律与道德原则等同起来的自然法观念。
 
-* [1. 意识形态的自由概念](https://plato.stanford.edu/entries/law-ideology/#LibeConcIdeo)
-* [2. 意识形态的激进概念](https://plato.stanford.edu/entries/law-ideology/#RadiConcIdeo)
-* [3. 法律和意识形态的来源](https://plato.stanford.edu/entries/law-ideology/#IdeoSourLaw)
-* [4. 法律和意识形态](https://plato.stanford.edu/entries/law-ideology/#IdeoRuleLaw)
-* [5. 意识形态和正义](https://plato.stanford.edu/entries/law-ideology/#IdeoJust)
-* [6. 意识形态学术的新浪潮](https://plato.stanford.edu/entries/law-ideology/#NewWaveIdeoScho)
-* [7. 政治的法律化](https://plato.stanford.edu/entries/law-ideology/#JuriPoli)
-* [ 参考书目](https://plato.stanford.edu/entries/law-ideology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/law-ideology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/law-ideology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/law-ideology/#Rel)
+ 
 
 ---
 

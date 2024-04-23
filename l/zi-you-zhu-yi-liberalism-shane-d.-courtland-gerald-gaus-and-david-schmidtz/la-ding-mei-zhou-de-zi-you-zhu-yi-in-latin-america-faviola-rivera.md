@@ -16,22 +16,7 @@
 
 鉴于拉丁美洲自由主义观点的多样性和复杂性，本文仅对该主题进行了简要而概括的介绍，远未涵盖全部内容。由于拉丁美洲自由主义的鼎盛时期发生在19世纪，本文重点关注这一历史时期，尽管最后一部分着重讨论了20世纪自由主义的衰落、近几十年来的适度复兴以及当前学术界对如何最好地进行重建的争论。为了充分呈现自由主义政治运动，有必要提供激发最初对自由主义思想热情的社会和政治背景的要点，以及它们的进一步发展。本文还对前面提到的最杰出的自由主义知识分子（即阿尔贝迪、莫拉和拉斯塔里亚）的观点进行了更为接近但简要的概述。由于他们在截然不同的政治背景下表达了自己的立场，他们各自的自由主义观点差异很大。尽管本文按主题组织，但也大致按照时间顺序进行。第一部分提供了简要概述。第二部分介绍了西班牙自由主义在19世纪初独立战争时期对自由主义思想的初步接受的影响。第三部分将早期的西班牙裔美洲自由主义作为一种解放意识形态，得到了精英阶层的广泛接受。第四部分考虑了从最初的宪政乐观主义转向寻求实现渴望已久的社会和政治变革的替代途径。第五部分着重讨论了19世纪中叶自由派与保守派之间的意识形态冲突。正是在这场冲突的中间，自由主义政治身份的轮廓更加清晰地显现出来。 第六部分介绍了自由主义对宗教问题的反教权主义回应。第七部分考虑了实证主义的影响以及自由主义作为国家建设意识形态的胜利。最后的第八部分简要讨论了二十世纪早期自由主义的衰落，拉丁美洲自由主义的所谓失败的争论，以及关于进行自由主义重建所需的适当概念框架的相关讨论。
 
-* [ 1. 概述](https://plato.stanford.edu/entries/liberalism-latin-america/#Ove)
-* [2. 西班牙自由主义的影响](https://plato.stanford.edu/entries/liberalism-latin-america/#InfSpaLib)
-* [3. 早期西班牙裔美国自由主义](https://plato.stanford.edu/entries/liberalism-latin-america/#EarHisAmeLib)
-* [4. 从宪法乐观主义到社会变革的替代方案](https://plato.stanford.edu/entries/liberalism-latin-america/#ConOptAltForSocCha)
-* [5. 自由主义者、保守主义者和宗教问题](https://plato.stanford.edu/entries/liberalism-latin-america/#LibConRelPro)
-* [6. 自由主义的反教权主义](https://plato.stanford.edu/entries/liberalism-latin-america/#LibAntCle)
-* [7. 实证主义的影响](https://plato.stanford.edu/entries/liberalism-latin-america/#InfPos)
-* 8. 自由主义的衰落、其所谓的失败以及当代概念辩论
-* [ 参考文献](https://plato.stanford.edu/entries/liberalism-latin-america/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/liberalism-latin-america/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/liberalism-latin-america/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/liberalism-latin-america/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/liberalism-latin-america/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/liberalism-latin-america/#Rel)
-
+ 
 ---
 
 ## 1. 概述

@@ -4,19 +4,7 @@
 
 约翰·洛克（1632-1704）在 1694 年的《人类理解论》第二版中增加了一章，其中他讨论了人和他们的持续条件（第 2 卷，第 27 章），这是在威廉·莫林纽克斯（1692-1693）的鼓励下才这样做的。[1]然而，洛克对人格同一性的论述是他著作中最受关注和争议的方面之一。洛克对人的讨论引起了他同时代人的广泛关注，引发了关于人格同一性的激烈争论，并继续影响和指导关于人和他们的持续条件的争论。本文首先旨在澄清洛克在人和人格同一性方面的立场基础，然后转向历史哲学学家们继续争论的文本领域。然后，本文概述了洛克对人的讨论在他同时代人中的反响，并简要讨论了 20 世纪和 21 世纪形而上学研究者如何回应洛克的观点，以展示洛克对人格同一性争论的持久影响和影响。
 
-* [1. 约翰·洛克对人和人格同一性的看法：基础知识](https://plato.stanford.edu/entries/locke-personal-identity/#LockPersPersIdenBasi)
-* [2. 约翰·洛克对人的看法：有争议的问题](https://plato.stanford.edu/entries/locke-personal-identity/#LockPersWhatUpForDeba)
-* [3. 约翰·洛克的人格同一性观的早期现代接受](https://plato.stanford.edu/entries/locke-personal-identity/#EarlModeReceLockPictPers)
-* [4. 约翰·洛克对人格同一性辩论的持久影响](https://plato.stanford.edu/entries/locke-personal-identity/#LockLastImpaPersIdenDeba)
-* [ 参考文献](https://plato.stanford.edu/entries/locke-personal-identity/#Bib)
-
-  * [约翰·洛克的主要文献](https://plato.stanford.edu/entries/locke-personal-identity/#PrimLiteLock)
-  * [其他历史文献](https://plato.stanford.edu/entries/locke-personal-identity/#OtheHistLite)
-  * [ 当代文献](https://plato.stanford.edu/entries/locke-personal-identity/#ContLite)
-* [ 学术工具](https://plato.stanford.edu/entries/locke-personal-identity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/locke-personal-identity/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/locke-personal-identity/#Rel)
-
+ 
 ---
 
 ## 1. 约翰·洛克关于人和人格同一性的基础

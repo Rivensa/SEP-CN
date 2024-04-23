@@ -5,35 +5,7 @@
 
 自由主义不仅仅是一件事情。在任何仔细的审查中，它似乎会分裂成一系列相关但有时竞争的观点。在这篇文章中，我们关注自由主义传统内部的辩论。（1）我们对自由主义对自由的核心承诺进行了三种解释的对比。（2）我们对“旧”自由主义和“新”自由主义进行了对比。（3）我们询问自由主义是一种“全面的”还是一种“政治的”教义。（4）我们最后提出了关于自由主义的“影响力”的问题——它适用于所有人类吗？所有政治社群都必须是自由主义的吗？一个自由主义者能否明确回答这个问题说“不”？一个自由主义者能否明确回答这个问题说“是”？
 
-* [1. 关于自由的辩论](https://plato.stanford.edu/entries/liberalism/#DebAboLib)
-
-  * [1.1 支持自由的假设](https://plato.stanford.edu/entries/liberalism/#PreFavLib)
-  * [ 1.2 负自由](https://plato.stanford.edu/entries/liberalism/#NegLib)
-  * [ 1.3 正自由](https://plato.stanford.edu/entries/liberalism/#PosLib)
-  * [ 1.4 共和自由](https://plato.stanford.edu/entries/liberalism/#RepLib)
-* [2. 自由主义的辩论](https://plato.stanford.edu/entries/liberalism/#DebBetOldNew)
-
-  * [2.1 古典自由主义](https://plato.stanford.edu/entries/liberalism/#ClaLib)
-  * [2.2 &apos;新自由主义&apos;](https://plato.stanford.edu/entries/liberalism/#NewLib)
-  * [2.3 自由主义社会正义理论](https://plato.stanford.edu/entries/liberalism/#LibTheSocJus)
-* [3. 关于自由主义的全面性的辩论](https://plato.stanford.edu/entries/liberalism/#DebAboComLib)
-
-  * [3.1 政治自由主义](https://plato.stanford.edu/entries/liberalism/#PolLib)
-  * [ 3.2 自由主义伦理学](https://plato.stanford.edu/entries/liberalism/#LibEth)
-  * [3.3 自由主义价值理论](https://plato.stanford.edu/entries/liberalism/#LibTheVal)
-  * [3.4 自由主义的形而上学](https://plato.stanford.edu/entries/liberalism/#MetLib)
-* [4. 自由主义的范围之争](https://plato.stanford.edu/entries/liberalism/#DebAboReaLib)
-
-  * [4.1 自由主义在所有政治社群中是否合理？](https://plato.stanford.edu/entries/liberalism/#LibJusAllPolCom)
-  * [4.2 自由主义是一种世界主义还是以国家为中心的理论？](https://plato.stanford.edu/entries/liberalism/#LibCosStaCenThe)
-  * [4.3 自由主义与非自由主义团体的互动：国际](https://plato.stanford.edu/entries/liberalism/#LibIntNonLibGroInt)
-  * [4.4 自由主义与非自由主义团体的互动：国内](https://plato.stanford.edu/entries/liberalism/#LibIntNonLibGroDom)
-* [ 5. 结论](https://plato.stanford.edu/entries/liberalism/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/liberalism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/liberalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/liberalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/liberalism/#Rel)
-
+ 
 ---
 
 ## 1. 自由的辩论

@@ -3,33 +3,7 @@
 *首次发表于2007年11月23日，实质性修订于2020年9月1日。*
 
 斯坦尼斯瓦夫·雷斯涅夫斯基（1886-1939）是华沙两次世界大战之间蓬勃发展的逻辑学派的主要创始人和推动者之一。他是基于三个形式系统的数学基础的非正统系统的发起者：Protothetic，即命题及其函数的逻辑；Ontology，即名称和任意阶的函数的逻辑；以及 Mereology，即部分与整体的一般理论。他对逻辑的形式化和执行的最严格要求，以及对抽象实体的名义主义拒绝，导致了一种精确但非常不寻常的元逻辑。他对正确区分表达式的使用和提及的限制，他对正确定义的规范，以及他的整体论，都对逻辑主流产生了影响，但他的大部分逻辑观点和创新并未被广泛采纳。尽管如此，他作为一位教师和逻辑创新的推动者的影响力被广泛承认。他仍然是逻辑学中最原创的人物之一。
-
-* [ 1. 生平](https://plato.stanford.edu/entries/lesniewski/#Lif)
-* [ 2. 早期作品](https://plato.stanford.edu/entries/lesniewski/#EarWor)
-* [3. 斯坦尼斯瓦夫·雷斯涅夫斯基逻辑系统的发展](https://plato.stanford.edu/entries/lesniewski/#DevLesLogSys)
-
-  * [ 3.1 早期部分论](https://plato.stanford.edu/entries/lesniewski/#EarMer)
-  * [ 3.2 本体论](https://plato.stanford.edu/entries/lesniewski/#Ont)
-  * [3.3 Protothetic](https://plato.stanford.edu/entries/lesniewski/#Pro)
-* [4. 斯坦尼斯瓦夫·雷斯涅夫斯基逻辑的哲学方面](https://plato.stanford.edu/entries/lesniewski/#PhiAspLesLog)
-
-  * [ 4.1 语义类别](https://plato.stanford.edu/entries/lesniewski/#SemCat)
-  * [ 4.2 定义](https://plato.stanford.edu/entries/lesniewski/#Def)
-  * [ 4.3 名义主义](https://plato.stanford.edu/entries/lesniewski/#Nom)
-  * [ 4.4 量化](https://plato.stanford.edu/entries/lesniewski/#Qua)
-  * [4.5 斯坦尼斯瓦夫·雷斯涅夫斯基对语义学的厌恶](https://plato.stanford.edu/entries/lesniewski/#LesAveSem)
-* [ 5. 成熟的系统](https://plato.stanford.edu/entries/lesniewski/#MatSys)
-* [6. 个性和遗产](https://plato.stanford.edu/entries/lesniewski/#PerLeg)
-
-  * [6.1 斯坦尼斯瓦夫·雷斯涅夫斯基作为一个人](https://plato.stanford.edu/entries/lesniewski/#LesPer)
-  * [ 6.2 斯坦尼斯瓦夫·雷斯涅夫斯基的遗产](https://plato.stanford.edu/entries/lesniewski/#LesLeg)
-* [ 参考文献](https://plato.stanford.edu/entries/lesniewski/#Bib)
-
-  * [主要来源：斯坦尼斯瓦夫·雷斯涅夫斯基的著作](https://plato.stanford.edu/entries/lesniewski/#PriSouWor)
-  * [精选次要来源](https://plato.stanford.edu/entries/lesniewski/#SelSecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/lesniewski/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lesniewski/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/lesniewski/#Rel)
+ 
 
 ---
 

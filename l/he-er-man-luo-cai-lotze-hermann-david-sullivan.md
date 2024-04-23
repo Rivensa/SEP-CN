@@ -4,28 +4,7 @@
 
 赫尔曼·洛采（1817-1881）在 19 世纪上半叶德国唯心主义的繁荣时期与下半叶的冷静、学术和科学的精神之间起到了过渡的作用。他借鉴了从赫尔巴特那里继承而来的哲学子学科中“主要”或定义性问题的概念，并以一种准系统的方式运用相反的方法来处理这些问题，为现代教科书的出现铺平了道路。作为一个处于变化中的教授，他所处的环境朝着包罗万象的国家集中化的方向发展，他大多数时候将注意力局限于学术问题，向同行们（而不是公众）呼吁，这是现在兴起的专业期刊（同时他对日常事务保持着浓厚的兴趣）。鉴于数据量的增加和新兴学科的重要性日益提高，洛采希望将哲学作为一个价值理论研究保留下来。洛采的影响力深远，但尚未被广泛承认或深入理解。虽然他无意中激发了许多唯物主义者（同时也被唯心主义者所宣称），但他与某些传统主义传教士的紧密联系一方面削弱了他对 20 世纪哲学革命者的兴趣，另一方面又与自由神学运动保持了联系，同时保留了一条持续的地下影响线。
 
-* [ 1. 简要年表](https://plato.stanford.edu/entries/hermann-lotze/#1)
-* [2. 序言：现代主义之前的哲学](https://plato.stanford.edu/entries/hermann-lotze/#2)
-* [3. 三个争议](https://plato.stanford.edu/entries/hermann-lotze/#3)
-
-  * [ 3.1 多起源论](https://plato.stanford.edu/entries/hermann-lotze/#3.1)
-  * [ 3.2 泛心灵论](https://plato.stanford.edu/entries/hermann-lotze/#3.2)
-  * [ 3.3 生命力论](https://plato.stanford.edu/entries/hermann-lotze/#3.3)
-* [4. 三个贡献](https://plato.stanford.edu/entries/hermann-lotze/#4)
-
-  * [ 4.1 直觉](https://plato.stanford.edu/entries/hermann-lotze/#4.1)
-  * [ 4.2 思想](https://plato.stanford.edu/entries/hermann-lotze/#4.2)
-  * [ 4.3 存在](https://plato.stanford.edu/entries/hermann-lotze/#4.3)
-* [5. 三个遗产](https://plato.stanford.edu/entries/hermann-lotze/#5)
-
-  * [ 5.1 单元论](https://plato.stanford.edu/entries/hermann-lotze/#5.1)
-  * [ 5.2 个人主义](https://plato.stanford.edu/entries/hermann-lotze/#5.2)
-  * [ 5.3 价值理论](https://plato.stanford.edu/entries/hermann-lotze/#5.3)
-* [ 参考文献](https://plato.stanford.edu/entries/hermann-lotze/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/hermann-lotze/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hermann-lotze/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hermann-lotze/#Rel)
-
+ 
 ---
 
 ## 1. 简要年表

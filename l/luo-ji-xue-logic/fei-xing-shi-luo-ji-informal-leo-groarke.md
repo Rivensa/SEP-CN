@@ -10,16 +10,7 @@
 
 在追求其目标的过程中，非形式逻辑涉及的主题包括但不限于论证的性质和定义、论证评估的标准、论证方案、谬误、有效性概念、辩论和辩证的论证方面、论证图示（"mapping"）、认知偏见、论证分析的历史、人工智能（AI）以及不同背景下规范和规则对论证实践的监督。
 
-* [ 1. 历史](https://plato.stanford.edu/entries/logic-informal/#His)
-* [2. 非形式逻辑的体系](https://plato.stanford.edu/entries/logic-informal/#Arg)
-* [3. 规范化论证](https://plato.stanford.edu/entries/logic-informal/#Eva)
-* [ 4. 测试论证](https://plato.stanford.edu/entries/logic-informal/#Ded)
-* [5. 非形式逻辑在更广泛的背景下](https://plato.stanford.edu/entries/logic-informal/#New)
-* [6. 非形式逻辑与哲学](https://plato.stanford.edu/entries/logic-informal/#ReP)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-informal/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-informal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-informal/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-informal/#Rel)
+ 
 
 ---
 

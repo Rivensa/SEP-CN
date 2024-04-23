@@ -4,22 +4,7 @@
 
 本条目的目的是概述马丁·路德（1483-1546）对其之后的哲学传统的影响。整个新教改革无疑对哲学产生了相当大的影响，不仅仅是神学，尤其是因为许多重要的哲学人物本身就是这种宗教遗产的一部分，以及他们卷入了改革引发的重大社会和政治变革与冲突。然而，要追溯路德本人的影响是一项更为复杂的任务，部分原因是其他中心改革人物，如菲利普·梅兰希顿（1497-1560）和约翰·加尔文（1509-1564），也产生了自己的影响力；同时，即使在路德自己的一生中，改革本身也以多种不同的形式出现，并且在关键问题上与路德本人存在分歧，尽管有各种尝试达成一些教义的统一。这种复杂性，再加上路德对学科、亚里士多德和理性的敌对言论，使得他在哲学中的影响被忽视了。然而，他的思想对“现代性”的影响已经被广泛讨论（见第 6 节），而最近的学术研究表明，忽视路德对哲学的影响是一个错误，而且他的思想的讨论（无论是积极的还是批判的）可以被看作是从近代开始以一种独特的方式标志着哲学传统的（见第 1-5 节）。自然而然，这种影响最明显地发生在北欧国家，那里的改革传播得最有效（见第 3 节）。
 
-* [1. 马丁·路德与早期现代哲学](https://plato.stanford.edu/entries/luther-influence/#LuthEarlModePhil)
-* [2. 马丁·路德、康德和康德后学派](https://plato.stanford.edu/entries/luther-influence/#LuthKantPostKant)
-* [3. 马丁·路德，基尔克戈尔和尼采](https://plato.stanford.edu/entries/luther-influence/#LuthKierNiet)
-* [4. 马丁·路德，福尔巴赫和马克思主义](https://plato.stanford.edu/entries/luther-influence/#LuthFeueMarx)
-* [5. 马丁·路德，海德格尔和勒斯特吕普斯特随附/监督](https://plato.stanford.edu/entries/luther-influence/#LuthHeidLogs)
-* [6. 马丁·路德和“现代性”](https://plato.stanford.edu/entries/luther-influence/#LuthMode)
-* [ 参考文献](https://plato.stanford.edu/entries/luther-influence/#Bib)
-
-  * [A. 马丁·路德著作引用缩写](https://plato.stanford.edu/entries/luther-influence/#AbbrForRefeLuthWork)
-  * [B. 马丁·路德的一些主要著作的有用集合](https://plato.stanford.edu/entries/luther-influence/#BUsefCollSomeLuthMainWrit)
-  * [C. 其他人的主要文献](https://plato.stanford.edu/entries/luther-influence/#CPrimText)
-  * [ D. 二级文献](https://plato.stanford.edu/entries/luther-influence/#DSeco)
-  * [ 其他引用的作品](https://plato.stanford.edu/entries/luther-influence/#OtheCiteWork)
-* [ 学术工具](https://plato.stanford.edu/entries/luther-influence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/luther-influence/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/luther-influence/#Rel)
+ 
 
 ---
 

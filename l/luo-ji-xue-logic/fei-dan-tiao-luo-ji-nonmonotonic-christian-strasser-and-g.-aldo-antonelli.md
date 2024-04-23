@@ -6,25 +6,7 @@ _首次发表于2001年12月11日；实质修订于2019年4月20日_
 
 与演绎推理一样，可废除推理也可以遵循复杂的模式。然而，这些模式对于经典逻辑（CL）、直觉逻辑（IL）或其他表征演绎推理的逻辑来说是无法达到的，因为它们本质上不允许撤回推理。在 NML 领域所面临的挑战是为可废除推理形式提供与 CL 或 IL 为数学推理提供的相同的形式精确解释，其中形式上的准确性涉及框架所捕捉到的例子范围有多广，以及框架在多大程度上能够满足我们对该主题的直觉（至少是最根深蒂固的直觉）。
 
-* [1. 处理可废除推理的动态性](https://plato.stanford.edu/entries/logic-nonmonotonic/#DealDynaDefeReas)
-* [2. 处理冲突](https://plato.stanford.edu/entries/logic-nonmonotonic/#DealConf)
-  * [2.1 冲突解决](https://plato.stanford.edu/entries/logic-nonmonotonic/#ConfReso)
-  * [2.2 未解决冲突的推理](https://plato.stanford.edu/entries/logic-nonmonotonic/#ReasUnreConf)
-  * [2.3 对怀疑性推理的一些高级问题](https://plato.stanford.edu/entries/logic-nonmonotonic/#SomeAdvaIssuForSkepReas)
-* [3. 非单调逻辑学](https://plato.stanford.edu/entries/logic-nonmonotonic/#NonMonoForm)
-  * [3.1 闭世界假设](https://plato.stanford.edu/entries/logic-nonmonotonic/#ClosWorlAssu)
-  * [3.2 继承网络和基于论证的方法](https://plato.stanford.edu/entries/logic-nonmonotonic/#InheNetwArguBaseAppr)
-  * [3.3 默认逻辑](https://plato.stanford.edu/entries/logic-nonmonotonic/#DefaLogi)
-  * [3.4 自我认知逻辑](https://plato.stanford.edu/entries/logic-nonmonotonic/#AutoLogi)
-  * [3.5 选择语义学](https://plato.stanford.edu/entries/logic-nonmonotonic/#SeleSema)
-  * [3.6 基于假设的方法](https://plato.stanford.edu/entries/logic-nonmonotonic/#AssuBaseAppr)
-* [4. 非单调逻辑与人类推理](https://plato.stanford.edu/entries/logic-nonmonotonic/#NonMonoLogiHumaReas)
-* [5. 结论](https://plato.stanford.edu/entries/logic-nonmonotonic/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/logic-nonmonotonic/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/logic-nonmonotonic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-nonmonotonic/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/logic-nonmonotonic/#Rel)
-
+ 
 ***
 
 ## 1. 处理非单调推理的动态

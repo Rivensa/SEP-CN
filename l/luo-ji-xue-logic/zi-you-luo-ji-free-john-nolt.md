@@ -8,40 +8,7 @@
 
 第 1 节阐述了自由逻辑的基础知识，解释了它与经典谓词逻辑的区别以及它与包容逻辑的关系，后者允许空域或“世界”。第 2 节展示了如何用三种形式方法表示自由逻辑：公理系统、自然演绎规则和树规则。计算包含空的特指项的原子公式的真值的不同约定产生了三种不同形式的自由逻辑：负自由逻辑、正自由逻辑和中性自由逻辑。这些在第 3 节进行了概述，同时还介绍了随附逻辑，它是为了增强中性逻辑而发展起来的。第 4 节是批判性的，检查了大多数自由逻辑中存在的三个异常。第 5 节对自由逻辑应用于描述理论、部分或非严格函数逻辑、具有克里普克语义的逻辑、虚构逻辑以及在某种意义上是迈农派的逻辑进行了抽样。第 6 节对自由逻辑的历史进行了一瞥。
 
-* [1. 基础知识](https://plato.stanford.edu/entries/logic-free/#1)
-
-  * [1.1 自由逻辑的定义](https://plato.stanford.edu/entries/logic-free/#1.1)
-  * [1.2 自由逻辑与经典谓词逻辑的区别](https://plato.stanford.edu/entries/logic-free/#1.2)
-  * [1.3 自由逻辑与包容逻辑的关系](https://plato.stanford.edu/entries/logic-free/#incl)
-* [2. 形式系统](https://plato.stanford.edu/entries/logic-free/#2)
-
-  * [ 2.1 公理系统](https://plato.stanford.edu/entries/logic-free/#ax)
-  * [2.2 自然推理规则](https://plato.stanford.edu/entries/logic-free/#natded)
-  * [ 2.3 树规则](https://plato.stanford.edu/entries/logic-free/#trees)
-* [ 3. 语义学](https://plato.stanford.edu/entries/logic-free/#3)
-
-  * [ 3.1 负面语义学](https://plato.stanford.edu/entries/logic-free/#negsem)
-  * [ 3.2 正面语义学](https://plato.stanford.edu/entries/logic-free/#possem)
-  * [ 3.3 中立语义学](https://plato.stanford.edu/entries/logic-free/#neusem)
-  * [ 3.4 随附价值论](https://plato.stanford.edu/entries/logic-free/#super)
-* [4. 通用异常](https://plato.stanford.edu/entries/logic-free/#4)
-
-  * [4.1 原始谓词的问题](https://plato.stanford.edu/entries/logic-free/#probs)
-  * [4.2 替换失败](https://plato.stanford.edu/entries/logic-free/#subfail)
-  * [4.3 存在条件的不可表达性](https://plato.stanford.edu/entries/logic-free/#inexp)
-* [5. 一些应用](https://plato.stanford.edu/entries/logic-free/#Applications)
-
-  * [5.1 确定描述的理论](https://plato.stanford.edu/entries/logic-free/#defdes)
-  * [5.2 具有部分或非严格函数的逻辑学](https://plato.stanford.edu/entries/logic-free/#Partial)
-  * [5.3 逻辑学与克里普克语义](https://plato.stanford.edu/entries/logic-free/#Kripke)
-  * [5.4 虚构逻辑学](https://plato.stanford.edu/entries/logic-free/#fiction)
-  * [ 5.5 迈农逻辑学](https://plato.stanford.edu/entries/logic-free/#Meinong)
-* [ 6. 历史](https://plato.stanford.edu/entries/logic-free/#Hist)
-* [ 参考文献](https://plato.stanford.edu/entries/logic-free/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/logic-free/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-free/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/logic-free/#Rel)
-
+ 
 ---
 
 ## 1. 基础知识

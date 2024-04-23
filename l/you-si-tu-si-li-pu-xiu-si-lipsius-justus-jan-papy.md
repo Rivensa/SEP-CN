@@ -8,20 +8,7 @@
 
 利普修斯终身致力于通过对罗马斯多亚哲学家塞内加的新阅读来改变当代道德哲学，同时通过借鉴罗马历史学家塔西佗提供的见解来振兴当代政治实践。在他去世前一年出版他的塞内加哲学著作的重要版本之前，他写了两篇关于斯多亚主义的理论论文，为对塞内加的新解释和对斯多亚主义教义的新理解提供了哲学基础。
 
-* [1. 人文主义学术生涯](https://plato.stanford.edu/entries/justus-lipsius/#LifeHumaScho)
-* [ 2. 《坚忍不拔》](https://plato.stanford.edu/entries/justus-lipsius/#DeCons)
-* [ 3. 《政治学》](https://plato.stanford.edu/entries/justus-lipsius/#Poli)
-* [4. 后期斯多葛派著作](https://plato.stanford.edu/entries/justus-lipsius/#LateStoiWrit)
-* [5. 《引导进入斯多葛哲学的三本书》](https://plato.stanford.edu/entries/justus-lipsius/#ManuAdStoiPhilLibrTres)
-* *[《斯多葛派的自然哲学三本书》](https://plato.stanford.edu/entries/justus-lipsius/#PhysStoiLibrTres)*
-* [ 参考文献](https://plato.stanford.edu/entries/justus-lipsius/#Bib)
-
-  * [ 利普修斯的著作](https://plato.stanford.edu/entries/justus-lipsius/#LipsWork)
-  * [ 现代研究](https://plato.stanford.edu/entries/justus-lipsius/#ModeStud)
-* [ 学术工具](https://plato.stanford.edu/entries/justus-lipsius/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justus-lipsius/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justus-lipsius/#Rel)
-
+ 
 ---
 
 ## 1. 人文主义学问的一生

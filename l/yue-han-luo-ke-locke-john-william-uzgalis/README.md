@@ -4,38 +4,7 @@
 
 约翰·洛克（1632年出生，1704年逝世）是一位英国哲学家、牛津学者和医学研究者。洛克的巨著《人类理解论》（1689年）是现代经验主义的首次伟大辩护之一，涉及确定人类理解的范围，涵盖了广泛的主题。因此，它详细告诉我们一个人可以合法地声称知道什么，以及不能声称知道什么。洛克与安东尼·阿什利·库珀（后来的第一代夏夫茨伯里伯爵）的关系使他先后成为一名负责收集有关贸易和殖民地信息的政府官员、经济作家、反对派政治活动家，最终成为一名革命家，他的事业最终在1688年的光荣革命中取得了胜利。在洛克的政治著作中，他最著名的是《政府论》第二篇，他在其中主张主权属于人民，并以自然权利和社会契约的术语解释合法政府的性质。他还因在《论宽容》中呼吁实现教会与国家的分离而闻名。洛克的许多作品都以反对威权主义为特点。这一点在个人和机构（如政府和教会）的层面上都是显而易见的。对于个人来说，洛克希望我们每个人都能运用理性寻求真理，而不仅仅接受权威的意见或受迷信的束缚。他希望我们根据证据来适度同意命题。在机构层面上，区分机构的合法和非法职能以及对这些机构使用武力的相应区分变得重要。 约翰·洛克认为，运用理性来试图把握真理，并确定机构的合法功能，将优化个人和社会的繁荣，无论是在物质上还是在精神上。这反过来又等同于遵循自然法和实现神圣目的的人类。
 
-* [1. 历史背景和洛克的生活](https://plato.stanford.edu/entries/locke/#HistBackLockLife)
-
-  * [1.1 洛克在 1666 年与阿什利勋爵会面之前的生活](https://plato.stanford.edu/entries/locke/#LockLifeUpHisMeetLordAshl1666)
-  * [1.2 约翰·洛克和肖夫茨伯里勋爵 1666 至 1688 年](https://plato.stanford.edu/entries/locke/#LockLordShaf16661688)
-  * [1.3 约翰·洛克生命的终结 1689 至 1704 年](https://plato.stanford.edu/entries/locke/#EndLockLife1689)
-* [2. 人类理解的限度](https://plato.stanford.edu/entries/locke/#LimiHumaUnde)
-
-  * [ 2.1 第一卷](https://plato.stanford.edu/entries/locke/#BookI)
-  * [ 2.2 第二卷](https://plato.stanford.edu/entries/locke/#BookII)
-  * [ 2.3 第三卷](https://plato.stanford.edu/entries/locke/#BookIII)
-  * [ 2.4 第四卷](https://plato.stanford.edu/entries/locke/#BookIV)
-  * [2.5 知识与概率](https://plato.stanford.edu/entries/locke/#KnowProb)
-  * [2.6 理性、信仰和狂热](https://plato.stanford.edu/entries/locke/#ReasFaitEnth)
-* [3. 约翰·洛克关于教育的主要著作](https://plato.stanford.edu/entries/locke/#LockMajoWorkEduc)
-* [4. 《政府论》两篇](https://plato.stanford.edu/entries/locke/#TwoTreaGove)
-
-  * [4.1 《政府论》第二篇](https://plato.stanford.edu/entries/locke/#SecoTreaGove)
-  * [4.2 人性与上帝的目的](https://plato.stanford.edu/entries/locke/#HumaNatuGodsPurp)
-  * [4.3 关于战争和奴隶制](https://plato.stanford.edu/entries/locke/#OfWarSlav)
-  * [ 4.4 关于财产](https://plato.stanford.edu/entries/locke/#OfProp)
-  * [4.5 社会契约理论](https://plato.stanford.edu/entries/locke/#SociContTheo)
-  * [4.6 公民政府的功能](https://plato.stanford.edu/entries/locke/#FuncCiviGove)
-  * [4.7 叛乱和弑君](https://plato.stanford.edu/entries/locke/#RebeRegi)
-* [5. 约翰·洛克和宗教宽容](https://plato.stanford.edu/entries/locke/#LockReliTole)
-* [ 参考文献](https://plato.stanford.edu/entries/locke/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/locke/#PrimSour)
-  * [ 二次来源](https://plato.stanford.edu/entries/locke/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/locke/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/locke/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/locke/#Rel)
-
+ 
 ---
 
 ## 1. 历史背景和洛克的生活

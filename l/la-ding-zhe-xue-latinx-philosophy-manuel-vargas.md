@@ -5,27 +5,7 @@
 
 本条目重点介绍了拉丁美洲哲学在美国的性质、历史和最新发展。它讨论了拉丁美洲哲学的当前研究、拉丁美洲哲学的各种起源、关于该领域性质和范围的争议以及正在进行的发展。
 
-* [1. 当前问题](https://plato.stanford.edu/entries/latinx/#CurrIssu)
-
-  * [ 1.1 群体身份](https://plato.stanford.edu/entries/latinx/#GrouIden)
-  * [1.2 社会和政治哲学](https://plato.stanford.edu/entries/latinx/#SociPoliPhil)
-  * [1.3 元哲学问题](https://plato.stanford.edu/entries/latinx/#MetaIssu)
-* [ 2. 起源](https://plato.stanford.edu/entries/latinx/#Orig)
-
-  * [ 2.1 奇卡诺思想](https://plato.stanford.edu/entries/latinx/#ChicThou)
-  * [2.2 拉丁美洲前辈](https://plato.stanford.edu/entries/latinx/#LatiAmerPrec)
-  * [ 2.3 拉丁美洲女性主义](https://plato.stanford.edu/entries/latinx/#LatiFemi)
-  * [2.4 拉丁哲学的自我意识](https://plato.stanford.edu/entries/latinx/#SelfConsLatiPhil)
-* [3. 定义拉丁哲学](https://plato.stanford.edu/entries/latinx/#DefiLatiPhil)
-
-  * [3.1 广泛范围 vs. 狭窄范围](https://plato.stanford.edu/entries/latinx/#WideVsNarrScop)
-  * [3.2 来源 vs. 主题](https://plato.stanford.edu/entries/latinx/#SourVsSubjMatt)
-* [ 4. 持续发展](https://plato.stanford.edu/entries/latinx/#OngoDeve)
-* [ 参考文献](https://plato.stanford.edu/entries/latinx/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/latinx/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/latinx/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/latinx/#Rel)
-
+ 
 ---
 
 ## 1. 当前问题

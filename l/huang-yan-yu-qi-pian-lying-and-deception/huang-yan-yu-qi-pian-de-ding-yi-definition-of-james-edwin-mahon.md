@@ -3,28 +3,7 @@
 *首次发表于2008年2月21日；实质性修订于2015年12月25日。*
 
 对于谎言与欺骗（人际欺骗）的哲学讨论而言，中心问题可以分为两种。第一种问题是定义性或概念性的。它们包括如何定义谎言，如何定义欺骗，以及谎言是否总是一种欺骗形式的问题。第二种问题是规范性的，更具体地说是道德性的。它们包括谎言和欺骗是否具有可推翻或不可推翻的道德错误，谎言是否比欺骗在道德上更严重，以及如果谎言和欺骗在道德上具有可推翻的错误，它们是否在某些场合上仅仅是道德上可选的，或者有时是道德上必须的。在本文中，我们只考虑第一种问题。
-
-* [1. 传统对谎言的定义](https://plato.stanford.edu/entries/lying-definition/#TraDefLyi)
-
-  * [ 1.1 陈述条件](https://plato.stanford.edu/entries/lying-definition/#StaCon)
-  * [1.2 谎言与欺骗条件](https://plato.stanford.edu/entries/lying-definition/#UntCon)
-  * [ 1.3 听众条件](https://plato.stanford.edu/entries/lying-definition/#AddCon)
-  * [1.4 欺骗听众的意图条件](https://plato.stanford.edu/entries/lying-definition/#IntDecAddCon)
-  * [1.5 对传统定义谎言的反对意见](https://plato.stanford.edu/entries/lying-definition/#ObjTraDefLyi)
-* [2. 谎言与欺骗的对立：欺骗主义 vs. 非欺骗主义](https://plato.stanford.edu/entries/lying-definition/#DecVsNonDecAboLyi)
-
-  * [ 2.1 简单欺骗主义](https://plato.stanford.edu/entries/lying-definition/#SimDec)
-  * [2.2 谎言与欺骗的复杂性](https://plato.stanford.edu/entries/lying-definition/#ComDec)
-  * [ 2.3 谎言与欺骗的道德性](https://plato.stanford.edu/entries/lying-definition/#MorDec)
-  * [ 2.4 非欺骗主义](https://plato.stanford.edu/entries/lying-definition/#NonDec)
-* [3. 谎言与欺骗的传统定义](https://plato.stanford.edu/entries/lying-definition/#TraDefDec)
-
-  * [3.1 对传统定义欺骗的反对意见](https://plato.stanford.edu/entries/lying-definition/#ObjTraDefDec)
-* [ 参考文献](https://plato.stanford.edu/entries/lying-definition/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/lying-definition/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lying-definition/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/lying-definition/#Rel)
-
+ 
 ---
 
 ## 1. 谎言的传统定义
