@@ -4,26 +4,7 @@
 
 “世界公民”一词源自希腊词 kosmopolitēs（“世界公民”），被用来描述道德和社会政治哲学中的各种重要观点。所有世界主义观点共享的模糊核心是，所有人类，无论其政治隶属关系如何，都应该（或者可以并且应该）成为单一社区的公民。世界主义的不同版本以不同方式构想这个社区，有些关注政治制度，有些关注道德规范或关系，还有一些关注共享市场或文化表达形式。在大多数世界主义版本中，世界公民的普遍社区被视为一个应该培养的积极理想，但也存在一些版本，其中它主要作为否认对地方政治组织的特殊义务存在的基础。世界主义的版本也因其使用的公民身份概念而有所不同，包括他们是否字面上或比喻性地使用“世界公民”概念。对世界主义的哲学兴趣在于它挑战了对同胞、地方国家、狭隘共享文化等常被认可的依恋。
 
-* [1. 世界主义的历史](https://plato.stanford.edu/entries/cosmopolitanism/#HistCosm)
 
-  * [1.1 希腊和罗马的世界主义](https://plato.stanford.edu/entries/cosmopolitanism/#GreeRomaCosm)
-  * [1.2 早期现代和启蒙时代的世界主义](https://plato.stanford.edu/entries/cosmopolitanism/#EarlModeEnliCosm)
-  * [1.3 19 和 20 世纪的世界主义](https://plato.stanford.edu/entries/cosmopolitanism/#Cosm19th20thCent)
-* [当代世界性的分类法](https://plato.stanford.edu/entries/cosmopolitanism/#TaxoContCosm)
-* [反对世界主义的观点](https://plato.stanford.edu/entries/cosmopolitanism/#ObjeCosm)
-
-  * [政治世界主义](https://plato.stanford.edu/entries/cosmopolitanism/#PoliCosm)
-  * [3.2 经济世界主义](https://plato.stanford.edu/entries/cosmopolitanism/#EconCosm)
-  * [3.3 道德世界主义](https://plato.stanford.edu/entries/cosmopolitanism/#MoraCosm)
-* [ 参考文献](https://plato.stanford.edu/entries/cosmopolitanism/#Bib)
-
-  * [ 历史作品](https://plato.stanford.edu/entries/cosmopolitanism/#HistWork)
-  * [关于世界主义历史](https://plato.stanford.edu/entries/cosmopolitanism/#HistCosm_1)
-  * [世界主义分类学](https://plato.stanford.edu/entries/cosmopolitanism/#TaxoCosm)
-  * [当代世界主义的赞成与反对](https://plato.stanford.edu/entries/cosmopolitanism/#ContCosmForAgai)
-* [ 学术工具](https://plato.stanford.edu/entries/cosmopolitanism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cosmopolitanism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/cosmopolitanism/#Rel)
 
 ---
 

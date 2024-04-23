@@ -12,28 +12,6 @@ CA 的标志在于它们展示复杂的新兴行为，从遵循简单局部规�
 
 第三部分描述了 CA 在哲学研究中的四个主要用途。首先，由于 CA 展示了从简单局部规则中产生的复杂行为模式，它们自然与\* emergent _联系在一起：这个主题在第 3.1 节中进行了讨论，其中考虑了不同的 emergent 概念。其次，第 3.2 节探讨了哲学家和科学家如何利用 CA 来解决_自由意志_和_决定论\*的传统哲学问题。第三，第 3.3 节描述了 CA 理论对计算哲学的影响。最后，第 3.4 节涉及从 CA 被视为现实部分建模的意义，到一些科学家大胆的哲学猜测，声称物理世界本身可能在底层是一个离散的数字自动机的本体论问题。
 
-* [1. Introduction](https://plato.stanford.edu/entries/cellular-automata/#Intr)
-* [1.1 开始：一个非常简单的 CA](https://plato.stanford.edu/entries/cellular-automata/#GettStarVerySimpCA)
-* [1.2 CA 功能概述](https://plato.stanford.edu/entries/cellular-automata/#OverCAsCapa)
-* [1.3 简史](https://plato.stanford.edu/entries/cellular-automata/#BrieHist)
-* [2. 一些基本概念和结果](https://plato.stanford.edu/entries/cellular-automata/#SomeBasiNotiResu)
-* [2.1 基本定义](https://plato.stanford.edu/entries/cellular-automata/#BasiDefi)
-* [2.2 Wolfram 分类方案](https://plato.stanford.edu/entries/cellular-automata/#WolfClasSche)
-* [2.3 256 条规则的类别](https://plato.stanford.edu/entries/cellular-automata/#Clas256Rule)
-* [2.4 混沌的边缘](https://plato.stanford.edu/entries/cellular-automata/#EdgeChao)
-* [2.5 在更多维度中的 CA：《生命游戏》](https://plato.stanford.edu/entries/cellular-automata/#CADimeGameLife)
-* [2.6 《生命》作为通用图灵机](https://plato.stanford.edu/entries/cellular-automata/#LifeUnivTuriMach)
-* [2.7 进一步 CA](https://plato.stanford.edu/entries/cellular-automata/#FurtCA)
-* [3. CA 和哲学](https://plato.stanford.edu/entries/cellular-automata/#CAPhil)
-* [3.1 CA and Emergence](https://plato.stanford.edu/entries/cellular-automata/#CAEmer)
-* [3.2 CA and Free Will](https://plato.stanford.edu/entries/cellular-automata/#CAFreeWill)
-* [3.3 细胞自动机与计算哲学](https://plato.stanford.edu/entries/cellular-automata/#CAPhilComp)
-* [3.4 细胞自动机作为现实模型](https://plato.stanford.edu/entries/cellular-automata/#CAModeReal)
-* [4. 结论](https://plato.stanford.edu/entries/cellular-automata/#ConcRema)
-* [参考文献](https://plato.stanford.edu/entries/cellular-automata/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/cellular-automata/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cellular-automata/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/cellular-automata/#Rel)
 
 ***
 

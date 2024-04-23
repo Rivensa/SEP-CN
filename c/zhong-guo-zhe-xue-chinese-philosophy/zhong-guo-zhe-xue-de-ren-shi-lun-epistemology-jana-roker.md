@@ -10,34 +10,7 @@ _首次发表于 2014 年 9 月 26 日星期五；实质性修订于 2021 年 2 
 
 本文将系统概述基于结构有序的整体世界观并根植于价值前提的古典中国认识论话语的特殊特征、中心方法和主要发展流派。
 
-* [1.基本范畴](https://plato.stanford.edu/entries/chinese-epistemology/#BasCat)
-* [1.1 心与物](https://plato.stanford.edu/entries/chinese-epistemology/#HeaMinThiEve)
-* [1.2 名称与实际，语言与意义](https://plato.stanford.edu/entries/chinese-epistemology/#NamActLanMea)
-* [1.3 知识与行动](https://plato.stanford.edu/entries/chinese-epistemology/#KnoAct)
-* [2. 具体特征](https://plato.stanford.edu/entries/chinese-epistemology/#SpeFea)
-* [2.1 关系认识论](https://plato.stanford.edu/entries/chinese-epistemology/#RelEpi)
-* [2.2 理解的价值观](https://plato.stanford.edu/entries/chinese-epistemology/#AxiCom)
-* [2.3 实体认识论](https://plato.stanford.edu/entries/chinese-epistemology/#OntEpi)
-* [3. 古典方法](https://plato.stanford.edu/entries/chinese-epistemology/#ClaApp)
-* [3.1 语言与理解](https://plato.stanford.edu/entries/chinese-epistemology/#LanCom)
-* [3.2 忽视语言实证主义](https://plato.stanford.edu/entries/chinese-epistemology/#NegLinPos)
-* [3.3 原始分析方法](https://plato.stanford.edu/entries/chinese-epistemology/#ProAnaApp)
-* [3.4 平等认识论](https://plato.stanford.edu/entries/chinese-epistemology/#EgaEpi)
-* [4. 佛教影响和新儒家认识论](https://plato.stanford.edu/entries/chinese-epistemology/#BudInfNeoConEpi)
-* [4.1 概述](https://plato.stanford.edu/entries/chinese-epistemology/#GenOve)
-* [4.2 主观和客观知识](https://plato.stanford.edu/entries/chinese-epistemology/#SubObjKno)
-* [4.3 结构原则作为理解的主导原则](https://plato.stanford.edu/entries/chinese-epistemology/#StrPriLeaPriCom)
-* [4.4 终极知识与事物探索 vs. 隐居冥想](https://plato.stanford.edu/entries/chinese-epistemology/#UltKnoExpThiVsSecMed)
-* [4.5 先天知识](https://plato.stanford.edu/entries/chinese-epistemology/#InnKno)
-* [5. 后来的概念发展和现代中国认识论](https://plato.stanford.edu/entries/chinese-epistemology/#LatConDevModChiEpi)
-* [5.1 古代方法论](https://plato.stanford.edu/entries/chinese-epistemology/#PreModMet)
-* [5.2 方法与学科的综合](https://plato.stanford.edu/entries/chinese-epistemology/)
-* [参考文献](https://plato.stanford.edu/entries/chinese-epistemology/#Bib)
-* [引用作品](https://plato.stanford.edu/entries/chinese-epistemology/#WorCit)
-* [中国哲学文本项目](https://plato.stanford.edu/entries/chinese-epistemology/#ChiTexPro)
-* [学术工具](https://plato.stanford.edu/entries/chinese-epistemology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/chinese-epistemology/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/chinese-epistemology/#Rel)
+
 
 ***
 

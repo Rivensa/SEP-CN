@@ -10,32 +10,6 @@ _首次发表于 2001 年 8 月 28 日星期二；实质性修订于 2022 年 8 
 
 本文的目的是概述一些源自当代研究的最重要结果。本文各部分讨论的主题如下：第 1 部分提供了激励性例子，说明代理人的行为在很大程度上取决于他们是否具有或缺乏某些共同知识。第 2 部分讨论了共同知识的替代分析。第 3 部分回顾了多主体知识概念的应用，特别是对博弈论（von Neumann 和 Morgenstern，1944 年）的应用，在这些应用中，共同知识假设被发现在为数学博弈提供解决方案概念方面具有重要意义。第 4 部分讨论了对共同知识的实现可能性的怀疑。最后，第 5 部分讨论了通过削弱 Lewis 对共同知识的描述的假设而产生的共同信念概念。
 
-* [激励性例子](https://plato.stanford.edu/entries/common-knowledge/#1)
-  * [1.1 笨拙的服务员](https://plato.stanford.edu/entries/common-knowledge/#1.1)
-  * [1.2 烧烤问题](https://plato.stanford.edu/entries/common-knowledge/#1.2)
-  * [1.3 农民的困境](https://plato.stanford.edu/entries/common-knowledge/#1.3)
-  * [1.4 蜈蚣](https://plato.stanford.edu/entries/common-knowledge/#1.4)
-  * [1.5 百货商店](https://plato.stanford.edu/entries/common-knowledge/#1.5)
-* [2. 共同知识的替代解释](https://plato.stanford.edu/entries/common-knowledge/#2)
-  * [2.1 分层解释](https://plato.stanford.edu/entries/common-knowledge/#2.1)
-  * [2.2 路易斯（Lewis）的观点](https://plato.stanford.edu/entries/common-knowledge/#2.2)
-  * [2.3 奥曼的观点](https://plato.stanford.edu/entries/common-knowledge/#2.3)
-  * [2.4 Barwise 的观点](https://plato.stanford.edu/entries/common-knowledge/#2.4)
-  * [2.5 吉尔伯特的论述](https://plato.stanford.edu/entries/common-knowledge/#2.5)
-* [相互和共同知识的应用](https://plato.stanford.edu/entries/common-knowledge/#3)
-  * [3.1 “无分歧”定理](https://plato.stanford.edu/entries/common-knowledge/#3.1)
-  * [3.2 传统](https://plato.stanford.edu/entries/common-knowledge/#3.2)
-  * [3.3 战略型博弈](https://plato.stanford.edu/entries/common-knowledge/#3.3)
-  * [3.4 完全信息博弈](https://plato.stanford.edu/entries/common-knowledge/#3.4)
-  * [3.5 通信网络](https://plato.stanford.edu/entries/common-knowledge/#3.5)
-* [4. 共同知识是否可获得？](https://plato.stanford.edu/entries/common-knowledge/#4)
-* [5. 协调与共同 p-信念](https://plato.stanford.edu/entries/common-knowledge/#5)
-  * [5.1 电子邮件协调示例](https://plato.stanford.edu/entries/common-knowledge/#5.1)
-  * [5.2 共同 p-信念](https://plato.stanford.edu/entries/common-knowledge/#5.2)
-* [参考文献](https://plato.stanford.edu/entries/common-knowledge/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/common-knowledge/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/common-knowledge/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/common-knowledge/#Rel)
 
 ***
 

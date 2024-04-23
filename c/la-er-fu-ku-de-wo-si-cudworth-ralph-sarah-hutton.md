@@ -6,22 +6,6 @@
 
 卡德沃斯的著作数量可观，但其中许多从未出版，他的哲学体系是不完整的。总体而言，他的哲学将柏拉图主义的伦理学和形而上学与一个原子论的自然哲学相结合。他主要因其认识论的先天主义和其伦理理想主义而被人们铭记。他哲学的独特元素包括他的意识和无意识理论，他将自由意志看作是自我决定的力量，以及他所称之为“自然的塑造力”的因果假设。他的著作中充满了巨大的人文主义学问，这使得他在后人文主义时代的哲学家身份有些被掩盖，但这并没有阻止他在 18 和 19 世纪的哲学中留下了可观的遗产。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/cudworth/#LifeWork)
-* [2. 卡德沃思和哲学家们](https://plato.stanford.edu/entries/cudworth/#CudwPhil)
-* [3. 无神论与唯物主义](https://plato.stanford.edu/entries/cudworth/#AtheMate)
-* [4. 形而上学-柏拉图主义](https://plato.stanford.edu/entries/cudworth/#Meta)
-* [ 5. 可塑性自然](https://plato.stanford.edu/entries/cudworth/#PlasNatu)
-* [ 6. 认识论](https://plato.stanford.edu/entries/cudworth/#Epis)
-* [ 7. 自由意志](https://plato.stanford.edu/entries/cudworth/#FreeWill)
-* [ 8. 意识](https://plato.stanford.edu/entries/cudworth/#Cons)
-* [ 9. 遗产/影响](https://plato.stanford.edu/entries/cudworth/#Lega)
-* [ 参考书目](https://plato.stanford.edu/entries/cudworth/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/cudworth/#PrimSour)
-  * [ 次要来源](https://plato.stanford.edu/entries/cudworth/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/cudworth/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cudworth/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/cudworth/#Rel)
 
 ---
 

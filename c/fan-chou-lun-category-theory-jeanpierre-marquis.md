@@ -4,16 +4,7 @@ _首次发表于 1996 年 12 月 6 日；实质性修订于 2019 年 8 月 29 �
 
 范畴论已经成为当代数学和理论计算机科学的中心领域，并且也被应用于数学物理学。大致而言，它是关于结构和结构系统的一般数学理论。由于范畴论仍在发展，其功能也相应地在发展、扩展和增多。至少，它是一种强大的语言，或概念框架，使我们能够看到某种特定类型结构族的通用组成部分，以及不同类型结构之间的相互关系。范畴论既是哲学研究的一个有趣对象，也是一个潜在强大的形式工具，用于哲学对空间、系统甚至真理等概念的调查。它可以应用于逻辑系统的研究，在这种情况下，范畴论被称为“范畴学说”，涉及句法、证明论和语义层面。范畴论甚至导致对集合的不同理论构想，从而为数学的标准集合论基础提供可能的替代方案。因此，它引发了许多关于数学本体论和认识论的问题。范畴论为哲学家和逻辑学家提供了许多可以利用和思考的内容。
 
-* [1. 一般定义、示例和应用](https://plato.stanford.edu/entries/category-theory/#GeneDefiExamAppl)
-* [1.1 定义](https://plato.stanford.edu/entries/category-theory/#Defi)
-* [1.2 例子](https://plato.stanford.edu/entries/category-theory/#Exam)
-* [1.3 理论的基本概念](https://plato.stanford.edu/entries/category-theory/#FundConcTheo)
-* [2. 简要历史概况](https://plato.stanford.edu/entries/category-theory/#BrieHistSket)
-* [3. 哲学意义](https://plato.stanford.edu/entries/category-theory/#PhilSign)
-* [参考文献](https://plato.stanford.edu/entries/category-theory/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/category-theory/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/category-theory/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/category-theory/#Rel)
+
 
 ***
 

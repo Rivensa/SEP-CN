@@ -8,23 +8,6 @@ _首次发表于 2006 年 10 月 13 日星期五；实质性修订于 2023 年 9
 
 该条目分为四个部分。第一部分探讨了公民身份的主要维度（法律、政治、身份），并看到它们在两种主导模式中以非常不同的方式体现：共和制和自由主义。对私人/公共区分的女性主义批评，对这两种模式都至关重要，它作为该条目第二部分的桥梁。第二部分集中讨论了关于社会和文化多元主义对公民身份概念的影响的两场重要辩论：首先，它们是否应该承认而不是超越差异，如果是这样，这种承认是否会影响公民身份在加强社会凝聚力方面所声称的作用？其次，在多元主义条件下，人们如何理解公民身份与国籍之间的关系？第三部分讨论了全球化对公民身份理论提出的挑战。这些理论长期以来一直认为公民身份的必要背景是主权领土国家。这一前提正受到质疑，质疑者质疑国家确定谁被接受为成员的权利和/或主张公民身份可以超越民族国家的边界。该条目的第四部分也是最后一部分，探讨了残疾权利和动物权利领域最近的讨论如何挑战了公民身份文献自亚里士多德以来的一个基本前提：即辩证理性构成了公民身份的一个门槛条件。
 
-* [1. 公民的维度](https://plato.stanford.edu/entries/citizenship/#DimeCiti)
-* [1.1 定义](https://plato.stanford.edu/entries/citizenship/#Defi)
-* [1.2 公民的两种模式：共和制和自由主义](https://plato.stanford.edu/entries/citizenship/#TwoModeCitiRepuLibe)
-* [1.3 女权主义批评](https://plato.stanford.edu/entries/citizenship/#FemiCrit)
-* [2. 内部多样性的挑战](https://plato.stanford.edu/entries/citizenship/#ChalInteDive)
-* [2.1 公民的普遍主义与差异主义观念](https://plato.stanford.edu/entries/citizenship/#UnivVsDiffConcCiti)
-* [2.2 自由民族主义者 vs 后民族主义者](https://plato.stanford.edu/entries/citizenship/#LibeNatiVsPost)
-* [3. 全球化的挑战](https://plato.stanford.edu/entries/citizenship/#ChalGlob)
-* [3.1 公民和边界](https://plato.stanford.edu/entries/citizenship/#CitiBord)
-* [3.2 公民, 非公民, 和权利](https://plato.stanford.edu/entries/citizenship/#CitiNonCitiRigh)
-* [3.3 辩论跨国公民身份：国家主义者 vs. 全球主义者](https://plato.stanford.edu/entries/citizenship/#PromTranCitiScepVsVolu)
-* [4. 公民的新前沿？](https://plato.stanford.edu/entries/citizenship/#CitiNewFron)
-* [5. 结论](https://plato.stanford.edu/entries/citizenship/#Conc)
-* [参考书目](https://plato.stanford.edu/entries/citizenship/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/citizenship/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/citizenship/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/citizenship/#Rel)
 
 ***
 

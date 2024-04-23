@@ -4,22 +4,7 @@ _首次发表于 2009 年 10 月 16 日星期五；实质性修订于 2022 年 1
 
 玛格丽特·卢卡斯·坎文迪许（Margaret Lucas Cavendish）是一位生活在十七世纪的哲学家、诗人、科学家、小说家和剧作家。她的作品因多方面原因而重要。其中之一是，她提出了一种早期且引人注目的自然主义版本，这种自然主义在当今的哲学和科学中可以找到。她还提供了对最近关于智力的本质和特征以及我们周围的身体是否有心智和智能的讨论产生重要启示。坎文迪许的作品之所以重要的另一个原因是，它预见了一些与托马斯·霍布斯（Thomas Hobbes）和大卫·休谟（David Hume）等人更常见地联系在一起的中心观点和论据。她还对十七世纪讨论中的一些核心观点和论据提供了新颖而引人入胜的回应 - 例如，关于感知是否通过印象进行；关于人类是否以自由意志论者或相容主义者的意义上自由；关于自然界是否存在真正的混乱；关于知识的限度，以及思想和语言的限度；以及关于物体之间如何传递运动。此外，她参与了社会和政治哲学中的重要辩论，重点关注代理和权威问题。她特别询问个体渴望过上符合其认同的生活与周围环境对这种愿望的接纳之间的关系。
 
-* [1. 简介和传记](https://plato.stanford.edu/entries/margaret-cavendish/#IntrBiog)
-* [2. 哲学史上的智能物质](https://plato.stanford.edu/entries/margaret-cavendish/#InteMattHistPhil)
-* [3. 物质心灵](https://plato.stanford.edu/entries/margaret-cavendish/#MateMind)
-* [4. 泛心论](https://plato.stanford.edu/entries/margaret-cavendish/#Panp)
-* [5. 偶发因果](https://plato.stanford.edu/entries/margaret-cavendish/#OccaCaus)
-* [6. 上帝](https://plato.stanford.edu/entries/margaret-cavendish/#God)
-* [7. 社会和政治哲学](https://plato.stanford.edu/entries/margaret-cavendish/#SociPoliPhil)
-* [8. 自由意志和身体的有序行为](https://plato.stanford.edu/entries/margaret-cavendish/#FreeWillOrdeBehaBodi)
-* [9. 幻想](https://plato.stanford.edu/entries/margaret-cavendish/#Fanc)
-* [10. 结论](https://plato.stanford.edu/entries/margaret-cavendish/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/margaret-cavendish/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/margaret-cavendish/#PrimLite)
-* [次要文献](https://plato.stanford.edu/entries/margaret-cavendish/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/margaret-cavendish/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/margaret-cavendish/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/margaret-cavendish/#Rel)
+
 
 ***
 

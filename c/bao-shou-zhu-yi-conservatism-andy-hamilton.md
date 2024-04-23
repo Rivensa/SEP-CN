@@ -8,33 +8,6 @@
 
 与自由主义和社会主义相比，保守主义一直备受哲学忽视（Broad 1913: 396–7）。许多人否认它是一种意识形态，甚至是一种政治哲学，而是将其视为一种抵制理论表达的倾向——一种试图避免意识形态错误的“非意识形态”（Graham 1986: 172；相比之下，Nisbet 1986）。它是一种古老的态度，还是仅仅是对启蒙理性及其政治产物——自由主义和社会主义的回应而产生的？它与当代的“新保守主义”有何关系？它是一个连贯的立场，还是像许多人所主张的那样，未能区分值得保守的东西和不值得保守的东西？这些是关于保守主义经常提出的一些问题，在这里进行探讨。
 
-* [保守主义的本质](https://plato.stanford.edu/entries/conservatism/#NatCon)
-
-  * [1.1 保守主义的广义与狭义](https://plato.stanford.edu/entries/conservatism/#BroVerNarSenCon)
-  * [1.2 狭义或伯克式保守主义作为对理性的怀疑](https://plato.stanford.edu/entries/conservatism/#NarSenBurConSceAboRea)
-  * [1.3 传统与渐进改革：保守主义与反动主义](https://plato.stanford.edu/entries/conservatism/#TraGraRefConVsRea)
-  * [1.4 保守主义的正式程序性与实质性含义；与新保守主义和古典自由主义的对比](https://plato.stanford.edu/entries/conservatism/#ForProVsSubSenConConNeoConLib)
-  * [1.5 保守主义和自由主义：自由立场 vs. 家长立场](https://plato.stanford.edu/entries/conservatism/#ConLibStaFreVsStaPat)
-* [保守主义思想的发展](https://plato.stanford.edu/entries/conservatism/#DevConTho)
-
-  * [保守主义这个术语的使用](https://plato.stanford.edu/entries/conservatism/#UseTerCon)
-  * [2.2 Burkean 保守主义 的先驱者](https://plato.stanford.edu/entries/conservatism/#PreBurCon)
-  * [2.3 伯克式保守主义](https://plato.stanford.edu/entries/conservatism/#BurCon)
-  * [2.4 “Rational” or Idealist conservatism 2.4 “理性”或理想主义保守主义](https://plato.stanford.edu/entries/conservatism/#RatIdeCon)
-  * [2.5 北美传统](https://plato.stanford.edu/entries/conservatism/#NorAmeTra)
-  * [2.6 现代保守主义：Sidgwick, Oakeshott, Scruton](https://plato.stanford.edu/entries/conservatism/#ModConSidOakScr)
-* [3. 保守主义的批评](https://plato.stanford.edu/entries/conservatism/#CriCon)
-
-  * [3.1 什么传统？社群主义批判](https://plato.stanford.edu/entries/conservatism/#WhaTraComCri)
-  * [ 自由主义批评](https://plato.stanford.edu/entries/conservatism/#LibCri)
-  * [ 3.3 左翼批评](https://plato.stanford.edu/entries/conservatism/#LefCri)
-  * [3.4 特殊主义怀疑的连贯性](https://plato.stanford.edu/entries/conservatism/#CohParSce)
-* [4. Cultural conservatism and conservation 4. 文化保守主义与保护](https://plato.stanford.edu/entries/conservatism/#CulConCon)
-* [ 参考文献](https://plato.stanford.edu/entries/conservatism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/conservatism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/conservatism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/conservatism/#Rel)
-
 ---
 
 ## 保守主义的本质

@@ -6,20 +6,7 @@ _首次发表于 2019 年 3 月 19 日；实质性修订于 2024 年 1 月 2 日
 
 相比之下，公民人文主义是一种历史学构建。如学者们通常所用，这个术语指的是一群思想家，他们在意大利文艺复兴时期特别是在佛罗伦萨出现，并致力于公共参与（无论在理论上还是实践中），他们的价值观与中世纪过去根本相悖。公民人文主义的“发明”主要与汉斯·巴伦（1900-1988）有关，这位著名的德裔美国历史学家。尽管他早在 1925 年就首次使用了原始德语形式的短语（_Bürgerhumanismus_），但它的流行源自于 1955 年出版的他的经典著作《早期意大利文艺复兴的危机：公民人文主义与共和自由在古典主义和暴政时代》（1966 年修订版）。在这本著作中，以及后来在此基础上发展的著作中（其中许多收录在巴伦 1968 年和 1988 年的著作集中），他发展了后来被称为“巴伦论文”的理论。然而，巴伦并不是第一个提出在意大利城市中出现的人文主义形式主要促进了公民_vita activa_而不是通常归因于人文主义者的文学和语言学追求的学者。在 1952 年和 1954 年出版的两本意大利著作中，尤金尼奥·加林捍卫了一个几乎与巴伦观点相同的立场：尤其是在佛罗伦萨提出的文艺复兴人文主义反映了从中世纪重视冥想转向优先考虑民事行动以实现共同利益的明显转变。在当前背景下，值得注意的是，一些公民人文主义的倡导者倾向于共和主义，但前者并不意味着后者。
 
-* [1. 公民人文主义论文](https://plato.stanford.edu/entries/humanism-civic/#BaroThes)
-* [2. 公民人文主义和共和主义](https://plato.stanford.edu/entries/humanism-civic/#CiviHumaRepu)
-* [3. 公民人文主义的种类](https://plato.stanford.edu/entries/humanism-civic/#VariCiviHuma)
-* [3.1. Leonardo Bruni](https://plato.stanford.edu/entries/humanism-civic/#LeonBrun)
-* [3.2 Coluccio Salutati and Aurelio Lippo Brandolini](https://plato.stanford.edu/entries/humanism-civic/#ColuSaluAureLippBran)
-* [3.3. Aeneas Silvius Piccolomini](https://plato.stanford.edu/entries/humanism-civic/#AeneSilvPicc)
-* [3.4 尼科洛·马基雅维利](https://plato.stanford.edu/entries/humanism-civic/#NiccMach)
-* [4. 公民人文主义的前史](https://plato.stanford.edu/entries/humanism-civic/#PreHistCiviHuma)
-* [参考书目](https://plato.stanford.edu/entries/humanism-civic/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/humanism-civic/#PrimLite)
-* [次级文献](https://plato.stanford.edu/entries/humanism-civic/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/humanism-civic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/humanism-civic/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/humanism-civic/#Rel)
+
 
 ***
 

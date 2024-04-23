@@ -6,37 +6,6 @@ _首次发表于 2006 年 6 月 20 日星期二；实质性修订于 2023 年 5 
 
 尽管奥卡姆专家长期以来已经意识到他的重要性，但他的作品的完整批判版本直到最近才变得可用，并且对他的观点、影响和思想生活的详细学术分析还处于萌芽阶段。因此，本文不会总结他的立场，如“形而上学”、“认识论”等广泛的现代标题，而是将对他对今天在哲学上仍然具有价值的几个较窄问题的贡献进行阐述和分析。
 
-* [1. 生命](https://plato.stanford.edu/entries/walter-chatton/#Life)
-* [2. 知识世界](https://plato.stanford.edu/entries/walter-chatton/#InteWorl)
-* [3. 反剃刀](https://plato.stanford.edu/entries/walter-chatton/#AntiRazo)
-* [3.1 意义承诺](https://plato.stanford.edu/entries/walter-chatton/#OntoComm)
-* [3.2 查顿原则](https://plato.stanford.edu/entries/walter-chatton/#ChatPrin)
-* [3.3 奥卡姆对查顿原则的批评](https://plato.stanford.edu/entries/walter-chatton/#OckhCritChatPrin)
-* [4. 类别和普遍性](https://plato.stanford.edu/entries/walter-chatton/#CateUniv)
-* [4.1 语义类别](https://plato.stanford.edu/entries/walter-chatton/#SemaCate)
-* [4.2 意体类](https://plato.stanford.edu/entries/walter-chatton/#OntoClas)
-* [4.3 性质与个体化](https://plato.stanford.edu/entries/walter-chatton/#NatuIndi)
-* [5. 不可分论](https://plato.stanford.edu/entries/walter-chatton/#Indi)
-* [5.1 谁是不可分论者？](https://plato.stanford.edu/entries/walter-chatton/#IndiWho)
-* [5.2 什么是不可分论？可分性和连续性](https://plato.stanford.edu/entries/walter-chatton/#IndiWhat)
-* [5.3 为什么作为神学家主张不可分论？](https://plato.stanford.edu/entries/walter-chatton/#IndiWhy)
-* [5.4 Chatton’s (Rather Odd-Sounding) Opinions on the Continuum](https://plato.stanford.edu/entries/walter-chatton/#IndiFourOp)
-* [5.5 How Aristotle Attacked Indivisibles](https://plato.stanford.edu/entries/walter-chatton/#IndiArist)
-* [5.6 Chatton’s Response to Aristotle in Four Conclusions](https://plato.stanford.edu/entries/walter-chatton/#IndiResp)
-* [6. Future Contingents](https://plato.stanford.edu/entries/walter-chatton/#FutuCont)
-* [6.1 命运论者的论证](https://plato.stanford.edu/entries/walter-chatton/#FataArgu)
-* [6.2 查顿的反命运论者论证](https://plato.stanford.edu/entries/walter-chatton/#ChatAntiFataArgu)
-* [6.3 神的](https://plato.stanford.edu/entries/walter-chatton/#GodsKnowVersGodsCogn)​\*[知道](https://plato.stanford.edu/entries/walter-chatton/#GodsKnowVersGodsCogn)_​_[_与神的_](https://plato.stanford.edu/entries/walter-chatton/#GodsKnowVersGodsCogn)_​_[认知](https://plato.stanford.edu/entries/walter-chatton/#GodsKnowVersGodsCogn)\*
-* [7. 概念的](https://plato.stanford.edu/entries/walter-chatton/#InteTheoConc)​\*[Intellectio](https://plato.stanford.edu/entries/walter-chatton/#InteTheoConc)\*​[理论](https://plato.stanford.edu/entries/walter-chatton/#InteTheoConc)
-* [8. 美德与意图](https://plato.stanford.edu/entries/walter-chatton/#VirtInte)
-* [9. 结论](https://plato.stanford.edu/entries/walter-chatton/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/walter-chatton/#Bib)
-* [夏顿的作品](https://plato.stanford.edu/entries/walter-chatton/#ChatWork)
-* [查顿同时代重要原始文本](https://plato.stanford.edu/entries/walter-chatton/#ImpoPrimTextContChat)
-* [查顿的次要来源和旧批判版本](https://plato.stanford.edu/entries/walter-chatton/#SecoSourOldeCritEditChat)
-* [学术工具](https://plato.stanford.edu/entries/walter-chatton/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/walter-chatton/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/walter-chatton/#Rel)
 
 ***
 

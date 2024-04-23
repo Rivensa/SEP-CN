@@ -10,45 +10,6 @@
 
 > 自然神论者长期受到神学上的厌恶和运动的历史学家们几乎无一例外地自十八世纪约翰·利兰德以来，无论在社会上还是在智力上都对他们进行了贬低或诽谤。 (Mossner 1967b: 335)
 
-* [生平与作品](https://plato.stanford.edu/entries/collins/#LifeWork)
-
-  * [ 1.1 生命](https://plato.stanford.edu/entries/collins/#Life)
-  * [ 1.2 主要作品](https://plato.stanford.edu/entries/collins/#ChieWork)
-* [克拉克·柯林斯通信（1707-08）](https://plato.stanford.edu/entries/collins/#ClarCollCorr1707)
-
-  * [2.1 背景：意识与物质系统](https://plato.stanford.edu/entries/collins/#BackConsMateSyst)
-  * [2.2 对应关系](https://plato.stanford.edu/entries/collins/#Corr)
-
-    * [2.2.1 克拉克的范畴](https://plato.stanford.edu/entries/collins/#ClarCate)
-    * [2.2.2 真实的新兴属性](https://plato.stanford.edu/entries/collins/#RealEmerProp)
-    * [ 2.2.3 个人身份](https://plato.stanford.edu/entries/collins/#PersIden)
-  * [评估克拉克-柯林斯通信](https://plato.stanford.edu/entries/collins/#EvalClarCollCorr)
-* [3. 决定论与自由意志](https://plato.stanford.edu/entries/collins/#DeteFreeWill)
-
-  * [ 3.1 背景](https://plato.stanford.edu/entries/collins/#Back)
-  * [3.2 安东尼·柯林斯早期作品中的决定论](https://plato.stanford.edu/entries/collins/#DeteCollEarlWork)
-  * [3.3 一部关于人类自由的哲学探讨，1717 年](https://plato.stanford.edu/entries/collins/#PhilInquConcHumaLibe1717)
-* [4. 柯林斯，德义和自由思想](https://plato.stanford.edu/entries/collins/#CollDeisFree)
-
-  * [4.1 《论理性的运用》, 1707 年](https://plato.stanford.edu/entries/collins/#EssaConcUseReas1707)
-  * [ 4.2 类比语言](https://plato.stanford.edu/entries/collins/#AnalLang)
-  * [4.3 《自由思考论文》，1713 年](https://plato.stanford.edu/entries/collins/#DiscFreeThin1713)
-  * [4.4 解读《自由思想论》](https://plato.stanford.edu/entries/collins/#InteDiscFreeThin)
-* [5. 柯林斯和宗教](https://plato.stanford.edu/entries/collins/#CollReli)
-* [ 影响](https://plato.stanford.edu/entries/collins/#Infl)
-
-  * [ 6.1 在英国](https://plato.stanford.edu/entries/collins/#Engl)
-  * [6.2 在大陆](https://plato.stanford.edu/entries/collins/#Cont)
-* [ 参考文献](https://plato.stanford.edu/entries/collins/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/collins/#PrimLite)
-
-    * [ 柯林斯的作品](https://plato.stanford.edu/entries/collins/#WorkColl)
-    * [ 他人的作品](https://plato.stanford.edu/entries/collins/#WorkOthe)
-  * [ 次级文献](https://plato.stanford.edu/entries/collins/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/collins/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/collins/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/collins/#Rel)
 
 ---
 

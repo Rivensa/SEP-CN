@@ -8,22 +8,7 @@
 
 在下面需要注意的重要条件的前提下，创造论者强烈反对由进化创造的世界，特别是查尔斯·达尔文在其《物种起源》中描述的世界。创造论者（特别是传统的创造论者）反对进化的事实（模式），即所有生物（生存和死亡的）都是从一些形式，也许最终是从无机物质（“共同祖先”）的自然发展过程的最终产物。通常这被称为“宏观进化”，而不是“微观进化”，意思是从猿到人，而不仅仅是一种雀鸟到另一种雀鸟。创造论者还反对达尔文进化论的理论的总体充分性的主张，即人口压力导致生存斗争；生物以随机方式不同，由遗传物质中的错误引起（“基因”中的“突变”）；斗争和变异导致自然选择的一种形式，一些生存和繁殖，而其他人失败；所有这一切的最终结果是进化，朝着适应良好的生物的方向。
 
-* [1. 创造论的历史](https://plato.stanford.edu/entries/creationism/#HisCre)
-* [ 2. 创造科学](https://plato.stanford.edu/entries/creationism/#CreSci)
-* [3. 在其文化背景下理解创造论](https://plato.stanford.edu/entries/creationism/#UndCreCulCon)
-* [ 4. 阿肯色州](https://plato.stanford.edu/entries/creationism/#Ark)
-* [5. 自然主义辩论](https://plato.stanford.edu/entries/creationism/#NatDeb)
-* [进化论者可以成为基督徒吗？](https://plato.stanford.edu/entries/creationism/#EvoChr)
-* [ 智能设计](https://plato.stanford.edu/entries/creationism/#IntDes)
-* [复杂性是否是不可简化的？](https://plato.stanford.edu/entries/creationism/#ComIrr)
-* [9. 解释性过滤器](https://plato.stanford.edu/entries/creationism/#ExpFil)
-* [ 10. 互斥的？](https://plato.stanford.edu/entries/creationism/#MutExc)
-* [11. 智能设计和传统创造论](https://plato.stanford.edu/entries/creationism/#IntDesTraCre)
-* [ 最近发展](https://plato.stanford.edu/entries/creationism/#Rec)
-* [ 参考文献](https://plato.stanford.edu/entries/creationism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/creationism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/creationism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/creationism/#Rel)
+
 
 ---
 

@@ -10,38 +10,7 @@
 
 这些问题中有一些具有经验维度，最明显的是那些涉及创意过程如何实际进行的问题。因此，我们将调查的许多研究都属于认知科学的跨学科范畴，不仅有哲学家的贡献，还有来自邻近领域如心理学、神经科学和计算机科学的研究人员的贡献。
 
-* [创意哲学：过去与现在](https://plato.stanford.edu/entries/creativity/#PhilCreaPastPres)
-* [2. 什么是创造力？](https://plato.stanford.edu/entries/creativity/#WhatCrea)
 
-  * [2.1 价值条件的挑战](https://plato.stanford.edu/entries/creativity/#ChalValuCond)
-  * [2.2 其他提出的条件](https://plato.stanford.edu/entries/creativity/#OthePropCond)
-
-    * [ 2.2.1 惊喜](https://plato.stanford.edu/entries/creativity/#Surp)
-    * [ 2.2.2 独创性](https://plato.stanford.edu/entries/creativity/#Orig)
-    * [ 2.2.3 自发性](https://plato.stanford.edu/entries/creativity/#Spon)
-    * [ 2.2.4 机构](https://plato.stanford.edu/entries/creativity/#Agen)
-  * [2.3 创造力是一种美德吗？](https://plato.stanford.edu/entries/creativity/#CreaVirt)
-* [3. 创造力可以被学习吗？](https://plato.stanford.edu/entries/creativity/#CreaLear)
-* [4. 创造力能被解释吗？](https://plato.stanford.edu/entries/creativity/#CreaExpl)
-* [5. 创造力的认知科学](https://plato.stanford.edu/entries/creativity/#CognScieCrea)
-
-  * [ 5.1 准备](https://plato.stanford.edu/entries/creativity/#Prep)
-  * [ 5.2 生成](https://plato.stanford.edu/entries/creativity/#Gene)
-
-    * [ 5.2.1 盲目变异](https://plato.stanford.edu/entries/creativity/#BlinVari)
-    * [5.2.2 默认模式网络](https://plato.stanford.edu/entries/creativity/#DefaModeNetw)
-    * [ 5.2.3 想象力](https://plato.stanford.edu/entries/creativity/#Imag)
-    * [ 5.2.4 孵化](https://plato.stanford.edu/entries/creativity/#Incu)
-  * [ 5.3 洞察](https://plato.stanford.edu/entries/creativity/#Insi)
-  * [ 5.4 评估](https://plato.stanford.edu/entries/creativity/#Eval)
-  * [ 5.5 外部化](https://plato.stanford.edu/entries/creativity/#Exte)
-  * [5.6 担忧和未来方向](https://plato.stanford.edu/entries/creativity/#WorrFutuDire)
-* [6. 创造力和人工智能](https://plato.stanford.edu/entries/creativity/#CreaArtiInte)
-* [ 7. 结论](https://plato.stanford.edu/entries/creativity/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/creativity/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/creativity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/creativity/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/creativity/#Rel)
 
 ---
 

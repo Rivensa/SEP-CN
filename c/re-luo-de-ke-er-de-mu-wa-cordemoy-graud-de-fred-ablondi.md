@@ -4,18 +4,7 @@
 
 Géraud de Cordemoy（1626-1684）是笛卡尔去世后几十年中最重要的笛卡尔哲学家之一。尽管在某些方面他是非常正统的笛卡尔主义者，但 Cordemoy 是唯一一个接受原子论的笛卡尔主义者，也是最早主张偶然论的人之一。尽管他是一名律师，但 Cordemoy 在巴黎哲学界中是一位重要人物。他最重要的两部作品是《身体与灵魂的辨别》（1666）和《言语的物理论》（1668）。在前者中，他捍卫原子论、机械论、偶然论和二元论；而后者则是对言语本质的研究。
 
-* [生活与著作](https://plato.stanford.edu/entries/cordemoy/#LifeWrit)
-* [ 原子论](https://plato.stanford.edu/entries/cordemoy/#Atom)
-* [ 偶然主义](https://plato.stanford.edu/entries/cordemoy/#Occa)
-* [头脑与身体](https://plato.stanford.edu/entries/cordemoy/#MindBody)
-* [语言和言语](https://plato.stanford.edu/entries/cordemoy/#LangSpee)
-* [ 参考文献](https://plato.stanford.edu/entries/cordemoy/#Bib)
 
-  * [ 主要文本](https://plato.stanford.edu/entries/cordemoy/#PrimText)
-  * [选读研究与批判性讨论](https://plato.stanford.edu/entries/cordemoy/#SeleStudCritDisc)
-* [ 学术工具](https://plato.stanford.edu/entries/cordemoy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cordemoy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/cordemoy/#Rel)
 
 ---
 

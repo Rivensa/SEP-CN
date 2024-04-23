@@ -10,24 +10,6 @@ _首次发表于 2003 年 2 月 3 日星期一；实质性修订于 2022 年 1 �
 
 然而，尽管这两种公民权利观念在语言使用上存在差异，但它们之间并不存在实质上的不相容性。事实上，根据任何道德上合理的观点，更古老的观念包含了更为近期的观念：可以合理地说，构成自由和平等公民身份的权利不仅包括了针对歧视的权利，而且超越了这一点。但由于歧视仍然是系统性不公正的持续和广泛讨论的根源，将公民权利等同于反歧视权利的标准观念在可预见的未来不太可能消失。然而，更古老的公民权利观念并没有过时：它仍然是法律和政治话语中不可或缺的部分，常常作为隐含的规范背景的一部分，有时又作为话语明确表达的主题。本文将遵循更古老的观念，将所有自由和平等公民的权利视为公民权利；同时，本文特别关注当前的争议议题，其中涉及反歧视权利。
 
-* [1. 自由和平等的公民权](https://plato.stanford.edu/entries/civil-rights/#FreeEquaCiti)
-* [2. 标准观念](https://plato.stanford.edu/entries/civil-rights/#StanIdea)
-* [3. 权利的类别](https://plato.stanford.edu/entries/civil-rights/#CateRigh)
-* [3.1 政治和社会权利](https://plato.stanford.edu/entries/civil-rights/#PoliSociRigh)
-* [3.2 社会和福利权利](https://plato.stanford.edu/entries/civil-rights/#SociWelfRigh)
-* [3.3 文化权利](https://plato.stanford.edu/entries/civil-rights/#CultRigh)
-* [4. 投票权](https://plato.stanford.edu/entries/civil-rights/#RighVote)
-* [4.1 黑人美国人的剥夺权](https://plato.stanford.edu/entries/civil-rights/#DiseBlacAmer)
-* [4.2 公民投票权法案](https://plato.stanford.edu/entries/civil-rights/#VotiRighAct)
-* [4.3 ](https://plato.stanford.edu/entries/civil-rights/#ShelCaseAfte)​\*[谢尔比](https://plato.stanford.edu/entries/civil-rights/#ShelCaseAfte)\*​[案件及其后果](https://plato.stanford.edu/entries/civil-rights/#ShelCaseAfte)
-* [5. 刑事司法和种族歧视](https://plato.stanford.edu/entries/civil-rights/#CrimJustRaciProf)
-* [6. 婚姻平等](https://plato.stanford.edu/entries/civil-rights/#MarrEqua)
-* [7. 残疾](https://plato.stanford.edu/entries/civil-rights/#Disa)
-* [法律案例和法规](https://plato.stanford.edu/entries/civil-rights/#LegaCaseStat)
-* [参考书目](https://plato.stanford.edu/entries/civil-rights/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/civil-rights/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/civil-rights/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/civil-rights/#Rel)
 
 ***
 

@@ -13,34 +13,6 @@
 
 请参阅有关柯林武德美学的单独条目。
 
-* [ 传记草稿](https://plato.stanford.edu/entries/collingwood/#BiogSket)
-* [ 2. 形而上学](https://plato.stanford.edu/entries/collingwood/#Meta)
-
-  * [2.1 哲学区分与类别的重叠](https://plato.stanford.edu/entries/collingwood/#PhilDistOverClas)
-  * [2.2 预设分析](https://plato.stanford.edu/entries/collingwood/#PresAnal)
-  * [2.3 “激进转变”假说](https://plato.stanford.edu/entries/collingwood/#RadiConvHypo)
-  * [2.4 指出论和与莱尔的对应](https://plato.stanford.edu/entries/collingwood/#OntoArguCorrRyle)
-  * [2.5 与艾尔的形而上哲学之战](https://plato.stanford.edu/entries/collingwood/#MetaBattAyer)
-  * [2.6 现实主义与唯心主义](https://plato.stanford.edu/entries/collingwood/#RealIdea)
-* [历史与科学](https://plato.stanford.edu/entries/collingwood/#HistScie)
-
-  * [3.1 历史过去和历史研究的假设](https://plato.stanford.edu/entries/collingwood/#HistPastPresHistInqu)
-  * [ 3.2 重演](https://plato.stanford.edu/entries/collingwood/#ReEnac)
-  * [3.3 反对方法论统一的论点](https://plato.stanford.edu/entries/collingwood/#ArguAgaiMethUnit)
-* [ 参考文献](https://plato.stanford.edu/entries/collingwood/#Bib)
-
-  * [A. 主要文献](https://plato.stanford.edu/entries/collingwood/#PrimLite)
-
-    * [柯林武德的已发表作品](https://plato.stanford.edu/entries/collingwood/#CollPublWork)
-    * [ A.2 参考文献](https://plato.stanford.edu/entries/collingwood/#Bibl)
-    * [柯林武德的未发表手稿](https://plato.stanford.edu/entries/collingwood/#CollUnpuManu)
-  * [B. 二级文献](https://plato.stanford.edu/entries/collingwood/#BSecoLite)
-
-    * [ B.1 主要评论](https://plato.stanford.edu/entries/collingwood/#B1MainComm)
-    * [B.2 其他次要来源](https://plato.stanford.edu/entries/collingwood/#B2SecoCiteSour)
-* [ 学术工具](https://plato.stanford.edu/entries/collingwood/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/collingwood/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/collingwood/#Rel)
 
 ---
 

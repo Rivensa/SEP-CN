@@ -23,33 +23,6 @@ _每种社区的公民都有哪些责任？每个社区的所有成员是否都�
 
 这些问题很少作为综合公民教育理论的一部分共同讨论；相反，它们在有关政治或教育的著作中偶尔提及。其中一些问题从未被专业哲学家深入探讨过，但在公民身份的公开辩论中经常出现。
 
-* [1. The Good Citizen: Historical Conceptions](https://plato.stanford.edu/entries/civic-education/#GoodCitiHistConc)
-* [1.1 古希腊](https://plato.stanford.edu/entries/civic-education/#AnciGree)
-* [1.2 古典自由主义](https://plato.stanford.edu/entries/civic-education/#ClasLibe)
-* [1.3 卢梭：走向进步教育](https://plato.stanford.edu/entries/civic-education/#RousTowaProgEduc)
-* [1.4 Mill: 通过政治参与进行教育](https://plato.stanford.edu/entries/civic-education/#MillEducThroPoliPart)
-* [1.5 美国早期公民教育](https://plato.stanford.edu/entries/civic-education/#EarlCiviEducUnitStat)
-* [2. The Good Democrat](https://plato.stanford.edu/entries/civic-education/#GoodDemo)
-* [2.1 自由民主国家中的国家、父母和子女](https://plato.stanford.edu/entries/civic-education/#StatPareChilLibeDemo)
-* [2.2 社会资本](https://plato.stanford.edu/entries/civic-education/#SociCapi)
-* [2.3 Deliberative Democracy](https://plato.stanford.edu/entries/civic-education/#DeliDemo)
-* [2.4 公共工作](https://plato.stanford.edu/entries/civic-education/#PublWork)
-* [3. 善良的人](https://plato.stanford.edu/entries/civic-education/#GoodPers)
-* [3.1 好人和好公民](https://plato.stanford.edu/entries/civic-education/#GoodPersGoodCiti)
-* [3.2 美德的光谱](https://plato.stanford.edu/entries/civic-education/#SpecVirt)
-* [4. 现代形式的公民教育](https://plato.stanford.edu/entries/civic-education/#ModeFormCiviEduc)
-* [4.1 服务学习](https://plato.stanford.edu/entries/civic-education/#ServLear)
-* [4.2 行动公民](https://plato.stanford.edu/entries/civic-education/#ActiCivi)
-* [4.3 公民教育通过讨论](https://plato.stanford.edu/entries/civic-education/#CiviEducThroDisc)
-* [4.4 约翰·杜威：学校作为社区](https://plato.stanford.edu/entries/civic-education/#JohnDeweSchoComm)
-* [4.5 解放教育](https://plato.stanford.edu/entries/civic-education/#LibePeda)
-* [5. Cosmopolitan Education](https://plato.stanford.edu/entries/civic-education/#CosmEduc) \* [5. 世界主义教育](https://plato.stanford.edu/entries/civic-education/#CosmEduc)
-* [参考书目](https://plato.stanford.edu/entries/civic-education/#Bib)
-* [参考文献](https://plato.stanford.edu/entries/civic-education/#WorkCite)
-* [可参考的作品](https://plato.stanford.edu/entries/civic-education/#WorkCons)
-* [学术工具](https://plato.stanford.edu/entries/civic-education/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/civic-education/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/civic-education/#Rel)
 
 ***
 

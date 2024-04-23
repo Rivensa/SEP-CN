@@ -4,24 +4,6 @@
 
 艾蒂安·博诺·德·孔狄亚克（Étienne Bonnot, Abbé de Condillac）是一位激进经验主义心灵运作的主要倡导者，后来被称为“感觉主义”的代表人物。约翰·洛克（John Locke）的经验主义是基于对先天原则和先天观念的拒绝，而孔狄亚克则进一步拒绝了先天能力。在他的经验主义观念中，经验不仅为我们提供“观念”或知识的原材料，还教会我们如何集中注意力、记忆、想象、抽象、判断和推理。它塑造了我们的欲望，并教会我们如何意志。此外，它为我们提供了执行这些操作的最佳课程，因此研究我们最初如何学会执行它们也告诉我们这些操作应该如何执行。追求这一原则使孔狄亚克阐明了早期发展心理学，具有明确的教育和方法论意义。他的关注还使他专注于感知理论，并提出了关于我们对空间形式感知的重要和独创观点。他提供了比他所处时代提供的任何人更深入、仔细和精确的解释，关于每个感官向我们提供了什么，以及如何将这些原始数据转化为我们对周围世界的信念。
 
-* [生平与著作](https://plato.stanford.edu/entries/condillac/#Works)
-* [康迪亚克的感觉论形而上学](https://plato.stanford.edu/entries/condillac/#Metaphysics)
-* [3. Sensation in the Essay 3. 文章中的感觉](https://plato.stanford.edu/entries/condillac/#Essay)
-* [4. Sensation in the Treatise 《论感觉》中的感觉](https://plato.stanford.edu/entries/condillac/#Treatise)
-* [5. The Development of Higher Cognitive Faculties 高级认知能力的发展](https://plato.stanford.edu/entries/condillac/#Faculties)
-* [6. Signs and the “Language of Action” 6. 符号与“行动的语言”](https://plato.stanford.edu/entries/condillac/#Signs)
-* [7. 语言作为分析方法](https://plato.stanford.edu/entries/condillac/#Analytic)
-* [动物灵魂、道德法则和永生](https://plato.stanford.edu/entries/condillac/#Animal)
-* [9. Commerce and Government 9. 商业与政府](https://plato.stanford.edu/entries/condillac/#Commerce)
-* [10. 康迪亚克的感觉论存在的问题](https://plato.stanford.edu/entries/condillac/#Problems)
-
-  * [ 10.1 理想主义](https://plato.stanford.edu/entries/condillac/#Idealism)
-  * [ 10.2 唯物主义](https://plato.stanford.edu/entries/condillac/#Materialism)
-  * [10.3 记忆与自由](https://plato.stanford.edu/entries/condillac/#Memory)
-* [ 参考文献](https://plato.stanford.edu/entries/condillac/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/condillac/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/condillac/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/condillac/#Rel)
 
 ---
 

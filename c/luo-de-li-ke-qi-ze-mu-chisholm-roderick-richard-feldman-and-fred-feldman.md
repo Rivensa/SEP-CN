@@ -4,25 +4,7 @@ _首次发表于 2008 年 12 月 8 日星期一；实质性修订于 2023 年 10
 
 罗德里克·奇泽姆被广泛认为是 20 世纪最具创造力、多产和有影响力的美国哲学家之一。奇泽姆从事认识论、形而上学、伦理学、语言哲学、心灵哲学等领域的研究。他的工作构成了一个宏大的哲学体系，有点类似于莱布尼茨或笛卡尔的风格。奇泽姆不断完善自己的观点，有时甚至彻底修改。他是一位多产的作家。他在\[LLP]中的著作目录包括 320 项引用，其中包括期刊文章、评论和书籍。他在认识论方面的工作单独来看可能已经足以确立他作为美国哲学界杰出人物的地位。然而，他在形而上学和伦理学的几个领域也做出了重要贡献。因此，在简短的文章中要全面介绍奇泽姆的体系是不可能的。因此，在本文中，我们尝试呈现的只是对奇泽姆最独特和重要观点的简要描述。我们并不声称在任何领域呈现他的“最终、权威观点”。我们也不讨论关于他观点的批判性二手文献。
 
-* [1. 传记](https://plato.stanford.edu/entries/chisholm/#Bio)
-* [2. 哲学方法](https://plato.stanford.edu/entries/chisholm/#PhiMet)
-* [3. 认识论 I — 认识论术语、原则、基础主义](https://plato.stanford.edu/entries/chisholm/#EpiIEpiTerPriFou)
-* [4. 知识论 II — 其他知识论信条.](https://plato.stanford.edu/entries/chisholm/#EpiIIOthEpiDoc)
-* [5. 形而上学 I — 人的本质](https://plato.stanford.edu/entries/chisholm/#MetINatPer)
-* [6. Metaphysics II — Agency and the Free Will Problem](https://plato.stanford.edu/entries/chisholm/#MetIIAgeFreWilPro)
-* [7. Metaphysics III — The Ontology of Events, States of Affairs, and Facts](https://plato.stanford.edu/entries/chisholm/#MetIIIOntEveStaAffFac)
-* [8. 形而上学 IV — 布伦塔诺的命题](https://plato.stanford.edu/entries/chisholm/#MetIVBreThe)
-* [9. 形而上学 V — “奇泽姆的悖论”](https://plato.stanford.edu/entries/chisholm/#MetVChiPar)
-* [10. 伦理学 I — 内在价值，战胜，神辩](https://plato.stanford.edu/entries/chisholm/#EthIIntValDefThe)
-* [11. 伦理学 II — 违背义务的命令](https://plato.stanford.edu/entries/chisholm/#EthIIConDutImp)
-* [12. Ethics III — The Ethics of Requirement](https://plato.stanford.edu/entries/chisholm/#EthIIIEthReq)
-* [13. Evolution and Criticism of Chisholm’s Views](https://plato.stanford.edu/entries/chisholm/#EvoCriChiVie)
-* [参考文献](https://plato.stanford.edu/entries/chisholm/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/chisholm/#PriLit)
-* [次级文献](https://plato.stanford.edu/entries/chisholm/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/chisholm/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/chisholm/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/chisholm/#Rel)
+
 
 ***
 

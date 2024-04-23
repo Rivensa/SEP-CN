@@ -10,22 +10,6 @@
 
 辩论中涉及的重要部分是神迹行为与造物行为之间的关系。持续创造理论者可能会拒绝将创造与保护区分开来，因为这样做是试图将神的特权归因于被创造的事物。另一方面，那些支持区分的人可能会认为持续创造理论是（借用一句话）“那些高尚的哲学贬低上帝作品的理论，伪装成对上帝个人的赞美”（van Inwagen 1988, 46 n4）。这场辩论还引发了一系列有趣的关于因果关系、时间及其关系的问题。
 
-* [1. 关于神圣保护的区分性论题](https://plato.stanford.edu/entries/creation-conservation/#DisTheDivCon)
-* [2. 作为持续创造的保护论据](https://plato.stanford.edu/entries/creation-conservation/#ArgConsConCre)
-
-  * [2.1 来自神圣的非时间性](https://plato.stanford.edu/entries/creation-conservation/#DivAtemp)
-  * [2.2 来自区分的多余](https://plato.stanford.edu/entries/creation-conservation/#SuperfDis)
-  * [2.3 从被创造事物无法维持自身存在性](https://plato.stanford.edu/entries/creation-conservation/#InabCreSus)
-* [3. 创造与保全之间的区别的论据](https://plato.stanford.edu/entries/creation-conservation/#ArgDisCreCon)
-
-  * [3.1 从次要因果关系](https://plato.stanford.edu/entries/creation-conservation/#SecCau)
-  * [3.2 从被创造事物的持久性](https://plato.stanford.edu/entries/creation-conservation/#PerCreThi)
-  * [3.3 从时间的本质](https://plato.stanford.edu/entries/creation-conservation/#NatTime)
-  * [3.4 从因果关系的差异和发生时间](https://plato.stanford.edu/entries/creation-conservation/#DifCauPat)
-* [ 参考文献](https://plato.stanford.edu/entries/creation-conservation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/creation-conservation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/creation-conservation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/creation-conservation/#Rel)
 
 ---
 

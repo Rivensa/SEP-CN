@@ -10,28 +10,6 @@
 
 在接下来的内容中，根据一个相对标准的分类（参见 Earman 和 Salmon 1992；Norton 2005），概述了确认理论的主要方法：实例确认（第 1 节），假设演绎法及其变体（第 2 节），以及概率（贝叶斯）方法（第 3 节）。
 
-* [实例的确认](https://plato.stanford.edu/entries/confirmation/#ConIns)
-
-  * [ 1.1 亨普尔（Hempel）的理论](https://plato.stanford.edu/entries/confirmation/#HemThe)
-  * [1.2 两个悖论和其他困难](https://plato.stanford.edu/entries/confirmation/#TwoParOthDif)
-* [假设演绎法](https://plato.stanford.edu/entries/confirmation/#HypDed)
-
-  * [2.1 HD 与 Hempel 式确认](https://plato.stanford.edu/entries/confirmation/#HDVsHemCon)
-  * [2.2 回到黑色（乌鸦）](https://plato.stanford.edu/entries/confirmation/#BacBlaRav)
-  * [2.3 不确定性和杜埃姆挑战](https://plato.stanford.edu/entries/confirmation/#UndDuhCha)
-  * [2.4 扩展的高清菜单](https://plato.stanford.edu/entries/confirmation/#ExtHDMen)
-* [3. 贝叶斯确认理论](https://plato.stanford.edu/entries/confirmation/#BayConThe)
-
-  * [3.1 概率确认作为确定性。](https://plato.stanford.edu/entries/confirmation/#ProConFir)
-  * [3.2 坚定的优势和不足](https://plato.stanford.edu/entries/confirmation/#StrInfFir)
-  * [3.3 概率相关性确认](https://plato.stanford.edu/entries/confirmation/#ProRelCon)
-  * [3.4 差异、比率和部分蕴涵](https://plato.stanford.edu/entries/confirmation/#DifRatParEnt)
-  * [3.5 新证据、旧证据和总证据](https://plato.stanford.edu/entries/confirmation/#NewEviOldEviTotEvi)
-  * [3.6 概率化的悖论和其他阐释](https://plato.stanford.edu/entries/confirmation/#ParProOthElu)
-* [ 参考文献](https://plato.stanford.edu/entries/confirmation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/confirmation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/confirmation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/confirmation/#Rel)
 
 ---
 

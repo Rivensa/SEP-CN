@@ -20,28 +20,6 @@ _首次发布于 2015 年 10 月 27 日星期二；实质性修订于 2019 年 8
 
 到目前为止所说的一切并不是要表明学习中国语言和早期思想只适合对古典感兴趣和语言勇敢的人。在过去半个世纪里，古典中国研究领域已经蓬勃发展，其广度和深度足以让非专家以敏感和理解的方式阅读中国哲学文本的翻译。主要和次要文本的翻译以及对其哲学评论的增多，伴随着多样化的解经取向，文学、历史、宗教等研究也在不断增长，共同缩小了东方神秘性的范围几乎到了消失点。例如，仅英文版《道德经》就有 150 多个翻译版本，而有关儒家《论语》的十几种不同译本如今在处理中国思想的课程中常见。因此，材料的匮乏不再能成为不在本科课程中包含古典中国哲学文本的借口，或者在当前专业圈中进行的几种哲学讨论中。对语言运作的一些基础知识也对读者在学术研究和/或参与这些讨论中有所帮助，至少可以帮助他们理解和分析为什么中国哲学文本的翻译和解释会有所不同——有时在重要方面，从而使他们能够自行评估自己在主题阅读中的看法。这也可能有助于从略微不同的角度看待语言学、心灵学或形而上学中的一些当代问题，出于这些原因，这篇文章也可能以某种方式作为该领域的“最新技术”论文。
 
-* [1. 古典汉语：它传达什么，如何传达，为什么传达它传达的内容？](https://plato.stanford.edu/entries/chinese-translate-interpret/#ClaChiLanWhaHowWhyDoeItConWhaItCon)
-* [1.1 汉字](https://plato.stanford.edu/entries/chinese-translate-interpret/#ChiCha)
-* [1.2 关于古典汉语的句法](https://plato.stanford.edu/entries/chinese-translate-interpret/#SynClaChi)
-* [1.3 关于汉字语义学](https://plato.stanford.edu/entries/chinese-translate-interpret/#SemChiCha)
-* [2. 形而上学问题](https://plato.stanford.edu/entries/chinese-translate-interpret/#MepIss)
-* [2.1 机器能在中文房间里思考吗？](https://plato.stanford.edu/entries/chinese-translate-interpret/#MacThiChiRoo)
-* [2.2 对概念方案的截然不同看法](https://plato.stanford.edu/entries/chinese-translate-interpret/#VerDifIdeConSch)
-* [2.3 语言学相对性假设](https://plato.stanford.edu/entries/chinese-translate-interpret/#HypRelLin)
-* [3. 为什么审视中国哲学文本？](https://plato.stanford.edu/entries/chinese-translate-interpret/#WhyIntChiPhiTex)
-* [3.1 简介](https://plato.stanford.edu/entries/chinese-translate-interpret/#Int)
-* [3.2 比较方法](https://plato.stanford.edu/entries/chinese-translate-interpret/#ComApp)
-* [3.3 对比方法](https://plato.stanford.edu/entries/chinese-translate-interpret/#ConApp)
-* [3.4 中国方法](https://plato.stanford.edu/entries/chinese-translate-interpret/#ChiApp)
-* [4. 方法论问题](https://plato.stanford.edu/entries/chinese-translate-interpret/#MetIss)
-* [4.1 关于文化和哲学的概括](https://plato.stanford.edu/entries/chinese-translate-interpret/#GenCulPhi)
-* [4.2 翻译真相](https://plato.stanford.edu/entries/chinese-translate-interpret/#TraTru)
-* [4.3 翻译沉默的声音](https://plato.stanford.edu/entries/chinese-translate-interpret/#TraSouSil)
-* [参考文献](https://plato.stanford.edu/entries/chinese-translate-interpret/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/chinese-translate-interpret/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/chinese-translate-interpret/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/chinese-translate-interpret/#Rel)
-
 ***
 
 ## 1. 古典汉语：它传达什么，如何传达，以及为什么传达它传达的内容？

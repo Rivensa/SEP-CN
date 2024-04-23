@@ -4,19 +4,7 @@ _首次发表于 2002 年 12 月 18 日星期三；实质性修订于 2020 年 2
 
 变化在我们的生活中是如此普遍，以至于几乎无法描述和分析。可以用一种非常普遍的方式来思考它，即变更。但是，一件事物的变更引发了微妙的问题。其中一个最令人困惑的问题是变化的一致性问题：一个事物如何具有不兼容的属性，却仍然保持相同的事物？有人认为变化是一个连贯的过程，并且由时间的存在来实现。其他人认为理解变化的唯一方法是将其视为不一致性。本文概述了这一问题及相关问题的历史，并得出结论：将变化视为不一致性的论点并非那么容易被轻易摒弃。
 
-* [1. 引言](https://plato.stanford.edu/entries/change/#Int)
-* [2. 变化, 原因, 时间, 运动](https://plato.stanford.edu/entries/change/#ChaCauTimMot)
-* [3. 否认变化](https://plato.stanford.edu/entries/change/#DenCha)
-* [4. 变化的瞬间](https://plato.stanford.edu/entries/change/#InsCha)
-* [5. 一致和不一致的变化](https://plato.stanford.edu/entries/change/#ConIncCha)
-* [6. 不一致的运动](https://plato.stanford.edu/entries/change/#IncMot)
-* [7. 不连续的变化和莱布尼茨连续条件](https://plato.stanford.edu/entries/change/#DisChaLeiConCon)
-* [8. 运动的认知](https://plato.stanford.edu/entries/change/#CogMot)
-* [9. 结论](https://plato.stanford.edu/entries/change/#Con)
-* [参考文献](https://plato.stanford.edu/entries/change/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/change/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/change/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/change/#Rel)
+
 
 ***
 

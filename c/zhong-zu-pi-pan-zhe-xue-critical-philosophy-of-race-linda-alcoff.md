@@ -8,42 +8,6 @@
 
 批判种族哲学所关注的主要问题涉及种族的社会和历史构建，种族主义文化的结构性和系统性特征，种族对自我形成的重要性，种族与阶级以及其他身份类别的相互构成，以及如何评估现代哲学的现有经典问题。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/critical-phil-race/#Intr)
-
-  * [1.1 批判法律研究](https://plato.stanford.edu/entries/critical-phil-race/#CritLegaStud)
-  * [1.2 批判种族理论](https://plato.stanford.edu/entries/critical-phil-race/#CritRaceTheo)
-  * [1.3 批判种族理论的哲学影响](https://plato.stanford.edu/entries/critical-phil-race/#PhilInflCPR)
-* [2. 种族和种族主义的现象学](https://plato.stanford.edu/entries/critical-phil-race/#PhenRaceRaci)
-
-  * [ 2.1 多重种族主义](https://plato.stanford.edu/entries/critical-phil-race/#MultRaci)
-  * [2.2 现象学修订](https://plato.stanford.edu/entries/critical-phil-race/#ReviPhen)
-* [3. 种族身份的构建](https://plato.stanford.edu/entries/critical-phil-race/#ConsRaciIden)
-
-  * [3.1 种族与自我](https://plato.stanford.edu/entries/critical-phil-race/#RaceSelf)
-  * [3.2 种族的社会建构](https://plato.stanford.edu/entries/critical-phil-race/#SociConsRace)
-  * [3.3 种族的历史建构](https://plato.stanford.edu/entries/critical-phil-race/#HistConsRace)
-  * [3.4 种族的文化建构](https://plato.stanford.edu/entries/critical-phil-race/#CultConsRace)
-  * [3.5 种族身份和白人身份](https://plato.stanford.edu/entries/critical-phil-race/#RaciIdenWhit)
-  * [ 3.6 未来方向](https://plato.stanford.edu/entries/critical-phil-race/#FutuDire)
-* [4. 原因问题：资本主义还是文化](https://plato.stanford.edu/entries/critical-phil-race/#QuesCausCapiCult)
-
-  * [4.1 种族与阶级](https://plato.stanford.edu/entries/critical-phil-race/#RaceClas)
-  * [ 4.2 种族主义文化](https://plato.stanford.edu/entries/critical-phil-race/#RaciCult)
-  * [4.3 种族主义社会科学](https://plato.stanford.edu/entries/critical-phil-race/#RaciSociScie)
-  * [4.4 有色女性的种族主义构建](https://plato.stanford.edu/entries/critical-phil-race/#RaciConsWomeColo)
-* [5. 重建哲学史](https://plato.stanford.edu/entries/critical-phil-race/#RecoHistPhil)
-
-  * [5.1. 以不同方式进行哲学](https://plato.stanford.edu/entries/critical-phil-race/#DoinPhilDiff)
-  * [5.2. 情境化的启示](https://plato.stanford.edu/entries/critical-phil-race/#ReveCont)
-  * [5.3. 质疑‘现代性’本身](https://plato.stanford.edu/entries/critical-phil-race/#QuesModeItse)
-* [ 参考书目](https://plato.stanford.edu/entries/critical-phil-race/#Bib)
-
-  * [ 引用的作品](https://plato.stanford.edu/entries/critical-phil-race/#WorkCite)
-  * [ 其他重要作品](https://plato.stanford.edu/entries/critical-phil-race/#OtheImpoWork)
-* [ 学术工具](https://plato.stanford.edu/entries/critical-phil-race/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/critical-phil-race/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/critical-phil-race/#Rel)
-
 ---
 
 ## 1. 介绍

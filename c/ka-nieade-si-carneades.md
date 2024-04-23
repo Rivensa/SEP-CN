@@ -4,18 +4,7 @@ _首次发表于 2004 年 8 月 11 日星期三；实质性修订于 2020 年 7 
 
 卡尔纳德 (公元前 214 年至公元前 129/8 年) 是柏拉图创立的哲学学派学院的成员，最终成为学派领袖或首领，在学派的怀疑阶段担任要职。根据古代传统，他被认为是创建新学派或第三学派的人，并在认识论上捍卫一种概率论形式。
 
-* [1. 生平与工作](https://plato.stanford.edu/entries/carneades/#LifeWork)
-* [2. 认识论和学术怀疑](https://plato.stanford.edu/entries/carneades/#EpisAcadSkep)
-* [2.1 学术怀疑](https://plato.stanford.edu/entries/carneades/#AcadSkep)
-* [2.2 概率主义](https://plato.stanford.edu/entries/carneades/#Prob)
-* [3. 伦理学](https://plato.stanford.edu/entries/carneades/#Ethi)
-* [4. 其他兴趣](https://plato.stanford.edu/entries/carneades/#OtheInte)
-* [4.1 命运和自愿行为](https://plato.stanford.edu/entries/carneades/#FateVoluActi)
-* [4.2 神学](https://plato.stanford.edu/entries/carneades/#Theo)
-* [参考文献](https://plato.stanford.edu/entries/carneades/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/carneades/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/carneades/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/carneades/#Rel)
+
 
 ***
 

@@ -6,28 +6,6 @@
 
 这种明显的直觉把对错分辨开来的能力的范围和性质是什么？良心是否会犯错，如果会，它的规范仍然有效吗？解决这些以及其他问题的最佳方式是采用发展性方法。术语“良心”仍然通常用来指代一种与生俱来的道德感，但今天它的内涵与中世纪时期略有不同，而中世纪的内涵又与前文化时代和《圣经》中的内涵有所不同。然而，中世纪关于良心的理论在很大程度上借鉴了这些早期来源。由于良心和良知的概念随着时间的推移而演变，因此，有必要对这一主题采取线性方法，并从一些背景开始。
 
-* [背景：异教徒和早期基督教背景](https://plato.stanford.edu/entries/conscience-medieval/#BackPagaEarlChriCont)
-
-  * [1.1 古代背景：司法良心](https://plato.stanford.edu/entries/conscience-medieval/#AnciContJudiCons)
-  * [1.2 圣保罗：立法良心](https://plato.stanford.edu/entries/conscience-medieval/#StPaulLegiCons)
-  * [1.3 圣杰罗姆：良心的发明](https://plato.stanford.edu/entries/conscience-medieval/#StJeroInveSynd)
-* [早期学院传统](https://plato.stanford.edu/entries/conscience-medieval/#EarlSchoTrad)
-
-  * [2.1 彼得·隆巴尔德：辩论的经院起源](https://plato.stanford.edu/entries/conscience-medieval/#PeteLombSchoOrigDeba)
-  * [2.2 史蒂芬·兰顿：良心及其属性](https://plato.stanford.edu/entries/conscience-medieval/#StepLangSyndProp)
-  * [2.3 菲利普·钱塞勒：对良心和良知的首次系统性论述](https://plato.stanford.edu/entries/conscience-medieval/#PhilChanFirsSystTreaSyndCons)
-* [后期学院传统](https://plato.stanford.edu/entries/conscience-medieval/#LateSchoTrad)
-
-  * [3.1 圣文生：良心作为认知/合理性作为情感](https://plato.stanford.edu/entries/conscience-medieval/#StBonaConsCognAffe)
-  * [3.2 圣托马斯·阿奎那：Synderesis 和良心作为认知](https://plato.stanford.edu/entries/conscience-medieval/#StThomAquiSyndConsCogn)
-  * [3.3 奥卡姆的威廉：对良心和良知理解的新方向](https://plato.stanford.edu/entries/conscience-medieval/#WillOckhNewDireUndeSyndCons)
-* [ 参考文献](https://plato.stanford.edu/entries/conscience-medieval/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/conscience-medieval/#PrimSour)
-  * [ 次级来源](https://plato.stanford.edu/entries/conscience-medieval/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/conscience-medieval/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/conscience-medieval/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/conscience-medieval/#Rel)
 
 ---
 

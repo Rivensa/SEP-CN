@@ -6,31 +6,7 @@ _首次发表于 2015 年 10 月 26 日星期一；实质性修订于 2020 年 1
 
 在古典时期，至少在神学和哲学发展方面是分开的。事实上，与中世纪拉丁西方哲学作为神学侍女的从属地位相比，哲学在这一时期独立于神学的情况引人注目。然而，神学和哲学之间的辩论促进了这两种传统的发展。
 
-* [1. ](https://plato.stanford.edu/entries/arabic-islamic-causation/#KalDeb)​\*[卡拉姆](https://plato.stanford.edu/entries/arabic-islamic-causation/#KalDeb)\*​[ 辩论](https://plato.stanford.edu/entries/arabic-islamic-causation/#KalDeb)
-* [1.1 穆塔齐拉神学中的神圣公正与人类自由](https://plato.stanford.edu/entries/arabic-islamic-causation/#DivJusHumFreMutThe)
-* [1.2 阿什'阿里和他的追随者中的神圣全能和偶发论](https://plato.stanford.edu/entries/arabic-islamic-causation/#DivOmnOccAshAndFol)
-* [2. 亚里士多德因果关系](https://plato.stanford.edu/entries/arabic-islamic-causation/#AriCau)
-* [2.1 亚里士多德的四因在阿拉伯语](https://plato.stanford.edu/entries/arabic-islamic-causation/#AriFouCauAraFal)​\*[falsafah](https://plato.stanford.edu/entries/arabic-islamic-causation/#AriFouCauAraFal)\*
-* [2.2 有效因果关系](https://plato.stanford.edu/entries/arabic-islamic-causation/#EffCau)
-* [2.2.1 阿尔-坎迪](https://plato.stanford.edu/entries/arabic-islamic-causation/#AlKin)
-* [2.2.2 亚里士多德](https://plato.stanford.edu/entries/arabic-islamic-causation/#Avi)
-* [2.2.3 阿维森娜之后](https://plato.stanford.edu/entries/arabic-islamic-causation/#AftAvi)
-* [2.3 最终因果](https://plato.stanford.edu/entries/arabic-islamic-causation/#FinCau)
-* [3. 模态性和因果关系](https://plato.stanford.edu/entries/arabic-islamic-causation/#ModCauRel)
-* [3.1 亚里士多德的必然性命题](https://plato.stanford.edu/entries/arabic-islamic-causation/#AviNecThe)
-* [3.2 阿尔加扎利的“无必然联系”论证](https://plato.stanford.edu/entries/arabic-islamic-causation/#AlGhaNoNecConArg)
-* [3.3 亚里士多德关于自然中因果必然性的看法](https://plato.stanford.edu/entries/arabic-islamic-causation/#AveCauNecNat)
-* [3.4 有争议的原则](https://plato.stanford.edu/entries/arabic-islamic-causation/#DisPri)
-* [4. 因果力知识](https://plato.stanford.edu/entries/arabic-islamic-causation/#KnoCauPow)
-* [4.1 阿维森纳论归纳和经验](https://plato.stanford.edu/entries/arabic-islamic-causation/#AviIndExp)
-* [4.2 阿尔-加扎利的怀疑论证](https://plato.stanford.edu/entries/arabic-islamic-causation/#AlGhaSkeArg)
-* [4.3 阿维森的自然科学论证](https://plato.stanford.edu/entries/arabic-islamic-causation/#AveArgNatSci)
-* [参考文献](https://plato.stanford.edu/entries/arabic-islamic-causation/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/arabic-islamic-causation/#PriLit)
-* [次要文献](https://plato.stanford.edu/entries/arabic-islamic-causation/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/arabic-islamic-causation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/arabic-islamic-causation/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/arabic-islamic-causation/#Rel)
+
 
 ***
 

@@ -6,29 +6,6 @@
 
 结果理论在 14 世纪才明确获得自主地位，当时开始出现专门讨论结果概念的专著；但一些更早的研究也因其广度、复杂性和系统性而值得被称为“结果理论”。总体而言，中世纪的结果理论代表了自斯多嘉学派以来对采用句子/命题视角的首次持续尝试，而与几乎没有历史影响的斯多嘉逻辑不同，中世纪的结果理论为导致 19 世纪现代逻辑诞生的后续发展提供了历史背景。事实上，可以说中世纪的 consequentia 概念（以其不同版本）是现代逻辑推理概念的主要前身。
 
-* [1. 初步考虑](https://plato.stanford.edu/entries/consequence-medieval/#PreCon)
-
-  * [1.1 现代结果概念的系谱](https://plato.stanford.edu/entries/consequence-medieval/#GenModConCon)
-  * [1.2 中世纪结果理论的理论是什么？](https://plato.stanford.edu/entries/consequence-medieval/#WhaMedTheConThe)
-* [早期的结果理论](https://plato.stanford.edu/entries/consequence-medieval/#EarTheCon)
-
-  * [ 2.1 前导](https://plato.stanford.edu/entries/consequence-medieval/#Pre)
-  * [ 2.2 阿贝拉尔](https://plato.stanford.edu/entries/consequence-medieval/#Abe)
-  * [ 2.3 13 世纪](https://plato.stanford.edu/entries/consequence-medieval/#13tCen)
-* [14 世纪的结果理论](https://plato.stanford.edu/entries/consequence-medieval/#14tCenTheCon)
-
-  * [14 世纪关于结果的论著的出现](https://plato.stanford.edu/entries/consequence-medieval/#EmeTreCon14tCen)
-  * [3.2 伯利和奥卡姆](https://plato.stanford.edu/entries/consequence-medieval/#BurOck)
-  * [3.3 布里丹和巴黎传统](https://plato.stanford.edu/entries/consequence-medieval/#BurParTra)
-  * [3.4 英国学派](https://plato.stanford.edu/entries/consequence-medieval/#BriSch)
-* [ 4. 结论](https://plato.stanford.edu/entries/consequence-medieval/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/consequence-medieval/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/consequence-medieval/#PriLit)
-  * [ 次级文献](https://plato.stanford.edu/entries/consequence-medieval/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/consequence-medieval/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/consequence-medieval/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/consequence-medieval/#Rel)
 
 ---
 

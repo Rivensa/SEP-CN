@@ -8,22 +8,6 @@ _首次发布于 2023 年 7 月 10 日_
 
 在西方讨论中国心灵理论时经常出现的持久问题涉及其对个人和世界的核心性。正如下文所讨论的，中国哲学传统中对心灵的不同概念在身体的角色（《孟子》和《荀子》）、知识和技能或工艺（《墨子》）以及与其他自然生物的关系（《道德经》和《庄子》）的描述中激发了重要区别。
 
-* [1. 古典中国哲学中心与身体的本体论关系](https://plato.stanford.edu/entries/chinese-mind/#HearMindOntoRelaBodyClasChinPhil)
-* [1.1 心与身体关系的整体性解释](https://plato.stanford.edu/entries/chinese-mind/#HoliInteRelaBetwHearMindBody)
-* [1.2 整体性解释的批判性讨论](https://plato.stanford.edu/entries/chinese-mind/#CritDiscHoliInte)
-* [2. 人的规范概念](https://plato.stanford.edu/entries/chinese-mind/#NormConcPers)
-* [2.1 《论语》](https://plato.stanford.edu/entries/chinese-mind/#Anal)
-* [2.2 墨家](https://plato.stanford.edu/entries/chinese-mind/#Mohi)
-* [2.3 道德经](https://plato.stanford.edu/entries/chinese-mind/#Daod)
-* [2.4 孟子](https://plato.stanford.edu/entries/chinese-mind/)
-* [2.5 庄子](https://plato.stanford.edu/entries/chinese-mind/#Zhua)
-* [2.6 心](https://plato.stanford.edu/entries/chinese-mind/#Xunz)
-* [参考文献](https://plato.stanford.edu/entries/chinese-mind/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/chinese-mind/#PrimSour)
-* [次级来源](https://plato.stanford.edu/entries/chinese-mind/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/chinese-mind/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/chinese-mind/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/chinese-mind/#Rel)
 
 ***
 

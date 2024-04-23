@@ -6,28 +6,6 @@ _首次发表于 2011 年 4 月 14 日星期四；实质性修订于 2020 年 12
 
 在哲学领域，可行能力方法已被应用于发展伦理学、政治哲学、公共卫生伦理学、环境伦理学和气候正义以及教育哲学等多个概念和规范性理论的发展。可行能力文献的蓬勃发展引发了关于它是何种框架（第 1 节）；其核心概念应如何定义（第 2 节）；如何进一步为特定目的加以具体化（第 3 节）；需要什么来将可行能力方法发展为社会正义的阐述（第 4 节）；它与非西方哲学的关系如何（第 5 节）；以及如何能够并已经在实践中应用（第 6 节）的问题。
 
-* [1. 为什么选择可行能力](https://plato.stanford.edu/entries/capability-approach/#WhytheCap)
-* [1.1 背景：对其他观点的批判](https://plato.stanford.edu/entries/capability-approach/#Background)
-* [1.2 可行能力框架还是可行能力理论？](https://plato.stanford.edu/entries/capability-approach/#FrameOrTheo)
-* [2. 可行能力的核心概念和承诺](https://plato.stanford.edu/entries/capability-approach/#CoreConAndComm)
-* [2.1 功能和能力作为行为和存在](https://plato.stanford.edu/entries/capability-approach/#FuncCapDoBe)
-* [2.2](https://plato.stanford.edu/entries/capability-approach/#MetForIntCom) [能力作为真实自由](https://plato.stanford.edu/entries/capability-approach/#CapsRealFree)
-* [2.3 转换因素](https://plato.stanford.edu/entries/capability-approach/#ConFac)
-* [2.4 手段-目的区分](https://plato.stanford.edu/entries/capability-approach/#MeaEndDis)
-* [2.5 确认人类多样性和代理能力](https://plato.stanford.edu/entries/capability-approach/#AckHumDiv)
-* [2.6 人际比较的度量标准](https://plato.stanford.edu/entries/capability-approach/#MetForIntCom)
-* [3. 确定可行能力](https://plato.stanford.edu/entries/capability-approach/#SpeCapApp)
-* [3.1 目的和应用](https://plato.stanford.edu/entries/capability-approach/#PurAndApp)
-* [3.2 可行能力或功能？](https://plato.stanford.edu/entries/capability-approach/#FuncOrCap)
-* [3.3 选择和聚合能力？](https://plato.stanford.edu/entries/capability-approach/#SelAggCap)
-* [3.4 附加承诺](https://plato.stanford.edu/entries/capability-approach/#AddComm)
-* [4. 正义的可行能力理论的可能性](https://plato.stanford.edu/entries/capability-approach/#TheoCap)
-* [5. 可行能力和非西方哲学](https://plato.stanford.edu/entries/capability-approach/#NonWestPhil)
-* [6. 可行能力的哲学应用](https://plato.stanford.edu/entries/capability-approach/#PhilApp)
-* [参考文献](https://plato.stanford.edu/entries/capability-approach/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/capability-approach/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/capability-approach/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/capability-approach/#Rel)
 
 ***
 

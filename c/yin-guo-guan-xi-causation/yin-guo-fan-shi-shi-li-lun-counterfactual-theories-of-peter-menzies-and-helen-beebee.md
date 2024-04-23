@@ -4,27 +4,6 @@ _首次发表于 2001 年 1 月 10 日星期三；实质性修订于 2019 年 10
 
 因果反事实理论的基本思想是，因果性断言的含义可以用“如果_A_没有发生，_C_就不会发生”这种形式的反事实条件句来解释。大多数反事实分析都集中在“事件_c_导致事件\*e”的形式的断言上，描述‘特定的’或‘标记的’或‘实际的’因果关系。自上世纪 70 年代可能世界语义学的发展以来，这类分析变得流行起来。最著名的因果反事实分析是大卫·刘易斯（1973b）的理论。然而，四十多年来的激烈讨论使人们对用反事实来简单分析特定因果关系的充分性产生了怀疑。近年来，基本思想已经出现了各种不同的改进；“结构方程”或“因果建模”框架目前是阐明因果关系和反事实关系的最流行方式。
 
-* [1.刘易斯 1973 年的反事实分析](https://plato.stanford.edu/entries/causation-counterfactual/#Lew197CouAna)
-* [1.1 因果反事实与因果依赖](https://plato.stanford.edu/entries/causation-counterfactual/#CouCauDep)
-* [1.2 因果依赖的时间不对称性](https://plato.stanford.edu/entries/causation-counterfactual/#TemAsyCauDep)
-* [1.3 可传递性和排他性](https://plato.stanford.edu/entries/causation-counterfactual/#TraPre)
-* [1.4 偶然因果](https://plato.stanford.edu/entries/causation-counterfactual/#ChaCau)
-* [2. Lewis 反事实理论的问题](https://plato.stanford.edu/entries/causation-counterfactual/#ProForLewCouThe)
-* [2.1 时间不对称性](https://plato.stanford.edu/entries/causation-counterfactual/#TemAsy)
-* [2.2 可传递性](https://plato.stanford.edu/entries/causation-counterfactual/#Tra)
-* [2.3 先占效应](https://plato.stanford.edu/entries/causation-counterfactual/#Pre)
-* [3. Lewis’s 2000 Theory](https://plato.stanford.edu/entries/causation-counterfactual/#Lew2000)
-* [4. Contextualism vs. Invariantism](https://plato.stanford.edu/entries/causation-counterfactual/#ConInv)
-* [5. 结构方程框架](https://plato.stanford.edu/entries/causation-counterfactual/#StrEquFra)
-* [5.1 SEF: 基本图景](https://plato.stanford.edu/entries/causation-counterfactual/#SEFBasPic)
-* [5.2 SEF and Counterfactuals](https://plato.stanford.edu/entries/causation-counterfactual/#SEFCountf)
-* [5.3 模型和现实](https://plato.stanford.edu/entries/causation-counterfactual/#ModsandRe)
-* [5.4 SEF and Chancy Causation](https://plato.stanford.edu/entries/causation-counterfactual/#SEFChaCau)
-* [5.5 Defaults and Deviants](https://plato.stanford.edu/entries/causation-counterfactual/#DefandDev)
-* [参考文献](https://plato.stanford.edu/entries/causation-counterfactual/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/causation-counterfactual/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/causation-counterfactual/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/causation-counterfactual/#Rel)
 
 ***
 

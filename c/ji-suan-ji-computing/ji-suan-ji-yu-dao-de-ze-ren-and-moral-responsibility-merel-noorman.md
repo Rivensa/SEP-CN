@@ -8,30 +8,7 @@
 
 本文首先将探讨计算机对传统道德责任观念提出的挑战。然后讨论各种作者如何应对这些挑战的两种不同方式：1）重新考虑道德代理的概念，2）重新思考道德责任本身的概念。
 
-* [对道德责任的挑战](https://plato.stanford.edu/entries/computing-responsibility/#ChaMorRes)
 
-  * [ 1.1 因果贡献](https://plato.stanford.edu/entries/computing-responsibility/#CauCon)
-  * [1.2 考虑后果](https://plato.stanford.edu/entries/computing-responsibility/#ConCon)
-  * [1.3 自由行动](https://plato.stanford.edu/entries/computing-responsibility/#FreAct)
-* [2. 计算机可以成为道德主体吗？](https://plato.stanford.edu/entries/computing-responsibility/#ComMorAge)
-
-  * [2.1 计算机作为道德负责任的代理者](https://plato.stanford.edu/entries/computing-responsibility/#ComMorResAge)
-  * [创建自主道德代理人。](https://plato.stanford.edu/entries/computing-responsibility/#CreAutMorAge)
-  * [扩展道德代理的概念](https://plato.stanford.edu/entries/computing-responsibility/#ExpConMorAge)
-* [重新思考道德责任的概念](https://plato.stanford.edu/entries/computing-responsibility/#RetConMorRes)
-
-  * [3.1 分配责任](https://plato.stanford.edu/entries/computing-responsibility/#AssResp)
-  * [3.2 责任作为实践](https://plato.stanford.edu/entries/computing-responsibility/#RespAsPrac)
-* [ 4. 结论](https://plato.stanford.edu/entries/computing-responsibility/#Concl)
-* [ 参考文献](https://plato.stanford.edu/entries/computing-responsibility/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/computing-responsibility/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/computing-responsibility/#Oth)
-
-  * [ 在线期刊](https://plato.stanford.edu/entries/computing-responsibility/#JouLin)
-  * [ 中心](https://plato.stanford.edu/entries/computing-responsibility/#Cen)
-  * [ 组织](https://plato.stanford.edu/entries/computing-responsibility/#Org)
-  * [ 博客](https://plato.stanford.edu/entries/computing-responsibility/#Blo)
-* [ 相关条目](https://plato.stanford.edu/entries/computing-responsibility/#Rel)
 
 ---
 

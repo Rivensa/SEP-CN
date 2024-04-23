@@ -17,49 +17,6 @@
 
 话虽如此，有许多形式的意识我们将不讨论。有些在其他条目中涵盖，比如分裂大脑现象（见统一意识条目，第 4.1.1 节），动物意识（见动物意识条目），以及意志和代理的神经对应（见代理条目，第 5 节）。此外，本条目将不讨论听觉、嗅觉或味觉中的意识神经科学；精神障碍如精神分裂症中的意识紊乱；快乐、痛苦和情绪的意识方面；思维的现象学；梦的神经基础；以及睡眠和麻醉期间意识的调节等其他问题。这些都是重要的主题，本讨论中强调的原则和方法将适用于其中许多领域。
 
-* [ 基础。](https://plato.stanford.edu/entries/consciousness-neuroscience/#Fund)
-
-  * [1.1 大脑的地图](https://plato.stanford.edu/entries/consciousness-neuroscience/#MapBrai)
-  * [1.2 神经元和大脑](https://plato.stanford.edu/entries/consciousness-neuroscience/#NeurBrai)
-  * [1.3 访问意识和现象意识](https://plato.stanford.edu/entries/consciousness-neuroscience/#AcceConsPhenCons)
-  * [1.4 通用意识与特定意识](https://plato.stanford.edu/entries/consciousness-neuroscience/#GeneSpecCons)
-  * [1.5 意识的难题](https://plato.stanford.edu/entries/consciousness-neuroscience/#HardProb)
-  * [1.6 意识的神经对应物](https://plato.stanford.edu/entries/consciousness-neuroscience/#NeurCorrCons)
-* [2. 追踪意识的方法](https://plato.stanford.edu/entries/consciousness-neuroscience/#MethForTracCons)
-
-  * [2.1 内省和报告](https://plato.stanford.edu/entries/consciousness-neuroscience/#IntrRepo)
-  * [2.2 访问作为现象意识的条件](https://plato.stanford.edu/entries/consciousness-neuroscience/#AcceCondPhenCons)
-  * [2.3 无报告范式](https://plato.stanford.edu/entries/consciousness-neuroscience/#NoRepoPara)
-  * [2.4 信心和元认知方法](https://plato.stanford.edu/entries/consciousness-neuroscience/#ConfMetaAppr)
-  * [2.5 意识行为推断](https://plato.stanford.edu/entries/consciousness-neuroscience/#InteActiInfe)
-  * [2.6 植物状态和有意行为推断](https://plato.stanford.edu/entries/consciousness-neuroscience/#VegeStatInteActiInfe)
-* [3. 意识的神经生物学理论](https://plato.stanford.edu/entries/consciousness-neuroscience/#NeurTheoCons)
-
-  * [3.1 全球神经元工作空间](https://plato.stanford.edu/entries/consciousness-neuroscience/#GlobNeurWork)
-  * [3.2 复发处理理论](https://plato.stanford.edu/entries/consciousness-neuroscience/#RecuProcTheo)
-  * [ 3.3 高阶理论](https://plato.stanford.edu/entries/consciousness-neuroscience/#HighOrdeTheo)
-  * [3.4 信息整合理论](https://plato.stanford.edu/entries/consciousness-neuroscience/#InfoInteTheo)
-  * [3.5 前额还是后部？](https://plato.stanford.edu/entries/consciousness-neuroscience/#FronPost)
-* [4. 意识的神经科学：无意识视觉作为案例研究](https://plato.stanford.edu/entries/consciousness-neuroscience/#NeurGeneConsUncoVisiCaseStud)
-
-  * [4.1 无意识视觉与两个视觉通道](https://plato.stanford.edu/entries/consciousness-neuroscience/#UncoVisiTwoVisuStre)
-  * [ 4.2 视盲 (Blindsight)](https://plato.stanford.edu/entries/consciousness-neuroscience/#Blin)
-  * [4.3 潜意识视觉和有意行为推断](https://plato.stanford.edu/entries/consciousness-neuroscience/#UncoVisiInteActiInfe)
-* [5. 具体意识](https://plato.stanford.edu/entries/consciousness-neuroscience/#SpecCons)
-
-  * [5.1 神经再现主义](https://plato.stanford.edu/entries/consciousness-neuroscience/#NeurRepr)
-  * [5.2 对比策略：双眼竞争](https://plato.stanford.edu/entries/consciousness-neuroscience/#ContStraBinoRiva)
-  * [5.3 神经刺激](https://plato.stanford.edu/entries/consciousness-neuroscience/#NeurStim)
-
-    * [5.3.1 视觉运动知觉](https://plato.stanford.edu/entries/consciousness-neuroscience/#VisuMotiPerc)
-    * [ 5.3.2 触觉振动](https://plato.stanford.edu/entries/consciousness-neuroscience/#TactVibr)
-    * [5.3.3 视觉词形](https://plato.stanford.edu/entries/consciousness-neuroscience/#VisuWordForm)
-  * [5.4 神经表征和概率编码](https://plato.stanford.edu/entries/consciousness-neuroscience/#NeurReprProbCodi)
-* [ 6. 未来](https://plato.stanford.edu/entries/consciousness-neuroscience/#Futu)
-* [ 参考文献](https://plato.stanford.edu/entries/consciousness-neuroscience/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/consciousness-neuroscience/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/consciousness-neuroscience/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/consciousness-neuroscience/#Rel)
 
 ---
 

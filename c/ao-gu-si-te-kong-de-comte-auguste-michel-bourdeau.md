@@ -7,26 +7,7 @@
 
 孔德最重要的著作包括：（1）《正面哲学课程》（1830-1842 年，六卷，由哈丽特·马丁诺翻译并压缩为《奥古斯特·孔德的正面哲学》）；（2）《正面政治体系，或社会学论文，建立人类宗教》（1851-1854 年，四卷）；以及（3）《早期著作》（1820-1829 年），在这些著作中可以看到圣西门的影响，孔德在 1817 年至 1824 年担任其秘书。《早期著作》仍然是了解孔德思想的最佳入门。在《课程》中，孔德说，科学被转化为哲学；在《体系》中，哲学被转化为宗教。第二次转变遭到强烈反对；因此，人们习惯于像米尔一样区分“好孔德”（《课程》的作者）和“坏孔德”（《体系》的作者）。今天对实证主义的普遍概念主要对应于《课程》中所述内容。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/comte/#Int)
-* [ 2. 传记](https://plato.stanford.edu/entries/comte/#Bio)
-* [3. 形成时期：与圣西门的合作与早期著作](https://plato.stanford.edu/entries/comte/#ForYeaColSaiSimEarWri)
-* [4. 《正面哲学课程》与密尔的友谊](https://plato.stanford.edu/entries/comte/#CouPosFriMil)
 
-  * [4.1 三阶段法则](https://plato.stanford.edu/entries/comte/#LawThrSta)
-  * [4.2 科学的分类和科学哲学](https://plato.stanford.edu/entries/comte/#ClaSciSci)
-  * [4.3 社会学及其双重地位](https://plato.stanford.edu/entries/comte/#SocDouSta)
-  * [4.4 康德和密尔](https://plato.stanford.edu/entries/comte/#ComMil)
-* [5. The System of Positive Polity and the Complete Positivism 《正积体系与完全实证主义》](https://plato.stanford.edu/entries/comte/#SysPosPolComPos)
-
-  * [5.1 心灵作为心的仆人](https://plato.stanford.edu/entries/comte/#MinSerHea)
-  * [ 5.2 积极政治](https://plato.stanford.edu/entries/comte/#PosPol)
-  * [5.3 人类的宗教](https://plato.stanford.edu/entries/comte/#RelHum)
-  * [5.4 伦理学与社会学](https://plato.stanford.edu/entries/comte/#EthSoc)
-* [ 6. 结论](https://plato.stanford.edu/entries/comte/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/comte/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/comte/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/comte/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/comte/#Rel)
 
 ---
 

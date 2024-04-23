@@ -4,34 +4,7 @@ _首次发表于 2007 年 9 月 6 日星期四；实质性修订于 2024 年 2 �
 
 由于约定的中心哲学任务是分析它们是什么以及它们如何不同于行动和认知的纯粹规律性。附带问题包括：约定是如何产生的？它们如何被维持？我们如何在不同约定之间进行选择？为什么应该遵守约定？约定是否提供某种社会利益？约定如何与规则、规范、习俗、实践、制度和社会契约等概念相关？除了其固有的兴趣外，约定之所以重要是因为哲学家在讨论其他主题时经常援引它。一个常见的哲学策略是争辩说，也许尽管表面上看起来不是这样，某些现象最终是由约定导致的。值得注意的候选对象包括：财产、政府、正义、法律、道德、语言意义、必然性、本体论、数学和逻辑。
 
-* [约定引发的问题](https://plato.stanford.edu/entries/convention/#IssuRaisConv)
-  * [1.1 社会惯例](https://plato.stanford.edu/entries/convention/#SociConv)
-  * [1.2 习俗主义](https://plato.stanford.edu/entries/convention/#Conv)
-* [2. 约定真理](https://plato.stanford.edu/entries/convention/#TrutConv)
-* [3. 分析社会惯例](https://plato.stanford.edu/entries/convention/#AnalSociConv)
-  * [3.1 休谟](https://plato.stanford.edu/entries/convention/#Hume)
-  * [3.2 路易斯](https://plato.stanford.edu/entries/convention/#Lewi)
-* [列维斯的批评反应](https://plato.stanford.edu/entries/convention/#CritReacLewi)
-  * [4.1 实际和法定的规律性](https://plato.stanford.edu/entries/convention/#ReguDeFactDeJure)
-  * [4.2 替代惯例？](https://plato.stanford.edu/entries/convention/#AlteConv)
-  * [4.3 二分法还是程度？](https://plato.stanford.edu/entries/convention/#DichDegr)
-  * [4.4 使用哪种均衡概念？](https://plato.stanford.edu/entries/convention/#WhicEquiConc)
-  * [4.5 惯例必须解决协调问题吗？](https://plato.stanford.edu/entries/convention/#MustConvSolvCoorProb)
-* [5. 平衡选择](https://plato.stanford.edu/entries/convention/#EquiSele)
-  * [5.1 突显性](https://plato.stanford.edu/entries/convention/#Sali)
-  * [5.2 动力学模型](https://plato.stanford.edu/entries/convention/#DynaMode)
-  * [5.3 实验方法](https://plato.stanford.edu/entries/convention/#ExpeMeth)
-* [6. 传统的替代治疗方法](https://plato.stanford.edu/entries/convention/#AlteTreaConv)
-  * [6.1 Gilbert：复数主语](https://plato.stanford.edu/entries/convention/#GilbPlurSubj)
-  * [6.2 米勒：集体目标](https://plato.stanford.edu/entries/convention/#MillCollEnds)
-  * [6.3 米利肯：由先例的重量维持的模式](https://plato.stanford.edu/entries/convention/#MillPattSustWeigPrec)
-* [7. 语言惯例](https://plato.stanford.edu/entries/convention/#ConvLang)
-  * [7.1 传统意义理论](https://plato.stanford.edu/entries/convention/#ConvTheoMean)
-  * [7.2 传统理论的反对意见](https://plato.stanford.edu/entries/convention/#ObjeConvTheo)
-* [参考文献](https://plato.stanford.edu/entries/convention/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/convention/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/convention/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/convention/#Rel)
+
 
 ***
 

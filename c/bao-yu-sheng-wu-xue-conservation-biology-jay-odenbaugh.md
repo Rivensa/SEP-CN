@@ -4,26 +4,6 @@
 
 保育生物学作为功利主义的一种概念化方式。一种概念化科学结构的方法是，在任何时候它包含本体论、理论和价值观（Kuhn 1962; Lakatos 1976; Laudan 1978, 1986）。在这篇文章中，我们探讨了与保育生物学相关的本体论、理论结构和价值观的问题。首先，作为一门学科，保育生物学在明确研究对象方面进行了大量的智力努力，并确定生物多样性是答案。然而，关于生物多样性是什么，以及它是否应该成为学科的核心，存在争论。其次，保育生物学虽然是一门科学学科，具有其理论、模型、实验和野外工作，但也利用了各种不符合上述类别的工具。也就是说，它的一些核心工具不是普通意义上的理论或模型。因此，作为一门学科，它显得有趣且独特，最终不同于科学哲学家通常研究的学科。第三，早期先驱者最初将保育生物学表述为一门“危机学科”，在这里某些类型的规范关注处于前沿。事实上，许多人将其比作医学，因为它具有伦理基础。在医学中，这将是患者的福祉，在保育生物学中则是生物多样性的保护。因此，我们应该问，该学科的目标或价值观是否明确是伦理的或社会政治的，以及它们在多大程度上具有争议？
 
-* [什么是生物多样性？](https://plato.stanford.edu/entries/conservation-biology/#WhatBiod)
-
-  * [1.1 生物多样性的多维性](https://plato.stanford.edu/entries/conservation-biology/#BiodMult)
-  * [1.2 生物多样性的运作化](https://plato.stanford.edu/entries/conservation-biology/#OperBiod)
-  * [1.3 消灭生物多样性](https://plato.stanford.edu/entries/conservation-biology/#ElimBiod)
-* [保育生物学是什么？](https://plato.stanford.edu/entries/conservation-biology/#WhatConsBiol)
-
-  * [2.1 北美斑点猫头鹰](https://plato.stanford.edu/entries/conservation-biology/#NortSpotOwls)
-  * [ 2.2 岛屿生物地理学](https://plato.stanford.edu/entries/conservation-biology/#IslaBiog)
-  * [系统性保护规划](https://plato.stanford.edu/entries/conservation-biology/#SystConsPlan)
-  * [保育生物学与科学哲学。](https://plato.stanford.edu/entries/conservation-biology/#ConsBiolScie)
-* [3. 保护生物学的目标是什么？](https://plato.stanford.edu/entries/conservation-biology/#WhatAimsConsBiol)
-
-  * [3.1 归纳风险和价值负担](https://plato.stanford.edu/entries/conservation-biology/#InduRiskValuLade)
-  * [3.2 “新保育主义”](https://plato.stanford.edu/entries/conservation-biology/#NewCons)
-* [ 4. 结论](https://plato.stanford.edu/entries/conservation-biology/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/conservation-biology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/conservation-biology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/conservation-biology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/conservation-biology/#Rel)
 
 ---
 

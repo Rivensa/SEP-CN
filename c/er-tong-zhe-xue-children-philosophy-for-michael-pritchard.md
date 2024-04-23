@@ -4,18 +4,6 @@ _首次发表于 2002 年 5 月 2 日星期四；实质性修订于 2022 年 5 �
 
 在美国，哲学通常在大学阶段正式进入课程。越来越多的高中为即将上大学的学生提供一些哲学导论，通常是在专门为大学生开设的文学课程中。在欧洲和许多其他国家，高中课程中更常见地出现哲学。然而，在全球范围内，高中之前的哲学教育似乎相对不太普遍。这可能表明，严肃的哲学思维并不适合青少年。至少有三个理由可以支持这种观点。首先，哲学思维需要一定程度的认知发展，人们可能认为，这超出了大多数青少年的能力范围。其次，特别是在美国，学校课程已经很繁重；引入哲学这样的学科可能会让学生分心，无法专注于他们需要学习的内容。第三，鉴于哲学探究引发的问题往往难以得出明确答案，这可能会鼓励学生成为怀疑论者而非学习者。然而，正如将要看到的，这些理由是可以被质疑的。
 
-* [1. 儿童能从事哲学吗？](https://plato.stanford.edu/entries/children/#ChiCapPhiThi)
-* [2. 拥挤课程中的哲学](https://plato.stanford.edu/entries/children/#CroCur)
-* [3. 儿童哲学推进研究所 (IAPC)](https://plato.stanford.edu/entries/children/#InsForAdvForChiIAP)
-* [4. 与他人一起进行哲学思考？](https://plato.stanford.edu/entries/children/#PhiOth)
-* [5. 今日儿童哲学](https://plato.stanford.edu/entries/children/#ForChiAroWor)
-* [参考文献](https://plato.stanford.edu/entries/children/#Bib)
-* [书籍和文章](https://plato.stanford.edu/entries/children/#BooArt)
-* [期刊](https://plato.stanford.edu/entries/children/#Per)
-* [学术工具](https://plato.stanford.edu/entries/children/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/children/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/children/#Rel)
-
 ***
 
 ## 1. 孩子能进行哲学思考吗？

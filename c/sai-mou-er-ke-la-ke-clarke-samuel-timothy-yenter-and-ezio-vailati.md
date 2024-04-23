@@ -8,30 +8,6 @@ Clarke 在与 Descartes 相对立的 Locke 和 Newton 一边，否认我们对�
 
 在接下来的内容中，我们使用“W”作为缩写，引用本杰明·霍德利（Benjamin Hoadly）遗作《_The Works_》中的段落。克拉克（Clarke）的主要作品有两个较新的版本更广泛地可获得，因此在这里也被引用：“D”指的是瓦拉蒂（Vailati，1998 年）所著《_上帝的存在和属性的证明及其他著作_》中的段落，“CC”指的是乌兹加利斯（Uzgalis，编辑，2011 年）所著《_塞缪尔·克拉克和安东尼·科林斯的通信_》中的段落。莱布尼茨-克拉克通信的参考资料（在许多印刷和在线版本中都有）包括以“L”代表莱布尼茨和“C”代表克拉克开头的信函和章节编号（例如，L 1.4 指的是莱布尼茨的第一封信，第四节）。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/clarke/#LifeWork)
-* [1.1 与莱布尼茨通信中的作者身份](https://plato.stanford.edu/entries/clarke/#AuthCorrLeib)
-* [2. 克拉克的主题](https://plato.stanford.edu/entries/clarke/#MajoThemClar)
-* [2.1 牛顿主义和反自然主义](https://plato.stanford.edu/entries/clarke/#NewtAntiNatu)
-* [2.2 理性主义](https://plato.stanford.edu/entries/clarke/#Rati)
-* [3. Metaphysics](https://plato.stanford.edu/entries/clarke/#Meta)
-* [3.1 绝对和无限的空间和时间](https://plato.stanford.edu/entries/clarke/#AbsoInfiSpacTime)
-* [3.2 自由意志](https://plato.stanford.edu/entries/clarke/#FreeWill)
-* [3.3 物质和自然法则](https://plato.stanford.edu/entries/clarke/#MattLawsNatu)
-* [3.4 公民](https://plato.stanford.edu/entries/clarke/#Soul)
-* [4. 哲学神学](https://plato.stanford.edu/entries/clarke/#PhilTheo)
-* [4.1 先验论证 ](https://plato.stanford.edu/entries/clarke/#ArguPrio)​\*[A Priori](https://plato.stanford.edu/entries/clarke/#ArguPrio)\*
-* [4.2 神、空间和时间](https://plato.stanford.edu/entries/clarke/#GodSpacTime)
-* [4.3 三位一体观](https://plato.stanford.edu/entries/clarke/#TrinView)
-* [4.4 奇迹](https://plato.stanford.edu/entries/clarke/#Mira)
-* [4.5 启示与四类自然神论](https://plato.stanford.edu/entries/clarke/#ReveFourCateDeis)
-* [5. 伦理学](https://plato.stanford.edu/entries/clarke/#Ethi)
-* [6. 影响和接受](https://plato.stanford.edu/entries/clarke/#InflRece)
-* [参考书目](https://plato.stanford.edu/entries/clarke/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/clarke/#PrimLite)
-* [次级文献](https://plato.stanford.edu/entries/clarke/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/clarke/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/clarke/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/clarke/#Rel)
 
 ***
 

@@ -4,30 +4,7 @@
 
 比较认知学是研究生命之树上认知的学科。非人类动物（以下简称动物）展示了广泛且常常令人惊讶的认知能力范围。凯亚（一种特有于新西兰的大鹦鹉物种）利用领域通用的统计推理解决问题（Bastos & Taylor 2020），欧亚松鸦被魔术戏法欺骗（Garcia-Pelegrin 等，2021），而大黄蜂可能具有意识（Gibbons 等，2022）。比较认知学领域的研究人员致力于理解导致动物行为的认知机制，包括它们的进化、发育和社会生态历史。比较认知学是一个跨学科领域，汇集了生态学、行为学、认知科学、发展心理学、进化生物学和神经科学等工具（Shettleworth 2009）。关于比较认知学方法的哲学文献也很丰富。哲学家们致力于回答诸如“展示动物具有因果推理需要什么证据？”和“我们如何避免在研究非人类思维时的人类中心主义？”如何最好地定义“认知”是一个有争议的领域（Allen 2017）。对于我们的目的，我们可以遵循 Sara Shettleworth 对认知的广义描述，即“动物从环境中获取、处理、存储和行动信息的机制”（2010a：4；另请参见动物认知条目）。
 
-* [进化、发展和文化](https://plato.stanford.edu/entries/comparative-cognition/#EvolDeveCult)
 
-  * [1.1 趋同进化](https://plato.stanford.edu/entries/comparative-cognition/#ConvEvol)
-  * [1.2 同源性与发育](https://plato.stanford.edu/entries/comparative-cognition/#HomoDeve)
-  * [ 1.3 文化](https://plato.stanford.edu/entries/comparative-cognition/#Cult)
-  * [1.4 野外和圈养中的认知](https://plato.stanford.edu/entries/comparative-cognition/#CognWildCapt)
-* [消除替代解释](https://plato.stanford.edu/entries/comparative-cognition/#ElimAlteExpl)
-
-  * [2.1 比较认知学中的零假设](https://plato.stanford.edu/entries/comparative-cognition/#NullHypoCompCogn)
-  * [2.2 认知和联想解释](https://plato.stanford.edu/entries/comparative-cognition/#CognAssoExpl)
-  * [2.3 认知价值观的作用](https://plato.stanford.edu/entries/comparative-cognition/#RoleEpisValu)
-  * [2.4 非认知价值的作用](https://plato.stanford.edu/entries/comparative-cognition/#RoleNonEpisValu)
-* [3. 方法论挑战](https://plato.stanford.edu/entries/comparative-cognition/#MethChal)
-
-  * [ 3.1 拟人主义](https://plato.stanford.edu/entries/comparative-cognition/#Anth)
-  * [ 3.2 人类中心主义](https://plato.stanford.edu/entries/comparative-cognition/#Anth_1)
-  * [ 3.3 欠决定性](https://plato.stanford.edu/entries/comparative-cognition/#Unde)
-  * [3.4 签名和维度](https://plato.stanford.edu/entries/comparative-cognition/#SignDime)
-  * [ 3.5 可重复性](https://plato.stanford.edu/entries/comparative-cognition/#Repr)
-* [4. Comparative Cognition as 比较认知学 和人工智能 (IGNORE)](https://plato.stanford.edu/entries/comparative-cognition/#CompCognAI)
-* [ 参考文献](https://plato.stanford.edu/entries/comparative-cognition/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/comparative-cognition/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/comparative-cognition/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/comparative-cognition/#Rel)
 
 ---
 

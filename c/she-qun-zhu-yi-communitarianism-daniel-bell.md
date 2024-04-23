@@ -8,13 +8,6 @@
 
 这篇论文因此分为三个部分，对于每个部分，我首先提出主要的社群主义主张，然后提出一个论点（在每个部分中），即 80 年代的哲学关注主要已经让位于最初激发社群主义批评的政治关注。
 
-* [1. 普遍主义与特殊主义](https://plato.stanford.edu/entries/communitarianism/#UniVerPar)
-* [自我之争](https://plato.stanford.edu/entries/communitarianism/#DebOveSel)
-* [社群的政治](https://plato.stanford.edu/entries/communitarianism/#PolCom)
-* [ 参考文献](https://plato.stanford.edu/entries/communitarianism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/communitarianism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/communitarianism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/communitarianism/#Rel)
 
 ---
 

@@ -4,24 +4,7 @@
 
 尼古拉斯·哥白尼（1473-1543年）是一位数学家和天文学家，他提出太阳静止在宇宙的中心，地球围绕着太阳运转。由于托勒密的地心说模型未能满足亚里士多德对所有天体均匀圆周运动的要求，哥白尼感到困扰。哥白尼决定只有通过日心说模型才能实现他的目标。他因此创造了一个概念，即行星与太阳的距离与它们轨道的大小直接相关。当时哥白尼的日心说理念非常具有争议性；然而，这标志着世界观发生变化的开始，哥白尼被视为科学革命的发起者。
 
-* [生平与作品](https://plato.stanford.edu/entries/copernicus/#LifeWork)
-* [天文学思想与著作](https://plato.stanford.edu/entries/copernicus/#AstrIdeaWrit)
 
-  * [2.1 哥白尼前天文学](https://plato.stanford.edu/entries/copernicus/#PreCopeAstr)
-  * [ 2.2 评论集](https://plato.stanford.edu/entries/copernicus/#)
-  * [ 2.3 关于天体运行](https://plato.stanford.edu/entries/copernicus/#Revo)
-  * [2.4 雷蒂库斯和《第一叙述》](https://plato.stanford.edu/entries/copernicus/#RhetNarrPrim)
-  * [2.5 关于《论革命》和奥西安德的序言](https://plato.stanford.edu/entries/copernicus/#PrinRevoOsiaPref)
-  * [16世纪对《天体运行论》的反应](https://plato.stanford.edu/entries/copernicus/#SixtCentReacRevo)
-* [ 参考文献](https://plato.stanford.edu/entries/copernicus/#Bib)
-
-  * [哥白尼全集](https://plato.stanford.edu/entries/copernicus/#CompWorkCope)
-  * [B.哥白尼著作的其他译本](https://plato.stanford.edu/entries/copernicus/#BOtheTranCopeWork)
-  * [其他主要来源的翻译](https://plato.stanford.edu/entries/copernicus/#CTranOthePrimSour)
-  * [ D. 二级来源](https://plato.stanford.edu/entries/copernicus/#DSecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/copernicus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/copernicus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/copernicus/#Rel)
 
 ---
 

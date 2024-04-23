@@ -27,28 +27,7 @@ _首次发布于周四, 2022 年 4 月 14 日_
 
 对于这些假定的因果关系，我们可以提出形而上学问题：它们的相关物是什么？它们的阶是多少？那些相关物如何站在相关的因果关系中？这种因果关系如何与其他因果关系相关？当然，关于这些关系是否存在，存在争议。罗素（1912 年：1）曾经著名地否认根本不存在任何因果关系，他戏谑地说，因果关系是“过去时代的遗物，仅仅因为人们错误地认为它不会造成任何伤害而像君主制度一样存留”（另请参见 Norton 2003）。其他人可能否认根本不存在一般因果关系或影响关系，主张类似 2 和 3 的说法只是关于令牌因果关系的概括（见下文[§2.1](https://plato.stanford.edu/entries/causation-metaphysics/#RelaTokeCaus)）。关于这些关系是否可归约，以及如果可以，它们可以归约为什么——[概率](https://plato.stanford.edu/entries/causation-probabilistic/)、[规律性](https://plato.stanford.edu/entries/causation-regularity/)、[反事实](https://plato.stanford.edu/entries/causation-counterfactual/)、[过程](https://plato.stanford.edu/entries/causation-physics/#ConsQuanAccoCaus)、[倾向性](https://plato.stanford.edu/entries/dispositions/)、[机制](https://plato.stanford.edu/entries/science-mechanisms/#MecA)、[代理](https://plato.stanford.edu/entries/causation-mani/)等等，人们也会存在分歧。本条目不会尝试调查这些问题的潜在答案范围。相反，它将专注于有关因果相关物、因果关系的阶、这些因果关系的突出或有争议的_实例_，不同关系如何相互关联等更一般的问题。
 
-* [1. 因果](https://plato.stanford.edu/entries/causation-metaphysics/#TokeCaus)
-* [1.1 关系](https://plato.stanford.edu/entries/causation-metaphysics/#Rela)
-* [1.1.1 事件](https://plato.stanford.edu/entries/causation-metaphysics/#Even)
-* [1.1.2 事实](https://plato.stanford.edu/entries/causation-metaphysics/#Fact)
-* [1.1.3 变量值](https://plato.stanford.edu/entries/causation-metaphysics/#VariValu)
-* [1.1.4 粒度和因果差异](https://plato.stanford.edu/entries/causation-metaphysics/#FineGraiCausDiff)
-* [1.2 关系](https://plato.stanford.edu/entries/causation-metaphysics/#Rela\1)
-* [1.2.1 实例](https://plato.stanford.edu/entries/causation-metaphysics/#Inst)
-* [1.2.2 本体论](https://plato.stanford.edu/entries/causation-metaphysics/#Arit)
-* [1.2.3 正常性](https://plato.stanford.edu/entries/causation-metaphysics/#Norm)
-* [2. 因果类型](https://plato.stanford.edu/entries/causation-metaphysics/#TypeCaus)
-* [2.1 与特定因果关系](https://plato.stanford.edu/entries/causation-metaphysics/#RelaTokeCaus)
-* [2.2 网络和组件效应](https://plato.stanford.edu/entries/causation-metaphysics/#NetCompEffe)
-* [3. 影响](https://plato.stanford.edu/entries/causation-metaphysics/#Infl)
-* [3.1 因果](https://plato.stanford.edu/entries/causation-metaphysics/#Rela\2)
-* [3.2 模型](https://plato.stanford.edu/entries/causation-metaphysics/#Mode)
-* [3.3 因果关系](https://plato.stanford.edu/entries/causation-metaphysics/#RelaTokeCaus\1)
-* [3.4 模型的形而上学](https://plato.stanford.edu/entries/causation-metaphysics/#MetaMode)
-* [参考文献](https://plato.stanford.edu/entries/causation-metaphysics/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/causation-metaphysics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/causation-metaphysics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/causation-metaphysics/#Rel)
+
 
 ***
 

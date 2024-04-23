@@ -4,19 +4,6 @@
 
 安妮·康威女士（原名安妮·芬奇）是17世纪极少数能够追求哲学兴趣的女性之一。她与剑桥柏拉图主义者有关，特别是与亨利·莫尔（1614-1687）有关。她唯一幸存的著作《古代和现代哲学原理》于1690年在她去世后匿名出版。这部著作阐述了一种源自上帝属性的生命论精神，与莫尔、笛卡尔、霍布斯和斯宾诺莎形成对立。她的哲学受到莱布尼茨的好评。
 
-* [ 生活](https://plato.stanford.edu/entries/conway/#Life)
-* [康威的哲学概要](https://plato.stanford.edu/entries/conway/#ConwPhilOutl)
-* [ 物质](https://plato.stanford.edu/entries/conway/#Subs)
-* [ 生物](https://plato.stanford.edu/entries/conway/#Crea)
-* [ 完善性](https://plato.stanford.edu/entries/conway/#Perf)
-* [ 5. 结论](https://plato.stanford.edu/entries/conway/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/conway/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/conway/#PrimSour)
-  * [ 次级来源](https://plato.stanford.edu/entries/conway/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/conway/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/conway/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/conway/#Rel)
 
 ---
 

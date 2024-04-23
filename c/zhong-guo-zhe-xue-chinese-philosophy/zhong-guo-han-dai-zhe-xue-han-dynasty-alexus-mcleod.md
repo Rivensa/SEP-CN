@@ -4,26 +4,7 @@ _首次发表于 汉代 2022 年 1 月 3 日_
 
 中国早期的哲学在公元前三世纪晚期帝国开始后经历了重大转变。这些是汉代的时期，分为西汉（前 206 年–9 年）和东汉（25–220 年）两个部分。本文讨论了汉代四百多年间一些主要的趋势、思想和思想家。与早期时期相比，汉代哲学特别突出的特点包括：对形而上学的增加关注，综合主义的突出，对语言的新看法，自然主义的兴起以及对方法论的辩论。此外，我们所熟知的先秦哲学思想中的许多观念在汉代得到了最充分的发展。后来的回顾性解释，包括在汉代本身，导致我们将其中一些观念与早期文本和传统联系起来。许多“早期”的汉代前中国文本实际上是在汉代编纂或创作的（参见 Hunter 2018；Klein 2010）。甚至我们经常用来分类汉代之前时期文本和思想家的“学派”范畴，如“儒家”(_rujia_ 儒家)、“道家”(_daojia_ 道家)、“法家”(_fajia_ 法家)等，实际上都是汉代的产物。毫不夸张地说，中国哲学传统是在汉代“作为这样的”奠基的。
 
-* [1. 背景](https://plato.stanford.edu/entries/han-dynasty/#N1Back)
-* [2. 汉代西汉 (202 BCE–9 CE)](https://plato.stanford.edu/entries/han-dynasty/#WestHan202BCE9CE)
-* [2.1 政治思想：陆贾和贾谊](https://plato.stanford.edu/entries/han-dynasty/#PoliThouLuJiaJiaYi)
-* [2.2 相关形而上学：《春秋繁露》](https://plato.stanford.edu/entries/han-dynasty/#CorrMetaChunFanl)
-* [2.3 知识与方法：《淮南子》的综合主义](https://plato.stanford.edu/entries/han-dynasty/#KnowMethSyncHuai)
-* [2.4 人性：杨雄](https://plato.stanford.edu/entries/han-dynasty/#HumaNatuYangXion)
-* [3. 东汉 (25–220 年)](https://plato.stanford.edu/entries/han-dynasty/#EastHan2522)
-* [3.1 汉代自然主义的发展：桓谭](https://plato.stanford.edu/entries/han-dynasty/#DeveLateHanNatuHuanTan)
-* [3.2 认识论和形而上学的新方法：王充](https://plato.stanford.edu/entries/han-dynasty/#NewMethEpisMetaWangChon)
-* [3.3 班昭和妇女的学术](https://plato.stanford.edu/entries/han-dynasty/#BanZhaoSchoWome)
-* [3.4 隐逸的政治：王符](https://plato.stanford.edu/entries/han-dynasty/#PoliReclWangFu)
-* [3.5 语言哲学：徐干论名与实](https://plato.stanford.edu/entries/han-dynasty/#PhilLangXuGanNameActu)
-* [4. 进入三国时期和魏晋](https://plato.stanford.edu/entries/han-dynasty/#TranThreKingWeiJin)
-* [参考文献](https://plato.stanford.edu/entries/han-dynasty/#Bib)
-* [引用的主要文本](https://plato.stanford.edu/entries/han-dynasty/#PrimTextCite)
-* [汉代哲学进一步阅读](https://plato.stanford.edu/entries/han-dynasty/#FurtReadHanPhil)
-* [参考文献](https://plato.stanford.edu/entries/han-dynasty/#WorkCite)
-* [学术工具](https://plato.stanford.edu/entries/han-dynasty/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/han-dynasty/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/han-dynasty/#Rel)
+
 
 ***
 

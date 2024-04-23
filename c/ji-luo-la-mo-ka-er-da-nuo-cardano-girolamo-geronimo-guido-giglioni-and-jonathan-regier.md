@@ -4,20 +4,6 @@ _首次发表于 2013 年 4 月 23 日星期二；实质性修订于 2023 年 10
 
 除了是他那个时代最原创、才华横溢的医生、数学家和占星家之一外，吉罗拉莫·卡尔达诺（生于 1501 年，帕维亚，卒于 1576 年，罗马）在文艺复兴哲学史上占据重要地位。他的贡献涵盖了对各种意义上的秩序（自然的、人类的和神圣的）进行全面阐述，到关于知识进步的认识论和方法论方向，从对灵魂不朽的复杂理论到对实践智慧（_prudentia_）在医学和政治行动等各种人类活动中的角色进行精细分析。
 
-* [1. 生平和哲学作品](https://plato.stanford.edu/entries/cardano/#LifPhiWor)
-* [2. 生命、知识和自然](https://plato.stanford.edu/entries/cardano/#LifKnoNat)
-* [3. 灵魂与自然秩序](https://plato.stanford.edu/entries/cardano/#SouOrdNat)
-* [4. 道德哲学：智慧的两个层面](https://plato.stanford.edu/entries/cardano/#MorTwoLevWis)
-* [4.1 神圣的智慧，灵魂的不朽，和最高善](https://plato.stanford.edu/entries/cardano/#DivProImmSouHigGoo)
-* [4.2 谨慎和实践智慧](https://plato.stanford.edu/entries/cardano/#PruPraWis)
-* [5. 预言、命运和罗马审判](https://plato.stanford.edu/entries/cardano/#DivFateInq)
-* [参考文献](https://plato.stanford.edu/entries/cardano/#Bib)
-* [吉罗拉莫·卡尔达诺的](https://plato.stanford.edu/entries/cardano/#CarOO)​\*[Opera omnia](https://plato.stanford.edu/entries/cardano/#CarOO)\*
-* [吉罗拉莫·卡尔达诺的现代版本](https://plato.stanford.edu/entries/cardano/#CarModEd)
-* [二手文献](https://plato.stanford.edu/entries/cardano/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/cardano/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cardano/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/cardano/#Rel)
 
 ***
 

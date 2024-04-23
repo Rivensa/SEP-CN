@@ -20,35 +20,7 @@ _首次发表于 2019 年 1 月 18 日星期五_
 
 本条目的第 2 和第 3 部分使用了一些集合论和逻辑语义学的基本工具。但这些部分除了提供正式定义外，还提供直观的描述，因此熟悉这些工具并非先决条件。对这些工具更感兴趣的读者会发现基本集合论以及 Gamut (1991)和 Sider (2010)很有用。
 
-* [反事实条件句与哲学](https://plato.stanford.edu/entries/counterfactuals/#CounPhil)
-  * [1.1 什么是直陈条件？](https://plato.stanford.edu/entries/counterfactuals/#WhatCoun)
-  * [1.2 代理、心智和理性](https://plato.stanford.edu/entries/counterfactuals/#AgenMindRati)
-    * [1.2.1 代理、选择和自由意志](https://plato.stanford.edu/entries/counterfactuals/#AgenChoiFreeWill)
-    * [1.2.2 理性](https://plato.stanford.edu/entries/counterfactuals/#Rati)
-    * [1.2.3 心智表征、内容和知识](https://plato.stanford.edu/entries/counterfactuals/#MentReprContKnow)
-  * [1.3 形而上学分析与科学解释](https://plato.stanford.edu/entries/counterfactuals/#MetaAnalScieExpl)
-  * [1.4 语义谜题](https://plato.stanford.edu/entries/counterfactuals/#SemaPuzz)
-* [反事实条件句的逻辑](https://plato.stanford.edu/entries/counterfactuals/#LogiCoun)
-  * [2.1 引入严格分析和相似性分析。](https://plato.stanford.edu/entries/counterfactuals/#IntrStriSimiAnal)
-  * [2.2 严格的直陈条件分析](https://plato.stanford.edu/entries/counterfactuals/#StriCondAnal)
-    * [2.2.1 第二波严格条件分析](https://plato.stanford.edu/entries/counterfactuals/#SecoWaveStriCondAnal)
-  * [2.3 相似性语义](https://plato.stanford.edu/entries/counterfactuals/#SimiSema)
-  * [2.4 比较逻辑。](https://plato.stanford.edu/entries/counterfactuals/#CompLogi)
-  * [2.5 真值条件再审](https://plato.stanford.edu/entries/counterfactuals/#TrutCondRevi)
-    * [2.5.1 真值条件和相似性](https://plato.stanford.edu/entries/counterfactuals/#TrutCondSimi)
-    * [2.5.2 真值条件和严格分析](https://plato.stanford.edu/entries/counterfactuals/#TrutCondStriAnal)
-  * [2.6 哲学上的反对意见](https://plato.stanford.edu/entries/counterfactuals/#PhilObje)
-  * [2.7 总结](https://plato.stanford.edu/entries/counterfactuals/#Summ)
-* [直陈条件的语义理论](https://plato.stanford.edu/entries/counterfactuals/#SemaTheoCounDepe)
-  * [3.1 前提语义](https://plato.stanford.edu/entries/counterfactuals/#PremSema)
-  * [3.2 直陈条件概率分析](https://plato.stanford.edu/entries/counterfactuals/#CondProbAnal)
-  * [3.3 贝叶斯网络、结构方程和因果模型](https://plato.stanford.edu/entries/counterfactuals/#BayeNetwStruEquaCausMode)
-  * [3.4 总结](https://plato.stanford.edu/entries/counterfactuals/#Summ\1)
-* [4. 结论](https://plato.stanford.edu/entries/counterfactuals/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/counterfactuals/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/counterfactuals/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/counterfactuals/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/counterfactuals/#Rel)
+
 
 ***
 

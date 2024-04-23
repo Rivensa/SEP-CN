@@ -4,31 +4,7 @@ _首次发布于 2018 年 7 月 21 日星期六；实质性修订于 2022 年 10
 
 批判性思维是一个被广泛接受的教育目标。其定义备受争议，但竞争性定义可以理解为对一个目标进行谨慎思考的不同概念：有目的的仔细思考。这些概念在这种思考的范围、目标类型、仔细思考的标准和规范以及它们关注的思维组成部分方面存在差异。将其作为教育目标的采纳是基于对学生自主权的尊重以及为了让学生成功地生活和成为民主公民而推荐的。“批判性思考者”具有在适当时进行批判性思考的性格和能力。这些能力可以直接识别；性格可以间接识别，通过考虑哪些因素有助于或妨碍这些能力的发挥。已经开发了标准化测试来评估一个人拥有这种性格和能力的程度。教育干预在实验中已被证明可以改善它们，特别是当它包括对话、锚定式教学和指导时。关于批判性思维在不同领域的普适性、批判性思维理论和教学中的所谓偏见以及批判性思维与其他类型思维之间的关系已经引起争议。
 
-* [1. 历史](https://plato.stanford.edu/entries/critical-thinking/#Hist)
-* [2. 示例和非示例](https://plato.stanford.edu/entries/critical-thinking/#ExamNonExam)
-  * [2.1 杜威的三个主要示例](https://plato.stanford.edu/entries/critical-thinking/#DeweThreMainExam)
-  * [2.2 杜威的其他示例](https://plato.stanford.edu/entries/critical-thinking/#DeweOtheExam)
-  * [2.3 更多例子](https://plato.stanford.edu/entries/critical-thinking/#FurtExam)
-  * [2.4 非例子](https://plato.stanford.edu/entries/critical-thinking/#NonExam)
-* [3. 批判性思维的定义](https://plato.stanford.edu/entries/critical-thinking/#DefiCritThin)
-* [4. 它的价值](https://plato.stanford.edu/entries/critical-thinking/#Valu)
-* [5. 批判性思维的过程](https://plato.stanford.edu/entries/critical-thinking/#ProcThinCrit)
-* [6. 过程的组成部分](https://plato.stanford.edu/entries/critical-thinking/#CompProc)
-* [7. 贡献性倾向和能力](https://plato.stanford.edu/entries/critical-thinking/#ContDispAbil)
-* [8. 批判性思维倾向](https://plato.stanford.edu/entries/critical-thinking/#CritThinDisp)
-  * [8.1 启动倾向](https://plato.stanford.edu/entries/critical-thinking/#InitDisp)
-  * [8.2 内在倾向](https://plato.stanford.edu/entries/critical-thinking/#InteDisp)
-* [9. 批判性思维能力](https://plato.stanford.edu/entries/critical-thinking/#CritThinAbil)
-* [10. 必备知识](https://plato.stanford.edu/entries/critical-thinking/#RequKnow)
-* [11. 教育方法](https://plato.stanford.edu/entries/critical-thinking/#EducMeth)
-* [12. 争议](https://plato.stanford.edu/entries/critical-thinking/#Cont)
-  * [12.1 批判性思维的普适性](https://plato.stanford.edu/entries/critical-thinking/#GeneCritThin)
-  * [12.2 批判性思维理论和教学中的偏见](https://plato.stanford.edu/entries/critical-thinking/#BiasCritThinTheoPeda)
-  * [12.3 批判性思维与其他类型思维的关系](https://plato.stanford.edu/entries/critical-thinking/#RelaCritThinOtheTypeThin)
-* [参考文献](https://plato.stanford.edu/entries/critical-thinking/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/critical-thinking/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/critical-thinking/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/critical-thinking/#Rel)
+
 
 ***
 

@@ -6,27 +6,6 @@ _首次发表于 2001 年 8 月 27 日星期一；实质性修订于 2021 年 2 
 
 逆因果的概念不应与时间旅行混淆。这两个概念在某种程度上相关，因为它们都认同在因果上影响过去是可能的。然而，不同之处在于时间旅行涉及因果循环，而逆因果则不涉及。就其本身而言，因果循环只能发生在一个存在闭合类时间曲线的宇宙中。相比之下，逆因果可能发生在一个不存在这种闭合类时间曲线的世界中。换句话说，参与时间旅行的普通系统 S 在旅行期间会保持其固有时间的时间顺序，整个飞行过程中都保持相同的时间感（测量 S 的固有时间的手表会继续顺时针移动）；但是，如果同一系统 S 参与逆因果过程，其固有时间的顺序将会相反，系统的时间感将与其逆时针旅行之前相反（手表将开始逆时针移动）。因此，逆因果和时间旅行在逻辑上既不蕴含对方，时间旅行也与逆时旅行有所不同。
 
-* [1. 历史](https://plato.stanford.edu/entries/causation-backwards/#His)
-* [2. 哲学](https://plato.stanford.edu/entries/causation-backwards/#Phil2)
-* [2.1 时间和逆因果](https://plato.stanford.edu/entries/causation-backwards/#TimBac)
-* [2.2 影响过去](https://plato.stanford.edu/entries/causation-backwards/#AffPas)
-* [2.3 区分因果关系](https://plato.stanford.edu/entries/causation-backwards/#DisCau)
-* [2.4 逃避论证](https://plato.stanford.edu/entries/causation-backwards/#BilArg)
-* [2.5 自由意志](https://plato.stanford.edu/entries/causation-backwards/#FreWil)
-* [3. 悖论](https://plato.stanford.edu/entries/causation-backwards/#Par)
-* [3.1 自举悖论](https://plato.stanford.edu/entries/causation-backwards/#BooPar)
-* [3.2 一致性悖论](https://plato.stanford.edu/entries/causation-backwards/#ConPar)
-* [3.3 新康姆悖论](https://plato.stanford.edu/entries/causation-backwards/#NewPar)
-* [4. 物理学](https://plato.stanford.edu/entries/causation-backwards/#Phy)
-* [4.1 Wheeler-Feynman Absorber Theory](https://plato.stanford.edu/entries/causation-backwards/#WheFeyAbsThe)
-* [4.2 Tachyons](https://plato.stanford.edu/entries/causation-backwards/#Tac)
-* [4.3 量子力学](https://plato.stanford.edu/entries/causation-backwards/#QuaMec)
-* [4.4 两种选择](https://plato.stanford.edu/entries/causation-backwards/#TwoAlt)
-* [参考文献](https://plato.stanford.edu/entries/causation-backwards/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/causation-backwards/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/causation-backwards/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/causation-backwards/#Rel)
-
 ***
 
 ## 1. 历史

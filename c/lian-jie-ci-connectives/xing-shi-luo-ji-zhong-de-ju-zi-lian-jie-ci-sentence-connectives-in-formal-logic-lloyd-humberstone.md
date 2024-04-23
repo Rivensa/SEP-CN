@@ -12,22 +12,6 @@ _首次发表于 2010 年 5 月 4 日星期二；实质性修订于 2020 年 1 �
 
 第 3 节继续讨论 sequent-to-sequent 规则的主题，集中在类似 J. W. Garson 风格的这些规则的语义分析上，还关注满足给定规则的连接词的存在性和唯一性（这是 H. Hiż引入的一个主题）。这最后两点被认为与我们所称的 cut-inductivity 和 id-inductivity 有关，特别是 sequent-演算规则的，通过在前一种情况下，提出一个建议，将连接词的存在（具有规定的逻辑行为，考虑到逻辑未明确提供这样的连接词的情况下）与保守扩展（通过规则为新连接词提供详细行为的给定逻辑的扩展）联系起来。这个建议是由 N. D. Belnap 提出的；一些关于保守扩展作为授予具有特定逻辑属性的新连接词存在或可理解性的充分条件的问题被指出。第 4 节收集了几个有趣的案例，其中人们可能会对具有各种属性的连接词的存在性产生疑问。例如（这是七个案例中的第 3 个案例），人们可能会问是否有意义拥有一个具有以下属性的 1 元连接词：这个连接词的两次应用等同于（经典的）否定的一次应用。第 5 节汇编了补充说明和参考资料。
 
-* [1. 准备工作](https://plato.stanford.edu/entries/connectives-logic/#Pre)
-* [2. 推导式和赋值](https://plato.stanford.edu/entries/connectives-logic/#SeqVal)
-* [3. 规则和连接词](https://plato.stanford.edu/entries/connectives-logic/#RulCon)
-* [4. 选定的存在问题](https://plato.stanford.edu/entries/connectives-logic/#SelExiQue)
-  * [4.1 不符合规则的条件（示例 1）](https://plato.stanford.edu/entries/connectives-logic/#ConNotCorRulExa1)
-  * [4.2 Pollard-Style Nonconservativity（例 2）](https://plato.stanford.edu/entries/connectives-logic/#PolStyNonExa2)
-  * [4.3 否定通过迭代（示例 3）](https://plato.stanford.edu/entries/connectives-logic/#NegIteExa3)
-  * [4.4 逻辑减法（示例 4）](https://plato.stanford.edu/entries/connectives-logic/#LogSubExa4)
-  * [4.5 一个多重存在问题（示例 5）](https://plato.stanford.edu/entries/connectives-logic/#Exa5)
-  * [4.6 与代数化相关的示例（示例 6）](https://plato.stanford.edu/entries/connectives-logic/#ExaRelAlgExa6)
-  * [4.7 布尔连接词的二维同位素（更长示例 7）](https://plato.stanford.edu/entries/connectives-logic/#Exa7)
-* [5. 注释和来源](https://plato.stanford.edu/entries/connectives-logic/#NotSou)
-* [参考文献](https://plato.stanford.edu/entries/connectives-logic/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/connectives-logic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/connectives-logic/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/connectives-logic/#Rel)
 
 ***
 

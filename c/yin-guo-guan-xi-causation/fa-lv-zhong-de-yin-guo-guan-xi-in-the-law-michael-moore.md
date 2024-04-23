@@ -4,29 +4,6 @@ _首次发表于 2019 年 10 月 3 日星期四；实质性修订于 2024 年 2 
 
 在这种情境下，法律中关于因果关系的基本问题是：(i) 法律中决定一个行为或事件是否导致另一个（通常是有害的）事件的标准是什么；(ii) 法律背景下的因果关系是否以及在何种程度上与法律之外的因果关系有所不同，例如在科学和日常生活中；以及(iii) 什么理由（可能基于法律对因果关系用于归责的原因）解释和/或证明可能存在的这种差异。
 
-* [1. Introduction](https://plato.stanford.edu/entries/causation-law/#Intr)
-* [2. 因果定律的明确定义](https://plato.stanford.edu/entries/causation-law/#LawsExplDefiCaus)
-* [2.1 法律中占主导地位的两层次因果定义](https://plato.stanford.edu/entries/causation-law/#DomiTwoTierDefiCausLaw)
-* [2.2 因果的主导定义](https://plato.stanford.edu/entries/causation-law/#DomiDefiCausFact)
-* [2.3 近因的主导定义](https://plato.stanford.edu/entries/causation-law/#DomiDefiProxCaus)
-* [3. 从中提取法律因果隐含概念的数据：关于英美侵权法和刑法中基于因果责任的十六个法律事实](https://plato.stanford.edu/entries/causation-law/#DataWhicImplConcLegaCausExtrFiftLegaFactAbouCausBaseLiabAnglAmerTortCrimLaw)
-* [4. 因果要求在侵权法和刑法中所起的价值](https://plato.stanford.edu/entries/causation-law/#ValuServCausRequLawTortCrim)
-* [5. 将这三个来源结合成法律中的因果概念](https://plato.stanford.edu/entries/causation-law/#CombThesThreSourConcCausLaw)
-* [5.1 法律中事实原因测试的多样性](https://plato.stanford.edu/entries/causation-law/#VariCausFactTestLaw)
-* [5.1.1 因果事实测试的问题](https://plato.stanford.edu/entries/causation-law/#ProbForCounTestCausFact)
-* [5.1.2 因果事实测试的修改/放弃](https://plato.stanford.edu/entries/causation-law/#ModiCounTest)
-* [5.2 对因果要求的怀疑性方法](https://plato.stanford.edu/entries/causation-law/#SkepApprCausFactRequ)
-* [5.2.1 美国法律现实主义者对因果关系的怀疑](https://plato.stanford.edu/entries/causation-law/#SkepAbouCausAmerLegaReal)
-* [5.2.2 批判法理论家对因果关系的怀疑](https://plato.stanford.edu/entries/causation-law/#SkepAbouCausCritLegaTheo)
-* [5.2.3 法律经济学家对因果关系的怀疑](https://plato.stanford.edu/entries/causation-law/#SkepAbouCausLegaEcon)
-* [5.3 法律中近因测试的多样性](https://plato.stanford.edu/entries/causation-law/#VariProxCausTestLaw)
-* [5.4 法律中因果的统一（或“一层”）方法](https://plato.stanford.edu/entries/causation-law/#UnifOneTierApprCausLaw)
-* [5.5 法律中因果概念的不同总结](https://plato.stanford.edu/entries/causation-law/#SummDiffConcCausLaw)
-* [6. 结论](https://plato.stanford.edu/entries/causation-law/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/causation-law/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/causation-law/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/causation-law/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/causation-law/#Rel)
 
 ***
 

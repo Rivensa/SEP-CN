@@ -26,40 +26,7 @@ _首次发表于 2010 年 8 月 18 日星期三；实质性修订于 2018 年 2 
 
 常见论点对所有三个例子都至关重要。由于概率解释被广泛接受是合法的，随机抽样不需要真正的机会（尽管可以帮助），并且频率主义陷入严重困境（Hájek 1997），因此常见论点已经受到一些压力。但我们必须对其进行更仔细的审查，以澄清这些论点是否成功，以及说某个事件或过程是随机或具有机会性到底意味着什么。尽管进一步发展这种性质的后果不是本条目的主要目的，但希望这里所说的内容可以帮助澄清围绕机会和随机性的这些及其他棘手问题。
 
-* [1. 机会](https://plato.stanford.edu/entries/chance-randomness/#Chan)
-* [1.1 ‘单例’机会和机会过程](https://plato.stanford.edu/entries/chance-randomness/#SingCaseChanChanProc)
-* [1.2 物理学和机会](https://plato.stanford.edu/entries/chance-randomness/#PhysChan)
-* [2. 随机性](https://plato.stanford.edu/entries/chance-randomness/#Rand)
-* [2.1 产品随机性：随机序列最有可能](https://plato.stanford.edu/entries/chance-randomness/#ProdRandRandSequMostLike)
-* [2.1.1 随机性和赌博系统—冯·米塞斯的观点](https://plato.stanford.edu/entries/chance-randomness/#RandGambSystMiseAcco)
-* [2.1.2 随机性和有效测试：马丁-勒夫随机性](https://plato.stanford.edu/entries/chance-randomness/#RandEffeTestMartLofRand)
-* [2.2 产品的随机性：随机序列最无序](https://plato.stanford.edu/entries/chance-randomness/#ProdRandRandSequMostDiso)
-* [2.2.1 科尔莫哥洛夫复杂性和随机性](https://plato.stanford.edu/entries/chance-randomness/#KolmCompRand)
-* [2.2.2 前缀无关 Kolmogorov 复杂性](https://plato.stanford.edu/entries/chance-randomness/#PrefFreeKolmComp)
-* [2.3 Schnorr 定理：Kolmogorov 和 ML-随机性相符](https://plato.stanford.edu/entries/chance-randomness/#SchnTheoKolmMLRandCoin)
-* [3. 常见命题的细化](https://plato.stanford.edu/entries/chance-randomness/#CommThesRefi)
-* [4. 无随机性的机会](https://plato.stanford.edu/entries/chance-randomness/#ChanWithRand)
-* [4.1 不代表性结果序列](https://plato.stanford.edu/entries/chance-randomness/#UnreOutcSequ)
-* [4.2 参照类问题](https://plato.stanford.edu/entries/chance-randomness/#RefeClasProb)
-* [4.3 偏见](https://plato.stanford.edu/entries/chance-randomness/#Bias)
-* [4.4 依赖：随机性对历史漠不关心](https://plato.stanford.edu/entries/chance-randomness/#DepeRandIndiHist)
-* [4.5 伪随机序列](https://plato.stanford.edu/entries/chance-randomness/#PseuSequ)
-* [5. 无机会的随机性](https://plato.stanford.edu/entries/chance-randomness/#RandWithChan)
-* [5.1 短序列](https://plato.stanford.edu/entries/chance-randomness/#ShorSequ)
-* [5.2 混沌动力学](https://plato.stanford.edu/entries/chance-randomness/#ChaoDyna)
-* [5.3 古典不确定性](https://plato.stanford.edu/entries/chance-randomness/#ClasInde)
-* [5.4 无放回抽样](https://plato.stanford.edu/entries/chance-randomness/#DrawWithRepl)
-* [6. 保存论文：机会和随机性的替代概念](https://plato.stanford.edu/entries/chance-randomness/#SaviThesAlteConcChanRand)
-* [6.1 产品机会](https://plato.stanford.edu/entries/chance-randomness/#ProdChan)
-* [6.2 过程随机性：认识论理论](https://plato.stanford.edu/entries/chance-randomness/#ProcRandEpisTheo)
-* [7. 确定性、机遇和随机性](https://plato.stanford.edu/entries/chance-randomness/#ChanRandDete)
-* [7.1 概率和确定性](https://plato.stanford.edu/entries/chance-randomness/#ChanDete)
-* [7.2 随机性和确定性](https://plato.stanford.edu/entries/chance-randomness/#RandDete)
-* [8. 结论](https://plato.stanford.edu/entries/chance-randomness/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/chance-randomness/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/chance-randomness/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/chance-randomness/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/chance-randomness/#Rel)
+
 
 ***
 

@@ -10,22 +10,6 @@ _首次发表于 2008 年 9 月 17 日；实质性修订于 2021 年 12 月 10 �
 
 本文描述了克隆伦理学中最重要的争议领域。我将重点关注人类克隆（而不是动物克隆），因为人类克隆一直是克隆辩论的焦点。
 
-* [1. 什么是克隆？](https://plato.stanford.edu/entries/cloning/#WhaClo)
-* [2. 研究和治疗中的克隆](https://plato.stanford.edu/entries/cloning/#CloForResThe)
-* [2.1 制造和杀死胚胎以获取干细胞](https://plato.stanford.edu/entries/cloning/#CreKilEmbForSteCel)
-* [2.2 卵母细胞的需求](https://plato.stanford.edu/entries/cloning/#NeeForOoc)
-* [2.3 社会正义考虑](https://plato.stanford.edu/entries/cloning/#SocJusCon)
-* [2.4 生殖克隆的滑坡](https://plato.stanford.edu/entries/cloning/#SliSloRepClo)
-* [3. 人类生殖克隆](https://plato.stanford.edu/entries/cloning/#HumRepClo)
-* [3.1 安全性和效率](https://plato.stanford.edu/entries/cloning/#SafEff)
-* [3.2 克隆导致的对个体的伤害](https://plato.stanford.edu/entries/cloning/#HarIndConThrClo)
-* [3.3 对他人的伤害](https://plato.stanford.edu/entries/cloning/#HarOth)
-* [3.4 人的尊严](https://plato.stanford.edu/entries/cloning/#HumDig)
-* [4. 宗教观点](https://plato.stanford.edu/entries/cloning/#RelPer)
-* [参考文献](https://plato.stanford.edu/entries/cloning/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/cloning/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cloning/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/cloning/#Rel)
 
 ***
 

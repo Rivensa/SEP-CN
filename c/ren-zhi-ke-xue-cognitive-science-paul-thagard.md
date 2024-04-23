@@ -5,30 +5,7 @@
 
 认知科学是对心智和智能的跨学科研究，涵盖哲学、心理学、人工智能、神经科学、语言学和人类学。其知识起源可以追溯到 20 世纪 50 年代中期，当时几个领域的研究人员开始基于复杂的表征和计算程序发展心智理论。其组织起源可以追溯到 20 世纪 70 年代中期，当时成立了认知科学学会并创办了《认知科学》期刊。从那时起，北美、欧洲、亚洲和澳大利亚已经有 100 多所大学建立了认知科学项目，许多其他大学也开设了认知科学课程。
 
-* [ 1. 历史](https://plato.stanford.edu/entries/cognitive-science/#His)
-* [ 2. 方法](https://plato.stanford.edu/entries/cognitive-science/#Met)
-* [3. 表征与计算](https://plato.stanford.edu/entries/cognitive-science/#RepCom)
-* [4. 理论方法](https://plato.stanford.edu/entries/cognitive-science/#TheApp)
 
-  * [ 4.1 形式逻辑](https://plato.stanford.edu/entries/cognitive-science/#ForLog)
-  * [ 4.2 规则](https://plato.stanford.edu/entries/cognitive-science/#Rul)
-  * [ 4.3 概念](https://plato.stanford.edu/entries/cognitive-science/#Concepts)
-  * [ 4.4 类比](https://plato.stanford.edu/entries/cognitive-science/#Ana)
-  * [ 4.5 图像](https://plato.stanford.edu/entries/cognitive-science/#Ima)
-  * [ 4.6 连接主义](https://plato.stanford.edu/entries/cognitive-science/#Con)
-  * [4.7 理论神经科学](https://plato.stanford.edu/entries/cognitive-science/#TheNeu)
-  * [ 4.8 贝叶斯](https://plato.stanford.edu/entries/cognitive-science/#Bayes)
-  * [ 4.9 深度学习](https://plato.stanford.edu/entries/cognitive-science/#Deep)
-  * [4.10 预测处理和主动推理](https://plato.stanford.edu/entries/cognitive-science/#Predictive)
-* [5. 哲学相关](https://plato.stanford.edu/entries/cognitive-science/#PhiRel)
-
-  * [5.1 哲学应用](https://plato.stanford.edu/entries/cognitive-science/#PhiApp)
-  * [5.2 认知科学批判](https://plato.stanford.edu/entries/cognitive-science/#CriCogSci)
-  * [5.3 认知科学哲学](https://plato.stanford.edu/entries/cognitive-science/#CogSci)
-* [ 参考文献](https://plato.stanford.edu/entries/cognitive-science/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/cognitive-science/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cognitive-science/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/cognitive-science/#Rel)
 
 ---
 

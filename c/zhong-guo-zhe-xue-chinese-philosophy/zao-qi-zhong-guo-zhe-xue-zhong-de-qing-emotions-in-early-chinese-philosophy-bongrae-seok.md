@@ -4,37 +4,7 @@ _首次发布于 2021 年 12 月 6 日星期一_
 
 在许多西方哲学和心理学流派中，情感被理解为内在的主观感受，与思维的智力能力形成鲜明对比。然而，在中国哲学中，情感并非完全由内在的主观感受或无法解释的激情来解释。相反，它们被理解为交互式、响应式和整体的情感，对个体对世界的理解（其客观现实、事物的本质以及它们的处境和环境）以及对外部刺激的处置和反应起着广泛的心理、认知和道德作用。本文讨论了从公元前六世纪初到公元前一世纪末中国古代主要哲学文本中讨论的情感的多样概念维度、心理取向和道德意义。具体而言，重点放在早期中国哲学家如何解释情感的本质以及他们如何确定和分类情感。本文包括以下几个部分。首先，将比较和对比中国哲学的一般哲学取向与西方对情感的方法。其次，将通过“情”的镜头识别早期中国对情感的概念，这是一种独特的中国情感概念，包括本质、性质、现实、性情、欲望和感受等语义元素。第三，将讨论早期中国哲学中“情”的哲学解释和语义维度。第四，将分析早期中国文本中的情感术语和情感列表，以说明中国哲学家如何对情感进行分类和个别化。第五，将调查早期中国哲学文本及其情感理论，以解释情感和情感心智的广泛领域（如先天性倾向、心理倾向、主观感受和欲望）在中国古代文本中是如何讨论的。
 
-* [1. 情感、情感敏感度和中国哲学](https://plato.stanford.edu/entries/emotions-chinese/#EmotAffeSensChinPhil)
-* [1.1 西方哲学和心理学中的情感](https://plato.stanford.edu/entries/emotions-chinese/#EmotWestPhilPsyc)
-* [1.2 中国哲学中的情感](https://plato.stanford.edu/entries/emotions-chinese/#EmotChinPhil)
-* [1.3 ](https://plato.stanford.edu/entries/emotions-chinese/#QingChinPhil)​\*[情](https://plato.stanford.edu/entries/emotions-chinese/#QingChinPhil)\*​[ 和中国哲学](https://plato.stanford.edu/entries/emotions-chinese/#QingChinPhil)
-* [2. 情感和早期中国哲学中的 ](https://plato.stanford.edu/entries/emotions-chinese/#EmotQingEarlChinPhil)​\*[情](https://plato.stanford.edu/entries/emotions-chinese/#EmotQingEarlChinPhil)\*
-* [2.1 情感和](https://plato.stanford.edu/entries/emotions-chinese/#EmotQing)​\*[Qing](https://plato.stanford.edu/entries/emotions-chinese/#EmotQing)\*
-* [2.2 ](https://plato.stanford.edu/entries/emotions-chinese/#MeanQing)​\*[Qing](https://plato.stanford.edu/entries/emotions-chinese/#MeanQing)\*​[的含义](https://plato.stanford.edu/entries/emotions-chinese/#MeanQing)
-* [2.3 ](https://plato.stanford.edu/entries/emotions-chinese/#SemaDimeQing)​\*[情](https://plato.stanford.edu/entries/emotions-chinese/#SemaDimeQing)\*​[的语义维度](https://plato.stanford.edu/entries/emotions-chinese/#SemaDimeQing)
-* [3. ](https://plato.stanford.edu/entries/emotions-chinese/#InteQing)​\*[情](https://plato.stanford.edu/entries/emotions-chinese/#InteQing)\*​[的解释](https://plato.stanford.edu/entries/emotions-chinese/#InteQing)
-* [3.1 ](https://plato.stanford.edu/entries/emotions-chinese/#QingNatuEsseGenu)​\*[情](https://plato.stanford.edu/entries/emotions-chinese/#QingNatuEsseGenu)\*​[ 作为自然、本质或纯真](https://plato.stanford.edu/entries/emotions-chinese/#QingNatuEsseGenu)
-* [3.2 ](https://plato.stanford.edu/entries/emotions-chinese/#QingInpuReal)​\*[情](https://plato.stanford.edu/entries/emotions-chinese/#QingInpuReal)\*​[ 作为现实输入](https://plato.stanford.edu/entries/emotions-chinese/#QingInpuReal)
-* [3.3 ](https://plato.stanford.edu/entries/emotions-chinese/#QingMutuArouRespAmonThin)​\*[情](https://plato.stanford.edu/entries/emotions-chinese/#QingMutuArouRespAmonThin)\*​[ 作为事物之间相互唤起和响应](https://plato.stanford.edu/entries/emotions-chinese/#QingMutuArouRespAmonThin)
-* [3.4 ](https://plato.stanford.edu/entries/emotions-chinese/#SemaTranTranQing)​\*[情](https://plato.stanford.edu/entries/emotions-chinese/#SemaTranTranQing)\*​[ 的语义转变和转化](https://plato.stanford.edu/entries/emotions-chinese/#SemaTranTranQing)
-* [4. 早期中国文本中的情类别和情感列表](https://plato.stanford.edu/entries/emotions-chinese/#CateListEmotEarlChinText)
-* [4.1 作为情感的情列表](https://plato.stanford.edu/entries/emotions-chinese/#ListQingEmot)
-* [4.2 不寻常的情类](https://plato.stanford.edu/entries/emotions-chinese/#UnusCateQing)
-* [4.3 早期中国文本中的情感术语](https://plato.stanford.edu/entries/emotions-chinese/#TermEmotEarlChinText)
-* [5. 早期中国哲学文本中的情感](https://plato.stanford.edu/entries/emotions-chinese/#EmotEarlChinPhilText)
-* [5.1 《论语》](https://plato.stanford.edu/entries/emotions-chinese/#Anal)
-* [5.2 墨子](https://plato.stanford.edu/entries/emotions-chinese/#Mozi)
-* [5.3 孟子](https://plato.stanford.edu/entries/emotions-chinese/#Menc)
-* [5.4 《荀子》](https://plato.stanford.edu/entries/emotions-chinese/#Xunz)
-* [5.5 《老子》（《道德经》）](https://plato.stanford.edu/entries/emotions-chinese/#LaozDaoDeJing)
-* [5.6 庄子](https://plato.stanford.edu/entries/emotions-chinese/#Zhua)
-* [参考文献](https://plato.stanford.edu/entries/emotions-chinese/#Bib)
-* [A. 早期中国文本的翻译](https://plato.stanford.edu/entries/emotions-chinese/#TranEarlChinText)
-* [B. 中国文本项目](https://plato.stanford.edu/entries/emotions-chinese/#BChinTextProj)
-* [C. Works Cited](https://plato.stanford.edu/entries/emotions-chinese/#CWorkCite)
-* [学术工具](https://plato.stanford.edu/entries/emotions-chinese/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/emotions-chinese/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/emotions-chinese/#Rel)
+
 
 ***
 

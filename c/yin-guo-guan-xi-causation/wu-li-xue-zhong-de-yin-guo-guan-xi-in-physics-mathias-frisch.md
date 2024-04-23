@@ -4,28 +4,6 @@ _首次发布于周一，2020 年 8 月 24 日_
 
 在物理学中，因果观念是否扮演着什么样的角色呢？一方面，物理学似乎旨在为我们提供关于世界的因果知识，并且因果断言是物理学的一个组成部分，这一点可能在直觉上是显而易见的。另一方面，有一个具有影响力的哲学传统，可以追溯到恩斯特·马赫和伯特兰·罗素极具影响力的文章《论因果观念》（1912 年），否认了因果观念在物理学中的适用性或至少有用性。虽然这一传统可能不像过去那样占主导地位，但在今天仍然存在着关于因果观念是否可以在物理学中发挥合法作用以及如果可以的话，可能扮演的是什么角色的激烈而活跃的哲学辩论。本条目概述了这场辩论中的主要论点，特别关注那些诉诸于物理学理论化的显著特征的论点。
 
-* [1. 不同的哲学项目](https://plato.stanford.edu/entries/causation-physics/#DiffPhilProj)
-* [1.1 形而上学、描述性和功能性项目](https://plato.stanford.edu/entries/causation-physics/#MetaDescFuncProj)
-* [1.2 与物理学的契合](https://plato.stanford.edu/entries/causation-physics/#FitPhys)
-* [2. (新)-罗素挑战](https://plato.stanford.edu/entries/causation-physics/#NeoRussChal)
-* [2.1 模糊挑战](https://plato.stanford.edu/entries/causation-physics/#VaguChal)
-* [2.2 主因挑战](https://plato.stanford.edu/entries/causation-physics/#DomiCausChal)
-* [2.3 决定论挑战](https://plato.stanford.edu/entries/causation-physics/#DeteChal)
-* [2.4 地方性挑战](https://plato.stanford.edu/entries/causation-physics/#LocaChal)
-* [2.5 时间不对称挑战](https://plato.stanford.edu/entries/causation-physics/#TimeAsymChal)
-* [2.5.1 一般论证](https://plato.stanford.edu/entries/causation-physics/#GeneArgu)
-* [2.5.2 因果（和反因果）格林函数](https://plato.stanford.edu/entries/causation-physics/#CausAntiCausGreeFunc)
-* [2.5.3 初始条件和共同原因推理](https://plato.stanford.edu/entries/causation-physics/#InitCondCommCausReas)
-* [3. 因果干预主义解释](https://plato.stanford.edu/entries/causation-physics/#InteAccoCaus)
-* [4. 因果的守恒数量解释](https://plato.stanford.edu/entries/causation-physics/#ConsQuanAccoCaus)
-* [5. 因果与熵](https://plato.stanford.edu/entries/causation-physics/#CausEntr)
-* [6. 因果和辐射](https://plato.stanford.edu/entries/causation-physics/#CausRadi)
-* [7. 因果和量子力学](https://plato.stanford.edu/entries/causation-physics/#CausQuanMech)
-* [8. 因果解释](https://plato.stanford.edu/entries/causation-physics/#CausExpl)
-* [参考文献](https://plato.stanford.edu/entries/causation-physics/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/causation-physics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/causation-physics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/causation-physics/#Rel)
 
 ***
 

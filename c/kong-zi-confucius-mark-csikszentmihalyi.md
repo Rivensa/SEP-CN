@@ -6,16 +6,6 @@
 
 这些领域中的每一个都有独特的特征，是后来的思想家发展起来的，其中一些被认定为“儒家”，尽管这个术语并没有明确定义。中文术语儒（儒）早于孔子出现，指的是仪礼和音乐方面的专家，后来演变为古典研究的专家。儒通常被翻译成英文为“Confucian”。然而，“Confucian”有时也被用来指代古代被儒家认为具有关键文化创新的圣王，以及供奉孔子及相关人物的庙宇中的祭祀仪式，以及东亚社会组织的传统特征，如“官僚制”或“精英管理制度”。因此，在本条目中将避免使用“Confucian”这个术语，而将主要关注于孔子思想的哲学方面（遵循英语惯例，拉丁化为“Master Kong”），主要但不仅限于通过《论语》的视角。
 
-* [孔子作为中国哲学家和传统文化的象征。](https://plato.stanford.edu/entries/confucius/#ConfChinPhilSymbTradCult)
-* [2. 孔子生平和思想的来源](https://plato.stanford.edu/entries/confucius/#SourForConfLifeThou)
-* [3. 仪式心理学与社会价值观](https://plato.stanford.edu/entries/confucius/#RituPsycSociValu)
-* [4. 美德与品德塑造](https://plato.stanford.edu/entries/confucius/#VirtCharForm)
-* [5. 家庭与国家](https://plato.stanford.edu/entries/confucius/#FamiStat)
-* [ 参考文献](https://plato.stanford.edu/entries/confucius/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/confucius/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/confucius/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/confucius/#Rel)
-
 ---
 
 ## 孔子作为中国哲学家和传统文化的象征。

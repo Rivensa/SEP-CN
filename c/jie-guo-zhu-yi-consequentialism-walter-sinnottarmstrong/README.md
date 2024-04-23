@@ -4,17 +4,7 @@
 
 结果主义，顾名思义，简单地认为规范属性仅取决于结果。这一历史重要且仍然流行的理论体现了一个基本直觉，即最好或正确的是使未来世界变得更好的事物，因为我们无法改变过去，所以担心过去不比哭泣于泼洒的牛奶更有用。这种一般方法可以应用于不同层次的不同种类事物的不同规范属性，但最突出的例子可能是关于行为道德正确性的结果主义，它认为一个行为是否道德正确仅取决于该行为的后果或与该行为相关的某些事物的后果，比如行为背后的动机或要求同类行为的一般规则。
 
-* [经典功利主义](https://plato.stanford.edu/entries/consequentialism/#ClasUtil)
-* [什么是结果主义？](https://plato.stanford.edu/entries/consequentialism/#WhatCons)
-* [3. 什么是好？享乐主义与多元结果主义](https://plato.stanford.edu/entries/consequentialism/#WhatGoodHedoVsPlurCons)
-* [4. 哪种结果？实际 vs. 预期的结果主义](https://plato.stanford.edu/entries/consequentialism/#WhicConsActuVsExpeCons)
-* [5. 结果的是什么？权利、相对性和规则](https://plato.stanford.edu/entries/consequentialism/#ConsWhatRighRelaRule)
-* [6. Consequences for Whom? 限制道德的要求](https://plato.stanford.edu/entries/consequentialism/#ConsForWhomLimiDemaMora)
-* [7. 结果主义的论点](https://plato.stanford.edu/entries/consequentialism/#ArguForCons)
-* [ 参考文献](https://plato.stanford.edu/entries/consequentialism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/consequentialism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/consequentialism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/consequentialism/#Rel)
+
 
 ---
 

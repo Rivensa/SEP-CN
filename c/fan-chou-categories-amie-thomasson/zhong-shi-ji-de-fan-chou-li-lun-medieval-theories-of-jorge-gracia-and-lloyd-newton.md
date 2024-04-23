@@ -4,23 +4,6 @@ _首次发表于 2006 年 4 月 14 日星期五；实质性修订于 2012 年 7 
 
 这篇文章旨在简要介绍范畴论的发展，从中世纪初（公元六世纪）到斯科拉哲学的银时代（十六世纪）。这一发展令人着迷，但异常复杂。学者们刚刚开始注意到在中世纪对范畴的理解上存在的重大差异，以及这些差异如何与其他主要哲学议题的讨论相关。还有许多工作有待完成，即使是对于那些伟大人物的观点，因此我们必须将讨论限制在少数几位主要人物和主题上。尽管如此，我们希望这次讨论能成为任何对范畴论及其历史感兴趣的人的良好起点。
 
-* [1. 问题](https://plato.stanford.edu/entries/medieval-categories/#Iss)
-* [2. 古典背景（公元前 500 年之前）](https://plato.stanford.edu/entries/medieval-categories/#ClaBacPre)
-* [3. 中世纪早期（约公元 500 年至 1150 年）](https://plato.stanford.edu/entries/medieval-categories/#EarMidAgeCa500)
-* [4. 十三世纪](https://plato.stanford.edu/entries/medieval-categories/#ThiCen)
-* [4.1 罗伯特·基尔沃比（出生于 1215 年，逝世于 1279 年）](https://plato.stanford.edu/entries/medieval-categories/#RobKilB121D127)
-* [4.2 阿尔贝图斯·马格努斯（出生于 1200 年，逝世于 1280 年）](https://plato.stanford.edu/entries/medieval-categories/#AlbMagB120D128)
-* [4.3 托马斯·阿奎那（出生于 1224/6 年，逝世于 1274 年）](https://plato.stanford.edu/entries/medieval-categories/#ThoAquB122D127)
-* [5. 中世纪后期](https://plato.stanford.edu/entries/medieval-categories/#LatMidAge)
-* [5.1 约翰·邓斯·斯科特（约 1266 年出生，1308 年去世）](https://plato.stanford.edu/entries/medieval-categories/#JohDunScoBCa126D130)
-* [5.2 奥卡姆的威廉（约公元 1285 年出生，1347 年逝世）](https://plato.stanford.edu/entries/medieval-categories/#WilOckBCa128D134)
-* [6. 天主教神学银时代](https://plato.stanford.edu/entries/medieval-categories/#SilAgeSch)
-* [6.1 弗朗西斯·苏亚雷斯（出生于 1548 年，逝世于 1617 年）](https://plato.stanford.edu/entries/medieval-categories/#FraSuaB154D161)
-* [7. 结语](https://plato.stanford.edu/entries/medieval-categories/#ConRem)
-* [参考文献](https://plato.stanford.edu/entries/medieval-categories/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/medieval-categories/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/medieval-categories/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/medieval-categories/#Rel)
 
 ***
 

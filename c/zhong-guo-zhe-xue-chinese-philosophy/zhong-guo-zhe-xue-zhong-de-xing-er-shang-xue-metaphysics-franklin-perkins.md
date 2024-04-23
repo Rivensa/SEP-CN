@@ -8,22 +8,7 @@ _首次发表于 2015 年 4 月 2 日星期四；实质性修订于 2023 年 10 
 
 读者应该记住，在中国哲学中进行形而上学调查，不比对欧洲进行类似调查更为充分。本条目必然遗漏了更多内容。除了介绍最有影响力的立场和哲学家外，目标是阐明可以作为进一步阅读取向的重复模式和关注点。
 
-* [1. 中国哲学中是否存在“形而上学”？](https://plato.stanford.edu/entries/chinese-metaphysics/#TheMetChi)
-* [2. Proto-Metaphysical Background: The Mandate of Heaven](https://plato.stanford.edu/entries/chinese-metaphysics/#ProMetBacManHea)
-* [3. 宇宙起源的转向](https://plato.stanford.edu/entries/chinese-metaphysics/#CosTur)
-* [3.1 单元论](https://plato.stanford.edu/entries/chinese-metaphysics/#Mon)
-* [3.2 自发生成](https://plato.stanford.edu/entries/chinese-metaphysics/#SpoGen)
-* [3.3 Immanence](https://plato.stanford.edu/entries/chinese-metaphysics/#Imm)
-* [3.4 Polarity and Cycles](https://plato.stanford.edu/entries/chinese-metaphysics/#PolCyc)
-* [4. 公正与差异化](https://plato.stanford.edu/entries/chinese-metaphysics/#ImpDif)
-* [5. 相关宇宙论](https://plato.stanford.edu/entries/chinese-metaphysics/#CorCos)
-* [6. 中国哲学中的佛教形而上学](https://plato.stanford.edu/entries/chinese-metaphysics/#BudMetChi)
-* [7. 新儒家中的连贯性与气](https://plato.stanford.edu/entries/chinese-metaphysics/#CohVitEneNeoCon)
-* [8. 结论：超越“中国哲学”](https://plato.stanford.edu/entries/chinese-metaphysics/#ConBeyChi)
-* [参考文献](https://plato.stanford.edu/entries/chinese-metaphysics/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/chinese-metaphysics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/chinese-metaphysics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/chinese-metaphysics/#Rel)
+
 
 ***
 

@@ -10,24 +10,6 @@ _首次发布于 2019 年 4 月 16 日星期二_
 
 因此，论文的其余部分围绕着四种理想类型的哲学思维展开个体和各自的审视，因此形成了四分法结构。第 2 节探讨了生机论，将_气_（物质力量或心理-生理力量）作为世界转动的形而上学支点。第 3 节揭示了历史主义如何导致了寻求人类行为意义的倾向，通过欣赏变化背景中的特定偶然性。第 4 节阐明了功利主义，这是我对儒家行动主义理想的诠释，通过将效用和功能最大化地扩展到整个世界（_经世_）。智识主义，也在第 4 节讨论，是儒家追求外在、辩证知识的表现，最生动而有力地体现在考证运动（_考证_）中。
 
-* [1. 清哲学：一个时期概念](https://plato.stanford.edu/entries/qing-philosophy/#QingPhilPeriConc)
-* [2. 生机论：形而上学重塑](https://plato.stanford.edu/entries/qing-philosophy/#VitaMetaReor)
-* [3. Historicism: Contingency and Constancy](https://plato.stanford.edu/entries/qing-philosophy/#HistContCons)
-* [4. Utilitarianism: Thought and Action](https://plato.stanford.edu/entries/qing-philosophy/#UtilThouActi)
-* [5. Intellectualism: External Knowledge and Inquiry](https://plato.stanford.edu/entries/qing-philosophy/#InteExteKnowInqu)
-* [参考文献](https://plato.stanford.edu/entries/qing-philosophy/#Bib)
-* [A. 引用的主要来源](https://plato.stanford.edu/entries/qing-philosophy/#PrimSourQuot)
-* [B. 概述：一般调查和研究](https://plato.stanford.edu/entries/qing-philosophy/#BOverGeneSurvStud)
-* [C. 明清思想转型](https://plato.stanford.edu/entries/qing-philosophy/#CMingQingInteTran)
-* [D. 思想运动、问题和传统](https://plato.stanford.edu/entries/qing-philosophy/#DInteMoveIssuTrad)
-* [D.1 实学 (](https://plato.stanford.edu/entries/qing-philosophy/#D1PracLearShix)​\*[shixue/puxue/jingshi](https://plato.stanford.edu/entries/qing-philosophy/#D1PracLearShix)\*​[)](https://plato.stanford.edu/entries/qing-philosophy/#D1PracLearShix)
-* [D.2 证据学习 (](https://plato.stanford.edu/entries/qing-philosophy/#D2EvidLearKaoz)​\*[kaozheng](https://plato.stanford.edu/entries/qing-philosophy/#D2EvidLearKaoz)\*​[)](https://plato.stanford.edu/entries/qing-philosophy/#D2EvidLearKaoz)
-* [D.3 历史学术](https://plato.stanford.edu/entries/qing-philosophy/#D3HistScho)
-* [D.4 智慧派别和传承](https://plato.stanford.edu/entries/qing-philosophy/#D4InteSectLine)
-* [易经 5. 个体智者](https://plato.stanford.edu/entries/qing-philosophy/#D5IndiIntePers)
-* [学术工具](https://plato.stanford.edu/entries/qing-philosophy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qing-philosophy/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/qing-philosophy/#Rel)
 
 ***
 

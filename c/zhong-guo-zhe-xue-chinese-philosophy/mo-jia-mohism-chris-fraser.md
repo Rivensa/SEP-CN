@@ -8,30 +8,6 @@ _首次发表于 2002 年 10 月 21 日星期一；实质性修订于 2020 年 9
 
 墨家思想的核心要素包括倡导建立在后果伦理学基础上的统一伦理和政治秩序；积极反对军事侵略和伤害他人；崇尚实用和节俭，谴责浪费和奢侈；支持由一个有德行、仁慈的君主领导的中央集权国家，并由一个按功绩选拔的官僚体系管理；尊重并顺从天（即天空）和传统民间信仰中所崇拜的鬼神。墨家的伦理学和认识论以寻找能够可靠和公正地引导判断和行动、产生有益的、符合道德的后果的客观标准为特征。墨家认为人们天生就会被激励去做他们认为正确的事情，因此通过适当的道德教育，他们通常会倾向于遵守正确的伦理规范。他们坚信讨论和说服的力量可以解决伦理问题并激励行动，他们相信道德和政治问题有客观答案，可以通过探究来发现和捍卫。
 
-* [1. 墨子和墨家](https://plato.stanford.edu/entries/mohism/#Mozi)
-* [补充：文本和作者](https://plato.stanford.edu/entries/mohism/texts.html)
-* [补充：社会起源对墨家思想的影响](https://plato.stanford.edu/entries/mohism/social.html)
-* [2. 墨家十綱](https://plato.stanford.edu/entries/mohism/#doctrines)
-* [3. 尋求客觀標準](https://plato.stanford.edu/entries/mohism/#SeaObjSta)
-* [法的概念（](https://plato.stanford.edu/entries/mohism/#fa)​\*[Fa](https://plato.stanford.edu/entries/mohism/#fa)\*​[模型）](https://plato.stanford.edu/entries/mohism/#fa)
-* [4. 认识论](https://plato.stanford.edu/entries/mohism/#epistemology)
-* [三种](https://plato.stanford.edu/entries/mohism/#threefa)​\*[法](https://plato.stanford.edu/entries/mohism/#threefa)\*​[（模式）与理由问题](https://plato.stanford.edu/entries/mohism/#threefa)
-* [5. 逻辑与论证](https://plato.stanford.edu/entries/mohism/#logic)
-* [6. 政治理论](https://plato.stanford.edu/entries/mohism/#political)
-* [批判性评估](https://plato.stanford.edu/entries/mohism/#assessment)
-* [推崇有德者](https://plato.stanford.edu/entries/mohism/#worthy)
-* [7. 伦理学理论](https://plato.stanford.edu/entries/mohism/#ethics)
-* [包容性关怀](https://plato.stanford.edu/entries/mohism/#inclusive)
-* [实践上的反对意见](https://plato.stanford.edu/entries/mohism/#objections)
-* [正当性与天的角色](https://plato.stanford.edu/entries/mohism/#heaven)
-* [批判性评估](https://plato.stanford.edu/entries/mohism/#assessment2)
-* [8. 宗教](https://plato.stanford.edu/entries/mohism/#religion)
-* [9. 历史影响和衰落](https://plato.stanford.edu/entries/mohism/#historical)
-* [参考文献](https://plato.stanford.edu/entries/mohism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/mohism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mohism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/mohism/#Rel)
-
 ***
 
 ## 1. 墨子和墨家

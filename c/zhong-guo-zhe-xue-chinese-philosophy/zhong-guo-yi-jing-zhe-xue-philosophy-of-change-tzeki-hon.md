@@ -18,22 +18,6 @@ _首次发表于 2019 年 3 月 29 日星期五；实质性修订于 2023 年 9 
 
 接下来，我们将从四个角度探讨《易经》的哲学：人类在宇宙大舞中的有限性，需要做出决策以应对变化，使用符号理解世界的复杂性，以及重要的仪式找到日常生活的方向。这四个方面共同强调了我们作为敏感灵魂的局限性，不断受到变化困扰和扰乱，以及我们作为明智存在的能力，勇敢而有尊严地面对变化。更重要的是，这四个方面帮助我们欣赏在中国帝国时期撰写的大量评论中所揭示的《易经》的丰富内涵。尽管它们在语调、风格和结构上有所不同，但这些评论揭示了《易经》的隐含含义，并发展出三种独特的应对变化方法：宇宙观方法、理性人文主义方法和占卜方法。
 
-* [1.《易经》的文本](https://plato.stanford.edu/entries/chinese-change/#TextBookChan)
-* [1.1 人类有限性](https://plato.stanford.edu/entries/chinese-change/#HumaFini)
-* [1.2 决策](https://plato.stanford.edu/entries/chinese-change/#DeciMaki)
-* [1.3 符号](https://plato.stanford.edu/entries/chinese-change/#Symb)
-* [1.4 仪式](https://plato.stanford.edu/entries/chinese-change/#Ritu)
-* [2. 《易经》的注解](https://plato.stanford.edu/entries/chinese-change/#CommBookChan)
-* [2.1. 宇宙论方法](https://plato.stanford.edu/entries/chinese-change/#CosmAppr)
-* [2.2. 理性人文主义方法](https://plato.stanford.edu/entries/chinese-change/#RatiHumaAppr)
-* [2.3. 占卜方法](https://plato.stanford.edu/entries/chinese-change/#DiviAppr)
-* [3. 勇敢和尊严面对变化](https://plato.stanford.edu/entries/chinese-change/#FaceChanCourDign)
-* [参考文献](https://plato.stanford.edu/entries/chinese-change/#Bib)
-* [主要文献和《易经》翻译](https://plato.stanford.edu/entries/chinese-change/#PrimSourChanTran)
-* [次要文献](https://plato.stanford.edu/entries/chinese-change/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/chinese-change/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/chinese-change/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/chinese-change/#Rel)
 
 ***
 

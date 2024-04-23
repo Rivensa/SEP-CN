@@ -4,31 +4,6 @@ _首次发表于 2008 年 1 月 10 日；实质性修订于 2023 年 8 月 10 �
 
 中国伦理思想的传统主要关注一个人应该如何生活的问题：一个有价值的生活需要考虑什么，如何权衡对家庭的责任与对陌生人的责任，人类的本性是天生善良还是邪恶，一个人应该如何与非人类世界相处，一个人应该在多大程度上参与改革社会和政治结构，以及一个人在拥有影响力或权力时应该如何行事。个人、社会和政治在中国对这一主题的探讨中经常交织在一起。任何想要汲取有关这一主题的重要传统思想范围的人都需要认真研究中国传统。这一传统的经典文本已经被亚洲社会的学童背诵了数百年，同时也成为根植于不同传统和方法的学者和理论家进行复杂和严谨分析的对象。本文将介绍儒家、墨家、道家、法家和中国佛教中一些最具影响力的文本引发的伦理问题，重点关注前四者，它们是中国本土的，并在中国哲学的古典时期（公元前 6 世纪中叶至公元前 3 世纪末）产生。
 
-* [1. 中国伦理特点：实践关注和与前理论经验的密切联系](https://plato.stanford.edu/entries/ethics-chinese/#ChaChiEthPraFocCloPreTheExp)
-* [2. 儒家伦理学](https://plato.stanford.edu/entries/ethics-chinese/#ConEth)
-* [2.1 修德伦理学：](https://plato.stanford.edu/entries/ethics-chinese/#VirEthDaoJunRen)​\*[道](https://plato.stanford.edu/entries/ethics-chinese/#VirEthDaoJunRen)_​_[_、_](https://plato.stanford.edu/entries/ethics-chinese/#VirEthDaoJunRen)_​_[君子](https://plato.stanford.edu/entries/ethics-chinese/#VirEthDaoJunRen)_​_[_和_](https://plato.stanford.edu/entries/ethics-chinese/#VirEthDaoJunRen)_​_[仁](https://plato.stanford.edu/entries/ethics-chinese/#VirEthDaoJunRen)\*
-* [2.2 ](https://plato.stanford.edu/entries/ethics-chinese/#CenLiRit)​\*[礼](https://plato.stanford.edu/entries/ethics-chinese/#CenLiRit)\*​[的中心地位或仪式](https://plato.stanford.edu/entries/ethics-chinese/#CenLiRit)
-* [2.3 ](https://plato.stanford.edu/entries/ethics-chinese/#RenLiRelValConValIndAut)​\*[仁](https://plato.stanford.edu/entries/ethics-chinese/#RenLiRelValConValIndAut)_​_[_和_](https://plato.stanford.edu/entries/ethics-chinese/#RenLiRelValConValIndAut)_​_[礼](https://plato.stanford.edu/entries/ethics-chinese/#RenLiRelValConValIndAut)\*​[作为相对于个体自主价值的关系价值](https://plato.stanford.edu/entries/ethics-chinese/#RenLiRelValConValIndAut)
-* [2.4 孔子伦理学中孝道的中心地位和有别的关爱原则](https://plato.stanford.edu/entries/ethics-chinese/#CenFilPieConEthDocLovDis)
-* [2.5 孟子对有别的关爱的辩护及其关于道德知识和人类本性动机根源的理论](https://plato.stanford.edu/entries/ethics-chinese/#MenDefLovDisHisTheRooMorKnoMotHumNat)
-* [2.6 汉代 versus 孟子 on human nature and the origins of morality](https://plato.stanford.edu/entries/ethics-chinese/#XunVerMenHumNatOriMor)
-* [2.7 儒家思想 and the situationist problem for virtue ethics](https://plato.stanford.edu/entries/ethics-chinese/#ConSitProVirEth)
-* [2.8 孔子伦理学中的责任和代理](https://plato.stanford.edu/entries/ethics-chinese/#Responsibility)
-* [2.9 新儒家道德理论及其在宇宙观中的基础](https://plato.stanford.edu/entries/ethics-chinese/#NeoConTheMorTheGroCos)
-* [2.10 儒家思想与性别](https://plato.stanford.edu/entries/ethics-chinese/#ConfGen)
-* [2.11 儒家思想与自由民主](https://plato.stanford.edu/entries/ethics-chinese/#ConfandDemo)
-* [3. 墨家伦理学](https://plato.stanford.edu/entries/ethics-chinese/#MohEth)
-* [3.1 结果伦理学，但是什么样的？](https://plato.stanford.edu/entries/ethics-chinese/#ConEthBut)
-* [3.2 与儒家伦理的比较](https://plato.stanford.edu/entries/ethics-chinese/#Comparisons)
-* [4. 道家伦理](https://plato.stanford.edu/entries/ethics-chinese/#DaoEth)
-* [4.1 从《道德经》中得出的伦理观：行动的“柔”风格和社会原始主义](https://plato.stanford.edu/entries/ethics-chinese/#EthPerDraDaoSofStyActSocPri)
-* [4.2 庄子的伦理观：怀疑性质询问，顺应事物的本质，包容，接受和自由](https://plato.stanford.edu/entries/ethics-chinese/#EthPerZhuSkeQueAttGraThiIncAcc)
-* [5. 法家 (](https://plato.stanford.edu/entries/ethics-chinese/#Leg)​\*[Fajia](https://plato.stanford.edu/entries/ethics-chinese/#Leg)\*​[)](https://plato.stanford.edu/entries/ethics-chinese/#Leg)
-* [6. 中国佛教伦理学](https://plato.stanford.edu/entries/ethics-chinese/#ChiBudEth)
-* [参考文献](https://plato.stanford.edu/entries/ethics-chinese/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/ethics-chinese/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ethics-chinese/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ethics-chinese/#Rel)
 
 ***
 

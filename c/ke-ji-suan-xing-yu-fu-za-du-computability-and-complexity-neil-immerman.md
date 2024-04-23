@@ -4,24 +4,6 @@
 
 一个数学问题如果原则上可以通过计算设备解决，则称为可计算的。一些常见的“可计算”的同义词包括“可解的”、“可判定的”和“递归的”。希尔伯特认为所有数学问题都是可解的，但在 20 世纪 30 年代，哥德尔、图灵和丘奇表明这并非如此。对于哪些数学问题是可计算的，哪些不是，进行了广泛的研究和分类。此外，根据问题实例规模的计算量，对可计算问题进行了广泛的分类，以确定需要多少计算才能回答该实例。这些分类的清晰、优雅和精确程度令人印象深刻。
 
-* [什么原则上可以被计算？简介与历史](https://plato.stanford.edu/entries/computability/#WhaComPriIntHis)
-* [2. 图灵机](https://plato.stanford.edu/entries/computability/#TurMac)
-
-  * [ 2.1 通用机器](https://plato.stanford.edu/entries/computability/#UniMac)
-  * [2.2 停机问题](https://plato.stanford.edu/entries/computability/#HalPro)
-  * [2.3 可计算函数与可枚举性](https://plato.stanford.edu/entries/computability/#ComFunEnu)
-  * [2.4 停机问题的不可解性](https://plato.stanford.edu/entries/computability/#UnsHalPro)
-* [3. 原始递归函数](https://plato.stanford.edu/entries/computability/#PriRecFun)
-
-  * [ 3.1 递归函数](https://plato.stanford.edu/entries/computability/#RecFun)
-* [4. Computational Complexity: Functions Computable in Practice 可计算性与复杂度：实践中可计算的函数](https://plato.stanford.edu/entries/computability/#ComComFunComPra)
-
-  * [4.1 归约与完备性](https://plato.stanford.edu/entries/computability/#RedCom)
-  * [4.2 复杂度的重要性](https://plato.stanford.edu/entries/computability/#SigCom)
-* [ 参考文献](https://plato.stanford.edu/entries/computability/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/computability/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/computability/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/computability/#Rel)
 
 ---
 

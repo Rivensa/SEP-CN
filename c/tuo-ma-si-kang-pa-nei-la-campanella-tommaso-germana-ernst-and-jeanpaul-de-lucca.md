@@ -4,17 +4,6 @@ _首次发表于 2005 年 8 月 31 日星期三；实质性修订于 2021 年 4 
 
 托马斯·康帕内拉（1568 年斯蒂洛 - 1639 年巴黎）是文艺复兴晚期最重要的哲学家之一。尽管他今天最著名的作品是乌托邦文本《太阳之城》（The City of the Sun），但他的思想极为复杂，涉及各个学科。他思想的基本核心，将在本文中探讨，涉及自然哲学（现今称为科学）、魔术、政治理论和自然宗教。
 
-* [1. 传略](https://plato.stanford.edu/entries/campanella/#Biog)
-* [2. 批判亚里士多德并支持泰莱西奥的自然哲学](https://plato.stanford.edu/entries/campanella/#Crit)
-* [3. 事物的感知和自然魔法](https://plato.stanford.edu/entries/campanella/#Sens)
-* [4. 卡拉布里亚阴谋和《太阳城》中的预言](https://plato.stanford.edu/entries/campanella/#Cala)
-* [5. 世界帝国](https://plato.stanford.edu/entries/campanella/#Univ)
-* [6. 自然宗教：](https://plato.stanford.edu/entries/campanella/#Natu)​\*[征服无神论](https://plato.stanford.edu/entries/campanella/#Natu)\*
-* [7. 在那不勒斯的监禁岁月和在罗马与巴黎的逗留](https://plato.stanford.edu/entries/campanella/#Year)
-* [参考文献](https://plato.stanford.edu/entries/campanella/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/campanella/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/campanella/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/campanella/#Rel)
 
 ***
 

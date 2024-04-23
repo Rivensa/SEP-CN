@@ -8,27 +8,7 @@ _首次发布于 2019 年 11 月 5 日星期二_
 
 尽管在唐文宗（842-846 年）对佛教的迫害之后，中国的华严宗学派的活力有所衰退，但其教义、隐喻和词汇对禅宗佛教和宋明两代的新儒家思想产生了重要影响。
 
-* [1. 基本概念](https://plato.stanford.edu/entries/buddhism-huayan/#BasiConc)
-* [1.1 印度背景](https://plato.stanford.edu/entries/buddhism-huayan/#IndiBack)
-* [1.2 中国发展](https://plato.stanford.edu/entries/buddhism-huayan/#ChinDeve)
-* [1.3 基本论点](https://plato.stanford.edu/entries/buddhism-huayan/#BasiArgu)
-* [2. 杜顺 (557–640)](https://plato.stanford.edu/entries/buddhism-huayan/#Dush557640)
-* [3. Zhiyan (602–668)](https://plato.stanford.edu/entries/buddhism-huayan/#Zhiy602668)
-* [4. Fazang (643–712)](https://plato.stanford.edu/entries/buddhism-huayan/#Faza643712)
-* [4.1 三性理论](https://plato.stanford.edu/entries/buddhism-huayan/#ThreNatuTheo)
-* [4.2 一心分析](https://plato.stanford.edu/entries/buddhism-huayan/#AnalOneMind)
-* [4.3 华严宗](https://plato.stanford.edu/entries/buddhism-huayan/#AnalDhar)​\*[Dharmas](https://plato.stanford.edu/entries/buddhism-huayan/#AnalDhar)\*​[分析](https://plato.stanford.edu/entries/buddhism-huayan/#AnalDhar)
-* [4.4 ](https://plato.stanford.edu/entries/buddhism-huayan/#Panj)​\*[Panjiao](https://plato.stanford.edu/entries/buddhism-huayan/#Panj)\*
-* [5. 李通玄 (635–730)](https://plato.stanford.edu/entries/buddhism-huayan/#LiTong635730)
-* [6. 成观 (738–839)](https://plato.stanford.edu/entries/buddhism-huayan/#Chen738839)
-* [7. 圭峰宗密 (780–841)](https://plato.stanford.edu/entries/buddhism-huayan/#GuifZong780841)
-* [8. 后续发展与影响](https://plato.stanford.edu/entries/buddhism-huayan/#LateDeveInfl)
-* [8.1 新儒家主义](https://plato.stanford.edu/entries/buddhism-huayan/#NeoConf)
-* [8.2 当代华严宗](https://plato.stanford.edu/entries/buddhism-huayan/#ContHuay)
-* [参考文献](https://plato.stanford.edu/entries/buddhism-huayan/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/buddhism-huayan/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/buddhism-huayan/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/buddhism-huayan/#Rel)
+
 
 ***
 

@@ -4,36 +4,6 @@
 
 哈斯代·克雷斯卡斯拉比（约 1340 年至 1410/11 年）是阿拉贡犹太社区的领袖，在某种程度上也是西班牙犹太人的领袖，在其最关键的时期之一。克雷斯卡斯是他那个时代的主要拉比权威之一，阿拉贡犹太人的政治领袖，也是反基督教的哲学家。作为主要的中世纪犹太哲学家之一，克雷斯卡斯批评了梅蒙尼德的激进亚里士多德哲学以及他的一些哲学继承者。他谴责不同的亚里士多德观点不仅违背犹太传统，也违背对世界真实经验和理性的理解。克雷斯卡斯整合了传统犹太观点、多样化的亚里士多德来源、叛教者阿布内尔·德·布尔戈斯的新柏拉图思想以及 14 世纪新斯科拉学的科学，形成了一种中世纪时期所知的亚里士多德主义的原创哲学观点和批评。他的哲学著作《上帝之光》是犹太思想和对亚里士多德科学的批评的重要作品，促进了现代时期新科学的发展，这种发展可以说始于 14 世纪。直到最近，这本书还没有完整地被翻译成任何西方语言，尽管它影响了普遍的西方哲学，特别是通过像皮科·德拉·米兰多拉和斯宾诺莎这样的思想家。
 
-* [ 1. 他的生活](https://plato.stanford.edu/entries/crescas/#HisLif)
-* [2. 他的作品](https://plato.stanford.edu/entries/crescas/#HisWor)
-
-  * [ 2.1 早期作品](https://plato.stanford.edu/entries/crescas/#EarWor)
-  * [ 2.2 逾越节讲道](https://plato.stanford.edu/entries/crescas/#PasSer)
-  * [基督教原则的反驳](https://plato.stanford.edu/entries/crescas/#RefChrPri)
-  * [或哈谢姆（主的光）](https://plato.stanford.edu/entries/crescas/#HasLigLor)
-* [上帝的存在和属性](https://plato.stanford.edu/entries/crescas/#GodExiAtt)
-
-  * [ 3.1 上帝的存在：](https://plato.stanford.edu/entries/crescas/#GodExi)
-  * [ 3.2 上帝的属性](https://plato.stanford.edu/entries/crescas/#GodAtt)
-* [4. 亚里士多德科学的批评](https://plato.stanford.edu/entries/crescas/#CriAriSci)
-
-  * [4.1 无限的定义](https://plato.stanford.edu/entries/crescas/#DefInf)
-  * [4.2 物质的定义](https://plato.stanford.edu/entries/crescas/#DefMat)
-  * [4.3 地点的定义](https://plato.stanford.edu/entries/crescas/#DefPla)
-* [5. 选择和自由意志的问题](https://plato.stanford.edu/entries/crescas/#QueChoFreWil)
-* [6. 灵魂的本质和死后生活](https://plato.stanford.edu/entries/crescas/#EssSouLifAftDea)
-* [7. 克雷斯卡斯和 Conversos 的问题](https://plato.stanford.edu/entries/crescas/#CresConvQues)
-* [8. 接受与影响](https://plato.stanford.edu/entries/crescas/#RecInf)
-
-  * [8.1 对西方一般哲学的影响](https://plato.stanford.edu/entries/crescas/#InfGenOcc)
-* [ 参考文献](https://plato.stanford.edu/entries/crescas/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/crescas/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/crescas/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/crescas/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/crescas/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/crescas/#Rel)
-
 ---
 
 ## 1. 他的生活

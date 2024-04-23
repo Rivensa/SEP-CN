@@ -4,18 +4,7 @@ _首次发布于2007年11月21日星期三；实质性修订于2017年11月6日�
 
 “大陆理性主义”这个表达指的是在17世纪后两个三分之二和18世纪初活跃在欧洲大陆的一些哲学家所持有的一套观点。理性主义通常被描述为一种认识论立场。根据这一观点，要成为一名理性主义者，至少需要满足以下条件之一：（1）将理性和直觉置于感觉和经验之上，（2）将所有或大多数观念视为与生俱来而非后天习得，（3）强调确定性而非仅仅是可能性的知识作为探究的目标。虽然所有大陆理性主义者都符合这些标准中的一个或多个，但这可能是更深层次联系的结果，即对实体现实的形而上学承诺，特别是将实体视为统一的基本原则。
 
-* [介绍：理性主义与实质](https://plato.stanford.edu/entries/continental-rationalism/#IntrRatiSubs)
-* [笛卡尔及其批评者](https://plato.stanford.edu/entries/continental-rationalism/#DescHisCrit)
-* [马勒布朗什和坎文迪许](https://plato.stanford.edu/entries/continental-rationalism/#MaleCave)
-* [4. 斯宾诺莎](https://plato.stanford.edu/entries/continental-rationalism/#Spin)
-* [莱布尼茨和康威](https://plato.stanford.edu/entries/continental-rationalism/#LeibConw)
-* [超越大陆理性主义：其他声音](https://plato.stanford.edu/entries/continental-rationalism/#BeyoContRatiOtheVoic)
-* [参考文献](https://plato.stanford.edu/entries/continental-rationalism/#Bib)
-  * [主要来源](https://plato.stanford.edu/entries/continental-rationalism/#PrimSour)
-  * [次级来源](https://plato.stanford.edu/entries/continental-rationalism/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/continental-rationalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/continental-rationalism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/continental-rationalism/#Rel)
+
 
 ***
 

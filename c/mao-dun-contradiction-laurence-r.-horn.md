@@ -8,17 +8,6 @@ _首次发布于2006年6月28日星期三；实质性修订于2018年8月29日�
 
 本条目概述了矛盾律（LNC）作为亚里士多德哲学及其继承者中最重要的第一原则之一的角色，并描述了LNC与排中律（LEM）在建立矛盾和相反对立性质方面的关系。第1节介绍了亚里士多德《第一哲学》中将LNC作为公理的经典处理方式，并回顾了在对立方块上概括的矛盾和相反对立的地位。第2节进一步探讨了LNC和LEM的可能特征，包括未来可能陈述的相关性，在其中LEM（但不是LNC）有时被认为失败。第3节讨论了矛盾否定作为命题运算符的逻辑地位与自然语言中矛盾否定的多样实现之间的不匹配。第4节涉及了西方哲学中对LNC的几个挑战，包括悖论，以及具有真值缺失（违反LEM）和真值过剩（违反LNC）的系统之间的关系。在第5节中，佛教逻辑的四隅论在缺失和过剩的背景下进行了讨论；提出了在这一传统（以及其他传统）中对LNC的明显违反可以归因于亚里士多德所预见的评估不同观点，或者干预的情态和认识运算符。第6节关注“边界矛盾”的问题：在实证研究中调查的具有模糊谓词的明显矛盾句子的接受判断范围，以及这些研究的理论含义。最后，第7节从莎士比亚到社交媒体，概述了矛盾及其在文学和流行文化中的利用方式。
 
-* [LNC作为不可证明的](https://plato.stanford.edu/entries/contradiction/#LNCInd)
-* [LEM和LNC](https://plato.stanford.edu/entries/contradiction/#LEMLNC)
-* [术语逻辑和命题逻辑中的矛盾否定](https://plato.stanford.edu/entries/contradiction/#ConNegTerProLog)
-* [间隙与过剩：LNC及其不满](https://plato.stanford.edu/entries/contradiction/#GapGluLNCDis)
-* [5. 逻辑非矛盾性和佛教的四隅论](https://plato.stanford.edu/entries/contradiction/#LNCBudTet)
-* [模糊性和边界矛盾](https://plato.stanford.edu/entries/contradiction/#VagBorCon)
-* [日常生活中的矛盾](https://plato.stanford.edu/entries/contradiction/#ConEveLif)
-* [参考文献](https://plato.stanford.edu/entries/contradiction/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/contradiction/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/contradiction/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/contradiction/#Rel)
 
 ***
 

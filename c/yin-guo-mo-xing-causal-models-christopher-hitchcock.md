@@ -4,31 +4,7 @@ _首次发布于 2018 年 8 月 7 日星期二_
 
 因果模型是代表个体系统或人口内因果关系的数学模型。它们有助于从统计数据中推断因果关系。它们可以教给我们很多关于因果关系认识论以及因果关系与概率之间关系的知识。它们也被应用于哲学家感兴趣的主题，比如反事实逻辑、决策理论以及实际因果分析。
 
-* [1. 简介](https://plato.stanford.edu/entries/causal-models/#Intr)
-* [2. 基本工具](https://plato.stanford.edu/entries/causal-models/#BasiTool)
-* [2.1 变量、逻辑和语言](https://plato.stanford.edu/entries/causal-models/#VariLogiLang)
-* [2.2 概率](https://plato.stanford.edu/entries/causal-models/#Prob)
-* [2.3 图表](https://plato.stanford.edu/entries/causal-models/#Grap)
-* [3. 确定性结构方程模型](https://plato.stanford.edu/entries/causal-models/#DeteStruEquaMode)
-* [3.1 结构方程模型简介](https://plato.stanford.edu/entries/causal-models/#IntrSEMs)
-* [3.2 结构反事实](https://plato.stanford.edu/entries/causal-models/#StruCoun)
-* [3.3 实际因果](https://plato.stanford.edu/entries/causal-models/#ActuCaus)
-* [4. 概率因果模型](https://plato.stanford.edu/entries/causal-models/#ProbCausMode)
-* [4.1 具有随机误差的结构方程模型](https://plato.stanford.edu/entries/causal-models/#StruEquaModeRandErro)
-* [4.2 马尔可夫条件](https://plato.stanford.edu/entries/causal-models/#MarkCond)
-* [4.3 最小性和忠实性条件](https://plato.stanford.edu/entries/causal-models/#MiniFaitCond)
-* [4.4 因果结构的可识别性](https://plato.stanford.edu/entries/causal-models/#IdenCausStru)
-* [4.5 对功能形式假设的可识别性](https://plato.stanford.edu/entries/causal-models/#IdenAssuAbouFuncForm)
-* [4.6 潜在共同原因](https://plato.stanford.edu/entries/causal-models/#LateCommCaus)
-* [4.7 干预](https://plato.stanford.edu/entries/causal-models/#Inte)
-* [4.8. 干预决策理论](https://plato.stanford.edu/entries/causal-models/#InteDeciTheo)
-* [4.9 干预下的因果发现](https://plato.stanford.edu/entries/causal-models/#CausDiscInte)
-* [4.10 反事实条件句](https://plato.stanford.edu/entries/causal-models/#Coun)
-* [5. 进一步阅读](https://plato.stanford.edu/entries/causal-models/#FurtRead)
-* [参考文献](https://plato.stanford.edu/entries/causal-models/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/causal-models/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/causal-models/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/causal-models/#Rel)
+
 
 ***
 

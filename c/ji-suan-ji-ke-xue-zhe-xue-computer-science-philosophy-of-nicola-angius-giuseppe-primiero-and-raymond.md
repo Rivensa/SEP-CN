@@ -4,50 +4,6 @@
 
 计算机科学哲学关注于计算机科学学科内部产生的本体论和方法论问题，以及软件开发及其商业和工业部署的实践。更具体地说，计算机科学哲学考虑了计算系统的本体论和认识论，重点关注与其规范、编程、实现、验证和测试相关的问题。计算机程序的复杂性确保了计算机科学哲学提出的许多概念问题与数学哲学、经验科学哲学和技术哲学中的问题相关。我们将在第 1 至 5 节提供反映计算系统本体论分层性质的主题分析；然后在第 6 至 8 节讨论涉及其方法论的主题。
 
-* [计算系统](https://plato.stanford.edu/entries/computer-science/#CompSyst)
-
-  * [1.1 软件和硬件](https://plato.stanford.edu/entries/computer-science/#SoftHard)
-  * [1.2 抽象级别的方法](https://plato.stanford.edu/entries/computer-science/#MethLeveAbst)
-* [2. 意图和规范](https://plato.stanford.edu/entries/computer-science/#InteSpec)
-
-  * [ 2.1 意图](https://plato.stanford.edu/entries/computer-science/#Inte)
-  * [2.2 定义和规范](https://plato.stanford.edu/entries/computer-science/#DefiSpec)
-  * [2.3 规格和功能](https://plato.stanford.edu/entries/computer-science/#SpecFunc)
-* [ 算法](https://plato.stanford.edu/entries/computer-science/#Algo)
-
-  * [3.1 古典方法](https://plato.stanford.edu/entries/computer-science/#ClasAppr)
-  * [ 3.2 正式方法](https://plato.stanford.edu/entries/computer-science/#FormAppr)
-  * [ 3.3 非正式方法](https://plato.stanford.edu/entries/computer-science/#InfoAppr)
-* [ 4. 程序](https://plato.stanford.edu/entries/computer-science/#Prog)
-
-  * [4.1 程序作为理论](https://plato.stanford.edu/entries/computer-science/#ProgTheo)
-  * [4.2 程序作为技术工件](https://plato.stanford.edu/entries/computer-science/#ProgTechArti)
-  * [4.3 程序及其与世界的关系](https://plato.stanford.edu/entries/computer-science/#ProgTheiRelaWorl)
-* [ 5. 实施](https://plato.stanford.edu/entries/computer-science/#Impl)
-
-  * [5.1 实现作为语义解释](https://plato.stanford.edu/entries/computer-science/#ImplSemaInte)
-  * [5.2 将实现作为关系规范-工件。](https://plato.stanford.edu/entries/computer-science/#ImplRelaSpecArti)
-  * [5.3 用于 LoAs 的实现](https://plato.stanford.edu/entries/computer-science/#ImplForLoAs)
-  * [5.4 物理计算](https://plato.stanford.edu/entries/computer-science/#PhysComp)
-* [ 6. 验证](https://plato.stanford.edu/entries/computer-science/#Veri)
-
-  * [6.1 模型和理论](https://plato.stanford.edu/entries/computer-science/#ModeTheo)
-  * [6.2 测试和实验](https://plato.stanford.edu/entries/computer-science/#TestExpe)
-  * [ 6.3 解释](https://plato.stanford.edu/entries/computer-science/#Expl)
-* [ 正确性](https://plato.stanford.edu/entries/computer-science/#Corr)
-
-  * [7.1 数学正确性](https://plato.stanford.edu/entries/computer-science/#MathCorr)
-  * [7.2 物理正确性](https://plato.stanford.edu/entries/computer-science/#PhysCorr)
-  * [ 7.3 计算错误](https://plato.stanford.edu/entries/computer-science/#Misc)
-* [计算机科学的认识论地位](https://plato.stanford.edu/entries/computer-science/#EpisStatCompScie)
-
-  * [8.1 计算机科学作为一门数学学科](https://plato.stanford.edu/entries/computer-science/#CompScieMathDisc)
-  * [8.2 计算机科学作为一门工程学科](https://plato.stanford.edu/entries/computer-science/#CompScieEngiDisc)
-  * [8.3 计算机科学作为一门科学学科](https://plato.stanford.edu/entries/computer-science/#NComScieScieDisc)
-* [ 参考文献](https://plato.stanford.edu/entries/computer-science/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/computer-science/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/computer-science/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/computer-science/#Rel)
 
 ---
 

@@ -8,19 +8,6 @@ _首次发表于 2002 年 6 月 22 日星期六；实质性修订于 2022 年 4 
 
 第（1）和（2）部分分别提供了“意识”和“意向性”所指的初步说明，突出相关的解释困难。然后勾勒了在现象学（第 3 部分）和分析哲学（第 4 部分）中出现的具有影响力的观点，以便更容易地认识一些共同的、反复出现的主题。这些主题涉及首先：意识或意向性是否“内在于主体”或者基本上与环境联系在一起——可分离性的主题。第二个主题涉及如何（或者是否）区分基本类型的意向性——例如，智力和感官；概念和非概念性——以及在这些划分方面如何定位意识：这是基本形式的主题。第三，有关意识如何与自我意识相关的问题——反身性的主题。第（5）部分描述了关于意识-意向性关系的多样观点，涉及可分离性和基本形式的主题。这里将那些将意识与意向性分离的分裂主义观点与各种将它们联系在一起的意向主义观点进行对比：外在主义和非外在主义；还原主义和非还原主义；限制性和包容性；反身主义者和非反身主义者。本节与两个补充讨论相关联：一个总结了最近为意向主义辩护的方式；另一个考虑了意向主义在经典现象学著作中的作用。第（6）部分侧重于限制性/包容性对比，以及涉及“认知现象学”的问题。第（7）部分回到了反身主题，以及关于意识的高阶再现主义和自我再现主义解释——与关于自我意识的意识的补充讨论相关。第（8）部分考虑了一个人对意识与意向性关系看法如何可能影响对其在心智中的位置理解。最后，第（9）部分提出了前几节讨论的问题如何影响哲学兴趣的四个广泛领域的一些方式：心灵和自我的本质和界限；意识和意向性在解释中的位置；知识和理由形式；价值的种类和实例。
 
-* [“Consciousness” 的解释](https://plato.stanford.edu/entries/consciousness-intentionality/#InteCons)
-* [2. “意向性” 的解释](https://plato.stanford.edu/entries/consciousness-intentionality/#InteInte)
-* [意识与意向性在现象学中](https://plato.stanford.edu/entries/consciousness-intentionality/#ConsIntePhen)
-* [4. 意向性与分析传统](https://plato.stanford.edu/entries/consciousness-intentionality/#InteAnalHeri)
-* [5. 意向性的多样性](https://plato.stanford.edu/entries/consciousness-intentionality/#VariInte)
-* [6. 意识有多丰富？](https://plato.stanford.edu/entries/consciousness-intentionality/#HowRichCons)
-* [7. 意识与自我意识](https://plato.stanford.edu/entries/consciousness-intentionality/#ConsSelfCons)
-* [8. 意识与意向性](https://plato.stanford.edu/entries/consciousness-intentionality/#ConsMind)
-* [为什么重要](https://plato.stanford.edu/entries/consciousness-intentionality/#WhyItMatt)
-* [参考文献](https://plato.stanford.edu/entries/consciousness-intentionality/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/consciousness-intentionality/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/consciousness-intentionality/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/consciousness-intentionality/#Rel)
 
 ***
 

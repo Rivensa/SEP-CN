@@ -10,41 +10,6 @@
 
 将非西方传统的伦理价值视为缺乏女性主义潜力，甚至是明显反女性主义的观点，在跨文化女性主义话语中是常见的。这在当代女性主义与儒家哲学的互动中也是如此。中国比较社区对这种女性主义对儒家的刻板印象开始反击，这种现象始于 1990 年代中期，首先集中在关爱伦理与儒家仁的积极比较上，然后扩展到儒家在各种当代问题上的应用，如堕胎、同性婚姻、老年护理等。基于这种积极的女性主义与儒家哲学的互动，提出了一种混合女性主义理论——儒家女性主义，利用儒家术语、方法和关注点作为理论基础，来探讨当代世界中女性问题、经验和关切。这种混合女性主义理论是一个前瞻性项目，旨在激发对儒家哲学的进一步积极女性主义互动，以制定多样化且可行的概念工具，帮助女性构想自己超越西方哲学经典范式的解放未来。
 
-* [&quot;翻译中的“性别”&quot;](https://plato.stanford.edu/entries/confucian-gender/#GendTran)
-* [2. 阴阳相关宇宙学](https://plato.stanford.edu/entries/confucian-gender/#YinYangCorrCosm)
-* [3. Nei-wai 内外 and Gendered Differentiation 3. 内外和性别差异](https://plato.stanford.edu/entries/confucian-gender/#NeiWaiGendDiff)
-
-  * [3.1 内外作为性别领域](https://plato.stanford.edu/entries/confucian-gender/#NeiWaiGendSphe)
-  * [3.2 内部的仪式束缚](https://plato.stanford.edu/entries/confucian-gender/#RituConfNei)
-  * [3.3 穿越内外界限：班昭案例](https://plato.stanford.edu/entries/confucian-gender/#TravNeiWaiBounCaseBanZhao)
-* [4.女性依赖与女性教诲文本](https://plato.stanford.edu/entries/confucian-gender/#FemaDepeDidaTextForWome)
-
-  * [4.1 三从和四德](https://plato.stanford.edu/entries/confucian-gender/#SancSide)
-  * [4.2 妇女教育和女四书 女四书](https://plato.stanford.edu/entries/confucian-gender/#WomeEducNush)
-  * [4.3 基于性别的意识](https://plato.stanford.edu/entries/confucian-gender/#GendBaseCons)
-* [5. 父系血统和性别压迫](https://plato.stanford.edu/entries/confucian-gender/#PatrGendOppr)
-
-  * [5.1《列女传》与性别美德](https://plato.stanford.edu/entries/confucian-gender/#LienZhuaGendVirt)
-  * [5.2 婚姻与女性身份](https://plato.stanford.edu/entries/confucian-gender/#MarrWoma)
-  * [5.3 妻子的忠贞和寡妇身份](https://plato.stanford.edu/entries/confucian-gender/#WifeFideWido)
-* [6. 当代女性主义讨论](https://plato.stanford.edu/entries/confucian-gender/#ContFemiDisc)
-
-  * [6.1 “第三世界” 妇女和多元文化主义](https://plato.stanford.edu/entries/confucian-gender/#ThirWorlWomeMult)
-  * [6.2 关怀伦理学与儒家仁](https://plato.stanford.edu/entries/confucian-gender/#CareEthiConfRen)
-  * [6.3 对儒学的比较性女性主义研究](https://plato.stanford.edu/entries/confucian-gender/#CompFemiStudConf)
-* [儒家女权主义：一种混合女权主义理论](https://plato.stanford.edu/entries/confucian-gender/#ConfFemiHybrFemiTheo)
-
-  * [7.1 内外之正](https://plato.stanford.edu/entries/confucian-gender/#RectNeiWai)
-  * [7.2 友谊作为夫妻关系](https://plato.stanford.edu/entries/confucian-gender/#FrieSpouRela)
-  * [7.3 关系人格和依赖护理](https://plato.stanford.edu/entries/confucian-gender/#RelaPersDepeCare)
-  * [7.4 仁作为女性主义关怀](https://plato.stanford.edu/entries/confucian-gender/#RenFemiCare)
-* [ 参考文献](https://plato.stanford.edu/entries/confucian-gender/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/confucian-gender/#PrimSour)
-  * [ 次级来源](https://plato.stanford.edu/entries/confucian-gender/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/confucian-gender/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/confucian-gender/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/confucian-gender/#Rel)
 
 ---
 

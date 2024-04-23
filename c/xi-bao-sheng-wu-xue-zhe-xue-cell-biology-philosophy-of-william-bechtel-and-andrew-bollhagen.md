@@ -10,23 +10,6 @@ _首次发布于 2019 年 10 月 15 日_
 
 在科学哲学主要关注规律的时期，细胞生物学基本被忽视了。虽然发现有用的概括对细胞生物学家来说很重要，但这些很少被描述为规律。一旦科学哲学家将注意力从规律转向机制，从表征现实主义转向模型及其功能性，从概念和理论转向实验和仪器，更多的科学哲学家开始关注细胞生物学的实践。这些实践在认识上具有挑战性。由于细胞大多是微观的，它们引发了关于不可观察事物地位和证据可信度的传统哲学问题。由于细胞生物学的一个主要关注点是将功能（例如生化反应）与细胞结构联系起来，细胞生物学家不仅需要观察，还需要对细胞及其组成结构进行物理操作，并开发信息性的表征。因此，他们的活动为哲学家提供了丰富的例子。尽管还有大量细胞生物学尚未被用于哲学分析，但我们提供了一些例子，其中哲学家（以及历史学家）已经调查和分析了细胞生物学中的实践。然而，我们从更接近理论兴趣的地方开始，研究细胞生物学学科的发展以及隐喻如何在塑造科学家如何构想细胞方面发挥了关键作用。随后，我们转向关于细胞是否可以被理解为机械化或需要生命论者或整体论者视角的争议。之后，我们转向认识论问题，包括如何以视觉方式表现细胞以及如何发展关于细胞功能的机械化解释的策略。
 
-* [1. 什么是细胞生物学?](https://plato.stanford.edu/entries/cell-biology/#WhatCellBiol)
-* [2. 本体论问题 I: 什么是细胞?](https://plato.stanford.edu/entries/cell-biology/#OntoIssuIWhatCell)
-* [3. Ontological Issues II: Mechanists Vs. Vitalists and Holists](https://plato.stanford.edu/entries/cell-biology/#OntoIssuIIMechVsVitaHoli)
-* [4. Epistemic issues I: Representing cells](https://plato.stanford.edu/entries/cell-biology/#EpisIssuIReprCell)
-* [4.1 微观图](https://plato.stanford.edu/entries/cell-biology/#Micr)
-* [4.2 人工挑战](https://plato.stanford.edu/entries/cell-biology/#ArtiChal)
-* [4.3 细胞生物学中的图表](https://plato.stanford.edu/entries/cell-biology/#DiagCellBiol)
-* [5. 认识论问题 II：解释细胞活动机械化的策略](https://plato.stanford.edu/entries/cell-biology/#EpisIssuIIStraForExplCellActiMech)
-* [5.1 描绘细胞现象并将其与负责机制联系起来](https://plato.stanford.edu/entries/cell-biology/#DeliCellPhenAssoThemRespMech)
-* [5.2 简化主义策略：分解和定位](https://plato.stanford.edu/entries/cell-biology/#ReduStraDecoLoca)
-* [5.3 整体策略：组织特征](https://plato.stanford.edu/entries/cell-biology/#HoliStraCharOrga)
-* [6. 细胞生物学中的专业领域](https://plato.stanford.edu/entries/cell-biology/#SpecDomaCellBiol)
-* [参考书目](https://plato.stanford.edu/entries/cell-biology/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/cell-biology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cell-biology/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/cell-biology/#Rel)
-
 ***
 
 ## 1. 什么是细胞生物学？

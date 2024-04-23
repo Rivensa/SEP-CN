@@ -6,31 +6,6 @@ _首次发布于 2020 年 3 月 19 日 星期四_
 
 宋明理学中的杰出人物在各自时代的主要问题上持有不同且经常相互矛盾的观点，但他们参与了一个共同的讨论，具有大量重叠的哲学词汇和参考点。此外，他们倾向于将某些问题视为比其他问题更为核心。其中最重要的是有关宇宙中统一和秩序来源、人性的道德方面、个人主观思想和情感如何与（客观或较少问题的主体依赖）伦理规范一致的问题，培养美德的方法和手段，以及良好治理所需的制度和品质。也有一些共识领域。这一时期的儒家倾向于认同家庭在各种方面是道德发展的主要场所和美德表达。他们还分享了人性基本上是善良的观点，具有良好形成的美德能力，并以某种深刻方式与更广泛的生产和培育过程联系在一起。大多数人认为一定数量的古典儒家文本是正确的，包括他们归因于孔子（孔子）和孟子（孟子）的文本，尽管应该如何以及在什么方面应该听从这些文本的权威性经常存在争议。
 
-* [1. 历史背景：佛教、道教和新儒学](https://plato.stanford.edu/entries/song-ming-confucianism/#HistContBuddDaoiNeoConf)
-* [2. 著名人物](https://plato.stanford.edu/entries/song-ming-confucianism/#NotaFigu)
-* [2.1 北宋的新儒家（960–1127）](https://plato.stanford.edu/entries/song-ming-confucianism/#NeoConfNortSong9601)
-* [2.2 朱熹（1130–1200）](https://plato.stanford.edu/entries/song-ming-confucianism/#ZhuXi1130)
-* [2.3 王阳明 (1472–1529)](https://plato.stanford.edu/entries/song-ming-confucianism/#WangYang1472)
-* [2.4 泰州学派 (16 世纪)](https://plato.stanford.edu/entries/song-ming-confucianism/#TaizScho16thCent)
-* [2.5 宋明时期的离群人物](https://plato.stanford.edu/entries/song-ming-confucianism/#OutlSongMing)
-* [3. 模式 (](https://plato.stanford.edu/entries/song-ming-confucianism/#PattLi)​\*[li](https://plato.stanford.edu/entries/song-ming-confucianism/#PattLi)\*​[)](https://plato.stanford.edu/entries/song-ming-confucianism/#PattLi)
-* [3.1 模式及其与 ](https://plato.stanford.edu/entries/song-ming-confucianism/#PattRelaQi)​\*[气](https://plato.stanford.edu/entries/song-ming-confucianism/#PattRelaQi)\*​[ 的关系](https://plato.stanford.edu/entries/song-ming-confucianism/#PattRelaQi)
-* [3.2 模式与自然](https://plato.stanford.edu/entries/song-ming-confucianism/#PattNatu)
-* [3.3 模式与心性](https://plato.stanford.edu/entries/song-ming-confucianism/#PattHear)
-* [4. 自我修养](https://plato.stanford.edu/entries/song-ming-confucianism/#SelfCult)
-* [4.1 知识](https://plato.stanford.edu/entries/song-ming-confucianism/#Know)
-* [4.2 心性修养](https://plato.stanford.edu/entries/song-ming-confucianism/#MentDisc)
-* [5. 德](https://plato.stanford.edu/entries/song-ming-confucianism/#Virt)
-* [6. 治理](https://plato.stanford.edu/entries/song-ming-confucianism/#Gove)
-* [6.1 Commanderies vs. Fiefdoms](https://plato.stanford.edu/entries/song-ming-confucianism/#CommVsFief)
-* [6.2 Institutional vs. Character-Centered Theories of Governance](https://plato.stanford.edu/entries/song-ming-confucianism/#InstVsCharCentTheoGove)
-* [7. Influence](https://plato.stanford.edu/entries/song-ming-confucianism/#Infl)
-* [参考文献](https://plato.stanford.edu/entries/song-ming-confucianism/#Bib)
-* [A. 主要中文文献按标题或缩写引用](https://plato.stanford.edu/entries/song-ming-confucianism/#MajoChinSourCiteTitlAbbr)
-* [B. 其他文献按作者和日期引用](https://plato.stanford.edu/entries/song-ming-confucianism/#BOtheSourCiteAuthDate)
-* [学术工具](https://plato.stanford.edu/entries/song-ming-confucianism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/song-ming-confucianism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/song-ming-confucianism/#Rel)
 
 ***
 

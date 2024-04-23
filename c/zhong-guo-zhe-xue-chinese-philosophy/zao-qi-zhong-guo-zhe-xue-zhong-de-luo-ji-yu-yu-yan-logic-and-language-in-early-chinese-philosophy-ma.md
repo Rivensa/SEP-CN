@@ -12,24 +12,7 @@ _首次发表于 2016 年 9 月 13 日；实质性修订于 2022 年 11 月 14 �
 
 鉴于专门致力于解释和重建中国早期语言观的文献极为丰富，试图在此进行详尽的论述是不切实际的。为了保持共同的关注点，注意将限于那些显然与中国早期哲学家对逻辑的兴趣有关的问题，特别是涉及到理性和推理理论的问题。我们的主要问题是：早期中国哲学家对语言的内容和功能持何看法，这如何有助于他们理解逻辑作为研究有效或正确推理的学科？其次，他们的逻辑研究以何种方式影响了他们对语言的看法？可以说，从逻辑学家的角度来看，早期中国哲学家对逻辑和语言的研究中最重要的见解可以在后来墨家对内涵性的研究中找到，这些研究似乎不仅影响了他们关于论证有效性的具体理论，还影响了他们关于语言的本质和目的的核心观念。进一步的评论涉及墨家与道家批评者之间的争论中心观点，特别是在《庄子》和荀子重新解释墨家逻辑的著作中所体现的。
 
-* [1. 背景和一般考虑](https://plato.stanford.edu/entries/chinese-logic-language/#BackGeneCons)
-* [2. 孔子与名的秩序](https://plato.stanford.edu/entries/chinese-logic-language/#ConfOrdeName)
-* [3. 墨家对逻辑和语言的看法](https://plato.stanford.edu/entries/chinese-logic-language/#MohiViewLogiLang)
-* [3.1 基本逻辑概念](https://plato.stanford.edu/entries/chinese-logic-language/#BasiLogiNoti)
-* [3.2 理性和推理原则](https://plato.stanford.edu/entries/chinese-logic-language/#PrinReasInfe)
-* [3.3 应用方法和问题](https://plato.stanford.edu/entries/chinese-logic-language/#MethApplProb)
-* [3.4 墨家语言转向](https://plato.stanford.edu/entries/chinese-logic-language/#MohiLingTurn)
-* [3.5 研究内涵性](https://plato.stanford.edu/entries/chinese-logic-language/#InveInte)
-* [4. 道家对逻辑的回应和批判](https://plato.stanford.edu/entries/chinese-logic-language/#DaoiReplCritLogi)
-* [5. 中国哲学中荀子对墨家逻辑的吸收](https://plato.stanford.edu/entries/chinese-logic-language/#XunzConfApprMohiLogi)
-* [6. 总结性论述](https://plato.stanford.edu/entries/chinese-logic-language/#ConcRema)
-* [参考文献](https://plato.stanford.edu/entries/chinese-logic-language/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/chinese-logic-language/#PrimSour)
-* [额外来源](https://plato.stanford.edu/entries/chinese-logic-language/#AddiSour)
-* [古代中国思想的概览:](https://plato.stanford.edu/entries/chinese-logic-language/#GeneSurvClasChinThou)
-* [学术工具](https://plato.stanford.edu/entries/chinese-logic-language/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/chinese-logic-language/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/chinese-logic-language/#Rel)
+
 
 ***
 

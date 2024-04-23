@@ -4,26 +4,6 @@ _首次发表于 2011 年 10 月 27 日星期四；实质性修订于 2021 年 1
 
 阿尔贝·加缪（1913-1960 年）是一名记者、编辑和社论作家、剧作家和导演、小说家和短篇小说作家、政治散文家和活动家——尽管他曾多次否认，但也是一位哲学家。他忽视或反对系统哲学，对理性主义缺乏信心，主张而非争辩他的许多主要观点，用隐喻呈现其他观点，专注于当下和个人经验，并思考诸如生命意义面对死亡等问题。尽管他坚决与存在主义划清界限，加缪提出了 20 世纪最著名的存在主义问题之一，即开篇于《西西弗斯神话》的问题：“只有一个真正严肃的哲学问题，那就是自杀”（_MS_，3）。他的荒谬哲学留给我们一个深刻的人类命运形象：西西弗斯不断推着他的石头上山，却每次到达山顶时看到石头又滚了下来。加缪的哲学在《叛逆者》中找到了政治表达，这部作品连同他的报纸社论、政治散文、戏剧和小说使他声名显赫，被誉为伟大的道德家。这也使他与朋友让-保罗·萨特发生冲突，引发了冷战时代主要政治思想分歧，因为加缪和萨特分别成为反共产主义和亲共产主义左派的主要知识分子代表。此外，通过提出和回答当今紧迫的哲学问题，加缪阐明了对宗教和启蒙运动及其所有项目的批判，包括马克思主义。1957 年，他获得了诺贝尔文学奖。1960 年 1 月，他因车祸去世，享年 46 岁。
 
-* [1. 加缪荒谬主义哲学的悖论](https://plato.stanford.edu/entries/camus/#ParCamAbs)
-* [2.《婚礼》和加缪的起点](https://plato.stanford.edu/entries/camus/#NupCamStaPoi)
-* [3. 自杀、荒谬和幸福：《加缪的西西弗斯神话》](https://plato.stanford.edu/entries/camus/#SuiAbsHapMytSis)
-* [3.1 自杀作为对荒谬的回应](https://plato.stanford.edu/entries/camus/#SuiResAbs)
-* [3.2 理性的局限性](https://plato.stanford.edu/entries/camus/#LimRea)
-* [3.3 批评存在主义者](https://plato.stanford.edu/entries/camus/#CriExi)
-* [3.4 面对命运中的幸福](https://plato.stanford.edu/entries/camus/#HapFacOneFat)
-* [3.5 对怀疑论的回应](https://plato.stanford.edu/entries/camus/#ResSke)
-* [4. 加缪 和暴力世界：](https://plato.stanford.edu/entries/camus/#CamWorVio)​\*[《叛逆者》](https://plato.stanford.edu/entries/camus/#CamWorVio)\*
-* [4.1 荒谬、叛乱和谋杀](https://plato.stanford.edu/entries/camus/#AbRebMur)
-* [4.2 反对共产主义](https://plato.stanford.edu/entries/camus/#AgaCom)
-* [4.3 暴力：不可避免和不可能](https://plato.stanford.edu/entries/camus/#VioIneImp)
-* [5. ](https://plato.stanford.edu/entries/camus/#TheFall)​\*[堕落](https://plato.stanford.edu/entries/camus/#TheFall)\*
-* [6. 当代哲学家](https://plato.stanford.edu/entries/camus/#PhiPre)
-* [参考文献](https://plato.stanford.edu/entries/camus/#Bib)
-* [主要作品](https://plato.stanford.edu/entries/camus/#PriWor)
-* [次要作品](https://plato.stanford.edu/entries/camus/#SecWor)
-* [学术工具](https://plato.stanford.edu/entries/camus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/camus/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/camus/#Rel)
 
 ***
 

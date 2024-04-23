@@ -6,18 +6,6 @@ _首次发表于 2001 年 10 月 3 日星期三；实质性修订于 2020 年 6 
 
 在哲学被视为神学的侍女的大学时代，他们将自己丰富的哲学知识致力于宗教和道德问题，捍卫上帝的存在和灵魂的不朽，并制定基督教行为的实践伦理学。他们坚信理性与信仰的兼容性，认为道德原则和真理的永恒存在，以及人类心灵具备理性和道德原则。他们对人类能力的乐观看法强调了他们对意志自由的重视。他们的反决定论使他们提出了人类自治的论据。他们都是二元论者，认为心灵在本体上优先于物质，并认为心灵的真理高于感官知识。他们接受了后伽利略时代的科学，并提出了一种关于物质的原子论理论。但他们拒绝了新的机械自然哲学，支持这样一种观点：自然运作中的基本因果原则是某种形式的非物质代理人或精神。
 
-* [本杰明·威科特](https://plato.stanford.edu/entries/cambridge-platonists/#BenWhi)
-* [卡尔弗韦尔、史密斯和斯特里](https://plato.stanford.edu/entries/cambridge-platonists/#CulSmiSte)
-* [亨利·莫尔](https://plato.stanford.edu/entries/cambridge-platonists/#HenMor)
-* [Ralph Cudworth](https://plato.stanford.edu/entries/cambridge-platonists/#RalCud)
-* [遗产](https://plato.stanford.edu/entries/cambridge-platonists/#Leg)
-* [参考文献](https://plato.stanford.edu/entries/cambridge-platonists/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/cambridge-platonists/#PriSou)
-* [次要来源](https://plato.stanford.edu/entries/cambridge-platonists/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/cambridge-platonists/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cambridge-platonists/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/cambridge-platonists/#Rel)
-
 ***
 
 ## 本杰明·威科特

@@ -14,18 +14,7 @@ _首次发表于 2015 年 4 月 28 日星期二；实质性修订于 2020 年 10
 
 接下来的两个部分试图通过回顾科学发展的知识和社会背景，历史化和调和这两个历史，一个是哲学的，一个是科学的。第四部分关注早期哲学和科学的从业者和文本共享的概念。第五部分转向早期汉代历史的一章中对文本进行分类，探讨了通才和专家知识之间的智识分歧。第六部分探讨了早期科学从业者的社会背景，以及他们与哲学文本和传统的关系。最后一部分概述了早期科学，特别关注科学与中国哲学之间关系密切的领域，尤其是宇宙学、天文学、数学和医学。
 
-* [1. 丰玉兰的“中国为什么没有科学”](https://plato.stanford.edu/entries/chinese-phil-science/#FunYuLanWhyChiHasNoSci)
-* [2. 约瑟夫·尼德姆的《中国科学史》](https://plato.stanford.edu/entries/chinese-phil-science/#JosNeeHisSciChi)
-* [3. 中国科学是否“道家”？](https://plato.stanford.edu/entries/chinese-phil-science/#ChiSciDao)
-* [4. 共享的知识背景](https://plato.stanford.edu/entries/chinese-phil-science/#ShaIntCon)
-* [5. 通才与专才知识](https://plato.stanford.edu/entries/chinese-phil-science/#GenVerSpeKno)
-* [6. 从业者的社会背景](https://plato.stanford.edu/entries/chinese-phil-science/#SocConPra)
-* [7. 早期科学](https://plato.stanford.edu/entries/chinese-phil-science/#EarSci)
-* [结论](https://plato.stanford.edu/entries/chinese-phil-science/#Con)
-* [参考文献](https://plato.stanford.edu/entries/chinese-phil-science/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/chinese-phil-science/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/chinese-phil-science/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/chinese-phil-science/#Rel)
+
 
 ***
 

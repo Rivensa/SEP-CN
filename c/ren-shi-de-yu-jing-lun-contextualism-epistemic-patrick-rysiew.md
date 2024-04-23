@@ -6,30 +6,6 @@ _首次发布于2007年9月7日星期五；实质性修订于2020年12月15日�
 
 除了标志着对传统认识论假设的重要背离外，外部主义被认为为某些关于知识的难题提供了一种新颖的解决方案，尤其是怀疑论者，同时也最符合我们日常的“知识”归因实践。接下来描述了外部主义的主要形式，以及对外部主义的主要论据和主要反对意见。在此过程中，外部主义与某些其他观点相比较，既有亲缘关系，也有竞争关系。
 
-* [一些最近的历史，作为背景](https://plato.stanford.edu/entries/contextualism-epistemology/#SomRecHisWayBac)
-* [进一步澄清](https://plato.stanford.edu/entries/contextualism-epistemology/#FurCla)
-* [支持EC：显然不一致的知识主张，怀疑和日常](https://plato.stanford.edu/entries/contextualism-epistemology/#SupForECAppIncKnoClaSkeEve)
-  * [3.1 一个怀疑的谜题](https://plato.stanford.edu/entries/contextualism-epistemology/#SkePuz)
-  * [3.2 语境主义解决方案的一般形式](https://plato.stanford.edu/entries/contextualism-epistemology/#GenForConSol)
-  * [3.3 一些特定形式的电子商务](https://plato.stanford.edu/entries/contextualism-epistemology/#SomSpeForEC)
-  * [3.4 每日案例](https://plato.stanford.edu/entries/contextualism-epistemology/#EveCas)
-  * [3.5其他情况，其他差异——彩票，盖蒂尔，封闭](https://plato.stanford.edu/entries/contextualism-epistemology/#OthCasOthDifLotGetClo)
-* [关键反应，情境主义回应](https://plato.stanford.edu/entries/contextualism-epistemology/#CriReaConRes)
-  * [4.1 初步反对意见](https://plato.stanford.edu/entries/contextualism-epistemology/#SomNotSoEffObj)
-  * [4.2 EC和怀疑论](https://plato.stanford.edu/entries/contextualism-epistemology/#ECSke)
-  * [4.3 EC的错误理论](https://plato.stanford.edu/entries/contextualism-epistemology/#ECsErrThe)
-  * [4.4 语言问题](https://plato.stanford.edu/entries/contextualism-epistemology/#LinIss)
-  * [4.5 进一步问题 — 认识模态、思维、信息的保存和传递、实践推理、态度报告](https://plato.stanford.edu/entries/contextualism-epistemology/#FurIssEpiModThoPreTraInfPraReaAttRep)
-  * [4.6 数据的一些不变主义处理方法](https://plato.stanford.edu/entries/contextualism-epistemology/#SomProClaInsInvTreDat)
-* [进一步支持EC的论点，以及一些非语境主义者的回应。](https://plato.stanford.edu/entries/contextualism-epistemology/#FurArgForECSomNonConRes)
-  * [5.1 可能性论和让步性知识归属](https://plato.stanford.edu/entries/contextualism-epistemology/#FalConKnoAtt)
-  * [5.2 知识与断言](https://plato.stanford.edu/entries/contextualism-epistemology/#KnoAss)
-  * [5.3 知识归属的社会角色](https://plato.stanford.edu/entries/contextualism-epistemology/#SocRolKnoAsc)
-* [类似于 EC 的视图](https://plato.stanford.edu/entries/contextualism-epistemology/#OthVie)
-* [参考文献](https://plato.stanford.edu/entries/contextualism-epistemology/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/contextualism-epistemology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/contextualism-epistemology/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/contextualism-epistemology/#Rel)
 
 ***
 

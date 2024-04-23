@@ -8,32 +8,6 @@ _首次发布于 2021 年 6 月 25 日星期五_
 
 这并不是说，当然，具身认知并没有避开困难问题，也没有逃脱严厉批评。它对身体在认知中扮演的角色提出了众多有时不一致的主张，以及为了理解这一角色而采用的多种方法，使其成为哲学思考的对象。批评者指责具身认知接受了一种贫乏的认知观念，或者没有为计算认知科学提供真正的替代方案，或者声称身体在认知中起着构成性的作用，而实际上它们的作用仅仅是因果关系。支持者已经回应了所有这些异议。这些辩论的一个受欢迎的副产品是对一些关于心智是什么、概念是什么以及如何理解表征的本质和意义的古老哲学问题的新视角。
 
-* [1. 具身认知的挑战和启示](https://plato.stanford.edu/entries/embodied-cognition/#FoilInspForEmboCogn)
-* [1.1 生态心理学](https://plato.stanford.edu/entries/embodied-cognition/#EcolPsyc)
-* [1.2 连接主义](https://plato.stanford.edu/entries/embodied-cognition/#Conn)
-* [1.3 现象学](https://plato.stanford.edu/entries/embodied-cognition/#Phen)
-* [2. 具身认知：主题和密切关系](https://plato.stanford.edu/entries/embodied-cognition/#EmboCognThemClosRela)
-* [2.1 身体认知的三个主题](https://plato.stanford.edu/entries/embodied-cognition/#ThreThemEmboCogn)
-* [2.2 嵌入式认知](https://plato.stanford.edu/entries/embodied-cognition/#EmbeCogn)
-* [2.3 扩展认知](https://plato.stanford.edu/entries/embodied-cognition/#ExteCogn)
-* [2.4 使动认知](https://plato.stanford.edu/entries/embodied-cognition/#EnacCogn)
-* [3. 概念化](https://plato.stanford.edu/entries/embodied-cognition/#Conc)
-* [3.1 隐喻与基本概念](https://plato.stanford.edu/entries/embodied-cognition/#MetaBasiConc)
-* [3.2 具身概念](https://plato.stanford.edu/entries/embodied-cognition/#EmboConc)
-* [4. 替代](https://plato.stanford.edu/entries/embodied-cognition/#Repl)
-* [4.1 机器人学](https://plato.stanford.edu/entries/embodied-cognition/#Robo)
-* [4.2 认知动力系统方法](https://plato.stanford.edu/entries/embodied-cognition/#DynaSystApprCogn)
-* [5. 宪法](https://plato.stanford.edu/entries/embodied-cognition/#Cons)
-* [5.1 通过耦合构成](https://plato.stanford.edu/entries/embodied-cognition/#ConsThroCoup)
-* [5.2 通过平等和广泛计算主义构建宪法](https://plato.stanford.edu/entries/embodied-cognition/#ConsThroPariWideComp)
-* [6. 具身认知的范围](https://plato.stanford.edu/entries/embodied-cognition/#ReacEmboCogn)
-* [6.1 社会认知](https://plato.stanford.edu/entries/embodied-cognition/#SociCogn)
-* [6.2 道德认知](https://plato.stanford.edu/entries/embodied-cognition/#MoraCogn)
-* [7. 结论](https://plato.stanford.edu/entries/embodied-cognition/#Conc\1)
-* [参考文献](https://plato.stanford.edu/entries/embodied-cognition/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/embodied-cognition/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/embodied-cognition/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/embodied-cognition/#Rel)
 
 ***
 

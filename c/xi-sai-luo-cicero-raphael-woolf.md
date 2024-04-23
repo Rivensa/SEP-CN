@@ -6,25 +6,6 @@ _首次发布于 2022 年 1 月 14 日星期五_
 
 在这篇文章中，我们无法做更多的事情，只能简要概述一些西塞罗主要的哲学著作和思想。重点将放在让人感受到他哲学方法的独特性上，特别关注他的哲学忠诚和创作方法如何有助于形成一个值得注意的哲学观念。
 
-* [1. Cicero 的生平与时代](https://plato.stanford.edu/entries/cicero/#CiceLifeTime)
-* [2. 哲学和罗马社会](https://plato.stanford.edu/entries/cicero/#PhilRomaSoci)
-* [3. 对话与怀疑立场](https://plato.stanford.edu/entries/cicero/#DialScepStan)
-* [4. 哲学与演讲](https://plato.stanford.edu/entries/cicero/#PhilOrat)
-* [5. 第一时期：哲学政治](https://plato.stanford.edu/entries/cicero/#FirsPeriPhilPoli)
-* [5.1《共和国》和《法律》](https://plato.stanford.edu/entries/cicero/#RepuLaws)
-* [5.2《共和国》](https://plato.stanford.edu/entries/cicero/#Repu)
-* [5.3 邱奇-图灵论题](https://plato.stanford.edu/entries/cicero/#Laws)
-* [6. 第二时期：哲学百科全书](https://plato.stanford.edu/entries/cicero/#SecoPeriEncyPhil)
-* [6.1 认识论](https://plato.stanford.edu/entries/cicero/#Epis)
-* [6.2 伦理理论](https://plato.stanford.edu/entries/cicero/#EthiTheo)
-* [6.3 神学](https://plato.stanford.edu/entries/cicero/#Theo)
-* [7. Cicero and Bernard Williams](https://plato.stanford.edu/entries/cicero/#CiceBernWill)
-* [参考文献](https://plato.stanford.edu/entries/cicero/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/cicero/#PrimLite)
-* [次级文献](https://plato.stanford.edu/entries/cicero/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/cicero/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cicero/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/cicero/#Rel)
 
 ***
 

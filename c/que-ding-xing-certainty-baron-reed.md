@@ -8,21 +8,6 @@ _首次发表于 2008 年 2 月 2 日星期六；实质性修订于 2022 年 2 �
 
 与知识一样，对确定性进行无争议的分析是困难的。这其中有几个原因。一个原因是存在不同类型的确定性，很容易混淆。另一个原因是确定性的完整价值令人难以捉摸。第三个原因是确定性有两个维度：一个信念在特定时刻可以是确定的，或者在一套信念系统中可以在更长的时间内是确定的。
 
-* [1. 确定性的种类](https://plato.stanford.edu/entries/certainty/#KinCer)
-* [2. 确定性概念](https://plato.stanford.edu/entries/certainty/#ConCer)
-
-1. [无疑性](https://plato.stanford.edu/entries/certainty/#Indubitability)
-2. [无误性](https://plato.stanford.edu/entries/certainty/#Infallibility)
-3. [无法模仿性](https://plato.stanford.edu/entries/certainty/#Inimitability)
-4. [不可废止性](https://plato.stanford.edu/entries/certainty/#Indefeasibility)
-
-* [3. 确定性的两个维度](https://plato.stanford.edu/entries/certainty/#TwoDimCer)
-* [4.确定性的应用](https://plato.stanford.edu/entries/certainty/#Applications)
-* [参考文献](https://plato.stanford.edu/entries/certainty/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/certainty/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/certainty/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/certainty/#Rel)
-
 ***
 
 ## 1. 确定性的种类

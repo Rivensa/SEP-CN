@@ -16,34 +16,6 @@ _首次发布于 2021 年 10 月 15 日星期五_
 
 哲学批评家经常被当代分析宗教哲学（APR）中的许多内容看起来非常基督教和神学化所震惊。这种批评表达了对 APR 本身看起来太像基督教哲学神学的担忧。同时，神学批评家经常指责 APR 缺乏神学上的复杂性。为了理解批评的两极，有必要更好地了解相关的历史背景。但同样重要的是要欣赏分析哲学神学中最好的当代作品实际上是什么样子。
 
-* [1. 基督教传统中哲学和神学的关系](https://plato.stanford.edu/entries/christiantheology-philosophy/#RelaBetwPhilTheoChriTrad)
-* [1.1 整合](https://plato.stanford.edu/entries/christiantheology-philosophy/#Inte)
-* [1.2 对比](https://plato.stanford.edu/entries/christiantheology-philosophy/#Cont)
-* [1.2.1 合作](https://plato.stanford.edu/entries/christiantheology-philosophy/#Coop)
-* [1.2.2 Disjunction](https://plato.stanford.edu/entries/christiantheology-philosophy/#Disj) # 基督教神学-哲学 #Disj
-* [1.2.3 冲突](https://plato.stanford.edu/entries/christiantheology-philosophy/#Conf)
-* [1.3 从历史模型到当代哲学神学](https://plato.stanford.edu/entries/christiantheology-philosophy/#HistModeContPhilTheo)
-* [2. Analytic Philosophical Theology 的最新研究](https://plato.stanford.edu/entries/christiantheology-philosophy/#ReceWorkAnalPhilTheo)
-* [2.1 基督教神学](https://plato.stanford.edu/entries/christiantheology-philosophy/#Trin)
-* [2.2 体现和基督神学](https://plato.stanford.edu/entries/christiantheology-philosophy/#IncaChri)
-* [2.3 基督教神学的救赎和救恩](https://plato.stanford.edu/entries/christiantheology-philosophy/#AtonSalv)
-* [2.4 Sin, Original Sin, and the Fall](https://plato.stanford.edu/entries/christiantheology-philosophy/#SinOrigSinFall) \* [2.4 罪、原罪和堕落](https://plato.stanford.edu/entries/christiantheology-philosophy/#SinOrigSinFall)
-* [2.4.1 第一次犯罪](https://plato.stanford.edu/entries/christiantheology-philosophy/#FirsSin)
-* [2.4.2 亚当和夏娃的堕落](https://plato.stanford.edu/entries/christiantheology-philosophy/#FallAdamEve)
-* [2.4.3 原罪](https://plato.stanford.edu/entries/christiantheology-philosophy/#OrigSin)
-* [2.4.4 个人罪](https://plato.stanford.edu/entries/christiantheology-philosophy/#PersSin)
-* [2.5 其他主题](https://plato.stanford.edu/entries/christiantheology-philosophy/#OtheTopi)
-* [2.6 基督教神学的兴起](https://plato.stanford.edu/entries/christiantheology-philosophy/#RiseAnalTheo)
-* [3. 宗教哲学，哲学神学，基督教神学：有区别吗，重要吗？](https://plato.stanford.edu/entries/christiantheology-philosophy/#PhilReliPhilTheoChriTheoTherDiffDoesItMatt)
-* [3.1 分析哲学宗教：太神学？](https://plato.stanford.edu/entries/christiantheology-philosophy/#AnalPhilReliTooTheo)
-* [3.1.1 范围的狭窄？](https://plato.stanford.edu/entries/christiantheology-philosophy/#NarrScop)
-* [3.1.2 不恰当的方法？](https://plato.stanford.edu/entries/christiantheology-philosophy/#InapMeth)
-* [3.1.3 对“APR 过于神学化”的回应](https://plato.stanford.edu/entries/christiantheology-philosophy/#RespWorrAPRTooTheo)
-* [3.2 或者不够神学？基督教神学对分析哲学宗教的批判](https://plato.stanford.edu/entries/christiantheology-philosophy/#NotTheoEnouTheoCritAnalPhilReli)
-* [参考书目](https://plato.stanford.edu/entries/christiantheology-philosophy/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/christiantheology-philosophy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/christiantheology-philosophy/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/christiantheology-philosophy/#Rel)
 
 ***
 

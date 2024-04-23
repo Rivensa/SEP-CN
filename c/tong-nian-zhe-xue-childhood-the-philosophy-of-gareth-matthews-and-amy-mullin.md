@@ -4,19 +4,6 @@ _首次发表于 2002 年 9 月 13 日星期五；实质性修订于 2023 年 1 
 
 童年哲学最近被认可为一种类似于科学哲学、历史哲学、宗教哲学以及其他许多已被视为哲学研究合法领域的探讨领域。此外，近年来与之相关主题的哲学研究（如父母的权利、责任和义务）蓬勃发展。童年哲学探讨了关于童年的哲学问题，随着时间的推移对童年的不同概念以及对儿童的态度的变化；认知和道德发展理论；儿童的利益和权利，童年的好处；儿童和自主权；儿童的道德地位以及儿童在社会中的地位。作为一个学术课题，童年哲学有时被包括在教育哲学中（例如，Siegel，2009）。然而，最近，哲学家们开始专门开设大学和大学课程，专门讨论童年哲学。关于童年、育儿和家庭的哲学文献在数量和质量上都在增加。
 
-* [1. 什么是儿童？](https://plato.stanford.edu/entries/childhood/#WhaChi)
-* [2. 认知发展理论](https://plato.stanford.edu/entries/childhood/#TheCogDev)
-* [3. 道德发展理论](https://plato.stanford.edu/entries/childhood/#TheMorDev)
-* [4. 儿童权利](https://plato.stanford.edu/entries/childhood/#ChiRig)
-* [5. 童年代理和自主权](https://plato.stanford.edu/entries/childhood/#ChiAge)
-* [6. 童年的好处（和坏处？）](https://plato.stanford.edu/entries/childhood/#GooChi)
-* [7. 儿童中的哲学思维](https://plato.stanford.edu/entries/childhood/#PhiThiChi)
-* [8. 儿童的道德地位](https://plato.stanford.edu/entries/childhood/#MorSta)
-* [9. 其他问题](https://plato.stanford.edu/entries/childhood/#OthIss)
-* [参考文献](https://plato.stanford.edu/entries/childhood/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/childhood/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/childhood/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/childhood/#Rel)
 
 ***
 

@@ -6,23 +6,6 @@ _首次发布于 2016 年 8 月 3 日星期三；实质性修订于 2023 年 6 �
 
 本文简要探讨了道德品质的四种最新实证方法。在适当的情况下，将参考心理学文献，但主要关注的是这些工作对那些希望更好地理解道德品质的哲学家们的重要性。这四个领域分别是情境主义、CAPS 模型、五大人格模型和 VIA。本文的其余部分将分别对每个领域进行探讨。
 
-* [1. 哲学中的情境主义](https://plato.stanford.edu/entries/moral-character-empirical/#SituPhil)
-* [1.1 反对亚里士多德德性伦理的论点](https://plato.stanford.edu/entries/moral-character-empirical/#ArguAgaiVirtEthi)
-* [1.2 对论点的回应](https://plato.stanford.edu/entries/moral-character-empirical/#RespArgu)
-* [2. 道德品质模型](https://plato.stanford.edu/entries/moral-character-empirical/#CAPSMode)
-* [2.1 背景](https://plato.stanford.edu/entries/moral-character-empirical/#CAPSBack)
-* [2.2 道德品质的哲学相关性](https://plato.stanford.edu/entries/moral-character-empirical/#PhilReleCAPS)
-* [3. 大五因素](https://plato.stanford.edu/entries/moral-character-empirical/#BigFive)
-* [3.1 背景](https://plato.stanford.edu/entries/moral-character-empirical/#BigFiveBack)
-* [3.2 五大特质的哲学相关性](https://plato.stanford.edu/entries/moral-character-empirical/#PhilReleBigFive)
-* [4. 积极心理学和 VIA](https://plato.stanford.edu/entries/moral-character-empirical/#PosiPsycVIA)
-* [4.1 背景](https://plato.stanford.edu/entries/moral-character-empirical/#VIABack)
-* [4.2 积极心理学和 VIA 的哲学相关性](https://plato.stanford.edu/entries/moral-character-empirical/#PhilReleVIA)
-* [5. 结论](https://plato.stanford.edu/entries/moral-character-empirical/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/moral-character-empirical/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/moral-character-empirical/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-character-empirical/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/moral-character-empirical/#Rel)
 
 ***
 

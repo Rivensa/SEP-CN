@@ -4,28 +4,7 @@ _首次发表于 2001 年 8 月 17 日星期五；实质性修订于 2023 年 5 
 
 可操纵性理论认为，因果关系应被视为操纵效应的手柄或装置，具有相当大的直观吸引力，并且在许多科学家和统计学家中很受欢迎。本文调查了哲学家提倡的几种著名版本的这种理论，以及它们面临的许多困难。直到最近，操纵主义方法的哲学表述通常具有还原主义的抱负，并赋予人类行为中心地位。这与最近更广泛地使用操纵主义框架来理解因果关系的讨论形成对比，例如计算机科学家朱迪亚·珀尔（Judea Pearl）等人的观点，这些观点是非还原主义的，而是依赖于干预的概念。这只是一个适当外生的因果过程；它与人类行为没有必要联系。这种干预主义框架设法避免了传统哲学版本的可操纵性理论所面临的一些困难，并有助于澄清因果断言的内容。
 
-* [1. Introduction](https://plato.stanford.edu/entries/causation-mani/#Intr)
-* [2. 代理理论.](https://plato.stanford.edu/entries/causation-mani/#AgenTheo)
-* [3. 因果关系与自由行为](https://plato.stanford.edu/entries/causation-mani/#CausFreeActi)
-* [4. 干预](https://plato.stanford.edu/entries/causation-mani/#Inte)
-* [5. 结构方程、有向图和因果关系的操纵理论](https://plato.stanford.edu/entries/causation-mani/#StruEquaDireGrapManiTheoCaus)
-* [6. 循环性是否是一个问题?](https://plato.stanford.edu/entries/causation-mani/#CircProb)
-* [7. 因果概念的多元性](https://plato.stanford.edu/entries/causation-mani/#PlurCausConc)
-* [8. 不涉及人类行为的干预](https://plato.stanford.edu/entries/causation-mani/#InteDoNotInvoHumaActi)
-* [9. 干预和反事实](https://plato.stanford.edu/entries/causation-mani/#InteCoun)
-* [10. 可能和不可能的干预](https://plato.stanford.edu/entries/causation-mani/#PossImpoInte)
-* [11. 干预主义解释的范围](https://plato.stanford.edu/entries/causation-mani/#ScopInteAcco)
-* [12. (被指称的) 因果关系不可操纵的原因，出于逻辑、概念或形而上学的原因](https://plato.stanford.edu/entries/causation-mani/#AlleCausUnmaForLogiConcMetaReas)
-* [13. 干预主义解释的一些批评](https://plato.stanford.edu/entries/causation-mani/#SomeCritInteAcco)
-* [14. Some Recent Positive Developments.](https://plato.stanford.edu/entries/causation-mani/#SomeRecePosiDeve)
-* [Bibliography](https://plato.stanford.edu/entries/causation-mani/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/causation-mani/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/causation-mani/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/causation-mani/#Rel)
-* 补充：
-* [一个代理理论的早期版本](https://plato.stanford.edu/entries/causation-mani/early-agency.html)
-* [可操纵性理论在澄清因果主张中的作用](https://plato.stanford.edu/entries/causation-mani/role-causal.html)
-* [干预主义观点的额外近期批评](https://plato.stanford.edu/entries/causation-mani/additional-criticisms.html)
+
 
 ***
 

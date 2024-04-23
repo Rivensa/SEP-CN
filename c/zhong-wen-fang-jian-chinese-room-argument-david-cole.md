@@ -6,28 +6,7 @@ _首次发表于 2004 年 3 月 19 日星期五；实质性修订于 2020 年 2 
 
 该论证的狭义结论是，给数字计算机编程可能会使其看起来理解语言，但无法产生真正的理解。因此，“图灵测试”是不够的。西尔认为，这个思想实验强调了计算机仅仅使用句法规则来操纵符号串，但对意义或语义没有理解。该论证的更广泛结论是，人类思维类似于计算或信息处理系统的理论被驳斥。相反，思维必须源自生物过程；计算机最多只能模拟这些生物过程。因此，该论证对语义学、语言和思维哲学、意识理论、计算机科学和认知科学普遍具有重要影响。因此，对该论证已经有许多批评性回应。
 
-* [1. 概览](https://plato.stanford.edu/entries/chinese-room/#Over)
-* [2. 历史背景](https://plato.stanford.edu/entries/chinese-room/#HistBack)
-* [2.1 莱布尼茨的磨坊](https://plato.stanford.edu/entries/chinese-room/#LeibMill)
-* [2.2 图灵的纸带机](https://plato.stanford.edu/entries/chinese-room/#TuriPapeMach)
-* [2.3 中国哲学](https://plato.stanford.edu/entries/chinese-room/#ChinNati)
-* [3. 中国房间论证](https://plato.stanford.edu/entries/chinese-room/#ChinRoomArgu)
-* [4. 中国哲学的回应](https://plato.stanford.edu/entries/chinese-room/#ReplChinRoomArgu)
-* [4.1 系统回应](https://plato.stanford.edu/entries/chinese-room/#SystRepl)
-* [4.2 机器人回应](https://plato.stanford.edu/entries/chinese-room/#RoboRepl)
-* [4.3 大脑模拟器回应](https://plato.stanford.edu/entries/chinese-room/#BraiSimuRepl)
-* [4.4 其他心灵回应](https://plato.stanford.edu/entries/chinese-room/#OtheMindRepl)
-* [4.5 直觉回应](https://plato.stanford.edu/entries/chinese-room/#IntuRepl)
-* [5. 中国哲学的更大问题](https://plato.stanford.edu/entries/chinese-room/#LargPhilIssu)
-* [5.1 语法和语义](https://plato.stanford.edu/entries/chinese-room/#SyntSema)
-* [5.2 意向性](https://plato.stanford.edu/entries/chinese-room/#Inte)
-* [5.3 心灵与身体](https://plato.stanford.edu/entries/chinese-room/#MindBody)
-* [5.4 模拟、复制和演化](https://plato.stanford.edu/entries/chinese-room/#SimuDuplEvol)
-* [结论](https://plato.stanford.edu/entries/chinese-room/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/chinese-room/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/chinese-room/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/chinese-room/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/chinese-room/#Rel)
+
 
 ***
 

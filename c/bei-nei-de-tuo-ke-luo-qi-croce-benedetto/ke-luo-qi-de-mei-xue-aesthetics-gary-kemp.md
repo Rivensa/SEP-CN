@@ -6,29 +6,6 @@ _首次发表于 2008 年 5 月 4 日星期日；实质性修订于 2021 年 10 
 
 然而，克罗齐对美学的重要贡献——对艺术是表达这一观念的有趣新角度——可以更多或更少地与周围的哲学和争论分开。接下来，我们将首先看到这一学说与其原始哲学背景的联系，然后我们将尝试剪断这些联系。
 
-* [1. 精神（或心灵）的四个领域](https://plato.stanford.edu/entries/croce-aesthetics/#FouDomSpiMin)
-* [2. 美学的首要性](https://plato.stanford.edu/entries/croce-aesthetics/#PriAes)
-* [3. 艺术与美学](https://plato.stanford.edu/entries/croce-aesthetics/#ArtAes)
-* [直觉与表达](https://plato.stanford.edu/entries/croce-aesthetics/#IntExp)
-  * [作品的双重理想性](https://plato.stanford.edu/entries/croce-aesthetics/#DouIdeWorArt)
-  * [感觉的作用](https://plato.stanford.edu/entries/croce-aesthetics/#RolFee)
-  * [4.3 感觉、表达和平凡之处](https://plato.stanford.edu/entries/croce-aesthetics/#FeeExpCom)
-* [5. 自然表达、美和快乐理论](https://plato.stanford.edu/entries/croce-aesthetics/#NatExpBeaHedThe)
-* [6. 外化](https://plato.stanford.edu/entries/croce-aesthetics/#Ext)
-* [7. 判断、批评和品味](https://plato.stanford.edu/entries/croce-aesthetics/#JudCriTas)
-* [8. 艺术与语言的身份](https://plato.stanford.edu/entries/croce-aesthetics/#IdeArtLan)
-* [9. 后续发展](https://plato.stanford.edu/entries/croce-aesthetics/#LatDev)
-* [10. 问题](https://plato.stanford.edu/entries/croce-aesthetics/#Pro)
-  * [10.1 行动与沉思](https://plato.stanford.edu/entries/croce-aesthetics/#ActVerCon)
-  * [10.2 隐私](https://plato.stanford.edu/entries/croce-aesthetics/#Pri)
-  * [10.3 语言的视角](https://plato.stanford.edu/entries/croce-aesthetics/#VieLan)
-* [11. 结论](https://plato.stanford.edu/entries/croce-aesthetics/#Con)
-* [参考文献](https://plato.stanford.edu/entries/croce-aesthetics/#Bib)
-  * [主要来源](https://plato.stanford.edu/entries/croce-aesthetics/#PriSou)
-  * [次要来源](https://plato.stanford.edu/entries/croce-aesthetics/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/croce-aesthetics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/croce-aesthetics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/croce-aesthetics/#Rel)
 
 ***
 

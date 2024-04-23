@@ -6,43 +6,6 @@
 
 认知主义是对非认知主义的否定。因此，它认为道德陈述确实表达了信念，并且它们适合真实和虚假。但认知主义不一定是现实主义的一种形式，因为认知主义者可以是错误理论者，并认为所有道德陈述都是虚假的。尽管如此，道德现实主义者在某种程度上是认知主义者，因为他们认为道德陈述适合强有力的真实和虚假，并且其中许多陈述实际上是真实的。
 
-* [1. 更详细的一般描述](https://plato.stanford.edu/entries/moral-cognitivism/#DetaGeneDesc)
-
-  * [1.1 两个否定性的构成性非认知主义主张](https://plato.stanford.edu/entries/moral-cognitivism/#TwoNegaConsNonCognClai)
-  * [ 认知主义](https://plato.stanford.edu/entries/moral-cognitivism/#Cogn)
-  * [1.3 与认知主义主观主义的对比](https://plato.stanford.edu/entries/moral-cognitivism/#ContCognSubj)
-* [2. 更详细的主要变种](https://plato.stanford.edu/entries/moral-cognitivism/#PrinVariDeta)
-
-  * [ 2.1 情感主义](https://plato.stanford.edu/entries/moral-cognitivism/#Emot)
-  * [2.2 规范主义和普遍规范主义](https://plato.stanford.edu/entries/moral-cognitivism/#PresUnivPres)
-  * [ 准实在主义](https://plato.stanford.edu/entries/moral-cognitivism/#QuasReal)
-  * [ 2.4 表达主义](https://plato.stanford.edu/entries/moral-cognitivism/#Expr)
-  * [2.5 规范表达主义和计划表达主义](https://plato.stanford.edu/entries/moral-cognitivism/#NormExprPlanExpr)
-  * [2.6 边界情况和混合理论](https://plato.stanford.edu/entries/moral-cognitivism/#BordCaseHybrTheo)
-* [3. 非认知主义的动机](https://plato.stanford.edu/entries/moral-cognitivism/#MotiForNonCogn)
-
-  * [3.1 开放问题论证](https://plato.stanford.edu/entries/moral-cognitivism/#OpenQuesArgu)
-  * [ 3.2 自然主义](https://plato.stanford.edu/entries/moral-cognitivism/#Natu)
-  * [3.3 动机内在主义与道德判断的行动指导特性](https://plato.stanford.edu/entries/moral-cognitivism/#MotiInteActiGuidCharMoraJudg)
-  * [ 3.4 Supervenience 3.4 随附](https://plato.stanford.edu/entries/moral-cognitivism/#Supe)
-  * [3.5 道德分歧的独特性？](https://plato.stanford.edu/entries/moral-cognitivism/#DistMoraDisa)
-* [4. 问题，反对意见和应对策略](https://plato.stanford.edu/entries/moral-cognitivism/#ProbObjeRespStra)
-
-  * [4.1 嵌入问题](https://plato.stanford.edu/entries/moral-cognitivism/#EmbeProb)
-  * [4.2 一厢情愿反对、道德推理和道德不确定性](https://plato.stanford.edu/entries/moral-cognitivism/#WishThinObjeMoraReasMoraUnce)
-  * [4.3 非认知主义和相对主义](https://plato.stanford.edu/entries/moral-cognitivism/#NonCognRela)
-  * [4.4 在非认知主义元伦理学中捕捉规范思维的多样性](https://plato.stanford.edu/entries/moral-cognitivism/#CaptVariNormThouWithNonCognMeta)
-* [5. 认知主义者/非认知主义者的区分能够被维持吗？](https://plato.stanford.edu/entries/moral-cognitivism/#CognCognDistSust)
-
-  * [5.1 精细非认知主义 vs. 精细认知主义相对主义](https://plato.stanford.edu/entries/moral-cognitivism/#SophNonCognVsSophCognRela)
-  * [5.2 极简主义对非认知主义的削弱](https://plato.stanford.edu/entries/moral-cognitivism/#MiniUndeNonCogn)
-  * [5.3 非认知主义者的过度和可能的崩溃](https://plato.stanford.edu/entries/moral-cognitivism/#NonCognOverPossColl)
-* [ 6. 结论](https://plato.stanford.edu/entries/moral-cognitivism/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-cognitivism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-cognitivism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-cognitivism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-cognitivism/#Rel)
-
 ---
 
 ## 一个更详细的一般描述

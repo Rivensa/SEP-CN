@@ -12,38 +12,6 @@
 
 对于前述的四种意识概念，一些哲学家声称，该类型的意识完全或在很大程度上可以解释为一种表征形式。本条目将主要讨论意识的表征理论在第（3）和（4）意义上。对于（1）和（2）的主要表征方法是“高阶表征”理论，分为“内部感知”或“高阶知觉”观点，“熟悉”解释和“高阶思维”理论。有关这些内容的讨论，请参阅有关意识高阶理论的条目。
 
-* [定性特征作为表征](https://plato.stanford.edu/entries/consciousness-representational/#QuaChaRep)
-* [表征主义的多样性](https://plato.stanford.edu/entries/consciousness-representational/#VarRep)
-
-  * [2.1 纯粹、强度和弱度的表征主义](https://plato.stanford.edu/entries/consciousness-representational/#PurStrWeaRep)
-  * [2.2 狭义和广义表征主义](https://plato.stanford.edu/entries/consciousness-representational/#NarWidRep)
-  * [2.3 表征内容](https://plato.stanford.edu/entries/consciousness-representational/#RepCon)
-  * [2.4 归纳 vs. 非归纳](https://plato.stanford.edu/entries/consciousness-representational/#RedVsNon)
-* [支持感官质量表征理论的论点](https://plato.stanford.edu/entries/consciousness-representational/#ArgFavRepTheSenQua)
-
-  * [3.1 唯物主义论证](https://plato.stanford.edu/entries/consciousness-representational/#ArgMat)
-  * [3.2. 表征的论证](https://plato.stanford.edu/entries/consciousness-representational/#ArgVer)
-  * [3.3 透明度论证](https://plato.stanford.edu/entries/consciousness-representational/#ArgTra)
-  * [3.4 表征的论据](https://plato.stanford.edu/entries/consciousness-representational/#ArgSee)
-  * [3.5 幻觉论](https://plato.stanford.edu/entries/consciousness-representational/#ArgHal)
-  * [3.6 感官质量的意识](https://plato.stanford.edu/entries/consciousness-representational/#AwaSenQua)
-* [4. 对表征理论的异议](https://plato.stanford.edu/entries/consciousness-representational/#ObjRepThe)
-
-  * [4.1 对非实际性的反对](https://plato.stanford.edu/entries/consciousness-representational/#ObjNon)
-  * [4.2 无意识的表征](https://plato.stanford.edu/entries/consciousness-representational/#UncRep)
-  * [4.3 “Phenomenal Intentionality” 4.3 “现象意向性”](https://plato.stanford.edu/entries/consciousness-representational/#PhenInte)
-  * [4.4 “Laws of appearance” 4.4 “表征法则”](https://plato.stanford.edu/entries/consciousness-representational/#LawApp)
-  * [ 4.5 反例](https://plato.stanford.edu/entries/consciousness-representational/#Cou)
-  * [4.6 反对广义表征主义的论点](https://plato.stanford.edu/entries/consciousness-representational/#ArgAgaWidRep)
-* [5. 它是什么感觉](https://plato.stanford.edu/entries/consciousness-representational/#WhaLik)
-
-  * [5.1 高阶的“它是什么样的”，不同于感官质量](https://plato.stanford.edu/entries/consciousness-representational/#HigOrdWhaLikDisSenQua)
-  * [5.2 基于“它是什么样子”的反对唯物主义论点](https://plato.stanford.edu/entries/consciousness-representational/#ArgAgaMatBasWhaLik)
-  * [ 5.3 “幻觉主义”](https://plato.stanford.edu/entries/consciousness-representational/#Illus)
-* [ 参考文献](https://plato.stanford.edu/entries/consciousness-representational/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/consciousness-representational/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/consciousness-representational/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/consciousness-representational/#Rel)
 
 ---
 

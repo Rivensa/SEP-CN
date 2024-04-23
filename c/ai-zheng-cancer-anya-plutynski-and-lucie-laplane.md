@@ -14,19 +14,6 @@ _首次发表于 2019 年 5 月 7 日星期二；实质性修订于 2023 年 10 
 
 最后但同样重要的是，癌症研究为考虑价值在科学中的作用以及科学政策界面提供了一个案例研究。关于癌症成因的流行病学和毒理学研究影响了法律和监管政策。癌症研究还为关于精准医学面临的挑战的辩论提供了一个案例；特别是，癌症的复杂性和异质性使得将“基础”科学转化为“现实世界”变得极其困难。这并没有涵盖在癌症科学中出现的各种概念和方法论问题。关于癌症的哲学研究越来越多地与关于因果关系、风险、机会、选择和道德责任的一般哲学问题的辩论联系在一起。
 
-* [1. 定义和分类癌症](https://plato.stanford.edu/entries/cancer/#DefiClasCanc)
-* [1.1 癌症的内在异质性](https://plato.stanford.edu/entries/cancer/#CancIntrHete)
-* [1.2 癌症的可变自然历史](https://plato.stanford.edu/entries/cancer/#CancVariNatuHist)
-* [2. 解释癌症：理论、模型和机制](https://plato.stanford.edu/entries/cancer/#ExplCancTheoModeMech)
-* [2.1 癌症的机械化图景](https://plato.stanford.edu/entries/cancer/#MechPictCanc)
-* [2.2 复杂化机械化图景：组织结构、干细胞和系统理论](https://plato.stanford.edu/entries/cancer/#CompMechPictTissOrgaStemCellSystTheo)
-* [3. 癌症作为副产品：进化、发展和衰老](https://plato.stanford.edu/entries/cancer/#CancByprEvolDeveAgin)
-* [4. 科学-价值界面和癌症研究目标](https://plato.stanford.edu/entries/cancer/#ScieValuInteAimsCancRese)
-* [参考文献](https://plato.stanford.edu/entries/cancer/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/cancer/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cancer/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/cancer/#Rel)
-
 ***
 
 ## 1.定义和分类癌症

@@ -6,15 +6,7 @@
 
 做好比较哲学可能非常困难，因为它要求从业者涵盖广泛的文本及其知识和历史背景。过度简化、过分鲜明的对比和非法同化被视为最常见的错误。比较哲学的一个好处在于它迫使人们反思自己传统中根深蒂固且未经质疑的议程和假设。另一个从业者经常追求的好处是各传统实际上相互作用并且相互丰富。对于哲学探究，要求严谨和深度的学术显然是一些最重要的标准之一。满足这些标准的任务在研究领域变窄时变得更加可行。这样的结果可能是合法的，但有时是目光狭窄和贫乏的。在不同传统解决共同或重叠问题的程度上，我们可能期望那些能够借鉴更广泛传统的人能够做出更好的哲学工作。从实验心理学和文化理论研究中提供个人解决问题工具包的角度出发，Bruya (2015) 认为哲学和教育中的多元文化方法在问题解决中更具创造力和效果。
 
-* [方法论可比性](https://plato.stanford.edu/entries/comparphil-chiwes/#MethComm)
-* [2. 形而上学和认识论的可比性](https://plato.stanford.edu/entries/comparphil-chiwes/#MetaEpisComm)
-* [伦理可比性](https://plato.stanford.edu/entries/comparphil-chiwes/#EthiComm)
-* [4. 为什么要进行比较哲学，即使它如此困难？](https://plato.stanford.edu/entries/comparphil-chiwes/#WhyDoCompPhilIfSoHard)
-* [混合性作为比较哲学的结果](https://plato.stanford.edu/entries/comparphil-chiwes/#HybrResuCompPhil)
-* [ 参考文献](https://plato.stanford.edu/entries/comparphil-chiwes/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/comparphil-chiwes/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/comparphil-chiwes/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/comparphil-chiwes/#Rel)
+
 
 ---
 

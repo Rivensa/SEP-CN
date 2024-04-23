@@ -6,22 +6,6 @@
 
 哲学家们对联结主义产生了兴趣，因为它承诺提供了一种替代经典心灵理论的可能性：即心灵类似于处理符号语言的数字计算机的广泛观点。联结主义范式如何以及在多大程度上构成对经典主义的挑战，近年来一直是热烈争论的话题。
 
-* [神经网络的描述](https://plato.stanford.edu/entries/connectionism/#DesNeuNet)
-* [2. 神经网络学习和反向传播](https://plato.stanford.edu/entries/connectionism/#NeuNetLeaBac)
-* [3. 神经网络的示例](https://plato.stanford.edu/entries/connectionism/#SamWhaNeuNetDo)
-* [4. 神经网络模型的优势和劣势](https://plato.stanford.edu/entries/connectionism/#StrWeaNeuNetMod)
-* [5. 连结主义与经典主义之间的争议形式](https://plato.stanford.edu/entries/connectionism/#ShaConBetConCla)
-* [6. 联结主义表征](https://plato.stanford.edu/entries/connectionism/#ConRep)
-* [系统性辩论](https://plato.stanford.edu/entries/connectionism/#SysDeb)
-* [8. 联结主义与语义相似性](https://plato.stanford.edu/entries/connectionism/#ConSemSim)
-* [9. 联结主义与民间心理学的消除](https://plato.stanford.edu/entries/connectionism/#ConEliFolPsy)
-* [10. 预测编码认知模型](https://plato.stanford.edu/entries/connectionism/#PC)
-* [11. 深度学习：联结主义的新浪潮](https://plato.stanford.edu/entries/connectionism/#DL)
-* [ 参考文献](https://plato.stanford.edu/entries/connectionism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/connectionism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/connectionism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/connectionism/#Rel)
-
 ---
 
 ## 神经网络的描述

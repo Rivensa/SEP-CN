@@ -4,46 +4,6 @@
 
 “柯里悖论”是当今哲学家所使用的术语，指的是一系列关于自指或循环的悖论，其现代渊源可以追溯到柯里（1942b）和 Löb（1955）。这些所谓的柯里悖论的共同特征在于它们如何利用蕴涵、推演或后果的概念，无论是以连接词的形式还是以谓词的形式。柯里悖论在许多不同领域中出现。与罗素悖论类似，它可以呈现为集合论或属性理论的悖论。但它也可以呈现为语义悖论，与说谎者悖论密切相关。柯里悖论与罗素悖论和说谎者悖论不同之处在于它并不基本涉及否定的概念。常见的真理理论版本涉及一个句子，该句子自述如果它为真，则任意选择的主张为真，或者——使用一个更险恶的例子——自述如果它为真，则每个虚假都为真。悖论在于这样一个句子的存在似乎暗示了任意选择的主张的真实性，或者——在更险恶的例子中——每个虚假的真实性。在本条目中，我们展示了各种柯里悖论如何构建，审视了可用解决方案的空间，并解释了柯里悖论的重要性以及它提出的独特挑战。
 
-* [1. 引言：悖论的两种外貌](https://plato.stanford.edu/entries/curry-paradox/#IntrTwoGuisPara)
-
-  * [1.1 一个非正式的论证](https://plato.stanford.edu/entries/curry-paradox/#InfoArgu)
-  * [1.2 理论的约束](https://plato.stanford.edu/entries/curry-paradox/#ConsTheo)
-  * [ 1.3 概述](https://plato.stanford.edu/entries/curry-paradox/#Over)
-* [构造咖喱句子](https://plato.stanford.edu/entries/curry-paradox/#ConsCurrSent)
-
-  * [咖喱的第一种方法，以及集合论咖喱句子](https://plato.stanford.edu/entries/curry-paradox/#CurrFirsMethSetTheoCurrSent)
-  * [咖喱的第二种方法，以及真理论咖喱句子](https://plato.stanford.edu/entries/curry-paradox/#CurrSecoMethTrutTheoCurrSent)
-* [3. 推导悖论](https://plato.stanford.edu/entries/curry-paradox/#DeriPara)
-
-  * [3.1 柯里悖论引理](https://plato.stanford.edu/entries/curry-paradox/#CurrParaLemm)
-  * [3.2 替代前提](https://plato.stanford.edu/entries/curry-paradox/#AltePrem)
-* [Curry 悖论的回应](https://plato.stanford.edu/entries/curry-paradox/#RespCurrPara)
-
-  * [Curry 不完备性的回应](https://plato.stanford.edu/entries/curry-paradox/#CurrIncoResp)
-  * [Curry 完备性的回应](https://plato.stanford.edu/entries/curry-paradox/#CurrCompResp)
-
-    * [4.2.1 无缩写回复](https://plato.stanford.edu/entries/curry-paradox/#ContFreeResp)
-    * [4.2.2 无分离回复](https://plato.stanford.edu/entries/curry-paradox/#DetaFreeResp)
-    * [4.2.3 适用于非正式论证](https://plato.stanford.edu/entries/curry-paradox/#ApplInfoArgu)
-* [Curry 悖论的重要性](https://plato.stanford.edu/entries/curry-paradox/#SignCurrPara)
-
-  * [扫除对否定悖论解决方案的希望](https://plato.stanford.edu/entries/curry-paradox/#DashHopeForSoluNegaPara)
-
-    * [无法实现的无矛盾解决方案](https://plato.stanford.edu/entries/curry-paradox/#ParaSoluFrus)
-    * [5.1.2 部分完整解决方案受挫](https://plato.stanford.edu/entries/curry-paradox/#ParaSoluFrus_1)
-  * [5.2 指向一般悖论结构](https://plato.stanford.edu/entries/curry-paradox/#PoinGeneParaStru)
-* [6. 有效性咖喱](https://plato.stanford.edu/entries/curry-paradox/#ValiCurr)
-
-  * [ 6.1 连接形式](https://plato.stanford.edu/entries/curry-paradox/#ConnForm)
-  * [ 6.2 谓词形式](https://plato.stanford.edu/entries/curry-paradox/#PredForm)
-  * [ 6.3 意义](https://plato.stanford.edu/entries/curry-paradox/#Sign)
-* [ 参考书目](https://plato.stanford.edu/entries/curry-paradox/#Bib)
-
-  * [ 主要历史资料](https://plato.stanford.edu/entries/curry-paradox/#KeyHistSour)
-  * [ 其他参考资料](https://plato.stanford.edu/entries/curry-paradox/#OtheRefe)
-* [ 学术工具](https://plato.stanford.edu/entries/curry-paradox/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/curry-paradox/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/curry-paradox/#Rel)
 
 ---
 

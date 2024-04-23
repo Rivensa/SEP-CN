@@ -4,27 +4,6 @@ _首次发表于 2018 年 5 月 11 日星期五_
 
 气候科学研究地球气候系统的结构和动态。它旨在理解全球、区域和局部气候是如何维持的，以及它们随时间如何变化的过程。在这个过程中，它利用了来自气象学、海洋学、物理学、化学等各个领域的观察和理论。这些资源还为气候系统的计算机模型的发展提供了信息，这些模型是当今气候研究的支柱。本文概述了当代气候科学的一些核心概念和实践，以及与之相关的哲学工作。重点主要放在在制作气候数据集以及构建、使用和评估气候模型时出现的认识论和方法论问题上。还讨论了一些关于人为气候变化的关键问题和发现。
 
-* [1. 简介](https://plato.stanford.edu/entries/climate-science/#Intr)
-* [2. 基本概念](https://plato.stanford.edu/entries/climate-science/#BasiConc)
-* [3. 气候数据](https://plato.stanford.edu/entries/climate-science/#ClimData)
-* [3.1 基于站点的数据集](https://plato.stanford.edu/entries/climate-science/#StatBaseData)
-* [3.2 再分析](https://plato.stanford.edu/entries/climate-science/#Rean)
-* [3.3 古气候重建](https://plato.stanford.edu/entries/climate-science/#PaleReco)
-* [4. 气候建模](https://plato.stanford.edu/entries/climate-science/#ClimMode)
-* [4.1 气候模型的类型](https://plato.stanford.edu/entries/climate-science/#TypeClimMode)
-* [4.2 构建气候模型](https://plato.stanford.edu/entries/climate-science/#ConsClimMode)
-* [4.3 气候模型的用途](https://plato.stanford.edu/entries/climate-science/#UsesClimMode)
-* [4.4 评估气候模型](https://plato.stanford.edu/entries/climate-science/#EvalClimMode)
-* [5. 人为气候变化](https://plato.stanford.edu/entries/climate-science/#AnthClimChan)
-* [5.1 检测和归因](https://plato.stanford.edu/entries/climate-science/#DeteAttr)
-* [5.2 预测未来气候变化](https://plato.stanford.edu/entries/climate-science/#ProjFutuClimChan)
-* [5.3 最近的争议](https://plato.stanford.edu/entries/climate-science/#ReceCont)
-* [5.4 伦理学和气候变化](https://plato.stanford.edu/entries/climate-science/#EthiClimChan)
-* [参考文献](https://plato.stanford.edu/entries/climate-science/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/climate-science/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/climate-science/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/climate-science/#Rel)
-
 ***
 
 ## 1. 引言

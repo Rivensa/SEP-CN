@@ -4,25 +4,6 @@ _首次发表于 2010 年 7 月 29 日星期四；实质性修订于 2020 年 3 
 
 在十七世纪，“意识”开始具有独特的现代意义。这种转变是由心灵和思想的新理论引发的，并与十七世纪其他重要的辩论议题联系在一起，包括有关心灵透明性、动物意识和先天观念的辩论。此外，意识与道德身份紧密联系，法语和拉丁语甚至没有意识和良心（即道德敏感）之间的语言区别。这种语义转变标志着思想的心理或现象学方面与道德敏感之间的哲学分歧。在十七世纪，关于所有这些话题的讨论丰富多样——下文提供了一个宏观的视角。
 
-* [语言转变](https://plato.stanford.edu/entries/consciousness-17th/#LingTran)
-* [2. 笛卡尔和笛卡尔派](https://plato.stanford.edu/entries/consciousness-17th/#DescCart)
-  * [2.1 笛卡尔对意识的看法](https://plato.stanford.edu/entries/consciousness-17th/#DescCons)
-  * [2.2 笛卡尔之后](https://plato.stanford.edu/entries/consciousness-17th/#AfteDesc)
-* [3. 斯宾诺莎](https://plato.stanford.edu/entries/consciousness-17th/#Spin)
-  * [3.1 道德意识](https://plato.stanford.edu/entries/consciousness-17th/#MoraCons)
-  * [3.2 意念与意念](https://plato.stanford.edu/entries/consciousness-17th/#IdeaIdea)
-  * [3.3 复杂性和权力](https://plato.stanford.edu/entries/consciousness-17th/#CompPowe)
-* [4. 英国的发展](https://plato.stanford.edu/entries/consciousness-17th/#DeveEngl)
-  * [4.1 霍布斯](https://plato.stanford.edu/entries/consciousness-17th/#Hobb)
-  * [4.2 剑桥柏拉图主义者](https://plato.stanford.edu/entries/consciousness-17th/#CambPlat)
-  * [4.3 洛克](https://plato.stanford.edu/entries/consciousness-17th/#Lock)
-* [5. Leibniz (IGNORE)](https://plato.stanford.edu/entries/consciousness-17th/#Leib)
-* [参考文献](https://plato.stanford.edu/entries/consciousness-17th/#Bib)
-  * [主要文献](https://plato.stanford.edu/entries/consciousness-17th/#PrimLite)
-  * [次级文献](https://plato.stanford.edu/entries/consciousness-17th/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/consciousness-17th/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/consciousness-17th/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/consciousness-17th/#Rel)
 
 ***
 

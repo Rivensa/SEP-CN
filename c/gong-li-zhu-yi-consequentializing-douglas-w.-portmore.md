@@ -18,25 +18,7 @@
 
 因此，要将非功利主义理论转化为功利主义理论，我们将行为功利主义与一种结果排名相结合，使得由此产生的行为功利主义对应理论在每一个可能的世界中都产生与目标非功利主义理论相同（或几乎相同）的义务裁决。从历史上看，这通常是为了希望提出一种行为功利主义的版本，避免大部分，如果不是全部，功利主义的令人反感的含义。这个项目通常被称为“功利主义化项目”（Portmore 2007; S. A. Schroeder 2017; Suikkanen 2020）。但是，正如我们将在下文看到的，一些当代哲学家进行功利主义化是出于其他原因。实际上，有三种不同类型的功利主义化，因此有三个不同的功利主义化项目。因此，当我们在下文考虑对功利主义化的各种反对意见时，我们需要小心不要混淆它们，因为许多这些反对意见仅适用于某些类型的功利主义化。
 
-* [1. 功利主义与其他试图调和功利主义与普遍道德观的尝试有何不同](https://plato.stanford.edu/entries/consequentializing/#HowConsDiffOtheAtteRecoUtilCommMoraOpin)
-* [将“Consequentializing Commonsense Deontic Verdicts”翻译为“功利主义常识义务裁决”。](https://plato.stanford.edu/entries/consequentializing/#ConsCommDeonVerd)
-* [3. 三种功利主义的动机和类型](https://plato.stanford.edu/entries/consequentializing/#ThreMotiForTypeCons)
 
-  * [3.1 严肃的功利主义](https://plato.stanford.edu/entries/consequentializing/#EarnCons)
-  * [3.2 符号功利主义](https://plato.stanford.edu/entries/consequentializing/#NotaCons)
-  * [3.3 功利主义化](https://plato.stanford.edu/entries/consequentializing/#PragCons)
-* [4. 反对功利主义](https://plato.stanford.edu/entries/consequentializing/#ObjeCons)
-
-  * [4.1 关于行为功利主义并没有什么特别引人注目的地方](https://plato.stanford.edu/entries/consequentializing/#TherNothUniqCompAbouActCons)
-  * [4.2 常识道德的一些关键特征无法被功利主义化。](https://plato.stanford.edu/entries/consequentializing/#SomeKeyFeatCommMoraCannCons)
-  * [4.3 行为功利主义对应理论是花哨的](https://plato.stanford.edu/entries/consequentializing/#ActConsCounTheoGimm)
-  * [4.4 行为功利主义对应理论在解释上是不足的](https://plato.stanford.edu/entries/consequentializing/#ActConsCounTheoExplInad)
-  * [4.5 “Has an Outcome that Outranks Every Available Alternative” 并不等同于“应该被执行”。](https://plato.stanford.edu/entries/consequentializing/#HasOutcOutrEverAvaiAlteIsntEquiOughPerf)
-* [ 5. 结论](https://plato.stanford.edu/entries/consequentializing/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/consequentializing/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/consequentializing/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/consequentializing/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/consequentializing/#Rel)
 
 ---
 

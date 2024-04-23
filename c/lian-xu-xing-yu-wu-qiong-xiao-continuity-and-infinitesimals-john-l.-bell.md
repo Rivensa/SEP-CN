@@ -8,19 +8,6 @@
 
 无穷小具有悠久而丰富多彩的历史。它们最早出现在希腊原子论哲学家德谟克利特（约公元前450年）的数学中，后来被数学家欧多克索斯（约公元前350年）在后来成为正式的“欧几里得”数学中驱逐。以“不可分割”的形式出现在中世纪晚期的数学中，并在微积分的发展中发挥了重要作用。它们在逻辑上的可疑地位导致了19世纪的放弃，并被极限概念取代。然而，近年来，无穷小的概念已经在严格的基础上重新建立。
 
-* [介绍：连续、离散和无穷小](https://plato.stanford.edu/entries/continuity/#IntrContDiscInfi)
-* [古代时期的连续体与无穷小](https://plato.stanford.edu/entries/continuity/#ContInfiAnciPeri)
-* [中世纪、文艺复兴和近代早期的连续体与无穷小](https://plato.stanford.edu/entries/continuity/#ContInfiMediRenaEarlModePeri)
-* [十七和十八世纪的连续体与无穷小](https://plato.stanford.edu/entries/continuity/#ContInfiSeveEighCent)
-* [19世纪的连续体与无穷小](https://plato.stanford.edu/entries/continuity/#ContInfiNineCent)
-* [对算术化的批评反应](https://plato.stanford.edu/entries/continuity/#CritReacArit)
-* [ 非标准分析](https://plato.stanford.edu/entries/continuity/#NonsAnal)
-* [建设性实数和直觉连续体](https://plato.stanford.edu/entries/continuity/#ConsRealLineIntuCont)
-* [平滑无穷小分析](https://plato.stanford.edu/entries/continuity/#SmooInfiAnal)
-* [ 参考文献](https://plato.stanford.edu/entries/continuity/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/continuity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/continuity/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/continuity/#Rel)
 
 ---
 

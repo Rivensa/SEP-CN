@@ -4,29 +4,6 @@ _首次发表于 2001 年 8 月 8 日星期三；实质性修订于 2020 年 8 �
 
 取一个直陈条件句，适合用于陈述：“我们会在十点前回家”，“汤姆做了晚餐”。在其后加上一个条件从句，你就得到了一个带有条件的陈述句：“如果火车准点的话，我们会在十点前回家”，“如果玛丽没有做晚餐，汤姆做了它”。一个条件句“如果 A，C”或“如果 A，C”因此包含两个句子或类似句子的子句。A 被称为前提，C 被称为结论。如果你理解 A 和 C，并且掌握了条件句的结构（就像我们在幼年时期所做的那样），你就理解了“如果 A，C”。 “如果”是什么意思？查阅词典得到的是“在条件下；假设；假如”。这些是足够的同义词。但我们想要的不仅仅是同义词。条件句的理论旨在解释条件性判断何时是可以接受的，涉及条件句的推理何时是良好的推理，以及为什么这种语言结构如此重要。尽管有许多极具创造性的密集工作，这仍然是一个极具争议性的主题。
 
-* [介绍](https://plato.stanford.edu/entries/conditionals/#Int)
-* [直陈条件的真值条件](https://plato.stanford.edu/entries/conditionals/#TruConIndCon)
-  * [2.1 两种真理条件](https://plato.stanford.edu/entries/conditionals/#TwoKinTruCon)
-  * [2.2 直陈条件支持真功能性](https://plato.stanford.edu/entries/conditionals/#ArgTru)
-  * [2.3 反对真功能性的论点](https://plato.stanford.edu/entries/conditionals/#ArgAgaTru)
-  * [2.4 格赛对真功能性的语用辩护](https://plato.stanford.edu/entries/conditionals/#GriPraDefTru)
-  * [2.5 条件复合物：对于胡克和阿罗来说存在问题](https://plato.stanford.edu/entries/conditionals/#ComConProHooArr)
-* [假设理论](https://plato.stanford.edu/entries/conditionals/#SupThe)
-  * [3.1 直陈条件信念与直陈条件概率](https://plato.stanford.edu/entries/conditionals/#ConBelConPro)
-  * [3.2 直陈条件](https://plato.stanford.edu/entries/conditionals/#Val)
-* [4. 真实条件再审](https://plato.stanford.edu/entries/conditionals/#TruConRevStaJac)
-  * [4.1 最近可能的世界](https://plato.stanford.edu/entries/conditionals/#Sta)
-  * [4.2 一种特殊的可断言性条件](https://plato.stanford.edu/entries/conditionals/#Jac)
-  * [4.3 限制条件和严格条件](https://plato.stanford.edu/entries/conditionals/#Kra)
-  * [4.4 启发式和语义](https://plato.stanford.edu/entries/conditionals/#Heu)
-* [5. 直陈条件的复合体：假设理论的问题](https://plato.stanford.edu/entries/conditionals/#Com)
-* [6. 其他条件言语行为和命题态度](https://plato.stanford.edu/entries/conditionals/#OthConSpeActProAtt)
-* [参考文献](https://plato.stanford.edu/entries/conditionals/#Bib)
-  * [概述](https://plato.stanford.edu/entries/conditionals/#GenOve)
-  * [其他引用的作品](https://plato.stanford.edu/entries/conditionals/#Cited)
-* [学术工具](https://plato.stanford.edu/entries/conditionals/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/conditionals/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/conditionals/#Rel)
 
 ***
 

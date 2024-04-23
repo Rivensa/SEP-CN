@@ -10,27 +10,7 @@
 
 此外，尽管大多数神学与宇宙学的互动发生在基督教传统内部，但从未——或很少——有基督教的定义特征（即基督的独特角色）在这些互动中起到明确作用。
 
-* [1. 概述：宇宙学、神学和宗教](https://plato.stanford.edu/entries/cosmology-theology/#1)
-* [2. 创世和宇宙大爆炸](https://plato.stanford.edu/entries/cosmology-theology/#2)
 
-  * [2.1 宇宙大爆炸应该证实谁的有神论？](https://plato.stanford.edu/entries/cosmology-theology/#2.1)
-  * [2.2 有神论者是否应该从科学宇宙学中寻求证实？](https://plato.stanford.edu/entries/cosmology-theology/#2.2)
-  * [2.3 哪些宇宙学模型支持无中生有的创世说？](https://plato.stanford.edu/entries/cosmology-theology/#2.3)
-  * [2.4 我们能相信广义相对论吗？](https://plato.stanford.edu/entries/cosmology-theology/#2.4)
-  * [2.5 宇宙大爆炸是否为无神论提供证据？](https://plato.stanford.edu/entries/cosmology-theology/#2.5)
-* [3. 稳态理论](https://plato.stanford.edu/entries/cosmology-theology/#3)
-* [4. 量子和弦宇宙学](https://plato.stanford.edu/entries/cosmology-theology/#4)
-* [5. 其他非标准宇宙学](https://plato.stanford.edu/entries/cosmology-theology/#5)
-
-  * [ 5.1 循环宇宙学](https://plato.stanford.edu/entries/cosmology-theology/#5.1)
-  * [ 5.2 多元宇宙](https://plato.stanford.edu/entries/cosmology-theology/#5.2)
-* [6. 无限与宇宙](https://plato.stanford.edu/entries/cosmology-theology/#6)
-* [ 7. 物理末世论](https://plato.stanford.edu/entries/cosmology-theology/#7)
-* [8. 结论：宇宙论和上帝](https://plato.stanford.edu/entries/cosmology-theology/#8)
-* [ 参考文献](https://plato.stanford.edu/entries/cosmology-theology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/cosmology-theology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cosmology-theology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/cosmology-theology/#Rel)
 
 ---
 

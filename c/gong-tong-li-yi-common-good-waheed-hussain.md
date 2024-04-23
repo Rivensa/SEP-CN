@@ -10,27 +10,6 @@
 
 本文审视了哲学文献，涵盖了传统共同利益概念中的各种一致点，如柏拉图、亚里士多德、约翰·洛克、卢梭、亚当·斯密、黑格尔、罗尔斯和沃尔泽等人所青睐的观点。它还涵盖了一些重要的分歧，特别是“共同体”和“分配”观之间的分歧。最后，文章考虑了文献中的三个重要主题：民主、共同分享和竞争市场。为了理解这些问题，从将共同利益与在福利经济学和政治道德福利后果主义中起着重要作用的各种善的概念区分开来是有帮助的。
 
-* [第一对比：福利后果主义](https://plato.stanford.edu/entries/common-good/#FirsContWelfCons)
-* [第二对比：公共物品](https://plato.stanford.edu/entries/common-good/#SecoContPublGood)
-* [3. 为什么政治哲学需要这个概念？“私人社会”中的缺陷](https://plato.stanford.edu/entries/common-good/#WhyDoesPoliPhilNeedConcDefePrivSoci)
-* [4. 共同利益的核心特征](https://plato.stanford.edu/entries/common-good/#StruFeatCommGood)
-
-  * [4.1 实践推理的共同立场](https://plato.stanford.edu/entries/common-good/#SharStanForPracReas)
-  * [4.2 一组共同设施](https://plato.stanford.edu/entries/common-good/#SetCommFaci)
-  * [4.3 一种特权阶级的共同利益](https://plato.stanford.edu/entries/common-good/#PrivClasCommInte)
-  * [4.4 一种团结关怀](https://plato.stanford.edu/entries/common-good/#SoliConc)
-  * [4.5 一种非聚合性关注](https://plato.stanford.edu/entries/common-good/#NonaConc)
-* [5. 共同利益 (i): 共同活动](https://plato.stanford.edu/entries/common-good/#CommInteIJoinActi)
-* [6. 共同利益（ii）：私人个性](https://plato.stanford.edu/entries/common-good/#CommInteIiPrivIndi)
-* [7. 共同利益视角：共同的还是分配的？](https://plato.stanford.edu/entries/common-good/#CommGoodPersCommDist)
-* [8. 政治中的共同利益：民主与集体决策](https://plato.stanford.edu/entries/common-good/#CommGoodPoliDemoCollDeciMaki)
-* [9. The Common Good in Civic Life: Burden Sharing and Resource Pooling 共同利益在公民生活中：分担负担与资源共享](https://plato.stanford.edu/entries/common-good/#CommGoodCiviLifeBurdSharResoPool)
-* [10. 市场、竞争和看不见的手](https://plato.stanford.edu/entries/common-good/#MarkCompInviHand)
-* [11. 结论：社会正义与共同利益](https://plato.stanford.edu/entries/common-good/#ConcSociJustCommGood)
-* [ 参考文献](https://plato.stanford.edu/entries/common-good/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/common-good/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/common-good/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/common-good/#Rel)
 
 ---
 

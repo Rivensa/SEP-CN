@@ -4,23 +4,6 @@
 
 宪政主义是一个概念，通常与约翰·洛克（John Locke）的政治理论和美国共和国的创始人联系在一起，认为政府可以并且应该在法律上受到限制，其权威或合法性取决于其遵守这些限制。这一观念带来了一系列令人困惑的问题，不仅对法律学者感兴趣，而且对于任何渴望探索国家法律和哲学基础的人都是如此。如果法律是政府的创造，政府如何受到法律限制？这是否意味着政府可以“自我限制”？这种可能性存在吗？如果不是，那么是否有某种方式可以避免这种暗示？如果有意义的限制确实可能存在，也许宪法约束必须以某种方式“牢固”，即不受那些受到限制的人的更改或撤销？也许它们不仅必须被牢固地确立，而且必须被载入书面规则。如果是这样，这些规则应该如何解释？是根据它们的原始、公共含义或作者的意图，还是根据它们表达的、可能是不断发展的价值观和原则？最终，如何回答这些问题在很大程度上取决于一个人如何构想宪法的性质、身份和权威。宪法是否必须建立一个稳定的框架，用于行使公共权力，这种框架在某种程度上受到原始公共含义或作者意图等因素的限制？或者它可以是一个与不断变化的政治价值观和原则同步发展的生命实体？以下将探讨这些问题以及其他类似问题。
 
-* [1. 宪政主义：最小和丰富的意义](https://plato.stanford.edu/entries/constitutionalism/#ConsMiniRichSens)
-* [2. Sovereign versus Government 主权与政府](https://plato.stanford.edu/entries/constitutionalism/#SoveVersGove)
-* [ 3. 巩固化](https://plato.stanford.edu/entries/constitutionalism/#Entr)
-* [ 4. 书面性](https://plato.stanford.edu/entries/constitutionalism/#Writ)
-* [5. 蒙特斯基与三权分立](https://plato.stanford.edu/entries/constitutionalism/#MontSepaPowe)
-* [6. 宪法法律与宪法惯例](https://plato.stanford.edu/entries/constitutionalism/#ConsLawVersConsConv)
-* [7. 宪法解释](https://plato.stanford.edu/entries/constitutionalism/#ConsInte)
-* [ 8. 原文主义](https://plato.stanford.edu/entries/constitutionalism/#Orig)
-* [9. 活体宪政主义](https://plato.stanford.edu/entries/constitutionalism/#LiviCons)
-* [10. 道德阅读](https://plato.stanford.edu/entries/constitutionalism/#MoraRead)
-* [11. 自由主义与共同利益宪政主义](https://plato.stanford.edu/entries/constitutionalism/#LibeVsCommGoodCons)
-* [ 12. 批判理论](https://plato.stanford.edu/entries/constitutionalism/#CritTheo)
-* [ 参考文献](https://plato.stanford.edu/entries/constitutionalism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/constitutionalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/constitutionalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/constitutionalism/#Rel)
-
 ---
 
 ## 宪政主义：最小和丰富的意义

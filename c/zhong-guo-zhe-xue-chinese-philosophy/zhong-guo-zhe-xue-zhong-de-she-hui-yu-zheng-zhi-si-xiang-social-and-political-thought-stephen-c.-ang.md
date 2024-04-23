@@ -8,30 +8,6 @@ _首次发表于 2016 年 7 月 21 日星期四；实质性修订于 2022 年 1 
 
 有几个问题是中国社会和政治思想中教义和辩论的核心问题，其中如何维持“秩序（_zhi_）”——通常更具体地理解为“和谐（_he_）”——是最基本的问题。我们应该在多大程度上依赖制度（以及何种类型的制度？），人类领导力又有多重要？什么样的角色、关系或等级应该构建我们的社会，它们如何被证明是合理的？它们可以被质疑或改变吗？就社会被划分为统治者和被统治者而言，彼此应该承担什么责任，为什么？我们将看到，社会和政治主题经常与中国哲学的其他方面联系在一起——例如，对刚提出的一些问题的回答会引发进一步的伦理、认识论或形而上学问题——但在很大程度上，我们仍然可以理解社会和政治思想本身的意义。
 
-* [1. “政治” 的范围](https://plato.stanford.edu/entries/chinese-social-political/#ScopPoli)
-* [2. 古典时代](https://plato.stanford.edu/entries/chinese-social-political/#ClasEra)
-* [2.1 ](https://plato.stanford.edu/entries/chinese-social-political/#GuanCarrStic)​\*[管子](https://plato.stanford.edu/entries/chinese-social-political/#GuanCarrStic)\*​[：胡萝卜和大棒](https://plato.stanford.edu/entries/chinese-social-political/#GuanCarrStic)
-* [2.2 ](https://plato.stanford.edu/entries/chinese-social-political/#MoziTheoUtilJust)​\*[Mozi](https://plato.stanford.edu/entries/chinese-social-political/#MoziTheoUtilJust)\*​[: 神学或功利主义的正当性？](https://plato.stanford.edu/entries/chinese-social-political/#MoziTheoUtilJust)
-* [2.3 ](https://plato.stanford.edu/entries/chinese-social-political/#AnalLunyMenc)​\*[Analects](https://plato.stanford.edu/entries/chinese-social-political/#AnalLunyMenc)_​_[ _(_](https://plato.stanford.edu/entries/chinese-social-political/#AnalLunyMenc)_​_[论语](https://plato.stanford.edu/entries/chinese-social-political/#AnalLunyMenc)_​_[_) 和_ ](https://plato.stanford.edu/entries/chinese-social-political/#AnalLunyMenc)_​_[Mencius](https://plato.stanford.edu/entries/chinese-social-political/#AnalLunyMenc)\*
-* [2.4 ](https://plato.stanford.edu/entries/chinese-social-political/#DaoDeJingNatuNonActiWuwe)​\*[Dao De Jing](https://plato.stanford.edu/entries/chinese-social-political/#DaoDeJingNatuNonActiWuwe)_​_[_: 自然与无为(_](https://plato.stanford.edu/entries/chinese-social-political/#DaoDeJingNatuNonActiWuwe)_​_[无为](https://plato.stanford.edu/entries/chinese-social-political/#DaoDeJingNatuNonActiWuwe)\*​[)](https://plato.stanford.edu/entries/chinese-social-political/#DaoDeJingNatuNonActiWuwe)
-* [2.5 ](https://plato.stanford.edu/entries/chinese-social-political/#ZhuaRejeGove)​\*[庄子](https://plato.stanford.edu/entries/chinese-social-political/#ZhuaRejeGove)\*​[: 拒绝治理](https://plato.stanford.edu/entries/chinese-social-political/#ZhuaRejeGove)
-* [2.6 ](https://plato.stanford.edu/entries/chinese-social-political/#BookLordShanBeneThroOrde)​\*[商君书](https://plato.stanford.edu/entries/chinese-social-political/#BookLordShanBeneThroOrde)\*​[: 秩序造福](https://plato.stanford.edu/entries/chinese-social-political/#BookLordShanBeneThroOrde)
-* [2.7 申不害: 官僚主义的“无为”](https://plato.stanford.edu/entries/chinese-social-political/#ShenBuhaBureNonActi)
-* [2.8 科学: 转变人民](https://plato.stanford.edu/entries/chinese-social-political/#XunzTranPeop)
-* [2.9 科学: 实用政策的务实理由](https://plato.stanford.edu/entries/chinese-social-political/#HanFeizPragJustPracPoli)
-* [3. 早期帝国时代](https://plato.stanford.edu/entries/chinese-social-political/#EarlImpeEra)
-* [4. 新儒家时代](https://plato.stanford.edu/entries/chinese-social-political/#NeoConfEra)
-* [4.1 派别与政治独立](https://plato.stanford.edu/entries/chinese-social-political/#FactPoliInde)
-* [4.2 制度与以人为本的治理理论](https://plato.stanford.edu/entries/chinese-social-political/#InstVsCharCentTheoGove)
-* [4.3 最后思考](https://plato.stanford.edu/entries/chinese-social-political/#FinaThou)
-* [5. 现代时代](https://plato.stanford.edu/entries/chinese-social-political/#ModeEra)
-* [参考文献](https://plato.stanford.edu/entries/chinese-social-political/#Bib)
-* [主要文本](https://plato.stanford.edu/entries/chinese-social-political/#PrimText)
-* [次要文本](https://plato.stanford.edu/entries/chinese-social-political/#SecoText)
-* [学术工具](https://plato.stanford.edu/entries/chinese-social-political/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/chinese-social-political/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/chinese-social-political/#Rel)
-
 ***
 
 ## 1. “政治”的范围

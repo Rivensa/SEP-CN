@@ -4,22 +4,6 @@
 
 亚历山大·克鲁梅尔（1819-1898 年）是 19 世纪黑人美国启蒙思想家中最杰出的理性主义者。他在当时的同行中脱颖而出，尤其因为他对道德行为中理性的核心地位进行了坚定的辩护。他试图推断出这一观点对语言和历史本质的影响，使他的哲学在广度和深度上超越了其他启蒙思想家。他的学生 W. E. B.杜波依斯的显赫地位有助于确保克鲁梅尔在实用主义兴起期间继续发挥影响力，但随着相对主义思想家如阿兰·勒罗伊·洛克和佐拉·尼尔·赫斯顿的出现，他最终失宠了。
 
-* [ 1. 传略](https://plato.stanford.edu/entries/alexander-crummell/#BioSke)
-* [2. 公民权利问题](https://plato.stanford.edu/entries/alexander-crummell/#ProCivRig)
-* [3. 道德理由问题](https://plato.stanford.edu/entries/alexander-crummell/#ProMorRea)
-* [4. 动机问题](https://plato.stanford.edu/entries/alexander-crummell/#ProMot)
-* [道德变化的问题](https://plato.stanford.edu/entries/alexander-crummell/#ProMorCha)
-
-  * [后代的论据](https://plato.stanford.edu/entries/alexander-crummell/#ArgPos)
-  * [道德变化论证](https://plato.stanford.edu/entries/alexander-crummell/#MorChaArg)
-* [ 参考文献](https://plato.stanford.edu/entries/alexander-crummell/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/alexander-crummell/#PriLit)
-  * [选定的次要文献](https://plato.stanford.edu/entries/alexander-crummell/#SelSecLit)
-  * [ 传记](https://plato.stanford.edu/entries/alexander-crummell/#Bio)
-* [ 学术工具](https://plato.stanford.edu/entries/alexander-crummell/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/alexander-crummell/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/alexander-crummell/#Rel)
 
 ---
 

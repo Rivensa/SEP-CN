@@ -4,16 +4,7 @@
 
 任何刑法理论都必须解释为什么刑法具有独特性——为什么它是值得单独关注的一部法律体系。本条目首先确定了使刑法具有独特性的特征（§1）。然后探讨了这一法律体系履行的功能是什么（§2），以及是什么使其产生和持续存在（§3）。如果应该保留刑法，我们必须考虑其适当的限制（§4）。我们必须考虑在哪些条件下，代理人应对在这些限制范围内的行为承担刑事责任（§5）。我们必须问哪些程序和证据规则应该指导建立刑事责任的努力（§6）。本条目的重点是英美刑法和相关学术研究。提出的许多问题和考虑的许多答案仍然具有普遍适用性。
 
-* [刑法的特征](https://plato.stanford.edu/entries/criminal-law/#FeatCrimLaw)
-* [刑法的功能](https://plato.stanford.edu/entries/criminal-law/#FuncCrimLaw)
-* [刑法的正当化](https://plato.stanford.edu/entries/criminal-law/#JustCrimLaw)
-* [刑法的限制](https://plato.stanford.edu/entries/criminal-law/#LimiCrimLaw)
-* [5. 刑事责任](https://plato.stanford.edu/entries/criminal-law/#CrimResp)
-* [6. 刑事诉讼和证据](https://plato.stanford.edu/entries/criminal-law/#CrimProcEvid)
-* [ 参考文献](https://plato.stanford.edu/entries/criminal-law/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/criminal-law/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/criminal-law/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/criminal-law/#Rel)
+
 
 ---
 

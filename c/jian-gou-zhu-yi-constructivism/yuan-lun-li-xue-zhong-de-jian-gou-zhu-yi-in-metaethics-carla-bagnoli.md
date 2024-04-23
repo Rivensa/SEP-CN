@@ -8,33 +8,7 @@
 
 元伦理学中的建构主义理论旨在解释规范真理和实践理由的本质。它们与传统的元伦理学理论分类存在问题。特别是，关于如何将建构主义置于现实主义/反现实主义辩论中存在分歧。这些分歧根源于对元伦理学定义、规范性与元伦理主张之间关系以及元伦理研究中相关和特定方法的进一步差异。接下来将通过关注建构主义理论旨在回答的独特问题来探讨如何对元伦理学中的建构主义进行分类。第 1 部分解释了建构主义的起源和动机。第 2 至 4 部分考察了元伦理学建构主义的主要变体。第 5 部分说明了相关的建构主义观点，其中一些并非提出作为所有规范真理的元伦理学解释，而仅仅是道德真理的解释。第 6 和 7 部分回顾了关于元伦理学建构主义问题、前景和前景的几场辩论。
 
-* [什么是建构主义？](https://plato.stanford.edu/entries/constructivism-metaethics/#WhatCons)
-* [康德式建构主义的多样性](https://plato.stanford.edu/entries/constructivism-metaethics/#VariKantCons)
 
-  * [康德的建构主义](https://plato.stanford.edu/entries/constructivism-metaethics/#KantCons)
-  * [建构主义作为程序性现实主义](https://plato.stanford.edu/entries/constructivism-metaethics/#ConsProcReal)
-  * [有限理性主体的建构主义](https://plato.stanford.edu/entries/constructivism-metaethics/#ConsForFiniRatiAgen)
-* [休谟式建构主义](https://plato.stanford.edu/entries/constructivism-metaethics/#HumeCons)
-* [亚里士多德建构主义](https://plato.stanford.edu/entries/constructivism-metaethics/#ArisCons)
-* [关于道德原则的建构主义](https://plato.stanford.edu/entries/constructivism-metaethics/#ConsAbouMoraPrin)
-
-  * [5.1 关于对错的建构主义](https://plato.stanford.edu/entries/constructivism-metaethics/#ConsAbouRighWron)
-  * [5.2 基于社会的建构主义](https://plato.stanford.edu/entries/constructivism-metaethics/#SociBaseCons)
-  * [ 5.3 其他种类](https://plato.stanford.edu/entries/constructivism-metaethics/#OtheVari)
-* [元伦理学中的建构主义](https://plato.stanford.edu/entries/constructivism-metaethics/#ConsPlacMeta)
-
-  * [6.1 元伦理学中的建构主义方法](https://plato.stanford.edu/entries/constructivism-metaethics/#ConsApprNormDisc)
-  * [6.2 一个关于真理的建构主义观点？](https://plato.stanford.edu/entries/constructivism-metaethics/#ConsAccoTrut)
-  * [6.3 建构主义与现实主义-反现实主义辩论](https://plato.stanford.edu/entries/constructivism-metaethics/#ConsRealAntiDeba)
-* [7. The Euthyphro Question 7. 尤西福罗问题](https://plato.stanford.edu/entries/constructivism-metaethics/#EuthQues)
-
-  * [7.1 建构主义与直觉的一致性](https://plato.stanford.edu/entries/constructivism-metaethics/#ConsCongIntu)
-  * [7.2 建构主义策略](https://plato.stanford.edu/entries/constructivism-metaethics/#ConsStra)
-  * [7.3 Constitutivism 的反对意见](https://plato.stanford.edu/entries/constructivism-metaethics/#ObjeCons)
-* [ 参考文献](https://plato.stanford.edu/entries/constructivism-metaethics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/constructivism-metaethics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/constructivism-metaethics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/constructivism-metaethics/#Rel)
 
 ---
 

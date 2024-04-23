@@ -8,18 +8,6 @@ _首次发表于 2015 年 4 月 2 日星期四；实质性修订于 2020 年 3 �
 
 政治的中心地位，即使在直接参与其中的情况下，也没有让哲学家们忘记他们对探索不同哲学（主要是欧洲的）学派、学科内的一些特定领域（如逻辑和形而上学）以及一些主题性关注（如宗教在世俗国家中的角色、现代性对自我和社会的影响以及大学在国家建设中的作用）的基本承诺。智利哲学以学术追求与对政治和社会进行更紧密的哲学参与要求之间的持续紧张关系为特征。%%
 
-* [1. 殖民背景](https://plato.stanford.edu/entries/philosophy-chile/#ColBac)
-* [2. 独立与国家认同：形成时期](https://plato.stanford.edu/entries/philosophy-chile/#IndNatForYea)
-* [3. 实证主义时代](https://plato.stanford.edu/entries/philosophy-chile/#EraPos)
-* [4. 反对实证主义的反应.](https://plato.stanford.edu/entries/philosophy-chile/#ReaAgaPos)
-* [5. 哲学专业化的接受与批评](https://plato.stanford.edu/entries/philosophy-chile/#RecCriPhiPro)
-* [6. 军事统治时期](https://plato.stanford.edu/entries/philosophy-chile/#PerMilRul)
-* [参考文献](https://plato.stanford.edu/entries/philosophy-chile/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/philosophy-chile/#PriSou)
-* [次要来源](https://plato.stanford.edu/entries/philosophy-chile/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/philosophy-chile/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/philosophy-chile/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/philosophy-chile/#Rel)
 
 ***
 

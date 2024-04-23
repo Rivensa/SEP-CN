@@ -4,16 +4,6 @@
 
 这篇文章以安娜·朱莉娅·库珀的哲学贡献为焦点，强调她的学术成就，并关注她作为教育家和活动家的承诺。库珀撰写了美国黑人妇女独特处境的最早书籍之一，她清晰阐述了关于种族主义性别歧视和性别化种族主义的见解，同时也不忽视阶级和劳动、教育和智力发展、以及民主和公民身份观念的重要性。库珀的哲学意义根植于西方哲学和古典的历史，她对女性主义哲学、立场理论、认识论以及种族批判哲学和非裔美国哲学（包括非裔美国政治哲学）的基础性贡献也同样重要。文章的前两部分通过提供一些背景信息来定位库珀，然后探讨库珀哲学的历史和当代接受情况。接下来，主要涵盖的主题包括对她的学术成就进行深入分析，特别关注《南方之声：南方黑人妇女的呼声》、她的博士论文《法国在革命期间对待奴隶制的态度》以及这两篇文本之外的其他精选文章。文章最后通过一份库珀的传记简介来优先考虑她的学术成就，并对她的理论进行批判性探讨（而不是从叙述她的生平开始）。
 
-* [将库珀置于背景之中：库珀两篇最著名著作的背景](https://plato.stanford.edu/entries/anna-julia-cooper/#SitCooConForCooTwoBesKnoWri)
-* [库珀哲学的历史和当代接受情况](https://plato.stanford.edu/entries/anna-julia-cooper/#HisConRecCoo)
-* [认出库珀的声音：一个女人问题和一个种族问题](https://plato.stanford.edu/entries/anna-julia-cooper/#RecCooVoiWomQueRacPro)
-* [Cooper的博士论文：法国在革命期间对待奴隶制的态度](https://plato.stanford.edu/entries/anna-julia-cooper/#CooDocTheLatDeLaFraLegDeLesPenLaRev)
-* [5. 其他精选散文和作品：超越声音的沉思](https://plato.stanford.edu/entries/anna-julia-cooper/#OthSelEssWriRumBeyVoi)
-* [ 传记简介](https://plato.stanford.edu/entries/anna-julia-cooper/#BioSke)
-* [ 参考文献](https://plato.stanford.edu/entries/anna-julia-cooper/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/anna-julia-cooper/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/anna-julia-cooper/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/anna-julia-cooper/#Rel)
 
 ---
 

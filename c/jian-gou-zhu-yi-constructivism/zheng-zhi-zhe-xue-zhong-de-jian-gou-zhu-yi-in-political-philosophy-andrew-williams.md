@@ -20,22 +20,7 @@ Rawls 的政治建构主义声称，各种合理的行动指导性政治原则�
 
 第 1 和第 2 部分概述了 Rawls 关于政治道德的人工特性的类比。它们通过描述建构主义的两个特征来做到这一点，即(i)教条赋予程序上基础的原则在确定我们行动理由中的某些作用，以及(ii)其依赖于某些类型的非建构基础理想。转向 Rawls 从他对政治原则公共角色的看法中得出的结论，第 3 和第 4 部分然后考察了第三个重要特征，即(iii)建构主义的“政治”维度，特别是(iv)该教条对几种对立的元伦理立场保持一致的范围和雄心。第 5、6 和 7 部分通过概述建构主义的吸引力、其中一个令人困惑的特征以及其主要反对者 G. A. Cohen 和其他人提出的各种批评来结束。
 
-* [1. 理由、原则和程序](https://plato.stanford.edu/entries/constructivism-political/#ReasPrinProc)
-* [2. Political Constructivism and Justice as Fairness 政治建构主义与公正作为公平](https://plato.stanford.edu/entries/constructivism-political/#PoliConsJustFair)
-* [为什么建构主义变得“政治化”](https://plato.stanford.edu/entries/constructivism-political/#WhyConsBecaPoli)
-* [4. Rational Intuitionism, Moral Constructivism, and Political Constructivism 4. 理性直觉主义、道德建构主义和政治建构主义](https://plato.stanford.edu/entries/constructivism-political/#RatiIntuMoraConsPoliCons)
-* [5. The Appeal of Political Constructivism 5. 政治建构主义的吸引力](https://plato.stanford.edu/entries/constructivism-political/#AppePoliCons)
-* [6. The Practical Conception of Justification 第六部分：正当化的实践观念](https://plato.stanford.edu/entries/constructivism-political/#PracConcJust)
-* [7. Against Political Constructivism 反对政治建构主义](https://plato.stanford.edu/entries/constructivism-political/#GCoheCritCons)
 
-  * [7.1 事实依赖异议](https://plato.stanford.edu/entries/constructivism-political/#FactDepeObje)
-  * [7.2 外部因素异议](https://plato.stanford.edu/entries/constructivism-political/#AlieFactObje)
-  * [7.3 无害的不公正异议](https://plato.stanford.edu/entries/constructivism-political/#HarmInjuObje)
-* [ 8. Conclusion 8. 结论](https://plato.stanford.edu/entries/constructivism-political/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/constructivism-political/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/constructivism-political/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/constructivism-political/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/constructivism-political/#Rel)
 
 ---
 

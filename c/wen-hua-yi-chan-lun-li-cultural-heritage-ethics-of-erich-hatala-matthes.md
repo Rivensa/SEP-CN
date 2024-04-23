@@ -8,51 +8,6 @@
 
 一方面，文化遗产涉及过去，正如遗产伦理话题经常以“谁拥有过去？”的问题来表达。但另一方面，文化遗产同样关乎现在和未来：关乎文化如何卷入当代道德争议，以及我们的文化遗产将会是什么。
 
-* [1. 什么是文化遗产？](https://plato.stanford.edu/entries/ethics-cultural-heritage/#WhatCultHeri)
-
-  * [1.1 什么是文化？](https://plato.stanford.edu/entries/ethics-cultural-heritage/#WhatCult)
-  * [1.2 什么是遗产？](https://plato.stanford.edu/entries/ethics-cultural-heritage/#WhatHeri)
-  * [1.3 文化遗产 vs. 国家遗产](https://plato.stanford.edu/entries/ethics-cultural-heritage/#CultHeriVsNatiHeri)
-  * [1.4 遗产 vs. 历史](https://plato.stanford.edu/entries/ethics-cultural-heritage/#HeriVsHist)
-  * [1.5 文化遗产与自然遗产](https://plato.stanford.edu/entries/ethics-cultural-heritage/#CultHeriVsNatuHeri)
-* [2. 文化财产](https://plato.stanford.edu/entries/ethics-cultural-heritage/#CultProp)
-
-  * [2.1 什么是文化财产？](https://plato.stanford.edu/entries/ethics-cultural-heritage/#WhatCultProp)
-  * [2.2 文化财产价值的范围](https://plato.stanford.edu/entries/ethics-cultural-heritage/#ScopCultPropValu)
-  * [2.3 文化连续性问题](https://plato.stanford.edu/entries/ethics-cultural-heritage/#ProbCultCont)
-  * [ 2.4 管理责任](https://plato.stanford.edu/entries/ethics-cultural-heritage/#Stew)
-  * [2.5 非物质文化遗产](https://plato.stanford.edu/entries/ethics-cultural-heritage/#IntaCultProp)
-* [ 3. 遣返](https://plato.stanford.edu/entries/ethics-cultural-heritage/#Repa)
-
-  * [3.1 基于文化财产的论点](https://plato.stanford.edu/entries/ethics-cultural-heritage/#ArguBaseCultProp)
-
-    * [3.1.1 集体认同和文化财产的不可剥夺性](https://plato.stanford.edu/entries/ethics-cultural-heritage/#CollIdenInalCultProp)
-    * [3.1.2 文化财产的继承](https://plato.stanford.edu/entries/ethics-cultural-heritage/#InheCultProp)
-    * [3.1.3 文化财产和文化意义](https://plato.stanford.edu/entries/ethics-cultural-heritage/#CultPropCultSign)
-  * [基于赔偿的论据](https://plato.stanford.edu/entries/ethics-cultural-heritage/#ArguBaseRepa)
-
-    * [不公正取得](https://plato.stanford.edu/entries/ethics-cultural-heritage/#UnjuAcqu)
-    * [“合法后裔”和文化延续](https://plato.stanford.edu/entries/ethics-cultural-heritage/#LegiDescCultCont)
-    * [人类价值观](https://plato.stanford.edu/entries/ethics-cultural-heritage/#ValuForHuma)
-* [文化挪用](https://plato.stanford.edu/entries/ethics-cultural-heritage/#CultAppr)
-
-  * [什么是文化挪用？](https://plato.stanford.edu/entries/ethics-cultural-heritage/#WhatCultAppr)
-  * [4.2 文化挪用可能存在什么问题？](https://plato.stanford.edu/entries/ethics-cultural-heritage/#WhatMighWronCultAppr)
-
-    * [ 4.2.1 冒犯](https://plato.stanford.edu/entries/ethics-cultural-heritage/#Offe)
-    * [ 4.2.2 伤害](https://plato.stanford.edu/entries/ethics-cultural-heritage/#Harm)
-    * [4.2.3 文化本质主义问题](https://plato.stanford.edu/entries/ethics-cultural-heritage/#ProbCultEsse)
-* [5. 遗产与环境保护](https://plato.stanford.edu/entries/ethics-cultural-heritage/#HeriEnviPres)
-* [6. 遗产伦理学中的其他主题](https://plato.stanford.edu/entries/ethics-cultural-heritage/#OtheTopiHeriEthi)
-
-  * [6.1 展示的伦理](https://plato.stanford.edu/entries/ethics-cultural-heritage/#EthiDisp)
-  * [6.2 考古伦理中的进一步问题](https://plato.stanford.edu/entries/ethics-cultural-heritage/#FurtIssuArchEthi)
-  * [6.3 战争中文化遗产保护的伦理](https://plato.stanford.edu/entries/ethics-cultural-heritage/#EthiCultHeriProtWar)
-* [ 参考文献](https://plato.stanford.edu/entries/ethics-cultural-heritage/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ethics-cultural-heritage/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ethics-cultural-heritage/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ethics-cultural-heritage/#Rel)
-
 ---
 
 ## 1. 什么是文化遗产？

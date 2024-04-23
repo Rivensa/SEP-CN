@@ -4,26 +4,7 @@
 
 颜色出于多种原因引起哲学兴趣。其中最重要的原因之一是颜色引发了严肃的形而上学问题，涉及到物理现实和心灵本质的性质。在这些问题中，有关颜色是否是心灵独立于现实的一部分，以及我们如何解释颜色经验的问题。这些问题一直以来，而且继续与重要的认识论和语义问题密不可分地联系在一起。
 
-* [颜色哲学](https://plato.stanford.edu/entries/color/#PhilColo)
 
-  * [1.1 颜色的问题](https://plato.stanford.edu/entries/color/#ProbColo)
-  * [1.2 抵抗消除论/主观主义](https://plato.stanford.edu/entries/color/#ResiElim)
-  * [1.3 颜色实在论问题](https://plato.stanford.edu/entries/color/#ProbColoReal)
-  * [1.4 颜色如我们通常所谈论和思考的那样](https://plato.stanford.edu/entries/color/#ColoWeOrdiTalkThinAbouThem)
-  * [1.5. 颜色体验：现象特征和意向内容](https://plato.stanford.edu/entries/color/#ColoExpePhenCharInteCont)
-  * [1.6 颜色的竞争理论](https://plato.stanford.edu/entries/color/#RivaTheoColo)
-* [颜色理论](https://plato.stanford.edu/entries/color/#TheoColo)
-
-  * [2.1 原始主义：颜色的简单客观主义观点](https://plato.stanford.edu/entries/color/#PrimSimpObjeViewColo)
-  * [2.2 颜色的还原物理主义](https://plato.stanford.edu/entries/color/#ReduColoPhys)
-  * [2.3 颜色消除论/非实在论/虚构论](https://plato.stanford.edu/entries/color/#ColoElim)
-  * [2.4 颜色处置主义](https://plato.stanford.edu/entries/color/#ColoDisp)
-  * [ 2.5 颜色关系主义](https://plato.stanford.edu/entries/color/#ColoRela)
-  * [2.6 颜色的基于行动的理论](https://plato.stanford.edu/entries/color/#ActiBaseTheoColo)
-* [ 参考文献](https://plato.stanford.edu/entries/color/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/color/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/color/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/color/#Rel)
 
 ---
 

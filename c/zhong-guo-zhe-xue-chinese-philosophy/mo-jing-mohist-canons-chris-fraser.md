@@ -8,30 +8,6 @@ _首次发布于 2005 年 9 月 13 日；实质性修订于 2020 年 11 月 20 �
 
 鉴于后来的墨家思想的广泛性和丰富性，本文只能提供一个狭窄的样本。我们将重点关注伦理学、语言哲学、认识论、本体论和争论中的一些核心思想和问题。（有关本文中使用的一些中文术语的发音粗略指南，请参阅附加文件[发音指南](https://plato.stanford.edu/entries/mohist-canons/pronunciation.html)。）
 
-* [1. 背景和概述](https://plato.stanford.edu/entries/mohist-canons/#BackOver)
-* [2. 文本](https://plato.stanford.edu/entries/mohist-canons/#Text)
-* [3. 伦理学](https://plato.stanford.edu/entries/mohist-canons/#Ethi)
-* [3.1 天](https://plato.stanford.edu/entries/mohist-canons/#Heav)
-* [3.2 利乐](https://plato.stanford.edu/entries/mohist-canons/#BeneHapp)
-* [3.3 义类](https://plato.stanford.edu/entries/mohist-canons/#RelaRank)
-* [3.4 实践推理](https://plato.stanford.edu/entries/mohist-canons/#PracReas)
-* [4. 语言哲学](https://plato.stanford.edu/entries/mohist-canons/#PhilLang)
-* [4.1 名称和事物](https://plato.stanford.edu/entries/mohist-canons/#NameStuf)
-* [4.2 “Presenting” and Communication](https://plato.stanford.edu/entries/mohist-canons/#PresComm)
-* [5. Epistemology](https://plato.stanford.edu/entries/mohist-canons/#Epis)
-* [5.1 Awareness, Knowing, and Understanding](https://plato.stanford.edu/entries/mohist-canons/#AwarKnowUnde)
-* [5.2 知识的来源和对象](https://plato.stanford.edu/entries/mohist-canons/#SourObjeKnow)
-* [6. “同”与“异”](https://plato.stanford.edu/entries/mohist-canons/#SameDiff)
-* [6.1 区分种类的基础](https://plato.stanford.edu/entries/mohist-canons/#BasiForDistKind)
-* [7. 论证与逻辑](https://plato.stanford.edu/entries/mohist-canons/#ArguLogi)
-* [7.1 “种类推广的困难”](https://plato.stanford.edu/entries/mohist-canons/#DiffExteKind)
-* [7.2 “小取”中的论证方法](https://plato.stanford.edu/entries/mohist-canons/#MethArguLessSele)
-* [7.3 方法的局限性](https://plato.stanford.edu/entries/mohist-canons/#LimiMeth)
-* [8. 总结性论述](https://plato.stanford.edu/entries/mohist-canons/#ConcRema)
-* [参考文献](https://plato.stanford.edu/entries/mohist-canons/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/mohist-canons/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mohist-canons/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/mohist-canons/#Rel)
 
 ***
 

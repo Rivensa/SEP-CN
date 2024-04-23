@@ -8,26 +8,6 @@ _首次发表于 2006 年 2 月 10 日星期五；实质性修订于 2023 年 1 
 
 有时候，“强迫”这个术语在口头用语中被使用得非常广泛。例如，人们会听到“强迫”一词被用来描述社会压力（例如，需要符合同龄人的期望或取悦父母）；或者广告、个人成长背景或社会结构的限制性或操纵性影响（例如，参与资本主义经济的必要性）。有时候，它也被视为一个非常普遍的概念，涵盖几乎任何一种对个人权利的侵犯。这些用法在哲学讨论中并不完全陌生。然而，接下来的讨论将专注于一个更狭窄的意义，更符合历史上重要的哲学作家和当代理论家们对这个术语的使用。根据规定，这种用法将排除一些事物，比如仅仅是不赞成、情绪操纵或哄骗。 （“被排除”的内容存在争议，如下文所述。）这种对边界的最小设定仍然为对于如何最好地理解强迫的运作方式、其前提条件和影响而产生争议提供了相当大的空间。
 
-* [1. 历史](https://plato.stanford.edu/entries/coercion/#Hist)
-* [1.2 阿奎那](https://plato.stanford.edu/entries/coercion/#Aqui)
-* [1.2 霍布斯，洛克，康德](https://plato.stanford.edu/entries/coercion/#HobbLockKant)
-* [1.3 约翰·斯图亚特·密尔](https://plato.stanford.edu/entries/coercion/#JohnStuaMill)
-* [1.4 20 世纪观点至 1969 年](https://plato.stanford.edu/entries/coercion/#N20tCentView1969)
-* [2. 当代对胁迫的哲学阐述](https://plato.stanford.edu/entries/coercion/#ContPhilAccoCoer)
-* [2.1 诺齐克和对胁迫的新方法](https://plato.stanford.edu/entries/coercion/#NoziNewApprCoer)
-* [2.2 威胁和基准](https://plato.stanford.edu/entries/coercion/#ThreBase)
-* [2.3 道德化与非道德化基准](https://plato.stanford.edu/entries/coercion/#MoraVsNonMoraBase)
-* [2.4 强制性提议?](https://plato.stanford.edu/entries/coercion/#CoerOffe)
-* [2.5 非基线方法](https://plato.stanford.edu/entries/coercion/#NonBaseAppr)
-* [3. 强制思想的用途](https://plato.stanford.edu/entries/coercion/#UsesForThouAbouCoer)
-* [3.1 强制的伦理学](https://plato.stanford.edu/entries/coercion/#EthiCoer)
-* [3.2 强迫对被强迫者责任的影响](https://plato.stanford.edu/entries/coercion/#EffeCoerCoerResp)
-* [3.3 强迫、自由和自愿性](https://plato.stanford.edu/entries/coercion/#CoerFreeVolu)
-* [3.4 政治/法律理论与强制](https://plato.stanford.edu/entries/coercion/#PoliTheoCoer)
-* [参考文献](https://plato.stanford.edu/entries/coercion/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/coercion/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/coercion/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/coercion/#Rel)
 
 ***
 

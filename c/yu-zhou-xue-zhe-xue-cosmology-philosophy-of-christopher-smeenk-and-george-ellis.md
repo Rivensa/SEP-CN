@@ -12,40 +12,6 @@
 
 这意味着虽然它是一门物理科学，但在其对人类生活影响方面具有特殊重要性。这引发了有关宇宙学解释范围的重要问题，我们将在最后回到这个问题。
 
-* [宇宙学的标准模型](https://plato.stanford.edu/entries/cosmology/#CosmStanMode)
-
-  * [ 1.1 时空几何](https://plato.stanford.edu/entries/cosmology/#SpacGeom)
-  * [ 1.2 观测](https://plato.stanford.edu/entries/cosmology/#Obse)
-  * [ 1.3 历史时期](https://plato.stanford.edu/entries/cosmology/#HistEpoc)
-  * [1.4 标准模型的状态](https://plato.stanford.edu/entries/cosmology/#StatStanMode)
-  * [1.5 宇宙学中的局部与全局相互作用](https://plato.stanford.edu/entries/cosmology/#LocaVsGlobInteCosm)
-* [ 2. 可能性不确定性](https://plato.stanford.edu/entries/cosmology/#Unde)
-
-  * [2.1 宇宙学中的可能性不确定性](https://plato.stanford.edu/entries/cosmology/#UndeCosm)
-  * [ 2.2 全局结构](https://plato.stanford.edu/entries/cosmology/#GlobStru)
-  * [2.3 建立 FLRW 几何？](https://plato.stanford.edu/entries/cosmology/#EstaFLRWGeom)
-  * [ 2.4 物理地平线](https://plato.stanford.edu/entries/cosmology/#PhysHori)
-  * [ 2.5 宇宙差异](https://plato.stanford.edu/entries/cosmology/#CosmVari)
-* [宇宙的起源](https://plato.stanford.edu/entries/cosmology/#OrigUniv)
-
-  * [初始状态](https://plato.stanford.edu/entries/cosmology/#InitStat)
-  * [奇点定理](https://plato.stanford.edu/entries/cosmology/#SingTheo)
-  * [初始状态的令人困惑特征](https://plato.stanford.edu/entries/cosmology/#PuzzFeatInitStat)
-  * [初始状态的理论](https://plato.stanford.edu/entries/cosmology/#TheoInitStat)
-  * [科学的局限性](https://plato.stanford.edu/entries/cosmology/#LimiScie)
-* [4. 人类中心论推理和多元宇宙](https://plato.stanford.edu/entries/cosmology/#AnthReasMult)
-
-  * [ 4.1 人类中心论推理](https://plato.stanford.edu/entries/cosmology/#AnthReas)
-  * [ 4.2 微调](https://plato.stanford.edu/entries/cosmology/#FineTuni)
-  * [ 4.3 多元宇宙](https://plato.stanford.edu/entries/cosmology/#Mult)
-* [5. 测试模型](https://plato.stanford.edu/entries/cosmology/#TestMode)
-
-  * [ 5.1 标准](https://plato.stanford.edu/entries/cosmology/#Crit)
-  * [宇宙论理论和数据的范围](https://plato.stanford.edu/entries/cosmology/#ScopCosmTheoData)
-* [ 参考文献](https://plato.stanford.edu/entries/cosmology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/cosmology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cosmology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/cosmology/#Rel)
 
 ---
 

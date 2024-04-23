@@ -4,16 +4,6 @@
 
 殖民主义是一种统治实践，涉及将一群人征服另一群人。至少自十字军东征和对美洲的征服以来，政治理论家们一直使用正义、契约和自然法理论来批评和辩护欧洲的统治。在 19 世纪，自由主义理想与殖民实践之间的矛盾变得尤为尖锐，因为欧洲对世界其他地区的统治达到了顶峰。本文从殖民主义的定义开始，第二部分解释了欧洲思想家如何辩护、合法化和挑战对美洲的征服。第三部分关注自由主义，第四部分简要讨论了马克思主义传统，包括马克思自己对英国在印度的殖民统治的辩护以及列宁的反帝国主义著作。第五部分介绍了当代的“后殖民理论”。这种方法在文学研究中特别有影响，因为它引起人们对后殖民主体性是如何通过话语实践构成和抵抗的多样方式的关注。最后一部分将介绍土著对殖民者殖民主义的批评，这些批评是对殖民统治和剥夺土地、风俗和传统历史的回应，也是对普遍主义后殖民理论的回应。本文的目标是概述对欧洲殖民经验的哲学回应。
 
-* [定义和概要](https://plato.stanford.edu/entries/colonialism/#Def)
-* [2. 自然法与美洲的征服](https://plato.stanford.edu/entries/colonialism/#NatLawAgeDis)
-* [自由主义与帝国主义](https://plato.stanford.edu/entries/colonialism/#LibEmp)
-* [4. 马克思主义和列宁主义](https://plato.stanford.edu/entries/colonialism/#MarLen)
-* [5. 殖民主义解殖理论和后殖民理论](https://plato.stanford.edu/entries/colonialism/#PosColThe)
-* [在殖民主义国家的认知与反抗](https://plato.stanford.edu/entries/colonialism/#RecRevSetColSta)
-* [ 参考文献](https://plato.stanford.edu/entries/colonialism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/colonialism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/colonialism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/colonialism/#Rel)
 
 ---
 

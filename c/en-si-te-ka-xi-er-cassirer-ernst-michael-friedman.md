@@ -4,18 +4,7 @@ _首次发表于 2004 年 6 月 30 日星期三；实质性修订于 2022 年 2 
 
 恩斯特·卡西尔在 20 世纪哲学中占据着独特的地位。他的工作同样关注数学和自然科学哲学中的基础和认识论问题，以及美学、历史哲学和其他广义上的“文化科学”问题。与自康德以来的任何其他德国哲学家不同，卡西尔因此致力于同等哲学关注（数学和）自然科学（_Naturwissenschaften_）以及更人文学科（_Geisteswissenschaften_）。因此，卡西尔比 20 世纪其他任何哲学家更多地扮演着基础性的中介角色，既关注 C. P. Snow 著名的“两种文化”，又在 20 世纪学术哲学的两大传统——“分析”和“大陆”传统之间扮演着类似的中介角色——这两大传统在对待学科中科学和人文元素之间关系的根本不同（并且常常相互不理解）的观点导致了哲学在英美世界一侧的实践与在世界其他地方的实践之间产生了根本性的分裂或鸿沟。相比之下，卡西尔与这两大传统的主要成员都有着富有成效的哲学关系——与维也纳逻辑实证主义者圈的创始人和精神领袖莫里茨·施利克，后者在逻辑和科学哲学方面的工作对美国哲学的发展产生了决定性影响，以及与马丁·海德格尔，后者创立了一种激进的“存在-诠释学”版本的胡塞尔现象学，迅速在欧洲大陆占主导地位。
 
-* [1. 传记](https://plato.stanford.edu/entries/cassirer/#Biog)
-* [2. 早期历史著作](https://plato.stanford.edu/entries/cassirer/#EarlHistWrit)
-* [3. 数学和自然科学哲学](https://plato.stanford.edu/entries/cassirer/#PhilMathNatuScie)
-* [4. 符号形式哲学](https://plato.stanford.edu/entries/cassirer/#PhilSymbForm)
-* [5. 卡西尔、黑格尔和文化科学](https://plato.stanford.edu/entries/cassirer/#CassHegeCultScie)
-* [6. 国家的神话](https://plato.stanford.edu/entries/cassirer/#MythStat)
-* [参考文献](https://plato.stanford.edu/entries/cassirer/#Bib)
-* [卡西尔的选集](https://plato.stanford.edu/entries/cassirer/#SeleWorkCass)
-* [次要和其他相关文献](https://plato.stanford.edu/entries/cassirer/#SecoOtheReleLite)
-* [学术工具](https://plato.stanford.edu/entries/cassirer/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cassirer/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/cassirer/#Rel)
+
 
 ***
 

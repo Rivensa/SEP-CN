@@ -6,52 +6,6 @@
 
 在历史上，意识的统一性的概念在思考心灵方面发挥了非常重要的作用。事实上，正如我们将看到的，从笛卡尔时代到 20 世纪，这一概念在关于心灵的一些最有影响力的论证中起着核心作用。在 20 世纪早期，这一概念在一段时间内基本消失了，但自 20 世纪 60 年代以来，分析哲学家和其他人再次开始关注它。
 
-* [ 历史](https://plato.stanford.edu/entries/consciousness-unity/#Hist)
-* [2. 特征和分类](https://plato.stanford.edu/entries/consciousness-unity/#CharTaxo)
-
-  * [ 2.1 特征描述](https://plato.stanford.edu/entries/consciousness-unity/#Char)
-
-    * [ 2.1.1 包容性](https://plato.stanford.edu/entries/consciousness-unity/#Subs)
-    * [ 2.1.2 共同意识](https://plato.stanford.edu/entries/consciousness-unity/#CoCons)
-    * [2.1.3 联合意识](https://plato.stanford.edu/entries/consciousness-unity/#JoinCons)
-  * [ 2.2 分类法](https://plato.stanford.edu/entries/consciousness-unity/#Taxo)
-  * [2.3 其他形式的心智统一](https://plato.stanford.edu/entries/consciousness-unity/#OtheFormMentUnit)
-* [3. 意识是否统一？](https://plato.stanford.edu/entries/consciousness-unity/#ConsUnif)
-
-  * [3.1 对意识的统一性的怀疑](https://plato.stanford.edu/entries/consciousness-unity/#SkepAbouUnit)
-  * [3.2 意识必须统一](https://plato.stanford.edu/entries/consciousness-unity/#ConsMustUnif)
-* [4. 意识的统一性障碍](https://plato.stanford.edu/entries/consciousness-unity/#DisoUnifCons)
-
-  * [4.1 一些疾病](https://plato.stanford.edu/entries/consciousness-unity/#SomeDiso)
-
-    * [4.1.1 大脑分裂手术](https://plato.stanford.edu/entries/consciousness-unity/#BraiBiseOper)
-    * [ 4.1.2 镜像双胞胎](https://plato.stanford.edu/entries/consciousness-unity/#MirrTwin)
-    * [4.1.3 半侧忽视和认知障碍](https://plato.stanford.edu/entries/consciousness-unity/#HemiNeglAnos)
-    * [4.1.4 分裂人格障碍](https://plato.stanford.edu/entries/consciousness-unity/#DissIdenDiso)
-    * [ 4.1.5 精神分裂症](https://plato.stanford.edu/entries/consciousness-unity/#Schi)
-    * [4.1.6 执行功能障碍综合征](https://plato.stanford.edu/entries/consciousness-unity/#DyseSynd)
-    * [ 4.1.7 同时失认症](https://plato.stanford.edu/entries/consciousness-unity/#Simu)
-  * [4.2 条件是否具有共同的结构？](https://plato.stanford.edu/entries/consciousness-unity/#DoCondHaveCommStru)
-* [5. 时间跨度的统一](https://plato.stanford.edu/entries/consciousness-unity/#UnitAcroTime)
-
-  * [5.1 保留和记忆](https://plato.stanford.edu/entries/consciousness-unity/#ReteMemo)
-  * [5.2 意识的统一性与个人身份](https://plato.stanford.edu/entries/consciousness-unity/#UnitPersIden)
-* [6. 两个哲学问题](https://plato.stanford.edu/entries/consciousness-unity/#TwoPhilQues)
-
-  * [6.1 意识中心没有整体数量](https://plato.stanford.edu/entries/consciousness-unity/#NoWholNumbCentCons)
-  * [6.2 部分统一是可能的](https://plato.stanford.edu/entries/consciousness-unity/#PartUnitPoss)
-* [7. 意识的统一性理论](https://plato.stanford.edu/entries/consciousness-unity/#TheoUnit)
-
-  * [7.1 经验部分理论](https://plato.stanford.edu/entries/consciousness-unity/#ExpePartTheo)
-  * [7.2 无经验部分理论](https://plato.stanford.edu/entries/consciousness-unity/#NoExpePartTheo)
-  * [7.3 内在联系理论](https://plato.stanford.edu/entries/consciousness-unity/#InteLinkTheo)
-  * [7.4 共有理论](https://plato.stanford.edu/entries/consciousness-unity/#CoOwneTheo)
-* [8. 统一意识的神经结构](https://plato.stanford.edu/entries/consciousness-unity/#NeurArchUnifCons)
-* [ 9. 结论](https://plato.stanford.edu/entries/consciousness-unity/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/consciousness-unity/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/consciousness-unity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/consciousness-unity/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/consciousness-unity/#Rel)
 
 ---
 

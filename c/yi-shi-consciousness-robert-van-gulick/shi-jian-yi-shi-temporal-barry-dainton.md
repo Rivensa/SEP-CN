@@ -4,41 +4,7 @@ _首次发表于 2010 年 8 月 6 日星期五；实质性修订于 2023 年 3 �
 
 在普通的意识体验中，时间意识似乎司空见惯。例如，我们经常意识到在短暂的时间间隔内发生的变化、运动和连续性。这是如何可能的？许多不同的时间意识模型已被提出。一些哲学家认为意识被限制在瞬间间隔内，事实上我们并没有直接意识到变化。其他人则认为，尽管意识本身是瞬间的，我们仍然意识到变化。还有一些人认为，意识本身在时间上是延展的。在本文中，将阐述和评估这些以及其他立场的动机和优点。
 
-* [时间意识的三种模型](https://plato.stanford.edu/entries/consciousness-temporal/#ThreModeTempCons)
-  * [1.1 时间和意识](https://plato.stanford.edu/entries/consciousness-temporal/#TimeCons)
-  * [1.2 术语、问题和原则](https://plato.stanford.edu/entries/consciousness-temporal/#TermProbPrin)
-  * [1.3 意识的动态](https://plato.stanford.edu/entries/consciousness-temporal/#DynaCons)
-  * [1.4 方法论争议](https://plato.stanford.edu/entries/consciousness-temporal/#MethCont)
-* [一些历史事件](https://plato.stanford.edu/entries/consciousness-temporal/#SomeHistEpis)
-  * [时间意识作为威廉·詹姆斯（William James）](https://plato.stanford.edu/entries/consciousness-temporal/#WillJame)
-  * [2.2 洛克（Locke）、休谟（Hume）和里德（Reid）](https://plato.stanford.edu/entries/consciousness-temporal/#LockHumeReid)
-  * [2.3 康德和勃松](https://plato.stanford.edu/entries/consciousness-temporal/#KantBerg)
-* [3. 电影方法论](https://plato.stanford.edu/entries/consciousness-temporal/#CineAppr)
-  * [3.1 流与静](https://plato.stanford.edu/entries/consciousness-temporal/#StreStil)
-  * [3.2 动态快照](https://plato.stanford.edu/entries/consciousness-temporal/#DynaSnap)
-* [4. 保留性方法](https://plato.stanford.edu/entries/consciousness-temporal/#ReteAppr)
-  * [4.1 动机](https://plato.stanford.edu/entries/consciousness-temporal/#Moti)
-  * [4.2 布伦塔诺和胡塞尔](https://plato.stanford.edu/entries/consciousness-temporal/#BrenHuss)
-  * [4.3 时间错觉与神经科学](https://plato.stanford.edu/entries/consciousness-temporal/#TempIlluNeur)
-  * [4.4 保留和再现主义](https://plato.stanford.edu/entries/consciousness-temporal/#ReteRepr)
-* [5. Extensional Approaches 延伸方法](https://plato.stanford.edu/entries/consciousness-temporal/#ExteAppr)
-  * [5.1 起源：一个被拒绝的教条](https://plato.stanford.edu/entries/consciousness-temporal/#OrigDogmReje)
-  * [5.2 更近期的辩护和讨论](https://plato.stanford.edu/entries/consciousness-temporal/#ReceDefeDisc)
-    * [5.2.1 意识、简单和重叠](https://plato.stanford.edu/entries/consciousness-temporal/#AwarSimpOver)
-    * [5.2.2 时间结构和透明度](https://plato.stanford.edu/entries/consciousness-temporal/#TempStruTran)
-    * [5.2.3 时态、感知和统一](https://plato.stanford.edu/entries/consciousness-temporal/#TensPercUnit)
-* [6. 混合方法](https://plato.stanford.edu/entries/consciousness-temporal/#HybrAppr)
-  * [6.1 扩展内容与瞬时行为](https://plato.stanford.edu/entries/consciousness-temporal/#ExteContMomeActs)
-  * [6.2 进一步的混合变体](https://plato.stanford.edu/entries/consciousness-temporal/#FurtHybrVari)
-* [7. 反实在论](https://plato.stanford.edu/entries/consciousness-temporal/#AntiReal)
-* [时间意识与时间形而上学](https://plato.stanford.edu/entries/consciousness-temporal/#TempConsMetaTime)
-  * [8.1 时间的竞争性概念](https://plato.stanford.edu/entries/consciousness-temporal/#CompConcTime)
-  * [8.2 来自经验的论证](https://plato.stanford.edu/entries/consciousness-temporal/#ArguExpe)
-* [参考文献](https://plato.stanford.edu/entries/consciousness-temporal/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/consciousness-temporal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/consciousness-temporal/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/consciousness-temporal/#Rel)
-* 补充：虚假的现在：进一步讨论
+
 
 ***
 

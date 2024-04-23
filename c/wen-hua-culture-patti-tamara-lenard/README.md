@@ -8,31 +8,6 @@
 
 在阐述了理解文化的主要方式之后，本条目转向评估少数群体向国家提出的不同（尽管偶尔重叠）类型的文化主张：豁免主张、援助主张、自决主张、认可主张、保护主张（以及反对强迫文化丧失的主张）、法律环境中的防御性主张，以及专属使用主张（反对文化挪用的主张）。对于这些主张既有理由，也有反对意见，它们往往取决于对“文化”是如何理解的。在许多情况下，关于这些主张是否合理的争论取决于对文化是什么的竞争性理解，特别是对于那些是成员的人来说文化有多有价值，如下所示。最后，本条目将对多数社区提出文化主张以证明行动的案例进行评估，主要是在控制移民的背景下，有时拒绝潜在移民的入境，以及对被接纳者提出的文化要求，以及在这些情况下提出的各种理由和反对意见。本节考虑了多数文化的内容，新来者被要求遵守这些内容，以及他们被“要求”这样做的程度。
 
-* [1. 定义文化](https://plato.stanford.edu/entries/culture/#DefiCult)
-
-  * [1.1 作为包容性群体的文化](https://plato.stanford.edu/entries/culture/#CultEncoGrou)
-  * [1.2 文化作为社会形态](https://plato.stanford.edu/entries/culture/#CultSociForm)
-  * [ 1.3 文化作为对话](https://plato.stanford.edu/entries/culture/#CultDial)
-  * [1.4 文化作为身份（或者说是身份而不是文化）](https://plato.stanford.edu/entries/culture/#CultIdenIdenRathThanCult)
-* [2. 少数民族文化权利主张](https://plato.stanford.edu/entries/culture/#MinoCultRighClai)
-
-  * [ 2.1 豁免权利](https://plato.stanford.edu/entries/culture/#ExemRigh)
-  * [ 2.2 协助权利](https://plato.stanford.edu/entries/culture/#AssiRigh)
-  * [2.3 自决权](https://plato.stanford.edu/entries/culture/#SelfDeteRigh)
-  * [ 2.4 承认权](https://plato.stanford.edu/entries/culture/#RecoRigh)
-  * [2.5 文化保护权](https://plato.stanford.edu/entries/culture/#CultPresRigh)
-  * [2.6 文化丧失权利](https://plato.stanford.edu/entries/culture/#RighAgaiCultLoss)
-  * [2.7 文化辩护权利](https://plato.stanford.edu/entries/culture/#CultDefeRigh)
-  * [2.8 独占性文化使用权利（或反对文化挪用的权利）](https://plato.stanford.edu/entries/culture/#ExclCultUseRighRighAgaiCultAppr)
-* [3. 多数文化权利主张](https://plato.stanford.edu/entries/culture/#MajoCultRighClai)
-
-  * [3.1 文化延续和排斥权利](https://plato.stanford.edu/entries/culture/#CultContExclRigh)
-  * [3.2 文化延续和整合执行权利](https://plato.stanford.edu/entries/culture/#CultContInteEnfoRigh)
-* [ 结论](https://plato.stanford.edu/entries/culture/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/culture/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/culture/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/culture/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/culture/#Rel)
 
 ---
 

@@ -6,30 +6,6 @@ _首次发布于2004年7月13日星期二；实质性修订于2022年6月30日�
 
 一方面，这个论点源于人类对为什么存在某种东西而不是不存在或存在其他东西的好奇心。它引发了对存在的偶然性的某种完整、完全、最终或最佳解释的关注。另一方面，它提出了关于偶然性和必然性、因果关系和解释、部分/整体关系（整体论）、可能世界、无限、集合、时间的本质，以及宇宙的本质和起源等根本重要的哲学问题。接下来，我们将首先简要概述这个论点的历史，注意两种基本类型的演绎宇宙论论证，然后仔细分析每种类型的例证：首先，三个基于偶然性的论证，一个基于相对强版本的充分理由原则，另外两个分别基于该原则的非常强版本和弱版本；其次，一个基于宇宙有一个开始以及无限时间因果回归的不可能性的论证。最后，我们将考虑宇宙论论证的归纳版本以及什么是必然存在的实体。
 
-* [历史概览](https://plato.stanford.edu/entries/cosmological-argument/#HistOver)
-* [宇宙论论证的类型学](https://plato.stanford.edu/entries/cosmological-argument/#TypoCosmArgu)
-* [问题的复杂性](https://plato.stanford.edu/entries/cosmological-argument/#CompQues)
-* [非偶然原因的论证](https://plato.stanford.edu/entries/cosmological-argument/#ArguForNonContCaus)
-  * [4.1 从偶然性推导的论证](https://plato.stanford.edu/entries/cosmological-argument/#DeduArguCont)
-  * [4.2 异议一：宇宙就是。](https://plato.stanford.edu/entries/cosmological-argument/#Obje1UnivJust)
-  * [4.3 异议二：解释个体构成成分就足够](https://plato.stanford.edu/entries/cosmological-argument/#Obje2ExplIndiConsSuff)
-  * [4.4 异议三：因果关系和充分理由原则值得怀疑](https://plato.stanford.edu/entries/cosmological-argument/#Obje3PrinCausSuffReasSusp)
-  * [4.5 异议四：关于必然存在的概念存在问题](https://plato.stanford.edu/entries/cosmological-argument/#Obje4ProbConcNeceBein)
-* [强大的充分理由原则的论证](https://plato.stanford.edu/entries/cosmological-argument/#ArguStroPrinSuffReas)
-* [基于弱充分理由原则的论证](https://plato.stanford.edu/entries/cosmological-argument/#ArguWeakPrinSuffReas)
-* [卡拉姆宇宙论证](https://plato.stanford.edu/entries/cosmological-argument/#KalaCosmArgu)
-  * [因果原则和量子物理学](https://plato.stanford.edu/entries/cosmological-argument/#CausPrinQuanPhys)
-  * [7.2 实际无限的不可能性](https://plato.stanford.edu/entries/cosmological-argument/#ImpoActuInfi)
-  * [7.3 连续加法不能形成实际的无限。](https://plato.stanford.edu/entries/cosmological-argument/#SuccAddiCannFormActuInfi)
-  * [宇宙起源的大爆炸理论](https://plato.stanford.edu/entries/cosmological-argument/#BigBangTheoCosmOrig)
-  * [7.5 宇宙大爆炸不是一个事件](https://plato.stanford.edu/entries/cosmological-argument/#BigBangNotEven)
-  * [7.6 个人解释](https://plato.stanford.edu/entries/cosmological-argument/#PersExpl)
-* [归纳宇宙论证](https://plato.stanford.edu/entries/cosmological-argument/#InduCosmArgu)
-* [必然存在者](https://plato.stanford.edu/entries/cosmological-argument/#NeceBein)
-* [参考文献](https://plato.stanford.edu/entries/cosmological-argument/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/cosmological-argument/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cosmological-argument/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/cosmological-argument/#Rel)
 
 ***
 

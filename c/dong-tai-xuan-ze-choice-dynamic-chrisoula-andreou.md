@@ -4,23 +4,7 @@ _首次发表于 2007 年 10 月 15 日星期一；实质性修订于 2020 年 1
 
 有时一系列选择即使每个选择看似都非常适合满足一个人的关切，但却并不总是能够很好地满足一个人的关切。在这种情况下，一个人会面临动态选择问题。换句话说，一个人会面临与其选择分散在时间上有关的问题。有越来越多的哲学文献涉及到心理学和经济学，探讨了有效动态选择面临的障碍。这些文献研究了可能导致动态选择问题的具有挑战性的选择情境和问题性偏好结构。它还提出了解决这些问题的方案。越来越多熟悉但潜在令人困惑的现象，比如自毁性的成瘾行为和危险的环境破坏，已经被动态选择理论所阐明。这表明动态选择理论的哲学和实践意义非常广泛。
 
-* [1. 挑战性选择情境，问题偏好结构和动态选择问题](https://plato.stanford.edu/entries/dynamic-choice/#ChalChoiSituProbPrefStruDynaChoiProb)
-* [1.1 不可比较的选择](https://plato.stanford.edu/entries/dynamic-choice/#IncoAlte)
-* [1.2 时间偏好](https://plato.stanford.edu/entries/dynamic-choice/#TimeBiasPref)
-* [1.3 不可传递偏好](https://plato.stanford.edu/entries/dynamic-choice/#IntrPref)
-* [1.4 模糊目标和其他具有挑战性的整体](https://plato.stanford.edu/entries/dynamic-choice/#VaguGoalOtheChalWhol)
-* [1.5 自主利益案例](https://plato.stanford.edu/entries/dynamic-choice/#AutoBeneCase)
-* [2. 解决动态选择问题](https://plato.stanford.edu/entries/dynamic-choice/#SolvDynaChoiProb)
-* [2.1 理性非理性](https://plato.stanford.edu/entries/dynamic-choice/#RatiIrra)
-* [2.2 外部激励的安排](https://plato.stanford.edu/entries/dynamic-choice/#ArraExteInce)
-* [2.3 符号效用](https://plato.stanford.edu/entries/dynamic-choice/#SymbUtil)
-* [2.4 计划与决心](https://plato.stanford.edu/entries/dynamic-choice/#PlanReso)
-* [3. 一些熟悉的现象被动态选择理论阐明](https://plato.stanford.edu/entries/dynamic-choice/#SomeFamiPhenIlluDynaChoiTheo)
-* [4. 结论](https://plato.stanford.edu/entries/dynamic-choice/#ConcRema)
-* [参考文献](https://plato.stanford.edu/entries/dynamic-choice/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/dynamic-choice/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/dynamic-choice/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/dynamic-choice/#Rel)
+
 
 ***
 

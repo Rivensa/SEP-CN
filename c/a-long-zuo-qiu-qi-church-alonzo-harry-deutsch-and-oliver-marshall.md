@@ -14,52 +14,6 @@ _以编辑的许可再版。_
 
 在接下来的内容中，我们经常使用邱奇从_数学原理_（怀特海德和罗素 1910 年; 以下简称 PM）中采用的符号约定。在这样做时，这些约定会被解释，并有时与现代符号进行比较。
 
-* [1. 可计算性和阿隆佐·邱奇阿隆佐·邱奇论题](https://plato.stanford.edu/entries/church/#CompChurThes)
-* [1.1 阿隆佐·邱奇的开创性论文](https://plato.stanford.edu/entries/church/#ChurSemiPape)
-* [1.2 什么是阿隆佐·邱奇阿隆佐·邱奇的论点？](https://plato.stanford.edu/entries/church/#WhatChurThes)
-* [1.3 CT1 的作用](https://plato.stanford.edu/entries/church/#RoleCT1)
-* [1.4 外部证据](https://plato.stanford.edu/entries/church/#ExteEvid)
-* [1.5 内部证据](https://plato.stanford.edu/entries/church/#InteEvid)
-* [2. 逻辑哲学](https://plato.stanford.edu/entries/church/#PhilLogi)
-* [2.1 逻辑哲学和逻辑方法](https://plato.stanford.edu/entries/church/#PhilLogiLogiMeth)
-* [2.2 采用形式化语言](https://plato.stanford.edu/entries/church/#AdopFormLang)
-* [2.3 逻辑与沟通](https://plato.stanford.edu/entries/church/#LogiComm)
-* [3. 逻辑方法的应用](https://plato.stanford.edu/entries/church/#ApplLogiMeth)
-* [3.1 反对逻辑经验主义](https://plato.stanford.edu/entries/church/#AgaiLogiEmpi)
-* [3.2 弹弓论证](https://plato.stanford.edu/entries/church/#SlinArgu)
-* [3.3 翻译论证](https://plato.stanford.edu/entries/church/#TranArgu)
-* [3.4 分析的悖论](https://plato.stanford.edu/entries/church/#ParaAnal)
-* [3.5 意义和指称的逻辑](https://plato.stanford.edu/entries/church/#LogiSensDeno)
-* [4. 悖论](https://plato.stanford.edu/entries/church/#Para)
-* [4.1 阿隆佐·邱奇阿隆佐·邱奇作品中的矛盾](https://plato.stanford.edu/entries/church/#AntiChurWork)
-* [4.2 格雷林悖论](https://plato.stanford.edu/entries/church/#GrelPara)
-* [4.3 比较 Russell 和 Tarski](https://plato.stanford.edu/entries/church/#CompRussTars)
-* [4.4 GP 的推导和解散](https://plato.stanford.edu/entries/church/#DeriDissGP)
-* [4.5 阿隆佐·邱奇阿隆佐·邱奇悖论](https://plato.stanford.edu/entries/church/#RussMyhiPara)
-* [4.6 知识可能性悖论](https://plato.stanford.edu/entries/church/#KnowabPara)
-* [5. 数学基础](https://plato.stanford.edu/entries/church/#FounMath)
-* [5.1 尝试无类型基础](https://plato.stanford.edu/entries/church/#AtteTypeFreeFoun)
-* [5.2 类型论与集合论基础](https://plato.stanford.edu/entries/church/#TypeTheoVsSetTheoFoun)
-* [5.3 逻辑主义和直觉主义](https://plato.stanford.edu/entries/church/#LogiIntu)
-* [5.4. 高德尔定理和连续性问题的意义](https://plato.stanford.edu/entries/church/#SignGdelTheoContProb)
-* [6. 形而上学](https://plato.stanford.edu/entries/church/#Meta)
-* [6.1 形而上学和逻辑方法](https://plato.stanford.edu/entries/church/#MetaLogiMeth)
-* [6.2 阿隆佐·邱奇的谦逊实在论](https://plato.stanford.edu/entries/church/#ChurModeReal)
-* [6.3 阿隆佐·邱奇阿隆佐·邱奇关于命题的现实主义](https://plato.stanford.edu/entries/church/#RealAbouProp)
-* [参考文献](https://plato.stanford.edu/entries/church/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/church/#PrimSour)
-* [次级来源](https://plato.stanford.edu/entries/church/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/church/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/church/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/church/#Rel)
-* 补充清单
-* [阿隆佐·邱奇阿隆佐·邱奇关于可计算性](https://plato.stanford.edu/entries/church/supplementA.html)（用于§1）
-* [B. 逻辑和形而上学的早期哲学](https://plato.stanford.edu/entries/church/supplementB.html) (用于 §2)
-* [C. 逻辑方法的应用](https://plato.stanford.edu/entries/church/supplementC.html) (用于 §3)
-* [D. The λ-Calculus and Type Theory](https://plato.stanford.edu/entries/church/supplementD.html) (用于§§3, 4, 5)
-* [E. 语言哲学](https://plato.stanford.edu/entries/church/supplementE.html)（用于§§3, 4）
-* [F. 悖论和与 Tarski 的比较](https://plato.stanford.edu/entries/church/supplementF.html) (用于 §4)
-
 ***
 
 ## 1. 可计算性和阿隆佐·邱奇阿隆佐·邱奇论题

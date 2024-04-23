@@ -10,39 +10,7 @@ _首次发表于 2023 年 12 月 12 日_
 
 本条目主要关注法兰克福学派的批判理论，但在各个点上向外扩展，讨论该传统与一系列批判理论和社会发展的关系。当今对批判理论进行广泛探讨的需要是由一系列当代社会、政治、经济和生态危机和斗争以及对欧洲中心主义知识生产的批判所引发的。
 
-* [1. 法兰克福学派：起源、影响和发展](https://plato.stanford.edu/entries/critical-theory/#FranSchoOrigInflDeve)
-  * [1.1 起源与世代](https://plato.stanford.edu/entries/critical-theory/#OrigGene)
-  * [1.2 影响](https://plato.stanford.edu/entries/critical-theory/#Infl)
-  * [1.3 批评理论与传统理论](https://plato.stanford.edu/entries/critical-theory/#CritTheoVersTradTheo)
-  * [1.4 关于威权主义和大众文化的研究](https://plato.stanford.edu/entries/critical-theory/#StudAuthMassCult)
-  * [1.5 启蒙的辩证法](https://plato.stanford.edu/entries/critical-theory/#DialEnli)
-  * [1.6 交际转向](https://plato.stanford.edu/entries/critical-theory/#CommTurn)
-  * [1.7 一个持续且备受争议的传统](https://plato.stanford.edu/entries/critical-theory/#ContContTrad)
-* [2. 批判方法](https://plato.stanford.edu/entries/critical-theory/#CritMeth)
-  * [2.1 内在批判](https://plato.stanford.edu/entries/critical-theory/#ImmaCrit)
-  * [批判的规范基础](https://plato.stanford.edu/entries/critical-theory/#NormFounForCrit)
-  * [重建性批判](https://plato.stanford.edu/entries/critical-theory/#RecoCrit)
-  * [揭示性批判、系谱学和规范性批判](https://plato.stanford.edu/entries/critical-theory/#DiscCritGeneCritNorm)
-  * [2.5 当前挑战](https://plato.stanford.edu/entries/critical-theory/#CurrChal)
-* [3.关键概念](https://plato.stanford.edu/entries/critical-theory/#CritConc)
-  * [3.1 异化](https://plato.stanford.edu/entries/critical-theory/#Alie)
-  * [3.2 实体化](https://plato.stanford.edu/entries/critical-theory/#Reif)
-  * [3.3 意识形态](https://plato.stanford.edu/entries/critical-theory/#Ideo)
-  * [3.4 解放](https://plato.stanford.edu/entries/critical-theory/#Eman)
-* [4. 当代批评理论](https://plato.stanford.edu/entries/critical-theory/#CritTheoToda)
-  * [4.1 论斗争和运动](https://plato.stanford.edu/entries/critical-theory/#TheoStruMove)
-    * [4.1.1 性别](https://plato.stanford.edu/entries/critical-theory/#Gend)
-    * [种族](https://plato.stanford.edu/entries/critical-theory/#Race)
-    * [殖民主义和后殖民主义](https://plato.stanford.edu/entries/critical-theory/#ColoPostColo)
-  * [危机诊断](https://plato.stanford.edu/entries/critical-theory/#DiagCris)
-    * [4.2.1 经济危机](https://plato.stanford.edu/entries/critical-theory/#EconCris)
-    * [4.2.2 生态危机](https://plato.stanford.edu/entries/critical-theory/#EcolCris)
-    * [4.2.3 政治危机](https://plato.stanford.edu/entries/critical-theory/#PoliCris)
-  * [4.3 关键实践](https://plato.stanford.edu/entries/critical-theory/#CritPrac)
-* [参考书目](https://plato.stanford.edu/entries/critical-theory/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/critical-theory/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/critical-theory/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/critical-theory/#Rel)
+
 
 ***
 

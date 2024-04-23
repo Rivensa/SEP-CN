@@ -4,37 +4,6 @@
 
 概念是思维的基本构件。因此，它们对于诸如分类、推理、记忆、学习和决策等心理过程至关重要。这一点相对来说是不太有争议的。但是，概念的本质——概念是什么样的东西——以及规范概念理论的约束条件一直是争论的焦点（Margolis & Laurence 1999，Margolis & Laurence 2015）。这至少部分是因为关于概念的争论往往反映了对心灵研究、语言甚至哲学本身存在深刻对立的方法。在这篇文章中，我们概述了概念理论，并概述了一些塑造围绕概念本质的争论的争议。这篇文章围绕着许多概念理论的五个重要问题进行组织。并非每个概念理论都对这五个问题都有立场，但总体来看，这些问题展示了为什么概念理论近年来一直是一个如此丰富和活跃的话题。这五个问题是：（1）概念的本体论，（2）概念的结构，（3）关于概念的经验主义和先天论，（4）概念与自然语言，以及（5）概念与概念分析。
 
-* [概念的本体论](https://plato.stanford.edu/entries/concepts/#OntCon)
-
-  * [1.1 概念作为心智表征。](https://plato.stanford.edu/entries/concepts/#ConMenRep)
-  * [1.2 概念作为能力](https://plato.stanford.edu/entries/concepts/#ConAbi)
-  * [1.3 概念作为抽象对象](https://plato.stanford.edu/entries/concepts/#ConFreSen)
-  * [1.4 这个问题仅仅是术语上的问题吗？](https://plato.stanford.edu/entries/concepts/#IssTer)
-* [概念的结构](https://plato.stanford.edu/entries/concepts/#StrCon)
-
-  * [2.1 古典理论](https://plato.stanford.edu/entries/concepts/#ClaThe)
-  * [2.2 原型理论](https://plato.stanford.edu/entries/concepts/#ProThe)
-  * [2.3 理论理论](https://plato.stanford.edu/entries/concepts/#TheThe)
-  * [ 概念原子主义](https://plato.stanford.edu/entries/concepts/#ConAto)
-  * [2.5 多元主义和消除论](https://plato.stanford.edu/entries/concepts/#PluEli)
-* [经验主义和先天论关于概念](https://plato.stanford.edu/entries/concepts/#EmpNatAboCon)
-
-  * [3.1 对经验主义与先天主义争论的重新关注](https://plato.stanford.edu/entries/concepts/#RenIntEmpDis)
-  * [3.2 关于概念的经验主义](https://plato.stanford.edu/entries/concepts/#EmpAboCon)
-  * [3.3 关于概念的本土主义](https://plato.stanford.edu/entries/concepts/#NatAboCon)
-* [4. 概念与自然语言](https://plato.stanford.edu/entries/concepts/#ConNatLan)
-
-  * [4.1 概念是否可以存在于没有语言的情况下？](https://plato.stanford.edu/entries/concepts/#TheConWitLan)
-  * [4.2 语言与概念之间的优先级](https://plato.stanford.edu/entries/concepts/#PriBetLanCon)
-  * [4.3 语言决定论和语言相对论](https://plato.stanford.edu/entries/concepts/#LinDetLinRel)
-* [5. 概念与概念分析](https://plato.stanford.edu/entries/concepts/#ConConAna)
-
-  * [5.1 概念分析的吸引力](https://plato.stanford.edu/entries/concepts/#AttConAna)
-  * [5.2 对概念分析的异议](https://plato.stanford.edu/entries/concepts/#ObjConAna)
-* [ 参考文献](https://plato.stanford.edu/entries/concepts/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/concepts/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/concepts/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/concepts/#Rel)
 
 ---
 

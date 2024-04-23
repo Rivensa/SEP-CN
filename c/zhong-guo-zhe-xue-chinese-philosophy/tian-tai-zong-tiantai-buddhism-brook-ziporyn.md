@@ -18,26 +18,6 @@ _首次发布于 2014 年 11 月 19 日星期三；实质性修订于 2022 年 1
 
 这种观点是如何确立的，以及它的后果是什么，这就是本文要解释的内容。
 
-* [1. 语境主义与本体模糊](https://plato.stanford.edu/entries/buddhism-tiantai/#ConOntAmb)
-* [2. 三个真理：空、假、中 ](https://plato.stanford.edu/entries/buddhism-tiantai/#ThrTruEmpProPosCenKonJiaZho)​\*[kong, jia, zhong](https://plato.stanford.edu/entries/buddhism-tiantai/#ThrTruEmpProPosCenKonJiaZho)\*
-* [2.1 三个真理论证概要：达到“非一非异”](https://plato.stanford.edu/entries/buddhism-tiantai/#OutThrTruArgGetNeiSamNorDif)
-* [2.2 整体主义自我超越为全减主义](https://plato.stanford.edu/entries/buddhism-tiantai/#SelOveHolOmn)
-* [2.3 从两谛到三谛：负于无言的自我超越进入琐碎主义](https://plato.stanford.edu/entries/buddhism-tiantai/#TwoTruThrTruSelOveApoTri)
-* [3. 转化性的自我再语境化 (開權顯實 ](https://plato.stanford.edu/entries/buddhism-tiantai/#TraSelRecKai)​\*[kaiquanxianshi](https://plato.stanford.edu/entries/buddhism-tiantai/#TraSelRecKai)\*​[)](https://plato.stanford.edu/entries/buddhism-tiantai/#TraSelRecKai)
-* [3.1 现实的设定-点题结构](https://plato.stanford.edu/entries/buddhism-tiantai/#SetPunStrRea)
-* [3.2 Tiantai Teachings about Teachings: “Impermanence” as both _Opposite_ and _Synonym_ of “Permanence” (In Four Steps)](https://plato.stanford.edu/entries/buddhism-tiantai/#TiaTeaAboTea)
-* [3.3 时间和事实](https://plato.stanford.edu/entries/buddhism-tiantai/#TimFac)
-* [3.4 整体自我克服为任何方便部分](https://plato.stanford.edu/entries/buddhism-tiantai/#SelOveWhoAnyUpaPar)
-* [4. 一切现象的究竟真相 (諸法實相 ](https://plato.stanford.edu/entries/buddhism-tiantai/#UltReaAllAppZhu)​\*[zhufashixiang](https://plato.stanford.edu/entries/buddhism-tiantai/#UltReaAllAppZhu)\*​[)](https://plato.stanford.edu/entries/buddhism-tiantai/#UltReaAllAppZhu)
-* [4.1 佛性中的固有邪恶与非灵性众生的佛性](https://plato.stanford.edu/entries/buddhism-tiantai/#InhEviIneBud)
-* [4.2 佛果作为蜣螂果的充分实现 ](https://plato.stanford.edu/entries/buddhism-tiantai/#BudFulReaDunBeeEtAli)​\*[et alia](https://plato.stanford.edu/entries/buddhism-tiantai/#BudFulReaDunBeeEtAli)\*
-* [5. 实践与教义多样性](https://plato.stanford.edu/entries/buddhism-tiantai/#PraDocDiv)
-* [5.1 教义等级的自我超越与普遍终极性](https://plato.stanford.edu/entries/buddhism-tiantai/#SelOveDocHieOmn)
-* [5.2 作为三千观心的三千观心 (观心 ](https://plato.stanford.edu/entries/buddhism-tiantai/#ConMinThrThoGuaYin)​\*[guanxin](https://plato.stanford.edu/entries/buddhism-tiantai/#ConMinThrThoGuaYin)_​_[_, 一念三千_ ](https://plato.stanford.edu/entries/buddhism-tiantai/#ConMinThrThoGuaYin)_​_[yiniansanqian](https://plato.stanford.edu/entries/buddhism-tiantai/#ConMinThrThoGuaYin)\*​[)](https://plato.stanford.edu/entries/buddhism-tiantai/#ConMinThrThoGuaYin)
-* [参考书目](https://plato.stanford.edu/entries/buddhism-tiantai/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/buddhism-tiantai/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/buddhism-tiantai/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/buddhism-tiantai/#Rel)
 
 ***
 

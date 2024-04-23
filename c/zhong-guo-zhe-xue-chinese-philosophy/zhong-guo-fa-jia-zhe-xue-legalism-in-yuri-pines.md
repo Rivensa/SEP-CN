@@ -6,30 +6,6 @@ _首次发布于 2014 年 12 月 10 日星期三；实质性修订于 2023 年 4
 
 _法_思想家在理论层面和作为政治实践者对中国帝国的形成做出了巨大贡献；他们的许多观念在中国历史上继续被采用。然而，他们对竞争对手道德说教的嘲讽观点，对同行知识分子的傲慢态度，以及明显反部长的言论，都让他们在帝国文人中极不受欢迎。从中国第二个帝国朝代汉朝（公元前 206/202 年–220 年）开始，_法_传统的声望下降；与这一思潮相关的文本只有少数幸存下来；即使在现代，尽管偶尔会出现对_法_思想的兴趣，但这一思潮并未得到足够的学术关注。直到 21 世纪的第二个十年，这种趋势才开始改变，随着过去的敏感性逐渐消退，中国国内外的更多学者准备探讨_法_思想的知识丰富性。
 
-* [1. 定义](https://plato.stanford.edu/entries/chinese-legalism/#DefiFaTrad)​\*[法](https://plato.stanford.edu/entries/chinese-legalism/#DefiFaTrad)\*​[传统](https://plato.stanford.edu/entries/chinese-legalism/#DefiFaTrad)
-* [1.1 主要](https://plato.stanford.edu/entries/chinese-legalism/#MajoFaText)​\*[法](https://plato.stanford.edu/entries/chinese-legalism/#MajoFaText)\*​[文本](https://plato.stanford.edu/entries/chinese-legalism/#MajoFaText)
-* [1.2 历史背景](https://plato.stanford.edu/entries/chinese-legalism/#HistCont)
-* [2. 哲学基础](https://plato.stanford.edu/entries/chinese-legalism/#PhilFoun)
-* [2.1 历史的演化观](https://plato.stanford.edu/entries/chinese-legalism/#EvolViewHist)
-* [2.2 人性](https://plato.stanford.edu/entries/chinese-legalism/#HumaNatu)
-* [2.3 以公正标准统治和公正原则](https://plato.stanford.edu/entries/chinese-legalism/#RuleImpaStanPrinImpa)
-* [3. 农人和士兵：统治人民](https://plato.stanford.edu/entries/chinese-legalism/#TillSoldRuliPeop)
-* [3.1 惩罚](https://plato.stanford.edu/entries/chinese-legalism/#Puni)
-* [3.2 奖励：功绩等级](https://plato.stanford.edu/entries/chinese-legalism/#RewaRankMeri)
-* [4. 管理官僚机构](https://plato.stanford.edu/entries/chinese-legalism/#OrdeBure)
-* [4.1 招募和晋升：](https://plato.stanford.edu/entries/chinese-legalism/#RecrPromFaModeMeri)​\*[法](https://plato.stanford.edu/entries/chinese-legalism/#RecrPromFaModeMeri)\*​[的精英管理模式](https://plato.stanford.edu/entries/chinese-legalism/#RecrPromFaModeMeri)
-* [4.2 监督官员：统治技术](https://plato.stanford.edu/entries/chinese-legalism/#MoniOffiTechRule)
-* [5. 统治者](https://plato.stanford.edu/entries/chinese-legalism/#Rule)
-* [5.1 The Ruler’s Superiority](https://plato.stanford.edu/entries/chinese-legalism/#RuleSupe)
-* [5.2 Entrapped Sovereign?](https://plato.stanford.edu/entries/chinese-legalism/#EntrSove)
-* [6. 攻击文化和学习](https://plato.stanford.edu/entries/chinese-legalism/#AssaCultLear)
-* [7. 结语：中国历史中的](https://plato.stanford.edu/entries/chinese-legalism/#EpilFaTradChinHistModeRese)​\*[法](https://plato.stanford.edu/entries/chinese-legalism/#EpilFaTradChinHistModeRese)\*​[传统及现代研究](https://plato.stanford.edu/entries/chinese-legalism/#EpilFaTradChinHistModeRese)
-* [参考文献](https://plato.stanford.edu/entries/chinese-legalism/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/chinese-legalism/#PrimLite)
-* [次级文献](https://plato.stanford.edu/entries/chinese-legalism/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/chinese-legalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/chinese-legalism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/chinese-legalism/#Rel)
 
 ***
 

@@ -14,21 +14,6 @@ _首次发布于 2012 年 7 月 6 日；实质性修订于 2017 年 8 月 11 日
 
 我们将按以下步骤进行。我们将首先描述道德地位辩论的主体——那些我们称之为“患有极端认知障碍”的人类。在讨论人类被归类为认知障碍的方式之后，我们将描述辩论涉及的人类更狭窄的范畴。需要明确的是，这是一组被规定存在的人类，而不是通过实证程序分类的。我们将指出很难区分关于这些被规定个体的说法和关于一些实际个体是否满足该规定的说法。接下来，我们将描述道德地位的概念，描述其结构和功能。然后，我们将概述对该概念理解的主要差异，特别是其“包含标准”——用于归因我们所称的“完全道德地位”的标准，这种地位被归属于认知非障碍的成年人类。 （在称该道德地位为“完全”时，我们并不打算在关于是否存在更高道德地位的争论中站队。）我们将确定一类道德地位观点家族——那些将拥有视为个体属性的人作为基础的观点——作为本文所讨论的挑战的主要来源，尽管不是唯一来源：即一些人类缺乏完全道德地位的说法。在概述这些观点之后，我们将回顾几种应对挑战的方式：1）将完全道德地位基于更多人类共享的个体属性；2）采用关于拥有完全道德地位的次要依据——“礼貌”或“代理”；3）拒绝个体属性观点，支持将所有人类的完全道德地位基于其物种成员资格或人类身份的观点。
 
-* [2. 什么是道德地位?](https://plato.stanford.edu/entries/cognitive-disability/#WhaMorSta)
-* [2.1 道德地位的概念](https://plato.stanford.edu/entries/cognitive-disability/#ConMorSta)
-* [2.2 道德地位的标准](https://plato.stanford.edu/entries/cognitive-disability/#CriForMorSta)
-* [3. 基于个体的观点](https://plato.stanford.edu/entries/cognitive-disability/#IndBasAcc)
-* [4. 基于个体的观点和激进认知障碍: 排斥的挑战](https://plato.stanford.edu/entries/cognitive-disability/#IndBasAccRadCogDisChaExc)
-* [4.1 确定更具包容性的属性](https://plato.stanford.edu/entries/cognitive-disability/#IdeIncAtt)
-* [4.2 代理、派生和推定道德地位](https://plato.stanford.edu/entries/cognitive-disability/#ProDerPreMorSta)
-* [5. 基于群体的道德地位观](https://plato.stanford.edu/entries/cognitive-disability/#GroBasAccMorSta)
-* [5.1 物种为基础的观点](https://plato.stanford.edu/entries/cognitive-disability/#SpeBasAcc)
-* [5.2 人性作为完全道德地位的基础](https://plato.stanford.edu/entries/cognitive-disability/#HumGroFulMorSta)
-* [6. 结论](https://plato.stanford.edu/entries/cognitive-disability/#Con)
-* [参考文献](https://plato.stanford.edu/entries/cognitive-disability/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/cognitive-disability/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cognitive-disability/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/cognitive-disability/#Rel)
 
 ***
 

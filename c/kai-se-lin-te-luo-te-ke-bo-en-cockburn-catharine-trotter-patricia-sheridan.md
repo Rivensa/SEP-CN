@@ -4,14 +4,7 @@ _首次发表于 2005 年 1 月 8 日星期六；实质性修订于 2023 年 11 
 
 科伯恩的哲学声誉在很大程度上建立在她为约翰·洛克和塞缪尔·克拉克辩护的辩护性著作上。虽然她在这些作品中展示了各种兴趣，但她的主要关注点是捍卫一种道德认识论，结合了洛克的认识论元素和一种原始的克拉克式道德适应理论。科伯恩的道德最好被描述为一种广泛的理性主义自然法理论，它在很大程度上借鉴了洛克的反思概念。根据科伯恩的观点，我们通过反思人性和神圣本质来发现道德规则的基础。然后，人类能够通过评估给定行为与这些本质的适应性或不适应性来确定道德的对错。
 
-* [1. 生平](https://plato.stanford.edu/entries/cockburn/#Life)
-* [2. Philosophy](https://plato.stanford.edu/entries/cockburn/#Phil)
-* [Bibliography](https://plato.stanford.edu/entries/cockburn/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/cockburn/#PrimSour)
-* [次要来源](https://plato.stanford.edu/entries/cockburn/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/cockburn/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cockburn/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/cockburn/#Rel)
+
 
 ***
 

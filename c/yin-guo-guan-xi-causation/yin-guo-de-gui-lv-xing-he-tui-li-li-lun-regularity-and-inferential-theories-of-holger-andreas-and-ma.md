@@ -6,22 +6,6 @@ _首次发布于 2021 年 7 月 27 日星期二_
 
 规律与推理密切相关。当一个原因必然导致其效应时，合理地从原因推断出效应。在逻辑实证主义和逻辑方法对信念变化的影响之后，那些明确以推理关系分析因果关系的理论开始出现。基本思想是，在适当的背景理论和适当的逻辑的情况下，效应可以从相应的原因中推断出来。推理理论为那些导致规律理论衰落的问题提供了解决方案。因此，这些理论可以被视为规律理论的继承者。
 
-* [1. 因果的规律性理论](https://plato.stanford.edu/entries/causation-regularity/#ReguTheoCaus)
-* [1.1 休谟的规律性理论](https://plato.stanford.edu/entries/causation-regularity/#HumeReguTheo)
-* [1.2 规律和法则](https://plato.stanford.edu/entries/causation-regularity/#ReguLaws)
-* [1.3 INUS 条件](https://plato.stanford.edu/entries/causation-regularity/#INUSCond)
-* [1.4 当代因果理论](https://plato.stanford.edu/entries/causation-regularity/#ContReguTheo)
-* [2. 引导性因果理论](https://plato.stanford.edu/entries/causation-regularity/#InfeTheoCaus)
-* [2.1 演绎-规范方法](https://plato.stanford.edu/entries/causation-regularity/#DeduNomoAppr)
-* [2.2 排名函数](https://plato.stanford.edu/entries/causation-regularity/#RankFunc)
-* [2.3 加强的 Ramsey 测试](https://plato.stanford.edu/entries/causation-regularity/#StreRamsTest)
-* [2.4 Kairetic 解释](https://plato.stanford.edu/entries/causation-regularity/#KairAcco)
-* [2.5 因果模型方法](https://plato.stanford.edu/entries/causation-regularity/#CausModeAppr)
-* [3. 结论](https://plato.stanford.edu/entries/causation-regularity/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/causation-regularity/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/causation-regularity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/causation-regularity/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/causation-regularity/#Rel)
 
 ***
 

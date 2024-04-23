@@ -4,19 +4,7 @@
 
 1277 年 3 月 7 日，巴黎主教史蒂芬·坦皮尔（Stephen Tempier）禁止了在他的管辖范围内讨论和争论的 219 个哲学和神学命题的教学。坦皮尔的大谴责在现代知识史学家心目中具有重要的象征意义，可能正因为如此，关于坦皮尔颁布禁令的动机、究竟谴责了什么以及谴责的对象是谁仍存在相当大的分歧。此外，坦皮尔的行动对 13 至 14 世纪中世纪思想发展的影响，甚至超越这个时期，一直是争论的焦点。由于对坦皮尔行动的普遍接受标准解释的缺乏，以及直接或间接涉及 1277 年事件的大量文献和文本证据，对本条目的具体限制。本文将限于呈现那些无争议的历史事实，并指出当前关于坦皮尔大谴责的主要争议问题。
 
-* [1277 年 3 月 7 日前发生的事件](https://plato.stanford.edu/entries/condemnation/#EvenLeadUpMarc71277)
-* [2. Tempier 的大谴责的法律背景](https://plato.stanford.edu/entries/condemnation/#JuriContTempCond)
-* [3. 被大谴责的是什么？](https://plato.stanford.edu/entries/condemnation/#WhatWasCond)
-* [3 月 7 日，1277 年是谁被大谴责的？](https://plato.stanford.edu/entries/condemnation/#WhoWasCondMarc71277)
-* [5. Tempier 的大谴责的教义意义](https://plato.stanford.edu/entries/condemnation/#DoctSignTempCond)
-* [6. Tempier 的其他 1277 大谴责](https://plato.stanford.edu/entries/condemnation/#TempOthe1277Cond)
-* [ 参考文献](https://plato.stanford.edu/entries/condemnation/#Bib)
 
-  * [版本和翻译](https://plato.stanford.edu/entries/condemnation/#EditTran)
-  * [ 研究](https://plato.stanford.edu/entries/condemnation/#Stud)
-* [ 学术工具](https://plato.stanford.edu/entries/condemnation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/condemnation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/condemnation/#Rel)
 
 ---
 

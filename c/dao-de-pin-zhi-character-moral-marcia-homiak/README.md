@@ -6,31 +6,6 @@ _首次发表于 2003 年 1 月 15 日星期三；实质性修订于 2019 年 4 
 
 这篇文章简要介绍了哲学对良好道德品质的一些重要发展的历史。大约一半的篇幅用于叙述希腊道德家苏格拉底、柏拉图、亚里士多德和斯多亚派的观点。其中，最多的关注点放在了亚里士多德的观点上，因为其他大多数关于品质的哲学讨论都受到了他分析的影响。文章的后半部分探讨了其他哲学家如何回应希腊人首次提出的关注点。一些哲学家，如雨果·格罗提乌斯和伊曼纽尔·康德，代表了一种将品质置于其他道德概念（如义务和服从法律）之下的“现代”方法。其他哲学家，如大卫·休谟、卡尔·马克思、约翰·斯图尔特·密尔和 T·H·格林对道德品质的心理学感兴趣，这更像是希腊人的做法。最后，这篇文章指出了一些当代哲学家在最近关于道德品质或相关问题的研究中所采取的方向。
 
-* [1. 术语](https://plato.stanford.edu/entries/moral-character/#Ter)
-* [2. 一些古希腊观点](https://plato.stanford.edu/entries/moral-character/#SomAncGreVie)
-* [2.1 为什么品格很重要](https://plato.stanford.edu/entries/moral-character/#WhyChaMat)
-* [2.2 美德与幸福](https://plato.stanford.edu/entries/moral-character/#VirHap)
-* [2.3 一些关于美德的希腊分歧](https://plato.stanford.edu/entries/moral-character/#SomGreDisAboVir)
-* [2.4 亚里士多德 (前 384–前 322 年)](https://plato.stanford.edu/entries/moral-character/#Ari384BCE)
-* [2.5 斯多嘉学派对品格的看法](https://plato.stanford.edu/entries/moral-character/#StoVieCha)
-* [3. 古希腊后的美德和品格](https://plato.stanford.edu/entries/moral-character/#VirMorChaAftGre)
-* [3.1 早期自然法理论家](https://plato.stanford.edu/entries/moral-character/#EarNatLawThe)
-* [3.2 康德](https://plato.stanford.edu/entries/moral-character/#Kan)
-* [3.3 Hume](https://plato.stanford.edu/entries/moral-character/#Hum)
-* [3.4 马克思和密尔](https://plato.stanford.edu/entries/moral-character/#MarMil)
-* [3.5 T. H. Green](https://plato.stanford.edu/entries/moral-character/#THGreen)
-* [3.6 Rawls](https://plato.stanford.edu/entries/moral-character/#Raw)
-* [4. 当代关于性格的问题](https://plato.stanford.edu/entries/moral-character/#ConQueAboCha)
-* [5. 道德性格与实证研究](https://plato.stanford.edu/entries/moral-character/#MorChaEmp)
-* [5.1 情境主义提出的挑战](https://plato.stanford.edu/entries/moral-character/#ChaPosSit)
-* [5.2 对情境主义的一些回应](https://plato.stanford.edu/entries/moral-character/#SomRepSit)
-* [5.3 一些对亚里士多德性格观的经验方法](https://plato.stanford.edu/entries/moral-character/#SomEmpApp)
-* [参考文献](https://plato.stanford.edu/entries/moral-character/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/moral-character/#PriLit)
-* [次要文献](https://plato.stanford.edu/entries/moral-character/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/moral-character/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-character/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/moral-character/#Rel)
 
 ***
 

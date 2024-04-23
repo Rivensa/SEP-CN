@@ -10,20 +10,6 @@ _首次发布于 2019 年 7 月 5 日星期五_
 
 在简要讨论如何描述范畴错误（§1）和辩论历史（§2）之后，本文的大部分内容集中在如何解释范畴错误的不准确性问题上（§3）。我们最后总结了对语言哲学和形而上学中其他问题的讨论对范畴错误的影响（§4）。
 
-* [1. 描述范畴错误](https://plato.stanford.edu/entries/category-mistakes/#CharCateMist)
-* [2. 该主题的简要历史](https://plato.stanford.edu/entries/category-mistakes/#BrieHistTopi)
-* [3. 范畴错误的不幸案例](https://plato.stanford.edu/entries/category-mistakes/#AccoInfeCateMist)
-* [3.1 句法方法](https://plato.stanford.edu/entries/category-mistakes/#SyntAppr)
-* [3.2 语义方法](https://plato.stanford.edu/entries/category-mistakes/#SemaAppr)
-* [3.3 实用主义方法](https://plato.stanford.edu/entries/category-mistakes/#PragAppr)
-* [3.4 先决条件方法](https://plato.stanford.edu/entries/category-mistakes/#PresAppr)
-* [4. 对其他辩论的影响](https://plato.stanford.edu/entries/category-mistakes/#ImplForOtheDeba)
-* [4.1 语言哲学的含义](https://plato.stanford.edu/entries/category-mistakes/#ImplForPhilLang)
-* [4.2 形而上学的含义](https://plato.stanford.edu/entries/category-mistakes/#ImplForMeta)
-* [参考文献](https://plato.stanford.edu/entries/category-mistakes/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/category-mistakes/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/category-mistakes/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/category-mistakes/#Rel)
 
 ***
 

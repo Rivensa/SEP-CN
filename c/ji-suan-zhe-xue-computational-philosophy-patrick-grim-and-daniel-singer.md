@@ -6,41 +6,7 @@
 
 在涉及历史先驱之后，本文讨论了当代计算哲学在各个领域的应用：认识论、形而上学、科学哲学、伦理学和社会哲学、语言哲学和心灵哲学，通常会使用一些操作软件的例子。远非试图进行详尽处理，本文旨在通过一些代表性例子介绍每种应用的精神。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/computational-philosophy/#Intr)
-* [2. 莱布尼茨的预期](https://plato.stanford.edu/entries/computational-philosophy/#AntiLeib)
-* [3. 通过示例的计算哲学](https://plato.stanford.edu/entries/computational-philosophy/#CompPhilExam)
 
-  * [3.1 社会认识论与基于代理的建模](https://plato.stanford.edu/entries/computational-philosophy/#SociEpisAgenBaseMode)
-
-    * [3.1.1 信念变化与观点极化](https://plato.stanford.edu/entries/computational-philosophy/#BeliChanOpinPola)
-    * [3.1.2 论证的社会动态](https://plato.stanford.edu/entries/computational-philosophy/#SociDynaArgu)
-  * [3.2 计算哲学科学](https://plato.stanford.edu/entries/computational-philosophy/#CompPhilScie)
-
-    * [3.2.1 科学理论的网络模型](https://plato.stanford.edu/entries/computational-philosophy/#NetwModeScieTheo)
-    * [3.2.2 科学交流的网络模型](https://plato.stanford.edu/entries/computational-philosophy/#NetwModeScieComm)
-    * [3.2.3 分工、多样性和探索](https://plato.stanford.edu/entries/computational-philosophy/#DiviLaboDiveExpl)
-  * [3.3 伦理学和社会政治哲学](https://plato.stanford.edu/entries/computational-philosophy/#EthiSociPoliPhil)
-
-    * [3.3.1 博弈论与合作演化](https://plato.stanford.edu/entries/computational-philosophy/#GameTheoEvolCoop)
-    * [3.3.2 建模民主](https://plato.stanford.edu/entries/computational-philosophy/#ModeDemo)
-    * [3.3.3 社会结果作为复杂系统](https://plato.stanford.edu/entries/computational-philosophy/#SociOutcCompSyst)
-  * [3.4 计算哲学语言](https://plato.stanford.edu/entries/computational-philosophy/#CompPhilLang)
-
-    * [3.4.1 语义网络、类比和隐喻](https://plato.stanford.edu/entries/computational-philosophy/#SemaWebsAnalMeta)
-    * [3.4.2 信号博弈与沟通的出现](https://plato.stanford.edu/entries/computational-philosophy/#SignGameEmerComm)
-  * [3.5 从定理证明器到伦理推理、形而上学和宗教哲学](https://plato.stanford.edu/entries/computational-philosophy/#TheoProvEthiReasMetaPhilReli)
-  * [3.6 人工智能与心灵哲学](https://plato.stanford.edu/entries/computational-philosophy/#ArtiIntePhilMind)
-* [评估计算哲学](https://plato.stanford.edu/entries/computational-philosophy/#EvalCompPhil)
-
-  * [ 4.1 批评](https://plato.stanford.edu/entries/computational-philosophy/#Crit)
-  * [4.2 展望与未开发的方面](https://plato.stanford.edu/entries/computational-philosophy/#ProsUndeAspe)
-* [ 参考文献](https://plato.stanford.edu/entries/computational-philosophy/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/computational-philosophy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/computational-philosophy/#Oth)
-
-  * [计算模型示例](https://plato.stanford.edu/entries/computational-philosophy/#CompModeExam)
-  * [额外的互联网资源](https://plato.stanford.edu/entries/computational-philosophy/#AddiInteReso)
-* [ 相关条目](https://plato.stanford.edu/entries/computational-philosophy/#Rel)
 
 ---
 

@@ -8,28 +8,6 @@
 
 第二组项目利用语言哲学、行动哲学、道德和政治哲学的资源来解决合同法中的争论。关于意义和解释的本质、意向性、合同中的自由以及分配正义的问题推动了关于合同的形成、解释和执行的当代法律争论。关于这些主题的哲学研究吸引了大量评论，成为本条目第二部分的重点。
 
-* [合同法的一般理论](https://plato.stanford.edu/entries/contract-law/#GeneTheoLawCont)
-
-  * [裸无条件承诺义务](https://plato.stanford.edu/entries/contract-law/#BarePromDuti)
-  * [不伤害的责任和受益人的依赖利益](https://plato.stanford.edu/entries/contract-law/#DutyNotHarmPromReliInte)
-  * [促进互利交流](https://plato.stanford.edu/entries/contract-law/#EnabMutuBeneExch)
-  * [合同关系的规范性](https://plato.stanford.edu/entries/contract-law/#NormContRela)
-  * [ 1.5 多元主义](https://plato.stanford.edu/entries/contract-law/#Plur)
-* [合同法中的哲学主题](https://plato.stanford.edu/entries/contract-law/#PhilThemLawCont)
-
-  * [语言、意义和解释](https://plato.stanford.edu/entries/contract-law/#LangMeanInte)
-  * [自由和自治](https://plato.stanford.edu/entries/contract-law/#FreeAuto)
-  * [ 2.3 故意性](https://plato.stanford.edu/entries/contract-law/#Inte)
-  * [2.4 分配公平性和剩余分享的伦理学](https://plato.stanford.edu/entries/contract-law/#DistFairEthiSurpShar)
-* [ 参考文献](https://plato.stanford.edu/entries/contract-law/#Bib)
-
-  * [ 文章和书籍](https://plato.stanford.edu/entries/contract-law/#ArtiBook)
-  * [ 法律来源](https://plato.stanford.edu/entries/contract-law/#LegaSour)
-
-    * [ 案例](https://plato.stanford.edu/entries/contract-law/#Case)
-* [ 学术工具](https://plato.stanford.edu/entries/contract-law/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/contract-law/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/contract-law/#Rel)
 
 ---
 

@@ -8,22 +8,6 @@
 
 > 我希望任何攻击我的论点的人都能够不使用嘲讽或慷慨之词，最重要的是，有人能够向我展示一个自然的男女之间的差异，以此作为合理排除的基础。(孔多塞侯爵，1790 年，见麦克林和休伊特，1994 年，338-339 页)
 
-* [ 政治背景](https://plato.stanford.edu/entries/histfem-condorcet/#PolCon)
-* [生命与思想](https://plato.stanford.edu/entries/histfem-condorcet/#LifIde)
-* [3. 婚姻与智识伙伴关系](https://plato.stanford.edu/entries/histfem-condorcet/#MarIntPar)
-* [4. 妇女的权利](https://plato.stanford.edu/entries/histfem-condorcet/#RigWom)
-
-  * [4.1 共和宪法中的妇女权利](https://plato.stanford.edu/entries/histfem-condorcet/#WomRigWitRepCon)
-  * [4.2 对女性权利的大胆捍卫](https://plato.stanford.edu/entries/histfem-condorcet/#BolDefWomRig)
-  * [4.3 评价孔多塞侯爵的立场](https://plato.stanford.edu/entries/histfem-condorcet/#AppConSta)
-* [ 参考文献](https://plato.stanford.edu/entries/histfem-condorcet/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/histfem-condorcet/#PriLit)
-  * [ 次级文献](https://plato.stanford.edu/entries/histfem-condorcet/#SecLit)
-  * [ 相关文献](https://plato.stanford.edu/entries/histfem-condorcet/#RelLit)
-* [ 学术工具](https://plato.stanford.edu/entries/histfem-condorcet/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/histfem-condorcet/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/histfem-condorcet/#Rel)
 
 ---
 

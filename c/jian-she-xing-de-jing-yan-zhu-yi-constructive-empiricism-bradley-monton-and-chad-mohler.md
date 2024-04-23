@@ -8,39 +8,6 @@
 
 凭借其建设性的经验主义学说，范弗拉森被广泛认为是科学反实在论的复兴者。在科学哲学界存在着一场激烈的争论，讨论的焦点是建设性经验主义是真还是假。关于范弗拉森对该学说的论证实际上是什么，也存在一些不清晰之处。此外，关于该学说实际上意味着什么也存在争议。虽然建设性经验主义并没有获得广泛的拥趸，但它仍然是科学哲学中具有极高影响力的学说。
 
-* [理解建设性的经验主义](https://plato.stanford.edu/entries/constructive-empiricism/#UndeConsEmpi)
-
-  * [1.1 与科学实在论的对比](https://plato.stanford.edu/entries/constructive-empiricism/#ContScieReal)
-  * [ 1.2 关于文字的直接性](https://plato.stanford.edu/entries/constructive-empiricism/#Lite)
-  * [1.3 与逻辑实证主义的对比](https://plato.stanford.edu/entries/constructive-empiricism/#ContLogiPosi)
-  * [1.4 关于目标的信条](https://plato.stanford.edu/entries/constructive-empiricism/#DoctAbouAims)
-  * [ 1.5 经验充分性](https://plato.stanford.edu/entries/constructive-empiricism/#EmpiAdeq)
-  * [ 1.6 可观测的是什么](https://plato.stanford.edu/entries/constructive-empiricism/#WhatObse)
-  * [ 1.7 接受](https://plato.stanford.edu/entries/constructive-empiricism/#Acce)
-* [建设性的经验主义的论点](https://plato.stanford.edu/entries/constructive-empiricism/#ArguForConsEmpi)
-
-  * [2.1 建设性的经验主义的论证不足](https://plato.stanford.edu/entries/constructive-empiricism/#PoorArguForConsEmpi)
-  * [2.2 经验充分性与真理](https://plato.stanford.edu/entries/constructive-empiricism/#EmpiAdeqVersTrut)
-  * [2.3 理论与实验之间的关系](https://plato.stanford.edu/entries/constructive-empiricism/#RelaBetwTheoExpe)
-  * [2.4 理论选择的实用主义](https://plato.stanford.edu/entries/constructive-empiricism/#PragTheoChoi)
-  * [2.5 解释的实用主义](https://plato.stanford.edu/entries/constructive-empiricism/#PragExpl)
-  * [避免通货膨胀的形而上学](https://plato.stanford.edu/entries/constructive-empiricism/#AvoiInflMeta)
-* [反对建设性的经验主义的论点](https://plato.stanford.edu/entries/constructive-empiricism/#ArguAgaiConsEmpi)
-
-  * [3.1 奇迹论证](https://plato.stanford.edu/entries/constructive-empiricism/#MiraArgu)
-  * [3.2 最佳解释推理](https://plato.stanford.edu/entries/constructive-empiricism/#InfeBestExpl)
-  * [3.3 可观测/不可观测的区分](https://plato.stanford.edu/entries/constructive-empiricism/#ObseDist)
-  * [3.4 可观测与被观测](https://plato.stanford.edu/entries/constructive-empiricism/#ObseVersObse)
-  * [3.5 在可观察性讨论中对模态实在论的承诺？](https://plato.stanford.edu/entries/constructive-empiricism/#CommModaRealTalkObse)
-  * [3.6 为什么不只相信感官数据？](https://plato.stanford.edu/entries/constructive-empiricism/#WhyNotJustBeliSensData)
-  * [3.7 解释循环](https://plato.stanford.edu/entries/constructive-empiricism/#HermCirc)
-  * [3.8 微观世界的可观测性](https://plato.stanford.edu/entries/constructive-empiricism/#ObseMicr)
-  * [3.9 对抽象对象的存在承诺？](https://plato.stanford.edu/entries/constructive-empiricism/#CommExisAbstObje)
-  * [3.10 抵制以目标为特征来描述科学](https://plato.stanford.edu/entries/constructive-empiricism/#ResCharScie)
-* [ 参考文献](https://plato.stanford.edu/entries/constructive-empiricism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/constructive-empiricism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/constructive-empiricism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/constructive-empiricism/#Rel)
 
 ---
 

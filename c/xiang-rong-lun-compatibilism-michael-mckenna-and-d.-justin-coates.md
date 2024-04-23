@@ -4,32 +4,6 @@
 
 相容论为自由意志问题提供了一个解决方案，该问题涉及自由意志与决定论之间的争议不相容性。相容论是自由意志与决定论相容的命题。由于自由意志通常被视为道德责任的必要条件，因此有时将相容论表达为关于道德责任与决定论之间的相容性的命题。
 
-* [自由意志与因果决定性问题](https://plato.stanford.edu/entries/compatibilism/#FreeWillProbCausDete)
-
-  * [1.1 决定论与替代可能性](https://plato.stanford.edu/entries/compatibilism/#DeteAltePoss)
-  * [1.2 决定论和源性](https://plato.stanford.edu/entries/compatibilism/#DeteSour)
-  * [1.3 相容论者的回应](https://plato.stanford.edu/entries/compatibilism/#CompRepl)
-* [经典相容论](https://plato.stanford.edu/entries/compatibilism/#ClasComp)
-
-  * [2.1 自由的经典相容论](https://plato.stanford.edu/entries/compatibilism/#FreeAccoClasComp)
-  * [2.2 经典相容论条件分析](https://plato.stanford.edu/entries/compatibilism/#ClasCompCondAnal)
-  * [2.3 条件分析的持久影响](https://plato.stanford.edu/entries/compatibilism/#LastInflCondAnal)
-* [3. 相容论的转变](https://plato.stanford.edu/entries/compatibilism/#CompTran)
-
-  * [3.1 后果论(argument)](https://plato.stanford.edu/entries/compatibilism/#ConsArgu)
-  * [3.2 对替代可能性原则的挑战](https://plato.stanford.edu/entries/compatibilism/#ChalPrinAltePoss)
-  * [3.3 聚焦于反应态度](https://plato.stanford.edu/entries/compatibilism/#FocuUponReacAtti)
-* [当代相容论](https://plato.stanford.edu/entries/compatibilism/#ContComp)
-
-  * [4.1 相容论关于否则行动自由](https://plato.stanford.edu/entries/compatibilism/#CompAbouFreeDoOthe)
-  * [4.2 层级相容论](https://plato.stanford.edu/entries/compatibilism/#HierComp)
-  * [4.3 理由观](https://plato.stanford.edu/entries/compatibilism/#ReasView)
-  * [4.4 相容论 (Compatibilism) 理由响应论](https://plato.stanford.edu/entries/compatibilism/#ReasRespComp)
-  * [4.5 斯特劳森的相容论](https://plato.stanford.edu/entries/compatibilism/#StraComp)
-* [ 参考文献](https://plato.stanford.edu/entries/compatibilism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/compatibilism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/compatibilism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/compatibilism/#Rel)
 
 ---
 

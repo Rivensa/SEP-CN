@@ -10,22 +10,6 @@ _首次发表于 2001 年 8 月 10 日星期五；实质性修订于 2018 年 4 
 
 在这次调查中显而易见的是中世纪因果理论和中世纪本体论之间极为紧密和复杂的相互关系。在亚里士多德的文本被吸收之后，几乎所有中世纪学术理论都具有基本的形质论：物质是物质和形式的复合体，变化被描述为一种形式的丧失和另一种形式的获得。形式不仅仅是形状，而是一种积极的原则：事物的形式决定了其因果作用（White 1984；Goddu 1999，第 148 页）。此外，在任何因果互动中，将参与个体的积极和消极角色分配给个体往往被认为是毫无问题的。尽管亚里士多德因果理论的许多方面经过了广泛和批判性的讨论，但这种基本的形质论一直存在；与其说是其他更深奥的东西，往往更多地是这种形质论在吸收或评估中世纪关于这些主题的思想时提出的最大问题。
 
-* [1. 因果关系与运动](https://plato.stanford.edu/entries/causation-medieval/#CausMoti)
-* [1.1 总体运动](https://plato.stanford.edu/entries/causation-medieval/#MotiGene)
-* [1.2 本地运动](https://plato.stanford.edu/entries/causation-medieval/#LocaMoti)
-* [2. 因果关系、自我运动和意志](https://plato.stanford.edu/entries/causation-medieval/#CausSelfMotiWill)
-* [3. 感知的因果关系](https://plato.stanford.edu/entries/causation-medieval/#CausAccoPerc)
-* [4. 因果关系、知识和必然性](https://plato.stanford.edu/entries/causation-medieval/#CausKnowNece)
-* [4.1 因果关系与必然性](https://plato.stanford.edu/entries/causation-medieval/#CausNece)
-* [4.2 知识因果命题：演绎](https://plato.stanford.edu/entries/causation-medieval/#KnowCausPropDemo)
-* [5. Final Causes](https://plato.stanford.edu/entries/causation-medieval/#FinaCaus)
-* [Bibliography](https://plato.stanford.edu/entries/causation-medieval/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/causation-medieval/#PrimLite)
-* [次要文献](https://plato.stanford.edu/entries/causation-medieval/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/causation-medieval/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/causation-medieval/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/causation-medieval/#Rel)
-
 ***
 
 ## 1. 因果关系与运动

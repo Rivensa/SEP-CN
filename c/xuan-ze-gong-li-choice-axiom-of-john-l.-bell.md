@@ -4,16 +4,7 @@ _首次发表于 2008 年 1 月 8 日；实质性修订于 2021 年 12 月 10 �
 
 集合论中被称为_选择公理_的原则被誉为“可能是最有趣的，尽管出现较晚，但也是数学中讨论最多的公理，仅次于欧几里得的平行公设，后者是两千多年前引入的”（Fraenkel，Bar-Hillel＆Levy 1973，§II.4）。这种描述的丰富性可能会让那些不熟悉这个公理的人期望它像光速不变原理或海森堡不确定性原理那样令人惊讶。但事实上，选择公理通常陈述起来平淡无奇，甚至显而易见。因为它仅仅是这样一个主张：对于任何一组互不相交的非空集合，可以组合一个新集合——一个_横截面_或_选择集_，其中包含给定集合的每个成员中的一个元素。然而，这个看似无害的原则具有深远的数学后果——许多是必不可少的，一些是令人惊讶的，并且已经成为数学基础讨论中的重要内容。它（或其等价形式）已被应用于无数数学论文，并且有许多专门致力于它的专著。
 
-* [1. 选择公理的起源和年表](https://plato.stanford.edu/entries/axiom-choice/#OriChrAxiCho)
-* [2. 选择公理的独立性和一致性](https://plato.stanford.edu/entries/axiom-choice/#IndConAxiCho)
-* [3. 最大原理和 Zorn 引理](https://plato.stanford.edu/entries/axiom-choice/#MaxPriZorLem)
-* [4. 选择公理的数学应用](https://plato.stanford.edu/entries/axiom-choice/#MatAppAxiCho)
-* [5. 选择公理和逻辑](https://plato.stanford.edu/entries/axiom-choice/#AxiChoLog)
-* [补充文件：选择公理和类型理论](https://plato.stanford.edu/entries/axiom-choice/#ChoiceType)
-* [参考文献](https://plato.stanford.edu/entries/axiom-choice/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/axiom-choice/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/axiom-choice/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/axiom-choice/#Rel)
+
 
 ***
 

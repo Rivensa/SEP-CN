@@ -14,18 +14,6 @@ Voltaire 隐含承认了她在他 1738 年的《牛顿哲学要义》中的重�
 
 本篇重点关注埃米莉·勒·托内利·德·布勒特伊的自然哲学，这占据了她大部分的智力努力。更具体地说，它关注她思想的这一方面，即她在 1740 年的杰作《物理学基础》中清晰表达的自然哲学版本。
 
-* [1. 勒·托内利·德·布勒特伊的自然哲学](https://plato.stanford.edu/entries/emilie-du-chatelet/#DuChaMagOpuNatFouPhyIntTex)​\*[杰作](https://plato.stanford.edu/entries/emilie-du-chatelet/#DuChaMagOpuNatFouPhyIntTex)_​_[_：_](https://plato.stanford.edu/entries/emilie-du-chatelet/#DuChaMagOpuNatFouPhyIntTex)_​_[物理学的基础](https://plato.stanford.edu/entries/emilie-du-chatelet/#DuChaMagOpuNatFouPhyIntTex)\*​[：文本导言](https://plato.stanford.edu/entries/emilie-du-chatelet/#DuChaMagOpuNatFouPhyIntTex)
-* [2. 知识的第一原则](https://plato.stanford.edu/entries/emilie-du-chatelet/#FirPriKno)
-* [3. 上帝](https://plato.stanford.edu/entries/emilie-du-chatelet/#God)
-* [4. 形而上学](https://plato.stanford.edu/entries/emilie-du-chatelet/#Met)
-* [5. 科学方法论](https://plato.stanford.edu/entries/emilie-du-chatelet/#SciMet)
-* [6. 牛顿引力](https://plato.stanford.edu/entries/emilie-du-chatelet/#NewAtt)
-* [参考文献](https://plato.stanford.edu/entries/emilie-du-chatelet/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/emilie-du-chatelet/#PriSou)
-* [次级来源](https://plato.stanford.edu/entries/emilie-du-chatelet/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/emilie-du-chatelet/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/emilie-du-chatelet/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/emilie-du-chatelet/#Rel)
 
 ***
 

@@ -8,22 +8,6 @@ _首次发表于 2004 年 6 月 3 日星期四；实质性修订于 2022 年 11 
 
 在过去的一百年里，对于提供一个独特真实和完整的本体范畴体系的可能性的怀疑，导致了对范畴的讨论从试图提供完整的范畴体系转向了仅仅试图划分特定区别，尤其是在我们的概念或语言范畴之间。与范畴体系不同，对范畴差异的研究通常并不旨在回答关于事物或事物种类存在的深层形而上问题；相反，范畴差异通常被阐明为诊断和避免各种哲学问题和困惑的一种方式。然而，即使是那些仅仅主张范畴差异的人也需要说明两个概念、术语或对象属于不同范畴的条件。
 
-* [1. 范畴体系](https://plato.stanford.edu/entries/categories/#CatSys)
-* [1.1 亚里士多德现实主义](https://plato.stanford.edu/entries/categories/#AriRea)
-* [1.2 康德概念主义](https://plato.stanford.edu/entries/categories/#KanCon)
-* [1.3 赫塞尔的描述主义](https://plato.stanford.edu/entries/categories/#HusDes)
-* [1.4 当代范畴系统](https://plato.stanford.edu/entries/categories/#ConCatSys)
-* [1.5 对范畴系统的怀疑](https://plato.stanford.edu/entries/categories/#SkeAboCatSys)
-* [1.6 其他学科中的范畴](https://plato.stanford.edu/entries/categories/#CatOthDis)
-* [2. 类别差异](https://plato.stanford.edu/entries/categories/#CatDif)
-* [2.1 类别区分的用途](https://plato.stanford.edu/entries/categories/#UseCatDis)
-* [2.2 区分范畴的赖尔/胡塞尔方法](https://plato.stanford.edu/entries/categories/#RylMetDisCat)
-* [2.3 区分范畴的弗雷格方法](https://plato.stanford.edu/entries/categories/#DumMetDisCat)
-* [参考文献](https://plato.stanford.edu/entries/categories/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/categories/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/categories/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/categories/#Rel)
-
 ***
 
 ## 1. 类别系统

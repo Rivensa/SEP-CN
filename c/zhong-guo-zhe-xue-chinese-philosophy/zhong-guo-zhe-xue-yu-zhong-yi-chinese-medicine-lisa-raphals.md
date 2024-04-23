@@ -10,20 +10,7 @@ _首次发表于 2015 年 4 月 28 日星期二；实质性修订于 2020 年 10
 
 第一部分将医学置于中国科学之中，并介绍了中国哲学和中国医学之间的智识共同基础，包括共享的_气_、_阴阳_和“五行”（_五行_）理论，以及它们在人体与国家和宇宙之间的类比中的运用，包括对人体系统医学理论的发展。第二部分介绍了“养生”传统的重要医学贡献。第三部分探讨了在三位伟大的道家医师的著作中被描述为长期共享历史的道教和医学。第四部分回顾了张锡纯的观点及其关于中国医学和中国哲学之间明确联系的主张。
 
-* [1. 简介：共享的智识背景](https://plato.stanford.edu/entries/chinese-phil-medicine/#IntShaIntCon)
-* [1.1 ](https://plato.stanford.edu/entries/chinese-phil-medicine/#YinYanQiWux)​\*[阴阳](https://plato.stanford.edu/entries/chinese-phil-medicine/#YinYanQiWux)_​_[_、_](https://plato.stanford.edu/entries/chinese-phil-medicine/#YinYanQiWux)_​_[气](https://plato.stanford.edu/entries/chinese-phil-medicine/#YinYanQiWux)_​_[ _和_ ](https://plato.stanford.edu/entries/chinese-phil-medicine/#YinYanQiWux)_​_[五行](https://plato.stanford.edu/entries/chinese-phil-medicine/#YinYanQiWux)\*
-* [1.2 身体、国家和宇宙](https://plato.stanford.edu/entries/chinese-phil-medicine/#BodStaCos)
-* [2. 养生 (](https://plato.stanford.edu/entries/chinese-phil-medicine/#NurLifYanShe)​\*[yang sheng](https://plato.stanford.edu/entries/chinese-phil-medicine/#NurLifYanShe)\*​[)](https://plato.stanford.edu/entries/chinese-phil-medicine/#NurLifYanShe)
-* [3. 道家医学传统和医师](https://plato.stanford.edu/entries/chinese-phil-medicine/#DaoMedTraPhy)
-* [3.1 葛洪](https://plato.stanford.edu/entries/chinese-phil-medicine/#GeHon)
-* [3.2 陶弘景](https://plato.stanford.edu/entries/chinese-phil-medicine/#TaoHon)
-* [3.3 孙思邈](https://plato.stanford.edu/entries/chinese-phil-medicine/#SunSim)
-* [4. 张锡纯论中国哲学与中医](https://plato.stanford.edu/entries/chinese-phil-medicine/#ZhaXicChiChiMed)
-* [5. 结论](https://plato.stanford.edu/entries/chinese-phil-medicine/#Con)
-* [参考文献](https://plato.stanford.edu/entries/chinese-phil-medicine/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/chinese-phil-medicine/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/chinese-phil-medicine/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/chinese-phil-medicine/#Rel)
+
 
 ***
 

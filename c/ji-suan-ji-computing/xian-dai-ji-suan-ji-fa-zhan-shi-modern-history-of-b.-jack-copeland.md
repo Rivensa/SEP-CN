@@ -4,21 +4,7 @@
 
 在历史上，计算机是按照有效方法进行计算的人类职员。这些人类计算机所做的计算类型，现在由电子计算机执行，其中许多人被雇用在商业、政府和研究机构。从 20 世纪 20 年代开始越来越多地使用的术语“计算机”，指的是任何能够像人类计算机一样工作的机器，即按照有效方法进行计算的机器。在 1940 年代末和 1950 年代初，随着电子计算机的出现，“计算机”这个词逐渐简化为简单的“电脑”，最初通常带有前缀“电子”或“数字”。本文概述了这些机器的历史。
 
-* [ 巴贝奇](https://plato.stanford.edu/entries/computing-history/#Bab)
-* [ 模拟计算机](https://plato.stanford.edu/entries/computing-history/#analog)
-* [通用图灵机](https://plato.stanford.edu/entries/computing-history/#UTM)
-* [电机与电子计算](https://plato.stanford.edu/entries/computing-history/#Flow)
-* [ 阿塔纳索夫](https://plato.stanford.edu/entries/computing-history/#Atan)
-* [ 巨像](https://plato.stanford.edu/entries/computing-history/#Col)
-* [图灵的自动计算引擎](https://plato.stanford.edu/entries/computing-history/#ACE)
-* [ 曼彻斯特机器](https://plato.stanford.edu/entries/computing-history/#MUC)
-* [ ENIAC 和 EDVAC](https://plato.stanford.edu/entries/computing-history/#ENIAC)
-* [其他值得注意的早期计算机](https://plato.stanford.edu/entries/computing-history/#Others)
-* [ 高速内存](https://plato.stanford.edu/entries/computing-history/#Mems)
-* [ 参考文献](https://plato.stanford.edu/entries/computing-history/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/computing-history/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/computing-history/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/computing-history/#Rel)
+
 
 ---
 

@@ -4,19 +4,7 @@
 
 威廉·克拉索恩（约活动于 1330 年代），像亚当·沃德汉（逝世于 1358 年）和罗伯特·霍尔科特（约生于 1290 年至 1349 年）一样，属于威廉·奥卡姆（约生于 1285 年至 1347 年）之后牛津哲学家的第一代，他们试图批评和发展奥卡姆的哲学。克拉索恩以其关于语言和认知的理论以及一些反怀疑论的论证而闻名，这些论证与笛卡尔的《沉思录》中的内容惊人地相似。他作品中的激进本体论也值得注意，尽管尚未受到深入研究。
 
-* [1. 生平和工作](https://plato.stanford.edu/entries/crathorn/#LifeWork)
-* [2. 与其他学者的关系](https://plato.stanford.edu/entries/crathorn/#RelaOtheScho)
-* [ 3. 认识论](https://plato.stanford.edu/entries/crathorn/#Epis)
-* [4. 语言哲学](https://plato.stanford.edu/entries/crathorn/#PhilLang)
-* [5. 本体论和范畴](https://plato.stanford.edu/entries/crathorn/#OntoCate)
-* [ 6. 原子论](https://plato.stanford.edu/entries/crathorn/#Atom)
-* [ 参考文献](https://plato.stanford.edu/entries/crathorn/#Bib)
 
-  * [ 主要文献](https://plato.stanford.edu/entries/crathorn/#PrimLite)
-  * [ 次要文献](https://plato.stanford.edu/entries/crathorn/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/crathorn/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/crathorn/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/crathorn/#Rel)
 
 ---
 

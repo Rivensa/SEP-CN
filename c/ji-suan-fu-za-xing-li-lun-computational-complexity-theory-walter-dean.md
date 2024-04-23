@@ -10,29 +10,7 @@
 
 计算在心理学和神经科学中也是核心内容，也许在生物学的其他领域也是如此。根据认知计算理论，认知是一种计算：认知系统的行为是通过其执行的计算来因果解释的。为了测试某种计算理论，我们需要知道在物理系统中什么算作计算。再次强调，计算的本质是经验科学的基础。
 
-* [抽象计算与具体计算](https://plato.stanford.edu/entries/computation-physicalsystems/#AbsComConCom)
-* [2. 具体计算的描述](https://plato.stanford.edu/entries/computation-physicalsystems/#AccConCom)
 
-  * [简单映射解释](https://plato.stanford.edu/entries/computation-physicalsystems/#SimMapAcc)
-  * [2.2 因果、反事实和倾向性解释](https://plato.stanford.edu/entries/computation-physicalsystems/#CauCouDisAcc)
-  * [2.3 语义解释](https://plato.stanford.edu/entries/computation-physicalsystems/#SemAcc)
-  * [2.4 句法解释](https://plato.stanford.edu/entries/computation-physicalsystems/#SynAcc)
-  * [2.5 机械化解释](https://plato.stanford.edu/entries/computation-physicalsystems/#MecAcc)
-* [3. 每个物理系统都是计算的吗？](https://plato.stanford.edu/entries/computation-physicalsystems/#EvePhySysCom)
-
-  * [3.1 全计算论的种类](https://plato.stanford.edu/entries/computation-physicalsystems/#VarPan)
-  * [3.2 无限泛计算论](https://plato.stanford.edu/entries/computation-physicalsystems/#UnlPan)
-  * [3.3 有限泛计算论](https://plato.stanford.edu/entries/computation-physicalsystems/#LimPan)
-  * [3.4 宇宙作为一个计算系统](https://plato.stanford.edu/entries/computation-physicalsystems/#UniComSys)
-* [4. 物理可计算性](https://plato.stanford.edu/entries/computation-physicalsystems/#PhyCom)
-
-  * [4.1 物理 Church-Turing 假设：大胆](https://plato.stanford.edu/entries/computation-physicalsystems/#PhyChuTurTheBol)
-  * [4.2 物理 Church-Turing 假设：谦虚](https://plato.stanford.edu/entries/computation-physicalsystems/#PhyChuTurTheMod)
-  * [ 4.3 超计算](https://plato.stanford.edu/entries/computation-physicalsystems/#Hyp)
-* [ 参考文献](https://plato.stanford.edu/entries/computation-physicalsystems/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/computation-physicalsystems/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/computation-physicalsystems/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/computation-physicalsystems/#Rel)
 
 ---
 

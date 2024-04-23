@@ -6,28 +6,6 @@ _首次发表于 2023 年 12 月 11 日_
 
 现代儒学通常被称为儒家思想的第三个重要时代（MZCW 9a: 1–17; Tu 1993: 141–59）。第一个经典时期大约从公元前 500 年到公元一世纪或二世纪，第二波是宋明时期。现代儒学的定义特征是，正如其名称所示，关注现代性以及这对中国文化意味着什么，并与西方哲学进行重要的交流，主要是欧洲启蒙运动和后启蒙思想（Rošker 2016; Tan 2009; Van den Stock 2016）。现代儒家思想家将历史分析与新颖的解释和理论相结合，以适应一个截然不同的世界。本文将概述现代儒学的历史背景并介绍所包括的主要人物，然后继续审视他们对现代性和传统、知识、人性以及政治的观点。
 
-* [1. 背景和范围](https://plato.stanford.edu/entries/confucianism-modern/#BackScop)e
-* [2. 现代性与传统](https://plato.stanford.edu/entries/confucianism-modern/#ModeTrad)
-* [2.1 文化差异](https://plato.stanford.edu/entries/confucianism-modern/#CulturalDifferences)
-* [2.2 中国人文文化与西方唯物主义文化](https://plato.stanford.edu/entries/confucianism-modern/#ChinHumaCultWestMateCult)
-* [3. 知识](https://plato.stanford.edu/entries/confucianism-modern/#Know)
-* [3.1 道德知识与认知知识](https://plato.stanford.edu/entries/confucianism-modern/#MoraKnowCognKnow)
-* [3.2 通过情感联系获得知识](https://plato.stanford.edu/entries/confucianism-modern/#KnowThroAffeConn)
-* [3.3 知性直觉和自由意志的现实性](https://plato.stanford.edu/entries/confucianism-modern/#RealInteIntuFreeWill)
-* [4. 人性与人](https://plato.stanford.edu/entries/confucianism-modern/#HumaNatuPers)
-* [4.1 拒绝佛教和达尔文主义对人性观点](https://plato.stanford.edu/entries/confucianism-modern/#RejeBuddDarwViewHumaNatu)
-* [4.2 两层自我：超验和经验](https://plato.stanford.edu/entries/confucianism-modern/#TwoTierSelfTranEmpi)
-* [4.3 感性联系中显现的超验自我](https://plato.stanford.edu/entries/confucianism-modern/#TranSelfManiAffeConn)
-* [4.4 单一自我模型](https://plato.stanford.edu/entries/confucianism-modern/#SingSelfMode)
-* [5. 政治思想](https://plato.stanford.edu/entries/confucianism-modern/#PoliThou)
-* [5.1 道德的自我限制下的民主](https://plato.stanford.edu/entries/confucianism-modern/#DemoThroSelfRestMora)
-* [5.2 平等主体性带来的政治平等](https://plato.stanford.edu/entries/confucianism-modern/#PoliEquaEquaSubj)
-* [5.3 在民主中实现德治](https://plato.stanford.edu/entries/confucianism-modern/#RealRuleVirtDemo)
-* [6. 近期发展](https://plato.stanford.edu/entries/confucianism-modern/#ReceDeve)
-* [参考文献](https://plato.stanford.edu/entries/confucianism-modern/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/confucianism-modern/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/confucianism-modern/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/confucianism-modern/#Rel)
 
 ***
 

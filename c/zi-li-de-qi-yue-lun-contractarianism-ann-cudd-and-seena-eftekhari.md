@@ -6,16 +6,6 @@
 
 契约论源自霍布斯社会契约思想，认为人主要是自私的，理性评估实现最大化自身利益的最佳策略将引导他们行为符合道德（其中道德规范由最大化共同利益确定）并同意政府权威。契约论认为，我们每个人之所以被激励接受道德，“首先是因为我们容易受到他人的掠夺，其次是因为我们都可以从与他人的合作中受益”（Narveson 1988, 148）。契约主义源自康德社会契约思想，认为理性要求我们尊重个人，这反过来要求道德原则必须能够向每个人证明其合理性。因此，个体被认为不是被自私利益所驱使，而是被一种致力于公开证明每个人将被奉行的道德标准的承诺所驱使。在霍布斯契约论者的典范中，高缇尔、纳维森或经济学家詹姆斯·布坎南，而罗尔斯或托马斯·斯坎隆则是典范的康德契约主义者。本文其余部分将专门涉及契约论的分支，无论两者在何处分歧。
 
-* [契约主义的基本要素](https://plato.stanford.edu/entries/contractarianism/#FundElemCont)
-* [契约的隐喻](https://plato.stanford.edu/entries/contractarianism/#MetaCont)
-* [回答道德怀疑论者](https://plato.stanford.edu/entries/contractarianism/#AnswMoraSkep)
-* [规范契约论的批评](https://plato.stanford.edu/entries/contractarianism/#CritNormCont)
-* [颠覆性契约论](https://plato.stanford.edu/entries/contractarianism/#SubvCont)
-* [残疾、动物、互惠和信任](https://plato.stanford.edu/entries/contractarianism/#DisaAnimReciTrus)
-* [ 参考文献](https://plato.stanford.edu/entries/contractarianism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/contractarianism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/contractarianism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/contractarianism/#Rel)
 
 ---
 

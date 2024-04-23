@@ -6,23 +6,6 @@
 
 科恩对学术哲学的影响同样重要的是，他是他那一代最杰出的德国犹太公共知识分子和宗教哲学家。他的哲学伦理学和政治理论为一种非马克思主义、康德式的民主社会主义奠定了基础，这一理论贯穿于他更受欢迎和时事性的著作中。他公开主张普选权，支持工人组织民主构成的集体的权利。他还看到伦理学和宗教之间的深刻联系，并发展了一种将犹太教视为基本伦理信仰和实践体系的观点。他认为一神论是普世伦理法律观念的历史源头，因此犹太教为世界提供了第一个普世道德模式。这种对犹太教伦理意义的看法最终构成了科恩公开捍卫犹太人在德国地位的基础，不仅反对反犹太主义的攻击，还反对二十世纪初锡安主义者的论点。然而，科恩对犹太思想的影响远不止于帝国德国内部的争论：他晚年的宗教著作激发了二十世纪犹太伦理学和宗教哲学的广泛复兴。
 
-* [生平与著作](https://plato.stanford.edu/entries/cohen/#LifWor)
-* [康德的解释](https://plato.stanford.edu/entries/cohen/#IntKan)
-* [超越方法](https://plato.stanford.edu/entries/cohen/#TraMet)
-* [过渡时期](https://plato.stanford.edu/entries/cohen/#CriIde)
-* [5. 纯粹思维、生成和起源](https://plato.stanford.edu/entries/cohen/#ConGenOri)
-* [伦理学、法理学和人类行为法则](https://plato.stanford.edu/entries/cohen/#EthJurLawHumAct)
-* [康德主义民主社会主义的基础，美学](https://plato.stanford.edu/entries/cohen/#KanFouDemSocAes)
-* [宗教哲学与个体与上帝之间的关联](https://plato.stanford.edu/entries/cohen/#PhiRel)
-* [9. 一神论与先知弥赛亚主义](https://plato.stanford.edu/entries/cohen/#MonProMes)
-* [ 科恩的影响](https://plato.stanford.edu/entries/cohen/#CohInf)
-* [ 参考文献](https://plato.stanford.edu/entries/cohen/#Bib)
-
-  * [科恩的选集](https://plato.stanford.edu/entries/cohen/#SelWorCoh)
-  * [选定的次级文献](https://plato.stanford.edu/entries/cohen/#SelSecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/cohen/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cohen/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/cohen/#Rel)
 
 ---
 

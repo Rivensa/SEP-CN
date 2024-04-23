@@ -4,21 +4,6 @@
 
 意识的高阶理论试图通过解释意识和无意识心理状态之间的差异，来说明在所讨论的意识状态与某种高阶表征之间存在的关系（无论是对该状态的高阶知觉，还是对其的高阶思维）。最具挑战性的要解释的特性是那些涉及现象意识的特性 - 这种具有主观维度、具有“感觉”或者经历某种感受的状态。这些特性将成为本文的重点。
 
-* [意识的种类](https://plato.stanford.edu/entries/consciousness-higher/#KinCon)
-* [对于高阶方法的动机](https://plato.stanford.edu/entries/consciousness-higher/#MotForHigOrdApp)
-* [3. Higher-Order Perception Theory 第三部分：高阶知觉理论](https://plato.stanford.edu/entries/consciousness-higher/#HigOrdPerThe)
-* [4. Higher-Order Thought Theory (1): Actualist 4. 高阶意识理论（1）：实在主义者](https://plato.stanford.edu/entries/consciousness-higher/#HigOrdThoThe1Act)
-* [5. 高阶思维理论（2）：倾向主义者](https://plato.stanford.edu/entries/consciousness-higher/#HigOrdThoThe2Dis)
-* [6. 自我表征的高阶理论](https://plato.stanford.edu/entries/consciousness-higher/#SelRepHigOrdThe)
-* [7. 对更高阶方法的反对](https://plato.stanford.edu/entries/consciousness-higher/#ObjHigOrdApp)
-
-  * [ 7.1 当地反对意见](https://plato.stanford.edu/entries/consciousness-higher/#LocObj)
-  * [ 7.2 一般性反对意见](https://plato.stanford.edu/entries/consciousness-higher/#GenObj)
-* [ 参考文献](https://plato.stanford.edu/entries/consciousness-higher/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/consciousness-higher/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/consciousness-higher/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/consciousness-higher/#Rel)
-
 ---
 
 ## 意识的种类

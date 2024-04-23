@@ -10,23 +10,6 @@
 
 本文将阐述良心这一概念在哲学讨论、宗教教义以及日常语言中的主要特征。本文采用的视角是理论性的，而非历史性的。文章聚焦于西方传统，一些例子取自基督教源。本文围绕四种可能的、但并非互斥的良心概念展开。这些概念将在一个介绍性部分之前，概述良心概念的多元、道德中立和主观性特质。将描述的良心的四个主要方面如下。第二部分讨论良心作为自我认识和自我评估的能力。第三部分介绍了良心的认识论方面，它允许形成道德信念，区分了形成这些信念的不同可能道德原则的来源。在第四部分，将描述良心作为一种推动力或我们责任感的源泉，这已经预设了一套道德知识或道德信念。最后，第五部分将重点放在将良心理解为个人核心和自我认同道德信念的集合，这通常被视为道德完整性（Fuss，1964；Wicclair，2011）和个人身份认同感的基础。正如第六部分所讨论的，这种对良心的最后一种处理方式经常被用于政治功能，以倡导在自由民主社会中的思想和行动自由，例如，如第 6.1 小节所解释的那样，通过对否则被期望从事的专业或法律行为的良心抗议。
 
-* [1. 良心作为多元化、中立和主观的。](https://plato.stanford.edu/entries/conscience/#ConsPlurNeutSubj)
-* [2. Conscience as 自我认识和自我评估](https://plato.stanford.edu/entries/conscience/#ConsSelfKnowSelfAsse)
-* [3. The epistemic function of conscience 良心的认识功能](https://plato.stanford.edu/entries/conscience/#EpisFuncCons)
-
-  * [3.1 良心作为间接道德知识的能力](https://plato.stanford.edu/entries/conscience/#ConsFacuForIndiMoraKnow)
-  * [3.2 良心作为直接道德知识的能力](https://plato.stanford.edu/entries/conscience/#ConsFacuForDireMoraKnow)
-* [4. Conscience as 良心驱使行为道德。](https://plato.stanford.edu/entries/conscience/#ConsMotiActMora)
-* [5. Conscience, self-identifying moral commitments, and moral integrity 5. 良心、自我识别的道德承诺和道德完整性](https://plato.stanford.edu/entries/conscience/#ConsSelfIdenMoraCommMoraInte)
-* [6. 良心的自由](https://plato.stanford.edu/entries/conscience/#FreeCons)
-
-  * [6.1 当今的良心自由和良心抗拒](https://plato.stanford.edu/entries/conscience/#FreeConsConsObjeToda)
-* [ 7. 结论](https://plato.stanford.edu/entries/conscience/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/conscience/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/conscience/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/conscience/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/conscience/#Rel)
-
 ---
 
 ## 1. 良心作为多元化、中立和主观的。
