@@ -549,7 +549,7 @@ Pizzi 和 Williamson（1997）证明了 CI 可以被忠实地嵌入到正常的�
 * Chellas, B., 1975, “Basic Conditional Logic”, _Journal of Philosophical Logic_, 4: 133–153.
 * Cooper, W., 1968, “The Propositional Logic of Ordinary Discourse”, _Inquiry_, 11: 295–320.
 * El-Rouayheb, K., 2009, “Impossible Antecedents and Their Consequences: Some Thirteenth- Century Arabic Discussions”, _History and Philosophy of Logic_ 30: 209–225.
-* Egré, P. and Politzer, G., 2013, “On the negation of indicative conditionals”, in: M. Franke, M. Aloni and F. Roelofsen (eds), _Proceedings of the 19th Amsterdam Colloquium_, 10–18 \[[Egré & Politzer 2013 available online](http://maloni.humanities.uva.nl/AC2013/AC\_proceedings.pdf)].
+* Egré, P. and Politzer, G., 2013, “On the negation of indicative conditionals”, in: M. Franke, M. Aloni and F. Roelofsen (eds), _Proceedings of the 19th Amsterdam Colloquium_, 10–18 \[[Egré & Politzer 2013 available online](http://maloni.humanities.uva.nl/AC2013/AC\proceedings.pdf)].
 * Estrada-González, L., 2008, “Weakened Semantics and the Traditional Square of Opposition”, _Logica Universalis_, 2: 155–165.
 * Estrada-González, L. and Ramirez-Cámara, E., 2016, “A Comparison of Connexive Logics”, _IfCoLog Journal of Logics and their Applications_, 3: 341–355.
 * –––, 2020, “A Nelsonian Response to ‘the Most Embarrassing of All Twelfth-century Arguments’”, _History and Philosophy of Logic_, 41: 101–113.
@@ -683,7 +683,7 @@ Pizzi 和 Williamson（1997）证明了 CI 可以被忠实地嵌入到正常的�
 ## Other Internet Resources
 
 * Angell, R.B., 1966, “[Three logics of subjunctive conditionals](http://www.rbangell.com/pdf/papers-articles/Three%20Logics%20of%20Subjunctive%20Conditionals%20%20001.PDF),” paper presented August 12, 1966 at Colloquium on Logic and Foundations of Mathematics, Hannover, Germany.
-* Estrada-González, L., 2019, “[The Bochum Plan and the Foundations of Contra-Classical Logics](https://www.cle.unicamp.br/eprints/index.php/CLE\_e-Prints/about),” CLE e-Prints.
+* Estrada-González, L., 2019, “[The Bochum Plan and the Foundations of Contra-Classical Logics](https://www.cle.unicamp.br/eprints/index.php/CLE\e-Prints/about),” CLE e-Prints.
 * Vidal, M., 2017, “[When Conditional Logic met Connexive Logic](https://www.semanticscholar.org/paper/When-Conditional-Logic-met-Connexive-Logic-Vidal/f09b43946aecc562120f8cdb4e23f94498a1b43a),” IWCS 2017 – 12th International Conference on Computational Semantics.
 * _IfCoLog Journal of Logics and their Applications_, Vol. (3), No 3 (2016), “[Special Issue: Connexive Logics](https://www.collegepublications.co.uk/ifcolog/?00007).”
 * _Logic and Logical Philosophy_, Vol. 28, No 3 (2019), “[Special Issue: Advances in Connexive Logic](https://apcz.umk.pl/czasopisma/index.php/LLP/issue/view/1613/showToc).”

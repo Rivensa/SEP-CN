@@ -795,9 +795,9 @@ Miller & Page 2007 and Mitchell 2009 both contain a chapter devoted to CA: they 
 * Ray, Annie, Raymond Laflamme, and Aleksander Kubica, 2023, “[Protecting information via probabilistic cellular automata](https://arxiv.org/abs/2304.03240)”, manuscript at arXiv.org (2304.03240).
 * [Cellular Automata](http://mathworld.wolfram.com/CellularAutomaton.html), MathWorld.
 * [Game of Life](http://mathworld.wolfram.com/GameofLife.html), MathWorld.
-* [Cellular Automata](http://en.wikipedia.org/wiki/Cellular\_automaton), Wikipedia.
+* [Cellular Automata](http://en.wikipedia.org/wiki/Cellular\automaton), Wikipedia.
 * [_Rule 110_](http://www.wolframalpha.com/input/?i=rule+110), WolframAlpha.
-* [Game of Life](http://en.wikipedia.org/wiki/Conway's\_Game\_of\_Life), Wikipedia.
+* [Game of Life](http://en.wikipedia.org/wiki/Conway's\Game\of\Life), Wikipedia.
 * [NetLogo](http://ccl.northwestern.edu/netlogo/), an easy-to-use Java-based platform, already containing examples of CA (the pictures in this entry were generated using _NetLogo_; code available under request)
 * [MMoR](http://www.mmdr.it/provaEN.asp), contains a tutorial, simulations of a 2D/3D universal reversible automaton and further references.
 * [Santa Fe Institute](https://www.santafe.edu/), founded in 1984, the first research center on _complex systems_; it has been playing since then a prominent role in shaping the field.

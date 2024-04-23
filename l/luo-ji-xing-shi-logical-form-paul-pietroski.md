@@ -771,7 +771,7 @@ For discussions of the Davidsonian program (briefly described in [section nine](
 
 ## Other Internet Resources
 
-* [Logical Form (linguistics)](https://en.wikipedia.org/wiki/Logical\_form\_\(linguistics\)), entry on Wikipedia
+* [Logical Form (linguistics)](https://en.wikipedia.org/wiki/Logical\form\\(linguistics\)), entry on Wikipedia
 
 ## Related Entries
 

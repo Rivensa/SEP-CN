@@ -33,7 +33,7 @@ _首次发布于周四, 2022 年 4 月 14 日_
 * [1.1.2 事实](https://plato.stanford.edu/entries/causation-metaphysics/#Fact)
 * [1.1.3 变量值](https://plato.stanford.edu/entries/causation-metaphysics/#VariValu)
 * [1.1.4 粒度和因果差异](https://plato.stanford.edu/entries/causation-metaphysics/#FineGraiCausDiff)
-* [1.2 关系](https://plato.stanford.edu/entries/causation-metaphysics/#Rela\_1)
+* [1.2 关系](https://plato.stanford.edu/entries/causation-metaphysics/#Rela\1)
 * [1.2.1 实例](https://plato.stanford.edu/entries/causation-metaphysics/#Inst)
 * [1.2.2 本体论](https://plato.stanford.edu/entries/causation-metaphysics/#Arit)
 * [1.2.3 正常性](https://plato.stanford.edu/entries/causation-metaphysics/#Norm)
@@ -41,9 +41,9 @@ _首次发布于周四, 2022 年 4 月 14 日_
 * [2.1 与特定因果关系](https://plato.stanford.edu/entries/causation-metaphysics/#RelaTokeCaus)
 * [2.2 网络和组件效应](https://plato.stanford.edu/entries/causation-metaphysics/#NetCompEffe)
 * [3. 影响](https://plato.stanford.edu/entries/causation-metaphysics/#Infl)
-* [3.1 因果](https://plato.stanford.edu/entries/causation-metaphysics/#Rela\_2)
+* [3.1 因果](https://plato.stanford.edu/entries/causation-metaphysics/#Rela\2)
 * [3.2 模型](https://plato.stanford.edu/entries/causation-metaphysics/#Mode)
-* [3.3 因果关系](https://plato.stanford.edu/entries/causation-metaphysics/#RelaTokeCaus\_1)
+* [3.3 因果关系](https://plato.stanford.edu/entries/causation-metaphysics/#RelaTokeCaus\1)
 * [3.4 模型的形而上学](https://plato.stanford.edu/entries/causation-metaphysics/#MetaMode)
 * [参考文献](https://plato.stanford.edu/entries/causation-metaphysics/#Bib)
 * [学术工具](https://plato.stanford.edu/entries/causation-metaphysics/#Aca)
@@ -88,7 +88,7 @@ Lewis (1986b)提出了一个不同的事件细粒度理论。在 Lewis 的观点
 
 根据这一理解，变量的实际值只是与该命题家族中的真命题相对应。如果我们假设事实只是真命题，我们会得到这样一种观点：特定类型的事实（事实的代币因果相关物）就是事实。
 
-一般来说，似乎我们可以将任何关于特定原因和结果的现有观点转化为关于变量值的观点。例如，以金氏事件观点为例，在这个观点中，对于任何属性_F_，任何个体_a_，以及任何时间或时间间隔_t_，⟨_F_, _a_, _t_⟩都是一个事件。然后，我们可以有这样一个观点，即给定变量的每个值对应于这些金氏三元组中的一个。因此，作为因果关系的变量值的独特之处不在于个体值，而在于它们如何被打包成一个单一变量。例如，以金氏观点为出发点，我们可以有一个变量，称之为_谁偷了自行车_，其潜在值包括⟨偷了自行车，苏珊，_t_⟩和⟨偷了自行车，亚历克斯，_t_⟩。或者我们可以有一个变量，称之为_苏珊偷了什么_，其潜在值包括⟨偷了自行车，苏珊，_t_⟩和⟨偷了独木舟，苏珊，_t_⟩。还有第三个变量，称之为_苏珊对自行车做了什么_，其潜在值包括⟨偷了自行车，苏珊，_t_⟩和⟨买了自行车，苏珊，_t_⟩。现在，对于那些认为特定的因果关系是变量值的人，他们面临着一个额外的形而上学问题，这是金所不曾面对的问题，即：变量值_谁偷了自行车 =_ ⟨偷了自行车，苏珊，_t_⟩，_苏珊偷了什么 =_ ⟨偷了自行车，苏珊，_t_⟩，以及_苏珊对自行车做了什么_ = ⟨偷了自行车，苏珊，_t_⟩是同一个因果关系，还是它们是不同的？（有关这些问题的更多信息，请参见下文[§3.1](https://plato.stanford.edu/entries/causation-metaphysics/#Rela\_2)。）
+一般来说，似乎我们可以将任何关于特定原因和结果的现有观点转化为关于变量值的观点。例如，以金氏事件观点为例，在这个观点中，对于任何属性_F_，任何个体_a_，以及任何时间或时间间隔_t_，⟨_F_, _a_, _t_⟩都是一个事件。然后，我们可以有这样一个观点，即给定变量的每个值对应于这些金氏三元组中的一个。因此，作为因果关系的变量值的独特之处不在于个体值，而在于它们如何被打包成一个单一变量。例如，以金氏观点为出发点，我们可以有一个变量，称之为_谁偷了自行车_，其潜在值包括⟨偷了自行车，苏珊，_t_⟩和⟨偷了自行车，亚历克斯，_t_⟩。或者我们可以有一个变量，称之为_苏珊偷了什么_，其潜在值包括⟨偷了自行车，苏珊，_t_⟩和⟨偷了独木舟，苏珊，_t_⟩。还有第三个变量，称之为_苏珊对自行车做了什么_，其潜在值包括⟨偷了自行车，苏珊，_t_⟩和⟨买了自行车，苏珊，_t_⟩。现在，对于那些认为特定的因果关系是变量值的人，他们面临着一个额外的形而上学问题，这是金所不曾面对的问题，即：变量值_谁偷了自行车 =_ ⟨偷了自行车，苏珊，_t_⟩，_苏珊偷了什么 =_ ⟨偷了自行车，苏珊，_t_⟩，以及_苏珊对自行车做了什么_ = ⟨偷了自行车，苏珊，_t_⟩是同一个因果关系，还是它们是不同的？（有关这些问题的更多信息，请参见下文[§3.1](https://plato.stanford.edu/entries/causation-metaphysics/#Rela\2)。）
 
 这里有一个论证（改编自 Dretske 1977），即变量值_苏珊偷了什么 =_ ⟨偷了自行车，苏珊，_t_⟩和_苏珊对自行车做了什么_ = ⟨偷了自行车，苏珊，_t_⟩应该被区别对待。假设商店有防水安全措施，因此，如果苏珊偷了任何东西——无论是自行车、独木舟还是其他任何东西——她都会被逮捕。然后，考虑句子 5 和 6（在强调的词上额外加重读）。
 
@@ -382,7 +382,7 @@ X=x□→(X=x′□→Y=x)
 
 将被视为错误。(有关讨论，请参阅 Briggs 2012 年，以及 Gallow 2016 年的另一种方法。)
 
-一些人认为，为了使一个特定的因果模型正确，或者至少为了使一个因果模型为我们提供关于特定因果关系的指导，需要不止一个真实反事实家族（见[§3.3](https://plato.stanford.edu/entries/causation-metaphysics/#RelaTokeCaus\_1)）。许多人被来自[§1.2.3](https://plato.stanford.edu/entries/causation-metaphysics/#Norm)的考虑所说服，包括哪些变量值比其他变量值更正常的信息。Handfield 等人（2008）建议模型只能表示对应于“连接过程”的影响关系，这里的“连接过程”是指 Fair（1979）、Salmon（1984, 1994）或 Dowe（2000）的概念。其核心思想是：如果一个变量_X_出现在_Y_的结构方程的右侧，那么系统的某种可能状态（模型中变量的某种可能取值）必须存在这样一个连接过程，从_X_的值导向_Y_的值。
+一些人认为，为了使一个特定的因果模型正确，或者至少为了使一个因果模型为我们提供关于特定因果关系的指导，需要不止一个真实反事实家族（见[§3.3](https://plato.stanford.edu/entries/causation-metaphysics/#RelaTokeCaus\1)）。许多人被来自[§1.2.3](https://plato.stanford.edu/entries/causation-metaphysics/#Norm)的考虑所说服，包括哪些变量值比其他变量值更正常的信息。Handfield 等人（2008）建议模型只能表示对应于“连接过程”的影响关系，这里的“连接过程”是指 Fair（1979）、Salmon（1984, 1994）或 Dowe（2000）的概念。其核心思想是：如果一个变量_X_出现在_Y_的结构方程的右侧，那么系统的某种可能状态（模型中变量的某种可能取值）必须存在这样一个连接过程，从_X_的值导向_Y_的值。
 
 Woodward（2003）专注于_类型_影响系统。他提出了一系列非简约定义，共同刻画了一个变量类型_X_直接影响另一种变量类型_Y_相对于包含_X_和_Y_的变量类型集合 V 的特征。首先，我们被告知：
 
@@ -614,7 +614,7 @@ _我_ 是关于 _Y_ 的干预变量，相对于 V，当且仅当：
 ## Other Internet Resources
 
 * Menzies, Peter, 2006, “[A Structural Equations Account of Negative Causation](http://philsci-archive.pitt.edu/2962)”, PhilSci-Archive, deposited 10 October 2006.
-* Weslake, Brad, [unpublished manuscript](http://bweslake.s3.amazonaws.com/research/papers/weslake\_ac.pdf).
+* Weslake, Brad, [unpublished manuscript](http://bweslake.s3.amazonaws.com/research/papers/weslake\ac.pdf).
 * [Causality](https://en.wikipedia.org/wiki/Causality), entry in Wikipedia.
 * [Causation, Laws, etc.](https://philpapers.org/browse/causation-laws-etc), category at PhilPapers.
 * Schaffer, Jonathan, “The Metaphysics of Causation”, _Stanford Encyclopedia of Philosophy_ (Sprin 2022 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2022/entries/causation-metaphysics/](https://plato.stanford.edu/archives/spr2022/entries/causation-metaphysics/). \[This was the previous entry on this topic in the _Stanford Encyclopedia of Philosophy_ — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=causation-metaphysics).]

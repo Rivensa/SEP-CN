@@ -580,7 +580,7 @@ Tudor Baetu（2019）尝试使用炎症反应机制作为案例研究，对分�
 * [Hershey-Chase Experiment](http://highered.mheducation.com/olcweb/cgi/pluginpop.cgi?it=swf::535::535::/sites/dl/free/0072437316/120076/bio21.swf::Hershey+and+Chase+Experiment) (flash), The McGraw-Hill Companies.
 * [Sanger Method of DNA Sequencing](http://www.dnalc.org/view/15479-Sanger-method-of-DNA-sequencing-3D-animation-with-narration.html), DNA Learning Center.
 * [The Semi-Conservative Replication of DNA](https://www.ibiology.org/genetics-and-gene-regulation/semi-conservative-replication/), iBioMagazine.
-* [The Southern Blot, Medical Research Council](https://www.youtube.com/watch?v=57q\_KZdgpIw), YouTube video on the discovery of the structure of DNA.
+* [The Southern Blot, Medical Research Council](https://www.youtube.com/watch?v=57q\KZdgpIw), YouTube video on the discovery of the structure of DNA.
 
 ## Related Entries
 
@@ -589,4 +589,4 @@ Tudor Baetu（2019）尝试使用炎症反应机制作为案例研究，对分�
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 Tudor Baetu <[_Tudor-Mihai.Baetu@uqtr.ca_](mailto:Tudor-Mihai%2eBaetu%40uqtr%2eca)>\
 [Monika Piotrowska](http://www.albany.edu/philosophy/faculty.shtml#piotrowska) <[_mpiotrowska@albany.edu_](mailto:mpiotrowska%40albany%2eedu)>\
-[James Tabery](https://faculty.utah.edu/u0578517-JAMES\_TABERY/biography/index.hml)
+[James Tabery](https://faculty.utah.edu/u0578517-JAMES\TABERY/biography/index.hml)

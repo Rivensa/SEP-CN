@@ -423,7 +423,7 @@ Even a perfectly fair coin in an odd number of flips will never result in exactl
 ## Other Internet Resources
 
 * [Rudolf Carnap](http://www.carnap.org/), maintained by Douglas Marshall (University of Minnesota).
-* [Institute Vienna Circle](http://www.univie.ac.at/ivc/e\_institut/index.htm), Society for the Advancement of the Scientific World Conception, Vienna.
+* [Institute Vienna Circle](http://www.univie.ac.at/ivc/e\institut/index.htm), Society for the Advancement of the Scientific World Conception, Vienna.
 * [Willard Van Orman Quine](http://www.wvquine.org/), maintained by Douglas Boynton Quine.
 * [Archives of Scientific Philosophy](http://pitt.libguides.com/asp), Special Collections Department, University Library System, University of Pittsburgh.
 * [Vienna Circle Foundation](https://web.archive.org/web/20190607080152/https://viennacirclefoundation.nl/), to promote studies of the work of members of the Vienna Circle and to protect the Vienna Circle Archive, Amsterdam (this webpage is archived at the Internet Archive).

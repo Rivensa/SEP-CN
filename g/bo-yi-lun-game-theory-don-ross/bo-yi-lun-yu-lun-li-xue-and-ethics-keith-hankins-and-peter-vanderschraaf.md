@@ -424,7 +424,7 @@ d. 50% 阈值
 * Schelling, Thomas C., 1960, _The Strategy of Conflict_, Cambridge, MA: Harvard University Press.
 * –––, 1966, _Arms and Influence_, New Haven, CT: Yale University Press.
 * –––, 1971, “Dynamic Models of Segregation”, _The Journal of Mathematical Sociology_, 1(2): 143–186. doi:10.1080/0022250X.1971.9989794
-* Sen, Amartya, 1980, “Equality of What?”, Tanner Lectures on Human Values delivered at Stanford University 22 May 1979, collected in _Tanner Lectures on Human Values_, Sterling M. McMurrin (ed.), Cambridge: Cambridge University Press, 1980, 197–220. \[[Sen 1980 available online](https://tannerlectures.utah.edu/\_resources/documents/a-to-z/s/sen80.pdf)]
+* Sen, Amartya, 1980, “Equality of What?”, Tanner Lectures on Human Values delivered at Stanford University 22 May 1979, collected in _Tanner Lectures on Human Values_, Sterling M. McMurrin (ed.), Cambridge: Cambridge University Press, 1980, 197–220. \[[Sen 1980 available online](https://tannerlectures.utah.edu/\resources/documents/a-to-z/s/sen80.pdf)]
 * Shapley, L. S. and Martin Shubik, 1954, “A Method for Evaluating the Distribution of Power in a Committee System”, _American Political Science Review_, 48(3): 787–792. doi:10.2307/1951053
 * Skarbek, David, 2014, _The Social Order of the Underworld: How Prison Gangs Govern the American Penal System_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199328499.001.0001
 * Sidgwick, Henry, 1874 \[2011], _The Methods of Ethics_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139136617

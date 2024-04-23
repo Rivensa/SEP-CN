@@ -398,7 +398,7 @@ _首次发表于2006年7月14日；实质修订于2017年5月16日_
 
     \[[Carlyle & Caryle available online](https://archive.org/search.php?query=creator%3A%22Carlyle%2C+R.+W.+%28Robert+Warrand%29%2C+Sir%2C+1859%E2%80%931934%22)]
 * Coleman, Janet, 2000, _A History of Political Thought: From the Middle Ages to the Renaissance_, Oxford: Blackwell.
-* Gierke, Otto Friedrich von, 1900, _Political Theories of the Middle Age_, Frederic William Maitland (trans.), Cambridge: Cambridge University Press. (Often reprinted.) \[[Gierke 1900 available online](https://archive.org/details/politicaltheorie00gier\_0)]
+* Gierke, Otto Friedrich von, 1900, _Political Theories of the Middle Age_, Frederic William Maitland (trans.), Cambridge: Cambridge University Press. (Often reprinted.) \[[Gierke 1900 available online](https://archive.org/details/politicaltheorie00gier\0)]
 * Lagarde, Georges de, 1956–70, _La Naissance de l’esprit laïque au déclin du Moyen Âge_, 3rd edition, 5 vols., Louvain: E. Nauwelaerts.
 * McIlwain, Charles Howard, 1932, _The Growth of Political Thought in the West_, New York: Macmillan.
 * Miethke, Jürgen, 2000a, _De potestate papae: Die päpstliche Amtskompetenz im Widerstreit der politischen Theorie von Thomas von Aquin bis Wilhelm von Ockham_, Tübingen: Mohr Siebeck.
@@ -474,16 +474,16 @@ Note: some texts exist in bilingual Latin-English editions and are listed in the
 * Giles of Rome \[Aegidius Romanus], \[d. 1316], _De regimine principum libri III_, Frankfurt: Minerva, 1968. \[Facsimile reprint of Rome edition, 1556; also [Giles of Rome available online](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10187984-5)]
 * Goldast, Melchior, 1611–14, _Monarchia sacri Romani imperii, sive tractatus de jurisdictione imperiali seu regia et pontificia seu sacerdotali_, 3 vols., Frankfurt/Main, Hanau. \[Available online: [Goldast, vol. 1](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10491982-2), [Goldast, vol. 2](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10491983-8), and [Goldast, vol. 3](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10491987-0)]
 * Grech, Gundisalvus, 1967, _The Commentary of Peter of Auvergne on Aristotle’s “Politics”: The Inedited Part, Book III, less. I–VI. Introduction and Critical Text_, Rome: Desclée.
-* Gregory VII, 1081, “Letter to Bishop Hermann of Metz, March 15, 1081”, in Erich Caspar (ed.), 1923, _Das Register Gregors VII_, vol. 2, Berlin: Weidmann, pages 544-563 (liber VIII, n. 21). \[[Gregory VII 1081 available online](http://www.mgh.de/dmgh/resolving/MGH\_Epp.\_sel.\_2,2\_S.\_544). An [English version of this letter](http://avalon.law.yale.edu/medieval/inv14.asp) is available at the Yale Avalon project.]
+* Gregory VII, 1081, “Letter to Bishop Hermann of Metz, March 15, 1081”, in Erich Caspar (ed.), 1923, _Das Register Gregors VII_, vol. 2, Berlin: Weidmann, pages 544-563 (liber VIII, n. 21). \[[Gregory VII 1081 available online](http://www.mgh.de/dmgh/resolving/MGH\Epp.\sel.\2,2\S.\544). An [English version of this letter](http://avalon.law.yale.edu/medieval/inv14.asp) is available at the Yale Avalon project.]
 * Gregory of Rimini, \[d. 1358], _Lectura super primum et secundum sententiarum_, A. Damasus Trapp et al. (eds.), Berlin: De Gruyter, 1980.
 * Guillaume de Pierre Godin, \[1318], _The Theory of Papal Monarchy in the Fourteenth Century: Guillaume de Pierre Godin, Tractatus de causa immediata ecclesiastice potestate_, William D. McCready (ed.), Toronto: Pontifical Institute of Mediaeval Studies, 1982.
 * John of Paris, \[c. 1302], _Johannes Quidort von Paris über königliche und päpstliche Gewalt (De regia potestate et papali): Textkritische Edition mit deutscher Übersetzung_, Fritz Bleienstein (ed. and trans.), Stuttgart: Ernst Klett Verlag, 1969.
 * Jonas of Orléans, \[c. 831], _Le métier de roi_ (_De institutione regia_), Alain Dubreucq (ed.), Paris: Les Éditions du Cerf, 1995.
 * Marsilius of Padua, \[1324], _Defensor pacis_, C.W. Previte-Orton (ed.), Cambridge: Cambridge University Press, 1928.
-* –––, _Defensor pacis_, Richard Scholz (ed.), Hannover: Hahnsche Buchhandlung, 1932–33. \[[Marsilius 1932–33 available online](http://www.mgh.de/dmgh/resolving/MGH\_Fontes\_iuris\_7\_S.\_1)]
+* –––, _Defensor pacis_, Richard Scholz (ed.), Hannover: Hahnsche Buchhandlung, 1932–33. \[[Marsilius 1932–33 available online](http://www.mgh.de/dmgh/resolving/MGH\Fontes\iuris\7\S.\1)]
 * –––, _Œuvres mineures: Defensor minor, De translatione Imperii_, edited and translated with notes by Colette Jeudy and Jeannine Quillet, Paris: Éditions du Centre national de la recherche scientifique, 1979.
 * Scholz, Richard (ed.), 1903, _Die Publizistik zur Zeit Philipps des Schönen und Bonifaz’ VIII.: Ein Beitrag zur Geschichte der politischen Anschauungen des Mittelalters_, Stuttgart: Verlag von Ferdinand Enke. \[[Scholz 1903 available online](https://archive.org/details/diepublizistikz00schogoog)]
-* Vázquez de Menchaca, Fernando, 1572 \[post.], _Controversiarum illustrium aliarumque usu frequentium libri tres_, Frankfurt. \[[Vázquez de Menchaca 1572 available online](http://daten.digitale-sammlungen.de/\~db/0009/bsb00090821/image\_1)]
+* Vázquez de Menchaca, Fernando, 1572 \[post.], _Controversiarum illustrium aliarumque usu frequentium libri tres_, Frankfurt. \[[Vázquez de Menchaca 1572 available online](http://daten.digitale-sammlungen.de/\~db/0009/bsb00090821/image\1)]
 * William of Ockham, 1956–, _Opera politica_, H.S. Offler et al. (eds.), 5 vols. (to date), Manchester: Manchester University Press (vols. 1–3) / Oxford: Oxford University Press for the British Academy (vols. 4 and 8).
 
 ### General Bibliography
@@ -566,7 +566,7 @@ Note: some texts exist in bilingual Latin-English editions and are listed in the
 * –––, 1998, “Hierarchy in the Later Middle Ages: Criticism and Change”, in O.G. Oexle and J. Canning (eds.), _Political Thought and the Realities of Power in the Middle Ages_, pp. 113–26. Gottingen: Vandenhoeck and Ruprecht.
 * –––, 2003, “Hierarchy”, in McGrade 2003: 60–72.
 * Luscombe, D.E. and Evans, G.R., 1988, “The Twelfth-Century Renaissance”, in Burns 1988: 306–40.
-* Luther, Martin, \[1539] 1915, “Preface to the First Part of his German Works”, in _Works of Martin Luther_, Henry Eyster Jacobs and Adolph Spaeth (trans.), Philadelphia: Holman. \[[Luther 1539 available online](https://en.wikisource.org/wiki/Works\_of\_Martin\_Luther,\_with\_introductions\_and\_notes,\_Volume\_1/Luther's\_Prefaces)]
+* Luther, Martin, \[1539] 1915, “Preface to the First Part of his German Works”, in _Works of Martin Luther_, Henry Eyster Jacobs and Adolph Spaeth (trans.), Philadelphia: Holman. \[[Luther 1539 available online](https://en.wikisource.org/wiki/Works\of\Martin\Luther,\with\introductions\and\notes,\Volume\1/Luther's\Prefaces)]
 * MacQueen, D.J., 1972, “St. Augustine’s Concept of Property”, _Recherches augustiniennes_, 8: 187–229.
 * Magee, John, 2010, “Boethius”, in Gerson 2010: 788–812.
 * Mäkinen, Virpi, 2001, _Property Rights in the Late Medieval Discussion on Franciscan Poverty_, Leuven: Peeters.
@@ -644,7 +644,7 @@ Note: some texts exist in bilingual Latin-English editions and are listed in the
 * Saenger, Paul, 1981, “John of Paris, Principal Author of the _Quaestio de potestate papae_ \[_Rex pacificus_]”, _Speculum_, 56: 41–55.
 * Schütrumpf, Eckart, 2014, _The Earliest Translations of Aristotle’s “Politics” and the Creation of Political Terminology_, Paderborn: Wilhelm Fink.
 * Schwartz, Daniel, 2008, “Francisco Suárez on Consent and Political Obligation”, _Vivarium_, 46: 59–81. doi:10.1163/156853408X252768
-* Seneca, \[c. 60 CE], _Ad Lucilium epistulae morales_, Richard M. Gummere (ed. and trans.), 3 vols., London: William Heinemann, 1917–25. \[Available online: [Seneca, vol. 1](https://archive.org/details/L075SenecaTheYoungerIVEpistulaeMoralesI140), [Seneca, vol. 2](https://archive.org/details/L076SenecaTheYoungerEpistulaeMoralesV6692), and [Seneca, vol. 3](https://archive.org/details/L077SenecaVIEpistles93124); also online [Seneca, Letter 90](https://en.wikisource.org/wiki/Moral\_letters\_to\_Lucilius/Letter\_90)]
+* Seneca, \[c. 60 CE], _Ad Lucilium epistulae morales_, Richard M. Gummere (ed. and trans.), 3 vols., London: William Heinemann, 1917–25. \[Available online: [Seneca, vol. 1](https://archive.org/details/L075SenecaTheYoungerIVEpistulaeMoralesI140), [Seneca, vol. 2](https://archive.org/details/L076SenecaTheYoungerEpistulaeMoralesV6692), and [Seneca, vol. 3](https://archive.org/details/L077SenecaVIEpistles93124); also online [Seneca, Letter 90](https://en.wikisource.org/wiki/Moral\letters\to\Lucilius/Letter\90)]
 * Shogimen, Takashi, 2007, _Ockham and Political Discourse in the Late Middle Ages_, Cambridge: Cambridge University Press.
 * Sidgwick, Henry, 1907, _The Methods of Ethics_, London: Macmillan. \[[Sidgwick 1907 available online](https://archive.org/details/methodsethics03sidggoog)]
 * Smalley, Beryl, 1960, _English Friars and Antiquity in the Early Fourteenth Century_, Oxford: Basil Blackwell.
@@ -684,7 +684,7 @@ Note: some texts exist in bilingual Latin-English editions and are listed in the
 
 * **Bible**
   * [Douai-Rheims Bible](http://www.drbo.org/) (links in the article are to this site)
-  * [_Nova Vulgata_](http://www.vatican.va/archive/bible/nova\_vulgata/documents/nova-vulgata\_index\_lt.html), Latin text of the Vulgate Bible
+  * [_Nova Vulgata_](http://www.vatican.va/archive/bible/nova\vulgata/documents/nova-vulgata\index\lt.html), Latin text of the Vulgate Bible
 * **Texts and Translations from** [**New Advent**](http://www.newadvent.org/)
   * Augustine:
     * [_The City of God_](http://www.newadvent.org/fathers/1201.htm) (tr. Marcus Dodds)
@@ -713,26 +713,26 @@ Note: some texts exist in bilingual Latin-English editions and are listed in the
   * [Monumenta Germaniae Historica](http://www.dmgh.de/) provides free access to texts edited in this venerable series
   * J.P. Migne, _Patrologiae cursus completus_, [_Series latina_](http://patristica.net/latina/) and [_Series graeca_](http://patristica.net/graeca/)
   * William of Ockham’s [_Dialogus_](http://www.britac.ac.uk/pubs/dialogus/), Contains other useful scholarly articles and resources
-  * [Petrus de Alvernia](https://web.archive.org/web/20210227025834/http://www.paleography.unifr.ch/petrus\_de\_alvernia/), archive of a website at the University of Freiburg, devoted to the life and works of Peter of Auvergne, at the Internet Archive.
+  * [Petrus de Alvernia](https://web.archive.org/web/20210227025834/http://www.paleography.unifr.ch/petrus\de\alvernia/), archive of a website at the University of Freiburg, devoted to the life and works of Peter of Auvergne, at the Internet Archive.
 * **Resources relating to Roman law and legal history:**
   * [Roman Law Resources](http://www.iuscivile.com/), Hosted by Ernest Metzger; contains many useful items, including [important corrections and comments on the English language translation of the _Digest_](http://www.iuscivile.com/materials/digest/)
   * Fred H. Blume’s translations and annotations to the _Code_ and _Novels_ of Justinian. (This translation is the basis for the recent translation from Cambridge University Press)
     * [_Code_](http://www.uwyo.edu/lawlib/blume-justinian/ajc-edition-2/)
     * [_Novels_](http://www.uwyo.edu/lawlib/justinian-novels/)
-* S.P. Scott, [_The Civil Law_](https://droitromain.univ-grenoble-alpes.fr/Anglica/codjust\_Scott.htm) in 17 volumes. Includes translations of Justinian’s _Institutes_, _Digest_, _Code_, and _Novels_. This translation should be used with caution.
+* S.P. Scott, [_The Civil Law_](https://droitromain.univ-grenoble-alpes.fr/Anglica/codjust\Scott.htm) in 17 volumes. Includes translations of Justinian’s _Institutes_, _Digest_, _Code_, and _Novels_. This translation should be used with caution.
 * **Resources relating to canon law and legal history:**
   * Kenneth Pennington, [A Short History of Canon Law from Apostolic Times to 1917](http://legalhistorysources.com/Canon%20Law/ShortHistoryCanonLaw.htm)
   * Kenneth Pennington, [Medieval and Early Modern Jurists: A Bio-Bibliographical Listing](http://legalhistorysources.com/biobibl.htm), An extremely rich resource
   * Bruce Brasington and Martin Brett, [Provisional Edition of Ivo of Chartres’ _Panormia_](http://www.wtamu.edu/\~bbrasington/panormia.html)
-  * [Projekt Pseudoisidor](http://www.pseudoisidor.mgh.de/html/uberblick\_uber\_die\_falschungen.HTM), Contains a working edition of the text and extensive bibliography (last updated in 2006)
+  * [Projekt Pseudoisidor](http://www.pseudoisidor.mgh.de/html/uberblick\uber\die\falschungen.HTM), Contains a working edition of the text and extensive bibliography (last updated in 2006)
   * Anders Winroth et al., [_Decretum Gratiani_: First Recension](https://sites.google.com/a/yale.edu/decretumgratiani/)
-* [**Wikipedia**](https://en.wikipedia.org/wiki/Main\_Page) articles \[_Note:_ Wikipedia articles change frequently, and such changes are not subject to formal academic peer review.]
-  * [Carolingian Renaissance](http://en.wikipedia.org/wiki/Carolingian\_Renaissance)
-  * [Holy Roman Empire](http://en.wikipedia.org/wiki/Holy\_Roman\_Empire)
+* [**Wikipedia**](https://en.wikipedia.org/wiki/Main\Page) articles \[_Note:_ Wikipedia articles change frequently, and such changes are not subject to formal academic peer review.]
+  * [Carolingian Renaissance](http://en.wikipedia.org/wiki/Carolingian\Renaissance)
+  * [Holy Roman Empire](http://en.wikipedia.org/wiki/Holy\Roman\Empire)
   * [Pseudo-Isidore](http://en.wikipedia.org/wiki/Pseudo-Isidore)
-  * [Renaissance of the 12th Century](http://en.wikipedia.org/wiki/Renaissance\_of\_the\_12th\_century)
-  * [Douai Bible](http://en.wikipedia.org/wiki/Douai\_Bible)
-  * [Medieval University](http://en.wikipedia.org/wiki/Medieval\_university)
+  * [Renaissance of the 12th Century](http://en.wikipedia.org/wiki/Renaissance\of\the\12th\century)
+  * [Douai Bible](http://en.wikipedia.org/wiki/Douai\Bible)
+  * [Medieval University](http://en.wikipedia.org/wiki/Medieval\university)
   * [Vulgate](http://en.wikipedia.org/wiki/Vulgate)
 * _**Catholic Encyclopedia**_** articles hosted on New Advent:**
   * [Collections of Ancient Canons](http://www.newadvent.org/cathen/03281a.htm) (Jules Besson)
@@ -746,8 +746,8 @@ Note: some texts exist in bilingual Latin-English editions and are listed in the
   * [William of Moerbeke](http://www.newadvent.org/cathen/15634a.htm) (M. DeWulf)
 * John Kilcullen has some useful articles and translations (archived by Pandora):
   * “[The right to live under government](http://pandora.nla.gov.au/pan/98441/20090504-1534/www.humanities.mq.edu.au/Ockham/HelsinkiB.html#mozTocId915246)”
-  * [Politics, Philosophy and Medieval Studies](http://pandora.nla.gov.au/pan/98441/20120720-1041/www.mq.edu.au/about\_us/faculties\_and\_departments/faculty\_of\_arts/mhpir/politics\_and\_international\_relations/staff/john\_kilcullen/)
-  * [Philosophy, religion and political thought in medieval Islam](http://pandora.nla.gov.au/pan/98441/20120720-1041/www.mq.edu.au/about\_us/faculties\_and\_departments/faculty\_of\_arts/mhpir/politics\_and\_international\_relations/staff/john\_kilcullen/philosophy\_religion\_and\_political\_thought\_in\_medieval\_islam/)
+  * [Politics, Philosophy and Medieval Studies](http://pandora.nla.gov.au/pan/98441/20120720-1041/www.mq.edu.au/about\us/faculties\and\departments/faculty\of\arts/mhpir/politics\and\international\relations/staff/john\kilcullen/)
+  * [Philosophy, religion and political thought in medieval Islam](http://pandora.nla.gov.au/pan/98441/20120720-1041/www.mq.edu.au/about\us/faculties\and\departments/faculty\of\arts/mhpir/politics\and\international\relations/staff/john\kilcullen/philosophy\religion\and\political\thought\in\medieval\islam/)
 * Jonathan Robinson maintains some translations of medieval texts on his [website](http://individual.utoronto.ca/jwrobinson/#Translations) which pertain to medieval political thought and the Franciscan poverty controversy
 
 Please contact the authors with other suggestions.

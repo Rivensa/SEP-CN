@@ -532,11 +532,11 @@ Finally, there is an open-source e-book that contains a presentation of the inco
 ## Bibliography
 
 * Auerbach, David, 1985, “Intensionality and the Gödel theorems,” _Philosophical Studies_, 48 (3):337–51.
-* –––, 1992, “How to say things with formalisms,” in _Proof, Logic, and Formalization_, M. Detlefsen (ed.), London: Routledge, 77–93 \[[available online](https://www.academia.edu/1861652/How\_to\_Say\_Things\_With\_Formalisms)].
-* Awodey, S. & A.W. Carus, 2003, “Carnap versus Gödel on Syntax and Tolerance,” in _Logical Empiricism: Historical and Contemporary Perspectives_, P. Parrini et al. (eds.), Pittsburgh: University of Pittsburgh Press, pp. 57–64 \[[available online](https://www.cmu.edu/dietrich/philosophy/docs/tech-reports/106\_Awodey.pdf)].
-* –––, 2004, “How Carnap Could Have Replied to Gödel,” in S. Awodey and C. Klein (eds.), _Carnap Brought Home: The View from Jena_, LaSalle, IL: Open Court, pp. 203–223 \[[available online](https://www.cmu.edu/dietrich/philosophy/docs/tech-reports/123\_Awodey.pdf)].
+* –––, 1992, “How to say things with formalisms,” in _Proof, Logic, and Formalization_, M. Detlefsen (ed.), London: Routledge, 77–93 \[[available online](https://www.academia.edu/1861652/How\to\Say\Things\With\Formalisms)].
+* Awodey, S. & A.W. Carus, 2003, “Carnap versus Gödel on Syntax and Tolerance,” in _Logical Empiricism: Historical and Contemporary Perspectives_, P. Parrini et al. (eds.), Pittsburgh: University of Pittsburgh Press, pp. 57–64 \[[available online](https://www.cmu.edu/dietrich/philosophy/docs/tech-reports/106\Awodey.pdf)].
+* –––, 2004, “How Carnap Could Have Replied to Gödel,” in S. Awodey and C. Klein (eds.), _Carnap Brought Home: The View from Jena_, LaSalle, IL: Open Court, pp. 203–223 \[[available online](https://www.cmu.edu/dietrich/philosophy/docs/tech-reports/123\Awodey.pdf)].
 * Barzin, M., 1940, “Sur la portée du théorème de M. Gödel,” _Académie Royale de Belgique, Bulletin de la Classe des Sciences_, Series 5, 26: 230–39.
-* Benacerraf, P., 1967, “God, the Devil, and Gödel,” _The Monist_, 51: 9–32 \[[available online](http://www2.units.it/etica/2003\_1/3\_monographica.htm)].
+* Benacerraf, P., 1967, “God, the Devil, and Gödel,” _The Monist_, 51: 9–32 \[[available online](http://www2.units.it/etica/2003\1/3\monographica.htm)].
 * Bezboruah, A. and J.C. Shepherdson, 1976, “Gödel’s Second Incompleteness Theorem for Q,” _The Journal of Symbolic Logic_, 41: 503–512.
 * Boolos, G., 1968, “Review of ‘Minds, Machines and Gödel’, by J.R. Lucas, and ‘God, the Devil, and Gödel’,” _Journal of Symbolic Logic_, 33: 613–15.
 * –––, 1990, “On ‘Seeing’ the Truth of Gödel Sentence,” _Behavioral and Brain Sciences_, 13: 655–656.

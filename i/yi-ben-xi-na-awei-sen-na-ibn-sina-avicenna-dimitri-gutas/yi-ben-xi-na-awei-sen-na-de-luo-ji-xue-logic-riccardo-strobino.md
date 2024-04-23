@@ -872,7 +872,7 @@ ignoratio elenchi 的情况更加棘手。Nağāt 列表中最后一个可用的
 * Inati, Shams C., 1984a, _Ibn Sīnā. Remarks and Admonitions, Part One: Logic_, Toronto: Pontifical Institute of Mediaeval Studies.
 * –––, 1984b, “Ibn Sīnā on Single Expressions”, in _Islamic Theology and Philosophy, Studies in Honor of George F. Hourani_, Michael E. Marmura (ed.), Albany, NY: State University of New York Press, pp. 148–159.
 * Kalbarczyk, Alexander, 2012, “The _Kitāb al-Maqūlāt_ of the _Muḫtaṣar al-awsaṭ fī l-manṭiq_: A Hitherto Unknown Source for Studying Ibn Sīnā’s Reception of Aristotle’s _Categories_”, _Oriens_ 40(2): 305–354. doi:10.1163/18778372-00402006
-* Karimullah, Kamran I., 2014a, _Avicenna (d. 1037), Logical Theory and the Aristotelian Tradition_, Ph.D dissertation, The Institute of Islamic Studies, McGill University. \[[Karimullah 2014a available online](http://digitool.library.mcgill.ca/webclient/StreamGate?folder\_id=0\&dvs=1527708554990\~648)]
+* Karimullah, Kamran I., 2014a, _Avicenna (d. 1037), Logical Theory and the Aristotelian Tradition_, Ph.D dissertation, The Institute of Islamic Studies, McGill University. \[[Karimullah 2014a available online](http://digitool.library.mcgill.ca/webclient/StreamGate?folder\id=0\&dvs=1527708554990\~648)]
 * –––, 2014b, “Alfarabi on Conditionals”, _Arabic Sciences and Philosophy_, 24(2): 211–267. doi:10.1017/S0957423914000022
 * Lagerlund, Henrik, 2009, “Avicenna and Ṭūsī on Modal Logic”, _History and Philosophy of Logic_, 30(3): 227–239. doi:10.1080/01445340802518119
 * Lameer, Joep, 2006, _Conception and Belief in Ṣadr al-Dīn Shīrāzī_, Tehran: Iranian Institute of Philosophy.

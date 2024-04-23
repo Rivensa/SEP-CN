@@ -378,7 +378,7 @@ See _CompLogic_, above.
 
 The Arabic is not extant, but there is a translation in Hebrew:
 
-_Commentarium medium in Porphyrii Isagogen et Aristotelis Categorias_, ed. Herbert A. Davidson (Cambridge, MA: Mediaeval Academy of America, 1969), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_In%20Isagogen%20et%20Categorias\_Medium\_hebrew.pdf).
+_Commentarium medium in Porphyrii Isagogen et Aristotelis Categorias_, ed. Herbert A. Davidson (Cambridge, MA: Mediaeval Academy of America, 1969), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\In%20Isagogen%20et%20Categorias\Medium\hebrew.pdf).
 
 And in Latin:
 
@@ -448,7 +448,7 @@ Available in multiple Arabic editions, including
 
 _Talkhīṣ Kitāb al-Burhān_, ed. Mahmūd Qāsim (Cairo: al-Haya al-ʿĀmma li al-Kitāb, 1982).
 
-No modern translation has been made, but there is a Latin translation in [Junta 1562 vol. 1 pt. 2b](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Logica\_JuntSecunda\_01-3.pdf).
+No modern translation has been made, but there is a Latin translation in [Junta 1562 vol. 1 pt. 2b](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Logica\JuntSecunda\01-3.pdf).
 
 **Long Commentary** (after 1186)
 
@@ -458,7 +458,7 @@ _Sharḥ al-Burhān li-Arisṭū wa-Talkhīṣ al-Burhān_, ed. ʿAbd al-Raḥm�
 
 The complete Hebrew translation has been transcribed [online](https://dare.uni-koeln.de/app/fulltexts/FT114).
 
-No modern translation has been made, but three Latin translations, each based on an earlier, complete Hebrew translation, are printed in [Junta 1562 vol. 1 pt. 2a](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Logica\_JuntSecunda\_01-2a.Long%20Post%20An.pdf).
+No modern translation has been made, but three Latin translations, each based on an earlier, complete Hebrew translation, are printed in [Junta 1562 vol. 1 pt. 2a](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Logica\JuntSecunda\01-2a.Long%20Post%20An.pdf).
 
 _References are to (book.comment) of the Junta edition, plus {Arabic page}._
 
@@ -474,7 +474,7 @@ Available in multiple Arabic editions, including
 
 _Commentarium Medium in Aristotelis Topica_, ed. Charles E. Butterworth and Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1979).
 
-No modern translation, but a Latin translation is available in [Junta 1562 vol. 1 pt. 3](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Logica\_JuntSecunda\_01-3.pdf).
+No modern translation, but a Latin translation is available in [Junta 1562 vol. 1 pt. 3](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Logica\JuntSecunda\01-3.pdf).
 
 _References are to the Latin (book.page {Arabic page})._
 
@@ -490,7 +490,7 @@ Available in multiple Arabic editions, including
 
 _Talkhīs al-Safsaṭa,_ ed. M. Salīm Sālim (Cairo: Dār al-Kutub, 1973).
 
-No modern translation, but a Latin translation is available in [Junta 1562 vol. I pt. 3](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Logica\_JuntSecunda\_01-3.pdf).
+No modern translation, but a Latin translation is available in [Junta 1562 vol. I pt. 3](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Logica\JuntSecunda\01-3.pdf).
 
 _**Rhetoric**_
 
@@ -554,7 +554,7 @@ _Min Talkhīṣ al-Samāʿ al-ṭabīʿi: Taqsīm al-Samāʿ al-ṭabīʿi_, ed.
 
 **Long Commentary** (1186)
 
-Not extant in Arabic. A Hebrew translation survives but is not yet edited (save for the edition with translation in Harvey 1985 of the important proem). The Latin translation is available in Iunta 1562, vol. 4, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Physica\_JuntSecunda\_04.pdf). The Latin text of Book VII is available in a modern edition:
+Not extant in Arabic. A Hebrew translation survives but is not yet edited (save for the edition with translation in Harvey 1985 of the important proem). The Latin translation is available in Iunta 1562, vol. 4, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Physica\JuntSecunda\04.pdf). The Latin text of Book VII is available in a modern edition:
 
 _Commentarium Magnum In Aristotelis Physicorum Librum Septimum (Vindobonensis \[Vienna] lat. 2334)_, ed. H. Schmieja (Paderborn, 2006), [available online](https://dare.uni-koeln.de/app/fulltexts/FT14).
 
@@ -578,7 +578,7 @@ Extant in Arabic:
 
 _Talkhīṣ al-Samāʾ wa-l-ʿālam_, ed. Jamāl al-Dīn al-ʿAlawī (Fes: Faculté des Lettres, 1984), [available online](https://dare.uni-koeln.de/app/fulltexts/FT109).
 
-There is no modern translation, but there is a Latin version in [Iunta 1962, vol. 5](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_DC\_DGC\_M\_JuntSecunda\_05.pdf).
+There is no modern translation, but there is a Latin version in [Iunta 1962, vol. 5](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\DC\DGC\M\JuntSecunda\05.pdf).
 
 **Long Commentary** (1188)
 
@@ -632,7 +632,7 @@ Extant in Arabic:
 
 _Talkhīṣ al-Āthār al-ʿulwiyya_, ed. Jamāl-al-Dīn alʿAlawī (Beirut: Dār al-Gharb al-Islāmī, 1994).
 
-Translated into Latin in Junta 1962, vol. 5, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_DC\_DGC\_M\_JuntSecunda\_05.pdf).
+Translated into Latin in Junta 1962, vol. 5, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\DC\DGC\M\JuntSecunda\05.pdf).
 
 _**De anima**_
 
@@ -658,7 +658,7 @@ _Middle Commentary on Aristotle’s De Anima_, ed. and tr. A. L. Ivry (Provo, UT
 
 Survives only in Latin:
 
-_Averrois Cordubensis Commentarium magnum in Aristotelis De anima libros_, ed. F. S. Crawford (Cambridge, MA: Medieval Academy of America, 1953), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_DeAnima\_Crawford.pdf).
+_Averrois Cordubensis Commentarium magnum in Aristotelis De anima libros_, ed. F. S. Crawford (Cambridge, MA: Medieval Academy of America, 1953), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\DeAnima\Crawford.pdf).
 
 An English translation carefully compares the Latin with surviving Arabic fragments:
 
@@ -682,7 +682,7 @@ _**De animalibus**_
 
 **Paraphrase** (1170)
 
-Extant in Latin and Hebrew, and covering only the _Parts of Animals_ and the _Generation of Animals_. Only the Latin has been edited, in volume 6 of the 1562 Junta edition, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Animalia\_JuntSecunda\_06.pdf).
+Extant in Latin and Hebrew, and covering only the _Parts of Animals_ and the _Generation of Animals_. Only the Latin has been edited, in volume 6 of the 1562 Junta edition, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Animalia\JuntSecunda\06.pdf).
 
 _**Metaphysics**_
 
@@ -724,7 +724,7 @@ And a French translation of books I, II, IV, and VI:
 
 _Traduction commentée du Grand commentaire d’ Averroès aux livres petit Alpha, grand Alpha, Gamma et Epsilon de la Métaphysique d’ Aristote_, tr. Karim Kaddour (Paris: Université Panthéon- Sorbonne - Paris I, 2018).
 
-For the remainder, there is a Latin translation, in Junta 1562 vol. 8, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Metaphysica\_JuntSecunda\_08.pdf).
+For the remainder, there is a Latin translation, in Junta 1562 vol. 8, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Metaphysica\JuntSecunda\08.pdf).
 
 _References are to (book.comment {Arabic page})_.
 
@@ -736,7 +736,7 @@ The Arabic is not extant, but the work has survived in Hebrew:
 
 _The Hebrew Version of Averroes’ Middle Commentary on Aristotle’s_ Nicomachean Ethics, ed. Lawrence V. Berman (Jerusalem: Israel Academy of Sciences and Humanities, 1999).
 
-An independent Latin translation, printed in Junta 1562 vol. 3, is [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Moralia\_JuntSecunda\_03.pdf). A modern edition of Book X of the Latin translation has made been, along with a French translation:
+An independent Latin translation, printed in Junta 1562 vol. 3, is [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Moralia\JuntSecunda\03.pdf). A modern edition of Book X of the Latin translation has made been, along with a French translation:
 
 _Le plaisir, le bonheur, et l’acquisition des vertus: édition du Livre x du Commentaire moyen d’Averroès à l’Éthique à Nicomaque d’Aristote_, ed. and tr. Frédérique Woerther (Leiden: Brill, 2018).
 
@@ -764,7 +764,7 @@ _Al-Kulliyyāt fī al-ṭibb_, ed. Murād Maḥfūẓ et al., with an introducti
 
 The Latin (_Colliget_), which translates a significantly revised version of the text, is found in
 
-Iunta 1562, vol. 10, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Colliget\_JuntSecunda\_10.pdf).
+Iunta 1562, vol. 10, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Colliget\JuntSecunda\10.pdf).
 
 It is also available in a modern Spanish translation:
 
@@ -804,7 +804,7 @@ The material on assertoric propositions has been translated:
 
 Nicholas Rescher, “Averroes’ _Quaesitum_ on Assertoric (Absolute) Propositions,” _Journal of the History of Philosophy_ 1 (1963) 80–93.
 
-A lengthy collection of these questions is also available in Latin, in Junta 1562 vol. 1 pt. 2b, ff. 75v–119v, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_Logica\_JuntSecunda\_01-3.pdf).
+A lengthy collection of these questions is also available in Latin, in Junta 1562 vol. 1 pt. 2b, ff. 75v–119v, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Logica\JuntSecunda\01-3.pdf).
 
 _**Questiones on Physics**_
 
@@ -832,7 +832,7 @@ _**De substantia orbis**_ (1178–9)
 
 This collection of six short treatises on cosmology and metaphysics is extant in Hebrew and has been translated:
 
-_De substantia orbis: Critical Edition of the Hebrew Text with English Translation and Commentary_, ed. Arthur Hyman (Cambridge, MA: Medieval Academy of America, 1986), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\_De%20substantia%20orbis\_Hyman.pdf).
+_De substantia orbis: Critical Edition of the Hebrew Text with English Translation and Commentary_, ed. Arthur Hyman (Cambridge, MA: Medieval Academy of America, 1986), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\De%20substantia%20orbis\Hyman.pdf).
 
 _References are to (treatise.page) of the translation._
 

@@ -389,7 +389,7 @@ _Corpus Medicorum Graecorum_, various editors, Leipzig: Teubner, and Berlin: Aka
 _C. Galeni Opera Omnia_, ed. C.G. Kühn, 20 volumes, Leipzig: C. Cnoblochii, 1821–33, repr. Hildesheim: Georg Olms, 1964–65; [Kühn available online](http://www.biusante.parisdescartes.fr/histoire/medica/resultats/?intro=galien\&statut=charge\&fille=o\&cotemere=45674).
 
 \[**SM**]\
-_C. Galeni Pergameni Scripta Minora_, ed. J. Marquardt, I. Müller and G. Helmreich, 3 volumes, Leipzig: Teubner, 1884–93; [SM available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben\_galen.html).
+_C. Galeni Pergameni Scripta Minora_, ed. J. Marquardt, I. Müller and G. Helmreich, 3 volumes, Leipzig: Teubner, 1884–93; [SM available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben\galen.html).
 
 **A.1.2 Collections of Translations**
 
@@ -429,7 +429,7 @@ _Commentary on Hippocrates’ “Nature of the Human Being”_ (_In Hippocratis 
 _Avoiding Distress_ (_De indolentia_), ed. and French trans. V. Boudon-Millot and J. Jouanna, with A. Pietrobelli, _Galien: Oeuvres_, IV, Paris: Les Belles Lettres, 2010; English trans. by V. Nutton in Singer 2013.
 
 \[_**Inst. Log.**_]\
-_Introduction to Logic_ (_Institutio logica_), ed. K. Kalbfleisch, Leipzig: Teubner, 1896, [Inst. Log. available online](http://cmg.bbaw.de/epubl/online/wa\_galen\_inst\_log.php); English trans. J. S. Kieffer, _Galen’s Institutio Logica_, Baltimore, 1964.
+_Introduction to Logic_ (_Institutio logica_), ed. K. Kalbfleisch, Leipzig: Teubner, 1896, [Inst. Log. available online](http://cmg.bbaw.de/epubl/online/wa\galen\inst\log.php); English trans. J. S. Kieffer, _Galen’s Institutio Logica_, Baltimore, 1964.
 
 \[_**Lib. Prop.**_]\
 _My Own Books_ (_De libris propriis_, ed. and French trans. V. Boudon-Millot in _Galien: Oeuvres_, I, Paris: Les Belles Lettres, 2007; English trans. in Singer 1997a.
@@ -487,10 +487,10 @@ _The Powers of Simple Drugs_ (_De simplicium medicamentorum temperamentis ac fac
 _The Causes of Symptoms_, ed. Kühn VII, pp. 85–272.
 
 \[_**Temp.**_]\
-_Mixtures_ (_De temperamentis_), ed. G. Helmreich, Teubner, 1904, \[[_Temp._ available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben\_galen.html)]. English trans. in Singer 1997a and Singer and van der Eijk 2013.
+_Mixtures_ (_De temperamentis_), ed. G. Helmreich, Teubner, 1904, \[[_Temp._ available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben\galen.html)]. English trans. in Singer 1997a and Singer and van der Eijk 2013.
 
 \[_**UP**_]\
-_The Function of the Parts of the Body_ (_De usu partium_), ed. G. Helmreich, Teubner, 1907–9, \[[_UP_ available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben\_galen.html)]; English trans. M.T. May, _Galen on the Usefulness of the Parts of the Body_, Ithaca, N.Y.: Cornell University Press, 1968.
+_The Function of the Parts of the Body_ (_De usu partium_), ed. G. Helmreich, Teubner, 1907–9, \[[_UP_ available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben\galen.html)]; English trans. M.T. May, _Galen on the Usefulness of the Parts of the Body_, Ithaca, N.Y.: Cornell University Press, 1968.
 
 ### B. Secondary literature
 

@@ -399,7 +399,7 @@ MC_d_-separation 引入了_d_-分离的图形概念。如上所述，从_X_到_Y
 
 图 6
 
-在[图 6](https://plato.stanford.edu/entries/causal-models/#fig6)，MC 意味着_X_将_Y_与所有其他变量隔离开来，_W_将_Z_与所有其他变量隔离开来。这最容易从 MCScreening\_off 中看出。_W_还将_T_与所有其他变量隔离开来，这最容易从 MC_d\-separation 中看出。_T_不一定将_Y_与_Z_隔离开来（或者实际上是任何东西与任何东西隔离开来）。
+在[图 6](https://plato.stanford.edu/entries/causal-models/#fig6)，MC 意味着_X_将_Y_与所有其他变量隔离开来，_W_将_Z_与所有其他变量隔离开来。这最容易从 MCScreening\off 中看出。_W_还将_T_与所有其他变量隔离开来，这最容易从 MC_d\-separation 中看出。_T_不一定将_Y_与_Z_隔离开来（或者实际上是任何东西与任何东西隔离开来）。
 
 ![图 X 有一个指向东北的箭头指向 Y，Z 有一个指向同一个 Y 的西北箭头](https://plato.stanford.edu/entries/causal-models/fig7.svg)
 
@@ -551,7 +551,7 @@ Xi=fi(PA(Xi),Ui)。
 
 图 9
 
-如果存在潜在的共同原因，我们期望如果我们以天真的方式应用它们，MCScreening\_off 和 MCFactorization 将会失败。在 [图 9](https://plato.stanford.edu/entries/causal-models/#fig9) 中，_Y_ 是图中显示的 _Z_ 的唯一父节点，如果我们尝试应用 MCScreening\_off，它告诉我们 _Y_ 应该将 _X_ 屏蔽掉 _Z_。然而，由于潜在的共同原因，即使在我们对 _Y_ 进行条件设定时，我们期望 _X_ 和 _Z_ 也会相关。问题在于图中缺少 _Z_ 的一个相关父节点，即被省略的共同原因。然而，假设在 {L,X,Y,Z} 上的概率分布满足包括 _L_ 作为 _X_ 和 _Z_ 的共同原因的 DAG 的 MC。那么结果表明，概率分布仍然会满足相对于图 9 的 ADMG 的 MC_d\-separation。包含 ADMG 和满足 MC_d\-separation 的概率分布的因果模型被称为_半马尔可夫因果模型_（SMCM）。
+如果存在潜在的共同原因，我们期望如果我们以天真的方式应用它们，MCScreening\off 和 MCFactorization 将会失败。在 [图 9](https://plato.stanford.edu/entries/causal-models/#fig9) 中，_Y_ 是图中显示的 _Z_ 的唯一父节点，如果我们尝试应用 MCScreening\off，它告诉我们 _Y_ 应该将 _X_ 屏蔽掉 _Z_。然而，由于潜在的共同原因，即使在我们对 _Y_ 进行条件设定时，我们期望 _X_ 和 _Z_ 也会相关。问题在于图中缺少 _Z_ 的一个相关父节点，即被省略的共同原因。然而，假设在 {L,X,Y,Z} 上的概率分布满足包括 _L_ 作为 _X_ 和 _Z_ 的共同原因的 DAG 的 MC。那么结果表明，概率分布仍然会满足相对于图 9 的 ADMG 的 MC_d\-separation。包含 ADMG 和满足 MC_d\-separation 的概率分布的因果模型被称为_半马尔可夫因果模型_（SMCM）。
 
 如果我们允许正确的因果图可能是 ADMG，我们仍然可以应用 MC_d_-separation，并询问哪些图暗示相同的条件独立关系集。马尔可夫等价类将比我们不考虑潜在变量时更大。例如，假设在 {X,Y,Z} 上的概率分布具有以下特征：
 

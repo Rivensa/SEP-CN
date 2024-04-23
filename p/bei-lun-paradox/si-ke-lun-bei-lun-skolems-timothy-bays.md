@@ -335,7 +335,7 @@ Button（2011）认为，尽管这种技术批评对于明确引用下降的 Lö
 
 * [The Löwenheim-Skolem Theorems](http://www.earlham.edu/\~peters/courses/logsys/low-skol.htm), by Peter Suber.
 * [Skolem's Paradox up close and personal](http://boole.stanford.edu/skolem/), by Vaughan Pratt.
-* Koellner, P., 2013, “[Hamkins on the Multiverse](http://logic.harvard.edu/EFI\_Hamkins\_Comments.pdf),” manuscript.
+* Koellner, P., 2013, “[Hamkins on the Multiverse](http://logic.harvard.edu/EFI\Hamkins\Comments.pdf),” manuscript.
 
 ## Related Entries
 

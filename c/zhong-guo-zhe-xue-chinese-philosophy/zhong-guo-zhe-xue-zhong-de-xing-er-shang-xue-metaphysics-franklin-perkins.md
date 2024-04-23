@@ -377,7 +377,7 @@ _Li_和_qi_之间的区别提供了一种处理人类本性是善的主张与人
 * [Chinese philosophy links](http://cjfraser.net/links/) (Chris Fraser)
 * [China-related links](http://sangle.web.wesleyan.edu/china.html) (Stephen C. Angle)
 * [Chad Hansen’s Chinese philosophy pages](https://philosophy.hku.hk/ch/)
-* [Ancient Chinese Civilization: Bibliography of Materials in Western Languages](https://www.academia.edu/37490636/Ancient\_Chinese\_Civilization\_Bibliography\_of\_Materials\_in\_Western\_Languages) (Paul R. Goldin) \[A regularly updated and nearly complete bibliography of materials on Early China written in Western languages.]
+* [Ancient Chinese Civilization: Bibliography of Materials in Western Languages](https://www.academia.edu/37490636/Ancient\Chinese\Civilization\Bibliography\of\Materials\in\Western\Languages) (Paul R. Goldin) \[A regularly updated and nearly complete bibliography of materials on Early China written in Western languages.]
 
 ## Related Entries
 

@@ -448,7 +448,7 @@ _因果帝国主义者_，我们可以这样称呼他们，认为所有科学解
 ## Other Internet Resources
 
 * Chalmers, David, 2018, “[What Is Conceptual Engineering and What Should It Be?](http://consc.net/papers/engineering.pdf)”, transcript of a talk given at the NYU workshop on “Foundations of Conceptual Engineering” on 14 September 2018.
-* “[Cauchy-Lipschitz theorem](https://www.encyclopediaofmath.org/index.php?title=Cauchy-Lipschitz\_theorem\&oldid=30822)”, in _Encyclopedia of Mathematics_.
+* “[Cauchy-Lipschitz theorem](https://www.encyclopediaofmath.org/index.php?title=Cauchy-Lipschitz\theorem\&oldid=30822)”, in _Encyclopedia of Mathematics_.
 
 ## Related Entries
 

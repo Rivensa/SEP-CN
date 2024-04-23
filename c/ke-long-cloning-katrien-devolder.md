@@ -270,7 +270,7 @@ Strong（2008）认为，这些担忧是基于一个谬误的推论。渴望有�
 
 ## Other Internet Resources
 
-* UNESCO, “[Universal Declaration on the Human Genome and Human Rights](http://portal.unesco.org/en/ev.php-URL\_ID=13177\&URL\_DO=DO\_TOPIC\&URL\_SECTION=201.html)”, adopted 11 November 1997.
+* UNESCO, “[Universal Declaration on the Human Genome and Human Rights](http://portal.unesco.org/en/ev.php-URL\ID=13177\&URL\DO=DO\TOPIC\&URL\SECTION=201.html)”, adopted 11 November 1997.
 
 ## Related Entries
 

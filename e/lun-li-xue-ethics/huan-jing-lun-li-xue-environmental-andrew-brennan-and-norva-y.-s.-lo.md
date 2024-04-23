@@ -340,7 +340,7 @@ Meadows’ 和 Daly’s 论述关于需要认识到地球资源是有限的这�
 * Hill, Thomas, 1983. “Ideals of Human Excellences and Preserving Natural Environments”, _Environmental Ethics_ 5: 211–24.
 * Horkheiner, M. and Adorno, T., 1969. _Dialectic of Enlightenment_, trans. J. Cumming, New York: Seabury Press 1972.
 * Hume, D., 1751. _An Enquiry Concerning the Principles of Morals_, ed. T.L. Beauchamp, Oxford: Oxford University Press, 1998.
-* IPCC, 2021: Summary for Policymakers. In: _Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change_ \[Masson-Delmotte, V., P. Zhai, A. Pirani, S. L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M. I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T. K. Maycock, T. Waterfield, O. Yelekçi, R. Yu and B. Zhou (eds.)]. Cambridge University Press, in press, [IPCC 2021 available online](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC\_AR6\_WGI\_SPM\_final.pdf)
+* IPCC, 2021: Summary for Policymakers. In: _Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change_ \[Masson-Delmotte, V., P. Zhai, A. Pirani, S. L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M. I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T. K. Maycock, T. Waterfield, O. Yelekçi, R. Yu and B. Zhou (eds.)]. Cambridge University Press, in press, [IPCC 2021 available online](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC\AR6\WGI\SPM\final.pdf)
 * Jackson, T., 2017. _Prosperity without Growth: Foundations for the Economy of Tomorrow_, second edition, London, Routledge.
 * Jamieson, D., 1996. “Intentional Climate Change”, _Climatic Change_, 33: 326–36.
 * –––, 1998. “Animal Liberation is an Environmental Ethic”, _Environmental Values_, 7: 41–57.
@@ -527,7 +527,7 @@ Meadows’ 和 Daly’s 论述关于需要认识到地球资源是有限的这�
 * [International Association for Environmental Philosophy (IAEP)](http://www.environmentalphilosophy.org/)
 * [Center for Environmental Philosophy](http://www.cep.unt.edu/)
 * [Centre for Applied Ethics](http://www.ethics.ubc.ca/resources/environmental/)
-* Schwartz, P. and Randall, D., 2003. “[An Abrupt Climate Change Scenario and its Implications for United States National Security](http://www.climate.org/PDF/clim\_change\_scenario.pdf), download from climate.org.
+* Schwartz, P. and Randall, D., 2003. “[An Abrupt Climate Change Scenario and its Implications for United States National Security](http://www.climate.org/PDF/clim\change\scenario.pdf), download from climate.org.
 
 ## Related Entries
 

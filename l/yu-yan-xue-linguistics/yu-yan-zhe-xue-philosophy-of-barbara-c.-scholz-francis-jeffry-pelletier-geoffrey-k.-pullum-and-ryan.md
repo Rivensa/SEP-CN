@@ -1247,7 +1247,7 @@ Bar-On（2013）区分了格赖斯式和后格赖斯式的语言演化方法。�
 ## Other Internet Resources
 
 * [Treebank](http://en.wikipedia.org/wiki/Treebank), Wikipedia.
-* [The Switchboard Corpus](http://www.ldc.upenn.edu/Catalog/readme\_files/switchboard.readme.html).
+* [The Switchboard Corpus](http://www.ldc.upenn.edu/Catalog/readme\files/switchboard.readme.html).
 * [The British National Corpus](http://www.natcorp.ox.ac.uk/docs/URG/).
 
 ## Related Entries

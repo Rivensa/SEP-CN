@@ -556,4 +556,4 @@ Colyvan 为相反的观点辩护（Colyvan 2001b），坚持认为数学应用�
 My thanks go to two anonymous referees for their helpful comments on earlier versions of this entry. Their suggestions led to significant improvements. My thanks are also due to Jody Azzouni, Uri Nodelman, and Ed Zalta for all of their comments and help.
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
-[Otávio Bueno](http://www.as.miami.edu/personal/obueno/Site/Otavio\_Bueno.html) <[_otaviobueno@mac.com_](mailto:otaviobueno%40mac%2ecom)>
+[Otávio Bueno](http://www.as.miami.edu/personal/obueno/Site/Otavio\Bueno.html) <[_otaviobueno@mac.com_](mailto:otaviobueno%40mac%2ecom)>

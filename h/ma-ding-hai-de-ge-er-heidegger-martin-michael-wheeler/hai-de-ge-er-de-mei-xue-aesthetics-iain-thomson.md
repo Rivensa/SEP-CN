@@ -517,7 +517,7 @@ Abbreviations Used for Works by Heidegger (translations often modified)
 * Shermer, M., 2008, “Patternicity: Finding Meaningful Patterns in Meaningless Noise,” _Scientific American Magazine_, December, \[[available online](http://www.scientificamerican.com/article.cfm?id=patternicity-finding-meaningful-patterns)].
 * Taminiaux, J., 1993, “The Origin of ‘The Origin of the Work of Art,’” in J. Sallis (ed.), _Reading Heidegger: Commemorations_, Bloomington: Indiana University Press.
 * Taylor, C., 2007, _A Secular Age_. Cambridge, MA: Harvard University Press.
-* Thomson, I., 1998, “The Silence of the Limbs: Critiquing Culture from a Heideggerian Understanding of the Work of Art,” _Enculturation_, 2(1), \[[available online](http://www.enculturation.net/2\_1/thomson.html)].
+* Thomson, I., 1998, “The Silence of the Limbs: Critiquing Culture from a Heideggerian Understanding of the Work of Art,” _Enculturation_, 2(1), \[[available online](http://www.enculturation.net/2\1/thomson.html)].
 * –––, 2004, “Ontology and Ethics at the Intersection of Phenomenology and Environmental Philosophy,” _Inquiry_, 47(4): 380–412.
 * –––, 2004b, “Heidegger’s Perfectionist Philosophy of Education in _Being and Time_,” _Continental Philosophy Review_, 37(4): 439–467.
 * –––, 2005, _Heidegger on Ontotheology: Technology and the Politics of Education_, Cambridge: Cambridge University Press.

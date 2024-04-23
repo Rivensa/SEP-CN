@@ -343,5 +343,5 @@ _首次发表于 2007 年 11 月 21 日星期三；实质性修订于 2020 年 1
 [consequentialism: rule](https://plato.stanford.edu/entries/consequentialism-rule/) | [doing vs. allowing harm](https://plato.stanford.edu/entries/doing-allowing/) | [double effect, doctrine of](https://plato.stanford.edu/entries/double-effect/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [Kant, Immanuel: moral philosophy](https://plato.stanford.edu/entries/kant-moral/) | [Moore, George Edward: moral philosophy](https://plato.stanford.edu/entries/moore-moral/) | [moral dilemmas](https://plato.stanford.edu/entries/moral-dilemmas/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Larry Alexander](https://www.sandiego.edu/law/about/directory/biography.php?profile\_id=2577) <[_larrya@sandiego.edu_](mailto:larrya%40sandiego%2eedu)>\
+[Larry Alexander](https://www.sandiego.edu/law/about/directory/biography.php?profile\id=2577) <[_larrya@sandiego.edu_](mailto:larrya%40sandiego%2eedu)>\
 Michael Moore <[_micmoore@illinois.edu_](mailto:micmoore%40illinois%2eedu)>

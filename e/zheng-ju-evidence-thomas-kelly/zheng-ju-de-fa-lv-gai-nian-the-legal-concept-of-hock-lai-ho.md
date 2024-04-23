@@ -456,7 +456,7 @@ Cohen 建议，证据标准应完全被构想为证据权重的问题，根据�
 ## Other Internet Resources
 
 * [Legal Information Institute](https://www.law.cornell.edu/rules/fre), at Cornell Law School. This site makes available the full text of the Federal Rules of Evidence with commentaries by the Advisory Committee on Rules.
-* [Statistics and the Law](http://www.rss.org.uk/RSS/Influencing\_Change/Statistics\_and\_the\_law/RSS/Influencing\_Change/Current\_projects\_sub/Statistics\_and\_the\_law.aspx?hkey=e0e099fe-8a21-4e77-883a-bcab1d6ec3cd), page at the Royal Statistical Society.
+* [Statistics and the Law](http://www.rss.org.uk/RSS/Influencing\Change/Statistics\and\the\law/RSS/Influencing\Change/Current\projects\sub/Statistics\and\the\law.aspx?hkey=e0e099fe-8a21-4e77-883a-bcab1d6ec3cd), page at the Royal Statistical Society.
 
 ## Related Entries
 

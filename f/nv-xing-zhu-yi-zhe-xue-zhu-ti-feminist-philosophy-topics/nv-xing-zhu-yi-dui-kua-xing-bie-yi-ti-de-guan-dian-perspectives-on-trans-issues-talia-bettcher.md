@@ -506,7 +506,7 @@ Talia Mae Bettcher (2012a; 2013; 2014) 反对传统的错误身体论述跨性�
 * [National Center for Transgender Equality](http://www.nctequality.org/)
 * [Trans-Health](http://www.trans-health.com/)
 * [Transgender Law Center](http://www.transgenderlawcenter.org/)
-* [Suggested Rules for Non-Transsexuals Writing about Transsexuals, Transsexuality, Transsexualism, or Trans\_\_\_\_](http://sandystone.com/hale.rules.html), by C. Jacob Hale, 1997
+* [Suggested Rules for Non-Transsexuals Writing about Transsexuals, Transsexuality, Transsexualism, or Trans\\\\](http://sandystone.com/hale.rules.html), by C. Jacob Hale, 1997
 
 ## Related Entries
 

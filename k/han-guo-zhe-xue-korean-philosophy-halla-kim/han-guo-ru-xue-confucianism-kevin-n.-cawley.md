@@ -294,7 +294,7 @@ See the supplementary document [(Figures and their Works)](https://plato.stanfor
 * Rousseau, Jean Jacques, 1762, _Du contrat social; ou Principes du droit politique_ (The Social Contract), Amsterdam: Mark Michel Rey.
 * T’oegye (Yi Hwang), _Ten Diagrams on Sage Learning_, translated with original text as _To Become a Sage_, Michael C. Kalton (trans./ed.), New York: Columbia University Press. \[[_To Become a Sage_ available online](https://faculty.washington.edu/mkalton/)]
 * Tasan (Chŏng Yagyong; Yŏyudang), _Ch’unch’u kojing_ (春秋考徵) \[Evidential Analysis of the _Spring and Summer Annals_].
-* –––, _Mongmin simsǒ_ (牧民心書) \[Admonitions on Governing the People]. \[[_Mongmin simsǒ_ available online](https://db.itkc.or.kr/dir/item?itemId=GO#/dir/node?dataId=ITKC\_MP\_0597A\_1210)]
+* –––, _Mongmin simsǒ_ (牧民心書) \[Admonitions on Governing the People]. \[[_Mongmin simsǒ_ available online](https://db.itkc.or.kr/dir/item?itemId=GO#/dir/node?dataId=ITKC\MP\0597A\1210)]
 * –––, _Kugyŏk yŏyudang chŏnsŏ_ (國譯 與猶堂全書) \[Korean Translation of Collected Writings of Yŏyudang], translated by Chŏnju taehakyo honamhakyŏnguso (ed.), with original Chinese text, vol. 1, Seoul: Chŏnju taehakyo honamhakyŏnguso, 1986.
 * –––, _Maengja yoŭi_ (孟子要義) \[The Essentials of The Mencius], Seoul: Hyundae sirhaksa, 1994.
 * Yi Ik (Sŏngho), _Sŏngho sasŏl_ (星湖僿說) \[Sŏngho’s Selected Writings], vol. iii, translated by Chŏng Haeryŏm, Hyŏndae sirhaksa: Seoul, 1998.

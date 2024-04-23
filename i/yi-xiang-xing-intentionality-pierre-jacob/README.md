@@ -409,7 +409,7 @@ Chisholm（1957）和 Quine（1960）的共同遗产是意向性的语言观（�
 * Shea, N., 2018, _Representation in Cognitive Science_, Oxford: Oxford University Press.
 * Shoemaker, S., 1996, _The First-Person Perspective and Other Essays_, Cambridge: Cambridge University Press.
 * Siewert, C., 1998, _The Significance of Consciousness_, Princeton: Princeton University Press.
-* Smith, B., 1994, _Austrian Philosophy, the Legacy of Franz Brentano_, Chicago and La Salle, Ill.: Open Court. \[[Preprint available online](http://ontology.buffalo.edu/smith/book/austrian\_philosophy/)]
+* Smith, B., 1994, _Austrian Philosophy, the Legacy of Franz Brentano_, Chicago and La Salle, Ill.: Open Court. \[[Preprint available online](http://ontology.buffalo.edu/smith/book/austrian\philosophy/)]
 * Stich, S., 1983, _From Folk Psychology to Cognitive Science, the Case Against Belief_, Cambridge, Mass.: MIT Press.
 * Strawson, G., 1994, _Mental Reality_, Cambridge, Mass.: MIT Press.
 * Tye, M., 1995, _Ten Problems of Consciousness_, Cambridge, Mass.: MIT Press.

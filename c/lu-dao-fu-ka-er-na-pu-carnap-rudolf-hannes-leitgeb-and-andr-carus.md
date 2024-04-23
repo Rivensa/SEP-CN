@@ -862,7 +862,7 @@ The two major collections of Carnap papers are at the Archive of Scientific Phil
 * Stein, Howard, 1989, “Yes, but? Some Skeptical Remarks on Realism and Anti-Realism”, _Dialectica_, 43(1–2): 47–65. doi:10.1111/j.1746-8361.1989.tb00930.x
 * –––, 1992, “Was Carnap Entirely Wrong, after All?”, _Synthese_, 93(1–2): 275–295. doi:10.1007/BF00869429
 * –––, 1995, “Some Reflections on the Structure of Our Knowledge in Physics”, in _Logic, Methodology and Philosophy of Science IX_, Dag Prawitz, Brian Skyrms, and Dag Westerståhl (eds.), (Studies in Logic and the Foundations of Mathematics 134), Elsevier, 633–655. doi:10.1016/S0049-237X(06)80067-4
-* –––, 1998, “How Does Physics Bear upon Metaphysics, and Why Did Plato Hold that Philosophy Cannot Be Written Down”, Colloquium Lecture at the University of Chicago. \[[Stein 1998 available online](http://awcarus.net/A.W.\_Carus/Home\_files/Physics%20and%20metaphysics.pdf)]
+* –––, 1998, “How Does Physics Bear upon Metaphysics, and Why Did Plato Hold that Philosophy Cannot Be Written Down”, Colloquium Lecture at the University of Chicago. \[[Stein 1998 available online](http://awcarus.net/A.W.\Carus/Home\files/Physics%20and%20metaphysics.pdf)]
 * Steinberger, Florian, 2016, “How Tolerant Can You Be? Carnap on Rationality”, _Philosophy and Phenomenological Research_, 92(3): 645–668. doi:10.1111/phpr.12165
 * Sterkenburg, Tom F., 2018, _Universal Prediction_, Ph.D. thesis, University of Groningen. \[[Sterkenburg 2018 available online](http://philsci-archive.pitt.edu/14486/)]
 * Stevenson, Charles L., 1944, _Ethics and Language_, New Haven, CT: Yale University Press.
@@ -933,7 +933,7 @@ The two major collections of Carnap papers are at the Archive of Scientific Phil
 ## Other Internet Resources
 
 * [Collection Guide for the Carnap papers at UCLA Special Collections Library](https://oac.cdlib.org/findaid/ark:/13030/tf7q2nb520/), Online Archive of California.
-  * [Finding Aid for the Rudolf Carnap papers, 1920–1968](https://oac.cdlib.org/findaid/ark:/13030/tf7q2nb520/entire\_text/?query=Carnap), Online Archive of California.
+  * [Finding Aid for the Rudolf Carnap papers, 1920–1968](https://oac.cdlib.org/findaid/ark:/13030/tf7q2nb520/entire\text/?query=Carnap), Online Archive of California.
 * [Rudolf Carnap Papers](https://digital.library.pitt.edu/islandora/object/pitt:US-PPiU-asp197401/viewer), ULS Archives, University of Pittsburgh.
 * [Collected Works of Rudolf Carnap](http://www.phil.cmu.edu/projects/carnap/), projected site.
 
@@ -942,5 +942,5 @@ The two major collections of Carnap papers are at the Archive of Scientific Phil
 [analytic/synthetic distinction](https://plato.stanford.edu/entries/analytic-synthetic/) | [constructive empiricism](https://plato.stanford.edu/entries/constructive-empiricism/) | [epsilon calculus](https://plato.stanford.edu/entries/epsilon-calculus/) | [learning theory, formal](https://plato.stanford.edu/entries/learning-formal/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [physics: structuralism in](https://plato.stanford.edu/entries/physics-structuralism/) | [probability, interpretations of](https://plato.stanford.edu/entries/probability-interpret/) | [semantics: proof-theoretic](https://plato.stanford.edu/entries/proof-theoretic-semantics/) | [structural realism](https://plato.stanford.edu/entries/structural-realism/) | [theoretical terms in science](https://plato.stanford.edu/entries/theoretical-terms-science/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hannes\_leitgeb/index.html) <[_Hannes.Leitgeb@lmu.de_](mailto:Hannes%2eLeitgeb%40lmu%2ede)>\
+[Hannes Leitgeb](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hannes\leitgeb/index.html) <[_Hannes.Leitgeb@lmu.de_](mailto:Hannes%2eLeitgeb%40lmu%2ede)>\
 André Carus <[_awcarus@mac.com_](mailto:awcarus%40mac%2ecom)>

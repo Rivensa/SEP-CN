@@ -491,7 +491,7 @@ Szatkowski（2012）是一本关于本体论证的最新论文集。该论文集
 * [Medieval Sourcebook: Philosophers’ Criticisms of Anslem’s Ontological Argument for the Being of God](http://www.fordham.edu/halsall/basis/anselm-critics.html) (Paul Halsell, Fordham University)
 * [Ontological Argument Revisited by Two Ottoman Muslim Scholars](http://www.wakeup.org/anadolu/08/2/ontological.html) (Umit Dericioglu)
 * [The Ontological Argument](http://www.utm.edu/research/iep/o/ont-arg.htm) (Kenneth Himma, University of Washington)
-* [Hegel and Kant on the Ontological Argument](http://www.meta-religion.com/Philosophy/Biography/Immanuel\_Kant/hegel\_and\_kant\_on\_the\_ontologica.htm) (Maria de Lourdes Borges, Federal University of Santa Catarina)
+* [Hegel and Kant on the Ontological Argument](http://www.meta-religion.com/Philosophy/Biography/Immanuel\Kant/hegel\and\kant\on\the\ontologica.htm) (Maria de Lourdes Borges, Federal University of Santa Catarina)
 * [Ontological Argument](http://www.apollos.ws/ontological-argument/) (links to papers on ontological arguments)
 * Recent papers by C. Benzmüller and W. Paleo on the computational analysis of Gödel’s ontological argument:
   * “[Formalization, Mechanization and Automation of Gödel’s Proof of God’s Existence](http://arxiv.org/pdf/1308.4526v4.pdf)”, unpublished manuscript.

@@ -570,7 +570,7 @@ Swinburne的论点的关键方面在于他在归纳宇宙学论证中几乎完�
 * Aquinas, Thomas, _Summa Contra Gentiles_, Bk. 1. Notre Dame: University of Notre Dame Press, 1975. \[[_Summa Contra Gentiles_ available online](http://dhspriory.org/thomas/ContraGentiles1.htm)]
 * –––, \[ST] _Summa Theologica_, I, q. 2. \[[_Summa Theologica_ available online](http://www.newadvent.org/summa/1002.htm#article3)]
 * Attfield, Robin, 1975, “The God of Religion and the God of Philosophy”, _Religious Studies_, 9(1): 1–9. doi:10.1017/S0034412500006259
-* Beck, W. David, 2002, “The Cosmological Argument: A Current Bibliographical Appraisal”, _Philosophia Christi_, 2(2): 283–304. \[[Beck 2002 available online](http://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1165\&context=sor\_fac\_pubs)]
+* Beck, W. David, 2002, “The Cosmological Argument: A Current Bibliographical Appraisal”, _Philosophia Christi_, 2(2): 283–304. \[[Beck 2002 available online](http://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1165\&context=sor\fac\pubs)]
 * Bonaventure, c. 1250, _Commentary on the Sentences: Philosophy of God. Works of St. Bonaventure_ XVI, R.E. Houser and Timothy B. Noone (eds), St. Bonaventure, NY: Franciscan Institute Press, 2014.
 * Bricmont, Jean, 2016, _Making Sense of Quantum Mechanics_, Cham: Springer Nature.
 * Brown, Patterson, 1966, “Infinite Causal Regression”, _Philosophical Review_, 75(4): 510–25. doi:10.2307/2183226
@@ -604,8 +604,8 @@ Swinburne的论点的关键方面在于他在归纳宇宙学论证中几乎完�
 * Gellman, Jerome, 2000, “Prospects for a sound stage 3 of cosmological arguments”, _Religious Studies_, 36(2): 195–2001. Reprinted in Gale and Pruss 2003: 381–87.
 * Glanz, James, 1998, “Cosmic Motion Revealed”, _Science_, 282(5397): 2156–2157. doi:10.1126/science.282.5397.2156a
 * Goldschmidt, Tyron (ed.), 2013, _The Puzzle of Existence: Why Is There Something Rather than Nothing?_ New York: Routledge.
-* Grünbaum, Adolf, 1991, “Creation as a Pseudo-Explanation in Current Physical Cosmology”, _Erkenntnis_, 35(1–3): 233–54. doi:10.1007/BF00388287 \[[Grünbaum 1991 available online](http://infidels.org/library/modern/adolf\_grunbaum/explanation.html)]
-* –––, 1994, “Some Comments on William Craig’s ‘Creation and Big Bang Cosmology’”, _Philosophia Naturalis_, 31(2): 225–236. \[[Grünbaum 1994 available online](http://www.infidels.org/library/modern/adolf\_grunbaum/comments.html)]
+* Grünbaum, Adolf, 1991, “Creation as a Pseudo-Explanation in Current Physical Cosmology”, _Erkenntnis_, 35(1–3): 233–54. doi:10.1007/BF00388287 \[[Grünbaum 1991 available online](http://infidels.org/library/modern/adolf\grunbaum/explanation.html)]
+* –––, 1994, “Some Comments on William Craig’s ‘Creation and Big Bang Cosmology’”, _Philosophia Naturalis_, 31(2): 225–236. \[[Grünbaum 1994 available online](http://www.infidels.org/library/modern/adolf\grunbaum/comments.html)]
 * Harvey, Ramon, 2021, _Transcendent God, Rational World_, Edinburgh: University of Edinburgh.
 * Hawking, Stephen W., 1987, “Quantum Cosmology”, in Stephen W. Hawking and Werner Israel (eds.), _Three Hundred Years of Gravitation_, Cambridge: Cambridge University Press, pp. 631–51.
 * –––, 1988, _A Brief History of Time_, New York: Bantam.
@@ -637,7 +637,7 @@ Swinburne的论点的关键方面在于他在归纳宇宙学论证中几乎完�
 * –––, 2010, “Beginningless Past, Endless Future, and the Actual Infinite”, _Faith and Philosophy_, 27(4): 439–50. doi:10.5840/faithphil201027444
 * Musser, George, 2004, “Four Keys to Cosmology”, _Scientific American_ 290(2) (February): 42–43.
 * Nowacki, Mark R., 2007, _The “Kalām” Cosmological Argument for God_, New York: Barnes and Noble.
-* O’Connor, Timothy, 2004, “‘And This All Men Call God’”, _Faith and Philosophy_, 21(4): 417–35. doi:10.5840/faithphil200421436 \[[O’Connor 2004 available online](http://www.indiana.edu/\~scotus/files/All\_Men\_Call\_God.pdf)]
+* O’Connor, Timothy, 2004, “‘And This All Men Call God’”, _Faith and Philosophy_, 21(4): 417–35. doi:10.5840/faithphil200421436 \[[O’Connor 2004 available online](http://www.indiana.edu/\~scotus/files/All\Men\Call\God.pdf)]
 * –––, 2008, _Theism and Ultimate Explanation: the Necessary Shape of Contingency_, London: Wiley-Blackwell.
 * –––, 2013, “Could There Be a Complete Explanation of _Everything_?” in Goldschmidt 2013: 22–45.
 * Oderberg, David S., 2002, “Traversal of the Infinite: the ‘Big Bang,’ and the _Kalam_ Cosmological Argument”, _Philosophia Christi_, 4(2): 305–344. \[[Oderberg 2002 available online](https://docs.google.com/file/d/0B7SKlRTfkUieTjQtNjNZaWpmMVU/edit)]
@@ -715,9 +715,9 @@ Swinburne的论点的关键方面在于他在归纳宇宙学论证中几乎完�
   * [Reply to Oppy](http://www.reasonablefaith.org/graham-oppy-on-the-kalam-cosmological-argument).
   * [Existence of God: Writings](https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/). In www.ReasonableFaith.org
   * [Existence of God: Media](https://www.reasonablefaith.org/videos). In www.ReasonableFaith.org
-* Oppy, Graham, [Cosmology and the Cosmological Argument](http://www.infidels.org/library/modern/graham\_oppy/).
+* Oppy, Graham, [Cosmology and the Cosmological Argument](http://www.infidels.org/library/modern/graham\oppy/).
 * Muehlhauser, Luke, [Bibliography on the theistic arguments and the cosmological argument](http://commonsenseatheism.com/?p=5657#1.1).
-* Rutten, Emanuel, 2012, [_A Critical Assessment of Contemporary Cosmological Arguments: Toward a Renewed Case for Theism_](http://www.gjerutten.nl/TowardsARenewedCaseForTheism\_ERutten.pdf), Amsterdam.
+* Rutten, Emanuel, 2012, [_A Critical Assessment of Contemporary Cosmological Arguments: Toward a Renewed Case for Theism_](http://www.gjerutten.nl/TowardsARenewedCaseForTheism\ERutten.pdf), Amsterdam.
 * Smith, Quentin, et al, [Critiques of the cosmological argument](http://www.infidels.org/library/modern/nontheism/atheism/cosmological.html).
 
 ## Related Entries

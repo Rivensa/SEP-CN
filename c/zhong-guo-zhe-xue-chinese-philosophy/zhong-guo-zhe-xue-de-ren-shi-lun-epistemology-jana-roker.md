@@ -380,7 +380,7 @@ In the above, “CTP” refers to the Chinese Text Project
 * [Chad Hansen’s Chinese philosophy pages](http://www.philosophy.hku.hk/ch/), edited by Chad Hansen (University of Hong Kong); contains segments of an interpretive theory of Classical Chinese philosophy that takes Daoism as the philosophical center, but also including the Mohist and Legalist school and the School of Names.
 * [Chinese philosophy links](http://cjfraser.net/links/), edited by Chris Fraser (University of Hong Kong); selected links pertaining to Chinese philosophy.
 * [Chinese Text Project](http://ctext.org/), Donald Sturgeon (University of Hong Kong), author and administrator; a wide range of texts, particularly those relating to Chinese philosophy, especially from pre-Qin and Han dynasty sources, but also including crucial texts from the post-Han era. In addition, it implies a dictionary search for each character. English and modern Chinese translations are also provided wherever copyright allows.
-* [Soothill, Edward and Lewis Hodous](http://mahajana.net/texts/kopia\_lokalna/soothill-hodous.html), 2014, _A Dictionary of Chinese Buddhist Terms_, edited by Charles Muller.
+* [Soothill, Edward and Lewis Hodous](http://mahajana.net/texts/kopia\lokalna/soothill-hodous.html), 2014, _A Dictionary of Chinese Buddhist Terms_, edited by Charles Muller.
 * Zhu Xi, “[Zhuzi yulei](http://sangle.web.wesleyan.edu/etext/song-qing/song-qing.html),” in Chinese Philosophical Etext Archive – Song through Qing Texts, Stephen C. Angle (ed.), 2014.
 
 ## Related Entries

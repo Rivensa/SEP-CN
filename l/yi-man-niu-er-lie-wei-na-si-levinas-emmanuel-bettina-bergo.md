@@ -16,7 +16,7 @@ _首次发表于2006年7月23日，实质性修订于2019年8月7日。_
     * [2.3.3 时间、超越和社会性](https://plato.stanford.edu/entries/levinas/#TimeTranSoci)
     * [2.3.4 存在、中介（家庭和国家）以及伦理学和政治学中的意志](https://plato.stanford.edu/entries/levinas/#BeinMediFamiStatWillEthiPoli)
   * [2.4 超越而非存在，或超越本质（1974 年）：内在超越](https://plato.stanford.edu/entries/levinas/#OtheThanBeinBeyoEsse1974TranImma)
-    * [2.4.1 作品的结构](https://plato.stanford.edu/entries/levinas/#StruWork\_1)
+    * [2.4.1 作品的结构](https://plato.stanford.edu/entries/levinas/#StruWork\1)
     * [2.4.2 新的存在主义情绪和肉体记忆](https://plato.stanford.edu/entries/levinas/#NewExisMoodFlesMemo)
     * [2.4.3 说和被说的事情](https://plato.stanford.edu/entries/levinas/#SayiSaid)
     * [2.4.4 解释学与犹太哲学](https://plato.stanford.edu/entries/levinas/#HermJewiPhil)
@@ -425,40 +425,40 @@ However, Franck has detected a profound divergence in these new developments. In
 
 | abbrev   | reference                                                                                                                                                            |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| AT       | [Levinas 1995 \[1999\] _Alterity and Transcendence_](https://plato.stanford.edu/entries/levinas/#bib\_AT)                                                            |
-| BTV      | [Levinas 1982 \[1994\] _Beyond the Verse_](https://plato.stanford.edu/entries/levinas/#bib\_BTV)                                                                     |
-| DEH      | [Levinas 1949 \[1998\] _Discovering Existence with Husserl_](https://plato.stanford.edu/entries/levinas/#bib\_DEH)                                                   |
-| DF       | [Levinas 1963 \[1991\] _Difficult Freedom_](https://plato.stanford.edu/entries/levinas/#bib\_DF)                                                                     |
-| EDE      | [Levinas 1949 _En découvrant l’existence…_](https://plato.stanford.edu/entries/levinas/#bib\_EDE)                                                                    |
-| EE       | [Levinas 1947 \[1978\] _Existence and Existents_](https://plato.stanford.edu/entries/levinas/#bib\_EE)                                                               |
-| EI       | [Levinas 1982 \[1985\] _Ethics and Infinity_](https://plato.stanford.edu/entries/levinas/#bib\_EI)                                                                   |
-| EN       | [Levinas 1993 \[2000\] _Entre Nous_](https://plato.stanford.edu/entries/levinas/#bib\_EN)                                                                            |
-| ITN      | [Levinas 1988 \[1994\] _In the Time of the Nations_](https://plato.stanford.edu/entries/levinas/#bib\_ITN)                                                           |
-| Ideas I  | [Husserl 1913 \[1982\]](https://plato.stanford.edu/entries/levinas/#bib\_hu-Ideas\_I)                                                                                |
-| Ideas II | [Husserl 1952 \[1989\]](https://plato.stanford.edu/entries/levinas/#bib\_hu-Ideas\_II)                                                                               |
-| LO1      | [Levinas 2009a _Œuvres 1_](https://plato.stanford.edu/entries/levinas/#bib\_LO1)                                                                                     |
-| LO2      | [Levinas 2009b _Œuvres 2_](https://plato.stanford.edu/entries/levinas/#bib\_LO2)                                                                                     |
-| NTR      | [Levinas 1977 \[1990\] _Nine Talmudic Readings_](https://plato.stanford.edu/entries/levinas/#bib\_NTR)                                                               |
-| OBBE     | [Levinas 1974 \[1978\] _Otherwise than Being or Beyond Essence_](https://plato.stanford.edu/entries/levinas/#bib\_OBBE)                                              |
-| OE       | [Levinas 1935 \[2003\] _On Escape_](https://plato.stanford.edu/entries/levinas/#bib\_OE)                                                                             |
-| OGCM     | [Levinas 1982 \[1998\] _Of God Who Comes To Mind_](https://plato.stanford.edu/entries/levinas/#bib\_OGCM)                                                            |
-| RPH      | [Levinas 1934 \[1990\] “Reflections on the Philosophy of Hitlerism”](https://plato.stanford.edu/entries/levinas/#bib\_RPH)                                           |
-| TI       | [Levinas 1961 \[1969\] _Totality and Infinity_](https://plato.stanford.edu/entries/levinas/#bib\_TI)                                                                 |
-| TO       | [Levinas 1947 \[1987\] _Time and the Other_](https://plato.stanford.edu/entries/levinas/#bib\_TO)                                                                    |
-| TOI      | [Levinas 1930 \[1995\] _The Theory of Intuition in Husserl’s Phenomenology_](https://plato.stanford.edu/entries/levinas/#bib\_TOI)                                   |
-| TeI      | [Levinas 1984 \[1996\] _Transcendance et intelligibilité_](https://plato.stanford.edu/entries/levinas/#bib\_TeI)                                                     |
-| he-BPP   | [Heidegger 1975 \[1982\] _The Basic Problems of Phenomenology_](https://plato.stanford.edu/entries/levinas/#bib\_he-BPP)                                             |
-| he-BT    | [Heidegger 1927 \[1962\] _Being and Time_](https://plato.stanford.edu/entries/levinas/#bib\_he-BT)                                                                   |
-| he-EHP   | [Heidegger 1996 \[2000\] _Elucidations of Hölderlin’s Poetry_](https://plato.stanford.edu/entries/levinas/#bib\_he-EHP)                                              |
-| he-FCM   | [Heidegger 1983 \[1995\] _The Fundamental Concepts of Metaphysics_](https://plato.stanford.edu/entries/levinas/#bib\_he-FCM)                                         |
-| he-O     | [Heidegger 1988 \[1999\] _Ontology_](https://plato.stanford.edu/entries/levinas/#bib\_he-O)                                                                          |
-| he-PIA   | [Heidegger 1985 \[2001\] _Phenomenological Interpretations of Aristotle_](https://plato.stanford.edu/entries/levinas/#bib\_he-PIA)                                   |
-| hu-CM    | [Husserl 1931 \[1973\] _Cartesian Meditations_](https://plato.stanford.edu/entries/levinas/#bib\_hu-CM)                                                              |
-| hu-GDP   | [Husserl 2014 _Grenzprobleme des Phänomenologie_](https://plato.stanford.edu/entries/levinas/#bib\_hu-GDP)                                                           |
-| Hua 10   | [Husserl 1966 \[1991\] _On the Phenomenology of the Consciousness of Internal Time_](https://plato.stanford.edu/entries/levinas/#bib\_Hua10)                         |
-| Hua 14   | [Husserl 1973b _Zur Phänomenologie der Intersubjektivität. Texte aus dem Nachlass. Zweiter Teil: 1921–1928_](https://plato.stanford.edu/entries/levinas/#bib\_Hua14) |
-| mp-PP    | [Merleau-Ponty 1945 \[2012\] _Phenomenology of Perception_](https://plato.stanford.edu/entries/levinas/#bib\_mp-PP)                                                  |
-| col-BPW  | [Levinas 1996 _Emmanuel Levinas: Basic Philosophical Writings_](https://plato.stanford.edu/entries/levinas/#bib\_col-BPW)                                            |
+| AT       | [Levinas 1995 \[1999\] _Alterity and Transcendence_](https://plato.stanford.edu/entries/levinas/#bib\AT)                                                            |
+| BTV      | [Levinas 1982 \[1994\] _Beyond the Verse_](https://plato.stanford.edu/entries/levinas/#bib\BTV)                                                                     |
+| DEH      | [Levinas 1949 \[1998\] _Discovering Existence with Husserl_](https://plato.stanford.edu/entries/levinas/#bib\DEH)                                                   |
+| DF       | [Levinas 1963 \[1991\] _Difficult Freedom_](https://plato.stanford.edu/entries/levinas/#bib\DF)                                                                     |
+| EDE      | [Levinas 1949 _En découvrant l’existence…_](https://plato.stanford.edu/entries/levinas/#bib\EDE)                                                                    |
+| EE       | [Levinas 1947 \[1978\] _Existence and Existents_](https://plato.stanford.edu/entries/levinas/#bib\EE)                                                               |
+| EI       | [Levinas 1982 \[1985\] _Ethics and Infinity_](https://plato.stanford.edu/entries/levinas/#bib\EI)                                                                   |
+| EN       | [Levinas 1993 \[2000\] _Entre Nous_](https://plato.stanford.edu/entries/levinas/#bib\EN)                                                                            |
+| ITN      | [Levinas 1988 \[1994\] _In the Time of the Nations_](https://plato.stanford.edu/entries/levinas/#bib\ITN)                                                           |
+| Ideas I  | [Husserl 1913 \[1982\]](https://plato.stanford.edu/entries/levinas/#bib\hu-Ideas\I)                                                                                |
+| Ideas II | [Husserl 1952 \[1989\]](https://plato.stanford.edu/entries/levinas/#bib\hu-Ideas\II)                                                                               |
+| LO1      | [Levinas 2009a _Œuvres 1_](https://plato.stanford.edu/entries/levinas/#bib\LO1)                                                                                     |
+| LO2      | [Levinas 2009b _Œuvres 2_](https://plato.stanford.edu/entries/levinas/#bib\LO2)                                                                                     |
+| NTR      | [Levinas 1977 \[1990\] _Nine Talmudic Readings_](https://plato.stanford.edu/entries/levinas/#bib\NTR)                                                               |
+| OBBE     | [Levinas 1974 \[1978\] _Otherwise than Being or Beyond Essence_](https://plato.stanford.edu/entries/levinas/#bib\OBBE)                                              |
+| OE       | [Levinas 1935 \[2003\] _On Escape_](https://plato.stanford.edu/entries/levinas/#bib\OE)                                                                             |
+| OGCM     | [Levinas 1982 \[1998\] _Of God Who Comes To Mind_](https://plato.stanford.edu/entries/levinas/#bib\OGCM)                                                            |
+| RPH      | [Levinas 1934 \[1990\] “Reflections on the Philosophy of Hitlerism”](https://plato.stanford.edu/entries/levinas/#bib\RPH)                                           |
+| TI       | [Levinas 1961 \[1969\] _Totality and Infinity_](https://plato.stanford.edu/entries/levinas/#bib\TI)                                                                 |
+| TO       | [Levinas 1947 \[1987\] _Time and the Other_](https://plato.stanford.edu/entries/levinas/#bib\TO)                                                                    |
+| TOI      | [Levinas 1930 \[1995\] _The Theory of Intuition in Husserl’s Phenomenology_](https://plato.stanford.edu/entries/levinas/#bib\TOI)                                   |
+| TeI      | [Levinas 1984 \[1996\] _Transcendance et intelligibilité_](https://plato.stanford.edu/entries/levinas/#bib\TeI)                                                     |
+| he-BPP   | [Heidegger 1975 \[1982\] _The Basic Problems of Phenomenology_](https://plato.stanford.edu/entries/levinas/#bib\he-BPP)                                             |
+| he-BT    | [Heidegger 1927 \[1962\] _Being and Time_](https://plato.stanford.edu/entries/levinas/#bib\he-BT)                                                                   |
+| he-EHP   | [Heidegger 1996 \[2000\] _Elucidations of Hölderlin’s Poetry_](https://plato.stanford.edu/entries/levinas/#bib\he-EHP)                                              |
+| he-FCM   | [Heidegger 1983 \[1995\] _The Fundamental Concepts of Metaphysics_](https://plato.stanford.edu/entries/levinas/#bib\he-FCM)                                         |
+| he-O     | [Heidegger 1988 \[1999\] _Ontology_](https://plato.stanford.edu/entries/levinas/#bib\he-O)                                                                          |
+| he-PIA   | [Heidegger 1985 \[2001\] _Phenomenological Interpretations of Aristotle_](https://plato.stanford.edu/entries/levinas/#bib\he-PIA)                                   |
+| hu-CM    | [Husserl 1931 \[1973\] _Cartesian Meditations_](https://plato.stanford.edu/entries/levinas/#bib\hu-CM)                                                              |
+| hu-GDP   | [Husserl 2014 _Grenzprobleme des Phänomenologie_](https://plato.stanford.edu/entries/levinas/#bib\hu-GDP)                                                           |
+| Hua 10   | [Husserl 1966 \[1991\] _On the Phenomenology of the Consciousness of Internal Time_](https://plato.stanford.edu/entries/levinas/#bib\Hua10)                         |
+| Hua 14   | [Husserl 1973b _Zur Phänomenologie der Intersubjektivität. Texte aus dem Nachlass. Zweiter Teil: 1921–1928_](https://plato.stanford.edu/entries/levinas/#bib\Hua14) |
+| mp-PP    | [Merleau-Ponty 1945 \[2012\] _Phenomenology of Perception_](https://plato.stanford.edu/entries/levinas/#bib\mp-PP)                                                  |
+| col-BPW  | [Levinas 1996 _Emmanuel Levinas: Basic Philosophical Writings_](https://plato.stanford.edu/entries/levinas/#bib\col-BPW)                                            |
 
 ### Cited Works by Levinas
 

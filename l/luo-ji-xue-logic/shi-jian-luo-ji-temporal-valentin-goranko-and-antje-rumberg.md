@@ -1064,7 +1064,7 @@ LTL 的一个变体，对于指定和推理并发系统具有有用的应用是 
 ## Other Internet Resources
 
 * [A Research Site for Prior Studies and Temporal Logic](https://research.prior.aau.dk/priorstudies/)
-* [TIME International Symposium on Temporal Representation and Reasoning](http://time.di.unimi.it/TIME\_Home.html)
+* [TIME International Symposium on Temporal Representation and Reasoning](http://time.di.unimi.it/TIME\Home.html)
 * [The Temporal Logic of Actions (TLA) Home Page](http://research.microsoft.com/en-us/um/people/lamport/tla/tla.html)
 * [Galton, A., “Temporal Logic”, _The Stanford Encyclopedia of Philosophy_ (Fall 2008 Edition).](https://plato.stanford.edu/archives/fall2008/entries/logic-temporal/)
 

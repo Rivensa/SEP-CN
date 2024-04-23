@@ -217,7 +217,7 @@ Bibliographical information on studies of Campanella can be found in the followi
 
 ## Other Internet Resources
 
-* [Archivio Tommaso Campanella](https://www.iliesi.cnr.it/ATC/index\_campanella.php), hosted by the Istituto per il Lessico Intellettuale Europeo e Storia delle Idee (ILIESI), CNR – Italian National Research Council. General editor: Eugenio Canone).
+* [Archivio Tommaso Campanella](https://www.iliesi.cnr.it/ATC/index\campanella.php), hosted by the Istituto per il Lessico Intellettuale Europeo e Storia delle Idee (ILIESI), CNR – Italian National Research Council. General editor: Eugenio Canone).
 
 ## Related Entries
 

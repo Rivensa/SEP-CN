@@ -314,8 +314,8 @@ Hatfield（1990 年，第 4 章）更详细地调查了这些康德后期的发�
 ## Other Internet Resources
 
 * [North American Kant Society](http://www.northamericankantsociety.org/).
-* [Kant Forschungstelle](https://www.philosophie.fb05.uni-mainz.de/forschungsstellen-und-weitere-einrichtungen/fs\_kant/).
-* [Kants naturtheoretische Begriffe](https://knb.mpiwg-berlin.mpg.de/kant/info/index\_en.html) (in German), a database for their explicit and implicit connections.
+* [Kant Forschungstelle](https://www.philosophie.fb05.uni-mainz.de/forschungsstellen-und-weitere-einrichtungen/fs\kant/).
+* [Kants naturtheoretische Begriffe](https://knb.mpiwg-berlin.mpg.de/kant/info/index\en.html) (in German), a database for their explicit and implicit connections.
 
 ## Related Entries
 

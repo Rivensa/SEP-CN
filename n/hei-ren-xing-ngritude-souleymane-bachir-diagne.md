@@ -205,7 +205,7 @@ L. Outlaw 承认这是萨特的《黑人奥菲斯》的主要观点。现在可�
 
 ## Other Internet Resources
 
-* [Pan-Africanism and Pedagogy](http://www.blackculturalstudies.org/m\_diawara/panafr.html), by Manthia Diawara
+* [Pan-Africanism and Pedagogy](http://www.blackculturalstudies.org/m\diawara/panafr.html), by Manthia Diawara
 
 ## Related Entries
 

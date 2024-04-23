@@ -43,7 +43,7 @@ _首次发表于 2019 年 1 月 18 日星期五_
   * [3.1 前提语义](https://plato.stanford.edu/entries/counterfactuals/#PremSema)
   * [3.2 直陈条件概率分析](https://plato.stanford.edu/entries/counterfactuals/#CondProbAnal)
   * [3.3 贝叶斯网络、结构方程和因果模型](https://plato.stanford.edu/entries/counterfactuals/#BayeNetwStruEquaCausMode)
-  * [3.4 总结](https://plato.stanford.edu/entries/counterfactuals/#Summ\_1)
+  * [3.4 总结](https://plato.stanford.edu/entries/counterfactuals/#Summ\1)
 * [4. 结论](https://plato.stanford.edu/entries/counterfactuals/#Conc)
 * [参考文献](https://plato.stanford.edu/entries/counterfactuals/#Bib)
 * [学术工具](https://plato.stanford.edu/entries/counterfactuals/#Aca)
@@ -1233,7 +1233,7 @@ b.
 * Bennett, Jonathan, 1974, “Counterfactuals and Possible Worlds”, _Canadian Journal of Philosophy_, 4(2): 381–402. doi:10.1080/00455091.1974.10716947
 * –––, 2003, _A Philosophical Guide to Conditionals_, Oxford: Oxford University Press.
 * Bennett, Karen, 2017, _Making Things Up_, New York: Oxford University Press.
-* Bittner, Maria, 2011, “Time and Modality without Tenses or Modals”, in _Tense Across Languages_, Renate Musan and Monika Rathers (eds.), Tübingen: Niemeyer, 147–188. \[[Bittner 2011 available online](http://semanticsarchive.net/Archive/zliYmQxY/bittner11\_tam.pdf)]
+* Bittner, Maria, 2011, “Time and Modality without Tenses or Modals”, in _Tense Across Languages_, Renate Musan and Monika Rathers (eds.), Tübingen: Niemeyer, 147–188. \[[Bittner 2011 available online](http://semanticsarchive.net/Archive/zliYmQxY/bittner11\tam.pdf)]
 * Bobzien, Susanne, 2011, “Dialectical School”, in _The Stanford Encyclopedia of Philosophy_, Edward N. Zalta (ed.), Fall 2011, URL = <[Dialectical School (Stanford Encyclopedia of Philosophy/Fall 2011 Edition)](http://plato.stanford.edu/archives/fall2011/entries/dialectical-school/)>
 * Bowie, G. Lee, 1979, “The Similarity Approach to Counterfactuals: Some Problems”, _Noûs_, 13(4): 477–498. doi:10.2307/2215340
 * Brée, D.S., 1982, “Counterfactuals and Causality”, _Journal of Semantics_, 1(2): 147–185. doi:10.1093/jos/1.2.147
@@ -1411,7 +1411,7 @@ b.
 * –––, 1984, _Inquiry_, Cambridge, MA: MIT Press.
 * –––, 1999, _Context and Content: Essays on Intentionality in Speech and Thought_, Oxford: Oxford University Press.
 * Stalnaker, Robert C. and Richmond H. Thomason, 1970, “A Semantic Analysis of Conditional Logic”, _Theoria_, 36(1): 23–42. doi:10.1111/j.1755-2567.1970.tb00408.x
-* Starr, William B., 2012, _The Structure of Possible Worlds_, UCLA Workshop. \[[Starr 2012 available online](http://williamstarr.net/research/the\_structure\_of\_possible\_worlds.pdf)]
+* Starr, William B., 2012, _The Structure of Possible Worlds_, UCLA Workshop. \[[Starr 2012 available online](http://williamstarr.net/research/the\structure\of\possible\worlds.pdf)]
 * –––, 2014, “A Uniform Theory of Conditionals”, _Journal of Philosophical Logic_, 43(6): 1019–1064. doi:10.1007/s10992-013-9300-8
 * Stone, Matthew, 1997, “The Anaphoric Parallel between Modality and Tense”. Philadelphia, PA: University of Pennsylvania Institute for Research in Cognitive Science, Technical Report No. MS-CIS-97-06. \[[Stone 1997 available online](https://www.cs.rutgers.edu/\~mdstone/pubs/ircs97-06.pdf)]
 * Swanson, Eric, 2012, “Conditional Excluded Middle without the Limit Assumption”, _Philosophy and Phenomenological Research_, 85(2): 301–321. doi:10.1111/j.1933-1592.2011.00507.x

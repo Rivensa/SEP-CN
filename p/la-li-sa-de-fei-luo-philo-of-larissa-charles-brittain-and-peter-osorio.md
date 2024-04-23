@@ -349,7 +349,7 @@ _首次发表于2006年10月5日；实质性修订于2021年3月25日。_
 
 ## Other Internet Resources
 
-* Burnyeat, Myles F. “[Carneades was no probabilist](https://drive.google.com/file/d/0B6mvkL\_4mq0hMGNmYTRlY2QtZTZlNy00NWZlLWEyMzItZjlkYWE5YjdiYmJl/view?usp=sharing\&resourcekey=0--d81Xg1IWs3hJCXI0GHFCg)”, unpublished manuscript. \[Note: This is a large (\~80MB) file.]
+* Burnyeat, Myles F. “[Carneades was no probabilist](https://drive.google.com/file/d/0B6mvkL\4mq0hMGNmYTRlY2QtZTZlNy00NWZlLWEyMzItZjlkYWE5YjdiYmJl/view?usp=sharing\&resourcekey=0--d81Xg1IWs3hJCXI0GHFCg)”, unpublished manuscript. \[Note: This is a large (\~80MB) file.]
 
 ## Related Entries
 

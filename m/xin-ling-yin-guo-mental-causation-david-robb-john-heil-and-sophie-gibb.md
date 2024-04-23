@@ -621,5 +621,5 @@ We are grateful to the editors for helpful advice on preparing this entry.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [David Robb](https://www.davidson.edu/academics/philosophy/faculty-and-staff/david-robb) <[_darobb@davidson.edu_](mailto:darobb%40davidson%2eedu)>\
-[John Heil](http://philosophy.artsci.wustl.edu/people/John\_Heil) <[_jh@wustl.edu_](mailto:jh%40wustl%2eedu)>\
+[John Heil](http://philosophy.artsci.wustl.edu/people/John\Heil) <[_jh@wustl.edu_](mailto:jh%40wustl%2eedu)>\
 Sophie Gibb <[_s.c.gibb@durham.ac.uk_](mailto:s%2ec%2egibb%40durham%2eac%2euk)>

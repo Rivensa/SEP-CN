@@ -131,7 +131,7 @@ Black 的球体是第三级可辨别的，因为它们处于对称关系，至�
 ## Other Internet Resources
 
 * [Entry on Leibniz](https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/), MacTutor History of Mathematics Archive (edited by John J O’Connor and Edmund F Robertson, University of St. Andrews)
-* [Links on the topic of identity](http://dmoz.org/Society/Philosophy/Philosophy\_of\_Logic/Identity/), Open Directory Project (Society → Philosophy → Philosophy of Logic → Identity).
+* [Links on the topic of identity](http://dmoz.org/Society/Philosophy/Philosophy\of\Logic/Identity/), Open Directory Project (Society → Philosophy → Philosophy of Logic → Identity).
 
 ## Related Entries
 

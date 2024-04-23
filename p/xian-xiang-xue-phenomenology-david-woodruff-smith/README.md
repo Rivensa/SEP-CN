@@ -353,4 +353,4 @@ _首次发表于2003年11月16日；实质性修订于2013年12月16日。_
 [bodily awareness](https://plato.stanford.edu/entries/bodily-awareness/) | [consciousness](https://plato.stanford.edu/entries/consciousness/) | [consciousness: and intentionality](https://plato.stanford.edu/entries/consciousness-intentionality/) | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [intentionality: phenomenal](https://plato.stanford.edu/entries/phenomenal-intentionality/) | [meaning, theories of](https://plato.stanford.edu/entries/meaning/) | [Merleau-Ponty, Maurice](https://plato.stanford.edu/entries/merleau-ponty/) | [Reinach, Adolf](https://plato.stanford.edu/entries/reinach/) | [Schutz, Alfred](https://plato.stanford.edu/entries/schutz/) | [self-consciousness: phenomenological approaches to](https://plato.stanford.edu/entries/self-consciousness-phenomenological/)
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
-[David Woodruff Smith](http://www.faculty.uci.edu/profile.cfm?faculty\_id=2508)
+[David Woodruff Smith](http://www.faculty.uci.edu/profile.cfm?faculty\id=2508)

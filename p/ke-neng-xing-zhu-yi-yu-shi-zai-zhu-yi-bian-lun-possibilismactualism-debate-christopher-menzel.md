@@ -1023,9 +1023,9 @@ Lp→Lp 现在仍然可以被证明为必要的：
 *
 * 模态公理模式\* [**K**](https://plato.stanford.edu/entries/possibilism-actualism/#ModalSchemas), [**T**](https://plato.stanford.edu/entries/possibilism-actualism/#ModalSchemas), **5**​_A_, □◊A
 * _严肃实在主义公理模式_ [**GSA**](https://plato.stanford.edu/entries/possibilism-actualism/#GSA), [**MSA**](https://plato.stanford.edu/entries/possibilism-actualism/#MSA)
-* _量化公理模式_ [**Q1**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas), [**FQ2**](https://plato.stanford.edu/entries/possibilism-actualism/#FQ2\_A), [**Q3**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas)
+* _量化公理模式_ [**Q1**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas), [**FQ2**](https://plato.stanford.edu/entries/possibilism-actualism/#FQ2\A), [**Q3**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas)
 *
-* 存在性公理模式\* [**E!**](https://plato.stanford.edu/entries/possibilism-actualism/#Ex\_A)​\*[A](https://plato.stanford.edu/entries/possibilism-actualism/#Ex\_A)\*
+* 存在性公理模式\* [**E!**](https://plato.stanford.edu/entries/possibilism-actualism/#Ex\A)​\*[A](https://plato.stanford.edu/entries/possibilism-actualism/#Ex\A)\*
 *
 * 身份公理模式\* [**∀Id1**](https://plato.stanford.edu/entries/possibilism-actualism/#GenId1), [**Id2**](https://plato.stanford.edu/entries/possibilism-actualism/#IdSchemas)
 *
@@ -1050,9 +1050,9 @@ Lp→Lp 现在仍然可以被证明为必要的：
 * _Serious Actualist Axiom Schema_\
   [**GSA**](https://plato.stanford.edu/entries/possibilism-actualism/#GSA)
 * _Quantificational Axiom Schemas_\
-  [**Q1**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas), [**FQ2**](https://plato.stanford.edu/entries/possibilism-actualism/#FQ2\_A), [**Q3**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas)
+  [**Q1**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas), [**FQ2**](https://plato.stanford.edu/entries/possibilism-actualism/#FQ2\A), [**Q3**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas)
 * _Existence Axiom Schema_\
-  [__E!___A_](https://plato.stanford.edu/entries/possibilism-actualism/#Ex\_A)
+  [__E!___A_](https://plato.stanford.edu/entries/possibilism-actualism/#Ex\A)
 * _Identity Axiom Schemas_\
   [**∀Id1**](https://plato.stanford.edu/entries/possibilism-actualism/#GenId1), [**Id2**](https://plato.stanford.edu/entries/possibilism-actualism/#IdSchemas)
 * _Rules of Inference_\
@@ -1083,7 +1083,7 @@ _A_\* (under the name “_A_”) is proved sound and complete in Menzel 1991.
 * –––, 2006, “Absolute Actuality and the Plurality of Worlds”, _Philosophical Perspectives_, 20: 41–76. doi:10.1111/j.1520-8583.2006.00102.x
 * Bringsjord, Selmer, 1985, “Are There Set Theoretic Possible Worlds?”, _Analysis_, 45(1): 64–64. doi:10.1093/analys/45.1.64
 * Brown, Deborah J., 2008, “Descartes on True and False Ideas”, in _A Companion to Descartes_, Janet Broughton and John Carriero (eds.), Malden, MA/Oxford: Blackwell, 196–215. doi:10.1002/9780470696439.ch12
-* Cameron, Ross P., 2012, “Why Lewis’s Analysis of Modality Succeeds in Its Reductive Ambitions.”, _Philosophers_’ _Imprint_, 12: article 8. \[[Cameron 2012 available online](https://urldefense.com/v3/\_\_http:/hdl.handle.net/2027/spo.3521354.0012.008\_\_;!!KwNVnqRv!CEPK2vypiyUW4UnZOy\_wZ0RrmMuMsruYA8c8-fujFa9glZ8JwplXbgXmXMac6bq8azhjtxRa4CL7kgDFH8TE6AdN$)]
+* Cameron, Ross P., 2012, “Why Lewis’s Analysis of Modality Succeeds in Its Reductive Ambitions.”, _Philosophers_’ _Imprint_, 12: article 8. \[[Cameron 2012 available online](https://urldefense.com/v3/\\http:/hdl.handle.net/2027/spo.3521354.0012.008\\;!!KwNVnqRv!CEPK2vypiyUW4UnZOy\wZ0RrmMuMsruYA8c8-fujFa9glZ8JwplXbgXmXMac6bq8azhjtxRa4CL7kgDFH8TE6AdN$)]
 * –––, 2016, “On Characterizing the Presentism/Eternalism and Actualism/Possibilism Debates”, _Analytic Philosophy_, 57(2): 110–140. doi:10.1111/phib.12083
 * Caplan, Ben, 2007, “A New Defence of the Modal Existence Requirement”, _Synthese_, 154(2): 335–343. doi:10.1007/s11229-005-3491-7
 * Carnap, Rudolf, 1946, “Modalities and Quantification”, _Journal of Symbolic Logic_, 11(2): 33–64. doi:10.2307/2268610

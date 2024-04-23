@@ -211,7 +211,7 @@ Girgis 等人认为，婚姻的结合解释反映了其真正的本质，但自 
 
 ## 7. 残疾
 
-在 20 世纪 70 年代和 80 年代，残疾人越来越多地主张他们在法律和社会中被视为二等公民。他们组织成一个公民权利运动，要求立法帮助他们获得自由和平等公民的地位。反对基于残疾的歧视的保护被写入了[加拿大权利和自由宪章](http://laws-lois.justice.gc.ca/eng/charter/)、[欧洲联盟基本权利宪章和《残疾人权利公约》](http://www.europarl.europa.eu/charter/default\_en.htm)。美国的残疾权利运动以 1990 年通过的[《美国残疾人法案》](http://www.usdoj.gov/crt/ada/pubs/ada.txt)(ADA)告终。ADA 已成为澳大利亚、印度和以色列等国立法的模范。
+在 20 世纪 70 年代和 80 年代，残疾人越来越多地主张他们在法律和社会中被视为二等公民。他们组织成一个公民权利运动，要求立法帮助他们获得自由和平等公民的地位。反对基于残疾的歧视的保护被写入了[加拿大权利和自由宪章](http://laws-lois.justice.gc.ca/eng/charter/)、[欧洲联盟基本权利宪章和《残疾人权利公约》](http://www.europarl.europa.eu/charter/default\en.htm)。美国的残疾权利运动以 1990 年通过的[《美国残疾人法案》](http://www.usdoj.gov/crt/ada/pubs/ada.txt)(ADA)告终。ADA 已成为澳大利亚、印度和以色列等国立法的模范。
 
 残疾权利运动始于这样一个观念：基于残疾的歧视在道德上并无与基于种族的歧视有任何重要区别。该运动的目的是将保护基于种族的人的反歧视原则，以法律形式确立起来。但一些理论家质疑这种类比的适用程度。他们指出，将反歧视规范应用于残疾，例如通过安装通往建筑物的坡道或提供特殊教育计划，需要考虑到人们之间的身体或精神差异。这似乎是基于一个人的身体或精神特征进行的治疗，显然与传统反歧视原则背后的“色盲”理想恰恰相反。
 
@@ -231,7 +231,7 @@ Girgis 等人认为，婚姻的结合解释反映了其真正的本质，但自 
 
 * Allen v. State Board of Elections 89 S.Ct. 817 (1969).
 * Americans With Disabilities Act. 42 U.S.C. §§12101–12213 (1999).
-* [Brnovich v. D.N.C. 594 U.S. \_\_ (2021) available online](https://www.supremecourt.gov/opinions/20pdf/19-1257\_g204.pdf).
+* [Brnovich v. D.N.C. 594 U.S. \\ (2021) available online](https://www.supremecourt.gov/opinions/20pdf/19-1257\g204.pdf).
 * Civil Rights Act of 1866. 42 U.S.C §1981 (1999).
 * Civil Rights Act of 1964. 42 U.S.C. §§2000e et seq.
 * [Civil Rights Cases 109 U.S. 3 (1883) available online](https://supreme.justia.com/cases/federal/us/109/3/).
@@ -280,7 +280,7 @@ Girgis 等人认为，婚姻的结合解释反映了其真正的本质，但自 
 * Hosein, Adam Omar, 2018, “Racial Profiling and A Reasonable Sense of Inferior Political Status.” _Journal of Political Philosophy_, 26: e1–e20.
 * Keyssar, Alexander, 2000, _The Right to Vote_, New York: Basic Books.
 * Kittay, Eva F., 2000, “At Home with My Daughter,” in L.P. Francis and A. Silvers (eds.), _Americans with Disabilities_, New York: Routledge, pp. 64–80.
-* Koh, Harold Hongju, et al., 2015, “Brief for Foreign and Comparative Law Experts Harold Hongju Koh et al. as Amici Curiae in Support of Petitioners,” _Obergefell v. Hodges_, March 6. [Koh et al. brief available online](https://scholarship.law.duke.edu/faculty\_scholarship/3446/).
+* Koh, Harold Hongju, et al., 2015, “Brief for Foreign and Comparative Law Experts Harold Hongju Koh et al. as Amici Curiae in Support of Petitioners,” _Obergefell v. Hodges_, March 6. [Koh et al. brief available online](https://scholarship.law.duke.edu/faculty\scholarship/3446/).
 * Koppelman, Andrew, 1996. _Antidiscrimination Law and Social Equality_, New Haven: Yale University Press.
 * –––, 1997, “Three Arguments for Gay Rights,” _Michigan Law Review_, 95: 1636–67.
 * Kymlicka, Will, 1995, _Multicultural Citizenship_, Oxford: Clarendon Press.
@@ -308,7 +308,7 @@ Girgis 等人认为，婚姻的结合解释反映了其真正的本质，但自 
 * Schmidt, Christopher W., 2021, _Civil Rights in America: A History_, New York: Cambridge University Press.
 * Silvers, Anita, 1998, “Formal Justice,” in A. Silvers, D. Wasserman and M. Mahowald (eds.), _Disability, Difference, Discrimination_, Lanham, MD: Rowman and Littlefield: 13–145.
 * Taylor, Charles, 1994, “The Politics of Recognition,” in A. Guttman (ed.), _Multiculturalism_, Princeton: Princeton University Press.
-* U.S. Commission on Civil Rights, 2018, “An Assessment of Minority Voting Rights Access in the United States.” [2018 Assessment available online](https://www.usccr.gov/files/pubs/2018/Minority\_Voting\_Access\_2018.pdf).
+* U.S. Commission on Civil Rights, 2018, “An Assessment of Minority Voting Rights Access in the United States.” [2018 Assessment available online](https://www.usccr.gov/files/pubs/2018/Minority\Voting\Access\2018.pdf).
 * Wardle, Lynn, 1996, “A Critical Analysis of Constitutional Claims for Same-Sex Marriage,” _Brigham Young Law Review_, 1996: 1–96
 * Wasserstrom, Richard, 2001, “Racism and Sexism,” reprinted in B. Boxill (ed.), _Race and Racism_, Oxford: Oxford University Press, pp. 307–43.
 * West, Robin, 2019, _Civil Rights_, Cambridge: Cambridge University Press.
@@ -327,9 +327,9 @@ Girgis 等人认为，婚姻的结合解释反映了其真正的本质，但自 
 * [Civil Rights Division](http://www.usdoj.gov/crt/crt-home.html), U.S. Department of Justice.
 * [The Civil Rights Project](http://www.civilrightsproject.ucla.edu/), UCLA.
 * [U.S. Commission on Civil Rights](http://www.usccr.gov/)
-* [Cornell University Legal Information Institute: Civil Rights](http://www.law.cornell.edu/topics/civil\_rights.html)
+* [Cornell University Legal Information Institute: Civil Rights](http://www.law.cornell.edu/topics/civil\rights.html)
 * [U.S. Equal Employment Opportunity Commission](http://www.eeoc.gov/)
-* [Human Rights Quarterly](http://muse.jhu.edu/journals/human\_rights\_quarterly/toc/hrq24.2.html)
+* [Human Rights Quarterly](http://muse.jhu.edu/journals/human\rights\quarterly/toc/hrq24.2.html)
 * [International Covenant on Civil and Political Rights](http://www1.umn.edu/humanrts/instree/b3ccpr.htm)
 * [International Covenant on Economic, Social and Cultural Rights](http://www.ohchr.org/EN/ProfessionalInterest/Pages/CESCR.aspx)
 * [International Human Rights Instruments](http://www1.umn.edu/humanrts/instree/ainstls1.htm)

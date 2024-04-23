@@ -93,7 +93,7 @@ Schwann 的“细胞理论”比他很快被拒绝的细胞形成观点要丰富
 
 ![13 个有丝分裂各阶段的图示](https://plato.stanford.edu/entries/cell-biology/Flemming-1882.png)
 
-Figure 3: Flemming’s (1882) drawings of the stages of mitosis that highlights the formation of spindles and their role in segregating chromosomes. Images 1–3 are from Tafel IIIa; 4–7 from Tafel IIIb. (Figure from [wiki commons](https://commons.wikimedia.org/wiki/File:Cell\_division\_according\_to\_W.\_Flemming\_\(1882\).png).) 重试 错误原因
+Figure 3: Flemming’s (1882) drawings of the stages of mitosis that highlights the formation of spindles and their role in segregating chromosomes. Images 1–3 are from Tafel IIIa; 4–7 from Tafel IIIb. (Figure from [wiki commons](https://commons.wikimedia.org/wiki/File:Cell\division\according\to\W.\Flemming\\(1882\).png).) 重试 错误原因
 
 Late in the nineteenth century cytologists also succeeded in identifying membrane-enclosed structures in the cytoplasm that came to be known as _organelles_. Altmann (1890), using new stains he developed, observed filaments within cells that he took to be elementary organisms (a view he explicitly set in opposition to the protoplasm theory). Although many researchers challenged Altmann’s observations, Benda (1899) confirmed the existence of filaments using a different stain and gave them the name _mitochondria_ (Greek for “thread” and “granule”). Because of their reactivity with oxidative stains, Michaelis (1899) proposed that they figured in oxidative reactions in cells. Yet other researchers identified other organelles such as the Golgi apparatus (Golgi 1898) and ergastoplasm (Garnier 1897), which was ultimately identified as the endoplasmic reticulum. 重试 错误原因
 

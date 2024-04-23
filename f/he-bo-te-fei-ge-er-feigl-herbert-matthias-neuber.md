@@ -256,7 +256,7 @@ A fuller bibliography can be found in Feigl 1981.
 
 ## Other Internet Resources
 
-* [Herbert Feigl](http://en.wikipedia.org/wiki/Herbert\_Feigl), entry in Wikipedia.
+* [Herbert Feigl](http://en.wikipedia.org/wiki/Herbert\Feigl), entry in Wikipedia.
 * [History: Minnesota Center for the Philosophy of Science](http://www.mcps.umn.edu/about/history.html).
 
 ## Related Entries

@@ -527,7 +527,7 @@ Joseph Ford 提供了对应原理的不同解释：“任何两个在其有效�
 
 ## Bibliography
 
-* Aihara, K. (2008), “Chaos in Neurons”, _Scholarpedia_, 3(5): 1768 [available online](http://www.scholarpedia.org/article/Chaos\_in\_neurons), referenced on 31 July 2014.
+* Aihara, K. (2008), “Chaos in Neurons”, _Scholarpedia_, 3(5): 1768 [available online](http://www.scholarpedia.org/article/Chaos\in\neurons), referenced on 31 July 2014.
 * Anderson, M. L. (2010), “Neural Re-use as a Fundamental Organizational Principle of the Brain”, _Behavioral Brain Science_, 33: 45–313.
 * Aristotle (1985) \[OTH], _On the Heavens_,; in. J. Barnes (ed.), _The Complete Works of Aristotle: The Revised Oxford Translation_, Vol 1. Princeton: Princeton University Press.
 * Arnold, V. I. and Avez, A. (1968), _Ergodic Problems of Classical Mechanics_. Reading, MA: W. A. Benjamin.

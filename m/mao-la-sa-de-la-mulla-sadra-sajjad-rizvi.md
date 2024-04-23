@@ -340,7 +340,7 @@ For basic guides to his life, works and thought, see:
 * Fazlur Rahman (1975), _The Philosophy of Mulla Sadra_ (Albany: State University of New York Press).
 * Sajjad H. Rizvi (2005), “Molla Sadra Shirazi,” _Encyclopaedia Iranica_, available online at [MOLLĀ ṢADRĀ ŠIRĀZI – Encyclopaedia Iranica](https://www.iranicaonline.org/articles/molla-sadra-sirazi)
 * Sajjad H. Rizvi (2007), _Mulla Sadra Shirazi: His Life, Works and the Sources for Safavid Philosophy_ (JSS Supplements 18, Oxford: Oxford University Press).
-* Nahid Baqiri Khurramdashti (1999), _Kitabshinasi-yi jami‘-yi Sadr al- Muta’allihin_ (Tehran: Bunyad-i Hikmat-i islami-yi Sadra/Sadra Islamic Philosophy Research Institute = [S.I.P.R.In)](http://www.mullasadra.org/new\_site/English/index.htm).
+* Nahid Baqiri Khurramdashti (1999), _Kitabshinasi-yi jami‘-yi Sadr al- Muta’allihin_ (Tehran: Bunyad-i Hikmat-i islami-yi Sadra/Sadra Islamic Philosophy Research Institute = [S.I.P.R.In)](http://www.mullasadra.org/new\site/English/index.htm).
 
 ### A. Editions
 

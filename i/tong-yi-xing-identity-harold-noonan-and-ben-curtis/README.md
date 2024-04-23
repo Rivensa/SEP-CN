@@ -357,7 +357,7 @@ Geach 广泛使用的一个概念，也是他的对手常用的一个概念，�
 ## Other Internet Resources
 
 * [Formal Ontology](http://www.formalontology.it/)
-* [Bibliography on Persistence, etc.](http://tedsider.org/teaching/pp\_bibliography.pdf) (maintained by Ted Sider, Rutgers University)
+* [Bibliography on Persistence, etc.](http://tedsider.org/teaching/pp\bibliography.pdf) (maintained by Ted Sider, Rutgers University)
 
 ## Related Entries
 

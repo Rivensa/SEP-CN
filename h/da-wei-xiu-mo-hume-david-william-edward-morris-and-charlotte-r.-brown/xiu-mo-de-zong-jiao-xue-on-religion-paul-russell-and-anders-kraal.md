@@ -483,7 +483,7 @@ In the entry above, we Follow the convention given in the Nortons’ _Treatise_ 
 
 ### Podcasts
 
-* [Philosophy: The Classics](http://philclassics.libsyn.com/hume\_dialogues), web page with a link to an audio stream of Nigel Warburton giving his summary of Hume’s _Dialogues_, from his book _Philosophy: The Classics_.
+* [Philosophy: The Classics](http://philclassics.libsyn.com/hume\dialogues), web page with a link to an audio stream of Nigel Warburton giving his summary of Hume’s _Dialogues_, from his book _Philosophy: The Classics_.
 * [Philosophy Bites: Paul Russell on David Hume’s Philosophy of Irreligion](http://philosophybites.com/2011/04/paul-russell-on-david-humes-treatise.html), web page with a link to audio file.
 * [Philosophy Bites: Peter Millican on Hume’s Significance](http://philosophybites.com/2008/04/peter-millican.html), web page with link to audio file.
 * [Philosophy Bites: Stewart Sutherland on Hume on Design](http://philosophybites.com/2007/10/stewart-sutherl.html), web page with link to audio file.

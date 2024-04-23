@@ -1302,7 +1302,7 @@ Cubitt 等人的不可计算性结果源于他们发现停机问题可以被编�
 * –––, 1948 \[2004], “Intelligent Machinery”, National Physical Laboratory Report, in Copeland 2004: 410–432 (ch. 10).
 * –––, 1950a \[2004], “Computing Machinery and Intelligence”, _Mind_, 59(236): 433–460. Reprinted in Copeland 2004: 441–464 (ch. 11). doi:10.1093/mind/LIX.236.433
 * –––, 1950b, “The Word Problem in Semi-Groups With Cancellation”, _Annals of Mathematics_, second series 52(2): 491–505. doi:10.2307/1969481
-* –––, c.1950, _Programmers’ Handbook for Manchester Electronic Computer Mark II_, Computing Machine Laboratory, University of Manchester. \[[Turing c.1950 available online](http://www.alanturing.net/programmers\_handbook)]
+* –––, c.1950, _Programmers’ Handbook for Manchester Electronic Computer Mark II_, Computing Machine Laboratory, University of Manchester. \[[Turing c.1950 available online](http://www.alanturing.net/programmers\handbook)]
 * –––, 1954 \[2004], “Solvable and Unsolvable Problems”, _Science News_ (Penguin Books), 31: 7–23. Reprinted in Copeland 2004: 582–595 (ch. 17).
 * van Heijenoort, Jean, 1967, _From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931_, Cambridge, MA: Harvard University Press.
 * Venn, John, 1880, “On the Diagrammatic and Mechanical Representation of Propositions and Reasonings”, _The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science_, fifth series, 10(59): 1–18. doi:10.1080/14786448008626877

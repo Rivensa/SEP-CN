@@ -353,7 +353,7 @@ McLarty 的一系列文章很好地代表了第一条回应线（例如，McLart
 
 ## Other Internet Resources
 
-* Ketland, J., 2015, “[Abstract Structure](https://www.academia.edu/7673229/Abstract\_Structure)”, unpublished manuscript.
+* Ketland, J., 2015, “[Abstract Structure](https://www.academia.edu/7673229/Abstract\Structure)”, unpublished manuscript.
 * [Mathematical Structuralism](https://www.iep.utm.edu/m-struct/), by Stewart Shapiro, _Internet Encyclopedia of Philosophy_.
 
 ## Related Entries

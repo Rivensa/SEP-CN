@@ -44,7 +44,7 @@
 
 ## 出版伦理
 
-以下内容改编自 2011 年由出版伦理委员会（Committee on Publication Ethics）发布的《期刊编辑行为准则和最佳实践指南》（http://www.psychopen.eu/fileadmin/user\_upload/documents/guidelines/publication\_ethics\_and\_publication\_malpractice\_statement.pdf）。
+以下内容改编自 2011 年由出版伦理委员会（Committee on Publication Ethics）发布的《期刊编辑行为准则和最佳实践指南》（http://www.psychopen.eu/fileadmin/user\upload/documents/guidelines/publication\ethics\and\publication\malpractice\statement.pdf）。
 
 SEP 编辑们努力满足其预期受众的需求；不断改进我们的参考工作；建立流程以确保我们发布的材料质量；维护学术记录的完整性；防止商业需求损害知识产权和道德标准；并根据需要及时发布更正、澄清等信息。SEP 编辑们进一步努力：积极欢迎作者、读者、审稿人和编辑委员会成员关于改进他们 SEP 流程的意见；鼓励并关注同行评审和出版研究，并根据新发现重新评估 SEP 流程；支持旨在减少研究和出版不端行为的倡议；支持旨在教育研究人员出版伦理的倡议；评估我们的政策对作者和审稿人行为的影响，并根据需要修改政策，以鼓励负责任的行为并阻止不端行为。最后，SEP 编辑们将：确保所有条目由合格的审稿人审查；采用鼓励准确性、完整性和报告清晰度的流程；采用促进良好实践的作者或贡献者制度（即作者信息准确反映谁做了工作），并阻止不端行为（例如幽灵作者和客座作者）；确保利益冲突得到适当处理。
 

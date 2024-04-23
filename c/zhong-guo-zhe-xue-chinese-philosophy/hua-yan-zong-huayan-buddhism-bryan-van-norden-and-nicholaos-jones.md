@@ -298,7 +298,7 @@ Chengguan 将慧远的_判教_视为他对禅修实践理解贫乏的产物。�
 
 ## Other Internet Resources
 
-* Harris, Eirik Lang (trans.), n.d., partial translation of Mou Zongsan, Xu Fuguan, Zhang Junmai, Tang Junyi, and Xie Youwei, [“Manifesto on Behalf of Chinese Culture Respectfully Announced to the People of the World: Our Joint Understanding of Sinological Study and Chinese Culture with Respect to the Future Prospects of World Culture.”](https://www.hackettpublishing.com/mou\_zongsan\_manifesto)
+* Harris, Eirik Lang (trans.), n.d., partial translation of Mou Zongsan, Xu Fuguan, Zhang Junmai, Tang Junyi, and Xie Youwei, [“Manifesto on Behalf of Chinese Culture Respectfully Announced to the People of the World: Our Joint Understanding of Sinological Study and Chinese Culture with Respect to the Future Prospects of World Culture.”](https://www.hackettpublishing.com/mou\zongsan\manifesto)
 * Fazang, [Paragraphs on the Teaching of the Identity and Difference of the One Vehicle of Huayan](http://www.hkshp.org/cclassic/suitang/facang1.txt) at the Hong Kong Society of Humanities (in Chinese).
 * Fazang, [“Essay on the Golden Lion”](http://www.hkshp.org/cclassic/suitang/HuaYanJinShiZiZhang.htm) at the Hong Kong Society of Humanities (in Chinese).
 

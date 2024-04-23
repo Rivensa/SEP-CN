@@ -311,7 +311,7 @@ BFi(E)={w∣Min⪯i(F∩Πi(w))⊆E}
 
 我们用一个例子来总结本节以说明上述概念。再次回想一下[图 4](https://plato.stanford.edu/entries/epistemic-game/#coord-game)中的协调游戏：对于玩家 1（安），有两种行动选择 u 和 d，对于玩家 2（鲍勃），有两种行动选择 r 和 l。再次强调，玩家的偏好（或效用）在这个阶段并不重要，因为我们只关心描述玩家的信息。下面的认知-可能性模型是与这个游戏相关的玩家信息态度的一种可能描述。实线代表玩家 1 的信息态度，虚线代表玩家 2 的信息态度。箭头对应于玩家的可能性排序，从 w 到 v 的 i-箭头表示 v⪯iw（我们没有绘制所有的箭头：每个可能性排序可以通过填充由自反性和传递性导致的箭头来完善）。不同的区域代表了玩家的硬信息。
 
-!\[[a diagram of six circles labelled w\_1](https://plato.stanford.edu/entries/epistemic-game/fig7.png)
+!\[[a diagram of six circles labelled w\1](https://plato.stanford.edu/entries/epistemic-game/fig7.png)
 
 图 7
 

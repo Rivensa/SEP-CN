@@ -330,7 +330,7 @@ Kurt：“这会说我们还不确定。”
 
 ## Other Internet Resources
 
-* Sutcliffe, Roger, 2019, “[No Philosophy–No Humanity](https://www.youtube.com/watch?v=I6\_Nqf8eo-Q),” TEDx Warwick, March 2019, video available at youtube.com.
+* Sutcliffe, Roger, 2019, “[No Philosophy–No Humanity](https://www.youtube.com/watch?v=I6\Nqf8eo-Q),” TEDx Warwick, March 2019, video available at youtube.com.
 * [ICPIC: International Council for Philosophical Inquiry with Children](http://www.icpic.org/).
 * [IAPC: Institute for the Advancement of Philosophy for Children](https://www.montclair.edu/cehs/academics/centers-and-institutes/iapc/).
 * [SAPERE: Society for the Advancement of Philosophical Enquiry and Reflection in Education](http://www.sapere.org.uk/).

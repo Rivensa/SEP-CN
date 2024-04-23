@@ -14,7 +14,7 @@ _首次发表于2004年6月22日；实质性修订于2021年4月19日。_
     * [2.1.1 个人的](https://plato.stanford.edu/entries/kant-religion/#Pers)
     * [2.1.2 科学的](https://plato.stanford.edu/entries/kant-religion/#Scie)
     * [2.1.3 哲学的](https://plato.stanford.edu/entries/kant-religion/#Phil)
-  * [2.2 伊曼努尔·康德的先验宗教思想](https://plato.stanford.edu/entries/kant-religion/#KantPreCritReliThou\_1)
+  * [2.2 伊曼努尔·康德的先验宗教思想](https://plato.stanford.edu/entries/kant-religion/#KantPreCritReliThou\1)
     * [2.2.1 上帝作为充足的存在](https://plato.stanford.edu/entries/kant-religion/#GodAllSuffAllgBein)
     * [2.2.2 对本体论证的否定](https://plato.stanford.edu/entries/kant-religion/#RejeOntoArgu)
     * [2.2.3 伊曼努尔·康德关于上帝存在的论述](https://plato.stanford.edu/entries/kant-religion/#KantOwnArguForGodsExis)
@@ -683,7 +683,7 @@ Other writings from the critical period relevant to Kant’s view of God and rel
 * [North American Kant Society](https://northamericankantsociety.org/)
 * [Kant in the Classroom](https://users.manchester.edu/FacStaff/SSNaragon/Kant/Home/index.htm)
 * [Kant on the Web](https://staffweb.hkbu.edu.hk/ppp/Kant.html), maintained by Steve Palmquist, Hong Kong Baptist University
-* [Kant Research Center, Mainz University](https://www.kant.uni-mainz.de/e\_index.html)
+* [Kant Research Center, Mainz University](https://www.kant.uni-mainz.de/e\index.html)
 
 ## Related Entries
 

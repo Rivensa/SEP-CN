@@ -760,7 +760,7 @@ Norton 提出的关于在可数时间间隔上的均匀分布的不可能性的�
 * Suppes, Patrick, 1984, _Probabilistic Metaphysics_, Oxford: Blackwell.
 * Talbott, William, 2008, ‘Bayesian Epistemology’, in _The Stanford Encyclopedia of Philosophy_ (Fall 2008 edition), Edward N. Zalta (ed.), URL =<[Bayesian Epistemology (Stanford Encyclopedia of Philosophy/Fall 2008 Edition)](https://plato.stanford.edu/archives/fall2008/entries/epistemology-bayesian/)>.
 * Thau, Michael, 1994, ‘Undermining and Admissibility’, _Mind_, 103: 491–503.
-* van Lambalgen, Michiel, 1987a, _Random Sequences_, Ph.D. thesis, University of Amsterdam, [\[Available online\]](http://www.researchgate.net/publication/2559809\_Random\_Sequences/file/e0b49522df22640b50.pdf).
+* van Lambalgen, Michiel, 1987a, _Random Sequences_, Ph.D. thesis, University of Amsterdam, [\[Available online\]](http://www.researchgate.net/publication/2559809\Random\Sequences/file/e0b49522df22640b50.pdf).
 * –––, 1987b, ‘Von Mises’ Definition of Random Sequences Revisited’, _Journal of Symbolic Logic_, 52: 725–55.
 * –––, 1995, ‘Randomness and Infinity’, Tech. Rep. ML-1995-01, ILLC, University of Amsterdam, URL = \[[Available online](http://www.illc.uva.nl/Publications/ResearchReports/ML-1995-01.text.ps.gz) (in compressed Postscript)].
 * Venn, John, 1876, _The Logic of Chance_, London: Macmillan and Co., 2nd edition.
@@ -792,9 +792,9 @@ Norton 提出的关于在可数时间间隔上的均匀分布的不可能性的�
 * Lieb, E. H., Daniel Osherson, and Scott Weinstein, 2006, ‘Elementary proof of a theorem of Jean Ville’ arXiv:cs/0607054v1 [\[Available online\]](http://arxiv.org/abs/cs/0607054).
 * Nies, André, 2011, ‘Randomness and computable analysis: Results and open questions’, talk at Computability, Complexity and Randomness, Cape Town, [\[Slides Available Online\]](http://dl.dropbox.com/u/370127/talks/RandomnessComputableAnalysisNies.pdf).
 * [Norton’s Dome](http://www.pitt.edu/\~jdnorton/Goodies/Dome/index.html)
-* Reaber, Grant, 2010, ‘[The Deference-Based Conception of Rational Belief Updating](http://fitelson.org/few/few\_10/reaber.pdf)’.
+* Reaber, Grant, 2010, ‘[The Deference-Based Conception of Rational Belief Updating](http://fitelson.org/few/few\10/reaber.pdf)’.
 * Reimann, Jan, and Theodore A. Slaman, 2008, ‘[Measures and Their Random Reals](http://arxiv.org/abs/0802.2705v1).’
-* Rute, Jason, 2011, ‘Randomness and the Lebesgue Differentiation Theorem’, talk at Southern Wisconsin Logic Colloquium, [\[Slides available online\]](http://www.math.cmu.edu/\~jrute/talks/rute\_2011\_05\_SWLC.pdf).
+* Rute, Jason, 2011, ‘Randomness and the Lebesgue Differentiation Theorem’, talk at Southern Wisconsin Logic Colloquium, [\[Slides available online\]](http://www.math.cmu.edu/\~jrute/talks/rute\2011\05\SWLC.pdf).
 
 ### Related Entries
 

@@ -238,7 +238,7 @@ Humanists 对于将患有严重障碍的人类的完整道德地位建立在其�
 
 ## Bibliography
 
-* American Association on Intellectual and Developmental Disabilities. (2011). “Definition of Intellectual Disability.” [available online](http://www.aamr.org/content\_100.cfm?navID=21) \[accessed 12 August 2011].
+* American Association on Intellectual and Developmental Disabilities. (2011). “Definition of Intellectual Disability.” [available online](http://www.aamr.org/content\100.cfm?navID=21) \[accessed 12 August 2011].
 * Berube, M., 1996. _Life as We Know It: A Father, a Family, and an Exceptional Child_, New York: Pantheon.
 * Birch, T., 1993. “Moral Considerability and Universal Consideration,” _Environmental Ethics_, 15: 313–332.
 * Brown, F. and Gothelf, C., 1996. “Community Life for all Individuals,” in _People with Disabilities Who Challenge the System_, D.H. Lehr and F. Brown (eds.), Baltimore: Paul H. Brookes Publishing Co., 175–188.
@@ -324,7 +324,7 @@ Humanists 对于将患有严重障碍的人类的完整道德地位建立在其�
 
 ## Other Internet Resources
 
-* Wilkinson, D., 2008. [Answering the challenge: moral philosophy and the cognitively disabled](http://www.academia.edu/151381/Answering\_the\_challenge\_moral\_philosophy\_and\_the\_cognitively\_disabled), online manuscript, accessed Novemer 22, 2011.
+* Wilkinson, D., 2008. [Answering the challenge: moral philosophy and the cognitively disabled](http://www.academia.edu/151381/Answering\the\challenge\moral\philosophy\and\the\cognitively\disabled), online manuscript, accessed Novemer 22, 2011.
 
 ## Related Entries
 

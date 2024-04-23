@@ -495,4 +495,4 @@ Allen Buchanan 和 Russell Powell（2018）列举了十个道德进步的例子�
 I am grateful to David Copp, a subject editor for the _Stanford Encyclopedia of Philosophy_, and to David Braybrooke, Victor Kumar, and Duncan MacIntosh, who read a previous draft in full and caught numerous mistakes and unclarities. I am also grateful to colleagues and students in the Philosophy Department of Dalhousie University for their vigorous discussion of parts of this entry.
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Richmond Campbell](http://philosophy.dal.ca/Faculty%20and%20Staff/Richmond\_M.\_Campbell.php) <[_Richmond.Campbell@Dal.CA_](mailto:Richmond%2eCampbell%40Dal%2eCA)>
+[Richmond Campbell](http://philosophy.dal.ca/Faculty%20and%20Staff/Richmond\M.\Campbell.php) <[_Richmond.Campbell@Dal.CA_](mailto:Richmond%2eCampbell%40Dal%2eCA)>

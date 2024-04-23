@@ -618,7 +618,7 @@ The chapter and section numbers of the primary sources of early Chinese texts us
 
 ## Other Internet Resources
 
-* [Ancient Chinese Civilization: Bibliography of Materials in Western Languages (Paul Goldin)](https://www.academia.edu/37490636/Ancient\_Chinese\_Civilization\_Bibliography\_of\_Materials\_in\_Western\_Languages)
+* [Ancient Chinese Civilization: Bibliography of Materials in Western Languages (Paul Goldin)](https://www.academia.edu/37490636/Ancient\Chinese\Civilization\Bibliography\of\Materials\in\Western\Languages)
 * [Chad Hansen’s Chinese Philosophy Pages (Chad Hansen)](https://philosophy.hku.hk/ch/)
 * [China Related Links (Stephen Angle)](http://sangle.web.wesleyan.edu/china.html)
 * [Chinese Philosophy Etext Archive (Stephen Angle)](http://sangle.web.wesleyan.edu/etext/)

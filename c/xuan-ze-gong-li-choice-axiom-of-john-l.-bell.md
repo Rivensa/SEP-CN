@@ -494,7 +494,7 @@ x∈U↔f(r(x,0))=f(r(x,1))…by (\*\*)↔π1(f(r(x,0)))=π1(f(r(x,1)))∧π2(f(
 * Tait, W. W., 1994. “The law of excluded middle and the axiom of choice,” in _Mathematics and Mind_, A. George (ed.), New York: Oxford University Press, pp. 45–70.
 * Takeuti, G., 1961. “Remarks on Cantor’s Absolute,” _Journal of the Mathematical Society of Japan_, 13: 197–206.
 * Tarski, A., 1948. “Axiomatic and algebraic aspects of two theorems on sums of cardinals,” _Fundamenta Mathematicae_, 35: 79–104.
-* Tarski, A., and Robert L. Vaught, 1957. “Arithmetical extensions of relational systems,” _Compositio Mathematica_, 13: 81–102. \[[Tarski & Vaught 1957 available online](http://www.numdam.org/article/CM\_1956-1958\_\_13\_\_81\_0.pdf)]
+* Tarski, A., and Robert L. Vaught, 1957. “Arithmetical extensions of relational systems,” _Compositio Mathematica_, 13: 81–102. \[[Tarski & Vaught 1957 available online](http://www.numdam.org/article/CM\1956-1958\\13\\81\0.pdf)]
 * Teichmuller, O., 1939. “Brauch der Algebraiker das Auswahlaxiom?” _Deutsches Mathematik_, 4: 567–577.
 * Vitali, G., 1905. _Sul problema della misura dei gruppi di punti di una retta_, Bologna: Tip. Gamberini e Parmeggiani.
 * Wagon, S., 1993._The Banach-Tarski Paradox_, Cambridge University Press.

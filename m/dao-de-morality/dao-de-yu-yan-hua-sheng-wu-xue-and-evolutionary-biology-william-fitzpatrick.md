@@ -539,7 +539,7 @@ Street（2008）在回应这个问题的提出的解决方法时，部分地指�
 
 ## Other Internet Resources
 
-* [Living Links](http://www.emory.edu/LIVING\_LINKS/), Center for the Advanced Study of Ape and Human Evolution
+* [Living Links](http://www.emory.edu/LIVING\LINKS/), Center for the Advanced Study of Ape and Human Evolution
 * [Living Links](http://www.living-links.org/), To Human Evolution Research Centre
 * [Moral Foundations](http://www.moralfoundations.org/), Jonathan Haidt’s page on Moral Foundations Theory, UVA
 

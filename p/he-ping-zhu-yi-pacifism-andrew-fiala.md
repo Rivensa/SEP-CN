@@ -358,7 +358,7 @@ _首次发表于2006年7月6日；实质修订于2023年5月8日_
 * Fiala, Andrew and Jennifer Kling, 2023, _Can War Be Justified: A Debate_, New York: Routledge.
 * Fitz-Gibbon, Andrew, 2010. _Positive Peace: Reflections on Peace Education, Nonviolence, and Social Change_, Amsterdam/New York: Rodopi.
 * Fox, Michael Allen, 2014. _Understanding Peace: A Comprehensive Introduction_, New York/London: Routledge.
-* Francis (Pope Francis), 2017. “World Day of Peace Message (2017)”[Available online](https://www.vatican.va/content/francesco/en/messages/peace/documents/papa-francesco\_20161208\_messaggio-l-giornata-mondiale-pace-2017.html/)
+* Francis (Pope Francis), 2017. “World Day of Peace Message (2017)”[Available online](https://www.vatican.va/content/francesco/en/messages/peace/documents/papa-francesco\20161208\messaggio-l-giornata-mondiale-pace-2017.html/)
 * French, Shannon E., 2001. “With Your Shield or on It: Challenging the Pacifist Mother Archetype”, _Public Affairs Quarterly_, 15: 51–63.
 * Frowe, Helen, 2014. _Defensive Killing_, Oxford: Oxford University Press.
 * Frowe, Helen and Gerald Lang (eds.), 2014. _How We Fight: Ethics in War_, Oxford: Oxford University Press.
@@ -447,7 +447,7 @@ _首次发表于2006年7月6日；实质修订于2023年5月8日_
 * –––, 2002. “The Moral Justification of Violence: Epistemic Considerations”, _Social Theory and Practice_, 28: 445–64.
 * –––, 2017. “Personal Pacifism and Conscientious Objection” in _The Routledge Handbook of Pacifism and Nonviolence_, Andrew Fiala, (ed.), New York: Routledge.
 * Rodin, David, 2002. _War and Self-Defense_, Oxford: Oxford University Press.
-* Rousseau, Jean-Jacques. _A Lasting Peace Through the Federation of Europe_ and _The State of War_, London: Constable and Co., 1917 \[[Available online](http://oll.libertyfund.org/index.php?option=com\_staticxt\&staticfile=show.php\&title=1010)].
+* Rousseau, Jean-Jacques. _A Lasting Peace Through the Federation of Europe_ and _The State of War_, London: Constable and Co., 1917 \[[Available online](http://oll.libertyfund.org/index.php?option=com\staticxt\&staticfile=show.php\&title=1010)].
 * Ruddick, Sara, 1995 _Maternal Thinking: Toward a Politics of Peace_, 2nd Edition, Boston: Beacon Press.
 * Russell, Bertrand, 1915. “The Ethics of War”, _International Journal of Ethics_, 25 (2): 127–142.
 * –––, 1943. “The Future of Pacifism”, _The American Scholar_, 13: 7–13.

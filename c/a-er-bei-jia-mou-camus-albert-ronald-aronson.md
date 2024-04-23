@@ -233,7 +233,7 @@ Reference marks are given for cited English translations.
 * “Nuptials at Tipasa”, in _Lyrical and Critical Essays_, 1968 \[_**N**_].
 * _Lyrical and Critical Essays_, New York: Alfred A. Knopf, 1968 \[_**LCE**_].
 * _The Stranger_, New York: Vintage, 1988.
-* _Between Hell and Reason_, Hanover, NH: Wesleyan University Press, 1991 \[[Camus’ _Between Hell and Reason_ available online](http://www.ppu.org.uk/e\_publications/camus2.html)].
+* _Between Hell and Reason_, Hanover, NH: Wesleyan University Press, 1991 \[[Camus’ _Between Hell and Reason_ available online](http://www.ppu.org.uk/e\publications/camus2.html)].
 * “Christian Metaphysics and Neoplatonism”, in J. McBride, _Albert Camus: Philosopher and Littérateur_, New York: St. Martin’s Press, 1992, pp. 93–165.
 * _Notebooks 1942–1951_, New York: Marlowe, 1995.
 * _Notebooks 1935–1942_, New York: Marlowe, 1996.
@@ -253,9 +253,9 @@ Reference marks are given for cited English translations.
 * –––, 2020, “Camus’ Plague Is Not Ours,” _Tikkun_, published online 14 April 2020 \[[Aronson 2020 available online](https://www.tikkun.org/camus-plague-is-not-ours/)].
 * Berman, P., 2003, _Terror and Liberalism_, New York: Norton.
 * Betz, M., 2020, “_The Plague_, a Review,” _The Philosophers Magazine_, No. 214, 18 May 2020 \[[Betz 2020 available online](https://www.philosophersmag.com/essays/214-the-plague-a-review)].
-* Boisvert, R., 2021, “Camus, _The Plague_ and Us,” _Philosophy Now_, Issue 143 \[[Boisvert 2021 available online](https://philosophynow.org/issues/143/Camus\_The\_Plague\_and\_Us)].
+* Boisvert, R., 2021, “Camus, _The Plague_ and Us,” _Philosophy Now_, Issue 143 \[[Boisvert 2021 available online](https://philosophynow.org/issues/143/Camus\The\Plague\and\Us)].
 * de Botton, A., 2021, “Camus on the Coronavirus,” _New York Times_, 18 March 2021 \[[de Botton 2021 available online](https://www.nytimes.com/2020/03/19/opinion/sunday/coronavirus-camus-plague.html)].
-* Carlson, J, 2014, “Remembering Albert Camus and Longing for the Old Atheism,” _Huffington Post_, 23 January 2014 \[[available online](https://www.huffpost.com/entry/albert-camus-old-antheism\_b\_4234255)]
+* Carlson, J, 2014, “Remembering Albert Camus and Longing for the Old Atheism,” _Huffington Post_, 23 January 2014 \[[available online](https://www.huffpost.com/entry/albert-camus-old-antheism\b\4234255)]
 * Carroll, D., 2007, _Albert Camus the Algerian: Colonialism, Terrorism, Justice_, New York: Columbia University Press.
 * Daoud, K., 2015, _The Meursault Investigation_, New York: Other Press.
 * Farr, P., 2021. “In this Moment, We Are All Dr. Rieux: COVID-19, Existential Anxiety and the Absurd History,” _Journal of Humanistic Psychology_, 61(2): 275–82 \[[Farr 2021 available online](https://journals.sagepub.com/doi/10.1177/0022167820937504)].
@@ -267,7 +267,7 @@ Reference marks are given for cited English translations.
 * Illing, S.D., 2017, “Camus and Nietzsche on politics in an age of absurdity,” _European Journal of Political Theory_, 16(1): 24–40.
 * –––, 2020, “This is a Time for Solidarity: What Albert Camus’s _The Plague_ Can Teach Us about Life in a Pandemic,” _Vox_, 15 March 2020 \[[Illing 2020 available online](https://www.vox.com/2020/3/13/21172237/coronavirus-Covid-19-albert-camus-the-plague)].
 * Isaac, J.C., 1992, _Arendt, Camus and Modern Rebellion_, New Haven: Yale University Press.
-* James, W., 1896, “Is Life Worth Living?” _The Will to Believe and Other Essays in Popular Philosophy_, New York: Longmans, Green, and Co. \[[Reprint of James 1896 available online](http://en.wikisource.org/wiki/The\_Will\_to\_Believe\_and\_Other\_Essays\_in\_Popular\_Philosophy/Is\_Life\_Worth\_Living)]
+* James, W., 1896, “Is Life Worth Living?” _The Will to Believe and Other Essays in Popular Philosophy_, New York: Longmans, Green, and Co. \[[Reprint of James 1896 available online](http://en.wikisource.org/wiki/The\Will\to\Believe\and\Other\Essays\in\Popular\Philosophy/Is\Life\Worth\Living)]
 * Jeanson, F., 1947, “Albert Camus ou le mensonge de l’absurdité,” _Revue Dominicaine_ no. 53.
 * Kabel, A. and R. Phillipson, 2020, “Structural Violence and Hope in Catastrophic Times from _The Plague_ to COVID-19,” _Race and Class_, 62(4), 3–18 \[[Kabel & Phillipson 2020 available online](https://journals.sagepub.com/doi/10.1177/0306396820974180)].
 * Lazere, D., 1973, _The Unique Creation of Albert Camus_, New Haven: Yale University Press.

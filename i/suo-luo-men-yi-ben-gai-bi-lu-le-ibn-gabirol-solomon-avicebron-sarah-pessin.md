@@ -371,7 +371,7 @@ _首次发表于2010年9月23日星期四_
 * [Ibn Gabirol](http://www.jewishencyclopedia.com/view.jsp?artid=17\&letter=I), _Jewish Encyclopedia_ entry.
 * [Selected Religious Poems of Solomon ibn Gabirol](http://www.sacred-texts.com/jud/sig/index.htm), translated by Israel Zangwill.
 * [Excerpt from _The Kingly Crown_, Section One](http://www.jewishvirtuallibrary.org/jsource/biography/Gabirol.html), in English translation.
-* [Google Timeline](http://www.google.com/search?q=ibn+gabirol\&ie=utf-8\&oe=utf-8\&aq=t\&rls=org.mozilla:en-US:official\&client=firefox-a#q=ibn+gabirol\&hl=en\&client=firefox-a\&hs=Jgj\&rls=org.mozilla:en-US:official\&prmd=ivb\&tbs=tl:1\&tbo=u\&ei=Y1GWTKEoiPqwA9bevcAK\&sa=X\&oi=timeline\_result\&ct=title\&resnum=11\&ved=0CFcQ5wIwCg\&fp=7b3e9e0669ddb0a1).
+* [Google Timeline](http://www.google.com/search?q=ibn+gabirol\&ie=utf-8\&oe=utf-8\&aq=t\&rls=org.mozilla:en-US:official\&client=firefox-a#q=ibn+gabirol\&hl=en\&client=firefox-a\&hs=Jgj\&rls=org.mozilla:en-US:official\&prmd=ivb\&tbs=tl:1\&tbo=u\&ei=Y1GWTKEoiPqwA9bevcAK\&sa=X\&oi=timeline\result\&ct=title\&resnum=11\&ved=0CFcQ5wIwCg\&fp=7b3e9e0669ddb0a1).
 * [Shelomo Ibn Gabirol](http://www.pen.org/nonfiction/shelomo-ibn-gabirol-102122-c-105758), short literary biography at pen.org.
 
 ## Related Entries

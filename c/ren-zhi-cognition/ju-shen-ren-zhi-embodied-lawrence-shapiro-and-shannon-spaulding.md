@@ -29,7 +29,7 @@ _首次发布于 2021 年 6 月 25 日星期五_
 * [6. 具身认知的范围](https://plato.stanford.edu/entries/embodied-cognition/#ReacEmboCogn)
 * [6.1 社会认知](https://plato.stanford.edu/entries/embodied-cognition/#SociCogn)
 * [6.2 道德认知](https://plato.stanford.edu/entries/embodied-cognition/#MoraCogn)
-* [7. 结论](https://plato.stanford.edu/entries/embodied-cognition/#Conc\_1)
+* [7. 结论](https://plato.stanford.edu/entries/embodied-cognition/#Conc\1)
 * [参考文献](https://plato.stanford.edu/entries/embodied-cognition/#Bib)
 * [学术工具](https://plato.stanford.edu/entries/embodied-cognition/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/embodied-cognition/#Oth)

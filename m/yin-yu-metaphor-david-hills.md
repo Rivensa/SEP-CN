@@ -695,7 +695,7 @@ Hills（1997 年，2008 年）和 Walton（2000 年）对沃尔顿的解释进�
 * [Mapping the Brain’s Metaphor Circuitry: Metaphorical Thought in Everyday Reason,](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00958/full) A review article by George Lakoff for _Frontiers in Human Neuroscience,_ Dec 16 2014.
 * [The Art of the Metaphor,](https://www.youtube.com/watch?v=A0edKgL9EgM) a TED-Ed Lesson by Jane Hirschfeld.
 * [Metaphorically Speaking,](https://www.youtube.com/watch?v=2cU56SWXHFw) a TED Talk by James Geary.
-* [Liz Camp on Metaphor,](https://www.youtube.com/watch?v=i5EmZh\_Obi8) a Phil 101 Episode.
+* [Liz Camp on Metaphor,](https://www.youtube.com/watch?v=i5EmZh\Obi8) a Phil 101 Episode.
 * [Psychological Perspectives on Metaphor](https://www.oxfordbibliographies.com/view/document/obo-9780199828340/obo-9780199828340-0244.xml?rskey=5q4cvp\&result=1\&q=metaphor#firstMatch), an Oxford Bibliography by Brian Bowdle.
 * [Metaphor,](https://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0362.xml?rskey=5q4cvp\&result=2\&q=metaphor#firstMatch) an Oxford Bibliography by David Hills.
 * [Metaphor,](https://www.oxfordbibliographies.com/view/document/obo-9780199772810/obo-9780199772810-0167.xml?rskey=5q4cvp\&result=3\&q=metaphor#firstMatch) an Oxford Bibliography by Mark Johnson.

@@ -288,7 +288,7 @@ _首次发表于2010年1月5日；实质性修订于2021年6月24日_
 * Beebee, Helen, and Fisher, Anthony (eds.), 2020, _Philosophical Letters of David K. Lewis_, 2 volumes, New York: Oxford University Press.
 * Braüner, Torben, and Ghilardi, Silvio, 2007, “First-Order Modal Logic”, in _Handbook of Modal Logic_, Amsterdam: Elsevier, pp. 549–620.
 * Bricker, Phillip, 1993, “The Fabric of Space: Intrinsic vs. Extrinsic Distance Relations”, _Midwest Studies in Philosophy_, 18: 271–294.
-* –––, 2006, “David Lewis: _On the Plurality of Worlds_”, in _Central Works of Philosophy_ (Volume 5 The Twentieth Century: Quine and After), Durham: Acumen Publishing, \[[Bricker 2006 preprint available online](http://blogs.umass.edu/bricker/files/2014/08/Bricker-Lewiss\_On\_the-Plurality\_of\_Worlds.pdf)].
+* –––, 2006, “David Lewis: _On the Plurality of Worlds_”, in _Central Works of Philosophy_ (Volume 5 The Twentieth Century: Quine and After), Durham: Acumen Publishing, \[[Bricker 2006 preprint available online](http://blogs.umass.edu/bricker/files/2014/08/Bricker-Lewiss\On\the-Plurality\of\Worlds.pdf)].
 * Bernstein, Sara, 2014, “Omissions as Possibilities”, _Philosophical Studies_, 167(1): 1–23. doi:10.1007/s11098-013-0229-0
 * Callender, Craig, 2001. “Humean Supervenience and Rotating Homogeneous Matter”, _Mind_, 110: 25–44.
 * Campbell, Keith, 1990, _Abstract Particulars_, Oxford: Blackwell.
@@ -381,7 +381,7 @@ _首次发表于2010年1月5日；实质性修订于2021年6月24日_
 
 * Corsi, Giovanna, 2002, “[Counterpart Semantics. A Foundational Study on Quantified Modal Logics](https://eprints.illc.uva.nl/id/eprint/84/1/PP-2002-20.text.pdf)”, Amsterdam, Institute for Logic, Language, and Computation, Research Report PP-2002-20.
 * Schwarz, Wolfgang, 2013, [_Generalising Kripke Semantics for Quantified Modal Logics_](https://www.umsu.de/papers/generalising.pdf), manuscript available online.
-* Sider, Ted, 2008, [_Beyond the Humphrey Objection_](http://www.tedsider.org/papers/counterpart\_theory.pdf), manuscript available online.
+* Sider, Ted, 2008, [_Beyond the Humphrey Objection_](http://www.tedsider.org/papers/counterpart\theory.pdf), manuscript available online.
 * [David Kellog Lewis](http://users.ox.ac.uk/\~worc0337/authors/david.lewis.html), by Peter King (Oxford University).
 * [Obituary of David Lewis](https://philpapers.org/archive/CRAODL.pdf), by Tim Crane, published in _The Independent_, October 23, 2001.
 

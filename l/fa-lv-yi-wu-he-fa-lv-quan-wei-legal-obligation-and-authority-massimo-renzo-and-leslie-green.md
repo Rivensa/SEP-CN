@@ -6,7 +6,7 @@ _首次发表于2003年12月29日；实质性修订于2022年6月30日。_
 
 * [1. 法律中的义务](https://plato.stanford.edu/entries/legal-obligation/#ObliLaw)
 * [2. 权威、义务和合法性](https://plato.stanford.edu/entries/legal-obligation/#AuthObliLegi)
-* [3. 对法律的义务](https://plato.stanford.edu/entries/legal-obligation/#ObliLaw\_1)
+* [3. 对法律的义务](https://plato.stanford.edu/entries/legal-obligation/#ObliLaw\1)
 * [4. 交易理论](https://plato.stanford.edu/entries/legal-obligation/#TranTheo)
   * [4.1 同意](https://plato.stanford.edu/entries/legal-obligation/#Cons)
   * [4.2 公平性](https://plato.stanford.edu/entries/legal-obligation/#Fair)
@@ -417,4 +417,4 @@ Rawls 理论的基础在于必要性，如果我们探索一个公正的机构�
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Massimo Renzo <[_massimo.renzo@kcl.ac.uk_](mailto:massimo%2erenzo%40kcl%2eac%2euk)>\
-[Leslie Green](http://www.competition-law.ox.ac.uk/members/profile.phtml?lecturer\_code=leslie.green)
+[Leslie Green](http://www.competition-law.ox.ac.uk/members/profile.phtml?lecturer\code=leslie.green)

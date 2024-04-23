@@ -368,7 +368,7 @@ Ripley（2011: §2）进行了关于明显矛盾的反应的调查，例如模�
 
 * Carey, Stan (2014). “[Sorry not sorry: The many names for non-apologies](https://tinyurl.com/kzf5d6d),” LexiconValley blogpost, _Slate_, Nov. 20, 2014.
 * Liberman, Mark (2008). “[Yeah-no mailbag](http://itre.cis.upenn.edu/\~myl/languagelog/archives/005525.html),” Language Log blog post, April 3, 2008.
-* Meyer, Matthew (2008). “[Non-contradiction as an ontological principle: An interpretation of Aristotle's _Metaphysics IV.3-4_](http://www.princeton.edu/\~classics/conferences/2008/ancientphil/documents/MeyerNon-Contradiction\_000.pdf),” unpublished manuscript, Boston University.
+* Meyer, Matthew (2008). “[Non-contradiction as an ontological principle: An interpretation of Aristotle's _Metaphysics IV.3-4_](http://www.princeton.edu/\~classics/conferences/2008/ancientphil/documents/MeyerNon-Contradiction\000.pdf),” unpublished manuscript, Boston University.
 * Saturday Night Live (2017). [Levi’s Wokes](https://theawesomer.com/snl-levis-wokes/448150/), non-gender-conforming style-free jeans introduced in faux commercial, Nov. 30, 2017.
 * Schulz, Kathryn (2014). “[The walking cure: Talking to Cheryl Strayed about what made _Wild_ work](http://grantland.com/the-triangle/finding-the-cleveland-misery-tipping-point/),” _Vulture_, Dec. 3, 2014.
 * Simmons, Bill (2014). [Grantland column](http://www.vulture.com/2014/12/cheryl-strayed-wild-movie.html), Dec. 19, 2014.

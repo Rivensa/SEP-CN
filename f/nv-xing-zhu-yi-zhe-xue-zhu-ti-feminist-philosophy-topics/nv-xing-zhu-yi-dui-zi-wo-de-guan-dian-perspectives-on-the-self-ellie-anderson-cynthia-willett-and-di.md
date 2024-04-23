@@ -246,7 +246,7 @@ The following works are cited in the entry.
 * Sullivan, Shannon, 2001, _Living Across and Through Skins: Transactional Bodies, Pragmatism, and Feminism_, Bloomington, IN: Indian University Press.
 * –––, 2015, _The Physiology of Sexist and Racist Oppression_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190250607.001.0001
 * Valian, Virginia, 1998, _Why So Slow? The Advancement of Women_, Cambridge, MA: MIT Press.
-* Walther, Gerda, 1923, “Zur Ontologie der sozialen Gemeinschaften (mit einem Anhang zur Phänomenologie der sozialen Gemeinschaften)”, _Jahrbuch für Philosophie und Phänomenologische Forschung_, 6: 1–158. \[[Walther 1923 available online](https://www.digizeitschriften.de/dms/img/?PID=PPN827944462\_0006%7CLOG\_0007)]
+* Walther, Gerda, 1923, “Zur Ontologie der sozialen Gemeinschaften (mit einem Anhang zur Phänomenologie der sozialen Gemeinschaften)”, _Jahrbuch für Philosophie und Phänomenologische Forschung_, 6: 1–158. \[[Walther 1923 available online](https://www.digizeitschriften.de/dms/img/?PID=PPN827944462\0006%7CLOG\0007)]
 * Weir, Allison, 1995, “Toward a Model of Self-Identity: Habermas and Kristeva”, In _Feminists Read Habermas: Gendering the Subject of Discourse_, Johanna Meehan (ed.), New York: Routledge, 263–282.
 * Weiss, Gail, 1999, _Body Images: Embodiment as Intercorporeality_, New York: Routledge.
 * –––, 2008, _Refiguring the Ordinary_, Bloomington, IN: Indiana University Press.

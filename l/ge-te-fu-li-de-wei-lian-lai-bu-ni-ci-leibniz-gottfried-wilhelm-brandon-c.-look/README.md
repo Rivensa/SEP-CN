@@ -511,7 +511,7 @@ PC 和 PSR 可能看起来无害，但莱布尼茨的另一个著名原则，即
 * [Leibniz-Edition](http://www.leibniz-edition.de/)
 * [Leibniz-Forschungsstelle](http://www.uni-muenster.de/Leibniz/Welcome.html)
 * [Leibniz – online texts](http://philosophyfaculty.ucsd.edu/faculty/ctolley/texts/leibniz.html), links to a variety of online texts by Leibniz, maintained by Clinton Tolley (Philosophy, UCSD).
-* [MacTutor page on Leibniz](https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/), including a [picture of a model of Leibniz's calculating machine](https://web.archive.org/web/20160305103908/http://www-groups.dcs.st-and.ac.uk/\~history/Bookpages/Leibniz\_machine.jpeg)
+* [MacTutor page on Leibniz](https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/), including a [picture of a model of Leibniz's calculating machine](https://web.archive.org/web/20160305103908/http://www-groups.dcs.st-and.ac.uk/\~history/Bookpages/Leibniz\machine.jpeg)
 
 ## Related Entries
 

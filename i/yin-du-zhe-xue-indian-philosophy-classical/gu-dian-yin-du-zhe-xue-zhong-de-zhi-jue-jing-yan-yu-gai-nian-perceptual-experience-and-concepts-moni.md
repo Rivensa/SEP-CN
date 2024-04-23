@@ -276,7 +276,7 @@ Uddyotakara 在反对怀疑论者方面提出了更强的论据。在他的 Nyā
 
 ## Other Internet Resources
 
-* [Göttingen Register of Electronic Texts in Indian Languages](http://www.sub.uni-goettingen.de/ebene\_1/fiindolo/gretil.htm)
+* [Göttingen Register of Electronic Texts in Indian Languages](http://www.sub.uni-goettingen.de/ebene\1/fiindolo/gretil.htm)
 
 ## Related Entries
 

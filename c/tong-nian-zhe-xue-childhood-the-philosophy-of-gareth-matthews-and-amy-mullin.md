@@ -227,7 +227,7 @@ Mullin (2007, 2014) 认为，考虑儿童自主能力应该以自我治理为核
 
 ## Other Internet Resources
 
-* [Gregory Kingsley](http://en.wikipedia.org/wiki/Gregory\_Kingsley) entry at Wikipedia
+* [Gregory Kingsley](http://en.wikipedia.org/wiki/Gregory\Kingsley) entry at Wikipedia
 
 ## Related Entries
 

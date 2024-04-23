@@ -788,7 +788,7 @@ ii.在早期现代印度，宗教和哲学之间的关系一直是一个备受�
 
 ## Other Internet Resources
 
-* [Göttingen Register of Electronic Texts in Indian Languages](http://www.sub.uni-goettingen.de/ebene\_1/fiindolo/gretil.htm), including several in Nyāya and Vaiśeṣika.
+* [Göttingen Register of Electronic Texts in Indian Languages](http://www.sub.uni-goettingen.de/ebene\1/fiindolo/gretil.htm), including several in Nyāya and Vaiśeṣika.
 
 ## Related Entries
 

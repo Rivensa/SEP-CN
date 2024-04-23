@@ -738,7 +738,7 @@ _首次发表于2009年7月23日，实质性修订于2021年11月18日。_
 ## Other Internet Resources
 
 * [Wo’s Weblog](http://www.umsu.de/wo/)
-* [BiBTeX database of Lewis’s publications](http://brian.weatherson.org/Lewis\_bib.bib)
+* [BiBTeX database of Lewis’s publications](http://brian.weatherson.org/Lewis\bib.bib)
 
 ## Related Entries
 
