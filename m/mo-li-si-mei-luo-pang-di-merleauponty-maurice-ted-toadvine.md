@@ -8,21 +8,7 @@
 
 莫里斯·梅洛-庞蒂的思想继续激发着当代研究，超越了通常的知识史和解释性学术研究，尤其在女性主义哲学、心灵哲学和认知科学、环境哲学和自然哲学、伦理学、政治哲学、艺术哲学、语言哲学和现象学本体论等领域。特别是“批判现象学”的新兴话语，探索了梅洛-庞蒂的思想对于理解和应对种族主义、性别歧视、异性恋规范、殖民主义、残疾歧视、年龄歧视和其他当代形式的暴力和压迫所能做出的贡献。他的作品也对哲学学科以外的研究者产生了广泛的影响，尤其是在人类学、建筑学、艺术、认知科学、环境理论、电影研究、语言学、文学、政治理论和心理病理学等领域。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/merleau-ponty/#LifeWork)
-* [2. 知觉的本质与行为的结构](https://plato.stanford.edu/entries/merleau-ponty/#NatuPercStruBeha)
-* [3. 感知的现象学](https://plato.stanford.edu/entries/merleau-ponty/#PhenPerc)
-* [4. 表达、语言和艺术](https://plato.stanford.edu/entries/merleau-ponty/#ExprLangArt)
-* [ 5. 政治哲学](https://plato.stanford.edu/entries/merleau-ponty/#PoliPhil)
-* [6. 可见和不可见的](https://plato.stanford.edu/entries/merleau-ponty/#VisiInvi)
-* [7. 影响和当前学术研究](https://plato.stanford.edu/entries/merleau-ponty/#InflCurrScho)
-* [ 参考文献](https://plato.stanford.edu/entries/merleau-ponty/#Bib)
-
-  * [莫里斯·梅洛-庞蒂的引用作品](https://plato.stanford.edu/entries/merleau-ponty/#CiteWorkMerlPont)
-  * [莫里斯·梅洛-庞蒂的其他作品](https://plato.stanford.edu/entries/merleau-ponty/#OtheWorkMerlPont)
-  * [选定的次要文献](https://plato.stanford.edu/entries/merleau-ponty/#SeleSecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/merleau-ponty/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/merleau-ponty/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/merleau-ponty/#Rel)
+ 
 
 ---
 

@@ -2,17 +2,7 @@
 *首次发表于2001年11月10日；实质性修订于2020年10月16日。*
 
 模型论始于对形式语言及其解释的研究，以及特定形式语言可以进行的分类类型的研究。主流的模型论现在是数学的一个复杂分支（参见一阶模型论的条目）。但从更广义上讲，模型论是通过集合论结构对任何语言（形式的或自然的）进行解释的研究，阿尔弗雷德·塔斯基的真理定义作为典范。在这个更广义的意义上，模型论在几个方面与哲学相交，例如在逻辑推论的理论和自然语言的语义学中。
-
-* [1. 模型论的基本概念](https://plato.stanford.edu/entries/model-theory/#Basic)
-* [2. 模型论的定义](https://plato.stanford.edu/entries/model-theory/#Def)
-* [3. 模型论的推论](https://plato.stanford.edu/entries/model-theory/#Cons)
-* [ 4. 表达力](https://plato.stanford.edu/entries/model-theory/#Exp)
-* [5. 模型和建模](https://plato.stanford.edu/entries/model-theory/#Modelling)
-* [6. 模型论作为哲学问题的源头](https://plato.stanford.edu/entries/model-theory/#Philosophy)
-* [ 参考文献](https://plato.stanford.edu/entries/model-theory/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/model-theory/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/model-theory/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/model-theory/#Rel)
+ 
 
 ---
 

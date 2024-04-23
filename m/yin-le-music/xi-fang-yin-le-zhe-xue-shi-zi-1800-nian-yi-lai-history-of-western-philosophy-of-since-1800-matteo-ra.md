@@ -12,28 +12,7 @@
 
 关于西方音乐哲学史的专著介绍，请参见：Fubini 1991；Lippman 1992；Bowman 1998；Martinelli 2012 [2019]；Young 即将出版。经典著作的摘录收录在：Strunk 1950；Le Huray 和 Day 1981；Lippman 1990；Katz 和 Dahlhaus 1993；Fubini 1994。
 
-* [1. 十九世纪](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#NineCent)
-
-  * [1.1 浪漫音乐美学](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#RomaMusiAest)
-  * [1.2 浪漫音乐的形而上学：叔本华](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#RomaMetaMusiScho)
-  * [1.3 唯心主义音乐美学：谢林和黑格尔](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#IdeaMusiAestScheHege)
-  * [1.4 音乐与戏剧：瓦格纳](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#MusiDramWagn)
-  * [ 1.5 尼采](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#Niet)
-  * [1.6 绝对音乐与形式主义的兴起](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#AbsoMusiRiseForm)
-  * [1.7 音乐与生命科学：达尔文，斯宾塞，格尼](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#MusiLifeScieDarwSpenGurn)
-* [2. 二十世纪](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#TwenCent)
-
-  * [2.1 音乐现象学](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#PhenMusi)
-  * [2.2 音乐、语言和文化：维特根斯坦](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#MusiLangCultWitt)
-  * [2.3 音乐作为象征：兰格和古德曼](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#MusiSymbLangGood)
-  * [2.4 音乐与情感：普拉特、迈耶、库克](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#MusiEmotPratMeyeCook)
-  * [2.5 马克思主义方法：阿多诺和布洛赫](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#MarxApprAdorBloc)
-  * [2.6 音乐的分析哲学](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#AnalPhilMusi)
-* [ 参考文献](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hist-westphilmusic-since-1800/#Rel)
-
+ 
 ---
 
 ## 1. 十九世纪

@@ -4,25 +4,7 @@
 
 公元二世纪的罗马皇帝马可·奥勒留也是一位斯多葛哲学家，他的《沉思录》是他为自己写的，为读者提供了一个独特的机会，了解古代人（甚至是一位皇帝）如何尝试过斯多葛主义的生活方式，根据这种方式，只有美德是好的，只有恶习是坏的，我们通常忙于的事情对我们的幸福来说都是无关紧要的（因为我们的生活并不因为拥有或缺乏它们而变得好或坏）。马可面临的将斯多葛主义付诸实践的困难既是哲学上的，也是实践上的，了解他的努力增加了我们对斯多葛主义的哲学欣赏。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/marcus-aurelius/#LifWor)
-
-  * [1.1 《沉思录》的性质](https://plato.stanford.edu/entries/marcus-aurelius/#ChaMed)
-* [ 2.以斯多福主义生活](https://plato.stanford.edu/entries/marcus-aurelius/#LivSto)
-
-  * [2.1 深思熟虑的内容问题：善、恶和中庸之道](https://plato.stanford.edu/entries/marcus-aurelius/#DelConProGooBadInd)
-* [3. 正义：为了世界城邦而行动](https://plato.stanford.edu/entries/marcus-aurelius/#JusActForSakCos)
-* [4. 虔诚：将发生的事情视为整体的一部分](https://plato.stanford.edu/entries/marcus-aurelius/#PieWelWhaHapParWho)
-
-  * [4.1 命运还是原子？](https://plato.stanford.edu/entries/marcus-aurelius/#ProAto)
-  * [ 4.2 擦除印象](https://plato.stanford.edu/entries/marcus-aurelius/#EraImp)
-* [ 5. 结论](https://plato.stanford.edu/entries/marcus-aurelius/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/marcus-aurelius/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/marcus-aurelius/#PriLit)
-  * [ 二手文献](https://plato.stanford.edu/entries/marcus-aurelius/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/marcus-aurelius/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/marcus-aurelius/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/marcus-aurelius/#Rel)
+ 
 
 ---
 

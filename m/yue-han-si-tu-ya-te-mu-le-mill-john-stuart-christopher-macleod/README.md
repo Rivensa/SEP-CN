@@ -4,37 +4,7 @@
 
 约翰·斯图亚特·穆勒（1806-1873）是 19 世纪英语语言哲学家中最有影响力的人物。他是一位自然主义者、功利主义者和自由主义者，他的作品探讨了彻底经验主义观点的后果。在这样做的过程中，他试图将 18 世纪启蒙思想的精华与 19 世纪浪漫主义和历史哲学的新兴潮流相结合。他最重要的作品包括《逻辑系统》（1843 年）、《论自由》（1859 年）、《功利主义》（1861 年）和《对威廉·汉密尔顿哲学的考察》（1865 年）。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/mill/#Life)
-* [2. 穆勒的自然主义](https://plato.stanford.edu/entries/mill/#MillNatu)
-
-  * [ 2.1 反先验主义](https://plato.stanford.edu/entries/mill/#AntiPrio)
-  * [ 2.2 联想主义](https://plato.stanford.edu/entries/mill/#Asso)
-* [3. 詹姆斯·穆勒的理论哲学](https://plato.stanford.edu/entries/mill/#MillTheoPhil)
-
-  * [3.1 语言和逻辑哲学](https://plato.stanford.edu/entries/mill/#PhilLangLogi)
-  * [3.2 理论理性的基础](https://plato.stanford.edu/entries/mill/#FounTheoReas)
-  * [3.3 锐化理性：科学哲学](https://plato.stanford.edu/entries/mill/#SharReasPhilScie)
-  * [3.4 算术、几何和必然性](https://plato.stanford.edu/entries/mill/#AritGeomNece)
-  * [3.5 心灵在世界中：心理学、行为学和自由](https://plato.stanford.edu/entries/mill/#MindWorlPsycEthoFree)
-  * [3.6 心灵中的世界：知识的相对性和穆勒的唯心主义](https://plato.stanford.edu/entries/mill/#WorlMindRelaKnowMillIdea)
-  * [3.7 穆勒的理论哲学：自我支持还是自我削弱？](https://plato.stanford.edu/entries/mill/#MillTheoPhilSelfSuppSelfUnde)
-* [4. 穆勒的实践哲学](https://plato.stanford.edu/entries/mill/#MillPracPhil)
-
-  * [4.1 实践理性的基础：‘证明’](https://plato.stanford.edu/entries/mill/#FounPracReasProo)
-  * [4.2 穆勒对幸福的理解](https://plato.stanford.edu/entries/mill/#MillConcHapp)
-  * [ 4.3 道德](https://plato.stanford.edu/entries/mill/#Mora)
-  * [4.4 平等、性别和 19 世纪](https://plato.stanford.edu/entries/mill/#EquaSexeNineCent)
-  * [4.5 论自由和言论自由](https://plato.stanford.edu/entries/mill/#LibeFreeSpee)
-  * [4.6 论自由和性格行为自由](https://plato.stanford.edu/entries/mill/#LibeFreeCharActi)
-  * [4.7 权威与民主](https://plato.stanford.edu/entries/mill/#AuthDemo)
-* [ 参考文献](https://plato.stanford.edu/entries/mill/#Bib)
-
-  * [ 一手资料](https://plato.stanford.edu/entries/mill/#PrimSour)
-  * [ 二手资料](https://plato.stanford.edu/entries/mill/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/mill/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mill/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mill/#Rel)
-
+ 
 ---
 
 ## 1. 生活

@@ -11,40 +11,7 @@
 
 在本文中，我们重点关注直觉主义与其他构造性数学分支的不同之处，而与基础理论和模型等其他形式的构造主义共享的部分仅作简要讨论。
 
-* [ 1. 布劳尔](https://plato.stanford.edu/entries/intuitionism/#Bro)
-* [ 2. 直觉主义](https://plato.stanford.edu/entries/intuitionism/#Int)
-
-  * [2.1 直觉主义的两个行为](https://plato.stanford.edu/entries/intuitionism/#TwoActInt)
-  * [2.2 创造性主体](https://plato.stanford.edu/entries/intuitionism/#CreSub)
-* [ 3. 数学](https://plato.stanford.edu/entries/intuitionism/#Mat)
-
-  * [3.1 BHK 解释](https://plato.stanford.edu/entries/intuitionism/#BHKInt)
-  * [3.2 直觉主义逻辑](https://plato.stanford.edu/entries/intuitionism/#IntLog)
-  * [3.3 自然数](https://plato.stanford.edu/entries/intuitionism/#NatNum)
-  * [ 3.4 连续体](https://plato.stanford.edu/entries/intuitionism/#TheCon)
-  * [ 3.5 连续性公理](https://plato.stanford.edu/entries/intuitionism/#ConAxi)
-  * [3.6 酒吧定理](https://plato.stanford.edu/entries/intuitionism/#BarThe)
-  * [ 3.7 选择公理](https://plato.stanford.edu/entries/intuitionism/#ChoAxi)
-  * [3.8 描述集合论、拓扑学和拓扑学理论](https://plato.stanford.edu/entries/intuitionism/#DesSetTheTopTopThe)
-* [ 4. 构造主义](https://plato.stanford.edu/entries/intuitionism/#Con)
-* [ 5. 元数学](https://plato.stanford.edu/entries/intuitionism/#MetMat)
-
-  * [ 5.1 算术](https://plato.stanford.edu/entries/intuitionism/#Ari)
-  * [ 5.2 分析](https://plato.stanford.edu/entries/intuitionism/#Ana)
-  * [ 5.3 无法律序列](https://plato.stanford.edu/entries/intuitionism/#LawSeq)
-  * [5.4 创造主体的形式化](https://plato.stanford.edu/entries/intuitionism/#CreaSub)
-  * [5.5 基础和模型](https://plato.stanford.edu/entries/intuitionism/#FouMod)
-  * [ 5.6 逆向数学](https://plato.stanford.edu/entries/intuitionism/#RevMat)
-* [ 6. 哲学](https://plato.stanford.edu/entries/intuitionism/#Phil)
-
-  * [ 6.1 现象学](https://plato.stanford.edu/entries/intuitionism/#Pheno)
-  * [ 6.2 维特根斯坦](https://plato.stanford.edu/entries/intuitionism/#Witt)
-  * [ 6.3 邓梅特](https://plato.stanford.edu/entries/intuitionism/#Dumm)
-  * [ 6.4 有限主义](https://plato.stanford.edu/entries/intuitionism/#Fini)
-* [ 参考文献](https://plato.stanford.edu/entries/intuitionism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/intuitionism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/intuitionism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/intuitionism/#Rel)
+ 
 
 ---
 

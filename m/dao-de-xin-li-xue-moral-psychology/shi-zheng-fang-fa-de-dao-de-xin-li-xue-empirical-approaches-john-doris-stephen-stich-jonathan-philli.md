@@ -4,18 +4,7 @@
 
 道德心理学研究人类在道德背景下的功能，并询问这些结果如何影响伦理理论的辩论。这项工作必然是跨学科的，既利用人类科学的实证资源，又利用哲学伦理学的概念资源。本文讨论了几个主题，以说明这种类型的探究：思想实验、责任、品格、利己主义与利他主义以及道德分歧。
 
-* [1. 引言：什么是道德心理学？](https://plato.stanford.edu/entries/moral-psych-emp/#IntrWhatMoraPsyc)
-* [2. 思想实验和伦理学方法](https://plato.stanford.edu/entries/moral-psych-emp/#ThouExpeMethEthi)
-* [ 3. 道德责任](https://plato.stanford.edu/entries/moral-psych-emp/#MoraResp)
-* [4. 美德伦理学与对人品的怀疑](https://plato.stanford.edu/entries/moral-psych-emp/#VirtEthiSkepAbouChar)
-* [ 5. 利己主义 vs. 利他主义](https://plato.stanford.edu/entries/moral-psych-emp/#EgoiVsAltr)
-* [ 6. 道德分歧](https://plato.stanford.edu/entries/moral-psych-emp/#MoraDisa)
-* [ 7. 结论](https://plato.stanford.edu/entries/moral-psych-emp/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-psych-emp/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-psych-emp/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-psych-emp/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-psych-emp/#Rel)
-
+ 
 ---
 
 ## 1. 引言：什么是道德心理学？

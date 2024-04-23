@@ -6,39 +6,7 @@ _首次发表于2019年2月20日星期三；实质修订于2023年5月7日星期
 
 作为一个范畴，精神障碍在当代精神病学中并不适合其所扮演的角色，因为它经常被误解和各种解释。尽管被广泛认为是一种障碍形式，但上述列出的疾病/残疾并不总是被理解为如此（Porter 2002）。而且，即使被认为是一种障碍，这种状态通常也意味着伦理上的不足，而不仅仅是其他方面的不足（Irwin 2013）。这些提醒使我们注意到当代医学精神病学有时是毫不妥协的神经生物学和公然无价值观的“医学模型”，以及它所带来的类比和假设，以及精神病学分类的分类法如何被视为自然科学的对象的一般问题。这个模型已经接受了深入和持续的哲学分析和批评，包括那些否认这些疾病/残疾根本就是不足的人。除此之外，还有来自认知心理学和神经科学的问题，这些基础问题构成了以下条目的大部分内容。由于它们关注的是与心灵哲学和伦理学中的核心思想有关的问题，如心灵与身体的关系、责任、行动和身份，对精神障碍的分析对这些领域有广泛的影响。作为临床现象，它们还反映了一个不可避免的、日常的、社会的现实，使理论探讨具有迫切的实际、道德和法律意义。
 
-* [1. 术语](https://plato.stanford.edu/entries/mental-disorder/#Term)
-* [2. 民间心理学、概念分析和科学](https://plato.stanford.edu/entries/mental-disorder/#FolkPsycConcAnalScie)
-* [3. 精神障碍中的精神](https://plato.stanford.edu/entries/mental-disorder/#MentMentDiso)
-  * [3.1 内在原因和下游（症状性）表现](https://plato.stanford.edu/entries/mental-disorder/#InteCausDownSympMani)
-  * [3.2 精神的标志](https://plato.stanford.edu/entries/mental-disorder/#MarkMent)
-  * [3.3 形而上学的含义](https://plato.stanford.edu/entries/mental-disorder/#MetaImpl)
-* [4. 精神障碍中的疾病](https://plato.stanford.edu/entries/mental-disorder/#DisoMentDiso)
-  * [4.1 不统一和非理性](https://plato.stanford.edu/entries/mental-disorder/#DisuIrra)
-  * [4.2 痛苦和残疾](https://plato.stanford.edu/entries/mental-disorder/#SuffDisa)
-  * [4.3 两阶段分析中的功能障碍](https://plato.stanford.edu/entries/mental-disorder/#DysfTwoStagAnal)
-  * [4.4 形式定义](https://plato.stanford.edu/entries/mental-disorder/#FormDefi)
-* [5. 现象学方法](https://plato.stanford.edu/entries/mental-disorder/#PhenAppr)
-* [6. 分类](https://plato.stanford.edu/entries/mental-disorder/#Clas)
-  * [6.1 研究目的和实用性](https://plato.stanford.edu/entries/mental-disorder/#ResePurpUsef)
-  * [6.2 分类和维度方法](https://plato.stanford.edu/entries/mental-disorder/#CateDimeAppr)
-* [7. 自然种类的地位](https://plato.stanford.edu/entries/mental-disorder/#NatuKindStat)
-* [8. 价值观和精神障碍](https://plato.stanford.edu/entries/mental-disorder/#ValuMentDiso)
-  * [8.1 评价主义（规范主义）和客观主义（自然主义）](https://plato.stanford.edu/entries/mental-disorder/#EvalNormObjeNatu)
-  * [8.2 社会和个人对精神障碍和诊断的态度](https://plato.stanford.edu/entries/mental-disorder/#SociPersAttiTowaDisoDiag)
-  * [8.3 精神障碍生物伦理学和神经伦理学](https://plato.stanford.edu/entries/mental-disorder/#PsycBioeNeur)
-* [9. 特定的精神障碍](https://plato.stanford.edu/entries/mental-disorder/#PartPsyc)
-* [10. 反精神病学，女性主义理论，后精神病学和批判性精神病学，神经多样性和身份政治](https://plato.stanford.edu/entries/mental-disorder/#AntiPsycFemiTheoPostCritPsycNeurIdenPoli)
-  * [10.1 反精神病学](https://plato.stanford.edu/entries/mental-disorder/#AntiPsyc)
-  * [10.2 女性主义理论](https://plato.stanford.edu/entries/mental-disorder/#FemiTheo)
-  * [10.3 后现代和批判性精神障碍学](https://plato.stanford.edu/entries/mental-disorder/#PostCritPsyc)
-  * [10.4 神经多样性](https://plato.stanford.edu/entries/mental-disorder/#Neur)
-  * [10.5 身份政治](https://plato.stanford.edu/entries/mental-disorder/#IdenPoli)
-* [11. 未来前景](https://plato.stanford.edu/entries/mental-disorder/#FutuPros)
-* [参考文献](https://plato.stanford.edu/entries/mental-disorder/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/mental-disorder/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mental-disorder/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/mental-disorder/#Rel)
-
+ 
 ***
 
 ## 1. 术语

@@ -27,18 +27,7 @@
 此外，模态主张（1）-（10）似乎出于完全不同的原因而成立。例如，可以认为（1）的真实性是由其组成表达式的含义决定的；（2）之所以成立是因为你天生是你真实父母的孩子；（3）之所以成立是因为自然法则排除了超光速运动；（4）之所以成立是因为技术限制；（5）之所以成立是因为存在不可逾越的实际障碍；（6）-（9）之所以成立是因为道德、礼仪、国际象棋规则和法律的要求；（10）之所以成立是因为已知事实证明了弗雷德的清白。
 
 哲学模态理论的一个任务之一是对这种多样性的模态概念给出系统而统一的解释。本文讨论了追求这一目标的人需要解决的一些主要问题。第 1 和第 2 节涉及有关基本模态概念的问题。重点将放在两个当代辩论上：是否存在与认识论和形而上学领域相关的不同形式的模态（第 1 节），以及是否存在与自然法则相关的特殊必然性（第 2 节）。第 3 节讨论了不同必然性概念之间的关系问题。其中一些概念是否可以归约为其他更基本的概念？如果可以，哪些必然性概念是最基本的？如果存在几种基本必然性的概念，它们有什么共同之处使它们都成为必然性的一种？
-
-* [1. 认识论和形而上学的模态](https://plato.stanford.edu/entries/modality-varieties/#EpiMetMod)
-
-  * [ 1.1 数据](https://plato.stanford.edu/entries/modality-varieties/#Dat)
-  * [ 1.2 二元论](https://plato.stanford.edu/entries/modality-varieties/#Dua)
-  * [ 1.3 唯一论](https://plato.stanford.edu/entries/modality-varieties/#Mon)
-* [2. 形而上学和规范模态](https://plato.stanford.edu/entries/modality-varieties/#MetNomMod)
-* [3. 模态领域的结构](https://plato.stanford.edu/entries/modality-varieties/#StrModRea)
-* [ 参考文献](https://plato.stanford.edu/entries/modality-varieties/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/modality-varieties/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/modality-varieties/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/modality-varieties/#Rel)
+ 
 
 ---
 

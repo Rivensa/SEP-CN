@@ -4,40 +4,7 @@ _首次发表于2003年12月18日；实质性修订于2023年2月2日。_
 
 关于心灵因果的存在和性质的问题在当代有关心灵和人类行为的讨论中占据重要地位。最初，心灵因果的问题是如何理解非物质的心灵，即灵魂，如何与身体相互作用的问题。现在大多数哲学家都否认灵魂的存在，但心灵因果的问题并没有消失。相反，焦点转向了心灵属性。心灵属性如何与身体行为相关？心灵作为心灵的原因如何存在？在研究传统的互动问题之后，我们还将调查几种基于属性的问题以及可能的解决方案。
 
-* [1. 准备工作](https://plato.stanford.edu/entries/mental-causation/#Prelim)
-  * [1.1 心灵因果的重要性](https://plato.stanford.edu/entries/mental-causation/#ImpMent)
-  * [1.2 这是一个经验问题吗？](https://plato.stanford.edu/entries/mental-causation/#EmpIss)
-* [2. 互动问题](https://plato.stanford.edu/entries/mental-causation/#ProInt)
-  * [2.1 心灵与身体的联系是什么？](https://plato.stanford.edu/entries/mental-causation/#WhatNexus)
-  * [2.2 配对问题](https://plato.stanford.edu/entries/mental-causation/#PaiPro)
-  * [2.3 保守定律](https://plato.stanford.edu/entries/mental-causation/#ConLaw)
-  * [2.4 物理的完备性](https://plato.stanford.edu/entries/mental-causation/#ComPhy)
-* [3. 属性的上升](https://plato.stanford.edu/entries/mental-causation/#AscPro)
-* [4. 问题一：属性二元论](https://plato.stanford.edu/entries/mental-causation/#ProIProDua)
-* [5. 问题二：异常单子论](https://plato.stanford.edu/entries/mental-causation/#ProIIAnoMon)
-  * [5.1 异常单一论的论证](https://plato.stanford.edu/entries/mental-causation/#ArgAnoMon)
-  * [5.2 附随论的指控](https://plato.stanford.edu/entries/mental-causation/#ChaEpi)
-  * [5.3 反事实依赖](https://plato.stanford.edu/entries/mental-causation/#CouDep)
-  * [5.4 合法充分性](https://plato.stanford.edu/entries/mental-causation/#LawSuff)
-  * [5.5 属性再考虑的上升](https://plato.stanford.edu/entries/mental-causation/#AscProRecon)
-* [6. 问题三：排除](https://plato.stanford.edu/entries/mental-causation/#ProIIIExc)
-  * [6.1 功能主义和多重实现](https://plato.stanford.edu/entries/mental-causation/#FunMulRea)
-  * [6.2 排除问题](https://plato.stanford.edu/entries/mental-causation/#ExcPro)
-  * [6.3 自主解决方案](https://plato.stanford.edu/entries/mental-causation/#AutSol)
-  * [6.4 继承解决方案](https://plato.stanford.edu/entries/mental-causation/#InhSol)
-  * [6.5 身份解决方案](https://plato.stanford.edu/entries/mental-causation/#IdeSol)
-  * [6.6 必要效果：对功能主义的更深层问题？](https://plato.stanford.edu/entries/mental-causation/#NecEff)
-* [7. 问题四：外在主义](https://plato.stanford.edu/entries/mental-causation/#ProIVExt)
-  * [7.1 内容如何产生因果影响？](https://plato.stanford.edu/entries/mental-causation/#HowConCaus)
-  * [7.2 内在因果替代物](https://plato.stanford.edu/entries/mental-causation/#IntCau)
-  * [7.3 理由作为结构性因果](https://plato.stanford.edu/entries/mental-causation/#ReaStru)
-  * [7.4 广义行为](https://plato.stanford.edu/entries/mental-causation/#BroBeh)
-  * [7.5 对解释实践的呼吁](https://plato.stanford.edu/entries/mental-causation/#AppExpPra)
-* [8. 形而上学与心灵哲学](https://plato.stanford.edu/entries/mental-causation/#MetMin)
-* [参考书目](https://plato.stanford.edu/entries/mental-causation/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/mental-causation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mental-causation/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/mental-causation/#Rel)
+ 
 
 ***
 

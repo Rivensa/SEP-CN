@@ -6,29 +6,7 @@ _首次发表于2003年5月13日；实质性修订于2016年2月13日_
 
 在接下来的内容中，我们主要关注分体论的当代表述，因为它们源于这些最近的理论——勒什涅夫斯基的和伦纳德与古德曼的理论。实际上，尽管这些理论以不同的逻辑形式出现，但它们足够相似，可以被认为是大多数后续发展的共同基础。然而，为了正确评估相对的优势和劣势，逐步进行将是方便的。首先，我们考虑一些核心的分体论概念和原则。然后，我们继续对基于这一基础上建立的更强理论进行审查。
 
-* [1. 'Part'和 Parthood](https://plato.stanford.edu/entries/mereology/#ParPar)
-* [2. 核心原则](https://plato.stanford.edu/entries/mereology/#CorePri)
-  * [2.1 分体论作为部分排序](https://plato.stanford.edu/entries/mereology/#ParParOrd)
-  * [2.2 其他分体论概念](https://plato.stanford.edu/entries/mereology/#OthMerCon)
-* [3. 分解原则](https://plato.stanford.edu/entries/mereology/#DecPri)
-  * [3.1 补充](https://plato.stanford.edu/entries/mereology/#Sup)
-  * [3.2 强补充和外延性](https://plato.stanford.edu/entries/mereology/#StrSupExt)
-  * [3.3 分体论](https://plato.stanford.edu/entries/mereology/#Com)
-  * [3.4 原子论、泥块论和其他选择](https://plato.stanford.edu/entries/mereology/#AtoOthOpt)
-* [4. 组合原则](https://plato.stanford.edu/entries/mereology/#ComPri)
-  * [4.1 上界](https://plato.stanford.edu/entries/mereology/#UppBou)
-  * [4.2 总和](https://plato.stanford.edu/entries/mereology/#Sum)
-  * [4.3 无穷界和总和](https://plato.stanford.edu/entries/mereology/#InfBouSum)
-  * [4.4 无限制的分体论](https://plato.stanford.edu/entries/mereology/#UnrCom)
-  * [4.5 分体论、存在和身份](https://plato.stanford.edu/entries/mereology/#ComExiIde)
-* [5. 不确定性和模糊性](https://plato.stanford.edu/entries/mereology/#IndFuz)
-* [参考文献](https://plato.stanford.edu/entries/mereology/#Bib)
-  * [引用作品](https://plato.stanford.edu/entries/mereology/#CitWor)
-  * [历史调查](https://plato.stanford.edu/entries/mereology/#HisSur)
-  * [专著和文集](https://plato.stanford.edu/entries/mereology/#MonCol)
-* [其他互联网资源](https://plato.stanford.edu/entries/mereology/#Oth)
-* [学术工具](https://plato.stanford.edu/entries/mereology/#Aca)
-* [相关条目](https://plato.stanford.edu/entries/mereology/#Rel)
+ 
 
 ***
 

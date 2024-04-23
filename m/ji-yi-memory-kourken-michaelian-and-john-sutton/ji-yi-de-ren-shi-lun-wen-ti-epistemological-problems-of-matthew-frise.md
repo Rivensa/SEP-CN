@@ -8,35 +8,7 @@
 
 如果记忆真的有助于我们的信仰和理性推理，它可能如何被封存和阻止？本条目概述了有影响力的答案。
 
-* [1. 记忆的本质](https://plato.stanford.edu/entries/memory-episprob/#NatuMemo)
-
-  * [ 1.1 人类记忆](https://plato.stanford.edu/entries/memory-episprob/#HumaMemo)
-  * [1.2 记忆的理论](https://plato.stanford.edu/entries/memory-episprob/#TheoMemo)
-* [2. 记忆和证明](https://plato.stanford.edu/entries/memory-episprob/#MemoJust)
-
-  * [2.1 基础主义和连贯主义](https://plato.stanford.edu/entries/memory-episprob/#FounCohe)
-  * [2.2 内在主义和外在主义](https://plato.stanford.edu/entries/memory-episprob/#InteExte)
-
-    * [2.2.1 忘记证据的问题](https://plato.stanford.edu/entries/memory-episprob/#ProbForgEvid)
-    * [2.2.2 存储信念的问题](https://plato.stanford.edu/entries/memory-episprob/#ProbStorBeli)
-    * [2.2.3 忘记失败的问题](https://plato.stanford.edu/entries/memory-episprob/#ProbForgDefe)
-  * [2.3 时间片和历史理论](https://plato.stanford.edu/entries/memory-episprob/#TimeSlicHistTheo)
-  * [2.4 保存主义和生成主义](https://plato.stanford.edu/entries/memory-episprob/#PresGene)
-
-    * [2.4.1 保存主义作为反生成主义](https://plato.stanford.edu/entries/memory-episprob/#PresAntiGene)
-    * [2.4.2 保存主义作为一种历史理论](https://plato.stanford.edu/entries/memory-episprob/#PresHistTheo)
-* [3. 论证与超越](https://plato.stanford.edu/entries/memory-episprob/#JustBeyo)
-
-  * [3.1 证言与记忆](https://plato.stanford.edu/entries/memory-episprob/#TestMemo)
-  * [ 3.2 扩展心智](https://plato.stanford.edu/entries/memory-episprob/#ExteMind)
-  * [ 3.3 元认知](https://plato.stanford.edu/entries/memory-episprob/#Meta)
-  * [ 3.4 知识-如何](https://plato.stanford.edu/entries/memory-episprob/#KnowHow)
-  * [ 3.5 遗忘](https://plato.stanford.edu/entries/memory-episprob/#Forg)
-  * [ 3.6 怀疑论](https://plato.stanford.edu/entries/memory-episprob/#Skep)
-* [ 参考文献](https://plato.stanford.edu/entries/memory-episprob/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/memory-episprob/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/memory-episprob/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/memory-episprob/#Rel)
+ 
 
 ---
 

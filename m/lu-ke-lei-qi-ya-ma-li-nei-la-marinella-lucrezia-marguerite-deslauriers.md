@@ -7,25 +7,7 @@
 
 女性的高贵和卓越在几个方面都是引人注目的，除了其哲学和修辞技巧之外。首先，尽管马里内拉在支持女性的辩论中的一些前辈曾经主张男性和女性在共享理性灵魂方面是平等的，也主张女性更优越，但他们未能充分解决平等和优越之间的紧张关系；马里内拉直接而有说服力地解决了这个问题。她的论证集中在关于女性和男性灵魂和身体之间差异的主张上。她认为女性的灵魂在本质上和从起源上都更好，并且女性的身体在支持灵魂的运作能力方面更好，从而导致女性在理性活动和道德品质方面更为优越。其次，马里内拉将女性及其支持者提出的要求从男性的同情和尊重扩展到了对自由、权力和平等的要求（考克斯，1995 年，520 页）。尽管她没有提出具体的改革方案，但她确实以明确的政治术语分析了女性的处境。第三，尽管许多人谴责那些主张女性劣势的人的恶劣行为，但马里内拉是第一个对发表厌女症作品的男性动机提供解释，并将这些动机与女性被排除在公共生活之外联系起来的人之一（乔丹，1990 年，259 页；考克斯，1995 年，516 页）。
 
-* [ 1. 生活](https://plato.stanford.edu/entries/lucrezia-marinella/#Life)
-* [2. 马里内拉是女权主义者吗？](https://plato.stanford.edu/entries/lucrezia-marinella/#WasMariFemi)
-* [3. 女性的高贵与卓越以及男性的缺陷和恶习：背景、来源和结构](https://plato.stanford.edu/entries/lucrezia-marinella/#NobiExceWomeDefeViceMenContSourStru)
-* [4. 高贵作为原因的功能](https://plato.stanford.edu/entries/lucrezia-marinella/#NobiFuncCaus)
-* [5. 男性和女性的不同本质](https://plato.stanford.edu/entries/lucrezia-marinella/#DiffNatuMenWome)
-* [6. 从身体上的证据来看，性别具有不同的本质](https://plato.stanford.edu/entries/lucrezia-marinella/#EvidBodiSexeHaveDiffNatu)
-
-  * [ 6.1 温度](https://plato.stanford.edu/entries/lucrezia-marinella/#Temp)
-  * [ 6.2 美貌](https://plato.stanford.edu/entries/lucrezia-marinella/#Beau)
-* [7. 解释/理论的方法和问题](https://plato.stanford.edu/entries/lucrezia-marinella/#MethIssuInte)
-* [ 参考文献](https://plato.stanford.edu/entries/lucrezia-marinella/#Bib)
-
-  * [ 卢克雷齐娅·马里内拉的作品](https://plato.stanford.edu/entries/lucrezia-marinella/#WorkMari)
-  * [ 其他主要来源](https://plato.stanford.edu/entries/lucrezia-marinella/#OthePrimSour)
-  * [ 二级文献](https://plato.stanford.edu/entries/lucrezia-marinella/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/lucrezia-marinella/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lucrezia-marinella/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/lucrezia-marinella/#Rel)
-
+ 
 ---
 
 ## 1. 生活

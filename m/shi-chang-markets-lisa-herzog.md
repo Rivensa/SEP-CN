@@ -6,27 +6,7 @@
 
 市场在各种学科中进行分析，包括社会学、历史学，尤其是经济学。在哲学中，对市场相关问题的兴趣有起伏。大约从 18 世纪开始，人们开始就一个社会中市场作为一个独立的社会领域，并对整个社会产生影响的问题展开辩论。本文介绍了关于市场的哲学辩论中最重要的观点。它提供了市场概念和相关概念之间的一些区别，并简要概述了市场的历史立场。主要关注的是介绍支持和反对市场的最常见论点，以及分析市场与其他社会机构的关系。在结尾部分，将市场问题与经济学中的方法论问题以及商业道德和企业社会责任的主题联系起来。
 
-* [1. 概念界定](https://plato.stanford.edu/entries/markets/#ConDel)
-* [2. 三条传统线索：朋友、敌人和批评朋友](https://plato.stanford.edu/entries/markets/#ThrLinTraFriFoeCriFri)
-* [3. 市场的论证](https://plato.stanford.edu/entries/markets/#ArgAboMar)
-
-  * [3.1 市场的正当性](https://plato.stanford.edu/entries/markets/#JusMar)
-  * [3.2 市场的批评](https://plato.stanford.edu/entries/markets/#CriMar)
-  * [3.3 “The market” versus different markets](https://plato.stanford.edu/entries/markets/#MarVerDifMar)
-* [4. Relations between markets and other institutions](https://plato.stanford.edu/entries/markets/#RelBetMarOthIns)
-
-  * [4.1 Preconditions for markets](https://plato.stanford.edu/entries/markets/#PreForMar)
-  * [4.2 随附或纠正市场结果的机构](https://plato.stanford.edu/entries/markets/#InsSupCorMarOut)
-  * [4.3 “市场”与“国家”二分法的问题](https://plato.stanford.edu/entries/markets/#ProDicMarVerSta)
-  * [4.4 机构的相互关联性](https://plato.stanford.edu/entries/markets/#IntIns)
-* [5. 相关主题](https://plato.stanford.edu/entries/markets/#RelThe)
-
-  * [5.1 经济学中的方法论问题](https://plato.stanford.edu/entries/markets/#MetQueEco)
-  * [5.2 商业道德和企业社会责任](https://plato.stanford.edu/entries/markets/#BusEthCorSocRes)
-* [ 参考文献](https://plato.stanford.edu/entries/markets/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/markets/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/markets/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/markets/#Rel)
+ 
 
 ---
 

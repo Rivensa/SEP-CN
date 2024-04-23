@@ -5,39 +5,7 @@
 
 分析马克思主义是一种主要使用英语的马克思主义流派，于 20 世纪 70 年代末兴起，其主要支持者位于美国和欧洲的哲学和社会科学系。它与某些经典形式的马克思主义有所区别，因其对分析方法的开放性、对某些实质性马克思主义主张的批判态度、对自身规范承诺的承认以及对社会主义设计的需求的主张而著称。
 
-* [1. 分析马克思主义](https://plato.stanford.edu/entries/marxism-analytical/#AnalMarx)
-
-  * [ 1.1 组成部分](https://plato.stanford.edu/entries/marxism-analytical/#Comp)
-  * [ 1.2 结构](https://plato.stanford.edu/entries/marxism-analytical/#Stru)
-  * [ 1.3 胡说八道](https://plato.stanford.edu/entries/marxism-analytical/#Bull)
-  * [1.4 进一步澄清](https://plato.stanford.edu/entries/marxism-analytical/#FurtDisa)
-* [ 2. 历史](https://plato.stanford.edu/entries/marxism-analytical/#Hist)
-
-  * [ 2.1 起源](https://plato.stanford.edu/entries/marxism-analytical/#Orig)
-  * [ 2.2 九月集团](https://plato.stanford.edu/entries/marxism-analytical/#SeptGrou)
-* [ 3. 形式](https://plato.stanford.edu/entries/marxism-analytical/#Form)
-
-  * [ 3.1. 方法](https://plato.stanford.edu/entries/marxism-analytical/#Meth)
-  * [3.2. 方法论个体主义](https://plato.stanford.edu/entries/marxism-analytical/#MethIndi)
-  * [3.3. 功能解释](https://plato.stanford.edu/entries/marxism-analytical/#FuncExpl)
-  * [ 3.4. 辩证法](https://plato.stanford.edu/entries/marxism-analytical/#Dial)
-* [ 4. 解释](https://plato.stanford.edu/entries/marxism-analytical/#Cont)
-
-  * [ 4.1 马克思主义的实质](https://plato.stanford.edu/entries/marxism-analytical/#MarxSubs)
-  * [ 4.2 历史](https://plato.stanford.edu/entries/marxism-analytical/#Hist_1)
-  * [ 4.3 阶级](https://plato.stanford.edu/entries/marxism-analytical/#Clas)
-  * [ 4.4 剥削](https://plato.stanford.edu/entries/marxism-analytical/#Expl)
-* [ 5. 社会主义](https://plato.stanford.edu/entries/marxism-analytical/#Soci)
-
-  * [ 5.1 接纳设计](https://plato.stanford.edu/entries/marxism-analytical/#EmbrDesi)
-  * [ 5.2 &quot;优惠券社会主义&quot;](https://plato.stanford.edu/entries/marxism-analytical/#CoupSoci)
-  * [ 5.3 基本收入](https://plato.stanford.edu/entries/marxism-analytical/#BasiInco)
-  * [ 5.4 过渡](https://plato.stanford.edu/entries/marxism-analytical/#Tran)
-* [6. 总体批评](https://plato.stanford.edu/entries/marxism-analytical/#OverCrit)
-* [ 参考文献](https://plato.stanford.edu/entries/marxism-analytical/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/marxism-analytical/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/marxism-analytical/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/marxism-analytical/#Rel)
+ 
 
 ---
 

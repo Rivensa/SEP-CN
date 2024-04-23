@@ -3,17 +3,7 @@
 _首次发表于1996年7月2日；实质性修订于2022年11月30日。_
 
 不一致数学是研究当经典数学公理在一个（非经典的）逻辑框架内被断言时所产生的数学理论。这个逻辑可以容忍矛盾的存在，而不会将每个句子都转化为定理。
-
-* [1. 数学基础](https://plato.stanford.edu/entries/mathematics-inconsistent/#FouMat)
-* [2. 算术](https://plato.stanford.edu/entries/mathematics-inconsistent/#Ari)
-* [3. 分析](https://plato.stanford.edu/entries/mathematics-inconsistent/#Ana)
-* [4. 几何不一致](https://plato.stanford.edu/entries/mathematics-inconsistent/#GeoInc)
-* [5. 块和渗透](https://plato.stanford.edu/entries/mathematics-inconsistent/#ChuPer)
-* [参考文献](https://plato.stanford.edu/entries/mathematics-inconsistent/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/mathematics-inconsistent/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mathematics-inconsistent/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/mathematics-inconsistent/#Rel)
-
+ 
 ***
 
 ## 1. 数学基础

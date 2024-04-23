@@ -6,28 +6,7 @@ _首次发表于1998年11月23日；实质修订于2020年5月18日_
 
 这个条目主要按照时间顺序进行，以显示这个主题的历史发展。它的主要关注点是心灵哲学和认知科学，但也指出了最近在科学形而上学方面关注的转变。值得一提的是，多重实现性在物理学（例如，Batterman 2000）、生物化学（Tahko 即将出版）和合成生物学（Koskinen 2019a,b）中都有所提及。经过五十多年的详细哲学讨论，似乎对这个持久问题的新思想没有尽头。
 
-* [1. 多重可实现性论证](https://plato.stanford.edu/entries/multiple-realizability/#MultRealArgu)
-  * [1.1 什么是多重可实现性？](https://plato.stanford.edu/entries/multiple-realizability/#WhatMultReal)
-  * [1.2 针对“还原主义”心智-大脑同一理论的初步多重可实现性论证](https://plato.stanford.edu/entries/multiple-realizability/#InitMultRealArguAgaiReduMindBraiIdenTheo)
-  * [1.3 早期多重可实现性对功能主义的论证](https://plato.stanford.edu/entries/multiple-realizability/#EarlMultRealArguForFunc)
-  * [1.4 心理解释中的多重可实现性论证](https://plato.stanford.edu/entries/multiple-realizability/#MultRealArguPsycExpl)
-  * [1.5 在时间上对令牌系统的多重可实现性的呼吁](https://plato.stanford.edu/entries/multiple-realizability/#AppeMultRealTokeSystOverTime)
-* [2. 对多重可实现性论点的回应：前四十年](https://plato.stanford.edu/entries/multiple-realizability/#ReplMultRealArguFirsFortYear)
-  * [2.1 纳格尔还原中的单向桥原则](https://plato.stanford.edu/entries/multiple-realizability/#OneWayBridPrinNageRedu)
-  * [2.2 领域特定的身份和还原](https://plato.stanford.edu/entries/multiple-realizability/#DomaSpecIdenRedu)
-  * [2.3 对神经科学的成功的呼吁](https://plato.stanford.edu/entries/multiple-realizability/#AppeNeurSucc)
-  * [2.4 挑战心理种类的个体化](https://plato.stanford.edu/entries/multiple-realizability/#ChalIndiMentKind)
-  * [2.5 重新构思还原和身份理论](https://plato.stanford.edu/entries/multiple-realizability/#ReduIdenTheoReco)
-  * [2.7 低层还原统一？](https://plato.stanford.edu/entries/multiple-realizability/#LoweLeveReduUnit)
-* [3. 多重可实现性在新千年初的地位转变](https://plato.stanford.edu/entries/multiple-realizability/#ShifStatMultRealEarlNewMill)
-  * [3.1 帝国反击](https://plato.stanford.edu/entries/multiple-realizability/#EmpiStriBack)
-  * [3.2 多重可实现性的新攻击](https://plato.stanford.edu/entries/multiple-realizability/#NewAttaMultReal)
-* [4. 多重实现性的书籍及其最初的批评接受](https://plato.stanford.edu/entries/multiple-realizability/#MultRealBookInitCritRece)
-* [参考文献](https://plato.stanford.edu/entries/multiple-realizability/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/multiple-realizability/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/multiple-realizability/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/multiple-realizability/#Rel)
-
+ 
 ***
 
 ## 1. 多重可实现性论证

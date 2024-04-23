@@ -4,33 +4,7 @@
 
 对于道德情感主义者来说，我们的情感和欲望在道德解释中起着主导作用。有人认为道德思想基本上是感性的，还有人认为道德事实与我们的感性反应有关，或者情感是道德知识的主要来源。有人认为这些都是正确的。情感主义的两个主要吸引力在于一方面能够理解道德的实践方面，在另一方面能够在自然主义世界观中找到道德的位置。相应的挑战是解释道德的明显客观性和规范性。最近强调情感在道德思维中的核心地位的心理学理论引起了对情感主义伦理学的重新关注。
 
-* [1. 许多道德情感主义](https://plato.stanford.edu/entries/moral-sentimentalism/#ManyMoraSent)
-* [2. 解释性情感主义](https://plato.stanford.edu/entries/moral-sentimentalism/#ExplSent)
-
-  * [2.1 道德感知理论](https://plato.stanford.edu/entries/moral-sentimentalism/#MoraSensTheo)
-  * [2.2 同情/共情理论](https://plato.stanford.edu/entries/moral-sentimentalism/#SympBaseTheo)
-* [3. 情感主义判断](https://plato.stanford.edu/entries/moral-sentimentalism/#JudgSent)
-
-  * [3.1 情感主义的非认知主义](https://plato.stanford.edu/entries/moral-sentimentalism/#NonCognSent)
-  * [ 3.2 表达主义](https://plato.stanford.edu/entries/moral-sentimentalism/#Expr)
-  * [3.3 情感主义的认知主义：主观主义和理想倾向主义](https://plato.stanford.edu/entries/moral-sentimentalism/#CognSentSubjIdeaDisp)
-  * [3.4 认知情感主义：感性理论和新情感主义](https://plato.stanford.edu/entries/moral-sentimentalism/#CognSentSensTheoNeoSent)
-  * [3.5 混合和多元主义方法](https://plato.stanford.edu/entries/moral-sentimentalism/#HybrPlurAppr)
-* [4. 形而上学情感主义](https://plato.stanford.edu/entries/moral-sentimentalism/#MetaSent)
-
-  * [4.1 主观主义和相对主义](https://plato.stanford.edu/entries/moral-sentimentalism/#SubjRela)
-  * [4.2 理想性倾向主义](https://plato.stanford.edu/entries/moral-sentimentalism/#IdeaDisp)
-  * [4.3 感性理论和新情感主义](https://plato.stanford.edu/entries/moral-sentimentalism/#SensTheoNeoSent)
-* [5. 情感主义认识论](https://plato.stanford.edu/entries/moral-sentimentalism/#EpisSent)
-
-  * [5.1 感知模型](https://plato.stanford.edu/entries/moral-sentimentalism/#PercMode)
-  * [ 5.2 追踪理论](https://plato.stanford.edu/entries/moral-sentimentalism/#TracTheo)
-  * [5.3 道德理解和证词](https://plato.stanford.edu/entries/moral-sentimentalism/#MoraUndeTest)
-* [6. 许多情感主义的道德观（重述）](https://plato.stanford.edu/entries/moral-sentimentalism/#ManyMoraSentRepr)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-sentimentalism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-sentimentalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-sentimentalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-sentimentalism/#Rel)
+ 
 
 ---
 

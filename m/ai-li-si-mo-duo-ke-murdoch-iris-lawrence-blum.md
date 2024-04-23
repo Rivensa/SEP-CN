@@ -4,43 +4,7 @@
 
 艾丽丝·默多克（1919 年-1999 年）是 20 世纪下半叶英国著名哲学家，以其道德哲学而闻名。与她那个时代不同的是，她将维特根斯坦主义和语言/分析哲学的基础与 19 世纪和 20 世纪大陆哲学、基督教宗教和思想以及印度教和佛教哲学的强烈影响相结合。尽管与德行伦理学、关怀伦理学和特殊主义有关，但她发展出一种独特的柏拉图道德实在论形式，不容易被吸收，甚至无法与 20 世纪英美哲学中的任何主导伦理学方法相比较。
 
-* [ 1. 概述](https://plato.stanford.edu/entries/murdoch/#Over)
-* [2. 默多克的轨迹和接受程度](https://plato.stanford.edu/entries/murdoch/#MurdTrajRece)
-* [3. 艾丽丝·默多克在她的时代](https://plato.stanford.edu/entries/murdoch/#MurdHerTime)
-* [4. 艾丽丝·默多克对自我的观点与存在主义者/行为主义者的解释/理论相对立](https://plato.stanford.edu/entries/murdoch/#MurdViewSelfAgaiExisAcco)
-* [5. 道德现实和道德现实主义](https://plato.stanford.edu/entries/murdoch/#MoraRealMoraReal)
-
-  * [5.1 道德现实作为他人](https://plato.stanford.edu/entries/murdoch/#MoraRealOthePers)
-  * [5.2 道德现实作为柏拉图的善](https://plato.stanford.edu/entries/murdoch/#MoraRealPlatGood)
-  * [5.3 艾丽丝·默多克，西奇威克，柏拉图和自我/他人道德框架](https://plato.stanford.edu/entries/murdoch/#MurdSidgPlatSelfMoraFram)
-  * [5.4 道德现实主义，事实与价值，实践理由](https://plato.stanford.edu/entries/murdoch/#MoraRealFactValuPracReas)
-  * [5.5 道德现实作为形而上学](https://plato.stanford.edu/entries/murdoch/#MoraRealMeta)
-  * [ 5.6 隐喻](https://plato.stanford.edu/entries/murdoch/#Meta)
-* [6. 道德代理作为内在活动](https://plato.stanford.edu/entries/murdoch/#MoraAgenInneActi)
-* [7. 道德存在的结构](https://plato.stanford.edu/entries/murdoch/#FabrMoraBein)
-* [8. 视觉取代行动](https://plato.stanford.edu/entries/murdoch/#SeeiReplDoin)
-* [ 9. 西蒙娜·韦伊](https://plato.stanford.edu/entries/murdoch/#SimoWeil)
-* [10. 艾丽丝·默多克关于注意力](https://plato.stanford.edu/entries/murdoch/#MurdAtte)
-
-  * [10.1 关怀伦理学、女性主义和特殊性](https://plato.stanford.edu/entries/murdoch/#CareEthiFemiPart)
-  * [10.2 特殊性和特殊主义](https://plato.stanford.edu/entries/murdoch/#PartPart)
-  * [10.3 爱的关注的障碍](https://plato.stanford.edu/entries/murdoch/#ObstLoviAtte)
-* [11. 艾丽丝·默多克对道德形成的积极维度的关注](https://plato.stanford.edu/entries/murdoch/#MurdFocuActiDimeMoraForm)
-* [12. 艾丽丝·默多克哲学中缺乏负面道德形成的社会来源](https://plato.stanford.edu/entries/murdoch/#AbseSociSourNegaMoraFormMurdPhil)
-* [13. 道德洞察作为一种精神成就与不反思的善良、非利己主义者](https://plato.stanford.edu/entries/murdoch/#MoraSeeiSpirAchiVsUnreGoodNonEgoiPers)
-* [ 14. 美德](https://plato.stanford.edu/entries/murdoch/#Virt)
-* [15. 作为道德指南的形而上学](https://plato.stanford.edu/entries/murdoch/#MetaGuidMora)
-
-  * [ 15.1 职责](https://plato.stanford.edu/entries/murdoch/#Duty)
-  * [ 15.2 公理](https://plato.stanford.edu/entries/murdoch/#Axio)
-* [ 参考文献](https://plato.stanford.edu/entries/murdoch/#Bib)
-
-  * [A. 艾丽丝·默多克的主要文献：书籍和论文](https://plato.stanford.edu/entries/murdoch/#PrimLiteBookPapeIrisMurd)
-  * [ B. 二次文献](https://plato.stanford.edu/entries/murdoch/#BSecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/murdoch/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/murdoch/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/murdoch/#Rel)
-
+ 
 ---
 
 ## 1. 概述

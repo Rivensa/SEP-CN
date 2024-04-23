@@ -6,25 +6,7 @@
 
 根据目的论的理论，心灵再现的内容至少部分取决于使用或产生它们的系统的功能，比如生物学和神经生物学中用于归因功能的概念，比如“松果体的一个功能是分泌褪黑激素”和“MT 脑区的一个功能是处理关于运动的信息”。目的论心灵内容的支持者通常理解这些功能是通过系统的类系发生选择或其他类似过程选择的功能。
 
-* [ 1. 广义目标](https://plato.stanford.edu/entries/content-teleological/#BroaAims)
-* [2. 目的论功能](https://plato.stanford.edu/entries/content-teleological/#TeleFunc)
-* [3. 目的语义理论](https://plato.stanford.edu/entries/content-teleological/#TeleTheo)
-
-  * [3.1 信息论目的语义学](https://plato.stanford.edu/entries/content-teleological/#InfoTele)
-  * [3.2 生物语义学及相关观点](https://plato.stanford.edu/entries/content-teleological/#BiosRelaView)
-  * [3.3 欲望优先理论](https://plato.stanford.edu/entries/content-teleological/#DesiFirsTheo)
-  * [3.4 因果信息论](https://plato.stanford.edu/entries/content-teleological/#CausInfoTheo)
-  * [ 3.5 其他观点](https://plato.stanford.edu/entries/content-teleological/#OtheView)
-* [4. 目的论的问题](https://plato.stanford.edu/entries/content-teleological/#ProbForTele)
-
-  * [4.1 功能不确定性](https://plato.stanford.edu/entries/content-teleological/#FuncInde)
-  * [ 4.2 沼泽人](https://plato.stanford.edu/entries/content-teleological/#Swam)
-  * [ 4.3 自由主义](https://plato.stanford.edu/entries/content-teleological/#Libe)
-  * [4.4 复杂概念和能力](https://plato.stanford.edu/entries/content-teleological/#SophConcCapa)
-* [ 参考文献](https://plato.stanford.edu/entries/content-teleological/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/content-teleological/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/content-teleological/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/content-teleological/#Rel)
+ 
 
 ---
 

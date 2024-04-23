@@ -6,31 +6,7 @@
 
 哲学家们对与测量相关的概念、形而上学、语义学和认识论问题进行了广泛的探讨。本文将概述关于测量性质、可测量数量概念以及相关认识论问题的中心哲学观点。它将避免详述与测量相关的许多学科特定问题，重点关注具有普遍性的问题。
 
-* [ 1. 概述](https://plato.stanford.edu/entries/measurement-science/#Ove)
-* [2. 数量和大小：简史](https://plato.stanford.edu/entries/measurement-science/#QuaMagBriHis)
-* [3. 测量的数学理论（&quot;测量理论&quot;）](https://plato.stanford.edu/entries/measurement-science/#MatTheMeaMeaThe)
-
-  * [3.1 基本和派生测量](https://plato.stanford.edu/entries/measurement-science/#FunDerMea)
-  * [3.2 测量尺度的分类](https://plato.stanford.edu/entries/measurement-science/#ClaSca)
-  * [3.3 感觉的可测性](https://plato.stanford.edu/entries/measurement-science/#MeaSen)
-  * [3.4 测量的表征理论](https://plato.stanford.edu/entries/measurement-science/#RepTheMea)
-* [4. 实证主义和常规主义](https://plato.stanford.edu/entries/measurement-science/#OpeCon)
-* [5. 测量的现实主义解释](https://plato.stanford.edu/entries/measurement-science/#ReaAccMea)
-* [6. 测量的信息论解释](https://plato.stanford.edu/entries/measurement-science/#InfTheAccMea)
-* [7. 测量的基于模型的解释](https://plato.stanford.edu/entries/measurement-science/#ModBasAccMea)
-
-  * [7.1 模型在测量中的角色](https://plato.stanford.edu/entries/measurement-science/#RolModMea)
-  * [7.2 模型和经济学中的测量](https://plato.stanford.edu/entries/measurement-science/#ModMeaEco)
-  * [7.3 心理测量模型和构念效度](https://plato.stanford.edu/entries/measurement-science/#PsyModConVal)
-* [8. 测量的认识论](https://plato.stanford.edu/entries/measurement-science/#EpiMea)
-
-  * [8.1 标准化和科学进展](https://plato.stanford.edu/entries/measurement-science/#StaSciPro)
-  * [8.2 测量的理论负荷性](https://plato.stanford.edu/entries/measurement-science/#TheLadMea)
-  * [8.3 准确性和精确性](https://plato.stanford.edu/entries/measurement-science/#AccPre)
-* [ 参考文献](https://plato.stanford.edu/entries/measurement-science/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/measurement-science/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/measurement-science/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/measurement-science/#Rel)
+ 
 
 ---
 

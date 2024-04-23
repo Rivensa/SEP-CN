@@ -4,19 +4,7 @@
 
 乔治·爱德华·摩尔的《伦理学原理》于 1903 年被认为是一部开创性的作品，为 20 世纪伦理学设定了新的议程。然而，这种历史观点有些夸大。在元伦理学中，摩尔的非自然主义现实主义与亨利·西奇威克和其他 19 世纪末的哲学家（如哈斯廷斯·拉什代尔、弗朗茨·布伦塔诺和 J.M.E.麦克塔加特）的观点非常接近；在规范伦理学中，他的理想后果主义也回应了拉什代尔、布伦塔诺和麦克塔加特的观点。但是，《伦理学原理》以非同寻常的力量和活力表达了自己的观点。特别是，它对元伦理学自然主义的所谓错误做出了更多的批评，比西奇威克或拉什代尔所做的批评更为严重，声称它们破坏了大多数先前的道德哲学。因此，摩尔的作品对 20 世纪道德哲学产生了不成比例的影响，并且仍然是一个广泛共享的元伦理观点的最著名表达，后来的作家如 H.A.普里查德、W.D.罗斯和 C.D.布罗德也持有这一观点。
 
-* [1. 非自然主义和开放问题论证](https://plato.stanford.edu/entries/moore-moral/#NonNatuOpenQuesArgu)
-* [2. 元伦理创新](https://plato.stanford.edu/entries/moore-moral/#MetaInno)
-* [3. 无我的后果主义](https://plato.stanford.edu/entries/moore-moral/#ImpeCons)
-* [ 4. 理想](https://plato.stanford.edu/entries/moore-moral/#Idea)
-* [ 5. 影响](https://plato.stanford.edu/entries/moore-moral/#Infl)
-* [ 参考文献](https://plato.stanford.edu/entries/moore-moral/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/moore-moral/#PrimSour)
-  * [ 次要来源](https://plato.stanford.edu/entries/moore-moral/#SecoSour)
-  * [ 特殊问题](https://plato.stanford.edu/entries/moore-moral/#SpecIssu)
-* [ 学术工具](https://plato.stanford.edu/entries/moore-moral/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moore-moral/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moore-moral/#Rel)
+ 
 
 ---
 

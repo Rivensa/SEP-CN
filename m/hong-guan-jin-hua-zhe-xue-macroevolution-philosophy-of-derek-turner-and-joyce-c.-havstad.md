@@ -11,21 +11,7 @@
 自 20 世纪 70 年代以来，关于宏观进化的理论化主要集中在几个重要的观点上：间断平衡、物种选择、分层理论、历史偶然性、被动与驱动的进化趋势、重大进化转变，以及最近由 McShea 和 Brandon（2010）提出的零力进化定律（ZFEL）。一个哲学上的挑战是理解这些观点之间的关系；另一个挑战是弄清它们对宏观进化与微观进化之间关系的意义。
 
 化石记录是关于宏观进化模式的经验证据的主要来源，因此宏观进化理论与古生物学密切相关。除了关于宏观进化理论本身的问题外，还存在关于古生物学家如何从过程中推断模式以及如何纠正化石数据中的偏差的认识论问题（Bokulich 即将发表）。此外，宏观进化和微观进化之间的区别有时反映了古生物学（其重点是化石记录）和新生物学（其重点是可观察的现存种群）之间的区别。因此，关于宏观进化和微观进化之间关系的形而上学问题有时很难与关于可以从不同证据基础推断出哪些事物的认识论问题相分离。
-
-* [1. 阶段平衡](https://plato.stanford.edu/entries/macroevolution/#PuncEqui)
-* [ 2. 物种选择](https://plato.stanford.edu/entries/macroevolution/#SpecSele)
-* [ 3. 分层理论](https://plato.stanford.edu/entries/macroevolution/#HierTheo)
-* [4. 理论适应与变化](https://plato.stanford.edu/entries/macroevolution/#TheoAccoChan)
-* [5. 修辞与风险问题](https://plato.stanford.edu/entries/macroevolution/#IssuRhetRisk)
-* [6. 历史偶然性](https://plato.stanford.edu/entries/macroevolution/#HistCont)
-* [7. 被动 vs. 驱动趋势](https://plato.stanford.edu/entries/macroevolution/#PassVsDrivTren)
-* [8. 零力进化定律](https://plato.stanford.edu/entries/macroevolution/#ZeroForcEvolLaw)
-* [9. 宏观进化的重大转变](https://plato.stanford.edu/entries/macroevolution/#MajoEvolTran)
-* [10. 宏观进化理论的（不）统一性](https://plato.stanford.edu/entries/macroevolution/#DisuMacrTheo)
-* [ 参考文献](https://plato.stanford.edu/entries/macroevolution/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/macroevolution/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/macroevolution/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/macroevolution/#Rel)
+ 
 
 ---
 

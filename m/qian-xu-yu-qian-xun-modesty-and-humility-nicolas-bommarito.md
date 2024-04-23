@@ -9,35 +9,7 @@
 
 第一部分讨论了谦虚与谦逊的概念及其主要特点，并简要回顾了关于它们是否真正是美德的争论的历史概述。第二部分讨论了将谦虚与谦逊根源于特定信念的理论。第三部分涵盖了一系列最近的解释，涉及情感、欲望和注意力等非信念状态。最后一部分考虑了认识论中的相关现象：对错误自认的理性限制、对异议的态度和对替代观点的开放性。
 
-* [1. 谦虚与谦逊](https://plato.stanford.edu/entries/modesty-humility/#ModeHumi)
-
-  * [1.1 种类和区别](https://plato.stanford.edu/entries/modesty-humility/#VariDist)
-  * [ 1.2 关键特征](https://plato.stanford.edu/entries/modesty-humility/#KeyFeat)
-  * [ 1.3 规范地位](https://plato.stanford.edu/entries/modesty-humility/#NormStat)
-* [2. 信念解释](https://plato.stanford.edu/entries/modesty-humility/#DoxaAcco)
-
-  * [ 2.1 无知](https://plato.stanford.edu/entries/modesty-humility/#Igno)
-  * [ 2.2 强准确性](https://plato.stanford.edu/entries/modesty-humility/#StroAccu)
-  * [ 2.3 弱准确性](https://plato.stanford.edu/entries/modesty-humility/#WeakAccu)
-* [3. 非信念论解释](https://plato.stanford.edu/entries/modesty-humility/#NonDoxaAcco)
-
-  * [ 3.1 比例](https://plato.stanford.edu/entries/modesty-humility/#Prop)
-  * [ 3.2 冷漠](https://plato.stanford.edu/entries/modesty-humility/#Indi)
-  * [ 3.3 不对称](https://plato.stanford.edu/entries/modesty-humility/#Asym)
-  * [ 3.4 仁慈](https://plato.stanford.edu/entries/modesty-humility/#Kind)
-  * [ 3.5 注意力](https://plato.stanford.edu/entries/modesty-humility/#Atte)
-  * [ 3.6 执行力](https://plato.stanford.edu/entries/modesty-humility/#Exec)
-* [ 4. 认识论](https://plato.stanford.edu/entries/modesty-humility/#Epis)
-
-  * [ 4.1 反专家主义](https://plato.stanford.edu/entries/modesty-humility/#AntiExpe)
-  * [ 4.2 不同意见](https://plato.stanford.edu/entries/modesty-humility/#Disa)
-  * [4.3 谦虚与谦逊的智慧](https://plato.stanford.edu/entries/modesty-humility/#InteHumi)
-  * [ 4.4 开放心态](https://plato.stanford.edu/entries/modesty-humility/#OpenMind)
-* [ 5. 结论](https://plato.stanford.edu/entries/modesty-humility/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/modesty-humility/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/modesty-humility/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/modesty-humility/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/modesty-humility/#Rel)
+ 
 
 ---
 

@@ -7,46 +7,7 @@
 本文关注一些重要的方向，这些方向出现在涉及不同模态运算符的模态逻辑研究中，正如上述 D. Scott 的引语所示。事实上，当讨论不同的模态运算符时，我们需要一个允许我们处理它们所代表的不同态度以及它们之间复杂关系的系统。为了对这些情况进行形式上的理解，我们需要一个多模态系统。
 
 在这样的系统中，每个相关的模态运算符都配备了一种解释，使我们能够推理关于在考虑中的命题的真值在不同可能世界中变化的情况。这样的系统在当前逻辑哲学研究中占据重要地位。首先，它们推动了关于如何通过其他模态性来推导或定义某些模态性的讨论，例如在认识论中关于通过信念和相反的定义知识的讨论。此外，它们还说明了不同的基本运算符如何相互作用，例如基于模态运算符的相互作用的众所周知的谜题和悖论（例如 Fitch 的可知性悖论，Voorbraak 的谜题和 Brandenburger-Kesler 悖论）。本文将读者引向逻辑技术方面的组合逻辑系统以及多模态逻辑的哲学方面。
-
-* [1. 简要介绍](https://plato.stanford.edu/entries/phil-multimodallogic/#BriePres)
-* [2. 用其他概念定义概念](https://plato.stanford.edu/entries/phil-multimodallogic/#DefiConcTermOthe)
-
-  * [2.1 必然性和可能性](https://plato.stanford.edu/entries/phil-multimodallogic/#NecePoss)
-  * [2.2 群体的知识和信念](https://plato.stanford.edu/entries/phil-multimodallogic/#KnowBeliGrou)
-  * [2.3 关于知识和信念的简单尝试](https://plato.stanford.edu/entries/phil-multimodallogic/#SimpAtteRelaKnowBeli)
-  * [2.4 分布式和共同知识](https://plato.stanford.edu/entries/phil-multimodallogic/#DistCommKnow)
-  * [2.5 以证据为基础的信念](https://plato.stanford.edu/entries/phil-multimodallogic/#BeliTermEvid)
-  * [ 2.6 可能性模型](https://plato.stanford.edu/entries/phil-multimodallogic/#PlauMode)
-  * [2.7 通过句法构造实现的无限多模态](https://plato.stanford.edu/entries/phil-multimodallogic/#InfiModaViaSyntCons)
-  * [2.8 动态认知逻辑方法](https://plato.stanford.edu/entries/phil-multimodallogic/#DynaEpisLogiAppr)
-* [3. 组合模态系统的一般策略](https://plato.stanford.edu/entries/phil-multimodallogic/#GeneStraForCombModaSyst)
-
-  * [ 3.1 融合](https://plato.stanford.edu/entries/phil-multimodallogic/#Fusi)
-  * [ 3.2 产品](https://plato.stanford.edu/entries/phil-multimodallogic/#Prod)
-  * [ 3.3 多模态纤维](https://plato.stanford.edu/entries/phil-multimodallogic/#ModaFibr)
-  * [ 3.4 复杂性问题](https://plato.stanford.edu/entries/phil-multimodallogic/#CompIssu)
-* [4. 多模态之间的重要互动](https://plato.stanford.edu/entries/phil-multimodallogic/#SignInteBetwModa)
-
-  * [4.1 知识与信念之间的关系](https://plato.stanford.edu/entries/phil-multimodallogic/#RelaBetwKnowBeli)
-  * [4.2 时间和知识](https://plato.stanford.edu/entries/phil-multimodallogic/#TimeKnow)
-  * [4.3 知识和问题](https://plato.stanford.edu/entries/phil-multimodallogic/#KnowQues)
-  * [ 4.4 代理人](https://plato.stanford.edu/entries/phil-multimodallogic/#Agen)
-  * [4.5 多模态一阶逻辑](https://plato.stanford.edu/entries/phil-multimodallogic/#ModaFirsOrdeLogi)
-  * [4.6 意图的动态](https://plato.stanford.edu/entries/phil-multimodallogic/#DynaInte)
-  * [4.7 义务和时间](https://plato.stanford.edu/entries/phil-multimodallogic/#ObliTime)
-  * [4.8 知识和义务](https://plato.stanford.edu/entries/phil-multimodallogic/#KnowObli)
-* [5. 多模态系统在哲学讨论中](https://plato.stanford.edu/entries/phil-multimodallogic/#MultModaSystPhilDisc)
-
-  * [ 5.1 演绎推理](https://plato.stanford.edu/entries/phil-multimodallogic/#AbduReas)
-  * [5.2 菲奇可知性悖论](https://plato.stanford.edu/entries/phil-multimodallogic/#FitcKnowPara)
-  * [5.3 完美信徒的悖论](https://plato.stanford.edu/entries/phil-multimodallogic/#ParaPerfBeli)
-  * [5.4 多模态视角下的真理生成者](https://plato.stanford.edu/entries/phil-multimodallogic/#TrutModaPers)
-  * [5.5 Brandenburger-Keisler 悖论](https://plato.stanford.edu/entries/phil-multimodallogic/#BranKeisPara)
-* [ 参考文献](https://plato.stanford.edu/entries/phil-multimodallogic/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/phil-multimodallogic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/phil-multimodallogic/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/phil-multimodallogic/#Rel)
-
+ 
 ---
 
 ## 1. 简要介绍

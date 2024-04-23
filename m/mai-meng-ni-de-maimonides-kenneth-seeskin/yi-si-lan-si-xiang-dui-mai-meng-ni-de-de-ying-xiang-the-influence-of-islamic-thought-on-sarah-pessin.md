@@ -11,37 +11,7 @@
 
 (c) 最后，还应该注意的是，正如我们将看到的那样，迈蒙尼德的哲学深受新柏拉图主义的形而上学概念的影响，例如“流出”（或“溢出”）和神的超越。虽然我将讨论这些概念及其在迈蒙尼德及其伊斯兰哲学背景中的出现，尽管我将尝试基本解释这些柏拉图式的形而上学思想如何运作，但任何试图完全解释这些思想的努力都超出了当前条目的范围。在这方面，读者可以参考关于普罗提诺斯和希腊、犹太和伊斯兰源泉中新柏拉图主义形而上学的一手和二手资料。
 
-* [1. 方法论前言](https://plato.stanford.edu/entries/maimonides-islamic/#MethPre)
-* [2. 迈蒙尼德的伊斯兰哲学背景概述：亚里士多德及其后继者的神学](https://plato.stanford.edu/entries/maimonides-islamic/#OverMaimIsPhBa)
-* [ 3. 神](https://plato.stanford.edu/entries/maimonides-islamic/#God)
-
-  * [3.1 简单性：统一性，本质=存在，必然性，属性，否定陈述，以及“行为”](https://plato.stanford.edu/entries/maimonides-islamic/#SimpUnEss)
-  * [3.2 迈蒙尼德作为智慧](https://plato.stanford.edu/entries/maimonides-islamic/#GodIntel)
-  * [3.3 关于内在性和超越性的紧张/相互作用](https://plato.stanford.edu/entries/maimonides-islamic/#OnTenInterImmTran)
-* [4. 宇宙、创造、发出](https://plato.stanford.edu/entries/maimonides-islamic/#CosCreEma)
-* [ 5. 溢出](https://plato.stanford.edu/entries/maimonides-islamic/#Ove)
-* [6. 活动智力、人类智力、不朽和预言](https://plato.stanford.edu/entries/maimonides-islamic/#ActIntHumIntImmPro)
-
-  * [ 6.1 认识论](https://plato.stanford.edu/entries/maimonides-islamic/#Epi)
-  * [ 6.2 照明](https://plato.stanford.edu/entries/maimonides-islamic/#Ill)
-  * [ 6.3 结合](https://plato.stanford.edu/entries/maimonides-islamic/#Con)
-  * [ 6.4 热爱](https://plato.stanford.edu/entries/maimonides-islamic/#PasLov)
-  * [6.5 预言：溢出、实现、适应和自然化的神圣](https://plato.stanford.edu/entries/maimonides-islamic/#ProOveActFitNatDiv)
-  * [ 6.6 监督](https://plato.stanford.edu/entries/maimonides-islamic/#Pro)
-  * [ 6.7 不朽](https://plato.stanford.edu/entries/maimonides-islamic/#Imm)
-* [7. 想象力、政治、寓言](https://plato.stanford.edu/entries/maimonides-islamic/#ImaPolAll)
-
-  * [ 7.1 指导](https://plato.stanford.edu/entries/maimonides-islamic/#Gui)
-  * [7.2 寓言和隐晦写作：外在层面与真实观念](https://plato.stanford.edu/entries/maimonides-islamic/#All)
-  * [ 7.3 动态写作](https://plato.stanford.edu/entries/maimonides-islamic/#DynWri)
-* [ 参考文献](https://plato.stanford.edu/entries/maimonides-islamic/#Bib)
-
-  * [ A. 主要来源](https://plato.stanford.edu/entries/maimonides-islamic/#PriSou)
-  * [ B. 第二手资料](https://plato.stanford.edu/entries/maimonides-islamic/#SecSou)
-  * [C. 进一步阅读](https://plato.stanford.edu/entries/maimonides-islamic/#ForFurRea)
-* [ 学术工具](https://plato.stanford.edu/entries/maimonides-islamic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/maimonides-islamic/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/maimonides-islamic/#Rel)
+ 
 
 ---
 

@@ -4,21 +4,7 @@
 
 1926 年，恩斯特·马利提出了第一个道义逻辑的形式系统。他的系统有几个后果，马利认为这些后果令人惊讶但是可以辩护。它还有一个后果（“如果且仅如果 A 成立，则 A 是义务的”），这个后果被曼格（1939 年）和几乎所有后来的道义逻辑学家认为是不可接受的。我们不仅会描述马利的系统，还会讨论如何修复它。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/mally-deontic/#Intr)
-* [2. 恩斯特·马利的形式语言](https://plato.stanford.edu/entries/mally-deontic/#MallFormLang)
-* [ 3. 恩斯特·马利的公理](https://plato.stanford.edu/entries/mally-deontic/#MallAxio)
-* [ 4. 恩斯特·马利的定理](https://plato.stanford.edu/entries/mally-deontic/#MallTheo)
-* [5. 令人惊讶的结果](https://plato.stanford.edu/entries/mally-deontic/#SurpCons)
-* [ 6. Menger 的批评](https://plato.stanford.edu/entries/mally-deontic/#MengCrit)
-* [7. Mally 在哪里出错了？](https://plato.stanford.edu/entries/mally-deontic/#WherDidMallGoWron)
-* [8. 替代的非道义基础 1：相关逻辑](https://plato.stanford.edu/entries/mally-deontic/#AlteNonDeonBase1ReleLogi)
-* [9. 替代的非道义基础 2：直觉逻辑](https://plato.stanford.edu/entries/mally-deontic/#AlteNonDeonBase2IntuLogi)
-* [10. 替代的道义原则](https://plato.stanford.edu/entries/mally-deontic/#AlteDeonPrin)
-* [ 11. 结论](https://plato.stanford.edu/entries/mally-deontic/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/mally-deontic/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/mally-deontic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mally-deontic/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mally-deontic/#Rel)
+ 
 
 ---
 

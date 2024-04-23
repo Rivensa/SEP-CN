@@ -8,36 +8,7 @@
 
 尽管弗雷格的论证，哲学家们对数学柏拉图主义提出了各种异议。因此，抽象数学对象被认为是认识上无法接近和形而上学上有问题的。数学柏拉图主义是过去几十年来数学哲学中最激烈争论的话题之一。
 
-* [1. 什么是柏拉图主义数学？](https://plato.stanford.edu/entries/platonism-mathematics/#WhatMathPlat)
-
-  * [ 1.1 历史背景](https://plato.stanford.edu/entries/platonism-mathematics/#HistRema)
-  * [1.2 数学柏拉图主义的哲学意义](https://plato.stanford.edu/entries/platonism-mathematics/#PhilSignMathPlat)
-  * [ 1.3 对象现实主义](https://plato.stanford.edu/entries/platonism-mathematics/#ObjeReal)
-  * [ 1.4 真值现实主义](https://plato.stanford.edu/entries/platonism-mathematics/#TrutValuReal)
-  * [1.5 柏拉图主义的数学意义](https://plato.stanford.edu/entries/platonism-mathematics/#MathSignPlat)
-* [2. 存在的弗雷格论证](https://plato.stanford.edu/entries/platonism-mathematics/#FregArguForExis)
-
-  * [2.1 论证的结构](https://plato.stanford.edu/entries/platonism-mathematics/#StruArgu)
-  * [2.2 辩护经典语义学](https://plato.stanford.edu/entries/platonism-mathematics/#DefeClasSema)
-  * [ 2.3 辩护真理](https://plato.stanford.edu/entries/platonism-mathematics/#DefeTrut)
-  * [2.4 存在的承诺概念](https://plato.stanford.edu/entries/platonism-mathematics/#NotiOntoComm)
-  * [2.5 从存在到数学柏拉图主义？](https://plato.stanford.edu/entries/platonism-mathematics/#ExisMathPlat)
-* [3. 对数学柏拉图主义的反对意见](https://plato.stanford.edu/entries/platonism-mathematics/#ObjeMathPlat)
-
-  * [3.1 认识论访问](https://plato.stanford.edu/entries/platonism-mathematics/#EpisAcce)
-  * [3.2 一个形而上学的反对意见](https://plato.stanford.edu/entries/platonism-mathematics/#MetaObje)
-  * [3.3 其他形而上学上的反对意见](https://plato.stanford.edu/entries/platonism-mathematics/#OtheMetaObje)
-* [4. 在客体实在论和数学柏拉图主义之间](https://plato.stanford.edu/entries/platonism-mathematics/#BetwObjeRealMathPlat)
-
-  * [4.1 如何理解独立性](https://plato.stanford.edu/entries/platonism-mathematics/#HowUndeInde)
-  * [4.2 充实的柏拉图主义](https://plato.stanford.edu/entries/platonism-mathematics/#PlenPlat)
-  * [4.3 轻量级语义值](https://plato.stanford.edu/entries/platonism-mathematics/#LighSemaValu)
-  * [4.4 亚里士多德的启示](https://plato.stanford.edu/entries/platonism-mathematics/#InspAris)
-* [ 参考文献](https://plato.stanford.edu/entries/platonism-mathematics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/platonism-mathematics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/platonism-mathematics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/platonism-mathematics/#Rel)
-
+ 
 ---
 
 ## 1. 什么是数学柏拉图主义？

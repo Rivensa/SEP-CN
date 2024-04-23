@@ -8,30 +8,7 @@
 
 不幸的是，在哲学界对埃克哈特大师在哲学史上的智力贡献的忽视使得很难找到一份全面的大师（已确认）的拉丁文和德文作品清单，迄今为止还没有完整的英文翻译拉丁文作品。此外，多年来，各种编辑和翻译者对德文讲道进行了不同的编号，常常导致对讲道的排序和交叉引用产生困惑。因此，在本条目中引用原始资料时，首先提供相关作品的缩写与章节号，然后是德文临界版（LW 或 DW 分别代表 Lateinische Werke 和 Deutsche Werke）的卷和页码，以及可能的英文翻译的页码。关于埃克哈特大师的德文讲道，我使用了昆特的编号，因为这是埃克哈特大师学者们最广泛认可的编号（也是临界版使用的编号）。最后，如果相关，我引用了 LW I/2，而不是 LW I，因为前者也用于更易获取（和负担得起）的拉丁文-德文学习版。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/meister-eckhart/#Life)
-* [ 2. 影响](https://plato.stanford.edu/entries/meister-eckhart/#Infl)
-* [3. 埃克哈特大师是 Lebemeister 还是 Lesemeister？作为神秘主义者、神学家和哲学家的埃克哈特](https://plato.stanford.edu/entries/meister-eckhart/#LebeLeseEckhMystTheoPhil)
-* [4. 说和不说：语言与哲学的埃克哈特](https://plato.stanford.edu/entries/meister-eckhart/#SayiUnsaLangPhilEckh)
-* [5. 信仰与哲学：埃克哈特的解释学方法](https://plato.stanford.edu/entries/meister-eckhart/#FaitPhilEckhHermAppr)
-* [6. 存在还是理解？埃克哈特大师关于上帝和创造的观点](https://plato.stanford.edu/entries/meister-eckhart/#EsseInteEckhGodCrea)
-
-  * [6.1 存在的沸腾：埃克哈特大师的“流动的形而上学”](https://plato.stanford.edu/entries/meister-eckhart/#BoilOverBeinEckhMetaFlow)
-  * [6.2 知性的首位性：埃克哈特大师的因果认识论](https://plato.stanford.edu/entries/meister-eckhart/#PrimInteEckhCausEpis)
-* [7. 神的迹象：埃克哈特大师的“类比的形而上学”](https://plato.stanford.edu/entries/meister-eckhart/#SignDiviEckhMetaAnal)
-* [8. 一个统一的存在-言说学？神圣的话语作为原则和调停者](https://plato.stanford.edu/entries/meister-eckhart/#UnifOntoLogoDiviWordPrinMedi)
-* [9. 诞生话语和存在于世界中：埃克哈特大师的神秘伦理学](https://plato.stanford.edu/entries/meister-eckhart/#BirtWordBeinWorlEckhMystEthi)
-
-  * [9.1 解释/理论：去形象化的图像：无因之言的诞生](https://plato.stanford.edu/entries/meister-eckhart/#ImagForDeImagBirtWordWithWhy)
-  * [9.2 解释/理论：学会放手：负面美德与非执着](https://plato.stanford.edu/entries/meister-eckhart/#LearLetGoNegaVirtNonAtta)
-  * [9.3 解释/理论：“多产的贞洁”：存在于世界中的基督徒生活](https://plato.stanford.edu/entries/meister-eckhart/#FruiVirgBeinWorlChriLife)
-* [ 参考文献](https://plato.stanford.edu/entries/meister-eckhart/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/meister-eckhart/#PrimLite)
-  * [ 次要文献](https://plato.stanford.edu/entries/meister-eckhart/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/meister-eckhart/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/meister-eckhart/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/meister-eckhart/#Rel)
-
+ 
 ---
 
 ## 1. 生活

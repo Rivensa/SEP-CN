@@ -6,25 +6,7 @@
 
 本条目将探讨支持和反对意义整体论的论点的优势。
 
-* [1. 对该观点的一般描述](https://plato.stanford.edu/entries/meaning-holism/#GenChaVie)
-* [2. 意义整体论的论证](https://plato.stanford.edu/entries/meaning-holism/#ArgForMeaHol)
-
-  * [ 2.1 直接论证](https://plato.stanford.edu/entries/meaning-holism/#DirArg)
-  * [ 2.2 间接论证](https://plato.stanford.edu/entries/meaning-holism/#IndArg)
-* [3. 意义整体论的问题](https://plato.stanford.edu/entries/meaning-holism/#ProForMeaHol)
-
-  * [ 3.1 解释性](https://plato.stanford.edu/entries/meaning-holism/#Com)
-  * [ 3.2 不稳定性](https://plato.stanford.edu/entries/meaning-holism/#Ins)
-
-    * [3.2.1 来自不稳定性的问题](https://plato.stanford.edu/entries/meaning-holism/#ProIns)
-    * [3.2.2 应对不稳定性](https://plato.stanford.edu/entries/meaning-holism/#CopIns)
-  * [3.3 “分析性”和客观性](https://plato.stanford.edu/entries/meaning-holism/#AnaObj)
-* [ 4. 结论](https://plato.stanford.edu/entries/meaning-holism/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/meaning-holism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/meaning-holism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/meaning-holism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/meaning-holism/#Rel)
-
+ 
 ---
 
 ## 1. 观点的一般描述

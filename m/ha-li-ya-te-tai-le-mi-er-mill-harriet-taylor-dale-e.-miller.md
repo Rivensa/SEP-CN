@@ -6,29 +6,7 @@
 
 哈丽雅特·泰勒·密尔（1807-1858）对于百科全书编纂者来说，提出了一系列独特的问题。通常的方法是在写一篇关于历史人物的条目时，简要概述他们的主要作品，然后发表一些评价性的话语，但这种方法在这里行不通。这是因为她与约翰·斯图尔特·密尔密切合作，以至于极难将他们共同努力的成果中的各自贡献分开。在试图评估泰勒·密尔的哲学生涯时，人们会遇到对她能力的截然不同的报道，关于她在撰写几本书和论文中的角色的证据也相互矛盾，对她对密尔的思想和工作产生多大影响的评判也大相径庭。
 
-* [ 1. 个人简介](https://plato.stanford.edu/entries/harriet-mill/#BioSke)
-* [2. 哈丽雅特·泰勒·密尔的当代解释/理论](https://plato.stanford.edu/entries/harriet-mill/#ConAccHarTayMil)
-
-  * [2.1 约翰·斯图尔特·密尔的赞扬](https://plato.stanford.edu/entries/harriet-mill/#PraJohStuMil)
-  * [2.2 哈丽雅特的批评者](https://plato.stanford.edu/entries/harriet-mill/#HarDet)
-  * [2.3 一个更加平衡的评估](https://plato.stanford.edu/entries/harriet-mill/#BalAss)
-* [3. 哈丽雅特·泰勒·密尔作为作者](https://plato.stanford.edu/entries/harriet-mill/#TayMilAut)
-
-  * [ 3.1 小作品](https://plato.stanford.edu/entries/harriet-mill/#MinWor)
-  * [3.2 政治经济学原理](https://plato.stanford.edu/entries/harriet-mill/#PriPolEco)
-  * [ 3.3 论自由](https://plato.stanford.edu/entries/harriet-mill/#Lib)
-  * [3.4 “妇女的解放”](https://plato.stanford.edu/entries/harriet-mill/#EnfWom)
-* [4. 哈丽雅特·泰勒·密尔对密尔的影响](https://plato.stanford.edu/entries/harriet-mill/#TayMilInfMil)
-
-  * [4.1 约翰·斯图尔特·密尔对密尔夫妇合作的解释](https://plato.stanford.edu/entries/harriet-mill/#JohStuMilAccMilCol)
-  * [4.2 对哈丽雅特·泰勒·密尔对约翰·斯图尔特·密尔的影响的怀疑](https://plato.stanford.edu/entries/harriet-mill/#SkeAboHarTayMilInfJohStuMil)
-  * [4.3 对抗性评估](https://plato.stanford.edu/entries/harriet-mill/#CouAss)
-  * [4.4 中间立场](https://plato.stanford.edu/entries/harriet-mill/#MidGro)
-* [ 5. 结论](https://plato.stanford.edu/entries/harriet-mill/#Con)
-* [ 参考书目](https://plato.stanford.edu/entries/harriet-mill/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/harriet-mill/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/harriet-mill/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/harriet-mill/#Rel)
+ 
 
 ---
 

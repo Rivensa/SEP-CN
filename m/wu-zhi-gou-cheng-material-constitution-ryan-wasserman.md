@@ -6,18 +6,7 @@ _首次发表于2009年2月25日，实质修订于2021年9月9日。_
 
 本文介绍了物质构成的一些最重要的难题，并评估了一些最流行的回答。
 
-* [1. 物质构成的难题](https://plato.stanford.edu/entries/material-constitution/#Puz)
-* [2. 相符的对象](https://plato.stanford.edu/entries/material-constitution/#CoiObj)
-* [3. 时间部分](https://plato.stanford.edu/entries/material-constitution/#TemPar)
-* [4. 废除主义](https://plato.stanford.edu/entries/material-constitution/#Eli)
-* [5. 主导种类](https://plato.stanford.edu/entries/material-constitution/#DomKin)
-* [6. 相对身份](https://plato.stanford.edu/entries/material-constitution/#RelIde)
-* [7. 紧缩主义](https://plato.stanford.edu/entries/material-constitution/#Def)
-* [参考文献](https://plato.stanford.edu/entries/material-constitution/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/material-constitution/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/material-constitution/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/material-constitution/#Rel)
-
+ 
 ***
 
 ## 1. 物质构成之谜

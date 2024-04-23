@@ -3,32 +3,7 @@
 *首次发表于2003年5月8日；实质性修订于2019年3月11日。*
 
 取消唯物主义（或称为消除主义）是一种激进的主张，它认为我们对心灵的普通常识理解是深深错误的，并且常识所假设的某些或全部心理状态实际上并不存在，并且在成熟的心灵科学中没有任何作用。笛卡尔著名地挑战了我们所认为理所当然的许多东西，但他坚持认为，就大部分而言，我们可以对自己心灵的内容有信心。取消唯物主义者在这一点上比笛卡尔更进一步，因为他们质疑了笛卡尔所认为理所当然的各种心理状态的存在。
-
-* [1. 简史](https://plato.stanford.edu/entries/materialism-eliminative/#BriHis)
-* [2. 当代取消唯物主义](https://plato.stanford.edu/entries/materialism-eliminative/#ConEliMat)
-
-  * [2.1 民间心理学和理论-理论](https://plato.stanford.edu/entries/materialism-eliminative/#FolPsyTheThe)
-  * [2.2 取消理论变革](https://plato.stanford.edu/entries/materialism-eliminative/#EliTheCha)
-  * [2.3 类别取消](https://plato.stanford.edu/entries/materialism-eliminative/#CatEli)
-* [3. 取消唯物主义的论证](https://plato.stanford.edu/entries/materialism-eliminative/#ArgForEliMat)
-
-  * [3.1 民间心理学的一般理论问题](https://plato.stanford.edu/entries/materialism-eliminative/#GenTheProFolPsy)
-  * [3.2 民间心理学的具体问题](https://plato.stanford.edu/entries/materialism-eliminative/#SpeProFolPsy)
-  * [3.3 取消唯物主义和现象](https://plato.stanford.edu/entries/materialism-eliminative/#EliMatPhe)
-* [4. 反对取消唯物主义的论证](https://plato.stanford.edu/entries/materialism-eliminative/#ArgAgaEliMat)
-
-  * [4.1 自我反驳异议](https://plato.stanford.edu/entries/materialism-eliminative/#SelRefObj)
-  * [4.2 取消唯物主义的拒绝理论理论](https://plato.stanford.edu/entries/materialism-eliminative/#RejTheThe)
-  * [4.3 辩护民间心理学的优点](https://plato.stanford.edu/entries/materialism-eliminative/#DefVirFolPsy)
-  * [4.4 取消唯物主义被消除了吗？](https://plato.stanford.edu/entries/materialism-eliminative/#EliEli)
-* [ 5. 结论性评论](https://plato.stanford.edu/entries/materialism-eliminative/#ConCom)
-* [ 参考文献](https://plato.stanford.edu/entries/materialism-eliminative/#Bib)
-
-  * [ 引用的作品](https://plato.stanford.edu/entries/materialism-eliminative/#CitWor)
-  * [ 进一步阅读](https://plato.stanford.edu/entries/materialism-eliminative/#FurRea)
-* [ 学术工具](https://plato.stanford.edu/entries/materialism-eliminative/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/materialism-eliminative/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/materialism-eliminative/#Rel)
+ 
 
 ---
 

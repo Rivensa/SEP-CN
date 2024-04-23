@@ -6,28 +6,7 @@ _首次发表于 2005 年 10 月 13 日；实质性修订于 2018 年 7 月 25 �
 
 奥地利哲学家恩斯特·马利（1879-1944）是迈农学派最重要的代表之一。尽管他以其对迈农的客体理论（Gegenstandstheorie）的研究和对德意志义务逻辑的发展而闻名，但他也因其德意志民族主义信仰和对国家社会主义意识形态的支持而获得了一些声名。一方面，马利对迈农的客体理论的贡献并不仅仅是对他老师工作的延伸，而是一种真正的替代，反过来又影响了迈农自己的观念。此外，他是第一个建立起形式化的德意志义务逻辑体系的哲学家（参见马利的德意志义务逻辑条目），尽管大多数哲学家认为它存在严重缺陷，但这是一项重大的工作，并且直到最近才得到应有的关注。另一方面，马利的一些后期著作特别受到他对国家社会主义的同情的影响。接下来，我们将确定和概述他思想的各个方面，并探讨一个微妙的问题，即他对国家社会主义的同情是否以及如何影响了他后来的哲学工作。
 
-* [1. 个人简介](https://plato.stanford.edu/entries/mally/#BioSke)
-* [2. 本体论与逻辑](https://plato.stanford.edu/entries/mally/#OntLog)
-  * [2.1 恩斯特·马利的本体论和逻辑背景](https://plato.stanford.edu/entries/mally/#MalOntLogBac)
-  * [2.2 恩斯特·马利的对象理论](https://plato.stanford.edu/entries/mally/#MalTheObj)
-  * [2.3 讨论恩斯特·马利的理论](https://plato.stanford.edu/entries/mally/#DisMalThe)
-  * [2.4 恩斯特·马利的动态本体论观念](https://plato.stanford.edu/entries/mally/#MalDynOntCon)
-  * [2.5 恩斯特·马利的义务逻辑](https://plato.stanford.edu/entries/mally/#MalDeoLog)
-* [3. 伦理学：规范与价值](https://plato.stanford.edu/entries/mally/#EthNorVal)
-  * [3.1 新发现的来源和讲义笔记](https://plato.stanford.edu/entries/mally/#NewSouLecNotDis)
-  * [3.2 马利在伦理学中的背景和发展](https://plato.stanford.edu/entries/mally/#MalBacDevEth)
-  * [3.3 恩斯特·马利对价值理论和伦理学的看法](https://plato.stanford.edu/entries/mally/#MalValTheEth)
-    * [3.3.1 人类对价值观具有自然证据](https://plato.stanford.edu/entries/mally/#HumPosNatEviForVal)
-    * [3.3.2 道德价值的先决条件是内部和外部效用价值](https://plato.stanford.edu/entries/mally/#PreMorValIntExtUtiVal)
-    * [3.3.3 道德价值的种类和总生命价值](https://plato.stanford.edu/entries/mally/#KinMorValTotLifVal)
-    * [3.3.4 1926/27 年后马利伦理学的趋势](https://plato.stanford.edu/entries/mally/#TreMalEthAft192)
-* [4. 哲学与国家社会主义意识形态](https://plato.stanford.edu/entries/mally/#NatSocIde)
-* [参考文献](https://plato.stanford.edu/entries/mally/#Bib)
-  * [主要文献：恩斯特·马利著作选集](https://plato.stanford.edu/entries/mally/#SelMalWri)
-  * [二次文献](https://plato.stanford.edu/entries/mally/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/mally/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mally/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/mally/#Rel)
+ 
 
 ***
 

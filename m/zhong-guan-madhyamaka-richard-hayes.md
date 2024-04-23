@@ -5,32 +5,7 @@
 佛教中观学派，其追随者被称为中观派，是印度大乘佛教的两个主要学派之一，另一个学派是瑜伽行派。该学派的名称是对佛教的一般主张的引用，即佛教是一条中道（madhyamā pratipad），避免了两个极端：永恒主义——即所有事物之所以存在是因为有一个永恒的本质，和虚无主义——即事物在存在时具有本质，但这些本质在事物自身消失时被消灭。中观学派的信念，可以称之为英文中的中道学派，是通过否认事物具有任何固有本质来实现这种中道。换句话说，所有事物都是没有固有本质的，也就是空的。这种普遍空性（svabhāva-śūnyatā）的教义是该学派的标志，使该学派坚定地位于与大乘佛教的般若波罗蜜经（prajñāpāramitā）文献相关的传统中。
 
 该学派的关键文本包括对龙树的著作的评论——最常被评论的龙树著作是《中观论》（MMK）和《解脱论》（VV）——以及一些独立的作品，这些作品扩展了龙树著作中的思想。早期中观学派的一些梵文论著被翻译成中文，并成为中国佛教短暂存在的一个学派的基础。相当数量的梵文中观经典最终被翻译成藏文，并对藏传佛教的知识遗产产生了重要影响。本文仅涉及从公元五世纪到八世纪的印度中观学派，这段时间内该学派经历了大部分的演变。
-
-* [1. 中观学派的问题](https://plato.stanford.edu/entries/madhyamaka/#IssuMadhScho)
-* [2. Āryadeva (约公元 225-250 年)](https://plato.stanford.edu/entries/madhyamaka/#AaryFlCa225250CE)
-* [3. Buddhapālita](https://plato.stanford.edu/entries/madhyamaka/#Budd)
-* [4. Bhāvaviveka](https://plato.stanford.edu/entries/madhyamaka/#Bhaa)
-
-  * [4.1 生平与作品](https://plato.stanford.edu/entries/madhyamaka/#LifeWork)
-  * [ 4.2 贡献](https://plato.stanford.edu/entries/madhyamaka/#Cont)
-* [ 5. 中观学派](https://plato.stanford.edu/entries/madhyamaka/#Cand)
-* [ 6. 中观学派](https://plato.stanford.edu/entries/madhyamaka/#Saan)
-
-  * [6.1 生平与著作](https://plato.stanford.edu/entries/madhyamaka/#CandContLifeWork)
-  * [ 6.2 贡献](https://plato.stanford.edu/entries/madhyamaka/#CandCont)
-* [ 7. 知识宝藏](https://plato.stanford.edu/entries/madhyamaka/#Jnaa)
-
-  * [7.1 生平与著作](https://plato.stanford.edu/entries/madhyamaka/#JnnaLifeWork)
-  * [ 7.2 贡献](https://plato.stanford.edu/entries/madhyamaka/#JnnaCont)
-* [ 8. 中观学派](https://plato.stanford.edu/entries/madhyamaka/#Sant)
-
-  * [8.1 生平与著作](https://plato.stanford.edu/entries/madhyamaka/#SantLifeWork)
-  * [ 8.2 贡献](https://plato.stanford.edu/entries/madhyamaka/#SantCont)
-* [ 参考文献](https://plato.stanford.edu/entries/madhyamaka/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/madhyamaka/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/madhyamaka/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/madhyamaka/#Rel)
-
+ 
 ---
 
 ## 1. 中观学派的问题

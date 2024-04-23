@@ -10,39 +10,7 @@
 
 本文描述了哲学分析对货币与金融的观点。它分为五个部分，分别涉及（1）货币与金融的本质是什么（形而上学），（2）关于金融事务的知识是如何形成的或应该如何形成的（认识论），（3）金融经济学的优点和挑战（科学哲学），（4）与货币与金融相关的伦理问题（伦理学），以及（5）金融与政治之间的关系（政治哲学）。
 
-* [ 1. 形而上学](https://plato.stanford.edu/entries/money-finance/#Meta)
-
-  * [1.1 货币是什么？](https://plato.stanford.edu/entries/money-finance/#WhatMone)
-  * [1.2 什么是货币与金融？](https://plato.stanford.edu/entries/money-finance/#WhatFina)
-* [ 2. 认识论](https://plato.stanford.edu/entries/money-finance/#Epis)
-* [3. 科学哲学](https://plato.stanford.edu/entries/money-finance/#PhilScie)
-* [ 4. 伦理学](https://plato.stanford.edu/entries/money-finance/#Ethi)
-
-  * [4.1 货币是一切邪恶的根源吗？](https://plato.stanford.edu/entries/money-finance/#MoneRootAllEvil)
-
-    * [4.1.1 对金钱的爱](https://plato.stanford.edu/entries/money-finance/#LoveMone)
-    * [4.1.2 货币与金融](https://plato.stanford.edu/entries/money-finance/#UsurInte)
-    * [4.1.3 投机与赌博](https://plato.stanford.edu/entries/money-finance/#SpecGamb)
-  * [4.2 金融市场中的公平性](https://plato.stanford.edu/entries/money-finance/#FairFinaMark)
-
-    * [4.2.1 欺骗和欺诈](https://plato.stanford.edu/entries/money-finance/#DeceFrau)
-    * [4.2.2 避免利益冲突](https://plato.stanford.edu/entries/money-finance/#AvoiConfInte)
-    * [ 4.2.3 内幕交易](https://plato.stanford.edu/entries/money-finance/#InsiTrad)
-  * [4.3 货币与金融的社会责任](https://plato.stanford.edu/entries/money-finance/#SociRespFina)
-
-    * [4.3.1 系统风险和金融危机](https://plato.stanford.edu/entries/money-finance/#SystRiskFinaCris)
-    * [ 4.3.2 微金融](https://plato.stanford.edu/entries/money-finance/#Micr)
-    * [4.3.3 社会责任投资](https://plato.stanford.edu/entries/money-finance/#SociRespInve)
-* [5. 政治哲学](https://plato.stanford.edu/entries/money-finance/#PoliPhil)
-
-  * [5.1 金融化与民主](https://plato.stanford.edu/entries/money-finance/#FinaDemo)
-  * [5.2 货币与金融，以及国内公正](https://plato.stanford.edu/entries/money-finance/#FinaMoneDomeJust)
-  * [5.3 货币与金融，以及全球公正](https://plato.stanford.edu/entries/money-finance/#FinaGlobJust)
-* [ 参考文献](https://plato.stanford.edu/entries/money-finance/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/money-finance/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/money-finance/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/money-finance/#Rel)
-
+ 
 ---
 
 ## 1. 货币与金融

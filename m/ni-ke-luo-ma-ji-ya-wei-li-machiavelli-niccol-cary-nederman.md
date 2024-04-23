@@ -6,24 +6,7 @@
 
 此外，更明显符合一流哲学家资格的后续思想家（过去和现在）感到有必要与他的思想进行争论或将他的见解融入自己的教学中。即使马基雅维利只是在哲学的边缘徘徊，他广泛的思考产生了广泛而持久的影响。无论马基雅维利本人是否发明了“马基雅维利主义”（这个术语显然是由皮埃尔·贝尔在 17 世纪创造的）或者是否实际上是一个常常被归于他的“马基雅维利主义者”，与伦理、政治和心理现象相关的哲学家们经常使用“马基雅维利主义”或“马基雅维利主义”这些术语。马基雅维利对乌托邦哲学计划（如柏拉图的计划）的批评以一种引人注目的方式挑战了整个政治哲学传统，并要求人们予以关注、考虑和回应。最后，一代新的所谓“新罗马”政治理论家（如菲利普·佩蒂特[1997]、昆廷·斯金纳[1998]和莫里齐奥·维罗利[1999 [2002]]）在马基雅维利的共和主义版本中找到了灵感。因此，在任何全面的政治哲学调查中，马基雅维利都应该有一席之地。
 
-* [ 1. 传记](https://plato.stanford.edu/entries/machiavelli/#Biog)
-* [2. 《君主论》：权力分析](https://plato.stanford.edu/entries/machiavelli/#PrinAnalPowe)
-* [3. 权力、德行和运气](https://plato.stanford.edu/entries/machiavelli/#PoweVirtFort)
-* [4. 道德、宗教和政治](https://plato.stanford.edu/entries/machiavelli/#MoraReliPoli)
-* [5. 国家和君主：语言和概念](https://plato.stanford.edu/entries/machiavelli/#StatPrinLangConc)
-* [6. 尼科洛·马基雅维利的《关于利维的演讲：自由与冲突》](https://plato.stanford.edu/entries/machiavelli/#DiscLivyLibeConf)
-* [7. 民主自由与民主言论](https://plato.stanford.edu/entries/machiavelli/#PopuLibePopuSpee)
-* [8. 共和国领导者的特征](https://plato.stanford.edu/entries/machiavelli/#CharRepuLead)
-* [9. 尼科洛·马基雅维利在西方思想中的地位](https://plato.stanford.edu/entries/machiavelli/#MachPlacWestThou)
-* [ 解释](https://plato.stanford.edu/entries/machiavelli/#Bib)
-
-  * [意大利语原始资料](https://plato.stanford.edu/entries/machiavelli/#PrimSourItal)
-  * [英文翻译中的主要来源](https://plato.stanford.edu/entries/machiavelli/#PrimSourEnglTran)
-  * [ 二手文献](https://plato.stanford.edu/entries/machiavelli/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/machiavelli/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/machiavelli/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/machiavelli/#Rel)
-
+ 
 ---
 
 ## 1. 传记

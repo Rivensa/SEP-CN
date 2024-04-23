@@ -3,43 +3,7 @@
 _首次发表于2010年1月26日；实质修订于2019年6月27日_
 
 “意义理论”这个术语在过去一个世纪的许多哲学争议中以某种方式出现。不幸的是，这个术语也被用来表示许多不同的事物。在本条目中，重点是两种“意义理论”。第一种理论是语义理论，它是一种将语言表达式赋予语义内容的理论。第二种理论是意义的基础理论，它是一种陈述事实的理论，这些事实决定了表达式具有的语义内容。在简要介绍之后，依次讨论这两种理论。
-
-* [1. 两种意义理论](https://plato.stanford.edu/entries/meaning/#TwoKindTheoMean)
-* [2. 语义理论](https://plato.stanford.edu/entries/meaning/#SemaTheo)
-  * [2.1 古典语义学理论](https://plato.stanford.edu/entries/meaning/#ClasSemaTheo)
-    * [2.1.1 指称理论](https://plato.stanford.edu/entries/meaning/#TheoRefe)
-    * [2.1.2 指称理论与语义理论对比](https://plato.stanford.edu/entries/meaning/#TheoRefeVsSemaTheo)
-    * [2.1.3 内容与指称之间的关系](https://plato.stanford.edu/entries/meaning/#RelaBetwContRefe)
-    * [2.1.4 字符与内容，上下文与情境](https://plato.stanford.edu/entries/meaning/#CharContContCirc)
-    * [2.1.5 可能世界语义学](https://plato.stanford.edu/entries/meaning/#PossWorlSema)
-    * [2.1.6 罗素语义学](https://plato.stanford.edu/entries/meaning/#RussSema)
-    * [2.1.7 弗雷格语义学](https://plato.stanford.edu/entries/meaning/#FregSema)
-  * [2.2 古典语义理论的替代方案](https://plato.stanford.edu/entries/meaning/#AlteClasSemaTheo)
-    * [2.2.1 戴维森语义学](https://plato.stanford.edu/entries/meaning/#DaviSema)
-    * [2.2.2 内在主义语义学](https://plato.stanford.edu/entries/meaning/#InteSema)
-    * [2.2.3 推理主义语义学](https://plato.stanford.edu/entries/meaning/#InfeSema)
-    * [2.2.4 动态语义学](https://plato.stanford.edu/entries/meaning/#DynaSema)
-    * [2.2.5 表达主义语义学](https://plato.stanford.edu/entries/meaning/#ExprSema)
-  * [2.3 面临语义理论的一般问题](https://plato.stanford.edu/entries/meaning/#GeneQuesFaciSemaTheo)
-    * [2.3.1 多少上下文敏感性？](https://plato.stanford.edu/entries/meaning/#HowMuchContSens)
-    * [2.3.2 有多少个指标？](https://plato.stanford.edu/entries/meaning/#HowManyIndi)
-    * [2.3.3 无论如何，命题是什么？](https://plato.stanford.edu/entries/meaning/#WhatPropAnyw)
-* [3. 意义理论的基础理论](https://plato.stanford.edu/entries/meaning/#FounTheoMean)
-  * [3.1 心理主义理论](https://plato.stanford.edu/entries/meaning/#MentTheo)
-    * [3.1.1 格赖斯计划](https://plato.stanford.edu/entries/meaning/#GricProg)
-    * [3.1.2 意义，信念和约定](https://plato.stanford.edu/entries/meaning/#MeanBeliConv)
-    * [3.1.3 基于心理表征的理论](https://plato.stanford.edu/entries/meaning/#MentReprBaseTheo)
-  * [3.2 非心理主义理论](https://plato.stanford.edu/entries/meaning/#NonMentTheo)
-    * [3.2.1 因果起源](https://plato.stanford.edu/entries/meaning/#CausOrig)
-    * [3.2.2 真理最大化和慈善原则](https://plato.stanford.edu/entries/meaning/#TrutMaxiPrinChar)
-    * [3.2.3 参考磁性](https://plato.stanford.edu/entries/meaning/#RefeMagn)
-    * [3.2.4 使用中的规律](https://plato.stanford.edu/entries/meaning/#ReguUse)
-    * [3.2.5 社会规范](https://plato.stanford.edu/entries/meaning/#SociNorm)
-* [参考文献](https://plato.stanford.edu/entries/meaning/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/meaning/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/meaning/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/meaning/#Rel)
-
+ 
 ***
 
 ## 1. 意义理论的两种类型

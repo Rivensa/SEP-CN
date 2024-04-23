@@ -27,21 +27,7 @@
 
 “道德”在描述性意义上使用时，具有一项“道德”在规范性意义上所没有的重要特征：这个特征源于其关系性质。这个特征是：如果一个人不是相关社会或群体的成员，或者不是相关个体，那么接受道德内容的某种描述性解释对于一个人如何认为自己应该行为没有任何影响。另一方面，如果一个人接受了道德理论对道德行为者的解释，以及所有道德行为者将如何认可行为准则作为道德准则的条件，那么他就接受了该道德理论对“道德”的规范性定义。接受规范性意义上的“道德”解释意味着承认某些行为是不道德的，甚至可能是自己想要去做的行为。由于接受规范性意义上的“道德”解释涉及到这种承诺，所以哲学家们对于接受哪种解释存在严重分歧并不令人意外。
 
-* [1. 道德是否足够统一以进行定义？](https://plato.stanford.edu/entries/morality-definition/#MoraUnifEnouDefi)
-* [2. “道德”的描述性定义](https://plato.stanford.edu/entries/morality-definition/#DescDefiMora)
-* [3. 相关领域中的隐含和显性定义](https://plato.stanford.edu/entries/morality-definition/#ImplExplDefiAlliFiel)
-* [4. “道德” 的规范定义](https://plato.stanford.edu/entries/morality-definition/#NormDefiMora)
-* [ 5. 变体](https://plato.stanford.edu/entries/morality-definition/#Vari)
-
-  * [5.1 道德与对行为的反应规范相关](https://plato.stanford.edu/entries/morality-definition/#MoraLinkNormForRespBeha)
-  * [5.2 道德与倡导一种准则相关](https://plato.stanford.edu/entries/morality-definition/#MoraLinkAdvoCode)
-  * [5.3 道德与接受一种准则相关](https://plato.stanford.edu/entries/morality-definition/#MoraLinkAcceCode)
-  * [5.4 道德与对他人的辩护的联系](https://plato.stanford.edu/entries/morality-definition/#MoraLinkJustOthe)
-* [ 参考文献](https://plato.stanford.edu/entries/morality-definition/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/morality-definition/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/morality-definition/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/morality-definition/#Rel)
-
+ 
 ---
 
 ## 1. 道德是否足够统一以进行定义？

@@ -4,49 +4,7 @@
 
 在威廉·詹姆斯的《宗教经验的种种变化》的影响下，对神秘主义的哲学兴趣主要集中在独特的、据称能够赋予知识的“神秘经验”上。哲学家们讨论了神秘经验的分类、它们的本质，神秘经验在多大程度上受到神秘主义者的语言和文化的制约，以及神秘经验是否为神秘主义主张的真实性提供证据。一些哲学家最近质疑了对经验的重视，而更倾向于研究更广泛的神秘现象。事实上，“神秘主义”最好被视为一系列独特的实践、话语、文本、机构、传统和旨在人类转化的经验，其定义各不相同。但本文将集中讨论哲学家们对神秘经验所讨论的主题。
 
-* [ 1. 神秘经验](https://plato.stanford.edu/entries/mysticism/#MystExpe)
-* [2. 对神秘经验进行分类](https://plato.stanford.edu/entries/mysticism/#ClasMystExpe)
-
-  * [2.1 外向和内向](https://plato.stanford.edu/entries/mysticism/#ExtrIntr)
-  * [2.2 二元论和唯一论](https://plato.stanford.edu/entries/mysticism/#DualMoni)
-  * [2.3 神秘主义的神秘主义和非神秘主义](https://plato.stanford.edu/entries/mysticism/#TheuNonTheuMyst)
-  * [2.4 神秘主义的否定性和肯定性](https://plato.stanford.edu/entries/mysticism/#ApopKataMyst)
-* [3. 神秘体验的属性](https://plato.stanford.edu/entries/mysticism/#AttrMystExpe)
-
-  * [ 3.1 神秘体验的认知特质](https://plato.stanford.edu/entries/mysticism/#NoetQual)
-  * [ 3.2 神秘主义](https://plato.stanford.edu/entries/mysticism/#Inef)
-  * [ 3.3 悖论性](https://plato.stanford.edu/entries/mysticism/#Para)
-* [4. 纯意识事件](https://plato.stanford.edu/entries/mysticism/#PureConsEven)
-
-  * [4.1 纯意识事件的捍卫者](https://plato.stanford.edu/entries/mysticism/#DefePureConsEven)
-  * [4.2 否认纯意识事件](https://plato.stanford.edu/entries/mysticism/#DeniPureConsEven)
-* [ 5. 本质主义](https://plato.stanford.edu/entries/mysticism/#Esse)
-* [ 6. 永恒主义](https://plato.stanford.edu/entries/mysticism/#Pere)
-* [ 7. 构建主义](https://plato.stanford.edu/entries/mysticism/#Cons)
-
-  * [7.1 软构建主义对纯意识事件的反驳](https://plato.stanford.edu/entries/mysticism/#SoftConsArguAgaiPureConsEven)
-  * [7.2 对软建构主义的批评](https://plato.stanford.edu/entries/mysticism/#CritSoftCons)
-  * [7.3 强建构主义对本质主义的反驳](https://plato.stanford.edu/entries/mysticism/#HardConsAgaiEsse)
-  * [7.4 对强建构主义的批评](https://plato.stanford.edu/entries/mysticism/#CritHardCons)
-* [8. 内在主义者和归因主义者](https://plato.stanford.edu/entries/mysticism/#InheAttr)
-* [ 9. 认识论](https://plato.stanford.edu/entries/mysticism/#Epis)
-
-  * [9.1 信念实践方法论](https://plato.stanford.edu/entries/mysticism/#DoxaPracAppr)
-  * [9.2 从经验中的论证](https://plato.stanford.edu/entries/mysticism/#ArguExpe)
-  * [9.3 对感官经验的不类比](https://plato.stanford.edu/entries/mysticism/#DisaSensExpe)
-  * [9.4 对不类比论证的评价](https://plato.stanford.edu/entries/mysticism/#EvalDisaArgu)
-  * [9.5 从信仰实践方法论的角度看经验论证](https://plato.stanford.edu/entries/mysticism/#ArguExpeDepeDoxaPracAppr)
-  * [9.6 宗教多样性问题](https://plato.stanford.edu/entries/mysticism/#ProbReliDive)
-  * [9.7 科学研究：冥想和迷幻药物](https://plato.stanford.edu/entries/mysticism/#ScieStudMediPsyc)
-  * [9.8 对自然主义解释的批判](https://plato.stanford.edu/entries/mysticism/#CritNatuExpl)
-* [10. 性别与神秘主义研究](https://plato.stanford.edu/entries/mysticism/#GendStudMyst)
-* [11. 神秘主义与道德](https://plato.stanford.edu/entries/mysticism/#MystMora)
-* [ 12. 现世神秘主义](https://plato.stanford.edu/entries/mysticism/#SecuMyst)
-* [ 参考书目](https://plato.stanford.edu/entries/mysticism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/mysticism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mysticism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mysticism/#Rel)
-
+ 
 ---
 
 ## 1. 神秘主义经历

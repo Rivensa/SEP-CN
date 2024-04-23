@@ -12,32 +12,7 @@
 
 有关西方音乐哲学史的专著介绍，请参阅：Fubini 1991；Lippman 1992；Bowman 1998；Martinelli 2012 [2019]；Young 即将出版。经典著作的摘录收录在：Strunk 1950；Le Huray 和 Day 1981；Barker 1990；Lippman 1990；Katz 和 Dahlhaus 1993；Fubini 1994。
 
-* [ 1. 古代](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#Anti)
-
-  * [1.1 宇宙作为和谐：毕达哥拉斯和毕达哥拉斯派](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#UnivHarmPythPyth)
-  * [1.2 数学和经验的谐波](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#MathEmpiHarm)
-  * [1.3 音乐、情感和社会：柏拉图和亚里士多德](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#MusiEmotSociPlatAris)
-  * [1.4 亚里士多德经验性和声学：亚里士多德](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#ArisEmpiHarmAris)
-  * [1.5 音乐与道德教育：怀疑主义观点](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#MusiMoraEducSkepView)
-* [2. 晚期古代和中世纪](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#LateAntiMiddAges)
-
-  * [2.1 早期基督教对音乐的观点：奥古斯丁和博伊修斯](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#EarlChriViewMusiAuguBoet)
-  * [2.2 基督教思想与音乐](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#ChriThouMusi)
-  * [2.3 音乐在自由艺术中的地位](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#MusiAmonLibeArts)
-  * [2.4 伊斯兰音乐哲学：阿尔金迪、阿尔法拉比和伊本·西那](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#IslaPhilMusiAlKindAlFaraIbnSina)
-* [3. 早期现代时期](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#EarlModePeri)
-
-  * [3.1 音乐与感官愉悦：廷克托里斯和扎尔利诺](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#MusiSensPleaTincZarl)
-  * [3.2 旋律与表达：佛罗伦萨卡梅拉塔](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#MeloExprFlorCame)
-  * [3.3 感知与理性：梅尔森，笛卡尔，莱布尼兹](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#SensRatiMersDescLeib)
-  * [3.4 十八世纪的模仿与表达](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#ImitExprEighCent)
-  * [3.5 旋律的首要性：卢梭](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#PrimMeloRous)
-  * [3.6 形式与内容之间的音乐：康德](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#MusiBetwFormContKant)
-* [ 参考文献](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/hist-westphilmusic-to-1800/#Rel)
-
+ 
 ---
 
 ## 1. 古代

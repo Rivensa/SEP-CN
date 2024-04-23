@@ -4,22 +4,7 @@
 
 医学哲学是一个旨在探索健康科学领域内的理论、研究和实践中的基本问题的领域，特别关注形而上学和认识论的主题。其历史根源可以追溯到古代，例如希波克拉底文集等来源，自19世纪以来，医学哲学的关键概念一直在学术界进行广泛的讨论。过去曾就是否存在一个被称为“医学哲学”的独立领域进行辩论（例如，卡普兰1992年），但由于现在有专门的期刊和专业组织、相对成熟的学术文献体系以及独特的问题和难题，可以辩称医学哲学已经确立起来。尽管伦理学和价值观是医学哲学中许多问题的一部分，但生物伦理学通常被认为是一个独立的领域，因此本文不涉及该领域（但请参阅有关理论和生物伦理学的条目）。话虽如此，医学哲学作为生物伦理学内部许多辩论的基础，分析了在生物伦理学中经常涉及的医学实践的基本组成部分，如疾病概念。医学哲学还对科学哲学的一般问题，特别是对解释、因果关系和实验以及科学知识应用的辩论做出了重要贡献。最后，医学哲学对医学和健康科学领域的研究和实践方法和目标的讨论也做出了贡献。本文主要关注西方传统中的医学哲学，尽管关于非西方和替代医学实践的哲学文献正在增长，但同时利用其他学科视角的相关学术出版物。
 
-* [1. 引言：我们应该如何定义健康和疾病？](https://plato.stanford.edu/entries/medicine/#IntrHowShouWeDefiHealDise)
-* [2. 有争议和有争议的疾病分类](https://plato.stanford.edu/entries/medicine/#ContContDiseCate)
-* [3. 医学中的理论、原因和解释](https://plato.stanford.edu/entries/medicine/#TheoCausExplMedi)
-* [4. 医学中的还原主义和整体主义](https://plato.stanford.edu/entries/medicine/#ReduHoliMedi)
-* [5. 随机对照试验和循证医学](https://plato.stanford.edu/entries/medicine/#RandContTriaEvidBaseMedi)
-* [ 6. 动物模型](https://plato.stanford.edu/entries/medicine/#AnimMode)
-* [7. 观察研究和病例报告](https://plato.stanford.edu/entries/medicine/#ObseStudCaseRepo)
-* [ 8. 诊断](https://plato.stanford.edu/entries/medicine/#Diag)
-* [9. 临床医生判断和专业知识的作用](https://plato.stanford.edu/entries/medicine/#ClinJudgRoleExpe)
-* [10. 医学中如何进行集体专家判断？](https://plato.stanford.edu/entries/medicine/#HowCollExpeJudgMadeMedi)
-* [11. 医学研究中的价值观](https://plato.stanford.edu/entries/medicine/#ValuMediRese)
-* [12. 测量医学结果](https://plato.stanford.edu/entries/medicine/#MeasMediOutc)
-* [ 参考文献](https://plato.stanford.edu/entries/medicine/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/medicine/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/medicine/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/medicine/#Rel)
+ 
 
 ---
 

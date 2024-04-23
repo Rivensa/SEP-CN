@@ -4,41 +4,7 @@
 
 当代哲学的三种主要自然主义是方法论、本体论和认识论。方法论自然主义认为唯一的权威标准是科学的标准。本体论和认识论自然主义分别认为所有实体和所有有效的研究方法在某种意义上都是自然的。在过去几十年的数学哲学中，方法论自然主义获得了最多的关注，因此我们将重点关注这一点。本体论和认识论自然主义在数学哲学中的讨论在第 6 节中更简要地进行。
 
-* [1. 方法论自然主义](https://plato.stanford.edu/entries/naturalism-mathematics/#MetNat)
-
-  * [1.1 数学反修正主义](https://plato.stanford.edu/entries/naturalism-mathematics/#MatAntRev)
-* [2. 自然主义的最近历史](https://plato.stanford.edu/entries/naturalism-mathematics/#RecHisMetNat)
-
-  * [ 2.1 最近的背景](https://plato.stanford.edu/entries/naturalism-mathematics/#RecBac)
-  * [ 2.2 当前背景](https://plato.stanford.edu/entries/naturalism-mathematics/#PreCon)
-* [3. 阐明方法论自然主义](https://plato.stanford.edu/entries/naturalism-mathematics/#EluMetNat)
-
-  * [ 3.1 有权威性的](https://plato.stanford.edu/entries/naturalism-mathematics/#Aut)
-  * [3.2 边界问题和科学方法](https://plato.stanford.edu/entries/naturalism-mathematics/#BouProSciMet)
-  * [3.3 方法论的统一性？](https://plato.stanford.edu/entries/naturalism-mathematics/#MetUni)
-  * [3.4 制裁程度](https://plato.stanford.edu/entries/naturalism-mathematics/#DegSan)
-  * [3.5 标准和从业者](https://plato.stanford.edu/entries/naturalism-mathematics/#StaPra)
-  * [ 3.6 更广泛的自然主义](https://plato.stanford.edu/entries/naturalism-mathematics/#BroNat)
-* [4. 激发自然主义](https://plato.stanford.edu/entries/naturalism-mathematics/#MotNat)
-
-  * [4.1 自然主义在某些方面是革命性的](https://plato.stanford.edu/entries/naturalism-mathematics/#NatRevSomRes)
-  * [4.2 文献中的论证不足](https://plato.stanford.edu/entries/naturalism-mathematics/#DeaArgLit)
-  * [ 4.3 当前的成功](https://plato.stanford.edu/entries/naturalism-mathematics/#CurSuc)
-  * [ 4.4 一致](https://plato.stanford.edu/entries/naturalism-mathematics/#Agr)
-  * [ 4.5 历史成功](https://plato.stanford.edu/entries/naturalism-mathematics/#HisSuc)
-* [5. 自然主义的异质性](https://plato.stanford.edu/entries/naturalism-mathematics/#HetNat)
-
-  * [5.1 数学是否在方法上是自治的？](https://plato.stanford.edu/entries/naturalism-mathematics/#MatMetAut)
-  * [5.2 如果数学在方法上是自主的，那是否可以建立 Maddy 的自然主义？](https://plato.stanford.edu/entries/naturalism-mathematics/#IfMatMetAutDoeEstMadNat)
-* [6. 本体论自然主义](https://plato.stanford.edu/entries/naturalism-mathematics/#OntNat)
-
-  * [6.1 自然科学作为本体论的裁决者](https://plato.stanford.edu/entries/naturalism-mathematics/#NatSciArbOnt)
-  * [6.2 所有实体都是时空的](https://plato.stanford.edu/entries/naturalism-mathematics/#AllEntSpa)
-  * [6.3 自然主义反柏拉图主义和认识论自然主义](https://plato.stanford.edu/entries/naturalism-mathematics/#NatAntPla)
-* [ 参考文献](https://plato.stanford.edu/entries/naturalism-mathematics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/naturalism-mathematics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/naturalism-mathematics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/naturalism-mathematics/#Rel)
+ 
 
 ---
 

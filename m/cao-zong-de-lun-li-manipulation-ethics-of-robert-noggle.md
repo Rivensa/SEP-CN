@@ -21,34 +21,7 @@
 
 “操纵”这个术语通常被认为包含了一种道德不赞成的成分：说伊文操纵了托尼娅，通常被认为是对伊文行为的道德批评。操纵总是不道德的吗？为什么操纵是不道德的（当它是不道德的时候）？如果操纵并不总是不道德的，那么是什么决定了它何时是不道德的？
 
-* [ 1. 预备知识](https://plato.stanford.edu/entries/ethics-manipulation/#Prel)
-
-  * [1.1 普通与全球操纵](https://plato.stanford.edu/entries/ethics-manipulation/#OrdiVersGlobMani)
-  * [1.2 普通操纵理论的应用](https://plato.stanford.edu/entries/ethics-manipulation/#ApplTheoOrdiMani)
-  * [1.3 关于操纵的两个问题](https://plato.stanford.edu/entries/ethics-manipulation/#TwoQuesAbouMani)
-* [2. 回答辨识问题](https://plato.stanford.edu/entries/ethics-manipulation/#AnswIdenQues)
-
-  * [2.1 操纵作为绕过理性](https://plato.stanford.edu/entries/ethics-manipulation/#ManiBypaReas)
-  * [2.2 操纵作为欺骗](https://plato.stanford.edu/entries/ethics-manipulation/#ManiTric)
-  * [2.3 操纵作为压力](https://plato.stanford.edu/entries/ethics-manipulation/#ManiPres)
-  * [2.4 分离、混合和其他观点](https://plato.stanford.edu/entries/ethics-manipulation/#DisjHybrOtheView)
-* [3. 回答评估问题](https://plato.stanford.edu/entries/ethics-manipulation/#AnswEvalQues)
-
-  * [3.1 操纵总是错误的吗？](https://plato.stanford.edu/entries/ethics-manipulation/#ManiAlwaWron)
-  * [3.2 操纵与伤害](https://plato.stanford.edu/entries/ethics-manipulation/#ManiHarm)
-  * [3.3 操纵与自主性](https://plato.stanford.edu/entries/ethics-manipulation/#ManiAuto)
-  * [3.4 操纵和将人作为物品对待](https://plato.stanford.edu/entries/ethics-manipulation/#ManiTreaPersThin)
-  * [ 3.5 其他建议](https://plato.stanford.edu/entries/ethics-manipulation/#OtheSugg)
-* [4. 进一步问题](https://plato.stanford.edu/entries/ethics-manipulation/#FurtIssu)
-
-  * [4.1 操纵人与操纵情境](https://plato.stanford.edu/entries/ethics-manipulation/#ManiPersVersManiSitu)
-  * [4.2 操纵与意图](https://plato.stanford.edu/entries/ethics-manipulation/#UninMani)
-  * [4.3 操纵、脆弱性与压迫](https://plato.stanford.edu/entries/ethics-manipulation/#ManiVulnOppr)
-* [ 参考文献](https://plato.stanford.edu/entries/ethics-manipulation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ethics-manipulation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ethics-manipulation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ethics-manipulation/#Rel)
-
+ 
 ---
 
 ## 1. 准备工作

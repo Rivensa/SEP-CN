@@ -4,18 +4,7 @@ _首次发表于2004年3月26日星期五_
 
 乔治·爱德华·摩尔（1873-1958）（他讨厌他的名字“乔治·爱德华”，从不使用它们 - 他的妻子称他为“比尔”）是二十世纪上半叶重要的英国哲学家。他是剑桥大学三一学院的三位哲学家之一（另外两位是伯特兰·罗素和路德维希·维特根斯坦），他们使剑桥成为我们现在称之为“分析哲学”的中心之一。但他的工作涵盖了超越任何单一哲学计划的主题和关注点。
 
-* [1. 生平与事业](https://plato.stanford.edu/entries/moore/#1)
-* [2. 随附唯心主义的驳斥](https://plato.stanford.edu/entries/moore/#2)
-* [3. ](https://plato.stanford.edu/entries/moore/#3)​\*[Principia Ethica](https://plato.stanford.edu/entries/moore/#3)\*
-* [4. 哲学分析](https://plato.stanford.edu/entries/moore/#4)
-* [5. 知觉和感知数据](https://plato.stanford.edu/entries/moore/#5)
-* [6. 常识和确定性](https://plato.stanford.edu/entries/moore/#6)
-* [7. 乔治·爱德华·摩尔的遗产](https://plato.stanford.edu/entries/moore/#7)
-* [参考文献](https://plato.stanford.edu/entries/moore/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/moore/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moore/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/moore/#Rel)
-
+ 
 ***
 
 ## 1. 生平与事业

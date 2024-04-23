@@ -6,30 +6,7 @@
 
 婚姻的哲学辩论延伸到婚姻的本质是什么；因此，第 1 节探讨了婚姻的定义。第 2 节阐述了婚姻哲学的历史发展，这塑造了当今的辩论。许多关于婚姻的伦理立场可以理解为在婚姻是否应该由配偶们合同定义或由其机构目的定义的问题上分歧，而且它们进一步在婚姻目的是否必然包括生育或仅限于婚姻爱情关系上分歧。第 3 节根据这些伦理观点对婚姻进行分类。第 4 节将审查对婚姻法及其理论的竞争性政治理解。对婚姻的讨论在女性主义哲学中起着核心作用；第 5 节将概述对这一制度的主要批评。
 
-* [ 1. 解释婚姻](https://plato.stanford.edu/entries/marriage/#DefMar)
-* [2. 理解婚姻：历史定位](https://plato.stanford.edu/entries/marriage/#UndMarHisOri)
-* [3. 婚姻与道德](https://plato.stanford.edu/entries/marriage/#MarMor)
-
-  * [ 3.1 契约观点](https://plato.stanford.edu/entries/marriage/#ConVie)
-  * [ 3.2 制度观点](https://plato.stanford.edu/entries/marriage/#InsVie)
-* [4. 婚姻的政治学](https://plato.stanford.edu/entries/marriage/#PolMar)
-
-  * [4.1 婚姻与法律合同](https://plato.stanford.edu/entries/marriage/#MarLegCon)
-  * [4.2 婚姻法的理论基础](https://plato.stanford.edu/entries/marriage/#RatMarLaw)
-  * [ 4.3 同性婚姻](https://plato.stanford.edu/entries/marriage/#SamSexMar)
-  * [4.4 婚姻改革的论点](https://plato.stanford.edu/entries/marriage/#ArgRef)
-* [5. 婚姻与压迫：性别、种族和阶级](https://plato.stanford.edu/entries/marriage/#MarOpp)
-
-  * [ 5.1 女性主义方法](https://plato.stanford.edu/entries/marriage/#FemApp)
-  * [5.2 酷儿批评](https://plato.stanford.edu/entries/marriage/#QueCri)
-* [ 参考文献](https://plato.stanford.edu/entries/marriage/#Bib)
-
-  * [ 当代作品](https://plato.stanford.edu/entries/marriage/#ConWor)
-  * [ 历史作品](https://plato.stanford.edu/entries/marriage/#HisWorFirPubPri195)
-* [ 学术工具](https://plato.stanford.edu/entries/marriage/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/marriage/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/marriage/#Rel)
-
+ 
 ---
 
 ## 1. 定义婚姻

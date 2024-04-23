@@ -8,33 +8,7 @@ _首次发表于2024年3月5日_
 
 本条目着重介绍 露丝·巴肯·马库斯在形式逻辑、形而上学、认识论和伦理学方面的重要贡献。它只涉及她所涉及的争议，只要它们与她的哲学发展相关。在本条目中，露丝·巴肯·马库斯有时被称为 Barcan，有时被称为马库斯，有时被称为 巴肯·马库斯，主要根据时间背景，以一种自然而然的方式，不会引起混淆。
 
-* [1. 生平](https://plato.stanford.edu/entries/ruth-barcan-marcus/#Life)
-* [2. 早期形式工作](https://plato.stanford.edu/entries/ruth-barcan-marcus/#EarlFormWork)
-  * [2.1 量化模态逻辑](https://plato.stanford.edu/entries/ruth-barcan-marcus/#QuanModaLogi)
-  * [2.2 推导性和推导定理](https://plato.stanford.edu/entries/ruth-barcan-marcus/#DeduDeduTheo)
-  * [2.3 身份的必然性](https://plato.stanford.edu/entries/ruth-barcan-marcus/#NeceIden)
-* [3 与奎因的争议](https://plato.stanford.edu/entries/ruth-barcan-marcus/#DispQuin)
-* [4 内涵性、本体论、名称和量词](https://plato.stanford.edu/entries/ruth-barcan-marcus/#InteOntoNameQuan)
-  * [4.1 内涵性和外延性](https://plato.stanford.edu/entries/ruth-barcan-marcus/#InteExte)
-  * [4.2 本体论：个体、类和属性](https://plato.stanford.edu/entries/ruth-barcan-marcus/#OntoIndiClasAttr)
-  * [4.3 名称](https://plato.stanford.edu/entries/ruth-barcan-marcus/#Name)
-  * [4.4 量词](https://plato.stanford.edu/entries/ruth-barcan-marcus/#Quan)
-* [5 本质主义](https://plato.stanford.edu/entries/ruth-barcan-marcus/#Esse)
-  * [5.1 量化模态逻辑和本质主义](https://plato.stanford.edu/entries/ruth-barcan-marcus/#QuanModaLogiEsse)
-  * [5.2 真正的亚里士多德本质主义](https://plato.stanford.edu/entries/ruth-barcan-marcus/#GenuArisEsse)
-* [6 实在主义和巴肯公式](https://plato.stanford.edu/entries/ruth-barcan-marcus/#ActuBarcForm)
-* [7 信念与理性](https://plato.stanford.edu/entries/ruth-barcan-marcus/#BeliRati)
-* [8 道德困境](https://plato.stanford.edu/entries/ruth-barcan-marcus/#MoraDile)
-* [参考文献](https://plato.stanford.edu/entries/ruth-barcan-marcus/#Bib)
-  * [巴肯·马库斯的文集](https://plato.stanford.edu/entries/ruth-barcan-marcus/#BarcMarcCorp)
-    * [以 Ruth C. 巴肯·马库斯的名义发表](https://plato.stanford.edu/entries/ruth-barcan-marcus/#PublRuthCBarc)
-    * [以 露丝·巴肯·马库斯的名义发表](https://plato.stanford.edu/entries/ruth-barcan-marcus/#PublRuthBarcMarc)
-    * [合著作品](https://plato.stanford.edu/entries/ruth-barcan-marcus/#CoauWork)
-    * [纪念文集](https://plato.stanford.edu/entries/ruth-barcan-marcus/#Fest)
-  * [二手文献](https://plato.stanford.edu/entries/ruth-barcan-marcus/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/ruth-barcan-marcus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ruth-barcan-marcus/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ruth-barcan-marcus/#Rel)
+ 
 
 ***
 

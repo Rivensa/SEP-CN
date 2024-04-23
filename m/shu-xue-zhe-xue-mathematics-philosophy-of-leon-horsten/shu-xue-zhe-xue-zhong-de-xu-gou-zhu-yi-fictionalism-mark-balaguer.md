@@ -16,26 +16,7 @@ _首次发表于2008年4月22日；实质性修订于2018年7月23日_
 
 第 1 节提供了对虚构主义的中心论证的阐述。第 2 节讨论了对虚构主义的不同反对意见，以及虚构主义的不同版本。这两个方面非常自然地结合在一起，因为不同版本的虚构主义是在不同哲学家对虚构主义的各种反对意见做出回应的过程中出现的。
 
-* [1. 虚构主义的论证](https://plato.stanford.edu/entries/fictionalism-mathematics/#ArgForFic)
-  * [1.1 主要论证](https://plato.stanford.edu/entries/fictionalism-mathematics/#MaiArg)
-  * [1.2 前提（1）和释义名义主义](https://plato.stanford.edu/entries/fictionalism-mathematics/#Pre1ParNom)
-  * [1.3 前提（2）和膨胀真理名义主义](https://plato.stanford.edu/entries/fictionalism-mathematics/#Pre2DefTru)
-  * [1.4 前提（4）和物理主义与心理主义](https://plato.stanford.edu/entries/fictionalism-mathematics/#Pre4PhyPsy)
-  * [1.5 前提（5）和 Platonism](https://plato.stanford.edu/entries/fictionalism-mathematics/#Pre5Pla)
-* [2. 虚构主义的反对意见和回应](https://plato.stanford.edu/entries/fictionalism-mathematics/#ObjFicRes)
-  * [2.1 不可或缺性论证](https://plato.stanford.edu/entries/fictionalism-mathematics/#IndArg)
-  * [2.2 客观性](https://plato.stanford.edu/entries/fictionalism-mathematics/#Obj)
-  * [2.3 革命主义和解释学](https://plato.stanford.edu/entries/fictionalism-mathematics/#RevHer)
-  * [2.4 与虚构主义的相似性](https://plato.stanford.edu/entries/fictionalism-mathematics/#SimFic)
-  * [2.5 接受和相信](https://plato.stanford.edu/entries/fictionalism-mathematics/#AccBel)
-  * [2.6 神秘的额外内容](https://plato.stanford.edu/entries/fictionalism-mathematics/#MysExCon)
-  * [2.7 其他反对意见](https://plato.stanford.edu/entries/fictionalism-mathematics/#OthObj)
-* [3. 结论](https://plato.stanford.edu/entries/fictionalism-mathematics/#Con)
-* [参考文献](https://plato.stanford.edu/entries/fictionalism-mathematics/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/fictionalism-mathematics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/fictionalism-mathematics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/fictionalism-mathematics/#Rel)
-
+ 
 ***
 
 ## 1. 虚构主义的论证

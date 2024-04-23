@@ -38,30 +38,7 @@
 
 在本文中，我们澄清了先验知识（及相关概念）的概念，以及先验知识与分析性之间的关系。然后，我们回顾了康德对道德知识的看法，20 世纪初的非自然主义版本，20 世纪末的自然主义版本，特殊主义，最后是一些 21 世纪的直觉主义版本，所有这些都着眼于它们对先验知识的作用。
 
-* [ 1. 预备知识](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#Prel)
-
-  * [1.1 先验知识和证明：标准观点](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#PrioKnowJustStanView)
-  * [1.2 分析性和先验性](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#AnalPrio)
-  * [1.3 认知主义和非认知主义](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#CognNonCogn)
-* [2. 康德的合成先验道德真理](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#KantSyntPrioMoraTrut)
-* [3. 先验证明和 20 世纪早期的非自然主义](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#PrioJustEarl20thCentNonNatu)
-
-  * [3.1 自然主义谬误和直觉主义](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#NatuFallIntu)
-  * [3.2 Prima Facie 道德原则和直觉主义](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#PrimFaciMoraPrinIntu)
-* [4. 先验证明和 20 世纪后期的自然主义](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#PrioJustLate20thCentNatu)
-
-  * [ 4.1 康奈尔现实主义](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#CornReal)
-  * [ 4.2 分析自然主义](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#AnalNatu)
-* [5. 道德个别主义和辩护](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#MoraPartJust)
-
-  * [ 5.1 戒欲](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#Abst)
-  * [5.2 经验主义的经验法则](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#RuleThumPart)
-* [6. 先验证明和 21 世纪初的直觉主义](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#PrioJustEarl21stCentIntu)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-epistemology-a-priori/#Rel)
-
+ 
 ---
 
 ## 1. 准备工作

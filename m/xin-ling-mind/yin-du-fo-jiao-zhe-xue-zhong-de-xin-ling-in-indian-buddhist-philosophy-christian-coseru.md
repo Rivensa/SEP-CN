@@ -8,51 +8,7 @@
 
 所有对经典文献的引用都是指巴利藏经中的主要文本集合，主要是佛陀的长篇、中篇和相应篇（即《长部》、《中部》和《相应部》）。对于心灵和相关现象的阐释，我几乎完全依赖于婆罗门的《较量宝藏》（Abhidharmakośa）及其注释（以下简称 AKBh），这是印度佛教后期哲学发展的基础文本。其他经常引用的来源请参见§3.1、§6.3、§7 和缩写列表。
 
-* [1. 问题的历史](https://plato.stanford.edu/entries/mind-indian-buddhism/#1)
-
-  * [1.1 无我教义](https://plato.stanford.edu/entries/mind-indian-buddhism/#1.1)
-  * [1.2 非自性教义的救赎维度](https://plato.stanford.edu/entries/mind-indian-buddhism/#1.2)
-* [2. 基本原则](https://plato.stanford.edu/entries/mind-indian-buddhism/#2)
-
-  * [2.1 存在的三个特征](https://plato.stanford.edu/entries/mind-indian-buddhism/#2.1)
-  * [2.2 依起之原则](https://plato.stanford.edu/entries/mind-indian-buddhism/#2.2)
-  * [2.3 五蕴](https://plato.stanford.edu/entries/mind-indian-buddhism/#2.3)
-* [3. 心识与认知](https://plato.stanford.edu/entries/mind-indian-buddhism/#3)
-
-  * [3.1 唯识合成的概述](https://plato.stanford.edu/entries/mind-indian-buddhism/#3.1)
-  * [3.2 感觉和知觉](https://plato.stanford.edu/entries/mind-indian-buddhism/#3.2)
-  * [3.3 心灵的扩散](https://plato.stanford.edu/entries/mind-indian-buddhism/#3.3)
-  * [ 3.4 意识](https://plato.stanford.edu/entries/mind-indian-buddhism/#3.4)
-  * [ 3.5 意向性](https://plato.stanford.edu/entries/mind-indian-buddhism/#3.5)
-  * [ 3.6 注意力](https://plato.stanford.edu/entries/mind-indian-buddhism/#3.6)
-* [4. 心灵与心理成分](https://plato.stanford.edu/entries/mind-indian-buddhism/#4)
-
-  * [4.1 心灵的两个维度](https://plato.stanford.edu/entries/mind-indian-buddhism/#4.1)
-  * [ 4.2 认知支持](https://plato.stanford.edu/entries/mind-indian-buddhism/#4.2)
-* [5. 心灵理论](https://plato.stanford.edu/entries/mind-indian-buddhism/#5)
-
-  * [5.1 心灵与因果关系](https://plato.stanford.edu/entries/mind-indian-buddhism/#5.1)
-  * [ 5.2 生命连续心灵](https://plato.stanford.edu/entries/mind-indian-buddhism/#5.2)
-  * [5.3 心灵流中的占有](https://plato.stanford.edu/entries/mind-indian-buddhism/#5.3)
-  * [5.4 心灵流中的种子](https://plato.stanford.edu/entries/mind-indian-buddhism/#5.4)
-  * [5.5 心灵仓库意识](https://plato.stanford.edu/entries/mind-indian-buddhism/#5.5)
-  * [5.6 人：还原论和随附/监督](https://plato.stanford.edu/entries/mind-indian-buddhism/#5.6)
-* [6. 心灵和形而上学](https://plato.stanford.edu/entries/mind-indian-buddhism/#6)
-
-  * [6.1 辩证法和非自我观点](https://plato.stanford.edu/entries/mind-indian-buddhism/#6.1)
-  * [ 6.2 现实主义](https://plato.stanford.edu/entries/mind-indian-buddhism/#6.2)
-  * [ 6.3 名义主义](https://plato.stanford.edu/entries/mind-indian-buddhism/#6.3)
-  * [ 6.4 唯心主义](https://plato.stanford.edu/entries/mind-indian-buddhism/#6.4)
-  * [ 6.5 现象主义](https://plato.stanford.edu/entries/mind-indian-buddhism/#6.5)
-* [7. 心灵与认识论](https://plato.stanford.edu/entries/mind-indian-buddhism/#7)
-
-  * [7.1 可靠认知的来源](https://plato.stanford.edu/entries/mind-indian-buddhism/#7.1)
-  * [7.2 知识论的感知解释/理论](https://plato.stanford.edu/entries/mind-indian-buddhism/#7.2)
-  * [7.3 反身意识和指向性](https://plato.stanford.edu/entries/mind-indian-buddhism/#7.3)
-* [ 参考文献](https://plato.stanford.edu/entries/mind-indian-buddhism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/mind-indian-buddhism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mind-indian-buddhism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mind-indian-buddhism/#Rel)
+ 
 
 ---
 

@@ -6,53 +6,7 @@
 本文重点介绍了基于主体模型在科学哲学中的应用，特别是在科学的形式社会认识论领域。通过这些模型所研究的问题通常与科学探究的社会方面直接相关，但由于涉及到社会现象的复杂动态，许多这些问题很难用其他方法来解决。在介绍基于主体模型在科学哲学中的起源背景后（第1节），本文如下介绍了该方法及其应用。我们首先调查了使用基于主体模型研究的核心问题，旨在展示为什么这种方法在科学哲学中引起了兴趣（第2节）。由于每个研究问题可以通过各种建模框架来解决，我们接下来深入探讨了科学哲学中常用的一些框架，以展示基于主体模型如何解决哲学问题（第3节）。随后，我们重新审视了之前调查的问题，并通过基于主体模型获得的见解来回答每个问题（第4节）。最后，我们转向基于主体模型的认识论和模型的底层认识功能（第5节）。鉴于基于主体模型通常具有高度理想化的特点，我们研究了哪些认识论角色支持模型在探索性或解释性目标上与哲学问题的接触能力。本文最后提供了该领域未来研究方向的展望（第6节）。
 
 由于关于科学基于主体模型的文献广泛且不断增长，因此不可能对在这个主题上开发的模型进行详尽的调查。相反，本条目旨在通过关注科学哲学中发展的典型 ABM 示例，以及它们在形式社会认识论之外的相关性，提供一个系统的概述。
-
-* [ 1. 起源](https://plato.stanford.edu/entries/agent-modeling-philscience/#Orig)
-* [2. 中心研究问题](https://plato.stanford.edu/entries/agent-modeling-philscience/#CentReseQues)
-
-  * [2.1 理论多样性和科学的激励结构](https://plato.stanford.edu/entries/agent-modeling-philscience/#TheoDiveInceStruScie)
-  * [2.2 理论多样性和科学的沟通结构](https://plato.stanford.edu/entries/agent-modeling-philscience/#TheoDiveCommStruScie)
-  * [ 2.3 认知多样性](https://plato.stanford.edu/entries/agent-modeling-philscience/#CognDive)
-  * [ 2.4 社会多样性](https://plato.stanford.edu/entries/agent-modeling-philscience/#SociDive)
-  * [2.5 科学中的同行不同意见](https://plato.stanford.edu/entries/agent-modeling-philscience/#PeerDisaScie)
-  * [2.6 科学极化](https://plato.stanford.edu/entries/agent-modeling-philscience/#SciePola)
-  * [2.7 科学合作](https://plato.stanford.edu/entries/agent-modeling-philscience/#ScieColl)
-  * [ 2.8 总结](https://plato.stanford.edu/entries/agent-modeling-philscience/#OtheQues)
-* [3. 常见的模型框架](https://plato.stanford.edu/entries/agent-modeling-philscience/#CommModeFram)
-
-  * [3.1 知识景观模型](https://plato.stanford.edu/entries/agent-modeling-philscience/#EpisLandMode)
-
-    * [3.1.1 对认知多样性问题的应用](https://plato.stanford.edu/entries/agent-modeling-philscience/#ApplProbCognDive)
-    * [3.1.2 对网络认识论的应用](https://plato.stanford.edu/entries/agent-modeling-philscience/#ApplNetwEpis)
-    * [3.1.3 其他应用](https://plato.stanford.edu/entries/agent-modeling-philscience/#OtheAppl)
-  * [ 3.2 强盗模型](https://plato.stanford.edu/entries/agent-modeling-philscience/#BandMode)
-  * [3.3 有界信心的观点动态模型](https://plato.stanford.edu/entries/agent-modeling-philscience/#BounConfModeOpinDyna)
-  * [3.4 基于进化博弈论的谈判模型](https://plato.stanford.edu/entries/agent-modeling-philscience/#EvolGameTheoModeBarg)
-  * [ 3.5 总结](https://plato.stanford.edu/entries/agent-modeling-philscience/#Conc_1)
-* [4. 中心结果](https://plato.stanford.edu/entries/agent-modeling-philscience/#CentResu)
-
-  * [4.1 理论多样性和科学的激励结构](https://plato.stanford.edu/entries/agent-modeling-philscience/#TheoDiveInceStruScie_1)
-  * [4.2 理论多样性和科学的沟通结构](https://plato.stanford.edu/entries/agent-modeling-philscience/#TheoDiveCommStruScie_1)
-
-    * [4.2.1 “Zollman 效应”](https://plato.stanford.edu/entries/agent-modeling-philscience/#ZollEffe)
-    * [4.2.2 虚假信息的传播](https://plato.stanford.edu/entries/agent-modeling-philscience/#SpreDisi)
-  * [ 4.3 认知多样性](https://plato.stanford.edu/entries/agent-modeling-philscience/#CognDive_1)
-  * [ 4.4 社会多样性](https://plato.stanford.edu/entries/agent-modeling-philscience/#SociDive_1)
-  * [4.5 科学中的同行分歧](https://plato.stanford.edu/entries/agent-modeling-philscience/#PeerDisaScie_1)
-  * [4.6 科学极化](https://plato.stanford.edu/entries/agent-modeling-philscience/#SciePola_1)
-  * [4.7 科学合作](https://plato.stanford.edu/entries/agent-modeling-philscience/#ScieColl_1)
-  * [ 4.8 附加主题](https://plato.stanford.edu/entries/agent-modeling-philscience/#AddiThem)
-* [5. 基于主体模型的认识论](https://plato.stanford.edu/entries/agent-modeling-philscience/#EpisAgenBaseMode)
-
-  * [5.1 抽象建模的挑战](https://plato.stanford.edu/entries/agent-modeling-philscience/#ChalAbstMode)
-  * [5.2 验证和验证：从基于主体的探索性模型到解释性模型的功能](https://plato.stanford.edu/entries/agent-modeling-philscience/#VeriValiExplExplFuncABMs)
-  * [5.3 “模型家族的视角”](https://plato.stanford.edu/entries/agent-modeling-philscience/#FamiModePers)
-* [6. 结论和展望](https://plato.stanford.edu/entries/agent-modeling-philscience/#ConcOutl)
-* [ 参考文献](https://plato.stanford.edu/entries/agent-modeling-philscience/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/agent-modeling-philscience/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/agent-modeling-philscience/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/agent-modeling-philscience/#Rel)
-
+ 
 ---
 
 ## 1. 起源

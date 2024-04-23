@@ -3,38 +3,7 @@
 _首次发表于2002年11月20日，实质修订于2022年4月27日。_
 
 狭义心灵内容是一种不依赖于个体环境的心灵内容。狭义内容与个体环境的特征以及个体的特征有关的“广义”或“宽义”内容形成对比。关于是否存在狭义内容存在争议。假设存在狭义内容，它是什么样的内容，它与普通或“广义”内容的关系如何，以及它如何由个体的内在属性决定也存在争议。
-
-* [1. 引言](https://plato.stanford.edu/entries/content-narrow/#Int)
-* [2. 支持广义内容的论证](https://plato.stanford.edu/entries/content-narrow/#Bro)
-  * [2.1 普特南的论证：双子地球和自然种类](https://plato.stanford.edu/entries/content-narrow/#put)
-  * [2.2 伯奇的论证：语义顺从](https://plato.stanford.edu/entries/content-narrow/#bur)
-  * [2.3 对论证的回应](https://plato.stanford.edu/entries/content-narrow/#ass)
-* [3. 狭义心灵内容的论证](https://plato.stanford.edu/entries/content-narrow/#Nar)
-  * [3.1 因果论证](https://plato.stanford.edu/entries/content-narrow/#cau)
-  * [3.2 从内省访问的论证](https://plato.stanford.edu/entries/content-narrow/#int)
-  * [3.3 关于理性的论证](https://plato.stanford.edu/entries/content-narrow/#rat)
-  * [3.4 现象意向性的论证](https://plato.stanford.edu/entries/content-narrow/#phenint)
-* [4. 狭义心灵内容的概念](https://plato.stanford.edu/entries/content-narrow/#Con)
-  * [4.1 描述性内容](https://plato.stanford.edu/entries/content-narrow/#des)
-  * [4.2 概念角色](https://plato.stanford.edu/entries/content-narrow/#rol)
-  * [4.3 映射概念](https://plato.stanford.edu/entries/content-narrow/#map)
-  * [4.4 对角命题](https://plato.stanford.edu/entries/content-narrow/#dia)
-  * [4.5 最大认知可能性集合](https://plato.stanford.edu/entries/content-narrow/#cen)
-* [5. 确定狭义心灵内容的策略](https://plato.stanford.edu/entries/content-narrow/#Str)
-  * [5.1 对角化策略](https://plato.stanford.edu/entries/content-narrow/#sdi)
-  * [5.2 减法策略](https://plato.stanford.edu/entries/content-narrow/#sub)
-  * [5.3 理想环境策略](https://plato.stanford.edu/entries/content-narrow/#ide)
-  * [5.4 认识策略](https://plato.stanford.edu/entries/content-narrow/#epi)
-* [6. 类型和标记](https://plato.stanford.edu/entries/content-narrow/#Fur)
-* [7. 对狭义心灵内容的批评](https://plato.stanford.edu/entries/content-narrow/#CriNarCon)
-  * [7.1 狭义内容的定义](https://plato.stanford.edu/entries/content-narrow/#dnc)
-  * [7.2 参数增殖论证](https://plato.stanford.edu/entries/content-narrow/#ppa)
-  * [7.3 对参数增殖论证的回应](https://plato.stanford.edu/entries/content-narrow/#res)
-* [8. 结论](https://plato.stanford.edu/entries/content-narrow/#Cnc)
-* [参考文献](https://plato.stanford.edu/entries/content-narrow/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/content-narrow/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/content-narrow/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/content-narrow/#Rel)
+ 
 
 ***
 

@@ -4,23 +4,7 @@
 
 因根的马西利乌斯，巴黎大学（1362-1378 年）和海德堡大学（1386-1396 年）的教授，撰写了许多关于逻辑、自然哲学和神学的论文，在许多中世纪晚期和早期现代大学中很受欢迎。他采用了威廉·奥卡姆和约翰·布里丹的逻辑语义方法，同时捍卫了托马斯·阿奎那和博纳文图拉的传统观点。他的思想阐明了唯名论者和实在论者之间的讨论，并使我们能够洞察哲学和神学的兴趣变化，从 14 世纪许多作者的批判态度到 15 世纪特有的对传统的追求。
 
-* [1. 生平与著作](https://plato.stanford.edu/entries/marsilius-inghen/#LifeWork)
-* [ 2. 教学](https://plato.stanford.edu/entries/marsilius-inghen/#Teac)
-
-  * [2.1 逻辑和认识论](https://plato.stanford.edu/entries/marsilius-inghen/#LogiEpis)
-  * [2.2 自然哲学和形而上学](https://plato.stanford.edu/entries/marsilius-inghen/#NatuPhilMeta)
-  * [ 2.3 形而上学](https://plato.stanford.edu/entries/marsilius-inghen/#Meta)
-  * [ 2.4 神学](https://plato.stanford.edu/entries/marsilius-inghen/#Theo)
-* [ 3. 影响](https://plato.stanford.edu/entries/marsilius-inghen/#Infl)
-* [ 参考文献](https://plato.stanford.edu/entries/marsilius-inghen/#Bib)
-
-  * [作品目录和参考书目](https://plato.stanford.edu/entries/marsilius-inghen/#CataWorkBibl)
-  * [ 现代版本](https://plato.stanford.edu/entries/marsilius-inghen/#ModeEdit)
-  * [ 二次文献](https://plato.stanford.edu/entries/marsilius-inghen/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/marsilius-inghen/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/marsilius-inghen/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/marsilius-inghen/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品

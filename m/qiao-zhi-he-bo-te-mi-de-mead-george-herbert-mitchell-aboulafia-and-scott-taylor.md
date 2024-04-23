@@ -4,20 +4,7 @@
 
 乔治·赫伯特·米德（1863-1931），美国哲学家和社会理论家，常被归类为威廉·詹姆斯、查尔斯·桑德斯·皮尔斯和约翰·杜威等人一起，被认为是古典美国实用主义中最重要的人物之一。杜威称米德为“一个非常重要的思想家”（杜威，1932，xl）。然而，在二十世纪中叶，米德的声望在专业哲学界之外最高。他被许多人认为是社会学和社会心理学中符号互动主义学派的奠基人，尽管他没有使用这个术语。也许米德在哲学界的主要影响是由于他与约翰·杜威的友谊。毫无疑问，米德和杜威对彼此产生了持久的影响，米德通过交流贡献了一个关于自我发展的原创理论。这个理论近年来在于尔根·哈贝马斯的工作中起着核心作用。尽管米德的影响范围很大，但他从未在哲学领域发表过专著。他最著名的作品《心智、自我和社会：从社会行为主义的立场出发》是在他去世后出版的，是学生笔记和未发表手稿的汇编。
 
-* [1. 生平和影响](https://plato.stanford.edu/entries/mead/#LifInf)
-* [2. 语言和心智](https://plato.stanford.edu/entries/mead/#LanMin)
-* [3. 角色，自我和广义他者](https://plato.stanford.edu/entries/mead/#RolSelGenOth)
-* [4. “我”和“我”](https://plato.stanford.edu/entries/mead/#IMe)
-* [5. 社会性，出现和现在哲学](https://plato.stanford.edu/entries/mead/#SocEmePre)
-* [6. 决定论与自由](https://plato.stanford.edu/entries/mead/#ConComDetFre)
-* [7. 最近的学术研究和趋势](https://plato.stanford.edu/entries/mead/#RecSchAndTre)
-* [ 参考文献](https://plato.stanford.edu/entries/mead/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/mead/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/mead/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/mead/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mead/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mead/#Rel)
+ 
 
 ---
 

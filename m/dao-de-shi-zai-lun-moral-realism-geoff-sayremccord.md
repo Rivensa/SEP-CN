@@ -12,16 +12,7 @@
 
 从各方面来看，道德实在论可以公正地声称拥有常识和初步观点的支持。然而，这个优势可能很容易被抵消；有很多有力的论据支持认为将道德主张视为真实是错误的。
 
-* [ 1. 道德分歧](https://plato.stanford.edu/entries/moral-realism/#1)
-* [ 2. 形而上学](https://plato.stanford.edu/entries/moral-realism/#2)
-* [ 3. 心理学](https://plato.stanford.edu/entries/moral-realism/#3)
-* [ 4. 认识论](https://plato.stanford.edu/entries/moral-realism/#4)
-* [ 5. 语义学](https://plato.stanford.edu/entries/moral-realism/#5)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-realism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-realism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-realism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-realism/#Rel)
-
+ 
 ---
 
 ## 1. 道德分歧

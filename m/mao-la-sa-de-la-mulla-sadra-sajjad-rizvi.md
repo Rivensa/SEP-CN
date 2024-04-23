@@ -4,37 +4,7 @@ _首次发表于2009年6月9日；实质修订于2019年2月5日。_
 
 萨德尔丁·穆罕默德·本·易卜拉欣·本·亚哈亚·卡瓦米·设拉子（约1571-1636年）可以说是继阿维森纳之后最重要的伊斯兰哲学家。他以穆拉·萨德拉而闻名，后来被授予萨德尔·穆塔阿利欣（神学家大师）的称号，因为他的哲学方法结合了对神学的兴趣，并借鉴了神秘直觉的洞见。他认为哲学是一套精神锻炼和神化的过程，是追求智慧的追求，其目标是获得智慧并成为一个智者，从而成为神一样的存在。他提倡一种激进的哲学方法，试图超越辩证的、推理的推理和认识模式，以及更直观、诗意和非命题的知识模式之间的简单二分法。他因批判亚里士多德形而上学，该形而上学假设现实的基本物质由物质构成，而发起了一个（新柏拉图主义的）变化的过程形而上学，以及由存在行为引发和推动的。作为一位思想敏锐的哲学家，他在哲学、神学、神秘主义和经文解释方面写作，试图综合伊斯兰思想的各种方法，并主张通过逻辑推理、灵感启示和对伊斯兰十二伊玛目派传统的关键经文来源进行深入沉思来理解现实的方法的必要性。他对哲学探究采取了整体论的方法，他对追求智慧的理解包括经文解释和神学推理。作为纳斯尔和科尔宾所称的“伊斯法罕学派”的重要人物，他在萨法维王朝阿巴斯一世（在位期间）的哲学复兴中发挥了重要作用。 996–1038 AH/1588–1629 CE)和后来在生活中成为他家乡设拉子的哲学学院 Madrasa-yi Khan 的最重要的教师。自 19 世纪初以来，毛拉·萨德拉的思想已成为伊斯兰东部什叶派学院的主导哲学范式，并在南亚广泛影响力。
 
-* [1. 生平和作品](https://plato.stanford.edu/entries/mulla-sadra/#LifWor)
-  * [1.1 生平](https://plato.stanford.edu/entries/mulla-sadra/#Lif)
-  * [1.2 作品](https://plato.stanford.edu/entries/mulla-sadra/#Wor)
-* [2. 哲学](https://plato.stanford.edu/entries/mulla-sadra/#Phi)
-  * [2.1. 定义哲学](https://plato.stanford.edu/entries/mulla-sadra/#Def)
-  * [2.2. 做哲学](https://plato.stanford.edu/entries/mulla-sadra/#Doi)
-* [3. 形而上学](https://plato.stanford.edu/entries/mulla-sadra/#Met)
-  * [3.1. 存在与实在](https://plato.stanford.edu/entries/mulla-sadra/#BeiExi)
-  * [3.2 一元论和多元论](https://plato.stanford.edu/entries/mulla-sadra/#MonPlu)
-  * [3.3 对上帝存在的证明](https://plato.stanford.edu/entries/mulla-sadra/#ProForExiGod)
-  * [3.4 简单存在的解释](https://plato.stanford.edu/entries/mulla-sadra/#SimExi)
-* [4. 智性学——认识论和心理学](https://plato.stanford.edu/entries/mulla-sadra/#NoeEpiPsy)
-  * [4.1 灵魂的本质](https://plato.stanford.edu/entries/mulla-sadra/#NatSou)
-  * [4.2 灵魂与身体的关系](https://plato.stanford.edu/entries/mulla-sadra/#SouBodRel)
-  * [4.3 心智存在](https://plato.stanford.edu/entries/mulla-sadra/#MenExi)
-  * [4.4 知识的本质](https://plato.stanford.edu/entries/mulla-sadra/#NatKno)
-  * [4.5 智力和被智力所理解的事物的一致性](https://plato.stanford.edu/entries/mulla-sadra/#IdeIntWhaInt)
-* [5. 末世论](https://plato.stanford.edu/entries/mulla-sadra/#Esc)
-  * [5.1 十一原则](https://plato.stanford.edu/entries/mulla-sadra/#ElePri)
-  * [5.2 末世论作为形而上学的完成](https://plato.stanford.edu/entries/mulla-sadra/#EscComMet)
-* [6. 遗产和毛拉·萨德拉学派](https://plato.stanford.edu/entries/mulla-sadra/#LegSchMulSad)
-* [参考书目](https://plato.stanford.edu/entries/mulla-sadra/#Bib)
-  * [A. 版本](https://plato.stanford.edu/entries/mulla-sadra/#Edi)
-  * [B. 翻译](https://plato.stanford.edu/entries/mulla-sadra/#Tra)
-  * [C. 现代传记](https://plato.stanford.edu/entries/mulla-sadra/#ModBio)
-  * [D. 现代研究](https://plato.stanford.edu/entries/mulla-sadra/#ModStu)
-  * [E. 其他参考资料](https://plato.stanford.edu/entries/mulla-sadra/#OthRef)
-* [学术工具](https://plato.stanford.edu/entries/mulla-sadra/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mulla-sadra/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/mulla-sadra/#Rel)
-
+ 
 ***
 
 ## 1. 生平与作品

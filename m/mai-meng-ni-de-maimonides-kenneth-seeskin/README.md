@@ -3,22 +3,7 @@
 
 摩西·本·迈蒙尼德（英语世界称为迈蒙尼德，希伯来语世界称为拉姆巴姆）（1138-1204）是中世纪时期最伟大的犹太哲学家，至今仍广泛阅读。他的《犹太法典》是他所处时代乃至可能是有史以来最重要的拉比权威的 14 卷本犹太法律总汇。他的哲学巨著《迷惑者指南》是对犹太思想和实践的持续论述，旨在解决宗教知识与世俗之间的冲突。尽管受到在伊斯兰圈子中扎根的新柏拉图主义亚里士多德主义的深刻影响，但它与当时流行的亚里士多德思想模式不同，强调人类知识的局限性和天文学和形而上学的可疑基础。迈蒙尼德还以医生的身份享有盛名，并撰写了关于多种疾病及其治疗方法的医学论文。后来的哲学家们对他的著作进行了广泛的评论，影响了阿奎那、斯宾诺莎、莱布尼茨和牛顿等思想家。
 
-* [1. 生平与著作](https://plato.stanford.edu/entries/maimonides/#LifWor)
-* [2. 基本取向](https://plato.stanford.edu/entries/maimonides/#FunOri)
-* [3. 解释宗教](https://plato.stanford.edu/entries/maimonides/#DemRel)
-* [4. 上帝与否定之路](https://plato.stanford.edu/entries/maimonides/#GodViaNeg)
-* [ 5. 创造](https://plato.stanford.edu/entries/maimonides/#Cre)
-* [ 6. 实践哲学](https://plato.stanford.edu/entries/maimonides/#Pra)
-* [ 7. 秘教主义](https://plato.stanford.edu/entries/maimonides/#Eso)
-* [ 8. 结论](https://plato.stanford.edu/entries/maimonides/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/maimonides/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/maimonides/#PriSou)
-  * [ 文集](https://plato.stanford.edu/entries/maimonides/#Ant)
-  * [ 迈蒙尼德](https://plato.stanford.edu/entries/maimonides/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/maimonides/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/maimonides/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/maimonides/#Rel)
+ 
 
 ---
 

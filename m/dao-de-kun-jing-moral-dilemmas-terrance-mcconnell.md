@@ -5,23 +5,7 @@
 
 道德困境，至少涉及道德要求之间的冲突。考虑下面给出的案例。
 
-* [ 1. 例子](https://plato.stanford.edu/entries/moral-dilemmas/#Exa)
-* [2. 道德困境的概念](https://plato.stanford.edu/entries/moral-dilemmas/#ConMorDil)
-* [ 3. 问题](https://plato.stanford.edu/entries/moral-dilemmas/#Pro)
-* [4. 困境和一致性](https://plato.stanford.edu/entries/moral-dilemmas/#DilCon)
-* [5. 对论证的回应](https://plato.stanford.edu/entries/moral-dilemmas/#ResArg)
-* [6. 道德残留和困境](https://plato.stanford.edu/entries/moral-dilemmas/#MorResDil)
-* [7. 道德困境的类型](https://plato.stanford.edu/entries/moral-dilemmas/#TypMorDil)
-* [ 8. 多重道德性](https://plato.stanford.edu/entries/moral-dilemmas/#MulMor)
-* [ 9. 结论](https://plato.stanford.edu/entries/moral-dilemmas/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-dilemmas/#Bib)
-
-  * [ 引用的作品](https://plato.stanford.edu/entries/moral-dilemmas/#CitWor)
-  * [其他值得阅读的文章](https://plato.stanford.edu/entries/moral-dilemmas/#OthWorRea)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-dilemmas/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-dilemmas/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-dilemmas/#Rel)
-
+ 
 ---
 
 ## 1. 例子

@@ -4,19 +4,7 @@
 
 元伦理学是试图理解道德思维、言论和实践的形而上学、认识论、语义学和心理学的前提和承诺。因此，它涵盖了广泛的问题和难题，包括：道德更多是品味还是真理的问题？道德标准是否具有文化相对性？是否存在道德事实？如果存在道德事实，它们的起源和性质是什么？它们如何为我们的行为设定适当的标准？道德事实可能与其他事实（关于心理学、幸福、人类约定等）有何关联？如果存在道德事实，我们如何了解它们？这些问题自然而然地引出了关于道德主张意义以及道德真理和我们道德承诺的合理化的难题。元伦理学还探讨了价值观、行动理由和人类动机之间的联系，询问道德标准如何为我们提供理由去做或不做它们要求的事情，并且它还涉及与自由的本质及其对道德责任的重要性（或无关性）常常相关的许多问题。[1]
 
-* [ 1. 概述观察](https://plato.stanford.edu/entries/metaethics/#GenObs)
-* [2. 尤西弗洛问题](https://plato.stanford.edu/entries/metaethics/#EutPro)
-* [3. 自然主义和非自然主义](https://plato.stanford.edu/entries/metaethics/#NatNonNatSup)
-* [4. 是/应该和开放问题论证](https://plato.stanford.edu/entries/metaethics/#IsOOpeQueArg)
-* [ 5. 道德认识论](https://plato.stanford.edu/entries/metaethics/#MorEpi)
-* [6. 道德、动机和理由](https://plato.stanford.edu/entries/metaethics/#MorMotRea)
-* [7. 自由与责任](https://plato.stanford.edu/entries/metaethics/#FreRes)
-* [8. 道德原则和具体判断](https://plato.stanford.edu/entries/metaethics/#MorPriParJud)
-* [ 参考文献](https://plato.stanford.edu/entries/metaethics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/metaethics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/metaethics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/metaethics/#Rel)
-
+ 
 ---
 
 ## 1. 一般观察

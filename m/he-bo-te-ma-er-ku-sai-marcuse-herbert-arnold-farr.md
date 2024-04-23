@@ -6,33 +6,7 @@
 
 法兰克福学派对美国以及全世界的哲学、社会和政治理论产生了巨大影响。在 20 世纪 60 年代，马尔库塞崭露头角，成为世界上最知名的哲学家和社会理论家之一。他经常被称为新左派的导师（他本人拒绝这个称号）。在 20 世纪 70 年代末到 90 年代期间，随着第二和第三代批判理论家、后现代主义、罗尔斯式自由主义以及他的前同事泰奥多尔·阿多诺和瓦尔特·本雅明的崛起，马尔库塞的声望开始下降。近年来，对马尔库塞的兴趣再度高涨。
 
-* [ 1. 解释](https://plato.stanford.edu/entries/marcuse/#Bio)
-* [2. 美学维度](https://plato.stanford.edu/entries/marcuse/#AesDim)
-* [3. 寻求马克思主义和激进主体的哲学基础](https://plato.stanford.edu/entries/marcuse/#SeaForPhiFouForMarRadSub)
-
-  * [3.1 现象学马克思主义](https://plato.stanford.edu/entries/marcuse/#PheMar)
-  * [3.2 哲学人类学与激进主体性](https://plato.stanford.edu/entries/marcuse/#PhiAntRadSub)
-  * [3.3 负面（辩证）思维与社会变革](https://plato.stanford.edu/entries/marcuse/#NegDiaThiSocCha)
-* [4. 精神分析与乌托邦愿景](https://plato.stanford.edu/entries/marcuse/#PsyUtoVis)
-
-  * [4.1 人类驱动力的历史和社会性质](https://plato.stanford.edu/entries/marcuse/#HisSocNatHumDri)
-  * [ 4.2 压抑](https://plato.stanford.edu/entries/marcuse/#Rep)
-  * [4.3 爱和理性](https://plato.stanford.edu/entries/marcuse/#EroLog)
-  * [4.4 稀缺的意识形态](https://plato.stanford.edu/entries/marcuse/#IdeSca)
-  * [4.5 幻想、乌托邦和满足的理性](https://plato.stanford.edu/entries/marcuse/#FanUtoRatGra)
-* [5. 单维思维与民主的拒绝](https://plato.stanford.edu/entries/marcuse/#OneDimThiDemRejDem)
-* [6. 技术的辩证法](https://plato.stanford.edu/entries/marcuse/#DiaTec)
-* [7. 解放的幽灵：巨大的拒绝和新的感性](https://plato.stanford.edu/entries/marcuse/#SpeLibGreRefNewSen)
-* [8. 赫伯特·马尔库塞与女性主义](https://plato.stanford.edu/entries/marcuse/#MarFem)
-* [ 参考文献](https://plato.stanford.edu/entries/marcuse/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/marcuse/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/marcuse/#SecSou)
-  * [ 其他引用的作品](https://plato.stanford.edu/entries/marcuse/#OthWorCit)
-* [ 学术工具](https://plato.stanford.edu/entries/marcuse/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/marcuse/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/marcuse/#Rel)
-
+ 
 ---
 
 ## 1. 传记

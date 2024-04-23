@@ -4,31 +4,7 @@
 
 凯瑟琳·麦考利最重要的作品是八卷本的《从詹姆斯一世登基到不伦瑞克王朝的英格兰历史》（A History of England from the Accession of James I. to that of the Brunswick Line），第一卷于 1763 年出版，但最后一卷直到二十年后才出版。这部历史著作以詹姆斯一世登基为起点，讲述了英国内战的历史，将其视为下议院为保留自由而与斯图亚特王朝的专制倾向斗争的结果，并肯定了人民废黜君主的权利。她还写了一部以信件形式叙述的历史，涵盖了 1688 年后的时期，以及政治小册子，驳斥霍布斯的君主主义和伯克的政治保守主义。她批评了英国政府在美国独立战争前的政策，并在独立后被美国人民欢迎，成为美国建国原则的重要倡导者。在她的小册子中，她捍卫了请愿权，并主张版权。她最具哲学性的作品《论道德真理的不变性》（A Treatise on the Immutability of Moral Truth）于 1783 年出版，发展了她所称的“道德必然性”学说；这部作品在她的《论教育》（Letters on Education）（1790 年）中部分重现，而后者又被玛丽·沃尔斯通克拉夫特评述并深深影响了她。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/catharine-macaulay/#LifWor)
-* [2. 共和自由与《英格兰历史》](https://plato.stanford.edu/entries/catharine-macaulay/#RepLibHisEng)
-
-  * [2.1 凯瑟琳·麦考利的共和主义](https://plato.stanford.edu/entries/catharine-macaulay/#MacRep)
-  * [2.2 凯瑟琳·麦考利的历史观及其对霍布斯的回应](https://plato.stanford.edu/entries/catharine-macaulay/#MacHisHerResHob)
-  * [2.3 凯瑟琳·麦考利的历史观作为对休谟的回应](https://plato.stanford.edu/entries/catharine-macaulay/#MacHisResHum)
-* [3. 信函中的历史和麦考利作为伯克的批评家](https://plato.stanford.edu/entries/catharine-macaulay/#HisLetMacCriBur)
-
-  * [3.1 对《论当今不满的原因》的回应](https://plato.stanford.edu/entries/catharine-macaulay/#ResThoCauPreDis)
-  * [3.2 对《论法国革命》的回应](https://plato.stanford.edu/entries/catharine-macaulay/#ResRefRevFra)
-* [4. 凯瑟琳·麦考利和美国](https://plato.stanford.edu/entries/catharine-macaulay/#MacAme)
-* [5. 关于进步、自由和教育的思考](https://plato.stanford.edu/entries/catharine-macaulay/#ThoProLibEdu)
-
-  * [5.1 意志的自由](https://plato.stanford.edu/entries/catharine-macaulay/#FreWil)
-  * [5.2 对教育的思考](https://plato.stanford.edu/entries/catharine-macaulay/#ThoEdu)
-  * [ 5.3 女权主义](https://plato.stanford.edu/entries/catharine-macaulay/#Fem)
-* [ 6. 结论](https://plato.stanford.edu/entries/catharine-macaulay/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/catharine-macaulay/#Bib)
-
-  * [ 主要文本](https://plato.stanford.edu/entries/catharine-macaulay/#PriTex)
-  * [ 次要文本](https://plato.stanford.edu/entries/catharine-macaulay/#SecTex)
-* [ 学术工具](https://plato.stanford.edu/entries/catharine-macaulay/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/catharine-macaulay/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/catharine-macaulay/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品

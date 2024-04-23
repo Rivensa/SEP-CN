@@ -9,26 +9,7 @@
 
 雅克·马里坦（1882-1973 年），法国哲学家和政治思想家，是二十世纪托马斯主义的主要代表之一，也是圣托马斯·阿奎那思想的有影响力的解释者之一。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/maritain/#Life)
-* [ 2. 普遍背景](https://plato.stanford.edu/entries/maritain/#GeneBack)
-* [3. 主要贡献](https://plato.stanford.edu/entries/maritain/#PrinCont)
-
-  * [ 3.1 形而上学](https://plato.stanford.edu/entries/maritain/#Meta)
-  * [ 3.2 认识论](https://plato.stanford.edu/entries/maritain/#Epis)
-  * [3.3 自然哲学](https://plato.stanford.edu/entries/maritain/#PhilNatu)
-  * [3.4 自然神学和宗教哲学](https://plato.stanford.edu/entries/maritain/#NatuTheoPhilReli)
-  * [3.5 道德和政治哲学与法律哲学](https://plato.stanford.edu/entries/maritain/#MoraPoliPhilPhilLaw)
-  * [3.6 美学与艺术哲学](https://plato.stanford.edu/entries/maritain/#AestPhilArt)
-* [ 4. 总体评估](https://plato.stanford.edu/entries/maritain/#GeneAsse)
-* [ 参考文献](https://plato.stanford.edu/entries/maritain/#Bib)
-
-  * [主要文献：雅克·马里坦的主要作品](https://plato.stanford.edu/entries/maritain/#PrimLiteMariPrinWork)
-  * [ 二次文献](https://plato.stanford.edu/entries/maritain/#SecoLite)
-  * [ 集合](https://plato.stanford.edu/entries/maritain/#Coll)
-* [ 学术工具](https://plato.stanford.edu/entries/maritain/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/maritain/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/maritain/#Rel)
-
+ 
 ---
 
 ## 1. 生命

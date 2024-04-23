@@ -15,25 +15,7 @@ c. 1590 年，重新印刷的绘画
 
 鉴于他广泛的阅读范围，米歇尔·德·蒙田可以被列为 16 世纪最博学的人文主义者之一。但在《随附》中，他的目标首先是正确行使自己的判断力。他说，那些想要指责他无知的读者将找不到任何理由，因为他在发挥自己的天赋，而不是借用别人的。他认为过多的知识可能成为负担，更喜欢发挥自己的“天然判断力”而不是展示自己的博学知识。
 
-* [ 1. 生活](https://plato.stanford.edu/entries/montaigne/#Lif)
-* [ 2. 工作](https://plato.stanford.edu/entries/montaigne/#Wor)
-* [3. 自由判断的哲学](https://plato.stanford.edu/entries/montaigne/#FreJud)
-* [4. 米歇尔·德·蒙田的怀疑主义](https://plato.stanford.edu/entries/montaigne/#MonSce)
-* [5. 米歇尔·德·蒙田和相对主义](https://plato.stanford.edu/entries/montaigne/#MonRel)
-* [6. 米歇尔·德·蒙田的遗产：从夏伦到霍布斯](https://plato.stanford.edu/entries/montaigne/#MonLegChaDes)
-* [ 7. 结论](https://plato.stanford.edu/entries/montaigne/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/montaigne/#Bib)
-
-  * [ 版本](https://plato.stanford.edu/entries/montaigne/#Edi)
-  * [ 英文翻译](https://plato.stanford.edu/entries/montaigne/#TraEng)
-  * [ 二次来源](https://plato.stanford.edu/entries/montaigne/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/montaigne/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/montaigne/#Oth)
-
-  * [ 文本](https://plato.stanford.edu/entries/montaigne/#Tex)
-  * [ 翻译](https://plato.stanford.edu/entries/montaigne/#Tra)
-* [ 相关条目](https://plato.stanford.edu/entries/montaigne/#Rel)
-
+ 
 ---
 
 ## 1. 生活

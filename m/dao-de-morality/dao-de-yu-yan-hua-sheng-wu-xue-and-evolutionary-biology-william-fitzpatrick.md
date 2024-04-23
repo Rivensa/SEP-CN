@@ -9,30 +9,7 @@ _首次发表于2008年12月19日，实质修订于2020年12月23日。_
 文章以“也许\[生物学家们]最终能够做到哲学家们从未能做到的，以一种理论上令人满意的方式解释道德行为。”这句话结束。这些段落概括了流行和科学媒体中的一个不断增长的主题，与四十年前社会生物学出现时所提出的主张相呼应，当时 E.O.威尔逊提出“道德伦理学的时间已经到了，暂时将其从哲学家手中移除，并使其生物化”（威尔逊，1975 年，562 页）。就道德哲学家而言，他们会迅速指出，他们的主要任务不是“解释道德行为”以因果解释我们对道德判断能力的起源或各种相关情感和行为倾向。如果一个道德哲学家问“道德从何而来”，她更可能关心道德原则的合理性或义务的来源和性质。然而，科学解释问题和哲学问题之间存在重要的潜在联系，为有益的跨学科研究开辟了道路。
 
 第一部分提供了问题的概述和它们之间的联系的草图，突出了我们在整个过程中需要的重要区别。然后，第 2、3 和 4 节继续批判性地探讨道德和演化生物学交叉点上的三个主要研究领域：描述性演化伦理学、规范性演化伦理学和演化元伦理学。
-
-* [1. 概述：基本问题、问题和区别](https://plato.stanford.edu/entries/morality-biology/#OveBasIssQueDis)
-  * [1.1 演化伦理学中对演化的三种不同诉求](https://plato.stanford.edu/entries/morality-biology/#ThrKinAppEvoEvoEth)
-  * [1.2 “道德”一词的经验和规范意义](https://plato.stanford.edu/entries/morality-biology/#EmpNorSenMor)
-* [2. 描述性演化伦理学：解释道德的经验意义](https://plato.stanford.edu/entries/morality-biology/#DesEvoEthExpMorEmpSen)
-  * [2.1 解释的层次和类型：一些可能性](https://plato.stanford.edu/entries/morality-biology/#LevTypExpSomPos)
-  * [2.2 生物学和心理学上的利他主义](https://plato.stanford.edu/entries/morality-biology/#BioPsyAlt)
-  * [2.3 解释道德起源：从心理学上的利他主义到规范指导的演化](https://plato.stanford.edu/entries/morality-biology/#ExpOriMorPsyAltEvoNorGui)
-  * [2.4 自主道德反思与理性道德判断和行为的解释](https://plato.stanford.edu/entries/morality-biology/#AutMorRefExpReaMorJudBeh)
-  * [2.5 对自主反思模型的挑战：情感引起的判断的事后合理化](https://plato.stanford.edu/entries/morality-biology/#ChaAutRefModPosHocRatEmoCauJud)
-* [3. 演化生物学和道德伦理学：规范性演化伦理学、修正性演化伦理学和道德进步的问题](https://plato.stanford.edu/entries/morality-biology/#EvoBioNorEthPreCorEvoEth)
-  * [3.1 斯宾塞](https://plato.stanford.edu/entries/morality-biology/#Spe)
-  * [3.2 生物学与伦理的自主性](https://plato.stanford.edu/entries/morality-biology/#BioAutEth)
-  * [3.3 演化生物学在规范伦理中的纠正用途](https://plato.stanford.edu/entries/morality-biology/#CorUseEvoBioNorEth)
-  * [3.4 道德进步的问题](https://plato.stanford.edu/entries/morality-biology/#QueMorPro)
-* [4. 演化元伦理学](https://plato.stanford.edu/entries/morality-biology/#EvoMet)
-  * [4.1 一般演化驳斥论证](https://plato.stanford.edu/entries/morality-biology/#GenEvoBioDebMor)
-  * [4.2 选择性演化驳斥论证](https://plato.stanford.edu/entries/morality-biology/#SelEvoBioDebMor)
-  * [4.3 演化生物学和表达主义](https://plato.stanford.edu/entries/morality-biology/#EvoBioExp)
-* [参考文献](https://plato.stanford.edu/entries/morality-biology/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/morality-biology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/morality-biology/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/morality-biology/#Rel)
-
+ 
 ***
 
 ## 1. 概述：基本问题、疑问和区别

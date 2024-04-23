@@ -6,22 +6,7 @@
 
 道德直觉主义最独特的特点是其认识论和本体论。所有经典直觉主义者都认为基本道德命题是不证自明的，而道德属性是非自然属性。因此，对直觉主义的讨论将集中在这两个特点上。一些哲学家声称道德多元主义（即认为基本道德原则存在不可约的多样性，并且没有任何一个原则严格优先于其他原则）是直觉主义思想的一个重要特征，但并非所有直觉主义者都是多元主义者，例如西奇威克和穆尔，因此这个特点在这里不会被讨论。
 
-* [1. 道德认识论](https://plato.stanford.edu/entries/intuitionism-ethics/#IntEpi)
-
-  * [ 1.1 直觉](https://plato.stanford.edu/entries/intuitionism-ethics/#Int)
-  * [ 1.2 自证](https://plato.stanford.edu/entries/intuitionism-ethics/#SelEvi)
-  * [ 1.3 分歧](https://plato.stanford.edu/entries/intuitionism-ethics/#Dis)
-  * [1.4 手推车案例和道德直觉的可靠性](https://plato.stanford.edu/entries/intuitionism-ethics/#TroCasRelMorInt)
-  * [1.5 非推理的证明？](https://plato.stanford.edu/entries/intuitionism-ethics/#NonInfJus)
-* [2. 直觉主义的形而上学](https://plato.stanford.edu/entries/intuitionism-ethics/#IntMet)
-
-  * [2.1 不可定义的，非自然的属性](https://plato.stanford.edu/entries/intuitionism-ethics/#IndNonNatPro)
-  * [2.2 概念分析和属性身份主张的分析](https://plato.stanford.edu/entries/intuitionism-ethics/#AnaConProIdeCla)
-  * [ 2.3 奇异性](https://plato.stanford.edu/entries/intuitionism-ethics/#Que)
-* [ 参考文献](https://plato.stanford.edu/entries/intuitionism-ethics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/intuitionism-ethics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/intuitionism-ethics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/intuitionism-ethics/#Rel)
+ 
 
 ---
 

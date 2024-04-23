@@ -10,39 +10,7 @@
 
 虽然这篇文章将重点讨论存在一元论和优先一元论，但当然还有其他历史上重要的一元论，包括物质一元论。物质一元论针对具体对象，并按最高类型计数。这是一种所有具体对象都属于一个最高类型（也许是物质的、精神的，或者是某种中立的基础类型：这里的方式分歧）的教义。这个主题在百科全书的其他地方有涉及（Robinson 2011）。
 
-* [ 1. 一元论](https://plato.stanford.edu/entries/monism/#Moni)
-
-  * [ 1.1 许多一元论](https://plato.stanford.edu/entries/monism/#ManyMoni)
-  * [ 1.2 重要的例子](https://plato.stanford.edu/entries/monism/#ImpoExam)
-* [2. 存在一元论](https://plato.stanford.edu/entries/monism/#ExisMoni)
-
-  * [ 2.1 概述](https://plato.stanford.edu/entries/monism/#Over)
-  * [ 2.2 论证](https://plato.stanford.edu/entries/monism/#Argu)
-
-    * [ 2.2.1 Moorean 真理](https://plato.stanford.edu/entries/monism/#MoorTrui)
-    * [2.2.2 排除论证](https://plato.stanford.edu/entries/monism/#ExclArgu)
-    * [2.2.3 本体学的模糊性](https://plato.stanford.edu/entries/monism/#OntoVagu)
-* [3. 一元论的优先性](https://plato.stanford.edu/entries/monism/#PrioMoni)
-
-  * [ 3.1 概述](https://plato.stanford.edu/entries/monism/#OverPrio)
-
-    * [ 3.1.1 表述](https://plato.stanford.edu/entries/monism/#Form)
-    * [ 3.1.2 优先级](https://plato.stanford.edu/entries/monism/#Prio)
-    * [ 3.1.3 平铺](https://plato.stanford.edu/entries/monism/#Tili)
-  * [ 3.2 论证](https://plato.stanford.edu/entries/monism/#ArguPrio)
-
-    * [ 3.2.1 常识](https://plato.stanford.edu/entries/monism/#CommSens)
-    * [ 3.2.2 量子出现](https://plato.stanford.edu/entries/monism/#QuanEmer)
-    * [ 3.2.3 无原子的泥浆](https://plato.stanford.edu/entries/monism/#AtomGunk)
-    * [ 3.2.4 异质性](https://plato.stanford.edu/entries/monism/#Hete)
-    * [ 3.2.5 内在性](https://plato.stanford.edu/entries/monism/#Intr)
-    * [3.2.6 组合约束和内部关系](https://plato.stanford.edu/entries/monism/#CombConsInteRela)
-    * [3.2.7 法律完整性和孤立宇宙](https://plato.stanford.edu/entries/monism/#NomiInteIslaUniv)
-    * [3.2.8 模态剪切和粘贴](https://plato.stanford.edu/entries/monism/#ModaCutPast)
-* [ 参考文献](https://plato.stanford.edu/entries/monism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/monism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/monism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/monism/#Rel)
+ 
 
 ---
 

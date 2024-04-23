@@ -4,31 +4,7 @@ _首次发表于2015年6月2日；实质性修订于2019年8月9日_
 
 语义在早期当代语言哲学中扮演了一个相对边缘的角色，主要关注句子意义的结构特征，并对词级输入到组合过程中的性质表现出较少的兴趣。如今，已经确立了研究词义对人类语言基本属性的探究至关重要。本文概述了在分析哲学中探索与词义相关问题的方式，并总结了邻近科学领域对该主题的相关研究。尽管主要关注哲学问题，但也会考虑语言学、心理学、神经科学和人工智能的贡献，因为词义研究是高度跨学科的。
 
-* [1. 基础](https://plato.stanford.edu/entries/word-meaning/#Bas)
-  * [1.1 词的概念](https://plato.stanford.edu/entries/word-meaning/#NotWor)
-  * [1.2 语义理论](https://plato.stanford.edu/entries/word-meaning/#TheWorMea)
-* [2. 历史背景](https://plato.stanford.edu/entries/word-meaning/#HisBac)
-  * [2.1 古典传统](https://plato.stanford.edu/entries/word-meaning/#ClaTra)
-  * [2.2 历史-语言学语义](https://plato.stanford.edu/entries/word-meaning/#HisPhiSem)
-* [3. 语言哲学](https://plato.stanford.edu/entries/word-meaning/#PhiLan)
-  * [3.1 早期当代观点](https://plato.stanford.edu/entries/word-meaning/#EarConVie)
-  * [3.2 基础和词汇能力](https://plato.stanford.edu/entries/word-meaning/#GroLexCom)
-  * [3.3 外在主义的转向](https://plato.stanford.edu/entries/word-meaning/#ExtTur)
-  * [3.4 内在主义](https://plato.stanford.edu/entries/word-meaning/#Int)
-  * [3.5 语境主义、极简主义和词汇](https://plato.stanford.edu/entries/word-meaning/#ConMinLex)
-* [4. 语言学](https://plato.stanford.edu/entries/word-meaning/#Lin)
-  * [4.1 结构主义语义](https://plato.stanford.edu/entries/word-meaning/#StrSem)
-  * [4.2 生成主义语义](https://plato.stanford.edu/entries/word-meaning/#GenSem)
-  * [4.3 分解式方法](https://plato.stanford.edu/entries/word-meaning/#DecApp)
-  * [4.4 关系式方法](https://plato.stanford.edu/entries/word-meaning/#RelApp)
-* [5. 认知科学](https://plato.stanford.edu/entries/word-meaning/#CogSci)
-  * [5.1 认知语言学](https://plato.stanford.edu/entries/word-meaning/#CogLin)
-  * [5.2 心理语言学](https://plato.stanford.edu/entries/word-meaning/#Psy)
-  * [5.3 神经语言学](https://plato.stanford.edu/entries/word-meaning/#Neu)
-* [参考文献](https://plato.stanford.edu/entries/word-meaning/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/word-meaning/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/word-meaning/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/word-meaning/#Rel)
+ 
 
 ***
 

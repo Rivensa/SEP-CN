@@ -12,36 +12,7 @@
 
 本条目解释了哲学家（和其他人）如何发展出可辨认的优绩主义思想，并总结了哲学的最新进展。在整个条目中，指出了文献中的重要空白。尽管优绩主义有着悠久的历史，但它仍然适合进行哲学研究。
 
-* [1. 优绩主义：简史](https://plato.stanford.edu/entries/meritocracy/#MeriBrieHist)
-* [2. 概念问题](https://plato.stanford.edu/entries/meritocracy/#ConcIssu)
-
-  * [2.1 什么是优绩?](https://plato.stanford.edu/entries/meritocracy/#WhatMeri)
-  * [2.2 优绩与应得](https://plato.stanford.edu/entries/meritocracy/#MeriDese)
-  * [ 2.3 平等机会](https://plato.stanford.edu/entries/meritocracy/#EquaOppo)
-* [3. 优绩主义治理](https://plato.stanford.edu/entries/meritocracy/#MeriGove)
-
-  * [3.1 新儒家优绩主义](https://plato.stanford.edu/entries/meritocracy/#NewConfMeri)
-  * [ 3.2 有限选举权](https://plato.stanford.edu/entries/meritocracy/#RestSuff)
-  * [ 3.3 多重投票](https://plato.stanford.edu/entries/meritocracy/#PlurVoti)
-  * [ 3.4 有限认知统治](https://plato.stanford.edu/entries/meritocracy/#LimiEpis)
-  * [ 3.5 其他方法](https://plato.stanford.edu/entries/meritocracy/#OtheAppr)
-* [4. 优绩主义正义](https://plato.stanford.edu/entries/meritocracy/#MeriJust)
-
-  * [ 4.1 解释](https://plato.stanford.edu/entries/meritocracy/#Just)
-  * [4.2 优绩主义的工作分配](https://plato.stanford.edu/entries/meritocracy/#MeriDistJobs)
-  * [4.3 优绩主义的收入分配](https://plato.stanford.edu/entries/meritocracy/#MeriDistInco)
-* [ 5. 反对意见](https://plato.stanford.edu/entries/meritocracy/#Obje)
-
-  * [5.1 Rawls](https://plato.stanford.edu/entries/meritocracy/#Rawl)
-  * [5.2 关系平等主义](https://plato.stanford.edu/entries/meritocracy/#RelaEgal)
-  * [ 5.3 民主理论](https://plato.stanford.edu/entries/meritocracy/#DemoTheo)
-  * [ 5.4 自由主义](https://plato.stanford.edu/entries/meritocracy/#Libe)
-  * [ 5.5 其他反对意见](https://plato.stanford.edu/entries/meritocracy/#OtheObje)
-* [6. 公共辩论](https://plato.stanford.edu/entries/meritocracy/#PublDeba)
-* [ 参考文献](https://plato.stanford.edu/entries/meritocracy/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/meritocracy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/meritocracy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/meritocracy/#Rel)
+ 
 
 ---
 

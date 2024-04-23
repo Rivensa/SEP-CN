@@ -3,21 +3,7 @@
 *首次发表于2009年4月1日；实质修订于2017年8月21日*
 
 自从 1980 年代初，Fodor 的里程碑之作《心灵的模块性》（1983 年）出版以来，模块性的概念在心理学哲学中一直占据重要地位。在认知科学词汇中首次出现“模块”及其相关词汇以来的几十年里，这一领域的概念和理论格局发生了巨大变化。尤其值得注意的是进化心理学的发展，其支持者对模块性的概念采取了比 Fodor 提出的更宽松的理解，并主张心灵的结构比 Fodor 所声称的更普遍地具有模块性。Fodor（1983 年，2000 年）将模块性的界限划定在感知和语言的相对低层系统上，而后 Fodor 派的理论家，如 Sperber（2002 年）和 Carruthers（2006 年），则主张心灵在整体上都具有模块性，包括推理、规划、决策等高层系统。模块性的概念还在最近的科学哲学、认识论、伦理学和语言哲学的讨论中发挥了作用，这进一步证明了它作为一种关于心灵结构的理论工具的实用性。
-
-* [1. 什么是心灵模块？](https://plato.stanford.edu/entries/modularity-mind/#WhatMentModu)
-* [2. 模块性，Fodor 风格：一个谦虚的提议](https://plato.stanford.edu/entries/modularity-mind/#ModuFodoStylModeProp)
-
-  * [2.1. 低层次模块性的挑战](https://plato.stanford.edu/entries/modularity-mind/#ChalLowLeveModu)
-  * [2.2. Fodor 对高层次模块性的论证](https://plato.stanford.edu/entries/modularity-mind/#FodoArguAgaiHighLeveModu)
-* [3. Fodor 之后的模块性](https://plato.stanford.edu/entries/modularity-mind/#PostFodoModu)
-
-  * [3.1. 对于大规模模块性的论证](https://plato.stanford.edu/entries/modularity-mind/#CaseForMassModu)
-  * [3.2. 对于大规模模块性的疑虑](https://plato.stanford.edu/entries/modularity-mind/#DoubAbouMassModu)
-* [4. 模块性与哲学](https://plato.stanford.edu/entries/modularity-mind/#ModuPhil)
-* [ 参考文献](https://plato.stanford.edu/entries/modularity-mind/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/modularity-mind/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/modularity-mind/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/modularity-mind/#Rel)
+ 
 
 ---
 

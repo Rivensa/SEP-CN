@@ -12,53 +12,7 @@
 
 PAP 对道德责任提出了一个要求。还有其他要求。例如，我们经常原谅那些出于无知而行动的人。假设事实证明，与最初的报道相反，库尔特合理地将约翰的午餐误认为是自己的午餐；正是这个无辜的错误导致了“盗窃”。在这种情况下，我们应该更不倾向于责怪库尔特，因为在相关意义上，他不知道自己在做什么。这些例子表明，除了 PAP 之外，还存在一种认识条件对责任的要求。还有其他候选要求。但是，虽然其中一些与能够做出其他选择的能力密切相关，但在本条目中，它们大多数将像认识条件一样被搁置一边：重点将放在 PAP 上。
 
-* [ 1. 背景](https://plato.stanford.edu/entries/alternative-possibilities/#Back)
-
-  * [1.1 道德责任的重要性](https://plato.stanford.edu/entries/alternative-possibilities/#ImpoPAP)
-  * [1.2 什么是道德责任？](https://plato.stanford.edu/entries/alternative-possibilities/#WhatMoraResp)
-  * [1.3 什么是替代能力？](https://plato.stanford.edu/entries/alternative-possibilities/#WhatAbilDoOthe)
-  * [1.4 关于自由的注释](https://plato.stanford.edu/entries/alternative-possibilities/#NoteFree)
-* [2. 支持 PAP 的论证](https://plato.stanford.edu/entries/alternative-possibilities/#ArguForPAP)
-
-  * [2.1 这个原则是否是不言自明的？](https://plato.stanford.edu/entries/alternative-possibilities/#PrinSelfEvid)
-  * [2.2 关于责任的普通判断](https://plato.stanford.edu/entries/alternative-possibilities/#OrdiJudgAbouResp)
-  * [2.3 代理的本质](https://plato.stanford.edu/entries/alternative-possibilities/#NatuAgen)
-  * [ 2.4 道德论证](https://plato.stanford.edu/entries/alternative-possibilities/#MoraArgu)
-* [3. 反对 PAP 的论据](https://plato.stanford.edu/entries/alternative-possibilities/#ArguAgaiPAP)
-
-  * [3.1 决定论的无关性](https://plato.stanford.edu/entries/alternative-possibilities/#IrreDete)
-  * [3.2 强迫但愿意的行动](https://plato.stanford.edu/entries/alternative-possibilities/#CompButWillActi)
-  * [3.3 意志的必要性](https://plato.stanford.edu/entries/alternative-possibilities/#VoliNece)
-  * [3.4 无因果的必然性](https://plato.stanford.edu/entries/alternative-possibilities/#InevWithCaus)
-
-    * [3.4.1 神的预知](https://plato.stanford.edu/entries/alternative-possibilities/#DiviFore)
-    * [3.4.2 洛克的内容囚犯](https://plato.stanford.edu/entries/alternative-possibilities/#LockContPris)
-    * [3.4.3 弗兰克福式案例](https://plato.stanford.edu/entries/alternative-possibilities/#FranStylCase)
-* [4. 对弗兰克福式案例的反对意见](https://plato.stanford.edu/entries/alternative-possibilities/#ObjeFranStylCase)
-
-  * [4.1 这些案例太不寻常](https://plato.stanford.edu/entries/alternative-possibilities/#CaseTooUnus)
-  * [4.2 法兰克福代理人本可以做出不同选择](https://plato.stanford.edu/entries/alternative-possibilities/#FranAgenCoulHaveDoneOthe)
-
-    * [ 4.2.1 一般能力](https://plato.stanford.edu/entries/alternative-possibilities/#GeneAbil)
-    * [4.2.2 自由的闪烁](https://plato.stanford.edu/entries/alternative-possibilities/#FlicFree)
-  * [4.3 Frankfurt 风格案例的困境](https://plato.stanford.edu/entries/alternative-possibilities/#DileForFranStylCase)
-
-    * [4.3.1 陈述的困境](https://plato.stanford.edu/entries/alternative-possibilities/#DileStat)
-    * [4.3.2 对困境的回应](https://plato.stanford.edu/entries/alternative-possibilities/#RespDile)
-* [5. 超越 PAP](https://plato.stanford.edu/entries/alternative-possibilities/#BeyoPAP)
-
-  * [5.1 重新激活的兼容主义？](https://plato.stanford.edu/entries/alternative-possibilities/#CompReEner)
-  * [5.2 没有 PAP 的不相容主义](https://plato.stanford.edu/entries/alternative-possibilities/#IncoWithPAP)
-  * [5.3 替代原则](https://plato.stanford.edu/entries/alternative-possibilities/#ReplPrin)
-
-    * [5.3.1 行为的责任](https://plato.stanford.edu/entries/alternative-possibilities/#RespForActi)
-    * [5.3.2 责任的后果](https://plato.stanford.edu/entries/alternative-possibilities/#RespForCons)
-    * [5.3.3 责任的遗漏](https://plato.stanford.edu/entries/alternative-possibilities/#RespForOmis)
-* [ 参考文献](https://plato.stanford.edu/entries/alternative-possibilities/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/alternative-possibilities/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/alternative-possibilities/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/alternative-possibilities/#Rel)
-
+ 
 ---
 
 ## 1. 背景

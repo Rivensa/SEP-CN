@@ -12,35 +12,7 @@
 
 在他晚年（1901 年），马赫被任命为奥地利议会议员，他被视为一位改革者。他在左翼人士中的知识影响力如此之大，以至于列宁写了一本书《唯物主义与经验批判主义》，批评马赫的反唯物主义观点。
 
-* [ 1. 概要](https://plato.stanford.edu/entries/ernst-mach/#Sum)
-* [2. 传记和早期发展](https://plato.stanford.edu/entries/ernst-mach/#BioEarDev)
-* [3. 心理学和生命科学](https://plato.stanford.edu/entries/ernst-mach/#PsyLifSci)
-
-  * [ 3.1 古斯塔夫·费希纳](https://plato.stanford.edu/entries/ernst-mach/#GusFec)
-  * [ 3.2 马赫条纹](https://plato.stanford.edu/entries/ernst-mach/#MacBan)
-  * [ 3.3 格式塔尔理论](https://plato.stanford.edu/entries/ernst-mach/#GesThe)
-  * [3.4 黑克尔、黑林和进化理论](https://plato.stanford.edu/entries/ernst-mach/#HaeHerEvoThe)
-  * [ 3.5 唯一论](https://plato.stanford.edu/entries/ernst-mach/#Mon)
-* [4. 科学哲学](https://plato.stanford.edu/entries/ernst-mach/#Sci)
-
-  * [ 4.1 历史批判](https://plato.stanford.edu/entries/ernst-mach/#HisCri)
-  * [4.2 科学的生物学起源](https://plato.stanford.edu/entries/ernst-mach/#BioOriSci)
-  * [4.3 科学的生物学目的](https://plato.stanford.edu/entries/ernst-mach/#BioPurSci)
-  * [4.4 科学的经济性和统一性](https://plato.stanford.edu/entries/ernst-mach/#EcoUniSci)
-  * [4.5 科学变革和进步的性质](https://plato.stanford.edu/entries/ernst-mach/#NatSciChaPro)
-* [ 5. 物理学](https://plato.stanford.edu/entries/ernst-mach/#Phy)
-
-  * [ 5.1 空间](https://plato.stanford.edu/entries/ernst-mach/#Spa)
-  * [ 5.2 测量](https://plato.stanford.edu/entries/ernst-mach/#Mea)
-  * [ 5.3 反原子论](https://plato.stanford.edu/entries/ernst-mach/#AntAto)
-* [ 参考文献](https://plato.stanford.edu/entries/ernst-mach/#Bib)
-
-  * [英文翻译的书籍](https://plato.stanford.edu/entries/ernst-mach/#BooEngTra)
-  * [批判性文章和论文](https://plato.stanford.edu/entries/ernst-mach/#CriArtEss)
-  * [ 精选文集](https://plato.stanford.edu/entries/ernst-mach/#SelWri)
-* [ 学术工具](https://plato.stanford.edu/entries/ernst-mach/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ernst-mach/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ernst-mach/#Rel)
+ 
 
 ---
 

@@ -11,32 +11,7 @@
 * 微生物学是一门科学，它催生了现代医学、分子生物学、基因组学、分子进化学以及许多其他领域，所有这些领域都产生了丰富的哲学讨论。
 * 微生物在实验环境中具有作为一般现象的材料模型的能力。
 * 当代微生物组研究显示了微生物和微生物学如何为更广泛的关于人类本质、个体性和因果关系等主题的哲学讨论提供信息。
-* [ 1. 背景](https://plato.stanford.edu/entries/microbiology/#Back)
-* [2. 关注微生物的原因](https://plato.stanford.edu/entries/microbiology/#ReasPayAtteMicr)
-
-  * [2.1 生物学原因](https://plato.stanford.edu/entries/microbiology/#BiolReas)
-
-    * [2.1.1 生态学原因](https://plato.stanford.edu/entries/microbiology/#EcolReas)
-    * [2.1.2 进化原因](https://plato.stanford.edu/entries/microbiology/#EvolReas)
-  * [2.2 哲学原因](https://plato.stanford.edu/entries/microbiology/#PhilReas)
-
-    * [ 2.2.1 物种概念](https://plato.stanford.edu/entries/microbiology/#SpecConc)
-    * [2.2.2 生命之树](https://plato.stanford.edu/entries/microbiology/#TreeLife)
-    * [2.2.3 进化中的重大转变](https://plato.stanford.edu/entries/microbiology/#MajoTranEvol)
-* [3. 微生物学](https://plato.stanford.edu/entries/microbiology/#MicrScie)
-* [4. 微生物作为模型](https://plato.stanford.edu/entries/microbiology/#MicrMode)
-
-  * [4.1 微生物模型的优点](https://plato.stanford.edu/entries/microbiology/#VirtMicrMode)
-  * [4.2 微生物学模型的限制？](https://plato.stanford.edu/entries/microbiology/#LimiMicrMode)
-* [5. 微生物组研究的广泛影响](https://plato.stanford.edu/entries/microbiology/#LongReacMicrRese)
-
-  * [5.1 个体性问题](https://plato.stanford.edu/entries/microbiology/#IndiIssu)
-  * [ 5.2 因果关系问题](https://plato.stanford.edu/entries/microbiology/#CausIssu)
-* [6. 为什么微生物和微生物学值得哲学关注](https://plato.stanford.edu/entries/microbiology/#WhyMicrMicrWarrPhilAtte)
-* [ 参考文献](https://plato.stanford.edu/entries/microbiology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/microbiology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/microbiology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/microbiology/#Rel)
+ 
 
 ---
 

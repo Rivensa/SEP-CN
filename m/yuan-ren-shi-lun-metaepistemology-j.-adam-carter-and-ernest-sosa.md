@@ -3,24 +3,7 @@
 *首次发表于2022年3月9日星期三*
 
 元认识论是（广义上）关于知识的哲学理论，它涉及知识的本质和范围，而元认识论则从认识论的具体实质性辩论中退后一步，探究参与这些辩论的人所做的假设和承诺。本文将重点关注其中一些假设和承诺，包括（§1）是否存在客观认识事实；以及如何描述（§2）认识论的主题和（§3）方法论。
-
-* [1. 是否存在认识事实？元认识论的现实主义与反现实主义](https://plato.stanford.edu/entries/metaepistemology/#TherEpisFactMetaRealVsAntiReal)
-
-  * [1.1 元认识论的现实主义](https://plato.stanford.edu/entries/metaepistemology/#MetaReal)
-  * [1.2 元认识论反实在论](https://plato.stanford.edu/entries/metaepistemology/#MetaAntiReal)
-* [2. 认识论的特征](https://plato.stanford.edu/entries/metaepistemology/#CharEpis)
-
-  * [2.1 知识、探究和智识伦理的理论](https://plato.stanford.edu/entries/metaepistemology/#TheoKnowInquInteEthi)
-  * [2.2 基于信念和基于确信度的认识论](https://plato.stanford.edu/entries/metaepistemology/#BeliBaseCredBaseEpis)
-* [3. 认识论方法论](https://plato.stanford.edu/entries/metaepistemology/#MethEpis)
-
-  * [3.1 方法主义和特殊主义](https://plato.stanford.edu/entries/metaepistemology/#MethPart)
-  * [3.2 元认识论中的分析：语义、概念和形而上学](https://plato.stanford.edu/entries/metaepistemology/#AnalEpisSemaConcMeta)
-  * [3.3 实验性元认识论](https://plato.stanford.edu/entries/metaepistemology/#ExpeEpis)
-* [ 参考文献](https://plato.stanford.edu/entries/metaepistemology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/metaepistemology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/metaepistemology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/metaepistemology/#Rel)
+ 
 
 ---
 

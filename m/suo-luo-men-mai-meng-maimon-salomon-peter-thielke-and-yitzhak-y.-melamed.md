@@ -4,25 +4,7 @@
 
 所罗门·迈蒙（1753-1800）是 18 世纪最敏锐、最原创、最复杂的哲学家之一，也是最迷人的人物之一。通过赋予充分理由原则无限的有效性，迈蒙接受了一种激进的理性主义形式。他对知识有效性的强有力标准表明，即使康德试图将认识论主张限制在可能经验的领域，也无法在没有实质性的形而上学承诺的情况下确保。康德面临着一个严峻的选择：要么采纳他试图挑战的教条主义、理性主义、形而上学的要素，要么接受他的系统受到对他的批判唯心主义的怀疑而受到破坏。迈蒙揭示了他所认为的理性主义的怀疑意义，对康德的批判唯心主义提出了重要的异议，并对经验和给定性的问题提出了深刻的见解。他关于人类认知的本质和限制的“怀疑理性主义”主张，提供了对康德的超验唯心主义项目以及关于思维与世界之间关系的核心认识论问题的独特视角。德国著名学者曼弗雷德·弗兰克最近提出，迈蒙是即将被发现的“最后一位伟大哲学家”。
 
-* [1. 知识产权传记](https://plato.stanford.edu/entries/maimon/#InteBiog)
-* [2. 迈蒙对康德的批判](https://plato.stanford.edu/entries/maimon/#MaimCritKant)
-* [3. 内容、给定性、空间和时间](https://plato.stanford.edu/entries/maimon/#ContGiveSpacTime)
-* [4. 逻辑与确定性法则](https://plato.stanford.edu/entries/maimon/#LogiLawDete)
-* [5. 从教条主义到怀疑主义（然后再回来？）](https://plato.stanford.edu/entries/maimon/#DogmSkepBack)
-* [ 6. 伦理学](https://plato.stanford.edu/entries/maimon/#Ethi)
-* [7. 所罗门·迈蒙对德国唯心主义形成的影响](https://plato.stanford.edu/entries/maimon/#MaimInflFormGermIdea)
-* [8. 犹太哲学与文化](https://plato.stanford.edu/entries/maimon/#JewiPhilCult)
-* [ 参考文献](https://plato.stanford.edu/entries/maimon/#Bib)
-
-  * [迈蒙主要作品的原版](https://plato.stanford.edu/entries/maimon/#OrigEditMaimMainWork)
-  * [迈蒙作品的现代版本和翻译](https://plato.stanford.edu/entries/maimon/#ModeEditTranMaimWork)
-  * [ 未发表的手稿](https://plato.stanford.edu/entries/maimon/#UnpuManu)
-  * [ 失落的手稿](https://plato.stanford.edu/entries/maimon/#MissManu)
-  * [选定的次要文献](https://plato.stanford.edu/entries/maimon/#SeleSecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/maimon/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/maimon/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/maimon/#Rel)
-
+ 
 ---
 
 ## 1. 知识传记

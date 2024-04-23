@@ -4,16 +4,7 @@
 
 1688 年 7 月 7 日，爱尔兰科学家和政治家威廉·莫利纽克斯（1656-1698）致信约翰·洛克，提出了一个问题，这个问题在启蒙时代以及至今引起了哲学家和其他科学家的极大兴趣。简而言之，莫利纽克斯提出的问题是，一个生来失明并通过触摸学会区分和命名球体和立方体的人，在恢复视力后，是否能够仅凭视觉来区分和命名这些物体。
 
-* [1. 莫利纽克斯问题的表述](https://plato.stanford.edu/entries/molyneux-problem/#MolyFormProb)
-* [2. 十八世纪关于莫利纽克斯问题的哲学讨论](https://plato.stanford.edu/entries/molyneux-problem/#EighCentPhilDiscAbouMolyProb)
-* [3. 第一批实验数据](https://plato.stanford.edu/entries/molyneux-problem/#FirsExpeData)
-* [4. 十九世纪的经验方法](https://plato.stanford.edu/entries/molyneux-problem/#EmpiApprNineCent)
-* [ 5. 现代方法](https://plato.stanford.edu/entries/molyneux-problem/#ModeAppr)
-* [ 6. 结论](https://plato.stanford.edu/entries/molyneux-problem/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/molyneux-problem/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/molyneux-problem/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/molyneux-problem/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/molyneux-problem/#Rel)
+ 
 
 ---
 

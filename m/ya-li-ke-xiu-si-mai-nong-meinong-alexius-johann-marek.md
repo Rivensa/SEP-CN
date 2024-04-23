@@ -12,33 +12,7 @@ _首次发表于 2008 年 12 月 8 日星期一；实质性修订于 2023 年 12
 
 亚历克修斯·迈农在伯特兰·罗素身上找到了一个有同情心的读者。然而，罗素后来拒绝了迈农的客体理论，以及他的哲学心理学，后者将意识构想为通过心理内容与对象之间的关系。罗素的批评主要是迈农国际认可的原因。一方面，罗素使迈农臭名昭著。另一方面，与罗素的争议也成为发展迈农逻辑和语义学的动力，作为古典逻辑和语义学的一个严肃的替代选择（尤其是新迈农主义，一种现代迈农主义的版本）。
 
-* [1. 生平与工作](https://plato.stanford.edu/entries/meinong/#LifWor)
-  * [1.1 年表](https://plato.stanford.edu/entries/meinong/#Chr)
-  * [1.2 亚历克修斯·迈农的生平与工作](https://plato.stanford.edu/entries/meinong/#MeiLifWor)
-* [2. 亚历克修斯·迈农对哲学的看法](https://plato.stanford.edu/entries/meinong/#Mei)
-* [3. 关于一些认识论问题](https://plato.stanford.edu/entries/meinong/#SomEpiMat)
-* [4. 心智与客体](https://plato.stanford.edu/entries/meinong/#MinObj)
-  * [4.1 心理内容与逻辑内容](https://plato.stanford.edu/entries/meinong/#PsyConLogCon)
-  * [4.2 心智作为客体 — 自我呈现与他我呈现的对比](https://plato.stanford.edu/entries/meinong/#MinObjSelPreConOthPre)
-  * [4.3 心灵的多样性](https://plato.stanford.edu/entries/meinong/#ManMin)
-* [5. 对象理论 — 超越存在与非存在的本体论](https://plato.stanford.edu/entries/meinong/#ObjTheOntBeyBeiNonBei)
-  * [5.1 独立原则与无差别原则](https://plato.stanford.edu/entries/meinong/#PriIndPriInd)
-  * [5.2 不完整的对象](https://plato.stanford.edu/entries/meinong/#IncObj)
-  * [5.3 亚历克修斯·迈农的类别表](https://plato.stanford.edu/entries/meinong/#MeiTabCat)
-  * [5.4 无存在的对象 — 罗素与亚历克修斯·迈农](https://plato.stanford.edu/entries/meinong/#BeiObjRusVerMei)
-  * [5.5 高阶对象](https://plato.stanford.edu/entries/meinong/#ObjHigOrd)
-  * [5.6 事实和真理](https://plato.stanford.edu/entries/meinong/#FacTru)
-* [6. 表达心灵和意图对象 — 亚历克修斯·迈农的意义理论](https://plato.stanford.edu/entries/meinong/#ExpMinIntObjMeiTheMea)
-* [7. 价值与情感](https://plato.stanford.edu/entries/meinong/#ValEmo)
-  * [7.1 亚历克修斯·迈农的初步理论 — 价值主观主义](https://plato.stanford.edu/entries/meinong/#MeiIniTheValSub)
-  * [7.2 亚历克修斯·迈农的后期理论 — 价值客观主义](https://plato.stanford.edu/entries/meinong/#MeiLatTheValObj)
-* [参考文献](https://plato.stanford.edu/entries/meinong/#Bib)
-  * [主要来源：迈农选集](https://plato.stanford.edu/entries/meinong/#SelWorMei)
-  * [次要来源：参考文献和进一步阅读](https://plato.stanford.edu/entries/meinong/#RefFurRea)
-* [学术工具](https://plato.stanford.edu/entries/meinong/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/meinong/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/meinong/#Rel)
-
+ 
 ***
 
 ## 1. 生活与工作

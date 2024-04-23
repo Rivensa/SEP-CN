@@ -4,28 +4,7 @@ _首次发表于2004年11月16日；实质性修订于2021年5月9日。_
 
 加布里埃尔·马塞尔（1889-1973）是一位哲学家、戏剧评论家、剧作家和音乐家。他于 1929 年皈依天主教，他的哲学后来被描述为“基督教存在主义”（最著名的是让-保罗·萨特的《存在主义是一种人道主义》），这是一个他最初支持但后来否认的术语。除了他众多的哲学著作外，他还是大约 30 部戏剧作品的作者。马塞尔在 1949 年至 1950 年间在阿伯丁举办了吉福德讲座，这些讲座以两卷本《存在之谜》的形式出版，他还在 1961 年至 1962 年间在哈佛大学举办了威廉·詹姆斯讲座，这些讲座被整理并出版为《人的尊严的存在背景》。
 
-* [1. 个人简介](https://plato.stanford.edu/entries/marcel/#BiogSket)
-* [2. 破碎的世界与功能性人](https://plato.stanford.edu/entries/marcel/#BrokWorlFuncPers)
-* [3. 存在的要求\[2\]](https://plato.stanford.edu/entries/marcel/#OntoExig)
-* [4. 超越](https://plato.stanford.edu/entries/marcel/#Tran)
-* [5. 存在与拥有](https://plato.stanford.edu/entries/marcel/#BeinHavi)
-* [6. 问题和谜团](https://plato.stanford.edu/entries/marcel/#ProbMyst)
-* [7. 主要和次要反思](https://plato.stanford.edu/entries/marcel/#PrimSecoRefl)
-* [8. 抽象的精神](https://plato.stanford.edu/entries/marcel/#SpirAbst)
-* [9. 随附/监督和不可用性](https://plato.stanford.edu/entries/marcel/#DispIndi)
-* [10. “With” (](https://plato.stanford.edu/entries/marcel/#Avec)​\*[avec](https://plato.stanford.edu/entries/marcel/#Avec)\*​[)](https://plato.stanford.edu/entries/marcel/#Avec)
-* [11. 观点，信念，信仰](https://plato.stanford.edu/entries/marcel/#OpinConvBeli)
-* [12. 创造性忠诚](https://plato.stanford.edu/entries/marcel/#CreaFide)
-* [13. 希望](https://plato.stanford.edu/entries/marcel/#Hope)
-* [14. 宗教信仰](https://plato.stanford.edu/entries/marcel/#ReliBeli)
-* [15. 加布里埃尔·马塞尔的对话](https://plato.stanford.edu/entries/marcel/#MarcDial)
-* [参考书目](https://plato.stanford.edu/entries/marcel/#Bib)
-  * [主要文献：加布里埃尔·马塞尔的著作](https://plato.stanford.edu/entries/marcel/#PrimLiteWorkMarc)
-  * [二次文献](https://plato.stanford.edu/entries/marcel/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/marcel/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/marcel/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/marcel/#Rel)
-
+ 
 ***
 
 ## 1. 传略

@@ -6,22 +6,7 @@
 
 标准假设曾经是，哲学上有趣的条件是与自由有关的条件，而相比之下，认知条件（以下简称 EC）相对简单和无问题。然而，在过去的二十年左右，已经明显，EC 对于正确理解道德责任存在某些独特的挑战，甚至独特的怀疑威胁其可能性（见第 2 节），与自由和决定论问题无关。本文的主要目的是首先以一般性的术语概述 EC 是什么-其要求是什么以及涉及哪些意识形态（第 1 节），其次是介绍关于这些要求的解释和满足这些要求的不同方式的主要竞争立场（第 2-3 节）。
 
-* [1. 认知条件](https://plato.stanford.edu/entries/moral-responsibility-epistemic/#EpisCond)
-
-  * [1.1 认知条件的内容](https://plato.stanford.edu/entries/moral-responsibility-epistemic/#ContAwar)
-  * [1.2 认知条件的种类](https://plato.stanford.edu/entries/moral-responsibility-epistemic/#KindAwar)
-* [2. 认知条件和修正主义](https://plato.stanford.edu/entries/moral-responsibility-epistemic/#EpisCondRevi)
-* [3. 对修正主义的回应](https://plato.stanford.edu/entries/moral-responsibility-epistemic/#RespRevi)
-
-  * [3.1 削弱的内在主义](https://plato.stanford.edu/entries/moral-responsibility-epistemic/#WeakInte)
-  * [3.2 无知和认知恶习](https://plato.stanford.edu/entries/moral-responsibility-epistemic/#IgnoEpisVice)
-  * [3.3 意愿的品质](https://plato.stanford.edu/entries/moral-responsibility-epistemic/#QualWill)
-  * [ 3.4 能力主义](https://plato.stanford.edu/entries/moral-responsibility-epistemic/#Capa)
-* [ 4. 结论](https://plato.stanford.edu/entries/moral-responsibility-epistemic/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-responsibility-epistemic/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-responsibility-epistemic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-responsibility-epistemic/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-responsibility-epistemic/#Rel)
+ 
 
 ---
 

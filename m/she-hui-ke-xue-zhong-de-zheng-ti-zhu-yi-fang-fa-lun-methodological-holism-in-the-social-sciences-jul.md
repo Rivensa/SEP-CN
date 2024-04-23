@@ -19,27 +19,7 @@
 
 关于整体主义方法论的以下讨论由两部分组成。第 1 和第 2 节探讨了可有可无的辩论，第 3 和第 4 节考虑了微基础辩论。两部分都关注于整体主义者在这些争议中的观点和论证。关于方法论个体主义的描述，请参阅方法论个体主义词条。
 
-* [1. 可有可无的辩论](https://plato.stanford.edu/entries/holism-social/#DispDeba)
-* [2. 为什么整体主义解释是不可或缺的](https://plato.stanford.edu/entries/holism-social/#WhyHoliExplIndi)
-
-  * [2.1 社会现象作为原因的论证](https://plato.stanford.edu/entries/holism-social/#ArguSociPhenCaus)
-  * [2.2 翻译的不可能性论证](https://plato.stanford.edu/entries/holism-social/#ArguImpoTran)
-  * [2.3 理论间归约的不可能性论证](https://plato.stanford.edu/entries/holism-social/#ArguImpoInteRedu)
-  * [2.4 解释回归的论证](https://plato.stanford.edu/entries/holism-social/#ArguExplRegr)
-  * [2.5 不同解释兴趣的论证](https://plato.stanford.edu/entries/holism-social/#ArguDiffExplInte)
-  * [2.6 实用关注的论证](https://plato.stanford.edu/entries/holism-social/#ArguPragConc)
-* [3. 整体主义方法论的微基础辩论](https://plato.stanford.edu/entries/holism-social/#MicrDeba)
-* [4. 为什么纯粹的整体主义解释有时可以独立存在](https://plato.stanford.edu/entries/holism-social/#WhyPureHoliExplSomeStanTheiOwn)
-
-  * [4.1 从基础社会层面机制的角度来看的论证](https://plato.stanford.edu/entries/holism-social/#ArguUndeSociLeveMech)
-  * [4.2 机制回归的论证](https://plato.stanford.edu/entries/holism-social/#ArguMechRegr)
-  * [4.3 解释实践的论证](https://plato.stanford.edu/entries/holism-social/#ArguExplPrac)
-  * [4.4 非机械性解释考虑的论证](https://plato.stanford.edu/entries/holism-social/#ArguNonMechExplCons)
-* [ 参考文献](https://plato.stanford.edu/entries/holism-social/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/holism-social/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/holism-social/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/holism-social/#Rel)
-
+ 
 ---
 
 ## 1. 可有可无的辩论

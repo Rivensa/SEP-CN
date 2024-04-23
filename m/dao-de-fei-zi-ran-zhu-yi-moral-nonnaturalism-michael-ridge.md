@@ -16,18 +16,7 @@
 
 因此，我们可以缩小候选自然/非自然区分方式的列表。然而，确定剩下的自然属性的特征化方式中哪一种提供了“最佳”自然主义和非自然主义在元伦理学中区分的方式将非常困难，甚至可能是不可能的。更有可能的是，每种剩下的分类方式都有其优点和缺点。此外，自然主义和非自然主义之间区分的理解在不同的背景下，甚至在一个人更具体的哲学承诺下，都会有所不同。因此，我在这里不会去特别偏袒某种特定的自然和非自然属性区分方式。相反，我只会试图在对非自然主义的赞成和反对的论证中指出这些差异可能会有所影响。
 
-* [1. 自然主义谬误](https://plato.stanford.edu/entries/moral-non-naturalism/#NatFal)
-* [2. 开放问题论证](https://plato.stanford.edu/entries/moral-non-naturalism/#OpeQueArg)
-* [ 3. 直觉主义](https://plato.stanford.edu/entries/moral-non-naturalism/#Int)
-* [4. 解释无力](https://plato.stanford.edu/entries/moral-non-naturalism/#ExpImp)
-* [ 5. 动机](https://plato.stanford.edu/entries/moral-non-naturalism/#Mot)
-* [6. 解释随附/监督](https://plato.stanford.edu/entries/moral-non-naturalism/#ExpSup)
-* [ 7. 方法论](https://plato.stanford.edu/entries/moral-non-naturalism/#Met)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-non-naturalism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-non-naturalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-non-naturalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-non-naturalism/#Rel)
-
+ 
 ---
 
 ## 1. 自然主义谬误

@@ -8,22 +8,7 @@
 
 第 1 和第 2 节讨论了图里尔工作的一些哲学前辈。第 3 至第 10 节讨论了实证发现、关于其实证含义的辩论以及关于如何最好解释这些发现的哲学论证。第 11 节概述了引用了图里尔传统研究成果的哲学论证。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/moral-conventional/#Intr)
-* [2. 关于道德定义文献的两个事实](https://plato.stanford.edu/entries/moral-conventional/#TwoFactAbouLiteDefiMora)
-* [ 3. 图里尔的项目](https://plato.stanford.edu/entries/moral-conventional/#TuriProj)
-* [4. “道德”准则判断的模式实际上能否识别道德判断？](https://plato.stanford.edu/entries/moral-conventional/#DoesMoraPattCritJudgActuIdenMoraJudg)
-* [5. “道德”准则判断的自然种类辩护](https://plato.stanford.edu/entries/moral-conventional/#NatuKindDefe)
-* [6. 道德的定义](https://plato.stanford.edu/entries/moral-conventional/#DefiMora)
-* [7. 对图里尔道德定义的经验性挑战：在其他文化中是否失败？](https://plato.stanford.edu/entries/moral-conventional/#EmpiChalTuriDefiMoraDoesItFailOtheCult)
-* [8. 对图里尔道德定义的经验性挑战：在“非典型”违规行为中是否失败？](https://plato.stanford.edu/entries/moral-conventional/#EmpiChalTuriDefiMoraDoesItFailNonProtTran)
-* [9. 道德判断的起源：理性、情感、社会学习还是先天认知机制](https://plato.stanford.edu/entries/moral-conventional/#OrigMoraJudgReasEmotSociLearInnaCognMach)
-* [10. 道德/习俗任务告诉我们关于道德判断的什么？](https://plato.stanford.edu/entries/moral-conventional/#WhatDoesMoraTaskTellUsAbouMoraJudg)
-* [11. 道德/习俗任务在哲学中的用途](https://plato.stanford.edu/entries/moral-conventional/#UsesMoraTaskPhil)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-conventional/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-conventional/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-conventional/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-conventional/#Rel)
-
+ 
 ---
 
 ## 1. 引言

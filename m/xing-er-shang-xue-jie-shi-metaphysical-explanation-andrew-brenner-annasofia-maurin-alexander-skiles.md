@@ -30,26 +30,7 @@
 
 一个澄清性的评论：出于文体原因，我们将继续在解释中来回转换，有时将其视为某种可以被发现和争论的真理，有时将其视为传达或理解这些真理的活动。这种区别，以及解释是否实际上是其他东西（例如，模型论意义上的理论），将在后面成为重点，但现在我们将以宽松的方式来谈论。
 
-* [1. 形而上学解释作为一种非因果解释的形式](https://plato.stanford.edu/entries/metaphysical-explanation/#MetaExplFormNonCausExpl)
-* [2. 形而上学解释的一些假设性种类](https://plato.stanford.edu/entries/metaphysical-explanation/#SomePutaVariMetaExpl)
-* [3. 关于形而上学解释的分离主义与统一主义](https://plato.stanford.edu/entries/metaphysical-explanation/#SepaVsUnioAbouMetaExpl)
-* [4. 关于形而上学解释的唯一主义与多元主义](https://plato.stanford.edu/entries/metaphysical-explanation/#MoniVsPlurAbouMetaExpl)
-* [5. 形而上学解释的现实主义与反现实主义](https://plato.stanford.edu/entries/metaphysical-explanation/#RealVsAntiAbouMetaExpl)
-* [6. 形而上学解释的模型](https://plato.stanford.edu/entries/metaphysical-explanation/#ModeMetaExpl)
-
-  * [6.1 形而上学解释作为准因果解释](https://plato.stanford.edu/entries/metaphysical-explanation/#MetaExplQuasCausExpl)
-  * [6.2 形而上学解释作为法则解释](https://plato.stanford.edu/entries/metaphysical-explanation/#MetaExplNomoExpl)
-  * [6.3 形而上学解释作为统一解释](https://plato.stanford.edu/entries/metaphysical-explanation/#MetaExplExplUnif)
-  * [6.4 形而上学解释的实用主义](https://plato.stanford.edu/entries/metaphysical-explanation/#PragMetaExpl)
-* [7. 形而上学解释的范围](https://plato.stanford.edu/entries/metaphysical-explanation/#ScopMetaExpl)
-
-  * [7.1 形而上学解释超越形而上学](https://plato.stanford.edu/entries/metaphysical-explanation/#MetaExplOutsMeta)
-  * [7.2 所有事实是否都能接受形而上学解释，或者都不能接受？](https://plato.stanford.edu/entries/metaphysical-explanation/#DoAllFactAdmiMetaExplNone)
-* [ 参考文献](https://plato.stanford.edu/entries/metaphysical-explanation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/metaphysical-explanation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/metaphysical-explanation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/metaphysical-explanation/#Rel)
-
+ 
 ---
 
 ## 1. 形而上学解释作为一种非因果解释形式

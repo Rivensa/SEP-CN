@@ -8,29 +8,7 @@
 
 罗素一元论可以被看作是打破这种沉默的理论。它假设了物理学所描述的结构和动力学的基础属性。此外，根据罗素一元论，这些相同的属性与意识相关，并且可能至少部分构成意识。
 
-* [1. 罗素一元论的内容](https://plato.stanford.edu/entries/russellian-monism/#ContRussMoni)
-
-  * [1.1 三个核心罗素一元论命题](https://plato.stanford.edu/entries/russellian-monism/#ThreCoreRussMoniThes)
-  * [1.2 罗素一元论的变种](https://plato.stanford.edu/entries/russellian-monism/#VariRussMoni)
-* [2. 罗素一元论在西方哲学史中](https://plato.stanford.edu/entries/russellian-monism/#RussMoniHistWestPhil)
-
-  * [2.1 罗素一元论在十七至十九世纪](https://plato.stanford.edu/entries/russellian-monism/#RussMoniSeveThroNineCent)
-  * [2.2 罗素一元论在二十和二十一世纪](https://plato.stanford.edu/entries/russellian-monism/#RussMoniTwenTwenFirsCent)
-* [3. 罗素一元论的论证和反对意见](https://plato.stanford.edu/entries/russellian-monism/#ArguForObjeRussMoni)
-
-  * [3.1 罗素一元论的论证](https://plato.stanford.edu/entries/russellian-monism/#ArguForRussMoni)
-  * [3.2 罗素一元论的反对意见](https://plato.stanford.edu/entries/russellian-monism/#ObjeRussMoni)
-* [4. 进一步的问题](https://plato.stanford.edu/entries/russellian-monism/#FurtIssu)
-
-  * [4.1 关于物理学的结构主义](https://plato.stanford.edu/entries/russellian-monism/#StruAbouPhys)
-  * [4.2 构成和出现](https://plato.stanford.edu/entries/russellian-monism/#ConsEmer)
-  * [ 4.3 物理本质](https://plato.stanford.edu/entries/russellian-monism/#PhysQuid)
-* [ 5. 最后的话](https://plato.stanford.edu/entries/russellian-monism/#FinaWord)
-* [ 参考文献](https://plato.stanford.edu/entries/russellian-monism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/russellian-monism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/russellian-monism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/russellian-monism/#Rel)
-
+ 
 ---
 
 ## 1. 罗素一元论的内容

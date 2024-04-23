@@ -3,19 +3,7 @@
 *首次发表于2003年1月14日；实质性修订于2020年11月25日。*
 
 达马里斯·卡德沃斯·马沙姆（1658-1708）是最早的英国女性哲学家之一。她的哲学主要来源于两本匿名出版的书籍，《论上帝之爱》（1696）和《关于品德和基督教生活的偶尔思考》（1705），以及她与洛克和莱布尼茨的通信。
-
-* [ 1. 生平](https://plato.stanford.edu/entries/lady-masham/#Lif)
-* [2. 《论上帝之爱》](https://plato.stanford.edu/entries/lady-masham/#DisConLovGod)
-* [ 3. 偶尔的思考](https://plato.stanford.edu/entries/lady-masham/#OccTho)
-* [ 4. 通信](https://plato.stanford.edu/entries/lady-masham/#Cor)
-* [ 参考文献](https://plato.stanford.edu/entries/lady-masham/#Bib)
-
-  * [ 来源](https://plato.stanford.edu/entries/lady-masham/#Sou)
-  * [ 研究](https://plato.stanford.edu/entries/lady-masham/#Stu)
-* [ 学术工具](https://plato.stanford.edu/entries/lady-masham/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/lady-masham/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/lady-masham/#Rel)
-
+ 
 ---
 
 ## 1. 生命

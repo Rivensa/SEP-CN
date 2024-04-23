@@ -9,50 +9,7 @@
 规范性的本质究竟是什么？它与非规范性有何不同？两者之间又有何关联？任何规范性主张实际上都是真实的吗，或者说我应该或不应该做任何事情？是否存在规范性属性，如善良、义务、理由等等，如果存在，它们之间如何相关？规范性基本上是我们态度的问题，还是某些规范性真理独立于任何人的思想或感受而存在？
 
 在本文中，我们将探讨这些问题，试图概述元伦理学中关于规范性的一些重要辩论。
-
-* [1. 目标解释](https://plato.stanford.edu/entries/normativity-metaethics/#TargExpl)
-
-  * [1.1 概念 vs. 世界](https://plato.stanford.edu/entries/normativity-metaethics/#ConcVsWorl)
-  * [1.2 基本规范性属性](https://plato.stanford.edu/entries/normativity-metaethics/#FundNormProp)
-* [2. 是否存在任何规范事实？- 错误理论](https://plato.stanford.edu/entries/normativity-metaethics/#TherAnyNormFactAllETheo)
-
-  * [2.1 制定错误理论](https://plato.stanford.edu/entries/normativity-metaethics/#FormErroTheo)
-  * [2.2 元伦理学的论证](https://plato.stanford.edu/entries/normativity-metaethics/#ArguQuee)
-
-    * [2.2.1 规范性的哪个特征是奇怪的？](https://plato.stanford.edu/entries/normativity-metaethics/#WhatFeatNormQuee)
-    * [2.2.2 奇怪性包含什么？](https://plato.stanford.edu/entries/normativity-metaethics/#WhatDoesQueeCons)
-  * [2.3 元伦理学的其他论证](https://plato.stanford.edu/entries/normativity-metaethics/#OtheArguForErroTheo)
-* [3. 规范性是否能够得到自然主义的解释？](https://plato.stanford.edu/entries/normativity-metaethics/#NormGiveNatuExpl)
-
-  * [ 3.1 规范性形式主义](https://plato.stanford.edu/entries/normativity-metaethics/#NormForm)
-  * [ 3.2 规范性现实主义](https://plato.stanford.edu/entries/normativity-metaethics/#NormReal)
-  * [3.3 原始主义：非自然主义和自然主义](https://plato.stanford.edu/entries/normativity-metaethics/#PrimNonNatuNatu)
-  * [3.4 规范概念主义](https://plato.stanford.edu/entries/normativity-metaethics/#NormConc)
-
-    * [3.4.1 反现实主义概念主义：非认知表达主义](https://plato.stanford.edu/entries/normativity-metaethics/#AntiRealConcNonCognExpr)
-    * [3.4.2 现实主义概念主义](https://plato.stanford.edu/entries/normativity-metaethics/#RealConc)
-  * [3.5 规范性客体主义](https://plato.stanford.edu/entries/normativity-metaethics/#NormObje)
-* [4. 试图解释规范性的本质](https://plato.stanford.edu/entries/normativity-metaethics/#AtteExplNatuNorm)
-
-  * [4.1 通过动机解释规范性](https://plato.stanford.edu/entries/normativity-metaethics/#ExplNormViaMoti)
-  * [4.2 通过基于欲望的理由解释规范性](https://plato.stanford.edu/entries/normativity-metaethics/#ExplNormViaDesiBaseReas)
-  * [4.3 通过实践身份解释规范性](https://plato.stanford.edu/entries/normativity-metaethics/#ExplNormViaPracIden)
-  * [4.4 通过代理或行动的基本特征解释规范性](https://plato.stanford.edu/entries/normativity-metaethics/#ExplNormViaEsseFeatAgenActi)
-  * [4.5 通过“自我立法”解释规范性](https://plato.stanford.edu/entries/normativity-metaethics/#ExplNormViaSelfLegi)
-  * [4.6 通过范畴要求解释规范性](https://plato.stanford.edu/entries/normativity-metaethics/#ExplNormViaCateRequ)
-  * [4.7 通过自然功能解释规范性](https://plato.stanford.edu/entries/normativity-metaethics/#ExplNormViaNatuFunc)
-  * [4.8 通过适合解决规范治理问题的实践解释规范性](https://plato.stanford.edu/entries/normativity-metaethics/#ExplNormViaPracWellSuitAddrProbNormGove)
-  * [ 4.9 结论](https://plato.stanford.edu/entries/normativity-metaethics/#Conc)
-* [5. 规范性是否依赖于心智？](https://plato.stanford.edu/entries/normativity-metaethics/#NormMindDepe)
-
-  * [5.1 什么是心智依赖？](https://plato.stanford.edu/entries/normativity-metaethics/#WhatMindDepe)
-  * [5.2 对于依赖于心灵的论证](https://plato.stanford.edu/entries/normativity-metaethics/#ArguForMindDepe)
-  * [5.3 对于独立于心灵的论证](https://plato.stanford.edu/entries/normativity-metaethics/#ArguForMindInde)
-* [ 参考文献](https://plato.stanford.edu/entries/normativity-metaethics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/normativity-metaethics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/normativity-metaethics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/normativity-metaethics/#Rel)
-
+ 
 ---
 
 ## 1. 元伦理学的目标

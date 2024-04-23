@@ -8,27 +8,7 @@
 
 多元文化主义是一个更广泛的政治运动的一部分，旨在更广泛地包容边缘化群体，包括非裔美国人、妇女、LGBTQ 人群和残疾人（Glazer 1997，Hollinger 1995，Taylor 1992）。这一更广泛的政治运动在 20 世纪 80 年代的“多元文化主义”辩论中得到了体现，该辩论探讨了是否以及如何多样化学校课程，以承认历史上被边缘化的群体的成就。但当代多元文化主义的更具体关注点是在种族、国籍和宗教方面主要被定义为少数群体的认可和包容。当代多元文化主义的主要关注对象是作为少数族裔和宗教少数群体的移民（例如美国的拉丁裔人群，西欧的穆斯林），少数民族（例如巴斯克人、加泰罗尼亚人、魁北克人、威尔士人）和土著民族（例如加拿大、美国、澳大利亚和新西兰的土著人民和土著群体）。
 
-* [1. 多元文化主义的主张](https://plato.stanford.edu/entries/multiculturalism/#ClaMul)
-* [2. 多元文化主义的理论基础](https://plato.stanford.edu/entries/multiculturalism/#JusForMul)
-
-  * [ 2.1 认可](https://plato.stanford.edu/entries/multiculturalism/#Com)
-  * [ 2.2 平等](https://plato.stanford.edu/entries/multiculturalism/#LibEga)
-  * [2.3 摆脱统治](https://plato.stanford.edu/entries/multiculturalism/#FreDom)
-  * [2.4 解决历史不公正](https://plato.stanford.edu/entries/multiculturalism/#Pos)
-* [3. 多元文化主义批判](https://plato.stanford.edu/entries/multiculturalism/#CriMul)
-
-  * [3.1 文化的世界主义观点](https://plato.stanford.edu/entries/multiculturalism/#CosVieCul)
-  * [3.2 宽容需要冷漠，而不是适应](https://plato.stanford.edu/entries/multiculturalism/#TolReqIndNotAcc)
-  * [3.3 偏离“再分配政治”](https://plato.stanford.edu/entries/multiculturalism/#DivPolRed)
-  * [3.4 平等的普世理想](https://plato.stanford.edu/entries/multiculturalism/#UniIdeEqu)
-  * [3.5 后殖民批评](https://plato.stanford.edu/entries/multiculturalism/#PosCri)
-  * [3.6 多元文化主义的女性主义批评](https://plato.stanford.edu/entries/multiculturalism/#FemCriMul)
-* [4. 从多元文化主义中的政治撤退？](https://plato.stanford.edu/entries/multiculturalism/#PolRetMul)
-* [ 参考文献](https://plato.stanford.edu/entries/multiculturalism/#Bib)
-* [ 相关条目](https://plato.stanford.edu/entries/multiculturalism/#Rel)
-* [ 学术工具](https://plato.stanford.edu/entries/multiculturalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/multiculturalism/#Oth)
-
+ 
 ---
 
 ## 1. 多元文化主义的主张

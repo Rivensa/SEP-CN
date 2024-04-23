@@ -4,41 +4,7 @@
 
 机器能思考吗？心灵本身能成为一台思考的机器吗？计算机革命改变了对这些问题的讨论，为模拟推理、决策、问题解决、感知、语言理解和其他心理过程提供了迄今为止最好的机会。计算机技术的进步使得心灵本身成为一个计算系统的可能性增加了，这一立场被称为计算理论心灵（CTM）。计算论者是指那些至少在某些重要心理过程上支持 CTM 的研究者。在 20 世纪 60 年代和 70 年代，CTM 在认知科学中起着核心作用。多年来，它一直享有正统地位。最近，它受到了各种竞争范式的压力。计算论者面临的一个关键任务是解释当人们说心灵“计算”时是什么意思。第二个任务是论证心灵在相关意义上“计算”。第三个任务是阐明计算描述与其他常见描述类型的关系，特别是神经生理学描述（引用有关生物体大脑或身体的神经生理学属性）和意向描述（引用心理状态的表征属性）。
 
-* [ 1. 图灵机](https://plato.stanford.edu/entries/computational-mind/#TurMac)
-* [2. 人工智能](https://plato.stanford.edu/entries/computational-mind/#ArtInt)
-* [3. 心灵的经典计算理论](https://plato.stanford.edu/entries/computational-mind/#ClaComTheMin)
-
-  * [3.1 机器功能主义](https://plato.stanford.edu/entries/computational-mind/#MacFun)
-  * [3.2 心灵的表征理论](https://plato.stanford.edu/entries/computational-mind/#RepTheMin)
-* [4. 神经网络](https://plato.stanford.edu/entries/computational-mind/#NeuNet)
-
-  * [4.1 神经网络与经典计算之间的关系](https://plato.stanford.edu/entries/computational-mind/#RelBetNeuNetClaCom)
-  * [4.2 连接主义的论证](https://plato.stanford.edu/entries/computational-mind/#ArgForCon)
-  * [4.3 系统性和生产力](https://plato.stanford.edu/entries/computational-mind/#SysPro)
-  * [4.4 计算神经科学](https://plato.stanford.edu/entries/computational-mind/#ComNeu)
-* [5. 计算与表征](https://plato.stanford.edu/entries/computational-mind/#ComRep)
-
-  * [5.1 计算作为形式](https://plato.stanford.edu/entries/computational-mind/#ComFor)
-  * [5.2 关于心灵内容的外在主义](https://plato.stanford.edu/entries/computational-mind/#ExtAboMenCon)
-  * [5.3 包含内容的计算](https://plato.stanford.edu/entries/computational-mind/#ConInvCom)
-* [6. 计算的替代观念](https://plato.stanford.edu/entries/computational-mind/#AltConCom)
-
-  * [6.1 信息处理](https://plato.stanford.edu/entries/computational-mind/#InfPro)
-  * [ 6.2 函数评估](https://plato.stanford.edu/entries/computational-mind/#FunEva)
-  * [ 6.3 结构主义](https://plato.stanford.edu/entries/computational-mind/#Str)
-  * [6.4 机械论理论](https://plato.stanford.edu/entries/computational-mind/#MecThe)
-  * [ 6.5 多元论](https://plato.stanford.edu/entries/computational-mind/#Plu)
-* [7. 反对计算理论的论点](https://plato.stanford.edu/entries/computational-mind/#ArgAgaCom)
-
-  * [7.1 平凡性论证](https://plato.stanford.edu/entries/computational-mind/#TriArg)
-  * [7.2 哥德尔的不完全性定理](https://plato.stanford.edu/entries/computational-mind/#GodIncThe)
-  * [7.3 计算建模的限制](https://plato.stanford.edu/entries/computational-mind/#LimComMod)
-  * [ 7.4 时间论证](https://plato.stanford.edu/entries/computational-mind/#TemArg)
-  * [ 7.5 具身认知](https://plato.stanford.edu/entries/computational-mind/#EmbCog)
-* [ 参考文献](https://plato.stanford.edu/entries/computational-mind/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/computational-mind/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/computational-mind/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/computational-mind/#Rel)
+ 
 
 ---
 

@@ -4,29 +4,7 @@
 
 奇迹（源自拉丁语 mirari，意为惊奇），在初步和非常粗略的近似下，是一种仅凭自然原因无法解释的事件。报告的奇迹引起惊奇，因为它似乎需要超出人类行动和自然原因范围的东西作为其原因。从历史上看，对奇迹的诉求形成了支持特定形式的有神论的主要论证线之一，通常的论证是，所讨论的事件最好（或仅能）被解释为特定神明的行为。
 
-* [1. 概念和定义](https://plato.stanford.edu/entries/miracles/#ConDef)
-
-  * [1.1 奇迹作为超出自然生产力的事件](https://plato.stanford.edu/entries/miracles/#MirEveExcProPowNat)
-  * [1.2 奇迹作为违反自然法则的现象](https://plato.stanford.edu/entries/miracles/#MirVioLawNat)
-  * [1.3 宗教背景的相关性](https://plato.stanford.edu/entries/miracles/#RelRelCon)
-* [2. 对奇迹主张的论证](https://plato.stanford.edu/entries/miracles/#ArgForMirCla)
-
-  * [2.1 分类和确认性论证](https://plato.stanford.edu/entries/miracles/#CatConArg)
-  * [2.2 四种类型的论证](https://plato.stanford.edu/entries/miracles/#FouTypArg)
-* [3. 反对奇迹主张的论证](https://plato.stanford.edu/entries/miracles/#ArgAgaMirCla)
-
-  * [ 3.1 一般论证](https://plato.stanford.edu/entries/miracles/#GenArg)
-  * [3.2 特殊论证](https://plato.stanford.edu/entries/miracles/#ParArg)
-  * [3.3 Hume 的《奇迹论》的影响](https://plato.stanford.edu/entries/miracles/#ImpHumMir)
-* [4. 奇迹的论证](https://plato.stanford.edu/entries/miracles/#ArgMir)
-
-  * [4.1 奇迹是否是上帝存在的证据？](https://plato.stanford.edu/entries/miracles/#WouMirEviForExiGod)
-  * [4.2 可信奇迹报告能够建立多少？](https://plato.stanford.edu/entries/miracles/#HowMucWouCreMirRepEst)
-* [ 参考文献](https://plato.stanford.edu/entries/miracles/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/miracles/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/miracles/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/miracles/#Rel)
-
+ 
 ---
 
 ## 1. 概念与定义

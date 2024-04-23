@@ -4,24 +4,7 @@
 
 亨利·莫尔（1614-1687），神学家和哲学家，通常被认为是一群广泛志同道合的思想家的代表，这些思想家被历史学家所发现，并被他们称为剑桥柏拉图主义者（Tulloch 1874，Cassirer 1953）。当然，莫尔的身心二元论神学深受新柏拉图主义思想的影响，但他在 1650 年代和 1660 年代发展起来的哲学神学几乎可以被认为是完全独特的，尽管在某些方面，它与他的朋友和同事拉尔夫·卡德沃思（1617-1688）的哲学和神学有着密切的相似之处，以及他的追随者乔治·拉斯特（约 1628-1670）和约瑟夫·格兰维尔（1636-1680）的著作中有一定程度的相似之处。莫尔是一位理性主义神学家，试图利用由勒内·笛卡尔、罗伯特·波义尔等人发展起来的机械哲学的细节来证明非物质实体或精神的存在，因此也证明了上帝的存在。特别是他以发展自然之灵的概念而闻名，这是上帝和世界之间的中介，据说需要解释那些机械哲学无法解释的物理现象，以及一个无限绝对空间的概念，这个概念也被用来代表非物质的现实，甚至共享上帝的一些属性。
 
-* [1. 早年生活和著作](https://plato.stanford.edu/entries/henry-more/#EarLifWri)
-* [2. 笛卡尔主义和自然神学](https://plato.stanford.edu/entries/henry-more/#CarNatThe)
-* [3. 自然的精神](https://plato.stanford.edu/entries/henry-more/#SpiNat)
-* [4. 剑桥的复兴和纬度学派](https://plato.stanford.edu/entries/henry-more/#ResCamLat)
-* [5. 绝对主义伦理学和必然论神学](https://plato.stanford.edu/entries/henry-more/#AbsEthNecThe)
-* [6. 亨利·莫尔的形而上学手册](https://plato.stanford.edu/entries/henry-more/#MorManMet)
-* [7. 卡巴拉主义和贵格会](https://plato.stanford.edu/entries/henry-more/#KabQua)
-* [8. 必然论神学和新威胁](https://plato.stanford.edu/entries/henry-more/#NecTheNewThr)
-* [9. 亨利·莫尔的声誉](https://plato.stanford.edu/entries/henry-more/#PosRep)
-* [ 参考书目](https://plato.stanford.edu/entries/henry-more/#Bib)
-
-  * [亨利·莫尔的重要著作](https://plato.stanford.edu/entries/henry-more/#MajWor)
-  * [ 其他主要来源](https://plato.stanford.edu/entries/henry-more/#OthPriSou)
-  * [ 二级来源](https://plato.stanford.edu/entries/henry-more/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/henry-more/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/henry-more/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/henry-more/#Rel)
-
+ 
 ---
 
 ## 1. 早年生活和著作

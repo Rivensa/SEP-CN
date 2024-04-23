@@ -3,42 +3,7 @@
 *首次发表于1997年11月18日；实质性修订于2021年12月8日。*
 
 如果你闭上眼睛并想象一个苹果，你所经历的是心理意象-视觉意象。但是心理意象在我们的心理生活中远比仅仅是想象更普遍。它发生在所有感官模式中，并且在知觉、记忆、情绪、语言、欲望和行动执行中起着至关重要的作用。它甚至在我们与艺术作品的互动中起着重要作用，这使得它不仅是心灵哲学中的一个关键概念，也是美学中的一个关键概念。
-
-* [1. 什么是心理意象？](https://plato.stanford.edu/entries/mental-imagery/#WhatMentImag)
-
-  * [1.1 经验科学中的心理意象](https://plato.stanford.edu/entries/mental-imagery/#MentImagEmpiScie)
-  * [1.2 心理意象 vs. 图像](https://plato.stanford.edu/entries/mental-imagery/#MentImagVsImages)
-  * [1.3 心理意象 vs. 想象力](https://plato.stanford.edu/entries/mental-imagery/#MentImagVsImagination)
-  * [1.4 心理意象的内容](https://plato.stanford.edu/entries/mental-imagery/#ContMentImag)
-  * [1.5 心理意象的格式](https://plato.stanford.edu/entries/mental-imagery/#FormMentImag)
-* [2. 感知中的心理意象](https://plato.stanford.edu/entries/mental-imagery/#MentImagPerc)
-
-  * [ 2.1 随附完成](https://plato.stanford.edu/entries/mental-imagery/#AmodComp)
-  * [2.2 多模态心理意象](https://plato.stanford.edu/entries/mental-imagery/#MultMentImag)
-  * [2.3 感知中的非常规心理意象形式](https://plato.stanford.edu/entries/mental-imagery/#UnusFormMentImagPerc)
-  * [2.4 疼痛心理意象](https://plato.stanford.edu/entries/mental-imagery/#PainMentImag)
-* [3. 心理意象在认知中的作用](https://plato.stanford.edu/entries/mental-imagery/#MentImagCogn)
-
-  * [3.1 心理意象与记忆](https://plato.stanford.edu/entries/mental-imagery/#MentImagMemo)
-  * [3.2 心理意象与情绪](https://plato.stanford.edu/entries/mental-imagery/#MentImagEmot)
-  * [3.3 心理意象和语言](https://plato.stanford.edu/entries/mental-imagery/#MentImagLang)
-  * [3.4 心理意象和知识](https://plato.stanford.edu/entries/mental-imagery/#MentImagKnow)
-* [4. 心理意象的行动](https://plato.stanford.edu/entries/mental-imagery/#MentImagActi)
-
-  * [4.1 心理意象 vs. 运动意象](https://plato.stanford.edu/entries/mental-imagery/#MentImagVsMotoImag)
-  * [4.2 实用心理意象](https://plato.stanford.edu/entries/mental-imagery/#PragMentImag)
-  * [4.3 心理意象和欲望](https://plato.stanford.edu/entries/mental-imagery/#MentImagDesi)
-  * [4.4 心理意象和偏见行为](https://plato.stanford.edu/entries/mental-imagery/#MentImagBiasBeha)
-* [5. 艺术中的心理意象](https://plato.stanford.edu/entries/mental-imagery/#MentImagArt)
-
-  * [5.1 视觉艺术中的心理意象](https://plato.stanford.edu/entries/mental-imagery/#MentImagVisuArts)
-  * [5.2 音乐中的心理意象](https://plato.stanford.edu/entries/mental-imagery/#MentImagMusi)
-  * [5.3 文学中的心理意象](https://plato.stanford.edu/entries/mental-imagery/#MentImagLite)
-  * [5.4 概念艺术中的心理意象](https://plato.stanford.edu/entries/mental-imagery/#MentImagConcArt)
-* [ 参考文献](https://plato.stanford.edu/entries/mental-imagery/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/mental-imagery/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mental-imagery/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mental-imagery/#Rel)
+ 
 
 ---
 

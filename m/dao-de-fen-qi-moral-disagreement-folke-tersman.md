@@ -8,32 +8,7 @@
 
 一些元伦理学家讨论的主题涉及道德的形而上学和本体论。其他主题涉及其认识论和语义学（以及元语义学）。道德分歧被认为与所有这些子领域相关，并且条目的组织方式符合它们之间的分歧。然而，下面的讨论旨在说明的一点是，这些主题是相关的，并且在一个子领域中提出的立场和论证可能也与另一个子领域中的立场和论证相关。
 
-* [1. 道德分歧的本质](https://plato.stanford.edu/entries/disagreement-moral/#NatuMoraDisa)
-
-  * [1.1 信念冲突还是意愿冲突？](https://plato.stanford.edu/entries/disagreement-moral/#ConfBeliClasConaAtti)
-  * [ 1.2 相对主义解释](https://plato.stanford.edu/entries/disagreement-moral/#RelaAcco)
-  * [1.3 激进道德分歧](https://plato.stanford.edu/entries/disagreement-moral/#RadiMoraDisa)
-* [2. 道德分歧的经验研究](https://plato.stanford.edu/entries/disagreement-moral/#EmpiReseMoraDisa)
-* [3. 道德分歧的形而上学论证](https://plato.stanford.edu/entries/disagreement-moral/#MetaArguMoraDisa)
-
-  * [3.1 相对论论证](https://plato.stanford.edu/entries/disagreement-moral/#ArguRela)
-  * [3.2 分歧与不可访问性](https://plato.stanford.edu/entries/disagreement-moral/#DisaInac)
-* [4. 从道德分歧中得出的认识论论证](https://plato.stanford.edu/entries/disagreement-moral/#EpisArguMoraDisa)
-
-  * [4.1 道德同行分歧](https://plato.stanford.edu/entries/disagreement-moral/#MoraPeerDisa)
-  * [4.2 分歧与安全](https://plato.stanford.edu/entries/disagreement-moral/#DisaSafe)
-  * [4.3 仅仅可能的分歧](https://plato.stanford.edu/entries/disagreement-moral/#MerePossDisa)
-* [5. 道德分歧和道德语言的语义学（以及元语义学）](https://plato.stanford.edu/entries/disagreement-moral/#MoraDisaSemaMetaMoraLang)
-
-  * [5.1 分歧和慈善](https://plato.stanford.edu/entries/disagreement-moral/#DisaChar)
-  * [5.2 新浪潮道德现实主义](https://plato.stanford.edu/entries/disagreement-moral/#NewWaveMoraReal)
-  * [5.3 进一步发展和回应](https://plato.stanford.edu/entries/disagreement-moral/#FurtDeveResp)
-* [6. 过度概括和自我击败的担忧](https://plato.stanford.edu/entries/disagreement-moral/#OverGeneSelfDefeWorr)
-* [ 参考文献](https://plato.stanford.edu/entries/disagreement-moral/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/disagreement-moral/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/disagreement-moral/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/disagreement-moral/#Rel)
-
+ 
 ---
 
 ## 1. 道德分歧的本质

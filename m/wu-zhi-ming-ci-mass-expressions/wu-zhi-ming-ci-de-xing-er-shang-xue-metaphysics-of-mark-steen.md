@@ -12,29 +12,7 @@
 
 在第 1 节中，我们将探讨物质和事物之间的形而上学区别，并研究用于进行物质名词/可数名词区分的语言数据，并展示它如何被用来推动形而上学区别。在第 2 节和第 3 节中，我们将概述对我们的主要目标问题“名词性物质名词指的是什么？”的不同回答。最后，在检查语言数据和形而上学理论之后，在第 4 节中，我们将检查语言的物质/事物区别是否受到语言物质/可数区别的良好推动，并且后者是否能够完成形而上学家赋予它的任务。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/metaphysics-massexpress/#Intr)
-
-  * [ 1.1 ‘物质名词理论’](https://plato.stanford.edu/entries/metaphysics-massexpress/#ThinTheo)
-  * [1.2 物质名词、事物、基础性和简化](https://plato.stanford.edu/entries/metaphysics-massexpress/#StufThinFundRedu)
-  * [1.3 物质名词和可数名词；物质名词和可数表达式](https://plato.stanford.edu/entries/metaphysics-massexpress/#MassCounNounMassCounExpr)
-  * [ 1.4 一些术语](https://plato.stanford.edu/entries/metaphysics-massexpress/#SomeTerm)
-* [2. 物质作为一种特殊的事物或事物的一种](https://plato.stanford.edu/entries/metaphysics-massexpress/#StufSpecKindThinThin)
-
-  * [2.1 具体的物质名词指的是整体论之和](https://plato.stanford.edu/entries/metaphysics-massexpress/#ConcMassExprRefeMereSums)
-  * [2.2 具体的物质名词指的是集合](https://plato.stanford.edu/entries/metaphysics-massexpress/#ConcMassExprRefeSets)
-  * [2.3 具体的物质名词指的是许多事物，而不是一个事物：复数和复数指代](https://plato.stanford.edu/entries/metaphysics-massexpress/#ConcMassExprRefeManyThinNotOneThinPlurPlurRefe)
-* [3. 物质名词与事物的区别](https://plato.stanford.edu/entries/metaphysics-massexpress/#StufDistThin)
-
-  * [ 3.1 严肃的众多性](https://plato.stanford.edu/entries/metaphysics-massexpress/#SeriPlur)
-  * [ 3.2 世界物质名词](https://plato.stanford.edu/entries/metaphysics-massexpress/#WorlStuf)
-* [4. 物质和事物以及语言引导形而上学的限制](https://plato.stanford.edu/entries/metaphysics-massexpress/#StufThinLimiLingGuidMeta)
-
-  * [4.1 物质名词/数量互换、任意性和非普遍性](https://plato.stanford.edu/entries/metaphysics-massexpress/#MassInteArbiNonUniv)
-  * [4.2 从任意性到物质名词/数量怀疑？](https://plato.stanford.edu/entries/metaphysics-massexpress/#ArbiMassSkep)
-* [ 参考文献](https://plato.stanford.edu/entries/metaphysics-massexpress/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/metaphysics-massexpress/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/metaphysics-massexpress/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/metaphysics-massexpress/#Rel)
+ 
 
 ---
 

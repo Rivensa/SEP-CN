@@ -8,18 +8,7 @@
 
 在回答上述问题时，哲学家们对道德动机产生了截然不同的观点，有时认为这些观点对伦理学的基础问题有重要的影响。更准确地说，对道德动机的不同观点涉及对特定命题的承诺，这些命题被认为与道德语义学和道德本质的问题有关。也许最有名的是，某些命题被共同用于支持元伦理学中的怀疑论或反实在主义观点。本文概述了哲学家们在努力理解和解释道德动机现象方面所采取的主要立场。它还简要解释了关于道德动机的关键命题如何影响和构建关于道德语义学和道德本质的辩论。
 
-* [1. 道德动机的基本现象](https://plato.stanford.edu/entries/moral-motivation/#BasPheMorMot)
-* [2. 道德动机与道德属性的本质](https://plato.stanford.edu/entries/moral-motivation/#MorMotNatMorPro)
-* [3. 道德判断和动机](https://plato.stanford.edu/entries/moral-motivation/#MorJudMot)
-
-  * [3.1 休谟主义与反休谟主义](https://plato.stanford.edu/entries/moral-motivation/#HumVAntHum)
-  * [3.2 内在主义与外在主义](https://plato.stanford.edu/entries/moral-motivation/#IntVExt)
-* [4. 道德动机和元伦理学](https://plato.stanford.edu/entries/moral-motivation/#MorMotMet)
-* [5. 道德动机和实验心理学](https://plato.stanford.edu/entries/moral-motivation/#MorMotExpPsy)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-motivation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-motivation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-motivation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-motivation/#Rel)
+ 
 
 ---
 

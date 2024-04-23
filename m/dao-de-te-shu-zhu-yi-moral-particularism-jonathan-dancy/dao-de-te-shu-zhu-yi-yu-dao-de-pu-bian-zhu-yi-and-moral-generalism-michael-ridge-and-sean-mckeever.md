@@ -10,16 +10,7 @@
 
 近年来，这些辩论已与非西方传统相对立。例如，人们讨论了道教中一些核心作品是否假定了特殊主义（Fraser 2022）。人们还讨论了这些辩论如何与实用主义传统相互作用（Jackson 2017）。
 
-* [1. 历史介绍](https://plato.stanford.edu/entries/moral-particularism-generalism/#HistIntr)
-* [2. “特殊主义”和“普遍主义”有多种说法](https://plato.stanford.edu/entries/moral-particularism-generalism/#PartGeneSaidManyWays)
-* [3. 形而上学论证](https://plato.stanford.edu/entries/moral-particularism-generalism/#MetaArgu)
-* [4. 认识论论证](https://plato.stanford.edu/entries/moral-particularism-generalism/#EpisArgu)
-* [5. 语义/概念论证](https://plato.stanford.edu/entries/moral-particularism-generalism/#SemaArgu)
-* [ 6. 实践论证](https://plato.stanford.edu/entries/moral-particularism-generalism/#PracArgu)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-particularism-generalism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-particularism-generalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-particularism-generalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-particularism-generalism/#Rel)
+ 
 
 ---
 

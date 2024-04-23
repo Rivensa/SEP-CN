@@ -4,19 +4,7 @@
 
 形式主义在数学哲学中的一个常见理解是认为数学不是代表现实抽象部分的命题体系，而更类似于一种游戏，与其没有更多的对于对象或属性的本体论承诺，就像玩 ludo 或国际象棋一样。这个想法在直观上是有一定合理性的：考虑那些辛勤学习乘法表或使用标准算法进行函数微分或积分的学生。它也对应于某些时期高级数学家的实践的一些方面，例如在 Bombelli 引入虚数后的一段时间内对虚数的处理，以及一些当代数学家对集合论的高级理论的态度。最后，当被问及数学的本质时，哲学上天真的回答者往往会指向这个立场。因此，鉴于这一观察结果，许多数学哲学家认为“游戏形式主义”是不可行的。本文关注游戏形式主义及其近亲，以及后来的许多发展，其中许多试图克服较粗糙形式的被认知限制。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/formalism-mathematics/#Int)
-* [2. 游戏和术语形式主义](https://plato.stanford.edu/entries/formalism-mathematics/#GamTerFor)
-* [ 3. 形式主义的特拉克特洛斯](https://plato.stanford.edu/entries/formalism-mathematics/#TraFor)
-* [4. 形式主义与实证主义者](https://plato.stanford.edu/entries/formalism-mathematics/#ForPos)
-* [ 5. 名义主义的形式主义](https://plato.stanford.edu/entries/formalism-mathematics/#NomFor)
-* [6. 形式主义术语：Curry](https://plato.stanford.edu/entries/formalism-mathematics/#TerForCur)
-* [7. Curry-Howard 对应关系](https://plato.stanford.edu/entries/formalism-mathematics/#CurHowCor)
-* [8. 当代形式主义](https://plato.stanford.edu/entries/formalism-mathematics/#ConFor)
-* [ 参考文献](https://plato.stanford.edu/entries/formalism-mathematics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/formalism-mathematics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/formalism-mathematics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/formalism-mathematics/#Rel)
-
+ 
 ---
 
 ## 1. 引言

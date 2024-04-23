@@ -5,29 +5,7 @@
 
 在本文中，我们介绍基于 BHK 解释的现代构造性数学，涉及逻辑连接词和量词。我们讨论了四种主要的构造性数学变体，特别强调了与 Errett Bishop 和 Per Martin-Löf 相关的两种变体，它们可以被视为最小的构造性系统。然后，我们概述了（非正式的）构造性逆向数学的进展，这是一个研究计划，旨在确定原则，例如 Brouwer 的扇形定理，将其添加到最小的构造性变体中，以便证明重要的分析定理。在简要讨论构造性代数、经济学和金融学之后，条目以两个附录结束：一个是关于某些在古典、直觉主义和递归数学中成立的逻辑原理，将其添加到 Bishop 的构造性数学中，有助于证明某些有用的分析定理；另一个是讨论构造性发展普通拓扑学的方法。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/mathematics-constructive/#Intr)
-* [2. 构造性逻辑的解释](https://plato.stanford.edu/entries/mathematics-constructive/#ConsInteLogi)
-* [3. 构造性数学的种类](https://plato.stanford.edu/entries/mathematics-constructive/#VariConsMath)
-
-  * [3.1 直觉主义数学](https://plato.stanford.edu/entries/mathematics-constructive/#IntuMath)
-  * [3.2 构造性数学的递归](https://plato.stanford.edu/entries/mathematics-constructive/#RecuConsMath)
-  * [3.3 比舍普的构造性数学](https://plato.stanford.edu/entries/mathematics-constructive/#BishConsMath)
-  * [3.4 马丁-勒夫的构造性类型理论](https://plato.stanford.edu/entries/mathematics-constructive/#MartLofsConsTypeTheo)
-* [4. 选择公理](https://plato.stanford.edu/entries/mathematics-constructive/#AxioChoi)
-* [5. 构造性逆向数学](https://plato.stanford.edu/entries/mathematics-constructive/#ConsReveMath)
-
-  * [5.1 构造性逆向数学中的 Fan 定理](https://plato.stanford.edu/entries/mathematics-constructive/#FanTheoCRM)
-* [6. 构造性拓扑](https://plato.stanford.edu/entries/mathematics-constructive/#ConsTopo)
-* [7. 构造性数学经济学和金融学](https://plato.stanford.edu/entries/mathematics-constructive/#ConsMathEconFina)
-* [ 8. 结论说明](https://plato.stanford.edu/entries/mathematics-constructive/#ConcRema)
-* [ 参考书目](https://plato.stanford.edu/entries/mathematics-constructive/#Bib)
-
-  * [ 参考文献](https://plato.stanford.edu/entries/mathematics-constructive/#Refe)
-  * [ 相关文献](https://plato.stanford.edu/entries/mathematics-constructive/#RelaLite)
-* [ 学术工具](https://plato.stanford.edu/entries/mathematics-constructive/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mathematics-constructive/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mathematics-constructive/#Rel)
-
+ 
 ---
 
 ## 1. 引言

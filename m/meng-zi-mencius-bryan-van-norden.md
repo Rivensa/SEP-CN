@@ -4,18 +4,7 @@
 
 孟子（公元前四世纪）是一位儒家哲学家。常被称为儒家思想的“第二圣人”（意味着仅次于孔子本人的重要性），孟子以他的“人性本善”的观点而闻名。他在最近的西方哲学中引起了兴趣，因为他对美德、道德修养和人性的看法与熟悉的休谟和亚里士多德的表述有着有趣的相似之处，但也存在引人深思的差异。
 
-* [1. 生平和儒家背景](https://plato.stanford.edu/entries/mencius/#LifeConfBack)
-* [2. 美德及其培养](https://plato.stanford.edu/entries/mencius/#VirtTheiCult)
-* [3. 人性的善良](https://plato.stanford.edu/entries/mencius/#GoodHumaNatu)
-* [4. 孟子与他的哲学对手](https://plato.stanford.edu/entries/mencius/#MencHisPhilOppo)
-* [5. 后来的影响和解释](https://plato.stanford.edu/entries/mencius/#LateInflInte)
-* [ 参考文献](https://plato.stanford.edu/entries/mencius/#Bib)
-
-  * [孟子的著作和相关著作](https://plato.stanford.edu/entries/mencius/#WorkAbouMenc)
-  * [ 其他引用的作品](https://plato.stanford.edu/entries/mencius/#OtheWorkCite)
-* [ 学术工具](https://plato.stanford.edu/entries/mencius/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mencius/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mencius/#Rel)
+ 
 
 ---
 

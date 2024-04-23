@@ -8,29 +8,7 @@
 
 一些非功利主义哲学家允许道德地位可能存在程度差异，并引入了最高程度地位的概念：完全道德地位（FMS）。在回顾被认为具有道德地位的实体以及拥有 FMS 所涉及的内容与拥有较低程度道德地位的区别之后，本文将调查不同观点对道德地位的依据，特别关注 FMS，以及将这些作为道德地位依据的理论解释。
 
-* [1. 哪些实体的道德地位问题会出现？](https://plato.stanford.edu/entries/grounds-moral-status/#ForWhicEntiDoesQuesMoraStatAris)
-* [2. 什么是完全道德地位（FMS）？](https://plato.stanford.edu/entries/grounds-moral-status/#WhatFullMoraStatFMS)
-
-  * [2.1 对干涉的严格推定](https://plato.stanford.edu/entries/grounds-moral-status/#StriPresAgaiInte)
-  * [2.2 有力的援助理由](https://plato.stanford.edu/entries/grounds-moral-status/#StroReasAid)
-  * [2.3 公平对待的有力理由](https://plato.stanford.edu/entries/grounds-moral-status/#StroReasTreaFair)
-  * [2.4 区分道德地位的构成原因与其他原因](https://plato.stanford.edu/entries/grounds-moral-status/#DistReasConsMoraStatOtheReas)
-* [3. 道德地位的程度](https://plato.stanford.edu/entries/grounds-moral-status/#DegrMoraStat)
-* [4. 道德地位的标量与阈值概念](https://plato.stanford.edu/entries/grounds-moral-status/#ScalVersThreConcMoraStat)
-* [5. 道德地位的依据](https://plato.stanford.edu/entries/grounds-moral-status/#GrouMoraStat)
-
-  * [5.1 高级认知能力](https://plato.stanford.edu/entries/grounds-moral-status/#SophCognCapa)
-  * [5.2 发展高级认知能力的能力](https://plato.stanford.edu/entries/grounds-moral-status/#CapaDeveSophCognCapa)
-  * [5.3 基本认知能力](https://plato.stanford.edu/entries/grounds-moral-status/#RudiCognCapa)
-  * [5.4 认知复杂物种的成员](https://plato.stanford.edu/entries/grounds-moral-status/#MembCognSophSpec)
-  * [5.5 特殊关系](https://plato.stanford.edu/entries/grounds-moral-status/#SpecRela)
-  * [5.6 未完全实现的复杂认知能力](https://plato.stanford.edu/entries/grounds-moral-status/#IncoRealSophCognCapa)
-  * [ 5.7 其他依据](https://plato.stanford.edu/entries/grounds-moral-status/#OtheGrou)
-* [6. 道德地位的解释](https://plato.stanford.edu/entries/grounds-moral-status/#JustGrouMoraStat)
-* [ 参考文献](https://plato.stanford.edu/entries/grounds-moral-status/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/grounds-moral-status/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/grounds-moral-status/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/grounds-moral-status/#Rel)
+ 
 
 ---
 

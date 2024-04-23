@@ -4,19 +4,7 @@ _首次发表于2022年6月27日星期一_
 
 关于道德理论的确切构成有很多争议。其中一些争议集中在将道德与其他实践规范性领域（如伦理和美学）区分开来的问题上。另一些争议集中在道德理论的目标和功能上。在本条目中，这两个问题都将得到解释。然而，本条目是关于道德理论作为理论的，而不是关于具体理论的调查，尽管会使用具体理论作为例子。
 
-* [1. 道德](https://plato.stanford.edu/entries/moral-theory/#Mora)
-  * [1.1 常识道德](https://plato.stanford.edu/entries/moral-theory/#CommSensMora)
-  * [1.2 道德与其他规范领域的对比](https://plato.stanford.edu/entries/moral-theory/#ContBetwMoraOtheNormDoma)
-* [2. 理论和理论美德](https://plato.stanford.edu/entries/moral-theory/#TheoTheoVirt)
-  * [2.1 道德理论的任务](https://plato.stanford.edu/entries/moral-theory/#TaskMoraTheo)
-  * [2.2 理论构建](https://plato.stanford.edu/entries/moral-theory/#TheoCons)
-* [3. 标准](https://plato.stanford.edu/entries/moral-theory/#Crit)
-* [4. 决策程序和实践思考](https://plato.stanford.edu/entries/moral-theory/#DeciProcPracDeli)
-* [参考文献](https://plato.stanford.edu/entries/moral-theory/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/moral-theory/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-theory/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/moral-theory/#Rel)
-
+ 
 ***
 
 ## 1. 道德

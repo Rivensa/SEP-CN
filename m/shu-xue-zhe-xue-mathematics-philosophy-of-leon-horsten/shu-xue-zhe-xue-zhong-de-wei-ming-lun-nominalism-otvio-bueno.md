@@ -4,27 +4,7 @@ _首次发表于2013年9月16日星期一_
 
 关于数学的唯名论（或数学唯名论）是一种观点，根据这种观点，数学对象、关系和结构要么根本不存在，要么它们不作为抽象对象存在（它们既不位于时空中，也没有因果能力）。在后一种情况下，会提供一些适当的具体替代物来代表数学对象。广义上讲，数学唯名论有两种形式：一些观点要求重新阐述数学（或科学）理论，以避免对数学对象的承诺（例如，Field 1980；Hellman 1989），而另一些观点则不重新阐述数学或科学理论，而是提供了一种解释，说明在使用这些理论时不涉及对数学对象的承诺（例如，Azzouni 2004）。这两种唯名论形式都受到了审视，并根据它们如何解决数学哲学中的五个核心问题进行了评估（即与数学的认识论、本体论和应用以及统一语义的问题以及数学和科学理论需要被字面理解的条件）。
 
-* [1. 关于数学的两种观点：唯名论和形而上学](https://plato.stanford.edu/entries/nominalism-mathematics/#TwoVieAboMatNomPla)
-* [2. 五个问题](https://plato.stanford.edu/entries/nominalism-mathematics/#FivPro)
-  * [2.1 数学的认识论问题](https://plato.stanford.edu/entries/nominalism-mathematics/#EpiProMat)
-  * [2.2 数学应用的问题](https://plato.stanford.edu/entries/nominalism-mathematics/#ProAppMat)
-  * [2.3 统一语义的问题](https://plato.stanford.edu/entries/nominalism-mathematics/#ProUniSem)
-  * [2.4 将数学话语字面上理解的问题](https://plato.stanford.edu/entries/nominalism-mathematics/#ProTakMatDisLit)
-  * [2.5 存在论问题](https://plato.stanford.edu/entries/nominalism-mathematics/#OntPro)
-* [3. 数学虚构主义](https://plato.stanford.edu/entries/nominalism-mathematics/#MatFic)
-  * [3.1 数学虚构主义的核心特征](https://plato.stanford.edu/entries/nominalism-mathematics/#CenFeaMatFic)
-  * [3.2 元逻辑与保守性的表述](https://plato.stanford.edu/entries/nominalism-mathematics/#MetForCon)
-  * [3.3 评估：数学虚构主义的益处和问题](https://plato.stanford.edu/entries/nominalism-mathematics/#AssBenProMatFic)
-* [4. 模态结构主义](https://plato.stanford.edu/entries/nominalism-mathematics/#ModStr)
-  * [4.1 模态结构主义的核心特征](https://plato.stanford.edu/entries/nominalism-mathematics/#CenFeaModStr)
-  * [4.2 评估：模态结构主义的益处和问题](https://plato.stanford.edu/entries/nominalism-mathematics/#AssBenProModStr)
-* [5. 唯名论](https://plato.stanford.edu/entries/nominalism-mathematics/#DefNom)
-  * [5.1 唯名论的核心特征](https://plato.stanford.edu/entries/nominalism-mathematics/#CenFeaDefNom)
-  * [5.2 评估：唯名论的好处和一个问题](https://plato.stanford.edu/entries/nominalism-mathematics/#AssBenDefNomPro)
-* [参考文献](https://plato.stanford.edu/entries/nominalism-mathematics/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/nominalism-mathematics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/nominalism-mathematics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/nominalism-mathematics/#Rel)
+ 
 
 ***
 

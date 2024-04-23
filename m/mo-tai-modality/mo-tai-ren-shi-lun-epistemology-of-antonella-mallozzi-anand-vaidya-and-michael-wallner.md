@@ -37,28 +37,7 @@
 导航问题假设我们已经具有一些模态知识，然后研究我们如何从一种模态转移到另一种模态，例如从概念模态到形而上学模态。换句话说，它询问我们如何知道某个命题 p 是形而上学上必然的，假设我们已经知道 p 在概念上是必然的。虽然导航问题关注的是我们如何在已经具有一种模态知识的情况下获得另一种模态知识，访问问题则针对我们如何首先获得模态知识的问题。
 
 本条目通过特别关注模态知识理论如何回答访问问题和导航问题，对该领域的当前状况进行了概述。（其他综述参见：Gendler＆Hawthorne 2002；McLeod 2005；Evnine 2008；Strohminger 和 Yli-Vakkuri 2017；Mallozzi 2021c。）对于我们讨论的每个理论，我们提出了一些关键问题。这些问题具有双重目的。它们总结了理论的核心观点并提出了对它们的关注。
-
-* [1. 模态的种类和模态认识论的目标](https://plato.stanford.edu/entries/modality-epistemology/#VariModaTargEpisModa)
-* [2. 模态认识论中的分类方案](https://plato.stanford.edu/entries/modality-epistemology/#ClasScheEpisModa)
-
-  * [2.1 心理能力和推理方法](https://plato.stanford.edu/entries/modality-epistemology/#MentCapaInfeMeth)
-  * [2.2 模态首位与可能性首位](https://plato.stanford.edu/entries/modality-epistemology/#NeceFirsVsPossFirs)
-  * [2.3 模态理性主义与模态经验主义](https://plato.stanford.edu/entries/modality-epistemology/#ModaRatiVsModaEmpi)
-* [3. 怀疑主义与可知性](https://plato.stanford.edu/entries/modality-epistemology/#SkepKnow)
-* [4. 可想象性、想象力、直觉和理解](https://plato.stanford.edu/entries/modality-epistemology/#ConcImagIntuUnde)
-
-  * [ 4.1. 可想象性](https://plato.stanford.edu/entries/modality-epistemology/#Conc)
-  * [4.2. 反事实想象](https://plato.stanford.edu/entries/modality-epistemology/#CounImag)
-  * [4.3 直觉与理解](https://plato.stanford.edu/entries/modality-epistemology/#IntuUnde)
-* [5. 本质主义的种类](https://plato.stanford.edu/entries/modality-epistemology/#VariEsse)
-* [ 6. 知觉](https://plato.stanford.edu/entries/modality-epistemology/#Perc)
-* [7. 归纳和演绎](https://plato.stanford.edu/entries/modality-epistemology/#InduAbdu)
-* [8. 模态主义和规范主义](https://plato.stanford.edu/entries/modality-epistemology/#ModaNorm)
-* [ 参考文献](https://plato.stanford.edu/entries/modality-epistemology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/modality-epistemology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/modality-epistemology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/modality-epistemology/#Rel)
-
+ 
 ---
 
 ## 1. 模态的种类和模态认识论的目标

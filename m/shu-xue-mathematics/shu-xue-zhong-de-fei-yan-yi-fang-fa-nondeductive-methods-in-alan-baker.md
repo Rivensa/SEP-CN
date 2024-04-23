@@ -4,29 +4,7 @@ _首次发表于2009年8月17日；实质修订于2020年4月21日_
 
 就目前而言，在数学中没有一个单一、明确定义的哲学子领域专门研究非演绎方法。在这里使用的术语包括一系列不同的哲学立场、方法和研究计划，它们的共同动机是认为（i）数学方法论中存在非演绎的方面，以及（ii）识别和分析这些方面具有哲学上的价值。
 
-* [1. 引言](https://plato.stanford.edu/entries/mathematics-nondeductive/#Int)
-  * [1.1 发现与证明的对比](https://plato.stanford.edu/entries/mathematics-nondeductive/#DisVerJus)
-  * [1.2 非演绎方法与形式化](https://plato.stanford.edu/entries/mathematics-nondeductive/#DedFor)
-  * [1.3 非演绎方法与基础](https://plato.stanford.edu/entries/mathematics-nondeductive/#DedFou)
-* [2. 非演绎方法的非演绎方面](https://plato.stanford.edu/entries/mathematics-nondeductive/#NonDedAspDedMet)
-  * [2.1 非正式性的方面](https://plato.stanford.edu/entries/mathematics-nondeductive/#AspInf)
-    * [2.1.1 半正式证明](https://plato.stanford.edu/entries/mathematics-nondeductive/#SemForPro)
-    * [2.1.2 证明中的间隙](https://plato.stanford.edu/entries/mathematics-nondeductive/#GapPro)
-    * [2.1.3 图表](https://plato.stanford.edu/entries/mathematics-nondeductive/#Dia)
-  * [2.2 证明演绎](https://plato.stanford.edu/entries/mathematics-nondeductive/#JusDed)
-    * [2.2.1 规则的证明](https://plato.stanford.edu/entries/mathematics-nondeductive/#JusRul)
-    * [2.2.2 公理的地位](https://plato.stanford.edu/entries/mathematics-nondeductive/#StaAxi)
-  * [2.3 哥德尔的结果](https://plato.stanford.edu/entries/mathematics-nondeductive/#GodRes)
-* [3. 非演绎方法的替代方法](https://plato.stanford.edu/entries/mathematics-nondeductive/#AltNonDedMet)
-  * [3.1 实验数学](https://plato.stanford.edu/entries/mathematics-nondeductive/#ExpMat)
-  * [3.2 枚举归纳](https://plato.stanford.edu/entries/mathematics-nondeductive/#EnuInd)
-  * [3.3 计算机证明](https://plato.stanford.edu/entries/mathematics-nondeductive/#ComPro)
-  * [3.4 概率证明](https://plato.stanford.edu/entries/mathematics-nondeductive/#ProPro)
-* [4. 总结/结论](https://plato.stanford.edu/entries/mathematics-nondeductive/#SumCon)
-* [参考文献](https://plato.stanford.edu/entries/mathematics-nondeductive/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/mathematics-nondeductive/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mathematics-nondeductive/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/mathematics-nondeductive/#Rel)
+ 
 
 ***
 

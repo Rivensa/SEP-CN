@@ -4,34 +4,7 @@
 
 “分体论”这个术语有时用来指代描述部分与整体关系的任何形式语言。在本文中，我将更广泛地使用这个术语，指代对部分、整体以及它们之间的关系（逻辑或形而上学的）进行的任何理论研究（无论是正式的还是非正式的）。接下来，我将概述中世纪拉丁西方哲学家对部分和整体的思考方式。（虽然关于中世纪阿拉伯、希伯来或拜占庭分体论的现代学术研究非常少（尽管现在请参阅 Thom 2019），但本文中概述的许多拉丁观念和区别在这些传统中肯定有对应物。）本文将强调许多关键的中世纪分体论概念和原则，并概述中世纪分体论学者面临的一些基本问题。为了说明这些概念、原则和难题，将使用具体的哲学家及其学说。对于现代的部分与整体学生来说，这些概念和原则中的许多可能看起来很奇怪，但在这种陌生的外表背后，我们会发现中世纪的分体论学者与我们在关于整体、它们的部分以及分体论的形而上学含义方面有许多共同之处。
 
-* [1. 中世纪分体论的论坛](https://plato.stanford.edu/entries/mereology-medieval/#ForuForMediMere)
-
-  * [ 1.1 分割](https://plato.stanford.edu/entries/mereology-medieval/#Divi)
-  * [ 1.2 主题](https://plato.stanford.edu/entries/mereology-medieval/#Topi)
-* [ 2. 分体论](https://plato.stanford.edu/entries/mereology-medieval/#Whol)
-
-  * [ 2.1 整体分体论](https://plato.stanford.edu/entries/mereology-medieval/#InteWhol)
-  * [ 2.2 通用整体](https://plato.stanford.edu/entries/mereology-medieval/#UnivWhol)
-  * [ 2.3 潜在整体](https://plato.stanford.edu/entries/mereology-medieval/#PoteWhol)
-* [ 3. 分体论](https://plato.stanford.edu/entries/mereology-medieval/#Part)
-
-  * [3.1 分体论的整体部分](https://plato.stanford.edu/entries/mereology-medieval/#PartInteWhol)
-  * [3.2 分体论的种类和普遍整体的部分](https://plato.stanford.edu/entries/mereology-medieval/#PartGeneUnivWhol)
-  * [3.3 就其部分而言，将普遍性与整体区分开来的随附/监督](https://plato.stanford.edu/entries/mereology-medieval/#DistUnivInteWholRespTheiPart)
-  * [3.4 潜在整体的部分](https://plato.stanford.edu/entries/mereology-medieval/#PartPoteWhol)
-* [4. 分体论和形而上学](https://plato.stanford.edu/entries/mereology-medieval/#MereMeta)
-
-  * [ 4.1 身份](https://plato.stanford.edu/entries/mereology-medieval/#Iden)
-  * [ 4.2 持久性](https://plato.stanford.edu/entries/mereology-medieval/#Pers)
-* [ 5. 结论](https://plato.stanford.edu/entries/mereology-medieval/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/mereology-medieval/#Bib)
-
-  * [引用的古代和中世纪文本](https://plato.stanford.edu/entries/mereology-medieval/#AnciMediTextCite)
-  * [选择次要来源](https://plato.stanford.edu/entries/mereology-medieval/#SeleSecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/mereology-medieval/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mereology-medieval/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mereology-medieval/#Rel)
-
+ 
 ---
 
 ## 1. 中世纪分体论论坛

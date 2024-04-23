@@ -7,17 +7,7 @@
 中世纪哲学对意向性和表征的兴趣之一是因为人们广泛认识到，弗朗茨·布伦塔诺（Franz Brentano）在引入意向性作为“心理的标志”时，是在复兴一种学院派的概念（Brentano 1874）。但布伦塔诺从未使用表征的术语来解释意向性。这是在维特根斯坦后期的心灵哲学中才做到的。在中世纪后期的哲学中，用表征性质来解释思想的内容是标准做法。
 
 中世纪哲学中有各种关于心理表征的理论，从 12 世纪一直到笛卡尔时代都进行了激烈的讨论。本文将简要追溯这一术语的历史，并概述 13 世纪和 14 世纪期间发展起来的主要理论。
-
-* [1. 古代背景和概念的形成](https://plato.stanford.edu/entries/representation-medieval/#AnciBackFormConc)
-* [2. 托马斯·阿奎那和形式相同性](https://plato.stanford.edu/entries/representation-medieval/#ThomAquiFormSame)
-* [3. 彼得·奥利维和对形式相同性的拒绝](https://plato.stanford.edu/entries/representation-medieval/#PeteOlivRejeFormSame)
-* [4. 亨利·甘特和约翰·邓斯·斯科特斯对心理表征的看法](https://plato.stanford.edu/entries/representation-medieval/#HenrGhenJohnDunsScotMentCont)
-* [6. 威廉·奥卡姆和心理语言](https://plato.stanford.edu/entries/representation-medieval/#WillOckhMentLang)
-* [5. 约翰·布里丹和模糊概念](https://plato.stanford.edu/entries/representation-medieval/#JohnBuriVaguConc)
-* [ 参考文献](https://plato.stanford.edu/entries/representation-medieval/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/representation-medieval/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/representation-medieval/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/representation-medieval/#Rel)
+ 
 
 ---
 

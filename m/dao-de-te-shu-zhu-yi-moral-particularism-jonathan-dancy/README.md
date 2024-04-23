@@ -7,19 +7,7 @@
 特殊主义的对手是普遍主义者。伦理普遍主义是一种观点，即道德思维和判断的合理性取决于适当提供道德原则。
 
 本条目提供了一个高层次的介绍。有关更详细的介绍，请参阅道德特殊主义和道德普遍主义之间的辩论条目。
-
-* [1. 道德原则的两种观念](https://plato.stanford.edu/entries/moral-particularism/#TwoConMorPri)
-* [2. 特殊主义者不相信的内容](https://plato.stanford.edu/entries/moral-particularism/#WhaParDoeNotBel)
-* [3. 特殊主义者相信的内容](https://plato.stanford.edu/entries/moral-particularism/#WhaParBel)
-* [4. 绝对原则的问题](https://plato.stanford.edu/entries/moral-particularism/#ProForAbsPri)
-* [5. 贡献原则的问题](https://plato.stanford.edu/entries/moral-particularism/#ProForConPri)
-* [6. 一般主义者的回答](https://plato.stanford.edu/entries/moral-particularism/#GenRep)
-* [7. 特殊主义和普遍主义在实践中是否有区别，还是只有在理论上有区别？](https://plato.stanford.edu/entries/moral-particularism/#DoParGenDifPraOnlThe)
-* [8. 特殊主义的问题](https://plato.stanford.edu/entries/moral-particularism/#ProForPar)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-particularism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-particularism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-particularism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-particularism/#Rel)
+ 
 
 ---
 

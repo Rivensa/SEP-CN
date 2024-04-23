@@ -4,26 +4,7 @@ _首次发表于2005年2月19日，实质修订于2024年2月20日。_
 
 分子生物学领域研究生物体中的大分子和大分子机制，例如基因的分子性质及其复制、突变和表达的机制。鉴于在许多生物学学科中，机械和大分子解释模式的基本重要性，广泛依赖于分子技术（如凝胶电泳、测序和 PCR），以及分子生物学在 CRISPR、mRNA 疫苗和光遗传学等最新技术突破中的参与，分子生物学的历史和概念构成了当代科学哲学和生物学的焦点。
 
-* [1. 分子生物学的历史](https://plato.stanford.edu/entries/molecular-biology/#HistMoleBiol)
-  * [1.1 起源](https://plato.stanford.edu/entries/molecular-biology/#Orig)
-  * [1.2 古典时期](https://plato.stanford.edu/entries/molecular-biology/#ClasPeri)
-  * [1.3 转向分子生物学](https://plato.stanford.edu/entries/molecular-biology/#GoinMole)
-  * [1.4 转向基因组学和后基因组学](https://plato.stanford.edu/entries/molecular-biology/#GoinGenoPostGeno)
-  * [1.5 最近的实验和概念发展](https://plato.stanford.edu/entries/molecular-biology/#ReceExpeConcDeve)
-* [2. 分子生物学中的概念](https://plato.stanford.edu/entries/molecular-biology/#ConcMoleBiol)
-  * [2.1 机制](https://plato.stanford.edu/entries/molecular-biology/#Mech)
-  * [2.2 信息](https://plato.stanford.edu/entries/molecular-biology/#Info)
-  * [2.3 基因](https://plato.stanford.edu/entries/molecular-biology/#Gene)
-* [3. 分子生物学和科学的一般哲学](https://plato.stanford.edu/entries/molecular-biology/#MoleBiolGenePhilScie)
-  * [3.1 简化](https://plato.stanford.edu/entries/molecular-biology/#Redu)
-  * [3.2 解释](https://plato.stanford.edu/entries/molecular-biology/#Expl)
-  * [3.3 推断](https://plato.stanford.edu/entries/molecular-biology/#Extr)
-  * [3.4 实验](https://plato.stanford.edu/entries/molecular-biology/#Expe)
-* [4. 结论](https://plato.stanford.edu/entries/molecular-biology/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/molecular-biology/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/molecular-biology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/molecular-biology/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/molecular-biology/#Rel)
+ 
 
 ***
 

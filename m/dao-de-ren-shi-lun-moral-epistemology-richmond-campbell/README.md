@@ -25,30 +25,7 @@ _首次发表于2003年2月4日；实质性修订于2019年11月6日_
 
 我的计划是依次研究 1-6 节中对道德知识可能性的六个挑战群，并在 7-10 节中反思道德知识在一个人的合理真实道德信念中的基本假设。
 
-* [1. 社会学：道德分歧和社会多样性](https://plato.stanford.edu/entries/moral-epistemology/#SocMorDisSocDiv)
-* [2. 心理学：道德动机](https://plato.stanford.edu/entries/moral-epistemology/#PsyMorMot)
-* [3. 存在论：道德事实和道德自然主义](https://plato.stanford.edu/entries/moral-epistemology/#OntMorFacMorNat)
-  * [3.1 神学事实](https://plato.stanford.edu/entries/moral-epistemology/#TheFac)
-  * [3.2 非自然事实](https://plato.stanford.edu/entries/moral-epistemology/#NonFac)
-  * [3.3 自然事实](https://plato.stanford.edu/entries/moral-epistemology/#NatFac)
-* [4. 进化论：道德为何进化的生物学解释](https://plato.stanford.edu/entries/moral-epistemology/#EvoBioExpWhyMorEvo)
-  * [4.1 从简洁性、清晰性和非循环性的反驳论证](https://plato.stanford.edu/entries/moral-epistemology/#TheDebArgParClaNon)
-  * [4.2 从道德客观性的反驳论证](https://plato.stanford.edu/entries/moral-epistemology/#TheDebArgMorObj)
-  * [4.3 从道德情感的非理性的反驳论证](https://plato.stanford.edu/entries/moral-epistemology/#TheDebArgIrrMorEmo)
-* [5. 方法论：道德认识论自然化，反思均衡，理性选择和实用主义自然主义](https://plato.stanford.edu/entries/moral-epistemology/#MetEpiNatRefEquRatCho)
-  * [5.1 道德认识论自然化](https://plato.stanford.edu/entries/moral-epistemology/#EpiNat)
-  * [5.2 反思均衡和理性选择](https://plato.stanford.edu/entries/moral-epistemology/#RefEquRatCho)
-  * [5.3 实用主义自然主义](https://plato.stanford.edu/entries/moral-epistemology/#PraNat)
-* [6. 道德：女性主义认识论和偏见悖论](https://plato.stanford.edu/entries/moral-epistemology/#MorFemEpiBiaPar)
-* [7. 道德认识可能存在--但是对于谁？](https://plato.stanford.edu/entries/moral-epistemology/#MorKnoMayBePos)
-* [8. 道德认识论：情感中体现的道德知识社会化](https://plato.stanford.edu/entries/moral-epistemology/#MorKnoSocEmbEmo)
-* [9. 认识论排除](https://plato.stanford.edu/entries/moral-epistemology/#EpiExc)
-* [10. 六个问题的分类：有任何进展吗？](https://plato.stanford.edu/entries/moral-epistemology/#SixCluProAnyPro)
-* [11. 结论](https://plato.stanford.edu/entries/moral-epistemology/#Con)
-* [参考文献](https://plato.stanford.edu/entries/moral-epistemology/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/moral-epistemology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-epistemology/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/moral-epistemology/#Rel)
+ 
 
 ***
 

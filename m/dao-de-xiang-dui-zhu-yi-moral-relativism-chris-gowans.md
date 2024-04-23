@@ -4,19 +4,7 @@
 
 道德相对主义是元伦理学中的一个重要主题。它也被广泛讨论于哲学之外（例如，政治和宗教领袖），并且在哲学家和非哲学家中都存在争议。最近的证据表明，人们对道德相对主义的直觉存在广泛的差异，这或许并不令人意外。尽管许多哲学家对道德相对主义持批评态度，但也有一些当代哲学家捍卫其形式。其中包括如吉尔伯特·哈曼、杰西·J·普林兹、J·大卫·维尔曼和大卫·B·王等知名人物。术语“道德相对主义”有多种理解。最常见的是将其与经验主义命题联系起来，即存在深刻而广泛的道德分歧，并且道德判断的真理或合理性不是绝对的，而是相对于某个人或某群人的道德标准。有时，“道德相对主义”与关于我们应该如何思考或对待那些在道德上与我们不同意的人的规范立场相关，最常见的是我们应该容忍他们。
 
-* [1. 历史背景](https://plato.stanford.edu/entries/moral-relativism/#HisBac)
-* [2. 形式和论证](https://plato.stanford.edu/entries/moral-relativism/#ForArg)
-* [3. 实验哲学](https://plato.stanford.edu/entries/moral-relativism/#ExpPhi)
-* [4. 描述性道德相对主义](https://plato.stanford.edu/entries/moral-relativism/#DesMorRel)
-* [5. 道德分歧是否可以在理性上解决？](https://plato.stanford.edu/entries/moral-relativism/#MorDisRatRes)
-* [6. 道德相对主义](https://plato.stanford.edu/entries/moral-relativism/#MetMorRel)
-* [7. 混合立场：相对主义者和客观主义者之间的和解？](https://plato.stanford.edu/entries/moral-relativism/#MixPosRapBetRelObj)
-* [8. 相对主义和宽容](https://plato.stanford.edu/entries/moral-relativism/#RelTol)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-relativism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-relativism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-relativism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-relativism/#Rel)
-
+ 
 ---
 
 ## 1. 历史背景

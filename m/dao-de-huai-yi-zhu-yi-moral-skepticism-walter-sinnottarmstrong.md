@@ -6,21 +6,7 @@
 
 尽管被称为“道德怀疑主义”的观点之间存在多样性，但许多人对道德怀疑主义有着非常强烈的感觉。一个大群体认为道德怀疑主义是显而易见的，因为他们不明白任何人如何能够真正了解任何事物的道德地位，或者道德事实如何适应物质世界。其他人则认为道德怀疑主义是如此荒谬，以至于任何道德理论都可以通过展示其导致道德怀疑主义来被驳斥。他们问道，难道你不知道奴隶制是道德上错误的吗？或者恐怖主义？或者虐待儿童？否认我们有理由相信或遵守这些道德判断的怀疑者被视为误导和危险的。这些指责的激烈和轻易表明了相互的误解，因此我们需要更加宽容和准确。
 
-* [1. 道德怀疑主义的种类](https://plato.stanford.edu/entries/skepticism-moral/#VarMorSke)
-* [2. 对道德怀疑主义的假设？](https://plato.stanford.edu/entries/skepticism-moral/#PreAgaMorSke)
-* [3. 对道德怀疑主义的论证](https://plato.stanford.edu/entries/skepticism-moral/#ArgForMorSke)
-
-  * [ 3.1 道德分歧](https://plato.stanford.edu/entries/skepticism-moral/#MorDis)
-  * [ 3.2 道德解释](https://plato.stanford.edu/entries/skepticism-moral/#MorExp)
-  * [ 3.3 一个回归](https://plato.stanford.edu/entries/skepticism-moral/#Reg)
-  * [3.4 怀疑主义假设](https://plato.stanford.edu/entries/skepticism-moral/#SkeHyp)
-  * [3.5 论证之间的关系](https://plato.stanford.edu/entries/skepticism-moral/#RelAmoArg)
-* [4. Pyrrhonian 怀疑主义道德](https://plato.stanford.edu/entries/skepticism-moral/#PyrMorSke)
-* [ 参考文献](https://plato.stanford.edu/entries/skepticism-moral/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/skepticism-moral/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/skepticism-moral/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/skepticism-moral/#Rel)
-
+ 
 ---
 
 ## 1. 道德怀疑主义的种类

@@ -13,22 +13,7 @@
 
 第 8 节将是本文的最后部分，将关注麦克塔加特对伦理学的观点。我将讨论麦克塔加特对内在价值本质的看法，重点关注内在价值的承载者属于哪种本体论范畴以及什么样的特征决定了这些实体的内在价值。我还将讨论麦克塔加特对爱的看法，这是他伦理体系中赋予最高地位的情感。
 
-* [1. 麦克塔加特的传记简介](https://plato.stanford.edu/entries/mctaggart/#BioSkeMcT)
-* [2. 麦克塔加特的形而上学方法](https://plato.stanford.edu/entries/mctaggart/#McTMetMet)
-* [3. 时间的非实在性](https://plato.stanford.edu/entries/mctaggart/#UnrTim)
-* [4. 麦克塔加特的宗教哲学](https://plato.stanford.edu/entries/mctaggart/#McTRel)
-* [5. 麦克塔加特的本体论唯心主义](https://plato.stanford.edu/entries/mctaggart/#McTOntIde)
-* [6. 麦克塔加特的形而上学多元主义](https://plato.stanford.edu/entries/mctaggart/#McTMetPlu)
-* [7. 其他有趣的形而上学观点](https://plato.stanford.edu/entries/mctaggart/#OthIntMetVie)
-* [ 9. 伦理学](https://plato.stanford.edu/entries/mctaggart/#Eth)
-* [ 参考书目](https://plato.stanford.edu/entries/mctaggart/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/mctaggart/#PriTex)
-  * [选定的次要来源](https://plato.stanford.edu/entries/mctaggart/#SelSecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/mctaggart/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mctaggart/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mctaggart/#Rel)
-
+ 
 ---
 
 ## 1. 麦克塔加特的传记

@@ -6,26 +6,7 @@ _首次发表于2019年11月18日星期一_
 
 结构主义观点在数学哲学中的引入通常被认为发生在 20 世纪 60 年代，由保罗·贝纳塞拉夫和希拉里·普特南的著作中；这一趋势在 20 世纪 80 年代至 90 年代加速发展，当时迈克尔·雷斯尼克、斯图尔特·夏皮罗、杰弗里·赫尔曼、查尔斯·帕森斯等人加入了这场争论；并且在过去 20 年中，这些争论又被一些对结构主义的哲学挑战以及进一步引入的变体，包括范畴论形式的结构主义，重新塑造。除了向读者介绍“数学哲学中的结构主义”这一总体主题外，本文的第二个主要目标将是为当今提供一种新颖、更广泛和相对全面的结构主义分类法。
 
-* [1. 排除性与非排除性结构主义](https://plato.stanford.edu/entries/structuralism-mathematics/#ElimVsNonElimStru)
-  * [1.1 20 世纪 60 年代结构主义辩论的开始](https://plato.stanford.edu/entries/structuralism-mathematics/#Begi1960BenaPutn)
-  * [1.2 20 世纪 80 年代的巩固和进一步讨论](https://plato.stanford.edu/entries/structuralism-mathematics/#Cons1980ResnShapHellEtc)
-  * [1.3 迈向第一个结构主义立场的分类学](https://plato.stanford.edu/entries/structuralism-mathematics/#TowaFirsTaxoCharParsDist)
-* [2. 后来的发展和更广泛的分类](https://plato.stanford.edu/entries/structuralism-mathematics/#FurtDeveBroaTaxo)
-  * [2.1 形而上学和认识论的挑战](https://plato.stanford.edu/entries/structuralism-mathematics/#MetaEpisChalStru)
-  * [2.2 结构主义的几个附加变体](https://plato.stanford.edu/entries/structuralism-mathematics/#AddiVariBurgFefeLinnPettEtc)
-  * [2.3 结构主义立场的更广泛分类](https://plato.stanford.edu/entries/structuralism-mathematics/#TowaRichInclTaxoForStru)
-* [3. 类别论结构主义](https://plato.stanford.edu/entries/structuralism-mathematics/#CateTheoStru)
-  * [3.1 类别论作为数学结构的研究](https://plato.stanford.edu/entries/structuralism-mathematics/#CateTheoStudMathStru)
-  * [3.2 范畴基础及其争论](https://plato.stanford.edu/entries/structuralism-mathematics/#CateFounDebaAbouThem)
-  * [3.3 范畴结构主义的独特特征](https://plato.stanford.edu/entries/structuralism-mathematics/#CateStruAwodMcLaLandEtc)
-* [4. 结论](https://plato.stanford.edu/entries/structuralism-mathematics/#Conc)
-  * [4.1 数学结构主义的多样性](https://plato.stanford.edu/entries/structuralism-mathematics/#VariMathStru)
-  * [4.2 数学之外的结构主义](https://plato.stanford.edu/entries/structuralism-mathematics/#StruBeyoMath)
-* [参考文献](https://plato.stanford.edu/entries/structuralism-mathematics/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/structuralism-mathematics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/structuralism-mathematics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/structuralism-mathematics/#Rel)
-
+ 
 ***
 
 ## 1. 排除性与非排除性结构主义

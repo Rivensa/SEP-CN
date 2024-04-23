@@ -9,51 +9,7 @@ _首次发表于2022年9月14日星期三_
 尽管对不同流派的涵盖仍然不均衡，拉丁哲学仍然是最研究的，阿拉伯哲学的研究工作迅速增加，其他领域仍然有些被忽视，但现在广泛认可的是，这些不同语言和国家的中世纪哲学思辨（尽管有一些限制）应该被视为一个单一传统的分支，这个传统可以追溯到希腊古代，并通过不同语言之间的一系列翻译运动而得到凝聚。这就是为什么这个传统（如果称之为“西方”传统，“西方”必须被理解得比通常更广泛）应该与同一时期在印度、中国和其他地方取得的伟大哲学成就分开对待。\[2]
 
 本条目以中世纪哲学的要素部分开始。它解释了中世纪哲学是如何特别基于文本及其评论，并探讨了这些文本如何在中世纪传统的四个分支之间传播。接下来的部分介绍了该时期不同的哲学风格，而下一部分则着重讨论了三个问题，突显了中世纪哲学的一些特殊关注点，即宗教关注如何与推理相互作用以及四个分支之间的差异。倒数第二部分专门讨论了逻辑及其在该时期的非凡重要性，而最后一部分则讨论了中世纪哲学的时间范围。
-
-* [1. 中世纪哲学的要素](https://plato.stanford.edu/entries/medieval-philosophy/#IngrMediPhil)
-  * [1.1 文本和评论传统](https://plato.stanford.edu/entries/medieval-philosophy/#TextCommTrad)
-  * [1.2 晚期古代的柏拉图学派](https://plato.stanford.edu/entries/medieval-philosophy/#PlatSchoLateAnti)
-  * [1.3 翻译运动](https://plato.stanford.edu/entries/medieval-philosophy/#TranMove)
-    * [1.3.1 希腊语到阿拉伯语](https://plato.stanford.edu/entries/medieval-philosophy/#GreeArab)
-    * [1.3.2 希腊语到拉丁语](https://plato.stanford.edu/entries/medieval-philosophy/#GreeLati)
-    * [1.3.3 阿拉伯语到拉丁语](https://plato.stanford.edu/entries/medieval-philosophy/#ArabLati)
-    * [1.3.4 阿拉伯语到希伯来语](https://plato.stanford.edu/entries/medieval-philosophy/#ArabHebr)
-    * [1.3.5 拉丁语到希腊语](https://plato.stanford.edu/entries/medieval-philosophy/#LatiGree)
-    * [1.3.6 拉丁语到希伯来语](https://plato.stanford.edu/entries/medieval-philosophy/#LatiHebr)
-    * [1.3.7 希伯来语到拉丁语](https://plato.stanford.edu/entries/medieval-philosophy/#HebrLati)
-  * [1.4 其他哲学来源](https://plato.stanford.edu/entries/medieval-philosophy/#OthePhilSour)
-* [2. 中世纪哲学的风格](https://plato.stanford.edu/entries/medieval-philosophy/#StylMediPhil)
-  * [2.1 拜占庭哲学（公元 450 年至公元 1450 年）](https://plato.stanford.edu/entries/medieval-philosophy/#ByzaPhilC450)
-  * [2.2 规则和两个例外：拉丁哲学，800-1100](https://plato.stanford.edu/entries/medieval-philosophy/#RuleTwoExceLatiPhil8001)
-  * [2.3 ](https://plato.stanford.edu/entries/medieval-philosophy/#Fals)​\*[Falsafa](https://plato.stanford.edu/entries/medieval-philosophy/#Fals)\*
-  * [2.4 ](https://plato.stanford.edu/entries/medieval-philosophy/#Kalm)​\*[Kalām](https://plato.stanford.edu/entries/medieval-philosophy/#Kalm)\*
-  * [2.5 十二世纪巴黎学派](https://plato.stanford.edu/entries/medieval-philosophy/#TwelCentPariScho)
-  * [2.6 伊斯兰西班牙，公元 1050 年至公元 1200 年](https://plato.stanford.edu/entries/medieval-philosophy/#IslaSpaiC10501200)
-  * [2.7 大学哲学](https://plato.stanford.edu/entries/medieval-philosophy/#UnivPhil)
-  * [2.8 中世纪哲学之外的拉丁哲学（公元 1200 年至公元 1500 年）](https://plato.stanford.edu/entries/medieval-philosophy/#LatiPhilOutsUnivC12001500)
-  * [2.9 基督教欧洲的犹太哲学](https://plato.stanford.edu/entries/medieval-philosophy/#JewiPhilChriEuro)
-  * [2.10 后古典阿拉伯哲学](https://plato.stanford.edu/entries/medieval-philosophy/#PostClasArabPhil)
-* [3. 三个中世纪问题](https://plato.stanford.edu/entries/medieval-philosophy/#ThreMediProb)
-  * [3.1 世界的永恒性](https://plato.stanford.edu/entries/medieval-philosophy/#EterWorl)
-  * [3.2 神的全知和人的自由：预知问题](https://plato.stanford.edu/entries/medieval-philosophy/#DiviOmniHumaFreeProbPres)
-  * [3.3 灵魂与不朽性](https://plato.stanford.edu/entries/medieval-philosophy/#SoulImmo)
-* [4. 逻辑的重要性](https://plato.stanford.edu/entries/medieval-philosophy/#ImpoLogi)
-  * [4.1 阿拉伯逻辑](https://plato.stanford.edu/entries/medieval-philosophy/#ArabLogi)
-  * [4.2 拉丁逻辑](https://plato.stanford.edu/entries/medieval-philosophy/#LatiLogi)
-  * [4.3 拜占庭和犹太人的逻辑](https://plato.stanford.edu/entries/medieval-philosophy/#LogiByzaAmonJews)
-* [5. 中世纪哲学是何时？](https://plato.stanford.edu/entries/medieval-philosophy/#WhenWasMediPhil)
-  * [5.1 中世纪哲学从何时开始？](https://plato.stanford.edu/entries/medieval-philosophy/#WhenDidMediPhilBegi)
-  * [5.2 中世纪哲学何时结束？](https://plato.stanford.edu/entries/medieval-philosophy/#WhenDidMediPhilEnd)
-* [参考文献](https://plato.stanford.edu/entries/medieval-philosophy/#Bib)
-  * [A. 中世纪哲学的一般历史](https://plato.stanford.edu/entries/medieval-philosophy/#GeneHistMediPhil)
-  * [B. 翻译文本的有用选集](https://plato.stanford.edu/entries/medieval-philosophy/#BUsefAnthTranText)
-  * [C. 文献目录](https://plato.stanford.edu/entries/medieval-philosophy/#CBibl)
-  * [D. 参考文献](https://plato.stanford.edu/entries/medieval-philosophy/#DRefe)
-    * [D.1 主要文献](https://plato.stanford.edu/entries/medieval-philosophy/#D1PrimText)
-    * [D.2 次要著作](https://plato.stanford.edu/entries/medieval-philosophy/#D2SecoWork)
-* [学术工具](https://plato.stanford.edu/entries/medieval-philosophy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/medieval-philosophy/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/medieval-philosophy/#Rel)
+ 
 
 ***
 

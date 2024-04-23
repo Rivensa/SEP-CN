@@ -6,27 +6,7 @@
 
 本条目的前三节探讨了一系列被认为是形而上学问题的广泛选择，并讨论了形而上学的范围随时间的推移而扩大的方式。我们将看到，在古代和中世纪时期，形而上学的核心问题更加统一。这引出了一个问题——是否存在任何共同特征来统一当代形而上学的问题？最后两节讨论了一些关于形而上学的性质和方法论的最新理论。我们还将考虑形而上学无论如何定义都是一项不可能的事业的论证。
 
-* [1. “形而上学”一词和形而上学的概念](https://plato.stanford.edu/entries/metaphysics/#WordMetaConcMeta)
-* [2. 形而上学的问题： “旧” 形而上学](https://plato.stanford.edu/entries/metaphysics/#ProbMetaOldMeta)
-
-  * [2.1 作为这样的存在，第一原因，不变的事物](https://plato.stanford.edu/entries/metaphysics/#BeinSuchFirsCausUnchThin)
-  * [2.2 存在的范畴和普遍性](https://plato.stanford.edu/entries/metaphysics/#CateBeinUniv)
-  * [ 2.3 物质](https://plato.stanford.edu/entries/metaphysics/#Subs)
-* [3. 形而上学的问题： “新” 形而上学](https://plato.stanford.edu/entries/metaphysics/#ProbMetaNewMeta)
-
-  * [ 3.1 形态学](https://plato.stanford.edu/entries/metaphysics/#Moda)
-  * [3.2 空间和时间](https://plato.stanford.edu/entries/metaphysics/#SpacTime)
-  * [3.3 持续性和构成](https://plato.stanford.edu/entries/metaphysics/#PersCons)
-  * [3.4 因果关系、自由和决定论](https://plato.stanford.edu/entries/metaphysics/#CausFreeDete)
-  * [3.5 心理和物理](https://plato.stanford.edu/entries/metaphysics/#MentPhys)
-  * [ 3.6 社会形而上学](https://plato.stanford.edu/entries/metaphysics/#SociMeta)
-* [4. 形而上学的方法论](https://plato.stanford.edu/entries/metaphysics/#MethMeta)
-* [5. 形而上学是否可能？](https://plato.stanford.edu/entries/metaphysics/#MetaPoss)
-* [ 参考文献](https://plato.stanford.edu/entries/metaphysics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/metaphysics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/metaphysics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/metaphysics/#Rel)
-
+ 
 ---
 
 ## 1. 形而上学的词语和概念

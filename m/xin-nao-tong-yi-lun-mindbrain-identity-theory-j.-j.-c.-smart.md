@@ -7,20 +7,7 @@
 一些哲学家认为，虽然经历是大脑的过程，但它们仍然具有根本上非物质的心理属性，有时被称为“质感”。在这里，我将心脑同一理论视为否认这种不可约的非物质属性的存在。一些心脑同一论者对心理状态（如信念和欲望）给出了行为主义分析，但另一些人，有时被称为“中央状态唯物主义者”，则说心理状态是实际的大脑状态。心脑同一论者通常将自己描述为“唯物主义者”，但“物理主义者”可能是一个更好的词。也就是说，一个人可能对心灵持唯物主义立场，但仍然认为物理学中所指的实体并不适合被称为“物质”。
 
 将身份理论（以其各种形式）视为物理主义的一种，我应该说这是本体论的物理主义，而不是翻译的物理主义。试图将包含“脑”或“感觉”一词的句子翻译成关于电子、质子等的句子是荒谬的。我们也不能将包含“树”一词的句子这样翻译。毕竟，“树”主要是通过示意学习的，并且甚至不是植物分类的一部分。如果我们足够小，蒲公英可能会被视为一棵树。然而，物理主义者可以说树是复杂的物理机制。物理主义者将否认某些哲学家（如塞缪尔·亚历山大和可能的 C.D.布罗德）所说的强出现。后者曾指出（Broad 1937），就当时所知，普通盐的性质无法从独立的钠和独立的氯的性质中推导出来。（他将其表述得过于认识论：混沌理论表明，即使在确定性理论中，物理后果也可能超越可预测性。）当然，物理主义者不会否认“出现”的无害意义，即装置不仅仅是其部分的混乱（Smart 1981）。
-
-* [1. 历史先例](https://plato.stanford.edu/entries/mind-identity/#His)
-* [2. 心脑同一的性质](https://plato.stanford.edu/entries/mind-identity/#The)
-* [3. 现象特性和主题中立分析](https://plato.stanford.edu/entries/mind-identity/#Phe)
-* [4. 因果角色理论](https://plato.stanford.edu/entries/mind-identity/#Cau)
-* [5. 功能主义和心脑同一理论](https://plato.stanford.edu/entries/mind-identity/#Fun)
-* [6. 类型和令牌同一理论](https://plato.stanford.edu/entries/mind-identity/#Typ)
-* [ 7. 意识](https://plato.stanford.edu/entries/mind-identity/#Con)
-* [8. 对同一理论的后来反对](https://plato.stanford.edu/entries/mind-identity/#Lat)
-* [ 参考文献](https://plato.stanford.edu/entries/mind-identity/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/mind-identity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mind-identity/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mind-identity/#Rel)
-
+ 
 ---
 
 ## 1. 历史前兆

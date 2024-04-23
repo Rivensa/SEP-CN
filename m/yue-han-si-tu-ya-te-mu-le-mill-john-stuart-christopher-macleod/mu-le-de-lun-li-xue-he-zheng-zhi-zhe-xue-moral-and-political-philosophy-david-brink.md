@@ -4,57 +4,7 @@
 
 约翰·斯图亚特·穆勒（1806-1873）是 19 世纪英国最著名和最有影响力的哲学家。他是最后一批系统哲学家之一，在逻辑学、形而上学、认识论、伦理学、政治哲学和社会理论方面做出了重要贡献。他还是一个重要的公众人物，阐述自由主义的立场，推动各种自由主义改革，并在议会任职。在穆勒的一生中，他最广泛受到赞赏的是他在理论哲学和政治经济学方面的工作。然而，如今穆勒最大的哲学影响在于道德和政治哲学，特别是他对功利主义和自由主义的阐述和辩护（尼科尔森 1998）。本文将考察穆勒对功利主义和自由主义传统的贡献。我们将集中讨论他最受欢迎和最知名的两部作品《功利主义》（1861，简称 U）和《论自由》（1859，简称 OL），并参考其他文本以便更好地理解他的功利主义和自由主义原则。最后，我们将研究穆勒如何将这些原则应用于政治和性别平等问题，参考《论代议政府》（1859，简称 CRG）、《政治经济学原理》（1848，简称 PPE）和《妇女的服从》（1869，简称 SW）。
 
-* [1. 穆勒的思想背景](https://plato.stanford.edu/entries/mill-moral-political/#MilIntBac)
-
-  * [1.1 哲学激进派](https://plato.stanford.edu/entries/mill-moral-political/#PhiRad)
-* [2. 穆勒的功利主义](https://plato.stanford.edu/entries/mill-moral-political/#MilUti)
-
-  * [2.1 心理利己主义](https://plato.stanford.edu/entries/mill-moral-political/#PsyEgo)
-  * [2.2 幸福和更高的快乐](https://plato.stanford.edu/entries/mill-moral-political/#HapHigPle)
-  * [2.3 完美主义元素](https://plato.stanford.edu/entries/mill-moral-political/#PerEle)
-  * [2.4 调和元素](https://plato.stanford.edu/entries/mill-moral-political/#RecEle)
-  * [2.5 责任观念](https://plato.stanford.edu/entries/mill-moral-political/#ConDut)
-  * [2.6 作为行为准则的功利主义](https://plato.stanford.edu/entries/mill-moral-political/#UtiStaCon)
-  * [ 2.7 行为功利主义](https://plato.stanford.edu/entries/mill-moral-political/#ActUti)
-  * [ 2.8 规则功利主义](https://plato.stanford.edu/entries/mill-moral-political/#RulUti)
-  * [2.9 制裁功利主义](https://plato.stanford.edu/entries/mill-moral-political/#SanUti)
-  * [2.10 行动与制裁功利主义](https://plato.stanford.edu/entries/mill-moral-political/#ActVsSanUti)
-  * [2.11 功利的证明](https://plato.stanford.edu/entries/mill-moral-political/#ProUti)
-  * [2.12 效用的制裁](https://plato.stanford.edu/entries/mill-moral-political/#SanctionsUti)
-* [3. 穆勒的自由主义](https://plato.stanford.edu/entries/mill-moral-political/#MilLib)
-
-  * [3.1 自由主义原则和范畴方法](https://plato.stanford.edu/entries/mill-moral-political/#LibPriCatApp)
-  * [3.2 类别、权利和效用](https://plato.stanford.edu/entries/mill-moral-political/#CatRigUti)
-  * [3.3 表达自由](https://plato.stanford.edu/entries/mill-moral-political/#FreExp)
-  * [3.4 基本自由的完善主义辩护](https://plato.stanford.edu/entries/mill-moral-political/#PerDefBasLib)
-  * [3.5 自由的限制](https://plato.stanford.edu/entries/mill-moral-political/#LimLib)
-  * [3.6 伤害原则](https://plato.stanford.edu/entries/mill-moral-political/#HarPri)
-  * [ 3.7 家长主义](https://plato.stanford.edu/entries/mill-moral-political/#Pat)
-  * [ 3.8 违法行为](https://plato.stanford.edu/entries/mill-moral-political/#Off)
-  * [ 3.9 道德主义](https://plato.stanford.edu/entries/mill-moral-political/#Mor)
-  * [3.10 重新审视范畴论方法](https://plato.stanford.edu/entries/mill-moral-political/#CatAppRev)
-  * [3.11 功利主义，权利和自由主义](https://plato.stanford.edu/entries/mill-moral-political/#UtiRigLib)
-* [4.自由民主](https://plato.stanford.edu/entries/mill-moral-political/#LibDem)
-
-  * [4.1 代议制民主](https://plato.stanford.edu/entries/mill-moral-political/#RepDem)
-  * [4.2 特许经营范围和加权投票的范围](https://plato.stanford.edu/entries/mill-moral-political/#ScoFraWeiVot)
-  * [4.3 自由民主与公共利益](https://plato.stanford.edu/entries/mill-moral-political/#LibDemComGoo)
-* [5. 性别平等](https://plato.stanford.edu/entries/mill-moral-political/#SexEqu)
-
-  * [5.1 性别平等的理论](https://plato.stanford.edu/entries/mill-moral-political/#CasForSexEqu)
-  * [5.2 反驳不平等的理论](https://plato.stanford.edu/entries/mill-moral-political/#RebCasForIne)
-  * [5.3 性别劳动分工是否自然？](https://plato.stanford.edu/entries/mill-moral-political/#SexDivLabNat)
-  * [ 5.4 穆勒女权主义](https://plato.stanford.edu/entries/mill-moral-political/#MilFem)
-* [ 6. 总结](https://plato.stanford.edu/entries/mill-moral-political/#ConRem)
-* [关于文本和参考资料的注释](https://plato.stanford.edu/entries/mill-moral-political/#NotTexRef)
-
-  * [ 本丹的著作](https://plato.stanford.edu/entries/mill-moral-political/#BenWor)
-  * [ 穆勒的著作](https://plato.stanford.edu/entries/mill-moral-political/#MilWor)
-* [ 参考文献](https://plato.stanford.edu/entries/mill-moral-political/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/mill-moral-political/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mill-moral-political/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mill-moral-political/#Rel)
-
+ 
 ---
 
 ## 1. 穆勒的知识背景

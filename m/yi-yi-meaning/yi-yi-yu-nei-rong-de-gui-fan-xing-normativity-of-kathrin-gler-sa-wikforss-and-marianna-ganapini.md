@@ -6,35 +6,7 @@
 
 在本文中，我们讨论了一些核心的规范主义命题，并首先确定了不同版本的意义规范主义，提出了支持和反对它们的论点。然后我们继续讨论内容规范主义，概述了当代辩论的情况。这两个辩论仍在继续进行中，目前对于规范性是否适用于意义或内容还没有达成共识。自本文首次发表以来，辩论的重点主要集中在其中两个核心问题上：首先，有争议的是是否可以从有意义的表达式必然具有正确性条件这一事实中推导出意义规范主义。这是我们称之为“简单论证”的论点，在第 2.1.1 节中我们讨论了对该辩论的贡献。其次，关于规则指导的性质也被广泛讨论，特别是与内容规范主义有关的问题，并提出了关于如何理解它的新提议。我们在第 2.2 节和第 3.2 节中讨论了这个问题。最后，围绕规范性的辩论也演变成了关于理性规范性以及逻辑是否为我们推理的标准的讨论。虽然在本文中我们主要关注意义和内容，但我们也会提及与理性规范性相关的问题。
 
-* [1. 规范性论题的解释](https://plato.stanford.edu/entries/meaning-normativity/#InteNormThes)
-
-  * [1.1 形而上学问题](https://plato.stanford.edu/entries/meaning-normativity/#MetaQues)
-  * [1.2 规范性的种类](https://plato.stanford.edu/entries/meaning-normativity/#VariNorm)
-* [ 2. 意义与内容](https://plato.stanford.edu/entries/meaning-normativity/#Mean)
-
-  * [2.1 意义引发的规范性](https://plato.stanford.edu/entries/meaning-normativity/#MeanEngeNorm)
-
-    * [2.1.1 简单论证](https://plato.stanford.edu/entries/meaning-normativity/#SimpArgu)
-    * [2.1.2 根据其意义使用表达式](https://plato.stanford.edu/entries/meaning-normativity/#UsinExprAccoMean)
-    * [2.1.3 替代论证](https://plato.stanford.edu/entries/meaning-normativity/#AlteArgu)
-  * [2.2 意义决定的规范性](https://plato.stanford.edu/entries/meaning-normativity/#MeanDeteNorm)
-
-    * [2.2.1 意义决定的规则或规范](https://plato.stanford.edu/entries/meaning-normativity/#MeanDeteRuleNorm)
-    * [2.2.3 意义决定规则的指导](https://plato.stanford.edu/entries/meaning-normativity/#GuidMeanDeteRule)
-    * [2.2.4 原始规范性](https://plato.stanford.edu/entries/meaning-normativity/#PrimNorm)
-* [ 3. 内容](https://plato.stanford.edu/entries/meaning-normativity/#Cont)
-
-  * [3.1 规范性的产生内容](https://plato.stanford.edu/entries/meaning-normativity/#ContEngeNorm)
-
-    * [3.1.1 信念的论证](https://plato.stanford.edu/entries/meaning-normativity/#ArguBeli)
-    * [3.1.2 与内容相符的使用](https://plato.stanford.edu/entries/meaning-normativity/#UseKeepCont)
-  * [3.2 意义与内容决定的规范性](https://plato.stanford.edu/entries/meaning-normativity/#ContDeteNorm)
-* [4. 结论：规范主义与自然主义](https://plato.stanford.edu/entries/meaning-normativity/#ConcRemaNormNatu)
-* [ 参考文献](https://plato.stanford.edu/entries/meaning-normativity/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/meaning-normativity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/meaning-normativity/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/meaning-normativity/#Rel)
-
+ 
 ---
 
 ## 1. 规范性论题的解释

@@ -13,18 +13,7 @@
 本文将概述关于不确定性下道德决策的一些核心问题。在这个领域有许多活跃的辩论，我们无法涵盖所有内容。相反，我们试图集中讨论那些既具有普遍哲学意义（影响广泛的伦理观点），又具有实际意义（对重要的现实选择产生影响）的问题。
 
 我们在第 1 节中区分了几种在不确定性下对行动进行规范评估的方式：“事实相关”vs.“信念相关”vs.“证据相关”，以及道德 vs.理性。然后，在第 2 节中描述了决策理论的正统规范理论，在伦理学之外的不确定性下，即预期效用理论，并考虑其在伦理学中的潜在应用。随后的各节分别考虑了在不确定性下进行道德决策的独特特征，这些特征挑战了预期效用理论的直接应用，并暗示了在伦理背景下需要进行修改或完全不同的方法。第 3 节考虑了将类似预期效用的标准应用于现实世界的伦理决策的明显不可能性，因为即使是平凡选择也会产生许多长期的间接影响。这种困难有时被称为“无知问题”，被视为对（公正的，与代理人无关的）后果主义提出的特殊挑战，后者充分考虑了这些间接影响。相比之下，第 4 节考虑了将非后果主义考虑因素纳入道德决策理论的一些困难，特别是以代理人为中心的约束、风险施加的道德意义以及尊重其他代理人对风险和不确定性的偏好的目标。第 5 节考虑了代理人如何（如果有的话）考虑他们对道德本身的不确定性。最后，第 6 节考虑了一个困扰后果主义者、非后果主义者和道德上的不确定者的问题：道德决策在不确定性下是否变得不合理地被低概率、高风险的道德考虑所主导（例如，获得天文好结果的微小概率或违反极其重要的道德约束）。
-
-* [1. 客观、主观和前瞻性的“应该”](https://plato.stanford.edu/entries/moral-decision-uncertainty/#ObjeSubjProsOugh)
-* [2. 道德中的预期效用理论](https://plato.stanford.edu/entries/moral-decision-uncertainty/#ExpeUtilTheoEthi)
-* [3. 不确定性和深度不确定性](https://plato.stanford.edu/entries/moral-decision-uncertainty/#ClueDeepUnce)
-* [4. 道德决策下的道德约束](https://plato.stanford.edu/entries/moral-decision-uncertainty/#MoraConsUndeRisk)
-* [ 5. 道德不确定性](https://plato.stanford.edu/entries/moral-decision-uncertainty/#MoraUnce)
-* [6. 小概率和极端利益](https://plato.stanford.edu/entries/moral-decision-uncertainty/#SmalProbExtrStak)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-decision-uncertainty/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-decision-uncertainty/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-decision-uncertainty/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-decision-uncertainty/#Rel)
-
+ 
 ---
 
 ## 1. 客观的、主观的和前瞻性的“应该”

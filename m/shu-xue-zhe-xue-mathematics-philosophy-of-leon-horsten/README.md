@@ -4,39 +4,7 @@
 
 如果将数学视为一门科学，那么数学哲学可以被视为科学哲学的一个分支，与物理哲学和生物哲学等学科并列。然而，由于其主题的特殊性，数学哲学在科学哲学中占据着特殊的地位。自然科学研究的实体位于时空中，这一点并不明显适用于数学研究的对象。此外，数学研究的方法与自然科学研究的方法有明显的区别。后者使用归纳方法获得一般知识，而数学知识似乎以不同的方式获得：通过从基本原理进行推导。数学知识的地位似乎也与自然科学中的知识地位不同。自然科学的理论似乎比数学理论更不确定，更容易修订。因此，数学对哲学提出了一些独特的问题。因此，哲学家们对数学的本体论和认识论问题给予了特别关注。
 
-* [1. 数学哲学、逻辑学和数学基础](https://plato.stanford.edu/entries/philosophy-mathematics/#MatLogFouMat)
-* [2. 四个学派](https://plato.stanford.edu/entries/philosophy-mathematics/#FouSch)
-
-  * [ 2.1 逻辑主义](https://plato.stanford.edu/entries/philosophy-mathematics/#Log)
-  * [ 2.2 直觉主义](https://plato.stanford.edu/entries/philosophy-mathematics/#Int)
-  * [ 2.3 形式主义](https://plato.stanford.edu/entries/philosophy-mathematics/#For)
-  * [ 2.4 预测主义](https://plato.stanford.edu/entries/philosophy-mathematics/#Pre)
-* [ 3. 柏拉图主义](https://plato.stanford.edu/entries/philosophy-mathematics/#Pla)
-
-  * [ 3.1 哥德尔的柏拉图主义](https://plato.stanford.edu/entries/philosophy-mathematics/#GodPla)
-  * [3.2 自然主义和不可或缺性](https://plato.stanford.edu/entries/philosophy-mathematics/#NatInd)
-  * [ 3.3 空洞的柏拉图主义](https://plato.stanford.edu/entries/philosophy-mathematics/#DefPla)
-  * [3.4 贝纳塞拉夫的认识论问题](https://plato.stanford.edu/entries/philosophy-mathematics/#BenEpiPro)
-  * [3.5 充实的柏拉图主义](https://plato.stanford.edu/entries/philosophy-mathematics/#PlePla)
-* [4. 结构主义和名义主义](https://plato.stanford.edu/entries/philosophy-mathematics/#StrNom)
-
-  * [4.1 数学无法成为的东西](https://plato.stanford.edu/entries/philosophy-mathematics/#WhaNumCouNot)
-  * [4.2 前事结构主义](https://plato.stanford.edu/entries/philosophy-mathematics/#AntRemStr)
-  * [4.3 数学无抽象实体](https://plato.stanford.edu/entries/philosophy-mathematics/#MatWitAbsEnt)
-  * [4.4 在事物中的结构主义](https://plato.stanford.edu/entries/philosophy-mathematics/#RebStr)
-  * [ 4.5 虚构主义](https://plato.stanford.edu/entries/philosophy-mathematics/#Fic)
-* [5. 特殊主题](https://plato.stanford.edu/entries/philosophy-mathematics/#SpeTop)
-
-  * [5.1 基础和集合论](https://plato.stanford.edu/entries/philosophy-mathematics/#SetThe)
-  * [5.2 类别性和多元论](https://plato.stanford.edu/entries/philosophy-mathematics/#Cat)
-  * [ 5.3 计算](https://plato.stanford.edu/entries/philosophy-mathematics/#ComPro)
-  * [ 5.4 数学证明](https://plato.stanford.edu/entries/philosophy-mathematics/#MathProof)
-* [ 6. 未来](https://plato.stanford.edu/entries/philosophy-mathematics/#Fut)
-* [ 参考文献](https://plato.stanford.edu/entries/philosophy-mathematics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/philosophy-mathematics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/philosophy-mathematics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/philosophy-mathematics/#Rel)
-
+ 
 ---
 
 ## 1. 数学哲学、逻辑和数学基础的解释/理论

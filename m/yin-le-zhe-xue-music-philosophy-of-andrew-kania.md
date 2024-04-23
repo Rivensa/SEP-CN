@@ -9,32 +9,7 @@
 这篇文章几乎专注于分析性的当代音乐哲学（即自二十世纪中期以来的作品）。有关历史概述，请参阅有关西方音乐哲学历史的条目：古代至 1800 年和 1800 年以后的西方音乐哲学历史。有关音乐哲学更广泛的介绍，包括其历史、主要人物、与其他学科的联系以及更广泛的主题范围，请参阅 Gracyk＆Kania 2011 和 McAuley，Nielsen 和 Levinson 2021。有用的单一作者概述包括 Scruton 1997，Kivy 2002，Hamilton 2007 和 Kania 2020。
 
 大部分分析性的工作主要讨论西方古典音乐。（有关对这种倾向的批评，请参阅 Alperson 2009。）在过去的 25 年中，人们越来越认识到不同的音乐实践不仅可能对相同的哲学问题提出不同的答案，而且还可能提出不同的哲学问题。除了西方古典音乐外，流行的西方传统音乐，如摇滚和爵士乐，受到了最多的关注。非西方音乐传统受到的关注较少。（例外包括 S. Davies 2001：254–94 和 2007; Alperson，Nguyen 和 To 2007; S. P. Walton 2007;和 Higgins 2007。）
-
-* [1. 音乐是什么？](https://plato.stanford.edu/entries/music/#WhatMusi)
-
-  * [1.1 音乐独自与共同](https://plato.stanford.edu/entries/music/#MusiAlonToge)
-  * [1.2 “音乐”的定义](https://plato.stanford.edu/entries/music/#DefiMusi)
-* [2. 音乐哲学](https://plato.stanford.edu/entries/music/#MusiOnto)
-
-  * [2.1 基要主义辩论](https://plato.stanford.edu/entries/music/#FundDeba)
-  * [2.2 更高层次的本体论问题](https://plato.stanford.edu/entries/music/#HighLeveOntoIssu)
-* [3. 音乐与情感](https://plato.stanford.edu/entries/music/#MusiEmot)
-
-  * [3.1 音乐中的情感](https://plato.stanford.edu/entries/music/#EmotMusi)
-  * [3.2 听众中的情感](https://plato.stanford.edu/entries/music/#EmotList)
-* [4. 解释音乐](https://plato.stanford.edu/entries/music/#UndeMusi)
-
-  * [4.1 音乐的基本理解](https://plato.stanford.edu/entries/music/#BasiMusiUnde)
-  * [4.2 音乐的高级理解](https://plato.stanford.edu/entries/music/#HighLeveMusiUnde)
-* [5. 音乐与价值](https://plato.stanford.edu/entries/music/#MusiValu)
-
-  * [5.1 音乐的艺术价值](https://plato.stanford.edu/entries/music/#MusiArtiValu)
-  * [5.2 音乐的道德价值](https://plato.stanford.edu/entries/music/#MusiMoraValu)
-* [ 参考文献](https://plato.stanford.edu/entries/music/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/music/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/music/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/music/#Rel)
-
+ 
 ---
 
 ## 1. 什么是音乐？

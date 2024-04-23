@@ -16,38 +16,7 @@
 
 直到最近，关于道德责任的哲学研究主要是在自由意志的争论背景下进行的，这主要涉及（各种形式的）决定论可能如何威胁到自由意志和道德责任的各种方式。一个基本上不被质疑的假设是，道德责任需要自由意志，而核心问题与自由意志的要素以及它们的拥有是否与决定论相容有关。然而，最近，关于道德责任的文献已经涉及了与决定论无关的问题。本文的大部分内容将涉及道德责任辩论的这些后期方面。然而，从关于自由意志和道德责任的关注交叉的问题开始讨论将是有益的。
 
-* [1. 自由、责任和决定论](https://plato.stanford.edu/entries/moral-responsibility/#FreeRespDete)
-* [2. 关于道德责任的一些方法](https://plato.stanford.edu/entries/moral-responsibility/#SomeApprMoraResp)
-
-  * [2.1 前瞻性解释](https://plato.stanford.edu/entries/moral-responsibility/#ForwLookAcco)
-  * [2.2 反应态度方法](https://plato.stanford.edu/entries/moral-responsibility/#ReacAttiAppr)
-
-    * [2.2.1 &quot;自由与怨恨&quot;](https://plato.stanford.edu/entries/moral-responsibility/#FreeRese)
-    * [2.2.2 Strawson 方法的批评](https://plato.stanford.edu/entries/moral-responsibility/#CritStraAppr)
-  * [2.3 理由-责任观点](https://plato.stanford.edu/entries/moral-responsibility/#ReasRespView)
-* [3. 当代辩论](https://plato.stanford.edu/entries/moral-responsibility/#ContDeba)
-
-  * [3.1 责任的“面孔”](https://plato.stanford.edu/entries/moral-responsibility/#FaceResp)
-
-    * [3.1.1 可归因性与可问责性](https://plato.stanford.edu/entries/moral-responsibility/#AttrVersAcco)
-    * [ 3.1.2 归因主义](https://plato.stanford.edu/entries/moral-responsibility/#Attr)
-    * [ 3.1.3 责任](https://plato.stanford.edu/entries/moral-responsibility/#Answ)
-  * [3.2 道德能力](https://plato.stanford.edu/entries/moral-responsibility/#MoraComp)
-
-    * [3.2.1 道德能力对责任的条件](https://plato.stanford.edu/entries/moral-responsibility/#MoraCompCondResp)
-    * [3.2.2 责任的对话方法](https://plato.stanford.edu/entries/moral-responsibility/#ConvApprResp)
-    * [ 3.2.3 精神病](https://plato.stanford.edu/entries/moral-responsibility/#Psyc)
-  * [3.3 怀疑主义和相关主题](https://plato.stanford.edu/entries/moral-responsibility/#SkepRelaTopi)
-
-    * [ 3.3.1 道德运气](https://plato.stanford.edu/entries/moral-responsibility/#MoraLuck)
-    * [3.3.2 终极责任](https://plato.stanford.edu/entries/moral-responsibility/#UltiResp)
-    * [3.3.3 个人历史和操纵](https://plato.stanford.edu/entries/moral-responsibility/#PersHistMani)
-    * [3.3.4 责任的认知条件](https://plato.stanford.edu/entries/moral-responsibility/#EpisCondResp)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-responsibility/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-responsibility/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-responsibility/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-responsibility/#Rel)
-
+ 
 ---
 
 ## 1. 自由、责任和决定论

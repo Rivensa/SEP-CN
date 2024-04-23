@@ -7,21 +7,7 @@
 然而，假设表征是具有语义属性（内容、指称、真值条件、真值等）的对象，心理表征可以更广泛地被理解为具有语义属性的心理对象。因此，心理表征（以及涉及它们的状态和过程）不仅仅可以用认知/计算的术语来理解。在这种更广泛的理解下，心理表征是一个具有古代根源、丰富历史和文献的哲学主题，早于最近的“认知革命”，并且在纯粹哲学中仍然具有兴趣。虽然大多数当代心灵哲学家承认认知科学的相关性和重要性，但他们在与其文献、方法和结果的接触程度上存在差异；对于许多人来说，关于心灵的表征属性的问题可以独立于计算假设来解决。
 
 虽然“心理表征理论”这个术语有时几乎可以与“计算理论”互换使用，但我在这里使用它来指任何假设存在语义可评估的心理对象的理论，包括哲学中常见的心理对象-思想、概念、感知、观念、印象、概念、规则、模式、形象、幻象等，以及认知科学所假设的各种“次个人”表征。因此，心理表征理论可以与否认这些事物存在的理论相对比，比如 Baker（1995）、Collins（1987）、Dennett（1987）、Gibson（1966, 1979）、Reid（1764/1997）、Stich（1983）和 Thau（2002）的理论。
-
-* [1. 心理表征理论](https://plato.stanford.edu/entries/mental-representation/#Representational)
-* [2. 命题态度](https://plato.stanford.edu/entries/mental-representation/#Propositional)
-* [3. 概念和非概念表征](https://plato.stanford.edu/entries/mental-representation/#Conceptual)
-* [4. 表征主义和现象主义](https://plato.stanford.edu/entries/mental-representation/#Representationalism)
-* [ 5. 想象力](https://plato.stanford.edu/entries/mental-representation/#Imagery)
-* [6. 内容确定](https://plato.stanford.edu/entries/mental-representation/#Content)
-* [7. 内在主义和外在主义](https://plato.stanford.edu/entries/mental-representation/#Internalism)
-* [8. 心灵的计算理论](https://plato.stanford.edu/entries/mental-representation/#Computation)
-* [9. 思维与语言](https://plato.stanford.edu/entries/mental-representation/#Thought)
-* [ 参考文献](https://plato.stanford.edu/entries/mental-representation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/mental-representation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mental-representation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mental-representation/#Rel)
-
+ 
 ---
 
 ## 1. 心理表征理论

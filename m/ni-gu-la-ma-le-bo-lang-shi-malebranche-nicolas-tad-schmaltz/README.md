@@ -4,22 +4,7 @@
 
 尼古拉·马勒伯朗士（Nicolas Malebranche）是法国笛卡尔派哲学家，被他的同时代人皮埃尔·巴伊尔誉为“我们时代的首席哲学家”。在他的哲学生涯中，马勒伯朗士发表了关于形而上学、神学和伦理学的重要著作，以及关于光学、运动定律和颜色本质的研究。他主要以对他的哲学偶像圣奥古斯丁和勒内·笛卡尔观点的高度原创综合而闻名。这种综合的两个独特结果是马勒伯朗士的教义，即我们通过上帝中的观念看到物体，以及他的偶然论结论，即上帝是唯一的真正原因。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/malebranche/#LifWor)
-* [2. 观念与上帝中的视觉](https://plato.stanford.edu/entries/malebranche/#IdeVisGod)
-* [ 3. 笛卡尔二元论](https://plato.stanford.edu/entries/malebranche/#CarDua)
-* [ 4. 偶然论](https://plato.stanford.edu/entries/malebranche/#Occ)
-* [ 5. 神正义论](https://plato.stanford.edu/entries/malebranche/#The)
-* [ 6. 道德理论](https://plato.stanford.edu/entries/malebranche/#MorThe)
-* [ 参考文献](https://plato.stanford.edu/entries/malebranche/#Bib)
-
-  * [ 尼古拉·马勒伯朗士的著作](https://plato.stanford.edu/entries/malebranche/#MalWor)
-  * [相关的早期现代作品](https://plato.stanford.edu/entries/malebranche/#RelEarModWor)
-  * [ 文献来源](https://plato.stanford.edu/entries/malebranche/#BibSou)
-  * [推荐的二手文献](https://plato.stanford.edu/entries/malebranche/#RecSecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/malebranche/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/malebranche/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/malebranche/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品

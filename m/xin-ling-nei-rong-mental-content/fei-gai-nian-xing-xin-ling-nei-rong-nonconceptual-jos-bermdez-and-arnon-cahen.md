@@ -4,22 +4,7 @@
 
 非概念性心灵内容理论背后的核心思想是，尽管持有这些心灵状态的人不需要具备指定其内容所需的概念，但某些心灵状态可以代表世界。这个基本思想已经以不同的方式发展，并应用于不同的心灵状态类别。这些发展和应用并不都一致，但每一种都对广泛认可的观点提出了挑战，即一个生物能够代表世界的方式是由其概念能力决定的。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/content-nonconceptual/#Int)
-* [2. 非概念性内容：初步描述](https://plato.stanford.edu/entries/content-nonconceptual/#NonConIniCha)
-* [3. 一个重要的区别：状态与内容的非概念性主义](https://plato.stanford.edu/entries/content-nonconceptual/#ImpDisStaVsConNon)
-* [4. 应用非概念性内容的概念](https://plato.stanford.edu/entries/content-nonconceptual/#AppNotNonCon)
-
-  * [4.1 知觉经验和非概念性内容](https://plato.stanford.edu/entries/content-nonconceptual/#PerExpNonCon)
-  * [4.2 子个体计算状态和非概念性内容](https://plato.stanford.edu/entries/content-nonconceptual/#SubComStaNonCon)
-  * [4.3 心理解释](https://plato.stanford.edu/entries/content-nonconceptual/#PsyExp)
-* [5. 确定非概念性内容](https://plato.stanford.edu/entries/content-nonconceptual/#SpeNonCon)
-* [6. 非概念性内容的自主性](https://plato.stanford.edu/entries/content-nonconceptual/#AutNonCon)
-* [7. 非概念性内容：问题与前景](https://plato.stanford.edu/entries/content-nonconceptual/#NonConProPro)
-* [ 参考文献](https://plato.stanford.edu/entries/content-nonconceptual/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/content-nonconceptual/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/content-nonconceptual/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/content-nonconceptual/#Rel)
-
+ 
 ---
 
 ## 1. 引言

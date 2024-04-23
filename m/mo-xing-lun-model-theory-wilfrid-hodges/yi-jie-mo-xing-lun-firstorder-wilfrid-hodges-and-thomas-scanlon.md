@@ -4,16 +4,7 @@ _首次发表于2001年11月10日；实质性修订于2024年1月25日。_
 
 一阶模型论，也被称为经典模型论，是数学的一个分支，处理的是一阶语言中的描述与满足这些描述的结构之间的关系。从一个角度来看，这是一个充满活力的数学研究领域，它将逻辑方法（特别是定义理论）应用于经典数学的深层问题。从另一个角度来看，一阶模型论是模型论的范式；它是模型论许多更广泛的思想首次得到发展的领域。
 
-* [1. 一阶语言和结构](https://plato.stanford.edu/entries/modeltheory-fo/#Lang)
-* [2. 初等映射](https://plato.stanford.edu/entries/modeltheory-fo/#Elem)
-* [3. 五个重要定理](https://plato.stanford.edu/entries/modeltheory-fo/#Thms)
-* [4. 三个有用的构造](https://plato.stanford.edu/entries/modeltheory-fo/#Const)
-* [5. 三个成功的计划](https://plato.stanford.edu/entries/modeltheory-fo/#Prog)
-* [参考文献](https://plato.stanford.edu/entries/modeltheory-fo/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/modeltheory-fo/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/modeltheory-fo/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/modeltheory-fo/#Rel)
-
+ 
 ***
 
 ## 1. 一阶语言和结构

@@ -4,30 +4,7 @@
 
 中世纪哲学文本以各种文学形式书写，其中许多形式是特有于这个时期的，比如总论或争议性问题；其他形式，如评论、对话和公理，在古代和现代的来源中也可以找到，但在中世纪时期与这些形式的古典或现代实例有着显著的不同。许多哲学文本还具有高度争论性的风格和/或似乎对他们引用的权威来源表示尊重。此外，中世纪哲学思想家在政治和宗教权威的威胁下行动，一些人认为，这使他们以隐晦或间接的方式写作，以保护自己免受因真实观点而受迫害的危险。所有这些文学和修辞特点使得中世纪哲学文本比现代甚至古典哲学文本更难理解和解释。此外，中世纪哲学中使用的广泛的文体范围与现代和当代哲学作品中更为有限的接受形式集合相比，引发了关于哲学写作的本质的问题。
 
-* [ 1. 历史来源](https://plato.stanford.edu/entries/medieval-literary/#HistSour)
-* [2. 文学形式](https://plato.stanford.edu/entries/medieval-literary/#LiteForm)
-
-  * [2.1 寓言和寓意解释](https://plato.stanford.edu/entries/medieval-literary/#AlleAlle)
-  * [ 2.2 格言](https://plato.stanford.edu/entries/medieval-literary/#Apho)
-  * [ 2.3 公理](https://plato.stanford.edu/entries/medieval-literary/#Axio)
-  * [ 2.4 评论](https://plato.stanford.edu/entries/medieval-literary/#Comm)
-  * [ 2.5 对话](https://plato.stanford.edu/entries/medieval-literary/#Dial)
-  * [2.6 辩论，问题，自由问题](https://plato.stanford.edu/entries/medieval-literary/#DispQuaeQuodQues)
-  * [2.7 冥想，独白](https://plato.stanford.edu/entries/medieval-literary/#MediSoli)
-  * [2.8 句子和句子评论](https://plato.stanford.edu/entries/medieval-literary/#SentSentComm)
-  * [2.9 诡辩，无解，义务](https://plato.stanford.edu/entries/medieval-literary/#SophInsoObli)
-  * [ 2.10 中世纪哲学](https://plato.stanford.edu/entries/medieval-literary/#Summ)
-* [3. 权威的角色](https://plato.stanford.edu/entries/medieval-literary/#RoleAuth)
-* [4. 秘传主义、审查制度和辩论](https://plato.stanford.edu/entries/medieval-literary/#EsotCensPole)
-* [5. 中世纪哲学的文学形式发展](https://plato.stanford.edu/entries/medieval-literary/#DeveLiteFormMediPhil)
-* [ 参考书目](https://plato.stanford.edu/entries/medieval-literary/#Bib)
-
-  * [选定的主要来源](https://plato.stanford.edu/entries/medieval-literary/#SelePrimSour)
-  * [ 二手资料](https://plato.stanford.edu/entries/medieval-literary/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/medieval-literary/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/medieval-literary/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/medieval-literary/#Rel)
-
+ 
 ---
 
 ## 1. 历史来源

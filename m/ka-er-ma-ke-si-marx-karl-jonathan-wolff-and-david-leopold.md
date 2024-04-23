@@ -7,60 +7,7 @@
 这里选择的主题包括马克思的哲学人类学、他的历史理论、他的经济分析、他对当代资本主义社会的批判性参与（涉及道德、意识形态和政治问题），以及他对共产主义未来的预测。
 
 卡尔·马克思的早期著作主要集中在对异化的理解上，这是一种独特的社会疾病，其诊断似乎基于对人性及其繁荣的有争议的解释。随后，他发展了一种有影响力的历史理论，通常被称为历史唯物主义，其核心思想是社会形式的兴衰与人类生产力的发展进程息息相关。马克思越来越关注对当代资本主义生产方式的理解，这种生产方式被无情地追求利润所驱动，其根源可以追溯到从被剥削的无产阶级那里获取剩余价值。关于道德和道德批评在马克思对当代资本主义社会的批判中的确切作用，学术界尚无定论。他对道德的理解可能与他对意识形态的解释有关，以及他对某些广泛共享的误解在解释阶级分裂社会稳定性方面的思考。在他的激进新闻工作中，马克思还发展了他有争议的现代国家的性格和作用的解释，以及政治和经济生活之间的关系。马克思将历史过程视为一系列生产方式的演进，其特点是（或多或少地）阶级斗争，并推动人类走向共产主义。然而，马克思以其著名的勉强言之几句，对于他试图实现的共产主义替代方案的详细安排并不多，他认为这将通过历史进程产生，并不是预先确定的计划或蓝图的实现。
-
-* [1. 生平与著作](https://plato.stanford.edu/entries/marx/#LifeWrit)
-
-  * [ 1.1 早年岁月](https://plato.stanford.edu/entries/marx/#EarlYear)
-  * [ 1.2 巴黎](https://plato.stanford.edu/entries/marx/#Pari)
-  * [ 1.3 布鲁塞尔](https://plato.stanford.edu/entries/marx/#Brus)
-  * [ 1.4 伦敦](https://plato.stanford.edu/entries/marx/#Lond)
-* [2. 异化与人类繁荣](https://plato.stanford.edu/entries/marx/#AlieHumaFlou)
-
-  * [2.1 基本思想](https://plato.stanford.edu/entries/marx/#BasiIdea)
-  * [2.2 宗教与工作](https://plato.stanford.edu/entries/marx/#ReliWork)
-  * [2.3 异化与资本主义](https://plato.stanford.edu/entries/marx/#AlieCapi)
-  * [2.4 政治解放](https://plato.stanford.edu/entries/marx/#PoliEman)
-  * [ 2.5 未解决的问题](https://plato.stanford.edu/entries/marx/#RemaQues)
-* [3. 历史理论](https://plato.stanford.edu/entries/marx/#TheoHist)
-
-  * [ 3.1 来源](https://plato.stanford.edu/entries/marx/#Sour)
-  * [ 3.2 早期阐述](https://plato.stanford.edu/entries/marx/#EarlForm)
-  * [ 3.3 1859 序言](https://plato.stanford.edu/entries/marx/#N185Pref)
-  * [3.4 功能解释](https://plato.stanford.edu/entries/marx/#FuncExpl)
-  * [ 3.5 理性](https://plato.stanford.edu/entries/marx/#Rati)
-  * [3.6 替代解释](https://plato.stanford.edu/entries/marx/#AlteInte)
-* [ 4. 经济学](https://plato.stanford.edu/entries/marx/#Econ)
-
-  * [ 4.1 阅读《资本论》](https://plato.stanford.edu/entries/marx/#ReadCapi)
-  * [4.2 价值劳动理论](https://plato.stanford.edu/entries/marx/#LaboTheoValu)
-  * [ 4.3 剥削](https://plato.stanford.edu/entries/marx/#Expl)
-* [ 5. 道德](https://plato.stanford.edu/entries/marx/#Mora)
-
-  * [ 5.1 解释问题](https://plato.stanford.edu/entries/marx/#UnpaIssu)
-  * [5.2 资本主义的“不公正”](https://plato.stanford.edu/entries/marx/#InjuCapi)
-  * [5.3 共产主义和“正义”](https://plato.stanford.edu/entries/marx/#CommJust)
-* [ 6. 意识形态](https://plato.stanford.edu/entries/marx/#Ideo)
-
-  * [6.1 一种批判性的解释](https://plato.stanford.edu/entries/marx/#CritAcco)
-  * [6.2 意识形态与稳定](https://plato.stanford.edu/entries/marx/#IdeoStab)
-  * [ 6.3 特征](https://plato.stanford.edu/entries/marx/#Char)
-* [7. 国家与政治](https://plato.stanford.edu/entries/marx/#StatPoli)
-
-  * [7.1 资本主义社会中的国家](https://plato.stanford.edu/entries/marx/#StatCapiSoci)
-  * [7.2. 在共产主义社会中国家的命运](https://plato.stanford.edu/entries/marx/#FateStatCommSoci)
-* [ 8. 乌托邦主义](https://plato.stanford.edu/entries/marx/#Utop)
-
-  * [ 8.1 乌托邦社会主义](https://plato.stanford.edu/entries/marx/#UtopSoci)
-  * [ 8.2 卡尔·马克思的乌托邦恐惧症](https://plato.stanford.edu/entries/marx/#MarxUtop)
-* [ 9. 卡尔·马克思的遗产](https://plato.stanford.edu/entries/marx/#MarxLega)
-* [ 参考文献](https://plato.stanford.edu/entries/marx/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/marx/#PrimLite)
-  * [ 次要文献](https://plato.stanford.edu/entries/marx/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/marx/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/marx/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/marx/#Rel)
-
+ 
 ---
 
 ## 1. 生平与著作

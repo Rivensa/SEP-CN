@@ -4,23 +4,7 @@ _首次发表于2013年3月8日；实质修订于2024年1月31日_
 
 在许多语言中，比如英语，由普通名词引导的名词表达式可以分为两个子类型，即物质名词表达式（如酒、餐具、智慧）和可数名词表达式（如猫、军队、想法）。我们首先描述了物质名词表达式的特征。然后我们讨论了关于它们语义的各种提议。
 
-* [1. 什么是物质名词表达式？](https://plato.stanford.edu/entries/logic-massexpress/#WhaMasExp)
-  * [1.1 句法标准](https://plato.stanford.edu/entries/logic-massexpress/#SynCri)
-  * [1.2 语义标准](https://plato.stanford.edu/entries/logic-massexpress/#SemCri)
-* [2. 纯粹的部分学方法](https://plato.stanford.edu/entries/logic-massexpress/#PurMerApp)
-* [3. 纯粹的集合论方法](https://plato.stanford.edu/entries/logic-massexpress/#PurSetTheApp)
-* [4. 混合集合论和部分论方法](https://plato.stanford.edu/entries/logic-massexpress/#MixSetTheMerApp)
-* [5. 否定](https://plato.stanford.edu/entries/logic-massexpress/#Neg)
-* [6. 量词](https://plato.stanford.edu/entries/logic-massexpress/#Qua)
-* [7. 逻辑关系](https://plato.stanford.edu/entries/logic-massexpress/#LogRel)
-* [8. 集体和非集体的解释，覆盖](https://plato.stanford.edu/entries/logic-massexpress/#ColNonColConCov)
-* [9. 非单数术语](https://plato.stanford.edu/entries/logic-massexpress/#NonSinTer)
-* [10. 抽象物质名词](https://plato.stanford.edu/entries/logic-massexpress/#AbsMasNou)
-* [参考文献](https://plato.stanford.edu/entries/logic-massexpress/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/logic-massexpress/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-massexpress/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/logic-massexpress/#Rel)
-
+ 
 ***
 
 ## 1. 什么是物质名词？

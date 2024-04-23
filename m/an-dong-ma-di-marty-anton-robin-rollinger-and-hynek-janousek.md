@@ -10,23 +10,7 @@
 安东·马蒂（1847 年 10 月 18 日-1914 年 10 月 1 日）是一位语言学家、心理学家和本体论者。他出生在瑞士的施维茨，出生在一个非常庞大的家庭，并以“马丁·安东·莫尔斯·马蒂”这个全名受洗为天主教徒。他的哥哥进入了神职，并成为北美苏族的传教士。尽管马蒂本人也被祝圣，但在布伦塔诺（Brentano）这样做之后不久（在宣布教皇无误教义之后的几年，即 1873 年），他离开了神职，并选择了学术事业。他在布拉格去世，当时布拉格是奥匈帝国的一部分，他在那里担任德语系费迪南德·查尔斯大学的教授，大部分时间都在那里度过了他的学术生涯。
 
 马蒂的哲学工作尤其独特，特别是将布伦塔诺的描述性心理学应用于对语言的研究，与他那个时代许多著名的语言学和语言哲学流派形成对立。这些流派在很多情况下更多地是历史性而不是心理学性质的，但也经常基于心理学理论，其中意向性并没有像在布伦塔诺心理学中那样被充分或几乎没有被主题化。马蒂的语言哲学因此在本质上是对语言现象作为本质上有意向性的反思而出色。
-
-* [1. 安东·马蒂作为布伦塔诺的追随者](https://plato.stanford.edu/entries/marty/#MarFolBre)
-* [2. 颜色名称和颜色感知的发展](https://plato.stanford.edu/entries/marty/#ColNamDevColPer)
-* [ 3. 语言](https://plato.stanford.edu/entries/marty/#Lan)
-
-  * [3.1 语言的起源](https://plato.stanford.edu/entries/marty/#OriLan)
-  * [3.2 描述性语义学](https://plato.stanford.edu/entries/marty/#DesSem)
-* [4. 空间和时间](https://plato.stanford.edu/entries/marty/#SpaTim)
-* [ 5. 安东·马蒂的遗产](https://plato.stanford.edu/entries/marty/#MarLeg)
-* [ 参考文献](https://plato.stanford.edu/entries/marty/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/marty/#PriLit)
-  * [ 二手文献](https://plato.stanford.edu/entries/marty/#SecLit)
-  * [附加文献和翻译](https://plato.stanford.edu/entries/marty/#AddLitTra)
-* [ 学术工具](https://plato.stanford.edu/entries/marty/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/marty/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/marty/#Rel)
+ 
 
 ---
 

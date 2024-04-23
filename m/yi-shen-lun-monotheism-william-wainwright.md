@@ -4,23 +4,7 @@ _首次发表于2005年11月1日；实质性修订于2018年7月30日_
 
 一神论者相信现实的最终原则是上帝-一位全能、全知、善良的创造者，是除自身以外的一切事物的创造基础。一神论是认为只有这样一个上帝的观点。在简要讨论一神论的历史起源之后，本文将探讨五种最有影响力的试图确立上帝独特性的方法。我们将考虑来自上帝的简单性、完美性、主权性、全能性和对全然奉献的需求的论证。本文最后还将审视三个包含可能与一神论承诺相矛盾的传统神论传统-犹太的卡巴拉传统、基督教和斯里·瓦伊什纳维斯姆。
 
-* [1. 一神论的起源](https://plato.stanford.edu/entries/monotheism/#MonOri)
-* [2. 从上帝的简单性的论证](https://plato.stanford.edu/entries/monotheism/#ArgGodSim)
-* [3. 一个关于上帝完美性的论证](https://plato.stanford.edu/entries/monotheism/#ArgGodPer)
-* [4. 两个关于上帝主权的论证](https://plato.stanford.edu/entries/monotheism/#TwoArgGodSov)
-  * [4.1 关于因果秩序的论证](https://plato.stanford.edu/entries/monotheism/#ArgCauOrd)
-  * [4.2 一神论的“总因果性”论证](https://plato.stanford.edu/entries/monotheism/#ArgGodTotCau)
-* [5. 一神论的全能论证](https://plato.stanford.edu/entries/monotheism/#ArgOmn)
-* [6. 对全然奉献的需求的一神论论证](https://plato.stanford.edu/entries/monotheism/#ArgDemForTotDev)
-* [7. “一神论传统”真的是一神论吗？](https://plato.stanford.edu/entries/monotheism/#MonTraReaMon)
-  * [7.1 卡巴拉和一神论](https://plato.stanford.edu/entries/monotheism/#KabMon)
-  * [7.2 基督教和三位一体](https://plato.stanford.edu/entries/monotheism/#ChrTri)
-  * [7.3 Shri Vaishnavas 和一神论](https://plato.stanford.edu/entries/monotheism/#ShrVaiMon)
-* [参考书目](https://plato.stanford.edu/entries/monotheism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/monotheism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/monotheism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/monotheism/#Rel)
-
+ 
 ***
 
 ## 1. 一神论的起源

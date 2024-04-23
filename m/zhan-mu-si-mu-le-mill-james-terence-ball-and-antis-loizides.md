@@ -6,30 +6,7 @@
 
 穆勒的兴趣范围非常广泛，从他的两卷本《人类思维现象分析》（1829a）中的教育和心理学，到政治经济学（他说服他的朋友大卫·李嘉图写关于这个主题的书，正如穆勒自己在他的《政治经济学要素》（1821）中所做的那样），再到刑罚和监狱改革，法律和历史，以及尤其重要的政治哲学。在这些和其他主题上，他写了五本书和一千多篇论文和评论。本文主要关注的是作为政治哲学家和教育理论家的穆勒。
 
-* [ 1. 传记](https://plato.stanford.edu/entries/james-mill/#Bio)
-* [2. 与贝塔姆结盟](https://plato.stanford.edu/entries/james-mill/#AllBen)
-* [ 3. 穆勒的著作](https://plato.stanford.edu/entries/james-mill/#MilWri)
-* [4. 《论政府》](https://plato.stanford.edu/entries/james-mill/#EssGov)
-
-  * [4.1 詹姆斯·穆勒关于表征](https://plato.stanford.edu/entries/james-mill/#MilRep)
-  * [4.2 优秀主义的“中等阶层”](https://plato.stanford.edu/entries/james-mill/#MerMidRan)
-  * [4.3 政府的接受](https://plato.stanford.edu/entries/james-mill/#RecGov)
-  * [4.4 麦考利的“著名攻击”](https://plato.stanford.edu/entries/james-mill/#MacFamAtt)
-* [5. 其他相关著作](https://plato.stanford.edu/entries/james-mill/#OthRelWri)
-* [6. 《论教育》](https://plato.stanford.edu/entries/james-mill/#EssEdu)
-
-  * [6.1 詹姆斯·穆勒对“人类思维”的看法](https://plato.stanford.edu/entries/james-mill/#MilHumMin)
-  * [6.2 人格的形成](https://plato.stanford.edu/entries/james-mill/#ForCha)
-  * [6.3 教育、权力和新闻自由](https://plato.stanford.edu/entries/james-mill/#EduPowLibPre)
-  * [6.4 教育与幸福](https://plato.stanford.edu/entries/james-mill/#EduHap)
-* [7. 结论：詹姆斯·穆勒的遗产](https://plato.stanford.edu/entries/james-mill/#ConMilLeg)
-* [ 参考文献](https://plato.stanford.edu/entries/james-mill/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/james-mill/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/james-mill/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/james-mill/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/james-mill/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/james-mill/#Rel)
+ 
 
 ---
 

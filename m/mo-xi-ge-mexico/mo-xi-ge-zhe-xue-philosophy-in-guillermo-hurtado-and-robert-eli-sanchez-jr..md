@@ -8,30 +8,7 @@
 
 参考文献包括本文提到的所有书籍和文章，以及一些英文的次要文献的选择。
 
-* [1. 一些元哲学问题](https://plato.stanford.edu/entries/philosophy-mexico/#SomeMetaQues)
-* [2. 前哥伦布时期的哲学](https://plato.stanford.edu/entries/philosophy-mexico/#PreHispPhil)
-* [3. 征服哲学和文艺复兴人文主义的哲学](https://plato.stanford.edu/entries/philosophy-mexico/#PhilConqRenaHuma)
-* [4. 16 世纪：斯科拉哲学](https://plato.stanford.edu/entries/philosophy-mexico/#N16tCentScho)
-* [5. 17 世纪：斯科拉哲学与巴洛克艺术](https://plato.stanford.edu/entries/philosophy-mexico/#N17tCentSchoBaro)
-* [6. 18 世纪：现代性的困难接受](https://plato.stanford.edu/entries/philosophy-mexico/#N18tCentDiffReceMode)
-* [7. 19 世纪：自由主义者和实证主义者](https://plato.stanford.edu/entries/philosophy-mexico/#N19tCentLibePosi)
-* [8. 20 世纪](https://plato.stanford.edu/entries/philosophy-mexico/#N20tCent)
-
-  * [8.1. 哲学与墨西哥革命（1910 年-1930 年）](https://plato.stanford.edu/entries/philosophy-mexico/#PhilMexiRevo1910)
-  * [8.2. 专业哲学的形成（1930 年-1960 年）](https://plato.stanford.edu/entries/philosophy-mexico/#FormProfPhil1930)
-  * [8.3. 墨西哥流亡者](https://plato.stanford.edu/entries/philosophy-mexico/#SpanExil)
-  * [8.4. 随附/监督群体](https://plato.stanford.edu/entries/philosophy-mexico/#HypeGrou)
-  * [ 8.5. 墨西哥的 Leopoldo Zea](https://plato.stanford.edu/entries/philosophy-mexico/#LeopZea)
-  * [ 8.6. 墨西哥的 Luis Villoro](https://plato.stanford.edu/entries/philosophy-mexico/#LuisVill)
-  * [8.7. 扩张的年代（1960 年至 2000 年）](https://plato.stanford.edu/entries/philosophy-mexico/#YearExpa1960)
-* [ 9. 21 世纪](https://plato.stanford.edu/entries/philosophy-mexico/#N21SCent)
-* [ 参考书目](https://plato.stanford.edu/entries/philosophy-mexico/#Bib)
-
-  * [西班牙语的一手和二手资料](https://plato.stanford.edu/entries/philosophy-mexico/#PrimSecoSourSpan)
-  * [英文次要来源](https://plato.stanford.edu/entries/philosophy-mexico/#SecoSourEngl)
-* [ 学术工具](https://plato.stanford.edu/entries/philosophy-mexico/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/philosophy-mexico/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/philosophy-mexico/#Rel)
+ 
 
 ---
 

@@ -6,32 +6,7 @@
 
 因此，模型引起了哲学家们的关注，现在有大量关于科学建模各个方面的文献。哲学与模型的接触的一个有形结果是哲学文献中对模型类型的不断增多。探索模型、现象学模型、计算模型、发展模型、解释模型、贫乏模型、测试模型、理想化模型、理论模型、比例模型、启发式模型、漫画模型、探索性模型、教学模型、幻想模型、最小模型、玩具模型、想象模型、数学模型、机械模型、替代模型、图标模型、形式模型、类比模型和工具模型等概念被用来对模型进行分类。虽然乍一看这种丰富多样性令人不知所措，但通过认识到这些概念与模型相关的不同问题，可以将其控制在一定范围内。模型在语义学（模型如何表示？）、本体论（模型是什么样的东西？）、认识论（我们如何通过模型学习和解释？）以及当然还有科学哲学的其他领域中引发问题。
 
-* [1. 语义学：模型与表示](https://plato.stanford.edu/entries/models-science/#SemaModeRepr)
-* [2. 本体论：什么是模型？](https://plato.stanford.edu/entries/models-science/#OntoWhatMode)
-
-  * [ 2.1 物理对象](https://plato.stanford.edu/entries/models-science/#PhysObje)
-  * [2.2 虚构对象和抽象对象](https://plato.stanford.edu/entries/models-science/#FictObjeAbstObje)
-  * [2.3 集合论结构](https://plato.stanford.edu/entries/models-science/#SetTheoStru)
-  * [2.4 描述和方程](https://plato.stanford.edu/entries/models-science/#DescEqua)
-* [3. 认识论：模型的认知功能](https://plato.stanford.edu/entries/models-science/#EpisCognFuncMode)
-
-  * [3.1 学习关于模型](https://plato.stanford.edu/entries/models-science/#LearAbouMode)
-  * [3.2 学习关于目标系统](https://plato.stanford.edu/entries/models-science/#LearAbouTargSyst)
-  * [3.3 用模型解释](https://plato.stanford.edu/entries/models-science/#ExplMode)
-  * [3.4 通过模型理解](https://plato.stanford.edu/entries/models-science/#UndeMode)
-  * [3.5 其他认知功能](https://plato.stanford.edu/entries/models-science/#OtheCognFunc)
-* [4. 模型和理论](https://plato.stanford.edu/entries/models-science/#ModeTheo)
-
-  * [4.1 模型作为理论的附属物](https://plato.stanford.edu/entries/models-science/#ModeSubsTheo)
-  * [4.2 模型与理论的独立性](https://plato.stanford.edu/entries/models-science/#ModeIndeTheo)
-* [5. 模型与科学哲学中的其他辩论](https://plato.stanford.edu/entries/models-science/#ModeOtheDebaPhilScie)
-
-  * [5.1 模型，现实主义和自然法则](https://plato.stanford.edu/entries/models-science/#ModeRealLawsNatu)
-  * [5.2 模型和还原论](https://plato.stanford.edu/entries/models-science/#ModeRedu)
-* [ 参考文献](https://plato.stanford.edu/entries/models-science/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/models-science/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/models-science/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/models-science/#Rel)
+ 
 
 ---
 

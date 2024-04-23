@@ -4,21 +4,7 @@
 
 孟德斯鸠是启蒙时代伟大的政治哲学家之一。他好奇心旺盛，幽默风趣，构建了一种自然主义的解释各种政府形式的理论，并解释了使它们成为现在的原因以及推动或限制它们发展的因素。他利用这个理论来解释政府如何能够免受腐败的侵害。他特别认为专制主义对于任何非专制政府来说都是一种持续存在的危险，并主张通过一个不同机构行使立法、行政和司法权力，并且这些机构都受法治约束的体制来最好地防止专制主义。这种权力分立理论对自由主义政治理论以及美国宪法的制定者产生了巨大影响。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/montesquieu/#1)
-* [ 2. 主要作品](https://plato.stanford.edu/entries/montesquieu/#2)
-* [ 3. 波斯信札](https://plato.stanford.edu/entries/montesquieu/#3)
-* [4. 法律精神](https://plato.stanford.edu/entries/montesquieu/#4)
-
-  * [4.1 政府形式](https://plato.stanford.edu/entries/montesquieu/#4.1)
-  * [ 4.2 自由](https://plato.stanford.edu/entries/montesquieu/#4.2)
-  * [4.3 气候和地理](https://plato.stanford.edu/entries/montesquieu/#4.3)
-  * [ 4.4 商业](https://plato.stanford.edu/entries/montesquieu/#4.4)
-  * [ 4.5 宗教](https://plato.stanford.edu/entries/montesquieu/#4.5)
-* [ 参考书目](https://plato.stanford.edu/entries/montesquieu/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/montesquieu/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/montesquieu/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/montesquieu/#Rel)
-
+ 
 ---
 
 ## 1. 生活

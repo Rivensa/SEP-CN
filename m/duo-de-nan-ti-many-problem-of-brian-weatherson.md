@@ -4,23 +4,7 @@ _首次发表于2003年1月9日；实质性修订于2023年8月31日。_
 
 正如任何飞出云层的人所知，云的边界在近距离看起来比在地面上看起来要模糊得多。即使在那里似乎清楚地存在一个有着明确边界的云，实际上有成千上万个水滴既不确定地属于云的一部分，也不确定地在云的外部。考虑任何由云的核心和这些水滴的任意选择组成的物体。它看起来像一朵云，并且在条件允许的情况下会下雨，就像一朵云一样，并且在天空的那一部分，它与任何其他物体一样有资格成为一朵云。但我们不能说每个这样的物体都是一朵云，否则在看起来只有一朵云的地方将会有数百万朵云。而且对于任何在你越近看它的边界越不清晰的东西都是成立的，包括我们通常思考的几乎所有类型的物体，包括人类。尽管这似乎只是一个技术上的难题，甚至是一个微不足道的问题，但已经出现了许多互相矛盾的解决方案。甚至还没有确定解决方案应该来自形而上学、语言哲学还是逻辑学。在这里，我们对各种选择进行概述，并提供与“多的难题”相关的许多主题的链接。
 
-* [1. 引言](https://plato.stanford.edu/entries/problem-of-many/#Intr)
-* [2. 虚无主义](https://plato.stanford.edu/entries/problem-of-many/#Nihi)
-* [3. 人口过剩](https://plato.stanford.edu/entries/problem-of-many/#OverPopu)
-* [4. 野蛮主义](https://plato.stanford.edu/entries/problem-of-many/#Brut)
-* [5. 相对身份](https://plato.stanford.edu/entries/problem-of-many/#RelaIden)
-* [6. 部分同一性](https://plato.stanford.edu/entries/problem-of-many/#PartIden)
-* [7. 模糊性](https://plato.stanford.edu/entries/problem-of-many/#Vagu)
-  * [7.1 重复论证](https://plato.stanford.edu/entries/problem-of-many/#ArguDupl)
-  * [7.2 相似性论证](https://plato.stanford.edu/entries/problem-of-many/#ArguSimi)
-  * [7.3 意义论证](https://plato.stanford.edu/entries/problem-of-many/#ArguMean)
-* [8. 合成并非同一性](https://plato.stanford.edu/entries/problem-of-many/#CompNotIden)
-* [9. 重新思考部分性](https://plato.stanford.edu/entries/problem-of-many/#RethPart)
-* [参考文献](https://plato.stanford.edu/entries/problem-of-many/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/problem-of-many/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/problem-of-many/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/problem-of-many/#Rel)
-
+ 
 ***
 
 ## 1. 引言

@@ -8,16 +8,7 @@ _首次发表于1999年6月30日，实质性修订于2021年4月15日。_
 
 约翰·邓斯·斯科特发展了模态的模型作为替代性进入了详细的理论。逻辑可能性是一种不与其他可能性相容的东西，尽管它可能不与其他可能性相容。斯科特的模态语义在 14 世纪初的哲学和神学中以多种方式产生了影响。13 世纪的本质主义假设被从模态三段论中删除，其中亚里士多德版本被认为是一个不足以解释模态命题各种细微结构的片段理论。虽然亚里士多德的频率解释在晚中世纪逻辑中并不相关，但它在自然哲学中继续发挥作用。
 
-* [1. 古代模态范例的方面](https://plato.stanford.edu/entries/modality-medieval/#AspAncModPar)
-* [2. 早期中世纪的发展](https://plato.stanford.edu/entries/modality-medieval/#EarMedDev)
-* [3. 十三世纪逻辑论文中的模态](https://plato.stanford.edu/entries/modality-medieval/#ModThiCenLogTre)
-* [4. 十四世纪讨论](https://plato.stanford.edu/entries/modality-medieval/#FouCenDis)
-* [参考文献](https://plato.stanford.edu/entries/modality-medieval/#Bib)
-  * [主要来源](https://plato.stanford.edu/entries/modality-medieval/#PriSou)
-  * [次要来源](https://plato.stanford.edu/entries/modality-medieval/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/modality-medieval/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/modality-medieval/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/modality-medieval/#Rel)
+ 
 
 ***
 

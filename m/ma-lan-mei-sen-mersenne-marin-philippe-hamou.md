@@ -6,28 +6,7 @@
 
 虽然马兰·梅森（作为科学生活的推动者和笛卡尔的朋友和通信者）的这些特点是最为人所知的，但它们不应掩盖马兰·梅森对哲学的独特贡献。尽管他最初的作品具有辩论的口吻，提供了“科学辩护”（Lenoble 1943），使用从科学中获得的论据来捍卫基督教天主教教义，抵御各种威胁它的异端思潮，但他后来的出版物（从 1634 年开始）对辩护的关注远远减少，而是展示和推广了新的机械、数学和实验科学。作为他复杂的知识生涯中贯穿始终的一个重要主题，音乐被理解为和声的一般科学，受到了马兰·梅森的持续关注，并成为了几本重要著作的主题。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/mersenne/#LifeWork)
-* [2. 科学辩护](https://plato.stanford.edu/entries/mersenne/#ScieApol)
-* [3.形而上学问题](https://plato.stanford.edu/entries/mersenne/#MetaIssu)
-
-  * [3.1 形而上学作为理性神学](https://plato.stanford.edu/entries/mersenne/#MetaRatiTheo)
-  * [3.2 上帝存在的证明](https://plato.stanford.edu/entries/mersenne/#ProoGodsExis)
-  * [ 3.3 自愿主义](https://plato.stanford.edu/entries/mersenne/#Volu)
-  * [3.4 马兰·梅森和笛卡尔对于永恒真理的看法](https://plato.stanford.edu/entries/mersenne/#MersDescEterTrut)
-* [4. 认识论问题](https://plato.stanford.edu/entries/mersenne/#EpisIssu)
-
-  * [4.1 反对怀疑论者](https://plato.stanford.edu/entries/mersenne/#AgaiSkep)
-  * [4.2 缓和怀疑论和概率论](https://plato.stanford.edu/entries/mersenne/#MitiSkepProb)
-  * [4.3 机械主义和实验主义](https://plato.stanford.edu/entries/mersenne/#MechExpe)
-* [5. 音乐与普遍和谐](https://plato.stanford.edu/entries/mersenne/#MusiUnivHarm)
-* [ 参考文献](https://plato.stanford.edu/entries/mersenne/#Bib)
-
-  * [马兰·梅森的著作和缩写](https://plato.stanford.edu/entries/mersenne/#MersWorkAbbr)
-  * [ 其他主要来源](https://plato.stanford.edu/entries/mersenne/#OthePrimSour)
-  * [ 二级来源](https://plato.stanford.edu/entries/mersenne/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/mersenne/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mersenne/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mersenne/#Rel)
+ 
 
 ---
 

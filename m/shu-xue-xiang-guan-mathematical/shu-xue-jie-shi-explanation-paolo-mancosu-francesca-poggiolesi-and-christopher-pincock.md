@@ -4,21 +4,7 @@
 
 数学解释的哲学分析涉及两个不同但相互关联的研究领域。第一个领域涉及数学是否能在自然科学和社会科学中发挥解释作用的问题。第二个领域涉及数学解释是否发生在数学本身之内。因此，本文概述了对这两个领域的贡献，展示了它们与哲学、数学和科学历史的相关性，阐明了它们的联系，并指出了通过加深对这一主题的理解所能获得的哲学回报。
 
-* [1. 数学解释在经验科学中的应用](https://plato.stanford.edu/entries/mathematics-explanation/#MathExplEmpiScie)
-
-  * [1.1 一些历史评论](https://plato.stanford.edu/entries/mathematics-explanation/#SomeHistRemaOne)
-  * [1.2 解释的理论](https://plato.stanford.edu/entries/mathematics-explanation/#TheoExpl)
-  * [1.3 数学模型与理想化](https://plato.stanford.edu/entries/mathematics-explanation/#MathModeIdea)
-  * [1.4 解释的不可或缺性论证](https://plato.stanford.edu/entries/mathematics-explanation/#ExplIndiArgu)
-* [2. 数学解释中的数学解释](https://plato.stanford.edu/entries/mathematics-explanation/#MathExplMath)
-
-  * [2.1 一些历史注释](https://plato.stanford.edu/entries/mathematics-explanation/#SomeHistRemaTwo)
-  * [2.2 数学解释的模型](https://plato.stanford.edu/entries/mathematics-explanation/#ModeMathExpl)
-* [3. 与其他辩论的一些联系](https://plato.stanford.edu/entries/mathematics-explanation/#SomeConnOtheDeba)
-* [ 参考文献](https://plato.stanford.edu/entries/mathematics-explanation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/mathematics-explanation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/mathematics-explanation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/mathematics-explanation/#Rel)
+ 
 
 ---
 

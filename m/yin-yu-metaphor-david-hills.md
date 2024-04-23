@@ -3,24 +3,7 @@
 _首次发表于2011年8月19日，实质修订于2022年8月12日。_
 
 隐喻是一种诗意或修辞上雄心勃勃的词语使用，是一种比喻性的而非字面上的使用。它引起了比传统上被认可的其他修辞手法更多的哲学兴趣和哲学争议。
-
-* [1. 部分的命名](https://plato.stanford.edu/entries/metaphor/#NamiPart)
-* [2. 古代的解释](https://plato.stanford.edu/entries/metaphor/#AnciAcco)
-* [3. 隐喻](https://plato.stanford.edu/entries/metaphor/#Para)
-* [4. 四个传统](https://plato.stanford.edu/entries/metaphor/#FourTrad)
-  * [4.1 语义扭曲解释](https://plato.stanford.edu/entries/metaphor/#SemaTwisAcco)
-  * [4.2 实用扭曲解释](https://plato.stanford.edu/entries/metaphor/#PragTwisAcco)
-  * [4.3 比较主义解释](https://plato.stanford.edu/entries/metaphor/#CompAcco)
-  * [4.4 蛮力解释](https://plato.stanford.edu/entries/metaphor/#BrutForcAcco)
-* [5. 近期发展](https://plato.stanford.edu/entries/metaphor/#ReceDeve)
-  * [5.1 隐喻与当代语言学](https://plato.stanford.edu/entries/metaphor/#MetaCognLing)
-  * [5.2 隐喻与语境之争](https://plato.stanford.edu/entries/metaphor/#MetaContWars)
-  * [5.3 隐喻和假装](https://plato.stanford.edu/entries/metaphor/#MetaMakeBeli)
-* [参考文献](https://plato.stanford.edu/entries/metaphor/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/metaphor/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/metaphor/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/metaphor/#Rel)
-
+ 
 ***
 
 ## 1. 部件的命名

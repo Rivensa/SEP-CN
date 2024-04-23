@@ -8,30 +8,7 @@
 
 这个条目仅限于托马斯·莫尔对哲学的理解和实践，正如他所认为的那样，受到圣经启示的启迪。在智力上，他最深受柏拉图、亚里士多德、西塞罗、塞内加、圣经以及拉丁和希腊教父（尤其是奥古斯丁、耶罗尼米、巴西略和克里索斯托姆；请参见其他互联网资源中的协议）的影响。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/thomas-more/#Intr)
-* [2. 柏拉图的苏格拉底：最好的哲学家](https://plato.stanford.edu/entries/thomas-more/#PlatSocrBestPhil)
-* [3. 早期诗歌、良心和哲学思考](https://plato.stanford.edu/entries/thomas-more/#EarlPoetConsPhilCons)
-* [4. 奥古斯丁；卢西安的幽默辩证参与](https://plato.stanford.edu/entries/thomas-more/#AuguLuciHumoDialEnga)
-* [5. 走向“文明”哲学：托马斯·莫尔的生活、警句、理查德三世](https://plato.stanford.edu/entries/thomas-more/#TowaCiviPhilLifePicoEpigRichIII)
-* [6. 关于哲学和城市的苏格拉底对话：乌托邦](https://plato.stanford.edu/entries/thomas-more/#SocrDialPhilCityUtop)
-* [7. “真正的辩证法和真正的哲学，尤其是亚里士多德的”](https://plato.stanford.edu/entries/thomas-more/#TrueDialTruePhilEspeAris)
-* [8. 言论自由、良心和辩证探究](https://plato.stanford.edu/entries/thomas-more/#FreeSpeeConsDialInqu)
-* [9. “在良心中”作出的判断](https://plato.stanford.edu/entries/thomas-more/#JudgCons)
-* [10. 辩论作品：理性、自由、法律的地位](https://plato.stanford.edu/entries/thomas-more/#PoleWorkStatReasLibeLaw)
-* [11. “理性应该像国王一样统治”](https://plato.stanford.edu/entries/thomas-more/#ReasOughReigLikeKing)
-* [ 参考文献](https://plato.stanford.edu/entries/thomas-more/#Bib)
-
-  * [ A. 托马斯·莫尔的主要来源](https://plato.stanford.edu/entries/thomas-more/#PrimSour)
-  * [B. 托马斯·莫尔作品的选集版本](https://plato.stanford.edu/entries/thomas-more/#BSeleEditMoreWork)
-  * [C. 当代传记](https://plato.stanford.edu/entries/thomas-more/#CContBiog)
-  * [ D. 传记研究](https://plato.stanford.edu/entries/thomas-more/#DBiogStud)
-  * [E. 引用的希腊和拉丁作家](https://plato.stanford.edu/entries/thomas-more/#EGreeLatiWritCite)
-  * [F. 选定的次要研究](https://plato.stanford.edu/entries/thomas-more/#FSeleSecoStud)
-  * [G. 文献研究](https://plato.stanford.edu/entries/thomas-more/#GBiblStud)
-* [ 学术工具](https://plato.stanford.edu/entries/thomas-more/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/thomas-more/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/thomas-more/#Rel)
-
+ 
 ---
 
 ## 1. 引言
