@@ -5,49 +5,7 @@
 
 与他之前的其他人一样，阿维森纳将自然哲学理解为对物体进行研究，因为它受到运动的影响。因此，本条目在概述中世纪物理学的基础上，转向阿维森纳对物体性质的描述，然后是他对运动的描述。对于物体的描述，一个核心问题是它们是连续的还是离散的，因此必须考虑阿维森纳对原子论的批评以及他对连续量的辩护和分析。运动的讨论分为两个步骤：一是他对运动的描述，二是他对运动条件的描述。运动部分集中讨论阿维森纳对亚里士多德运动定义的独特理解，即运动作为潜在的第一实际性，以及运动条件涉及他对时间和位置的理解。
 
-* [1. 中世纪物理学](https://plato.stanford.edu/entries/ibn-sina-natural/#MediPhys)
-
-  * [1.1 物理原因和自然原理](https://plato.stanford.edu/entries/ibn-sina-natural/#PhysCausPrinNatu)
-  * [ 1.2 自然](https://plato.stanford.edu/entries/ibn-sina-natural/#Natu)
-* [2. 物体和大小](https://plato.stanford.edu/entries/ibn-sina-natural/#BodiMagn)
-
-  * [ 2.1 一般背景](https://plato.stanford.edu/entries/ibn-sina-natural/#GeneBack)
-  * [2.2 阿维森纳关于原子/离散大小的观点](https://plato.stanford.edu/entries/ibn-sina-natural/#AvicAtomMagn)
-
-    * [ 2.2.1 卡拉姆原子论](https://plato.stanford.edu/entries/ibn-sina-natural/#KalaAtom)
-    * [2.2.2 阿维森纳对原子论的批评](https://plato.stanford.edu/entries/ibn-sina-natural/#AvicCritAtom)
-  * [ 2.3 连续性](https://plato.stanford.edu/entries/ibn-sina-natural/#Cont)
-  * [2.4 无限和宇宙的形状](https://plato.stanford.edu/entries/ibn-sina-natural/#InfiShapCosm)
-  * [2.5 简单物体和元素](https://plato.stanford.edu/entries/ibn-sina-natural/#SimpBodiElem)
-
-    * [2.5.1 元素的运动和质的力量](https://plato.stanford.edu/entries/ibn-sina-natural/#MotiQualPoweElem)
-    * [ 2.5.2 自然最小值](https://plato.stanford.edu/entries/ibn-sina-natural/#NatuMini)
-* [ 3. 运动](https://plato.stanford.edu/entries/ibn-sina-natural/#Moti)
-
-  * [3.1 运动作为第一实际性](https://plato.stanford.edu/entries/ibn-sina-natural/#MotiFirsActu)
-  * [3.2 运动的两个意义：穿越和中介运动](https://plato.stanford.edu/entries/ibn-sina-natural/#TwoSensMotiTravMediMoti)
-  * [3.3 运动与范畴](https://plato.stanford.edu/entries/ibn-sina-natural/#MotiCate)
-
-    * [3.3.1 运动的属和种](https://plato.stanford.edu/entries/ibn-sina-natural/#GenuSpecMoti)
-    * [3.3.2 位置运动的分析](https://plato.stanford.edu/entries/ibn-sina-natural/#AnalPosiMoti)
-* [4. 运动的条件](https://plato.stanford.edu/entries/ibn-sina-natural/#CondForMoti)
-
-  * [4.1 地点和虚空](https://plato.stanford.edu/entries/ibn-sina-natural/#PlacVoid)
-  * [4.2 时间和宇宙的年龄](https://plato.stanford.edu/entries/ibn-sina-natural/#TimeAgeUniv)
-* [ 参考文献](https://plato.stanford.edu/entries/ibn-sina-natural/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/ibn-sina-natural/#PrimSour)
-
-    * [ 阿奎那](https://plato.stanford.edu/entries/ibn-sina-natural/#Aqui)
-    * [ 亚里士多德](https://plato.stanford.edu/entries/ibn-sina-natural/#Aris)
-    * [ 阿维森纳](https://plato.stanford.edu/entries/ibn-sina-natural/#Avic)
-    * [al-Kindī](https://plato.stanford.edu/entries/ibn-sina-natural/#AlKind)
-    * [Philoponus](https://plato.stanford.edu/entries/ibn-sina-natural/#Phil)
-  * [ 二次来源](https://plato.stanford.edu/entries/ibn-sina-natural/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/ibn-sina-natural/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ibn-sina-natural/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ibn-sina-natural/#Rel)
-
+ 
 ---
 
 ## 1. 中世纪物理学

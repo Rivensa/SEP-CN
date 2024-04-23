@@ -7,20 +7,7 @@
 
 先天性哲学事业的调查揭示了一个事实，即尽管先天性是一个容易受到攻击的学说，但它很难被击败。先天性在两个时期都处于哲学的聚光灯下，每次都会闪耀一段时间，然后消退。在古代世界，它在柏拉图的哲学中起着关键作用，但在后来主导哲学思想的亚里士多德体系中被排除在外。在 17 世纪和 18 世纪，它得到了复兴。它在笛卡尔的知识理论中起着重要作用，洛克在他的《论人类理解起源》一书的开头对它进行了持续的攻击，莱布尼兹则对洛克进行了详细的反驳。但是，洛克的经验主义方法占了上风，先天性被视为一种落后和不可信的观点。19 世纪的康德主义虽然对先天性可能更友好，但将其置于哲学上的无关紧要之地。然而，最近，受诺姆·乔姆斯基（Noam Chomsky）声称语言学的发现证明了先天主义对经验主义的辩护（参见乔姆斯基 1965 年的早期例子）的推动，先天性再次强势回归；它再次成为哲学和科学争议的主题。
 
-* [1. 史前时期：恩佩多克勒斯 vs. 阿那克萨戈拉斯](https://plato.stanford.edu/entries/innateness-history/#PreEmpVsAna)
-* [2. 柏拉图（和亚里士多德传统）](https://plato.stanford.edu/entries/innateness-history/#PlaAriTra)
-* [3. 先天主义的理性派部署：笛卡尔和莱布尼兹](https://plato.stanford.edu/entries/innateness-history/#RatDepNatDesLei)
-* [4. 经验主义与对先天主义的攻击：洛克和休谟](https://plato.stanford.edu/entries/innateness-history/#EmpAttNatLocHum)
-* [5. 康德的转变](https://plato.stanford.edu/entries/innateness-history/#TheKanTur)
-* [6. 反先天主义的（暂时）胜利](https://plato.stanford.edu/entries/innateness-history/#TemTriAntNat)
-* [7. 结论：选择立场](https://plato.stanford.edu/entries/innateness-history/#ConChoSid)
-* [ 参考文献](https://plato.stanford.edu/entries/innateness-history/#Bib)
-
-  * [ 先天来源](https://plato.stanford.edu/entries/innateness-history/#PriSou)
-  * [ 后天来源](https://plato.stanford.edu/entries/innateness-history/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/innateness-history/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/innateness-history/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/innateness-history/#Rel)
+ 
 
 ---
 

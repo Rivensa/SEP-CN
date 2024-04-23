@@ -6,27 +6,7 @@ _首次发表于2010年12月2日，实质修订于2021年1月12日_
 
 概念也是如此。在古典印度哲学中，对概念理解为一般术语的意义没有一个统一的概念或定义。相反，我们有各种观点，从将概念视为真实属性、本质或普遍性的坚实实在主义，到只承认具有唯一性的个别事物的极端名义主义，以及介于两者之间的概念主义的版本。坚实实在主义立场由 Nyāya-Vaiśeṣika 和 Mīmāṃsā学派辩护，名义主义由佛教学派辩护，概念主义由吠陀派和耆那教徒辩护。我将不在这里讨论概念主义立场或他们的论证，因为最终这个立场会崩溃成为一种实在主义或名义主义的版本。
 
-* [1. 引言](https://plato.stanford.edu/entries/perception-india/#Int)
-* [2. 知觉经验的观点](https://plato.stanford.edu/entries/perception-india/#PerPer)
-  * [2.1 佛教名词主义](https://plato.stanford.edu/entries/perception-india/#BudNom)
-  * [2.2 古典印度实在论](https://plato.stanford.edu/entries/perception-india/#NyaRea)
-  * [2.3 古典印度实在论](https://plato.stanford.edu/entries/perception-india/#MiiRea)
-  * [2.4 古典印度定义](https://plato.stanford.edu/entries/perception-india/#SaaDef)
-  * [2.5 Advaita Vedānta: 直接知觉经验](https://plato.stanford.edu/entries/perception-india/#AdvVedDirKno)
-* [3. Nirvikalpaka and Savikalpaka Pratyakṣa](https://plato.stanford.edu/entries/perception-india/#NirSavPra)
-  * [3.1 佛教名词主义的基础](https://plato.stanford.edu/entries/perception-india/#BasBudNom)
-  * [3.2 印度现实主义的发展：尼亚亚派的使命](https://plato.stanford.edu/entries/perception-india/#DevHinReaNyaMis)
-  * [3.3 古典印度在现实主义方面的进展](https://plato.stanford.edu/entries/perception-india/#MiiAdvRea)
-  * [3.4 知觉经验（语法学家）的名词主义和现实主义反对意见](https://plato.stanford.edu/entries/perception-india/#SaaGraNomReaObj)
-  * [3.5 Advaita Vedānta：对印度教现实主义的妥协](https://plato.stanford.edu/entries/perception-india/#AdvVedComHinRea)
-* [4. 构建概念还是认识普遍性？](https://plato.stanford.edu/entries/perception-india/#ConConKnoUni)
-* [5. 知觉幻觉](https://plato.stanford.edu/entries/perception-india/#PerIll)
-* [参考文献](https://plato.stanford.edu/entries/perception-india/#Bib)
-  * [英文翻译的文本](https://plato.stanford.edu/entries/perception-india/#TexEngTra)
-  * [一般作品](https://plato.stanford.edu/entries/perception-india/#GenWor)
-* [学术工具](https://plato.stanford.edu/entries/perception-india/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/perception-india/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/perception-india/#Rel)
+ 
 
 ***
 

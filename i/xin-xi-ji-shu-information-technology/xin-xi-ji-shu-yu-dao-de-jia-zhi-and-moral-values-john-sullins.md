@@ -6,37 +6,7 @@
 
 有人可能会争辩说，刚才描述的情况与围绕生活的任何基本需求的生产、获取和控制相关的道德问题没有什么不同。如果一方拥有独家生产、获取和/或控制某种自然资源的特权，那么这必然会禁止其他人在没有独家所有者的同意下使用这种资源。但数字信息并非如此。数字信息是非排他性的，这意味着我们至少在理论上都可以拥有相同的数字信息，而不会排除其他人的使用。这是因为将数字信息从一个源复制到另一个源不需要消除先前的副本。与物理对象不同，理论上我们都可以拥有相同的数字对象，因为它可以无限制地复制而不会失去保真度。由于制作这些副本通常非常廉价，几乎没有成本，只要有人愿意复制和分发，就没有技术上的障碍阻止所有信息的传播。只有对道德或经济公正的呼吁可能会阻止某些形式的信息分发。例如，数字娱乐媒体，如歌曲或视频，一直是一个争论不休的战场，用户和数字媒体的制作者争论是限制还是扩大这些材料的免费分发。因此，了解道德价值在信息技术中的作用对于这些技术的设计和使用至关重要（Johnson，1985 年，Moore，1985 年，Nissenbaum，1998 年，Spinello，2001 年）。值得注意的是，本条目不会直接涉及信息技术伦理学的现象学方法，因为有关这一主题的详细条目可供参考（请参阅有关现象学方法与信息技术的条目）。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/it-moral-values/#Introd)
-* [2. 信息技术的道德挑战](https://plato.stanford.edu/entries/it-moral-values/#MorChaInfTec)
-
-  * [2.1 信息技术的基本特性](https://plato.stanford.edu/entries/it-moral-values/#FunChaInfTec)
-
-    * [2.1.1 信息记录中的道德价值](https://plato.stanford.edu/entries/it-moral-values/#MorValInfRec)
-    * [2.1.2 信息传播和获取中的道德价值](https://plato.stanford.edu/entries/it-moral-values/#MorValComAccInf)
-    * [2.1.3 在组织和综合信息方面的道德价值](https://plato.stanford.edu/entries/it-moral-values/#MorValOrgSynInf)
-  * [2.2 信息技术的道德悖论](https://plato.stanford.edu/entries/it-moral-values/#MorParInfTec)
-* [3. 文化层面上的特定道德挑战](https://plato.stanford.edu/entries/it-moral-values/#SpeMorChaCulLev)
-
-  * [3.1 社交媒体和网络](https://plato.stanford.edu/entries/it-moral-values/#SocMedNet)
-
-    * [3.1.1 网络游戏和虚拟世界](https://plato.stanford.edu/entries/it-moral-values/#OnlGamWor)
-    * [3.1.2 虚拟游戏世界的诱惑](https://plato.stanford.edu/entries/it-moral-values/#LurVirGamWor)
-    * [3.1.3 技术透明度悖论](https://plato.stanford.edu/entries/it-moral-values/#TecTraPar)
-  * [3.3 恶意软件、间谍软件和信息战](https://plato.stanford.edu/entries/it-moral-values/#MalSpyInfWar)
-  * [3.4 未来的担忧](https://plato.stanford.edu/entries/it-moral-values/#FutCon)
-
-    * [3.4.1 变革的加速](https://plato.stanford.edu/entries/it-moral-values/#AccCha)
-    * [3.4.2 人工智能和人工生命](https://plato.stanford.edu/entries/it-moral-values/#ArtIntArtLif)
-    * [3.4.3 机器人和道德价值](https://plato.stanford.edu/entries/it-moral-values/#RobMorVal)
-* [4. 道德的信息技术](https://plato.stanford.edu/entries/it-moral-values/#InfTecMor)
-
-  * [4.1 信息技术作为道德发现的模型](https://plato.stanford.edu/entries/it-moral-values/#InfTecModForMorDis)
-  * [4.2 信息技术作为道德体系](https://plato.stanford.edu/entries/it-moral-values/#InfTecMorSys)
-  * [4.3 道德主体的信息生物体](https://plato.stanford.edu/entries/it-moral-values/#InfOrgMorAge)
-* [ 参考文献](https://plato.stanford.edu/entries/it-moral-values/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/it-moral-values/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/it-moral-values/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/it-moral-values/#Rel)
+ 
 
 ---
 

@@ -8,36 +8,7 @@
 
 本条目的重点是自第二次世界大战以来发生的发展。在第二次世界大战结束后，与联合国体系密切相关的前所未有的复杂国际法律规范和机构体系得以建立。随着冷战的结束和全球化的传播，这一体系的雄心壮志达到了新的高度，声称对以前被视为国家专属权力范围的各种政府事务拥有权威。国际法的范围扩大，涵盖了新的主题，如个人与国家的关系、移民或环境。许多人现在认为，“基于国际规则的秩序”受到威权主义大国的崛起和西方世界民粹主义力量的威胁；据说这两者都对国际法持敌对态度，尤其是对人权等某些方面（Alston 2017；Ginsburg 2020；Neuman 2020；Wuerth 2017）。对于其他人来说，国际法的扩张对国内主权的自由基础构成了挑战。本条目不可避免地是有选择性的，重点关注一些一般的概念和规范问题，但国际法的具体领域的讨论可以在斯坦福百科全书的其他地方找到（例如，有关人权的条目）。
 
-* [1. 国际法的概念和规范论证](https://plato.stanford.edu/entries/international-law/#ConcNormArguInteLaw)
-* [2. 国际法作为法律](https://plato.stanford.edu/entries/international-law/#InteLawLaw)
-
-  * [2.1 缺乏集中执行机制](https://plato.stanford.edu/entries/international-law/#LackCentEnfoMech)
-  * [2.2 同意在国际法规则形成中的作用](https://plato.stanford.edu/entries/international-law/#RoleConsFormRuleInteLaw)
-  * [2.4 国际法作为“原始法律”：H.L.A.哈特的批评](https://plato.stanford.edu/entries/international-law/#InteLawPrimLawHLHartCrit)
-* [3. 国家与主权](https://plato.stanford.edu/entries/international-law/#StatSove)
-
-  * [3.1 绝对主权](https://plato.stanford.edu/entries/international-law/#AbsoSove)
-  * [ 3.2 自决](https://plato.stanford.edu/entries/international-law/#SelfDete)
-  * [3.4 国际组织与主权](https://plato.stanford.edu/entries/international-law/#InteOrgaSove)
-* [ 4. 合法性](https://plato.stanford.edu/entries/international-law/#Legi)
-
-  * [4.1 合法性的意义](https://plato.stanford.edu/entries/international-law/#SensLegi)
-  * [ 4.2 同意理论](https://plato.stanford.edu/entries/international-law/#ConsTheo)
-  * [4.3 服务观念](https://plato.stanford.edu/entries/international-law/#ServConc)
-  * [4.4 突出原则](https://plato.stanford.edu/entries/international-law/#PrinSali)
-  * [ 4.5 民主](https://plato.stanford.edu/entries/international-law/#Demo)
-* [5. 国际法治](https://plato.stanford.edu/entries/international-law/#InteRuleLaw)
-
-  * [5.1 法治的厚与薄](https://plato.stanford.edu/entries/international-law/#RuleLawTThin)
-  * [5.2 国际法规则的薄理论](https://plato.stanford.edu/entries/international-law/#ThinTheoInteRuleLaw)
-  * [ 5.3 习惯法](https://plato.stanford.edu/entries/international-law/#Cust)
-  * [5.4 联合国安全理事会决议](https://plato.stanford.edu/entries/international-law/#UNSecuCounReso)
-  * [5.5 国际刑法](https://plato.stanford.edu/entries/international-law/#InteCrimLaw)
-* [ 参考书目](https://plato.stanford.edu/entries/international-law/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/international-law/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/international-law/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/international-law/#Rel)
-
+ 
 ---
 
 ## 1. 国际法的概念和规范论证

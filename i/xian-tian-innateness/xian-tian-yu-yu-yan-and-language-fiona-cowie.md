@@ -18,31 +18,7 @@ _首次发表于2008年1月16日星期三_
 
 §§2.2-2.5 讨论了乔姆斯基和其他人支持这种“先天主义”观点的主要论据，即语言习得的可能性在于我们的大部分语言知识是未经学习的；它是先天的或与生俱来的，是语言能力的初始状态的一部分\[2]。第 3 节介绍了一些其他研究领域，这些研究被认为与语言的先天性有关，并展示了最近关于语言学习和大脑的实证研究如何挑战先天主义立场。由于这些材料大部分都是非常新的，并且由于我的结论（其中许多是暂定的）非常有争议，因此在百科全书文章中包含了比正常情况下更多的实证文献引用。鼓励读者跟进所引用的研究并评估语言先天主义的可信度：毕竟，语言是否先天是一个实证问题。
 
-* [1. 乔姆斯基反对斯金纳的观点](https://plato.stanford.edu/entries/innateness-language/#ChoCasAgaSki)
-* [2. 语言先天性的论据](https://plato.stanford.edu/entries/innateness-language/#ArgForInnLan)
-  * [2.1 孩子们学习语言时学到了什么？](https://plato.stanford.edu/entries/innateness-language/#WhaDoChiLeaWheTheLeaLan)
-  * [2.2 乔姆斯基关于语言先天性的“刺激贫乏”论据](https://plato.stanford.edu/entries/innateness-language/#ChoPovStiArgForInnLan)
-    * [2.2.1 批评刺激物质论的贫困论证](https://plato.stanford.edu/entries/innateness-language/#CriPovStiArg)
-  * [2.3 先天/后天的‘遗忘问题’论证](https://plato.stanford.edu/entries/innateness-language/#ArgUnlPro)
-    * [2.3.1 批评‘遗忘’论证](https://plato.stanford.edu/entries/innateness-language/#CriUnlArg)
-* [3. 其他与语言先天性相关的研究：对先天主义者的新问题？](https://plato.stanford.edu/entries/innateness-language/#OthResBeaInnLanNewProForNat)
-  * [3.1 语言普遍性](https://plato.stanford.edu/entries/innateness-language/#LinUni)
-  * [3.2 语言定位化](https://plato.stanford.edu/entries/innateness-language/#LanLoc)
-  * [3.3 语言习得的关键时期](https://plato.stanford.edu/entries/innateness-language/#CriPerForLanAcq)
-    * [3.3.1 创伤后的语言恢复](https://plato.stanford.edu/entries/innateness-language/#LanRecAftTra)
-    * [3.3.2 '野生儿童'](https://plato.stanford.edu/entries/innateness-language/#WilChi)
-    * [3.3.3 儿童和成人的第二语言习得](https://plato.stanford.edu/entries/innateness-language/#SecLanAcqChiAdu)
-    * [3.3.4 敏感期和先天性：语音学习](https://plato.stanford.edu/entries/innateness-language/#SenPerInnPhoLea)
-  * [3.4 语言演化](https://plato.stanford.edu/entries/innateness-language/#LanEvo)
-  * [3.5 洋泾浜和克里奥尔语](https://plato.stanford.edu/entries/innateness-language/#PidCre)
-  * [3.6 发展性语言障碍和对“语言基因”的探索](https://plato.stanford.edu/entries/innateness-language/#DevLanDisSeaForLanGen)
-    * [3.6.1 威廉姆斯综合征](https://plato.stanford.edu/entries/innateness-language/#WilSyn)
-    * [3.6.2 特定语言障碍](https://plato.stanford.edu/entries/innateness-language/#SpeLanImp)
-    * [3.6.3 语法模块和语言遗传学](https://plato.stanford.edu/entries/innateness-language/#GraModGenLan)
-* [参考文献](https://plato.stanford.edu/entries/innateness-language/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/innateness-language/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/innateness-language/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/innateness-language/#Rel)
+ 
 
 ***
 

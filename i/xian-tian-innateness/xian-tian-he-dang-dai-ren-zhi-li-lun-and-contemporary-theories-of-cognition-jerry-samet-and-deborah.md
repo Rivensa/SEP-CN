@@ -10,26 +10,7 @@
 
 这个条目有三个主要部分。在第一部分中，将当前的先天主义发展放置在最近的历史背景下，特别是乔姆斯基的语言学创新与当前的认知科学研究之间的联系。第二部分，也是最长的部分，涉及到儿童早期概念和理解的三个研究领域——物体的物理性质、数量和心智/代理——以便了解正在进行的实证研究的类型，并突出一些正在出现的有希望的结果。[1]第三部分回顾了一些与传统分歧的经验主义一方密切相关的发展研究的最新工作。
 
-* [1. 语言学中的乔姆斯基革命](https://plato.stanford.edu/entries/innateness-cognition/#ChoRevLin)
-
-  * [1.1 先天主义的转变](https://plato.stanford.edu/entries/innateness-cognition/#NatTur)
-  * [1.2 导出革命：问题与前景](https://plato.stanford.edu/entries/innateness-cognition/#ExpRevProPro)
-* [2. 实证研究和理论](https://plato.stanford.edu/entries/innateness-cognition/#EmpFinThe)
-
-  * [2.1 背景：皮亚杰范式和核心认知假设](https://plato.stanford.edu/entries/innateness-cognition/#BacPiaParCorCogHyp)
-  * [ 2.2 物理对象](https://plato.stanford.edu/entries/innateness-cognition/#PhyObj)
-  * [ 2.3 数量](https://plato.stanford.edu/entries/innateness-cognition/#Num)
-  * [2.4 心智与行动能力](https://plato.stanford.edu/entries/innateness-cognition/#MinAge)
-* [3. 经验主义的复兴](https://plato.stanford.edu/entries/innateness-cognition/#ResEmp)
-
-  * [3.1 连接主义与动态系统理论](https://plato.stanford.edu/entries/innateness-cognition/#ConDynSysThe)
-  * [ 3.2 贝叶斯方法](https://plato.stanford.edu/entries/innateness-cognition/#BayApp)
-* [ 结论](https://plato.stanford.edu/entries/innateness-cognition/#ConRem)
-* [ 参考文献](https://plato.stanford.edu/entries/innateness-cognition/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/innateness-cognition/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/innateness-cognition/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/innateness-cognition/#Rel)
-
+ 
 ---
 
 ## 1. 语言学中的乔姆斯基革命

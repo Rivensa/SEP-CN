@@ -5,19 +5,7 @@ _首次发表于2004年11月3日星期三；实质性修订于2020年5月7日星
 一个动词是及物动词，当且仅当它通常与直接宾语一起出现，并且在这种情况下被称为及物动词。因此，在“我吃了肉，留下了蔬菜”中，“吃了”是及物动词，但在“我吃了然后离开了”中不是（也许这两个例子中的“离开”不是同一个动词，但它们似乎是同一个“吃了”）。一个动词是内涵动词，如果它与其补语形成的动词短语（VP）在以下三种方式中至少有一种是异常的：（i）用与其补语中的指称相同的另一个表达式替换它可以改变VP所在句子的真值 - 例如，你可能欣赏马克·吐温但不欣赏塞缪尔·克莱门斯，没有意识到你讨厌的邻居山姆是那位著名作家（在这种情况下，将与其补语中的“马克·吐温”替换为“塞缪尔·克莱门斯”将把一个真句子“你欣赏马克·吐温”变成一个假句子“你欣赏塞缪尔·克莱门斯”）；（ii）如果VP包含一个量词或某种类型的量词，那么VP可以具有特殊的“不特定”解读（奎恩的例子（1956:185）很有名：他观察到，如果我们将“我想要一艘帆船”改写为“存在一艘（特定的）帆船，我想要它”，如果我只是想要“摆脱没有帆船的困境”，一艘帆船但不是特定的一艘，这样的改写会给出错误的理解；更多例子，请参见第1节）；（iii）即使嵌套句子没有否定，名字和存在量词在补语中的正常存在承诺也会被暂停（同样，请参见第1节）。
 
 内涵现象令人困惑且值得研究，因为（a）似乎唯一能解释语言使用者能够产生和理解他们以前从未遇到过的母语句子的能力的方式是假设语言中存在组合结构，并且使用者具有利用这种结构的解释能力。但是（b）关于这种结构的最简单的想法无法涵盖内涵性。因此，我们想知道允许内涵性的最小复杂性是什么。对内涵动词的研究主要集中在用于进行陈述态度报告的动词上。这些动词的补语是从句而不是直接宾语。然而，正如我们将在下面看到的，内涵及物动词（以下简称 ITVs）不仅仅是重复了陈述态度动词引发的问题，而且引入了自己的特殊困难。
-
-* [1. 一些 ITV 的群体及其行为](https://plato.stanford.edu/entries/intensional-trans-verbs/#SomeGrouITVsTheiBeha)
-* [2. 有多少机制对应多少标记？](https://plato.stanford.edu/entries/intensional-trans-verbs/#HowManyMechForHowManyMark)
-* [3. 命题主义](https://plato.stanford.edu/entries/intensional-trans-verbs/#Prop)
-* [4. 蒙塔格的语义学](https://plato.stanford.edu/entries/intensional-trans-verbs/#MontSema)
-* [5. 修订和完善](https://plato.stanford.edu/entries/intensional-trans-verbs/#ReviRefi)
-* [6. 先验之谜](https://plato.stanford.edu/entries/intensional-trans-verbs/#PrioPuzz)
-* [7. 内涵及物动词的逻辑](https://plato.stanford.edu/entries/intensional-trans-verbs/#LogiInteTran)
-* [参考文献](https://plato.stanford.edu/entries/intensional-trans-verbs/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/intensional-trans-verbs/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/intensional-trans-verbs/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/intensional-trans-verbs/#Rel)
-
+ 
 ***
 
 ## 1. 一些内涵及物动词群体及其行为

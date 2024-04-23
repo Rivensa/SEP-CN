@@ -10,34 +10,7 @@
 
 本文的重点是探讨信息技术与隐私之间的关系。我们将既阐述信息技术及其创新对隐私构成的具体威胁，又指出信息技术本身如何通过以“尊重隐私”、“增强隐私”或“尊重隐私”为特点的方式来克服这些隐私问题。我们还将讨论新兴技术在这场辩论中的作用，并解释道道德辩论本身如何受到信息技术的影响。
 
-* [1. 隐私的概念和价值观](https://plato.stanford.edu/entries/it-privacy/#ConPriValPri)
-
-  * [1.1 宪法隐私与信息隐私](https://plato.stanford.edu/entries/it-privacy/#ConVsInfPri)
-  * [1.2 隐私价值的解释](https://plato.stanford.edu/entries/it-privacy/#AccValPri)
-  * [ 1.3 个人数据](https://plato.stanford.edu/entries/it-privacy/#PerDat)
-  * [1.4 保护个人数据的道德原因](https://plato.stanford.edu/entries/it-privacy/#MorReaForProPerDat)
-  * [1.5 法律、规章和对访问的间接控制](https://plato.stanford.edu/entries/it-privacy/#LawRegIndConOveAcc)
-* [2. 信息技术对隐私的影响](https://plato.stanford.edu/entries/it-privacy/#ImpInfTecPri)
-
-  * [2.1 信息技术的发展](https://plato.stanford.edu/entries/it-privacy/#DevInfTec)
-  * [ 2.2 互联网](https://plato.stanford.edu/entries/it-privacy/#Int)
-  * [ 2.3 社交媒体](https://plato.stanford.edu/entries/it-privacy/#SocMed)
-  * [ 2.4 大数据](https://plato.stanford.edu/entries/it-privacy/#BigDat)
-  * [ 2.5 移动设备](https://plato.stanford.edu/entries/it-privacy/#MobDev)
-  * [2.6 物联网](https://plato.stanford.edu/entries/it-privacy/#IntThi)
-  * [ 2.7 电子政务](https://plato.stanford.edu/entries/it-privacy/#EGov)
-  * [ 2.8 监控](https://plato.stanford.edu/entries/it-privacy/#Surveillance)
-* [3. 信息技术本身如何解决隐私问题？](https://plato.stanford.edu/entries/it-privacy/#HowInfTecItsSolPriCon)
-
-  * [ 3.1 设计方法](https://plato.stanford.edu/entries/it-privacy/#DesMet)
-  * [3.2 隐私增强技术](https://plato.stanford.edu/entries/it-privacy/#PriEnhTec)
-  * [ 3.3 密码学](https://plato.stanford.edu/entries/it-privacy/#Cry)
-  * [ 3.4 身份管理](https://plato.stanford.edu/entries/it-privacy/#IdeMan)
-* [4. 新兴技术与我们对隐私的理解](https://plato.stanford.edu/entries/it-privacy/#EmeTecOurUndPri)
-* [ 参考文献](https://plato.stanford.edu/entries/it-privacy/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/it-privacy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/it-privacy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/it-privacy/#Rel)
+ 
 
 ---
 

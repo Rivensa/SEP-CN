@@ -6,47 +6,7 @@
 
 在本文中，主要参考《治愈之书》（Kitāb al-Šifāʾ）的 Ilāhiyyāt（形而上学）（英文称为《治愈之书》的形而上学），我将在介绍阿维森纳的来源后，简要讨论形而上学作为一门科学的地位，然后阐述阿维森纳对存在和由此产生的神学的分析。之后，我将重点关注阿维森纳的发散理论，突出其基本要点。
 
-* [1. 形而上学：来源和重要性](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#MetSouImp)
-* [2. 本体论与神学之间的形而上学](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#MetBetOntThe)
-
-  * [2.1 本体论与神学](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#OntThe)
-  * [2.2 双重定义的意义](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#MeaDuaDef)
-  * [2.3 形而上学的神学使命：第一原理作为绝对原因](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#TheVocMetFirPriAbsCau)
-  * [2.4 存在的一义性和本体论区别](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#UniBeiOntDis)
-* [3. 本质与存在](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#EssExi)
-
-  * [3.1 阿维森纳的存在作为首要](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#ExiPri)
-  * [3.2 本质与存在的区别](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#DisBetEssExi)
-  * [3.3 本质与存在的组合](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#ComEssExi)
-  * [3.4 本质和心灵存在](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#QuiMenExi)
-  * [3.5 存在论和一元论（存在和唯一性）](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#OntHenBeiOne)
-* [4. 情态和存在](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#ModExi)
-
-  * [4.1 可能性和必然性](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#PosNec)
-  * [4.2 必然原理的存在](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#ExiNecPri)
-  * [4.3 分析的结果](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#ResAna)
-  * [4.4 存在状态的种类](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#KinStaExi)
-* [5. 因果关系和宇宙学](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#CauCos)
-
-  * [5.1 因果关系](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#CauRel)
-  * [5.2 因果链](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#CauCha)
-  * [ 5.3 绝对创造](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#AbsCre)
-  * [5.4 发出：天体智慧、灵魂和身体](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#EmaCelIntSouBod)
-  * [ 5.5 天体运动](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#CelMov)
-* [ 6. 结论](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#Con)
-
-  * [6.1 道德维度](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#EthDim)
-  * [6.2 亚月球世界：物质与邪恶](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#SubWorMatEvi)
-  * [ 6.3 结语](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#ConRem)
-* [ 参考文献](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#Bib)
-
-  * [阿维森纳的形而上学文本的版本和翻译](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#EdiTraAviMetTex)
-  * [ 其他引用的来源](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#OthCitSou)
-  * [ 二次文献](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ibn-sina-metaphysics/#Rel)
-
+ 
 ---
 
 ## 1. 形而上学：来源和重要性

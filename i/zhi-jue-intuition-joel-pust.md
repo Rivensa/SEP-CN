@@ -4,41 +4,7 @@
 
 这个条目通过考虑以下问题来讨论直觉的本质和认识论角色：（1）什么是直觉？（2）它们在哲学（和其他“坐在椅子上”进行的）探究中起到什么作用？（3）它们应该起到这样的作用吗？（4）对直觉的经验研究对其适当角色有什么影响？以及（在名为“案例方法的逻辑结构”的补充文件中）（5）在考虑假设情况时，直觉的内容是什么？
 
-* [1. 直觉的本质](https://plato.stanford.edu/entries/intuition/#NatuIntu)
-
-  * [1.1 直觉作为信念](https://plato.stanford.edu/entries/intuition/#IntuBeli)
-  * [1.2 直觉作为相信的倾向](https://plato.stanford.edu/entries/intuition/#IntuDispBeli)
-  * [1.3 直觉作为独特的状态](https://plato.stanford.edu/entries/intuition/#IntuSuiGeneStat)
-  * [1.4 命题、属性和能力](https://plato.stanford.edu/entries/intuition/#PropPropFacu)
-* [2. 直觉的认识论角色](https://plato.stanford.edu/entries/intuition/#EpisRoleIntu)
-
-  * [2.1 直觉的哲学和非哲学用途](https://plato.stanford.edu/entries/intuition/#PhilNonPhilUsesIntu)
-  * [2.2 情况法方法](https://plato.stanford.edu/entries/intuition/#MethCase)
-  * [ 2.3 一般直觉](https://plato.stanford.edu/entries/intuition/#GeneIntu)
-  * [2.4 直觉作为证据：直觉对象 vs. 直觉过程](https://plato.stanford.edu/entries/intuition/#IntuEvidIntuVsIntu)
-* [3. 挑战和防御](https://plato.stanford.edu/entries/intuition/#ChalDefe)
-
-  * [3.1 对怀疑挑战的四个限制条件](https://plato.stanford.edu/entries/intuition/#FourConsSkepChal)
-  * [3.2 来自缺乏独立校准的论证](https://plato.stanford.edu/entries/intuition/#ArguLackIndeCali)
-  * [3.3 来自不可靠性的论证](https://plato.stanford.edu/entries/intuition/#ArguUnre)
-
-    * [3.3.1 直觉不一致](https://plato.stanford.edu/entries/intuition/#InteInco)
-    * [3.3.2 内部直觉不一致](https://plato.stanford.edu/entries/intuition/#IntrInco)
-  * [3.4 解释的论据](https://plato.stanford.edu/entries/intuition/#ArguExpl)
-
-    * [3.4.1 缺乏解释必要性的论证](https://plato.stanford.edu/entries/intuition/#ArguLackExplNece)
-    * [3.4.2 可靠性无法解释的论证](https://plato.stanford.edu/entries/intuition/#ArguInexReli)
-  * [3.5 直觉的辩护：自我支持和认识循环](https://plato.stanford.edu/entries/intuition/#DefeIntuSelfSuppEpisCirc)
-* [4. 实验哲学和直觉](https://plato.stanford.edu/entries/intuition/#ExpePhilIntu)
-
-  * [4.1 实验哲学的性质](https://plato.stanford.edu/entries/intuition/#NatuExpePhil)
-  * [4.2 实验证据](https://plato.stanford.edu/entries/intuition/#ExpeEvid)
-  * [4.3 实验哲学和怀疑挑战](https://plato.stanford.edu/entries/intuition/#ExpePhilSkepChal)
-* [ 5. 进一步研究](https://plato.stanford.edu/entries/intuition/#FurtRese)
-* [ 参考文献](https://plato.stanford.edu/entries/intuition/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/intuition/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/intuition/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/intuition/#Rel)
+ 
 
 ---
 

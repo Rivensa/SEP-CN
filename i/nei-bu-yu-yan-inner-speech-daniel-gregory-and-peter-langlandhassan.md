@@ -9,36 +9,7 @@
 内部语言是许多不同学科的研究对象，包括神经科学、言语病理学、发展心理学、精神病学、计算机科学、语言学以及哲学。因此，有各种不同的理论工具和概念可以用来描述其性质和认知角色，相应地也有不同的目标、方法和文献。在这里，我们重点关注当代哲学家对其性质的描述以及内部语言在哲学工作中最常见的解释目的。然而，当代哲学对内部语言的研究往往具有跨学科的性质，并且旨在与相关学科的研究结果保持一致并受其启发，包括实验心理学、语言学和神经科学。我们讨论与哲学家关注的问题相关的来源，同时将对实证研究最感兴趣的读者引导到其他综述，如Alderson-Day和Fernyhough（2015）、Langland-Hassan（2021）和Perrone-Bertolotti等人（2014）。关于另一种以哲学为导向的综述，请参阅Vicente和Martínez-Manrique（2011）。此外，我们重点关注与听觉模态相关的内部语言，而不是可能出现在手势或视觉模态中的内部语言（如手势语言），因为几乎所有现有的内部语言研究都涉及与听觉有某种联系的现象。
 
 最后，对自己大声说话的现象通常被称为“内部语言”。本条目中的某些讨论内容可以轻松地转移到内部语言，例如，我们是否可以在内部语言中进行言语行为的问题。其他内容则不然。例如，作为一种心理现象，内部语言是否实际上是一种言语，在私语的背景下没有对应之处，因为私语无可争议地是一种言语。通常很容易确定关于内部语言的问题是否也适用于私语，因此我们不会进一步评论此事。
-
-* [1. 内部语言作为实际言语](https://plato.stanford.edu/entries/inner-speech/#InneSpeeActuSpee)
-* [2. 内部语言和思维](https://plato.stanford.edu/entries/inner-speech/#InneSpeeThou)
-
-  * [2.1 内部语言和思维表达](https://plato.stanford.edu/entries/inner-speech/#InneSpeeThouExpr)
-  * [2.2 内部语言和思维促进](https://plato.stanford.edu/entries/inner-speech/#InneSpeeThouFaci)
-  * [2.3 内部语言作为思维](https://plato.stanford.edu/entries/inner-speech/#InneSpeeThou_1)
-* [3. 内部语言的基于内容的理论](https://plato.stanford.edu/entries/inner-speech/#ContBaseTheoInneSpee)
-
-  * [3.1 音韵内容观点](https://plato.stanford.edu/entries/inner-speech/#PhonContView)
-  * [3.2 语义内容观点](https://plato.stanford.edu/entries/inner-speech/#SemaContView)
-  * [3.3 混合内容视图](https://plato.stanford.edu/entries/inner-speech/#MixeContView)
-
-    * [3.3.1 单状态混合内容视图](https://plato.stanford.edu/entries/inner-speech/#SingStatMixeContView)
-    * [3.3.2 多状态混合内容视图](https://plato.stanford.edu/entries/inner-speech/#MultStatMixeContView)
-* [4. 内部语言和语用学](https://plato.stanford.edu/entries/inner-speech/#InneSpeePrag)
-
-  * [4.1 内部语言和言语行为](https://plato.stanford.edu/entries/inner-speech/#InneSpeeSpeeActs)
-  * [4.2 内部语言和对话](https://plato.stanford.edu/entries/inner-speech/#InneSpeeConv)
-* [5. 自我认知和元认知](https://plato.stanford.edu/entries/inner-speech/#SelfKnowMeta)
-
-  * [5.1 元认知方法](https://plato.stanford.edu/entries/inner-speech/#MetaAppr)
-  * [5.2 推理主义方法](https://plato.stanford.edu/entries/inner-speech/#InfeAppr)
-  * [5.3 内部语言的批评者](https://plato.stanford.edu/entries/inner-speech/#InfeCrit)
-* [6. 听觉言语幻听和内部语言插入思维](https://plato.stanford.edu/entries/inner-speech/#AudiVerbHallInseThou)
-* [ 参考文献](https://plato.stanford.edu/entries/inner-speech/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/inner-speech/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/inner-speech/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/inner-speech/#Rel)
-
+ 
 ---
 
 ## 1. 内部语言作为实际语言

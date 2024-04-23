@@ -8,16 +8,7 @@
 
 我们可以将意向理论粗略但有用地分为两个方面。首先，它们如何在意向的形式中找到统一性？它们是通过解释一个形式来解释另一个形式吗？它们是否将某个形式视为主要形式？在这里存在着一种深刻的对立，即将意向视为一种心理状态，通过它我们可以解释有意行动的观点，与那些不这样认为的观点相对立。其次，它们如何理解意向与评价思维之间的关系，这关系到无意行动的可能性，以及意向与信念之间的关系，这关系到自我认知的性质和范围。这些问题无论意向与行动之间的关系如何都会出现。第 1 和第 2 节讨论了第一个分歧轴，而第 3 至第 5 节主要讨论了第二个分歧轴。
 
-* [1. 意向作为行动](https://plato.stanford.edu/entries/intention/#IntDoi)
-* [2. 行动中的意向](https://plato.stanford.edu/entries/intention/#IntAct)
-* [3. 意向与善](https://plato.stanford.edu/entries/intention/#IntGoo)
-* [4. 意向作为计划](https://plato.stanford.edu/entries/intention/#IntPla)
-* [5. 意向和信念](https://plato.stanford.edu/entries/intention/#IntBel)
-* [ 参考文献](https://plato.stanford.edu/entries/intention/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/intention/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/intention/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/intention/#Rel)
-
+ 
 ---
 
 ## 1. 作为行动的意向

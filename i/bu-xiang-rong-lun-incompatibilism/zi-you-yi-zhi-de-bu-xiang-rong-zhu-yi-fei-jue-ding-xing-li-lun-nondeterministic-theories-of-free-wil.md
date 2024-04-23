@@ -6,27 +6,7 @@
 
 本条目考察了自由意志不相容主义理论的主要类型，并考虑了一些对它们的主要反对意见。它分为四个部分。第一部分关注非因果论，第二部分关注事件因果论，第三部分关注主体因果论。第四个和最后一个部分考虑我们是否有任何理由认为这些理论规定的自由意志要求得到满足。
 
-* [1. 非因果论](https://plato.stanford.edu/entries/incompatibilism-theories/#1)
-
-  * [ 1.1 控制](https://plato.stanford.edu/entries/incompatibilism-theories/#1.1)
-  * [ 1.2 原因解释](https://plato.stanford.edu/entries/incompatibilism-theories/#1.2)
-  * [1.3 自由行为与原因？](https://plato.stanford.edu/entries/incompatibilism-theories/#1.3)
-* [2. 事件-因果理论](https://plato.stanford.edu/entries/incompatibilism-theories/#2)
-
-  * [2.1 深思熟虑的不确定性](https://plato.stanford.edu/entries/incompatibilism-theories/#2.1)
-  * [ 2.2 中心化解释](https://plato.stanford.edu/entries/incompatibilism-theories/#2.2)
-  * [2.3 意志的努力](https://plato.stanford.edu/entries/incompatibilism-theories/#2.3)
-* [3. 不相容主义理论](https://plato.stanford.edu/entries/incompatibilism-theories/#3)
-
-  * [3.1 代理因果和原因解释](https://plato.stanford.edu/entries/incompatibilism-theories/#3.1)
-  * [ 3.2 幸运，再次](https://plato.stanford.edu/entries/incompatibilism-theories/#3.2)
-  * [3.3 物质的因果关系](https://plato.stanford.edu/entries/incompatibilism-theories/#3.3)
-* [ 4. 证据](https://plato.stanford.edu/entries/incompatibilism-theories/#4)
-* [ 参考文献](https://plato.stanford.edu/entries/incompatibilism-theories/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/incompatibilism-theories/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/incompatibilism-theories/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/incompatibilism-theories/#Rel)
-
+ 
 ---
 
 ## 1. 非因果论

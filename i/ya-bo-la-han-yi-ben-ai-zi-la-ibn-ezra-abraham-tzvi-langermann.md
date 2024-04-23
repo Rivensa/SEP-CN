@@ -9,25 +9,7 @@ _首次发表于2006年12月19日，实质性修订于2018年10月22日。_
 总的来说，伊本·埃兹拉与萨阿迪亚（可能对他影响最大的犹太思想家）一样，采用了伽拉姆和哲学教义的混合体。没有证据表明他接受过哲学训练或研究过当时可获得的大量文献，他所承认的来源几乎都是简短的迦尼派著作，展示了中世纪犹太人与神学问题的初步探索。
 
 尽管如此，伊本·埃兹拉成为了一位智者，他的言论虽然简短而晦涩，但具有权威性和影响力。在某种程度上，他在哲学方面的作用，或者更好地说，在传播某些哲学教义方面的作用，并不与他在数学、天文学和占星术方面的作用有太大的区别。他在这些领域的大量著作并没有什么深度或独创性，但毫无疑问，它们在整个欧洲的知识传播中起到了关键作用，尤其是在犹太社区中，尽管不仅限于此。虽然不能提供一个完整且完全令人满意的答案，但我们认为有几个因素促成了他的成功：勤奋努力、广泛旅行、圣经注释这一非常受欢迎的传播方式、赋予占星术重要地位的理性思维，以及将个体置于集体之上的救赎论。
-
-* [1. 亚伯拉罕·伊本·埃兹拉的生平和著作](https://plato.stanford.edu/entries/ibn-ezra/#LifWor)
-* [2. 占星术](https://plato.stanford.edu/entries/ibn-ezra/#Ast)
-* [3. 影响](https://plato.stanford.edu/entries/ibn-ezra/#Imp)
-* [4. 强调个体](https://plato.stanford.edu/entries/ibn-ezra/#EmpUpoInd)
-* [5. 他思想的特点](https://plato.stanford.edu/entries/ibn-ezra/#ChaHisTho)
-* [6. 伊本·埃兹拉的哲学是什么？他的哲学家是谁？](https://plato.stanford.edu/entries/ibn-ezra/#WhaForIbnEzrWhoHisPhi)
-* [7. 亚伯拉罕·伊本·埃兹拉和犹大·哈莱维](https://plato.stanford.edu/entries/ibn-ezra/#IbnEzrJudHal)
-* [8. 诗歌与灵魂科学](https://plato.stanford.edu/entries/ibn-ezra/#PoeSciSou)
-* [9. 在传道书评论中关于灵魂的插曲](https://plato.stanford.edu/entries/ibn-ezra/#ExcSouComEcc)
-* [10. 诫命的理论基础：Yesod Mora](https://plato.stanford.edu/entries/ibn-ezra/#RatCom)
-* [11. 哲学寓言：哈伊·本·梅基茨](https://plato.stanford.edu/entries/ibn-ezra/#PhiAllHayBenMeq)
-* [参考书目](https://plato.stanford.edu/entries/ibn-ezra/#Bib)
-  * [主要来源](https://plato.stanford.edu/entries/ibn-ezra/#PriSou)
-  * [二次来源](https://plato.stanford.edu/entries/ibn-ezra/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/ibn-ezra/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ibn-ezra/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ibn-ezra/#Rel)
-
+ 
 ***
 
 ## 1. 生平与作品

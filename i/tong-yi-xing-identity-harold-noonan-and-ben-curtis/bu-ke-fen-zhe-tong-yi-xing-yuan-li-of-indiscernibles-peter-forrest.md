@@ -3,15 +3,7 @@
 _首次发表于1996年7月31日星期三；实质性修订于2010年8月15日星期日。_
 
 同一性原理是分析本体论的一个原则，由威廉·戈特弗里德·莱布尼茨在他的《形而上学论》第 9 节中首次明确提出（Loemker 1969: 308）。它指出没有两个不同的事物完全相似。这通常被称为“莱布尼茨定律”，通常被理解为没有两个对象具有完全相同的属性。同一性原理引起人们的兴趣，因为它引发了关于如何区分具有相同质量的对象的因素的问题。对量子力学解释的最新研究表明，该原理在量子领域的适用性存在争议（参见 French 2019）。
-
-* [1. 阐述原则](https://plato.stanford.edu/entries/identity-indiscernible/#Form)
-* [2. 本体论的含义](https://plato.stanford.edu/entries/identity-indiscernible/#Ont)
-* [3. 支持和反对该原则的论点](https://plato.stanford.edu/entries/identity-indiscernible/#Arg)
-* [4. 该原则的历史](https://plato.stanford.edu/entries/identity-indiscernible/#His)
-* [参考文献](https://plato.stanford.edu/entries/identity-indiscernible/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/identity-indiscernible/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/identity-indiscernible/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/identity-indiscernible/#Rel)
+ 
 
 ***
 

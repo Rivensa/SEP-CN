@@ -4,20 +4,7 @@ _首次发布于2016年9月15日星期四_
 
 阿维森纳（约公元970年至1037年）是伊斯兰世界中最杰出的哲学家和医生。他在他的作品中将希腊晚期和早期伊斯兰的哲学/科学思想融合在一起，形成了一个理性严谨且自洽的科学体系，包括了所有现实，包括揭示宗教及其神学和神秘学的原则。在科学和哲学的整体和全面表达中，它代表了希腊传统的顶峰，在希腊语中在第六世纪后消亡，在9世纪的阿拉伯语中复兴（Gutas 2004a，2010）。它在伊斯兰世界的知识生活中占主导地位，并对它产生的各种反应，从接受到修订再到驳斥，以及用类哲学构建替代品，决定了哲学、科学、宗教、神学和神秘主义的发展。从12世纪开始的拉丁翻译，阿维森纳的哲学对中世纪和文艺复兴时期的哲学家和学者产生了巨大影响，就像他的医学《医学大全》（GMed 1）的拉丁翻译一样，经常修订，成为欧洲大学的医学教学基础，直到17世纪。在伊斯兰教内的阿拉伯语犹太和基督教学者，只要他们是为自己的社区写作，而不是作为伊斯兰共和国的成员，就接受了他的大部分观点（尤其是梅蒙尼德在他的阿拉伯语《迷惑者指南》和巴尔赫布拉伊斯在他的叙利亚语《智慧之奶油》中）。欧洲的犹太社区使用了他一些作品的希伯来语翻译，尽管他们比罗马天主教徒更不愿接受，更喜欢阿维罗伊斯。 君士坦丁堡的罗马正教对国外的哲学发展漠不关心（对国内的哲学发展敌视），只是通过希腊翻译拉丁学院派的希腊翻译才知道阿维森纳的名字，这种翻译是在第四次十字军东征之后开始的。在他对西方（印度）的思想史影响方面，他仅次于亚里士多德，这在伊斯兰世界是直观承认的，他在伊斯兰世界被称为“卓越大师”（al-shaykh al-raʾīs），在亚里士多德之后，阿维森纳称之为“第一教师”（al-muʿallim al-awwal）。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/ibn-sina/#LifeWork)
-  * [1.1 生平](https://plato.stanford.edu/entries/ibn-sina/#Life)
-  * [1.2 作品](https://plato.stanford.edu/entries/ibn-sina/#Work)
-* [2. 哲学目标](https://plato.stanford.edu/entries/ibn-sina/#PhilAims)
-* [3. 逻辑和经验主义](https://plato.stanford.edu/entries/ibn-sina/#LogiEmpi)
-* [4. 理性灵魂的形而上学; 实践哲学](https://plato.stanford.edu/entries/ibn-sina/#MetaRatiSoulPracPhil)
-* [5. 结论](https://plato.stanford.edu/entries/ibn-sina/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/ibn-sina/#Bib)
-  * [阿维森纳的作品](https://plato.stanford.edu/entries/ibn-sina/#WorkIbnSina)
-  * [二手资料](https://plato.stanford.edu/entries/ibn-sina/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/ibn-sina/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ibn-sina/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ibn-sina/#Rel)
-
+ 
 ***
 
 ## 1. 生平与作品

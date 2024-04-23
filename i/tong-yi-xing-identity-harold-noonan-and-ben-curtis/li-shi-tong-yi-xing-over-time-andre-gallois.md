@@ -11,26 +11,7 @@ _首次发表于2005年3月18日星期五；实质性修订于2016年10月6日�
 
 当然，这个谜题的解决方案取决于偶然变化和本质变化之间是否存在一种连贯的区别，以及偶然属性和本质属性之间是否存在一种连贯的区别。一些哲学家认为这种区别存在问题，并提出了其他不需要这种区别的解决方案。接下来，我们将讨论这些解决方案以及在考虑物体的同一性随时间变化时出现的其他谜题。
 
-* [1. 引言](https://plato.stanford.edu/entries/identity-time/#1)
-* [2. 同一性和变化](https://plato.stanford.edu/entries/identity-time/#2)
-  * [2.1 历时和同步性的同一性](https://plato.stanford.edu/entries/identity-time/#2.1)
-  * [2.2 同一性作为等价关系](https://plato.stanford.edu/entries/identity-time/#2.2)
-  * [2.3 莱布尼兹定律和变化的可能性—临时内在性问题](https://plato.stanford.edu/entries/identity-time/#2.3)
-  * [2.4 候选解决方案](https://plato.stanford.edu/entries/identity-time/#2.4)
-* [3. 必要和确定的同一性](https://plato.stanford.edu/entries/identity-time/#3)
-* [4. 历时同一性难题](https://plato.stanford.edu/entries/identity-time/#4)
-  * [4.1 宪法](https://plato.stanford.edu/entries/identity-time/#4.1)
-  * [4.2 相对同一性](https://plato.stanford.edu/entries/identity-time/#4.2)
-  * [4.3 同一性: ‘严格和宽松’](https://plato.stanford.edu/entries/identity-time/#4.3)
-  * [4.4 任意不可分割的部分](https://plato.stanford.edu/entries/identity-time/#4.4)
-  * [4.5 历时](https://plato.stanford.edu/entries/identity-time/#4.5)
-  * [4.6 临时同一性](https://plato.stanford.edu/entries/identity-time/#4.6)
-  * [4.7 进一步的谜题案例](https://plato.stanford.edu/entries/identity-time/#4.7)
-* [5. 个人同一性](https://plato.stanford.edu/entries/identity-time/#5)
-* [参考文献](https://plato.stanford.edu/entries/identity-time/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/identity-time/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/identity-time/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/identity-time/#Rel)
+ 
 
 ***
 

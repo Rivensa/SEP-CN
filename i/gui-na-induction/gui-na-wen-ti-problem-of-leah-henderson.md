@@ -12,32 +12,7 @@
 
 在本文中，我们首先将研究休谟自己的论证，对其进行重建，然后调查对其提出的问题的不同回应。
 
-* [ 1. 休谟的归纳问题](https://plato.stanford.edu/entries/induction-problem/#HumeProb)
-* [ 2. 重建](https://plato.stanford.edu/entries/induction-problem/#Reco)
-* [3. 应对休谟困境的第一个问题](https://plato.stanford.edu/entries/induction-problem/#TackFirsHornHumeDile)
-
-  * [ 3.1 合成先验](https://plato.stanford.edu/entries/induction-problem/#SyntPrio)
-  * [3.2 归纳问题的解决方案](https://plato.stanford.edu/entries/induction-problem/#NomoExplSolu)
-  * [ 3.3 贝叶斯解决方案](https://plato.stanford.edu/entries/induction-problem/#BayeSolu)
-  * [ 3.4 部分解决方案](https://plato.stanford.edu/entries/induction-problem/#PartSolu)
-  * [3.5 组合方法](https://plato.stanford.edu/entries/induction-problem/#CombAppr)
-* [4. 解决休谟困境的第二个问题](https://plato.stanford.edu/entries/induction-problem/#TackSecoHornHumeDile)
-
-  * [4.1 归纳的归纳理由](https://plato.stanford.edu/entries/induction-problem/#InduJustIndu)
-  * [ 4.2 没有规则](https://plato.stanford.edu/entries/induction-problem/#NoRule)
-* [5. 正当性的替代观念](https://plato.stanford.edu/entries/induction-problem/#AlteConcJust)
-
-  * [5.1 假设和关键点](https://plato.stanford.edu/entries/induction-problem/#PostHing)
-  * [5.2 普通语言解散](https://plato.stanford.edu/entries/induction-problem/#OrdiLangDiss)
-  * [5.3 归纳问题的实用辩护](https://plato.stanford.edu/entries/induction-problem/#PragVindIndu)
-  * [5.4 形式学习理论](https://plato.stanford.edu/entries/induction-problem/#FormLearTheo)
-  * [ 5.5 元归纳](https://plato.stanford.edu/entries/induction-problem/#MetaIndu)
-* [6. 生活中的归纳怀疑主义](https://plato.stanford.edu/entries/induction-problem/#LiviInduSkep)
-* [ 参考书目](https://plato.stanford.edu/entries/induction-problem/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/induction-problem/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/induction-problem/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/induction-problem/#Rel)
-
+ 
 ---
 
 ## 1. 休谟的归纳问题

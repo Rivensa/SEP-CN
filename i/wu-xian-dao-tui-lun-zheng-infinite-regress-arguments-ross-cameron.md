@@ -8,21 +8,7 @@
 
 在哲学史上，已经提出了许多无限倒退的论证，我们在这里甚至不会试图概述其中最重要的论证。相反，我们的目标是阐明可能遇到的各种倒退论证以及在不同情况下出现的不同考虑因素。然而，随着我们的进行，我们将看到一些特别著名的倒退论证作为例子。（Rescher 2010 和 Wieland 2014 概述了一些历史上的倒退。）[2]
 
-* [1. 无限倒退论证和理论缺陷](https://plato.stanford.edu/entries/infinite-regress/#RegrTheoVice)
-
-  * [1.1 无限倒退论证和矛盾](https://plato.stanford.edu/entries/infinite-regress/#RegrCont)
-  * [1.2 局部理论缺陷](https://plato.stanford.edu/entries/infinite-regress/#LocaTheoVice)
-  * [1.3 无限倒退和分析的失败](https://plato.stanford.edu/entries/infinite-regress/#RegrFailAnal)
-* [2. 基础、连贯性和无限倒退](https://plato.stanford.edu/entries/infinite-regress/#FounCoheRegr)
-* [3. 无限倒退、全局和局部解释](https://plato.stanford.edu/entries/infinite-regress/#RegrGlobLocaExpl)
-* [4. 无限倒退论证和理论美德](https://plato.stanford.edu/entries/infinite-regress/#RegrTheoVirt)
-* [5. 传递性和非传递性解释](https://plato.stanford.edu/entries/infinite-regress/#TranNonTranExpl)
-* [6. 一致性、循环性和整体主义](https://plato.stanford.edu/entries/infinite-regress/#CoheCircHoli)
-* [ 参考文献](https://plato.stanford.edu/entries/infinite-regress/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/infinite-regress/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/infinite-regress/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/infinite-regress/#Rel)
-
+ 
 ---
 
 ## 1. 倒退和理论缺陷

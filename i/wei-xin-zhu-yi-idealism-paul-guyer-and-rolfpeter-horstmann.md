@@ -6,22 +6,7 @@
 
 除了引言部分（第 1 节）可能需要一起阅读外，下面的每个部分都可以独立阅读，读者可以选择自己最感兴趣的部分进行阅读。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/idealism/#Intr)
-* [2. 唯心主义在早期现代理性主义中的表现](https://plato.stanford.edu/entries/idealism/#IdeaEarlModeRati)
-* [3. 唯心主义在早期现代英国哲学中的表现](https://plato.stanford.edu/entries/idealism/#IdeaEarlModeBritPhil)
-* [ 4. 康德](https://plato.stanford.edu/entries/idealism/#Kant)
-* [ 5. 德国唯心主义](https://plato.stanford.edu/entries/idealism/#GermIdea)
-* [ 6. 叔本华](https://plato.stanford.edu/entries/idealism/#Scho)
-* [7. 尼采（以及一瞥未来）](https://plato.stanford.edu/entries/idealism/#NietGlimBeyo)
-* [8. 英美唯心主义](https://plato.stanford.edu/entries/idealism/#BritAmerIdea)
-* [9. 唯心主义在二十世纪的命运](https://plato.stanford.edu/entries/idealism/#FateIdeaTwenCent)
-* [ 参考书目](https://plato.stanford.edu/entries/idealism/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/idealism/#PrimLite)
-  * [精选次级文献](https://plato.stanford.edu/entries/idealism/#SeleSecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/idealism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/idealism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/idealism/#Rel)
+ 
 
 ---
 

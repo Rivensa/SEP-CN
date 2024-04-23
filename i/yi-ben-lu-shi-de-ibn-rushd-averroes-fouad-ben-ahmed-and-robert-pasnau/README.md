@@ -7,30 +7,7 @@ _首次发表于2021年6月23日星期三_
 伊本·鲁世德的工作的特点是他坚信哲学在许多领域具有确证性，亚里士多德应该是我们哲学的首要指南，并且哲学应该在宗教探究中起到核心作用，而不是宗教的替代品。但他的思想之所以具有持久的吸引力，部分原因在于他以微妙的方式在亚里士多德演绎的严格性在实践上不可行的情况下，推广其他推理和说服方法。要完全理解伊本·鲁世德的思想，不仅需要关注他试图将哲学发展为一门确证科学的亚里士多德评论，还需要关注宗教、医学和法律等领域，在这些领域中，主题和受众的限制要求使用其他论证和修辞技巧。
 
 伊本·鲁世德经常被错误地称为阿维罗伊斯（Averroes）-这是他的名字在拉丁语中变形的形式。他在后来的欧洲思想中迅速获得了如此重要的地位，以至于与亚里士多德本人的影响力相媲美，而伊本·鲁世德不知疲倦地捍卫了亚里士多德的著作。大多数现代学术研究都以他在基督教欧洲的接受为导向，他在那里被简称为“评论家”，因此无法欣赏到伊本·鲁世德自己独特的哲学成就。
-
-* [1. 生平与作品](https://plato.stanford.edu/entries/ibn-rushd/#LifeWork)
-  * [1.1 生平](https://plato.stanford.edu/entries/ibn-rushd/#Life)
-  * [1.2 作品](https://plato.stanford.edu/entries/ibn-rushd/#Work)
-* [2. 逻辑和方法论](https://plato.stanford.edu/entries/ibn-rushd/#LogiMeth)
-* [3. 形而上学](https://plato.stanford.edu/entries/ibn-rushd/#Meta)
-* [4. 自然哲学](https://plato.stanford.edu/entries/ibn-rushd/#NatuPhil)
-* [5. 心理学](https://plato.stanford.edu/entries/ibn-rushd/#Psyc)
-* [6. 宗教](https://plato.stanford.edu/entries/ibn-rushd/#Reli)
-  * [6.1 上帝](https://plato.stanford.edu/entries/ibn-rushd/#God)
-  * [6.2 法律](https://plato.stanford.edu/entries/ibn-rushd/#Law)
-* [7. 医学](https://plato.stanford.edu/entries/ibn-rushd/#Medi)
-* [8. 伦理学和政治学](https://plato.stanford.edu/entries/ibn-rushd/#EthiPoli)
-* [9. 接待](https://plato.stanford.edu/entries/ibn-rushd/#Rece)
-  * [9.1 阿拉伯语](https://plato.stanford.edu/entries/ibn-rushd/#Arab)
-  * [9.2 希伯来语](https://plato.stanford.edu/entries/ibn-rushd/#Hebr)
-  * [9.3 拉丁语](https://plato.stanford.edu/entries/ibn-rushd/#Lati)
-* [参考文献](https://plato.stanford.edu/entries/ibn-rushd/#Bib)
-  * [伊本·鲁世德的著作](https://plato.stanford.edu/entries/ibn-rushd/#WorkIbnRush)
-  * [B. 其他作品](https://plato.stanford.edu/entries/ibn-rushd/#BOtheWork)
-* [学术工具](https://plato.stanford.edu/entries/ibn-rushd/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ibn-rushd/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ibn-rushd/#Rel)
-
+ 
 ***
 
 ## 1. 生平与作品

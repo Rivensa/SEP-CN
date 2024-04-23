@@ -4,22 +4,7 @@
 
 “不可通约”一词意味着“没有共同的度量”。这个概念源于古希腊数学，它指的是大小之间没有共同的度量。例如，正方形的边长和对角线之间没有共同的度量。如今，这种不可通约的关系由无理数来表示。这个数学概念在 1962 年被科学哲学家托马斯·库恩和保罗·费耶拉本德广泛传播后，被隐喻地应用于科学理论之间的关系，引起了争议。他们似乎挑战了自然科学的理性，常常被认为是“科学的最大敌人”（Theocharis 和 Psimopoulos 1987, 596; cf. Preston 等人 2000）。自 1962 年以来，科学理论的不可通约性一直是一个广泛讨论的、有争议的观念，对科学哲学的历史转向和科学社会学作为一门专业学科的建立起到了重要作用。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/incommensurability/#Int)
-* [2. 革命性范式：托马斯·库恩对不可通约的看法](https://plato.stanford.edu/entries/incommensurability/#RevParThoKuhInc)
-
-  * [2.1 《科学革命的结构》（1962 年）](https://plato.stanford.edu/entries/incommensurability/#StrSciRev)
-  * [2.2 库恩对不可通约的探索](https://plato.stanford.edu/entries/incommensurability/#KuhRouInc)
-  * [2.3 库恩对不可通约的后续发展](https://plato.stanford.edu/entries/incommensurability/#KuhSubDevInc)
-* [3. 对抗概念保守主义：保罗·费耶阿本德关于不可通约性](https://plato.stanford.edu/entries/incommensurability/#ComConConPauFeyInc)
-
-  * [3.1 &quot;解释、归纳和经验主义&quot;（1962 年）](https://plato.stanford.edu/entries/incommensurability/#ExpRedEmp196)
-  * [3.2 费耶阿本德的不可通约性之路](https://plato.stanford.edu/entries/incommensurability/#FeyRouInc)
-  * [3.3 费耶阿本德后来对不可通约的概念](https://plato.stanford.edu/entries/incommensurability/#FeyLatNotInc)
-* [4. 关于不可通约，库恩和费耶阿本德的比较](https://plato.stanford.edu/entries/incommensurability/#ComKuhFeyInc)
-* [ 参考文献](https://plato.stanford.edu/entries/incommensurability/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/incommensurability/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/incommensurability/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/incommensurability/#Rel)
+ 
 
 ---
 

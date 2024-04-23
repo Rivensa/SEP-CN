@@ -7,18 +7,7 @@
 
 少数派的传统认为，生物学中对信息的热衷是一个严重的理论错误，它培养了天真的遗传决定论，扭曲了我们对相互作用原因角色的理解，或者是一种隐含的二元论本体论。然而，这种怀疑的回应正在减弱，关键的怀疑者开始接受信息概念在生命科学中的适度但真实的作用。其他人认真对待了这一批评，但试图区分合理的信息诉求和误导性或错误的诉求。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/information-biological/#Int)
-* [2. Shannon 的信息概念](https://plato.stanford.edu/entries/information-biological/#ShaConInf)
-* [3. 生物信息和其他更丰富的概念](https://plato.stanford.edu/entries/information-biological/#TelOthRicCon)
-* [4. 生物信息](https://plato.stanford.edu/entries/information-biological/#GenCod)
-* [ 5. 信号传导系统](https://plato.stanford.edu/entries/information-biological/#SigSys)
-* [6. 生物学中信息概念的拒绝](https://plato.stanford.edu/entries/information-biological/#RejInfConBio)
-* [ 7. 遗传程序](https://plato.stanford.edu/entries/information-biological/#GenPro)
-* [8. 生物信息和进化](https://plato.stanford.edu/entries/information-biological/#InfEvo)
-* [ 参考文献](https://plato.stanford.edu/entries/information-biological/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/information-biological/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/information-biological/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/information-biological/#Rel)
+ 
 
 ---
 

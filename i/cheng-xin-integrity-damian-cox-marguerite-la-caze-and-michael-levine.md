@@ -10,19 +10,7 @@
 
 如何将这两个直觉融入一个一致的诚信理论中并不明显，大多数关于诚信的论述往往偏重其中一个直觉而忽视了另一个。已经提出了许多解释，其中最重要的有：（i）诚信作为自我整合；（ii）诚信作为身份的维持；（iii）诚信作为代表某种意义；（iv）诚信作为道德目标；以及（v）诚信作为一种美德。下面将对这些解释进行回顾。然后，我们将探讨几个对于探索诚信概念的哲学家来说至关重要的问题：不同类型的诚信之间的关系，诚信与道德理论的关系，以及诚信与社会政治条件的关系。
 
-* [1. 诚信作为自我整合](https://plato.stanford.edu/entries/integrity/#InteSelfInte)
-* [2. 诚信的身份观](https://plato.stanford.edu/entries/integrity/#IdenViewInte)
-* [3. 诚信的自我构建观](https://plato.stanford.edu/entries/integrity/#SelfConsViewInte)
-* [4. 诚信代表某种立场](https://plato.stanford.edu/entries/integrity/#InteStanForSome)
-* [5. 诚信作为道德目标](https://plato.stanford.edu/entries/integrity/#InteMoraPurp)
-* [6. 诚信作为一种美德](https://plato.stanford.edu/entries/integrity/#InteVirt)
-* [7. 诚信的类型](https://plato.stanford.edu/entries/integrity/#TypeInte)
-* [8. 诚信和道德理论](https://plato.stanford.edu/entries/integrity/#InteMoraTheo)
-* [9. 诚信与社会政治条件的关系](https://plato.stanford.edu/entries/integrity/#InteRelaSociPoliCond)
-* [ 参考文献](https://plato.stanford.edu/entries/integrity/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/integrity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/integrity/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/integrity/#Rel)
+ 
 
 ---
 

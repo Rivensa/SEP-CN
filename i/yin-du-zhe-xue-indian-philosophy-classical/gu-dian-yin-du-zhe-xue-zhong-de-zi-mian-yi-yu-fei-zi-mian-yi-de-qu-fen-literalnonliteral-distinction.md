@@ -8,41 +8,7 @@
 
 以下内容重点关注印度关于文字和非文字意义的概念空间。由于本文的结构是以主题为导向而不是历史性的，因此附录中列出了主要人物的时间顺序，以帮助读者理清思路。本文的重点是公元 200 年至公元 1300 年左右的时期，通常被称为古典印度哲学时期。
 
-* [1. 印度哲学中的语言观念](https://plato.stanford.edu/entries/literal-nonliteral-india/#ConcLangIndiPhil)
-
-  * [1.1 识别语言能力](https://plato.stanford.edu/entries/literal-nonliteral-india/#IdenLingCapa)
-  * [1.2 对现象学的呼吁](https://plato.stanford.edu/entries/literal-nonliteral-india/#AppePhen)
-  * [1.3 梵语语言的作用](https://plato.stanford.edu/entries/literal-nonliteral-india/#RoleSansLang)
-* [2. 主要和次要含义](https://plato.stanford.edu/entries/literal-nonliteral-india/#PrimSecoMean)
-
-  * [ 2.1 词汇意义](https://plato.stanford.edu/entries/literal-nonliteral-india/#LexiMean)
-  * [2.2 次要意义的种类](https://plato.stanford.edu/entries/literal-nonliteral-india/#VariSecoMean)
-  * [2.3 双文本性和多义性](https://plato.stanford.edu/entries/literal-nonliteral-india/#BitePoly)
-* [3. 建议的意义和发言者的意图](https://plato.stanford.edu/entries/literal-nonliteral-india/#SuggMeanSpeaInte)
-
-  * [3.1 现有能力的不足](https://plato.stanford.edu/entries/literal-nonliteral-india/#InsuExisCapa)
-  * [3.2 建议意义的多样性](https://plato.stanford.edu/entries/literal-nonliteral-india/#VariSuggMean)
-  * [3.3 对建议意义的反驳](https://plato.stanford.edu/entries/literal-nonliteral-india/#ObjeSuggMean)
-* [4. 批评这种区别](https://plato.stanford.edu/entries/literal-nonliteral-india/#CritDist)
-
-  * [ 4.1 佛教](https://plato.stanford.edu/entries/literal-nonliteral-india/#Budd)
-  * [ 4.2 古典印度哲学](https://plato.stanford.edu/entries/literal-nonliteral-india/#Jain)
-  * [4.3 Prābhākara Mīmāṃsā](https://plato.stanford.edu/entries/literal-nonliteral-india/#PraaMiim)
-  * [ 4.4 Sphoṭa 理论](https://plato.stanford.edu/entries/literal-nonliteral-india/#SphoTheo)
-* [5. 区别的含义](https://plato.stanford.edu/entries/literal-nonliteral-india/#ImplDist)
-
-  * [ 5.1 句子意义](https://plato.stanford.edu/entries/literal-nonliteral-india/#SentMean)
-  * [5.2 经典解释学](https://plato.stanford.edu/entries/literal-nonliteral-india/#ScriHerm)
-  * [5.3 规范性意义](https://plato.stanford.edu/entries/literal-nonliteral-india/#NormImpl)
-* [ 参考文献](https://plato.stanford.edu/entries/literal-nonliteral-india/#Bib)
-
-  * [引用的古典印度哲学原始梵文文本](https://plato.stanford.edu/entries/literal-nonliteral-india/#PrimSansTextCite)
-  * [引用的次要文献](https://plato.stanford.edu/entries/literal-nonliteral-india/#SecoLiteCite)
-  * [其他重要的主要作品](https://plato.stanford.edu/entries/literal-nonliteral-india/#OtheImpoPrimWork)
-  * [其他重要的次要作品](https://plato.stanford.edu/entries/literal-nonliteral-india/#OtheImpoSecoWork)
-* [ 学术工具](https://plato.stanford.edu/entries/literal-nonliteral-india/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/literal-nonliteral-india/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/literal-nonliteral-india/#Rel)
+ 
 
 ---
 

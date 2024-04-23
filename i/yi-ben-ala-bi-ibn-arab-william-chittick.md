@@ -8,38 +8,7 @@
 
 一些学者指出伊本·阿拉比与埃克哈特和库萨努斯等人物存在相似之处（Sells 1994，Shah-Kazemi 2006，Smirnov 1993，Dobie 2009），还有人认为他预示了物理学（Yousef 2007）或现代哲学（Almond 2004，Coates 2002，Dobie 2007）的趋势。将他纳入西方哲学史的最严肃尝试认为，他关于巴尔扎赫的概念（见第 3.4 节）提供了一个可行的解决方案，用于定义无法定义的问题，这个问题从亚里士多德时代就困扰着认识论，并导致了罗蒂等现代哲学家的绝望（Bashier 2004）。其他学者将他与像善克拉、庄子和道元这样的东方思想家进行了比较（Shah-Kazemi 2006，Izutsu 1966，Izutsu 1977）。东方思想与他的相似之处也没有被前现代学者忽视；在 18 和 19 世纪期间，中国的穆斯林建立了一个汉语学校（汉克塔布），从伊本·阿拉比的遗产中汲取，并以儒家思想的术语呈现了伊斯兰世界观（Murata et al. 2008）。他的思想对当代问题的影响已经得到了各种学者和信徒的关注，他们在自 1983 年以来出版的《穆希丁·伊本·阿拉比学会杂志》中发表了文章。他所受到的关注，特别是来自被标记为“永恒主义者”的学者和思想家，使一些人对他常常被阅读的现代视角的有效性产生了质疑（Lipton 2018）。接下来是他所涉及的一些主题的概述。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/ibn-arabi/#LifWor)
-* [ 2. 方法论](https://plato.stanford.edu/entries/ibn-arabi/#Met)
-
-  * [ 2.1 神圣言语](https://plato.stanford.edu/entries/ibn-arabi/#DivSpe)
-  * [ 2.2 神性](https://plato.stanford.edu/entries/ibn-arabi/#Dei)
-  * [2.3 名称和关系](https://plato.stanford.edu/entries/ibn-arabi/#NamRel)
-* [ 3.本体论](https://plato.stanford.edu/entries/ibn-arabi/#Ont)
-
-  * [ 3.1 伊本·阿拉比的存在统一论](https://plato.stanford.edu/entries/ibn-arabi/#WahAlWuj)
-  * [ 3.2 无界限性](https://plato.stanford.edu/entries/ibn-arabi/#Non)
-  * [ 3.3 想象力](https://plato.stanford.edu/entries/ibn-arabi/#Ima)
-  * [ 3.4 伊本·阿拉比](https://plato.stanford.edu/entries/ibn-arabi/#Bar)
-* [4. 事物和现实](https://plato.stanford.edu/entries/ibn-arabi/#ThiRea)
-
-  * [ 4.1 固定实体](https://plato.stanford.edu/entries/ibn-arabi/#FixEnt)
-  * [4.2 伊本·阿拉比的真实性](https://plato.stanford.edu/entries/ibn-arabi/#ReaRea)
-  * [ 4.3 实体化](https://plato.stanford.edu/entries/ibn-arabi/#Ent)
-* [5. 回归](https://plato.stanford.edu/entries/ibn-arabi/#Ret)
-
-  * [5.1 存在的循环](https://plato.stanford.edu/entries/ibn-arabi/#CirExi)
-  * [5.2 上升的阶段](https://plato.stanford.edu/entries/ibn-arabi/#StaAsc)
-  * [5.3 两个命令](https://plato.stanford.edu/entries/ibn-arabi/#TwoCom)
-* [6. 人类的完美](https://plato.stanford.edu/entries/ibn-arabi/#HumPer)
-
-  * [6.1 无站之境](https://plato.stanford.edu/entries/ibn-arabi/#StaNoSta)
-  * [ 6.2 完美人](https://plato.stanford.edu/entries/ibn-arabi/#PerMan)
-  * [ 6.3 神圣的存在](https://plato.stanford.edu/entries/ibn-arabi/#DivPre)
-* [ 参考文献](https://plato.stanford.edu/entries/ibn-arabi/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ibn-arabi/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ibn-arabi/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ibn-arabi/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品

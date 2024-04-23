@@ -10,26 +10,7 @@ _首次发表于2016年12月22日星期四；实质性修订于2020年5月7日�
 
 实际上，在认知科学、进化生物学、环境科学和发展中，免疫学为科学哲学提供了多焦点的视角。
 
-* [1. 引言](https://plato.stanford.edu/entries/immunology/#Intr)
-* [2. 免疫系统的生物体层级功能](https://plato.stanford.edu/entries/immunology/#OrgaLeveFuncImmuSyst)
-  * [2.1 历时身份](https://plato.stanford.edu/entries/immunology/#DiacIden)
-  * [2.2 同步身份](https://plato.stanford.edu/entries/immunology/#SyncIden)
-  * [2.3 免疫自身](https://plato.stanford.edu/entries/immunology/#N23ImmuSelf)
-* [3. 免疫生态学与进化](https://plato.stanford.edu/entries/immunology/#ImmuEcolEvol)
-  * [3.1 免疫的生态学方法](https://plato.stanford.edu/entries/immunology/#EcolApprImmu)
-  * [3.2 免疫学哲学和进化](https://plato.stanford.edu/entries/immunology/#ImmuEvol)
-* [4. 免疫学知识的特性](https://plato.stanford.edu/entries/immunology/#CharImmuKnow)
-  * [4.1. 认知主义模型](https://plato.stanford.edu/entries/immunology/#CognMode)
-    * [4.1.1 表征模型](https://plato.stanford.edu/entries/immunology/#ReprMode)
-    * [4.1.2 非表征模型](https://plato.stanford.edu/entries/immunology/#NonReprMode)
-    * [4.1.3 表现认知](https://plato.stanford.edu/entries/immunology/#PresCogn)
-  * [4.2 免疫学中的还原主义与整体主义](https://plato.stanford.edu/entries/immunology/#ReduVersHoliImmu)
-* [5. 免疫学的社会维度](https://plato.stanford.edu/entries/immunology/#ImmuSociDime)
-* [6. 结论](https://plato.stanford.edu/entries/immunology/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/immunology/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/immunology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/immunology/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/immunology/#Rel)
+ 
 
 ***
 

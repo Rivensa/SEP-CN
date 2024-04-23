@@ -12,19 +12,7 @@ _首次发表于2007年9月28日星期五；实质性修订于2023年1月29日�
 
 条目中使用公元日期，除非还写有伊斯兰历日期；在这种情况下，它们由斜杠分隔——伊斯兰历在前，公元在后。不使用音译字符，并且在作者介绍后，整个章节都使用伊本·巴哲这个名字。
 
-* [1. 生命和圆圈](https://plato.stanford.edu/entries/ibn-bajja/#LifeCirc)
-* [2. 科学的基础和组织](https://plato.stanford.edu/entries/ibn-bajja/)
-* [3. 逻辑](https://plato.stanford.edu/entries/ibn-bajja/#Logi)
-* [4. 数学科学](https://plato.stanford.edu/entries/ibn-bajja/#MathScie)
-* [5. 自然哲学和必然性](https://plato.stanford.edu/entries/ibn-bajja/#NatuPhilNece)
-* [6. 灵魂和知识](https://plato.stanford.edu/entries/ibn-bajja/#SoulKnow)
-* [7. 伦理学和形而上学](https://plato.stanford.edu/entries/ibn-bajja/#EthiMeta)
-* [参考书目](https://plato.stanford.edu/entries/ibn-bajja/#Bib)
-  * [A. 主要文献](https://plato.stanford.edu/entries/ibn-bajja/#PrimLite)
-  * [B. 二级文献](https://plato.stanford.edu/entries/ibn-bajja/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/ibn-bajja/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ibn-bajja/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ibn-bajja/#Rel)
+ 
 
 ***
 

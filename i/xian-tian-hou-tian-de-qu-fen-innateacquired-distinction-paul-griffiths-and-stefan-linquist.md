@@ -10,34 +10,7 @@
 
 最后，在我们的结论中，我们反思哲学如何希望推动我们对先天性和相关概念的理解，并且这种哲学工作与这些概念在心灵科学中的关系仍然至关重要且有争议。
 
-* [1. 自然主义争论的概述](https://plato.stanford.edu/entries/innate-acquired/#OutlScieDebaOverNati)
-
-  * [1.1 达尔文与华莱士](https://plato.stanford.edu/entries/innate-acquired/#DarwVersWall)
-  * [1.2 20 世纪初本能心理学的兴起](https://plato.stanford.edu/entries/innate-acquired/#RiseInstPsycTurn20thCent)
-  * [1.3 20 世纪 20 年代对本能心理学的批评](https://plato.stanford.edu/entries/innate-acquired/#CritInstPsyc1920)
-  * [1.4 动物行为学和本能心理学的复兴](https://plato.stanford.edu/entries/innate-acquired/#EthoReviInstPsyc)
-  * [1.5 先天主义和语言习得研究](https://plato.stanford.edu/entries/innate-acquired/#NatiStudLangAcqu)
-  * [ 1.6 历史模式](https://plato.stanford.edu/entries/innate-acquired/#HistPatt)
-* [2. 科学辩论的哲学诊断](https://plato.stanford.edu/entries/innate-acquired/#PhilDiagScieDeba)
-
-  * [2.1 解释重点的问题](https://plato.stanford.edu/entries/innate-acquired/#MattExplEmph)
-  * [2.2 特殊目的的能力和经验主义科学的限制](https://plato.stanford.edu/entries/innate-acquired/#SpecPurpFacuLimiEmpiScie)
-  * [2.3 先天性作为心理原始](https://plato.stanford.edu/entries/innate-acquired/#InnaPsycPrim)
-  * [2.4 I-属性和混乱假设](https://plato.stanford.edu/entries/innate-acquired/#IPropClutHypo)
-  * [2.5 民间本质主义和先天主义的心理吸引力](https://plato.stanford.edu/entries/innate-acquired/#FolkEssePsycAttrNati)
-* [3. 修正主义和消除主义的提议](https://plato.stanford.edu/entries/innate-acquired/#ReviElimProp)
-
-  * [3.1 先天性作为遗传规范](https://plato.stanford.edu/entries/innate-acquired/#InnaGeneSpec)
-  * [3.2 发育不变性和反应规范](https://plato.stanford.edu/entries/innate-acquired/#DeveInvaNormReac)
-  * [3.3 先天性作为环境沟渠](https://plato.stanford.edu/entries/innate-acquired/#InnaEnviCana)
-  * 3.4 其他修订提议
-  * [3.5 关于先天/后天区别的消除主义](https://plato.stanford.edu/entries/innate-acquired/#ElimAbouInnaDist)
-* [ 4. 结论](https://plato.stanford.edu/entries/innate-acquired/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/innate-acquired/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/innate-acquired/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/innate-acquired/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/innate-acquired/#Rel)
-
+ 
 ---
 
 ## 1. 先天论的科学争论概述

@@ -3,27 +3,7 @@
 _首次发表于2011年4月19日；实质性修订于2023年8月23日_
 
 推理的实践和辩论的实践在印度早期的文本中有所记录。对于推理和辩论的本质的关注出现在最早的哲学文本中，它们的处理与本体论、认识论和辩证法的问题密切相关。这些问题在古典和中世纪印度哲学的时期继续成为哲学讨论的中心。本文将记录印度哲学家在古典和前古典时期对这些问题的回答。
-
-* [1. 推理和逻辑](https://plato.stanford.edu/entries/logic-india/#ReasLogi)
-* [2. 前古典时期](https://plato.stanford.edu/entries/logic-india/#PrecPeri)
-  * [2.1 古典印度哲学](https://plato.stanford.edu/entries/logic-india/#Yama)
-  * [2.2 ](https://plato.stanford.edu/entries/logic-india/#Kath)​\*[Kathā-vatthu](https://plato.stanford.edu/entries/logic-india/#Kath)\*
-  * [2.3 ](https://plato.stanford.edu/entries/logic-india/#Mili)​\*[Milinda-pañha](https://plato.stanford.edu/entries/logic-india/#Mili)\*
-* [3. 古典印度时期](https://plato.stanford.edu/entries/logic-india/#EarlClasPeri)
-  * [3.1 早期古典印度时期的文本](https://plato.stanford.edu/entries/logic-india/#TextLatePrecPeri)
-  * [3.2 典范三段论的出现](https://plato.stanford.edu/entries/logic-india/#EmerCanoSyll)
-  * [3.3 论证中的谬误和辩论中的错误](https://plato.stanford.edu/entries/logic-india/#FallArguMissDeba)
-* [4. 古典时期的顶峰](https://plato.stanford.edu/entries/logic-india/#ClasPeri)
-  * [4.1 Dignāga](https://plato.stanford.edu/entries/logic-india/#Dign)
-  * [4.2 古典印度哲学中的 Dignāga 的同时代人和直接继任者](https://plato.stanford.edu/entries/logic-india/#DignContImmeSucc)
-* [参考文献](https://plato.stanford.edu/entries/logic-india/#Bib)
-  * [原始文本](https://plato.stanford.edu/entries/logic-india/#OrigText)
-  * [一般作品](https://plato.stanford.edu/entries/logic-india/#GeneWork)
-  * [参考资料](https://plato.stanford.edu/entries/logic-india/#Refe)
-* [学术工具](https://plato.stanford.edu/entries/logic-india/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-india/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/logic-india/#Rel)
-
+ 
 ***
 
 ## 1. 推理和逻辑

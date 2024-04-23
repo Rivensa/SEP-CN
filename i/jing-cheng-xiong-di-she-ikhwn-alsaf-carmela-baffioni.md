@@ -4,21 +4,7 @@
 
 精诚兄弟社（The Ikhwân al-Safâ’）或“纯洁兄弟”，正如他们的名字通常被翻译的那样，是中世纪最完整的科学百科全书之一的作者，至少比拉丁世界中最著名的百科全书（亚历山大·内克汉姆，托马斯·德·坎蒂普雷，文森特·德·博韦，巴托洛缪斯·安格利克斯，都可以追溯到 13 世纪）早两个世纪。这本“百科全书”是一本信件集，阿拉伯文标题为“纯洁兄弟和真诚朋友的信件”（Rasâ’il Ikhwân al-Safâ’ wa Khullân al-Wafâ’）。它由极其异质的材料组成，经过改编，代表了为精英教育培训而设计的整个内容（见后文）。它非常有名，东方和西方学者对它进行了大量的研究，但是所涉及的主题的多样性以及关于作者身份和意识形态的问题仍然没有解决。在孤立的形式下，并且在错误的归属下，其中一些论文通过马斯拉马·马吉里特（Maslama al-Majrîtî）的西班牙版本传入了拉丁中世纪，这一版本传统上被放置在 11 世纪初。这个已经讨论过的年表（Carusi 2000, 494–500）最近受到几位学者的质疑。这个方向的研究发展得到了先驱性研究的鼓励，Fierro 1996, part. 94 and 106–108; cf. also Hamdani 1978, 350; Hamdani, Soufan 2019, 11-12（见下文）。
 
-* [ 1. 作者身份](https://plato.stanford.edu/entries/ikhwan-al-safa/#Aut)
-* [2. 命名和日期](https://plato.stanford.edu/entries/ikhwan-al-safa/#NamDat)
-* [3. 理念承诺](https://plato.stanford.edu/entries/ikhwan-al-safa/#IdeCom)
-* [ 4. 现存文集](https://plato.stanford.edu/entries/ikhwan-al-safa/#ExtCor)
-* [5. 古典遗产](https://plato.stanford.edu/entries/ikhwan-al-safa/#ClaHer)
-* [6. 宗教组成部分](https://plato.stanford.edu/entries/ikhwan-al-safa/#RelCom)
-* [ 参考书目](https://plato.stanford.edu/entries/ikhwan-al-safa/#Bib)
-
-  * [ 文本](https://plato.stanford.edu/entries/ikhwan-al-safa/#Tex)
-  * [ 翻译](https://plato.stanford.edu/entries/ikhwan-al-safa/#Tra)
-  * [ 选择文学作品](https://plato.stanford.edu/entries/ikhwan-al-safa/#SelLit)
-* [ 学术工具](https://plato.stanford.edu/entries/ikhwan-al-safa/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ikhwan-al-safa/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ikhwan-al-safa/#Rel)
-
+ 
 ---
 
 ## 1. 作者身份

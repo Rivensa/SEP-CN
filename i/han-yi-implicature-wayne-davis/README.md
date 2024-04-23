@@ -8,25 +8,7 @@
 
 H. P. Grice 提出了一个有影响力的理论来解释和预测对话含义，并描述了它们是如何产生和被理解的。合作原则和相关的准则起着核心作用。新格赖斯理论在一定程度上修改了格赖斯的原则，而关联理论则用沟通效率原则取代了它们。基于原则的理论存在的问题包括过度生成、缺乏确定性、冲突以及说话者通常有其他目标。另一种方法强调，含义可以像有意行为和约定那样通过各种方式来解释和预测。
 
-* [ 1. 演讲者的含义](https://plato.stanford.edu/entries/implicature/#SpeaImpl)
-* [2. 对话和常规含义](https://plato.stanford.edu/entries/implicature/#ConvConvImpl)
-* [ 3. 句子的含义](https://plato.stanford.edu/entries/implicature/#SentImpl)
-* [4. 会话含义的常见形式](https://plato.stanford.edu/entries/implicature/#CommFormConvImpl)
-* [5. 语用学和语义学](https://plato.stanford.edu/entries/implicature/#PragSema)
-* [ 6. 格赖斯理论](https://plato.stanford.edu/entries/implicature/#GricTheo)
-* [7. 理论困难](https://plato.stanford.edu/entries/implicature/#TheoDiff)
-* [ 8. 过度生成](https://plato.stanford.edu/entries/implicature/#Over)
-* [9. 确定性失败](https://plato.stanford.edu/entries/implicature/#FailDete)
-* [10. 冲突原则](https://plato.stanford.edu/entries/implicature/#ConfPrin)
-* [11. 新格里斯语用学](https://plato.stanford.edu/entries/implicature/#NeoGricPrag)
-* [ 12. 关联理论](https://plato.stanford.edu/entries/implicature/#ReleTheo)
-* [13. 显意和隐意](https://plato.stanford.edu/entries/implicature/#ExplImpl)
-* [14. 说话者的含义和意图](https://plato.stanford.edu/entries/implicature/#SpeaImplInte)
-* [15. 句子的含义和约定](https://plato.stanford.edu/entries/implicature/#SentImplConv)
-* [ 参考文献](https://plato.stanford.edu/entries/implicature/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/implicature/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/implicature/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/implicature/#Rel)
+ 
 
 ---
 

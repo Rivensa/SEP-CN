@@ -8,26 +8,7 @@
 
 众人一致认为，出版伊本·凯姆那的著作（全部为阿拉伯文）是研究他的贡献的必要第一步。关于如何评估版本的价值以及是否需要重新编辑已有版本，意见迥异。讨论这些问题及相关问题对我们的主题至关重要，并涉及对伊本·凯姆那对当时问题的立场的正确理解。考虑到这一点，我们将在参考文献之前对一些已出版的版本进行简短的批评性讨论。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/ibn-kammuna/#Lif)
-* [ 2. 著作](https://plato.stanford.edu/entries/ibn-kammuna/#Wri)
-* [3. 现代学术中的评价和形象](https://plato.stanford.edu/entries/ibn-kammuna/#EvaImaModSch)
-* [4. 灵魂科学](https://plato.stanford.edu/entries/ibn-kammuna/#SciSou)
-* [5. 哲学：追随直觉的线索](https://plato.stanford.edu/entries/ibn-kammuna/#FolThrInt)
-
-  * [ 5.1 简介](https://plato.stanford.edu/entries/ibn-kammuna/#Int)
-  * [ 5.2 考察](https://plato.stanford.edu/entries/ibn-kammuna/#Exa)
-  * [ 5.3 新智慧](https://plato.stanford.edu/entries/ibn-kammuna/#NewWis)
-  * [5.4 伊本·凯姆那对苏赫拉瓦尔迪的评论，al-Talwīḥāt](https://plato.stanford.edu/entries/ibn-kammuna/#ComSuhAlTal)
-  * [5.5 智慧科学的关键问题 (al-Maṭālib al-Muhimma fī ‘ilm al-ḥikma)](https://plato.stanford.edu/entries/ibn-kammuna/#KeyIssSciWisAlMatAlMuhFiIlmAlHik)
-  * [5.6 虔诚的著作 (Kalimāt wajīza, Ithbāt al-mabda’)](https://plato.stanford.edu/entries/ibn-kammuna/#PieWriKalWajIthAlMab)
-* [6. 虔诚和伦理](https://plato.stanford.edu/entries/ibn-kammuna/#PieEth)
-* [7. 疑难问题：悖论、问题和诡辩](https://plato.stanford.edu/entries/ibn-kammuna/#ShuParProSop)
-* [ 8. 最近的版本](https://plato.stanford.edu/entries/ibn-kammuna/#RecEdi)
-* [ 参考文献](https://plato.stanford.edu/entries/ibn-kammuna/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ibn-kammuna/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ibn-kammuna/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ibn-kammuna/#Rel)
-
+ 
 ---
 
 ## 1. 生平

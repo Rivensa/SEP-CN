@@ -4,26 +4,7 @@
 
 罗曼·英伽登（1893-1970）是一位波兰现象学家、本体论学家和美学家。作为埃德蒙·胡塞尔的学生，英伽登是一位现实主义现象学家，他在职业生涯中大部分时间都在反对他认为胡塞尔转向超验唯心主义的观点。作为缩小现实主义/唯心主义问题可能解决方案的准备工作，英伽登开展了在范围和细节上无与伦比的本体论研究，区分了不同的依赖类型和存在方式。然而，他最著名的是在美学领域的工作，特别是关于艺术作品的本体论和美学价值的地位，并被认为是现象学美学的创始人。他的著作《文学艺术作品》在文学理论以及哲学美学方面具有广泛的影响力，并对新批评和读者反应理论的发展起到了关键作用。
 
-* [1. 生平与工作](https://plato.stanford.edu/entries/ingarden/#LifeWork)
-* [2. 本体论与形而上学](https://plato.stanford.edu/entries/ingarden/#OntoMeta)
-
-  * [2.1 对超验唯心主义的批评](https://plato.stanford.edu/entries/ingarden/#CritTranIdea)
-  * [2.2 存在方式](https://plato.stanford.edu/entries/ingarden/#ModeBein)
-* [ 3. 美学](https://plato.stanford.edu/entries/ingarden/#Aest)
-
-  * [3.1 文学艺术作品](https://plato.stanford.edu/entries/ingarden/#LiteWorkArt)
-  * [3.2 音乐作品、图片、建筑作品](https://plato.stanford.edu/entries/ingarden/#MusiWorkPictArchWork)
-  * [3.3 美学对象、美学价值和美学体验](https://plato.stanford.edu/entries/ingarden/#AestObjeAestValuAestExpe)
-* [ 参考文献](https://plato.stanford.edu/entries/ingarden/#Bib)
-
-  * [德语选集](https://plato.stanford.edu/entries/ingarden/#SeleWorkGerm)
-  * [波兰语选集](https://plato.stanford.edu/entries/ingarden/#SeleWorkPoli)
-  * [选择罗曼·英伽登的作品英文翻译](https://plato.stanford.edu/entries/ingarden/#SeleWorkEnglTran)
-  * [选择次要来源](https://plato.stanford.edu/entries/ingarden/#SeleSecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/ingarden/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ingarden/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ingarden/#Rel)
-
+ 
 ---
 
 ## 1. 罗曼·英伽登的生平和作品

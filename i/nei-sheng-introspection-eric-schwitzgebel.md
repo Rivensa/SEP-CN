@@ -8,52 +8,7 @@
 
 内省在心灵哲学中也是核心，既作为一个值得研究的过程，也作为对有关心灵的其他主张的上诉法院。心灵哲学家提出了各种关于内省性质的理论；关于意识、情感、自由意志、个人身份、思维、信念、意象、知觉和其他心理现象的哲学主张通常被认为具有内省性的后果或易受内省性验证的影响。出于类似的原因，实证心理学家也讨论了内省判断的准确性以及内省在心灵科学中的作用。
 
-* [1. 内省的一般特点](https://plato.stanford.edu/entries/introspection/#GenFeaInt)
-
-  * [1.1 内省过程的必要特点](https://plato.stanford.edu/entries/introspection/#NecFeaIntPro)
-  * [1.2 内省的目标](https://plato.stanford.edu/entries/introspection/#TarInt)
-  * [1.3 内省的产物](https://plato.stanford.edu/entries/introspection/#ProInt)
-* [2. 内省与非内省的自我认知解释](https://plato.stanford.edu/entries/introspection/#IntVerNonIntAccSelKno)
-
-  * [2.1 自我/他人平等解释](https://plato.stanford.edu/entries/introspection/#SelParAcc)
-
-    * [2.1.1 行为观察解释](https://plato.stanford.edu/entries/introspection/#BehObsAcc)
-    * [2.1.2 理论理论解释](https://plato.stanford.edu/entries/introspection/#TheTheAcc)
-    * [2.1.3 平等限制](https://plato.stanford.edu/entries/introspection/#ResPar)
-  * [2.2 自我检测解释](https://plato.stanford.edu/entries/introspection/#SelDetAcc)
-
-    * [2.2.1 简单监控解释](https://plato.stanford.edu/entries/introspection/#SimMonAcc)
-    * [2.2.2 多进程监控解释](https://plato.stanford.edu/entries/introspection/#MulProMonAcc)
-  * [2.3 内省而无自我检测？](https://plato.stanford.edu/entries/introspection/#IntWitSelDet)
-
-    * [2.3.1 自我实现和包容](https://plato.stanford.edu/entries/introspection/#SelFulCon)
-    * [ 2.3.2 自我塑造](https://plato.stanford.edu/entries/introspection/#SelSha)
-    * [ 2.3.3 表达主义](https://plato.stanford.edu/entries/introspection/#Exp)
-    * [ 2.3.4 透明度](https://plato.stanford.edu/entries/introspection/#Tra)
-  * [2.4 内省的多元主义](https://plato.stanford.edu/entries/introspection/#IntPlu)
-* [3. 内省在科学心理学中的作用](https://plato.stanford.edu/entries/introspection/#RolIntSciPsy)
-
-  * [3.1 内省心理学作为一门科学的兴起](https://plato.stanford.edu/entries/introspection/#RisIntPsySci)
-  * [3.2 对内省观察的早期怀疑](https://plato.stanford.edu/entries/introspection/#EarSkeAboIntObs)
-  * [3.3 科学内省的衰落](https://plato.stanford.edu/entries/introspection/#DecSciInt)
-  * [3.4 科学内省的再次出现](https://plato.stanford.edu/entries/introspection/#ReEmeSciInt)
-* [4. 内省的准确性](https://plato.stanford.edu/entries/introspection/#AccInt)
-
-  * [4.1 特权的种类](https://plato.stanford.edu/entries/introspection/#VarPri)
-
-    * [4.1.1 完美的种类：绝对无误、无可置疑、无法更正和自我启示](https://plato.stanford.edu/entries/introspection/#VarPerInfIndIncSelInt)
-    * [ 4.1.2 较弱的保证](https://plato.stanford.edu/entries/introspection/#WeaGua)
-    * [4.1.3 没有保证的特权](https://plato.stanford.edu/entries/introspection/#PriWitGua)
-  * [4.2 内省准确性的经验证据](https://plato.stanford.edu/entries/introspection/#EmpEviAccInt)
-
-    * [4.2.1 态度和行为的原因](https://plato.stanford.edu/entries/introspection/#CauAttBeh)
-    * [ 4.2.2 内省的态度](https://plato.stanford.edu/entries/introspection/#Att)
-    * [4.2.3 内省的意识体验](https://plato.stanford.edu/entries/introspection/#ConExp)
-* [ 参考文献](https://plato.stanford.edu/entries/introspection/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/introspection/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/introspection/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/introspection/#Rel)
-
+ 
 ---
 
 ## 1. 内省的一般特点

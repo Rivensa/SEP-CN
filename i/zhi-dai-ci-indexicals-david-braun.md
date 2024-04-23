@@ -5,47 +5,7 @@
 指代词，粗略地说，是一种语言表达，其指称可以从上下文中转变。例如，指代词“你”在一个上下文中可能指的是一个人，在另一个上下文中可能指的是另一个人。其他典型的指代词包括“我”、“这里”、“今天”、“昨天”、“他”、“她”和“那个”。两个说出包含指代词的句子的说话者可能会说出不同的话。例如，当约翰和玛丽都说出“我饿了”的时候，玛丽说她饿了，而约翰说他饿了。许多哲学家认为指代词有两种意义。第一种意义通常被称为“语言意义”或“字符”（后一种术语是由大卫·卡普兰于 1989 年提出的）。第二种意义通常被称为“内容”。使用这个术语，我们可以说每个指代词都有一个不变的字符，但在不同的上下文中可能在内容上有所变化。
 
 哲学家对指代词感兴趣有几个原因。首先，一些人希望描述它们的意义并将其纳入一般的语义理论中。其次，一些人希望理解包含指代词的论证的逻辑，例如笛卡尔的“我思故我在”论证。第三，一些人认为对指代词的思考可能使他们对信念的本质、自我认知、第一人称视角、意识和其他重要的哲学问题有一些洞见。
-
-* [ 1. 准备工作](https://plato.stanford.edu/entries/indexicals/#Pre)
-
-  * [1.1 指代词的一些进一步例子，一些术语以及与歧义的对比](https://plato.stanford.edu/entries/indexicals/#SomFurExaIndSomTerConAmb)
-  * [1.2 代词的指代和非指代用法](https://plato.stanford.edu/entries/indexicals/#IndNonIndUsePro)
-  * [1.3 指代词类型之间的区别](https://plato.stanford.edu/entries/indexicals/#DisAmoTypInd)
-  * [1.4 指代词的参考修复和内容修复](https://plato.stanford.edu/entries/indexicals/#RefFixConFixForTruDem)
-* [2. 哪些表达式是指代词？](https://plato.stanford.edu/entries/indexicals/#WhiExpInd)
-
-  * [2.1 一些被认为是指代词的表达式](https://plato.stanford.edu/entries/indexicals/#SomExpHavBeeSaiInd)
-  * [2.2 严格语境主义，带有隐藏指代词的不变主义，以及带有未明确成分的不变主义](https://plato.stanford.edu/entries/indexicals/#StrConInvHidIndInvUnaCon)
-  * [2.3 抵制语境敏感性归因的策略](https://plato.stanford.edu/entries/indexicals/#StrForResAttConSen)
-  * [2.4 指代性的提出测试方法](https://plato.stanford.edu/entries/indexicals/#ProTesForInd)
-* [3. 指代词的卡普兰理论](https://plato.stanford.edu/entries/indexicals/#KapTheInd)
-
-  * [3.1 一个例子（再次）和卡普兰的区分](https://plato.stanford.edu/entries/indexicals/#ExaAgaKapDis)
-  * [3.2 卡普兰理论的一些基础知识](https://plato.stanford.edu/entries/indexicals/#SomBasKapThe)
-  * [3.3 Kaplan 理论中的真指代词](https://plato.stanford.edu/entries/indexicals/#TruDemKapThe)
-  * [ 3.4 字符](https://plato.stanford.edu/entries/indexicals/#Cha)
-  * [3.5 直接指代和刚性指称](https://plato.stanford.edu/entries/indexicals/#DirRefRigDes)
-  * [3.6 Kaplan 理论中的话语和表达方式](https://plato.stanford.edu/entries/indexicals/#UttExpKapThe)
-  * [3.7 Kaplan 关于指代词的逻辑：一些形式细节](https://plato.stanford.edu/entries/indexicals/#KapLogForIndFewForDet)
-  * [3.8 关于 Kaplan 关于指代词的逻辑的更多内容：有条件的有效性，优先性和有效论证](https://plato.stanford.edu/entries/indexicals/#KapLogForIndConValPriValArg)
-  * [3.9 Kaplan 理论的一些批评](https://plato.stanford.edu/entries/indexicals/#SomCriKapThe)
-* [4. 指代信念和指代语义](https://plato.stanford.edu/entries/indexicals/#IndBelIndSem)
-
-  * [4.1 指代词的直接引用理论、特指命题和指代信念](https://plato.stanford.edu/entries/indexicals/#DirRefTheIndSinProIndBel)
-  * [4.2 指代词和指代信念的描述主义理论](https://plato.stanford.edu/entries/indexicals/#DesTheIndIndBel)
-  * [4.3 对反对他们观点的论据的直接引用回应](https://plato.stanford.edu/entries/indexicals/#DirRefResArgAgaTheVie)
-  * [4.4 关于指代信念的 Lewis 和 Chisholm 的观点](https://plato.stanford.edu/entries/indexicals/#LewChiIndBel)
-  * [4.5 其他指代词信念的观点（和指代词语义学）](https://plato.stanford.edu/entries/indexicals/#OthVieIndBelIndSem)
-* [5. 关于指代词的其他主题](https://plato.stanford.edu/entries/indexicals/#OthTopConInd)
-
-  * [5.1 准指示词和似乎归因于第一人称指代词态度的陈述](https://plato.stanford.edu/entries/indexicals/#QuaIndAttAscSeeAttFirPerIndAtt)
-  * [5.2 复杂指代词](https://plato.stanford.edu/entries/indexicals/#ComDem)
-  * [5.3 指代词的多次出现](https://plato.stanford.edu/entries/indexicals/#MulOccDem)
-* [ 参考文献](https://plato.stanford.edu/entries/indexicals/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/indexicals/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/indexicals/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/indexicals/#Rel)
-
+ 
 ---
 
 ## 1. 准备工作

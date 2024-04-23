@@ -4,32 +4,7 @@ _首次发表于2009年9月15日星期二_
 
 信息加工的原则是否必要来证明统计力学的一致性？计算操作的物理实现是否由于其逻辑属性而具有基本的热力学成本？这两个问题是与 Szilard 引擎（Maxwell 的恶魔思想实验的一种变体）、Landauer 原理（被认为是计算的热力学基本原理）以及两者之间可能的联系相关的大量文献的核心。对这些问题的各种尝试揭示了统计力学基础中的许多未解之谜。
 
-* [1. 麦克斯韦、Szilard 和 Landauer](https://plato.stanford.edu/entries/information-entropy/#MaxSziLan)
-  * [1.1 麦克斯韦的恶魔](https://plato.stanford.edu/entries/information-entropy/#MaxDem)
-  * [1.2 Szilard 的引擎](https://plato.stanford.edu/entries/information-entropy/#SziEng)
-  * [1.3 Landauer 的原理](https://plato.stanford.edu/entries/information-entropy/#LanPri)
-* [2. 统计力学和第二定律](https://plato.stanford.edu/entries/information-entropy/#StaMecSecLaw)
-  * [2.1 哪种熵？](https://plato.stanford.edu/entries/information-entropy/#WhiEnt)
-  * [2.2 哪个第二定律？](https://plato.stanford.edu/entries/information-entropy/#WhiSecLaw)
-* [3. 需要信息加工的统计力学](https://plato.stanford.edu/entries/information-entropy/#StaMecReqInfPro)
-  * [3.1 用光进行测量](https://plato.stanford.edu/entries/information-entropy/#MeaLig)
-  * [3.2 无恶魔的引擎](https://plato.stanford.edu/entries/information-entropy/#EngWitDem)
-  * [3.3 信息加工和擦除](https://plato.stanford.edu/entries/information-entropy/#MemEra)
-  * [3.4 算法复杂度](https://plato.stanford.edu/entries/information-entropy/#AlgCom)
-  * [3.5 声音 vs. 深刻困境](https://plato.stanford.edu/entries/information-entropy/#SouVsProDil)
-  * [3.6 恶魔存在](https://plato.stanford.edu/entries/information-entropy/#DemExi)
-* [4. 信息加工使用统计力学](https://plato.stanford.edu/entries/information-entropy/#InfProUsiStaMec)
-  * [4.1 Liouvillean 证明](https://plato.stanford.edu/entries/information-entropy/#LioPro)
-  * [4.2 Gibbsian 证明](https://plato.stanford.edu/entries/information-entropy/#GibPro)
-  * [4.3 现象学证明](https://plato.stanford.edu/entries/information-entropy/#PhePro)
-  * [4.4 反证和例子](https://plato.stanford.edu/entries/information-entropy/#CouArgExa)
-* [5. 量子理论的作用](https://plato.stanford.edu/entries/information-entropy/#RolQuaThe)
-* [6. 讨论](https://plato.stanford.edu/entries/information-entropy/#Dis)
-* [参考文献](https://plato.stanford.edu/entries/information-entropy/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/information-entropy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/information-entropy/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/information-entropy/#Rel)
-
+ 
 ***
 
 ## 1. 麦克斯韦、西拉德和兰道尔

@@ -4,36 +4,7 @@
 
 移民发生在某人移居到另一个国家以无限期居住的情况下。因此，尽管游客、商务旅行者和外国学生在外国停留一段时间，但通常不符合移民的资格。移民的道德问题涉及许多重要问题，包括难以定义和确定难民的道德地位，是否可以使用外来劳工的情况（如果有的话），富裕国家在积极招募贫穷国家的技术工人时承担的义务，非法移民的权利，以及国家在决定移民申请人中的选择标准上是否有任何限制。本文将在下面讨论每个主题，但首先回顾一下在这个领域的核心辩论的双方最突出的论点。
 
-* [1. 封闭边界的论点](https://plato.stanford.edu/entries/immigration/#ArgForCloBor)
-
-  * [ 1.1 保护文化](https://plato.stanford.edu/entries/immigration/#PreCul)
-  * [1.2 维持经济](https://plato.stanford.edu/entries/immigration/#SusEco)
-  * [1.3 分配国家福利](https://plato.stanford.edu/entries/immigration/#DisStaBen)
-  * [1.4 政治运作](https://plato.stanford.edu/entries/immigration/#PolFun)
-  * [1.5 建立安全](https://plato.stanford.edu/entries/immigration/#EstSec)
-  * [1.6 政治自决](https://plato.stanford.edu/entries/immigration/#PolSelDet)
-  * [ 1.7 民主](https://plato.stanford.edu/entries/immigration/#Dem)
-  * [ 1.8 管辖权](https://plato.stanford.edu/entries/immigration/#Juris)
-  * [ 1.9 现实主义](https://plato.stanford.edu/entries/immigration/#Rea)
-  * [1.10 间接世界主义](https://plato.stanford.edu/entries/immigration/#IndCos)
-* [2. 开放边界的论据](https://plato.stanford.edu/entries/immigration/#ArgForOpeBor)
-
-  * [2.1 世界主义平等主义](https://plato.stanford.edu/entries/immigration/#CosEga)
-  * [ 2.2 自由主义](https://plato.stanford.edu/entries/immigration/#Lib)
-  * [ 2.3 民主](https://plato.stanford.edu/entries/immigration/#Dem-Open)
-  * [ 2.4 功利主义](https://plato.stanford.edu/entries/immigration/#Uti)
-* [3. 移民中的应用问题](https://plato.stanford.edu/entries/immigration/#AppQueImm)
-
-  * [ 3.1 难民](https://plato.stanford.edu/entries/immigration/#Ref)
-  * [ 3.2 客工](https://plato.stanford.edu/entries/immigration/#GueWor)
-  * [3.3 招募移民](https://plato.stanford.edu/entries/immigration/#RecImm)
-  * [ 3.4 非法移民](https://plato.stanford.edu/entries/immigration/#IrrMig)
-  * [ 3.5 选择标准](https://plato.stanford.edu/entries/immigration/#SelCri)
-* [ 参考文献](https://plato.stanford.edu/entries/immigration/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/immigration/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/immigration/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/immigration/#Rel)
-
+ 
 ---
 
 ## 1. 封闭边境的论据

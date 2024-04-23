@@ -12,18 +12,7 @@
 
 这篇百科全书条目是关于自由意志/决定论问题的；更具体地说，它是关于自由意志与决定论不相容的论证。由于当代自由意志文献中有很多关于道德责任的问题，所以考虑的一些论证将是关于如果决定论是真实的，我们永远不会承担道德责任，因为我们从未满足“自由要求”来对我们的行为负道德责任。但是，在这篇条目中，重点将放在自由意志（或以自由意志行动）是否与决定论相容的问题上。
 
-* [ 1. 准备工作](https://plato.stanford.edu/entries/incompatibilism-arguments/#Prel)
-* [2. 认为自由意志与决定论不相容的两个理由](https://plato.stanford.edu/entries/incompatibilism-arguments/#TwoReasForThinFreeWillIncoDete)
-* [3. 不相容论的论证](https://plato.stanford.edu/entries/incompatibilism-arguments/#ArguBaseIntu)
-
-  * [3.1 无分叉路径论证](https://plato.stanford.edu/entries/incompatibilism-arguments/#NoForkPathArgu)
-  * [3.2 操纵论证](https://plato.stanford.edu/entries/incompatibilism-arguments/#ManiArgu)
-* [ 4. 不相容论的论证](https://plato.stanford.edu/entries/incompatibilism-arguments/#SourArgu)
-* [5. 选择和结果论证](https://plato.stanford.edu/entries/incompatibilism-arguments/#ChoiConsArgu)
-* [ 参考文献](https://plato.stanford.edu/entries/incompatibilism-arguments/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/incompatibilism-arguments/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/incompatibilism-arguments/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/incompatibilism-arguments/#Rel)
+ 
 
 ---
 

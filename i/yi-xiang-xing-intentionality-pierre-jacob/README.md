@@ -4,21 +4,7 @@ _首次发表于2003年8月7日星期四；实质性修订于2023年2月7日星�
 
 在哲学中，意向性是心智和心理状态具有关于、代表或代表事物、属性和情况的能力。说一个个体的心理状态具有意向性是说它们是心理表征或具有内容。此外，如果一个说话者使用某种自然语言的词语或从形式语言中绘制图片或符号，目的是向他人传达她心理状态的内容，那么说话者使用的这些工具也具有内容或意向性。"意向性"是一个哲学家的词：自从19世纪末弗朗茨·布伦塔诺引入这个概念（即使不是这个词本身）以来，它一直被用来指代表征的难题，所有这些难题都位于心灵哲学和语言哲学的交界处。一幅狗的图片、一个专有名词（例如"Fido"）、普通名词"dog"或者由这个词所表达的概念都可以意味着、代表或者代表一个或多个毛茸茸的叫的生物。一个完整的思想、一个完整的句子或者一幅图片可以代表或描述一个情况。一些被代表的事物（例如恐龙）如何与表征（例如2018年的一个关于恐龙的人类思想或话语）在空间和时间上任意远离，而其他一些事物（例如数字）甚至可能根本不在空间和时间中？一些表征（例如直接引语，如"dinosaur"）如何代表它们自己？一个复杂的表征（例如一个完整的思想或一个完整的句子）如何从其组成部分的意义或内容中继承其意义或内容？人们应该如何理解图像表征的图像内容与类似命题的表征（思想和话语）的概念内容之间的关系？ 一个人应该如何理解个体心理状态的内容与个体用来表达其内部心理状态的外部符号的意义之间的关系？世界的表征是否是它们所代表的世界的一部分？一个人的所有心理状态都具有意向性吗，还是只有其中一部分？这个条目分为十个部分：
 
-* [1. 为什么称之为意向性？](https://plato.stanford.edu/entries/intentionality/#WhyInteSoCall)
-* [2. 意向性的不存在](https://plato.stanford.edu/entries/intentionality/#InteInex)
-* [3. 单一思维的关系性质](https://plato.stanford.edu/entries/intentionality/#RelaNatuSingThou)
-* [4. 不同信念如何能够关于同一对象？](https://plato.stanford.edu/entries/intentionality/#HowDistBeliAbouOneSameObje)
-* [5. 真实的否定存在信念](https://plato.stanford.edu/entries/intentionality/#TrueNegaExisBeli)
-* [6. 直接指称](https://plato.stanford.edu/entries/intentionality/#DireRefe)
-* [7. 是否存在意向对象？](https://plato.stanford.edu/entries/intentionality/#TherInteObje)
-* [8. 意向性是否是意向的标准？](https://plato.stanford.edu/entries/intentionality/#InteCritInte)
-* [9. 意向性是否可以自然化？](https://plato.stanford.edu/entries/intentionality/#InteNatu)
-* [10. 所有心理现象是否都表现出意向性？](https://plato.stanford.edu/entries/intentionality/#InteExhiAllMentPhen)
-* [参考文献](https://plato.stanford.edu/entries/intentionality/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/intentionality/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/intentionality/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/intentionality/#Rel)
-
+ 
 ***
 
 ## 1. 为什么称之为意向性？

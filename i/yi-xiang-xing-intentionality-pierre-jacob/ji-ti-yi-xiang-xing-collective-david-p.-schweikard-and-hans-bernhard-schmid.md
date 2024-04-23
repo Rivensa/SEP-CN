@@ -11,28 +11,7 @@
 
 在过去的几十年中，已经提出了许多关于群体意向性的理论，指向不同的解决这种紧张关系的方式。
 
-* [1. 中心问题](https://plato.stanford.edu/entries/collective-intentionality/#CenPro)
-* [ 2. 历史](https://plato.stanford.edu/entries/collective-intentionality/#His)
-
-  * [2.1 社会和社会学理论](https://plato.stanford.edu/entries/collective-intentionality/#SocSocThe)
-  * [ 2.2 现象学](https://plato.stanford.edu/entries/collective-intentionality/#Phe)
-  * [2.3 Sellars 对我们意向性的构想](https://plato.stanford.edu/entries/collective-intentionality/#SelConWeInt)
-* [3. 什么是群体意向性？](https://plato.stanford.edu/entries/collective-intentionality/#WhaColAboColInt)
-
-  * [ 3.1 内容](https://plato.stanford.edu/entries/collective-intentionality/#Con)
-  * [ 3.2 模式](https://plato.stanford.edu/entries/collective-intentionality/#Mod)
-  * [ 3.3 主题](https://plato.stanford.edu/entries/collective-intentionality/#Sub)
-* [4. 具体问题](https://plato.stanford.edu/entries/collective-intentionality/#SpeIss)
-
-  * [4.1 社会和制度事实](https://plato.stanford.edu/entries/collective-intentionality/#SocInsFac)
-  * [4.2 群体责任](https://plato.stanford.edu/entries/collective-intentionality/#ColRes)
-  * [ 4.3 团队推理](https://plato.stanford.edu/entries/collective-intentionality/#TeaRea)
-  * [4.4 人类的标志](https://plato.stanford.edu/entries/collective-intentionality/#MarMan)
-* [ 参考文献](https://plato.stanford.edu/entries/collective-intentionality/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/collective-intentionality/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/collective-intentionality/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/collective-intentionality/#Rel)
-
+ 
 ---
 
 ## 1. 中心问题

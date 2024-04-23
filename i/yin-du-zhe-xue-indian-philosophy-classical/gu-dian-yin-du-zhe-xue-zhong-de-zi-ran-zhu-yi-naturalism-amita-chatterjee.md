@@ -6,20 +6,7 @@
 
 古典印度哲学家并不自称为自然主义者，但不同的自然主义特征在不同的学派中很容易被发现。这种主张的有效性与不同体系中所承认的自然概念有关，这一概念独自决定了自然和超自然之间的界限。因此，本文首先讨论了两种不同的自然理论，并以此为基础，通过借鉴古典印度哲学家的著作，构建了本体自然主义、方法自然主义和道德自然主义的论证。自然主义特征并不在所有体系中均匀存在：一个哲学体系可能从一个角度支持自然主义，从另一个角度支持非自然主义。例如，纳亚亚学派在认识论上表现出明显的自然主义偏好，而在语言理论上则坚定地支持传统观点；而阿德维塔·维达恩提派则在本体论上是非自然主义者，但他们的认识论可以被视为自然主义的。大多数印度哲学体系都共享道德自然主义。然而，在将这些标签从西方哲学引入古典印度哲学体系时，需要谨慎行事，因为自然、科学、科学方法等概念在这两个理论传统中并不完全一致。
 
-* [1. 自然主义分析框架](https://plato.stanford.edu/entries/naturalism-india/#FraForNatAna)
-* [2. 古典印度的自然观念](https://plato.stanford.edu/entries/naturalism-india/#IndConNat)
-
-  * [2.1 原子论：Nyāya-Vaiśeṣika](https://plato.stanford.edu/entries/naturalism-india/#AtoNyaVai)
-  * [2.2 原子论：佛教和耆那教的观点](https://plato.stanford.edu/entries/naturalism-india/#AtoBudJaiVie)
-  * [2.3 极端自然主义 (Svabhāvavāda)](https://plato.stanford.edu/entries/naturalism-india/#ExtNatSva)
-  * [2.4 Prakṛti-pariṇāma-vāda: 自然的另一种观点](https://plato.stanford.edu/entries/naturalism-india/#PraParVaaAltVieNat)
-  * [2.5 关于自我和意识的自然主义](https://plato.stanford.edu/entries/naturalism-india/#NatSelCon)
-* [3. 自然主义方法论：Nyāya 认识论](https://plato.stanford.edu/entries/naturalism-india/#MetNat)
-* [4. 道德自然主义：因果业力和 adṛṣṭa](https://plato.stanford.edu/entries/naturalism-india/#MorNatKarAdr)
-* [ 参考文献](https://plato.stanford.edu/entries/naturalism-india/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/naturalism-india/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/naturalism-india/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/naturalism-india/#Rel)
+ 
 
 ---
 

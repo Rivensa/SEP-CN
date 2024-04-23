@@ -12,59 +12,7 @@
 
 无论对信息哲学的本质有何种解释，它似乎都意味着一个雄心勃勃的研究计划，包括许多子项目，从在现代信息理论背景下重新解释哲学史，到对信息在科学、人文学科和整个社会中的作用进行深入分析。
 
-* [1. 信息的概念](https://plato.stanford.edu/entries/information/#ConcInf)
-
-  * [1.1 口语中的信息](https://plato.stanford.edu/entries/information/#InfoCollSpee)
-  * [1.2 信息概念的技术定义](https://plato.stanford.edu/entries/information/#TechDef)
-* [2. 信息术语和概念的历史](https://plato.stanford.edu/entries/information/#HistTermConcInfo)
-
-  * [2.1 古典哲学](https://plato.stanford.edu/entries/information/#ClasPhil)
-  * [ 2.2 中世纪哲学](https://plato.stanford.edu/entries/information/#MediPhil)
-  * [ 2.3 现代哲学](https://plato.stanford.edu/entries/information/#ModePhil)
-  * [2.4 术语“信息”的历史发展](https://plato.stanford.edu/entries/information/#HistDeveMeanTermInfo)
-* [3. 现代信息理论的基本构建模块](https://plato.stanford.edu/entries/information/#BuilBlocModeTheoInfo)
-
-  * [ 3.1 语言](https://plato.stanford.edu/entries/information/#Lang)
-  * [ 3.2 最优编码](https://plato.stanford.edu/entries/information/#OptiCode)
-  * [ 3.3 数字](https://plato.stanford.edu/entries/information/#Numb)
-  * [ 3.4 物理学](https://plato.stanford.edu/entries/information/#Phys)
-* [4. 信息哲学的发展](https://plato.stanford.edu/entries/information/#DevePhilInfo)
-
-  * [4.1 Popper: 信息作为可证伪程度](https://plato.stanford.edu/entries/information/#PoppInfoDegrFals)
-  * [4.2 Shannon: 信息定义为概率](https://plato.stanford.edu/entries/information/#ShanInfoDefiTermProb)
-  * [4.3 Solomonoff, Kolmogorov, Chaitin: 信息作为程序长度](https://plato.stanford.edu/entries/information/#SoloKolmChaiInfoLengProg)
-* [5. 系统考虑](https://plato.stanford.edu/entries/information/#SystCons)
-
-  * [5.1 信息哲学作为数学哲学的延伸](https://plato.stanford.edu/entries/information/#PhilInfoExtePhilMath)
-
-    * [5.1.1 信息作为自然现象](https://plato.stanford.edu/entries/information/#InfoNatuPhen)
-    * [5.1.2 符号操作和广泛性：集合、多重集合和字符串](https://plato.stanford.edu/entries/information/#SymbManiExteSetsMultStri)
-    * [5.1.3 集合和数字](https://plato.stanford.edu/entries/information/#SetsNumb)
-    * [5.1.4 用数字测量信息](https://plato.stanford.edu/entries/information/#MeasInfoNumb)
-    * [5.1.5 测量信息和概率的数字集合](https://plato.stanford.edu/entries/information/#MeasInfoProbSetsNumb)
-    * [5.1.6 统一的视角](https://plato.stanford.edu/entries/information/#PersForUnif)
-    * [5.1.7 信息处理和信息流动](https://plato.stanford.edu/entries/information/#InfoProcFlowInfo)
-    * [5.1.8 信息，质数和因子](https://plato.stanford.edu/entries/information/#InfoPrimFact)
-    * [5.1.9 算术的不完备性](https://plato.stanford.edu/entries/information/#IncoArit)
-  * [5.2 信息与符号计算](https://plato.stanford.edu/entries/information/#InfoSymbComp)
-
-    * [ 5.2.1 图灵机](https://plato.stanford.edu/entries/information/#TuriMach)
-    * [5.2.2 普适性和不变性](https://plato.stanford.edu/entries/information/#UnivInva)
-  * [5.3 量子信息与超越](https://plato.stanford.edu/entries/information/#QuanInfoBeyo)
-* [6. 异常、悖论和问题](https://plato.stanford.edu/entries/information/#AnomParaProb)
-
-  * [6.1 系统搜索的悖论](https://plato.stanford.edu/entries/information/#ParaSystSear)
-  * [6.2 有限集合中的有效搜索](https://plato.stanford.edu/entries/information/#EffeSearFiniSets)
-  * [6.3 P 与 NP 问题，描述复杂度与时间复杂度](https://plato.stanford.edu/entries/information/#PVersNPProbDescCompVersTimeComp)
-  * [6.4 模型选择和数据压缩](https://plato.stanford.edu/entries/information/#ModeSeleDataComp)
-  * [6.5 决定论与热力学](https://plato.stanford.edu/entries/information/#DeteTher)
-  * [6.6 逻辑和语义信息](https://plato.stanford.edu/entries/information/#LogiSemaInfo)
-  * [6.7 意义和计算](https://plato.stanford.edu/entries/information/#MeanComp)
-* [ 7. 结论](https://plato.stanford.edu/entries/information/#Conc)
-* [ 信息](https://plato.stanford.edu/entries/information/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/information/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/information/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/information/#Rel)
+ 
 
 ---
 

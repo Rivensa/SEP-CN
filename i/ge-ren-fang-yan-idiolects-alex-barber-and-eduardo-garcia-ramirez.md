@@ -10,29 +10,7 @@
 
 有几个重要的辩论涉及到比社会性更强的个人方言。其中一些在其他条目中有详细讨论（参见关于思维语言假设、私语和关于心理内容的外在主义的条目）。本条目将集中讨论一个极具影响力的非个人方言观点（刘易斯关于语言作为约定的观点，第 2 节，该节还讨论了戴维森的反约定主义）和一个极具影响力的个人方言观点（乔姆斯基关于 I-语言的概念，第 3 节）。本条目在第 1 节开始，对语言的本体论进行一些概括性的说明。
 
-* [1. 语言本体论](https://plato.stanford.edu/entries/idiolects/#LangOnto)
-
-  * [1.1 个人方言与社交语言](https://plato.stanford.edu/entries/idiolects/#IdioVersSociLang)
-  * [1.2 反对英语和其他民间语言的案例](https://plato.stanford.edu/entries/idiolects/#CaseAgaiEnglOtheFolkLang)
-* [2. 关于语言约定性的辩论](https://plato.stanford.edu/entries/idiolects/#DebaOverConvLang)
-
-  * [2.1 个人方言使用作为一种约定：基本观点](https://plato.stanford.edu/entries/idiolects/#LangUseConvBasiView)
-  * [2.2 Lewisian 解释的其他重要方面](https://plato.stanford.edu/entries/idiolects/#FurtImpoAspeLewiAcco)
-  * [2.3 反对将语言视为约定](https://plato.stanford.edu/entries/idiolects/#AgaiTreaLangConv)
-  * [2.4 个人方言回应](https://plato.stanford.edu/entries/idiolects/#ConvResp)
-* [3. 电子语言与个人语言](https://plato.stanford.edu/entries/idiolects/#ELangVersILang)
-
-  * [3.1 乔姆斯基对个人语言的概念](https://plato.stanford.edu/entries/idiolects/#ChomNotiILang)
-
-    * [3.1.1 个人方言的理由](https://plato.stanford.edu/entries/idiolects/#CaseForILang)
-    * [3.1.2 反对个人方言的理由](https://plato.stanford.edu/entries/idiolects/#CaseAgaiELang)
-  * [3.2 对个人方言观点的首次回应：没有被代表的表达](https://plato.stanford.edu/entries/idiolects/#FirsRespILangPersNoReprWithRepr)
-  * [3.3 个人方言对 I 语言视角的第二次回应：心理语言学](https://plato.stanford.edu/entries/idiolects/#SecoRespILangPersPsyc)
-* [ 4. 进一步阅读](https://plato.stanford.edu/entries/idiolects/#FurtRead)
-* [ 参考书目](https://plato.stanford.edu/entries/idiolects/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/idiolects/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/idiolects/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/idiolects/#Rel)
+ 
 
 ---
 

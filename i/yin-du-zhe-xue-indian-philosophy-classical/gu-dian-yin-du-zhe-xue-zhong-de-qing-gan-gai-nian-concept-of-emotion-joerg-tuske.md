@@ -8,24 +8,7 @@
 
 这种西方观点与对印度哲学的偏见之间存在着一种平行。这种偏见认为，由于印度哲学具有解脱的性质，并强调实现解脱，因此它是关于将思想从情感和情绪中解放出来，因为它们构成了对世界的依恋。虽然这对于一些印度哲学派系来说是正确的，但这绝不是对整个印度哲学的公正描述。印度哲学在这个问题上的不同立场更加复杂，就像西方哲学一样。本文介绍了印度哲学中情感及其与认知的关系的一些主要立场。文章的各个部分大致对应于古典印度哲学中的哲学派系划分。由于可以说佛教哲学家对那些西方哲学家会归类为情感的现象更加关注，所以佛教对情感的描述将比其他描述更详细地讨论。
 
-* [1. 情感的 Nyāya-Vaiśeṣika 观点](https://plato.stanford.edu/entries/concept-emotion-india/#NyaVaiAccEmo)
-* [2. 情感的 Vedānta 观点](https://plato.stanford.edu/entries/concept-emotion-india/#VedAccEmo)
-* [3. 情感的 Sāṃkhya-Yoga 论述](https://plato.stanford.edu/entries/concept-emotion-india/#SaaYogAccEmo)
-* [4. 情感的佛教论述](https://plato.stanford.edu/entries/concept-emotion-india/#BudAccEmo)
-
-  * [ 4.1 佛教认知](https://plato.stanford.edu/entries/concept-emotion-india/#BudCog)
-  * [4.2 Śāntarakṣita 关于爱和恨](https://plato.stanford.edu/entries/concept-emotion-india/#SaaLovHat)
-  * [4.3 认知、情感和烦恼](https://plato.stanford.edu/entries/concept-emotion-india/#CogEmoKle)
-  * [ 4.4 佛教情感](https://plato.stanford.edu/entries/concept-emotion-india/#BudEmo)
-* [ 5. 结论](https://plato.stanford.edu/entries/concept-emotion-india/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/concept-emotion-india/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/concept-emotion-india/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/concept-emotion-india/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/concept-emotion-india/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/concept-emotion-india/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/concept-emotion-india/#Rel)
-
+ 
 ---
 
 ## 1. 情感的 Nyāya-Vaiśeṣika 观点

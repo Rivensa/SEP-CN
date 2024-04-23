@@ -7,47 +7,7 @@
 
 中世纪讨论的历史可以分为三个主要时期：（a）早期阶段，从 12 世纪末到 1320 年代；（b）一个特别激烈和原创性工作的时期，大约在 14 世纪第二个季度；（c）一个晚期阶段，从大约 1350 年开始。本文的讨论将按照以下方式组织：
 
-* [1. 中世纪讨论的起源](https://plato.stanford.edu/entries/insolubles/#OrigMediDisc)
-
-  * [1.1 不太可能的古代来源](https://plato.stanford.edu/entries/insolubles/#UnliAnciSour)
-  * [1.2 圣保罗对埃皮米尼德斯的引用](https://plato.stanford.edu/entries/insolubles/#StPaulRefeEpim)
-  * [1.3 亚里士多德的诡辩论证](https://plato.stanford.edu/entries/insolubles/#ArisSophRefu)
-  * [1.4 不可解的许多种类](https://plato.stanford.edu/entries/insolubles/#ManyVariInso)
-* [2. 早期发展至 1320 年代](https://plato.stanford.edu/entries/insolubles/#EarlDeve1320)
-
-  * [2.1 不可解的作为谬误 secundum quid et simpliciter](https://plato.stanford.edu/entries/insolubles/#InsoFallSecuQuidEtSimp)
-  * [2.2 Transcasus 理论](https://plato.stanford.edu/entries/insolubles/#TheoTran)
-  * [2.3 行使行为 vs. 表示（或构想）行为](https://plato.stanford.edu/entries/insolubles/#ExerActVsSignConcAct)
-  * [2.4 限制理论](https://plato.stanford.edu/entries/insolubles/#TheoRest)
-  * [2.5 Cassation](https://plato.stanford.edu/entries/insolubles/#Cass)
-* [3. 十四世纪第二季度](https://plato.stanford.edu/entries/insolubles/#SecoQuarFourCent)
-
-  * [3.1 Thomas Bradwardine](https://plato.stanford.edu/entries/insolubles/#ThomBrad)
-  * [ 3.2 沃尔特·塞格雷夫](https://plato.stanford.edu/entries/insolubles/#WalSeg)
-  * [ 3.3 罗杰·斯温谢德](https://plato.stanford.edu/entries/insolubles/#RogeSwyn)
-  * [ 3.4 威廉·海茨伯里](https://plato.stanford.edu/entries/insolubles/#WillHeyt)
-  * [3.5 改进的海茨伯里解决方案](https://plato.stanford.edu/entries/insolubles/#ModHeyt)
-  * [ 3.6 约翰·邓布尔顿](https://plato.stanford.edu/entries/insolubles/#JohnDumb)
-  * [3.7 里米尼的格里高利](https://plato.stanford.edu/entries/insolubles/#GregRimi)
-  * [ 3.8 约翰·布里丹](https://plato.stanford.edu/entries/insolubles/#JohnBuri)
-  * [3.9 萨克森的阿尔伯特](https://plato.stanford.edu/entries/insolubles/#AlbeSaxo)
-* [4. 不可解时期](https://plato.stanford.edu/entries/insolubles/#LatePeri)
-
-  * [4.1 不可解的 Marsilius of Inghen](https://plato.stanford.edu/entries/insolubles/#MarsIng)
-  * [ 4.2 不可解的 John Wyclif](https://plato.stanford.edu/entries/insolubles/#JohnWycl)
-  * [4.3 不可解的 Peter of Ailly](https://plato.stanford.edu/entries/insolubles/#PeteAill)
-  * [4.4 万图亚的彼得](https://plato.stanford.edu/entries/insolubles/#PeteMant)
-  * [4.5 威尼斯的保罗](https://plato.stanford.edu/entries/insolubles/#PaulVen)
-* [ 5. 不可解](https://plato.stanford.edu/entries/insolubles/#Obse)
-* [ 参考文献](https://plato.stanford.edu/entries/insolubles/#Bib)
-
-  * [翻译的主要文献](https://plato.stanford.edu/entries/insolubles/#PrimLiteTran)
-  * [原始语言的主要文献](https://plato.stanford.edu/entries/insolubles/#PrimLiteOrigLang)
-  * [ 二次文献](https://plato.stanford.edu/entries/insolubles/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/insolubles/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/insolubles/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/insolubles/#Rel)
-
+ 
 ---
 
 ## 1. 中世纪讨论的起源

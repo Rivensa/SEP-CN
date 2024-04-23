@@ -21,39 +21,7 @@
 矛盾实现者：一个更具体的定义是，不可能世界是一种形式为 A 和¬A 的句子成立的世界，违反了非矛盾律（参见例如 Lycan 1994）。第四类不可能世界将在第三个意义上是不可能的，但反之不成立。我们上面的直觉主义世界将无限制地遵守非矛盾律：在第三个意义上是不可能的，但在第四个意义上不是。
 
 这些都是不可能性的绝对概念：在任何这些意义上，一个世界要么是可能的，要么是不可能的。可以将这个概念相对化，例如允许逻辑定律在不同世界之间有所不同。然后（正如 Sandgren 和 Tanaka 2020 指出的那样），一个世界的定律可能是第二个世界定律的真子集。在这种情况下，每个世界相对于另一个世界都是不可能的（因为它们在对待定律的方式上有所不同），尽管前者不违反后者的任何定律。（另请参见 Tanaka 2018, 2022。）这种相对化的逻辑不可能性概念相对较新且未被充分探索。
-
-* [1. 引入不可能世界的原因](https://plato.stanford.edu/entries/impossible-worlds/#ReaForIntImpWor)
-* [2. 不可能世界的应用](https://plato.stanford.edu/entries/impossible-worlds/#AppImpWor)
-
-  * [ 2.1 故意状态](https://plato.stanford.edu/entries/impossible-worlds/#IntentionalStates)
-  * [2.2 不一致信息](https://plato.stanford.edu/entries/impossible-worlds/#Information)
-  * [ 2.3 小说](https://plato.stanford.edu/entries/impossible-worlds/#Fiction)
-  * [2.4 命题内容](https://plato.stanford.edu/entries/impossible-worlds/#Content)
-  * [2.5 反事实推理](https://plato.stanford.edu/entries/impossible-worlds/#CouRea)
-* [3. 不可能世界的形而上学](https://plato.stanford.edu/entries/impossible-worlds/#MetImpWor)
-* [4. 不可能世界的结构](https://plato.stanford.edu/entries/impossible-worlds/#StrImpWor)
-
-  * [4.1 不可能世界的粒度问题](https://plato.stanford.edu/entries/impossible-worlds/#GranularityIssue)
-  * [4.2 不可能世界的接近程度](https://plato.stanford.edu/entries/impossible-worlds/#CloImpWor)
-* [5. 不可能世界的逻辑](https://plato.stanford.edu/entries/impossible-worlds/#SemImpWor)
-
-  * [5.1 非正常模态逻辑中的不可能世界](https://plato.stanford.edu/entries/impossible-worlds/#ImpWorNonNorModLog)
-  * [5.2 非附加和非主要的不可能世界](https://plato.stanford.edu/entries/impossible-worlds/#NonNonImpWor)
-  * [5.3 不可能世界在认识论逻辑中](https://plato.stanford.edu/entries/impossible-worlds/#ImpWorEpiLog)
-  * [5.4 不可能世界在相关逻辑中](https://plato.stanford.edu/entries/impossible-worlds/#ImpWorRelLog)
-* [6. 对不可能世界的反对意见](https://plato.stanford.edu/entries/impossible-worlds/#ObjImpWor)
-
-  * [6.1 出口原则](https://plato.stanford.edu/entries/impossible-worlds/#Exportation)
-  * [6.2 定义可能性](https://plato.stanford.edu/entries/impossible-worlds/#DefPossibility)
-  * [6.3 不可能世界的有用性](https://plato.stanford.edu/entries/impossible-worlds/#UsefulnessImpWorlds)
-  * [6.4 否定的语义学](https://plato.stanford.edu/entries/impossible-worlds/#SemanticsNeg)
-  * [6.5 不可能世界的推理](https://plato.stanford.edu/entries/impossible-worlds/#CounterpossibleReasoning)
-  * [ 6.6 组合性](https://plato.stanford.edu/entries/impossible-worlds/#Compositionality)
-* [ 参考文献](https://plato.stanford.edu/entries/impossible-worlds/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/impossible-worlds/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/impossible-worlds/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/impossible-worlds/#Rel)
-
+ 
 ---
 
 ## 1. 引入不可能世界的原因

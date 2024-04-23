@@ -6,29 +6,7 @@
 
 可以说，信息技术已经在实质上变得无处不在。大多数日常技术，如电梯、汽车、微波炉、手表等，都依赖于微处理器进行持续运作。大多数组织和机构在不同程度上都依赖于其信息技术基础设施。事实上，许多人认为信息技术是解决我们复杂当代社会面临的众多问题的一种经济高效的方式。可以说，信息技术几乎被视为解决诸如医疗保健、安全、治理等一系列技术和社会问题的默认技术。人们还可以争论说，它已经成为社会对现代化和进步的看法的代名词。对大多数人来说，信息技术使人类能够继续构建越来越复杂的协调和社会秩序系统，而没有这些系统，当代社会将无法以其现有形式存在。可以说，作为当代人，我们的存在方式在很大程度上依赖于与信息和通信技术的广泛纠缠。事实上，信息技术在经济、组织和社会方面的好处是广泛认可的。争议更多地集中在信息技术如何改变或转变社会领域，特别是伦理领域。这场争论主要围绕着不同的概念化和解释我们与信息技术纠缠的方式。这场辩论不仅仅是关于不同和竞争的理论“模型”的学术辩论。相反，这些不同的概念化方式对我们理解如何管理与信息技术日益纠缠的关系至关重要。
 
-* [1. 关于信息技术本质的观点](https://plato.stanford.edu/entries/ethics-it-phenomenology/#ViewNatuInfoTech)
-
-  * [1.1 信息技术作为一种工具或工具](https://plato.stanford.edu/entries/ethics-it-phenomenology/#InfoTechArtiTool)
-  * [1.2 信息技术作为社会构建的工具和参与者](https://plato.stanford.edu/entries/ethics-it-phenomenology/#InfoTechSociConsArtiActo)
-  * [1.3 信息技术作为意义和行动的持续视野](https://plato.stanford.edu/entries/ethics-it-phenomenology/#InfoTechOngoHoriMeanActi)
-* [2. 现象学方法对技术的探索](https://plato.stanford.edu/entries/ethics-it-phenomenology/#PhenApprTech)
-
-  * [2.1 对技术态度的基本批判](https://plato.stanford.edu/entries/ethics-it-phenomenology/#FundCritTechAtti)
-  * [2.2 原始技术性和人类存在](https://plato.stanford.edu/entries/ethics-it-phenomenology/#OrigTechHumaBein)
-  * [2.3 当代社会和技术中的技术态度](https://plato.stanford.edu/entries/ethics-it-phenomenology/#TechAttiContSociTech)
-  * [2.4 人类/技术关系的（后）现象学方法](https://plato.stanford.edu/entries/ethics-it-phenomenology/#PostPhenHumaRela)
-* [3. 信息技术伦理学](https://plato.stanford.edu/entries/ethics-it-phenomenology/#EthiInfoTech)
-
-  * [3.1 信息技术的影响和伦理理论的应用](https://plato.stanford.edu/entries/ethics-it-phenomenology/#ImpaInfoTechApplEthiTheo)
-  * [3.2 信息技术的政治性和揭示性伦理学](https://plato.stanford.edu/entries/ethics-it-phenomenology/#PoliInfoTechDiscEthi)
-  * [3.3 信息技术，伦理学和我们人类的存在方式](https://plato.stanford.edu/entries/ethics-it-phenomenology/#InfoTechEthiOurHumaWayBein)
-* [4. 现象学，伦理学和信息技术：虚拟性的案例](https://plato.stanford.edu/entries/ethics-it-phenomenology/#PhenEthiInfoTechCaseVirt)
-* [ 5. 结论](https://plato.stanford.edu/entries/ethics-it-phenomenology/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/ethics-it-phenomenology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ethics-it-phenomenology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ethics-it-phenomenology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ethics-it-phenomenology/#Rel)
-
+ 
 ---
 
 ## 1. 关于信息技术本质的观点

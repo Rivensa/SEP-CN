@@ -3,16 +3,7 @@
 *首次发表于2002年7月1日星期一；实质性修订于2024年3月28日星期四。*
 
 神的永恒性教义（DDI）断言上帝在偶然属性上不能改变。因此，要理解这个教义，我们首先必须理解这种变化。
-
-* [1. 变化的种类](https://plato.stanford.edu/entries/immutability/#1)
-* [2. 永恒性与无感性](https://plato.stanford.edu/entries/immutability/#2)
-* [3. 永恒的案例](https://plato.stanford.edu/entries/immutability/#3)
-* [4. 反对永恒的论点](https://plato.stanford.edu/entries/immutability/#4)
-* [ 参考文献](https://plato.stanford.edu/entries/immutability/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/immutability/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/immutability/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/immutability/#Rel)
-
+ 
 ---
 
 ## 1. 变化的种类

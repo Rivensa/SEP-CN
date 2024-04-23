@@ -4,45 +4,7 @@
 
 现象意向性是一种意向性或关于性，它根植于现象意识，即某些心理状态的主观体验特征。现象意向性理论是一种关于意向性的理论，根据该理论，存在现象意向性，并且所有其他类型的意向性至少部分源自它。近年来，现象意向性理论越来越被视为意向性的主要方法之一。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/phenomenal-intentionality/#Intr)
-* [2. 现象意向性理论](https://plato.stanford.edu/entries/phenomenal-intentionality/#PhenInteTheo)
-
-  * [2.1 一般观点](https://plato.stanford.edu/entries/phenomenal-intentionality/#GeneView)
-  * [2.2 弱、中等和强现象意向性](https://plato.stanford.edu/entries/phenomenal-intentionality/#WeakModeStroPIT)
-  * [2.3 基础、身份和还原现象意向性](https://plato.stanford.edu/entries/phenomenal-intentionality/#GrouIdenReduPIT)
-  * [2.4 变异的其他维度](https://plato.stanford.edu/entries/phenomenal-intentionality/#OtheDimeVari)
-* [3. 现象意向性在逻辑空间中的位置](https://plato.stanford.edu/entries/phenomenal-intentionality/#PlacPITLogiSpac)
-
-  * [3.1 意向性的替代理论](https://plato.stanford.edu/entries/phenomenal-intentionality/#AlteTheoInte)
-  * [3.2 意识与意向性之间关系的其他观点](https://plato.stanford.edu/entries/phenomenal-intentionality/#OtheViewRelaBetwConsInte)
-* [4. 现象意向性的论证](https://plato.stanford.edu/entries/phenomenal-intentionality/#ArguForPIT)
-
-  * [4.1 现象意向性的案例](https://plato.stanford.edu/entries/phenomenal-intentionality/#PhenCase)
-  * [4.2 准确性的可评估性](https://plato.stanford.edu/entries/phenomenal-intentionality/#AsseForAccu)
-  * [4.3 内在主义和大脑在罐中](https://plato.stanford.edu/entries/phenomenal-intentionality/#InteBraiVat)
-  * [ 4.4 视角形状](https://plato.stanford.edu/entries/phenomenal-intentionality/#AspeShap)
-  * [ 4.5 内容确定性](https://plato.stanford.edu/entries/phenomenal-intentionality/#ContDete)
-  * [4.6 关于不存在事物的意向状态](https://plato.stanford.edu/entries/phenomenal-intentionality/#InteStatAbouNonExis)
-  * [4.7 预测准确性的论证](https://plato.stanford.edu/entries/phenomenal-intentionality/#MismatchProb)
-  * [4.8 PIT 的其他论证](https://plato.stanford.edu/entries/phenomenal-intentionality/#OtheArguForPIT)
-* [5. 认知现象学](https://plato.stanford.edu/entries/phenomenal-intentionality/#CognPhen)
-
-  * [5.1 现象对比案例](https://plato.stanford.edu/entries/phenomenal-intentionality/#PhenContCase)
-  * [5.2 自发思维](https://plato.stanford.edu/entries/phenomenal-intentionality/#SponThou)
-  * [5.3 舌尖现象](https://plato.stanford.edu/entries/phenomenal-intentionality/#TipTongPhen)
-  * [5.4 意识的认知标记](https://plato.stanford.edu/entries/phenomenal-intentionality/#EpisMarkCons)
-  * [ 5.5 自知](https://plato.stanford.edu/entries/phenomenal-intentionality/#SelfKnow)
-* [6. 现象意向性的挑战](https://plato.stanford.edu/entries/phenomenal-intentionality/#ChalForPIT)
-
-  * [ 6.1 思考](https://plato.stanford.edu/entries/phenomenal-intentionality/#Thou)
-  * [6.2 站立的命题态度](https://plato.stanford.edu/entries/phenomenal-intentionality/#StanPropAtti)
-  * [6.3 广泛的意向状态](https://plato.stanford.edu/entries/phenomenal-intentionality/#WideInteStat)
-  * [6.4 无意识的现行状态](https://plato.stanford.edu/entries/phenomenal-intentionality/#UncoOccuStat)
-* [ 参考文献](https://plato.stanford.edu/entries/phenomenal-intentionality/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/phenomenal-intentionality/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/phenomenal-intentionality/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/phenomenal-intentionality/#Rel)
-
+ 
 ---
 
 ## 1. 简介

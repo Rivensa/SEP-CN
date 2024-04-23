@@ -8,34 +8,7 @@
 
 由于这个主题的广泛性，本条目专注于英美哲学传统中对想象的当代讨论。有关想象的历史讨论的概述，请参阅有关心理意象的二十世纪前和二十世纪早期的条目部分；有关想象的著名历史记载，请参阅亚里士多德、托马斯·霍布斯、大卫·休谟、伊曼努尔·康德和吉尔伯特·赖尔的相应条目；有关更详细和全面的历史调查，请参阅布兰恩 1991 年的著作；有关现象学传统中想象的复杂而广泛的讨论，请参阅凯西 2000 年的著作。
 
-* [1. 想象的本质](https://plato.stanford.edu/entries/imagination/#NatuImag)
-
-  * [1.1 想象的种类](https://plato.stanford.edu/entries/imagination/#VariImag)
-  * [1.2 想象的分类法](https://plato.stanford.edu/entries/imagination/#TaxoImag)
-  * [1.3 想象的规范](https://plato.stanford.edu/entries/imagination/#NormImag)
-* [2. 认知架构中的想象](https://plato.stanford.edu/entries/imagination/#ImagCognArch)
-
-  * [2.1 想象与信念](https://plato.stanford.edu/entries/imagination/#ImagBeli)
-  * [2.2 想象和欲望](https://plato.stanford.edu/entries/imagination/#ImagDesi)
-  * [2.3 想象、意象和感知](https://plato.stanford.edu/entries/imagination/#ImagImagPerc)
-  * [2.4 想象和记忆](https://plato.stanford.edu/entries/imagination/#ImagMemo)
-  * [2.5 想象和推测](https://plato.stanford.edu/entries/imagination/#ImagSupp)
-* [3. 想象的角色](https://plato.stanford.edu/entries/imagination/#RoleImag)
-
-  * [ 3.1 心理阅读](https://plato.stanford.edu/entries/imagination/#Mind)
-  * [ 3.2 想象](https://plato.stanford.edu/entries/imagination/#Pret)
-  * [ 3.3 精神病理学](https://plato.stanford.edu/entries/imagination/#Psyc)
-  * [3.4 与艺术的互动](https://plato.stanford.edu/entries/imagination/#EngaArts)
-
-    * [补充：想象力和艺术的谜题和悖论](https://plato.stanford.edu/entries/imagination/puzzles.html)
-  * [ 3.5 创造力](https://plato.stanford.edu/entries/imagination/#Crea)
-  * [ 3.6 知识](https://plato.stanford.edu/entries/imagination/#Know)
-  * [ 3.7 比喻语言](https://plato.stanford.edu/entries/imagination/#FiguLang)
-* [ 参考文献](https://plato.stanford.edu/entries/imagination/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/imagination/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/imagination/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/imagination/#Rel)
-
+ 
 ---
 
 ## 1. 想象的本质

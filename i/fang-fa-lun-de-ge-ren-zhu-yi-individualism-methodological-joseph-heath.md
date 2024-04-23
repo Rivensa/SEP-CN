@@ -8,22 +8,7 @@
 
 方法论的个人主义的捍卫者通常声称它是一种无辜的学说，没有任何政治或意识形态的内容。韦伯本人警告说，“认为‘个人主义’的方法应该涉及以任何可想象的方式为个人主义价值体系的巨大误解”（韦伯 1922 年：18）。然而，在 20 世纪期间，方法论个人主义的学说卷入了许多高度政治化的争论中，主要是因为它经常被用来贬低历史唯物主义。在这方面，有两轮明显的争议。第一轮主要发生在 20 世纪 50 年代，对弗里德里希·哈耶克和卡尔·波普尔的工作做出回应。第二轮发生在 20 世纪 80 年代，对乔恩·埃尔斯特的回应，这次是作为“分析马克思主义”运动内部的批判性辩论的一部分。在后一时期，方法论个人主义广泛与许多人所称的“理性选择帝国主义”联系在一起。
 
-* [1. 学说的起源](https://plato.stanford.edu/entries/methodological-individualism/#OrigDoct)
-* [2. 奥地利学派和方法之争](https://plato.stanford.edu/entries/methodological-individualism/#AustSchoMeth)
-* [3. 寻找“最低点”解释](https://plato.stanford.edu/entries/methodological-individualism/#SearForRockBottExpl)
-* [4. 理性选择复兴](https://plato.stanford.edu/entries/methodological-individualism/#RatiChoiRevi)
-* [5. 术语的其他用途](https://plato.stanford.edu/entries/methodological-individualism/#OtheUsesTerm)
-* [ 6. 批评](https://plato.stanford.edu/entries/methodological-individualism/#Crit)
-
-  * [6.1 统计分析](https://plato.stanford.edu/entries/methodological-individualism/#StatAnal)
-  * [6.2 次意图解释](https://plato.stanford.edu/entries/methodological-individualism/#SubiExpl)
-  * [6.3 微实现鲁棒性](https://plato.stanford.edu/entries/methodological-individualism/#MicrRobu)
-  * [ 6.4 谬误](https://plato.stanford.edu/entries/methodological-individualism/#Fall)
-* [ 参考文献](https://plato.stanford.edu/entries/methodological-individualism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/methodological-individualism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/methodological-individualism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/methodological-individualism/#Rel)
-
+ 
 ---
 
 ## 1. 学说的起源

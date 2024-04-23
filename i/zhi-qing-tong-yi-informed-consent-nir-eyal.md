@@ -4,43 +4,7 @@
 
 知情同意目前被视为生物伦理学的核心。在临床实践中，知情同意原则在 20 世纪逐渐取代了建立在对医生决策的信任基础上的医学伦理观，常常基于“医生最懂”的假设，转而追求让患者掌握自己的护理。在医学研究中，有影响力的纽伦堡守则回应了纳粹实验的残酷，规定：“人类受试者的自愿同意是绝对必要的”。但是，为什么我们要求知情同意，即使这对个人的健康造成了代价？这一要求的内容、范围和地位是什么？生物伦理学中的知情同意与性伦理学、商业伦理学和政治哲学中的同意有何关联？
 
-* [1. 知情同意的要求](https://plato.stanford.edu/entries/informed-consent/#ReqInfCon)
-* [2. 为什么需要知情同意？](https://plato.stanford.edu/entries/informed-consent/#WhyInfCon)
-
-  * [ 2.1 保护](https://plato.stanford.edu/entries/informed-consent/#Pro)
-  * [ 2.2 自主权](https://plato.stanford.edu/entries/informed-consent/#Aut)
-  * [2.3 防止滥用行为](https://plato.stanford.edu/entries/informed-consent/#PreAbuCon)
-  * [ 2.4 信任](https://plato.stanford.edu/entries/informed-consent/#Tru)
-  * [ 2.5 自我所有权](https://plato.stanford.edu/entries/informed-consent/#SelOwn)
-  * [ 2.6 非统治](https://plato.stanford.edu/entries/informed-consent/#NonDom)
-  * [ 2.7 个人诚信](https://plato.stanford.edu/entries/informed-consent/#PerInt)
-* [3. 同意的概念](https://plato.stanford.edu/entries/informed-consent/#IdeCon)
-* [4. 知情同意](https://plato.stanford.edu/entries/informed-consent/#InfCon)
-
-  * [4.1 谎言、欺骗和部分披露](https://plato.stanford.edu/entries/informed-consent/#LieDecParDis)
-  * [4.2 理解问题](https://plato.stanford.edu/entries/informed-consent/#ComPro)
-  * [ 4.3 内容](https://plato.stanford.edu/entries/informed-consent/#Con)
-  * [ 4.4 说服力](https://plato.stanford.edu/entries/informed-consent/#Cog)
-* [5. 自愿同意](https://plato.stanford.edu/entries/informed-consent/#VolCon)
-
-  * [ 5.1 强迫](https://plato.stanford.edu/entries/informed-consent/#Coe)
-  * [ 5.2 不当诱因](https://plato.stanford.edu/entries/informed-consent/#UndInd)
-  * [5.3 “无选择”情况](https://plato.stanford.edu/entries/informed-consent/#OnlBadAlt)
-* [6. 知情同意的自愿放弃](https://plato.stanford.edu/entries/informed-consent/#WaiInfCon)
-* [7. 知情同意的例外情况](https://plato.stanford.edu/entries/informed-consent/#ExcInfCon)
-
-  * [7.1 良性干预](https://plato.stanford.edu/entries/informed-consent/#BenInt)
-  * [7.2 某些风险实验](https://plato.stanford.edu/entries/informed-consent/#SomRisExp)
-  * [7.3 一些公共卫生政策](https://plato.stanford.edu/entries/informed-consent/#SomPubHeaPol)
-  * [7.4 知情同意 - 何时？](https://plato.stanford.edu/entries/informed-consent/#InfConWhn)
-* [8. 知情同意的状态](https://plato.stanford.edu/entries/informed-consent/#StaReq)
-* [9. 在其他领域的同意](https://plato.stanford.edu/entries/informed-consent/#ConOthDom)
-* [10. 结论：知情同意的核心](https://plato.stanford.edu/entries/informed-consent/#ConCorInfCon)
-* [ 参考文献](https://plato.stanford.edu/entries/informed-consent/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/informed-consent/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/informed-consent/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/informed-consent/#Rel)
-
+ 
 ---
 
 ## 1. 知情同意的要求

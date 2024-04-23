@@ -3,59 +3,7 @@
 
 杨布里科斯（约 242 年-约 325 年）是叙利亚的新柏拉图主义者，也是泰尔的波菲利的门徒，他是普罗提诺著作的编辑者。作为早期新柏拉图主义的三位重要代表之一（另外两位是普罗提诺本人和波菲利），他对后来属于同一传统的哲学家们产生了相当大的影响，比如普罗克鲁斯、达玛修斯和辛普利修斯。他作为一个异教神学家和解经学家的工作赢得了高度赞誉，并对将普罗提诺的形而上学转化为五世纪雅典学派的完整体系做出了决定性的贡献，当时雅典学派和亚历山大学派是主要的哲学学派。他对普罗提诺的哲学主张的严厉批评与他对人类灵魂状况的悲观观点以及他对通过仪式手段实现救赎的倡导有关，这种救赎被称为“神秘学”。
 
-* [1. 生平与著作](https://plato.stanford.edu/entries/iamblichus/#LifeWork)
-
-  * [ 1.1 生平](https://plato.stanford.edu/entries/iamblichus/#Life)
-  * [ 1.2 作品](https://plato.stanford.edu/entries/iamblichus/#Work)
-* [2. 杨布里科斯在希腊新柏拉图主义中的地位](https://plato.stanford.edu/entries/iamblichus/#IambPlacGreeNeop)
-
-  * [2.1 新柏拉图主义的第二位创始人](https://plato.stanford.edu/entries/iamblichus/#SecoFounNeop)
-  * [ 2.2 阐释学](https://plato.stanford.edu/entries/iamblichus/#Exeg)
-  * [2.3 哲学和神学](https://plato.stanford.edu/entries/iamblichus/#PhilTheo)
-  * [2.4 杨布里科斯的后代](https://plato.stanford.edu/entries/iamblichus/#IambPost)
-* [3. 杨布里科斯的体系](https://plato.stanford.edu/entries/iamblichus/#IambSyst)
-
-  * [3.1 一和更高的原则](https://plato.stanford.edu/entries/iamblichus/#OneHighPrin)
-  * [3.2 “可知的”和“理智的”](https://plato.stanford.edu/entries/iamblichus/#InteInte)
-  * [ 3.3 低层实体](https://plato.stanford.edu/entries/iamblichus/#LoweEnti)
-  * [3.4 自然与物质](https://plato.stanford.edu/entries/iamblichus/#NatuMatt)
-  * [3.5 概念和一般特征](https://plato.stanford.edu/entries/iamblichus/#OverConcGeneTrai)
-* [4. 毕达哥拉斯主义，数学](https://plato.stanford.edu/entries/iamblichus/#PythMath)
-
-  * [4.1 极限与无限](https://plato.stanford.edu/entries/iamblichus/#LimiUnli)
-  * [ 4.2 数学](https://plato.stanford.edu/entries/iamblichus/#Math)
-  * [4.3 杨布里科斯和毕达哥拉斯主义](https://plato.stanford.edu/entries/iamblichus/#IambPyth)
-* [5. 逻辑和范畴](https://plato.stanford.edu/entries/iamblichus/#LogiCate)
-
-  * [5.1 杨布里科斯对亚里士多德的评论工作](https://plato.stanford.edu/entries/iamblichus/#IambCommWorkAris)
-  * [5.2 类别的毕达哥拉斯解读](https://plato.stanford.edu/entries/iamblichus/#PythReadCate)
-  * [5.3 类别与神学](https://plato.stanford.edu/entries/iamblichus/#CateTheo)
-* [6. 灵魂、神秘术和宗教](https://plato.stanford.edu/entries/iamblichus/#SoulTheuReli)
-
-  * [6.1 灵魂在系统中的位置](https://plato.stanford.edu/entries/iamblichus/#SoulPlacSyst)
-  * [6.2 灵魂与具体化](https://plato.stanford.edu/entries/iamblichus/#SoulEmbo)
-  * [6.3 灵魂的上升和救赎；宗教](https://plato.stanford.edu/entries/iamblichus/#SoulAsceSalvReli)
-* [7. 伦理学和政治学](https://plato.stanford.edu/entries/iamblichus/#EthiPoli)
-
-  * [7.1 新柏拉图主义和政治](https://plato.stanford.edu/entries/iamblichus/#NeopPoli)
-  * [7.2 美德的等级制度](https://plato.stanford.edu/entries/iamblichus/#HierVirt)
-* [ 参考文献](https://plato.stanford.edu/entries/iamblichus/#Bib)
-
-  * [A. 主要来源](https://plato.stanford.edu/entries/iamblichus/#WorkIamb)
-
-    * [A.1 伊安布利科斯现存作品](https://plato.stanford.edu/entries/iamblichus/#ExtantWork)
-    * [A.2 伊安布利科斯的残篇作品](https://plato.stanford.edu/entries/iamblichus/#FragWork)
-    * [A.3 伊安布利科斯的仅知标题的作品](https://plato.stanford.edu/entries/iamblichus/#FragTitle)
-    * [A.4 版本和翻译](https://plato.stanford.edu/entries/iamblichus/#EditTran)
-    * [A.5 其他主要来源](https://plato.stanford.edu/entries/iamblichus/#OthePrimSour)
-  * [B. 二级来源](https://plato.stanford.edu/entries/iamblichus/#ModeWork)
-
-    * [ B.1 一般参考资料](https://plato.stanford.edu/entries/iamblichus/#GeneRefe)
-    * [ B.2 选定研究](https://plato.stanford.edu/entries/iamblichus/#SeleStud)
-* [ 学术工具](https://plato.stanford.edu/entries/iamblichus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/iamblichus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/iamblichus/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品

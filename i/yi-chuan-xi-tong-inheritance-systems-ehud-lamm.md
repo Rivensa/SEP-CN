@@ -10,38 +10,7 @@
 
 本条目的组织如下：第 1 和第 2 节为讨论提供了共同基础和历史背景。第 3 节讨论了具体的遗传系统。第 4 节介绍了一般的进化意义。最后，第 5 节总结了该领域中的一些未解之谜。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/inheritance-systems/#Int)
-
-  * [1.1 遗传和遗传系统](https://plato.stanford.edu/entries/inheritance-systems/#HerInh)
-  * [1.2 非遗传遗传系统的早期研究](https://plato.stanford.edu/entries/inheritance-systems/#EarWorNonGenInh)
-  * [1.3 单一主义、整体主义和多系统观点](https://plato.stanford.edu/entries/inheritance-systems/#MonHolMulSysVie)
-  * [1.4 变异、遗传变异和遗传系统](https://plato.stanford.edu/entries/inheritance-systems/#VarHerVarInhSys)
-* [2. 繁殖和复制](https://plato.stanford.edu/entries/inheritance-systems/#RepRep)
-
-  * [2.1 表型的多代繁殖](https://plato.stanford.edu/entries/inheritance-systems/#MulGenRepPhe)
-  * [2.2 遗传系统和复制](https://plato.stanford.edu/entries/inheritance-systems/#InhRep)
-  * [2.3 繁殖者概念](https://plato.stanford.edu/entries/inheritance-systems/#RepCon)
-  * [2.4 遗传系统和信息概念](https://plato.stanford.edu/entries/inheritance-systems/#InhSysNotInf)
-* [3. 遗传系统的分类](https://plato.stanford.edu/entries/inheritance-systems/#ClaInhSys)
-
-  * [3.1 遗传通道](https://plato.stanford.edu/entries/inheritance-systems/#InhCha)
-  * [3.2 鉴定和界定遗传系统](https://plato.stanford.edu/entries/inheritance-systems/#IdeDelInhSys)
-  * [3.3 遗传系统的机械分类](https://plato.stanford.edu/entries/inheritance-systems/#MecClaInhSys)
-  * [3.4 生态遗传学和生态遗传系统](https://plato.stanford.edu/entries/inheritance-systems/#NicConTheEcoInh)
-* [4. 发育和进化的意义](https://plato.stanford.edu/entries/inheritance-systems/#DevEvoImp)
-
-  * [4.1 遗传系统的选择单位](https://plato.stanford.edu/entries/inheritance-systems/#UniSel)
-  * [ 4.2 支架](https://plato.stanford.edu/entries/inheritance-systems/#Sca)
-  * [4.3 遗传系统的发生](https://plato.stanford.edu/entries/inheritance-systems/#OntInhSys)
-  * [ 4.4 同化](https://plato.stanford.edu/entries/inheritance-systems/#Ass)
-  * [4.5 调节和控制](https://plato.stanford.edu/entries/inheritance-systems/#RegCon)
-  * [4.6 遗传系统的进化](https://plato.stanford.edu/entries/inheritance-systems/#EvoInhSys)
-* [ 5. 结论](https://plato.stanford.edu/entries/inheritance-systems/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/inheritance-systems/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/inheritance-systems/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/inheritance-systems/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/inheritance-systems/#Rel)
-
+ 
 ---
 
 ## 1. 引言

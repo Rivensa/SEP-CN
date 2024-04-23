@@ -4,32 +4,7 @@
 
 亚伯拉罕·伊本·达乌德（约 1110 年-1180 年）可以被视为犹太哲学的先驱者。他的哲学著作《哈-埃穆纳哈-拉玛》（约 1160 年）是第一次系统地将亚里士多德主义融入犹太思想的尝试。然而，仅几十年后，中世纪犹太哲学家梅蒙尼德斯写下了他的哲学巨著《迷惑者的指南》，这部作品与伊本·达乌德的书有很多共同之处。因此，《哈-埃穆纳哈-拉玛》很快就被取代了。然而，它的影响在后来的中世纪犹太思想中仍然可见。本文将概述伊本·达乌德的主要思想，并探讨他对中世纪犹太哲学的贡献。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/abraham-daud/#Int)
-* [ 2. 传记](https://plato.stanford.edu/entries/abraham-daud/#Bio)
-* [ 3. 主要作品](https://plato.stanford.edu/entries/abraham-daud/#MajWor)
-* [4. ER 的结构和来源](https://plato.stanford.edu/entries/abraham-daud/#StrSouER)
-
-  * [ 4.1 结构](https://plato.stanford.edu/entries/abraham-daud/#Str)
-  * [ 4.2 亚伯拉罕·伊本·达乌德](https://plato.stanford.edu/entries/abraham-daud/#Sour)
-* [5. ER 中的主要主题](https://plato.stanford.edu/entries/abraham-daud/#MaiTheER)
-
-  * [5.1 实质、事故和自然哲学](https://plato.stanford.edu/entries/abraham-daud/#SubAccNat)
-  * [ 5.2 灵魂](https://plato.stanford.edu/entries/abraham-daud/#Soul)
-  * [5.3 上帝和神性属性](https://plato.stanford.edu/entries/abraham-daud/#GodDivAtt)
-  * [5.4 宇宙起源和智慧体](https://plato.stanford.edu/entries/abraham-daud/#CosInt)
-  * [ 5.5 预言](https://plato.stanford.edu/entries/abraham-daud/#Pro)
-  * [ 5.6 自由意志](https://plato.stanford.edu/entries/abraham-daud/#FreWil)
-  * [5.7 伦理和宗教实践](https://plato.stanford.edu/entries/abraham-daud/#EthRelPra)
-* [6. 亚伯拉罕·伊本·达乌德的接受](https://plato.stanford.edu/entries/abraham-daud/#AbrIbnDauMai)
-* [ 7. 结论](https://plato.stanford.edu/entries/abraham-daud/#Con)
-* [ 参考书目](https://plato.stanford.edu/entries/abraham-daud/#Bib)
-
-  * [A. 主要文献：版本和翻译](https://plato.stanford.edu/entries/abraham-daud/#PriLitEdiTra)
-  * [ B. 二次文献](https://plato.stanford.edu/entries/abraham-daud/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/abraham-daud/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/abraham-daud/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/abraham-daud/#Rel)
-
+ 
 ---
 
 ## 1. 介绍

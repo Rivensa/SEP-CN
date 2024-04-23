@@ -6,35 +6,7 @@
 
 怀疑论以及关于知识是否意味着你知道你知道这一点的问题都得到了解决，同时还涉及到知识的有用性问题，不仅仅是为了日常生活的目的，还包括超越世界的宗教目标，大多数学派对此持有立场。在候选来源中，有些人认为证言的权威具有特殊的宗教重要性。其他人则认为瑜伽感知和/或冥想体验对于宗教知识至关重要，这通常与在认识论教科书中分析的日常知识有所区别。
 
-* [1. 古典印度学派的共同前提](https://plato.stanford.edu/entries/epistemology-india/#CommPresClasIndiScho)
-
-  * [1.1 知识和知识来源](https://plato.stanford.edu/entries/epistemology-india/#KnowKnowSour)
-  * [1.2 日常言语的试金石](https://plato.stanford.edu/entries/epistemology-india/#ToucEverSpee)
-  * [1.3 知识和超越世界](https://plato.stanford.edu/entries/epistemology-india/#KnowWorlTran)
-* [ 2. 怀疑主义](https://plato.stanford.edu/entries/epistemology-india/#Skep)
-* [3. 知道你知道](https://plato.stanford.edu/entries/epistemology-india/#KnowYouKnow)
-* [ 4. 知觉](https://plato.stanford.edu/entries/epistemology-india/#Perc)
-* [ 5. 推理](https://plato.stanford.edu/entries/epistemology-india/#Infe)
-* [ 6. 证言](https://plato.stanford.edu/entries/epistemology-india/#Test)
-* [7. 类比和其他候选来源](https://plato.stanford.edu/entries/epistemology-india/#AnalOtheCandSour)
-
-  * [7.1 类比和相似性](https://plato.stanford.edu/entries/epistemology-india/#AnalSimi)
-  * [7.2 “推定”（arthāpatti）](https://plato.stanford.edu/entries/epistemology-india/#PresArth)
-  * [7.3 “非认知”（anupalabdhi）](https://plato.stanford.edu/entries/epistemology-india/#NonCognAnup)
-  * [7.4 手势和谣言](https://plato.stanford.edu/entries/epistemology-india/#GestRumo)
-* [8. “推理”（tarka）](https://plato.stanford.edu/entries/epistemology-india/#SuppReasTark)
-* [9. 古典印度认识论的当代讨论](https://plato.stanford.edu/entries/epistemology-india/#ContDiscClasIndiEpis)
-
-  * [ 9.1 认识幸运](https://plato.stanford.edu/entries/epistemology-india/#EpisLuck)
-  * [ 9.2 知觉内容](https://plato.stanford.edu/entries/epistemology-india/#PercCont)
-  * [ 9.3 知觉错误](https://plato.stanford.edu/entries/epistemology-india/#PercErro)
-* [ 参考书目](https://plato.stanford.edu/entries/epistemology-india/#Bib)
-
-  * [ 原始文本](https://plato.stanford.edu/entries/epistemology-india/#PrimText)
-  * [ 二次文献](https://plato.stanford.edu/entries/epistemology-india/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/epistemology-india/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/epistemology-india/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/epistemology-india/#Rel)
+ 
 
 ---
 

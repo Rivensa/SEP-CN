@@ -4,18 +4,7 @@
 
 “身份政治”这个负载的词汇已经成为一种广泛的政治活动和理论的象征，它建立在某些社会群体成员共同经历不公正的基础上。身份政治形式通常不仅仅围绕信仰体系、纲领性宣言或党派隶属组织，而是旨在确保特定群体在更大背景中被边缘化的政治自由。该群体的成员主张或重新认领了解他们的独特性的方式，挑战主导的表征，以实现更大的自主权。
 
-* [1. 历史和范围](https://plato.stanford.edu/entries/identity-politics/#HistScop)
-* [2. 哲学和身份](https://plato.stanford.edu/entries/identity-politics/#PhilIden)
-* [3. 自由主义和身份认同政治](https://plato.stanford.edu/entries/identity-politics/#LibeIdenPoli)
-* [4. 当代哲学对身份认同政治的参与](https://plato.stanford.edu/entries/identity-politics/#ContPhilEngaIdenPoli)
-* [ 参考文献](https://plato.stanford.edu/entries/identity-politics/#Bib)
-
-  * [ 引用文献](https://plato.stanford.edu/entries/identity-politics/#RefeCite)
-  * [ 其他重要作品](https://plato.stanford.edu/entries/identity-politics/#OtheImpoWork)
-* [ 学术工具](https://plato.stanford.edu/entries/identity-politics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/identity-politics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/identity-politics/#Rel)
-
+ 
 ---
 
 ## 1. 历史和范围

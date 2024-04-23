@@ -20,34 +20,7 @@ The imaginative resistance debate came about as an attempt to unpack what’s go
 
 这篇文章试图澄清围绕想象性抗拒的核心问题，并探讨了对这个谜题的提出的解决方案。
 
-* [想象性抗拒有什么令人困惑的地方？](https://plato.stanford.edu/entries/imaginative-resistance/#WhatPuzzAbouImagResi)
-
-  * [1.1 想象性抗拒之谜：起源](https://plato.stanford.edu/entries/imaginative-resistance/#PuzzImagResiOrig)
-  * [1.2 想象性抗拒之谜](https://plato.stanford.edu/entries/imaginative-resistance/#PuzzImagResi)
-  * [1.3 想象性抗拒之谜之依赖性和基础性关系](https://plato.stanford.edu/entries/imaginative-resistance/#DepeFundRelaBetwPuzz)
-* [ 2. 抗拒](https://plato.stanford.edu/entries/imaginative-resistance/#Resi)
-
-  * [2.1 抗拒的来源](https://plato.stanford.edu/entries/imaginative-resistance/#SourResi)
-
-    * [ 2.1.1 康德理论](https://plato.stanford.edu/entries/imaginative-resistance/#CantTheo)
-    * [ 2.1.2 无天论](https://plato.stanford.edu/entries/imaginative-resistance/#WontTheo)
-    * [2.1.3 废除论](https://plato.stanford.edu/entries/imaginative-resistance/#ElimTheo)
-  * [2.2 抗拒的对象](https://plato.stanford.edu/entries/imaginative-resistance/#ObjeResi)
-  * [2.3 抗拒的范围](https://plato.stanford.edu/entries/imaginative-resistance/#ScopResi)
-
-    * [ 2.3.1 包容性](https://plato.stanford.edu/entries/imaginative-resistance/#Incl)
-    * [ 2.3.2 类型](https://plato.stanford.edu/entries/imaginative-resistance/#Genr)
-    * [ 2.3.3 偏见](https://plato.stanford.edu/entries/imaginative-resistance/#Bias)
-* [ 3. 想象力](https://plato.stanford.edu/entries/imaginative-resistance/#Imag)
-
-  * [3.1 想象力理论](https://plato.stanford.edu/entries/imaginative-resistance/#ImagTheo)
-  * [3.2 无想象力理论](https://plato.stanford.edu/entries/imaginative-resistance/#NoImagTheo)
-* [ 4. 结论](https://plato.stanford.edu/entries/imaginative-resistance/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/imaginative-resistance/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/imaginative-resistance/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/imaginative-resistance/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/imaginative-resistance/#Rel)
-
+ 
 ---
 
 ## 想象性抗拒的令人困惑之处是什么？

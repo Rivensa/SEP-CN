@@ -6,33 +6,7 @@
 
 关于符号的一点说明。在接下来的内容中，小写斜体字母“x”、“y”等，要么非正式地用作变量（绑定或自由），要么用作（个体常量的）占位符。上下文应该清楚表明使用的是哪种用法。偶尔为了强调或遵循逻辑传统，还会使用其他表达个体常量的表达式。此外，并没有严格遵守使用/提及的区别；但是上下文应该能解决任何歧义。
 
-* [1. 同一性的标准解释](https://plato.stanford.edu/entries/identity-relative/#StanAccoIden)
-* [2. 同一性的悖论](https://plato.stanford.edu/entries/identity-relative/#ParaIden)
-
-  * [2.1 变化的悖论](https://plato.stanford.edu/entries/identity-relative/#ParaChan)
-  * [ 2.2 克里西普斯的悖论](https://plato.stanford.edu/entries/identity-relative/#ChryPara)
-  * [2.3 101 斑点狗的悖论](https://plato.stanford.edu/entries/identity-relative/#Para101Dalm)
-  * [2.4 同一性的悖论](https://plato.stanford.edu/entries/identity-relative/#ParaCons)
-  * [2.5 相对性的忒修斯之船悖论](https://plato.stanford.edu/entries/identity-relative/#ShipThesPara)
-  * [ 2.6 教堂的悖论](https://plato.stanford.edu/entries/identity-relative/#ChurPara)
-  * [2.7 神学悖论](https://plato.stanford.edu/entries/identity-relative/#TheoPara)
-* [ 3. 相对同一性](https://plato.stanford.edu/entries/identity-relative/#RelaIden)
-* [4. 重新考虑的悖论](https://plato.stanford.edu/entries/identity-relative/#ParaReco)
-
-  * [4.1 变化的悖论](https://plato.stanford.edu/entries/identity-relative/#ParaChan_1)
-  * [ 4.2 克里西普斯的悖论](https://plato.stanford.edu/entries/identity-relative/#ChryPara_1)
-  * [4.3 101 条斑点狗的悖论](https://plato.stanford.edu/entries/identity-relative/#Para101Dalm_1)
-  * [4.4 同一性的悖论](https://plato.stanford.edu/entries/identity-relative/#ParaCons_1)
-  * [4.5 忒修斯之船悖论](https://plato.stanford.edu/entries/identity-relative/#ShipThesPara_1)
-  * [ 4.6 教堂的悖论](https://plato.stanford.edu/entries/identity-relative/#ChurPara_1)
-  * [4.7 神学悖论](https://plato.stanford.edu/entries/identity-relative/#TheoPara_1)
-* [ 5. 绝对同一性](https://plato.stanford.edu/entries/identity-relative/#AbsoIden)
-* [6. 反对和回应](https://plato.stanford.edu/entries/identity-relative/#ObjeRepl)
-* [ 参考文献](https://plato.stanford.edu/entries/identity-relative/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/identity-relative/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/identity-relative/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/identity-relative/#Rel)
-
+ 
 ---
 
 ## 1. 同一性的标准解释

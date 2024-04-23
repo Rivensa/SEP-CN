@@ -6,34 +6,7 @@ _首次发表于2006年7月25日；实质性修订于2022年8月18日_
 
 跨世界同一性的主题在哲学家中引起了极大的争议，即使是那些接受可能世界讨论合法性的哲学家也是如此。观点从认为在不同可能世界中的对象之间存在的同一性概念如此有问题以至于无法接受，到认为这个概念完全无害，不比无争议地声称个体可能以稍有不同的属性存在更有问题。事情的复杂性在于“跨世界同一性”的一个重要对手已经被提出：David Lewis 的对应理论，它用在一个世界中的个体存在于其他世界中存在对应物的主张来取代一个个体存在于多个可能世界中的主张，其中对应关系（基于相似性）不具有同一性的逻辑。因此，这个领域的许多讨论涉及到跨世界同一性和对应理论解释作为解释的相对优劣，这些解释是在一个可能世界的框架内对特定个体的可能性和必然性陈述的。 （类似的问题也涉及到属性的跨世界同一性。）
 
-* [1. 什么是跨世界同一性？](https://plato.stanford.edu/entries/identity-transworld/#WhaTraIde)
-  * [1.1 为什么需要跨世界同一性？](https://plato.stanford.edu/entries/identity-transworld/#WhyTraIde)
-  * [1.2 跨世界同一性与可能世界的概念](https://plato.stanford.edu/entries/identity-transworld/#TraIdeConPosWor)
-* [2. 跨世界同一性与莱布尼兹定律](https://plato.stanford.edu/entries/identity-transworld/#TraIdeLeiLaw)
-* [3. “跨世界同一性问题”是一个伪问题吗？](https://plato.stanford.edu/entries/identity-transworld/#ProTraIdePsePro)
-  * [3.1 反对认识论假设](https://plato.stanford.edu/entries/identity-transworld/#AgaEpiAss)
-  * [3.2 反对“指称安全性”假设](https://plato.stanford.edu/entries/identity-transworld/#AgaSecRefAss)
-  * [3.3 反对“可理解性”假设](https://plato.stanford.edu/entries/identity-transworld/#AgaIntAss)
-  * [3.4 未解决的问题](https://plato.stanford.edu/entries/identity-transworld/#RemainingIssues)
-* [4. 个体本质和裸同一性](https://plato.stanford.edu/entries/identity-transworld/#IndEssBarIde)
-  * [4.1 Chisholm 的悖论和裸同一性](https://plato.stanford.edu/entries/identity-transworld/#ChiParBarIde)
-  * [4.2 Forbes 对个体本质和裸同一性的看法](https://plato.stanford.edu/entries/identity-transworld/#ForIndEssBarIde)
-  * [4.3 跨世界同一性和随时间变化的同一性条件](https://plato.stanford.edu/entries/identity-transworld/#TraIdeConForIdeOveTim)
-  * [4.4 对问题的回应](https://plato.stanford.edu/entries/identity-transworld/#ResPro)
-  * [4.5 莱布尼兹和超本质主义](https://plato.stanford.edu/entries/identity-transworld/#Leibniz)
-  * [4.6 同一性和同一性主义](https://plato.stanford.edu/entries/identity-transworld/#HaeHae)
-* [5. 跨世界同一性和同一性的传递性](https://plato.stanford.edu/entries/identity-transworld/#TraIdeTraIde)
-  * [5.1 Chandler 的传递性论证](https://plato.stanford.edu/entries/identity-transworld/#ChaTraArg)
-  * [5.2 对传递性问题的回应](https://plato.stanford.edu/entries/identity-transworld/#RespTranProb)
-  * [5.3 '四个世界悖论'](https://plato.stanford.edu/entries/identity-transworld/#FouWorPar)
-* [6. 结论](https://plato.stanford.edu/entries/identity-transworld/#ConRem)
-  * [6.1 跨世界同一性和对应理论](https://plato.stanford.edu/entries/identity-transworld/#TraIdeCouThe)
-  * [6.2 路易斯关于跨世界同一性和“根据世界的存在”](https://plato.stanford.edu/entries/identity-transworld/#LewTraIdeExiAccWor)
-* [参考文献](https://plato.stanford.edu/entries/identity-transworld/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/identity-transworld/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/identity-transworld/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/identity-transworld/#Rel)
-
+ 
 ***
 
 ## 1. 什么是跨世界同一性？

@@ -10,31 +10,7 @@
 
 伊本·鲁世德在亚里士多德的《物理学》上撰写了长篇、中篇和短篇评论，以及一些关于物理问题的论文、问题。中篇和短篇评论由伊本·鲁世德本人修订，而长篇评论则显示出修订的痕迹，但总体上，长篇评论代表了他思想的最后阶段。后来的犹太哲学家更喜欢中篇评论，但正如 S. Harvey 所示，伊本·鲁世德的《物理学》长篇评论很快就被翻译成了希伯来语，并引起了他们的兴趣（Harvey 1985）。长篇评论在拉丁西方地区影响最大，最近的一次集体出版突出了它在自然哲学领域的影响力（Bakker 2015）。因此，本文的研究主要依赖于长篇评论，但还会参考他关于《生成与毁灭》的中篇评论。《物理学》主要关注一种变化，即局部运动，而后者则涉及到三种其他变化：物质、质量和数量的变化。本文还会偶尔提及其他评论或其他作品。
 
-* [1. 自然哲学的位置和划分](https://plato.stanford.edu/entries/ibn-rushd-natural/#PlacDiviNatuPhil)
-* [2. 四因和三原则](https://plato.stanford.edu/entries/ibn-rushd-natural/#FourCausThrePrin)
-* [3. 自然与人的形态](https://plato.stanford.edu/entries/ibn-rushd-natural/#NatuHumaForm)
-* [4. 自然对抗命运](https://plato.stanford.edu/entries/ibn-rushd-natural/#NatuAgaiFort)
-* [5. 自然中的绝对或条件性必然性](https://plato.stanford.edu/entries/ibn-rushd-natural/#AbsoCondNeceNatu)
-* [6. 变化或运动](https://plato.stanford.edu/entries/ibn-rushd-natural/#ChanMoti)
-* [ 7. 无限性](https://plato.stanford.edu/entries/ibn-rushd-natural/#Infi)
-* [ 8. 位置](https://plato.stanford.edu/entries/ibn-rushd-natural/#Plac)
-* [9. 虚空，虚空中的运动](https://plato.stanford.edu/entries/ibn-rushd-natural/#VoidMotiVoid)
-* [ 10. 时间](https://plato.stanford.edu/entries/ibn-rushd-natural/#Time)
-* [ 11. 连续体](https://plato.stanford.edu/entries/ibn-rushd-natural/#NCon)
-* [12. 物质的变化](https://plato.stanford.edu/entries/ibn-rushd-natural/#ChanSubs)
-* [13. 实质性的变化作为生成](https://plato.stanford.edu/entries/ibn-rushd-natural/#SubsChanComi)
-* [14. 变化、生长、营养](https://plato.stanford.edu/entries/ibn-rushd-natural/#AlteGrowNutr)
-* [15. 可移动的和移动者](https://plato.stanford.edu/entries/ibn-rushd-natural/#MovaMove)
-* [ 16. Qûwa 作为力量](https://plato.stanford.edu/entries/ibn-rushd-natural/#QuwaForc)
-* [17. 第一个可移动的，第一个移动者，永恒的运动](https://plato.stanford.edu/entries/ibn-rushd-natural/#FirsMovaFirsMoveEterMoti)
-* [18. 第一动因的非物质性](https://plato.stanford.edu/entries/ibn-rushd-natural/#IncoFirsMove)
-* [ 最后的评论](https://plato.stanford.edu/entries/ibn-rushd-natural/#FinaRema)
-* [ 缩写](https://plato.stanford.edu/entries/ibn-rushd-natural/#Abbr)
-* [ 参考文献](https://plato.stanford.edu/entries/ibn-rushd-natural/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ibn-rushd-natural/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ibn-rushd-natural/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ibn-rushd-natural/#Rel)
-
+ 
 ---
 
 ## 1. 自然哲学的位置和划分

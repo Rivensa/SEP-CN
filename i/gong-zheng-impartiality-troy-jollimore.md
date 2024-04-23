@@ -8,37 +8,7 @@
 
 虽然我们将从讨论更广泛的形式概念开始，并以对特别认识论公正引发的问题的简要讨论结束，但本文主要关注道德公正；也就是说，通常出现在规范道德和政治理论中的公正。
 
-* [1. 公正的概念](https://plato.stanford.edu/entries/impartiality/#ConcImpa)
-* [2. 道德和公正](https://plato.stanford.edu/entries/impartiality/#MoraImpa)
-
-  * [2.1 公正的观点](https://plato.stanford.edu/entries/impartiality/#ImpaPoinView)
-  * [2.2 理想观察者理论](https://plato.stanford.edu/entries/impartiality/#IdeaObseTheo)
-  * [2.3 公正和平等](https://plato.stanford.edu/entries/impartiality/#MoraImpaEqua)
-* [3. 公正 I：后果主义道德理论](https://plato.stanford.edu/entries/impartiality/#MoraImpaIConsMoraTheo)
-
-  * [3.1 后果主义的公正性质](https://plato.stanford.edu/entries/impartiality/#NatuConsImpa)
-  * [3.2 后果主义的公正性是否过于苛求？](https://plato.stanford.edu/entries/impartiality/#ConsImpaTooDema)
-  * [3.3 后果主义的公正性与正义](https://plato.stanford.edu/entries/impartiality/#ConsImpaJust)
-* [4. 公正的道德观 II：义务论道德理论](https://plato.stanford.edu/entries/impartiality/#MoraImpaIIDeonMoraTheo)
-
-  * [4.1 义务论的公正和个人观点](https://plato.stanford.edu/entries/impartiality/#DeonImpaPersPoinView)
-  * [4.2 公正和普遍性](https://plato.stanford.edu/entries/impartiality/#ImpaUniv)
-  * [4.3 其他的义务论方法](https://plato.stanford.edu/entries/impartiality/#OtheDeonAppr)
-  * [4.4 契约主义的义务论公正模型](https://plato.stanford.edu/entries/impartiality/#ContModeDeonImpa)
-* [5. 公正：其要求和范围](https://plato.stanford.edu/entries/impartiality/#ImpaDemaScop)
-
-  * [5.1 公正的认知挑战](https://plato.stanford.edu/entries/impartiality/#CognChalImpa)
-  * [5.2 公正、客观和冷漠](https://plato.stanford.edu/entries/impartiality/#ImpaImpeIndi)
-  * [5.3 公正、客观和中立](https://plato.stanford.edu/entries/impartiality/#ImpaObjeNeut)
-* [6. 公正与偏袒](https://plato.stanford.edu/entries/impartiality/#PartImpa)
-
-  * [6.1 关系与偏袒的正当性](https://plato.stanford.edu/entries/impartiality/#RelaJustPart)
-  * [6.2 偏袒主义与公正主义辩论](https://plato.stanford.edu/entries/impartiality/#PartImpaDeba)
-* [7. 认识论的偏袒和公正](https://plato.stanford.edu/entries/impartiality/#EpisPartImpa)
-* [ 参考文献](https://plato.stanford.edu/entries/impartiality/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/impartiality/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/impartiality/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/impartiality/#Rel)
+ 
 
 ---
 

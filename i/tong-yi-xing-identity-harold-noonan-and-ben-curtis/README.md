@@ -4,21 +4,7 @@ _首次发表于2004年12月15日；实质性修订于2022年7月20日。_
 
 近几十年来，关于同一性的讨论主要集中在个人同一性，特别是随时间变化的个人同一性，但同一性的一般概念以及其他类型的事物的同一性也引起了关注。讨论的中心问题有很多相互关联的问题，但可以说最近的研究特别关注以下几个领域：同一性标准的概念；随时间变化的同一性的正确分析，特别是持续派和持久派对同一性随时间变化的分析的分歧；跨可能世界的同一性概念以及其与de re模态话语正确分析的相关性问题；偶然同一性的概念；同一性关系是否与组合关系相似；模糊同一性的概念。彼得·吉奇提出的一个激进观点是，这些讨论通常是无意义的，因为它们缺乏主题：它们预设的绝对同一性概念没有应用；只有相对同一性。另一个越来越流行的观点是大卫·刘易斯提出的观点：尽管这些讨论是有意义的，但它们实际上不是关于同一性的讨论，因为同一性没有哲学问题。同一性是一个完全没有问题的概念。存在的是真正的问题，可以用同一性的语言来陈述。但由于这些问题可以不使用同一性的语言来陈述，所以它们不是关于同一性的问题。（例如，一个谜题是关于所谓的“个人同一性问题”的一个方面，即同一个人是否可以在不同的时间拥有不同的身体。但这只是一个关于一个人是否可以在不同的时间拥有不同的身体的谜题。因此，由于它可以不使用“个人同一性”的语言来陈述，所以它不是关于个人同一性的问题，而是关于人格的问题。) 本文概述了上述所指的主题，对辩论进行了一些评估，并提出了进一步阅读的建议。
 
-* [1. 引言](https://plato.stanford.edu/entries/identity/#Intr)
-* [2. 同一性的逻辑](https://plato.stanford.edu/entries/identity/#LogiIden)
-* [3. 相对同一性](https://plato.stanford.edu/entries/identity/#RelaIden)
-* [4. 同一性的标准](https://plato.stanford.edu/entries/identity/#CritIden)
-* [5. 随时间的同一性](https://plato.stanford.edu/entries/identity/#IdenOverTime)
-* [6. 同一性跨可能的世界](https://plato.stanford.edu/entries/identity/#IdenAcroPossWorl)
-* [7. 可能的同一性](https://plato.stanford.edu/entries/identity/#ContIden)
-* [8. 合成作为同一性](https://plato.stanford.edu/entries/identity/#CompIden)
-* [9. 同一性模糊](https://plato.stanford.edu/entries/identity/#VaguIden)
-* [10. 关于同一性是否存在哲学问题？](https://plato.stanford.edu/entries/identity/#TherPhilProbAbouIden)
-* [参考文献](https://plato.stanford.edu/entries/identity/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/identity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/identity/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/identity/#Rel)
-
+ 
 ***
 
 ## 1. 引言

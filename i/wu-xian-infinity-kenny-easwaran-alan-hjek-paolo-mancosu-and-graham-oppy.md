@@ -16,46 +16,7 @@
 
 鉴于我们所讨论的话题的重要性，我们显然无法涵盖所有方面，甚至只是其中的一部分。例如，我们在科学和社会科学中并没有涉及无限的许多角色（除了第 8 节），而是将重点放在了哲学中的角色上。我们将讨论限制在不需要高级数学就能理解的内容上，但是我们提供了一些补充文档的链接，这些文档讨论了更多的问题：无限理想化、圆的四分法、数论和超现实数等数学中的两个最新发展的概述，以及其他悖论（上帝的抽奖、两个信封）和定理的证明。我们请求读者谅解，如果他们最喜欢的话题被忽略了。我们希望通过大量的指向其他话题的指针、我们广泛的参考文献和其他互联网资源来减轻这种情况。
 
-* [1. 哲学中的无限：一些历史性的评论](https://plato.stanford.edu/entries/infinity/#InfiPhilSomeHistRema)
-* [2. 数学中的无限：简要历史概述](https://plato.stanford.edu/entries/infinity/#InfiMathBrieHistOver)
-
-  * [2.1 无限的穷尽法](https://plato.stanford.edu/entries/infinity/#MethExha)
-  * [2.2 不可分割和无限点的理论](https://plato.stanford.edu/entries/infinity/#TheoIndiPoinInfi)
-  * [ 2.3 微积分](https://plato.stanford.edu/entries/infinity/#Calc)
-  * [2.4 计算无限集合](https://plato.stanford.edu/entries/infinity/#CounInfiColl)
-* [3. 数学：数制，康托的天堂，以及更多](https://plato.stanford.edu/entries/infinity/#MathNumbSystCantParaBeyo)
-
-  * [3.1 一些数制](https://plato.stanford.edu/entries/infinity/#SomeNumbSyst)
-  * [3.2 限制、无限和扩展实数；无限大和负无限大](https://plato.stanford.edu/entries/infinity/#LimiInfiSumsExteRealNumbInftInft)
-  * [3.3 计数的无限大](https://plato.stanford.edu/entries/infinity/#InfiCoun)
-  * [3.4 无穷小和超实数](https://plato.stanford.edu/entries/infinity/#InfiHype)
-  * [ 3.5 总结](https://plato.stanford.edu/entries/infinity/#Wrap)
-* [4. 数学本体论](https://plato.stanford.edu/entries/infinity/#MathOnto)
-* [5. 失落的天堂？涉及无限的悖论和谜题](https://plato.stanford.edu/entries/infinity/#ParaLostParaPuzzInvoInfi)
-
-  * [ 5.1 希尔伯特的酒店](https://plato.stanford.edu/entries/infinity/#HilbHote)
-  * [ 5.2 汤姆森的灯](https://plato.stanford.edu/entries/infinity/#ThomLamp)
-  * [ 5.3 无限麻痹](https://plato.stanford.edu/entries/infinity/#Para)
-* [ 6. 概率](https://plato.stanford.edu/entries/infinity/#Prob)
-
-  * [6.1 数学概率中的无限：基础](https://plato.stanford.edu/entries/infinity/#InfiMathProbBasi)
-  * [6.2 概率解释中的无限](https://plato.stanford.edu/entries/infinity/#InfiInteProb)
-  * [6.3 无限在概率数学中的无限性：更高级的问题](https://plato.stanford.edu/entries/infinity/#InfiMathProbAdvaIssu)
-* [ 7. 决策](https://plato.stanford.edu/entries/infinity/#Deci)
-
-  * [7.1 无限多种可能的行动：越来越好的葡萄酒](https://plato.stanford.edu/entries/infinity/#InfiManyPossActiEverBettWine)
-  * [7.2 无限多个状态：圣彼得堡悖论](https://plato.stanford.edu/entries/infinity/#InfiManyStatStPetePara)
-  * [7.3 无限效用：帕斯卡的赌注](https://plato.stanford.edu/entries/infinity/#InfiUtilPascWage)
-  * [7.4 无限效用流](https://plato.stanford.edu/entries/infinity/#InfiUtilStre)
-* [8. 空间和时间](https://plato.stanford.edu/entries/infinity/#SpacTime)
-
-  * [8.1 空间和时间的矛盾](https://plato.stanford.edu/entries/infinity/#AntiSpacTime)
-  * [8.2 非欧几里德几何、相对论时空和宇宙拓扑](https://plato.stanford.edu/entries/infinity/#NonEuclGeomRelaSpacTimeCosmTopo)
-* [ 9. 结论](https://plato.stanford.edu/entries/infinity/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/infinity/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/infinity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/infinity/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/infinity/#Rel)
+ 
 
 ---
 

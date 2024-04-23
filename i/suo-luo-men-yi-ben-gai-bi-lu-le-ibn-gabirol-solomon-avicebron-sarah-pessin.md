@@ -4,30 +4,7 @@ _首次发表于2010年9月23日星期四_
 
 所罗门·伊本·盖比鲁勒是一位多产的诗人，也是《生命之泉》的作者。在哲学史上，他以“普遍的物质形态论”（包括灵魂和智力在内的一切事物都由物质和形态组成）和对神圣意愿的强调而闻名。伊本·盖比鲁勒首先受到新柏拉图主义神学的影响，认为上帝的实在贯穿万物，并受到新柏拉图主义回归的伦理和存在理想的影响——即我们必须通过思想和行为努力回归我们自己最真实的本质和与源头的相似性。几个世纪以来，基督教学者错误地认为伊本·盖比鲁勒是奥古斯丁的基督教捍卫者或亚里士多德的穆斯林误读者，实际上他是一位犹太新柏拉图主义者，受到伪恩庇多克勒斯思想的额外影响，为我们描绘了一个修改过的普罗提诺宇宙，其中一切事物都根植于各种物质和形态的“层次”，揭示了上帝自己的意愿/智慧/话语的调解之恩。对于伊本·盖比鲁勒来说，一切事物（甚至智力本身的简单统一）都显示出物质+形态的复杂性，以此反映出上帝自己“本质”和“活动”时刻的复杂统一。当上帝展示自己为“生命之泉”时，我们的物质核心就像一条河流，通过它我们可以始终回到我们的源头。
 
-* [1. 个人简介、作品、来源和影响](https://plato.stanford.edu/entries/ibn-gabirol/#BioWorSouInf)
-* [2. 方法论：超越亚里士多德、奥古斯丁和卡巴拉](https://plato.stanford.edu/entries/ibn-gabirol/#WorMetMovBeyAriAugKab)
-  * [2.1 所罗门·伊本·盖比鲁勒研究中的亚里士多德透镜](https://plato.stanford.edu/entries/ibn-gabirol/#AriLenStuIbnGab)
-  * [2.2 所罗门·伊本·盖比鲁勒研究中的奥古斯丁透镜](https://plato.stanford.edu/entries/ibn-gabirol/#AugLenStuIbnGab)
-  * [2.3 所罗门·伊本·盖比鲁勒研究中的卡巴拉透镜](https://plato.stanford.edu/entries/ibn-gabirol/#KabLenStuIbnGab)
-* [3. 知识和行为：人类存在的目的](https://plato.stanford.edu/entries/ibn-gabirol/#KnoDeePurHumBei)
-* [4. 神圣的创造行为](https://plato.stanford.edu/entries/ibn-gabirol/#DivCreAct)
-  * [4.1 从无中创造和生命之泉](https://plato.stanford.edu/entries/ibn-gabirol/#CreExNihFouLif)
-  * [4.2 意愿、智慧、话语、智力和宇宙](https://plato.stanford.edu/entries/ibn-gabirol/#WilWisWorIntCos)
-  * [4.3 上帝、物质和欲望的无所不在](https://plato.stanford.edu/entries/ibn-gabirol/#GodMatOmnDes)
-* [5. 物质、形式和“普遍的物质形态学”](https://plato.stanford.edu/entries/ibn-gabirol/#MatForUniHyl)
-  * [5.1 所罗门·伊本·盖比鲁勒的新柏拉图主义物质论 1：柏拉图的修正参与](https://plato.stanford.edu/entries/ibn-gabirol/#IbnGabNeoHyl1PlaParRev)
-  * [5.2 所罗门·伊本·盖比鲁勒的新柏拉图主义物质论 2：亚里士多德的修正物质](https://plato.stanford.edu/entries/ibn-gabirol/#IbnGabNeoHyl2AriSubRev)
-  * [5.3 所罗门·伊本·盖比鲁勒的新柏拉图主义物质论 3：形式的多样性](https://plato.stanford.edu/entries/ibn-gabirol/#IbnGabNeoHyl3PluFor)
-* [6. 宇宙风景，灵魂风景：从天上的回路到人类的归还](https://plato.stanford.edu/entries/ibn-gabirol/#CosLanSouLanHeaCirHumRet)
-* [7. 诗人](https://plato.stanford.edu/entries/ibn-gabirol/#Poe)
-* [参考书目](https://plato.stanford.edu/entries/ibn-gabirol/#Bib)
-  * [所罗门·伊本·盖比鲁勒的作品](https://plato.stanford.edu/entries/ibn-gabirol/#WorIbnGab)
-  * [一些相关的原始文本](https://plato.stanford.edu/entries/ibn-gabirol/#SomRelPriTex)
-  * [二次文献](https://plato.stanford.edu/entries/ibn-gabirol/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/ibn-gabirol/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ibn-gabirol/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ibn-gabirol/#Rel)
-
+ 
 ***
 
 ## 1. 生平、作品、来源和影响

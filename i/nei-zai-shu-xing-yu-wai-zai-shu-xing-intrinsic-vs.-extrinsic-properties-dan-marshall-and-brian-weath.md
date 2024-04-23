@@ -4,30 +4,7 @@
 
 我们的一些属性纯粹是因为我们的本质而存在的。（我们的质量就是一个例子。）我们的其他属性是由我们与世界互动的方式决定的。（我们的重量就是一个例子。）前者是内在属性，后者是外在属性。这似乎是一个足够直观的区分，因此这个直观的区分已经在哲学的许多讨论中得到了应用，包括伦理学、心灵哲学、形而上学、认识论和物理哲学的讨论。不幸的是，当我们更仔细地观察这个直观的区分时，我们发现有理由怀疑它混淆了一些相关的区别，并且每个这些区别都有一定程度的抵抗分析。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/intrinsic-extrinsic/#Intr)
-
-  * [1.1 哲学的重要性](https://plato.stanford.edu/entries/intrinsic-extrinsic/#PhilImpo)
-  * [1.2 全球和本地](https://plato.stanford.edu/entries/intrinsic-extrinsic/#GlobLoca)
-  * [ 1.3 关系](https://plato.stanford.edu/entries/intrinsic-extrinsic/#Rela)
-* [2. 内在性的概念](https://plato.stanford.edu/entries/intrinsic-extrinsic/#NotiIntr)
-
-  * [2.1 关系型 vs. 非关系型属性](https://plato.stanford.edu/entries/intrinsic-extrinsic/#RelaVsNonRelaProp)
-  * [2.2 本地 vs. 非本地属性](https://plato.stanford.edu/entries/intrinsic-extrinsic/#LocaVsNonLocaProp)
-  * [2.3 内部 vs. 外部属性](https://plato.stanford.edu/entries/intrinsic-extrinsic/#InteVsExteProp)
-  * [2.4 内在保留与外在不保留属性](https://plato.stanford.edu/entries/intrinsic-extrinsic/#DuplPresVsDuplNonPresProp)
-  * [2.5 哪个是真正的区别？](https://plato.stanford.edu/entries/intrinsic-extrinsic/#WhicRealDist)
-* [3. 分析尝试](https://plato.stanford.edu/entries/intrinsic-extrinsic/#AtteAnal)
-
-  * [3.1 广义逻辑理论](https://plato.stanford.edu/entries/intrinsic-extrinsic/#BroaLogiTheo)
-  * [3.2 完美自然性理论](https://plato.stanford.edu/entries/intrinsic-extrinsic/#PerfNatuTheo)
-  * [3.3 非排斥性理论](https://plato.stanford.edu/entries/intrinsic-extrinsic/#NonDisjTheo)
-  * [3.4 收缩主义理论](https://plato.stanford.edu/entries/intrinsic-extrinsic/#ContTheo)
-  * [ 3.5 基础理论](https://plato.stanford.edu/entries/intrinsic-extrinsic/#GrouTheo)
-* [ 参考文献](https://plato.stanford.edu/entries/intrinsic-extrinsic/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/intrinsic-extrinsic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/intrinsic-extrinsic/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/intrinsic-extrinsic/#Rel)
-
+ 
 ---
 
 ## 1. 简介

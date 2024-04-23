@@ -4,36 +4,7 @@ _首次发表于2007年9月10日星期一；实质性修订于2022年7月6日星
 
 艾萨克·本·所罗门·以色列（约公元 855 年至 955 年），不要与以色列的年轻人艾萨克·以色列（西班牙的天文学家，公元 1322 年去世）混淆，他曾担任非米德王朝创始人在北非的医生，并用阿拉伯语写了几部哲学和医学著作，随后被翻译成拉丁语和希伯来语广泛阅读。以色列是最早的中世纪犹太新柏拉图主义作家之一，尽管在思想上不如后来的犹太哲学家所罗门·伊本·加比罗尔（阿维斯布隆）、摩西·迈蒙尼德和格尔索尼德那样原创。他的作品反映并概括了当时的哲学范式，即通过新柏拉图主义的视角阅读亚里士多德的思想。以色列的思想在很大程度上受到阿拉伯哲学家阿尔-金迪（约公元 870 年去世）和现有的新柏拉图主义来源的影响，无论是亚里士多德的《神学》还是（根据 S·M·斯特恩的假设）一部伪作新柏拉图主义论文（阿拉伯原文已不复存在），后来由亚伯拉罕·伊本·哈斯代（公元 1240 年去世）翻译成希伯来语，并附在文学作品《王子与苦行者》中。尽管他的许多作品都是对这两个来源的释义和评论，但以色列的思想确实包括了与阿尔-金迪的一些分歧，例如阴影的发散思想，以及在阿尔-金迪的模型中所描述的思维过程的逆转。以色列的哲学著作被后来的几位犹太和基督教作家阅读，他们有时会引用他的话，有时则没有署名。他的医学著作在穆斯林和基督教领域的医生中广泛阅读和尊重了几个世纪。
 
-* [1. Biography](https://plato.stanford.edu/entries/israeli/#Bio)
-* [2. Isaac Israeli’s Philosophical Sources](https://plato.stanford.edu/entries/israeli/#IsaIsrPhiSou)
-* [3. 形而上学](https://plato.stanford.edu/entries/israeli/#Met)
-  * [3.1 四种探究方式](https://plato.stanford.edu/entries/israeli/#FouKinInq)
-  * [3.2 四个原因](https://plato.stanford.edu/entries/israeli/#FouCau)
-  * [3.3 四大元素](https://plato.stanford.edu/entries/israeli/#FouEle)
-  * [3.4 物质、形式和物质](https://plato.stanford.edu/entries/israeli/#SubForMat)
-  * [3.5 神学](https://plato.stanford.edu/entries/israeli/#The)
-  * [3.6 艾萨克·本·所罗门·以色列的产生顺序](https://plato.stanford.edu/entries/israeli/#SeqEma)
-  * [3.7 光与阴影的隐喻](https://plato.stanford.edu/entries/israeli/#MetLigSha)
-  * [3.8 关于生成和消逝](https://plato.stanford.edu/entries/israeli/#GenPasAwa)
-* [4. 心理学](https://plato.stanford.edu/entries/israeli/#Psy)
-  * [4.1 智力和思维](https://plato.stanford.edu/entries/israeli/#IntInt)
-  * [4.2 灵魂、精神和身体](https://plato.stanford.edu/entries/israeli/#SouSpiBod)
-  * [4.3 理性灵魂的完美](https://plato.stanford.edu/entries/israeli/#PerRatSou)
-  * [4.4 自由意志和对无力的否定](https://plato.stanford.edu/entries/israeli/#FreeWillNegaAkra)
-* [5. 哲学作品、手稿和翻译](https://plato.stanford.edu/entries/israeli/#PhiWorManTra)
-  * [5.1 定义书](https://plato.stanford.edu/entries/israeli/#BooDef)
-  * [5.2 物质书](https://plato.stanford.edu/entries/israeli/#BooSub)
-  * [5.3 灵魂书](https://plato.stanford.edu/entries/israeli/#BooSpiSou)
-  * [5.4 元素章节](https://plato.stanford.edu/entries/israeli/#ChaEle)
-  * [5.5 元素之书](https://plato.stanford.edu/entries/israeli/#BooEle)
-* [6. 艾萨克·本·所罗门·以色列对后来思想家的影响](https://plato.stanford.edu/entries/israeli/#IsrInfLatThi)
-* [参考文献](https://plato.stanford.edu/entries/israeli/#Bib)
-  * [主要来源](https://plato.stanford.edu/entries/israeli/#PriSou)
-  * [次要来源](https://plato.stanford.edu/entries/israeli/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/israeli/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/israeli/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/israeli/#Rel)
-
+ 
 ***
 
 ## 1. 传记

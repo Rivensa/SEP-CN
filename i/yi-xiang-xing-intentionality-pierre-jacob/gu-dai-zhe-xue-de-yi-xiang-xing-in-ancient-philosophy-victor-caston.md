@@ -6,16 +6,7 @@ _首次发表于2003年9月22日星期一；实质性修订于2019年10月18日�
 
 这种兴趣自然而然地引发了对这个概念历史的问题。早期的论述，沿袭布伦塔诺的观点，将目光投向了拉丁语的晚期中世纪讨论，然后追溯到早期阿拉伯哲学的根源。但在那个时候，据称，希腊或罗马哲学中没有对应的内容。这个叙述，正如人们可能怀疑的那样，是建立在可疑的假设之上的。一旦调查得到正确的框架，就清楚地看到，对意向性的哲学兴趣可以追溯到西方哲学的起源。意向性被认为在公元前 5 世纪中旬至公元前 5 世纪中期已经引起了严重的困惑，可以说最早是由巴门尼德斯提出的，但随后无可争议地由对他做出回应的诡辩家们，包括戈尔吉亚斯和普罗塔哥拉斯。最早的广泛讨论出现在柏拉图的作品中，他在几个对话中明确地论述了这些困难，并考虑了各种解决方案。后来的哲学家提出了其他解决方案，包括对内部表象的诉诸（亚里士多德），或对思维的不存在对象的诉诸（第一派斯多亚派，泽诺和克利安忒斯），以及命题和其他语义实体（其他斯多亚派，从克里西普到开始）。甚至意向性的术语也可以追溯到希腊的起源，通过奥古斯丁，即斯多亚派的视觉理论。
 
-* [1. 术语的历史](https://plato.stanford.edu/entries/intentionality-ancient/#HistTerm)
-* [2. 问题的历史](https://plato.stanford.edu/entries/intentionality-ancient/#HistProb)
-* [3. 柏拉图之前](https://plato.stanford.edu/entries/intentionality-ancient/#BefoPlat)
-* [4. 柏拉图](https://plato.stanford.edu/entries/intentionality-ancient/#Plat)
-* [5. 亚里士多德](https://plato.stanford.edu/entries/intentionality-ancient/#Aris)
-* [6. 斯多嘉学派](https://plato.stanford.edu/entries/intentionality-ancient/#Stoi)
-* [参考书目](https://plato.stanford.edu/entries/intentionality-ancient/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/intentionality-ancient/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/intentionality-ancient/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/intentionality-ancient/#Rel)
+ 
 
 ***
 

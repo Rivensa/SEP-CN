@@ -6,20 +6,7 @@
 
 在本条目中，我们将讨论明确考虑说话者和听话者的互动推理（例如，说话者和听话者对彼此的信念，话语背景的相关方面等）的会话含义的形式化解释，并旨在将会话含义作为目标导向、经济优化的语言使用的结果进行还原性解释。对于本条目，就像对含义的传统分析一样，我们将假设句子具有预先存在的语义含义，并主要关注概括的会话含义。
 
-* [1. 双向优选论](https://plato.stanford.edu/entries/implicature-optimality-games/#BidOptThe)
-
-  * [1.1 双向优选论和数量含义](https://plato.stanford.edu/entries/implicature-optimality-games/#BidOTQuaImp)
-  * [1.2 Horn 的分割的双向优选论分析](https://plato.stanford.edu/entries/implicature-optimality-games/#BiOTAnaHorDiv)
-* [2. 含义和博弈论](https://plato.stanford.edu/entries/implicature-optimality-games/#ImpGamThe)
-
-  * [ 2.1 信号博弈](https://plato.stanford.edu/entries/implicature-optimality-games/#SigGam)
-  * [2.2 Horn 划分的博弈论解释](https://plato.stanford.edu/entries/implicature-optimality-games/#GamTheExpHorDiv)
-  * [2.3 数量含义和最佳反应](https://plato.stanford.edu/entries/implicature-optimality-games/#QuaImpBesRes)
-* [ 3. 结论](https://plato.stanford.edu/entries/implicature-optimality-games/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/implicature-optimality-games/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/implicature-optimality-games/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/implicature-optimality-games/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/implicature-optimality-games/#Rel)
+ 
 
 ---
 
