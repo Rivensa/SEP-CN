@@ -1,2 +1,375 @@
 # 科亨-施佩克尔定理（KS 定理）Kochen-Specker theorem (Carsten Held)
 
+
+*首次发表于2000年9月11日；实质性修订于2022年9月6日。*
+
+科亨-施佩克尔定理是量子力学基础中一个重要而微妙的主题。该定理证明了在考虑解释量子力学的项目时，以隐藏变量为基础的某种类型的解释是不可能的。我们在这里介绍了该定理/论证以及围绕它的基础讨论的不同层次。寻求快速概述的读者应阅读以下章节和子章节：1、2、3.1、3.2、4 和 6。阅读整个条目的人将在补充文件中找到一些非平凡主张的证明。
+
+* [ 1. 引言](https://plato.stanford.edu/entries/kochen-specker/#intro)
+* [2. KS 定理的背景](https://plato.stanford.edu/entries/kochen-specker/#background)
+* [3. KS 定理的陈述和证明](https://plato.stanford.edu/entries/kochen-specker/#snp)
+
+  * [3.1 KS 定理的陈述](https://plato.stanford.edu/entries/kochen-specker/#statement)
+  * [3.2 四维空间中的快速 KS 论证（Cabello 等人）](https://plato.stanford.edu/entries/kochen-specker/#quick)
+  * [3.3 原始的 KS 论证。技术准备](https://plato.stanford.edu/entries/kochen-specker/#preliminaries)
+  * [3.4 原始的 KS 论证。证明概述](https://plato.stanford.edu/entries/kochen-specker/#sketch)
+  * [3.5 三维统计 KS 论证（克利夫顿）](https://plato.stanford.edu/entries/kochen-specker/#statistical)
+* [4. 功能组合原则](https://plato.stanford.edu/entries/kochen-specker/#functional)
+* [5. 逃离 KS 论证](https://plato.stanford.edu/entries/kochen-specker/#escaping)
+
+  * [5.1 无一般值确定性](https://plato.stanford.edu/entries/kochen-specker/#general)
+  * [5.2 价值现实主义的否定](https://plato.stanford.edu/entries/kochen-specker/#denial)
+  * [ 5.3 上下文性](https://plato.stanford.edu/entries/kochen-specker/#contextuality)
+* [6. 经验测试的问题](https://plato.stanford.edu/entries/kochen-specker/#question)
+* [ 参考文献](https://plato.stanford.edu/entries/kochen-specker/#Bib)
+* [ 学术工具](https://plato.stanford.edu/entries/kochen-specker/#Aca)
+* [其他互联网资源](https://plato.stanford.edu/entries/kochen-specker/#Oth)
+* [ 相关条目](https://plato.stanford.edu/entries/kochen-specker/#Rel)
+
+---
+
+## 1. 引言
+
+量子力学具有奇特的特性，即量子力学状态通常只对测量结果施加统计限制。可以得出的自然结论是，这些状态是对量子系统的不完全描述。因此，量子力学在某种意义上是不完整的，即一个典型的量子力学状态描述可以通过 HV 理论的更完整描述来补充。在系统的 HV 描述中，量子力学概率可以自然地解释为普通统计力学中出现的认知概率。这样的 HV 描述可能在实践上并不实用，但人们很容易认为它至少在原则上是可能的。然而，有两个强有力的定理表明这样的描述受到严格的限制：在某些至少是表面上合理的前提下，量子力学不能通过 HV 理论来补充。这两个定理中更著名的是贝尔定理，它指出，在给定局部性前提的情况下，HV 模型无法与量子力学的统计预测相匹配。对 HV 理论的第二个重要的禁止定理是科亨和施佩克尔（KS）定理，它指出，在给定非上下文性前提（即将在下文中解释）的情况下，某些 QM 可观测量的集合无法一致地被赋予任何值（即使在它们的统计分布问题出现之前）。
+
+在详细了解 KS 定理的工作原理之前，我们必须澄清为什么它对科学哲学家来说很重要。HV 解释的明确前提，如下所理解，是一个价值确定性的前提：
+
+> （VD）量子力学系统中定义的所有可观测量在任何时候都具有确定的值。
+
+（请注意，对于通常被视为量子力学的 HV 解释的玻姆力学，这个陈述必须加以限定。）[1] VD 是由一个表面上无害的关于实验结果的假设所激发的，这个假设反映在将量子实验称为“测量”的习惯中，即这些实验揭示了独立于被测量的存在的值。（请注意，我们在这里不需要假设这些值被测量准确地揭示出来，只需要假设它们存在！）这暗示了第二个看似无害的假设，即非上下文性：
+
+> （NC）如果一个量子力学系统具有某个属性（可观测量的值），那么它独立于任何测量背景，即独立于最终如何测量该值。
+
+当应用于可以在不同不兼容的测量中测量的特定属性时，NC 表示这些属性在这些不同的测量情况下是相同的。
+
+现在，假设我们采用量子系统的常规属性关联，即是-非可观测量，并且是系统希尔伯特空间上的投影算符。
+
+> (O) 量子系统的性质与系统希尔伯特空间上的投影算符之间存在一一对应关系
+
+KS 定理在 VD + NC + O 和 QM 之间建立了矛盾；因此，接受 QM 在逻辑上迫使我们放弃 VD 或 NC 或 O 之一。
+
+如果存在满足这些条件的 HV 理论是可行的，我们将对 QM 的统计特性有一个自然的解释，并以一种优雅的方式解决困扰所有 QM 解释者的臭名昭著的测量问题（有关详细信息，请参见有关量子力学的条目以及有关量子理论中哲学问题的测量问题部分）。KS 定理所显示的是，满足这些条件的最直接类型的 HV 理论不是一个选择。HV 计划只剩下违反这些条件之一或多个的选择；请参见关于玻姆力学和量子力学的模态解释的条目。
+
+## 2. KS 定理的背景
+
+在接下来的内容中，我们将假设读者对基本的量子力学概念如“态”、“可观测量”、“值”以及它们的数学表示如“矢量”、“（自伴）算符”和“本征值”有一定的了解[详见量子力学条目以获取详细信息]。我们通常将可观测量和表示它们的适当希尔伯特空间上的算符等同起来；如果需要区分算符和可观测量，我们会用下划线和粗体来表示算符（因此，算符 A 表示可观测量 A）。
+
+本节介绍了 KS 定理的历史和系统背景的一些要素。最重要的是，冯·诺依曼（1932 年）的一个论证、格里森（1957 年）的一个定理以及对两者的批判性讨论以及贝尔（1966 年）的一个后来的论证必须被考虑进来。冯·诺依曼在他著名的 1932 年的书《量子力学的数学基础》中质疑了为量子力学提供 HV 基础的可能性。他给出了一个归结为以下事实的论证：考虑到数学事实，如果 A 和 B 是自伴算符，那么它们的任何实线性组合（任意实数α、β，使得 C = α**A** + β**B**）也是一个自伴算符。量子力学进一步规定：
+
+1. 如果 A 和 B（由自伴算子 A 和 B 表示）是系统上的可观测量，则同一系统上存在一个可观测量 C（由之前定义的自伴算子 C 表示）。
+2. 如果对于任何量子力学态，A 和 B 的期望值分别为<A>和<B>，那么 C 的期望值为<C>=α<A> + β<B>。
+
+现在考虑上述的 A、B、C，并假设它们具有确定的值 v(A)、v(B)、v(C)。考虑一个决定 v(A)、v(B)、v(C)的“隐藏状态”V。我们可以从 V 中推导出平凡的“期望值”，它们就是这些值本身：<A>V = v(A)，等等。当然，这些“期望值”通常不等于量子力学的期望值：<A>V ≠ <A>（我们确实会将后者视为对不同隐藏状态 V 的前者的平均值！）。然而，冯·诺伊曼要求<A>V，就像<A>一样，符合（2）。这自动意味着这些值本身必须符合与（2）类似的条件，即：
+
+3. v(C) = αv(A) + βv(B)。
+
+然而，一般情况下这是不可能的。一个简单的例子很容易展示了(3)是如何被违反的，但由于其简单性也显示了这个论证的不足之处。（这个例子不是由冯·诺依曼本人提出的，而是由贝尔提出的）设 A = σx，B = σy，那么算符 C = (σx + σy)/√2 对应于沿着 x 和 y 的角平分线的自旋分量的可观测量。现在所有的自旋分量只有（在适当的单位下）可能的取值是±1，因此，HV 支持者被迫将±1 归因于 A、B、C 作为值，并因此作为“期望值”。但是，由于±1 ≠ (±1 + ±1)/√2，因此(3)显然无法满足。
+
+这个例子说明了为什么冯·诺依曼的论证是不令人满意的。对于相容的可观测量，即根据量子力学在一个排列中可以同时测量的可观测量，从(2)到(3)的转变是没有争议的。然而，上述选择的 A、B、C 是这样的，任意两个都是不相容的，即不能同时观测的。对于这些，我们不希望要求任何 HV 解释来满足(3)，只需要满足(2)即可。隐藏的值在一系列测试中的值的平均值必须符合(2)，而不需要在一般情况下符合(3)。冯·诺依曼的论证的权威性来自于这样一个事实，即要求(1)和(2)对于 QM 状态来说是量子力学形式主义的结果，但这本身并不能证明将这些要求扩展到假设的隐藏状态是合理的。实际上，如果(3)无限制地成立，这将很好地解释在存在隐藏值的情况下为什么(2)成立。冯·诺依曼显然认为 HV 支持者对这个解释是承诺的，但这似乎是一个不合理的限制。
+
+KS 定理纠正了这个缺陷，从而加强了反对 HV 理论的论据，因为它仅对所有相互兼容的可观测量{A，B，C}假设（3）。该定理要求仅对于兼容的可观测量，假设（3）必须成立。
+
+导致 KS 定理的第二个独立思路是由 Gleason 的定理提供的（Gleason 1957）。该定理指出，在维数大于或等于 3 的希尔伯特空间中，唯一可能的概率测度是测度μ（Pα）= Tr（Pα W），其中 Pα是投影算子，W 是表征系统实际状态的统计算子，Tr 是迹运算。[4] Pα可以理解为表示是-否可观测量，即关于 QM 系统是否具有属性α的问题，并且每个可能的属性α都与空间中的一个矢量|α>唯一相关联 - 因此，任务是对空间中的所有矢量明确地分配概率。现在，QM 测度μ是连续的，因此 Gleason 的定理实际上证明了在三维希尔伯特空间中对所有可能属性的概率分配必须是连续的，即必须将空间中的所有矢量连续映射到区间[0, 1]。另一方面，如果 HV 理论（如果由 VD + NC 特征化）意味着我们可以说系统是否具有每个属性。这产生了一个将所有 Pα映射到 1 或 0 的平凡概率函数，并且只要值 1 和 0 都出现（这从将数字解释为概率中平凡地得出），该函数显然必须是不连续的（参见 Redhead 1987：28）。
+
+Gleason定理的证明非常复杂。然而，值得注意的是，Gleason定理的这个推论可以通过比Gleason证明中使用的更基本的方法更直接地得到。贝尔（1982: 994, 1987: 164）认为J.M. Jauch在1963年引起了他对Gleason定理的注意，并指出它意味着冯·诺依曼结果的加强，只对可交换的观测量有可加性要求。然后，贝尔以一种基本的方式证明了这个结果，没有使用Gleason的证明（贝尔1966）。贝尔不知道的是，Specker已经得出了这个结果，Specker（1960）中提到了这一点，作为一个基本几何论证。[5]这个论证在Kochen和Specker（1967）中被提出。贝尔的证明和Kochen-Specker的证明在三维希尔伯特空间中使用了类似的构造，尽管它们在细节上有所不同。Kochen和Specker进一步明确地构造了一组有限的投影，不能满足当A和B可交换时加性要求（3）。虽然贝尔没有这样做，但可以很容易地从贝尔的构造中得到一组有限的观测量，不能满足对于可交换的观测量的加性约束（参见Mermin 1993）。
+
+在提出了他对格里森定理的 HV 理论的变体的论证之后，贝尔继续批评它。他的策略与对冯·诺伊曼的批评相似。贝尔指出，他自己的格里森类型的论证反对两个相反值点的任意接近的论证，预设了非平凡的非对易可观测量值之间的关系，这些关系只有在非语境性（NC）的假设下才能得到证明。他提出了一个分析，即他自己的论证“默认地假设测量可观测量必须独立于同时进行的其他测量而产生相同的值”（1966 年：9）。与冯·诺伊曼相反，格里森类型的论证仅针对兼容可观测量的值分配集合推导出限制，但同一个可观测量可以是不同的对易集合的成员，而论证的关键在于可观测量在两个集合中被分配相同的值，即值分配对上下文不敏感。
+
+## 3. KS 定理的陈述和证明
+
+### 3.1 KS 定理的陈述
+
+KS 定理的明确陈述如下：
+
+> 设 H 为 QM 状态向量的 Hilbert 空间，其维度 x ≥ 3。存在一个包含 y 个元素的可观测量集合 M，满足以下两个假设相矛盾：
+>
+> (KS1) M 中的所有 y 个成员同时具有值，即可以明确地映射到实数上（对于可观测量 A，B，C，…，分别由 v(A)，v(B)，v(C)，…表示）。
+>
+> (KS2) M 中所有可观测量的值符合以下约束条件：
+>
+>> (a) 如果 A、B、C 都是兼容的，并且 C = A+B，则 v(C) = v(A)+v(B)；
+>>
+>> (b) 如果 A、B、C 都是兼容的，并且 C = A·B，则 v(C) = v(A)·v(B)。
+>>
+
+定理的假设KS1显然等同于VD。假设KS2（a）和（b）在文献中分别称为和规则和积规则。（读者应再次注意，与冯·诺依曼的隐含前提相反，这些规则非平凡地仅与兼容观测量的值相关。）这两个规则都是更深层次原理的结果，该原理被称为功能组合原理（FUNC），而FUNC又是（其他假设之一）NC的结果。NC、FUNC、和规则以及积规则之间的联系将在第4节中明确阐述。
+
+KS 定理声称存在一个具有某种属性的集合 M（即满足 KS1 和 KS2 相矛盾的集合）[6]，并且证明通过明确地提供这样一个集合，对于不同的 x 和 y 的选择。在最初的 KS 证明中，x=3，y=117。最近，Peres（1991 年，1995 年）证明了涉及较少可观测量的情况，其中 x=3，y=33；Kernaghan（1994 年）证明了 x=4，y=20；Cabello 等人（1996 年）证明了 x=4，y=18。KS 证明非常复杂，我们只会在第 3.4 节中简要概述。Peres 的证明以极其简洁的方式完整地证明了 KS 结果，并且以直观易懂的方式进行，因为它在三维空间中操作；我们将读者引用到 Peres（1995 年：197-99）。Kernaghan 和 Cabello 等人的证明分别在四维空间中建立了矛盾。当然，这些结果比 KS 定理要弱（因为在 3 维空间中的每个矛盾也是在更高维度中的矛盾，但反之不成立）。然而，这些其他证明非常简单且有教育意义。此外，可以证明（Pavičić等人，2005 年），y=18 是 KS 定理成立的最低数字，因此我们首先在第 3.2 节中介绍 Cabello 及其同事的证明。最后，在第 3.5 节中，我们解释了 Clifton（1993 年）的一个论证，其中 x=3，y=8，并且附加的统计假设产生了一个简单且有教育意义的 KS 论证。
+
+### 3.2 四维空间中的快速 KS 论证（Cabello 等人）
+
+特别简单的 KS 论证在四维希尔伯特空间 H4 中进行。我们将在下一节中证明以下内容：
+
+(1) 从 KS2 我们可以推导出对投影算符的值分配的约束，即对于与可观测量 Q 在 H4 上的四个不同本征值 q1、q2、q3、q4 相对应的投影算符 P1、P2、P3、P4 的每个集合，以下条件成立：
+
+> (VC1′) v(P1) + v(P2) + v(P3) + v(P4) = 1，其中 v(P**i) = 1 或 0，i = 1, 2, 3, 4。
+
+（(VC1′)是(VC1)的一个变体，我们将在下一节中明确证明。）这实际上意味着在 H4 中的每组四个正交射线中，只有一个被分配为数字 1，其他的为 0。
+
+(2) 尽管定理中提到的希尔伯特空间为了适用于量子力学必须是复数，但为了显示 KS1 和 KS2 的不一致性，只需考虑相同维度的实数希尔伯特空间即可。因此，我们考虑一个实数希尔伯特空间 R4，将 VC1'翻译为以下要求：在 R4 中的每组正交射线中，只有一个被指定为 1，其他的为 0。通常情况下，我们将所有这些转化为以下着色问题：在 R4 中的每组正交射线中，必须有一个被着为白色，其他的为黑色。然而，这是不可能的，正如下表所示（Cabello 等人，1996 年）：
+
+| 0,0,<br />0,1   | 0,0,<br />0,1   | 1,−1,<br />1,−1 | 1,−1,<br />1,−1 | 0,0,<br />1,0   | 1,−1,<br />−1,1 | 1,1,<br />−1,1 | 1,1,<br />−1,1 | 1,1,<br />1,−1 |
+| ------------- | ------------- | --------------- | --------------- | ------------- | --------------- | ------------- | ------------- | ------------- |
+| 0,0,<br />1,0   | 0,1,<br />0,0   | 1,−1,<br />−1,1 | 1,1,<br />1,1,    | 0,1,<br />0,0   | 1,1,<br />1,1     | 1,1,<br />1,−1 | −1,1,<br />1,1 | −1,1,<br />1,1 |
+| 1,1,<br />0,0   | 1,0,<br />1,0   | 1,1,<br />0,0     | 1,0,<br />−1,0   | 1,0,<br />0,1   | 1,0,<br />0,−1   | 1,−1,<br />0,0 | 1,0,<br />1,0   | 1,0,<br />0,1   |
+| 1,−1,<br />0,0 | 1,0,<br />−1,0 | 0,0,<br />1,1     | 0,1,<br />0,−1   | 1,0,<br />0,−1 | 0,1,<br />−1,0   | 0,0,<br />1,1   | 0,1,<br />0,−1 | 0,1,<br />−1,0 |
+
+这个表格中有 4 x 9 = 36 个条目。这些条目来自一个包含 18 条射线的集合，每个射线出现两次。很容易验证表格中的每一列都代表了一组四个正交射线。由于有 9 列，我们必须得到一个奇数个表格条目被着为白色。然而，由于每个射线出现两次，每当我们将其中一个着为白色，我们就承诺要将偶数个条目着为白色。因此，表格中被着为白色的总数必须是偶数，而不是奇数。因此，根据 VC1'的要求，这 18 条射线的着色是不可能的。（值得注意的是，论证的第一部分——关于“奇数”的论证——仅使用了 VC1'，而第二部分——关于“偶数”的论证——基本上依赖于 NC，即假设不同列中相同射线的出现被指定为相同的数字！）
+
+### 3.3 原始的 KS 论证。技术准备。
+
+原始的 KS 证明在一个三维复 Hilbert 空间 H3 上操作。它需要两个条件：(1) 一组在 H3 中正交的射线三元组；(2) 一个约束条件，即对于每个正交三元组，一个射线被赋予数字 1，其他两个射线被赋予数字 0。可以通过以下方式实现这两个条件：
+
+我们考虑 H3 上的任意算符 Q，它具有三个不同的本征值 q1、q2、q3，以及它的本征矢量|q1>、|q2>、|q3>和投影算符 P1、P2、P3，它们分别投影在由这些矢量张成的射线上。现在，P1、P2、P3 本身也是可观测量（即，Pi 是一个“是-否可观测量”，对应于问题“系统对于 Q 是否具有值 qi？”）。此外，P1、P2、P3 是相互兼容的，因此我们可以应用求和规则和乘积规则，从而得到对值的分配的约束（证明）：
+
+> (VC1) v(P1) + v(P2) + v(P3) = 1，其中 v(P**i) = 1 或 0，
+> 对于 i = 1, 2, 3。
+
+任意选择一个可观测量 Q，定义了新的可观测量 P1、P2、P3，它们依次在 H3 中选择射线。因此，要求可观测量 P1、P2、P3 都有确定的值，就意味着要为 H3 中的射线分配数字，并且 VC1 特别指的是通过任意选择的 Q（简称：H3 中的一个正交三元组）来指定的正交射线中的一个射线被分配为 1，其他射线被分配为 0。现在，如果我们引入不同的不相容的可观测量 Q、Q′、Q″，...，这些可观测量会在 H3 中选择不同的正交三元组。KS 定理的假设（即 VD）告诉我们，每个三元组都有三个值，而 VC1 告诉我们，对于每个三元组，这些值必须恰好为 {1, 0, 0}。现在，KS 展示的是，在 H3 中的特定有限正交三元组集合上，无法为每个三元组分配数字 {1, 0, 0}（匹配共同射线）。进一步思考可以得出结论，虽然 H3 是复数域的，但实际上只需要考虑一个实三维 Hilbert 空间 R3。因为我们可以证明，如果在 H3 上根据 VC1 的要求进行数值分配是可能的，那么在 R3 上也是可能的。反过来说，如果在 R3 上无法进行数值分配，那么在 H3 上也是不可能的。因此，我们可以满足启动 KS 证明所需的条件，同时将问题简化为 R3 上的问题。现在，在 R3 中，任意正交三元组的等效物仍然是任意三个正交射线（简称：R3 中的正交三元组）。因此，如果 KS 想要证明，在 H3 中的特定集合中存在 n 个正交三元组（其中 n 是自然数），无法为每个三元组分配数字 {1, 0, 0}，他们只需要证明，在 R3 中的特定集合中存在 n 个正交三元组，无法为每个三元组分配数字 {1, 0, 0}。这正是他们所做的。
+
+应强调的是，目前R3和物理空间之间没有直接联系。KS希望证明，对于任意需要在至少三维希尔伯特空间中表示的量子力学系统，结合条件(KS2)（求和规则和乘积规则）进行值的归属是不可能的，为了做到这一点，只需考虑空间R3即可。然而，这个空间R3并不代表所讨论的量子系统的物理空间。特别是，在R3中的正交性不应与物理空间中的正交性混淆。如果我们转向一个坐落在物理空间中并且同时需要在H3中进行量子力学表示的量子力学系统的例子，例如一个单粒子自旋-1系统的自旋自由度，给定物理空间中的任意方向α和表示方向α的自旋分量的算符Sα，H3由Sα的本征矢量所张成，即|Sα=1>、|Sα=0>、|Sα=−1>，它们在H3中是相互正交的。这三个矢量对应于在一个空间方向上的三个可能测量结果的事实，说明了H3和物理空间中正交性的不同含义。（当然，原因在于量子力学的结构，它通过H3中的不同方向来表示可观测量的不同值。）
+
+KS 定理本身在抽象上的处理方式完全相同，但他们用一个例子来说明，确立了与物理空间的直接联系。看到这种联系很重要，但也要清楚这是由 KS 的例子产生的，并不是他们数学结果本身固有的。KS 建议考虑一个单粒子自旋-1 系统以及在物理空间 Sx2、Sy2、Sz2 上测量自旋正交方向的平方分量，这些分量是兼容的（而 Sx、Sy、Sz 本身则不是）。[7]测量自旋的平方分量只能确定其绝对值。在这里，他们推导出一个稍微不同的值分配约束，再次使用总和规则和乘积规则（证明）：
+
+> (VC2) v(Sx2) + v(Sy2) + v(Sz2) = 2，其中 v(Sα2) = 1 或 0，
+> 对于α = x、y、z。
+
+现在，由于Sx2，Sy2，Sz2是兼容的，所以存在一个可观测量O，使得Sx2，Sy2，Sz2都是O的函数。因此，任意选择一个这样的O就确定了Sx2，Sy2，Sz2，并且由于后者可以直接与H3中的相互正交的射线相关联，又确定了在H3中的一个正交三元组的选择。这里的问题是将数字{1, 1, 0}分配给由O的选择或更直接地说是由Sx2，Sy2，Sz2的选择所确定的H3中的正交三元组。这当然是我们之前问题的镜像，即将数字{1, 0, 0}分配给这样一个三元组，我们不需要单独考虑它。
+
+然而，选择一个特定的 O 来选择同时选择 Sx2，Sy2，Sz2 的可观测量，同时在物理空间中选择三个正交射线，即通过固定一个坐标系±x，±y，±z（它定义了沿着哪个正交射线测量平方自旋分量）在物理空间中。因此，现在，通过选择一个可观测量 O，空间中的方向与 H3 中的方向直接相连：H3 中的正交性现在确实对应于物理空间中的正交性。对于 R3 也是如此，如果我们考虑 R3 来为 H3 提供论证。R3 中的正交性现在对应于物理空间中的正交性。重要的是要注意，即使我们坚持纯数学事实应该由物理解释补充，这种对应关系也不是必要的——因为我们刚才看到了一个没有任何对应关系的例子。关键只是我们可以设计一个例子，使得存在一种对应关系。特别是，我们现在可以按照 R3 中的证明，并一直想象一个坐落在物理空间中的系统，即一个自旋-1 粒子，在测量三个与物理空间中的正交方向直接相关的物理量时返回三个值，即 v（Sx2），v（Sy2），v（Sz2），对于任意选择的 x，y，z。然后 KS 证明表明，（在给定其前提的情况下）不可能为自旋-1 粒子分配所有这些任意选择的值。也就是说，KS 论证表明（在给定前提的情况下），自旋-1 粒子不能同时具有它在不同测量安排中显示的所有属性。
+
+还需要提到 KS 论证中已经成为惯例的三个进一步特征：
+
+(1) 显然，我们可以通过给出其中一个点来明确指定 R3 中通过原点的任意射线。因此，KS 将射线与单位球 E 上的点对应起来。KS 不需要引用某个点的具体坐标，因为它们的论证是“无坐标的”。然而，为了说明问题，我们有时会提及具体的点，然后(a)使用笛卡尔坐标来检查正交关系，以及(b)通过不在 E 上的点来指定射线。（例如，三个点(0, 0, 1)，(4, 1, 0)，(1, –4, 0)用于指定一组正交射线。）这两种用法符合最近的文献（例如 Peres（1991）和 Clifton（1993））。
+
+(2) 我们将对值归属的约束（VC1）和（VC2）进行转化，以便约束点的着色。在（VC1）下，我们可以将点着为白色（表示“1”）和黑色（表示“0”），或者在（VC2）下，我们可以将点着为白色（表示“0”）和黑色（表示“1”）。无论哪种情况，约束都转化为相同的着色问题。
+
+(3) KS 通过所谓的 KS 图表来说明射线的正交关系。在这样的图表中，每个射线（或指定射线的点）由一个顶点表示。通过直线连接的顶点表示正交射线。然后，着色问题转化为将图表的顶点着为白色或黑色，使得连接的顶点不能同时为白色，并且三角形恰好有一个白色顶点。
+
+### 3.4 原始的 KS 论证。证明的概述。
+
+KS 分为两个步骤。
+
+(1) 在第一步（也是决定性的一步）中，他们证明两个具有相反颜色的光线不能任意接近。他们首先证明了图 1 中所示的Γ1 图可以构造出来，只有当 a0 和 a9 之间的角度θ满足 0 ≤ θ ≤ sin−1(1/3)时（证明）。
+
+> ![fig1](https://plato.stanford.edu/entries/kochen-specker/fig1.gif)
+> 图 1：具有不一致着色的十点 KS 图Γ1。
+
+现在考虑（用反证法）a0 和 a9 具有不同的颜色。我们任意将 a0 着为白色，a9 着为黑色。然后，着色约束迫使我们将图 1 中的其余部分着色，但这要求 a5 和 a6 都是正交的且都是白色——这是被禁止的。因此，距离小于 sin−1(1/3)的两个点不能有不同的颜色。反过来说，不同颜色的两个点不能距离小于 sin−1(1/3)。
+
+(2) KS 现在以以下方式构造另一个相当复杂的 KS 图Γ2。他们考虑一个角度θ=18° < sin−1(1/3)的Γ1 的实现。现在他们选择三个正交点 p0、q0、r0，并在它们之间空间交错地复制Γ1，使得一个Γ1 的每个 a9 实例与下一个复制的 a0 实例相对应。通过这种方式，在 p0 和 q0 之间间隔出五个交错的Γ1 副本，并且所有五个 a8 的实例都与 r0 相对应（同样，在 q0 和 r0 之间间隔出五个这样的交错副本，将所有 a8 的副本与 p0 相对应，在 p0 和 r0 之间间隔出五个这样的交错副本，将所有 a8 的副本与 q0 相对应）。这种Γ2 的构造直接由构造本身证明。将五个具有θ=18°角度的Γ1 副本间隔开将间隔出一个角度为 5x18° = 90°，这正是所需的。此外，在从一个Γ1 副本到下一个Γ1 副本之间漫游，例如在 p0 和 q0 之间，相当于将该副本绕过原点和 r0 的轴旋转 18°，显然保持了该副本的 a0 和 a9 点与 r0 之间的正交性。
+
+> ![fig2](https://plato.stanford.edu/entries/kochen-specker/fig2.gif)
+> 图 2：117 点 KS 图Γ2
+> （引自 Kochen 和 Specker 1967 年，69 页；经 Indiana University Mathematics Journal 许可）
+
+然而，尽管Γ2 是可构造的，但它不能一致地着色。从第一步我们知道，θ=18°的Γ1 的副本要求点 a0 和 a9 具有相同的颜色。现在，由于Γ1 的一个副本中的 a9 与下一个副本中的 a0 相同，第二个副本中的 a9 必须与第一个副本中的 a0 具有相同的颜色。实际上，通过重复这个论证，所有的 a0 实例必须具有相同的颜色。现在，p0、q0、r0 与点 a0 等同，所以它们必须是全白或全黑 - 这两种情况都与着色约束不一致，即它们中的一个是白色。
+
+如果从构建Γ2 的过程中使用的 15 个Γ1 的副本中减去彼此相同的那些点，我们最终得到 117 个不同的点。因此，KS 所展示的是，一组 117 个是-否可观察量不能按照 VC1（或等价地，VC2）一致地被赋予值。
+
+注意，在构建Γ1 的过程中，即由 22 个相互交织的三元组组成的 10 个点的集合中，除了 a9 之外的所有点都出现在多个三元组中。在Γ2 中，每个点都出现在多个三元组中。这里的非上下文性前提对于论证是至关重要的：我们假设一个任意的点在从一个正交三元组到下一个（即从一个最大的兼容可观察量集合到另一个）的过程中保持其值为 1 或 0。
+
+### 三维统计 KS 论证（Clifton）
+
+回想一下 KS 的第一步，它建立了两个颜色相反的点不能任意靠近的事实。正是这一步骤承载了整个论证的力量。贝尔以一种不同的方式建立了这一点，然后论证说，在一个非上下文的 HV 解释中，颜色相反的点必须任意靠近。正是这一步骤，克利夫顿在一个结合了贝尔和 KS 思想的论证中加以利用。
+
+> ![fig3](https://plato.stanford.edu/entries/kochen-specker/fig3.gif)
+> 图 3：具有不一致着色的 8 点 KS-克利夫顿图Γ3。
+
+考虑图 3 中显示的 KS 图Γ3，显然它是 KS 的Γ1 的一部分，但它具有满足正交关系的八个点的额外具体分配（从而直接证明了Γ3 是可构造的）。根据我们之前的着色约束（连接的点不能同时为白色，三角形只有一个白点），我们立即看到Γ3 只有在最外面的点不同时为白色时才能着色（这将要求，如图 3 所示，两个连接的点都是白色-与约束相反）。此外，我们很容易计算出最外面两个点之间的角度为 cos−1(1/3)。因此，我们得出结论，如果想要给所有八个点着色，并且想要将其中一个外部点着为白色，则另一个外部点必须为黑色。考虑到我们可以在 R3 中的任意两个相隔角度为 cos−1(1/3)的点之间插入一个图，并将我们的问题从着色问题转化回 KS 的示例（约束 VC2），我们最终得到一个约束 VC2'：
+
+> (VC2′) 如果对于一个自旋-1 系统，将空间中的某个自旋方向 x 赋值为 0，则任何与 x 相差一个角度 cos−1(1/3)的其他方向 x′必须被赋值为 1，或者用符号表示：如果 v(S**x)=0，则 v(S**x′)=1。
+
+到目前为止，论证已经使用了原始的 KS 条件 KS1 和 KS2。现在我们假设，除此之外，对值的分配的任何约束都会在测量统计中显示出来。特别是：
+
+> (3) 如果 prob[v(A)=a] = 1，并且 v(A)=a 意味着 v(B)=b，那么 prob[v(B)=b] = 1。
+
+尽管使用了统计学，但这种推理与冯·诺伊曼的论证存在重要差异。冯·诺伊曼曾主张，值之间的代数关系应转化为测量值的统计学，因此这些统计学对测量值的约束应具有值约束作为其确切的镜像——这种推理使我们从统计学约束中推导出值约束（对于任意的可观测量）。然而，在这里，我们独立于任何统计推理推导出一个值约束，然后得出结论，这个约束应转化为测量统计学。[9]
+
+现在，VC2'和统计条件（3）蕴含：如果 prob[v(S**x)=0]=1，则 prob[v(S**x′)=1]=1。然而，这与从 QM 推导出的一个状态的统计学相矛盾，其中 prob[v(S**x)=0]=1。实际上，v(S**x′=0)的概率为 1/17。因此，在长期测试中，1/17 的自旋-1 粒子将违反这个约束。
+
+如果我们接受克利夫顿的统计推理，我们就有一个完全有效的 KS 论证，证明了 QM 的 HV 解释与 QM 的预测之间的矛盾。克利夫顿还提出了一组稍微复杂一些的 13 个可观测量，以同样的方式，产生了 1/3 的统计矛盾。
+
+克利夫顿的论证使用了 8（或 13）个可观测量，固定其中一个（S**x）的值，并得出了与 QM 对第二个可观测量（S**x′）的预测不一致的 HV 预测。因此，如果可以产生一个 QM 系统明确具有值 v(S**x)=0 的状态，这些预测可以通过实证测试。但是，在实验上固定这样的状态并不容易。因此，克利夫顿的论证依赖于可能难以产生或隔离的状态。最近，发现了一个包含 13 个可观测量的构造，允许进行一个与状态无关的统计论证（Yu 和 Oh 2012）。
+
+## 4. 功能组合原理
+
+KS 定理的关键要素是（2）中列出的对值分配的约束：求和规则和乘积规则。它们可以从一个更一般的原理中推导出来，称为功能组合原理（FUNC）[11]。该原理基于数学事实，对于作用在希尔伯特空间上的自伴算符 A 和任意函数 f：R→R（其中 R 是实数集），我们可以定义 f(A)并证明它也是一个自伴算符（因此，我们写作 f(A)）。如果我们进一步假设每个自伴算符都对应一个 QM 可观测量，那么该原理可以这样表述：
+
+> FUNC：设 A 是与可观测量 A 相关联的自伴算符，f：R → R 是任意函数，使得 f(A)是另一个自伴算符，|φ>是任意态；则 f(A)唯一地与一个可观测量 f(A)相关联，满足以下条件：
+>
+>> *v*(*f*(*A*))|φ> = *f*(*v*(*A*))|φ>
+>>
+
+（我们在上面引入了态上标，以允许值可能依赖于系统所处的特定量子态。）和规则和乘法规则是 FUNC 的直接结果[证明]。FUNC 本身不能从量子力学的形式主义中推导出来，但它的统计版本（称为 STAT FUNC）可以[证明]。
+
+> STAT FUNC：给定 A、f、|φ>如 FUNC 中所定义，那么对于任意实数 b：
+>
+>> prob[*v*(*f*(*A*))|φ>=*b*] = prob[f *(v*(*A*))|φ>=*b*]
+>>
+
+但 STAT FUNC 不仅可以从 QM 形式主义中推导出来，它还可以从 FUNC 中推导出来[证明]。这可以被看作是为 FUNC 提供了“一个合理性论证”（Redhead 1987: 132）：STAT FUNC 是真实的，作为 QM 数学的一部分。现在，如果 FUNC 是真实的，我们可以推导出 STAT FUNC，并且理解 QM 数学的一部分作为 FUNC 的结果。[12]
+
+但是如果不是从 STAT FUNC 中推导出 FUNC 本身，我们如何得出 FUNC 本身呢？这是 STAT FUNC 和三个假设的直接结果（其中两个假设在介绍中已经熟悉）：
+
+> 值实在性（VR）：如果存在与自伴算子 A 相关联的操作定义的实数α，并且对于给定的状态，QM 对于 A 的统计算法产生一个实数β，其中β = prob(v(A)=α)，那么存在一个可观测量 A，其值为α。
+>
+> 值确定性（VD）：对于 QM 系统定义的所有可观测量，在任何时候都具有确定的值。
+>
+> 非语境性（NC）：如果一个量子力学系统具有某个属性（可观测量的值），那么它独立于任何测量语境而存在。
+
+虚拟现实（VR）和非语境性（NC）需要进一步解释。首先，我们需要解释 VR 的内容。量子力学的统计算法告诉我们如何从给定的状态、给定的可观测量及其可能的值计算概率。在这里，我们将其理解为一种纯粹的数学工具，没有任何物理解释：给定一个希尔伯特空间向量、一个算符和它的本征值，该算法告诉我们如何计算新的数字（具有概率的属性）。此外，通过“操作定义”，我们在这里简单地指的是“由我们知道表示实际属性的数字构成”。因此，虚拟现实实际上是说，如果我们有一个实际属性Γ（可观测量 G 的值Γ），并且我们能够从Γ构造一个新的数字α，并找到一个算符 A，使得α是 A 的本征值，那么（我们已经满足了应用统计算法所需的一切条件；因此）A 表示一个可观测量 A，其值α是一个实际属性。
+
+其次，对于 NC 的失败可以有两种理解方式。一种是可观测量的值可能依赖于上下文，尽管可观测量本身不依赖于上下文；另一种是可观测量的值可能依赖于上下文，因为可观测量本身依赖于上下文。无论哪种情况，可观测量的上下文独立性意味着可观测量和算符之间存在对应关系。我们将在 FUNC 的推导中使用 NC 的这种含义。我们确实假设，如果 NC 成立，这意味着可观测量（以及其值）与测量上下文无关，即与测量方式无关。特别是，可观测量的上下文独立性意味着可观测量和算符之间存在一对一的对应关系。我们将在 FUNC 的推导中使用 NC 的这种含义。相反，NC 的失败将仅被解释为一对一对应关系的失败。
+
+通过 VR、VD、NC 和 STAT FUNC，我们可以推导出 FUNC 如下。考虑系统的任意状态和任意可观测量 Q。根据 VD，Q 具有一个值 v(Q)=a。因此，我们可以构造一个数值 f(v(Q))=b，其中 f 是任意函数。根据 STAT FUNC，对于这个数值，prob[f(v(Q))=b] = prob[v(f(Q))=b]。因此，通过根据 STAT FUNC 转换概率，我们创建了一个新的自伴算符 f(Q)，并将其与两个实数 b 和 prob[f(v(Q))=b]相关联。因此，根据 VR，存在一个与 f(Q)对应的可观测量，其值为 b，因此 f(v(Q))=v(f(Q))。根据 NC，该可观测量是唯一的，因此 FUNC 成立。
+
+## 5. 逃离 KS 论证
+
+前一节阐明了 HV 理论家逃避 KS 论证的可能性：否认三个前提之一，这三个前提共同导致 FUNC（因此是总和规则和乘积规则）。
+
+### 5.1 没有普遍的值确定性
+
+我们回顾一下，VD 是一个完整的 HV 解释的基本前提。因此，如果为了逃避一个针对 HV 解释可能性的有力论证，这些解释放弃了它们的基本前提，似乎没有太多意义。但是一些解释者指出，在只认为 QM 规定具有值的可观测量和认为所有可观测量都具有值之间，有一些余地，即提出一个可观测量的集合，不同于 QM 中规定的集合（但通常不超过这些集合，当然也不是全部），具有值。这个选项被称为“部分值确定性”。一种方法是选择一组可观测量，可以在不违反 KS 定理的情况下分配确定的值。最著名的例子是德布罗意-玻姆波动力学理论，其中位置和位置函数始终具有确定的值。另一种方法是让确定的可观测量集合随状态变化；这是各种模态解释采取的方法。这种方法的一个变体是 Bub（1997）的方法，其中选择某个可观测量 R 始终具有确定性；然后将确定的可观测量集合扩展到避免 KS 障碍的最大集合。
+
+模态解释的困难超出了本文的范围（请参阅有关模态解释的条目）。我们只是注意到，这些解释如何能够始终选择出被假定具有值的正确的可观测量集合，这一点绝非清楚。在这里，“正确的集合”至少意味着我们感知到具有值的可观测量（即与测量装置的指针位置相对应的可观测量）必须始终被包括，并且必须始终重现量子力学的统计结果。我们还提到了两个重要的结果，这些结果对模态解释的可行性产生了怀疑：首先，可以证明，部分值确定性要么坍缩为完全值确定性（即 VD），要么必须放弃关于物理性质的经典推理（Clifton 1995）。其次，即使在某些模态解释中，也可以推导出 KS 定理（Bacciagaluppi 1995，Clifton 1996）。
+
+最近有人争论认为否定 VD 与量子力学本身不一致（Held 2008，2012a，2012b）。这个论证试图表明 VD 是理论本身的结果（QM → VD）。如果确实如此，我们就有了一个论证，即 QM 单独意味着语境性。因为在这种情况下，QM 也意味着 VD，所以总的来说，我们得到了一个论证，即 QM 必须以语境性隐藏变量的术语进行解释。
+
+### 5.2 否定值实在主义
+
+FUNC 的推导实质上在于通过一个算符（即 f(Q)）从一个变量的概率分布（即 f(v(Q))）构造一个可观测量（即 f(Q)）。而这个变量的数量又是由另一个变量（即 v(Q)）构造而成的。现在，我们可以拒绝否认在所有情况下 v(Q)的存在（正如第一个选项（5.1）所述），而是拒绝认为存在一个数α和构造 f(Q)会自动导致一个可观测量，即我们拒绝 VR。这意味着拒绝对于每个自伴算符，都存在一个明确定义的可观测量。
+
+现在，为了阐述 VR，我们不得不对统计算法进行简化解读，即它只是一个从向量、算符和数值计算数值的纯数学工具。这种解读非常人为，并假设为了使某些算符（如 Q）在物理上有意义，需要保留一种最小的解释装置，而对于其他算符（如 f(Q)）则不需要。
+
+此外，假设与明确定义的可观测量相关的运算符（包括运算符的和与积）本身与明确定义的可观测量无关，似乎完全不可信。即使这些运算符在数学上从它们的加数或乘数中继承了确切的值，也不能与明确定义的可观测量相关。用一个简单的例子来说，这意味着询问一个系统的能量是一个明确定义的问题，而询问系统能量的平方则不是，即使我们从第一个问题的答案和平凡的数学运算中得到了一个明确定义的答案。似乎没有一个好的先验理由来证明这种限制的合理性。因此，为了使拒绝 VR 变得合理，提出了一个额外的建议：KS 论证的关键在于从不兼容的不同的极大算符构造出一个相同的算符：f(Q)与 g(P)相同，其中 PQ - QP ≠ 0。我们现在假设只有通过 Q 构造 f(Q)而不是通过 P 构造 f(Q)会在某个特定的背景下导致一个明确定义的可观测量。[14]
+
+然而，这种做法自动使一些可观测量具有背景依赖性。因此，这种否认 VR 的方式等同于一种背景依赖主义，我们可以更便宜地通过直接否认 NC 来达到这一点，而不需要对统计算法进行任何篡改。（这一事实解释了为什么我们在介绍中没有提到否认 VR 作为一个单独的选项。）
+
+### 5.3 背景依赖性
+
+最后，我们可能接受 VD 和 VR，但否认我们对可观测量 f(Q)的构建是明确的。因此，尽管 f(Q)和 g(P)在数学上是相同的，我们可以假设它们对应于不同的可观测量，并认为通过测量 Q 来确定 v(f(Q))的实际过程必须进行，但确定 v(g(P))涉及测量与 Q 不兼容的 P。由于 v(f(Q))和 v(g(P))是不同测量情境的结果，没有理由假设 v(f(Q)) = v(g(P))。这种阻止 KS 证明的方法是将 f(Q)和 g(P)视为不同的可观测量（因为对上下文的敏感性），因此它等同于拒绝 NC。在文献中，主要有两种方法进一步推动这一步骤。因此，有两种重要的上下文性品牌需要讨论-因果和本体论上下文性。
+
+KS 论证已经针对 QM 系统的具有值的情况进行了介绍-独立于对测量的考虑。实际上，在论证中只提到了一次测量，并且是在 NC 中否定的。然而，由于我们现在考虑到了 NC 的拒绝，我们还必须考虑测量及其复杂性。为此，最好明确另一个表现我们无害实在论的原则（见上文介绍），即忠实测量原则：
+
+> 忠实测量（FM）：QM 对可观测量的测量忠实地传递了该可观测量在测量交互之前立即具有的值。
+
+FM 在一般情况下也是自然科学中一个非常合理的前提假设。（注意，FM 蕴含 VD，因此我们可以使用 FM 提供 KS 论证来解释可能的测量结果）。现在考虑 HV 支持者拒绝 NC 的动机。显然，目的是为了保留其他前提假设，尤其是 VD。现在，VD 和 NC 是独立的现实主义信念，但 NC 和 FM 并不完全独立。实际上，我们将看到拒绝 NC 意味着在一种情境性的版本中拒绝 FM，并在另一种情境性中强烈暗示了它。（这更明确了引言中那句有些神秘的话，即支持现实主义原则 VD 但拒绝现实主义原则 NC 的解释应该是什么样子。这样的解释将违反第三个现实主义原则，即 FM。）
+
+#### 因果情境性
+
+一个属性（可观测量的值）可能在因果上下文中依赖于上下文，即它在测量方式上具有因果敏感性。基本思想是观测值是系统-仪器相互作用的结果。因此，通过与 P 测量仪器的相互作用来测量系统可能会得到一个值 v(g(P))，通过与 Q 测量仪器的相互作用来测量同一系统可能会得到一个不同的值 v(f(Q))，尽管这两个可观测量由相同的算符 f(Q) = g(P)表示。值的差异可以通过可观测量的上下文依赖性来解释：后者是上下文依赖的，因为不同的物理实现方式在因果上影响系统的方式不同，从而改变了观测到的值。
+
+如果一个解释者想要捍卫因果背景性，这将意味着至少对于类型为 f(Q)（非极大观测量）的可观测量而言，需要放弃 FM（因果背景性的标准）。由于它们的值在因果上依赖于某些测量安排的存在，这些安排在因果上对于值的产生是必要的，因此在系统-仪器相互作用之前，这些值不能存在，从而违反了 FM。作为因果背景性的一个优点，可以指出以下几点。它并不意味着所涉及的物理性质的本体论地位必须改变，即并不意味着它们变成了关系性的。如果一个物体中的属性是通过与另一个物体的相互作用而产生的，那么在相互作用之后，它仍然可以是物体自身具有的属性。然而，因果背景性的想法有时会受到批评，因为有理由认为它可能在经验上是不充分的（参见 Shimony 1984，Stairs 1992）。
+
+#### 本体论背景性
+
+一个属性（可观测量的值）可能在本体论上依赖于背景，即为了使其具有明确定义，需要指定它“来自”的可观测量。因此，为了从算符 f(Q) = g(P)构造一个明确定义的可观测量，我们需要知道它是通过可观测量 P 还是可观测量 Q 在物理上实现的。这种解决 KS 问题的方法首先被 van Fraassen（1973）注意到（但并未提倡）。因此，对于算符 f(Q)，存在与极大算符构造 f(Q)的方式一样多的可观测量和物理性质的种类。然而，如果没有进一步的解释，这个想法只是导致了物理量的人为增多。本体论背景性的捍卫者肯定应该给我们一个更明确的关于可观测量 f(Q)依赖于可观测量 Q 的故事。有两种可能性可以想到：
+
+(a) 我们可能认为v(f(Q))并不是一个自持的物理属性，而是一个本体上依赖于另一个属性v(Q)的属性。（回想一下，在FUNC的证明中，v(f(Q))是从v(Q)构建出来的。）但是，由于这个立场并不认为在P测量情况下关于f(Q)值的问题是不合法的（因为它并不依赖于一个只在一个上下文中定义明确的可观测量的概念！），这似乎至少引出了新的紧迫问题。作为捍卫语境主义隐藏变量解释的一种尝试，这个立场必须承认系统在Q测量情况下不仅有一个值v(Q)，而且在P测量情况下也有一个值v′(Q)，尽管v′(Q)可能不等于v(Q)。现在，至少在这种情况下，关于f(Q)值的问题是合法的。v′(Q)是否意味着另一个v′(f(Q)) ≠ v(f(Q))？或者v′(Q)是否与v(Q)相反，根本不导致f(Q)的值？这两种选择似乎都不合理，因为我们难道不能通过在某个准备好的系统中在P测量情况和Q测量情况之间切换来切换v(f(Q))的存在与否，或者在v(f(Q))和v′(f(Q))之间切换吗？ (b) 我们可能认为，为了使f(Q)具有明确定义，需要某种测量安排而不是另一种。这个想法强烈地让人想起玻尔对EPR的1935年论证，并且实际上可以看作是将玻尔对量子力学的观点扩展到现代HV讨论的适当延伸（参见Held 1998年第7章）。在这种本体论语境主义的版本中，属性v(f(Q))不是依赖于另一个属性v(Q)的存在，而是依赖于Q测量装置的存在。这相当于一种整体主义立场：对于某些属性，只有当该系统是某个系统-装置整体的一部分时，才有意义地谈论它们与系统的关系。 在 P 测量情况下，关于 f(Q)的值的问题变得不合法，因为 f(Q)的定义与 Q 测量情况相关。但是，需要进一步澄清。这个立场是否认为，在 P 测量情况下，与 f(Q)相反，Q 本身是明确定义的？如果不是，Q 几乎不可能有一个值（因为不明确定义是拒绝给 f(Q)一个值的原因），这意味着我们不再考虑给定类型的 HV 解释，也不需要阻止 KS 论证。如果是的话，在 P 测量情况下，Q 仍然明确定义，但 f(Q)失去了这种状态，这是什么解释呢？
+
+在本体论语境主义的两个版本中，FM 的命运如何？如果我们对这个立场如何变得合理持保留态度，我们可以保留 FM，而如果我们选择版本（a）或（b）使其合理，我们将失去它。首先考虑对 NC 的保留态度。FM 表示每个 QM 可观测量都可以被忠实地测量。现在，语境主义将一个可以由两个不对易的算符构造的算符分割成两个可观测量，并且本体论语境主义不试图给出一个会破坏 FM 中所体现的测量值与测量相互作用之间的因果独立性的因果故事。我们只是引入了一个更精细的可观测量概念，但仍然可以对这些新的语境可观测量施加 FM。
+
+然而，本体论语境主义的具体版本试图通过激发语境特征来破坏 FM。版本（a）允许将 f(Q)在 P-和 Q 测量情境之间切换，这是对 FM 的 flagrant 违反。版本（b）也不好。它引入了对测量安排的本体论依赖。很难看出这还能是什么，除了将相同的因果依赖推向更高的“本体论”键。同样，我们难道不能通过来回翻转测量安排，来回改变 f(Q)是否被定义良好，从而使 v(f(Q))在存在和不存在之间翻转吗？
+
+最后，我们注意到，与因果版本相反，两种类型的本体论语境主义都意味着我们之前认为是内在的系统属性变成了关系性的，即只有当系统具有某些属性或与某种测量安排相关时，系统才能具有这些属性。
+
+## 6. 实证测试的问题
+
+众所周知，量子力学规定的贝尔不等式的违反已经在实验中得到确认。KS 定理是否也可能有类似的情况呢？我们应该区分三个问题：（1）是否可能将 KS 提出的实验作为他们定理的动机来实现？（2）是否可能测试导致该定理的原则：总和规则和乘积规则，FUNC 或 NC？（3）是否可能测试定理本身？
+
+（1）KS 本人描述了一种具体的实验安排，以测量一个粒子自旋-1 系统上的 S**x2，S**y2，S**z2 作为一个最大可观测量的函数。一个处于最低三重态的正氦原子被放置在具有菱形对称性的小电场 E 中。然后，所讨论的三个可观测量可以作为一个单一可观测量的函数来测量，即扰动哈密顿量 Hs。由于 E 的几何形状，Hs 有三个不同的可能值，测量这些值可以揭示 S**x2，S**y2，S**z2 中哪两个值为 1，哪一个值为 0（参见 Kochen 和 Specker 1967：72/311）。当然，这是一个提议，旨在实现我们上述的值约束（VC2）的实验。我们是否也能实现一个（VC1）实验，即测量一组共轭投影算符，投影到一个最大可观测量的本征态上？Peres（1995：200）肯定地回答了这个问题，并讨论了这样一个实验，并参考 Swift 和 Wright（1980）了解技术可行性的详细信息。然而，Kochen 和 Specker 的实验提议并没有进一步追求，因为它不能直接测试 NC。显然，对 HS 的测量只能测量一个正交三重态。HV 的支持者可能会假设隐藏状态在对 HS 的每次测量之间发生变化（即使我们再次准备相同的量子力学态），从而保持 NC。
+
+(2) 与FUNC的表现相结合，即总和规则和乘积规则，量子力学产生了像VC1或VC2这样与VD相矛盾的约束。因此，仅提供能够根据总和规则和乘积规则实例化VC1或VC2的具体物理例子是不够的。我们必须问这些规则本身是否可以得到实证支持。在80年代初，对这个问题进行了相当多的讨论，明确讨论了总和规则是否可以进行实证测试，普遍认为不能。[15]
+
+原因如下。回想一下，FUNC的推导仅在最后一步（通过NC）中确立了新可观测量f(Q)的唯一性。正是这种唯一性保证了一个算符恰好代表一个可观测量，从而可以将不同上下文中的可观测量（及其值）等同起来。这使得可以建立不同不相容可观测量之间的间接联系。如果没有这最后一步，FUNC必须被视为相对于不同上下文成立，连接就会断裂，FUNC仅限于一组相互兼容的可观测量。然后，FUNC、求和规则和乘积规则变得平凡，这些情况下的经验测试将成为无意义的问题。[16]正是NC承担了所有的工作，并值得通过检查来测试，即对于不相容的P、Q，使得f(Q)=g(P)，是否成立v(f(Q))=v(g(P))。然而，尽管QM和非上下文HV理论在单个系统上相互矛盾，但这种矛盾涉及不相容的可观测量，因此是不可测试的（正如我们刚才从科亨和施佩克尔的提议中看到的）。然而，物理学家们已经提出了巧妙的解决这个障碍的建议。众所周知，考虑两粒子系统和自旋分量的乘积会导致非常简单的KS类型证明（Mermin 1990b）。Cabello和Garcìa-Alcaine（1998）已经证明，对于这样的系统，QM和非上下文HV理论对每个单独的情况都做出了不同的预测。他们的推理没有涉及到局部性考虑，但由于需要两个粒子，这些考虑可能会渗入其中。Simon等人（2000）将Cabello/Garcìa-Alcaine方案映射到了单个粒子的位置和自旋可观测量的组合上。他们的实验已经进行并验证了QM的预测（Huang等人2003；还可以参考最近的Huang等人2013）。 所有提到的作者都认为他们的实验提案是对非定域性的经验反驳，但这一观点受到了质疑（Barrett和Kent，2004年），原因将在下一段中讨论。
+
+(3) KS定理由于其数学性质而无法进行经验测试。然而，我们可以沿着前面的段落的思路，尝试测量适当的KS不可染色集合的子集。特别是，应该可以产生类似于克利夫顿的例子（3.5）的情况，其中量子力学和非上下文HV理论对测量结果做出可测量的不同预测。似乎这样的情况可以提供实证测试，以确定自然界是否具有上下文性（尽管不能确定这种上下文性是因果性还是本体论性）。（有关这种方法的最新版本，请参见唐和于2017年。）从20世纪80年代开始，有人认为这样的测试是不可能的。据称，KS定理为与QM相悖的HV理论留下了足够的漏洞，但能够重现该理论的实证预测。Pitowsky（1983年，1985年）认为可以将注意力限制在R3中可染色的一部分方向上。然而，他的论证依赖于一种被认为在物理上不可行的非标准概率论版本。Meyer（1999年）利用了这样一个数学事实：在R3中，一个逼近KS集合的方向集DM，其有理坐标，是KS可染色的。Meyer认为真实测量具有有限精度，因此永远无法区分R3中的一个方向和其来自DM的逼近。Kent（1999年）将该结果推广到了所有希尔伯特空间，Clifton和Kent（2000年）则表明，也存在一组方向DCK，其中每个方向只是一个正交三元组的成员，可以任意接近任何方向。在DCK中不存在交错的三元组，上下文性的问题也不会出现，DCK显然是KS可染色的。此外，Clifton和Kent还明确表明，DCK足够大，可以允许概率分布接近所有QM分布的值分配。 Meyer, Kent 和 Clifton（MKC）可以这样理解，即即使对 KS-不可着色方向进行经验测试并确认了量子力学的预测，也不能证明自然的上下文性。由于测试的有限精度，无法反驳这样的观点：我们无意中测试了 KS-可着色集合的相邻成员。对这种类型的论证的一个非常明显的反对意见是，原始的 KS 论证适用于已有值，而不是测量值，因此 MKC 论证，涉及测量的有限精度，没有击中要害。我们可能无法测试在不同测试中完全正交或完全相同的可观测量，但是声称这样的组件不存在的 HV 解释将是奇怪的（请参见 Cabello 1999 中的其他互联网资源）。当然，这样的非上下文 HV 提议将对 KS 论证免疫，但它将被迫假设在物理空间的每个连续的方向上都没有可观测量，否则假设物理空间中没有连续的方向。这两种假设都不太有吸引力。
+
+此外，MKC 论证即使对于测量值也是令人不满意的，因为它仅在上述意义之一中利用了真实测量的有限精度，但在另一方面假设了无限精度。对于测量的可观测量，MKC 假设在选择不同正交三元组时存在有限精度，因此通常情况下，我们不能完全相同地两次拥有相同的可观测量，作为两个不同的三元组的成员。然而，MKC 仍然假设无限精度，即在三元组内具有精确的正交性（否则，着色约束将无法应用）。据称，这个特点可以被利用来反驳这个论证并重新引入上下文主义（请参见 Mermin 1999 和 Appleby 2000，均在其他互联网资源中，以及 Appleby 2005）。
+
+最后，我们可以合理地假设概率在我们改变R3中的方向时连续变化，因此在长期内，选择观测量的小瑕疵（但仅限于测量值！）将被冲刷掉（参见Mermin 1999，其他互联网资源）。这本身并不构成一个论证，因为在MKC的构造中，可染色的观测集合中的概率也是连续变化的（在某种意义上）。[17]然而，我们可以利用Mermin的推理方式。重新考虑Clifton的八个方向集合（在图3中），这导致了对外部点的着色约束，该约束在统计上与QM统计相矛盾，差值为1/17。使用Clifton和Kent的可染色方向集DCK，我们无法推导出这八个点的约束，因为这八个点不在DCK中；也就是说，当我们在可染色子集中从一个相互正交的三重射线移动到下一个时，我们永远不会再次遇到完全相同的射线，而只会接近任意接近它的射线。假设S是一个系统的集合，其中的观测量对应于DCK的成员，并且任意接近图3中的八个方向，都具有与HV前提相一致的值。然后，我们可以以以下方式推导出Clifton对外部点的约束。考虑子集S' ⊂ S，其中任何接近点（1, 1, 1）的方向都获得值1（或颜色白色）。为了符合QM的预测，在S'中，所有接近（1, 0, -1）和（1, -1, 0）的方向必须获得值，使得值0（或颜色黑色）的概率非常接近1。类似地，在另一个子集S" ⊂ S中，具有接近（-1, 1, 1）的方向获得值1（颜色白色），所有接近（1, 0, 1）和（1, 1, 0）的方向必须获得值，使得值0（颜色黑色）的概率非常接近1。 考虑现在S'∩S"的成员。对于任何一个成员，在任何接近(1, 0, -1)且值为0（黑色）的近似情况下，都会有一个完全正交的点近似于(1, 0, 1)且值为0（黑色），同时存在一个近似于(0, 1, 0)且值为1（白色）的第三个正交点。对于(0, 0, 1)也是如此。但是(0, 1, 0)和(0, 0, 1)是正交的，对于S'∩S"的所有成员，近似它们的方向都具有值为1（白色），而量子力学预测近似方向值为1的概率为0。为了确保这个预测成立，S'∩S"必须是S的一个非常小的子集，也就是说，(1, 1, 1)和(-1, 1, 1)（图3中最左边和最右边的点）的概率必须接近0，并且随着S的增长而越来越接近0。相反，量子力学预测的概率是1/17。（还要记住，通过选择一组13个方向，这个数字可以提高到1/3！）)
+
+Cabello（2002）使用非常类似的推理方法，表明MKC模型的预测与QM的预测有可测试的差异。对于DCK，他有效地使用了上述概述的策略：QM给出了Clifton-Kent集合中方向的概率，他们的模型必须与之匹配以重现QM的预测。由于这些方向与KS-uncolourable集合中的方向（或导致Clifton的约束的方向）非常接近，这导致了对这些附近点的限制，这些限制被QM的预测明显违反。对于Meyer的DM，Cabello的案例更加强有力。他明确提出了一组九个有理向量，导致与QM不同的预测（其中三个方向）。因此，Meyer的论证被有效地驳斥了（无需借助Mermin的要求）：即使只有与R3中的有理方向相对应的可观测量（这本身是一个不合理的假设），一个假设它们都具有由测量准确揭示的非上下文值的理论将与QM明显不同。现在假设Cabello的方向经过测试，并且QM的预测可靠地得到确认，那么这将（在测试的可靠性的前提下）构成自然界是上下文性的证明。
+
+因此，总结起来，只要我们假设存在连续多个量子力学可观测量（对应于物理空间中的连续方向），建立在Clifton 1993或Cabello/Garcìa-Alcaine 1998提议基础上的统计测试仍然完全有效，作为量子力学和通过KS定理的上下文性的经验确认。由于这些统计违反了HV计划，导致了量子力学、VD、VR和NC结果的矛盾，以及量子力学和实验结果的矛盾，实验数据仍然迫使我们面临放弃VD、VR或NC的三难选择。正如我们所见，最终否认价值实在论实际上等同于一种上下文主义，因此我们实际上只有两个选择：（1）放弃VD，要么对于在正统解释中被禁止具有值的所有可观测量（从而放弃HV计划，如上所定义），要么对于这些可观测量的一个子集（如模态解释所做的）。 （2）支持一种上下文主义。此外，就目前的情况而言，这两个选择之间的选择似乎不是经验测试的问题，而是纯粹的哲学论证问题。
+## Bibliography
+
+* Appleby, D.M., 2005, “The Kochen-Specker Theorem”, *Studies in History and Philosophy of Modern Physics*, 36: 1–28.
+* Bacciagaluppi, G., 1995, “Kochen-Specker Theorem in the Modal Interpretation”, *International Journal of Theoretical Physics*, 34: 1205–15.
+* Barrett, J. and Kent, A., 2004, “Non-Contextuality, Finite Precision Measurement and the Kochen-Specker Theorem”, *Studies in History and Philosophy of Modern Physics*, 35: 151–76. [[Preprint available online](http://arxiv.org/abs/quant-ph/0309017).]
+* Bell, J. S., 1966, “On the Problem of Hidden Variables in Quantum Mechanics”, *Reviews of Modern Physics*, 38: 447–52; reprinted in his (1987) (page references are to the reprint).
+* –––, 1987, *Speakable and Unspeakable in Quantum Mechanics*, Cambridge: Cambridge University Press
+* Bohr, N., 1935, “Can Quantum Mechanical Description of Physical Reality be Considered Complete?” *Physical Review*, 48: 696–702; reprinted in J. Kalckar (ed.), *Niels Bohr. Collected Works* (Vol. 7), Amsterdam: Elsevier, 1996, 292–98.
+* Bub, J., 1997. *Interpreting the Quantum World.* Cambridge University Press.
+* Cabello, A., 2002, “Finite-Precision Measurement does not Nullify the Kochen-Specker Theorem”, *Physical Review*, A 65: 05201. [[Preprint available online.](http://arxiv.org/abs/quant-ph/0104024)]
+* Cabello, A., Estebaranz, J. and Garcìa-Alcaine, G., 1996, “Bell-Kochen-Specker Theorem: A Proof with 18 vectors”, *Physics Letters*, A 212: 183–87. [[Preprint available online.](http://arxiv.org/abs/quant-ph/9706009)]
+* Cabello, A. and Garcìa-Alcaine, G., 1998, “Proposed Experimental Test of the Bell-Kochen-Specker Theorem”, *Physical Review Letters*, 80: 1797–99. [[Preprint available online.](http://arxiv.org/abs/quant-ph/9709047)]
+* Clifton, R. K., 1993, “Getting Contextual and Nonlocal Elements-of-Reality the Easy Way”, *American Journal of Physics*, 61: 443–47.
+* –––, 1995, “Why Modal Interpretations of Quantum Mechanics Must Abandon Classical Reasoning About Physical Properties”, *International Journal of Theoretical Physics*, 34, 1303–1312.
+* –––, 1996, “The Properties of Modal Interpretations of Quantum Mechanics,” *British Journal for Philosophy of Science*, 47: 371–98.
+* Clifton, R. K. and Kent, A., 2000, “Simulating Quantum Mechanics by Non-Contextual Hidden Variables”, *Proceedings of the Royal Society of London A*, 456: 2101–14. [[Preprint available online.](http://arxiv.org/abs/quant-ph/9908031)]
+* Cooke, R.M., Keane, M., and Moran, W., 1985, “An Elementary Proof of Gleason’s Theorem”, *Mathematical Proceedings of the Cambridge Philosophical Society*, 98: 117–28; reprinted in Hughes 1989, 321–46.
+* Fine, A., 1973, “Probability and the Interpretation of Quantum Mechanics”, *British Journal for the Philosophy of Science*, 24: 1–37.
+* –––, 1974, “On the Completeness of Quantum Mechanics”, *Synthese*, 29: 257–89; reprinted in P. Suppes (ed.), *Logic and Probability in Quantum Mechanics*, Dordrecht: Reidel, 1976, 249–81.
+* Fine, A. and Teller, P., 1978, “Algebraic Constraints on Hidden Variables”, *Foundations of Physics*, 8: 629–36.
+* Gleason, A.M., 1957, “Measures on the Closed Subspaces of a Hilbert Space”, *Journal of Mathematics and Mechanics*, 6: 885–93; reprinted in Hooker 1975, 123–34.
+* Held, C., 1998, *Die Bohr-Einstein-Debatte. Quantenmechanik und physikalische Wirklichkeit*, Paderborn: Schöningh.
+* –––, 2008, “Axiomatic Quantum Mechanics and Completeness”, *Foundations of Physics*, 38: 707–732. [[Available online.](https://link.springer.com/article/10.1007/s10701-008-9230-4)]
+* –––, 2012a, “The Quantum Completeness Problem”, in M. R. Pahlavani (ed.), *Measurements in Quantum Mechanics*, Rijeka; InTech, 175–196. [[Available online.](http://www.intechopen.com/books/measurements-in-quantum-mechanics/the-quantum-completeness-problem)]
+* –––, 2012b, “Incompatibility of Standard Completeness and Quantum Mechanics”, *International Journal of Theoretical Physics*, 51(9): 2974–2984. [[Preprint available online.](http://philsci-archive.pitt.edu/9080/1/Incompatibility24b.docx)]
+* Hermann, Grete, 1935,“Die naturphilosophischen Grundlagen der Quantenmechanik” *Abhandlungen der Fries’schen Schule*, 6. [[English translation, of the relevant section, by M.P. Seevinck is available online](http://www.projects.science.uu.nl/igg/seevinck/trans.pdf).]
+* Hooker, C. (ed.), 1975, *The Logico-Algebraic Approach to Quantum Mechanics*, Dordrecht: Reidel.
+* Huang, Y.-F., Li, C.-F., Zhang, Y.-S., Pan, J.-W., and Guo, G.-C., 2003, “Experimental Test of the Kochen-Specker Theorem with Single Photons”, *Physical Review Letters*, 90 (25): 250401-1 – 250401-4. [[Preprint available online.](http://arxiv.org/abs/quant-ph/0209038)]
+* Huang Y.-F., Li, M., Cao, D.-Y., Zhang, C., Zhang, Y.-S., Liu, B.-H., Li, C.-F., and Guo, G.-C., 2013, “Experimental Test of State-Independent Quantum Contextuality of an Indivisible Quantum System”, *Physical Review A*, 87: 052133-1 – 052133-10.
+* Hughes, R.I.G., 1989, *The Structure and Interpretation of Quantum Mechanics*, Cambridge, MA: Harvard University Press.
+* Kent, A., 1999, “Noncontextual Hidden Variables and Physical Measurements”, *Physical Review Letters*, 83: 3755–57.  
+  [[Preprint available online.](http://arxiv.org/abs/quant-ph/9906006)]
+* Kernaghan, M., 1994, “Bell-Kochen-Specker Theorem for 20 Vectors”, *Journal of Physics*, A 27: L829–30.
+* Kochen, S. and Specker, E., 1967, “The Problem of Hidden Variables in Quantum Mechanics”, *Journal of Mathematics and Mechanics*, 17: 59–87; reprinted in Hooker 1975, 293–328 (page references to original and reprint).
+* Meyer, D. A., 1999, “Finite Precision Measurement Nullifies the Kochen-Specker Theorem”, *Physical Review Letters*, 83: 3751–54. [[Preprint available online.](http://arxiv.org/abs/quant-ph/9905080)]
+* Mermin, N. D., 1990a, “Quantum Mysteries Revisited”, *American Journal of Physics*, 58: 731–34.
+* –––, 1990b, “Simple Unified Form of the Major No-Hidden Variables Theorems”, *Physical Review Letters*, 65: 3373–76.
+* –––, 1993, “Hidden variables and the two theorems of John Bell”, *Reviews of Modern Physics*, 65: 803–815.
+* Pavičić, M., Merlet, J.-P., McKay, B., and McGill, N. D., 2005, “Kochen-Specker Vectors”, *Journal of Physics*, A 38: 1577–92. [[Preprint available online.](http://arxiv.org/abs/quant-ph/0409014)]
+* Peres, A., 1991, “Two Simple Proofs of the Kochen-Specker Theorem”, *Journal of Physics*, A 24: L175–8.
+* –––, 1995, *Quantum Theory: Concepts and Methods*, Dordrecht: Kluwer.
+* Pitowsky, I., 1983, “Deterministic Model of Spin and Statistics”, *Physical Review*, D 27: 2316–26.
+* –––, 1985, “Quantum Mechanics and Value Definiteness”, *Philosophy of Science*, 52: 154–56.
+* Redhead, M., 1987, *Incompleteness, Nonlocality, and Realism. A Prolegomenon to the Philosophy of Quantum Mechanics*, Oxford: Clarendon Press.
+* –––, 1995, *From Physics to Metaphysics*, Cambridge: Cambridge University Press.
+* Shimony, A., 1984, “Contextual Hidden Variables Theories and Bell’s Inequalities”, *British Journal for the Philosophy of Science*, 35: 25–45.
+* –––, 1993, *Search for a Naturalistic World View, Volume II: Natural Science and Metaphysics*, Cambridge: Cambridge University Press.
+* Simon, Christoph, Zukowski, M., Weinfurter, H., Zeilinger, A., 2000, “A Feasible ‘Kochen-Specker’ Experiment with Single Particles”, *Physical Review Letters*, 85: 1783–86. [[Preprint available online.](http://arxiv.org/abs/quant-ph/0009074)]
+* Specker, E., 1960, “Die Logik nicht gleichzeitig entscheidbarer Aussagen”, *Dialectica*, 14: 239–46.
+* Stairs, A., 1992, “Value Definiteness and Contextualism: Cut and Paste with Hilbert Space”, *PSA 1992*, 1: 91–103.
+* Swift, A. R. and Wright, R., 1980, “Generalized Stern-Gerlach Experiments and the Observability of Arbitrary Spin Operators”, *Journal of Mathematical Physics*, 21: 77–82.
+* Tang, W. and Yu, S., 2017, “Construction of State-independent Proofs for Quantum Contextuality”, *Physical Review A*, 96: 062126-1–062126-9.
+* van Fraassen, B. C., 1973, “Semantic Analysis of Quantum Logic”, in C.A. Hooker (ed.), *Contemporary Research in the Foundations and Philosophy of Quantum Theory*, Dordrecht: Reidel, 80–113.
+* von Neumann, J., 1955, *Mathematical Foundations of Quantum Mechanics* (German edition 1932), Princeton: Princeton University Press.
+* Yu, S. and Oh, C.H., 2012,“State-independent Proof of Kochen-Specker Theorem with 13 Rays”, *Physical Review Letters*, 108: 030402-1–030402-5.
+
+## Academic Tools
+
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kochen-specker). |
+> | --- | --- |
+> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/kochen-specker/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=kochen-specker&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
+> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](http://philpapers.org/sep/kochen-specker/) at [PhilPapers](http://philpapers.org/), with links to its database. |
+
+## Other Internet Resources
+
+* Appleby, D. M., 2000, “Contextuality of Approximate Measurements”. [[Preprint available online](http://arxiv.org/abs/quant-ph/0005010).]
+* Cabello, A., 1999, “Comment on ‘Non-Contextual Hidden Variables and Physical Measurements’”. [[Preprint available online.](http://arxiv.org/abs/quant-ph/9911024v1)]
+* Mermin, N. D., 1999, “A Kochen-Specker Theorem for Imprecisely Specified Measurements”. [[Preprint available online.](http://arxiv.org/abs/quant-ph/9912081)]
+* Rajan, D. and Visser, M., 2017, “Kochen-Specker Theorem Revisited”. [[Preprint available online.](http://arxiv.org/abs/1708.01380)]
+* [Kochen Specker theorem on arxiv.org](http://xstructure.inr.ac.ru/x-bin/theme2.py?arxiv=quant-ph&level=1&index1=3004)
+* [Ernst-Udo Wallenborn: “Was ist das Kochen-Specker-Theorem?”](https://web.archive.org/web/20160315033351/http://theory.gsi.de/~vanhees/faq/epr/node7.html)  
+  (in German, but with useful figures)
+
+## Related Entries
+
+[quantum mechanics: modal interpretations of](https://plato.stanford.edu/entries/qm-modal/) | [quantum theory: philosophical issues in](https://plato.stanford.edu/entries/qt-issues/)
+
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
+Carsten Held <[*carsten.held@mailbox.org*](mailto:carsten%2eheld%40mailbox%2eorg)>
