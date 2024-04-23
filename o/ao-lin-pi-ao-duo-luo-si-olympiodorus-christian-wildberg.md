@@ -4,17 +4,7 @@
 
 奥林匹奥多罗斯（Olympiodorus）来自亚历山大港，据推测是亚蒙尼乌斯·赫梅尤（Ammonius Hermeiou）的晚期学生，亚蒙尼乌斯是亚里士多德的评论家，同时也是辛普利修斯（Simplicius）和菲洛波诺斯（Philoponus）的老师。他是 6 世纪亚历山大港学派最后一批教授哲学的异教徒之一。在他的讲座中，他解释了古典哲学文本，主要是柏拉图和亚里士多德的著作；我们现在还保留着他对柏拉图的三篇评论和对亚里士多德的两篇评论。有时，这些评论似乎是精心制作的教学材料，但有时它们更像是由学生之一起草的记录。尽管奥林匹奥多罗斯给人以博学和传统教育的守护者的印象，无论是文学还是哲学方面，从哲学的角度来看，他的作品与亚蒙尼乌斯或奥林匹奥多罗斯的同时代人（如辛普利修斯和约翰·菲洛波诺斯）的评论相比较不利。然而，他的作品之所以有价值，是因为它使我们对异教哲学如何教授给基督教精英的年轻成员有了生动的见解，这些成员大多数将进入教士职业或担任拜占庭宫廷的职位。6 世纪的亚历山大港奥林匹奥多罗斯必须与据说生活在公元 5 世纪上半叶的另一个奥林匹奥多罗斯区分开来，马里努斯（Marinus）在他的《普罗克鲁斯传》（Life of Proclus）中说后者曾在雅典的奥林匹奥多罗斯那里学习。关于这位早期哲学家的更好证据没有留存下来。年轻哲学家奥林匹奥多罗斯与同名同出身的炼金术士之间的关系仍然存在争议。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/olympiodorus/#Lif)
-* [2. 对柏拉图的评论](https://plato.stanford.edu/entries/olympiodorus/#ComPla)
-* [3. 亚里士多德的评论](https://plato.stanford.edu/entries/olympiodorus/#ComAri)
-* [4. 奥林匹奥多罗斯的炼金术士](https://plato.stanford.edu/entries/olympiodorus/#OlyAlc)
-* [ 5. 影响](https://plato.stanford.edu/entries/olympiodorus/#Inf)
-* [6. 现存作品列表](https://plato.stanford.edu/entries/olympiodorus/#LisExtWor)
-* [ 参考书目](https://plato.stanford.edu/entries/olympiodorus/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/olympiodorus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/olympiodorus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/olympiodorus/#Rel)
-
+ 
 ---
 
 ## 1. 生命

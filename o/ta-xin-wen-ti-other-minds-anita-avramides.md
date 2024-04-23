@@ -9,30 +9,7 @@
 
 一些考虑这个问题的哲学家甚至在古代印度哲学家的著作中找到了灵感。佛教哲学家的著作中有很多关于自我和他人存在的内容，他们的对手的著作中也有。最近，心灵问题在心理学和神经科学的研究中也引起了哲学家们的兴趣。哲学中的自然主义转向引发了对我们对他人的理解的问题。我们可以将这项工作视为离开了传统的认识论关注的激进怀疑主义，而是关注我们如何将心理状态归因于他人的问题——这个问题不仅可以问及成年人，还可以问及婴儿（他们何时以及如何开始将心理状态归因于他人），以及其他非人类动物。此外，我们还可以考虑将心灵归因能力的缺陷以及这如何在例如自闭症中表现出来的可能性。
 
-* [1.（传统的）认识论问题](https://plato.stanford.edu/entries/other-minds/#TradEpisProb)
-
-  * [1.1 类比论证](https://plato.stanford.edu/entries/other-minds/#ArguAnal)
-  * [ 1.2 最佳解释](https://plato.stanford.edu/entries/other-minds/#BestExpl)
-  * [ 1.3 标准](https://plato.stanford.edu/entries/other-minds/#Crit)
-  * [1.4 其他心的感知知识](https://plato.stanford.edu/entries/other-minds/#PercKnowOtheMind)
-
-    * [1.4.1 麦克道尔和德雷茨基对其他心的感知知识](https://plato.stanford.edu/entries/other-minds/#McDoDretPercKnowOtheMind)
-    * [1.4.2 其他心的感知知识与现象学传统](https://plato.stanford.edu/entries/other-minds/#PercKnowOtheMindPhenTrad)
-    * [1.4.3 间接 vs 直接解释](https://plato.stanford.edu/entries/other-minds/#IndiVsDireAcco)
-* [2. 他心的概念问题](https://plato.stanford.edu/entries/other-minds/#ConcProbOtheMind)
-* [3. 自然主义的转向](https://plato.stanford.edu/entries/other-minds/#NatuTurn)
-
-  * [3.1 理论-理论和模拟理论](https://plato.stanford.edu/entries/other-minds/#TheoTheoSimuTheo)
-  * [3.2 第二人称和人模型理论](https://plato.stanford.edu/entries/other-minds/#SecoPersPersModeTheo)
-* [4. 二十世纪之前对心灵的思考](https://plato.stanford.edu/entries/other-minds/#ThinAbouMindPrioTwenCent)
-
-  * [4.1 从笛卡尔到密尔](https://plato.stanford.edu/entries/other-minds/#DescMill)
-  * [ 4.2 在笛卡尔之前](https://plato.stanford.edu/entries/other-minds/#BefoDesc)
-  * [ 4.3 另一个历史](https://plato.stanford.edu/entries/other-minds/#AnotHist)
-* [ 参考文献](https://plato.stanford.edu/entries/other-minds/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/other-minds/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/other-minds/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/other-minds/#Rel)
+ 
 
 ---
 

@@ -4,15 +4,7 @@
 
 全能是最大的力量。最大的伟大（或完美）包括全能。根据传统的西方神论，上帝是最伟大（或完美）的，因此是全能的。全能似乎令许多哲学家感到困惑，甚至是自相矛盾的。他们想知道，例如，上帝是否能创造一个球体立方体，或者制造一个他自己无法移动的巨大石头。有关全能的一致性分析存在吗？这样的分析对上帝的本质有什么影响？
 
-* [1. 引言性的准备工作](https://plato.stanford.edu/entries/omnipotence/#IntrPrel)
-* [2. 全能的范围](https://plato.stanford.edu/entries/omnipotence/#ScopOmni)
-* [3. 全能和无限重复性](https://plato.stanford.edu/entries/omnipotence/#OmniUnreRepe)
-* [4. 全能和共享历史方法](https://plato.stanford.edu/entries/omnipotence/#OmniSharHistAppr)
-* [5. 全能和神圣道德完美](https://plato.stanford.edu/entries/omnipotence/#OmniDiviMoraPerf)
-* [ 参考文献](https://plato.stanford.edu/entries/omnipotence/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/omnipotence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/omnipotence/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/omnipotence/#Rel)
+ 
 
 ---
 

@@ -4,25 +4,7 @@ _首次发表于2002年10月17日；实质性修订于2019年8月6日_
 
 特殊义务是对某些人的义务，与对所有人的自然义务相对应，后者仅仅是因为他们是人而存在的。常识道德似乎认为我们对那些与我们有某种特殊关系的人有特殊义务，例如我们的朋友、家人、同事、同胞以及那些我们曾经做出承诺或承诺某种形式的人。特殊义务经常被用来反对后果主义的论证，因为后果主义无法容纳与行动者相关的理由和真正的特殊义务。试图捍卫特殊义务会遇到内部人的反对——为什么要假设我有义务为某些人做更多的事情，仅仅是因为我碰巧与他们有某种特殊关系？——以及外部人的反对——为什么其他人会因为碰巧与其他人有特殊关系而获得更多的好处？试图确立特殊义务已经涉及到各种各样的事态，包括特殊关系的内在性质、义务的受益方的性质、义务的受益方的期望以及作为心理连续体的人的性质，他们之间受到心理状态之间的关系的约束。
 
-* [1. 特殊义务和后果主义](https://plato.stanford.edu/entries/special-obligations/#SpecObliCons)
-* [2. 特殊义务和行动者相关性](https://plato.stanford.edu/entries/special-obligations/#SpecObliAgenRela)
-* [3. 特殊义务和自然责任](https://plato.stanford.edu/entries/special-obligations/#SpecObliNatuDuti)
-* [4. 特殊义务和自愿主义](https://plato.stanford.edu/entries/special-obligations/#SpecObliVolu)
-* [5. 特殊义务和分配反对理论](https://plato.stanford.edu/entries/special-obligations/#SpecObliDistObje)
-* [6. 特殊义务的范围和类型](https://plato.stanford.edu/entries/special-obligations/#RangTypeSpecObli)
-  * [6.1 孝道](https://plato.stanford.edu/entries/special-obligations/#FiliDuty)
-  * [6.2 父母的义务](https://plato.stanford.edu/entries/special-obligations/#PareObli)
-  * [6.3 专业义务](https://plato.stanford.edu/entries/special-obligations/#ProfObli)
-  * [6.4 同胞](https://plato.stanford.edu/entries/special-obligations/#N64Comp)
-* [7. 特殊义务的基础](https://plato.stanford.edu/entries/special-obligations/#GrouSpecObli)
-* [8. 道德风险和特殊义务](https://plato.stanford.edu/entries/special-obligations/#MoraRiskSpecObli)
-* [9. 扩展道德领域](https://plato.stanford.edu/entries/special-obligations/#ExteMoraDoma)
-* [10. 结论](https://plato.stanford.edu/entries/special-obligations/#Conc)
-* [参考书目](https://plato.stanford.edu/entries/special-obligations/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/special-obligations/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/special-obligations/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/special-obligations/#Rel)
-
+ 
 ***
 
 ## 1. 特殊义务和后果主义

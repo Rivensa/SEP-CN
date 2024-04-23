@@ -9,21 +9,7 @@
 
 灵魂的拯救是通过三位一体的第二位——上帝之子——即道成肉身来实现的，他承担了真实的肉体但仍然完全是上帝。他在十字架上的死是对魔鬼的赎罪，他的复活预示着圣徒的复活，尽管他似乎以柏拉图的术语来想象死后的身体是灵魂的脆弱载体。学者们对于他是否设想将身体最终吸收为无形的灵魂存在存在分歧。显然，他预期绝大多数灵魂在死后要经历火的净化，并且没有灵魂会因为上帝的意愿而被排除在这个炼狱之外。虽然他认为有些人可能因为罪孽深重而无法悔改，但他也认为魔鬼本人最终将与上帝和解，尽管他无法达到祝福的状态。在现世中，只有完全掌握了圣经的属灵意义的解经者才能在基督的同在中预先享受到福乐。这些圣经对我们来说是上帝的话语，因为道——基督——在其中无处不在地存在，他在世上为了我们的缘故承担了肉体、灵魂和灵性。
 
-* [1. 奥利金的生平和工作](https://plato.stanford.edu/entries/origen/#OriLifWor)
-* [2. 知识背景](https://plato.stanford.edu/entries/origen/#IntMil)
-* [3. 上帝的教义](https://plato.stanford.edu/entries/origen/#DocGod)
-* [4. 创造的秩序](https://plato.stanford.edu/entries/origen/#CreOrd)
-* [5. 神学和罪恶](https://plato.stanford.edu/entries/origen/#TheSin)
-* [6. 基督的工作](https://plato.stanford.edu/entries/origen/#WorChr)
-* [ 7. 结论](https://plato.stanford.edu/entries/origen/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/origen/#Bib)
-
-  * [ 古代来源](https://plato.stanford.edu/entries/origen/#AncSou)
-  * [ 学术文献](https://plato.stanford.edu/entries/origen/#SchLit)
-* [ 学术工具](https://plato.stanford.edu/entries/origen/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/origen/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/origen/#Rel)
-
+ 
 ---
 
 ## 1. 奥利金的生平和工作

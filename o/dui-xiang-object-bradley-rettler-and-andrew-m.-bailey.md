@@ -14,42 +14,7 @@
 
 这些问题中的每一个都有各种具体规范和答案，我们将依次考虑。我们的重点主要是理论和分类，因此我们只偶尔参考历史来源。我们的主题是抽象和广泛的，并涉及到形而上学中已经有了覆盖的一些问题。我们对这些主题的讨论将是简短的；在这些情况下，我们将建议查阅现有条目以获得更详细的处理。
 
-* [ 1. 对比](https://plato.stanford.edu/entries/object/#Cont)
-
-  * [1.1 无对比：伞观点](https://plato.stanford.edu/entries/object/#NoContUmbrView)
-  * [1.2 对比：对象 vs. 属性](https://plato.stanford.edu/entries/object/#ContObjeVsProp)
-
-    * [1.2.1 对象是主体；属性是谓词](https://plato.stanford.edu/entries/object/#ObjeSubjPropPred)
-    * [1.2.2 对象存在于空间和时间中；属性则不是](https://plato.stanford.edu/entries/object/#ObjeSpacTimePropNot)
-    * [1.2.3 对象是单一定位的；属性可能是多重定位的](https://plato.stanford.edu/entries/object/#ObjeSingLocaPropMayMultLoca)
-    * [1.2.4 对象是具体的；属性是抽象的](https://plato.stanford.edu/entries/object/#ObjeConcPropAbst)
-    * [1.2.5 对象不遵守不可辨识的身份；属性遵守](https://plato.stanford.edu/entries/object/#ObjeDontObeyIdenIndiPropDo)
-    * [1.2.6 对象是可感知的；属性则不是](https://plato.stanford.edu/entries/object/#ObjeSensPercPropNot)
-    * [1.2.7 对象是未实例化的；属性则是已实例化的](https://plato.stanford.edu/entries/object/#ObjeUninPropInst)
-  * [1.3 对比：对象 vs. 主体](https://plato.stanford.edu/entries/object/#ContObjeVsSubj)
-* [ 2. 扩展](https://plato.stanford.edu/entries/object/#Exte)
-
-  * [2.1 本体论问题](https://plato.stanford.edu/entries/object/#OntoQues)
-
-    * [2.1.1 存在虚无主义](https://plato.stanford.edu/entries/object/#ExisNihi)
-    * [ 2.1.2 存在唯一论](https://plato.stanford.edu/entries/object/#ExisMoni)
-    * [2.1.3 存在多元论](https://plato.stanford.edu/entries/object/#ExisPlur)
-  * [2.2 扩展问题](https://plato.stanford.edu/entries/object/#ExteQues)
-
-    * [ 2.2.1 普通对象](https://plato.stanford.edu/entries/object/#OrdiObje)
-    * [2.2.2 特殊组合问题](https://plato.stanford.edu/entries/object/#SpecCompQues)
-* [ 3. 自然](https://plato.stanford.edu/entries/object/#Natu)
-
-  * [3.1 对象的作用](https://plato.stanford.edu/entries/object/#WhatObjeDo)
-  * [3.2 对象的本质](https://plato.stanford.edu/entries/object/#WhatObje)
-
-    * [3.2.1 成分本体论](https://plato.stanford.edu/entries/object/#ConsOnto)
-    * [3.2.2 关系本体论](https://plato.stanford.edu/entries/object/#RelaOnto)
-* [ 参考文献](https://plato.stanford.edu/entries/object/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/object/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/object/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/object/#Rel)
-
+ 
 ---
 
 ## 1. 对比

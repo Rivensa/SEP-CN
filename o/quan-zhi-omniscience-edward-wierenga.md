@@ -10,20 +10,7 @@
 
 本条目将讨论关于全知作为神的属性或完美的哲学问题，而不考虑其在神学中的潜在应用。
 
-* [ 1. 定义全知](https://plato.stanford.edu/entries/omniscience/#DefiOmni)
-* [2. 神圣知识的附加特征](https://plato.stanford.edu/entries/omniscience/#AddiFeatDiviKnow)
-* [3. 预知与人类自由行动](https://plato.stanford.edu/entries/omniscience/#ForeHumaFreeActi)
-* [4. 全知的进一步困难](https://plato.stanford.edu/entries/omniscience/#FurtDiffForOmni)
-
-  * [4.1 全知和不变性](https://plato.stanford.edu/entries/omniscience/#OmniImmu)
-  * [4.2 全知和自我知识](https://plato.stanford.edu/entries/omniscience/#OmniKnowDeSe)
-  * [4.3 全知和客体知识](https://plato.stanford.edu/entries/omniscience/#OmniKnowDeRe)
-  * [4.4 全知和基数](https://plato.stanford.edu/entries/omniscience/#OmniCard)
-* [ 参考文献](https://plato.stanford.edu/entries/omniscience/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/omniscience/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/omniscience/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/omniscience/#Rel)
-
+ 
 ---
 
 ## 1. 定义全知

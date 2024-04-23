@@ -4,45 +4,7 @@
 
 彼得‧约翰‧奥利维是十三世纪最原创和最有趣的哲学家和神学家之一。尽管他的思想不像托马斯·阿奎那那样清晰系统，也不像约翰·邓斯·斯科特那样分析得精彩，但奥利维的思想同样原创且引人思考，其哲学价值在中世纪哲学专家中得到了认可。他最为人所知的可能是他的心理学理论，尤其是他对意志自由的意愿主义观念，但他的影响也延伸到其他哲学领域，从形而上学到实践哲学。
 
-* [1. 生平与工作](https://plato.stanford.edu/entries/olivi/#LifeWork)
-* [2. 理论哲学](https://plato.stanford.edu/entries/olivi/#TheoPhil)
-
-  * [ 2.1 形而上学](https://plato.stanford.edu/entries/olivi/#Meta)
-
-    * [2.1.1 拒绝范畴](https://plato.stanford.edu/entries/olivi/#RejeCate)
-    * [2.1.2 通用的物质形态学和物质](https://plato.stanford.edu/entries/olivi/#UnivHyloMatt)
-    * [ 2.1.3 因果关系](https://plato.stanford.edu/entries/olivi/#Caus)
-    * [2.1.4 自由意志和人格（personalitas）](https://plato.stanford.edu/entries/olivi/#FreeWillPersPers)
-  * [ 2.2 认识论](https://plato.stanford.edu/entries/olivi/#Epis)
-
-    * [2.2.1 拒绝神圣启示](https://plato.stanford.edu/entries/olivi/#RejeDiviIllu)
-    * [ 2.2.2 直接实在论](https://plato.stanford.edu/entries/olivi/#DireReal)
-  * [2.3 心灵哲学](https://plato.stanford.edu/entries/olivi/#PhilMind)
-
-    * [2.3.1 灵魂和身体](https://plato.stanford.edu/entries/olivi/#SoulBody)
-    * [2.3.2 认知活动和注意力](https://plato.stanford.edu/entries/olivi/#CognActiAtte)
-    * [2.3.3 词语和概念](https://plato.stanford.edu/entries/olivi/#WordConc)
-    * [2.3.4 自我意识和反身性](https://plato.stanford.edu/entries/olivi/#SelfAwarRefl)
-* [3. 实践哲学](https://plato.stanford.edu/entries/olivi/#PracPhil)
-
-  * [ 3.1 伦理学](https://plato.stanford.edu/entries/olivi/#Ethi)
-
-    * [ 3.1.1 美德伦理学](https://plato.stanford.edu/entries/olivi/#VirtEthi)
-    * [3.1.2 美德的统一](https://plato.stanford.edu/entries/olivi/#UnitVirt)
-  * [3.2 政治哲学](https://plato.stanford.edu/entries/olivi/#PoliPhil)
-
-    * [ 3.2.1 贫困](https://plato.stanford.edu/entries/olivi/#Pove)
-    * [3.2.2 政治权力的本质](https://plato.stanford.edu/entries/olivi/#NatuPoliPowe)
-    * [ 3.2.3 经济理论](https://plato.stanford.edu/entries/olivi/#EconTheo)
-* [ 参考文献](https://plato.stanford.edu/entries/olivi/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/olivi/#PrimSour)
-  * [ 翻译作品](https://plato.stanford.edu/entries/olivi/#Tran)
-  * [ 二手资料](https://plato.stanford.edu/entries/olivi/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/olivi/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/olivi/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/olivi/#Rel)
-
+ 
 ---
 
 ## 1. 生平与工作

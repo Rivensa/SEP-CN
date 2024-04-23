@@ -16,23 +16,7 @@ _首次发表于1996年2月8日，实质性修订于2019年2月6日。_
 
 在各种方式中，到目前为止提供的解释是粗略的，有待改进。接下来的第 1-6 节提供了一些必要的修饰，尽管如哲学中通常的情况一样，这里涉及到的许多问题可以更详细地探讨。第 7-9 节以稍微复杂一些的讨论水平探讨了一些核心问题。第 10 节是对本体论证最近研究的快速概述：
 
-* [1. 本体论证的历史](https://plato.stanford.edu/entries/ontological-arguments/#HisOntArg)
-* [2. 本体论证的分类学](https://plato.stanford.edu/entries/ontological-arguments/#TaxOntArg)
-* [3. 本体论证明的特征化](https://plato.stanford.edu/entries/ontological-arguments/#ChaOntArg)
-* [4. 本体论证明的用途](https://plato.stanford.edu/entries/ontological-arguments/#UseOntArg)
-* [5. 对本体论证明的反驳](https://plato.stanford.edu/entries/ontological-arguments/#ObjOntArg)
-* [6. 本体论证明的拙劣模仿](https://plato.stanford.edu/entries/ontological-arguments/#ParOntArg)
-* [7. 哥德尔的本体论证明](https://plato.stanford.edu/entries/ontological-arguments/#GodOntArg)
-* [8. 一种胜利的本体论证明？](https://plato.stanford.edu/entries/ontological-arguments/#PlaOntArg)
-* [9. 圣安瑟姆的本体论证明](https://plato.stanford.edu/entries/ontological-arguments/#StAnsOntArg)
-* [10. 21 世纪的本体论证明](https://plato.stanford.edu/entries/ontological-arguments/#OntArg21sCen)
-* [参考文献](https://plato.stanford.edu/entries/ontological-arguments/#Bib)
-  * [主要文本](https://plato.stanford.edu/entries/ontological-arguments/#PriTex)
-  * [其他文本](https://plato.stanford.edu/entries/ontological-arguments/#OthTex)
-* [学术工具](https://plato.stanford.edu/entries/ontological-arguments/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ontological-arguments/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ontological-arguments/#Rel)
-
+ 
 ***
 
 ## 1. 本体论证明的历史

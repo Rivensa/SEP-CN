@@ -4,23 +4,7 @@ _首次发表于2009年7月23日；实质修订于2021年9月3日。_
 
 毫无疑问，尼克尔·奥里斯姆是最杰出的经院哲学家之一，以他的原创思想、独立思考和对亚里士多德几个观点的批判而闻名。他的工作为现代数学和科学的发展提供了一些基础。此外，他被普遍认为是最伟大的中世纪经济学家。应法国国王查理五世之命，他将亚里士多德的《伦理学》、《政治学》和《论天体》以及伪亚里士多德的《经济学》从拉丁语翻译成法语，对法语散文的发展，特别是其科学和哲学词汇方面产生了重要影响。
 
-* [1. 生平](https://plato.stanford.edu/entries/nicole-oresme/#Lif)
-* [2. 教学](https://plato.stanford.edu/entries/nicole-oresme/#Tea)
-  * [2.1 事故的本体论地位](https://plato.stanford.edu/entries/nicole-oresme/#OntStaAcc)
-  * [2.2 非亚里士多德的地点和空间概念](https://plato.stanford.edu/entries/nicole-oresme/#NonAriConPlaSpa)
-  * [2.3 非亚里士多德的时间概念](https://plato.stanford.edu/entries/nicole-oresme/#NonAriConTim)
-  * [2.4 运动理论](https://plato.stanford.edu/entries/nicole-oresme/#TheMot)
-  * [2.5 宇宙学、天文学和对占星术的反对](https://plato.stanford.edu/entries/nicole-oresme/#CosAstOppAst)
-  * [2.6 数学](https://plato.stanford.edu/entries/nicole-oresme/#Mat)
-  * [2.7 经济学](https://plato.stanford.edu/entries/nicole-oresme/#Eco)
-* [参考文献](https://plato.stanford.edu/entries/nicole-oresme/#Bib)
-  * [主要文献](https://plato.stanford.edu/entries/nicole-oresme/#PriLit)
-  * [尼克尔·奥里斯姆的作品目录](https://plato.stanford.edu/entries/nicole-oresme/#CatWorOre)
-  * [二手文献](https://plato.stanford.edu/entries/nicole-oresme/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/nicole-oresme/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/nicole-oresme/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/nicole-oresme/#Rel)
-
+ 
 ***
 
 ## 1. 生命

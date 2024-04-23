@@ -6,35 +6,7 @@
 
 何塞·奥尔特加·伊·加塞特将人类生活视为基本现实和“发生”的感知，他分析了“存在”和“真实存在”之间的本体论区别，描述了社会世界中“我”和“他人”之间的互动，提出了“生成”、“同时代人”和“同龄人”的概念，以及他对“透视主义”、“生命力”和“历史理性”的理念，这些都扩展并推进了他对人类社会和历史现实的哲学。通过这些思想取向，奥尔特加开始关注历史知识的认识论地位，并将批判性历史哲学视为哲学和历史态度的相互渗透。因此，批判性历史哲学指的是将我们所知道和我们所行动的世界视为人类活动和思维的产物。因此，奥尔特加代表了从哲学角度接近历史的“现代”反思者，他的历史理论作为人类知识的源泉体现了将历史时间性和思维概念联系起来的倾向。他挑战了实证主义对历史的方法，并为现代历史观念做出了重要贡献：即人类历史中存在着联系和意义，这源于个体人生中固有的连续性原则。
 
-* [ 1. 传记](https://plato.stanford.edu/entries/gasset/#Biog)
-
-  * [ 1.1 早年生活](https://plato.stanford.edu/entries/gasset/#EarlLife)
-  * [1.2 何塞·奥尔特加·伊·加塞特在德国](https://plato.stanford.edu/entries/gasset/#OrteGerm)
-  * [1.3 何塞·奥尔特加·伊·加塞特在西班牙](https://plato.stanford.edu/entries/gasset/#OrteSpai)
-  * [1.4 何塞·奥尔特加·伊·加塞特作为知识领袖](https://plato.stanford.edu/entries/gasset/#OrteInteLead)
-  * [1.5 何塞·奥尔特加·伊·加塞特和共和国](https://plato.stanford.edu/entries/gasset/#OrteRepu)
-  * [1.6 何塞·奥尔特加·伊·加塞特的流亡、归国和晚年](https://plato.stanford.edu/entries/gasset/#OrteExilRetuLastYear)
-* [2. 知识发展](https://plato.stanford.edu/entries/gasset/#InteDeve)
-
-  * [2.1 新康德主义和方法的探索](https://plato.stanford.edu/entries/gasset/#NeoKantSearForMeth)
-  * [2.2 现象学作为一种方法](https://plato.stanford.edu/entries/gasset/#PhenMeth)
-* [3. 面对超验现象学的本体论因素](https://plato.stanford.edu/entries/gasset/#OntoFactConfTranPhen)
-* [4. “我即我，亦即我的环境”：既非“生物主义”也非“理性主义”](https://plato.stanford.edu/entries/gasset/#IAmIMyCircNeitBiolNorRati)
-* [5. 透视主义：人类生活、生命力理性与历史主义](https://plato.stanford.edu/entries/gasset/#PersHumaLifeVitaReasHist)
-* [6. 存在现象学与生命哲学](https://plato.stanford.edu/entries/gasset/#ExisPhenPhilLife)
-* [7. 人类的现实和历史原因](https://plato.stanford.edu/entries/gasset/#HumaRealHistReas)
-* [8. 存在主义现象学，社会世界和历史时间](https://plato.stanford.edu/entries/gasset/#ExisPhenSociWorlHistTime)
-* [9. 社会现实，“大众人”和“大众社会”](https://plato.stanford.edu/entries/gasset/#SociRealMassManMassSoci)
-* [10. 世代、时间性、历史理性和历史批判哲学的概念](https://plato.stanford.edu/entries/gasset/#ConcGeneTempHistReasCritPhilHist)
-* [ 参考书目](https://plato.stanford.edu/entries/gasset/#Bib)
-
-  * [ 奥尔特加的著作](https://plato.stanford.edu/entries/gasset/#WorkOrte)
-  * [ 对应](https://plato.stanford.edu/entries/gasset/#Corr)
-  * [英文翻译中的精选作品](https://plato.stanford.edu/entries/gasset/#SeleWorkEnglTran)
-  * [精选次要来源](https://plato.stanford.edu/entries/gasset/#SeleSecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/gasset/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/gasset/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/gasset/#Rel)
+ 
 
 ---
 

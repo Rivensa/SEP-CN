@@ -8,32 +8,7 @@
 鉴于这些立场的多样性，将偶因论描述如下可能会有所帮助：如果在领域 x 中是一个偶因论者，那么意味着在领域 x 内，上帝是唯一的真正原因，而该领域内的其他所谓原因并非真正的原因，而只是偶然的原因。在这里，“领域”指的是大致定义的一组所考虑的所谓因果关系，例如，物质或身体物质之间的因果关系领域。我们将在后面对偶然原因做更多解释，但是，根据刚刚给出的偶因论描述，我们可以引入一些术语来指称和区分那些持有某种形式的偶因论的不同立场。我们将称那些支持完全版本的偶因论者，如马勒布朗什，且认为没有任何造物主因是真正原因，并将这一否定命题应用于所有有限物质的为“全局偶因论”。全局偶因论认为所有造物主因最多只是偶然的，而神的因果关系是独一无二的真正原因。相反，那些愿意支持造物主的某种真正因果关系，因此将偶然因果关系限制在有限领域内的人将被描述为支持一种“局部偶因论”。（李 2008）
 
 以这种方式理解，偶因论可以被理解为一种关于因果关系的形而上学，它对通常被认为在这个世界中起作用的因果相互作用持有更加辨别的态度。根据这种描述，偶因论者抵制对这些表面上的因果相互作用的单一理解，并在世界中确定了两种关系，即真正的因果关系和偶然的因果关系。除了偶因论的范围问题之外，我们还将在接下来的几节中探讨偶因论如何解决上述关于神与自然因果关系的问题，以及提出了哪些支持偶因论的论证。然而，我们首先简要讨论一下它的历史。
-
-* [1. 偶因论的历史](https://plato.stanford.edu/entries/occasionalism/#HistOcca)
-
-  * [1.1 伊斯兰偶因论](https://plato.stanford.edu/entries/occasionalism/#IslaOcca)
-  * [1.2 中世纪基督教欧洲](https://plato.stanford.edu/entries/occasionalism/#MediChriEuro)
-  * [1.3 笛卡尔和笛卡尔的偶因论者（路易·德·拉·福尔热，杰罗德·德·科尔德莫伊，约翰内斯·克劳伯格和阿诺德·格林克斯）](https://plato.stanford.edu/entries/occasionalism/#DescCartOccaLouiDeLaForgGeraDeCordJohaClauArnoGeul)
-  * [ 1.4 尼古拉斯·马勒布朗什](https://plato.stanford.edu/entries/occasionalism/#NicoMale)
-  * [ 1.5 伯克利](https://plato.stanford.edu/entries/occasionalism/#Berk)
-* [2. 偶因论在背景下](https://plato.stanford.edu/entries/occasionalism/#OccaCont)
-
-  * [2.1 笛卡尔的互动主义、预设和谐与偶因论](https://plato.stanford.edu/entries/occasionalism/#CartIntePreEstaHarmOcca)
-  * [2.2 仅仅保守主义，神圣并行主义和偶因论](https://plato.stanford.edu/entries/occasionalism/#MereConsDiviConcOcca)
-* [3. 偶因论的论证](https://plato.stanford.edu/entries/occasionalism/#ArguForOcca)
-
-  * [3.1 被动性本质论证](https://plato.stanford.edu/entries/occasionalism/#PassNatuArgu)
-  * [3.2 无知论证](https://plato.stanford.edu/entries/occasionalism/#NoKnowArgu)
-  * [3.3 “无必然联系” (NNC) 论证](https://plato.stanford.edu/entries/occasionalism/#NoNeceConnNNCArgu)
-  * [3.4 “保持不变只是持续创造” (CCC) 论证](https://plato.stanford.edu/entries/occasionalism/#ConsButContCreaCCCArgu)
-* [4. 偶然和偶然的因果关系](https://plato.stanford.edu/entries/occasionalism/#OccaOccaCaus)
-* [ 参考文献](https://plato.stanford.edu/entries/occasionalism/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/occasionalism/#PrimLite)
-  * [ 二手文献](https://plato.stanford.edu/entries/occasionalism/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/occasionalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/occasionalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/occasionalism/#Rel)
+ 
 
 ---
 

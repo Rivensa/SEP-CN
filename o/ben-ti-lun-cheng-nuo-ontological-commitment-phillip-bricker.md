@@ -12,46 +12,7 @@ _首次发表于2014年11月3日星期一_
 
 以下文章概述并评估了最重要的本体论承诺方法。它从关注存在量词和变量值的奎因方法开始。然后将奎因方法与更一般的蕴涵方法进行对比，后者放弃了对量词的关注。然后考虑了一种加强的蕴涵方法，要求理论的本体论承诺成为该理论的真理生成者。然后退后一步，考察本体论承诺的概念如何以及在多大程度上适用于普通语言。文章最后考虑了与弗雷格和卡尔纳普相关的非正统观点。
 
-* [1. 本体论承诺的量词解释](https://plato.stanford.edu/entries/ontological-commitment/#QuaAccOntCom)
-  * [1.1 奎因的标准，初步](https://plato.stanford.edu/entries/ontological-commitment/#QuiCriPre)
-  * [1.2 本体论承诺的相关事物](https://plato.stanford.edu/entries/ontological-commitment/#RelOntCom)
-  * [1.3 奎因的标准：外延版本](https://plato.stanford.edu/entries/ontological-commitment/#QuiCriExtVer)
-  * [1.4 奎因的标准：元语言版本](https://plato.stanford.edu/entries/ontological-commitment/#QuiCriMetVer)
-  * [1.5 模态量词标准](https://plato.stanford.edu/entries/ontological-commitment/#ModQuaCri)
-  * [1.6 评估量词解释：充分性](https://plato.stanford.edu/entries/ontological-commitment/#EvaQuaAccSuf)
-    * [1.6.1 包容逻辑/自由逻辑](https://plato.stanford.edu/entries/ontological-commitment/#IncLogLog)
-    * [1.6.2 替代性量词与客体量词](https://plato.stanford.edu/entries/ontological-commitment/#SubVsObjQua)
-    * [1.6.3 迈农量词](https://plato.stanford.edu/entries/ontological-commitment/#MeiQua)
-    * [1.6.4 现实主义和还原主义](https://plato.stanford.edu/entries/ontological-commitment/#ReaRed)
-  * [1.7 评估量词解释：必然性](https://plato.stanford.edu/entries/ontological-commitment/#EvaQuaAccNec)
-    * [1.7.1 对属性或普遍性的承诺](https://plato.stanford.edu/entries/ontological-commitment/#ComProUni)
-    * [1.7.2 二阶语言](https://plato.stanford.edu/entries/ontological-commitment/#SecOrdLan)
-    * [1.7.3 内涵语言](https://plato.stanford.edu/entries/ontological-commitment/#IntLan)
-    * [1.7.4 隐含承诺：外在属性](https://plato.stanford.edu/entries/ontological-commitment/#ImpComExtPro)
-    * [1.7.5 隐含承诺：集合与整体](https://plato.stanford.edu/entries/ontological-commitment/#ImpComSetWho)
-* [2. 本体论承诺的蕴涵解释](https://plato.stanford.edu/entries/ontological-commitment/#EntAccOntCom)
-  * [2.1 概述](https://plato.stanford.edu/entries/ontological-commitment/#Ove)
-  * [2.2 模态蕴涵准则](https://plato.stanford.edu/entries/ontological-commitment/#ModEntCri)
-  * [2.3 先验蕴涵准则](https://plato.stanford.edu/entries/ontological-commitment/#PriEntCri)
-* [3. 本体论承诺的真值生成解释](https://plato.stanford.edu/entries/ontological-commitment/#TruAccOntCom)
-  * [3.1 概述](https://plato.stanford.edu/entries/ontological-commitment/#OveB)
-  * [3.2 深层与浅层本体论承诺](https://plato.stanford.edu/entries/ontological-commitment/#DeeVsShaOntCom)
-  * [3.3 非必要断言问题](https://plato.stanford.edu/entries/ontological-commitment/#ProInePre)
-  * [3.4 充分性问题：隐含承诺的再审视](https://plato.stanford.edu/entries/ontological-commitment/#ProSufImpComRev)
-* [4. 本体论承诺在日常语言中](https://plato.stanford.edu/entries/ontological-commitment/#OntComOrdLan)
-  * [4.1 概述](https://plato.stanford.edu/entries/ontological-commitment/#OveC)
-  * [4.2 改述的方法及其问题](https://plato.stanford.edu/entries/ontological-commitment/#MetParPro)
-* [5. 弗雷格和新弗雷格主义](https://plato.stanford.edu/entries/ontological-commitment/#FreNeoFre)
-  * [5.1 弗雷格](https://plato.stanford.edu/entries/ontological-commitment/#Fre)
-  * [5.2 新弗雷格主义](https://plato.stanford.edu/entries/ontological-commitment/#NeoFre)
-* [6. 卡尔纳普和新卡尔纳普主义](https://plato.stanford.edu/entries/ontological-commitment/#CarNeoCar)
-  * [6.1 卡尔纳普](https://plato.stanford.edu/entries/ontological-commitment/#Car)
-  * [6.2 新卡纳皮主义：量词变异](https://plato.stanford.edu/entries/ontological-commitment/#NeoCarQuaVar)
-* [参考文献](https://plato.stanford.edu/entries/ontological-commitment/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/ontological-commitment/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ontological-commitment/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ontological-commitment/#Rel)
-
+ 
 ***
 
 ## 1. 本体论承诺的量词解释

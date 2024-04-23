@@ -3,41 +3,7 @@
 _首次发表于2022年8月17日星期三_
 
 自然语言本体论是研究自然语言中隐含的本体论范畴、结构和概念的学科。自然语言本体论是“描述性形而上学”的一部分，用斯特劳森的术语来说（1959 年），与 Fine（2017a）所称的“基础形而上学”相对应，后者的兴趣在于最终存在的东西。自然语言本体论是哲学和语言学的一个子学科，更具体地说，是形而上学和自然语言语义学的一个子学科。通过近几十年来自然语言语义学的发展，它被认为是一个相对较新的独立研究领域。同时，当哲学家在支持形而上学论证或概念时利用语言时，自然语言本体论可以被视为他们在哲学历史中一直从事的一种实践。自然语言的本体论应与说话者基于哲学或天真的反思或推理使用语言所接受的本体论以及一般认知中反映的本体论区分开来。因此，自然语言的本体论最好被描述为能胜任的说话者通过使用语言隐含接受的本体论。
-
-* [1. 自然语言本体论作为一门新兴学科和实践](https://plato.stanford.edu/entries/natural-language-ontology/#NatuLangOntoEmerDiscPrac)
-  * [1.1 自然语言本体论作为一门学科](https://plato.stanford.edu/entries/natural-language-ontology/#NatuLangOntoDisc)
-  * [1.2 自然语言本体论作为哲学史上的一种实践](https://plato.stanford.edu/entries/natural-language-ontology/#NatuLangOntoPracThroHistPhil)
-  * [1.3 自然语言本体论及其与现实的关系](https://plato.stanford.edu/entries/natural-language-ontology/#OntoNatuLangRelaReal)
-  * [1.4 自然语言本体论与真实条件的关系](https://plato.stanford.edu/entries/natural-language-ontology/#OntoNatuLangTrutCond)
-  * [1.5 自然语言中反映的本体论、认知和推理](https://plato.stanford.edu/entries/natural-language-ontology/#OntoReflNatuLangCognReas)
-  * [1.6 自然语言本体论对哲学的相关性](https://plato.stanford.edu/entries/natural-language-ontology/#ReleNatuLangOntoForPhil)
-* [2. 自然语言本体论作为语言学和哲学的一个子学科](https://plato.stanford.edu/entries/natural-language-ontology/#NatuLangOntoSubdBothLingPhil)
-  * [2.1 自然语言本体论作为描述性形而上学的一部分](https://plato.stanford.edu/entries/natural-language-ontology/#NatuLangOntoPartDescMeta)
-  * [2.2 自然语言如何反映本体论？](https://plato.stanford.edu/entries/natural-language-ontology/#HowDoesNatuLangReflOnto)
-    * [2.2.1 不同语义角色中的实体](https://plato.stanford.edu/entries/natural-language-ontology/#EntiDiffSemaRole)
-      * [2.2.1.1 指称性名词短语和变量的语义值](https://plato.stanford.edu/entries/natural-language-ontology/#SemaValuRefeNPsVari)
-      * [2.2.1.2 隐含参数](https://plato.stanford.edu/entries/natural-language-ontology/#ImplArgu)
-      * [2.2.1.3 评估参数和真值生成者](https://plato.stanford.edu/entries/natural-language-ontology/#ParaEvalTrut)
-      * [2.2.1.4 其他情境的语义角色](https://plato.stanford.edu/entries/natural-language-ontology/#OtheSemaRoleForSitu)
-    * [2.2.2 本体论与组合性之间的关系](https://plato.stanford.edu/entries/natural-language-ontology/#ConnBetwOntoComp)
-    * [2.2.3 本体论类别和句法类别、位置和结构](https://plato.stanford.edu/entries/natural-language-ontology/#OntoCateSyntCatePosiStru)
-    * [2.2.4 本体论相关的具体表达和结构](https://plato.stanford.edu/entries/natural-language-ontology/#MetaReleSpecExprCons)
-    * [2.2.5 Chomsky 对自然语言语义中对对象的引用的怀疑论](https://plato.stanford.edu/entries/natural-language-ontology/#ChomSkepAbouRefeObjeSemaNatuLang)
-* [3. 自然语言本体论的独特特征](https://plato.stanford.edu/entries/natural-language-ontology/#DistFeatOntoNatuLang)
-  * [3.1 复杂的 NP 和构造本体论](https://plato.stanford.edu/entries/natural-language-ontology/#CompNPsConsOnto)
-    * [3.1.1 对无限制的总和和种类的引用](https://plato.stanford.edu/entries/natural-language-ontology/#RefeUnreSumsKind)
-    * [3.1.2 内涵的确定 NP](https://plato.stanford.edu/entries/natural-language-ontology/#InteDefiNPs)
-    * [3.1.3. 通过抽象引入实体的介绍](https://plato.stanford.edu/entries/natural-language-ontology/#IntrEntiAbst)
-  * [3.2 故意或不存在的对象](https://plato.stanford.edu/entries/natural-language-ontology/#InteNoneObje)
-  * [3.3 质量-数量区分](https://plato.stanford.edu/entries/natural-language-ontology/#MassCounDist)
-* [4. 本体论问题](https://plato.stanford.edu/entries/natural-language-ontology/#IssuOnto)
-  * [4.1 自然语言的本体论和核心-边缘区分](https://plato.stanford.edu/entries/natural-language-ontology/#OntoNatuLangCorePeriDist)
-  * [4.2 本体论问题的探讨](https://plato.stanford.edu/entries/natural-language-ontology/#QuesOnto)
-* [5. 观点](https://plato.stanford.edu/entries/natural-language-ontology/#Outl)
-* [参考文献](https://plato.stanford.edu/entries/natural-language-ontology/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/natural-language-ontology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/natural-language-ontology/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/natural-language-ontology/#Rel)
+ 
 
 ***
 

@@ -3,46 +3,7 @@
 *首次发表于2002年8月16日，实质修订于2019年3月5日。*
 
 奥卡姆的威廉（约 1287 年-1347 年）是中世纪高中世纪哲学史上最重要的人物之一，与托马斯·阿奎那和约翰·邓斯·斯科特一起。他今天最为人所知的可能是他对形而上学名义主义的拥护；事实上，“奥卡姆的剃刀”这一方法论原则就是以他的名字命名的。但奥卡姆在中世纪哲学的所有其他主要领域中，包括逻辑、物理学或自然哲学、认识论、伦理学和政治哲学以及神学中，都持有重要且常有影响力的观点。
-
-* [ 1. 生平](https://plato.stanford.edu/entries/ockham/#Life)
-
-  * [1.1 英格兰（约 1287 年-1324 年）](https://plato.stanford.edu/entries/ockham/#EnglC12871324)
-  * [ 1.2 奥维涅 (1324–28)](https://plato.stanford.edu/entries/ockham/#Avig1324)
-  * [ 1.3 慕尼黑 (1328/29–47)](https://plato.stanford.edu/entries/ockham/#Muni1328)
-* [ 2. 著作](https://plato.stanford.edu/entries/ockham/#Writ)
-* [3. 逻辑和语义](https://plato.stanford.edu/entries/ockham/#LogiSema)
-
-  * [3.1 逻辑总纲](https://plato.stanford.edu/entries/ockham/#SummLogi)
-  * [3.2 意义、内涵、指称](https://plato.stanford.edu/entries/ockham/#SignConnSupp)
-  * [3.3 心理语言、内涵和定义](https://plato.stanford.edu/entries/ockham/#MentLangConnDefi)
-* [ 4. 形而上学](https://plato.stanford.edu/entries/ockham/#Meta)
-
-  * [ 4.1 奥卡姆的威廉的剃刀](https://plato.stanford.edu/entries/ockham/#OckhRazo)
-  * [4.2 普遍性的拒绝](https://plato.stanford.edu/entries/ockham/#RejeUniv)
-  * [4.3 阐释或剖析实体](https://plato.stanford.edu/entries/ockham/#ExpoParsAwayEnti)
-* [ 5. 自然哲学](https://plato.stanford.edu/entries/ockham/#NatuPhil)
-* [6. 知识理论](https://plato.stanford.edu/entries/ockham/#TheoKnow)
-
-  * [6.1 物种的拒绝](https://plato.stanford.edu/entries/ockham/#RejeSpec)
-  * [6.2 直观和抽象认知](https://plato.stanford.edu/entries/ockham/#IntuAbstCogn)
-* [ 7. 伦理学](https://plato.stanford.edu/entries/ockham/#Ethi)
-
-  * [ 7.1 美德](https://plato.stanford.edu/entries/ockham/#Virt)
-  * [ 7.2 道德心理学](https://plato.stanford.edu/entries/ockham/#MoraPsyc)
-* [8. 政治哲学](https://plato.stanford.edu/entries/ockham/#PoliPhil)
-
-  * [8.1 贫困的理想](https://plato.stanford.edu/entries/ockham/#IdeaPove)
-  * [8.2 法律问题](https://plato.stanford.edu/entries/ockham/#LegaIssu)
-  * [ 8.3 产权](https://plato.stanford.edu/entries/ockham/#PropRigh)
-* [ 参考文献](https://plato.stanford.edu/entries/ockham/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/ockham/#PrimLite)
-  * [ 二手文献](https://plato.stanford.edu/entries/ockham/#SecoLite)
-  * [ 其他参考书目](https://plato.stanford.edu/entries/ockham/#OtheBibl)
-* [ 学术工具](https://plato.stanford.edu/entries/ockham/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ockham/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ockham/#Rel)
-
+ 
 ---
 
 ## 1. 生命

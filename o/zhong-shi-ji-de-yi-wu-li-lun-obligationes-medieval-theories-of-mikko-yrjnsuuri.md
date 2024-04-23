@@ -4,19 +4,7 @@
 
 在讨论中，人们通常期望坚持真理，至少是在自己所知道的范围内，但也期望避免否认自己已经接受的东西。这两种期望可以理解为辩证遭遇中一个人的一般义务或责任：诚实和连贯的责任。中世纪的义务理论或“义务”是一种逻辑学的流派，特别关注后者。这些理论试图阐明在辩护自己立场时逻辑上需要什么。研究这种连贯性义务的基本环境是想象或进行争论，其中明确允许通过一些特定的附加义务来偏离真理。最简单的附加义务是要求接受一些明显错误的句子，在辩论中必须为其辩护，以使被回应者避免否认它，同时允许逻辑推理的力量约束答案。在这些论文中，从逻辑的角度出发，规则被制定出来，说明辩护应该如何进行，以避免否认自己已经接受的东西。
 
-* [1. 义务作为逻辑的一个分支](https://plato.stanford.edu/entries/obligationes/#ObliBranLogi)
-* [2. 亚里士多德逻辑的背景](https://plato.stanford.edu/entries/obligationes/#BackArisLogi)
-* [3. 沃尔特·伯利的标准理论](https://plato.stanford.edu/entries/obligationes/#WaltBurlStanTheo)
-* [4. 规则的修订](https://plato.stanford.edu/entries/obligationes/#ReviRule)
-* [5. 赢得比赛](https://plato.stanford.edu/entries/obligationes/#WinnGame)
-* [ 参考文献](https://plato.stanford.edu/entries/obligationes/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/obligationes/#PrimLite)
-  * [现代版本和翻译](https://plato.stanford.edu/entries/obligationes/#ModeEditTran)
-  * [ 二手文献](https://plato.stanford.edu/entries/obligationes/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/obligationes/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/obligationes/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/obligationes/#Rel)
+ 
 
 ---
 

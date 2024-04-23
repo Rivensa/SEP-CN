@@ -13,18 +13,7 @@
 哲学家和神学家们认为这些文本证实了上帝无处不在。这段文字首先暗示了上帝确实存在于各个特定的地方。其次，它暗示了没有任何地方是上帝不存在的，也就是说，上帝无处不在。这就是上帝全在的说法。因此，神圣的全在是传统神性属性之一，尽管它比全能、全知或永恒等属性引起的哲学关注较少。
 
 试图解释全在的哲学家们确定了一些有趣的哲学问题，一个充分解释全在必须解决的问题：一个被认为是非物质的存在如何存在于或位于空间中？如果上帝位于特定的地方，其他任何事物也能位于那里吗？如果上帝无处不在，是否意味着他在每个他所在的特定地方都有部分存在？各种哲学家提出了一些解释全在的理论，这些理论被认为适用于非物质的存在。本文将探讨其中一些提议。
-
-* [1. 关于全在的一些问题和历史背景](https://plato.stanford.edu/entries/omnipresence/#SomeIssuInvoOmniHistBack)
-* [2. 力量、知识和本质](https://plato.stanford.edu/entries/omnipresence/#PoweKnowEsse)
-* [3. 两种最近的传统治疗方法](https://plato.stanford.edu/entries/omnipresence/#TwoReceTradTrea)
-* [4. 作为上帝身体的世界](https://plato.stanford.edu/entries/omnipresence/#WorlGodsBody)
-* [5. 一些最近的替代提议](https://plato.stanford.edu/entries/omnipresence/#SomeReceAlteProp)
-* [ 6. 未来的方向](https://plato.stanford.edu/entries/omnipresence/#FutureDirections)
-* [ 参考文献](https://plato.stanford.edu/entries/omnipresence/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/omnipresence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/omnipresence/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/omnipresence/#Rel)
-
+ 
 ---
 
 ## 1. 关于全在和历史背景的一些问题

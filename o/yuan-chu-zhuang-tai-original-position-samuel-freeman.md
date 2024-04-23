@@ -5,30 +5,7 @@
 
 原初状态是约翰·罗尔斯（John Rawls）关于正义的社会契约理论“公正即公平”中的一个核心特征，该理论在《正义论》（A Theory of Justice，简称TJ）中阐述。原初状态旨在成为一个公正和公正的观点，我们在思考正义的基本原则时应该采取这个观点。在采取这个观点时，我们要想象自己处于自由和平等的人的位置上，他们共同同意并致力于为一个有序的民主社会确立社会和政治正义的原则。原初状态的主要区别特征是“无知的面纱”：为了确保完全的公正判断，各方被剥夺了有关个人特征、善的概念以及社会和历史环境的所有知识。他们确实知道他们在行使道德权力方面拥有某些基本利益，以及有关心理学、经济学、政治社会学、生物学和其他社会和自然科学的一般事实。原初状态中的各方被提供了一份从社会和政治哲学传统中提取的正义观念的主要列表，并被指定为从中选择最能使他们有效追求最终目标、承诺和基本利益的正义观念。罗尔斯认为，原初状态中各方最理性的决策是正义的两个原则：第一原则保证了平等的基本权利和自由，以确保自由和平等公民的基本利益，并追求广泛的善的概念。基本自由包括思想、表达和结社的自由；人身自由和完整权，包括拥有个人财产的权利；平等的政治自由，以及受法治保护的权利。 第二原则规范了可允许的社会和经济不平等：首先，它提供了公平的教育、就业和文化机会，使所有人都能发展自己的能力，并公平竞争社会职位和责任。其次，第二原则要求将收入、财富、权力和特权的经济不平等安排得最大程度地使社会中处于劣势的成员受益，使他们比任何其他经济体系中都要好（差异原则）。)
 
-* [1. 历史背景：道德观点](https://plato.stanford.edu/entries/original-position/#HistBackMoraPoinView)
-* [2. 原初状态和社会契约理论](https://plato.stanford.edu/entries/original-position/#OrigPosiSociContDoct)
-* [3. 无知的面纱](https://plato.stanford.edu/entries/original-position/#VeilIgno)
-* [4. 当事方的描述：理性和主要社会利益](https://plato.stanford.edu/entries/original-position/#DescPartRatiPrimSociGood)
-* [5. 原初状态中对选择的其他条件](https://plato.stanford.edu/entries/original-position/#OtheCondChoiOrigPosi)
-
-  * [5.1 正义的情境 (TJ §22)](https://plato.stanford.edu/entries/original-position/#CircJustTJS22)
-  * [5.2 公开性和其他权利的形式限制 (TJ §23)](https://plato.stanford.edu/entries/original-position/#PublOtheFormConsRighTJS23)
-  * [5.3 稳定性要求](https://plato.stanford.edu/entries/original-position/#StabRequ)
-* [6. 从原初状态论证正义原则的论据](https://plato.stanford.edu/entries/original-position/#ArguForPrinJustOrigPosi)
-
-  * [6.1 正义原则](https://plato.stanford.edu/entries/original-position/#PrinJust)
-  * [6.2 最小最大准则的论证 (TJ, §§26–28)](https://plato.stanford.edu/entries/original-position/#ArguMaxiCritTJSs26)
-  * [6.3 承诺的压力](https://plato.stanford.edu/entries/original-position/#StraComm)
-  * [6.4 稳定性、公开性和自尊心](https://plato.stanford.edu/entries/original-position/#StabPublSelfResp)
-* [其他主题的补充文件](https://plato.stanford.edu/entries/original-position/#SuppDocuOtheTopi)
-* [ 参考文献](https://plato.stanford.edu/entries/original-position/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/original-position/#PrimSour)
-  * [ 二次来源](https://plato.stanford.edu/entries/original-position/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/original-position/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/original-position/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/original-position/#Rel)
-
+ 
 ---
 
 ## 1. 历史背景：道德观点

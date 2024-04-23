@@ -10,28 +10,7 @@
 
 关于本条目范围的进一步说明：关于被称为艺术本体论的美学子领域的教育性调查相当丰富；参见尼古拉斯·沃尔特斯多夫（1992 年），格雷戈里·柯里（1998 年，2010 年），约瑟夫·马戈利斯（1998 年），斯蒂芬·戴维斯（2003a，2020 年），阿米·托马森（2004 年，2006b 年），盖伊·罗尔鲍（2005 年），西奥多·格雷西克（2009 年），罗伯特·斯特克（2010 年）和卡尔·马瑟森和本·卡普兰（2011 年）。然而，关于该领域的历史调查尚未出现，文献中关于这个主题的评论零零散散，有时非常误导人。一个缺点是明显倾向于关注较近期的贡献，唯一的显著例外是对罗曼·因加登的作品给予了应有的关注（例如，1931 年，1962 年，参见因加登的条目）。因此，本条目主要关注 19 世纪、20 世纪和 21 世纪初的贡献。
 
-* [1. 艺术作品是否存在？](https://plato.stanford.edu/entries/art-ontology-history/#DoWorkArtExis)
-
-  * [ 1.1 现实主义](https://plato.stanford.edu/entries/art-ontology-history/#Real)
-  * [1.2 存在的方式和存在](https://plato.stanford.edu/entries/art-ontology-history/#ModeBeinExis)
-  * [1.3 想象力和虚构主义](https://plato.stanford.edu/entries/art-ontology-history/#ImagFict)
-  * [ 1.4 随附/监督](https://plato.stanford.edu/entries/art-ontology-history/#Inte)
-  * [ 1.5 理想主义](https://plato.stanford.edu/entries/art-ontology-history/#Idea)
-  * [ 1.6 消除](https://plato.stanford.edu/entries/art-ontology-history/#Elim)
-* [2. 唯一论及其对手](https://plato.stanford.edu/entries/art-ontology-history/#MoniRiva)
-
-  * [2.1 多个 vs. 单个艺术品](https://plato.stanford.edu/entries/art-ontology-history/#MultVsSingArtiItem)
-  * [2.2 艺术载体 vs. 艺术作品](https://plato.stanford.edu/entries/art-ontology-history/#ArtiVehiVsWorkArt)
-* [3. 什么样的实体是艺术作品？](https://plato.stanford.edu/entries/art-ontology-history/#WhatSortEntiWorkArt)
-
-  * [3.1 柏拉图主义及其批评者](https://plato.stanford.edu/entries/art-ontology-history/#PlatCrit)
-  * [3.2 类型-令牌区分](https://plato.stanford.edu/entries/art-ontology-history/#TypeTokeDist)
-  * [ 3.3 规范种类](https://plato.stanford.edu/entries/art-ontology-history/#NormKind)
-  * [3.4 能力、工艺品和行动](https://plato.stanford.edu/entries/art-ontology-history/#ArtaMaki)
-* [ 参考文献](https://plato.stanford.edu/entries/art-ontology-history/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/art-ontology-history/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/art-ontology-history/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/art-ontology-history/#Rel)
+ 
 
 ---
 

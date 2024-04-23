@@ -6,28 +6,7 @@
 
 这篇文章分为三个部分，每个部分都有不同的目标。第一部分介绍了布里奇曼关于操作分析的关键思想，解释了它们的动机并追溯了它们的发展历程。第二部分总结了对操作主义的各种批评，最终导致了一个普遍的哲学共识反对它。第三部分对布里奇曼关于操作分析在当今科学哲学中的剩余潜力提出了一种观点。
 
-* [1. 布里奇曼关于操作分析的思想](https://plato.stanford.edu/entries/operationalism/#BridIdeaOperAnal)
-
-  * [1.1 背景和动机](https://plato.stanford.edu/entries/operationalism/#BackMoti)
-  * [1.2 长度作为操作主义分析的展示](https://plato.stanford.edu/entries/operationalism/#LengShowOperAnal)
-  * [1.3 对其他物理概念的批评](https://plato.stanford.edu/entries/operationalism/#CritOthePhysConc)
-  * [1.4 物理学之外的含义](https://plato.stanford.edu/entries/operationalism/#ImplOutsPhys)
-* [2. 操作主义的批评](https://plato.stanford.edu/entries/operationalism/#CritOper)
-
-  * [2.1 操作定义不能穷尽意义](https://plato.stanford.edu/entries/operationalism/#OperDefiDoNotExhaMean)
-  * [2.2 不是所有有用的概念都需要操作主义定义](https://plato.stanford.edu/entries/operationalism/#OperDefiNotRequForAllUsefConc)
-  * [2.3 什么是操作？](https://plato.stanford.edu/entries/operationalism/#WhatOper)
-  * [2.4 操作是私有的还是公共的？](https://plato.stanford.edu/entries/operationalism/#OperPrivPubl)
-* [3. 操作主义的当前相关性](https://plato.stanford.edu/entries/operationalism/#CurrReleOper)
-
-  * [3.1 作为科学实践分析单位的操作](https://plato.stanford.edu/entries/operationalism/#OperUnitAnalSciePrac)
-  * [3.2 操作主义作为一种扩展的哲学](https://plato.stanford.edu/entries/operationalism/#OperPhilExte)
-  * [3.3 操作主义作为增加经验内容的策略](https://plato.stanford.edu/entries/operationalism/#OperStraForIncrEmpiCont)
-  * [3.4 操作分析作为揭示复杂性的方法](https://plato.stanford.edu/entries/operationalism/#OperAnalReveComp)
-* [ 参考文献](https://plato.stanford.edu/entries/operationalism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/operationalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/operationalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/operationalism/#Rel)
+ 
 
 ---
 

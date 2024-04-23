@@ -8,31 +8,7 @@ _首次发表于2011年12月8日；实质修订于2020年8月31日_
 
 第 1 节阐述了从普通保守的对象概念中偏离的各种方式，无论是通过消除普通对象还是允许比我们通常认为存在的更多对象。第 2 节研究了旨在激发这些偏离的谜题和论证。第 3 节研究了一些反对消除和允许观点的论证。最后，第 4 节从存在哪些对象的问题转向存在哪些根本对象的问题。
 
-* [1. 位置](https://plato.stanford.edu/entries/ordinary-objects/#OrdRevCon)
-  * [1.1 保守主义](https://plato.stanford.edu/entries/ordinary-objects/#OrdCon)
-  * [1.2 消除主义](https://plato.stanford.edu/entries/ordinary-objects/#EliCon)
-  * [1.3 允许主义](https://plato.stanford.edu/entries/ordinary-objects/#PerCon)
-* [2. 反对保守本体论](https://plato.stanford.edu/entries/ordinary-objects/#VagSorArg)
-  * [2.1 Sorites 论证](https://plato.stanford.edu/entries/ordinary-objects/#KinMem)
-  * [2.2 模糊性论证](https://plato.stanford.edu/entries/ordinary-objects/#VagCom)
-  * [2.3 物质构成](https://plato.stanford.edu/entries/ordinary-objects/#MatCon)
-  * [2.4 不确定的身份](https://plato.stanford.edu/entries/ordinary-objects/#IndIde)
-  * [2.5 任意性论证](https://plato.stanford.edu/entries/ordinary-objects/#Arb)
-  * [2.6 揭穿论证](https://plato.stanford.edu/entries/ordinary-objects/#DebArg)
-  * [2.7 过度决定论证](https://plato.stanford.edu/entries/ordinary-objects/#CauOve)
-  * [2.8 多数问题](https://plato.stanford.edu/entries/ordinary-objects/#ProMan)
-* [3. 反对修正本体论](https://plato.stanford.edu/entries/ordinary-objects/#AgaRevCon)
-  * [3.1 反例论证](https://plato.stanford.edu/entries/ordinary-objects/#ArgCou)
-  * [3.2 仁慈的论据](https://plato.stanford.edu/entries/ordinary-objects/#ArgCha)
-  * [3.3 蕴涵的论据](https://plato.stanford.edu/entries/ordinary-objects/#ArgEnt)
-  * [3.4 巧合的论据](https://plato.stanford.edu/entries/ordinary-objects/#ArgCoi)
-  * [3.5 从 Gunk 和 Junk 的论证](https://plato.stanford.edu/entries/ordinary-objects/#ArgGun)
-* [4. 基本存在者](https://plato.stanford.edu/entries/ordinary-objects/#FunExi)
-* [参考文献](https://plato.stanford.edu/entries/ordinary-objects/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/ordinary-objects/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ordinary-objects/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ordinary-objects/#Rel)
-
+ 
 ***
 
 ## 1. 位置

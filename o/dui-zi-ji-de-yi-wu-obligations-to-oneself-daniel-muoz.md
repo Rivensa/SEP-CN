@@ -12,25 +12,7 @@
 
 我们从自己对自己的义务是什么的问题开始（§1）。从那里，我们阐述了“悖论”及其历史（§2），以及对此产生的三种理论（§§3-5）。我们在调查应用问题（§6）后总结（§7），重点关注广泛关注的主题，但为了增加趣味性，也加入了一些具体细节，比如康德对理发的疑虑。
 
-* [1. 什么是对自己的义务？](https://plato.stanford.edu/entries/self-obligations/#WhatObliOnes)
-* [2. 自我解脱的悖论](https://plato.stanford.edu/entries/self-obligations/#ParaSelfRele)
-* [3. 否认对自己的义务](https://plato.stanford.edu/entries/self-obligations/#DenyObliOnes)
-* [4. 对自己不可放弃的义务](https://plato.stanford.edu/entries/self-obligations/#UnwaObliOnes)
-* [5. 对自己的可放弃义务](https://plato.stanford.edu/entries/self-obligations/#WaivObliOnes)
-* [ 6. 应用](https://plato.stanford.edu/entries/self-obligations/#Appl)
-
-  * [ 6.1 自杀](https://plato.stanford.edu/entries/self-obligations/#Suic)
-  * [ 6.2 随附](https://plato.stanford.edu/entries/self-obligations/#Supe)
-  * [ 6.3 自我承诺](https://plato.stanford.edu/entries/self-obligations/#SelfProm)
-  * [6.4 身体改造和自我表达](https://plato.stanford.edu/entries/self-obligations/#BodyModiSelfExpr)
-  * [ 6.5 自我认知](https://plato.stanford.edu/entries/self-obligations/#SelfKnow)
-  * [ 6.6 自尊](https://plato.stanford.edu/entries/self-obligations/#SelfResp)
-  * [ 6.7 隐私](https://plato.stanford.edu/entries/self-obligations/#Priv)
-* [ 7. 结论](https://plato.stanford.edu/entries/self-obligations/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/self-obligations/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/self-obligations/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/self-obligations/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/self-obligations/#Rel)
+ 
 
 ---
 

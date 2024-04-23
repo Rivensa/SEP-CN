@@ -5,19 +5,7 @@
 
 迈克尔·奥克肖特（1901-1990）通常被称为保守思想家。但这个标签只能识别他思想的一个方面，并且容易引起误解，因为它是模糊的。他的思想源于对欧洲思想文献的终身阅读，通过对其论证和前提的哲学反思而得以深化。奥克肖特的工作基于这样一个前提：哲学问题是相互关联的，回答这些问题需要广泛的批判性调查。他在道德和政治生活方面的著作中，一个经常出现的主题是个体性与否定个体性之间的紧张关系，他称之为野蛮主义。当政治被看作是强加集体目标时，个人自由受到威胁。政治哲学家们对共和主义自由作为独立性或非统治的兴趣，以及对政治现实主义作为道德主义的替代方案的兴趣，表明了他思想的持续相关性。奥克肖特对哲学的贡献不仅限于政治哲学。它还包括对区分不同思维模式的标准的反思，将历史研究定义为一种思维模式，确定不同理性观念及其在实践判断中的位置，并区分现代国家的竞争性理解。奥克肖特还写过宗教、道德、教育、美学、霍布斯和政治思想史。但是，本条目不会概述这些主题，而是专注于他对哲学最重要的贡献：他的模式理论、对理性主义的批评、他的论述现代政治的关键区别涉及国家的性质和目的，以及他的历史哲学。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/oakeshott/#LifeWork)
-* [2. 经验的模式](https://plato.stanford.edu/entries/oakeshott/#ModeExpe)
-* [3. 理性和理性主义](https://plato.stanford.edu/entries/oakeshott/#RatiRati)
-* [ 4. 公民社会](https://plato.stanford.edu/entries/oakeshott/#CiviAsso)
-* [5. 历史和人文科学](https://plato.stanford.edu/entries/oakeshott/#HistHumaScie)
-* [ 参考文献](https://plato.stanford.edu/entries/oakeshott/#Bib)
-
-  * [ 迈克尔·奥克肖特的著作](https://plato.stanford.edu/entries/oakeshott/#WorkOake)
-  * [ 其他著作](https://plato.stanford.edu/entries/oakeshott/#OtheWork)
-* [ 学术工具](https://plato.stanford.edu/entries/oakeshott/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/oakeshott/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/oakeshott/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品
