@@ -609,7 +609,7 @@ In recent years, further worries have been raised concerning mereological theori
 
 这些担忧非常重要，人们可能认为上述讨论的一些原则需要相应地重新审视，不是因为它们的本体论重要性，而是因为它们的经典、二值前提。例如，EM 的外延性定理（27）表明，具有相同适当部分的复合物是相同的，但在存在不确定性的情况下，这可能需要限定条件。图 9 左侧的模型描绘了 x 和 y 由于具有不同的确定部分而不相同；然而，人们可能更愿意将这种情况描述为 x 和 y 之间的身份本身是不确定的，这是由于两个外部原子的部分不确定状态。相反，在右侧的模型中，x 和 y 具有相同的确定适当部分，然而人们可能更愿意对它们的身份保持暂缓判断，这是由于中间原子的不确定状态。
 
-![Figure 9](https://plato.stanford.edu/entries/mereology/Figure9\2013.jpg)
+![Figure 9](https://plato.stanford.edu/entries/mereology/Figure9_2013.jpg)
 
 > 图 9. 具有不确定部分的物体（虚线）。
 
