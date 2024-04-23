@@ -5,32 +5,7 @@
 
 《数学原理》[PM]是 A.N.怀特海德和伯特兰·罗素于 1910 年至 1913 年在剑桥大学出版的三卷本著作，其中使用了符号逻辑的概念和原理推导了大部分数学。该作品中的符号表示法已被 20 世纪逻辑学的后续发展所取代，以至于初学者很难完全阅读《数学原理》。本文介绍了《数学原理》的符号体系，展示了如何将该符号体系翻译成更现代的表示法，使用的概念对于任何学过符号逻辑或集合论的人来说应该是熟悉的。这种翻译是为了帮助学习原始符号体系，而原始符号体系本身是一个学术争议的主题，并且包含了实质性的逻辑原理，因此不能简单地用现代符号体系替代。因此，学习符号体系是学习《数学原理》独特的逻辑原理的第一步。
 
-* [1. 为什么要学习《数学原理》中的符号体系？](https://plato.stanford.edu/entries/pm-notation/#WhyLearSymbPrinMath)
-* [ 2. 原始符号](https://plato.stanford.edu/entries/pm-notation/#PrimSymb)
-* [3. 使用点号作为标点符号](https://plato.stanford.edu/entries/pm-notation/#UseDotsForPunc)
-
-  * [3.1 一些基本示例](https://plato.stanford.edu/entries/pm-notation/#SomeBasiExam)
-  * [ 3.2 更多示例](https://plato.stanford.edu/entries/pm-notation/#Exam)
-* [4. 命题函数](https://plato.stanford.edu/entries/pm-notation/#PropFunc)
-* [5. 类型和顺序的缺失符号](https://plato.stanford.edu/entries/pm-notation/#MissNotaForTypeOrde)
-
-  * [ 5.1 简单类型](https://plato.stanford.edu/entries/pm-notation/#SimpType)
-  * [ 5.2 分支类型](https://plato.stanford.edu/entries/pm-notation/#RamiType)
-* [ 6. 变量](https://plato.stanford.edu/entries/pm-notation/#Vari)
-* [7. 预测函数和身份](https://plato.stanford.edu/entries/pm-notation/#PredFuncIden)
-* [8. 确定描述](https://plato.stanford.edu/entries/pm-notation/#DefiDesc)
-* [ 9. 类](https://plato.stanford.edu/entries/pm-notation/#Clas)
-* [10. 结论数理逻辑](https://plato.stanford.edu/entries/pm-notation/#ConcMathLogi)
-* [11. 《数学原理》前言](https://plato.stanford.edu/entries/pm-notation/#ProToCarAri)
-* [12. 《数学原理》基数算术（第三部分）](https://plato.stanford.edu/entries/pm-notation/#CardAritIII)
-* [13. 关系算术（第四部分）](https://plato.stanford.edu/entries/pm-notation/#RelaAritIV)
-* [14. 系列（第五部分）](https://plato.stanford.edu/entries/pm-notation/#SeriesV)
-* [15. 数量（第六部分）](https://plato.stanford.edu/entries/pm-notation/#QuantityVI)
-* [ 16. 结论](https://plato.stanford.edu/entries/pm-notation/#Conclusion)
-* [ 参考文献](https://plato.stanford.edu/entries/pm-notation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/pm-notation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pm-notation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pm-notation/#Rel)
+ 
 
 ---
 

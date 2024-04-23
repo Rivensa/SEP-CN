@@ -7,32 +7,7 @@
 
 一般来说，完美主义作家提出了一个客观的善的解释，然后根据这个善的解释发展了伦理学和/或政治学的解释。不同的完美主义作家提出了不同的善的解释，并得出了不同的伦理学和政治学结论。但所有的完美主义者都捍卫一个客观的善的解释，即它们将事态、活动和/或关系本身视为善，而不是因为它们被人类所渴望或享受而被视为善。
 
-* [1. 完美主义和价值理论](https://plato.stanford.edu/entries/perfectionism-moral/#PerValThe)
-
-  * [1.1 完美主义的两个版本](https://plato.stanford.edu/entries/perfectionism-moral/#TwoVerPer)
-  * [1.2 完美主义和多元主义](https://plato.stanford.edu/entries/perfectionism-moral/#PerPlu)
-* [2. 完美主义伦理学](https://plato.stanford.edu/entries/perfectionism-moral/#PerEth)
-
-  * [2.1 后果主义和义务论](https://plato.stanford.edu/entries/perfectionism-moral/#ConDeo)
-  * [2.2 精英主义和不平等](https://plato.stanford.edu/entries/perfectionism-moral/#EliIne)
-  * [2.3 自我关注的义务](https://plato.stanford.edu/entries/perfectionism-moral/#SelRegDut)
-* [3. 政治中的完美主义](https://plato.stanford.edu/entries/perfectionism-moral/#PerPol)
-
-  * [3.1 国家中立原则](https://plato.stanford.edu/entries/perfectionism-moral/#PriStaNeu)
-  * [ 3.2 尊重个人](https://plato.stanford.edu/entries/perfectionism-moral/#ResPer)
-  * [3.3 自尊和社会卓越](https://plato.stanford.edu/entries/perfectionism-moral/#SelRes)
-  * [3.4 伤害原则](https://plato.stanford.edu/entries/perfectionism-moral/#HarPri)
-  * [3.5 操纵和独立](https://plato.stanford.edu/entries/perfectionism-moral/#ManInd)
-  * [ 3.6 间接论证](https://plato.stanford.edu/entries/perfectionism-moral/#IndArg)
-* [ 4. 结论](https://plato.stanford.edu/entries/perfectionism-moral/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/perfectionism-moral/#Bib)
-
-  * [ 引用文献](https://plato.stanford.edu/entries/perfectionism-moral/#RefCit)
-  * [ 其他作品](https://plato.stanford.edu/entries/perfectionism-moral/#OthWor)
-* [ 学术工具](https://plato.stanford.edu/entries/perfectionism-moral/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/perfectionism-moral/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/perfectionism-moral/#Rel)
-
+ 
 ---
 
 ## 1. 完美主义和价值理论

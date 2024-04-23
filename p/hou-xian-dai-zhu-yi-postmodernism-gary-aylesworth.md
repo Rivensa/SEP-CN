@@ -7,21 +7,7 @@
 “后现代主义”这个术语首次进入哲学词汇表是在1979年，当时让-弗朗索瓦·吕奥塔尔德出版了《后现代条件》。因此，我在接下来的部分中给予吕奥塔尔德首要地位。在选择其他人物时，我遵循了选择的经济性。我只选择了那些在哲学后现代主义讨论中最常被引用的人物，其中包括五位法国人和两位意大利人，尽管他们个别可能不属于同一派别。按照国籍排序可能会重复一个他们会质疑的现代主义模式，但他们之间存在着很大的差异，这些差异往往沿着语言和文化的界线分裂。例如，法国人使用在20世纪50年代和60年代初巴黎结构主义革命期间发展起来的概念，包括对马克思和弗洛伊德的结构主义解读。因此，他们经常被称为“后结构主义者”。他们还将1968年五月的事件视为现代思想及其机构，尤其是大学的分水岭时刻。相比之下，意大利人则借鉴了美学和修辞学传统，包括乔瓦尼·巴蒂斯塔·维科和贝内代托·克罗齐等人。他们的重点是强调历史性，并且他们对革命时刻没有任何迷恋。相反，他们强调连续性、叙事和连续性内的差异，而不是对策和话语间的差距。然而，双方都没有暗示后现代主义是对现代性的攻击或完全背离。相反，它们的差异存在于现代性本身之内，后现代主义是现代思维在另一种模式下的延续。
 
 最后，我已经包括了哈贝马斯对后现代主义的批评的摘要，代表了大西洋两岸的主要讨论线索。哈贝马斯认为后现代主义通过自我参照而自相矛盾，并指出后现代主义者预设了他们试图削弱的概念，例如自由、主体性或创造力。他认为这是 19 世纪和 20 世纪艺术先锋所采用的策略在修辞上的应用，而这种先锋只有在现代性将艺术价值与科学和政治分离的情况下才可能存在。在他看来，后现代主义是对知识和公共话语的非法美学化。哈贝马斯试图通过将现代理性作为一套程序规则的系统来恢复现代理性，以实现交流主体之间的共识和协议。在后现代主义将审美的戏剧性和颠覆引入科学和政治的程度上，他以现代性的名义抵制它，而不是自我转变。
-
-* [ 1. 先驱者](https://plato.stanford.edu/entries/postmodernism/#1)
-* [2. 后现代条件](https://plato.stanford.edu/entries/postmodernism/#2)
-* [3. 家谱和主体性](https://plato.stanford.edu/entries/postmodernism/#3)
-* [4. 生产性差异](https://plato.stanford.edu/entries/postmodernism/#4)
-* [ 5. 解构](https://plato.stanford.edu/entries/postmodernism/#5)
-* [ 6. 超现实主义](https://plato.stanford.edu/entries/postmodernism/#6)
-* [7. 后现代诠释学](https://plato.stanford.edu/entries/postmodernism/#7)
-* [8. 后现代修辞学和美学](https://plato.stanford.edu/entries/postmodernism/#8)
-* [ 9. 哈贝马斯的批评](https://plato.stanford.edu/entries/postmodernism/#9)
-* [ 参考书目](https://plato.stanford.edu/entries/postmodernism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/postmodernism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/postmodernism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/postmodernism/#Rel)
-
+ 
 ---
 
 ## 1. 先驱者

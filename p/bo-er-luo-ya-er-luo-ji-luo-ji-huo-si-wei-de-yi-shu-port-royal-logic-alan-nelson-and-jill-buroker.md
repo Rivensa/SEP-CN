@@ -10,20 +10,7 @@
 
 在本文中，对《波尔·罗亚尔逻辑》的引用以 Buroker 1996 年的英文翻译中所列的部分、章节和页码为准。
 
-* [1. 安托万·阿尔诺、雅各宗运动和波尔·罗亚尔修道院](https://plato.stanford.edu/entries/port-royal-logic/#AntoArnaJansPortRoyaAbbe)
-* [2. 笛卡尔背景](https://plato.stanford.edu/entries/port-royal-logic/#CartBack)
-* [3. 波尔·罗亚尔逻辑结构概述](https://plato.stanford.edu/entries/port-royal-logic/#OverStruPortRoyaLogi)
-* [ 4. 思想](https://plato.stanford.edu/entries/port-royal-logic/#Idea)
-* [5. 判断和命题](https://plato.stanford.edu/entries/port-royal-logic/#JudgProp)
-* [6. 推理和形式方法](https://plato.stanford.edu/entries/port-royal-logic/#ReasFormMeth)
-* [7. 方法、科学和信仰](https://plato.stanford.edu/entries/port-royal-logic/#MethScieFait)
-* [ 参考书目](https://plato.stanford.edu/entries/port-royal-logic/#Bib)
-
-  * [《波尔·罗亚尔逻辑》的最新版本](https://plato.stanford.edu/entries/port-royal-logic/#ReceEditPortRoyaLogi)
-  * [引用或推荐的作品](https://plato.stanford.edu/entries/port-royal-logic/#WorkCiteReco)
-* [ 学术工具](https://plato.stanford.edu/entries/port-royal-logic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/port-royal-logic/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/port-royal-logic/#Rel)
+ 
 
 ---
 

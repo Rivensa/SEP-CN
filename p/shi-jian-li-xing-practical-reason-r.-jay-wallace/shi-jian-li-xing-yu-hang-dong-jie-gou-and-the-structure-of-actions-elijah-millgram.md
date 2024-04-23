@@ -10,17 +10,7 @@
 
 行动的特点中最受关注的是，首先是其计算结构，其次是其可归因性，第三是其追求挑战和雄心壮志的愿望，第四是其在社会实践中的角色，第五是其评价特征，它们将按照这个顺序进行讨论。这将使我们能够就实践思考的前景和议程发表意见。
 
-* [1. 行动的计算观点](https://plato.stanford.edu/entries/practical-reason-action/#CalcViewActi)
-* [2. 行动的作者观点](https://plato.stanford.edu/entries/practical-reason-action/#AuthViewActi)
-* [3. 行动的挑战性观点](https://plato.stanford.edu/entries/practical-reason-action/#ChalSeekViewActi)
-* [4. 行动的实践观点](https://plato.stanford.edu/entries/practical-reason-action/#PracViewActi)
-* [5. 评估作为行动的基本要素](https://plato.stanford.edu/entries/practical-reason-action/#EvalEsseActi)
-* [6. 展望和未解决问题](https://plato.stanford.edu/entries/practical-reason-action/#ProsOutsIssu)
-* [ 参考文献](https://plato.stanford.edu/entries/practical-reason-action/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/practical-reason-action/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/practical-reason-action/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/practical-reason-action/#Rel)
-
+ 
 ---
 
 ## 1. 行动的计算观点

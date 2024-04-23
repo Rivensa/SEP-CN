@@ -4,41 +4,7 @@ _首次发表于2005年3月18日；实质性修订于2021年8月30日。_
 
 在当代哲学中，“知觉的内容”一词大致指的是通过感知经验传达给主体的东西。例如，假设你正在看一架钢琴的锤子和琴弦。当你看到它们时，它们会以某种形状、颜色、质地和相互排列的方式呈现给你。你的视觉经验告诉你，钢琴具有这些特征。如果你的经验在某种程度上是错觉的，那么钢琴实际上并不具备所有这些特征。但即使如此，你的经验仍然会传达给你某种东西。本文将探讨三个主要问题。首先（第 1-2 节），内容是什么，它们与经验的关系是什么？其次（第 3-7 节），哪些内容是经验的内容？最后（第 8 节），当经验具有内容时，它们是基于什么？
 
-* [1. 什么是感知经验？](https://plato.stanford.edu/entries/perception-contents/#1)
-* [2. 内容作为准确性条件](https://plato.stanford.edu/entries/perception-contents/#2)
-  * [2.1 经验是否具有准确性条件？](https://plato.stanford.edu/entries/perception-contents/#2.1)
-  * [2.2 信念和经验](https://plato.stanford.edu/entries/perception-contents/#2.2)
-  * [2.3 内容和态度](https://plato.stanford.edu/entries/perception-contents/#2.3)
-* [3. 内容的种类](https://plato.stanford.edu/entries/perception-contents/#3)
-  * [3.1 罗素式内容](https://plato.stanford.edu/entries/perception-contents/#3.1)
-  * [3.2 可能世界的内容](https://plato.stanford.edu/entries/perception-contents/#3.2)
-  * [3.3 弗雷格内容](https://plato.stanford.edu/entries/perception-contents/#3.3)
-  * [3.4 指示内容](https://plato.stanford.edu/entries/perception-contents/#3.4)
-  * [3.5 多重内容](https://plato.stanford.edu/entries/perception-contents/#3.5)
-* [4. 属性的表征](https://plato.stanford.edu/entries/perception-contents/#4)
-  * [4.1 哪些颜色属性被表征？](https://plato.stanford.edu/entries/perception-contents/#4.1)
-  * [4.2 哪些空间属性被表征？](https://plato.stanford.edu/entries/perception-contents/#4.2)
-  * [4.3 高层属性是否被表示？](https://plato.stanford.edu/entries/perception-contents/#4.3)
-* [5. 对象的表示](https://plato.stanford.edu/entries/perception-contents/#5)
-  * [5.1 涉及对象的、有缺陷的和存在性的内容](https://plato.stanford.edu/entries/perception-contents/#5.1)
-  * [5.2 因果和非因果的内容](https://plato.stanford.edu/entries/perception-contents/#5.2)
-  * [5.3 经验中是否描绘了普通物体？](https://plato.stanford.edu/entries/perception-contents/#5.3)
-  * [5.4 知觉独立性](https://plato.stanford.edu/entries/perception-contents/#5.4)
-* [6. 概念和内容](https://plato.stanford.edu/entries/perception-contents/#6)
-  * [6.1 知觉内容的概念主义观点](https://plato.stanford.edu/entries/perception-contents/#6.1)
-  * [6.2 非概念性内容的各种形式](https://plato.stanford.edu/entries/perception-contents/#6.2)
-* [7. 内容和知觉](https://plato.stanford.edu/entries/perception-contents/#7)
-  * [7.1 关于知觉的再现主义](https://plato.stanford.edu/entries/perception-contents/#7.1)
-  * [7.2 知觉是否决定内容？](https://plato.stanford.edu/entries/perception-contents/#7.2)
-* [8. 知觉中的意向性理论](https://plato.stanford.edu/entries/perception-contents/#8)
-  * [8.1 内容的外在主义与内在主义](https://plato.stanford.edu/entries/perception-contents/#8.1)
-  * [8.2 功能主义信息理论的知觉](https://plato.stanford.edu/entries/perception-contents/#8.2)
-  * [8.3 现象意向性](https://plato.stanford.edu/entries/perception-contents/#8.3)
-* [9. 未来研究方向](https://plato.stanford.edu/entries/perception-contents/#9)
-* [参考文献](https://plato.stanford.edu/entries/perception-contents/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/perception-contents/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/perception-contents/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/perception-contents/#Rel)
+ 
 
 ***
 

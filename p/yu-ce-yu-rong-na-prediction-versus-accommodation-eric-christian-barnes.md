@@ -3,27 +3,7 @@
 _首次发表于2018年7月17日；实质修订于2022年9月23日_
 
 在早期的哲学文献中，“预测”被认为是一个理论的经验后果，在该理论在构建时尚未得到验证的情况下产生的，“解释”是已经得到验证的。认为预测在科学理论评估中优于解释的观点被称为“预测主义”。然而，通常情况下，预测主义更精确地被理解为当预测时，证据比解释更强烈地确认理论。关于“预测”的概念已经进行了大量的讨论，并解释了为什么预测主义是真实的或不真实的，以及科学史和最近的逻辑（Martin 和 Hjortland 2021）是否表明科学家在评估理论时是预测主义者。关于预测主义的争论在科学现实主义的争论中也起着重要的作用。
-
-* [1. 历史介绍](https://plato.stanford.edu/entries/prediction-accommodation/#HistIntr)
-* [2. 临时假设](https://plato.stanford.edu/entries/prediction-accommodation/#AdHocHypo)
-* [3. 新奇性的早期描述](https://plato.stanford.edu/entries/prediction-accommodation/#EarlCharNove)
-* [4. 一个预测论分类法](https://plato.stanford.edu/entries/prediction-accommodation/#PredTaxo)
-* [5. 空支持论命题](https://plato.stanford.edu/entries/prediction-accommodation/#NullSuppThes)
-* [6 个预测主义的当代理论](https://plato.stanford.edu/entries/prediction-accommodation/#ContTheoPred)
-  * [6.1 可靠的发现方法](https://plato.stanford.edu/entries/prediction-accommodation/#ReliDiscMeth)
-  * [6.2 解释的调整](https://plato.stanford.edu/entries/prediction-accommodation/#FudgExpl)
-  * [6.3 任意和非任意的连接词](https://plato.stanford.edu/entries/prediction-accommodation/#ArbiNonArbiConj)
-  * [6.4 严格测试](https://plato.stanford.edu/entries/prediction-accommodation/#SeveTest)
-  * [6.5 条件和无条件的确认](https://plato.stanford.edu/entries/prediction-accommodation/#CondUncoConf)
-  * [6.6 弓箭手类比](https://plato.stanford.edu/entries/prediction-accommodation/#ArchAnal)
-  * [6.7 赤池方法](https://plato.stanford.edu/entries/prediction-accommodation/#AkaiAppr)
-  * [6.8 背景信念的认可新颖性和确认](https://plato.stanford.edu/entries/prediction-accommodation/#EndoNoveConfBackBeli)
-* [7. 反预测主义](https://plato.stanford.edu/entries/prediction-accommodation/#AntiPred)
-* [8 现实主义/反现实主义辩论](https://plato.stanford.edu/entries/prediction-accommodation/#RealRealDeba)
-* [参考文献](https://plato.stanford.edu/entries/prediction-accommodation/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/prediction-accommodation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/prediction-accommodation/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/prediction-accommodation/#Rel)
+ 
 
 ***
 

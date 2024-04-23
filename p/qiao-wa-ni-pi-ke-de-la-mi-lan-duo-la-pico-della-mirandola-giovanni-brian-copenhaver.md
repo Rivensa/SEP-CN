@@ -4,17 +4,7 @@
 
 乔瓦尼·皮科·德拉·米兰多拉（1463-1494 年）是继马尔西利奥·菲奇诺之后，文艺复兴时期最著名的哲学家：他的《人的尊严演讲》比 15 世纪的任何其他哲学著作都更为人所知。皮科也非常独创 - 实际上，非常个人化。他思想的故意晦涩和积极深奥的特点可能有助于解释为什么文艺复兴哲学在英语哲学家所接受的经典学科史中一直占据如此小的地位，直到最近。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/pico-della-mirandola/#Life)
-* [2. 作品和声誉](https://plato.stanford.edu/entries/pico-della-mirandola/#WorkRepu)
-* [ 参考书目](https://plato.stanford.edu/entries/pico-della-mirandola/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/pico-della-mirandola/#PrimLite)
-  * [ 参考书目列表](https://plato.stanford.edu/entries/pico-della-mirandola/#Bibs)
-  * [ 二次文献](https://plato.stanford.edu/entries/pico-della-mirandola/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/pico-della-mirandola/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pico-della-mirandola/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pico-della-mirandola/#Rel)
-
+ 
 ---
 
 ## 1. 生活

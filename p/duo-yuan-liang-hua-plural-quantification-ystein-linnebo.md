@@ -17,35 +17,7 @@
 自从弗雷格以来，形式逻辑更倾向于使用两个单数量词∀x 和∃x，而不是它们的复数对应物∀xx 和∃xx（读作对于任意的事物 xx 和存在一些事物 xx）。但是在最近几十年中，有人争论我们有充分的理由在我们的原始逻辑概念中也包括复数量词∀xx 和∃xx（Boolos 1984 和 1985a）。
 
 更有争议的是，有人认为带有复数和单数量化的结果形式系统符合“纯逻辑”的条件；特别是，它是普遍适用的、本体论上无罪的和完全理解的。除了本身具有趣味性外，如果这个论点是正确的，它将使复数量化成为一个无罪但极其强大的工具，可以应用于形而上学、数学哲学和哲学逻辑。例如，乔治·布洛斯（George Boolos）使用复数量化来解释单调二阶逻辑[1]，并基于此论证单调二阶逻辑符合“纯逻辑”的条件。复数量化还被用于试图捍卫逻辑主义思想、解释集合论，并消除对数学对象和复杂对象的本体论承诺。
-
-* [1. 复数量化的语言和理论](https://plato.stanford.edu/entries/plural-quant/#LangTheoPlurQuan)
-
-  * [1.1 规范化复数量化](https://plato.stanford.edu/entries/plural-quant/#RegiPlurQuan)
-  * [1.2 PFO 和 PFO+理论](https://plato.stanford.edu/entries/plural-quant/#TheoPFOPFO)
-* [2. 复数量化 vs. 二阶量化](https://plato.stanford.edu/entries/plural-quant/#PlurQuanVsSecoOrdeQuan)
-
-  * [2.1 复数量化和单调二阶逻辑](https://plato.stanford.edu/entries/plural-quant/#PlurQuanMonaSecoOrdeLogi)
-  * [ 2.2 关系](https://plato.stanford.edu/entries/plural-quant/#Rela)
-  * [ 2.3 模态语境](https://plato.stanford.edu/entries/plural-quant/#ModaCont)
-  * [2.4 更高层次的复数量化？](https://plato.stanford.edu/entries/plural-quant/#HighLevePlurQuan)
-* [3. 逻辑性论述](https://plato.stanford.edu/entries/plural-quant/#LogiThes)
-* [4. 复数量词的应用](https://plato.stanford.edu/entries/plural-quant/#ApplPlurQuan)
-
-  * [4.1 建立一阶逻辑的逻辑性](https://plato.stanford.edu/entries/plural-quant/#EstaLogiMonaSecoOrdeLogi)
-  * [ 4.2 逻辑主义](https://plato.stanford.edu/entries/plural-quant/#Logi)
-  * [ 4.3 集合论](https://plato.stanford.edu/entries/plural-quant/#SetTheo)
-  * [4.4 数学名义主义](https://plato.stanford.edu/entries/plural-quant/#MathNomi)
-  * [4.5 消除复杂对象](https://plato.stanford.edu/entries/plural-quant/#ElimCompObje)
-* [5. 本体论的纯真？](https://plato.stanford.edu/entries/plural-quant/#OntoInno)
-
-  * [5.1 集合论的论证](https://plato.stanford.edu/entries/plural-quant/#SetTheoArgu)
-  * [5.2 错误断言的论证](https://plato.stanford.edu/entries/plural-quant/#IncoPredArgu)
-  * [5.3 直接论证](https://plato.stanford.edu/entries/plural-quant/#DireArgu)
-  * [5.4 语义值和本体承诺](https://plato.stanford.edu/entries/plural-quant/#SemaValuOntoComm)
-* [ 参考文献](https://plato.stanford.edu/entries/plural-quant/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/plural-quant/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plural-quant/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plural-quant/#Rel)
+ 
 
 ---
 

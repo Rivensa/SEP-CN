@@ -14,56 +14,7 @@
 
 本文的最后一部分是最长且最广泛的。在那里，将考虑当代关于公共话语中的隐私的辩论，以及从隐私和健康到群体隐私、隐私的社会维度以及隐私与权力之间的关系的一系列哲学、法律和人类学理论。最后，将得出结论，关于隐私的许多辩论，跨越非常不同的社会领域，表明隐私问题在很大程度上决定了公民的个人、社会和政治生活。一个自由、自治的生活，富有良好的关系——亲密的、社会的和政治的——正变得越来越受到威胁。关于隐私的辩论因此变得越来越重要，不仅在学术界，而且在社会公共领域中也是如此。
 
-* [1. 隐私的历史](https://plato.stanford.edu/entries/privacy/#HistPriv)
-
-  * [1.1 概念化私人领域的历史](https://plato.stanford.edu/entries/privacy/#HistConcPrivSphe)
-  * [1.2 隐私的历史](https://plato.stanford.edu/entries/privacy/#HistInfoPriv)
-  * [1.3 法律保护的历史](https://plato.stanford.edu/entries/privacy/#HistLegaProt)
-* [2. 对隐私的批评](https://plato.stanford.edu/entries/privacy/#CritPriv)
-
-  * [2.1 汤姆森的还原主义](https://plato.stanford.edu/entries/privacy/#ThomRedu)
-  * [2.2 波斯纳的经济批评](https://plato.stanford.edu/entries/privacy/#PosnEconCrit)
-  * [2.3 社群主义批评](https://plato.stanford.edu/entries/privacy/#CommCrit)
-  * [2.4 女权主义批评](https://plato.stanford.edu/entries/privacy/#FemiCrit)
-* [3. 意义和价值](https://plato.stanford.edu/entries/privacy/#MeanValu)
-
-  * [ 3.1 语义学](https://plato.stanford.edu/entries/privacy/#Sema)
-  * [3.2 定义和含义](https://plato.stanford.edu/entries/privacy/#DefiMean)
-  * [3.3 规范方法](https://plato.stanford.edu/entries/privacy/#NormAppr)
-
-    * [3.3.1 内在 vs 工具性](https://plato.stanford.edu/entries/privacy/#IntrVsInst)
-    * [3.3.2 访问简单](https://plato.stanford.edu/entries/privacy/#AcceSimp)
-    * [3.3.3 控制访问](https://plato.stanford.edu/entries/privacy/#ContAcce)
-    * [3.3.4 控制访问：三个维度](https://plato.stanford.edu/entries/privacy/#ContAcceThreDime)
-    * [3.3.5 决策隐私](https://plato.stanford.edu/entries/privacy/#DeciPriv)
-    * [3.3.6 信息隐私](https://plato.stanford.edu/entries/privacy/#InfoPriv)
-    * [ 3.3.7 本地隐私](https://plato.stanford.edu/entries/privacy/#LocaPriv)
-* [4. 当代辩论](https://plato.stanford.edu/entries/privacy/#ContDeba)
-
-  * [4.1 关于隐私的价值或功能的最近辩论](https://plato.stanford.edu/entries/privacy/#ReceDebaValuFuncPriv)
-  * [4.2 隐私与其他价值或权利之间的冲突](https://plato.stanford.edu/entries/privacy/#ConfBetwPrivOtheValuRigh)
-  * [4.3 隐私价值的文化相对性](https://plato.stanford.edu/entries/privacy/#CultRelaValuPriv)
-  * [4.4 隐私的民主价值](https://plato.stanford.edu/entries/privacy/#DemoValuPriv)
-  * [ 4.5 群体隐私](https://plato.stanford.edu/entries/privacy/#GrouPriv)
-  * [4.6 隐私的社会维度](https://plato.stanford.edu/entries/privacy/#SociDimePriv)
-  * [4.7 隐私与日常生活的数据化](https://plato.stanford.edu/entries/privacy/#PrivDataDailLife)
-
-    * [4.7.1 生活的数据化：工作](https://plato.stanford.edu/entries/privacy/#DataLifeWork)
-    * [4.7.2 生活的数据化：商业健康应用](https://plato.stanford.edu/entries/privacy/#DataLifeCommHealApps)
-    * [4.7.3 生活的数据化：隐私悖论](https://plato.stanford.edu/entries/privacy/#DataLifePrivPara)
-    * [4.7.5 生活的数据化：自我量化和保护个人隐私的责任](https://plato.stanford.edu/entries/privacy/#DataLifeQuanSelfDutyProtOnesOwnPriv)
-  * [4.8 动物的隐私](https://plato.stanford.edu/entries/privacy/#PrivAnim)
-  * [4.9 认识论问题](https://plato.stanford.edu/entries/privacy/#EpisIssu)
-  * [4.10 隐私、监视和权力](https://plato.stanford.edu/entries/privacy/#PrivSurvPowe)
-  * [4.11 隐私、殖民主义和种族主义](https://plato.stanford.edu/entries/privacy/#PrivColoRaci)
-  * [4.12 隐私的未来](https://plato.stanford.edu/entries/privacy/#FutuPriv)
-* [ 参考文献](https://plato.stanford.edu/entries/privacy/#Bib)
-
-  * [权利/法规/决策](https://plato.stanford.edu/entries/privacy/#Righ)
-* [ 学术工具](https://plato.stanford.edu/entries/privacy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/privacy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/privacy/#Rel)
-
+ 
 ---
 
 ## 1. 隐私的历史

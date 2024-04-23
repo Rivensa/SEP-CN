@@ -3,30 +3,7 @@
 _首次发表于2006年10月5日；实质性修订于2021年3月25日。_
 
 斐洛（公元前 159/8 年-公元前 84/3 年）是柏拉图学院在怀疑主义阶段的最后一位已知负责人。在他的领导下，学院放弃了阿尔凯西拉奥斯和卡尔内阿德斯的激进怀疑主义（他们声称没有理性保证的信念）而采取了一种缓和的怀疑主义形式，允许暂时的信念，但不要求确定性。但是斐洛本人似乎在他备受争议的“罗马书”中更进一步，他拒绝了学院缓和怀疑主义所依赖的斯多葛派知识定义。证据表明，他提出了一种更弱的、易犯错误的理论，允许普通知识，但不支持学院哲学对手的理论教条主义。通过挑战希腊化时期被接受的认识论框架，斐洛无意中帮助为后来基于对柏拉图学说的解释而建立的教条传统的柏拉图主义复兴铺平了道路。然而，他最广为人知的是作为西塞罗的老师，通过西塞罗的作品，学院怀疑主义在拉丁语阅读世界中得以传播。
-
-* [1. 生平与工作](https://plato.stanford.edu/entries/philo-larissa/#LifeWork)
-* [2. 斐洛观点发展的证据](https://plato.stanford.edu/entries/philo-larissa/#EvidForDevePhilView)
-* [3. 认识论观点](https://plato.stanford.edu/entries/philo-larissa/#EpisView)
-  * [3.1 学院派 vs 斯多亚派](https://plato.stanford.edu/entries/philo-larissa/#AcadVsStoi)
-  * [3.2 激进怀疑主义](https://plato.stanford.edu/entries/philo-larissa/#RadiSkep)
-  * [3.3 缓解的怀疑主义](https://plato.stanford.edu/entries/philo-larissa/#MitiSkep)
-  * [3.4 可能性论](https://plato.stanford.edu/entries/philo-larissa/#Fall)
-* [4. 教育哲学](https://plato.stanford.edu/entries/philo-larissa/#PhilEduc)
-* [5. 伦理学和修辞学](https://plato.stanford.edu/entries/philo-larissa/#EthiRhet)
-* [6. 结论](https://plato.stanford.edu/entries/philo-larissa/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/philo-larissa/#Bib)
-  * [来源](https://plato.stanford.edu/entries/philo-larissa/#Sour)
-    * [斐洛的片段集](https://plato.stanford.edu/entries/philo-larissa/#CollPhilFrag)
-    * [主要来源](https://plato.stanford.edu/entries/philo-larissa/#OtheAnciWrit)
-  * [编辑的专著和专著](https://plato.stanford.edu/entries/philo-larissa/#Coll)
-  * [斐洛的生活和哲学活动](https://plato.stanford.edu/entries/philo-larissa/#PhilLifePhilActi)
-  * [斐洛的认识论立场](https://plato.stanford.edu/entries/philo-larissa/#PhilEpisPosi)
-  * [斐洛与其他哲学家的关系](https://plato.stanford.edu/entries/philo-larissa/#PhilRelaOthePhil)
-  * [斐洛的伦理学](https://plato.stanford.edu/entries/philo-larissa/#PhilEthi)
-  * [斐洛的修辞学](https://plato.stanford.edu/entries/philo-larissa/#PhilRhet)
-* [学术工具](https://plato.stanford.edu/entries/philo-larissa/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/philo-larissa/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/philo-larissa/#Rel)
+ 
 
 ***
 

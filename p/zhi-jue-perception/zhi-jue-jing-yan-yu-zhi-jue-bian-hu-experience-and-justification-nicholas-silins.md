@@ -10,23 +10,7 @@
 
 第一部分考虑了经验的理论以及它们对知觉的认识论可能产生的影响。第二部分考虑了知觉现象，如注意或梦境，对知觉的认识论有特殊的影响。
 
-* [1. 经验的理论](https://plato.stanford.edu/entries/perception-justification/#TheExp)
-
-  * [1.1 感觉数据理论](https://plato.stanford.edu/entries/perception-justification/#SenDatThe)
-  * [1.2 原始感觉理论](https://plato.stanford.edu/entries/perception-justification/#RawFeeThe)
-  * [ 1.3 知觉内容](https://plato.stanford.edu/entries/perception-justification/#PerCon)
-  * [ 1.4 意识](https://plato.stanford.edu/entries/perception-justification/#Con)
-  * [ 1.5 度的知觉](https://plato.stanford.edu/entries/perception-justification/#DegPer)
-* [2. 知觉现象](https://plato.stanford.edu/entries/perception-justification/#PerPhe)
-
-  * [ 2.1. 知觉错误](https://plato.stanford.edu/entries/perception-justification/#PerErr)
-  * [2.2 知觉成功](https://plato.stanford.edu/entries/perception-justification/#SucPer)
-  * [ 2.3 注意力](https://plato.stanford.edu/entries/perception-justification/#Att)
-  * [2.4 认知渗透](https://plato.stanford.edu/entries/perception-justification/#CogPen)
-* [ 参考文献](https://plato.stanford.edu/entries/perception-justification/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/perception-justification/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/perception-justification/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/perception-justification/#Rel)
+ 
 
 ---
 

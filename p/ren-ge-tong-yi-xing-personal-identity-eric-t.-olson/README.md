@@ -9,18 +9,7 @@
 
 在调查了人格同一性的主要问题之后，本条目将重点关注我们随时间的持续性。
 
-* [1. 人格同一性的问题](https://plato.stanford.edu/entries/identity-personal/#ProbPersIden)
-* [2. 理解持续性问题](https://plato.stanford.edu/entries/identity-personal/#UndePersQues)
-* [3. 我们持续性的解释](https://plato.stanford.edu/entries/identity-personal/#AccoOurPers)
-* [4. 心理连续观点](https://plato.stanford.edu/entries/identity-personal/#PsycContView)
-* [ 5. 分裂](https://plato.stanford.edu/entries/identity-personal/#Fiss)
-* [6. 太多思考者反对](https://plato.stanford.edu/entries/identity-personal/#TooManyThinObje)
-* [7. 动物主义和兽性物理观点](https://plato.stanford.edu/entries/identity-personal/#AnimBrutPhysView)
-* [ 8. 更广泛的主题](https://plato.stanford.edu/entries/identity-personal/#WideThem)
-* [ 参考文献](https://plato.stanford.edu/entries/identity-personal/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/identity-personal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/identity-personal/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/identity-personal/#Rel)
+ 
 
 ---
 

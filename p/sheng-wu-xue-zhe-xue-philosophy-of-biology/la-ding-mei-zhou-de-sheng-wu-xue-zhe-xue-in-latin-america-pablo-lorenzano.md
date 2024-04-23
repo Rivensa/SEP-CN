@@ -8,33 +8,7 @@
 
 这篇文章分为六个部分。第 1 和第 2 节为后续内容提供了背景。第 1 节简要介绍了生物学哲学，第 2 节介绍了拉丁美洲生物学哲学的历史背景和一般特点。第 3 至第 5 节专门讨论了上述三个主题：第 3 节讨论种族主题，第 4 节讨论生物学理论的性质、结构和功能，第 5 节讨论与生物学历史的紧密联系。第 6 节提供了最后的思考，并考虑了拉丁美洲生物学哲学的一些未来前景。
 
-* [1. 生物学哲学简要讨论](https://plato.stanford.edu/entries/phil-bio-latin-america/#BrieDiscPhilBiol)
-* [2. 拉丁美洲生物学哲学的历史背景和一般特点](https://plato.stanford.edu/entries/phil-bio-latin-america/#HistBackGeneCharPhilBiolLatiAmer)
-
-  * [2.1 第一阶段。拉丁美洲“生物学哲学”的早期历史](https://plato.stanford.edu/entries/phil-bio-latin-america/#FirsPeriEarlHistPhilBiolLatiAmer)
-  * [2.2 第二和第三时期。拉丁美洲生物学哲学的一些普遍特征](https://plato.stanford.edu/entries/phil-bio-latin-america/#SecoThirPeriSomeGeneCharPhilBiolLatiAmer)
-* [3. 种族问题](https://plato.stanford.edu/entries/phil-bio-latin-america/#ProbRace)
-
-  * [ 3.1 存在论问题](https://plato.stanford.edu/entries/phil-bio-latin-america/#OntoIssu)
-  * [ 3.2 混血基因组学](https://plato.stanford.edu/entries/phil-bio-latin-america/#MestGeno)
-  * [3.3 基因医学和法医遗传学](https://plato.stanford.edu/entries/phil-bio-latin-america/#GenoMediForeGene)
-* [ 4. 理论](https://plato.stanford.edu/entries/phil-bio-latin-america/#Theo)
-
-  * [4.1 从经典观点的讨论和贡献](https://plato.stanford.edu/entries/phil-bio-latin-america/#DiscContClasView)
-  * [4.2 从历史主义观点的讨论和贡献](https://plato.stanford.edu/entries/phil-bio-latin-america/#DiscContHistView)
-  * [4.3 从语义观点的讨论和贡献](https://plato.stanford.edu/entries/phil-bio-latin-america/#DiscContSemaView)
-* [5. 生物学的哲学和历史](https://plato.stanford.edu/entries/phil-bio-latin-america/#PhilHistBiol)
-
-  * [5.1 随附的哲学分析](https://plato.stanford.edu/entries/phil-bio-latin-america/#SyncPhilAnal)
-  * [5.2 解释的哲学分析](https://plato.stanford.edu/entries/phil-bio-latin-america/#DiacPhilAnal)
-  * [5.3 历史-认识论分析](https://plato.stanford.edu/entries/phil-bio-latin-america/#HistEpisAnal)
-  * [5.4 概念历史分析](https://plato.stanford.edu/entries/phil-bio-latin-america/#ConcHistAnal)
-* [ 6. 结论备注](https://plato.stanford.edu/entries/phil-bio-latin-america/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/phil-bio-latin-america/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/phil-bio-latin-america/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/phil-bio-latin-america/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/phil-bio-latin-america/#Rel)
-
+ 
 ---
 
 ## 1. 生物学哲学简要讨论

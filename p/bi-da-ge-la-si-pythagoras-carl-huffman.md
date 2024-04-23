@@ -9,26 +9,7 @@
 
 毕达哥拉斯的宇宙观在毕达哥拉斯传统的继任者菲洛劳斯和阿基塔斯那里得到了更加科学和数学的发展。毕达哥拉斯成功地宣扬了一种更加乐观的灵魂死后命运的观点，并创立了一种严谨和纪律性吸引人的生活方式，吸引了许多忠实的追随者。
 
-* [1. 毕达哥拉斯问题](https://plato.stanford.edu/entries/pythagoras/#PytQue)
-* [ 2. 来源](https://plato.stanford.edu/entries/pythagoras/#Sou)
-
-  * [2.1 毕达哥拉斯的来源的时间表](https://plato.stanford.edu/entries/pythagoras/#ChrChaSouPyt)
-  * [2.2 毕达哥拉斯的亚里士多德后来源](https://plato.stanford.edu/entries/pythagoras/#PosSouPyt)
-  * [2.3 柏拉图和亚里士多德作为毕达哥拉斯的来源](https://plato.stanford.edu/entries/pythagoras/#PlaAriSouPyt)
-* [3. 生平和作品](https://plato.stanford.edu/entries/pythagoras/#LifWor)
-* [4. 毕达哥拉斯的哲学](https://plato.stanford.edu/entries/pythagoras/#Pyt)
-
-  * [4.1 灵魂的命运—转世](https://plato.stanford.edu/entries/pythagoras/#FatSou)
-  * [4.2 毕达哥拉斯作为一个奇迹工作者](https://plato.stanford.edu/entries/pythagoras/#PytWon)
-  * [4.3 毕达哥拉斯的生活方式](https://plato.stanford.edu/entries/pythagoras/#PytWayLif)
-* [5. 毕达哥拉斯是数学家还是宇宙学家？](https://plato.stanford.edu/entries/pythagoras/#WasPytMatCos)
-* [ 参考文献](https://plato.stanford.edu/entries/pythagoras/#Bib)
-
-  * [主要来源和评论](https://plato.stanford.edu/entries/pythagoras/#PriSouCom)
-  * [ 二手资料](https://plato.stanford.edu/entries/pythagoras/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/pythagoras/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pythagoras/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pythagoras/#Rel)
+ 
 
 ---
 

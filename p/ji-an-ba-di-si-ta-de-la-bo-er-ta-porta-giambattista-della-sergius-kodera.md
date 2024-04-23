@@ -14,29 +14,7 @@
 
 《De Distillationibus libri IX》（1609 年）的扉页，附有波尔塔的肖像，给人留下了他众多不同科学兴趣的深刻印象，包括相面学、占星术、密码学、记忆艺术、蒸馏、光学、磁学、炼金术、杂交育种以及（主要是女性的）身体装饰，以及实用笑话。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/della-porta/#LifeWork)
-* [2. 魔法作品](https://plato.stanford.edu/entries/della-porta/#WorkMagi)
-* [3. 星象学作品](https://plato.stanford.edu/entries/della-porta/#WorkAstr)
-* [4. 相面学作品](https://plato.stanford.edu/entries/della-porta/#WorkPhys)
-* [5. 密码书](https://plato.stanford.edu/entries/della-porta/#BookCiph)
-* [6. 记忆艺术](https://plato.stanford.edu/entries/della-porta/#ArtMemo)
-* [7. 植物学、农业、园艺](https://plato.stanford.edu/entries/della-porta/#BotaAgriHort)
-* [ 8. 数学](https://plato.stanford.edu/entries/della-porta/#Math)
-* [9. 光学和新兴的实验文化](https://plato.stanford.edu/entries/della-porta/#OptiEmerExpeCult)
-* [ 10. 蒸馏](https://plato.stanford.edu/entries/della-porta/#Dist)
-* [ 11. 气象学](https://plato.stanford.edu/entries/della-porta/#Mete)
-* [12. 在不同背景下的思想重复、演化和适应](https://plato.stanford.edu/entries/della-porta/#RepeEvolAdapIdeaDiffCont)
-* [13. 波尔塔在哲学史上的地位](https://plato.stanford.edu/entries/della-porta/#PortPlacHistPhil)
-* [ 参考文献](https://plato.stanford.edu/entries/della-porta/#Bib)
-
-  * [波尔塔的作品列表](https://plato.stanford.edu/entries/della-porta/#ListPortWork)
-  * [ 其他版本](https://plato.stanford.edu/entries/della-porta/#OtheEdit)
-  * [历史版本和翻译](https://plato.stanford.edu/entries/della-porta/#HistEditTran)
-  * [ 二次文献](https://plato.stanford.edu/entries/della-porta/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/della-porta/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/della-porta/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/della-porta/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品

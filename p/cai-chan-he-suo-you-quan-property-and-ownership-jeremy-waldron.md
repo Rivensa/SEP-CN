@@ -5,16 +5,7 @@
 
 财产是指规定土地和其他物质资源的访问和控制的规则的总称。由于这些规则存在争议，无论是在其总体形状还是在其具体应用方面，都存在有关财产合理化的有趣的哲学问题。现代哲学讨论主要集中在对私有财产权合理化的问题上（与公共或集体财产相对）。"私有财产"是指一种将特定物体（如土地）分配给特定个体使用和管理的系统，以排除其他人（即使其他人对资源有更大的需求）和社会的任何详细控制。尽管这些排除使私有财产的概念似乎存在问题，但哲学家们经常主张它对个体的道德发展是必要的，或者对于创造一个人们可以自由和负责任地繁荣的社会环境是必要的。
 
-* [1. 分析和定义问题](https://plato.stanford.edu/entries/property/#IssuAnalDefi)
-* [ 2. 历史概述](https://plato.stanford.edu/entries/property/#HistOver)
-* [3. 财产是否是一个哲学问题？](https://plato.stanford.edu/entries/property/#PropPhilIssu)
-* [4. 财产的渊源](https://plato.stanford.edu/entries/property/#GeneProp)
-* [5. 正当性：自由与后果](https://plato.stanford.edu/entries/property/#JustLibeCons)
-* [ 参考文献](https://plato.stanford.edu/entries/property/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/property/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/property/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/property/#Rel)
-
+ 
 ---
 
 ## 1. 分析和定义问题

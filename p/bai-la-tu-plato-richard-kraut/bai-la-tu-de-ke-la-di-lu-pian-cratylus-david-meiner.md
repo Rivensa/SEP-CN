@@ -9,45 +9,7 @@
 
 《克拉底鲁》因其令人惊讶的曲折和转折而臭名昭著，通常被认为是柏拉图最令人困惑的作品之一。确定它在柏拉图的作品中的位置也被证明是困难的。由于它以类似于《费多篇》的方式引入了柏拉图的形式，许多评论家认为它必须是在与这个对话同时期写的（参见，例如，Ross 1955; Luce 1964; Levin 2001: 4 n. 4）。但它也对在后来的对话中更全面地讨论的问题提供了一种相对初步的处理，比如《提奥泰特篇》和《苏格拉底篇》，因此已经讨论了各种替代的日期（参见，例如，Kirk 1951; Mackenzie 1986; Sedley 2003: 6–16）。然而，还有另一种（可能更重要的）意义上的困扰：不清楚它的主题——名称的正确性——与柏拉图的其他哲学关注点之间的联系。这可能是为什么这个迷人的对话在关于柏拉图哲学的一般讨论中经常被草率地对待的原因。
 
-* [1. 《克拉底鲁》及其人物角色——初步概述](https://plato.stanford.edu/entries/plato-cratylus/#CratPersFirsOver)
-* [ 2. 解释性分歧](https://plato.stanford.edu/entries/plato-cratylus/#ExegDivi)
-* [3. 柏拉图的传统主义（383a–386e）](https://plato.stanford.edu/entries/plato-cratylus/#HermConv383a)
-
-  * [3.1 卡利克勒斯的观点](https://plato.stanford.edu/entries/plato-cratylus/#WhatHermDoesNotSay)
-  * [3.2 真实和虚假的名称](https://plato.stanford.edu/entries/plato-cratylus/#TrueFalsName)
-  * [3.3 传统主义和相对主义](https://plato.stanford.edu/entries/plato-cratylus/#ConvRela)
-* [4. 工具类比（386e–390e）](https://plato.stanford.edu/entries/plato-cratylus/#ToolAnal386e)
-
-  * [4.1 名称作为命名工具](https://plato.stanford.edu/entries/plato-cratylus/#NameToolForNami)
-  * [4.2 创建（和评估）名称](https://plato.stanford.edu/entries/plato-cratylus/#CreaEvalName)
-  * [4.3 评估工具类比的论证](https://plato.stanford.edu/entries/plato-cratylus/#AsseArguToolAnal)
-* [5. 正确性和词源意义（390e–394e）](https://plato.stanford.edu/entries/plato-cratylus/#CorrEtymMean390e)
-* [6. 词源部分 (394e–421c)](https://plato.stanford.edu/entries/plato-cratylus/#EtymSect394e)
-
-  * [6.1 词源研究的前景和问题](https://plato.stanford.edu/entries/plato-cratylus/#ProsProbEtymRese)
-  * [6.2 应用还是颠覆？](https://plato.stanford.edu/entries/plato-cratylus/#ApplSubv)
-  * [6.3 哈拉克利特主义的挑战](https://plato.stanford.edu/entries/plato-cratylus/#ChalHera)
-* [7. 正确性和模仿（421c–427d）](https://plato.stanford.edu/entries/plato-cratylus/#CorrImit421c)
-
-  * [7.1 通过模仿指示](https://plato.stanford.edu/entries/plato-cratylus/#IndiImit)
-  * [7.2 一个理想的语言？](https://plato.stanford.edu/entries/plato-cratylus/#IdeaLang)
-  * [7.3 反证法？](https://plato.stanford.edu/entries/plato-cratylus/#ReduAdAbsu)
-* [8. 批评自然主义 (427d–435d)](https://plato.stanford.edu/entries/plato-cratylus/#CritNatu427d)
-
-  * [8.1 克拉底鲁的自然主义](https://plato.stanford.edu/entries/plato-cratylus/#CratNatu)
-  * [8.2 传统的回归](https://plato.stanford.edu/entries/plato-cratylus/#RetuConv)
-  * [8.3 苏格拉底的结论](https://plato.stanford.edu/entries/plato-cratylus/#SocrConc)
-* [9. 尾声：名字的“力量” (435d–440e)](https://plato.stanford.edu/entries/plato-cratylus/#CodaPoweName435d)
-* [ 参考文献](https://plato.stanford.edu/entries/plato-cratylus/#Bib)
-
-  * [ A. 翻译](https://plato.stanford.edu/entries/plato-cratylus/#Tran)
-  * [ B. 希腊文本](https://plato.stanford.edu/entries/plato-cratylus/#BGreeText)
-  * [ C. 评论](https://plato.stanford.edu/entries/plato-cratylus/#CComm)
-  * [ D. 解释](https://plato.stanford.edu/entries/plato-cratylus/#DInte)
-  * [ 一、历史问题](https://plato.stanford.edu/entries/plato-cratylus/#EHistIssu)
-* [ 学术工具](https://plato.stanford.edu/entries/plato-cratylus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plato-cratylus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plato-cratylus/#Rel)
+ 
 
 ---
 

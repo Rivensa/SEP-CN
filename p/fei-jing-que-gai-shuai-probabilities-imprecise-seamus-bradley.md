@@ -5,35 +5,7 @@
 
 有人认为，非精确概率是克服传统精确概率中一些问题的一种自然且直观的方式。这种类型的模型有着悠久的历史，并且近年来对这种模型的兴趣不断增长。本文介绍了非精确概率理论，讨论了使用非精确概率的动机以及其相对于标准精确模型的可能优势。然后，本文讨论了该模型引发的一些哲学问题。此外，还有一个历史附录，概述了一些对非精确概率持有同情态度的重要思想家。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/imprecise-probabilities/#Int)
-
-  * [1.1 术语总结](https://plato.stanford.edu/entries/imprecise-probabilities/#SumTer)
-  * [1.2 一些重要的区别](https://plato.stanford.edu/entries/imprecise-probabilities/#SomImpDis)
-* [ 2. 动机](https://plato.stanford.edu/entries/imprecise-probabilities/#Mot)
-
-  * [ 2.1 埃尔斯伯格决策](https://plato.stanford.edu/entries/imprecise-probabilities/#EllDec)
-  * [2.2 不完整性和不可比性](https://plato.stanford.edu/entries/imprecise-probabilities/#IncInc)
-  * [2.3 证据的重要性，证据的平衡](https://plato.stanford.edu/entries/imprecise-probabilities/#WeiEviBalEvi)
-  * [2.4 暂停判断](https://plato.stanford.edu/entries/imprecise-probabilities/#SusJud)
-  * [2.5 未知相关性](https://plato.stanford.edu/entries/imprecise-probabilities/#UnkCor)
-  * [2.6 非概率性机会](https://plato.stanford.edu/entries/imprecise-probabilities/#NonCha)
-  * [ 2.7 群体信念](https://plato.stanford.edu/entries/imprecise-probabilities/#GroBel)
-* [3. IP 的哲学问题](https://plato.stanford.edu/entries/imprecise-probabilities/#PhiQueForIP)
-
-  * [ 3.1 非精确](https://plato.stanford.edu/entries/imprecise-probabilities/#Dil)
-  * [ 3.2 信念惯性](https://plato.stanford.edu/entries/imprecise-probabilities/#BelIne)
-  * [ 3.3 决策制定](https://plato.stanford.edu/entries/imprecise-probabilities/#DecMak)
-  * [3.4 解释 IP](https://plato.stanford.edu/entries/imprecise-probabilities/#IntIP)
-
-    * [3.4.1 什么是信念？](https://plato.stanford.edu/entries/imprecise-probabilities/#WhaBel)
-    * [3.4.2 什么是对 X 的信念？](https://plato.stanford.edu/entries/imprecise-probabilities/#WhaBelX)
-  * [ 3.5 回归](https://plato.stanford.edu/entries/imprecise-probabilities/#Reg)
-  * [3.6 什么是一个好的非精确信念？](https://plato.stanford.edu/entries/imprecise-probabilities/#WhaMakGooImpBel)
-* [ 4. 概要](https://plato.stanford.edu/entries/imprecise-probabilities/#Sum)
-* [ 参考文献](https://plato.stanford.edu/entries/imprecise-probabilities/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/imprecise-probabilities/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/imprecise-probabilities/#OthIntResSec)
-* [ 相关条目](https://plato.stanford.edu/entries/imprecise-probabilities/#Rel)
+ 
 
 ---
 

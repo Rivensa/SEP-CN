@@ -7,35 +7,7 @@
 
 《巴门尼德》启发了后来的新柏拉图主义者（尤其是普罗提诺斯和晚期的普罗克鲁斯）的形而上学和神秘理论，他们在推论中看到了宇宙的分层本体论结构的关键。
 
-* [1. 对话概述](https://plato.stanford.edu/entries/plato-parmenides/#OveDia)
-* [2. 引言部分：芝诺的悖论 126a–128e](https://plato.stanford.edu/entries/plato-parmenides/#IntSecZenArg126)
-* [3. 苏格拉底的演讲：形式理论 128e–130a](https://plato.stanford.edu/entries/plato-parmenides/#SocSpeTheFor128)
-* [4. 对形式理论的问题 130a–134e](https://plato.stanford.edu/entries/plato-parmenides/#ProForTheFor130)
-
-  * [4.1 形式的范围 130a–e](https://plato.stanford.edu/entries/plato-parmenides/#ExtFor130)
-  * [4.2 整体-部分困境 130e–131e](https://plato.stanford.edu/entries/plato-parmenides/#WhoParDil130)
-  * [4.3 第三人悖论 132a–b](https://plato.stanford.edu/entries/plato-parmenides/#ThiManArg132)
-  * [4.4 形式作为思想 132b–c](https://plato.stanford.edu/entries/plato-parmenides/#ForTho132)
-  * [4.5 相似性回归 132c–133a](https://plato.stanford.edu/entries/plato-parmenides/#LikReg132)
-  * [4.6 最大困难 133a–134e](https://plato.stanford.edu/entries/plato-parmenides/#GreDif133)
-* [5. 如何保存形式：推理计划 134e–137c](https://plato.stanford.edu/entries/plato-parmenides/#HowSavForPlaDed134)
-* [6. 推理 137c–166c](https://plato.stanford.edu/entries/plato-parmenides/#Ded137)
-
-  * [6.1 第一推理 137c–142a](https://plato.stanford.edu/entries/plato-parmenides/#FirDed137)
-  * [6.2 第二推论 142b–155e](https://plato.stanford.edu/entries/plato-parmenides/#SecDed142)
-  * [6.3 第一、二推论附录 155e–157b](https://plato.stanford.edu/entries/plato-parmenides/#AppFirTwoDed155)
-  * [6.4 第三推论 157b–159b](https://plato.stanford.edu/entries/plato-parmenides/#ThiDed157)
-  * [6.5 第四推论 159b–160b](https://plato.stanford.edu/entries/plato-parmenides/#FouDed159)
-  * [6.6 第五推论 160b–163b](https://plato.stanford.edu/entries/plato-parmenides/#FifDed160)
-  * [6.7 第六推论 163b–164b](https://plato.stanford.edu/entries/plato-parmenides/#SixDed163)
-  * [6.8 第七推论 164b–165e](https://plato.stanford.edu/entries/plato-parmenides/#SevDed164)
-  * [6.9 第八推论 165e–166c](https://plato.stanford.edu/entries/plato-parmenides/#EigDed165)
-* [ 7. 结论](https://plato.stanford.edu/entries/plato-parmenides/#Con)
-* [ 参考书目](https://plato.stanford.edu/entries/plato-parmenides/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/plato-parmenides/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plato-parmenides/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plato-parmenides/#Rel)
-
+ 
 ---
 
 ## 1. 对话概述

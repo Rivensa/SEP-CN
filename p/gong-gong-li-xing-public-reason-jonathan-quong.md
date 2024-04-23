@@ -6,39 +6,7 @@
 
 这篇文章围绕公共理性的本质问题展开，这些问题在文献中一直是持续辩论的主题。第 1 节考虑了关于公共理性基本原理的竞争立场。第 2 节确定了关于公共理性适当范围的不同观点。它适用于所有道德规则，仅适用于政治规则，还是仅适用于某些政治规则的子集？第 3 节考虑了公共理性的受众问题：我们的规则必须向谁证明合理才能被认为是合法或有权威的？接下来的问题，在第 4 节中，涉及公共理性的内容；特别是，这种内容在多大程度上是通过哲学反思的过程来确定的，而不是通过实际的道德思考？第 5 节考虑了公共理性的结构，特别关注公共理性是否需要一些共享的观点或考虑因素，或者是否可以在没有任何共同的道德或政治观点的情况下实现。第 6 节讨论了公共理性的场所：它的规范在哪里适用，何时调整个体行为？第 7 节列举了一些对公共理性观念提出的最有影响力的反对意见，第 8 节以对一些进一步话题的简要调查作为结论。
 
-* [1. 为什么要有公共理性？](https://plato.stanford.edu/entries/public-reason/#WhyPubRea)
-
-  * [1.1 理性和道德](https://plato.stanford.edu/entries/public-reason/#RatMor)
-  * [ 1.2 自主权](https://plato.stanford.edu/entries/public-reason/#Aut)
-  * [1.3 强制和尊重](https://plato.stanford.edu/entries/public-reason/#CoeRes)
-  * [1.4 社区或公民友谊](https://plato.stanford.edu/entries/public-reason/#ComCivFri)
-  * [ 1.5 正义](https://plato.stanford.edu/entries/public-reason/#Jus)
-* [ 2. 范围](https://plato.stanford.edu/entries/public-reason/#Sco)
-* [ 3. 选区](https://plato.stanford.edu/entries/public-reason/#Const)
-* [ 4. 内容](https://plato.stanford.edu/entries/public-reason/#Conte)
-* [ 5. 结构](https://plato.stanford.edu/entries/public-reason/#Str)
-* [6. 网站和职责](https://plato.stanford.edu/entries/public-reason/#SitDut)
-* [ 7. 反对意见](https://plato.stanford.edu/entries/public-reason/#Obj)
-
-  * [ 7.1 理想化](https://plato.stanford.edu/entries/public-reason/#Ideal)
-  * [ 7.2 自我毁灭](https://plato.stanford.edu/entries/public-reason/#SelDef)
-  * [ 7.3 真理](https://plato.stanford.edu/entries/public-reason/#Tru)
-  * [ 7.4 不完整](https://plato.stanford.edu/entries/public-reason/#Inc)
-  * [ 7.5 排除](https://plato.stanford.edu/entries/public-reason/#Exc)
-  * [ 7.6 反民主](https://plato.stanford.edu/entries/public-reason/#Ant)
-* [8. 进一步问题](https://plato.stanford.edu/entries/public-reason/#FurIss)
-
-  * [8.1 非理想条件](https://plato.stanford.edu/entries/public-reason/#NonIdeCon)
-  * [8.2 扩展问题](https://plato.stanford.edu/entries/public-reason/#ProExt)
-  * [8.3 全球公共理性](https://plato.stanford.edu/entries/public-reason/#GloPubRea)
-  * [8.4 保证、稳定、公开和信任](https://plato.stanford.edu/entries/public-reason/#AssStaPub)
-  * [ 8.5 性别公正](https://plato.stanford.edu/entries/public-reason/#GenJust)
-  * [8.6 视角多样性、反教派主义和完善主义](https://plato.stanford.edu/entries/public-reason/#PerDiv)
-* [ 参考文献](https://plato.stanford.edu/entries/public-reason/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/public-reason/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/public-reason/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/public-reason/#Rel)
-
+ 
 ---
 
 ## 1. 为什么要有公共理性？

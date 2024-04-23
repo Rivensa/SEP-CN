@@ -10,42 +10,7 @@
 然后我们更仔细地看待实际的宣传，重点关注我们政治生活的两个时刻（投票和讨论）以及其中的两个参与者（公民和代表）（§2）。约翰·斯图尔特·密尔和乔恩·埃尔斯特等作者在这里是我们的指导。秘密投票并不总是规则。因此，远离公开投票引发了一系列引人入胜的辩论，尤其是在 19 世纪。然后，我们转向分析公共讨论的赞成和反对理由，埃尔斯特关于伪善的文明力量的论点是我们的起点。在阅读本条目的第二部分时，应该牢记至少两个核心问题。首先，赞成公开/秘密投票的论点与赞成公开/秘密讨论的论点有何不同？其次，在关于宣传的哲学论证中，我们应该给予经验主张多少重视，哲学家是否足够关注相关的经验复杂性？
 
 在第三部分中，我们向读者介绍了约翰·罗尔斯作品中宣传概念的几个维度。对于许多其他问题，罗尔斯重新唤起了这个话题。"公共规则"和"公共理由"的概念现在在政治哲学中变得重要起来。我们将简要介绍并讨论它们。
-
-* [1. 假设性宣传](https://plato.stanford.edu/entries/publicity/#HypoPubl)
-
-  * [1.1 康德的假设宣传测试](https://plato.stanford.edu/entries/publicity/#KantHypoPublTest)
-  * [1.2 辛德威克对隐蔽功利主义的看法](https://plato.stanford.edu/entries/publicity/#SidgCoveUtil)
-  * [1.3 辛德威克和康德的例子](https://plato.stanford.edu/entries/publicity/#SidgKantExam)
-
-    * [1.3.1 Sidgwick 对于独身和说谎的看法](https://plato.stanford.edu/entries/publicity/#SidgCeliLyin)
-    * [1.3.2 康德对于叛乱和分离的看法](https://plato.stanford.edu/entries/publicity/#KantRebeSece)
-  * [1.4 康德测试是否禁止实际保密？](https://plato.stanford.edu/entries/publicity/#DoesKantTestProhActuSecr)
-
-    * [1.4.1 Sidgwick 的元保密主义](https://plato.stanford.edu/entries/publicity/#SidgMetaSecrDoct)
-    * [ 1.4.2 Glomar 回应](https://plato.stanford.edu/entries/publicity/#GlomResp)
-    * [1.4.3 司法的真正目标](https://plato.stanford.edu/entries/publicity/#JudiTrueGoal)
-    * [1.4.4 宣传法律的最佳保密性](https://plato.stanford.edu/entries/publicity/#OptiConfFoILaws)
-* [2. 实际宣传](https://plato.stanford.edu/entries/publicity/#ActuPubl)
-
-  * [ 2.1 投票](https://plato.stanford.edu/entries/publicity/#Voti)
-
-    * [2.1.1 密封选票的缺点（Mill，1861 年）](https://plato.stanford.edu/entries/publicity/#Mill1861CaseAgaiSecrBall)
-    * [2.1.2 为什么担心公开投票？](https://plato.stanford.edu/entries/publicity/#WhyWorrAbouOpenVote)
-  * [ 2.2 讨论](https://plato.stanford.edu/entries/publicity/#Deli)
-
-    * [2.2.1 宣传能够使代表文明化吗？](https://plato.stanford.edu/entries/publicity/#PublCiviRepr)
-    * [2.2.2 议论的质量](https://plato.stanford.edu/entries/publicity/#QualDeli)
-* [3. Rawls 对公共理由和公共规则的看法](https://plato.stanford.edu/entries/publicity/#RawlPublReasPublRule)
-
-  * [3.1 公共理性原则](https://plato.stanford.edu/entries/publicity/#DoctPublReas)
-  * [3.2 公共规则原则](https://plato.stanford.edu/entries/publicity/#DoctPublRule)
-  * [3.3 善意努力反对意见](https://plato.stanford.edu/entries/publicity/#GoodFaitEffoObje)
-* [ 4. 结论](https://plato.stanford.edu/entries/publicity/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/publicity/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/publicity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/publicity/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/publicity/#Rel)
-
+ 
 ---
 
 ## 1. 假设的宣传

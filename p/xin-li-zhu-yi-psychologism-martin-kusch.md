@@ -8,22 +8,7 @@
 
 尽管这个术语今天仍在使用，但对心理主义的批评和辩护大多已被纳入更广泛的关于哲学自然主义的利弊的辩论中。因此，本条目重点关注心理主义仍然是一个备受争议的独立问题的时代和地点。
 
-* [ 1. 简介](https://plato.stanford.edu/entries/psychologism/#Int)
-* [ 2. 穆勒的心理主义](https://plato.stanford.edu/entries/psychologism/#MilPsy)
-* [3. 心理主义推理的例子](https://plato.stanford.edu/entries/psychologism/#ExaPsyRea)
-* [4. Frege 的心理主义反对论证](https://plato.stanford.edu/entries/psychologism/#FreAntArg)
-* [5. Husserl 的心理主义反对论证](https://plato.stanford.edu/entries/psychologism/#HusAntArg)
-* [6. Husserl 论证的早期批评](https://plato.stanford.edu/entries/psychologism/#EarCriHusArg)
-* [7. 最近的重新评估](https://plato.stanford.edu/entries/psychologism/#RecReEva)
-* [8. 故事的延续](https://plato.stanford.edu/entries/psychologism/#ConSto)
-* [ 参考文献](https://plato.stanford.edu/entries/psychologism/#Bib)
-
-  * [ 引用的作品](https://plato.stanford.edu/entries/psychologism/#CitWor)
-  * [其他重要文献](https://plato.stanford.edu/entries/psychologism/#OthImpLit)
-* [ 学术工具](https://plato.stanford.edu/entries/psychologism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/psychologism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/psychologism/#Rel)
-
+ 
 ---
 
 ## 1. 介绍

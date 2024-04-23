@@ -4,21 +4,7 @@ _首次发表于2002年12月5日；实质性修订于2020年12月2日。_
 
 《法律》是柏拉图最后的对话之一。在这部作品中，他勾勒出了一个名为 Magnesia 的理想城市的基本政治结构和法律。尽管《法律》涉及了一些政治和伦理哲学以及神学的基本问题，但与《理想国》相比，它受到了忽视。然而，近年来，学术界对《法律》的关注越来越多。本文讨论了近期学术研究中出现的一些重要问题，并提出了未来研究的方向。
 
-* [1. 真实性和年代学](https://plato.stanford.edu/entries/plato-utopia/#auth)
-* [2. 概述](https://plato.stanford.edu/entries/plato-utopia/#Over)
-* [3. 《理想国》与法律的关系](https://plato.stanford.edu/entries/plato-utopia/#laws)
-* [4. 马格尼西亚的社会和政治制度](https://plato.stanford.edu/entries/plato-utopia/#soc)
-* [5. 《理想国》中的序曲](https://plato.stanford.edu/entries/plato-utopia/#pre)
-* [6. 夜间议会和政治参与](https://plato.stanford.edu/entries/plato-utopia/#noc)
-* [7. 诗歌与教育](https://plato.stanford.edu/entries/plato-utopia/#PoeEd)
-* [8. 神学](https://plato.stanford.edu/entries/plato-utopia/#Theol)
-* [9. 伦理学](https://plato.stanford.edu/entries/plato-utopia/#Ethi)
-* [10. 柏拉图的后期认识论、形而上学和心理学](https://plato.stanford.edu/entries/plato-utopia/#pla)
-* [参考书目](https://plato.stanford.edu/entries/plato-utopia/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/plato-utopia/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plato-utopia/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/plato-utopia/#Rel)
-
+ 
 ***
 
 ## 1. 真实性和年代

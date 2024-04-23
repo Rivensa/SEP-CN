@@ -4,38 +4,7 @@
 
 《理想国》和《法律家》是晚期柏拉图对话，它们的相对日期是通过它们与《法律》的风格相似性来确定的，而《法律》在柏拉图去世时显然仍在创作中（Diogenes Laertius 3.37）。这些对话在展示柏拉图对方法和形而上学的观点方面非常重要，因为他在批评自己对哲学史最有名的贡献之一——巴门尼德中关于分离的非物质形式的理论之后。《法律家》还提供了柏拉图政治哲学的过渡性陈述，介于《理想国》和《法律》之间。《法律家》和《理想国》显示了作者对世俗和实用知识越来越感兴趣。在这方面，它们似乎比柏拉图中期的对话（如《费多》和《理想国》）更接地气，更接近亚里士多德的风格。本条目将重点讨论方法和形而上学。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/plato-sophstate/#Int)
-* [2. 《理想国》和《法律家》的目的](https://plato.stanford.edu/entries/plato-sophstate/#PurSopSta)
-* [ 3. 方法](https://plato.stanford.edu/entries/plato-sophstate/#Met)
-
-  * [3.1 名称、种类和集合](https://plato.stanford.edu/entries/plato-sophstate/#NamKinCol)
-  * [3.2 范例和划分](https://plato.stanford.edu/entries/plato-sophstate/#ModDiv)
-* [4. 智者的问题](https://plato.stanford.edu/entries/plato-sophstate/#ProSop)
-
-  * [4.1 钓鱼者和智者](https://plato.stanford.edu/entries/plato-sophstate/#AngSop)
-  * [ 4.2 外表](https://plato.stanford.edu/entries/plato-sophstate/#App)
-* [5. 非存在和存在](https://plato.stanford.edu/entries/plato-sophstate/#NotBeiBei)
-
-  * [ 5.1 谜题](https://plato.stanford.edu/entries/plato-sophstate/#Puz)
-  * [ 5.2 伟大的种类](https://plato.stanford.edu/entries/plato-sophstate/#GreKin)
-  * [5.3 伟大种类的区别](https://plato.stanford.edu/entries/plato-sophstate/#DisGreKin)
-  * [5.4 区别和存在之间的区别](https://plato.stanford.edu/entries/plato-sophstate/#DisBetDifBei)
-  * [5.5 种类的融合](https://plato.stanford.edu/entries/plato-sophstate/#BleKin)
-* [6. 错误陈述](https://plato.stanford.edu/entries/plato-sophstate/#FalSta)
-
-  * [ 6.1 否定](https://plato.stanford.edu/entries/plato-sophstate/#Neg)
-  * [ 6.2 陈述](https://plato.stanford.edu/entries/plato-sophstate/#Sta)
-  * [6.3 负面断言](https://plato.stanford.edu/entries/plato-sophstate/#NegPre)
-* [7. 方法和形而上学在政治家中](https://plato.stanford.edu/entries/plato-sophstate/#MetMetSta)
-
-  * [7.1 政治家和牧人](https://plato.stanford.edu/entries/plato-sophstate/#StaHer)
-  * [7.2 编织与政治学](https://plato.stanford.edu/entries/plato-sophstate/#WeaSta)
-* [8. 辩证法与形而上学在《辩士》和《政治家》中](https://plato.stanford.edu/entries/plato-sophstate/#MetDiaSopSta)
-* [ 参考文献](https://plato.stanford.edu/entries/plato-sophstate/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/plato-sophstate/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plato-sophstate/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plato-sophstate/#Rel)
-
+ 
 ---
 
 ## 1. 引言

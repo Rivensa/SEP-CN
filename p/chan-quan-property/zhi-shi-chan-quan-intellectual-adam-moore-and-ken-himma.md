@@ -5,36 +5,7 @@
 
 对知识产权的法律保护具有悠久的历史，可以追溯到古希腊以及更早的时期。随着不同的法律体系在保护知识作品方面的成熟，对不同领域内所保护的内容进行了细化。在同一时期，有几种道德上对知识产权的正当性进行辩护的观点，包括基于个人特征、功利主义和洛克观点。最后，对知识产权和知识产权保护体系存在许多批评意见。本文将讨论所有这些主题，重点关注英美和欧洲对知识产权的法律和道德概念。
 
-* [1. 知识产权的历史](https://plato.stanford.edu/entries/intellectual-property/#HistInteProp)
-* [2. 知识产权领域](https://plato.stanford.edu/entries/intellectual-property/#DomaInteProp)
-
-  * [ 2.1 版权](https://plato.stanford.edu/entries/intellectual-property/#Copy)
-  * [2.2 创意共享、Copyleft 和许可证](https://plato.stanford.edu/entries/intellectual-property/#CreaCommCopyLice)
-  * [ 2.3 专利](https://plato.stanford.edu/entries/intellectual-property/#Pate)
-  * [ 2.4 商业秘密](https://plato.stanford.edu/entries/intellectual-property/#TradSecr)
-  * [ 2.5 商标](https://plato.stanford.edu/entries/intellectual-property/#Trad)
-  * [2.6 保护纯粹的想法](https://plato.stanford.edu/entries/intellectual-property/#ProtMereIdea)
-  * [2.7 Droits Morals: 大陆知识产权制度](https://plato.stanford.edu/entries/intellectual-property/#DroiMoraContSystInteProp)
-* [3. 解释和批评](https://plato.stanford.edu/entries/intellectual-property/#JustCrit)
-
-  * [3.1 知识产权的基于个性的辩护](https://plato.stanford.edu/entries/intellectual-property/#PersBaseJustInteProp)
-  * [3.2 知识产权的功利主义激励论证](https://plato.stanford.edu/entries/intellectual-property/#UtilInceBaseArguForInteProp)
-  * [3.3 知识产权的洛克辩护](https://plato.stanford.edu/entries/intellectual-property/#LockJustInteProp)
-  * [3.4 知识产权和囚徒困境](https://plato.stanford.edu/entries/intellectual-property/#IntePropPrisDile)
-* [4. 知识产权的一般批评](https://plato.stanford.edu/entries/intellectual-property/#GeneCritInteProp)
-
-  * [4.1 信息不是财产](https://plato.stanford.edu/entries/intellectual-property/#InfoNotProp)
-  * [4.2 信息是非竞争性的](https://plato.stanford.edu/entries/intellectual-property/#InfoNonRiva)
-  * [4.3 信息渴望自由](https://plato.stanford.edu/entries/intellectual-property/#InfoWantFree)
-  * [4.4 反对知识产权的言论自由论证](https://plato.stanford.edu/entries/intellectual-property/#FreeSpeeArguAgaiInteProp)
-  * [4.4 知识产权的社会性论证](https://plato.stanford.edu/entries/intellectual-property/#SociNatuInfoArgu)
-  * [4.6 发布数字信息的成本](https://plato.stanford.edu/entries/intellectual-property/#CostPublDigiInfo)
-  * [4.7 知识产权的自由反对意见](https://plato.stanford.edu/entries/intellectual-property/#LibeObjeInteProp)
-* [ 参考文献](https://plato.stanford.edu/entries/intellectual-property/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/intellectual-property/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/intellectual-property/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/intellectual-property/#Rel)
-
+ 
 ---
 
 ## 1. 知识产权的历史

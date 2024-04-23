@@ -7,27 +7,7 @@
 
 在本文中，我对逻辑理论中命题函数的使用以及对其性质和本体论地位的观点进行了历史概述。
 
-* [ 1. 前史](https://plato.stanford.edu/entries/propositional-function/#PreHis)
-* [2. 亲属关系的逻辑](https://plato.stanford.edu/entries/propositional-function/#LogRel)
-* [3. 命题函项与数理逻辑的诞生](https://plato.stanford.edu/entries/propositional-function/#ProFunBirMatLog)
-* [4. 弗雷格的函项与概念](https://plato.stanford.edu/entries/propositional-function/#FreFunCon)
-* [5. 命题函项的出现](https://plato.stanford.edu/entries/propositional-function/#EmeProFun)
-* [6. 简单类型理论中的命题函项](https://plato.stanford.edu/entries/propositional-function/#ProFunSimTypThe)
-* [7. 分层类型理论中的命题函项](https://plato.stanford.edu/entries/propositional-function/#ProFunRamTypThe)
-* [8. 什么是 Russell 中的命题函项？](https://plato.stanford.edu/entries/propositional-function/#WhaProFunRus)
-* [9. 可能世界和命题函项](https://plato.stanford.edu/entries/propositional-function/#PosWorProFun)
-* [ 10. Montague 语义学](https://plato.stanford.edu/entries/propositional-function/#MonSem)
-* [ 11. 范畴语法](https://plato.stanford.edu/entries/propositional-function/#CatGra)
-* [ 12. 结论](https://plato.stanford.edu/entries/propositional-function/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/propositional-function/#Bib)
-
-  * [命题函项在其中起关键作用的重要作品](https://plato.stanford.edu/entries/propositional-function/#ImpWorWhiProFunPlaKeyRol)
-  * [命题函项显著特色的教科书](https://plato.stanford.edu/entries/propositional-function/#TexWhiProFunFeaPro)
-  * [ 其他主要来源:](https://plato.stanford.edu/entries/propositional-function/#OthPriSou)
-  * [ 其他引用的作品](https://plato.stanford.edu/entries/propositional-function/#OthWorCit)
-* [ 学术工具](https://plato.stanford.edu/entries/propositional-function/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/propositional-function/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/propositional-function/#Rel)
+ 
 
 ---
 

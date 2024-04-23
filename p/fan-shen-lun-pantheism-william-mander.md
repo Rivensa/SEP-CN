@@ -8,27 +8,7 @@
 
 然而，鉴于所涉及的概念复杂且有争议，哲学家之间缺乏足够的共识，以便构建任何更详细的定义，而不会受到某些方面的严重反对。此外，这个标签本身就是一个有争议的标签，强烈的欲望要么占有它，要么拒绝它，往往只会掩盖实际问题，如果泛神论在其关于“真正的泛神论”是什么的教派争议中表现得最像传统宗教，那将是一种悲剧的讽刺。因此，泛神论不应被视为一个可以编码的单一立场。相反，它应被理解为一个多样的、独立的教义家族；其中许多人可能会感到惊讶，甚至感到不安，因为他们被视为同一个家庭的成员。此外，由于这个概念具有渗透性和争议性的边界，对于谁符合资格没有明确的共识，也没有过去泛神论者的明确名单。鉴于这种情况，关于所有泛神论的有用言论的范围可能是有限的，但仍然可以澄清各种概念，探索有争议的问题的性质，并更准确地绘制出可能的选择范围（参见 Buckareff＆Nagasawa 2016; Buckareff 2022）。
 
-* [1. 宗教、文学和哲学中的泛神论](https://plato.stanford.edu/entries/pantheism/#PantReliLitePhil)
-* [2. 支持/倾向于泛神论的论证](https://plato.stanford.edu/entries/pantheism/#ArguForDrivTowaPant)
-* [3. 同一性的逻辑](https://plato.stanford.edu/entries/pantheism/#LogiIden)
-* [4. 同一性关系本身的性质](https://plato.stanford.edu/entries/pantheism/#NatuIdenRelaItse)
-* [5. 宇宙的统一](https://plato.stanford.edu/entries/pantheism/#UnitCosm)
-* [6. 宇宙的本质](https://plato.stanford.edu/entries/pantheism/#NatuCosm)
-* [7. 宇宙的神性](https://plato.stanford.edu/entries/pantheism/#DiviCosm)
-* [8. 引发宗教情感](https://plato.stanford.edu/entries/pantheism/#EvokReliEmot)
-* [9. 宇宙中的一个地方](https://plato.stanford.edu/entries/pantheism/#PlacUnivLarg)
-* [10. 宇宙的无限/永恒/必然性](https://plato.stanford.edu/entries/pantheism/#InfiEterNeceUniv)
-* [ 11. 难以言喻的](https://plato.stanford.edu/entries/pantheism/#Inef)
-* [ 12. 个人](https://plato.stanford.edu/entries/pantheism/#Pers)
-* [ 13. 价值](https://plato.stanford.edu/entries/pantheism/#Valu)
-* [14. 泛神论和恶的问题](https://plato.stanford.edu/entries/pantheism/#PantProbEvil)
-* [15. 泛神论和价值的分配](https://plato.stanford.edu/entries/pantheism/#PantDistValu)
-* [16. 泛神论和伦理学](https://plato.stanford.edu/entries/pantheism/#PantEthi)
-* [17. 泛神论和宗教](https://plato.stanford.edu/entries/pantheism/#PantReli)
-* [ 参考文献](https://plato.stanford.edu/entries/pantheism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/pantheism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pantheism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pantheism/#Rel)
+ 
 
 ---
 

@@ -4,15 +4,7 @@
 
 文艺复兴时期，弗朗切斯科·帕特里齐（1529-1597）是当时主导的亚里士多德主义的主要批评家。不要与早期的人文主义者和政治理论家弗朗切斯科·帕特里齐（1413-1494）混淆，帕特里齐专注于各种哲学、科学、艺术和文学问题，在他的《新哲学》中提供了一个重要的思想流派的替代方案，也为后来的思想家如伽利略·伽利莱在发展数学化物理学方面提供了宝贵的模型，这在早期现代科学的崛起中起到了主导作用。此外，帕特里齐对古代和中世纪哲学源流的研究作为确立自己立场合法性的方法的重要组成部分，使这些文献以前所未有的方式为他的同时代人所了解，并成为未来一代学者的典范。它还强调了研究哲学史作为哲学研究的核心部分的重要性。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/patrizi/#1)
-* [2. 对亚里士多德主义的批评](https://plato.stanford.edu/entries/patrizi/#2)
-* [3. 柏拉图主义的辩护](https://plato.stanford.edu/entries/patrizi/#3)
-* [4. 对前柏拉图派来源的使用](https://plato.stanford.edu/entries/patrizi/#4)
-* [5. 哲学与科学的关系](https://plato.stanford.edu/entries/patrizi/#5)
-* [ 参考书目](https://plato.stanford.edu/entries/patrizi/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/patrizi/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/patrizi/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/patrizi/#Rel)
+ 
 
 ---
 

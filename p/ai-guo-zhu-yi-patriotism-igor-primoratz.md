@@ -6,17 +6,7 @@ _首次发表于2009年6月1日；实质修订于2020年12月16日。_
 
 这种情况在 20 世纪 80 年代发生了变化。这种变化部分是由于社群主义的复兴，这是对以约翰·罗尔斯的《正义论》（1971）为代表的个人主义、自由政治和道德哲学的回应；但也是由于世界上几个地区民族主义的复兴。这种变化的开始由安德鲁·奥尔登奎斯特（Andrew Oldenquist）关于道德是各种忠诚而不是抽象原则和理想的问题的解释（Oldenquist 1982）以及阿拉斯泰尔·麦金泰尔（Alasdair MacIntyre）关于爱国主义是一种核心道德美德的论证（MacIntyre 1984）标志。在很大程度上是对麦金泰尔的回应，一些哲学家辩护了受限制或减弱版本的爱国主义（Baron 1989，Nathanson 1989，Primoratz 2002）。其他人则反对任何形式的爱国主义（Gomberg 1990，McCabe 1997，Keller 2005）。现在有一个活跃的关于爱国主义的道德资格的哲学辩论，而且没有任何减弱的迹象。政治哲学中的一场平行讨论涉及一种可能作为一个稳定、运转良好的政体的精神风貌而提供替代民族主义的爱国主义。
 
-* [1. 概念问题](https://plato.stanford.edu/entries/patriotism/#ConIss)
-  * [1.1 什么是爱国主义？](https://plato.stanford.edu/entries/patriotism/#WhaPat)
-  * [1.2 爱国主义和民族主义](https://plato.stanford.edu/entries/patriotism/#PatNat)
-* [2. 规范问题](https://plato.stanford.edu/entries/patriotism/#NorIss)
-  * [2.1 爱国主义和信念伦理](https://plato.stanford.edu/entries/patriotism/#PatEthBel)
-  * [2.2 爱国主义的道德地位](https://plato.stanford.edu/entries/patriotism/#MorStaPat)
-* [3. 爱国主义的政治意义](https://plato.stanford.edu/entries/patriotism/#PolImpPat)
-* [参考文献](https://plato.stanford.edu/entries/patriotism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/patriotism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/patriotism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/patriotism/#Rel)
+ 
 
 ***
 

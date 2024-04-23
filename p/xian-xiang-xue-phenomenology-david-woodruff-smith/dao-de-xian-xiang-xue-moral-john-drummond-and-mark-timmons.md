@@ -7,29 +7,7 @@
 
 在这个领域内有两个主导的传统，一个与埃德蒙·胡塞尔发起的现象学传统相关，另一个与分析哲学的心灵哲学研究密切相关。本条目将涵盖这两个传统。它的目的不是概述这两个传统中提出的不同道德理论，而是提供道德现象学所涉及的方法论，说明这些方法论如何应用于各种类型的道德经验的讨论，并提出这些分析结果如何回答元伦理学和规范伦理学中的问题的方法。
 
-* [1. 主题和方法论](https://plato.stanford.edu/entries/moral-phenomenology/#SubjMattMeth)
-
-  * [1.1 道德经验的多样性](https://plato.stanford.edu/entries/moral-phenomenology/#VariMoraExpe)
-  * [ 1.2 方法论](https://plato.stanford.edu/entries/moral-phenomenology/#Meth)
-* [2. 道德现象学和元伦理学](https://plato.stanford.edu/entries/moral-phenomenology/#MoraPhenMeta)
-
-  * [ 2.1 道德感知](https://plato.stanford.edu/entries/moral-phenomenology/#MoraPerc)
-  * [ 2.2 道德情感](https://plato.stanford.edu/entries/moral-phenomenology/#MoraEmot)
-  * [ 2.3 道德判断](https://plato.stanford.edu/entries/moral-phenomenology/#MoraJudg)
-  * [ 2.4 道德思考](https://plato.stanford.edu/entries/moral-phenomenology/#MoraDeli)
-  * [ 2.5 道德代理](https://plato.stanford.edu/entries/moral-phenomenology/#MoraAgen)
-* [3. 道德现象学和规范伦理学](https://plato.stanford.edu/entries/moral-phenomenology/#MoraPhenNormEthi)
-
-  * [3.1 道德论与后果主义](https://plato.stanford.edu/entries/moral-phenomenology/#DeonVsCons)
-  * [3.2 唯一主义与多元主义](https://plato.stanford.edu/entries/moral-phenomenology/#MoniVsPlur)
-  * [3.3 原子论与整体论](https://plato.stanford.edu/entries/moral-phenomenology/#AtomVsHoli)
-  * [ 3.4 进一步问题](https://plato.stanford.edu/entries/moral-phenomenology/#FurtIssu)
-* [ 结论](https://plato.stanford.edu/entries/moral-phenomenology/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/moral-phenomenology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/moral-phenomenology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-phenomenology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/moral-phenomenology/#Rel)
-
+ 
 ---
 
 ## 1. 主题和方法论

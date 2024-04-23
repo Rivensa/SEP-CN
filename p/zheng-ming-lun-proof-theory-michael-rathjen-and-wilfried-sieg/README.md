@@ -9,39 +9,7 @@
 
 我们的文章的主要部分涵盖了这些令人兴奋的调查，这些调查通过 1999 年的一个扩展的希尔伯特计划进行了详细的研究，特别关注了现在可以称为“经典”的结果和技术，并且仍然具有持续的兴趣。附录中概述了较新的但仍然紧密相关的发展：附录 D 中的集合论的证明论，附录 E 中的组合独立性结果，以及附录 F 中的可证明总函数。在这里，（无穷）序列演算和适当的序数符号系统是关键的证明论工具。然而，在第 4.2 节中，我们还讨论了哥德尔的迪亚莱克蒂卡解释及其一些扩展，作为获得相对一致性证明的替代方法，并在第 5.2.1 节中描述了通过递归进展来完成不完全性的系统性尝试。这两个主题分别在附录 C.2 和附录 B 中进一步分析。为了完整地概述我们的文章，我们还提到了尾声第 6 节，它不仅指出了进一步的证明论主题，还提到了与证明论和深层内在兴趣相关的当前研究方向。我们试图传达这个主题的活力，这个主题以具体的计算和（元）数学工作为基础，但也邀请并根植于一般的哲学思考。
 
-* [1. 证明论：一个新的学科](https://plato.stanford.edu/entries/proof-theory/#ProoTheoNewSubj)
-
-  * [1.1 希尔伯特的设想和结果](https://plato.stanford.edu/entries/proof-theory/#HilbAnsaResu)
-  * [1.2 不完备性和简化](https://plato.stanford.edu/entries/proof-theory/#IncoRedu)
-* [2. 新的逻辑演算](https://plato.stanford.edu/entries/proof-theory/#NewLogiCalc)
-
-  * [2.1 从公理到规则：自然推理](https://plato.stanford.edu/entries/proof-theory/#AxioRuleNatuReas)
-  * [ 2.2 证明论中的序列演算](https://plato.stanford.edu/entries/proof-theory/#SequCalc)
-* [3. 贡岑的一致性证明](https://plato.stanford.edu/entries/proof-theory/#GentConsProo)
-
-  * [3.1 证明论中的序数](https://plato.stanford.edu/entries/proof-theory/#OrdiProoTheo)
-  * [ 3.2 无穷证明](https://plato.stanford.edu/entries/proof-theory/#InfiProo)
-* [4. 希尔伯特计划，扩展](https://plato.stanford.edu/entries/proof-theory/#HilbProgExte)
-
-  * [4.1 构造性框架](https://plato.stanford.edu/entries/proof-theory/#ConsFram)
-  * [4.2 证明论解释：哥德尔和斯佩克特](https://plato.stanford.edu/entries/proof-theory/#DialInteGodeSpec)
-* [5. 超越算术：Z2 的子系统](https://plato.stanford.edu/entries/proof-theory/#BeyoAritSubsBZ2)
-
-  * [5.1 武内的基本猜想](https://plato.stanford.edu/entries/proof-theory/#TakeFundConj)
-  * [5.2 预测理论](https://plato.stanford.edu/entries/proof-theory/#PredTheo)
-
-    * [5.2.1 理论的进展：完成不完整的部分](https://plato.stanford.edu/entries/proof-theory/#ProgTheoCompInco)
-    * [5.2.2 更强的序数表示：Veblen 和 Bachmann 层次结构](https://plato.stanford.edu/entries/proof-theory/#StroOrdiReprVeblBachHier)
-    * [5.2.3 预测理论的无穷证明](https://plato.stanford.edu/entries/proof-theory/#InfiProoForPredTheo)
-  * [5.3 非预测子系统和广义归纳定义](https://plato.stanford.edu/entries/proof-theory/#ImprSubsGeneInduDefi)
-
-    * [5.3.1 插曲：超越巴赫曼的序数表示系统](https://plato.stanford.edu/entries/proof-theory/#InteOrdiReprSystBeyoBach)
-    * [5.3.2 分配证明论序数](https://plato.stanford.edu/entries/proof-theory/#AssiProoTheoOrdi)
-* [ 6. 结语](https://plato.stanford.edu/entries/proof-theory/#Epil)
-* [ 参考文献](https://plato.stanford.edu/entries/proof-theory/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/proof-theory/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/proof-theory/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/proof-theory/#Rel)
+ 
 
 ** 附录**
 

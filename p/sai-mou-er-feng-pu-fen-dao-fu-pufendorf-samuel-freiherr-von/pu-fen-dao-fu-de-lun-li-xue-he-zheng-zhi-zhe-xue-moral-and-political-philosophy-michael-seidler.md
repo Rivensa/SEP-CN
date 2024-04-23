@@ -8,37 +8,7 @@
 
 普芬道夫的方法是世俗的、非形而上的和反权威主义的；它避免了宗教上的呼吁、学院派的教条、本质主义、目的论以及这些吸引了许多德国思想家（天主教和新教徒）的混合。相反，它建立在博丁、利普修斯、格罗蒂乌斯、霍布斯和意大利的国家理性传统之上。正因为如此，普芬道夫被称为伦理学上的意志主义者、政治学上的主权理论家和国际关系理论上的现实主义者。他的这种自然法被称为“现代”或“新教”（Tuck 1987，Haakonssen 2004），与形而上学、新斯科拉主义、理性主义甚至柏拉图式版本的流派形成对比，这些流派不仅由萨拉曼卡学派（苏亚雷斯、维多利亚）代表，而且还有莱布尼茨和沃尔夫。普芬道夫是一位哲学家和法学家，也是一位备受尊敬的历史学家，他的（主要是欧洲各国的外交关系）各种欧洲国家的记述展示了他的基本哲学概念。他特别关注教会与国家的关系、知识和宗教的宽容以及培根主义哲学中的创新主题。由于他作品的清晰和全面、思想的敏锐性以及他们的辩论性和随之而来的臭名，它们被翻译成许多欧洲语言，因此在 18 世纪关于道德、社会、政治、历史和国际事务的讨论中，它们提供了许多基本概念和区别，通常以教学工具的形式存在。事实上，普芬道夫直接或通过他的许多编辑、翻译者和模仿者，主要负责在随后的一个世纪中将自然法作为共享话语的所谓无处不在（Haakonssen 2012）。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/pufendorf-moral/#LifWor)
-* [2. 现代自然法的方法](https://plato.stanford.edu/entries/pufendorf-moral/#MetModNatLaw)
-
-  * [2.1 现代自然法](https://plato.stanford.edu/entries/pufendorf-moral/#ModNatLaw)
-  * [2.2 塞缪尔·冯·普芬道夫男爵的哲学方法](https://plato.stanford.edu/entries/pufendorf-moral/#PhiMet)
-* [3. 道德哲学](https://plato.stanford.edu/entries/pufendorf-moral/#Mor)
-
-  * [ 3.1 道德实体](https://plato.stanford.edu/entries/pufendorf-moral/#MorEnt)
-  * [ 3.2 道德必然性](https://plato.stanford.edu/entries/pufendorf-moral/#MorNec)
-  * [3.3 自然状态](https://plato.stanford.edu/entries/pufendorf-moral/#NatSta)
-  * [3.4 自然法则](https://plato.stanford.edu/entries/pufendorf-moral/#LawNat)
-  * [3.5 职责类型](https://plato.stanford.edu/entries/pufendorf-moral/#TypDut)
-  * [3.6 言论、财产和商业](https://plato.stanford.edu/entries/pufendorf-moral/#SpeProCom)
-* [4. 政治哲学](https://plato.stanford.edu/entries/pufendorf-moral/#Pol)
-
-  * [ 4.1 前文明社会](https://plato.stanford.edu/entries/pufendorf-moral/#PreCivSoc)
-  * [ 4.2 国家](https://plato.stanford.edu/entries/pufendorf-moral/#Sta)
-  * [4.3 自然法和历史](https://plato.stanford.edu/entries/pufendorf-moral/#NatLawHis)
-* [ 5. 影响](https://plato.stanford.edu/entries/pufendorf-moral/#Inf)
-
-  * [ 5.1 文学后世](https://plato.stanford.edu/entries/pufendorf-moral/#LitAft)
-  * [5.2 18 世纪的存在](https://plato.stanford.edu/entries/pufendorf-moral/#18tCenPre)
-  * [5.3 日食与重新发现](https://plato.stanford.edu/entries/pufendorf-moral/#EclRed)
-* [ 参考文献](https://plato.stanford.edu/entries/pufendorf-moral/#Bib)
-
-  * [主要来源：普芬道夫的作品](https://plato.stanford.edu/entries/pufendorf-moral/#PriSouWorPuf)
-  * [ 其他主要来源](https://plato.stanford.edu/entries/pufendorf-moral/#OthPriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/pufendorf-moral/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/pufendorf-moral/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pufendorf-moral/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pufendorf-moral/#Rel)
+ 
 
 ---
 

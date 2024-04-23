@@ -10,32 +10,7 @@ _首次发表于2005年11月23日；实质性修订于2016年6月17日。_
 
 内容指南：典型读者应省略注释；请参阅前面的建议。§1 讨论了简单的图像（上面的黑体字，两段落）。§1.3 建议如何减轻早期考虑的异议，以便将简单图像的体验核心作为一个活跃的理论可能性保存下来。呼吁使用内省的困难和易错性，也许尤其是内省情感状态。§2.3.2 讨论了 Fred Feldman 发展的最新态度方法。详细讨论了它的困难，并提出了新亚里士多德主义和更类似简单图像的替代方案（§2.3.3）。还注意到了更复杂的中世纪关于快乐的意向关系的描述（§2.3.1），并与更非二元观点进行了对比。尤其是§3 旨在整合哲学和科学、历史和当代的贡献。
 
-* [1. 瞬间体验的特征](https://plato.stanford.edu/entries/pleasure/#FeatMomeExpe)
-  * [1.1 快乐作为一种简单但强大的感觉](https://plato.stanford.edu/entries/pleasure/#PleaSimpButPoweFeel)
-  * [1.2 对简单图景的拒绝](https://plato.stanford.edu/entries/pleasure/#RejeSimpPict)
-  * [1.3 经验的更加谦虚的角色](https://plato.stanford.edu/entries/pleasure/#ModeRoleForExpe)
-* [2. 寻找异质性中的统一](https://plato.stanford.edu/entries/pleasure/#FindUnitHete)
-  * [2.1 寻求一个普遍的解释/原理](https://plato.stanford.edu/entries/pleasure/#SeekUnivAcco)
-  * [2.2 古典解释/原理：功能统一与差异](https://plato.stanford.edu/entries/pleasure/#ClasAccoFuncUnitDiff)
-    * [2.2.1 柏拉图：注意到生活自然状态的不同恢复](https://plato.stanford.edu/entries/pleasure/#PlatNotiDiffRestLifeNatuStat)
-    * [2.2.2 亚里士多德：完善不同的活动](https://plato.stanford.edu/entries/pleasure/#ArisPerfDiffActi)
-    * [2.2.3 伊壁鸠鲁：享受生活自然状态的活动](https://plato.stanford.edu/entries/pleasure/#EpicSavoActiLifeNatuStat)
-  * [2.3 一种对对象或内容的指向性？](https://plato.stanford.edu/entries/pleasure/#KindDireTowaObjeCont)
-    * [2.3.1 喜欢、爱、品味](https://plato.stanford.edu/entries/pleasure/#LikiLoviSavo)
-    * [2.3.2 一种涉及内容的态度，像信念一样？](https://plato.stanford.edu/entries/pleasure/#ContInvoAttiLikeBeli)
-    * [2.3.3 欢迎-无论什么-可能自由漂浮？](https://plato.stanford.edu/entries/pleasure/#WelcWhatComeMayFloaFree)
-    * [2.3.4 意向性，主观性和意识](https://plato.stanford.edu/entries/pleasure/#InteSubjCons)
-* [3. 快乐，动机和大脑](https://plato.stanford.edu/entries/pleasure/#PleaMotiBrai)
-  * [3.1 基于动机的分析及其问题](https://plato.stanford.edu/entries/pleasure/#MotiBaseAnalTheiProb)
-  * [3.2 快乐的好处是否独立于动机？](https://plato.stanford.edu/entries/pleasure/#PleaGoodIndeMoti)
-  * [3.3 分割快乐还是寻找真正的快乐？](https://plato.stanford.edu/entries/pleasure/#DiviPleaFindTruePlea)
-* [4. 结论：内观，展望未来](https://plato.stanford.edu/entries/pleasure/#ConcLookInwaLookForw)
-* [参考文献](https://plato.stanford.edu/entries/pleasure/#Bib)
-  * [传统经典宗教文本](https://plato.stanford.edu/entries/pleasure/#CanoReliTextTrad)
-  * [参考文献，作者](https://plato.stanford.edu/entries/pleasure/#RefeAuth)
-* [学术工具](https://plato.stanford.edu/entries/pleasure/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pleasure/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/pleasure/#Rel)
+ 
 
 ***
 

@@ -8,28 +8,7 @@
 所谓“早期现象学”提供的一些最原创的见解涉及到关于意向性的概念，即某些心理状态具有指向对象和事态的特性。慕尼黑学派和哥廷根学派的几位成员声称存在着根本不同种类的意向性（以及由此推广的意向行为），不能归纳为一个统一的类别。此外，这些作者通过发展有洞察力的社会或言语行为、共情和集体意向性的理论，促进了我们对各种形式的主体间意向性的理解。
 
 早期现象学家将对心理经验的研究视为对象论或本体论的一部分，并且他们的贡献在这个问题上有一些共同的特点。特别是，人们认为对象和事实独立于任何人的信念、心理状态或概念体系的存在，并且它们具有基本属性。现象学本体论的两个主要类别，慕尼黑学派和哥廷根学派的几位成员都进行了广泛的研究，分别是对象和事态。
-
-* [1. 现象学的慕尼黑学派和哥廷根学派：简史](https://plato.stanford.edu/entries/phenomenology-mg/#MuniGottCircPhenBrieHist)
-* [2. 心灵哲学](https://plato.stanford.edu/entries/phenomenology-mg/#PhilMind)
-
-  * [2.1 意向性理论](https://plato.stanford.edu/entries/phenomenology-mg/#TheoInte)
-
-    * [2.1.1 意义行为和呈现](https://plato.stanford.edu/entries/phenomenology-mg/#MeanActsPres)
-    * [2.1.2 态度：信念、情感、意愿。](https://plato.stanford.edu/entries/phenomenology-mg/#AttiDoxaAffeCona)
-  * [2.2 社会的、共情的和集体的经验](https://plato.stanford.edu/entries/phenomenology-mg/#SociEmpaCollExpe)
-* [3. 慕尼黑学派和哥廷根学派中的对象理论](https://plato.stanford.edu/entries/phenomenology-mg/#TheoObjeMuniGottCirc)
-
-  * [ 3.1 一般特征](https://plato.stanford.edu/entries/phenomenology-mg/#GeneFeat)
-  * [3.2 对象和事实状态](https://plato.stanford.edu/entries/phenomenology-mg/#ObjeStatAffa)
-* [ 4. 结论](https://plato.stanford.edu/entries/phenomenology-mg/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/phenomenology-mg/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/phenomenology-mg/#PrimLite)
-  * [ 二手文献](https://plato.stanford.edu/entries/phenomenology-mg/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/phenomenology-mg/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/phenomenology-mg/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/phenomenology-mg/#Rel)
-
+ 
 ---
 
 ## 1. 现象学的慕尼黑学派和哥廷根学派：简史

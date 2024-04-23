@@ -4,28 +4,7 @@
 
 家长主义是国家或个人对他人的干涉，违背其意愿，并以干涉的人将会过得更好或免受伤害的主张为辩护或动机。家长主义的问题涉及法律限制，如反毒法规、强制佩戴安全带，以及医疗背景下医生对患者病情相关信息的隐瞒。在理论层面上，它引发了人们在处理不完全理性的人时应该如何对待的问题。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/paternalism/#Intr)
-* [2. 概念问题](https://plato.stanford.edu/entries/paternalism/#ConcIssu)
-
-  * [2.1 硬性 vs. 软性家长主义](https://plato.stanford.edu/entries/paternalism/#HardVsSoftPate)
-  * [2.2 广义 vs. 狭义家长主义](https://plato.stanford.edu/entries/paternalism/#BroaVsNarrPate)
-  * [2.3 弱式 vs. 强式家长主义](https://plato.stanford.edu/entries/paternalism/#WeakVsStroPate)
-  * [2.4 纯粹与不纯粹的家长主义](https://plato.stanford.edu/entries/paternalism/#PureVsImpuPate)
-  * [2.5 道德与福利的家长主义](https://plato.stanford.edu/entries/paternalism/#MoraVsWelfPate)
-* [ 3. 规范性问题](https://plato.stanford.edu/entries/paternalism/#NormIssuA)
-* [4. 家长主义自由主义](https://plato.stanford.edu/entries/paternalism/#LibePate)
-
-  * [ 4.1 定义问题](https://plato.stanford.edu/entries/paternalism/#DefiIssu)
-  * [ 4.2 规范问题](https://plato.stanford.edu/entries/paternalism/#NormIssuB)
-  * [ 4.3 透明度](https://plato.stanford.edu/entries/paternalism/#Tran)
-  * [4.4 利用错误推理](https://plato.stanford.edu/entries/paternalism/#HarnBadReas)
-  * [ 4.5 操纵](https://plato.stanford.edu/entries/paternalism/#Mani)
-* [ 5. 家长主义的谎言](https://plato.stanford.edu/entries/paternalism/#PatLies)
-* [ 参考文献](https://plato.stanford.edu/entries/paternalism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/paternalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/paternalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/paternalism/#Rel)
-
+ 
 ---
 
 ## 1. 简介

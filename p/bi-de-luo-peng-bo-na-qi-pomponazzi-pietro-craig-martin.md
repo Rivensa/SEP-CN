@@ -3,22 +3,7 @@
 *首次发表于2017年11月7日；实质修订于2021年10月19日。*
 
 彼得罗·彭波那齐（1462-1525）是意大利文艺复兴时期的一位杰出哲学家。他主要在帕多瓦和博洛尼亚的大学任教，他对亚里士多德的自然哲学和心理学发展出了创新的方法。他因对灵魂的死亡和看似神奇现象以及宗教发展的自然解释进行哲学调查而获得特别的声誉和声名狼藉。彭波那齐以他对宗教教义的哲学挑战以及他使用亚历山大·阿弗罗迪西亚斯的著作和斯多噶哲学思想来铸造他认为更纯净或更准确的亚里士多德自然哲学和心理学解释而闻名。
-
-* [ 1. 生平](https://plato.stanford.edu/entries/pomponazzi/#Life)
-* [2. 著作、方法和解释挑战](https://plato.stanford.edu/entries/pomponazzi/#WritMethInteChal)
-* [ 3. 心理学](https://plato.stanford.edu/entries/pomponazzi/#Psyc)
-* [4. 奇妙的自然、超自然和奇迹](https://plato.stanford.edu/entries/pomponazzi/#WondNatuPretMira)
-* [5. 命运和天意](https://plato.stanford.edu/entries/pomponazzi/#FateProv)
-* [ 6. 后期作品](https://plato.stanford.edu/entries/pomponazzi/#LateWork)
-* [7. 影响与遗产](https://plato.stanford.edu/entries/pomponazzi/#InflLega)
-* [ 参考书目](https://plato.stanford.edu/entries/pomponazzi/#Bib)
-
-  * [主要来源：彼得罗·彭波那齐](https://plato.stanford.edu/entries/pomponazzi/#PrimSourPietPomp)
-  * [ 其他主要来源](https://plato.stanford.edu/entries/pomponazzi/#OthePrimSour)
-  * [ 引用的次要作品](https://plato.stanford.edu/entries/pomponazzi/#SecoWorkCite)
-* [ 学术工具](https://plato.stanford.edu/entries/pomponazzi/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pomponazzi/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pomponazzi/#Rel)
+ 
 
 ---
 

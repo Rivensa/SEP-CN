@@ -4,26 +4,7 @@
 
 查尔斯·桑德斯·皮尔士（1839-1914）是美国实用主义的创始人（1905 年左右，皮尔士将其称为“实用主义”，以区别于威廉·詹姆斯、约翰·杜威等人的观点，后者被标记为“实用主义”），他是逻辑、语言、交流和符号的一般理论的理论家（皮尔士经常称之为“符号学”），他是一个非常多产的逻辑学家（数学和一般），也是一个进化的、心理-生理单一的形而上学系统的开发者。他通过从事测地学和化学来谋生，然而他认为科学哲学，尤其是逻辑，是他真正的使命，他真正的职业。在他的博学研究过程中，他广泛地写作了大量关于各种主题的著作，从数学、数理逻辑、物理学、测地学、光谱学和天文学（数学和物理科学）到心理学、人类学、历史学和经济学（人文和社会科学）。
 
-* [ 1. 简要传记](https://plato.stanford.edu/entries/peirce/#bio)
-* [2. 获取皮尔士著作的困难程度](https://plato.stanford.edu/entries/peirce/#access)
-* [3. 演绎、归纳和诱导](https://plato.stanford.edu/entries/peirce/#dia)
-* [4. 实用主义、实用主义学和科学方法](https://plato.stanford.edu/entries/peirce/#prag)
-* [5. 反决定论、随附和进化主义](https://plato.stanford.edu/entries/peirce/#anti)
-* [6. 同质论，连续体，无限和无限小](https://plato.stanford.edu/entries/peirce/#syn)
-* [7. 概率，近似真实性和合理性](https://plato.stanford.edu/entries/peirce/#prob)
-* [8. 心理物理单一论和反名词主义](https://plato.stanford.edu/entries/peirce/#psych)
-* [9. 三元论和普遍范畴](https://plato.stanford.edu/entries/peirce/#triad)
-* [10. 心灵与符号学](https://plato.stanford.edu/entries/peirce/#mind)
-* [11. 符号学与逻辑](https://plato.stanford.edu/entries/peirce/#seme)
-* [12. 科学的分类](https://plato.stanford.edu/entries/peirce/#class)
-* [ 13. 逻辑](https://plato.stanford.edu/entries/peirce/#logic)
-* [14. 皮尔士的简化论题](https://plato.stanford.edu/entries/peirce/#red)
-* [15. 皮尔士思想的当代实际应用](https://plato.stanford.edu/entries/peirce/#con)
-* [16. 皮尔士的重要学生](https://plato.stanford.edu/entries/peirce/#stud)
-* [ 参考文献](https://plato.stanford.edu/entries/peirce/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/peirce/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/peirce/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/peirce/#Rel)
+ 
 
 ---
 

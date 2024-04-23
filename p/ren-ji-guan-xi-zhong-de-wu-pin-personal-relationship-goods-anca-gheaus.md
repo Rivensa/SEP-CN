@@ -7,46 +7,7 @@
 
 确保所有个体以足够的、或者可能是相等的程度享受这些物品似乎很重要。长期以来，正义理论主要关注物质物品的分配，但开始对个人关系物品的分配表现出兴趣。然而，关于有义务分配它们的正义理论和国家（之一）承担这种义务的主张引发了几个问题。
 
-* [1. 初步区分](https://plato.stanford.edu/entries/personal-relationship-goods/#PrelDist)
-* [2. 人际关系中的物品](https://plato.stanford.edu/entries/personal-relationship-goods/#PersRelaGoodGene)
-
-  * [2.1 关怀伦理学](https://plato.stanford.edu/entries/personal-relationship-goods/#EthiCare)
-  * [2.2 物质和非物质需求](https://plato.stanford.edu/entries/personal-relationship-goods/#MateNonMateNeed)
-  * [2.3 人际关系：原因、责任和物品](https://plato.stanford.edu/entries/personal-relationship-goods/#PersRelaReasDutiGood)
-* [3. 人际关系物品的价值](https://plato.stanford.edu/entries/personal-relationship-goods/#ValuPersRelaGood)
-
-  * [ 3.1 构成价值](https://plato.stanford.edu/entries/personal-relationship-goods/#ConsValu)
-  * [3.2 生存、健康和发展](https://plato.stanford.edu/entries/personal-relationship-goods/#SurvHealDeve)
-  * [ 3.3 自主权](https://plato.stanford.edu/entries/personal-relationship-goods/#Auto)
-  * [3.4 为确保其他权利的必要条件](https://plato.stanford.edu/entries/personal-relationship-goods/#NeceSecuOtheRigh)
-  * [3.5 主要物品作为通用物品](https://plato.stanford.edu/entries/personal-relationship-goods/#PrimGoodAllPurpGood)
-  * [3.6 主要物品作为两种道德力量所必需的物品](https://plato.stanford.edu/entries/personal-relationship-goods/#PrimGoodNeceForTwoMoraPowe)
-  * [3.7 主要物品作为机会平等所必需的物品](https://plato.stanford.edu/entries/personal-relationship-goods/#PrimGoodNeceForEquaOppo)
-* [4. 人际关系儿童物品](https://plato.stanford.edu/entries/personal-relationship-goods/#PersRelaGoodForChil)
-
-  * [4.1 家庭关系物品的权利](https://plato.stanford.edu/entries/personal-relationship-goods/#RighFamiRelaGood)
-  * [4.2 被爱的权利](https://plato.stanford.edu/entries/personal-relationship-goods/#RighLove)
-  * [4.3 人格主义对非父母抚养权的要求](https://plato.stanford.edu/entries/personal-relationship-goods/#RighNonPareCareGivi)
-  * [4.4 人格主义对独处权的要求](https://plato.stanford.edu/entries/personal-relationship-goods/#RighSoli)
-* [5. 人际关系物品与分配正义](https://plato.stanford.edu/entries/personal-relationship-goods/#PersRelaGoodDistJust)
-
-  * [ 5.1 国家中立性](https://plato.stanford.edu/entries/personal-relationship-goods/#StatNeut)
-  * [5.2 分配原则是哪个？](https://plato.stanford.edu/entries/personal-relationship-goods/#WhicPrinDist)
-  * [5.3 正义的度量标准是哪个？](https://plato.stanford.edu/entries/personal-relationship-goods/#WhicMetrJust)
-  * [5.4 全面平等挑战](https://plato.stanford.edu/entries/personal-relationship-goods/#HoliEgalChal)
-  * [5.5 完全竞争的资源？](https://plato.stanford.edu/entries/personal-relationship-goods/#FullRivaReso)
-  * [ 5.6 责任承担者？](https://plato.stanford.edu/entries/personal-relationship-goods/#DutyBear)
-  * [5.7 实施问题](https://plato.stanford.edu/entries/personal-relationship-goods/#ImplIssu)
-  * [5.8 人际关系的不好之处？](https://plato.stanford.edu/entries/personal-relationship-goods/#BadsPersRela)
-* [6. 政策和机构](https://plato.stanford.edu/entries/personal-relationship-goods/#PoliInst)
-
-  * [ 6.1 一般措施](https://plato.stanford.edu/entries/personal-relationship-goods/#GeneMeas)
-  * [6.2 针对儿童的措施](https://plato.stanford.edu/entries/personal-relationship-goods/#MeasAimeChil)
-* [ 参考文献](https://plato.stanford.edu/entries/personal-relationship-goods/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/personal-relationship-goods/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/personal-relationship-goods/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/personal-relationship-goods/#Rel)
-
+ 
 ---
 
 ## 1. 初步区分

@@ -8,46 +8,7 @@
 
 需要注意的是，下面使用“反悖论”一词作为“悖论”的替代词，并且具有同义性。大多数悖论——但并非全部——涉及矛盾；对于这种情况，我们经常也使用“矛盾”一词。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#Intr)
-* [2. 悖论：早期发展（1897 年-1917 年）](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#ParaEarlDeve1897)
-
-  * [2.1. 涉及序数和基数的困难](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#DiffInvoOrdiCardNumb)
-  * [2.2 罗素的矛盾](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#RussCont)
-  * [2.3 罗素的悖论涉及命题和真理：类型理论的出现](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#RussParaInvoPropTrutEmerTypeTheo)
-  * [2.4 数学家和矛盾：希尔伯特和策梅洛](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#MathContHilbZerm)
-  * [2.5 约 1905 年：由可定义性和连续性引起的困难](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#Arou1905DiffArisDefiCont)
-* [3. 悖论、预测主义和类型理论：1905 年至 1913 年](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#ParaPredDoctType1905)
-
-  * [3.1 庞加莱和罗素对矛盾的看法](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#PoinRussCont)
-  * [3.2 数理逻辑基于类型理论](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#MathLogiBaseTheoType)
-  * [3.3 完善整体图景](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#CompPict)
-* [4. 1930 年之前的逻辑发展和悖论](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#LogiDeveParaUnti1930)
-
-  * [4.1 集合论和悖论：循环集合和其他问题](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#SetTheoParaCircSetsOtheMatt)
-  * [4.2 类型论的发展和悖论](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#TypeTheoDevePara)
-* [5. 悖论：在元数学和无类型基础之间（1930-1945）](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#ParaBetwMetaTypeFreeFoun1930)
-
-  * [5.1 悖论和对角线法](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#ParaDiag)
-  * [5.2 悖论和语义基础](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#ParaFounSema)
-  * [5.3 “某些形式逻辑的不一致性”](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#IncoCertFormLogi)
-  * [5.4 批评标准的蕴涵和否定](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#CritStanImplNega)
-  * [5.5 非终止过程、循环和典型的歧义](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#NonTermProcCyclTypiAmbi)
-* [6. 现代调查的一瞥](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#GlanPresDayInve)
-
-  * [6.1 从悖论到定理](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#ParaTheo)
-  * [6.2 基础框架和悖论](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#FounFramPara)
-  * [6.3 循环性和自我参照](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#CircSelfRefe)
-  * [6.4 从悖论到不完备性](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#ParaInco)
-  * [6.5 关于语义基础的再次探讨](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#FounSemaAgai)
-  * [6.6 保持非经典的](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#StayNonClas)
-  * [6.7 走向“几何”方法](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#TowaGeomAppr)
-* [ 参考文献](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#Bib)
-
-  * [主要来源：1897 年至 1945 年](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#PrimSour1897)
-  * [ 最近的来源](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#ReceSour)
-* [ 学术工具](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/#Rel)
+ 
 
 ---
 

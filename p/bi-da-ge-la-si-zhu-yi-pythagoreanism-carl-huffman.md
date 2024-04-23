@@ -11,38 +11,7 @@
 
 (4) 毕达哥拉斯主义的最后表现形式，新毕达哥拉斯主义，影响最大。新毕达哥拉斯主义并非一个统一的思想学派，而是一个延续了许多世纪的倾向，无论历史上是否有根据，都将毕达哥拉斯视为整个希腊哲学传统中的核心和原始人物。这个毕达哥拉斯通常被认为是通过神圣启示获得他的哲学，而这个启示早在古代近东的智者（如波斯魔法师、希伯来人（尤其是摩西）和埃及祭司）手中就已经存在。只要是真实的，毕达哥拉斯之后的所有希腊哲学都被视为源自这个启示。因此，柏拉图和亚里士多德的思想被视为源自毕达哥拉斯（通过其他早期毕达哥拉斯人的中介）。后来为了提供柏拉图和亚里士多德所借鉴的毕达哥拉斯的“原作”，许多伪作品在后来的时代产生。新毕达哥拉斯传统的某些分支强调毕达哥拉斯作为一位大师形而上学家，据称他创立了柏拉图后期形而上学的原理，即一和无限二元论。其他新毕达哥拉斯人则将他视为数学科学（算术、几何、天文学和音乐）四学科的创始人，还有一些人将他描绘成一位魔术师或宗教专家和智者，我们应该以他为榜样。新毕达哥拉斯主义可能早在公元前四世纪下半叶就在柏拉图学派的第一批继任者中开始出现，但特别是从公元前一世纪开始，一直繁荣到古代的尽头。新毕达哥拉斯主义与中期和新柏拉图主义有密切联系，并且从伊安布利科斯（公元 4 世纪）开始，基本上被吸收到新柏拉图主义中。在中世纪和文艺复兴时期，新毕达哥拉斯主义是主导的毕达哥拉斯主义版本。
 
-* [1. 毕达哥拉斯的哲学](https://plato.stanford.edu/entries/pythagoreanism/#PhilPyth)
-* [2. 第五和第四世纪最著名的毕达哥拉斯人](https://plato.stanford.edu/entries/pythagoreanism/#2)
-
-  * [ 2.1 菲洛劳斯](https://plato.stanford.edu/entries/pythagoreanism/#Philolaus)
-  * [ 2.2 尤里图斯](https://plato.stanford.edu/entries/pythagoreanism/#Eurytus)
-  * [2.3 亚里士多德的“所谓”毕达哥拉斯主义者](https://plato.stanford.edu/entries/pythagoreanism/#So-called-Pythagoreans)
-  * [2.4 毕达哥拉斯的对立表中的毕达哥拉斯主义者](https://plato.stanford.edu/entries/pythagoreanism/#Table)
-  * [ 2.5 阿基塔斯](https://plato.stanford.edu/entries/pythagoreanism/#Archytas)
-* [3. 其他六世纪、五世纪和四世纪的毕达哥拉斯主义者](https://plato.stanford.edu/entries/pythagoreanism/#Other)
-
-  * [3.1 《毕达哥拉斯主义生活》中的毕达哥拉斯人目录：谁被认为是毕达哥拉斯人？](https://plato.stanford.edu/entries/pythagoreanism/#Catalogue)
-  * [3.2 最早的毕达哥拉斯人：布朗蒂努斯，西阿诺等。](https://plato.stanford.edu/entries/pythagoreanism/#brontinus)
-  * [ 3.3 毕达哥拉斯女性](https://plato.stanford.edu/entries/pythagoreanism/#women)
-  * [3.4 Hippasus and Other Fifth-century Pythagoreans: ](https://plato.stanford.edu/entries/pythagoreanism/#hippasus)​*[acusmatici](https://plato.stanford.edu/entries/pythagoreanism/#hippasus)*​[ and ](https://plato.stanford.edu/entries/pythagoreanism/#hippasus)​*[mathêmatici](https://plato.stanford.edu/entries/pythagoreanism/#hippasus)*
-  * [3.5 The Fourth Century: Aristoxenus, the Last of the Pythagoreans, and the Pythagorists](https://plato.stanford.edu/entries/pythagoreanism/#fourth)
-  * [3.6 Timaeus, Ocellus, Hicetas and Ecphantus](https://plato.stanford.edu/entries/pythagoreanism/#timaeus)
-  * [3.7 柏拉图和毕达哥拉斯主义](https://plato.stanford.edu/entries/pythagoreanism/#Plato)
-* [ 4. 新毕达哥拉斯主义](https://plato.stanford.edu/entries/pythagoreanism/#4)
-
-  * [4.1 早期学院的起源：斯佩乌西普斯，克诺克拉底和赫拉克利德斯与亚里士多德和亚里士多德学派的对比](https://plato.stanford.edu/entries/pythagoreanism/#academy)
-  * [4.2 毕达哥拉斯伪经](https://plato.stanford.edu/entries/pythagoreanism/#pseud)
-  * [4.3 新毕达哥拉斯主义形而上学：尤多鲁斯、莫德拉图斯和努米尼乌斯](https://plato.stanford.edu/entries/pythagoreanism/#meta)
-  * [4.4 新毕达哥拉斯主义数学科学：尼科马库斯、波菲里和伊安布利科斯](https://plato.stanford.edu/entries/pythagoreanism/#math)
-  * [4.5 毕达哥拉斯和毕达哥拉斯主义作为宗教专家、魔术师和道德楷模：罗马的毕达哥拉斯主义，金句和提亚纳的阿波罗尼乌斯](https://plato.stanford.edu/entries/pythagoreanism/#magic)
-* [5. 中世纪和文艺复兴时期的毕达哥拉斯主义](https://plato.stanford.edu/entries/pythagoreanism/#mar)
-
-  * [5.1 博伊修斯/尼科马库斯，卡尔西迪乌斯，马克罗比乌斯和中世纪](https://plato.stanford.edu/entries/pythagoreanism/#boethius)
-  * [5.2 文艺复兴：菲奇诺，皮科，罗伊克林，哥白尼和开普勒](https://plato.stanford.edu/entries/pythagoreanism/#ren)
-* [ 参考书目](https://plato.stanford.edu/entries/pythagoreanism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/pythagoreanism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pythagoreanism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pythagoreanism/#Rel)
+ 
 
 ---
 

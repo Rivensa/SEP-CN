@@ -7,33 +7,7 @@
 
 在本条目中，我们将探讨系统发生分析是什么以及它是如何工作的。在第一部分中，我们简要介绍了系统发生学及其历史。在第二部分中，我们探讨了系统发生分析为哲学家提供了有价值的问题，并且哲学方法对系统发生学的科学研究做出了贡献。这将有助于展示为什么系统发生分析不仅仅是一个生物学研究问题，而且也是一个哲学问题。最后，在第三部分中，我们将讨论一些关于系统发生学基础问题的当代辩论，以及系统发生分析的未来展望。
 
-* [1. 生物学中的系统发生分析](https://plato.stanford.edu/entries/phylogenetic-inference/#PhylInfeBiol)
-
-  * [1.1 系统发生学的入门和介绍](https://plato.stanford.edu/entries/phylogenetic-inference/#PrimIntrPhyl)
-  * [1.2 从达尔文到今天：三个交织的历史](https://plato.stanford.edu/entries/phylogenetic-inference/#DarwTodaThreInteHist)
-
-    * [1.2.1 系统发生学之争](https://plato.stanford.edu/entries/phylogenetic-inference/#SystWars)
-    * [1.2.2 分子革命](https://plato.stanford.edu/entries/phylogenetic-inference/#MoleRevo)
-    * [1.2.3 系统发生学的数学化和基本系统发生学方法的引入](https://plato.stanford.edu/entries/phylogenetic-inference/#MathPhylIntrBasiPhylMeth)
-* [2. 系统发生分析与哲学](https://plato.stanford.edu/entries/phylogenetic-inference/#PhylInfePhil)
-
-  * [2.1 对齐和字符编码](https://plato.stanford.edu/entries/phylogenetic-inference/#AligCharCodi)
-  * [2.2 计算限制和大数据](https://plato.stanford.edu/entries/phylogenetic-inference/#CompLimiBigData)
-  * [2.3 最简原则的理论基础](https://plato.stanford.edu/entries/phylogenetic-inference/#JustPars)
-  * [2.4 长枝吸引和基于模型的方法](https://plato.stanford.edu/entries/phylogenetic-inference/#LongBranAttrModeBaseMeth)
-  * [2.5 系统发生学与统计学哲学](https://plato.stanford.edu/entries/phylogenetic-inference/#PhylPhilStat)
-  * [2.6 系统发生学与哲学](https://plato.stanford.edu/entries/phylogenetic-inference/#PhylPhil)
-
-    * [2.6.1 系统发生学作为科学的一般哲学](https://plato.stanford.edu/entries/phylogenetic-inference/#PhylInfeGenePhilScie)
-    * [2.6.2 系统发生学作为形而上学问题](https://plato.stanford.edu/entries/phylogenetic-inference/#PhylInfeProbMeta)
-* [3. 展望未来：新的挑战和机遇](https://plato.stanford.edu/entries/phylogenetic-inference/#LookAheaNewChalOppo)
-
-  * [3.1 系统发生学与不一致性](https://plato.stanford.edu/entries/phylogenetic-inference/#RetiDisc)
-  * [3.2 对系统发生分析的影响](https://plato.stanford.edu/entries/phylogenetic-inference/#ImpaPhylInfe)
-* [ 参考文献](https://plato.stanford.edu/entries/phylogenetic-inference/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/phylogenetic-inference/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/phylogenetic-inference/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/phylogenetic-inference/#Rel)
+ 
 
 ---
 

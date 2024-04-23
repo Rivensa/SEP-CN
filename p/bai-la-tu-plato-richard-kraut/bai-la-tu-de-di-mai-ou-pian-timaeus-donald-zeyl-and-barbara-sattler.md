@@ -7,22 +7,7 @@ _首次发表于2005年10月25日；实质性修订于2022年5月13日。_
 宇宙的美丽有序不仅是智慧的表现，也是理性灵魂理解和效仿的模范。这种理解和效仿使这些灵魂恢复到它们最初的卓越状态，这种状态在它们的具体化中丧失了。因此，这种论述还具有明确的伦理和宗教维度。
 
 这幅神圣创造的宇宙的图画，虽然从一开始就备受争议（见下文第 2 节），但通过几个世纪的哲学家和神学家的想象和赞赏，它已经吸引了无数代人的注意。\[1]由于这部作品的广泛范围，以及它作为一种独白的性质——通过排除对话者之间的交流，这篇演讲更像是一种权威性陈述，而不是一系列需要调查的问题——《蒂迈欧》通常被认为是作者智力成就的巅峰，特别是对于那些赞同它对宇宙描绘的思想家来说。这也似乎是它早期被翻译成拉丁语的原因之一。公元四世纪的卡尔西迪乌斯（Calcidius）的拉丁译本使它成为中世纪拉丁西方唯一可用的柏拉图文本，直到十二世纪。虽然它仍然是开普勒的重要参考点，但随着时间的推移，它的影响力开始减弱。在 19 世纪后期和 20 世纪前期，随着语言学方法的精细化和确切的历史学研究的完善，对《蒂迈欧》的兴趣再次被激发出来，\[2]但在 20 世纪下半叶，这篇对话经常被认为在哲学上至多是无足轻重的，甚至是倒退的。它在关于柏拉图哲学发展的争论中起到了重要的作用，但并不多。然而，近几十年来，《蒂迈欧》再次引起了人们对它的浓厚兴趣：哲学家、科学史学家、思想史学家和语言学家，虽然不一定被对话的大胆主张所说服，但对它宏伟的描述感到着迷，并积极参与并试图阐明其概念结构。
-
-* [1. 对话概述](https://plato.stanford.edu/entries/plato-timaeus/#OverDial)
-* [2. 解释性问题](https://plato.stanford.edu/entries/plato-timaeus/#InteQues)
-* [3. 蒂迈欧与其他柏拉图对话的关系](https://plato.stanford.edu/entries/plato-timaeus/#RelaTimaOthePlatDial)
-* [4. 逻格斯的地位](https://plato.stanford.edu/entries/plato-timaeus/#StatAcco)
-* [5. 存在与生成](https://plato.stanford.edu/entries/plato-timaeus/#BeinBeco)
-* [6. 容器](https://plato.stanford.edu/entries/plato-timaeus/#Rece)
-* [7. 目的论](https://plato.stanford.edu/entries/plato-timaeus/#Tele)
-* [8. 物理学](https://plato.stanford.edu/entries/plato-timaeus/#Phys)
-* [9. 伦理学](https://plato.stanford.edu/entries/plato-timaeus/#Ethi)
-* [参考书目](https://plato.stanford.edu/entries/plato-timaeus/#Bib)
-  * [主要文献](https://plato.stanford.edu/entries/plato-timaeus/#PrimLite)
-  * [二手文献](https://plato.stanford.edu/entries/plato-timaeus/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/plato-timaeus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plato-timaeus/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/plato-timaeus/#Rel)
+ 
 
 ***
 

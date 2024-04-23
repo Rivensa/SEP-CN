@@ -6,24 +6,7 @@
 
 柏拉图的对话中有许多神话：传统神话，他有时会对其进行修改，以及他创造的神话，尽管其中许多包含来自不同传统的神话元素。柏拉图既是一个神话讲述者，也是一个神话创作者。总的来说，他使用神话来灌输给他那些不太哲学的读者高尚的信念和/或教授他们一些可能对他们来说过于困难的哲学问题，如果以直率的哲学话语来阐述的话。近年来，越来越多的学者争论认为，在柏拉图的神话和哲学中，尽管他偶尔声称它们是相对立的话语形式，但它们是紧密联系在一起的。
 
-* [1. 柏拉图的读者群](https://plato.stanford.edu/entries/plato-myths/#PlaReaAud)
-* [ 2. 柏拉图的秘所思](https://plato.stanford.edu/entries/plato-myths/#PlaMyt)
-* [3. 秘所思作为一种说服手段](https://plato.stanford.edu/entries/plato-myths/#MytMeaPer)
-* [4. 秘所思作为一种教学工具](https://plato.stanford.edu/entries/plato-myths/#MytTeaToo)
-* [5. 秘所思在《柏拉图的时间篇》中](https://plato.stanford.edu/entries/plato-myths/#MytTim)
-* [6. 秘所思与哲学](https://plato.stanford.edu/entries/plato-myths/#Myt)
-* [7. 柏拉图的秘所思在柏拉图主义传统中](https://plato.stanford.edu/entries/plato-myths/#PlaMytPlaTra)
-* [8. 柏拉图的秘所思的文艺复兴插图](https://plato.stanford.edu/entries/plato-myths/#RenIllPlaMyt)
-* [ 参考书目](https://plato.stanford.edu/entries/plato-myths/#Bib)
-
-  * [柏拉图秘所思选集](https://plato.stanford.edu/entries/plato-myths/#AntPlaMyt)
-  * [柏拉图的秘所思简介](https://plato.stanford.edu/entries/plato-myths/#ShoIntPlaMyt)
-  * [关于柏拉图秘所思的文章和书籍](https://plato.stanford.edu/entries/plato-myths/#ArtBooPlaMyt)
-  * [柏拉图秘所思在柏拉图主义传统中的表现](https://plato.stanford.edu/entries/plato-myths/#PlaMytPlaTraBib)
-  * [ 引用参考文献](https://plato.stanford.edu/entries/plato-myths/#RefCit)
-* [ 学术工具](https://plato.stanford.edu/entries/plato-myths/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plato-myths/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plato-myths/#Rel)
+ 
 
 ---
 

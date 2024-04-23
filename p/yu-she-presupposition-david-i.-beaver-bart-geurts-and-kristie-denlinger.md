@@ -3,31 +3,7 @@
 
 我们讨论预设，即说话者通过语言标记信息为被认为是理所当然的，而不是言语行为的主要命题内容的现象。携带预设的表达和结构被称为“预设触发器”，形成一个包括确定词和事实动词在内的大类。本文首先介绍了一些触发器的示例，预设的基本属性，如投射性和可取消性，以及用于识别它们的诊断测试。然后，读者将介绍过去 50 年来的主要预设模型，分为三类：弗雷格-斯特劳森派生的语义模型，如斯坦纳克提供的语用模型，以及动态模型。最后，我们讨论了预设理论中的一些主要当前问题。这些问题涉及适应，即听者的知识状态被调整以满足说话者的预设；预设失败，即预设为（已知为）错误；预设和态度之间的相互作用；以及触发器及其预设行为的可变性。
 
-* [1. 描述预设](https://plato.stanford.edu/entries/presupposition/#CharPres)
-
-  * [ 1.1 引言](https://plato.stanford.edu/entries/presupposition/#Intr)
-  * [ 1.2 投射](https://plato.stanford.edu/entries/presupposition/#Proj)
-  * [ 1.3 可取消性](https://plato.stanford.edu/entries/presupposition/#Canc)
-* [2. Frege-Strawson 传统](https://plato.stanford.edu/entries/presupposition/#FregStraTrad)
-* [3. 预设的语用前提](https://plato.stanford.edu/entries/presupposition/#PragPres)
-* [4. 本地语境和动态转向](https://plato.stanford.edu/entries/presupposition/#LocaContDynaTurn)
-
-  * [4.1 预设和指代](https://plato.stanford.edu/entries/presupposition/#PresAnap)
-  * [4.2 在本地环境中的满意度](https://plato.stanford.edu/entries/presupposition/#SatiLocaCont)
-  * [4.3 满意度理论](https://plato.stanford.edu/entries/presupposition/#SatiTheo)
-* [ 5. 解释](https://plato.stanford.edu/entries/presupposition/#Acco)
-
-  * [5.1 全局和局部解释](https://plato.stanford.edu/entries/presupposition/#GlobLocaAcco)
-  * [5.2 在满足框架中解释预设](https://plato.stanford.edu/entries/presupposition/#AccoPresSatiFram)
-  * [5.3 在 DRT 中解决和解释预设](https://plato.stanford.edu/entries/presupposition/#ResoAccoPresDRT)
-* [6. 注定失败，还是未曾诞生？](https://plato.stanford.edu/entries/presupposition/#BornFailUnbo)
-* [7. 预设和态度](https://plato.stanford.edu/entries/presupposition/#PresAtti)
-* [8. 预设的变化性](https://plato.stanford.edu/entries/presupposition/#PresVari)
-* [ 参考文献](https://plato.stanford.edu/entries/presupposition/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/presupposition/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/presupposition/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/presupposition/#Rel)
-
+ 
 ---
 
 ## 1 预设的特征

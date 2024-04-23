@@ -4,20 +4,7 @@
 
 布莱士·帕斯卡在他相对短暂的一生中没有发表过任何哲学作品。他在法国文学界的地位主要是基于他去世后出版的一本笔记本，其中记录了他为计划中的基督教辩护而起草或记录的思想，即《关于宗教和其他一些主题的帕斯卡先生的思考》（1670 年）。尽管如此，从他在 17 世纪中叶对法国科学和神学辩论的贡献中可以窥见他的哲学承诺。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/pascal/#LifWor)
-* [2. 自然与恩典](https://plato.stanford.edu/entries/pascal/#NatGra)
-* [ 3. 自由意志](https://plato.stanford.edu/entries/pascal/#FreWil)
-* [4. 知识理论](https://plato.stanford.edu/entries/pascal/#TheKno)
-* [5. 伦理学和政治学](https://plato.stanford.edu/entries/pascal/#EthPol)
-* [6. 帕斯卡和人类存在](https://plato.stanford.edu/entries/pascal/#PasHumExi)
-* [ 参考文献](https://plato.stanford.edu/entries/pascal/#Bib)
-
-  * [ 帕斯卡的著作](https://plato.stanford.edu/entries/pascal/#PasWor)
-  * [ 相关早期作品](https://plato.stanford.edu/entries/pascal/#RelEarWor)
-  * [推荐的次要文献](https://plato.stanford.edu/entries/pascal/#RecSecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/pascal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pascal/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pascal/#Rel)
+ 
 
 ---
 

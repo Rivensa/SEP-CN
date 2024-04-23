@@ -13,22 +13,7 @@
 
 在提供简短的传记概述之后，我们将按照以下方式介绍庞加莱的观点：
 
-* [ 1. 传记](https://plato.stanford.edu/entries/poincare/#Bio)
-* [2. 科学的结构](https://plato.stanford.edu/entries/poincare/#StrSci)
-* [3. 数学哲学](https://plato.stanford.edu/entries/poincare/#Mat)
-
-  * [3.1 逻辑和基础：直觉和可预测性](https://plato.stanford.edu/entries/poincare/#LogFouIntPre)
-  * [3.2 几何学：约定、直觉和美学](https://plato.stanford.edu/entries/poincare/#GeoConIntAes)
-* [4. 物理哲学](https://plato.stanford.edu/entries/poincare/#Phy)
-* [5. 庞加莱的影响](https://plato.stanford.edu/entries/poincare/#InfPoi)
-* [ 参考文献](https://plato.stanford.edu/entries/poincare/#Bib)
-
-  * [庞加莱的选集](https://plato.stanford.edu/entries/poincare/#SelWorPoi)
-  * [本文提到的二次文献](https://plato.stanford.edu/entries/poincare/#SecLitMenArt)
-* [ 学术工具](https://plato.stanford.edu/entries/poincare/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/poincare/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/poincare/#Rel)
-
+ 
 ---
 
 ## 1. 传记

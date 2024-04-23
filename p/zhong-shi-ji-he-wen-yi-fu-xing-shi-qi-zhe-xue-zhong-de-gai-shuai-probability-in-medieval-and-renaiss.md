@@ -6,34 +6,7 @@
 
 中世纪的概率学术用法演变成了早期现代学术主义和人文主义中显著不同的概率论述，这两者最终被 18 世纪的现代数量概率观念所取代。关于这些过程仍有很多未知，但只有通过解释它们的中世纪起源才能更全面地理解。这个背景对于描绘欧洲哲学中确定性和不确定性、知识和观点的边界的变化，以及描绘经济思想史上对风险的态度也很重要。
 
-* [1. 概率：现在和过去](https://plato.stanford.edu/entries/probability-medieval-renaissance/#ProNowThe)
-* [2. 中世纪与概率相关的术语](https://plato.stanford.edu/entries/probability-medieval-renaissance/#MedProRelTer)
-
-  * [ 2.1 概率](https://plato.stanford.edu/entries/probability-medieval-renaissance/#Pro)
-  * [ 2.2 似然的](https://plato.stanford.edu/entries/probability-medieval-renaissance/#Ver)
-  * [2.3 ](https://plato.stanford.edu/entries/probability-medieval-renaissance/#CreOpi)​*[Credibilis](https://plato.stanford.edu/entries/probability-medieval-renaissance/#CreOpi)*​[, ](https://plato.stanford.edu/entries/probability-medieval-renaissance/#CreOpi)​*[opinabilis](https://plato.stanford.edu/entries/probability-medieval-renaissance/#CreOpi)*
-  * [ 2.4 频率术语](https://plato.stanford.edu/entries/probability-medieval-renaissance/#FreTer)
-* [3. 概率的学术概念](https://plato.stanford.edu/entries/probability-medieval-renaissance/#SchConPro)
-
-  * [3.1 随附（或主题）概率](https://plato.stanford.edu/entries/probability-medieval-renaissance/#EndTopPro)
-  * [3.2 原始频率概率](https://plato.stanford.edu/entries/probability-medieval-renaissance/#ProFrePro)
-  * [3.3 证言和法律概率](https://plato.stanford.edu/entries/probability-medieval-renaissance/#TesJurPro)
-  * [3.4 语义概率](https://plato.stanford.edu/entries/probability-medieval-renaissance/#SemPro)
-* [4. 中世纪概率的进一步方面](https://plato.stanford.edu/entries/probability-medieval-renaissance/#FurAspMedPro)
-
-  * [4.1 辩证法三段论](https://plato.stanford.edu/entries/probability-medieval-renaissance/#DiaSyl)
-  * [4.2 概率之间的顺序关系](https://plato.stanford.edu/entries/probability-medieval-renaissance/#OrdRelBetPro)
-  * [4.3 双侧概率](https://plato.stanford.edu/entries/probability-medieval-renaissance/#BotSidPro)
-  * [4.4 主观性和客观性](https://plato.stanford.edu/entries/probability-medieval-renaissance/#SubObj)
-* [5. 文艺复兴时期的概率](https://plato.stanford.edu/entries/probability-medieval-renaissance/#ProRen)
-* [6. 早期现代和现代概率的预览](https://plato.stanford.edu/entries/probability-medieval-renaissance/#OveEarModModPro)
-* [ 参考文献](https://plato.stanford.edu/entries/probability-medieval-renaissance/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/probability-medieval-renaissance/#PriLit)
-  * [ 次要文献](https://plato.stanford.edu/entries/probability-medieval-renaissance/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/probability-medieval-renaissance/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/probability-medieval-renaissance/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/probability-medieval-renaissance/#Rel)
+ 
 
 ---
 

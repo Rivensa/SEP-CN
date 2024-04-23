@@ -7,30 +7,7 @@
 
 普兰的思想深受勒内·笛卡尔的哲学影响。他运用笛卡尔的怀疑和正确推理方法，以拒绝关于女性劣势的偏见，并在为两性平等辩护的论证中，运用了从笛卡尔对人类本质的解释中得出的许多见解。在介绍性传记概述之后，本文首先将考察普兰思想的笛卡尔基础，然后讨论他对妇女被压迫的分析。接下来，将介绍和评估他提出的四个主要的两性平等论证。最后，本文简要讨论普兰与后来女权主义思想发展的直接和间接关系。整个过程旨在呈现普兰的核心思想，并检验其哲学的有效性。
 
-* [1. 生平和作品](https://plato.stanford.edu/entries/francois-barre/#LifeWork)
-* [2. 笛卡尔的基础](https://plato.stanford.edu/entries/francois-barre/#CartFoun)
-
-  * [ 2.1 笛卡尔的方法](https://plato.stanford.edu/entries/francois-barre/#DescMeth)
-  * [ 2.2 形而上学](https://plato.stanford.edu/entries/francois-barre/#Meta)
-* [3. 女性的征服](https://plato.stanford.edu/entries/francois-barre/#SubjWome)
-
-  * [3.1 偏见的作用](https://plato.stanford.edu/entries/francois-barre/#RolePrej)
-  * [ 3.2 历史起源](https://plato.stanford.edu/entries/francois-barre/#HistOrig)
-* [4. 性别平等](https://plato.stanford.edu/entries/francois-barre/#EquaSexe)
-
-  * [4.1 不平等是一种错误的信念](https://plato.stanford.edu/entries/francois-barre/#IneqFalsBeli)
-  * [4.2 性别的相似性](https://plato.stanford.edu/entries/francois-barre/#SimiSexe)
-  * [ 4.3 自然平等](https://plato.stanford.edu/entries/francois-barre/#NatuEqua)
-  * [4.4 平等的需求](https://plato.stanford.edu/entries/francois-barre/#DemaForEqua)
-* [5. 普兰和他的继任者](https://plato.stanford.edu/entries/francois-barre/#PoulHisSucc)
-* [ 参考文献](https://plato.stanford.edu/entries/francois-barre/#Bib)
-
-  * [ 普兰的著作](https://plato.stanford.edu/entries/francois-barre/#WorkPoul)
-  * [ 其他来源](https://plato.stanford.edu/entries/francois-barre/#OtheSourModeEditTran)
-  * [ 二次文献](https://plato.stanford.edu/entries/francois-barre/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/francois-barre/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/francois-barre/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/francois-barre/#Rel)
+ 
 
 ---
 

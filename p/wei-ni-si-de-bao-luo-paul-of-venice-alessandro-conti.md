@@ -4,23 +4,7 @@
 
 威尼斯的保罗是他那个时代最重要的意大利思想家之一，也是中世纪最杰出和有趣的逻辑学家之一。他的哲学理论（以本质的形而上学为高潮，宣称普遍性在任何其他存在形式之上具有本体论和认识论的首要地位）是前现实主义思想传统的最终和最高成果。他充分发展了威克里夫和他在 14 世纪末期的牛津追随者所开创的新形式的现实主义，并继续了伯利对名义主义观点的攻击。他哲学的基本形而上学信念是敦斯·斯科特最基本命题的原创版本（即存在的单一性；思维之外存在的普遍形式，既与其个体相同又不同；本质和存在之间的真实一致性和形式区别；个体化的原则；十个范畴之间的真实区别）。但是保罗更加强调这一学说的本体论前提和推论。同时，他也受到了许多其他方向的影响，他也充分考虑了阿尔伯特大师、托马斯·阿奎那和罗马的吉尔斯等作者的立场，并对 14 世纪主要名义主义者的学说进行了批判性讨论，即威廉·奥卡姆、约翰·布里丹和马西利乌斯·因根的学说，有时将相互矛盾的命题相互对立。这使得他的作品在历史上具有刺激性和丰富性，但也使人们难以把握他自己的思想及其关系和统一性。这些思考帮助我们解释为什么大约 150 年来，人们错误地但一致地认为保罗在逻辑和形而上学上是奥卡姆派，在心理学和认识论上是亚里士多德派。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/paul-venice/#LifeWork)
-* [ 2. 逻辑学](https://plato.stanford.edu/entries/paul-venice/#Logi)
-
-  * [2.1 身份和区别](https://plato.stanford.edu/entries/paul-venice/#IdenDist)
-  * [ 2.2 断言](https://plato.stanford.edu/entries/paul-venice/#Pred)
-* [3. 语义学：命题的意义和真理](https://plato.stanford.edu/entries/paul-venice/#SemaMeanTrutProp)
-* [ 4. 本体论](https://plato.stanford.edu/entries/paul-venice/#Onto)
-* [5. 身心问题和知识理论](https://plato.stanford.edu/entries/paul-venice/#BodySoulProbTheoKnow)
-* [6. 神学：神圣观念的教义](https://plato.stanford.edu/entries/paul-venice/#TheoDoctDiviIdea)
-* [7. 自然哲学：潜能、行动和原始物质](https://plato.stanford.edu/entries/paul-venice/#PotActMatt)
-* [ 参考文献](https://plato.stanford.edu/entries/paul-venice/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/paul-venice/#PrimLite)
-  * [ 二手文献](https://plato.stanford.edu/entries/paul-venice/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/paul-venice/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/paul-venice/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/paul-venice/#Rel)
+ 
 
 ---
 

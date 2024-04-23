@@ -8,18 +8,7 @@
 
 在本文中，我们研究了对命题态度报告句的一个难题的解决尝试，这个难题最早由戈特洛布·弗雷格在他的 1892 年提出。随后的文献关注于发展一个语义理论，以提供对这个难题的充分处理。我们介绍了主要的理论，并指出了支持它们的考虑因素以及它们所面临的一些问题。
 
-* [ 1. 弗雷格的谜题](https://plato.stanford.edu/entries/prop-attitude-reports/#FrePuz)
-* [ 2. 弗雷格的理论](https://plato.stanford.edu/entries/prop-attitude-reports/#FreThe)
-* [3. 简单弗雷格解决方案的问题](https://plato.stanford.edu/entries/prop-attitude-reports/#ProSimFreSol)
-* [4. 原始的罗素理论](https://plato.stanford.edu/entries/prop-attitude-reports/#NaiRusThe)
-* [5. 原始罗素理论的问题](https://plato.stanford.edu/entries/prop-attitude-reports/#ProNaiRusThe)
-* [6. 语境主义理论](https://plato.stanford.edu/entries/prop-attitude-reports/#ConThe)
-* [7. 否认结构命题主义的假设](https://plato.stanford.edu/entries/prop-attitude-reports/#DenAssStr)
-* [8. 另外两个难题：克里普克的难题和理查德的难题](https://plato.stanford.edu/entries/prop-attitude-reports/#TwoFurPuzKriPuzRicPuz)
-* [ 参考文献](https://plato.stanford.edu/entries/prop-attitude-reports/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/prop-attitude-reports/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/prop-attitude-reports/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/prop-attitude-reports/#Rel)
+ 
 
 ---
 

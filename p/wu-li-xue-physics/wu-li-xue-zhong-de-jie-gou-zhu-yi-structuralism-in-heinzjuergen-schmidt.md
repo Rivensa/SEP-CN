@@ -4,33 +4,7 @@
 
 在“物理学中的结构主义”这个标题下，哲学科学和哲学物理学领域中有三个不同但密切相关的研究项目。这些项目始于 1970 年代初，由 Joseph Sneed、Günther Ludwig 和 Erhard Scheibe 的工作发起。为了简单起见，我们将使用这些名称来指代这三个项目，但并不意味着忽视或减少其他学者的贡献（请参阅参考文献）。术语“结构主义”最初是由 Sneed 学派提出的，参见 Balzer 和 Moulines（1996），但由于这三种方法的显著相似之处，将 Ludwig 和 Scheibe 的项目归入这个标题也是合适的。结构主义者的活动主要局限于欧洲，尤其是德国，并且由于某种原因，在英美讨论中基本被忽视。
 
-* [ 1. 其他的结构主义](https://plato.stanford.edu/entries/physics-structuralism/#OtheStru)
-* [ 2. 共同特点](https://plato.stanford.edu/entries/physics-structuralism/#CommTrai)
-* [3. 理论术语的问题](https://plato.stanford.edu/entries/physics-structuralism/#ProbTheoTerm)
-
-  * [ 3.1 一个例子](https://plato.stanford.edu/entries/physics-structuralism/#Exam)
-  * [3.2 结构主义对理论术语问题的解决方案](https://plato.stanford.edu/entries/physics-structuralism/#StruSoluProbTheoTerm)
-  * [3.3 测量问题](https://plato.stanford.edu/entries/physics-structuralism/#MeasProb)
-  * [3.4 测量和近似](https://plato.stanford.edu/entries/physics-structuralism/#MeasAppr)
-* [4. 归约问题](https://plato.stanford.edu/entries/physics-structuralism/#ProbRedu)
-
-  * [4.1 理论之间的归约关系](https://plato.stanford.edu/entries/physics-structuralism/#ReduRelaBetwTheo)
-  * [4.2 归约与不可比较性](https://plato.stanford.edu/entries/physics-structuralism/#ReduInco)
-  * [ 4.3 路德维希的解释/理论](https://plato.stanford.edu/entries/physics-structuralism/#LudwAcco)
-  * [ 4.4 Sneed 的解释/理论](https://plato.stanford.edu/entries/physics-structuralism/#SneeAcco)
-  * [ 4.5 Scheibe 的解释/理论](https://plato.stanford.edu/entries/physics-structuralism/#ScheAcco)
-* [5. 三个结构主义项目](https://plato.stanford.edu/entries/physics-structuralism/#ThreStruProg)
-
-  * [ 5.1 Sneed 的计划](https://plato.stanford.edu/entries/physics-structuralism/#SneeProg)
-  * [ 5.2 Ludwig 的计划](https://plato.stanford.edu/entries/physics-structuralism/#LudwProg)
-  * [ 5.3 Scheibe 的计划](https://plato.stanford.edu/entries/physics-structuralism/#ScheProg)
-  * [5.4 三种结构主义项目之间的相互作用](https://plato.stanford.edu/entries/physics-structuralism/#InteBetwThreStruProg)
-* [ 6. 总结](https://plato.stanford.edu/entries/physics-structuralism/#Summary)
-* [ 参考文献](https://plato.stanford.edu/entries/physics-structuralism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/physics-structuralism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/physics-structuralism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/physics-structuralism/#Rel)
-
+ 
 ---
 
 ## 1. 其他的结构主义

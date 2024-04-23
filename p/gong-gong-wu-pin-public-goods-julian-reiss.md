@@ -5,37 +5,7 @@
 政府在几乎每个地方都扮演着提供国防、基础设施、教育、安全、消防和环境保护等物品的重要角色。这些物品通常被称为“公共物品”。公共物品在哲学上具有重要意义，因为它们的提供在经济、政治和文化上对社会的正常运行至关重要，并且与有关外部性调节和免费骑车者问题的问题密切相关。没有基础设施和它们的保护，物品无法交换，选票无法投出，享受文化生产的成果将更加困难。政治哲学家普遍认为，民主所需的某种程度的教育是必要的。由于与外部性和免费骑车者问题的关联，公共物品的提供引发了深刻的经济和伦理问题。
 
 正如我们将在第 1 节中看到的，公共物品的经济定义与这些物品是由公共部门还是私营企业提供无关，而是与许多不同物品共享的某些抽象特征有关，其中只有一些物品是定期公开生产的。经济学家在定义中使用的抽象特征取决于技术、价值观和口味，使得界限具有争议性并随时间变化。第 2 节将介绍外部性的概念，第 3 节将对公共物品的标准新古典福利经济分析进行考察。第 4 节研究了公共物品的私人提供。第 5 节对公共物品的最新实验研究进行了回顾（在某种程度上挑战了标准分析）。最后，第 6 节讨论了与提供公共物品相关的一些伦理论证。
-
-* [1. 定义公共物品并区分不同类型的公共物品](https://plato.stanford.edu/entries/public-goods/#DefiPublGoodDistBetwDiffKindPublGood)
-
-  * [1.1 非竞争性和非排他性](https://plato.stanford.edu/entries/public-goods/#NonRivaNonExcl)
-  * [ 1.2 多孔边界](https://plato.stanford.edu/entries/public-goods/#PoroBoun)
-  * [1.3 不同种类的公共物品](https://plato.stanford.edu/entries/public-goods/#DiffKindPublGood)
-  * [1.4 公共物品的例子](https://plato.stanford.edu/entries/public-goods/#ExamPublGood)
-  * [1.5 另一种定义](https://plato.stanford.edu/entries/public-goods/#AlteDefi)
-* [2. 公共物品和外部性](https://plato.stanford.edu/entries/public-goods/#PublGoodExte)
-* [3. 公共物品的经济学和公共物品问题](https://plato.stanford.edu/entries/public-goods/#EconPublGoodPublGoodProb)
-
-  * [3.1 公共物品问题](https://plato.stanford.edu/entries/public-goods/#PublGoodProb)
-  * [3.2 对公共物品问题的回应](https://plato.stanford.edu/entries/public-goods/#RespPublGoodProb)
-* [4. 公共物品的私人供应](https://plato.stanford.edu/entries/public-goods/#PrivProvPublGood)
-
-  * [ 4.1 随附](https://plato.stanford.edu/entries/public-goods/#Coup)
-  * [ 4.2 其他机制](https://plato.stanford.edu/entries/public-goods/#OtheMech)
-* [5. 公共物品问题的实证研究](https://plato.stanford.edu/entries/public-goods/#EmpiWorkPublGoodProb)
-
-  * [5.1 公共物品博弈](https://plato.stanford.edu/entries/public-goods/#PublGoodGame)
-  * [5.2 其他类型的证据：现场研究，观察研究，案例研究](https://plato.stanford.edu/entries/public-goods/#OtheKindEvidFielStudObseStudCaseStud)
-* [6. 公共物品的伦理学：政府应该为公共物品付费吗？](https://plato.stanford.edu/entries/public-goods/#EthiPublGoodShouGovePayForPublGood)
-
-  * [6.1 福利经济学中的有争议的假设](https://plato.stanford.edu/entries/public-goods/#ContAssuWelfEcon)
-  * [6.2 市场作为一种发现过程](https://plato.stanford.edu/entries/public-goods/#MarkDiscProc)
-  * [6.3 市场规范和其他规范](https://plato.stanford.edu/entries/public-goods/#MarkNormOtheNorm)
-* [ 参考文献](https://plato.stanford.edu/entries/public-goods/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/public-goods/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/public-goods/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/public-goods/#Rel)
-
+ 
 ---
 
 ## 1. 定义公共物品并区分不同类型的公共物品

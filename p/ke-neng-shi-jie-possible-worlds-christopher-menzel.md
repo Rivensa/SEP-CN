@@ -8,35 +8,7 @@ _首次发表于2013年10月18日星期五；实质性修订于2016年2月8日�
 
 可能世界的概念引人入胜且具有吸引力。然而，直到 20 世纪 60 年代，可能世界才在哲学家中获得真正的关注，当时它们被用来提供模态逻辑中一些重要发展的概念基础。只有在那时，它们的本质问题才成为最高哲学重要性的问题。因此，本文的第一部分将概述可能世界在模态逻辑发展中的作用。第二部分探讨了三种关于可能世界本质的著名哲学方法。\[1]虽然第二部分的许多细微哲学观点都假设了第一部分的技术背景，但第二部分所描绘的一般哲学景观可以独立于第一部分进行欣赏。
 
-* [1. 可能世界与模态逻辑](https://plato.stanford.edu/entries/possible-worlds/#ModalLogicAndPWs)
-  * [1.1 失去外延性](https://plato.stanford.edu/entries/possible-worlds/#ExtensionalityLost)
-  * [1.2 重新获得外延性](https://plato.stanford.edu/entries/possible-worlds/#ExtReg)
-  * [1.3 两个应用：内涵分析和 De Re / De Dicto 区分](https://plato.stanford.edu/entries/possible-worlds/#Applications)
-* [2. 可能世界的三种哲学观念](https://plato.stanford.edu/entries/possible-worlds/#ConceptionsOfPWs)
-  * [2.1 具体主义](https://plato.stanford.edu/entries/possible-worlds/#Concretism)
-    * [2.1.1 具体世界及其存在](https://plato.stanford.edu/entries/possible-worlds/#ConcWorlds)
-    * [2.1.2 实际性](https://plato.stanford.edu/entries/possible-worlds/#Actuality)
-    * [2.1.3 模态还原主义、对应物和内涵分析](https://plato.stanford.edu/entries/possible-worlds/#Reductionism)
-    * [2.1.4 丰富性和重组](https://plato.stanford.edu/entries/possible-worlds/#Plenitude)
-    * [2.1.5 对具体主义的简要评估](https://plato.stanford.edu/entries/possible-worlds/#ConcBriefAssess)
-  * [2.2 抽象主义](https://plato.stanford.edu/entries/possible-worlds/#Abstractionism)
-    * [2.2.1 抽象可能世界及其存在](https://plato.stanford.edu/entries/possible-worlds/#AbstractPWs)
-    * [2.2.2 不可简化的随附性和内涵实体](https://plato.stanford.edu/entries/possible-worlds/#AbsModIntEnt)
-    * [2.2.3 现实性和实在主义](https://plato.stanford.edu/entries/possible-worlds/#AandA)
-    * [2.2.4 对抽象主义的简要评估](https://plato.stanford.edu/entries/possible-worlds/#AbsBriefAssess)
-  * [2.3 组合主义](https://plato.stanford.edu/entries/possible-worlds/#Combinatorialism)
-    * [2.3.1 组合主义的基本本体论](https://plato.stanford.edu/entries/possible-worlds/#BasicOntComb)
-    * [2.3.2 事态和重组](https://plato.stanford.edu/entries/possible-worlds/#Recombination)
-    * [2.3.3 结构事态和随附](https://plato.stanford.edu/entries/possible-worlds/#Supervenience)
-    * [2.3.4 组合可能世界及其存在](https://plato.stanford.edu/entries/possible-worlds/#CombPWs)
-    * [2.3.5 分析和新兴的模态性；本质属性](https://plato.stanford.edu/entries/possible-worlds/#Emergence)
-    * [2.3.6 较少的事物和其他事物：修改的组合主义](https://plato.stanford.edu/entries/possible-worlds/#ModComb)
-    * [2.3.7 组合主义的简要评估](https://plato.stanford.edu/entries/possible-worlds/#CombBriefAssess)
-* [参考文献](https://plato.stanford.edu/entries/possible-worlds/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/possible-worlds/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/possible-worlds/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/possible-worlds/#Rel)
-
+ 
 ***
 
 ## 1. 可能世界和模态逻辑

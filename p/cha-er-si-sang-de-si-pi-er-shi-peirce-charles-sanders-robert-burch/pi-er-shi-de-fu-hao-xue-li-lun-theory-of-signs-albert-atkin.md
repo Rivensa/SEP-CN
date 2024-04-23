@@ -6,34 +6,7 @@
 
 在他的智力生涯中，皮尔士不断回顾和发展他关于符号和符号学的思想，可以划分为三个大致的解释/理论：一个简明的早期解释/理论，始于 1860 年代；一个完整而相对整洁的中期解释/理论，发展于 1880 年代和 1890 年代，并于 1903 年提出；以及他的推测性、冗长和不完整的最终解释/理论，发展于 1906 年至 1910 年之间。以下内容将考察这三个解释/理论，并追溯导致皮尔士发展早期解释/理论并产生新的更复杂的符号理论的变化。然而，尽管有这些变化，皮尔士关于符号的基本结构和符号化的思想在他的发展过程中基本保持一致。因此，从皮尔士对符号的基本结构的解释/理论开始是有用的。
 
-* [1. 符号的基本结构](https://plato.stanford.edu/entries/peirce-semiotics/#BasSigStr)
-
-  * [1.1 符号的意义元素](https://plato.stanford.edu/entries/peirce-semiotics/#SigEleSig)
-  * [ 1.2 对象](https://plato.stanford.edu/entries/peirce-semiotics/#Obj)
-  * [ 1.3 解释者](https://plato.stanford.edu/entries/peirce-semiotics/#Int)
-* [2. 皮尔士早期的解释/理论: 1867-8.](https://plato.stanford.edu/entries/peirce-semiotics/#PeiEarAcc1868)
-
-  * [ 2.1 思维符号](https://plato.stanford.edu/entries/peirce-semiotics/#ThoSig)
-  * [ 2.2 无限符号学理论](https://plato.stanford.edu/entries/peirce-semiotics/#InfSem)
-* [3. 中期解释: 1903](https://plato.stanford.edu/entries/peirce-semiotics/#IntAcc190)
-
-  * [ 3.1 符号载体](https://plato.stanford.edu/entries/peirce-semiotics/#SigVeh)
-  * [ 3.2 对象](https://plato.stanford.edu/entries/peirce-semiotics/#Objec)
-  * [ 3.3 解释/理论者](https://plato.stanford.edu/entries/peirce-semiotics/#Inter)
-  * [3.4 符号学理论的十个类别](https://plato.stanford.edu/entries/peirce-semiotics/#TenClaSig)
-* [4. 最终解释/理论: 1906–10](https://plato.stanford.edu/entries/peirce-semiotics/#FinAcc19010)
-
-  * [4.1 划分对象](https://plato.stanford.edu/entries/peirce-semiotics/#DivObj)
-  * [4.2 划分解释者](https://plato.stanford.edu/entries/peirce-semiotics/#DivInt)
-  * [4.3 最终解释的问题](https://plato.stanford.edu/entries/peirce-semiotics/#IssFinAcc)
-* [ 参考文献](https://plato.stanford.edu/entries/peirce-semiotics/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/peirce-semiotics/#PriLit)
-  * [ 次要文献](https://plato.stanford.edu/entries/peirce-semiotics/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/peirce-semiotics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/peirce-semiotics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/peirce-semiotics/#Rel)
-
+ 
 ---
 
 ## 1. 基本符号结构

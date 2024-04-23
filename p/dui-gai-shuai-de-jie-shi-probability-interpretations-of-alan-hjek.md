@@ -23,24 +23,7 @@
 
 然而，无论我们如何看待它，寻找这样的解释的项目都是一个重要的项目。概率几乎无处不在。它在几乎所有科学中都起着作用。它支撑着社会科学的大部分内容 - 请注意统计检验、置信区间、回归方法等的广泛使用。此外，它还渗透到哲学的许多领域。在认识论、心灵哲学和认知科学中，我们看到主观概率函数对意见状态进行建模，并通过更新这些函数来进行学习。由于概率论对决策论和博弈论至关重要，因此它对伦理学和政治哲学产生了影响。它在形而上学的基本概念中占据重要地位，如因果关系和自然法则。它再次出现在科学哲学中，用于分析理论的确认、科学解释以及特定科学理论的哲学，如量子力学、统计力学、进化生物学和遗传学。它甚至可以成为逻辑哲学、语言哲学和宗教哲学的核心。因此，概率基础问题至少间接地，有时直接地涉及到中心科学、社会科学和哲学问题。概率的解释是最重要的基础性问题之一。
 
-* [1. 科尔莫戈洛夫的概率计算](https://plato.stanford.edu/entries/probability-interpret/#KolProCal)
-* [2. 概率解释的充分性标准](https://plato.stanford.edu/entries/probability-interpret/#CriAdeForIntPro)
-* [3. 概率的主要解释](https://plato.stanford.edu/entries/probability-interpret/#MaiInt)
-
-  * [3.1 经典概率](https://plato.stanford.edu/entries/probability-interpret/#ClaPro)
-  * [3.2 逻辑/证据概率](https://plato.stanford.edu/entries/probability-interpret/#LogPro)
-  * [3.3 主观概率](https://plato.stanford.edu/entries/probability-interpret/#SubPro)
-  * [3.4 频率解释](https://plato.stanford.edu/entries/probability-interpret/#FreInt)
-  * [3.5 倾向解释](https://plato.stanford.edu/entries/probability-interpret/#ProInt)
-  * [3.6 最佳系统解释](https://plato.stanford.edu/entries/probability-interpret/#BesSysInt)
-* [4. 结论：未来前景？](https://plato.stanford.edu/entries/probability-interpret/#ConFutPro)
-
-  * [建议进一步阅读](https://plato.stanford.edu/entries/probability-interpret/#SugFurRea)
-* [ 参考文献](https://plato.stanford.edu/entries/probability-interpret/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/probability-interpret/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/probability-interpret/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/probability-interpret/#Rel)
-
+ 
 ---
 
 ## 1. 科尔莫戈洛夫的概率计算

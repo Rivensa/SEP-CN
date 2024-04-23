@@ -7,29 +7,7 @@
 
 菲洛德穆自称为伊壁鸠鲁的解释者和第一代伊壁鸠鲁学派的成员，同时也是他的导师西顿的泽诺的忠实追随者。菲洛德穆引起我们注意的并不是他哲学学说的独创性。尽管伊壁鸠鲁学派对自由艺术的态度传统上被忽视甚至被贬低，但在这方面他可能有机会展现出独创性。我们在他的作品中看到的是一个后来的伊壁鸠鲁学派成员努力阐述学派创始人可能提出的立场，但这些立场在希腊化学派之间的持续辩论背景下已经过时。此外，他试图维护一种特定的伊壁鸠鲁正统观点，以对抗持有不同解释的竞争伊壁鸠鲁学派成员，这些成员对学派的许多立场有不同的解释，这些解释可能是为了应对挑战和其他学派在许多领域推进讨论的立场。这些伊壁鸠鲁学派成员之间的争论之一是对伊壁鸠鲁文本的使用，对收集和研究学派创始人作品的整个文集的重要性，对文献学和哲学解释的重视，以及对摘要和纲要与文集中广泛详细的作品之间的位置的关注。对于权威解释、维护和教授伊壁鸠鲁正统观点的关注，反映在菲洛德穆对学派的健康运作的关注上，对学派作为一个哲学家的社群的生活的关注，这个社群包括学生和教师，他们研究伊壁鸠鲁和其他文本，同时努力过上学派推崇的哲学生活。
 
-* [ 1. 生活](https://plato.stanford.edu/entries/philodemus/#Lif)
-
-  * [ 1.1 早年生活](https://plato.stanford.edu/entries/philodemus/#EarLif)
-  * [ 1.2 雅典](https://plato.stanford.edu/entries/philodemus/#Ath)
-  * [ 1.3 意大利](https://plato.stanford.edu/entries/philodemus/#Ita)
-  * [1.4 那不勒斯、埃库拉尼姆和纸草别墅](https://plato.stanford.edu/entries/philodemus/#NapHerVilPap)
-* [ 2. 文集](https://plato.stanford.edu/entries/philodemus/#Wri)
-
-  * [ 2.1 诗歌](https://plato.stanford.edu/entries/philodemus/#Poe)
-  * [ 2.2 哲学著作](https://plato.stanford.edu/entries/philodemus/#PhiWor)
-* [ 3. 影响](https://plato.stanford.edu/entries/philodemus/#Inf)
-* [ 参考文献](https://plato.stanford.edu/entries/philodemus/#Bib)
-
-  * [主要文献：文献注释](https://plato.stanford.edu/entries/philodemus/#PriLitBibNot)
-  * [引用文献：二次文献](https://plato.stanford.edu/entries/philodemus/#WorCitSecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/philodemus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/philodemus/#Oth)
-
-  * [ 在线参考书目](https://plato.stanford.edu/entries/philodemus/#OnlBib)
-  * [ 在线文本](https://plato.stanford.edu/entries/philodemus/#OnlTex)
-  * [ 信息网站](https://plato.stanford.edu/entries/philodemus/#InfWeb)
-* [ 相关条目](https://plato.stanford.edu/entries/philodemus/#Rel)
-
+ 
 ---
 
 ## 1. 生活

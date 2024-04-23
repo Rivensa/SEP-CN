@@ -4,18 +4,7 @@
 
 威克里夫的逻辑-形而上学作品在 14 世纪末和 15 世纪初对牛津产生了很大影响。在追随他教义的作者中（所谓的牛津现实主义者），威廉·彭比尔（+1420）几乎可以肯定是最忠实于大师的人，因为他现存的著作似乎主要致力于捍卫和/或解释威克里夫的主要哲学论题。尽管如此，彭比尔通过发展一种新的身份理论，在逻辑学上做出了独创性的贡献，解决了威克里夫关于陈述分析所引发的问题，并完善了威克里夫自身的陈述理论。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/penbygull/#LifWor)
-* [2. 牛津现实主义者对于普遍和陈述的看法](https://plato.stanford.edu/entries/penbygull/#OxfRea)
-* [3. 威廉·彭比尔关于普遍性和断言的观点](https://plato.stanford.edu/entries/penbygull/#PenUniPre)
-* [4. 威廉·彭比尔的同一性理论](https://plato.stanford.edu/entries/penbygull/#PenTheIde)
-* [ 参考文献](https://plato.stanford.edu/entries/penbygull/#Bib)
-
-  * [ 编辑作品](https://plato.stanford.edu/entries/penbygull/#EdiWor)
-  * [ 二次文献](https://plato.stanford.edu/entries/penbygull/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/penbygull/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/penbygull/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/penbygull/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品

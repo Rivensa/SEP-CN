@@ -4,19 +4,7 @@ _首次发表于2004年8月16日；实质性修订于2022年7月29日。_
 
 与宇宙论证或设计论证不同，神论实用主义论证并不是为了证明上帝存在的命题，而是为了证明相信上帝存在是合理的。最著名的神论实用主义论证是帕斯卡的赌注。虽然我们简要地提及了这个论证，但本文主要关注威廉·詹姆斯、约翰·斯图尔特·密尔等人提出的神论实用主义论证。它还探讨了实用主义论证的逻辑以及道德论证和以生命最终意义为基础的论证的实用性。本文还探讨了一种重要的反对实用主义论证在信仰形成中的运用的异议——仅凭证据来规范信仰。它还探讨了一些针对神论提出的实用主义论证。
 
-* [1. 实用主义论证](https://plato.stanford.edu/entries/pragmatic-belief-god/#PragArgu)
-* [2. 道德论证作为实用主义论证](https://plato.stanford.edu/entries/pragmatic-belief-god/#MoraArguPragArgu)
-* [3. 威廉·詹姆斯的相信意愿论证](https://plato.stanford.edu/entries/pragmatic-belief-god/#WillJameWillBeliArgu)
-* [4. J.S. 密尔的希望许可证](https://plato.stanford.edu/entries/pragmatic-belief-god/#JSMillLiceHope)
-* [5. 安慰和基于需求的论证](https://plato.stanford.edu/entries/pragmatic-belief-god/#ConsNeedBaseArgu)
-* [6. 实用主义论证和生活的意义](https://plato.stanford.edu/entries/pragmatic-belief-god/#PragArguMeanLife)
-* [7. 信仰的伦理学](https://plato.stanford.edu/entries/pragmatic-belief-god/#EthiBeli)
-* [8. 实用主义论证和信仰](https://plato.stanford.edu/entries/pragmatic-belief-god/#PragArguBeli)
-* [9. 无神论实用主义论证](https://plato.stanford.edu/entries/pragmatic-belief-god/#AthePragArgu)
-* [参考文献](https://plato.stanford.edu/entries/pragmatic-belief-god/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/pragmatic-belief-god/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pragmatic-belief-god/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/pragmatic-belief-god/#Rel)
+ 
 
 ***
 

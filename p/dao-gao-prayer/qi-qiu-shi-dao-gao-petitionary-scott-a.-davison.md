@@ -6,16 +6,7 @@
 
 人们祈祷的原因各种各样。有时人们祈祷是为了感恩，有时是为了赞美和崇拜，有时是为了道歉和寻求宽恕，有时是为了请求某些事物。本文的重点是祈求式祷告，即祈祷者请求某事。在历史上，与传统的犹太教、基督教和伊斯兰教共同拥有的一神论有关的祈祷问题引起了最多的哲学困惑。根据传统的一神论，上帝知道一切可以知道的事情，是完美善良的，不可感知的（不能受到外部来源的影响），不变的，并且自由。上帝也能够做到与刚刚列举的品质相容的任何事情。在本条目中，我们将探讨与向上帝提供祈求式祷告的想法相关的最突出的哲学困惑，以及解决这些困惑的最有影响力的尝试。
 
-* [1. 有效祷告的概念](https://plato.stanford.edu/entries/petitionary-prayer/#ConEffPra)
-* [2. 神的不变性和不受感动性](https://plato.stanford.edu/entries/petitionary-prayer/#DivImmImp)
-* [ 3. 神的全知](https://plato.stanford.edu/entries/petitionary-prayer/#DivOmn)
-* [4. 神的道德完美](https://plato.stanford.edu/entries/petitionary-prayer/#DivMorPer)
-* [ 5. 认识论](https://plato.stanford.edu/entries/petitionary-prayer/#Epi)
-* [ 参考书目](https://plato.stanford.edu/entries/petitionary-prayer/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/petitionary-prayer/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/petitionary-prayer/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/petitionary-prayer/#Rel)
-
+ 
 ---
 
 ## 1. 祈求式祷告的概念

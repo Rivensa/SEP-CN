@@ -8,59 +8,7 @@
 
 尽管普莱斯主要被视为感知哲学家，但他的六本书中只有两本是关于感知的，他在其他许多主题上也发表了许多文章，包括我们无法在此处重点讨论的一些主题，例如我们对其他思想的证据（1938 年；1930b：195）和心灵研究（1940c；1953b；1972；1995；他声称与新柏拉图主义者有共同兴趣[1968a：447]）。我们只能对他丰富的贡献进行概述。在简要概述他的生平之后（§1），我们讨论他哲学的一般特点（§2），对感知研究的贡献（§3），属性（§5.1），识别（§5），信念（§6），宗教信仰（§6.8），他对休谟的复兴和深入研究（§4），以及一些显著的预见（§7）。
 
-* [ 1. 生活](https://plato.stanford.edu/entries/price/#Life)
-* [2. 四个一般特征](https://plato.stanford.edu/entries/price/#FourGeneFeat)
-
-  * [2.1 随附经验的证据](https://plato.stanford.edu/entries/price/#FollEvidExpe)
-  * [ 2.2 经验主义](https://plato.stanford.edu/entries/price/#Empi)
-  * [ 2.3 常识](https://plato.stanford.edu/entries/price/#Comm)
-  * [2.4 形而上学中立](https://plato.stanford.edu/entries/price/#MetaNeut)
-* [ 3. 感知](https://plato.stanford.edu/entries/price/#Perc)
-
-  * [3.1 对感觉数据理论的批评：幼稚实在论](https://plato.stanford.edu/entries/price/#CritTheoSensDataNaveReal)
-  * [3.2 奥斯汀对普莱斯的看法：看与怀疑的区别和显现理论](https://plato.stanford.edu/entries/price/#AustPricSeeiVersWhatOneDoubTheoAppe)
-  * [3.3 因果理论的批评](https://plato.stanford.edu/entries/price/#CritCausTheo)
-  * [3.4 知觉意识：知觉接受](https://plato.stanford.edu/entries/price/#PercConsPercAcce)
-  * [3.5 知觉意识的较不基本形式和可证实性原理](https://plato.stanford.edu/entries/price/#LessBasiFormPercConsPrinConf)
-  * [3.6 亨利·哈伯利·普莱斯关于感知数据及其关系的理论](https://plato.stanford.edu/entries/price/#PricTheoSensDataTheiRela)
-  * [3.7 可能的批评：塞拉斯反对给定](https://plato.stanford.edu/entries/price/#PossCritSellAgaiGive)
-* [4. 基于休谟的建构](https://plato.stanford.edu/entries/price/#BuilHume)
-
-  * [4.1 亨利·哈伯利·普莱斯与休谟的两个相似之处和一个不同之处](https://plato.stanford.edu/entries/price/#TwoSimiDiffHume)
-  * [4.2 休谟对于外部世界的信念](https://plato.stanford.edu/entries/price/#HumeBeliAbouExteWorl)
-  * [4.3 新休谟主义：随附理论](https://plato.stanford.edu/entries/price/#NeoHumeIfTheo)
-  * [4.4 新亨利·哈伯利·普莱斯主义：表达理论](https://plato.stanford.edu/entries/price/#NeoHumeExprTheo)
-  * [4.5 亨利·哈伯利·普莱斯对归纳的看法](https://plato.stanford.edu/entries/price/#HumeIndu)
-  * [4.6 亨利·哈伯利·普莱斯的信念理论](https://plato.stanford.edu/entries/price/#HumeTheoBeli)
-  * [4.7 自由与同意：休谟与笛卡尔](https://plato.stanford.edu/entries/price/#FreeAsseHumeVersDesc)
-* [ 5. 认知](https://plato.stanford.edu/entries/price/#Reco)
-
-  * [5.1 普莱斯对于重复和属性的形而上学中立性](https://plato.stanford.edu/entries/price/#PricMetaNeutRegaRecuProp)
-  * [5.2 概念思维和认知：在缺席和存在中思考](https://plato.stanford.edu/entries/price/#ConcThinRecoThinAbsePres)
-  * [5.3 次要与主要认知](https://plato.stanford.edu/entries/price/#SecoVersPrimReco)
-  * [ 5.4 符号认知](https://plato.stanford.edu/entries/price/#SignCogn)
-  * [5.5 符号认知、意义和符号化](https://plato.stanford.edu/entries/price/#SignCognMeanSymb)
-  * [5.6 发生性思维的意象主义理论](https://plato.stanford.edu/entries/price/#ImagTheoOccuThin)
-  * [5.7 普莱斯的倾向性概念主义](https://plato.stanford.edu/entries/price/#PricDispConc)
-* [ 6. 信念](https://plato.stanford.edu/entries/price/#Beli)
-
-  * [6.1 知识及其对信念的启示](https://plato.stanford.edu/entries/price/#KnowHowItIlluBeli)
-  * [6.2 信念的分析：一些前提条件](https://plato.stanford.edu/entries/price/#AnalBeliSomePrel)
-  * [6.3 信念的发生分析](https://plato.stanford.edu/entries/price/#OccuAnalBeli)
-  * [6.4 普莱斯对信念的倾向性分析](https://plato.stanford.edu/entries/price/#PricDispAnalBeli)
-  * [6.5 倾向性模型的应用](https://plato.stanford.edu/entries/price/#ApplDispMode)
-  * [ 6.6 道德信念](https://plato.stanford.edu/entries/price/#MoraBeli)
-  * [ 6.7 信念内](https://plato.stanford.edu/entries/price/#Beli_1)
-  * [ 6.8 宗教信仰](https://plato.stanford.edu/entries/price/#ReliBeli)
-* [7. 引人注目的预期](https://plato.stanford.edu/entries/price/#RemaAnti)
-* [ 8. 遗产](https://plato.stanford.edu/entries/price/#Lega)
-* [ 参考文献](https://plato.stanford.edu/entries/price/#Bib)
-
-  * [ 亨利·哈伯利·普莱斯的作品](https://plato.stanford.edu/entries/price/#WorkPric)
-  * [ 二手文献](https://plato.stanford.edu/entries/price/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/price/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/price/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/price/#Rel)
+ 
 
 ---
 

@@ -8,37 +8,7 @@ _首次发表于2015年12月2日星期三；实质性修订于2024年3月8日星
 
 本文力图提供一个公正客观的画面，但当然只能提供一个有选择性的概述，这是由作者对该领域的解释所影响的选择所构成的。
 
-* [1. 历史背景](https://plato.stanford.edu/entries/phil-science-latin-america/#HistBack)
-* [2. 早期几十年](https://plato.stanford.edu/entries/phil-science-latin-america/#EarlDeca)
-  * [2.1 拉丁美洲](https://plato.stanford.edu/entries/phil-science-latin-america/#Mexi)
-  * [2.2 拉丁美洲](https://plato.stanford.edu/entries/phil-science-latin-america/#Braz)
-  * [2.3 安第斯国家](https://plato.stanford.edu/entries/phil-science-latin-america/#AndeCoun)
-  * [2.4 阿根廷和乌拉圭](https://plato.stanford.edu/entries/phil-science-latin-america/#ArgeUrug)
-* [3. 拉丁美洲科学哲学](https://plato.stanford.edu/entries/phil-science-latin-america/#GenePhilScie)
-  * [3.1 科学方法](https://plato.stanford.edu/entries/phil-science-latin-america/#ScieMeth)
-  * [3.2 理性和理论选择](https://plato.stanford.edu/entries/phil-science-latin-america/#RatiTheoChoi)
-  * [3.3 科学的动力学](https://plato.stanford.edu/entries/phil-science-latin-america/#DynaScie)
-  * [3.4 科学现实主义](https://plato.stanford.edu/entries/phil-science-latin-america/#ScieReal)
-  * [3.5 科学中的多元主义](https://plato.stanford.edu/entries/phil-science-latin-america/#PlurScie)
-  * [3.6 科学中的表征](https://plato.stanford.edu/entries/phil-science-latin-america/#ReprScie)
-  * [3.7 因果关系和自然法则](https://plato.stanford.edu/entries/phil-science-latin-america/#CausLawsNatu)
-  * [3.8 科学的哲学历史](https://plato.stanford.edu/entries/phil-science-latin-america/#PhilHistScie)
-  * [3.9 科学、社会和价值观](https://plato.stanford.edu/entries/phil-science-latin-america/#ScieSociValu)
-* [4. 特定科学的哲学](https://plato.stanford.edu/entries/phil-science-latin-america/#PhilPartScie)
-  * [4.1 物理学的哲学](https://plato.stanford.edu/entries/phil-science-latin-america/#PhilPhys)
-  * [4.2 化学哲学](https://plato.stanford.edu/entries/phil-science-latin-america/#PhilChem)
-  * [4.3 生物哲学](https://plato.stanford.edu/entries/phil-science-latin-america/#PhilBiol)
-  * [4.4 形式科学哲学](https://plato.stanford.edu/entries/phil-science-latin-america/#PhilFormScie)
-  * [4.5 认知科学哲学](https://plato.stanford.edu/entries/phil-science-latin-america/#PhilCognScie)
-  * [4.6 社会科学哲学](https://plato.stanford.edu/entries/phil-science-latin-america/#PhilSociScie)
-  * [4.7 技术哲学](https://plato.stanford.edu/entries/phil-science-latin-america/#PhilTech)
-  * [4.8 其他主题](https://plato.stanford.edu/entries/phil-science-latin-america/#OtheTopi)
-* [5. 结语](https://plato.stanford.edu/entries/phil-science-latin-america/#ConcRema)
-* [参考文献](https://plato.stanford.edu/entries/phil-science-latin-america/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/phil-science-latin-america/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/phil-science-latin-america/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/phil-science-latin-america/#Rel)
-
+ 
 ***
 
 ## 1. 历史背景

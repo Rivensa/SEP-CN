@@ -21,47 +21,7 @@
 关于这些主题的哲学著作是一部跨越时代的文献体系。虽然承诺作为一种现象很少是一部重要著作的唯一主题，但它是许多重要人物所研究的课题。从古代到中世纪再到现代以及以后，理论家们一直试图解释承诺的规范力量。虽然大部分文献集中在伦理学、政治理论以及相关的法律理论和应用伦理学领域，但在语言哲学、行动理论、理性理论、博弈论和其他领域也有关于承诺的研究。
 
 在文献中，有各种分类承诺理论的方法。Atiyah（1981）、Downie（1985）、Vitek（1993）、Shiffrin（2008）、Owens（2012）、van Roojen（2013）、Liberto（2016b）等人对此进行了一些关注，虽然存在一些重叠，但也存在一些差异。通常，理论家们根据承诺义务生成的方式对理论进行分类。根据这个标准分类法，主要的承诺理论类型有：规范权力观点、习俗观点、期望观点和共同承诺观点。
-
-* [1. 规范权力理论](https://plato.stanford.edu/entries/promises/#NormPoweTheo)
-
-  * [ 1.1 古代观点](https://plato.stanford.edu/entries/promises/#AnciView)
-  * [1.2 自然法观点](https://plato.stanford.edu/entries/promises/#NatuLawView)
-  * [ 1.3 当代观点](https://plato.stanford.edu/entries/promises/#ContView)
-* [ 2. 传统主义](https://plato.stanford.edu/entries/promises/#Conv)
-
-  * [2.1 本体论和规范传统主义](https://plato.stanford.edu/entries/promises/#OntoNormConv)
-  * [2.2 范例常规主义](https://plato.stanford.edu/entries/promises/#ParaConv)
-  * [ 2.3 混合理论](https://plato.stanford.edu/entries/promises/#HybrTheo)
-* [3. 期望理论](https://plato.stanford.edu/entries/promises/#ExpeTheo)
-
-  * [ 3.1 承诺](https://plato.stanford.edu/entries/promises/#Assu)
-  * [ 3.2 依赖](https://plato.stanford.edu/entries/promises/#Reli)
-  * [ 3.3 信任](https://plato.stanford.edu/entries/promises/#Trus)
-* [4. 人际承诺](https://plato.stanford.edu/entries/promises/#InteComm)
-
-  * [ 4.1 共同承诺](https://plato.stanford.edu/entries/promises/#JoinComm)
-  * [ 4.2 第二人称](https://plato.stanford.edu/entries/promises/#SecoPers)
-* [5. 承诺理论中的问题](https://plato.stanford.edu/entries/promises/#IssuPromTheo)
-
-  * [5.1 有问题的受承诺人和接受条件](https://plato.stanford.edu/entries/promises/#ProbPromUptaCond)
-  * [5.2 对自己的承诺和受承诺人解除条件](https://plato.stanford.edu/entries/promises/#PromSelfPromReleCond)
-  * [5.3 承诺、誓言和相关现象](https://plato.stanford.edu/entries/promises/#VowsOathRelaPhen)
-
-    * [ 5.3.1 承诺](https://plato.stanford.edu/entries/promises/#Vows)
-    * [ 5.3.2 誓言](https://plato.stanford.edu/entries/promises/#Oath)
-  * [ 5.4 承诺的原因](https://plato.stanford.edu/entries/promises/#PromReas)
-* [6. 解释/原理和其他领域](https://plato.stanford.edu/entries/promises/#PromOtheFiel)
-
-  * [6.1 承诺和言语行为](https://plato.stanford.edu/entries/promises/#PromSpeeActs)
-  * [6.2 承诺、合同和法律](https://plato.stanford.edu/entries/promises/#PromContLaw)
-  * [6.3 承诺和后果主义](https://plato.stanford.edu/entries/promises/#PromCons)
-
-    * [6.3.1 行为功利主义](https://plato.stanford.edu/entries/promises/#ActUtil)
-    * [6.3.2 规则功利主义](https://plato.stanford.edu/entries/promises/#RuleUtil)
-* [ 参考文献](https://plato.stanford.edu/entries/promises/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/promises/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/promises/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/promises/#Rel)
+ 
 
 ---
 

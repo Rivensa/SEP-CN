@@ -3,21 +3,7 @@
 *首次发表于1999年3月20日，实质修订于2024年2月21日。*
 
 首席法官菲利普是 13 世纪上半叶许多不同领域中的一个有影响力的人物。他在教会事业上经历了漫长而动荡的职业生涯，以他的布道和抒情诗而闻名，后者近年来受到许多音乐学家的关注（参见 Dronke 1987，Payne 1991，Traill 2003）。在哲学和神学领域，他的主要作品《善之总论》在许多方面都是开创性的成就，于 1220 年代至 1230 年代创作完成。菲利普是最早围绕一个中心基础原则——善的概念来组织总论的人之一。《善之总论》还很可能包含了一个在后来的中世纪时期崭露头角的主题的最早论述，即超越论的教义。菲利普关于行动理论的要素引起了后来的著名人物如阿尔伯特大师的评论。《善之总论》在 13 世纪是一部备受尊重和有影响力的作品（参见 Keeler 1937，Callus 1941-43，Principe 1962）。
-
-* [ 1. 菲利普的生平](https://plato.stanford.edu/entries/philip-chancellor/#PhilLife)
-* [2. 菲利普作为首席法官的职业生涯](https://plato.stanford.edu/entries/philip-chancellor/#PhilCareChan)
-* [3. 菲利普的哲学意义](https://plato.stanford.edu/entries/philip-chancellor/#PhilPhilSign)
-* [4. 菲利普的超越论创新理论](https://plato.stanford.edu/entries/philip-chancellor/#PhilInnoTheoTran)
-* [ 5. 菲利普的心理学](https://plato.stanford.edu/entries/philip-chancellor/#PhilPsyc)
-* [6. 菲利普对时间和永恒的讨论](https://plato.stanford.edu/entries/philip-chancellor/#PhilDiscTimeEter)
-* [ 参考文献](https://plato.stanford.edu/entries/philip-chancellor/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/philip-chancellor/#PrimSour)
-  * [参考文献和进一步阅读](https://plato.stanford.edu/entries/philip-chancellor/#RefeFurtRead)
-* [ 学术工具](https://plato.stanford.edu/entries/philip-chancellor/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/philip-chancellor/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/philip-chancellor/#Rel)
-
+ 
 ---
 
 ## 1. 菲利普的生平

@@ -6,19 +6,7 @@ _首次发表于2003年11月16日；实质性修订于2013年12月16日。_
 
 作为一门学科，现象学与哲学中的其他关键学科，如本体论、认识论、逻辑和伦理学有着明显的区别但又相关。现象学以各种不同的方式被实践了几个世纪，但在 20 世纪初，它在胡塞尔、海德格尔、萨特、梅洛-庞蒂等人的作品中得到了发展。关于意向性、意识、质感和第一人称视角的现象学问题在近期的心灵哲学中占据了重要地位。
 
-* [1. 什么是现象学？](https://plato.stanford.edu/entries/phenomenology/#WhatPhen)
-* [2. 现象学的学科](https://plato.stanford.edu/entries/phenomenology/#DiscPhen)
-* [3. 从现象到现象学](https://plato.stanford.edu/entries/phenomenology/#PhenPhen)
-* [4. 现象学的历史和种类](https://plato.stanford.edu/entries/phenomenology/#HistVariPhen)
-* [5. 现象学和本体论、认识论、逻辑、伦理学](https://plato.stanford.edu/entries/phenomenology/#PhenOntoEpisLogiEthi)
-* [6. 现象学和心灵哲学](https://plato.stanford.edu/entries/phenomenology/#PhenPhilMind)
-* [7. 现象学在当代意识理论中的应用](https://plato.stanford.edu/entries/phenomenology/#PhenContConsTheo)
-* [参考文献](https://plato.stanford.edu/entries/phenomenology/#Bib)
-  * [古典文本](https://plato.stanford.edu/entries/phenomenology/#ClasText)
-  * [当代研究](https://plato.stanford.edu/entries/phenomenology/#ContStud)
-* [学术工具](https://plato.stanford.edu/entries/phenomenology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/phenomenology/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/phenomenology/#Rel)
+ 
 
 ***
 

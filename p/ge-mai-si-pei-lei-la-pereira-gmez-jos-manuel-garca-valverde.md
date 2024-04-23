@@ -4,23 +4,7 @@
 
 戈麦斯·佩雷拉（1500 年-？）是一位西班牙医生和哲学家，主要以在笛卡尔之前一百年提出了完整的动物机制理论而闻名。在关于灵魂不朽性的辩论中，他捍卫了灵魂和身体之间的彻底分离，并将灵魂看作是简单形式，其本质活动在于自我意识。佩雷拉是萨拉曼卡大学的校友，在那里他接触到了名义主义者发展的新教育方法，以及对自然哲学越来越浓厚的兴趣。从异端的角度出发，他在自己的著作中探讨了一些物理和形而上学的主题。佩雷拉拒绝了他那个时代广泛接受的一些概念，如原始物质、常识或可理解的种类。基于一种将简单性置于优先的心理学，他用一种新的心理学理论取代了学院派的认知能力理论，其中意向行为变得重要起来。对于佩雷拉来说，主体和客体构成了一个只能在概念上分离的统一体；这个统一体是由将心灵看作纯粹关注的概念所决定的，它能够感知自己。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/gomez-pereira/#LifeWork)
-* [2. 认识论与名义主义](https://plato.stanford.edu/entries/gomez-pereira/#EpisNomi)
-* [ 3. 心理学](https://plato.stanford.edu/entries/gomez-pereira/#Psyc)
-
-  * [3.1 灵魂的本质](https://plato.stanford.edu/entries/gomez-pereira/#NatuSoul)
-  * [3.2 身心复合体](https://plato.stanford.edu/entries/gomez-pereira/#BodySoulComp)
-* [ 4. 动物机制](https://plato.stanford.edu/entries/gomez-pereira/#AnimMech)
-* [ 5. 后果](https://plato.stanford.edu/entries/gomez-pereira/#Afte)
-* [ 参考文献](https://plato.stanford.edu/entries/gomez-pereira/#Bib)
-
-  * [主要来源：戈麦斯·佩雷拉](https://plato.stanford.edu/entries/gomez-pereira/#PrimSourGomePere)
-  * [ 主要来源：其他](https://plato.stanford.edu/entries/gomez-pereira/#PrimSourOthe)
-  * [ 次要来源](https://plato.stanford.edu/entries/gomez-pereira/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/gomez-pereira/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/gomez-pereira/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/gomez-pereira/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品

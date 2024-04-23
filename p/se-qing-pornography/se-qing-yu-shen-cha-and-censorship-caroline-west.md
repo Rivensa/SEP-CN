@@ -8,27 +8,7 @@
 
 传统上，自由主义者捍卫成年人在私人场所发布和消费色情作品的自由，而道德和宗教保守派则希望禁止色情作品，因为他们认为色情作品具有（所谓的）淫秽和对消费者的道德败坏影响。然而，在最近的时期，色情辩论呈现出了一种新的、令人惊讶的形态。一些女权主义者发现自己与传统的保守派敌人站在了一起，呼吁国家对（某些）色情作品进行监管，尽管女权主义者关注的主要焦点不是淫秽，而是（所谓的）对女性的伤害。一些自由主义者也与支持审查的女权主义者一起，认为暴力、贬低和厌恶女性的色情作品对女性的社会地位和机会造成的伤害可能足够大，以至于可以通过法律对其进行监管。然而，许多其他自由主义者和女权主义者对此表示怀疑。他们怀疑色情作品是否是性压迫的重要原因，或者“法律这种粗暴而不可靠的工具”是否是解决色情作品伤害的最佳方案。正如我们将看到的，关于（某些）色情作品是否有害，以及对有害类型的色情作品应该采取何种措施的辩论仍然非常活跃（Altman 和 Watson 2018；McGowan 2019；Mikkola 2019）。
 
-* [1. 什么是色情？](https://plato.stanford.edu/entries/pornography-censorship/#WhatPorn)
-* [2. 传统色情辩论的形式](https://plato.stanford.edu/entries/pornography-censorship/#ShapTradPornDeba)
-
-  * [2.1 保守派对审查的论点](https://plato.stanford.edu/entries/pornography-censorship/#ConsArguForCens)
-  * [2.2 保留色情权利的传统自由主义辩护](https://plato.stanford.edu/entries/pornography-censorship/#TradLibeDefeRighPorn)
-* [ 3. 自由派异议](https://plato.stanford.edu/entries/pornography-censorship/#LibeDiss)
-* [4. 女权主义方法](https://plato.stanford.edu/entries/pornography-censorship/#FemiAppr)
-
-  * [4.1 反对色情的女权主义论点](https://plato.stanford.edu/entries/pornography-censorship/#FemiArguAgaiPorn)
-  * [4.2 反对法律规制的女权主义论点](https://plato.stanford.edu/entries/pornography-censorship/#FemiArguAgaiLegaRegu)
-* [5. 持续辩论：自由主义者和女权主义者](https://plato.stanford.edu/entries/pornography-censorship/#OngoDebaLibeFemi)
-
-  * [5.1 色情是否对他人造成伤害？经验证据](https://plato.stanford.edu/entries/pornography-censorship/#DoesPornCausHarmOtheEmpiEvid)
-  * [5.2 自由主义者和女权主义者](https://plato.stanford.edu/entries/pornography-censorship/#LibeFemi)
-* [ 6. 非法律救济措施](https://plato.stanford.edu/entries/pornography-censorship/#NonLegaReme)
-* [ 结论](https://plato.stanford.edu/entries/pornography-censorship/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/pornography-censorship/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/pornography-censorship/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pornography-censorship/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pornography-censorship/#Rel)
-
+ 
 ---
 
 ## 1. 什么是色情?

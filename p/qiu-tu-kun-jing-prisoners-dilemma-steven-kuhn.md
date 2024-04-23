@@ -12,37 +12,7 @@ Tanya和Cinque因抢劫Hibernia储蓄银行而被逮捕，并被分别关押在�
 
 下面的部分提供了囚徒困境的各种更精确的特征描述，从最狭窄的开始，并调查了与类似游戏的一些联系以及在哲学和其他领域的一些应用。特别关注游戏的迭代和进化版本。在前者中，囚徒困境游戏被重复进行，打开了一个可能性，即玩家可以利用其当前的移动来奖励或惩罚对方在以前的移动中的表现，以便在未来诱导合作性的游戏。在后者中，一个群体的成员在囚徒困境游戏中反复与彼此对战，那些获得更高回报的人比那些获得较低回报的人“繁殖”得更快。"囚徒困境"缩写为"PD"。
 
-* [1. 具有序数回报的对称 2×2 囚徒困境](https://plato.stanford.edu/entries/prisoner-dilemma/#Symm2t2PDOrdiPayo)
-* [ 2. 不对称性](https://plato.stanford.edu/entries/prisoner-dilemma/#Asym)
-* [3. 基数回报和不纯囚徒困境](https://plato.stanford.edu/entries/prisoner-dilemma/#CardPayoImpuPDs)
-* [4. 多次行动和可选囚徒困境](https://plato.stanford.edu/entries/prisoner-dilemma/#MultMoveOptiPD)
-* [5. 多个玩家，公地悲剧，投票和公共物品](https://plato.stanford.edu/entries/prisoner-dilemma/#MultPlayTragCommVotiPublGood)
-* [6. 单人解释](https://plato.stanford.edu/entries/prisoner-dilemma/#SingPersInte)
-* [7. 带有复制品的囚徒困境和因果决策理论](https://plato.stanford.edu/entries/prisoner-dilemma/#PDReplCausDeciTheo)
-* [8. 鹿猎和囚徒困境](https://plato.stanford.edu/entries/prisoner-dilemma/#StagHuntPD)
-* [9. 异步移动和信任游戏](https://plato.stanford.edu/entries/prisoner-dilemma/#AsynMoveTrusGame)
-* [ 10. 透明度](https://plato.stanford.edu/entries/prisoner-dilemma/#Tran)
-* [ 11. 有限迭代](https://plato.stanford.edu/entries/prisoner-dilemma/#FiniIter)
-* [12. 蜈蚣和有限 IPD](https://plato.stanford.edu/entries/prisoner-dilemma/#CentFiniIPD)
-* [ 13. 无限迭代](https://plato.stanford.edu/entries/prisoner-dilemma/#InfiIter)
-* [14. 无限迭代](https://plato.stanford.edu/entries/prisoner-dilemma/#IndeIter)
-
-  * [Axelrod 和 Tit for Tat](https://plato.stanford.edu/entries/prisoner-dilemma/#AxelTitForTat)
-  * [ 后 Axelrod](https://plato.stanford.edu/entries/prisoner-dilemma/#PostAxel)
-* [15. 带错误的迭代](https://plato.stanford.edu/entries/prisoner-dilemma/#IterErro)
-* [ 16. 进化](https://plato.stanford.edu/entries/prisoner-dilemma/#Evol)
-
-  * [进化和可选囚徒困境](https://plato.stanford.edu/entries/prisoner-dilemma/#EvolOptiPD)
-* [ 17. 信号传递](https://plato.stanford.edu/entries/prisoner-dilemma/#Sign)
-* [ 18. 空间囚徒困境](https://plato.stanford.edu/entries/prisoner-dilemma/#SpatPDs)
-* [19. 囚徒困境和社交网络](https://plato.stanford.edu/entries/prisoner-dilemma/#PDsSociNetw)
-* [20. 零决定性策略](https://plato.stanford.edu/entries/prisoner-dilemma/#ZeroDeteStra)
-* [21. 群体选择和干草堆囚徒困境](https://plato.stanford.edu/entries/prisoner-dilemma/#GrouSeleHaysPD)
-* [ 参考文献](https://plato.stanford.edu/entries/prisoner-dilemma/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/prisoner-dilemma/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/prisoner-dilemma/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/prisoner-dilemma/#Rel)
-
+ 
 ---
 
 ## 1. 对称的 2×2 囚徒困境与序数支付

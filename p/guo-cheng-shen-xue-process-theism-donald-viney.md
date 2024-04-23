@@ -5,23 +5,7 @@
 
 过程神学通常指的是一系列神学思想，起源于、受到或与英国哲学家数学家阿尔弗雷德·诺思·怀特海德（1861-1947）和美国哲学家鸟类学家查尔斯·哈特肖恩（1897-2000）的形而上学取向一致。对于怀特海德和哈特肖恩来说，上帝完全参与并受到时间过程的影响是其本质属性。这个观点与传统的神学形式形成鲜明对比，传统神学认为上帝在所有方面都是非时间性的（永恒的），不变的（不可变的）并且不受世界影响（不受感动）。过程神学并不否认上帝在某些方面是永恒、不变和不受感动的，但它与古典观点相矛盾，坚持认为上帝在某些方面是时间性的、可变的和可感动的。怀特海德和哈特肖恩的观点也应与那些肯定神圣存在通过自我限制向世界施加影响的观点区分开来。一些新托马斯主义者持有这种观点，一群自称为“开放神学家”的福音派基督教哲学家也提倡类似的观点。这些神学形式受到过程神学的影响，但否认了其主张上帝与世界本质上是互动关系的说法。此外，过程神学是一种真正的哲学神学，它不是基于特殊洞察力或启示真理的主张，而是基于哲学思考。具体而言，过程神学是一种以变化、变动和时间为形而上学基础的理论产物。过程神学的形而上学基础通常被称为过程哲学，这个标签是由怀特海德的巨著《过程与现实》的标题所建议的。为了突出这种哲学对关联性的强调，许多学者都遵循伯纳德·卢默的观点，称其为过程关系哲学。 怀特海德对他的形而上学观点的首选表达是“有机哲学”。本文主要涉及过程神学中关于上帝的概念，尽管我们将在最后简要讨论过程思想中关于上帝存在的论证。
 
-* [1. 关于过程神学的历史注解](https://plato.stanford.edu/entries/process-theism/#HistNoteProcThei)
-* [2. 上帝与创造力](https://plato.stanford.edu/entries/process-theism/#GodCrea)
-* [3. 神中的真实关系](https://plato.stanford.edu/entries/process-theism/#RealRelaGod)
-* [4. 白海德和哈特肖恩中的双重超越](https://plato.stanford.edu/entries/process-theism/#DualTranWhitHart)
-
-  * [4.1 白海德关于神的两个本质](https://plato.stanford.edu/entries/process-theism/#WhitTwoNatuGod)
-  * [4.2 Hartshorne 对存在和实在性的看法](https://plato.stanford.edu/entries/process-theism/#HartExisActu)
-* [ 5. 全在神论](https://plato.stanford.edu/entries/process-theism/#Pane)
-* [6. 神的力量和邪恶问题](https://plato.stanford.edu/entries/process-theism/#DiviPoweProbEvil)
-* [7. 神学知识与未来可能性问题](https://plato.stanford.edu/entries/process-theism/#DiviKnowProbFutuCont)
-* [8. 转变传统神学和过程神学](https://plato.stanford.edu/entries/process-theism/#TranTradTheiProcThei)
-* [9. 过程神学中关于上帝存在的论证](https://plato.stanford.edu/entries/process-theism/#ArguForExisGodProcThei)
-* [ 参考文献](https://plato.stanford.edu/entries/process-theism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/process-theism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/process-theism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/process-theism/#Rel)
-
+ 
 ---
 
 ## 1. 关于过程神学的历史注解

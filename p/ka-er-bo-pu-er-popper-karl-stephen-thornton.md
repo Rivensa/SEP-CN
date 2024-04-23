@@ -9,25 +9,7 @@
 
 卡尔·波普尔通常被认为是 20 世纪最伟大的科学哲学家之一。他也是一位具有相当声望的社会和政治哲学家，自称为批判理性主义者，坚决反对科学和人类事务中的任何形式的怀疑主义和相对主义，并坚定地倡导和捍卫“开放社会”。波普尔思想的许多显著特点之一是他的智力影响范围：他受到伯特兰·罗素的赞扬，在伦敦政治经济学院教授了伊姆雷·拉卡托什、保罗·费耶拉本德和慈善家乔治·索罗斯，他的研究助手中包括大卫·米勒、约瑟夫·阿加西、艾伦·马斯格雷夫和杰里米·谢尔默尔，托马斯·萨斯将他列为“我最重要的导师之一”，并与经济学家弗里德里希·哈耶克和艺术史学家恩斯特·冈布里希有密切联系。此外，彼得·梅达沃、约翰·埃克尔斯和赫尔曼·邦迪等杰出科学家承认他们在学术上受到他的影响，后者甚至宣称“科学没有比它的方法更多，而它的方法没有比波普尔所说的更多”。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/popper/#Life)
-* [2. 波普尔思想的背景](https://plato.stanford.edu/entries/popper/#BackPoppThou)
-* [3. 划界问题](https://plato.stanford.edu/entries/popper/#ProbDema)
-* [4. 基本陈述、可证伪性和约定](https://plato.stanford.edu/entries/popper/#BasiStatFalsConv)
-* [5. 人类知识的增长](https://plato.stanford.edu/entries/popper/#GrowHumaKnow)
-* [6. 概率、知识和近似真实性](https://plato.stanford.edu/entries/popper/#ProbKnowVeri)
-* [7. 客观知识和三个世界本体论](https://plato.stanford.edu/entries/popper/#ObjeKnowThreWorlOnto)
-* [8. 社会和政治思想—对历史主义和整体主义的批判](https://plato.stanford.edu/entries/popper/#SociPoliThouCritHistHoli)
-* [9. 科学知识、历史和预测](https://plato.stanford.edu/entries/popper/#ScieKnowHistPred)
-* [10. 不变的法则和偶然的趋势](https://plato.stanford.edu/entries/popper/#ImmuLawsContTren)
-* [ 11. 临界评估](https://plato.stanford.edu/entries/popper/#CritEval)
-* [ 参考书目](https://plato.stanford.edu/entries/popper/#Bib)
-
-  * [主要文献：波普尔的著作](https://plato.stanford.edu/entries/popper/#PrimLiteWorkPopp)
-  * [二手文献/其他来源](https://plato.stanford.edu/entries/popper/#SecoLiteSour)
-* [ 学术工具](https://plato.stanford.edu/entries/popper/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/popper/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/popper/#Rel)
-
+ 
 ---
 
 ## 1. 生活

@@ -4,39 +4,7 @@
 *首次发表于2005年9月30日；实质性修订于2019年3月4日*
 
 疼痛是一类被称为身体感觉的感觉中最突出的成员，其中包括痒、痒、刺痛、高潮等。身体感觉通常被归因于身体部位，并且似乎具有体积、强度、持续时间等特征，这些特征通常被归因于物理对象或数量。然而，这些感觉通常被认为是逻辑上私有的、主观的、自我感知的，并且对于那些拥有它们的人来说，它们是无可辩驳的知识的来源。因此，有理由认为疼痛（以及其他类似的身体感觉）是我们在身体部位中感知到的物理对象或条件，也有理由认为它们不是。这种明显的悖论是哲学家对疼痛特别感兴趣的主要原因之一。处理这种明显悖论的一种越来越受欢迎但仍然有争议的方法是捍卫疼痛的感知或表征观点，根据这种观点，感受疼痛在原则上与进行其他标准感知过程（如看、听、触摸等）没有区别。但有很多人认为疼痛不适合这种处理方式。虽然在二十世纪的大部分时间里，将疼痛视为感官-辨别性体验的处理方式主导了哲学讨论，但近年来，对疼痛的情感-动机维度的关注日益突出。
-
-* [1. 疼痛的常识概念](https://plato.stanford.edu/entries/pain/#conception)
-
-  * [1.1 第一线索：疼痛作为身体部位中的某物](https://plato.stanford.edu/entries/pain/#first)
-  * [1.2 第二线程：疼痛作为主观体验](https://plato.stanford.edu/entries/pain/#second)
-  * [1.3 两个线程之间的紧张关系](https://plato.stanford.edu/entries/pain/#tension)
-* [2. 感官数据理论](https://plato.stanford.edu/entries/pain/#sensedatum)
-
-  * [ 2.1 简介](https://plato.stanford.edu/entries/pain/#introsensedatum)
-  * [2.2 感官数据理论的问题](https://plato.stanford.edu/entries/pain/#assessment)
-* [3. 知觉理论](https://plato.stanford.edu/entries/pain/#perceptual)
-
-  * [ 3.1 简介](https://plato.stanford.edu/entries/pain/#introperceptual)
-  * [3.2 外观/现实问题](https://plato.stanford.edu/entries/pain/#appearance)
-  * [3.3 疼痛位置问题](https://plato.stanford.edu/entries/pain/#location)
-  * [3.4 直接和间接感知理论](https://plato.stanford.edu/entries/pain/#directindirect)
-  * [3.5 副词感知理论](https://plato.stanford.edu/entries/pain/#adverbialism)
-* [4. 表征主义理论](https://plato.stanford.edu/entries/pain/#representational)
-
-  * [ 4.1 引言](https://plato.stanford.edu/entries/pain/#introreps)
-  * [4.2 焦点问题](https://plato.stanford.edu/entries/pain/#focus)
-  * [4.3 情感现象学问题](https://plato.stanford.edu/entries/pain/#affective)
-* [5. 评价和动机理论](https://plato.stanford.edu/entries/pain/#othertheories)
-* [6. 关于疼痛的消除主义](https://plato.stanford.edu/entries/pain/#eliminativism)
-
-  * [6.1 从反应性分离论证消除疼痛](https://plato.stanford.edu/entries/pain/#argRD)
-  * [6.2 淘汰论的其他论证](https://plato.stanford.edu/entries/pain/#others)
-* [ 7. 结论](https://plato.stanford.edu/entries/pain/#conclusion)
-* [ 参考文献](https://plato.stanford.edu/entries/pain/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/pain/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pain/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pain/#Rel)
-
+ 
 ---
 
 ## 1. 疼痛的常识概念

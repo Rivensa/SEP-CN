@@ -6,18 +6,7 @@
 
 在接下来的内容中，我简要解释了进化心理学与其他关于人类行为生物学和认知科学的研究之间的关系。接下来，我介绍了这一研究传统的关键理论概念。在下一节中，我讨论了进化心理学在心灵哲学中的讨论，特别关注了关于大规模模块化论的辩论。然后，我回顾了一些生物哲学家对进化心理学提出的批评，并评估了对这些批评的一些回应。接下来，我介绍了进化心理学对道德心理学和人性的一些贡献，并最后简要讨论了进化心理学的影响和影响力。
 
-* [1. 进化心理学：解释人类行为的各种生物学方法之一的研究传统](https://plato.stanford.edu/entries/evolutionary-psychology/#EvoPsyOneResTraAmoVarBioAppExpHumBeh)
-* [2. 进化心理学的理论和方法](https://plato.stanford.edu/entries/evolutionary-psychology/#EvoPsyTheMet)
-* [3. 大规模模块化假设](https://plato.stanford.edu/entries/evolutionary-psychology/#MasModHyp)
-* [4. 生物哲学 vs. 进化心理学](https://plato.stanford.edu/entries/evolutionary-psychology/#BioVsEvoPsy)
-* [5. 道德心理学和进化心理学](https://plato.stanford.edu/entries/evolutionary-psychology/#MorPsyEvoPsy)
-* [ 6. 人类本性](https://plato.stanford.edu/entries/evolutionary-psychology/#HumNat)
-* [7. 进化心理学的应用和进一步讨论的展望](https://plato.stanford.edu/entries/evolutionary-psychology/#ProForFutWor)
-* [ 参考文献](https://plato.stanford.edu/entries/evolutionary-psychology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/evolutionary-psychology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/evolutionary-psychology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/evolutionary-psychology/#Rel)
-
+ 
 ---
 
 ## 1. 进化心理学：在解释人类行为的各种生物学方法中，进化心理学是一种研究传统

@@ -10,26 +10,7 @@
 
 这种二元论（非理性-混乱-恶 vs. 理性-有序-善）也渗透到感性或物质世界中，因为人的灵魂作为来自世界灵魂的派生物，也有理性和非理性的两个方面，正如《理想国》所提出的。在这种精神下，普鲁塔克在世界和人类中都区分了三个方面，即身体、灵魂和智力。灵魂与身体的关系导致了非理性的方面，这意味着混乱、恶习或邪恶，而灵魂和智力之间的合作促进了理性，即秩序、美德、仁慈。为了适应柏拉图伦理思想中的多种思路（例如在《哥吉亚斯》、《普罗泰戈拉斯》、《理想国》、《费多》、《泰阿泰德》、《蒂迈欧》中），普鲁塔克是第一个将伦理生活的不同层次区分开来的柏拉图主义者，我们可以称之为政治和理论层面，具体取决于美德是作为灵魂对日常生活的组织原则，还是作为智力对形式（包括美德）和智性领域的知识指导。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/plutarch/#LifWor)
-* [ 2. 普鲁塔克的柏拉图主义](https://plato.stanford.edu/entries/plutarch/#PluPla)
-* [ 3. 逻辑/认识论](https://plato.stanford.edu/entries/plutarch/#Log)
-* [ 4. 形而上学](https://plato.stanford.edu/entries/plutarch/#Met)
-
-  * [ 4.1 第一原理](https://plato.stanford.edu/entries/plutarch/#FirPri)
-  * [4.2 命运和我们所能掌控的事情](https://plato.stanford.edu/entries/plutarch/#FatWhaUpUs)
-  * [ 4.3 神学](https://plato.stanford.edu/entries/plutarch/#The)
-* [ 5. 心理学](https://plato.stanford.edu/entries/plutarch/#Psy)
-* [6. 伦理学和政治学](https://plato.stanford.edu/entries/plutarch/#EthPol)
-* [7. 诗学和教育理论](https://plato.stanford.edu/entries/plutarch/#PoeEduThe)
-* [ 8. 影响力](https://plato.stanford.edu/entries/plutarch/#Inf)
-* [ 参考文献](https://plato.stanford.edu/entries/plutarch/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/plutarch/#PriSou)
-  * [ 二手文献](https://plato.stanford.edu/entries/plutarch/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/plutarch/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plutarch/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plutarch/#Rel)
-
+ 
 ---
 
 ## 1. 生平与作品

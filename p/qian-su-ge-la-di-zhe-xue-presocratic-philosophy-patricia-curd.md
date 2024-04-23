@@ -8,24 +8,7 @@
 
 LM 采用了类似的系统。（LM 为 DK 提供了有用的一致性。）P 部分包含了关于作者生平和作品的段落（在某些方面与 DK 的 A 部分重叠）；D 部分包括了包含直接引用的教义段落（与 DKB 和 DKA 有些重叠）；而 R 部分包括了对作者的反应（接受）以及编辑们认为是古代伪造品或模仿品的文本。与 DK 一样，LM 为每个思想家分配一个标识号，并为每个文本片段编号：LM25D27 选择了安纳克萨戈拉斯（25）的教义编号 27（= DK59B12），LM25P37 与 DK59A30 是相同的文本，LM25D94 是 DK59A117。
 
-* [1. 前苏格拉底哲学家是谁？](https://plato.stanford.edu/entries/presocratics/#WhoWerPrePhi)
-* [ 2. 米利都学派](https://plato.stanford.edu/entries/presocratics/#Mil)
-* [3. 科洛芬的泽诺芬尼斯和以弗所的赫拉克利特](https://plato.stanford.edu/entries/presocratics/#XenColHerEph)
-* [4. 埃莱亚的巴门尼德斯](https://plato.stanford.edu/entries/presocratics/#ParEle)
-* [5. 毕达哥拉斯传统](https://plato.stanford.edu/entries/presocratics/#PytTra)
-* [6. 其他厄列亚学派：泽诺和梅利苏斯](https://plato.stanford.edu/entries/presocratics/#OthEleZenMel)
-* [7. 多元论者：克拉佐梅尼的阿那克萨戈拉斯和阿克拉加斯的恩佩多克勒斯](https://plato.stanford.edu/entries/presocratics/#PluAnaClaEmpAcr)
-* [ 8. 前苏格拉底的原子论](https://plato.stanford.edu/entries/presocratics/#PreAto)
-* [9. 阿波罗尼亚的戴奥根尼和苏格拉底学派](https://plato.stanford.edu/entries/presocratics/#DioApoSop)
-* [10. 前苏格拉底的遗产](https://plato.stanford.edu/entries/presocratics/#PreLeg)
-* [ 参考文献](https://plato.stanford.edu/entries/presocratics/#Bib)
-
-  * [主要来源：文本和翻译](https://plato.stanford.edu/entries/presocratics/#PriSouTexTra)
-  * [ 次要文献](https://plato.stanford.edu/entries/presocratics/#SecLitArtBooColSurEnc)
-* [ 学术工具](https://plato.stanford.edu/entries/presocratics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/presocratics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/presocratics/#Rel)
-
+ 
 ---
 
 ## 1. 前苏格拉底哲学家是谁？

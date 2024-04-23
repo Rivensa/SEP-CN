@@ -4,29 +4,7 @@
 
 托马斯·潘恩是一位传单作者、争议人物和国际革命家。他的《常识》（1776 年）是美国独立呼声背后的核心文本；他的《人的权利》（1791-1792 年）是 18 世纪 90 年代英国改革运动中最广泛阅读的传单，也是 19 世纪开头几十年的改革运动中最广泛阅读的传单；他积极参与法国大革命，是 1792 年至 1795 年间法国国民公约的成员；他被许多人视为国家对福利和教育提供责任要求出现的关键人物，他的《理性时代》是一本流行的自然神论文本，对 19 世纪始终有影响力。在他自己的一生中，以及之后，他遭到了广泛的诽谤和经常被忽视。然而，他的许多观点仍然在世界各地的读者中引起广泛的兴趣和热情。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/paine/#Life)
-* [2. 政治理论](https://plato.stanford.edu/entries/paine/#PoliTheo)
-
-  * [2.1 社会与政府](https://plato.stanford.edu/entries/paine/#SociGove)
-  * [ 2.2 权利](https://plato.stanford.edu/entries/paine/#Righ)
-  * [2.3 主权及其限制](https://plato.stanford.edu/entries/paine/#SoveLimi)
-  * [2.4 政府的新秩序](https://plato.stanford.edu/entries/paine/#NewOrdeGove)
-  * [ 2.5 福利](https://plato.stanford.edu/entries/paine/#Welf)
-  * [ 2.6 财产](https://plato.stanford.edu/entries/paine/#Prop)
-  * [ 2.7 表示](https://plato.stanford.edu/entries/paine/#Repr)
-* [ 3. 宗教](https://plato.stanford.edu/entries/paine/#Reli)
-* [4. 意义和遗产](https://plato.stanford.edu/entries/paine/#SignLega)
-* [ 参考文献](https://plato.stanford.edu/entries/paine/#Bib)
-
-  * [ 档案资源](https://plato.stanford.edu/entries/paine/#ArchReso)
-  * [ 托马斯·潘恩的著作](https://plato.stanford.edu/entries/paine/#PainWork)
-  * [ 文献著作](https://plato.stanford.edu/entries/paine/#BiblWork)
-  * [ 当代写作](https://plato.stanford.edu/entries/paine/#ContWrit)
-  * [现代传记和评论](https://plato.stanford.edu/entries/paine/#ModeBiogComm)
-* [ 学术工具](https://plato.stanford.edu/entries/paine/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/paine/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/paine/#Rel)
-
+ 
 ---
 
 ## 生命

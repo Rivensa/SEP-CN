@@ -4,27 +4,7 @@
 
 巴门尼德（Parmenides）来自爱利亚（Elea），活跃于公元前 5 世纪早期，创作了一首难以理解的形而上学诗歌，使他成为早期希腊哲学中最深奥和具有挑战性的思想家。他的哲学立场通常被理解为极其矛盾，但对希腊自然哲学和形而上学的广泛发展至关重要。他被视为一位形而上学的唯一主义者（或其他形式的唯一主义者），他对他的前辈们天真的宇宙论理论提出了如此大的挑战，以至于他的主要前苏格拉底学派继承者都被迫根据他的论证来发展更复杂的物理理论。对他的诗歌解释的困难导致了对他的哲学观点的许多基本问题的分歧，例如：他是否真的是一位唯一主义者，如果是，他是什么样的唯一主义者；他的体系是否反映了对早期思想家（如迈利西亚人、毕达哥拉斯人和赫拉克利特）的批判态度，或者他是否仅仅出于更严格的逻辑关注，例如伯特兰·罗素在他的思想核心发现的负存在性悖论；他是否认为我们日常意识的世界，以其庞大的实体人口以各种方式相互变化和影响，仅仅是一种幻觉，因此他的诗歌中冗长的宇宙论部分是否代表了对这个世界的真正理解的尝试。本条目旨在概述巴门尼德的作品以及过去几十年来提出的一些主要解释方法。最后，它建议理解他的思想和他在早期希腊哲学发展中的地位需要充分考虑他首次明确表达和探索的基本模态区别。
 
-* [1. 生平和著作](https://plato.stanford.edu/entries/parmenides/#LifWri)
-* [2. 巴门尼德诗歌概述](https://plato.stanford.edu/entries/parmenides/#OveParPoe)
-
-  * [ 2.1 序言](https://plato.stanford.edu/entries/parmenides/#Pro)
-  * [2.2 探究的方式](https://plato.stanford.edu/entries/parmenides/#WayInq)
-  * [2.3 确信的方式](https://plato.stanford.edu/entries/parmenides/#WayCon)
-  * [2.4 凡人之道](https://plato.stanford.edu/entries/parmenides/#WayMor)
-* [3. 一些主要的解释类型](https://plato.stanford.edu/entries/parmenides/#SomPriTypInt)
-
-  * [3.1 严格唯一主义解释](https://plato.stanford.edu/entries/parmenides/#StrMonInt)
-  * [3.2 逻辑-辩证解释](https://plato.stanford.edu/entries/parmenides/#LogDiaInt)
-  * [3.3 元原则解释](https://plato.stanford.edu/entries/parmenides/#MetPriInt)
-  * [3.4 古代盛行的视角解释](https://plato.stanford.edu/entries/parmenides/#AspIntPreAnt)
-  * [3.5 模态解释](https://plato.stanford.edu/entries/parmenides/#ModInt)
-* [ 参考文献](https://plato.stanford.edu/entries/parmenides/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/parmenides/#PriSou)
-  * [ 二次来源](https://plato.stanford.edu/entries/parmenides/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/parmenides/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/parmenides/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/parmenides/#Rel)
+ 
 
 ---
 

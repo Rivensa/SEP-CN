@@ -8,27 +8,7 @@
 
 形而上学研究任何存在的方式，可以说或思考。将生物学、物理学、数学或心理学等科学留给处理物质事物、生物事物、数学对象（例如数字）或灵魂（心灵）各自具有的特殊方式的任务，形而上学的主题是适用于一切的原则。也许最普遍的原则是：存在即是某种东西。我们可以说，没有什么只是存在。这个概念意味着每个实体/物品/事物至少具有某个特征、品质或属性。在一个一般的层面上，我们可以暂时区分出涉及任何事物是什么的三个因素：有承载或具有该属性的东西，通常称为“主体”，例如苏格拉底、数字三或我的灵魂；有被拥有的属性，例如瘦、奇数和不朽；以及属性与主体之间的方式或方式。例如，虽然苏格拉底可能是偶然瘦，因为他可以改变，即增重和减重，但三个数无法不是奇数，如果柏拉图是正确的话，灵魂也无法不是不朽的。因此，形而上学家考虑物质事物以及灵魂、上帝和数字等非物质事物，以研究属性、主体、变化、本质或偶然性等概念。
 
-* [1. 柏拉图形而上学的背景](https://plato.stanford.edu/entries/plato-metaphysics/#1)
-* [2. 《柏拉图的形而上学》](https://plato.stanford.edu/entries/plato-metaphysics/#2)
-* [3. 形式的本质：自我预言](https://plato.stanford.edu/entries/plato-metaphysics/#3)
-* [4. 形式的简单性](https://plato.stanford.edu/entries/plato-metaphysics/#4)
-* [5. 形式的分离](https://plato.stanford.edu/entries/plato-metaphysics/#5)
-* [6. 形式的范围](https://plato.stanford.edu/entries/plato-metaphysics/#6)
-* [7. 个体的不足](https://plato.stanford.edu/entries/plato-metaphysics/#7)
-* [8. 存在和参与](https://plato.stanford.edu/entries/plato-metaphysics/#8)
-* [9. 柏拉图的认识论导论](https://plato.stanford.edu/entries/plato-metaphysics/#9)
-* [ 10. 《梅诺篇》](https://plato.stanford.edu/entries/plato-metaphysics/#10)
-* [11. 《费多篇》中的回忆](https://plato.stanford.edu/entries/plato-metaphysics/#11)
-* [12. 《理想国》的认识论：两个世界的学说](https://plato.stanford.edu/entries/plato-metaphysics/#12)
-* [13. 太阳、线和洞穴](https://plato.stanford.edu/entries/plato-metaphysics/#13)
-* [14. 心灵的发展](https://plato.stanford.edu/entries/plato-metaphysics/#14)
-* [15. 假设的方法](https://plato.stanford.edu/entries/plato-metaphysics/#15)
-* [ 16. 结论](https://plato.stanford.edu/entries/plato-metaphysics/#16)
-* [ 参考文献](https://plato.stanford.edu/entries/plato-metaphysics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/plato-metaphysics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plato-metaphysics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plato-metaphysics/#Rel)
-
+ 
 ---
 
 ## 1. 柏拉图形而上学的背景

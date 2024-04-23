@@ -4,33 +4,7 @@
 
 普罗塔戈拉（公元前 490-420 年左右）是最重要的诡辩家之一，在五世纪的知识辩论中产生了重大影响。他的教学目标实际而具体，许多现存的证言和碎片表明，他的教学主要致力于辩论技巧的发展。但他的一些观点也引发了重要的哲学问题，这些问题将由柏拉图、亚里士多德和许多其他哲学家进行详细讨论。他著名的论点“人是万物的尺度”被解释为对相对主义的首次立场，他对神的主张引入了不可知论的问题。此外，他对正义的传统观念的约定论性质标志着与神圣正义的传统解释的分道扬镳；正如有人正确地指出的那样，它似乎也为基于直接参与的民主提供了理论基础。通过声称与过去伟大的诗人和思想家直接联系，但同时又占有并改变他们的原则，普罗塔戈拉将自己呈现为希腊教育的继承者，作为伟大的导师，或者更好地说，作为能够传授适应城邦新世界需求的教育者。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/protagoras/#LifeWork)
-
-  * [ 1.1 生平](https://plato.stanford.edu/entries/protagoras/#Life)
-  * [ 1.2 作品](https://plato.stanford.edu/entries/protagoras/#Work)
-* [2. “人是尺度”论题](https://plato.stanford.edu/entries/protagoras/#ManMeasThes)
-
-  * [2.1 “万物的尺度是人”：认识论解释](https://plato.stanford.edu/entries/protagoras/#AllThinMeasManEpisInte)
-  * [2.2 异议和实际解释](https://plato.stanford.edu/entries/protagoras/#ObjePracInte)
-* [3. 普罗塔戈拉关于语言](https://plato.stanford.edu/entries/protagoras/#ProtLang)
-
-  * [3.1 普罗塔戈拉的语法兴趣](https://plato.stanford.edu/entries/protagoras/#ProtGramInte)
-  * [3.2 普罗塔戈拉关于正确性（orthotes）](https://plato.stanford.edu/entries/protagoras/#ProtCorrOrth)
-* [4. 普罗塔戈拉关于神的观点](https://plato.stanford.edu/entries/protagoras/#ProtGods)
-* [5. 普罗塔戈拉的政治思想](https://plato.stanford.edu/entries/protagoras/#ProtPoliThou)
-
-  * [5.1 “普罗塔戈拉”的神话](https://plato.stanford.edu/entries/protagoras/#MythProt)
-  * [5.2 普罗塔戈拉对技艺的看法](https://plato.stanford.edu/entries/protagoras/#ProtTech)
-  * [5.3 普罗塔戈拉对正义和法律的看法](https://plato.stanford.edu/entries/protagoras/#ProtJustLaw)
-  * [5.4 普罗塔戈拉对民主的看法](https://plato.stanford.edu/entries/protagoras/#ProtDemo)
-* [ 参考书目](https://plato.stanford.edu/entries/protagoras/#Bib)
-
-  * [版本和翻译](https://plato.stanford.edu/entries/protagoras/#EditTran)
-  * [ 其他古典来源](https://plato.stanford.edu/entries/protagoras/#OtheClasSour)
-  * [ 二级来源](https://plato.stanford.edu/entries/protagoras/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/protagoras/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/protagoras/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/protagoras/#Rel)
+ 
 
 ---
 

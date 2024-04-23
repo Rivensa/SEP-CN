@@ -11,19 +11,7 @@
 
 这样说来，声称命题是结构化的观点纯粹是关于命题的形而上学论题，关于命题的性质，并不涉及句子与其所表达的命题之间的关系。但当然，结构化命题理论家对句子与其所表达的命题之间的关系也有自己的观点。
 
-* [1. 设置问题](https://plato.stanford.edu/entries/propositions-structured/#SetUpPro)
-* [2. 从可能世界到结构化命题](https://plato.stanford.edu/entries/propositions-structured/#PosWorStrPro)
-* [3. 关于结构化命题的一些最近解释/原理](https://plato.stanford.edu/entries/propositions-structured/#SomRecAccStrPro)
-
-  * [3.1 新罗素主义方法](https://plato.stanford.edu/entries/propositions-structured/#NeoRusApp)
-  * [3.2 结构化内涵方法](https://plato.stanford.edu/entries/propositions-structured/#StrIntApp)
-  * [3.3 代数方法](https://plato.stanford.edu/entries/propositions-structured/#AlgApp)
-* [4. 当前观点的历史前因：弗雷格](https://plato.stanford.edu/entries/propositions-structured/#HisAntCurVieFre)
-* [5. 当前观点的历史前因：罗素](https://plato.stanford.edu/entries/propositions-structured/#HisAntCurVieRus)
-* [ 参考文献](https://plato.stanford.edu/entries/propositions-structured/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/propositions-structured/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/propositions-structured/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/propositions-structured/#Rel)
+ 
 
 ---
 

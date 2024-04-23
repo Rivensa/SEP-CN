@@ -3,39 +3,7 @@
 *首次发表于2003年9月15日星期一；实质性修订于2020年8月18日星期二。*
 
 菲洛劳斯（Philolaus）来自意大利南部的克罗顿，是一位希腊哲学家/科学家，生于公元前470年左右，去世于公元前385年左右，与苏格拉底同时代。他是毕达哥拉斯传统中最重要的三位人物之一，出生于毕达哥拉斯之后一百年，阿尔基塔斯之前五十年。他写了一本书《论自然》，可能是毕达哥拉斯学派中第一本书。关于保存在菲洛劳斯名下的20多个碎片一直存在争议。现在普遍认为，其中大约有11个碎片来自他真正的著作。其他书籍是后来以菲洛劳斯的名义伪造的，剩下的碎片来自这些伪作。菲洛劳斯认为宇宙及其中的一切都由两种基本类型的事物组成，即限制者和无限者。无限者是没有任何结构或数量定义的连续体；它们包括传统的前苏格拉底时期的物质元素，如土、空气、火和水，还包括空间和时间。限制者在这些无限者中设定限制，并包括形状和其他结构原则。限制者和无限者并不以随意的方式组合，而是受到“适合”或“和谐”的约束，可以用数学方式描述。菲洛劳斯对限制者和无限者的这种和谐的主要例子是音乐音阶，其中声音的连续体根据整数比例进行限制，因此八度音程、五度音程和四度音程分别由比例2：1、3：2和4：3定义。由于整个世界都是按照数字结构化的，我们只有在掌握这些数字时才能获得对世界的认识。当无限的火与宇宙球体的中心（一个限制者）结合在一起形成中心火时，宇宙就产生了。 菲洛劳斯是哥白尼将地球从宇宙中心移动并使其成为一颗行星的先驱者，但在菲洛劳斯的体系中，地球并不围绕太阳运转，而是围绕中央火焰运转。这个天文系统是试图解释现象的重要尝试，同时也具有神话和宗教意义。菲洛劳斯提出了一个医学理论，其中人类的诞生与宇宙的诞生之间存在明显的类比。胚胎被认为由炽热物质组成，出生后立即吸入冷气，就像宇宙从中央火焰的热量开始，然后与虚空和时间一起吸入无限。菲洛劳斯提出了一种严格的心灵能力等级制度，使他能够区分人类与动物和植物。他可能相信转世的灵魂是心脏中物质元素的和谐排列，并且当新生婴儿呼吸时，通过适当的热与冷的平衡，身体就会有灵魂。菲洛劳斯的真正著作是亚里士多德对毕达哥拉斯哲学的解释的主要来源之一。关于亚里士多德将毕达哥拉斯派视为将事物与数字等同的描述是否准确，存在争议。柏拉图在《费多》中提到了菲洛劳斯，并将菲洛劳斯的形而上学方案改编为自己在《菲勒伯斯》中的目的。
-
-* [1. 生平与著作](https://plato.stanford.edu/entries/philolaus/#LifWri)
-
-  * [1.1 日期、起源城市和与其他哲学家的联系](https://plato.stanford.edu/entries/philolaus/#DatCitOriConOthPhi)
-  * [1.2 真实性问题](https://plato.stanford.edu/entries/philolaus/#AutQue)
-  * [1.3 菲洛劳斯的书：真实的碎片和证言](https://plato.stanford.edu/entries/philolaus/#PhiBooGenFraTes)
-  * [1.4 伪造的碎片和证言](https://plato.stanford.edu/entries/philolaus/#SpuFraTes)
-* [2. 现实的基本原则](https://plato.stanford.edu/entries/philolaus/#BasPriRea)
-
-  * [2.1 限制者和无限者](https://plato.stanford.edu/entries/philolaus/#LimUnl)
-  * [ 2.2 和谐](https://plato.stanford.edu/entries/philolaus/#Har)
-  * [2.3 起源的方法](https://plato.stanford.edu/entries/philolaus/#MetArc)
-* [3. 认识论：数字的作用](https://plato.stanford.edu/entries/philolaus/#EpiRolNum)
-* [4. 宇宙起源和宇宙学](https://plato.stanford.edu/entries/philolaus/#CosCos)
-
-  * [4.1 宇宙的诞生](https://plato.stanford.edu/entries/philolaus/#BirCos)
-  * [ 4.2 天文系统](https://plato.stanford.edu/entries/philolaus/#AstSys)
-* [ 5. 心理学](https://plato.stanford.edu/entries/philolaus/#Psy)
-
-  * [ 5.1 心灵能力](https://plato.stanford.edu/entries/philolaus/#PsyFac)
-  * [5.2 灵魂作为和谐](https://plato.stanford.edu/entries/philolaus/#SouHar)
-* [6. 医学理论](https://plato.stanford.edu/entries/philolaus/#MedThe)
-
-  * [ 6.1 胚胎学](https://plato.stanford.edu/entries/philolaus/#Emb)
-  * [ 6.2 疾病](https://plato.stanford.edu/entries/philolaus/#Dis)
-* [7. 重要性和影响](https://plato.stanford.edu/entries/philolaus/#ImpInf)
-
-  * [7.1 菲洛劳斯和毕达哥拉斯：菲洛劳斯有多原创？](https://plato.stanford.edu/entries/philolaus/#PhiPytHowOriPhi)
-  * [7.2 菲洛劳斯和柏拉图](https://plato.stanford.edu/entries/philolaus/#PhiPla)
-* [ 参考文献](https://plato.stanford.edu/entries/philolaus/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/philolaus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/philolaus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/philolaus/#Rel)
+ 
 
 ---
 

@@ -4,30 +4,7 @@
 
 泛心论是一种观点，认为心灵是自然界中根本且无处不在的。这种观点在东西方哲学传统中有着悠久而崇高的历史，并在分析哲学中最近得到了复兴。对于支持者来说，泛心论在物理主义和二元论之间提供了一种有吸引力的中间道路。对于二元论的担忧是，它让我们对自然界产生了一个根本不统一的图景，并且难以理解心灵和大脑如何相互作用的深刻困难。而物理主义虽然提供了一个简单而统一的世界观，但这可能无法对人类和动物意识的出现给出令人满意的解释。泛心论，尽管初听起来可能很奇怪，却承诺在统一的自然观念中对人类心灵提供了一个令人满意的解释。
 
-* [1. 泛心论在西方哲学史上的地位](https://plato.stanford.edu/entries/panpsychism/#PanpHistWestPhil)
-* [2. 当代泛心论的种类](https://plato.stanford.edu/entries/panpsychism/#VariContPanp)
-
-  * [2.1 泛心论的定义](https://plato.stanford.edu/entries/panpsychism/#DefiPanp)
-  * [2.2 构成性与新兴主义泛心论](https://plato.stanford.edu/entries/panpsychism/#ConsVersEmerPanp)
-  * [2.3 泛心论与泛原心论](https://plato.stanford.edu/entries/panpsychism/#PanpVersPanp)
-  * [2.4 微心论与宇宙心论](https://plato.stanford.edu/entries/panpsychism/#MicrVersCosm)
-  * [ 2.5 罗素式一元论](https://plato.stanford.edu/entries/panpsychism/#RussMoni)
-* [3. 泛心论的论证](https://plato.stanford.edu/entries/panpsychism/#ArguForPanp)
-
-  * [3.1 反出现论证](https://plato.stanford.edu/entries/panpsychism/#AntiEmerArgu)
-  * [3.2 内在本质论证](https://plato.stanford.edu/entries/panpsychism/#IntrNatuArgu)
-  * [3.3 泛心论的其他论证](https://plato.stanford.edu/entries/panpsychism/#OtheArguForPanp)
-* [4. 泛心论的反对意见](https://plato.stanford.edu/entries/panpsychism/#ObjePanp)
-
-  * [4.1 怀疑的凝视](https://plato.stanford.edu/entries/panpsychism/#IncrStar)
-  * [4.2 组合问题](https://plato.stanford.edu/entries/panpsychism/#CombProb)
-  * [4.3 主体总结问题](https://plato.stanford.edu/entries/panpsychism/#SubjSummProb)
-  * [4.4 组合问题的其他形式](https://plato.stanford.edu/entries/panpsychism/#OtheFormCombProb)
-* [ 参考文献](https://plato.stanford.edu/entries/panpsychism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/panpsychism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/panpsychism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/panpsychism/#Rel)
-
+ 
 ---
 
 ## 1. 泛心论在西方哲学史上的地位

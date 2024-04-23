@@ -8,33 +8,7 @@
 
 评估柏拉图的伦理思想的困难由于其形而上学基础似乎在他漫长的一生中发生了变化而变得更加复杂。在苏格拉底的对话中，没有迹象表明对美德和人类善的追求超越了人类领域。这在中期对话中发生了变化，显示出对知识的全面形而上学基础的日益关注，这一发展导致将“形式”作为真实本质的决定因素，最终将善的形式作为一切善的超越原则。虽然形式的理论不仅局限于人类价值观，而且包括整个自然界，但在中期对话中，柏拉图似乎只假设人类事务与宇宙和谐之间存在类比关系。相比之下，晚期对话显示出越来越倾向于假设人类生活的微观宇宙与整个宇宙的宏观秩序的统一，这种倾向在《费勒伯斯》和《提摩伊》中得到最充分的展示。尽管这些整体主义倾向因依赖于数学比例所表达的和谐关系而吸引人的想象力，但形式的形而上学地位在晚期对话中比中期对话更难以理解。虽然柏拉图的晚期作品并没有显示出降低知识标准的意愿，但柏拉图表明他对理性宇宙秩序的设计是基于推测和猜测的，这一承认在他对伦理标准和政治制度的更加务实的处理中找到了对应，这体现在他最后的政治著作《法律》中。
 
-* [ 1. 准备工作](https://plato.stanford.edu/entries/plato-ethics/#Pre)
-* [2. 早期对话：审视生活](https://plato.stanford.edu/entries/plato-ethics/#EarDiaExaLif)
-
-  * [2.1 疑难程序](https://plato.stanford.edu/entries/plato-ethics/#ApoPro)
-  * [2.2 定义的追求](https://plato.stanford.edu/entries/plato-ethics/#DefRec)
-* [3. 中期对话：正义和其他美德](https://plato.stanford.edu/entries/plato-ethics/#MidPerJusOthVir)
-
-  * [3.1 人性及其需求](https://plato.stanford.edu/entries/plato-ethics/#NeeNatHumBei)
-  * [3.2 国家和灵魂的美德](https://plato.stanford.edu/entries/plato-ethics/#VirStaSou)
-  * [3.3 对自我完善的渴望](https://plato.stanford.edu/entries/plato-ethics/#DesSelPer)
-  * [3.4 方法的追求](https://plato.stanford.edu/entries/plato-ethics/#QueForMet)
-* [4. 晚期对话：伦理学和宇宙学](https://plato.stanford.edu/entries/plato-ethics/#LatDiaEthCos)
-
-  * 4.1 和谐与宇宙的善
-  * 4 .2 量度相等
-* [ 术语表](https://plato.stanford.edu/entries/plato-ethics/#Glo)
-* [ 参考书目](https://plato.stanford.edu/entries/plato-ethics/#Bib)
-
-  * [ 翻译](https://plato.stanford.edu/entries/plato-ethics/#Tra)
-  * [单一作者的概述](https://plato.stanford.edu/entries/plato-ethics/#SinAutOve)
-  * [ 文集](https://plato.stanford.edu/entries/plato-ethics/#Ant)
-  * [ 年代学问题](https://plato.stanford.edu/entries/plato-ethics/#ProChr)
-  * [柏拉图对话研究](https://plato.stanford.edu/entries/plato-ethics/#StuPlaDia)
-* [ 学术工具](https://plato.stanford.edu/entries/plato-ethics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plato-ethics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plato-ethics/#Rel)
-
+ 
 ---
 
 ## 1. 准备工作

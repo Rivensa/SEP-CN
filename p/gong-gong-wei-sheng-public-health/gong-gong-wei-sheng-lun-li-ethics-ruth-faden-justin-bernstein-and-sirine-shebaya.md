@@ -16,32 +16,7 @@
 
 第 2 节讨论了公共卫生伦理学中（主要）受到正义观点影响的问题。其中一些问题直接源于公共卫生关注人群健康以及由此产生的需要整合目标和结果，以及公共卫生与预防的特殊联系，这也与其关注人群层面有直接关系。第 3 节讨论了公共卫生伦理学中（主要）受到合法性观点影响的问题。这些问题源于公共卫生对政府行动和政府权力的重度依赖。
 
-* [1. 什么使公共卫生，因此也使公共卫生伦理学与众不同？](https://plato.stanford.edu/entries/publichealth-ethics/#WhatMakePublHealTherPublHealEthiDist)
-
-  * [ 1.1 人口关注](https://plato.stanford.edu/entries/publichealth-ethics/#PopuFocu)
-  * [1.2 政府干预](https://plato.stanford.edu/entries/publichealth-ethics/#GoveInte)
-  * [ 1.3 结论说明](https://plato.stanford.edu/entries/publichealth-ethics/#ConcRema)
-* [2. 公正与公共卫生](https://plato.stanford.edu/entries/publichealth-ethics/#JustPublHeal)
-
-  * [2.1 健康的价值：为什么健康在道德上很重要](https://plato.stanford.edu/entries/publichealth-ethics/#ValuHealWhyHealMattMora)
-  * [2.2 聚合、目标设定和资源分配](https://plato.stanford.edu/entries/publichealth-ethics/#AggrGoalSettResoAllo)
-  * [2.3 公共卫生、预防和正义](https://plato.stanford.edu/entries/publichealth-ethics/#PublHealPrevJust)
-  * [2.4 个人责任的相关性与否](https://plato.stanford.edu/entries/publichealth-ethics/#ReleNotIndiResp)
-  * [2.5 正义和污名](https://plato.stanford.edu/entries/publichealth-ethics/#JustStig)
-  * [2.6 公共卫生，全球关注和全球正义](https://plato.stanford.edu/entries/publichealth-ethics/#PublHealGlobConcGlobJust)
-* [3. 政治合法性和公共卫生](https://plato.stanford.edu/entries/publichealth-ethics/#PoliLegiPublHeal)
-
-  * [3.1 合法性，效率和总体利益](https://plato.stanford.edu/entries/publichealth-ethics/#LegiEffiOverBene)
-  * [3.2 个人自由、合法性和公共卫生](https://plato.stanford.edu/entries/publichealth-ethics/#IndiLibeLegiPublHeal)
-  * [3.3 规范性分歧和合法性](https://plato.stanford.edu/entries/publichealth-ethics/#NormDisaLegi)
-  * [3.4 自由主义的替代方案](https://plato.stanford.edu/entries/publichealth-ethics/#AlteLibe)
-  * [3.5 包括公正和合法性考虑因素的框架](https://plato.stanford.edu/entries/publichealth-ethics/#FramInclBothJustLegiCons)
-* [ 参考文献](https://plato.stanford.edu/entries/publichealth-ethics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/publichealth-ethics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/publichealth-ethics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/publichealth-ethics/#Rel)
-* [ 致谢](https://plato.stanford.edu/entries/publichealth-ethics/#Ackn)
-
+ 
 ---
 
 ## 1. 什么使公共卫生，因此也是公共卫生伦理，与众不同？

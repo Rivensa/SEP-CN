@@ -3,46 +3,7 @@
 *首次发表于2019年10月3日*
 
 理查德·普莱斯（1723-1791）是一位杰出的异议牧师，也是 18 世纪下半叶哲学和政治思想的重要人物。除了在伦理学、政治学、神学和概率论等广泛领域发表著作外，他还大大推进了精算表的研究，使保险公司能够更准确地预测不同环境下人们的预期寿命。他对自由事业的热情执着使他在各种运动中发挥了重要的公众角色，包括减免非国教徒的惩罚，以及支持美国和法国革命。他对法国革命的辩护引发了伯克的著名回应，同时也得到了他的朋友潘恩和沃尔斯通克拉夫特的辩护。
-
-* [1. 生平、著作和概述](https://plato.stanford.edu/entries/richard-price/#LifeWorkGeneOver)
-* [2. 普莱斯的道德哲学](https://plato.stanford.edu/entries/richard-price/#PricMoraPhil)
-
-  * [ 2.1 概述](https://plato.stanford.edu/entries/richard-price/#Over)
-  * [2.2 道德认识论和形而上学](https://plato.stanford.edu/entries/richard-price/#MoraEpisMeta)
-
-    * [2.2.1 与感性主义的斗争](https://plato.stanford.edu/entries/richard-price/#BattSent)
-    * [2.2.2 与感伤主义的斗争：防守](https://plato.stanford.edu/entries/richard-price/#BattSentDefe)
-    * [2.2.3 与感伤主义的斗争：进攻](https://plato.stanford.edu/entries/richard-price/#BattSentOffe)
-  * [2.3 必要的道德原则](https://plato.stanford.edu/entries/richard-price/#NeceMoraPrin)
-  * [ 2.4 美德](https://plato.stanford.edu/entries/richard-price/#Virt)
-
-    * [2.4.1 美德的动机](https://plato.stanford.edu/entries/richard-price/#VirtMoti)
-    * [ 2.4.2 超出义务行为](https://plato.stanford.edu/entries/richard-price/#Supe)
-    * [ 2.4.3 有希望的](https://plato.stanford.edu/entries/richard-price/#Prom)
-* [ 3. 神学](https://plato.stanford.edu/entries/richard-price/#Theo)
-
-  * [3.1 先验的上帝存在论证](https://plato.stanford.edu/entries/richard-price/#PrioArguForGodsExis)
-  * [ 3.2 自然神学](https://plato.stanford.edu/entries/richard-price/#NatuTheo)
-  * [ 3.3 奇迹](https://plato.stanford.edu/entries/richard-price/#Mira)
-* [ 4. 自由](https://plato.stanford.edu/entries/richard-price/#Libe)
-
-  * [4.1 自由意志、理性和道德代理](https://plato.stanford.edu/entries/richard-price/#FreeWillRatiMoraAgen)
-  * [4.2 决定论和主体因果](https://plato.stanford.edu/entries/richard-price/#DeteAgenCaus)
-  * [4.3 政治自由](https://plato.stanford.edu/entries/richard-price/#PoliLibe)
-
-    * [ 4.3.1 宗教自由](https://plato.stanford.edu/entries/richard-price/#ReliLibe)
-    * [ 4.3.2 公民自由](https://plato.stanford.edu/entries/richard-price/#CiviLibe)
-* [ 5. 影响](https://plato.stanford.edu/entries/richard-price/#Infl)
-* [ 参考文献](https://plato.stanford.edu/entries/richard-price/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/richard-price/#PrimLite)
-
-    * [理查德·普莱斯的著作](https://plato.stanford.edu/entries/richard-price/#WorkRichPric)
-    * [ 对普莱斯的影响](https://plato.stanford.edu/entries/richard-price/#InflPric)
-  * [ 二级文献](https://plato.stanford.edu/entries/richard-price/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/richard-price/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/richard-price/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/richard-price/#Rel)
+ 
 
 ---
 

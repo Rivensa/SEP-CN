@@ -6,32 +6,7 @@ _首次发表于2009年7月10日；实质性修订于2020年6月18日。_
 
 分离问题的人通常是天真实在主义者，他们认为当一个人感知世界时，感知的独立于心灵的对象，如桌子和树木，是经验的组成部分。在其他情况下，比如幻觉，这些对象似乎不可能是经验的组成部分。因此，根据天真实在主义的观点，所讨论的真实知觉和幻觉具有不同的性质：前者具有独立于心灵的对象作为组成部分，而后者则没有。
 
-* [1. 引言](https://plato.stanford.edu/entries/perception-disjunctive/#Intr)
-* [2. 分离问题的种类](https://plato.stanford.edu/entries/perception-disjunctive/#VariDisj)
-  * [2.1 分离问题的表述方式](https://plato.stanford.edu/entries/perception-disjunctive/#WaysFormDisj)
-  * [2.2 关于意向内容的分离问题](https://plato.stanford.edu/entries/perception-disjunctive/#DisjAbouInteCont)
-  * [2.3 关于现象特征的分离问题](https://plato.stanford.edu/entries/perception-disjunctive/#DisjAbouPhenChar)
-  * [2.4 认识论分离问题](https://plato.stanford.edu/entries/perception-disjunctive/#EpisDisj)
-* [3. 分离问题的论证](https://plato.stanford.edu/entries/perception-disjunctive/#ArguForDisj)
-  * [3.1 作为默认观点的分离问题的论证](https://plato.stanford.edu/entries/perception-disjunctive/#ArguForDisjDefaView)
-  * [3.2 一个认识论的论证](https://plato.stanford.edu/entries/perception-disjunctive/#EpisArgu)
-  * [3.3 一个现象学的论证](https://plato.stanford.edu/entries/perception-disjunctive/#PhenArgu)
-  * [3.4 一个来自认识谦逊的论证](https://plato.stanford.edu/entries/perception-disjunctive/#ArguEpisMode)
-  * [3.5 一个来自指示性引用的论证](https://plato.stanford.edu/entries/perception-disjunctive/#ArguDemoRefe)
-  * [3.6 分离问题的进一步动机](https://plato.stanford.edu/entries/perception-disjunctive/#FurtMotiForDisj)
-* [4. 对分离问题的反对意见](https://plato.stanford.edu/entries/perception-disjunctive/#ObjeDisj)
-  * [4.1 共同种类主张的解释力量](https://plato.stanford.edu/entries/perception-disjunctive/#ExplPoweCommKindClai)
-  * [4.2 反对分离问题的因果论证](https://plato.stanford.edu/entries/perception-disjunctive/#CausArguAgaiDisj)
-  * [4.3 既非连结主义也非分离问题](https://plato.stanford.edu/entries/perception-disjunctive/#NeitConjNorDisj)
-* [5. 幻觉和错觉的分离问题解释](https://plato.stanford.edu/entries/perception-disjunctive/#DisjAccoHallIllu)
-  * [5.1 幻觉](https://plato.stanford.edu/entries/perception-disjunctive/#Hall)
-  * [5.2 幻觉](https://plato.stanford.edu/entries/perception-disjunctive/#Illu)
-* [6. 分离问题和知觉的因果理论](https://plato.stanford.edu/entries/perception-disjunctive/#DisjCausTheoPerc)
-* [7. 结论](https://plato.stanford.edu/entries/perception-disjunctive/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/perception-disjunctive/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/perception-disjunctive/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/perception-disjunctive/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/perception-disjunctive/#Rel)
+ 
 
 ***
 

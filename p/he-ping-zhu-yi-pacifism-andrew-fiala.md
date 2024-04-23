@@ -14,35 +14,7 @@ _首次发表于2006年7月6日；实质修订于2023年5月8日_
 
 和平主义，如今在普通话语中所理解的，包括一系列从绝对遵守非暴力行为到更专注或更少的反战主义的承诺。与正义战争传统相反，和平主义拒绝将战争视为获得和平的可接受手段。和平主义者通常拒绝在军队服役。有些人拒绝支持通过扣留税款等方式促进战争的政治和社会体系。和平主义者与对政治生活的静默退缩甚至彻底无政府主义有关联。但和平主义者不必“被动”：许多坚定的和平主义者积极参与非暴力社会抗议。和平主义可以用来描述对个人生活中非暴力的承诺，其中可能包括尝试培养和平的美德，如宽容、耐心、仁慈、宽恕和爱。它还可以扩展到对所有有感知能力的生物的非暴力，从而导致对素食主义的承诺和阿尔伯特·施韦策（Albert Schweitzer）所称的“对生命的尊崇”。和平主义可以与更大的精神转化项目联系起来，如甘地对阿希姆萨或非暴力的承诺。正如本文作者所主张的，和平主义可以被理解为提供一个全面的规范框架（Fiala 2018a）。
 
-* [1. 解释和平](https://plato.stanford.edu/entries/pacifism/#DefiPeac)
-  * [1.1 和平作为奴役或屈服](https://plato.stanford.edu/entries/pacifism/#PeacSlavSubm)
-  * [1.2 和平作为生活方式或休战](https://plato.stanford.edu/entries/pacifism/#PeacModuViveTruc)
-  * [1.3 公正和宁静秩序的和平](https://plato.stanford.edu/entries/pacifism/#PeacJustTranOrde)
-  * [1.4 积极和平](https://plato.stanford.edu/entries/pacifism/#PosiPeac)
-  * [1.5 和平作为一种美德和内在价值](https://plato.stanford.edu/entries/pacifism/#PeacVirtIntrValu)
-* [2. 和平主义的种类](https://plato.stanford.edu/entries/pacifism/#VariPaci)
-  * [2.1 绝对和有条件的和平主义](https://plato.stanford.edu/entries/pacifism/#AbsoVsContPaci)
-  * [2.2 最大和最小的和平主义](https://plato.stanford.edu/entries/pacifism/#MaxiVsMiniPaci)
-  * [2.3 普遍和特定的和平主义](https://plato.stanford.edu/entries/pacifism/#UnivVsPartPaci)
-  * [2.4 怀疑主义和表面上的和平主义](https://plato.stanford.edu/entries/pacifism/#SkepPrimFaciPaci)
-  * [2.5 变革性和平主义](https://plato.stanford.edu/entries/pacifism/#TranPaci)
-* [3. 后果主义和平主义](https://plato.stanford.edu/entries/pacifism/#ConsPaci)
-  * [3.1 积极非暴力主义](https://plato.stanford.edu/entries/pacifism/#ActiNonv)
-* [4. 和平主义的义务论](https://plato.stanford.edu/entries/pacifism/#DeonPaci)
-  * [4.1 杀戮战斗人员和杀戮“有罪者”](https://plato.stanford.edu/entries/pacifism/#KillCombKillGuil)
-  * [4.2 杀戮非战斗人员](https://plato.stanford.edu/entries/pacifism/#KillNonc)
-* [5. 宗教和文化基础](https://plato.stanford.edu/entries/pacifism/#ReliCultBasi)
-  * [5.1 宗教和德行伦理](https://plato.stanford.edu/entries/pacifism/#ReliVirtEthi)
-  * [5.2 多样的宗教和文化来源](https://plato.stanford.edu/entries/pacifism/#DiveReliCultSour)
-* [6. 和平主义的反对意见和可能的回应](https://plato.stanford.edu/entries/pacifism/#ObjePaciPossRepl)
-  * [6.1 和平主义是懦夫、搭便车者、叛徒和其他恶毒之人的选择](https://plato.stanford.edu/entries/pacifism/#PaciForCowaFreeRideTraiOtheViciPers)
-  * [6.2 和平主义者渴望“洁净之手”的纯洁是错误的；和平主义基于错误的神学](https://plato.stanford.edu/entries/pacifism/#PaciWronAspiForPuriCleaHandPaciBaseBadTheo)
-  * [6.3 和平主义是自相矛盾的，不公正的，且无效的](https://plato.stanford.edu/entries/pacifism/#PaciSelfContUnjuNotEffe)
-  * [6.4 和平主义是非科学的，非政治的，且非历史的](https://plato.stanford.edu/entries/pacifism/#PaciUnscApolUnhi)
-* [参考文献](https://plato.stanford.edu/entries/pacifism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/pacifism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pacifism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/pacifism/#Rel)
+ 
 
 ***
 

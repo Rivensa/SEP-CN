@@ -4,21 +4,7 @@
 
 普罗提诺（204/5 年-270 年），通常被认为是新柏拉图主义的创始人。他是柏拉图和亚里士多德之后古代最有影响力的哲学家之一。‘新柏拉图主义’这个术语是 19 世纪早期欧洲学者的发明，表明历史学家对历史‘时期’的划分倾向。在这种情况下，该术语旨在表明普罗提诺斯在柏拉图传统发展中开启了一个新阶段。这种‘新颖性’到底意味着什么，如果有的话，是有争议的，主要是因为对柏拉图主义的评估取决于对它的评估。事实上，普罗提诺斯（像他的所有继任者一样）认为自己只是一个柏拉图主义者，也就是说，他是柏拉图本人最伟大的阐述者和捍卫者。普罗提诺斯并不认为原创性是重要的。然而，普罗提诺斯意识到需要解释柏拉图。此外，在柏拉图和自己之间，普罗提诺斯发现大约有 600 年的哲学著作，其中很多反映了与柏拉图和他开创的哲学传统的接触。因此，普罗提诺斯至少有两种创新的途径，即使他并不打算说出根本新的东西。第一种途径是根据柏拉图所写或所说的内容，或者根据他人对他的报道，来阐述柏拉图的意思。这是探索我们所称之为‘柏拉图主义’的哲学立场的任务。第二种途径是捍卫柏拉图，反对那些普罗提诺斯认为误解了他并因此对他进行不公正批评的人。普罗提诺斯发现自己，尤其是作为一名教师，采取了这两种途径。要寻找他的原创性，必须追随他的道路。
 
-* [1. 生平与著作](https://plato.stanford.edu/entries/plotinus/#LifeWrit)
-* [2. 普罗提诺斯形而上学的三个基本原则](https://plato.stanford.edu/entries/plotinus/#ThreFundPrinPlotMeta)
-* [3. 人类心理学和伦理学](https://plato.stanford.edu/entries/plotinus/#HumaPsycEthi)
-* [ 4. 美](https://plato.stanford.edu/entries/plotinus/#Beau)
-* [ 5. 主要对手](https://plato.stanford.edu/entries/plotinus/#PrinOppo)
-* [ 6. 影响力](https://plato.stanford.edu/entries/plotinus/#Infl)
-* [ 参考文献](https://plato.stanford.edu/entries/plotinus/#Bib)
-
-  * [ A. 主要文献](https://plato.stanford.edu/entries/plotinus/#PrimLite)
-  * [ B. 二级文献](https://plato.stanford.edu/entries/plotinus/#BSecoLite)
-  * [ C. 参考资料](https://plato.stanford.edu/entries/plotinus/#CRefe)
-* [ 学术工具](https://plato.stanford.edu/entries/plotinus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plotinus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plotinus/#Rel)
-
+ 
 ---
 
 ## 1. 生平与著作

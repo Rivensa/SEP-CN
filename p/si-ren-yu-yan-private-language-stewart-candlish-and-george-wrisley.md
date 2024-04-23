@@ -5,26 +5,7 @@
 私人语言的概念在哲学界因路德维希·维特根斯坦而闻名，他在他的著作《哲学研究》的第 243 节中解释了这个概念：“这种语言的词汇是指只有说话者才能知道的事物-他的直接私人感觉。所以其他人无法理解这种语言。”这并不意味着涵盖了（容易想象的）用个人代码记录自己经历的情况，因为这样的代码，无论实际上多么晦涩，原则上都可以被解读。维特根斯坦所指的是一种被构想为只有其单一创始人能够理解的语言，因为定义其词汇的事物对其他人来说是无法接触的。
 
 在介绍这个概念之后，维特根斯坦接着论证了这样的语言是不存在的。引起哲学家们注意一个鲜为人知的概念，然后论证它是不可实现的重要性在于，一个未明确表达的对私人语言可能性的依赖在笛卡尔到二十世纪晚期认知科学中流行的心灵再现理论版本的主流认识论、心灵哲学和形而上学中都是至关重要的。
-
-* [1. 概述：维特根斯坦的论证及其解释](https://plato.stanford.edu/entries/private-language/#OveWitArgInt)
-
-  * [1.1 最近的发展及其后果](https://plato.stanford.edu/entries/private-language/#RecDevTheConForReaWitPriLanSecPhiInv)
-  * [1.2 主张存在私人语言的可能性是错误或无意义的吗？](https://plato.stanford.edu/entries/private-language/#ClaAffPosPriLanFalNon)
-* [2. 这个问题的重要性](https://plato.stanford.edu/entries/private-language/#SigIss)
-* [3. 私人语言论解释](https://plato.stanford.edu/entries/private-language/#PriLanArgExp)
-
-  * [ 3.1 准备工作](https://plato.stanford.edu/entries/private-language/#Pre)
-  * [3.2 中心论证](https://plato.stanford.edu/entries/private-language/#CenArg)
-  * [3.3 插曲：对正统的拒绝](https://plato.stanford.edu/entries/private-language/#IntRejOrt)
-  * [3.4 中心论证继续](https://plato.stanford.edu/entries/private-language/#CenArgCon)
-  * [3.5 正统的反对意见是否得到满足？](https://plato.stanford.edu/entries/private-language/#OrtObjMet)
-* [4. 克里普克的怀疑主义维特根斯坦](https://plato.stanford.edu/entries/private-language/#KriSceWit)
-
-  * [4.1 社区观点再探讨](https://plato.stanford.edu/entries/private-language/#ComVieRev)
-* [ 参考文献](https://plato.stanford.edu/entries/private-language/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/private-language/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/private-language/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/private-language/#Rel)
+ 
 
 ---
 

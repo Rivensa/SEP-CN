@@ -8,25 +8,7 @@
 然而，并非所有现实主义者都否认国际关系中存在规范伦理。应该区分古典现实主义——由二十世纪的理论家如雷恩霍尔德·尼布尔和汉斯·摩根索代表——和激进或极端现实主义。虽然古典现实主义强调国家利益的概念，但它并不是“一切都可以因为国家的理由而被证明是正当的”（Bull 1995, 189）的马基雅维利主义教条。它也不涉及对战争或冲突的美化。古典现实主义者不排斥在国际政治中进行道德判断的可能性。相反，他们对道德主义持批评态度——抽象的道德论述不考虑政治现实。他们将成功的政治行动赋予伦理价值，这是基于审慎的能力：根据其可能的政治后果，从可能的选择中判断某一行动的正确性。
 
 政治现实主义涵盖了各种方法，并声称具有悠久的理论传统。在其创始人中，修昔底德、马基雅维利和霍布斯是最常被提及的名字。二十世纪的古典现实主义今天已经在很大程度上被新现实主义取代，后者试图构建一种更科学的国际关系研究方法。古典现实主义和新现实主义都受到了自由主义、批判主义和后现代主义观点的批评。超级大国之间不断增长的紧张局势使得现实主义-理想主义辩论在二十一世纪重新兴起，并引发了对现实主义传统的兴趣复苏。
-
-* [1. 现实主义传统的根源](https://plato.stanford.edu/entries/realism-intl-relations/#RootRealTrad)
-
-  * [1.1 修昔底德和权力的重要性](https://plato.stanford.edu/entries/realism-intl-relations/#ThucImpoPowe)
-  * [1.2 马基雅维利对道德传统的批评](https://plato.stanford.edu/entries/realism-intl-relations/#MachCritMoraTrad)
-  * [1.3 霍布斯的无政府状态](https://plato.stanford.edu/entries/realism-intl-relations/#HobbAnarStatNatu)
-* [2. 二十世纪古典现实主义](https://plato.stanford.edu/entries/realism-intl-relations/#TwenCentClasReal)
-
-  * [2.1 E. H. Carr 对乌托邦理想主义的挑战](https://plato.stanford.edu/entries/realism-intl-relations/#EHCarrChalUtopIdea)
-  * [2.2 Hans Morgenthau 的现实主义原则](https://plato.stanford.edu/entries/realism-intl-relations/#HansMorgRealPrin)
-* [ 3. 政治现实主义](https://plato.stanford.edu/entries/realism-intl-relations/#Neor)
-
-  * [3.1 Kenneth Waltz 的国际体系](https://plato.stanford.edu/entries/realism-intl-relations/#KennWaltInteSyst)
-  * [3.2 对新现实主义的反对意见](https://plato.stanford.edu/entries/realism-intl-relations/#ObjeNeor)
-* [4. 结论：现实主义的谨慎和变化性质](https://plato.stanford.edu/entries/realism-intl-relations/#ConcCautChanCharReal)
-* [ 参考书目](https://plato.stanford.edu/entries/realism-intl-relations/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/realism-intl-relations/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/realism-intl-relations/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/realism-intl-relations/#Rel)
+ 
 
 ---
 

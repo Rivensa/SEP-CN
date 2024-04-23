@@ -22,28 +22,7 @@
 
 在接下来的内容中，对柏拉图的引用使用“斯蒂芬纳斯页码”，基于 16 世纪的柏拉图著作的版本。该版本中的页码与字母 a-e 一起成为标准。几乎每个柏拉图的翻译都在页边或页面顶部包含斯蒂芬纳斯页码和字母。因此，“《饮宴篇》204b”在每个版本和每个柏拉图的翻译中都指的是同一个简短的段落。
 
-* [ 1. 美](https://plato.stanford.edu/entries/plato-aesthetics/#Bea)
-
-  * [ 1.1 《希庇亚斯大篇》](https://plato.stanford.edu/entries/plato-aesthetics/#HipMaj)
-  * [1.2 美和艺术](https://plato.stanford.edu/entries/plato-aesthetics/#BeaArt)
-  * [1.3 美的形式](https://plato.stanford.edu/entries/plato-aesthetics/#ForBea)
-* [ 2. 模仿](https://plato.stanford.edu/entries/plato-aesthetics/#Imi)
-
-  * [2.1 Aristophanes 中的模仿](https://plato.stanford.edu/entries/plato-aesthetics/#MimAri)
-  * [2.2 共和国第三篇：拟人化](https://plato.stanford.edu/entries/plato-aesthetics/#Rep3Imp)
-  * [2.3 共和国第十篇：模仿制作](https://plato.stanford.edu/entries/plato-aesthetics/#Rep10CopMak)
-  * [2.4 柏拉图和其他段落](https://plato.stanford.edu/entries/plato-aesthetics/#SopOthPas)
-  * [ 2.5 结论评估](https://plato.stanford.edu/entries/plato-aesthetics/#CloAss)
-* [3. 神圣启示](https://plato.stanford.edu/entries/plato-aesthetics/#DivIns)
-
-  * [ 3.1 爱利亚](https://plato.stanford.edu/entries/plato-aesthetics/#Ion)
-  * [ 3.2 柏拉图](https://plato.stanford.edu/entries/plato-aesthetics/#Pha)
-* [4. 模仿、灵感、美](https://plato.stanford.edu/entries/plato-aesthetics/#ImiInsBea)
-* [ 参考书目](https://plato.stanford.edu/entries/plato-aesthetics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/plato-aesthetics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plato-aesthetics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plato-aesthetics/#Rel)
-
+ 
 ---
 
 ## 1. 美

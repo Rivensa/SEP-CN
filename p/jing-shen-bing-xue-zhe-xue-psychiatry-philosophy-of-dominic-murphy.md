@@ -4,30 +4,7 @@
 
 精神病学的哲学讨论可以分为三个类别。首先，当我们将精神病学视为一门特殊科学，并使用科学哲学的方法和概念来处理它时，会出现一些话题。这包括对解释、还原和分类等问题的讨论。其次，当我们试图理解精神疾病的概念本身及其伦理和体验维度时，会出现概念问题。第三，精神病理学与心灵哲学之间存在相互作用；哲学家们利用临床现象来阐明心灵哲学中的问题，并利用哲学发现来理解精神疾病。本文将讨论与精神病学相关的科学哲学和心灵哲学问题。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/psychiatry/#Int)
-* [2. 医学模型及其含义](https://plato.stanford.edu/entries/psychiatry/#MedModImp)
-
-  * [2.1 最小解释](https://plato.stanford.edu/entries/psychiatry/#MinInt)
-  * [2.2 精神疾病的 DSM 概念及其批评](https://plato.stanford.edu/entries/psychiatry/#DsmConMenIllCri)
-  * [2.3 医学模型的强解释](https://plato.stanford.edu/entries/psychiatry/#StrIntMedMod)
-* [ 3. 解释/原理](https://plato.stanford.edu/entries/psychiatry/#Exp)
-
-  * [3.1 解释/原理的层次](https://plato.stanford.edu/entries/psychiatry/#LevExp)
-  * [3.2 精神病学中的随附性障碍](https://plato.stanford.edu/entries/psychiatry/#DisStaNet)
-  * [3.3 从历史到原因](https://plato.stanford.edu/entries/psychiatry/#HisCau)
-  * [3.4 因果解释策略](https://plato.stanford.edu/entries/psychiatry/#CauExpStr)
-  * [3.5 跨文化问题](https://plato.stanford.edu/entries/psychiatry/#CroCulIss)
-  * [3.6 临床应用](https://plato.stanford.edu/entries/psychiatry/#CliApp)
-  * [哲学精神病学补充](https://plato.stanford.edu/entries/psychiatry/psychopathology.html)
-* [4. 替代医学模型](https://plato.stanford.edu/entries/psychiatry/#AltMedMod)
-
-  * [ 4.1 简介](https://plato.stanford.edu/entries/psychiatry/#Introd)
-  * [4.2 精神病学的 4E 哲学](https://plato.stanford.edu/entries/psychiatry/#4EPhilPsyc)
-  * [ 4.3 网络模型](https://plato.stanford.edu/entries/psychiatry/#NetwMode)
-* [ 参考文献](https://plato.stanford.edu/entries/psychiatry/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/psychiatry/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/psychiatry/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/psychiatry/#Rel)
+ 
 
 ---
 

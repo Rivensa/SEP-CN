@@ -6,25 +6,7 @@
 
 我们将从一些简要的背景介绍开始：一些历史背景，决策理论的基础知识，以及《思想集》所引发的一些解释问题。然后我们将按照文本提取出三个主要的论证。大部分文献都涉及到这些论证中的第三个，我们在这里的讨论也将主要集中在这个论证上。我们的讨论中一些更技术性和学术性的方面将被放在冗长的脚注中，对于感兴趣的读者，可以点击链接查看。所有引用都来自《思想集》的第 233 节（1910 年，特罗特翻译），这个“思想”的标题是“无限——虚无”。
 
-* [ 1. 背景](https://plato.stanford.edu/entries/pascal-wager/#Back)
-* [2. 随附的论证](https://plato.stanford.edu/entries/pascal-wager/#ArguSupe)
-* [3. 期望的论证](https://plato.stanford.edu/entries/pascal-wager/#ArguExpe)
-* [4. 广义期望的论证: &quot;布莱士·帕斯卡的赌注&quot;](https://plato.stanford.edu/entries/pascal-wager/#ArguGeneExpePascWage)
-* [5. 对帕斯卡的赌注的反对意见](https://plato.stanford.edu/entries/pascal-wager/#ObjePascWage)
-
-  * [5.1 前提 1：决策表](https://plato.stanford.edu/entries/pascal-wager/#Prem1DeciMatr)
-  * [5.2 前提 2：对上帝存在的概率的赋值](https://plato.stanford.edu/entries/pascal-wager/#Prem2ProbAssiGodsExis)
-  * [5.3 前提 3：理性要求最大化预期效用](https://plato.stanford.edu/entries/pascal-wager/#Prem3RatiRequMaxiExpeUtil)
-  * [5.4 这个论证是否有效？](https://plato.stanford.edu/entries/pascal-wager/#ArguVali)
-  * [5.5 对为上帝赌注的道德反对意见](https://plato.stanford.edu/entries/pascal-wager/#MoraObjeWageForGod)
-* [6. 第四个“赌注”？](https://plato.stanford.edu/entries/pascal-wager/#AFourthWager)
-* [7. “为上帝赌注”是什么意思？](https://plato.stanford.edu/entries/pascal-wager/#WhatDoesItMeanWageForGod)
-* [8. 帕斯卡赌注的持续影响](https://plato.stanford.edu/entries/pascal-wager/#ContInflPascWage)
-* [ 参考文献](https://plato.stanford.edu/entries/pascal-wager/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/pascal-wager/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pascal-wager/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pascal-wager/#Rel)
-
+ 
 ---
 
 ## 1. 背景

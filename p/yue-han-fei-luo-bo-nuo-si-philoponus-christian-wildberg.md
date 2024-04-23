@@ -4,31 +4,7 @@
 
 约翰·菲洛波诺斯，一个基督教哲学家、科学家和神学家，大约生活在公元 490 年至 570 年之间，也被称为约翰文法学家或亚历山大的约翰。‘菲洛波诺斯’这个称号字面上意味着‘努力的爱好者’。菲洛波诺斯的生活和工作与亚历山大城和亚历山大新柏拉图学派密切相关。尽管亚里士多德-新柏拉图传统是他的知识根源和关注的来源，但他是一个独立思考者，在许多重要方面，无论是实质性的还是方法论的，都与那个传统决裂，并为自然科学中更加批判和经验主义的方法铺平了道路。他的生活和时代的智力、宗教或其他文化环境可能使菲洛波诺斯处于发起和预示亚里士多德主义最终衰落的位置，这是一个非常迷人的问题。近年来，学术界在更充分地赞赏这位重要的晚期古代哲学家的工作和成就方面做出了很多努力。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/philoponus/#Intr)
-* [2. 现存的哲学评论](https://plato.stanford.edu/entries/philoponus/#ExtaPhilComm)
-
-  * [2.1 光的理论](https://plato.stanford.edu/entries/philoponus/#TheoLigh)
-  * [2.2 冲力理论](https://plato.stanford.edu/entries/philoponus/#TheoImpe)
-  * [2.3 空间和位置](https://plato.stanford.edu/entries/philoponus/#SpacPlac)
-  * [2.4 物质理论](https://plato.stanford.edu/entries/philoponus/#TheoMatt)
-* [3. 批判性论文](https://plato.stanford.edu/entries/philoponus/#CritTrea)
-
-  * [3.1 反对普罗克洛斯的世界永恒论](https://plato.stanford.edu/entries/philoponus/#EterWorlAgaiProc)
-  * [3.2 关于世界的永恒性，反对亚里士多德](https://plato.stanford.edu/entries/philoponus/#EterWorlAgaiAris)
-* [4. 神学论文](https://plato.stanford.edu/entries/philoponus/#TheoTrea)
-
-  * [4.1 关于世界的创造](https://plato.stanford.edu/entries/philoponus/#CreaWorl)
-  * [ 4.2 一性论](https://plato.stanford.edu/entries/philoponus/#Mono)
-  * [ 4.3 三神论](https://plato.stanford.edu/entries/philoponus/#Trit)
-* [ 5. 影响](https://plato.stanford.edu/entries/philoponus/#Infl)
-* [6. 菲洛波诺斯的‘解释’](https://plato.stanford.edu/entries/philoponus/#ExplPhil)
-* [ 参考文献](https://plato.stanford.edu/entries/philoponus/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/philoponus/#PrimSour)
-  * [ 二次来源](https://plato.stanford.edu/entries/philoponus/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/philoponus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/philoponus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/philoponus/#Rel)
+ 
 
 ---
 

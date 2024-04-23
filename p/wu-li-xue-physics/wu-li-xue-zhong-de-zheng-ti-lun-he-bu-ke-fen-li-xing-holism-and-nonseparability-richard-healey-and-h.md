@@ -4,23 +4,7 @@
 
 有时有人提出量子现象表现出特征的整体论或不可分离性，并且这使得量子物理学与经典物理学有所区别。当对某些分离的量子系统进行测量时，会出现一些令人困惑的量子现象。这些测量结果经常呈现出统计相关的模式，这些模式抵抗传统的因果解释。有人认为可以将这些模式理解为量子整体论或不可分离性的实例或结果。然而，对于整体论和不可分离性的具体含义并不总是清楚，而且每个概念都有不同的理解方式。此外，虽然有些人认为整体论和不可分离性是同一回事，但其他人认为区分这两者很重要。对于量子整体论和/或不可分离性的重要性的任何评估都必须基于对这些概念及其物理应用的仔细分析。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/physics-holism/#Intro)
-* [2. 方法论整体论](https://plato.stanford.edu/entries/physics-holism/#Metho)
-* [ 3. 形而上学的整体论](https://plato.stanford.edu/entries/physics-holism/#Meta)
-* [4. 属性/关系的整体论](https://plato.stanford.edu/entries/physics-holism/#Prop)
-* [5. 状态的不可分离性](https://plato.stanford.edu/entries/physics-holism/#State)
-* [6. 空间和时空不可分离性](https://plato.stanford.edu/entries/physics-holism/#Spatial)
-* [7. 整体论和不可分离性在经典物理学中](https://plato.stanford.edu/entries/physics-holism/#Holism)
-* [8. 纠缠系统的量子物理学](https://plato.stanford.edu/entries/physics-holism/#Quantum)
-* [9. 量子力学中的本体论整体论？](https://plato.stanford.edu/entries/physics-holism/#OHQM)
-* [10. 阿哈罗诺夫-波姆效应和场整体论](https://plato.stanford.edu/entries/physics-holism/#Aharonov-Bohm)
-* [11. 替代方法](https://plato.stanford.edu/entries/physics-holism/#Alternatives)
-* [12. 量子场论](https://plato.stanford.edu/entries/physics-holism/#QFT)
-* [ 13. 弦理论](https://plato.stanford.edu/entries/physics-holism/#String)
-* [ 参考文献](https://plato.stanford.edu/entries/physics-holism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/physics-holism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/physics-holism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/physics-holism/#Rel)
+ 
 
 ---
 

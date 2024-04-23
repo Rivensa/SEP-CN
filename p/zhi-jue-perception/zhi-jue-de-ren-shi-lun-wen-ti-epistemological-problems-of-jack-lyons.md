@@ -8,36 +8,7 @@ _首次发表于2016年12月5日星期一；实质性修订于2023年3月14日�
 
 许多哲学传统主要将有关知觉的中心认识论问题主要或有时仅以形而上学对怀疑论的回应来看待。因此，在涉及更明确的认识论问题之前，将首先讨论这些问题。
 
-* [1. 外部世界的问题](https://plato.stanford.edu/entries/perception-episprob/#ProbExteWorl)
-* [2. 对中心问题的形而上学解决方案](https://plato.stanford.edu/entries/perception-episprob/#MetaSoluCentProb)
-  * [2.1 直接存在的种类](https://plato.stanford.edu/entries/perception-episprob/#VariDirePres)
-    * [2.1.1 现象直接性](https://plato.stanford.edu/entries/perception-episprob/#PhenDire)
-    * [2.1.2 指称直接性](https://plato.stanford.edu/entries/perception-episprob/#RefeDire)
-    * [2.1.3 知觉直接性](https://plato.stanford.edu/entries/perception-episprob/#PercDire)
-    * [2.1.4 直接的世界参与](https://plato.stanford.edu/entries/perception-episprob/#DireWorlInvo)
-    * [2.1.5 认识论直接性](https://plato.stanford.edu/entries/perception-episprob/#EpisDire)
-  * [2.2 唯心主义和现象主义](https://plato.stanford.edu/entries/perception-episprob/#IdeaPhen)
-  * [2.3 真实主义，直接和间接](https://plato.stanford.edu/entries/perception-episprob/#RealDireIndi)
-    * [2.3.1 感觉数据](https://plato.stanford.edu/entries/perception-episprob/#SensData)
-    * [2.3.2 意向主义和副词主义](https://plato.stanford.edu/entries/perception-episprob/#InteAdve)
-    * [2.3.3 直接实在论](https://plato.stanford.edu/entries/perception-episprob/#DireReal)
-  * [2.4 对于形而上学解决方案的评论](https://plato.stanford.edu/entries/perception-episprob/#CommMetaSolu)
-* [3. 认识论问题的解决方案](https://plato.stanford.edu/entries/perception-episprob/#EpisSolu)
-  * [3.1 Evidentialist Approaches](https://plato.stanford.edu/entries/perception-episprob/#EvidAppr)
-    * [3.1.1 Classical Foundationalism](https://plato.stanford.edu/entries/perception-episprob/#ClasFoun)
-    * [3.1.2 Fundamental Epistemic Principles](https://plato.stanford.edu/entries/perception-episprob/#FundEpisPrin)
-    * [3.1.3 一贯主义](https://plato.stanford.edu/entries/perception-episprob/#Cohe)
-    * [3.1.4 内部主义](https://plato.stanford.edu/entries/perception-episprob/#SeemInte)
-    * [3.1.5 塞拉斯困境和其他挑战](https://plato.stanford.edu/entries/perception-episprob/#SellDileOtheChal)
-    * [3.1.6 看似的外在主义](https://plato.stanford.edu/entries/perception-episprob/#SeemExte)
-  * [3.2 因果论方法](https://plato.stanford.edu/entries/perception-episprob/#EtioAppr)
-  * [3.3 与世界相关的方法](https://plato.stanford.edu/entries/perception-episprob/#WorlInvoAppr)
-* [4. 结论](https://plato.stanford.edu/entries/perception-episprob/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/perception-episprob/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/perception-episprob/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/perception-episprob/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/perception-episprob/#Rel)
-
+ 
 ***
 
 ## 1. 外部世界的问题

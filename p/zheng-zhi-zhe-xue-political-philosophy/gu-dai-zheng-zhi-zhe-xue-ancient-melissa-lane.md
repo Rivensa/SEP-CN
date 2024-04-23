@@ -4,43 +4,7 @@ _首次发表于2010年9月6日；实质修订于2023年3月22日_
 
 在这里，古代政治哲学被理解为指古希腊和罗马的思想，从公元前五世纪的古希腊思想的古典时期到公元五世纪西罗马帝国的结束，不包括该时期犹太教和基督教关于政治的思想发展。这一时期，柏拉图和亚里士多德发展了政治哲学这一流派：它包括对政治制度起源的思考，用于解释和组织政治生活的概念，如正义和平等，伦理目标与政治性质之间的关系，以及不同宪政安排或政权的相对优点。柏拉图的模型在整个这一时期对后来的作者仍然非常重要，即使后来的“希腊化”学派的发展和独特的罗马哲学适应形式为从哲学角度构建政治提供了新的框架。晚期古代学者在罗马帝国西部最后一位自称罗马皇帝的退位之后，继续参与这些希腊和罗马政治哲学传统，并在希腊语、拉丁语、希伯来语和（后来的）阿拉伯语中继续进行，直到中世纪学者及其后继者。
 
-* [1. 古代政治哲学的范围](https://plato.stanford.edu/entries/ancient-political/#ScoAncPol)
-* [2. 古希腊的政治与哲学](https://plato.stanford.edu/entries/ancient-political/#PolAncGre)
-  * [2.1 政治与正义](https://plato.stanford.edu/entries/ancient-political/#PolJus)
-  * [2.2 政治、正义和平等](https://plato.stanford.edu/entries/ancient-political/#PolJusEqu)
-  * [2.3 政治与哲学](https://plato.stanford.edu/entries/ancient-political/#Pol)
-* [3. 苏格拉底和柏拉图](https://plato.stanford.edu/entries/ancient-political/#SocPla)
-  * [3.1 苏格拉底的伦理学和政治学](https://plato.stanford.edu/entries/ancient-political/#SocEthRelPol)
-  * [3.2 苏格拉底的审判：公民的政治哲学](https://plato.stanford.edu/entries/ancient-political/#SocTriPolCit)
-  * [3.3 共和国中的正义辩护](https://plato.stanford.edu/entries/ancient-political/#DefJusRep)
-  * [3.4 政治知识在政治家中的定义](https://plato.stanford.edu/entries/ancient-political/#DefPolKnoSta)
-  * [3.5 法律中的“次优”政体](https://plato.stanford.edu/entries/ancient-political/#SecBesRegLaw)
-* [4. 亚里士多德](https://plato.stanford.edu/entries/ancient-political/#Ari)
-  * [4.1 亚里士多德的哲学方法和伦理学](https://plato.stanford.edu/entries/ancient-political/#AriPhiMetEth)
-  * [4.2 通过法律来解释伦理学和政治学](https://plato.stanford.edu/entries/ancient-political/#EthPolWayLaw)
-  * [4.3 统治权的主张](https://plato.stanford.edu/entries/ancient-political/#ProPol)
-  * [4.4 亚里士多德在政治哲学中](https://plato.stanford.edu/entries/ancient-political/#AriPol)
-* [5. 希腊化哲学与政治](https://plato.stanford.edu/entries/ancient-political/#HelPhiPol)
-  * [5.1 坚持和新学派](https://plato.stanford.edu/entries/ancient-political/#PerNewSch)
-  * [5.2 享乐主义](https://plato.stanford.edu/entries/ancient-political/#Epi)
-  * [5.3 斯多葛主义](https://plato.stanford.edu/entries/ancient-political/#Sto)
-  * [5.4 希腊化哲学与罗马共和政治](https://plato.stanford.edu/entries/ancient-political/#HelPhiRomRepPol)
-* [6. 罗马共和国与西塞罗](https://plato.stanford.edu/entries/ancient-political/#CicRomRep)
-  * [6.1 西塞罗：生平](https://plato.stanford.edu/entries/ancient-political/#CicLif)
-  * [6.2 公共事务](https://plato.stanford.edu/entries/ancient-political/#DeRePub)
-  * [6.3 法律](https://plato.stanford.edu/entries/ancient-political/#DeLeg)
-  * [6.4 职责](https://plato.stanford.edu/entries/ancient-political/#DeOff)
-* [7. 罗马帝国的政治哲学](https://plato.stanford.edu/entries/ancient-political/#PolRomEmp)
-  * [7.1 后期斯多噶学派](https://plato.stanford.edu/entries/ancient-political/#LatSto)
-  * [7.2 帝国中的柏拉图主义和其他哲学思想](https://plato.stanford.edu/entries/ancient-political/#PlaOthPhiEmp)
-* [8. 结论](https://plato.stanford.edu/entries/ancient-political/#Con)
-* [参考文献](https://plato.stanford.edu/entries/ancient-political/#Bib)
-  * [主要文献](https://plato.stanford.edu/entries/ancient-political/#PriLit)
-  * [二次文献](https://plato.stanford.edu/entries/ancient-political/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/ancient-political/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ancient-political/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ancient-political/#Rel)
-
+ 
 ***
 
 ## 1. 古代政治哲学的范围

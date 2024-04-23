@@ -4,41 +4,7 @@
 
 偏好的概念在许多学科中起着核心作用，包括道德哲学和决策理论。偏好及其逻辑属性在理性选择理论中也起着核心作用，这一学科在现代经济学以及其他形式化社会科学的各个分支中都有影响。偏好的概念和分析方法在这些学科之间存在差异。目前还缺乏一种综合考虑所有用途并试图将它们结合在一起的处理方法。本文概述了偏好概念在哲学中最重要的用途，并调查了它们的兼容性和冲突。
 
-* [1. 偏好的基本概念](https://plato.stanford.edu/entries/preferences/#BasCon)
-* [2. 偏好逻辑](https://plato.stanford.edu/entries/preferences/#PreLog)
-
-  * [2.1 概念和符号](https://plato.stanford.edu/entries/preferences/#ConNot)
-  * [ 2.2 完备性](https://plato.stanford.edu/entries/preferences/#Com)
-  * [ 2.3 传递性](https://plato.stanford.edu/entries/preferences/#Tra)
-  * [ 2.4 偏好分类](https://plato.stanford.edu/entries/preferences/#OrdTyp)
-  * [2.5 组合偏好](https://plato.stanford.edu/entries/preferences/#ComPre)
-  * [2.6 基于偏好的单值谓词](https://plato.stanford.edu/entries/preferences/#PreBasMonValPre)
-* [3. 偏好的数值表示](https://plato.stanford.edu/entries/preferences/#PreVal)
-
-  * [3.1 顺序表示偏好](https://plato.stanford.edu/entries/preferences/#RepOrd)
-  * [3.2 基数表示偏好](https://plato.stanford.edu/entries/preferences/#RepCard)
-  * [3.3 偏好的替代效用表示](https://plato.stanford.edu/entries/preferences/#RepPrim)
-* [4. 偏好组合](https://plato.stanford.edu/entries/preferences/#PreComb)
-
-  * [4.1 管理偏好冲突](https://plato.stanford.edu/entries/preferences/#MagPreCon)
-  * [4.2 总体和部分偏好](https://plato.stanford.edu/entries/preferences/#TotParPre)
-* [5. 偏好和选择](https://plato.stanford.edu/entries/preferences/#PreCho)
-
-  * [5.1 选择函数及其属性](https://plato.stanford.edu/entries/preferences/#ChoFunThePro)
-  * [5.2 从偏好中确定选择](https://plato.stanford.edu/entries/preferences/#ConChoPre)
-  * [5.3 从选择中推断偏好](https://plato.stanford.edu/entries/preferences/#ConPreCho)
-* [6. 偏好和福利](https://plato.stanford.edu/entries/preferences/#PreWel)
-* [7. 偏好变化](https://plato.stanford.edu/entries/preferences/#PreCha)
-
-  * [7.1 偏好变化的证据](https://plato.stanford.edu/entries/preferences/#EviForPreCha)
-  * [ 7.2 时间偏好](https://plato.stanford.edu/entries/preferences/#TimPre)
-  * [7.3 信念偏好变化](https://plato.stanford.edu/entries/preferences/#DoxPreCha)
-  * [7.4 价值偏好变化](https://plato.stanford.edu/entries/preferences/#ValPreCha)
-* [ 8. 偏好批评](https://plato.stanford.edu/entries/preferences/#PreCrit)
-* [ 参考文献](https://plato.stanford.edu/entries/preferences/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/preferences/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/preferences/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/preferences/#Rel)
+ 
 
 ---
 

@@ -4,27 +4,7 @@
 *首次发表于2009年11月12日；实质修订于2022年4月27日。*
 
 虽然直到 20 世纪上半叶，“人格主义”这个术语才被称为哲学学派和体系的代名词，但作为对启蒙理性主义、泛神论、黑格尔绝对理念主义、个人主义以及政治上的集体主义和唯物主义、心理学和进化决定论中被认为是非人格化因素的反应，人格主义思想在 19 世纪就已经发展起来。在其各种流派中，人格主义始终强调人作为哲学、神学和人文研究的主要研究对象的重要性。它是一种将人视为解释、认识论、本体论和价值论的最终原则的思维方法或体系，尽管并非所有人格主义者都同等强调这些思维领域，并且在理想主义、现象学、存在主义和托马斯主义版本的人格主义之间存在紧张关系。
-
-* [1. 什么是人格主义？](https://plato.stanford.edu/entries/personalism/#WhaPer)
-* [2. 人格主义的历史先驱](https://plato.stanford.edu/entries/personalism/#PerHisAnt)
-* [ 3. 人格主义欧洲](https://plato.stanford.edu/entries/personalism/#EurPer)
-* [ 4. 人格主义美国](https://plato.stanford.edu/entries/personalism/#AmePer)
-* [ 5. 人格主义东方](https://plato.stanford.edu/entries/personalism/#EasPer)
-* [6. 人格主义思想的特点](https://plato.stanford.edu/entries/personalism/#ChaPerTho)
-
-  * [6.1 人类、动物和自然](https://plato.stanford.edu/entries/personalism/#HumBeiAniNat)
-  * [6.2 人的尊严](https://plato.stanford.edu/entries/personalism/#DigPer)
-  * [6.3 内在性和主体性](https://plato.stanford.edu/entries/personalism/#IntSub)
-  * [ 6.4 自决](https://plato.stanford.edu/entries/personalism/#SelDet)
-  * [6.5 关系性和共融](https://plato.stanford.edu/entries/personalism/#RelCom)
-* [ 参考文献](https://plato.stanford.edu/entries/personalism/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/personalism/#PriLit)
-  * [ 次要文献](https://plato.stanford.edu/entries/personalism/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/personalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/personalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/personalism/#Rel)
-
+ 
 ---
 
 ## 1. 人格主义是什么？

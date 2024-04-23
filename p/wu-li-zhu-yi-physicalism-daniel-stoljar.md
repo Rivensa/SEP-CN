@@ -4,41 +4,7 @@ _首次发表于2001年2月13日；实质修订于2021年5月25日。_
 
 物理主义是以口号形式表达的一种观点，即一切都是物质的。这个观点通常被理解为一种形而上学的观点，类似于古希腊哲学家泰勒斯所主张的一切都是水，或者 18 世纪哲学家伯克利的唯心主义观点，即一切都是心灵的。总的想法是，实际世界的本质（即宇宙和其中的一切）符合一定的条件，即物质的条件。当然，物理主义者并不否认世界可能包含许多乍一看似乎不是物质的东西——生物学的、心理学的、道德的、社会的或数学的东西。但他们仍然坚持认为，归根结底，这些东西是物质的，或者至少与物质有重要的关系。
 
-* [1. 准备工作](https://plato.stanford.edu/entries/physicalism/#Prelim)
-  * [1.1 术语](https://plato.stanford.edu/entries/physicalism/#Term)
-  * [1.2 历史问题](https://plato.stanford.edu/entries/physicalism/#HistIssu)
-  * [1.3 讨论框架](https://plato.stanford.edu/entries/physicalism/#FramForDisc)
-* [2. 完备性问题](https://plato.stanford.edu/entries/physicalism/#ModaNonModaForm)
-  * [2.1 随附和必然性物理主义](https://plato.stanford.edu/entries/physicalism/#SupeNecePhys)
-  * [2.2 同一性物理主义](https://plato.stanford.edu/entries/physicalism/#IdenPhys)
-    * [2.2.1 代币物理主义](https://plato.stanford.edu/entries/physicalism/#TokePhys)
-    * [2.2.1 类型物理主义](https://plato.stanford.edu/entries/physicalism/#TypePhys)
-  * [2.3 实现物理主义](https://plato.stanford.edu/entries/physicalism/#RealPhys)
-    * [2.3.1 二阶物理主义](https://plato.stanford.edu/entries/physicalism/#SecoOrdePhys)
-    * [2.3.2 物理主义的子集](https://plato.stanford.edu/entries/physicalism/#SubsPhys)
-  * [2.4 推导物理主义](https://plato.stanford.edu/entries/physicalism/#GrouPhys)
-  * [2.5 基础物理主义](https://plato.stanford.edu/entries/physicalism/#FundPhys)
-* [3. 物理主义的种类](https://plato.stanford.edu/entries/physicalism/#VariPhys)
-  * [3.1 约简和非约简的物理主义](https://plato.stanford.edu/entries/physicalism/#ReduNonReduPhys)
-  * [3.2 先验和后验的物理主义](https://plato.stanford.edu/entries/physicalism/#PrioPostPhys)
-* [4. 条件问题](https://plato.stanford.edu/entries/physicalism/#CondQues)
-  * [4.1 物理的理论和对象概念](https://plato.stanford.edu/entries/physicalism/#TheoObjeConc)
-  * [4.2 循环性](https://plato.stanford.edu/entries/physicalism/#Circ)
-  * [4.3 亨普尔的困境](https://plato.stanford.edu/entries/physicalism/#HempDile)
-  * [4.4 泛心论问题](https://plato.stanford.edu/entries/physicalism/#PanpProb)
-  * [4.5 否定之路](https://plato.stanford.edu/entries/physicalism/#ViaNega)
-  * [4.6 结构主义方法](https://plato.stanford.edu/entries/physicalism/#StruApprPhys)
-  * [4.7 物理主义作为一种态度](https://plato.stanford.edu/entries/physicalism/#PhysAtti)
-* [5. 反对物理主义的案例](https://plato.stanford.edu/entries/physicalism/#CaseAgaiPhysIQualCons)
-  * [5.1 感觉质和意识](https://plato.stanford.edu/entries/physicalism/#QualCons)
-  * [5.2 意义和指向性](https://plato.stanford.edu/entries/physicalism/#MeanInte)
-  * [5.3 数字和抽象物](https://plato.stanford.edu/entries/physicalism/#NumbAbst)
-  * [5.4 方法论问题](https://plato.stanford.edu/entries/physicalism/#MethIssu)
-* [6. 物理主义的论证](https://plato.stanford.edu/entries/physicalism/#CaseForPhys)
-* [参考文献](https://plato.stanford.edu/entries/physicalism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/physicalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/physicalism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/physicalism/#Rel)
+ 
 
 ***
 

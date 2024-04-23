@@ -8,30 +8,7 @@
 
 理论间的归约，在一个理论被认为归约为另一个理论的情况下，在现代物理学中起着重要作用。但在什么条件下我们可以说一个理论归约为另一个理论，并且归约实现了什么？本条目将描述可能采取的不同方法来回答这些问题。我还将讨论归约与随附性之间的关系以及归约与出现之间的关系。最后，我将讨论在当代物理学和物理哲学的辩论中，归约主义计划的地位。
 
-* [1. 互理论还原的目标](https://plato.stanford.edu/entries/physics-interrelate/#AimsInteRedu)
-* [2. 互理论还原的模型](https://plato.stanford.edu/entries/physics-interrelate/#ModeInteRedu)
-
-  * [2.1 纳吉尔模型的还原](https://plato.stanford.edu/entries/physics-interrelate/#NageModeRedu)
-  * [2.2 纳格尔模型的问题](https://plato.stanford.edu/entries/physics-interrelate/#ProbNageMode)
-  * [2.3 科门尼和奥本海姆的模型](https://plato.stanford.edu/entries/physics-interrelate/#KemeOppeMode)
-  * [2.4 广义纳格尔-沙夫纳模型](https://plato.stanford.edu/entries/physics-interrelate/#GeneNageSchaMode)
-  * [ 2.5 限制性还原](https://plato.stanford.edu/entries/physics-interrelate/#LimiRedu)
-  * [2.6 唯一性极限问题](https://plato.stanford.edu/entries/physics-interrelate/#ProbSingLimi)
-  * [2.7 结构主义方法](https://plato.stanford.edu/entries/physics-interrelate/#StruAppr)
-  * [2.8 当代方法](https://plato.stanford.edu/entries/physics-interrelate/#ContAppr)
-* [3. 缩减、随附和出现](https://plato.stanford.edu/entries/physics-interrelate/#ReduSupeEmer)
-
-  * [3.1 带或不带缩减的随附](https://plato.stanford.edu/entries/physics-interrelate/#SupeWithRedu)
-  * [3.2 关于涌现和还原之间的兼容性](https://plato.stanford.edu/entries/physics-interrelate/#CompBetwEmerRedu)
-* [4. 还原和还原主义](https://plato.stanford.edu/entries/physics-interrelate/#ReduRedu)
-
-  * [4.1 万物理论](https://plato.stanford.edu/entries/physics-interrelate/#TheoEver)
-  * [4.2 有效场理论](https://plato.stanford.edu/entries/physics-interrelate/#EffeFielTheo)
-  * [ 4.3 多尺度建模](https://plato.stanford.edu/entries/physics-interrelate/#MultMode)
-* [ 参考文献](https://plato.stanford.edu/entries/physics-interrelate/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/physics-interrelate/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/physics-interrelate/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/physics-interrelate/#Rel)
+ 
 
 ---
 

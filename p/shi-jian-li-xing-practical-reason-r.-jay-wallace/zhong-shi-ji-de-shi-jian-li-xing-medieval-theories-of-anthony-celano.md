@@ -7,18 +7,7 @@
 
 最早的中世纪评论家对Nicomachean Ethics只分析了作品的前三卷，原因尚未解释（Celano，2022）。13世纪上半叶的中世纪作者虽然知道Nicomachean Ethics的其余卷存在，但通常只能使用部分文本。亚里士多德关于实践理性的讨论在罗伯特·格罗斯特斯特的完整翻译和希腊评论出现于1248年左右之前，大多数人并不知晓。在这个时期，神学家如菲利普·校长和奥克塞尔的威廉在他们的神学总汇中研究了道德行为的本质。像许多中世纪作者一样，奥克塞尔的威廉认为亚里士多德的实践理性（审慎）既有知识的智力成分，也有道德功能，能够规定正确的行动。奥克塞尔的威廉和菲利普·校长在道德理论中引入了synderesis的概念，他们认为这是人类天生的能力，能够认识到道德推理的永恒第一原则。他们不是将人类行动的指导原则留给人类经验，而是将道德决策锚定在上帝的永恒法则中。Synderesis向道德行为者展示了一套正确行动的普遍准则（Eardley，2021）。尽管他们的解释明显不符合亚里士多德的观点，但确实影响了后来的评论家，如阿尔伯特大师和托马斯·阿奎那。在格罗斯特斯特的翻译出现后，阿尔伯特大师撰写了关于Nicomachean Ethics整个文本的第一部拉丁中世纪评论。 他对谨慎作为一种既有智力成分又有道德成分的美德的处理，他对自然法中普遍道德原则的接受，以及他对实践理性及其与人类幸福的关系的理解，对他的学生托马斯·阿奎那的著作产生了深远影响。
 
-* [1. 实践理性的多美主义教义](https://plato.stanford.edu/entries/practical-reason-med/#ThoDocPraRea)
-* [2. 方济各会的批评](https://plato.stanford.edu/entries/practical-reason-med/#FraCri)
-* [3. 实践理性在道德理论中的地位](https://plato.stanford.edu/entries/practical-reason-med/#PlaPraReaMorThe)
-* [4. 与康德的比较](https://plato.stanford.edu/entries/practical-reason-med/#ComKan)
-* [ 参考文献](https://plato.stanford.edu/entries/practical-reason-med/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/practical-reason-med/#PriLit)
-  * [ 次要文献](https://plato.stanford.edu/entries/practical-reason-med/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/practical-reason-med/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/practical-reason-med/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/practical-reason-med/#Rel)
-
+ 
 ---
 
 ## 1. 实践理性的多米尼加学说

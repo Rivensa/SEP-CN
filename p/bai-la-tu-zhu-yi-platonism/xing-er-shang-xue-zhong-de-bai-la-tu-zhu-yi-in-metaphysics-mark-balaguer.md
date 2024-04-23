@@ -7,24 +7,7 @@
 
 第 1 节将详细描述当代柏拉图主义观点。第 2 节将描述柏拉图主义的替代观点，即概念主义、名义主义、内在实在论和迈农主义。第 3 节将发展和评估支持柏拉图主义的第一个重要论证，即“一对多”论证。第 4 节将发展和评估支持柏拉图主义的第二个论证，即“特指术语”论证。这个论证比“一对多”论证出现得晚得多，但正如我们将看到的，它被广泛认为更有力。最后，第 5 节将发展和评估反对柏拉图主义的最重要论证，即认识论论证。
 
-* [1. 什么是柏拉图主义？](https://plato.stanford.edu/entries/platonism/#1)
-* [2. 一个立场的分类](https://plato.stanford.edu/entries/platonism/#2)
-* [3. 众多论证中的一个](https://plato.stanford.edu/entries/platonism/#3)
-* [4. 单数术语论证](https://plato.stanford.edu/entries/platonism/#4)
-
-  * [4.1 数学对象](https://plato.stanford.edu/entries/platonism/#4.1)
-  * [ 4.2 命题](https://plato.stanford.edu/entries/platonism/#4.2)
-  * [4.3 属性和关系](https://plato.stanford.edu/entries/platonism/#4.3)
-  * [ 4.4 句子类型](https://plato.stanford.edu/entries/platonism/#4.4)
-  * [ 4.5 可能世界](https://plato.stanford.edu/entries/platonism/#4.5)
-  * [ 4.6 逻辑对象](https://plato.stanford.edu/entries/platonism/#4.6)
-  * [ 4.7 虚构对象](https://plato.stanford.edu/entries/platonism/#4.7)
-* [5. 反对柏拉图主义的认识论论证](https://plato.stanford.edu/entries/platonism/#5)
-* [ 参考文献](https://plato.stanford.edu/entries/platonism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/platonism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/platonism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/platonism/#Rel)
-
+ 
 ---
 
 ## 1. 什么是柏拉图主义？

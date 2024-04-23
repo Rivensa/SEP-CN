@@ -36,41 +36,7 @@ _首次发表于2022年11月28日星期一；实质修订于2024年3月27日星�
 似乎是错误的。与（1）不同，似乎我们无法像（3）那样提供（2）的真实条件，以满意的直接方式。\[3]
 
 可能性主义者声称我们可以：我们只需扩大对现实的理解，对最广义上存在的事物，超越实际，超越实际存在的事物，使其也包括仅仅可能的事物。特别是，可能性主义者说，存在着仅仅可能的人，不是实际上的人，但本可以是。因此，对于可能性主义者来说，只要我们承认现实还包括可能性，即实际上并不存在但本可以存在的事物，那么（4）仍然是真实的；这些事物实际上并不存在于我们身边的具体世界中，但本可以存在。实在主义（至少）是否认了可能性主义；成为实在主义者意味着否认存在任何可能性。换句话说，对于实在主义者来说，除了实际存在之外，不存在现实或存在的领域；存在就是存在，存在就是实际存在。在本文中，我们将调查可能性主义者和实在主义者之间辩论的起源和性质。
-
-* [1. 辩论的焦点](https://plato.stanford.edu/entries/possibilism-actualism/#FocuDeba)
-* [2. 可能性主义的起源和性质](https://plato.stanford.edu/entries/possibilism-actualism/#OrigNatuPoss)
-  * [2.1 可能性主义和存在的双模态观念](https://plato.stanford.edu/entries/possibilism-actualism/#PossBiModaConcBein)
-  * [2.2 不带双模态主义的可能性主义](https://plato.stanford.edu/entries/possibilism-actualism/#PossWithBiModa)
-* [3. 可能性主义和可能世界语义](https://plato.stanford.edu/entries/possibilism-actualism/#PossPossWorlSema)
-  * [3.1 基本可能世界语义](https://plato.stanford.edu/entries/possibilism-actualism/#BasiPossWorlSema)
-    * [3.1.1 Tarski 解释](https://plato.stanford.edu/entries/possibilism-actualism/#TarskiInterps)
-    * [3.1.2 真实简单性](https://plato.stanford.edu/entries/possibilism-actualism/#TrutSimp)
-    * [3.1.3 SQML 解释](https://plato.stanford.edu/entries/possibilism-actualism/#SQMLInterps)
-    * [3.1.4 模态真实简单性](https://plato.stanford.edu/entries/possibilism-actualism/#ModaTrutSimp)
-  * [3.2 SQML: 一个 SQML 的演绎系统](https://plato.stanford.edu/entries/possibilism-actualism/#SQMLDeduSystForSQML)
-  * [3.3 可能性主义，必然主义和逻辑真理](https://plato.stanford.edu/entries/possibilism-actualism/#PossNeceLogiTrut)
-* [4. 实在主义对可能性主义挑战的回应](https://plato.stanford.edu/entries/possibilism-actualism/#ActuRespPossChal)
-  * [4.1 Kripke 语义学及其逻辑](https://plato.stanford.edu/entries/possibilism-actualism/#KripSemaLogi)
-    * [4.1.1 Kripke 解释](https://plato.stanford.edu/entries/possibilism-actualism/#KripInte)
-    * [4.1.2 KQML 和 SQML 的有争议的逻辑真理](https://plato.stanford.edu/entries/possibilism-actualism/#KQMLContLogiTrutSQML)
-    * [4.1.3 KQML: KQML 的 Kripke 演绎系统](https://plato.stanford.edu/entries/possibilism-actualism/#KQMLKripDeduSystForKQML)
-    * [4.1.4 KQML 是否是真正的实在主义逻辑？](https://plato.stanford.edu/entries/possibilism-actualism/#KQMLGenuActuLogi)
-  * [4.2 Haecceitism](https://plato.stanford.edu/entries/possibilism-actualism/#Haec)
-    * [4.2.1 世界和本质](https://plato.stanford.edu/entries/possibilism-actualism/#WorlEsse)
-    * [4.2.2 有意义的 Haecceitist 解释](https://plato.stanford.edu/entries/possibilism-actualism/#InteHaecInte)
-    * [4.2.3 模态主义](https://plato.stanford.edu/entries/possibilism-actualism/#Moda)
-  * [4.3 实在主义](https://plato.stanford.edu/entries/possibilism-actualism/#StriActu)
-    * [4.3.1 Prior 的量化模态逻辑 Q](https://plato.stanford.edu/entries/possibilism-actualism/#PrioQuanModaLogiQ)
-    * [4.3.2 Q、可能性和 SQML 的有争议的逻辑真理](https://plato.stanford.edu/entries/possibilism-actualism/#QContContLogiTrutSQML)
-  * [4.4 视角主义](https://plato.stanford.edu/entries/possibilism-actualism/#Pers)
-    * [4.4.1 世界故事](https://plato.stanford.edu/entries/possibilism-actualism/#WorlStor)
-    * [4.4.2 世界上的真相](https://plato.stanford.edu/entries/possibilism-actualism/#TrutWorl)
-    * [4.4.3 透视主义的量化模态逻辑](https://plato.stanford.edu/entries/possibilism-actualism/#QuanModaLogiForPers)
-    * [4.4.4 无 MSA 的透视主义](https://plato.stanford.edu/entries/possibilism-actualism/#PersWithMSA)
-* [参考文献](https://plato.stanford.edu/entries/possibilism-actualism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/possibilism-actualism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/possibilism-actualism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/possibilism-actualism/#Rel)
+ 
 
 ***
 

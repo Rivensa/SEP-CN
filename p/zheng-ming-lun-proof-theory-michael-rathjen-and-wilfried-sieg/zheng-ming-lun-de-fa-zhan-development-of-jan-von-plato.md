@@ -5,22 +5,7 @@
 
 证明论的发展可以自然地分为：古代逻辑和数学中证明概念的前史；弗雷格发现数学证明（而不仅仅是数学命题）可以（而且应该）用逻辑系统表示；希尔伯特的古老公理证明论；希尔伯特的目标未能实现，因为哥德尔的不完全性定理；根岑创造了当代证明论的两种主要逻辑系统，即自然推理和序列演算（参见自动推理条目）；自然推理和序列演算的应用和扩展，直到自然推理的计算解释及其与计算机科学的联系。
 
-* [1. 证明概念的前史](https://plato.stanford.edu/entries/proof-theory-development/#PreNotPro)
-* [2. 希尔伯特的古老公理证明论](https://plato.stanford.edu/entries/proof-theory-development/#HilOldAxiProThe)
-* [3. 一致性的不可证明性](https://plato.stanford.edu/entries/proof-theory-development/#UnpCon)
-* [4. 自然推理和序列演算](https://plato.stanford.edu/entries/proof-theory-development/#NatDedSeqCal)
-* [5. 算术和分析的一致性](https://plato.stanford.edu/entries/proof-theory-development/#ConAriAna)
-* [6. 自然演绎的后续发展](https://plato.stanford.edu/entries/proof-theory-development/#LatDevNatDed)
-* [7. 推理演算：后续发展/应用](https://plato.stanford.edu/entries/proof-theory-development/#SeqCalLatDev)
-* [8. 证明论的目标](https://plato.stanford.edu/entries/proof-theory-development/#AimProThe)
-* [ 参考文献](https://plato.stanford.edu/entries/proof-theory-development/#Bib)
-
-  * [证明论相关文献](https://plato.stanford.edu/entries/proof-theory-development/#TexProThe)
-  * [原著及其再版作品](https://plato.stanford.edu/entries/proof-theory-development/#OriWorTheRep)
-  * [ 二手文献](https://plato.stanford.edu/entries/proof-theory-development/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/proof-theory-development/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/proof-theory-development/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/proof-theory-development/#Rel)
+ 
 
 ---
 

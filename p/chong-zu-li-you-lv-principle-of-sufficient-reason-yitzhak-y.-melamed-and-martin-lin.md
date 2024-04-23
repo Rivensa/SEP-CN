@@ -3,24 +3,7 @@
 
 充足理由律是一个强大而有争议的哲学原则，规定一切事物必须有原因、原因或基础。这种对彻底可理解性的简单要求产生了哲学史上最大胆和最具挑战性的论题之一。在本文中，我们首先解释这个原则，然后转向围绕它展开的辩论的历史。最后，我们对充足理由律的新兴当代讨论进行了审视。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/sufficient-reason/#Intr)
-* [ 2. 斯宾诺莎](https://plato.stanford.edu/entries/sufficient-reason/#Spin)
-* [ 3. 莱布尼兹](https://plato.stanford.edu/entries/sufficient-reason/#Leib)
-
-  * [3.1 什么是充足理由律？](https://plato.stanford.edu/entries/sufficient-reason/#WhatSuffReas)
-  * [3.2 为什么莱布尼兹相信充足理由律？](https://plato.stanford.edu/entries/sufficient-reason/#WhyDidLeibBeliPSR)
-  * [ 3.3 应用](https://plato.stanford.edu/entries/sufficient-reason/#Appl)
-* [4. Émilie du Châtelet](https://plato.stanford.edu/entries/sufficient-reason/#EmilDuChat)
-* [5. 斯宾诺莎和莱布尼茨之前的充足理由](https://plato.stanford.edu/entries/sufficient-reason/#PSRBefoSpinLeib)
-* [6. 十八世纪哲学和德国唯心主义中的充足理由律](https://plato.stanford.edu/entries/sufficient-reason/#PSREighCentPhilGermIdea)
-* [7. 当代哲学中的充足理由律](https://plato.stanford.edu/entries/sufficient-reason/#PSRContPhil)
-* [ 参考文献](https://plato.stanford.edu/entries/sufficient-reason/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/sufficient-reason/#PrimLite)
-  * [ 次要文献](https://plato.stanford.edu/entries/sufficient-reason/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/sufficient-reason/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/sufficient-reason/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/sufficient-reason/#Rel)
+ 
 
 ---
 

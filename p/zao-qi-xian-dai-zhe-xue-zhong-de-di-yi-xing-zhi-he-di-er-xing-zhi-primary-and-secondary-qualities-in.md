@@ -8,34 +8,7 @@
 
 与其试图建立第一性质和第二性质的规范教义，不如承认 17 世纪变体之间的密切时间和概念联系，以及基于开普勒对哥白尼天文学的修正所激发的创新的非亚里士多德主义的物质和感知理论。本文考虑了对最近分析哲学产生最大影响的 17 世纪和 18 世纪版本。这种限制有两个原因。首先，历史辩论是微妙的，并且可以有几种解释；比较有助于集中它们所要回答的问题。其次，关于特定次要性质的最新研究受到多种哲学运动和哲学与科学之间关系的不断变化的影响，这些影响无法在此适当考虑（参见 Ross 2015）。本条目使用以下符号约定：“PQ”代表“第一性质”；“SQ”代表“第二性质”；其他标识以明显的方式形成。一个第一性质或第二性质的名称通常用于指示同类型的所有性质，例如，“红色等”表示红色和其他次要性质。
 
-* [ 1. 古代前身](https://plato.stanford.edu/entries/qualities-prim-sec/#AnciAnte)
-* [2. 伽利略·伽利雷](https://plato.stanford.edu/entries/qualities-prim-sec/#GaliGali)
-
-  * [2.1 第一次被知道的 P/SQ 区分版本的论据](https://plato.stanford.edu/entries/qualities-prim-sec/#FirsKnowArguForVersPSQDist)
-  * [2.2 关于味觉等肉体原因的假设](https://plato.stanford.edu/entries/qualities-prim-sec/#HypoAbouCorpCausTastEtc)
-  * [2.3 对感官认知功能的非亚里士多德解释](https://plato.stanford.edu/entries/qualities-prim-sec/#NonArisAccoCognFuncSens)
-* [3. 第一笔 笛卡尔](https://plato.stanford.edu/entries/qualities-prim-sec/#ReneDesc)
-
-  * [3.1 区分的根源](https://plato.stanford.edu/entries/qualities-prim-sec/#RootDist)
-  * [ 3.2 问题](https://plato.stanford.edu/entries/qualities-prim-sec/#Issu)
-  * [3.3 智力与通过与第二性质比较感知第一性质的参与](https://plato.stanford.edu/entries/qualities-prim-sec/#InteInvoSensPercPQsCompSQs)
-* [4. 罗伯特·博伊尔](https://plato.stanford.edu/entries/qualities-prim-sec/#RobeBoyl)
-
-  * [4.1 性质是否归结为物体的机械作用或依赖于它们？](https://plato.stanford.edu/entries/qualities-prim-sec/#QualReduMechAffeBodiDepeThem)
-  * [4.2 具有可感知性质的“决定性意义”](https://plato.stanford.edu/entries/qualities-prim-sec/#DispSensHaviSensQual)
-* [5. 约翰·洛克](https://plato.stanford.edu/entries/qualities-prim-sec/#JohnLock)
-
-  * [5.1 洛克对 P/SQs 区分的论证](https://plato.stanford.edu/entries/qualities-prim-sec/#LockArguForDistPSQs)
-  * [ 5.2 问题](https://plato.stanford.edu/entries/qualities-prim-sec/#Issu_1)
-* [6. 托马斯·里德](https://plato.stanford.edu/entries/qualities-prim-sec/#ThomReid)
-
-  * [6.1 SQs 是倾向还是因果基础？](https://plato.stanford.edu/entries/qualities-prim-sec/#SQsDispCausBase)
-  * [6.2 第一部分的首都论文和 SQ 术语的语义](https://plato.stanford.edu/entries/qualities-prim-sec/#CapiPartThesSemaSQTerm)
-* [ 参考文献](https://plato.stanford.edu/entries/qualities-prim-sec/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qualities-prim-sec/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qualities-prim-sec/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qualities-prim-sec/#Rel)
-
+ 
 ---
 
 ## 1. 古代先驱

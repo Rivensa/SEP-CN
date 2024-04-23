@@ -6,33 +6,7 @@
 什么使我们在道德上认为一个人对过去的行为负有责任，而另一个人则没有？为什么我对一个特定的未来人比其他人更关心是合理的？为什么我们中的许多人认为在一个人的生命中最大化利益是可以接受的，但在多个生命中最大化利益是错误的？对于这些以及其他规范性问题，似乎我们提出的任何答案都必须基本参考个人身份。因此，例如，只有当X与执行该行为的人相同时，我们才有理由认为X对某个过去的行为负有责任。此外，似乎只有当某个未来人将成为我时，我才有理由对他特别关心。最后，我们中的许多人认为，在一个生命中的最大化只影响一个人，即形而上学上的统一体，而在多个生命中的最大化影响许多不同的、形而上学上独立的人，因此后者在忽视人的这种基本分离性方面是错误的。
 
 这些是与个人身份和伦理之间关系调查相关的众多问题之一。这里的“伦理”广义上指的是我们应该如何生活的方式，因此包括自我关注和他人关注的实际问题。个人身份似乎与自我关注的问题有关，其中包括关于生存和不朽性的性质和基础、理性预期、预先指示和一般谨慎关注。个人身份似乎与他人关注的问题有关，其中包括关于道德责任的性质和基础、补偿、人际道德关系、堕胎和胚胎研究、人口伦理学以及治疗分离性人格障碍的方法。因此，探索身份和伦理之间关系的一种主要方法是从调查个人身份的性质开始，看看在这个形而上学领域的结论如何适用于这些实际问题。在简要讨论采用这种方法的著名历史账户之后，我们也将这样做，概述提供的个人身份的主要理论，然后看看它们对几个自我关注和他人关注的伦理问题是否有所暗示。然后，我们将转而讨论几种发现个人身份和伦理之间关系的新方法，这些替代方法为辩论注入了新的活力。
-
-* [1. 关系的历史亮点](https://plato.stanford.edu/entries/identity-ethics/#HisHigRel)
-* [2. 当代个人身份的解释/理论](https://plato.stanford.edu/entries/identity-ethics/#ConAcc)
-
-  * [2.1 心理学观点](https://plato.stanford.edu/entries/identity-ethics/#PsyCri)
-  * [2.2 生物学观点](https://plato.stanford.edu/entries/identity-ethics/#BioCri)
-  * [2.3 叙事观点](https://plato.stanford.edu/entries/identity-ethics/#NarCri)
-  * [2.4 人格观点](https://plato.stanford.edu/entries/identity-ethics/#TheAntVie)
-  * [2.5 同一性不重要（IDM）观点](https://plato.stanford.edu/entries/identity-ethics/#IDM)
-  * [2.6 在分裂情况下评估个人身份理论](https://plato.stanford.edu/entries/identity-ethics/#AssThePerIde)
-  * [ 2.7 非还原主义](https://plato.stanford.edu/entries/identity-ethics/#Nonreduc)
-  * [ 2.8 四维主义](https://plato.stanford.edu/entries/identity-ethics/#FourDim)
-* [3. 利益和道德单位](https://plato.stanford.edu/entries/identity-ethics/#PruMorUni)
-* [4. 同一性和规范伦理学](https://plato.stanford.edu/entries/identity-ethics/#IdeNorEth)
-* [5. 同一性和道德责任](https://plato.stanford.edu/entries/identity-ethics/#IdeMor)
-* [6. 同一性和应用伦理学](https://plato.stanford.edu/entries/identity-ethics/#IdeAppEth)
-
-  * [6.1 胚胎研究和堕胎](https://plato.stanford.edu/entries/identity-ethics/#EmbResAbo)
-  * [ 6.2 高级指令](https://plato.stanford.edu/entries/identity-ethics/#AdvDir)
-  * [6.3 应用伦理学中的其他问题](https://plato.stanford.edu/entries/identity-ethics/#OthIss)
-* [7. 方法论的替代方案](https://plato.stanford.edu/entries/identity-ethics/#MetAlt)
-* [ 8. 结论](https://plato.stanford.edu/entries/identity-ethics/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/identity-ethics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/identity-ethics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/identity-ethics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/identity-ethics/#Rel)
-
+ 
 ---
 
 ## 1. 关于关系的历史亮点

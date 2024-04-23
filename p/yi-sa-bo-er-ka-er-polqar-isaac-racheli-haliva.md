@@ -4,27 +4,7 @@
 
 以撒（Yitzḥak）波尔卡尔是一位犹太阿维罗主义者，活跃于 13 世纪后半叶和 14 世纪前半叶的西班牙北部。在这个背景下，犹太阿维罗主义指的是从 13 世纪到 16 世纪的犹太哲学家，他们的世界观具有两个主要特点：首先，他们采纳了伊本·鲁什德（阿维罗斯）的哲学，认为他是亚里士多德最好的解释者。其次，他们根据阿维罗斯的亚里士多德主义来解释犹太教，认为犹太教和真正的哲学必须始终一致。除了最初的目标是给予犹太教原则一个根本的自然主义阿维罗主义解释之外，波尔卡尔还以更为辩护的方式，试图捍卫这种解释免受基督徒、皈依者以及持有更传统观点的犹太社群成员的批评。波尔卡尔最为人所知的是他的前任教师阿布内尔（见条目）的主要对话者，尤其是在后者皈依基督教后，他利用自己在圣经、塔木德和哲学文本方面的专业知识来攻击他出生的信仰。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/polqar/#LifeWork)
-* [2. 波尔卡尔与阿布内尔：犹太教与基督教之争](https://plato.stanford.edu/entries/polqar/#PolqAbneBurgJudaVsChri)
-
-  * [2.1 一神论与三位一体以及上帝的非物质性与化身](https://plato.stanford.edu/entries/polqar/#MonoVsTrinGodsIncoVsInca)
-
-    * [2.1.1 一神论与三位一体](https://plato.stanford.edu/entries/polqar/#MonoVsTrin)
-    * [2.1.2 上帝的非物质性与化身](https://plato.stanford.edu/entries/polqar/#GodsIncoVsInca)
-  * [2.2 法典和犹太圣人的权威](https://plato.stanford.edu/entries/polqar/#AuthTalmJewiSage)
-  * [2.3 弥赛亚：他已经来了吗？](https://plato.stanford.edu/entries/polqar/#MessHasHeAlreCome)
-* [3. 决定论与自由意志](https://plato.stanford.edu/entries/polqar/#DeteFreeWill)
-
-  * *[人的意愿与自然意愿](https://plato.stanford.edu/entries/polqar/#MansWillVsNatuWill)*
-* [ 4. 结论](https://plato.stanford.edu/entries/polqar/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/polqar/#Bib)
-
-  * [ 手稿](https://plato.stanford.edu/entries/polqar/#Manu)
-  * [ 主要来源](https://plato.stanford.edu/entries/polqar/#PrimSour)
-  * [ 次要来源](https://plato.stanford.edu/entries/polqar/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/polqar/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/polqar/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/polqar/#Rel)
+ 
 
 ---
 

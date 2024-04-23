@@ -9,37 +9,7 @@
 
 本文试图为《理想国》中的伦理学和政治学的主要问题提供一个建设性的指南。两个假设构成了它的组织结构。首先，它假设对《理想国》中的伦理学和政治学的描述需要对苏格拉底所面临的问题和他用来回答问题的策略有一个初步的理解。其次，它假设《理想国》中的政治是基于《理想国》中的道德心理学的，因此前者在后者之后进行更有益的讨论。在这些假设的基础上，以下是概述的展开：
 
-* [1. 引言：问题和策略](https://plato.stanford.edu/entries/plato-ethics-politics/#IntrQuesStra)
-
-  * [1.1 问题的性质](https://plato.stanford.edu/entries/plato-ethics-politics/#NatuQues)
-  * [ 1.2 被拒绝的策略](https://plato.stanford.edu/entries/plato-ethics-politics/#RejeStra)
-  * [1.3 采用的策略](https://plato.stanford.edu/entries/plato-ethics-politics/#AdopStra)
-* [2. 伦理学，第一部分：正义的本质](https://plato.stanford.edu/entries/plato-ethics-politics/#EthiPartOneWhatJust)
-
-  * [ 2.1 人类动机](https://plato.stanford.edu/entries/plato-ethics-politics/#HumaMoti)
-  * [2.2 引入美德的动机](https://plato.stanford.edu/entries/plato-ethics-politics/#IntrVirtMoti)
-  * [2.3 完美的道德动机](https://plato.stanford.edu/entries/plato-ethics-politics/#PerfVirtMoti)
-  * [2.4 不完美的道德动机](https://plato.stanford.edu/entries/plato-ethics-politics/#ImpeVirtMoti)
-* [3. 伦理学，第二部分：为什么一个人应该正义](https://plato.stanford.edu/entries/plato-ethics-politics/#EthiPartTwoWhyPersShouJust)
-
-  * [3.1 心理健康](https://plato.stanford.edu/entries/plato-ethics-politics/#PsycHeal)
-  * [ 3.2 快乐](https://plato.stanford.edu/entries/plato-ethics-politics/#Plea)
-* [4. 政治，第一部分：《理想国》](https://plato.stanford.edu/entries/plato-ethics-politics/#PoliPartOneIdeaCons)
-
-  * [ 4.1 乌托邦主义](https://plato.stanford.edu/entries/plato-ethics-politics/#Utop)
-  * [ 4.2 共产主义](https://plato.stanford.edu/entries/plato-ethics-politics/#Comm)
-  * [ 4.3 女权主义](https://plato.stanford.edu/entries/plato-ethics-politics/#Femi)
-  * [ 4.4 极权主义](https://plato.stanford.edu/entries/plato-ethics-politics/#Tota)
-* [5. 政治，第二部分：有缺陷的宪法](https://plato.stanford.edu/entries/plato-ethics-politics/#PoliPartTwoDefeCons)
-* [6. 关于柏拉图《理想国》的伦理学和政治学的结论](https://plato.stanford.edu/entries/plato-ethics-politics/#ConcAbouEthiPoliPlatRepu)
-* [ 参考书目](https://plato.stanford.edu/entries/plato-ethics-politics/#Bib)
-
-  * [ 阅读指南](https://plato.stanford.edu/entries/plato-ethics-politics/#GuidRead)
-  * [ 引用文献](https://plato.stanford.edu/entries/plato-ethics-politics/#WorkCite)
-* [ 学术工具](https://plato.stanford.edu/entries/plato-ethics-politics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plato-ethics-politics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plato-ethics-politics/#Rel)
-
+ 
 ---
 
 ## 1. 引言：问题和策略

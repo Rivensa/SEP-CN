@@ -3,37 +3,7 @@
 
 伪狄奥尼修斯，或称为亚略巴古，在当代世界中被称为伪狄奥尼修斯，是一个基督教新柏拉图主义者，他在公元五世纪末或六世纪初写作，并以一种全新的方式将整个异教新柏拉图主义从普罗提诺斯到普罗克鲁斯，尤其是普罗克鲁斯和雅典柏拉图学派，转化为一个独特的基督教背景。
 
-* [ 1. 伪狄奥尼修斯：人物](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#DionPers)
-* [2. 阅读伪狄奥尼修斯的著作](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#ReadDionWork)
-* [3. 作品的概述和内容](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#OutlContWork)
-
-  * [3.1 神学表述](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#TheoRepr)
-  * [3.2 关于神圣的名字](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#DiviName)
-  * [ 3.3 符号神学](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#SymbTheo)
-  * [ 3.4 神秘神学](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#MystTheo)
-  * [3.5 关于天上和教会的等级制度](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#CeleEcclHier)
-* [4. 来源、思想、写作特点、术语：基督教和新柏拉图主义](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#SourIdeaCharWritTermChriNeop)
-
-  * [4.1 来源、思想和术语](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#SourIdeaTerm)
-  * [4.2 写作特点](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#CharWrit)
-  * [ 4.3 哲学？](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#Phil)
-* [5. 来世：意义和影响](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#AfteSignInfl)
-* [6. 作品概述](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#OutlWork)
-
-  * [伪狄奥尼修斯论神圣名](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#DiviName_1)
-  * [ 神秘神学](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#MystTheo_1)
-  * [亚略巴古论天体等级制度](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#CeleHier)
-  * [关于教会等级制度](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#EcclHier)
-  * [ 书信](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#Lett)
-* [ 参考书目](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#Bib)
-
-  * [ 文本和翻译](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#TextTran)
-  * [教父时期和中世纪的评论](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#PatrMediComm)
-  * [ 二手资料](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#SecoSour)
-  * [进一步阅读建议](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#SuggForFurtRead)
-* [ 学术工具](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/#Rel)
+ 
 
 ---
 

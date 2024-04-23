@@ -3,40 +3,7 @@
 *首次发表于2005年5月7日；实质修订于2019年11月21日*
 
 本文介绍了柏拉图的对话《泰阿泰德》（第 1 节），并简要概述了其情节（第 2 节）。第 3 节对对话的两种主要解读，即一元论和修正主义解读进行了对比。第 4 至 8 节解释和讨论了对话的主要部分的主要论点。第 9 节对整个对话进行了一些思考。
-
-* [ 1. 引言](https://plato.stanford.edu/entries/plato-theaetetus/#Int)
-* [2. 对话摘要](https://plato.stanford.edu/entries/plato-theaetetus/#SumDia)
-* [3. 泰阿泰德的整体解释](https://plato.stanford.edu/entries/plato-theaetetus/#OveIntThe)
-* [4. 对话的引言：142a–145e](https://plato.stanford.edu/entries/plato-theaetetus/#IntDia142145)
-* [5. 通过例子进行定义：146a–151d](https://plato.stanford.edu/entries/plato-theaetetus/#DefExa146151)
-* [6. 第一定义（D1）：“知识是感知”：151e–187a](https://plato.stanford.edu/entries/plato-theaetetus/#FirDefD1KnoPer151187)
-
-  * [6.1 知识被定义为感知：151d–e](https://plato.stanford.edu/entries/plato-theaetetus/#DefKnoPer151E)
-  * [6.2 “寒风”论证；以及流变理论：152a–160e](https://plato.stanford.edu/entries/plato-theaetetus/#ColWinArgTheFlu152160)
-  * [6.3 反驳知识是感知的论点：160e5–186e12](https://plato.stanford.edu/entries/plato-theaetetus/#RefTheKnoPer160186)
-  * [6.4 插曲：172c1–177b7](https://plato.stanford.edu/entries/plato-theaetetus/#Dig172177)
-  * [6.5 对普罗泰戈拉斯的最后反对：177c6–179b5](https://plato.stanford.edu/entries/plato-theaetetus/#LasObjPro177179)
-  * [6.6 对赫拉克利特的最后异议：179c1–183c2](https://plato.stanford.edu/entries/plato-theaetetus/#LasObjHer179183)
-  * [6.7 对 D1 的最终反驳：183c4–187a8](https://plato.stanford.edu/entries/plato-theaetetus/#FinRefD1183187)
-* [7. 第二定义（D2）：“知识是真正的判断”：187b–201c](https://plato.stanford.edu/entries/plato-theaetetus/#SecDefD2KnoTruJud187201)
-
-  * [7.1 误认之谜：187e5–188c8](https://plato.stanford.edu/entries/plato-theaetetus/#PuzMis187188)
-  * [7.2 关于虚假信念的第二个谜题：“相信不存在的事物”：188c10–189b9](https://plato.stanford.edu/entries/plato-theaetetus/#SecPuzAboFalBelBelWhaNot188189)
-  * [7.3 关于虚假信念的第三个谜题：Allodoxia：189b10–190e4](https://plato.stanford.edu/entries/plato-theaetetus/#ThiPuzAboFalBelAll189190)
-  * [7.4 关于虚假信念的第四个难题：蜡板：190e5–196c5](https://plato.stanford.edu/entries/plato-theaetetus/#FouPuzAboFalBelWaxTab190196)
-  * [7.5 关于虚假信念的第五个难题：鸟舍：196d1–200d4](https://plato.stanford.edu/entries/plato-theaetetus/#FifPuzAboFalBelAvi196200)
-  * [7.6 D2 的最终反驳：200d5–201c7](https://plato.stanford.edu/entries/plato-theaetetus/#FinRefD2200201)
-* [8. 第三定义（D3）：“知识是带有逻辑解释的真实判断”：201d–210a](https://plato.stanford.edu/entries/plato-theaetetus/#ThiDefD3KnoTruJudAcc201210)
-
-  * [8.1 苏格拉底的梦想：201d8–202d7](https://plato.stanford.edu/entries/plato-theaetetus/#DreSoc201202)
-  * [8.2 对梦想理论的批判：202d8–206c2](https://plato.stanford.edu/entries/plato-theaetetus/#CriDreThe202206)
-  * [8.3 三次尝试理解逻格斯: 206c2–210a9](https://plato.stanford.edu/entries/plato-theaetetus/#ThrAttUndLog206210)
-* [ 9. 结论](https://plato.stanford.edu/entries/plato-theaetetus/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/plato-theaetetus/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/plato-theaetetus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plato-theaetetus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plato-theaetetus/#Rel)
-
+ 
 ---
 
 ## 1. 简介

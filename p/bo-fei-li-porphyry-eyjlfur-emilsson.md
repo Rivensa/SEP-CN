@@ -4,24 +4,7 @@
 
 波菲利（234?–305? C.E.）是一位新柏拉图主义哲学家，出生于腓尼基的泰尔。他在雅典与隆吉努斯学习，然后在罗马与普罗提诺斯学习，时间为公元 263 年至 269 年。他成为了后者柏拉图主义的追随者。波菲利在当时几乎涉及到了每个学科领域的写作，但只有一部分作品流传至今。波菲利是一位有影响力的思想家。他将新柏拉图主义应用于异教宗教和其他领域，因此在新柏拉图主义思想的传播中扮演了关键角色。他对亚里士多德逻辑著作的论述部分通过博伊西的翻译在拉丁西方产生了影响，并试图将亚里士多德的逻辑著作与柏拉图主义相协调。这种与亚里士多德的和解态度贯穿了他的哲学思想的大部分。
 
-* [ 1. 生平](https://plato.stanford.edu/entries/porphyry/#Life)
-* [2. 作品和简介](https://plato.stanford.edu/entries/porphyry/#WorkProf)
-* [3. 哲学观点](https://plato.stanford.edu/entries/porphyry/#PhilView)
-
-  * [ 3.1 宗教](https://plato.stanford.edu/entries/porphyry/#Reli)
-  * [3.2 心理学和伦理学](https://plato.stanford.edu/entries/porphyry/#PsycEthi)
-  * [3.3 波菲利的高层次形而上学](https://plato.stanford.edu/entries/porphyry/#MetaHighReal)
-  * [3.4 亚里士多德，逻辑和认识论](https://plato.stanford.edu/entries/porphyry/#ArisLogiEpis)
-* [ 解释/原理](https://plato.stanford.edu/entries/porphyry/#Bib)
-
-  * [版本和翻译](https://plato.stanford.edu/entries/porphyry/#EditTran)
-  * [其他主要文献](https://plato.stanford.edu/entries/porphyry/#OthePrimLite)
-  * [一般作品和集合](https://plato.stanford.edu/entries/porphyry/#GeneWorkColl)
-  * [特定主题的研究](https://plato.stanford.edu/entries/porphyry/#StudPartTopi)
-* [ 学术工具](https://plato.stanford.edu/entries/porphyry/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/porphyry/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/porphyry/#Rel)
-
+ 
 ---
 
 ## 1. 生活

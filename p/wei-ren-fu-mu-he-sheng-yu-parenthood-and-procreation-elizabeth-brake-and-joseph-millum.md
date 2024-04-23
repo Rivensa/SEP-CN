@@ -10,36 +10,7 @@
 
 在下面的条目中，我们将这些问题分为三个连续的阶段：生育伦理学（创造一个孩子），我们将两个部分专门讨论，然后成为父母（获得父母的权利和责任）和作为父母（拥有和履行父母的权利和责任）。
 
-* [ 1. 基础](https://plato.stanford.edu/entries/parenthood/#Foun)
-* [2. 生育自主权](https://plato.stanford.edu/entries/parenthood/#ProcAuto)
-
-  * [2.1 为生育权辩护](https://plato.stanford.edu/entries/parenthood/#DefeRighProc)
-  * [2.2 保守派对生育自主权的观点](https://plato.stanford.edu/entries/parenthood/#ConsPersProcAuto)
-  * [2.3 生育自主的女性主义观点](https://plato.stanford.edu/entries/parenthood/#FemiPersProcAuto)
-  * [ 2.4 反生育主义](https://plato.stanford.edu/entries/parenthood/#AntiNata)
-* [3. 生育的道德性](https://plato.stanford.edu/entries/parenthood/#MoraProc)
-
-  * [3.1 非身份问题和非个人考虑](https://plato.stanford.edu/entries/parenthood/#NonIdenProbImpeCons)
-  * [3.2 辅助生育技术](https://plato.stanford.edu/entries/parenthood/#AssiReprTech)
-  * [3.3 &quot;代孕&quot;和合同辅助生育](https://plato.stanford.edu/entries/parenthood/#SurrContAssiRepr)
-  * [ 3.4 增强](https://plato.stanford.edu/entries/parenthood/#Enha)
-  * [ 3.5 国家政策](https://plato.stanford.edu/entries/parenthood/#StatPoli)
-  * [3.6 一个不生育的权利？](https://plato.stanford.edu/entries/parenthood/#RighNotProc)
-* [4. 为人父母](https://plato.stanford.edu/entries/parenthood/#BecoPare)
-
-  * [ 4.1 遗传解释](https://plato.stanford.edu/entries/parenthood/#GeneAcco)
-  * [4.2 劳动基础解释](https://plato.stanford.edu/entries/parenthood/#LaboBaseAcco)
-  * [4.3 有意和自愿的解释/理论](https://plato.stanford.edu/entries/parenthood/#InteVoluAcco)
-  * [ 4.4 因果解释/理论](https://plato.stanford.edu/entries/parenthood/#CausAcco)
-* [5. 为人父母](https://plato.stanford.edu/entries/parenthood/#BeinPare)
-
-  * [ 5.1 为人父母的权利](https://plato.stanford.edu/entries/parenthood/#PareRigh)
-  * [5.2 为人父母的责任](https://plato.stanford.edu/entries/parenthood/#PareResp)
-* [ 参考文献](https://plato.stanford.edu/entries/parenthood/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/parenthood/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/parenthood/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/parenthood/#Rel)
-
+ 
 ---
 
 ## 1. 基础

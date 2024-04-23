@@ -5,32 +5,7 @@
 
 对可能性的深入理论需要对可能对象进行理论化。一种流行的方法将可能对象的概念与可能世界的概念相互交织在一起。关于可能世界性质的理论有两种广泛讨论的类型：实在主义表象论和可能主义现实主义。它们支持两种相反的关于可能对象的观点。对它们的研究揭示了双方的困难。还有另一种流行的方法，受到了亚历修斯·迈农哲学的影响。迈农主义方法与对可能对象的理论化相关，因为它试图构建一个关于非普通具体存在对象的一般理论。独立于关于可能世界性质或迈农主义的辩论，确定所谓的可能对象是否确实可能并不总是像一开始看起来那样简单。与可能对象类似的另一类对象是虚构对象的类别。虽然一开始很有吸引力，但不应盲目接受虚构对象是可能对象的想法。可能对象在理论上的有用性的一个重要例子是它们在验证简单量化模态逻辑的两个有争议的定理中的核心作用。
 
-* [1. 它们是什么](https://plato.stanford.edu/entries/possible-objects/#WhaThe)
-* [2. 可能世界](https://plato.stanford.edu/entries/possible-objects/#PosWor)
-
-  * [2.1 可能对象现实主义](https://plato.stanford.edu/entries/possible-objects/#PosRea)
-
-    * [2.1.1 模态对应理论](https://plato.stanford.edu/entries/possible-objects/#ModCouThe)
-    * [2.1.2 模态-维度主义](https://plato.stanford.edu/entries/possible-objects/#ModDim)
-    * [2.1.3 特异性问题](https://plato.stanford.edu/entries/possible-objects/#SpePro)
-  * [2.2 实在主义再现论](https://plato.stanford.edu/entries/possible-objects/#ActRep)
-
-    * [ 2.2.1 嵌套问题](https://plato.stanford.edu/entries/possible-objects/#NesPro)
-    * [ 2.2.2 本质解决方案](https://plato.stanford.edu/entries/possible-objects/#EssSol)
-    * [ 2.2.3 其他解决方案](https://plato.stanford.edu/entries/possible-objects/#OthSol)
-* [3. 没有可能对象](https://plato.stanford.edu/entries/possible-objects/#WitPosWor)
-
-  * [3.1 存在与实在](https://plato.stanford.edu/entries/possible-objects/#SubVsExi)
-
-    * [3.1.1 不存在对象的理论](https://plato.stanford.edu/entries/possible-objects/#TheNonExiObj)
-    * [3.1.2 编码理论](https://plato.stanford.edu/entries/possible-objects/#TheEnc)
-* [ 4. 独角兽](https://plato.stanford.edu/entries/possible-objects/#Uni)
-* [ 5. 虚构对象](https://plato.stanford.edu/entries/possible-objects/#FicObj)
-* [6. 量化模态逻辑](https://plato.stanford.edu/entries/possible-objects/#QuaModLog)
-* [ 参考文献](https://plato.stanford.edu/entries/possible-objects/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/possible-objects/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/possible-objects/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/possible-objects/#Rel)
+ 
 
 ---
 

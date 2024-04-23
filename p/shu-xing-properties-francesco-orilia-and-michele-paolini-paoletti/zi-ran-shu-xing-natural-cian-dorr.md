@@ -25,35 +25,7 @@
 
 尽管如此，自然属性的概念在最近的哲学中广泛流行，特别是在形而上学中。刘易斯发展了一个丰富的理论体系，其中自然性起着核心作用，其他哲学家在各种方式上对刘易斯的思想进行了建设和修改。正如我们将在第 3 节中看到的那样，自然性已经被用来理论化各种主题，包括相似性、模态性、自然法则、心理和语言内容、扩大推理和认识价值。这些角色提供了许多不同的方式来理解自然性应该是什么，以及为什么它可能是有趣和理论上重要的。
 
-* [1. 完美的自然性和自然程度](https://plato.stanford.edu/entries/natural-properties/#PerfNatuDegrNatu)
-* [ 2. 历史](https://plato.stanford.edu/entries/natural-properties/#Hist)
-* [3. ‘自然’ 的相关用法](https://plato.stanford.edu/entries/natural-properties/#RelaUsesNatu)
-
-  * [ 3.1 自然类别](https://plato.stanford.edu/entries/natural-properties/#NatuClas)
-  * [ 3.2 复数的自然性](https://plato.stanford.edu/entries/natural-properties/#PlurNatu)
-  * [3.3 自然命题和概念](https://plato.stanford.edu/entries/natural-properties/#NatuPropConc)
-  * [3.4 &apos;自然&apos;作为高阶谓词](https://plato.stanford.edu/entries/natural-properties/#NatuHighOrdePred)
-  * [ 3.5 自然大小](https://plato.stanford.edu/entries/natural-properties/#NatuMagn)
-  * [ 3.6 自然种类](https://plato.stanford.edu/entries/natural-properties/#NatuKind)
-* [4. 自然性和其他概念](https://plato.stanford.edu/entries/natural-properties/#NatuOtheNoti)
-
-  * [ 4.1 相似性](https://plato.stanford.edu/entries/natural-properties/#Simi)
-  * [4.2 复制和内在性](https://plato.stanford.edu/entries/natural-properties/#DuplIntr)
-  * [4.3 定性不可辨性和定性](https://plato.stanford.edu/entries/natural-properties/#QualIndiQual)
-  * [ 4.4 情态](https://plato.stanford.edu/entries/natural-properties/#Moda)
-  * [4.5 通性和修辞](https://plato.stanford.edu/entries/natural-properties/#UnivTrop)
-  * [4.6 自然法则](https://plato.stanford.edu/entries/natural-properties/#LawsNatu)
-  * [4.7 心理和语言内容](https://plato.stanford.edu/entries/natural-properties/#MentLingCont)
-  * [4.8 扩大推理](https://plato.stanford.edu/entries/natural-properties/#AmplInfe)
-  * [ 4.9 认识论价值](https://plato.stanford.edu/entries/natural-properties/#EpisValu)
-  * [ 4.10 可定义性](https://plato.stanford.edu/entries/natural-properties/#Defi)
-  * [ 4.11 基础化](https://plato.stanford.edu/entries/natural-properties/#Grounding)
-* [5. 对自然性的疑虑](https://plato.stanford.edu/entries/natural-properties/#DoubAbouNatu)
-* [ 参考文献](https://plato.stanford.edu/entries/natural-properties/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/natural-properties/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/natural-properties/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/natural-properties/#Rel)
-
+ 
 ---
 
 ## 1. 完美自然性和自然度

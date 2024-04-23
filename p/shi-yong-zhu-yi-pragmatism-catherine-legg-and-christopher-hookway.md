@@ -14,37 +14,7 @@
 
 本条目的第一部分专门讨论了经典实用主义者的独特方法，以及它们如何产生一种原创的后验认识论。之后，我们将简要探讨实用主义在哲学的许多其他领域中所做出的丰富贡献。
 
-* [1. 实用主义的含义：詹姆斯](https://plato.stanford.edu/entries/pragmatism/#MeanPragJame)
-* [2. 实用主义原理：皮尔斯](https://plato.stanford.edu/entries/pragmatism/#PragMaxiPeir)
-* [3. 真理的实用主义理论](https://plato.stanford.edu/entries/pragmatism/#PragTheoTrut)
-
-  * [3.1 皮尔斯对真理和现实的解释](https://plato.stanford.edu/entries/pragmatism/#PeirTrutReal)
-  * [3.2 关于真理的詹姆斯](https://plato.stanford.edu/entries/pragmatism/#JameTrut)
-* [4. 实用主义认识论](https://plato.stanford.edu/entries/pragmatism/#PragEpis)
-
-  * [4.1 怀疑主义与可错误主义](https://plato.stanford.edu/entries/pragmatism/#SkepVersFall)
-  * [ 4.2 调查](https://plato.stanford.edu/entries/pragmatism/#Inqu)
-  * [4.3 实用主义对经验的概念](https://plato.stanford.edu/entries/pragmatism/#PragConcExpe)
-  * [ 4.4 表征](https://plato.stanford.edu/entries/pragmatism/#Repr)
-* [5. 进一步的实用主义者](https://plato.stanford.edu/entries/pragmatism/#FurtPrag)
-
-  * [5.1 早期年代](https://plato.stanford.edu/entries/pragmatism/#EarlYear)
-  * [ 5.2 新实用主义](https://plato.stanford.edu/entries/pragmatism/#Neop)
-* [6. 实用主义在哲学其他领域的贡献](https://plato.stanford.edu/entries/pragmatism/#PragContOtheAreaPhil)
-
-  * [6.1 宗教哲学](https://plato.stanford.edu/entries/pragmatism/#PhilReli)
-  * [ 6.2 伦理学](https://plato.stanford.edu/entries/pragmatism/#Ethi)
-  * [ 6.3 美学](https://plato.stanford.edu/entries/pragmatism/#Aest)
-  * [6.4 教育哲学](https://plato.stanford.edu/entries/pragmatism/#PhilEduc)
-* [ 参考文献](https://plato.stanford.edu/entries/pragmatism/#Bib)
-
-  * [古典实用主义者的主要文本](https://plato.stanford.edu/entries/pragmatism/#PrimTextClasPrag)
-  * [古典和当代实用主义者的论文集](https://plato.stanford.edu/entries/pragmatism/#CollPapeClasContPrag)
-  * [其他参考资料和补充阅读](https://plato.stanford.edu/entries/pragmatism/#OtheRefeSuppRead)
-* [ 学术工具](https://plato.stanford.edu/entries/pragmatism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pragmatism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pragmatism/#Rel)
-
+ 
 ---
 
 ## 1. 实用主义的意义：詹姆斯

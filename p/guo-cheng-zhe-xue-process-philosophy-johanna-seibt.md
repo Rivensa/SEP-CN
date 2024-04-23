@@ -13,17 +13,7 @@
 
 过程哲学家声称，有许多合理的哲学理由将自然、认知和行动的过程性方面视为现实的基本特征。过程哲学最强有力的论证或解释范围可能是其广泛的描述性。如果我们承认我们世界的基本实体是过程，我们可以生成更好的哲学描述，涵盖我们在常识和科学中推理世界时所承诺的所有实体和关系的种类：从量子纠缠到意识，从计算到感觉，从物体到机构，从有机体到社会，从交通堵塞到气候变化，从时空到美。此外，一些哲学家声称，认知科学的结果表明，我们需要一个过程形而上学来发展关于心灵和规范性的自然主义理论。这些论证构成了过程主义对西方哲学中物质关注的批评的背景。对物质的偏见似乎在于印欧语系的说话者的认知倾向，以及在于理论习惯，因为西方形而上学的传统优先考虑静态实体（物质、对象、事态、静态结构）。相比之下，过程哲学与任何特定语言群体的亲和性较少，并且可以提及许多东方思想大学派的丰富反思传统。最近出现的是，过程哲学也具有越来越多的实践维度，因为只有当我们将世界重新视为一种相互作用系统时，我们才能在概念上和伦理上理解和应对人工生命、人工智能和人工社会的新现象，并调查人类能力的特殊性和道德义务的范围。 因此，当代过程哲学承诺在 21 世纪初为哲学的三个最紧迫任务提供更好的支持。首先，它提供了范畴论工具，用于整合我们对世界的常识和科学形象的形而上学。其次，它可以作为一个理论平台，用于建立跨文化哲学，并通过一个不再局限于西方的本体论框架促进全球知识表征的跨学科研究。第三，它提供了促进反思技术发展的跨学科合作的概念，并为塑造由技术的增加使用，特别是自动化引发的可预期的深层社会文化变革所需的文化和伦理想象提供了可能。
 
-* [1. 历史贡献](https://plato.stanford.edu/entries/process-philosophy/#HistCont)
-* [2. 过程哲学的三个任务](https://plato.stanford.edu/entries/process-philosophy/#ThreTaskProcPhil)
-* [3. 超越传统的“分歧”：对旧问题的过程哲学方法](https://plato.stanford.edu/entries/process-philosophy/#BeyoTradBifuProcPhilApprOldQues)
-* [4. 追踪科学：过程哲学的新课题](https://plato.stanford.edu/entries/process-philosophy/#TracScieNewTopiForProcPhil)
-* [ 5. 当前挑战](https://plato.stanford.edu/entries/process-philosophy/#CurrChal)
-* [6. 最终问题：现实是否有方向性？](https://plato.stanford.edu/entries/process-philosophy/#UltiQuesRealDire)
-* [ 7. 制度化](https://plato.stanford.edu/entries/process-philosophy/#Inst)
-* [ 参考文献](https://plato.stanford.edu/entries/process-philosophy/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/process-philosophy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/process-philosophy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/process-philosophy/#Rel)
+ 
 
 ---
 

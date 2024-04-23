@@ -4,31 +4,7 @@
 
 现在主义是只有现在存在的观点。因此，从这个角度来看，现在主义主要是一个本体论学说；它是关于存在的观点，绝对和无限制的。这个观点在时间和变化的文献中得到了广泛讨论，其中大部分集中在现在主义所面临的问题上。因此，大部分关于现在主义发展的文献要么是提出对这个观点的异议（例如，Sider 2001: 11–52），要么是对这些异议的回应（例如，Bigelow 1996; Markosian 2004），只有在现在主义的动机方面才有例外。这篇文章在很大程度上反映了这些文献的结构。以下是接下来的计划。我们首先详细介绍现在主义，解释其承诺和动机。然后，我们转向考虑几个对现在主义提出的问题。我们使用这些问题来说明现在主义所面临的挑战的广度和严重性，以及为了应对这些挑战而发展的不同版本的现在主义的范围。
 
-* [1. 什么是现在主义？](https://plato.stanford.edu/entries/presentism/#WhatPres)
-* [2. 现在主义的动机](https://plato.stanford.edu/entries/presentism/#MotiPres)
-* [3. 定义上的关注点](https://plato.stanford.edu/entries/presentism/#DefiConc)
-
-  * [3.1 P2 的反例](https://plato.stanford.edu/entries/presentism/#CounP2)
-  * [3.2 P3 的崩溃](https://plato.stanford.edu/entries/presentism/#CollP3)
-  * [3.3 现在主义存在](https://plato.stanford.edu/entries/presentism/#ExisPres)
-  * [3.4 瞬时主义和永久主义](https://plato.stanford.edu/entries/presentism/#TransPerm)
-* [4. 跨时关系](https://plato.stanford.edu/entries/presentism/#CrosTempRela)
-* [5. 参考和命题](https://plato.stanford.edu/entries/presentism/#RefeProp)
-
-  * [5.1 单一命题](https://plato.stanford.edu/entries/presentism/#SingProp)
-* [6. 真理和真理生成](https://plato.stanford.edu/entries/presentism/#TrutTrutMaki)
-
-  * [6.1 定位真理生成者](https://plato.stanford.edu/entries/presentism/#LocaTrutMake)
-  * [6.2 否认需要真理生成者](https://plato.stanford.edu/entries/presentism/#DenyNeedForTrutMake)
-  * [6.3 真理生成关系不涉及存在](https://plato.stanford.edu/entries/presentism/#TrutMakiRelaIsntExisEnta)
-  * [6.4 关于时间跨度的真理](https://plato.stanford.edu/entries/presentism/#TrutAbouSpanTime)
-* [ 7. 时间流逝](https://plato.stanford.edu/entries/presentism/#TempPass)
-* [ 8. 相对论物理](https://plato.stanford.edu/entries/presentism/#RelaPhys)
-* [ 参考文献](https://plato.stanford.edu/entries/presentism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/presentism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/presentism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/presentism/#Rel)
-
+ 
 ---
 
 ## 1. 什么是现在主义？

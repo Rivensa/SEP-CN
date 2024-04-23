@@ -6,17 +6,7 @@
 
 接下来，第 1 部分讨论了《利西斯篇》和《饮宴篇》。第 2 至 4 部分主要涉及《饮宴篇》。第 5 部分涉及《斐德鲁斯篇》。第 6 部分涉及《饮宴篇》的结束部分以及《伊恩篇》、《普罗泰戈拉篇》和《法律篇》的部分内容。然而，各个部分并不是独立的，应按顺序阅读。大多数学者认为“爱欲”对话的创作顺序是《利西斯篇》、《饮宴篇》、《斐德鲁斯篇》，尽管有些人认为《斐德鲁斯篇》比《饮宴篇》更早。
 
-* [1. 苏格拉底与爱的艺术](https://plato.stanford.edu/entries/plato-friendship/#SocArtLov)
-* [2. 苏格拉底和雅典帕伊德拉斯提亚](https://plato.stanford.edu/entries/plato-friendship/#SocAthPai)
-* [ 3. 爱着苏格拉底](https://plato.stanford.edu/entries/plato-friendship/#LovSoc)
-* [4. 爱与通往美的提升](https://plato.stanford.edu/entries/plato-friendship/#LovAscBea)
-* [5. 解释爱的艺术和心理学](https://plato.stanford.edu/entries/plato-friendship/#ArtPsyLovExp)
-* [6. 关于爱的写作](https://plato.stanford.edu/entries/plato-friendship/#WriAboLov)
-* [ 参考书目](https://plato.stanford.edu/entries/plato-friendship/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/plato-friendship/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plato-friendship/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plato-friendship/#Rel)
-
+ 
 ---
 
 ## 1. 苏格拉底和爱的艺术

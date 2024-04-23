@@ -4,18 +4,7 @@
 
 预言者是一位在其他人与神之间发挥特殊角色的人。通常，预言者被设想为一个渠道，通过这个渠道，上帝向其他人传达一些重要信息，这些信息在任何普通方式下预言者都无法知道。从哲学角度来看，预言具有很多有趣之处，其中包括对神圣知识/沟通、人类语言、时间的本质和人类自由等问题的引人思考的问题。与神学家或辩护者不同，哲学家很少争论谁实际上预言了什么，或者某个预言是否应验。相反，他们更喜欢讨论理想情况，这样理论问题可以更仔细地被孤立出来，而不需要历史知识。在本文中，我们将遵循他们的方法，回避是否有任何明显的预言实际上已经实现的问题。我们还将避免关于上帝存在的问题，这个问题在本百科全书的其他条目中有所涉及（请参见下面相关条目部分中列出的条目）。
 
-* [1. 预言引发的哲学问题](https://plato.stanford.edu/entries/prophecy/#PhilIssuRaisProp)
-* [ 2. 否认偶然性](https://plato.stanford.edu/entries/prophecy/#DenyCont)
-* [3. 否认上帝的先知能力](https://plato.stanford.edu/entries/prophecy/#DenyGodsFore)
-* [4. 奥卡姆主义和过去](https://plato.stanford.edu/entries/prophecy/#OckhPast)
-* [ 5. 非时态的永恒](https://plato.stanford.edu/entries/prophecy/#AtemEter)
-* [ 6. 中间知识](https://plato.stanford.edu/entries/prophecy/#MiddKnow)
-* [ 7. 结论](https://plato.stanford.edu/entries/prophecy/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/prophecy/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/prophecy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/prophecy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/prophecy/#Rel)
-
+ 
 ---
 
 ## 1. 预言引发的哲学问题

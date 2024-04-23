@@ -8,24 +8,7 @@
 
 我们将从对怀孕和分娩作为医学化过程的一般讨论开始。然后，我们将转向三类伦理问题：（1）在被认为具备能力和自主决策能力的妇女的产科护理过程中出现的问题；（2）当妇女决策能力不足或其决策自主权受到质疑时出现的问题；（3）涉及生殖风险管理和沟通的问题。
 
-* [ 1. 医学化](https://plato.stanford.edu/entries/ethics-pregnancy/#Medi)
-* [2. 怀孕期护理中的伦理问题](https://plato.stanford.edu/entries/ethics-pregnancy/#EthiIssuObstCare)
-
-  * [2.1 怀孕期诊断和筛查](https://plato.stanford.edu/entries/ethics-pregnancy/#PrenDiagScre)
-  * [2.2 分娩和分娩方式](https://plato.stanford.edu/entries/ethics-pregnancy/#BirtModeDeli)
-  * [2.3 胎儿作为患者](https://plato.stanford.edu/entries/ethics-pregnancy/#FetuPati)
-* [3. 孕妇自主权的妥协](https://plato.stanford.edu/entries/ethics-pregnancy/#CompPregWomeAuto)
-
-  * [3.1 自主权的无能：决策能力受损的孕妇](https://plato.stanford.edu/entries/ethics-pregnancy/#IncaForAutoPregDeciImpaWome)
-  * [3.2 覆盖自主权：怀孕期间的强制干预](https://plato.stanford.edu/entries/ethics-pregnancy/#OverAutoForcInteDuriPreg)
-* [4. 管理和传达生殖风险](https://plato.stanford.edu/entries/ethics-pregnancy/#ManaCommReprRisk)
-
-  * [4.1 怀孕期间的酒精和药物使用](https://plato.stanford.edu/entries/ethics-pregnancy/#AlcoDrugUseDuriPreg)
-  * [4.2 研究和医学治疗涉及怀孕妇女](https://plato.stanford.edu/entries/ethics-pregnancy/#ReseMediTreaInvoPregWome)
-* [ 参考文献](https://plato.stanford.edu/entries/ethics-pregnancy/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ethics-pregnancy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ethics-pregnancy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ethics-pregnancy/#Rel)
+ 
 
 ---
 

@@ -5,21 +5,7 @@
 单称命题（也称为“罗素命题”）是指由于直接包含该个体作为成分而关于特定个体的命题。这种描述假设了命题的结构化观点-参见命题：结构化。单称命题的假设例子有命题[蒙布朗峰高度超过 4000 米]，[苏格拉底是聪明的]和[她（指着苏珊）住在纽约]。单称命题与一般命题相对，一般命题不涉及任何特定个体，而特定化命题涉及特定个体但不包含该个体作为成分。第一类的例子有命题[大多数美国人支持减税]和[一些音乐很棒]；第二类的例子有命题[双光镜的发明者是秃头]和[最高的间谍是个男人]。单称命题直接涉及个体，而特定化命题间接涉及个体，因为该对象满足命题的一个成分条件-在我们的例子中，条件是“x 独特地发明了双光镜”和“x 是最高的间谍”。
 
 对单称命题的接受或拒绝是语义学、语言和心灵哲学以及形而上学中许多问题的核心。在本文中，我们将探讨一些支持单称命题的论证，讨论它们存在引发的问题，并展示单称命题与形而上学中某些问题的关系。
-
-* [1. 弗雷格主义和罗素主义](https://plato.stanford.edu/entries/propositions-singular/#FreRus)
-* [2. 单称命题的原因：模态论证](https://plato.stanford.edu/entries/propositions-singular/#ReaForSinProModArg)
-* [3. 单称命题的原因：指示词和演示词的论证](https://plato.stanford.edu/entries/propositions-singular/#ReaForSinProArgIndDem)
-* [4. 单称命题的原因：重复论证](https://plato.stanford.edu/entries/propositions-singular/#ReaForSinProRedArg)
-* [5. 单称命题的模态问题](https://plato.stanford.edu/entries/propositions-singular/#ModProForSinPro)
-* [6. 单称命题的时间问题](https://plato.stanford.edu/entries/propositions-singular/#TemProForSinPro)
-* [6.1. 单称命题的时间问题：数量变化问题](https://plato.stanford.edu/entries/propositions-singular/#Quant)
-* [6.2. 单称命题的时间问题：定性变化](https://plato.stanford.edu/entries/propositions-singular/#Qual)
-*  [7. 结论](https://plato.stanford.edu/entries/propositions-singular/#Con)
-*  [参考文献](https://plato.stanford.edu/entries/propositions-singular/#Bib)
-*  [学术工具](https://plato.stanford.edu/entries/propositions-singular/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/propositions-singular/#Oth)
-*  [相关条目](https://plato.stanford.edu/entries/propositions-singular/#Rel)
-
+ 
 ---
 
 ## 1. Frege 主义和 Russell 主义

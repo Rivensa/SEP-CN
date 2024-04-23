@@ -4,17 +4,7 @@
 
 乔安·佩特里齐（12 世纪）——最重要的格鲁吉亚中世纪哲学家——致力于新柏拉图哲学的深入研究。他将埃梅萨的涅梅修斯的《人的本质》翻译成格鲁吉亚语，这部作品在当时引起了相当大的关注。尤其重要的是他对普罗克洛斯的《神学要素》进行的格鲁吉亚语翻译，并附有逐步解释的评论。佩特里齐对《神学要素》的评论代表了一种重要的接受努力，因为这位格鲁吉亚哲学家从普罗克洛斯的哲学本身出发进行解释。因此，在普罗克洛斯哲学的展示和重建以及中世纪普罗克洛斯评论的研究中，他绝对值得更多的关注。迄今为止，《神学要素》的标准版本只是顺便提到了佩特里齐的普罗克洛斯研究（如果提到的话），甚至不公正地批评了它（Dodds 1963, xli–xlii, 343；更详细的参见 Iremadze 2004a, 225–231）。在拜占庭和拉丁普罗克洛斯解释者的背景下研究《神学要素》的格鲁吉亚语翻译和解释——如 12 世纪的尼科拉斯·梅托尼、14 世纪的伯特霍尔德·穆斯堡和 13 世纪的亨利·巴特·梅赫伦——将填补普罗克洛斯研究中的这一空白。此外，不应忽视拜占庭哲学家 11 世纪和 12 世纪的接受（普塞洛斯、伊塔洛斯）。
 
-* [1. 人物及其作品](https://plato.stanford.edu/entries/joane-petrizi/#PerHisWor)
-* [ 2. 哲学](https://plato.stanford.edu/entries/joane-petrizi/#Phi)
-* [3. 历史接受与影响](https://plato.stanford.edu/entries/joane-petrizi/#HisRecInf)
-* [ 参考文献](https://plato.stanford.edu/entries/joane-petrizi/#Bib)
-
-  * [ A. 主要文献](https://plato.stanford.edu/entries/joane-petrizi/#PriLit)
-  * [ B. 二级文献](https://plato.stanford.edu/entries/joane-petrizi/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/joane-petrizi/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/joane-petrizi/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/joane-petrizi/#Rel)
-
+ 
 ---
 
 ## 1. 人物及其作品

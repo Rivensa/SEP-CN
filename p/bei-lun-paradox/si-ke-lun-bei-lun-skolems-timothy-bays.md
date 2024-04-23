@@ -6,23 +6,7 @@ _首次发表于2009年1月12日；实质性修订于2014年11月11日。_
 
 对这个悖论的哲学讨论主要集中在三个主要问题上。首先，有一个纯粹的数学问题：为什么斯科伦悖论没有在集合论中引入明显的矛盾？其次，有一个历史问题。斯科伦本人对为什么斯科伦悖论不构成一个直接的数学矛盾给出了一个相当好的解释；那么，为什么斯科伦和他的同时代人继续认为这个悖论在哲学上如此令人困扰呢？最后，有一个纯粹的哲学问题：斯科伦悖论对我们对集合论的理解和/或集合论语言的语义有什么启示（如果有的话）？
 
-* [1. 背景](https://plato.stanford.edu/entries/paradox-skolem/#1)
-* [2. 数学问题](https://plato.stanford.edu/entries/paradox-skolem/#2)
-  * [2.1 悖论的出现](https://plato.stanford.edu/entries/paradox-skolem/#2.1)
-  * [2.2 一般解决方案](https://plato.stanford.edu/entries/paradox-skolem/#2.2)
-  * [2.3 可传递子模型](https://plato.stanford.edu/entries/paradox-skolem/#2.3)
-  * [2.4 ZFC，幂集和实数](https://plato.stanford.edu/entries/paradox-skolem/#2.4)
-  * [2.5 四个最终要点](https://plato.stanford.edu/entries/paradox-skolem/#2.5)
-* [3. 哲学问题](https://plato.stanford.edu/entries/paradox-skolem/#3)
-  * [3.1 斯科伦的观点](https://plato.stanford.edu/entries/paradox-skolem/#3.1)
-  * [3.2 斯科伦悖论](https://plato.stanford.edu/entries/paradox-skolem/#3.2)
-  * [3.3 多元宇宙](https://plato.stanford.edu/entries/paradox-skolem/#3.3)
-  * [3.4 普特南的模型论论证](https://plato.stanford.edu/entries/paradox-skolem/#3.4)
-* [4. 结论](https://plato.stanford.edu/entries/paradox-skolem/#4)
-* [参考文献](https://plato.stanford.edu/entries/paradox-skolem/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/paradox-skolem/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/paradox-skolem/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/paradox-skolem/#Rel)
+ 
 
 ***
 

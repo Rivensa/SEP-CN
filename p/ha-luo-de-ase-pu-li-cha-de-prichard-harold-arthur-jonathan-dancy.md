@@ -4,26 +4,7 @@
 
 哈罗德·阿瑟·普里查德是一群道德哲学家中公认的领导者，他们在两次世界大战之间在牛津共同工作，其中包括 W. D. Ross，E. F. Carritt（普里查德的学生）和 H. W. B. Joseph。这些人与在剑桥工作的 C. D. Broad 和 A. C. Ewing 一起被称为英国直觉主义者。
 
-* [ 1. 普里查德的生平](https://plato.stanford.edu/entries/prichard/#PriLif)
-* [2. 普里查德的道德哲学](https://plato.stanford.edu/entries/prichard/#PriMor)
-* [3. 善、正义和义务](https://plato.stanford.edu/entries/prichard/#GooRig)
-* [4. 非直觉主义的对与错](https://plato.stanford.edu/entries/prichard/#RigWroNonInt)
-* [5. 康德主义的对与错](https://plato.stanford.edu/entries/prichard/#RigWroKan)
-* [6. 普里查德改变主意的重要问题](https://plato.stanford.edu/entries/prichard/#SigIssWhiPriChaHisMin)
-
-  * [6.1 道德动机](https://plato.stanford.edu/entries/prichard/#MorMot)
-  * [6.2 行动的性质](https://plato.stanford.edu/entries/prichard/#NatAct)
-  * [6.3 义务的性质，或被义务化的性质](https://plato.stanford.edu/entries/prichard/#NatOblObl)
-  * [6.4 道德原则的内容](https://plato.stanford.edu/entries/prichard/#ConMorPri)
-* [ 参考文献](https://plato.stanford.edu/entries/prichard/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/prichard/#PriLit)
-  * [普里查德的作品集](https://plato.stanford.edu/entries/prichard/#ColPriWor)
-  * [ 二手文献](https://plato.stanford.edu/entries/prichard/#SecLit)
-  * [ 其他参考资料](https://plato.stanford.edu/entries/prichard/#OthRef)
-* [ 学术工具](https://plato.stanford.edu/entries/prichard/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/prichard/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/prichard/#Rel)
+ 
 
 ---
 

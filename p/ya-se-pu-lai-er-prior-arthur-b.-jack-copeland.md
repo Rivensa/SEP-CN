@@ -21,35 +21,7 @@
 
 作为新西兰出生的第一位逻辑学家，普赖尔是新西兰逻辑学的创始人，也是 1956 年英国逻辑复兴的推动力量。
 
-* [1. 关于时态逻辑的研究](https://plato.stanford.edu/entries/prior/#WorkTensLogi)
-
-  * [1.1 时态逻辑的起源](https://plato.stanford.edu/entries/prior/#OrigTensLogi)
-  * [1.2 时态逻辑的发展](https://plato.stanford.edu/entries/prior/#TensLogiComeAge)
-* [2. 模态逻辑的研究](https://plato.stanford.edu/entries/prior/#WorkModaLogi)
-
-  * [2.1 形式逻辑的技艺](https://plato.stanford.edu/entries/prior/#CrafFormLogi)
-  * [2.2 一般内涵逻辑](https://plato.stanford.edu/entries/prior/#GeneInteLogi)
-  * [2.3 亚瑟·普赖尔和可能世界语义](https://plato.stanford.edu/entries/prior/#PrioPossWorlSema)
-  * [2.4 亚瑟·普赖尔和克里普基](https://plato.stanford.edu/entries/prior/#PrioKrip)
-* [3. 生活和哲学发展](https://plato.stanford.edu/entries/prior/#LifePhilDeve)
-
-  * [ 3.1 开始](https://plato.stanford.edu/entries/prior/#LaunOut)
-  * [3.2 宗教记者](https://plato.stanford.edu/entries/prior/#ReliJour)
-  * [3.3 初尝欧洲](https://plato.stanford.edu/entries/prior/#FirsTastEuro)
-  * [ 3.4 政治](https://plato.stanford.edu/entries/prior/#Poli)
-  * [3.5 个人勇气，黑暗时期](https://plato.stanford.edu/entries/prior/#PersCourBleaTime)
-  * [ 3.6 新人](https://plato.stanford.edu/entries/prior/#NewMan)
-  * [3.7 回到英国](https://plato.stanford.edu/entries/prior/#BackEngl)
-  * [ 3.8 宗教](https://plato.stanford.edu/entries/prior/#Reli)
-  * [ 3.9 最后几年](https://plato.stanford.edu/entries/prior/#LastYear)
-  * [3.10 在新西兰的遗产](https://plato.stanford.edu/entries/prior/#LegaNewZeal)
-* [ 参考文献](https://plato.stanford.edu/entries/prior/#Bib)
-
-  * [ 亚瑟·普赖尔的作品](https://plato.stanford.edu/entries/prior/#WorkPrio)
-  * [ 参考资料](https://plato.stanford.edu/entries/prior/#Refe)
-* [ 学术工具](https://plato.stanford.edu/entries/prior/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/prior/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/prior/#Rel)
+ 
 
 ---
 

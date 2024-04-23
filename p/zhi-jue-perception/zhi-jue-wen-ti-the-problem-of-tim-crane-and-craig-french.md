@@ -4,56 +4,7 @@
 
 知觉问题是关于我们对感知经验的普遍和传统问题。这个问题是由感知错觉和幻觉的现象所引起的：如果这些错误是可能的，那么感知经验如何成为我们通常理解的东西：使我们能够直接感知世界的东西？这些错误的可能性挑战了我们对感知经验的普通理解的可理解性；经验的主要理论是对这一挑战的回应。
 
-* [1.我们对感知经验的普通理解](https://plato.stanford.edu/entries/perception-problem/#OrdConPerExp)
-
-  * [ 1.1 起点](https://plato.stanford.edu/entries/perception-problem/#Sta)
-  * [ 1.2 普通物体](https://plato.stanford.edu/entries/perception-problem/#Ord)
-  * [ 1.3 呈现](https://plato.stanford.edu/entries/perception-problem/#Pre)
-  * [ 1.4 直接实在论](https://plato.stanford.edu/entries/perception-problem/#Dir)
-  * [1.5 知觉的特性](https://plato.stanford.edu/entries/perception-problem/#Cha)
-  * [1.6 共同种类主张](https://plato.stanford.edu/entries/perception-problem/#Com)
-* [2. 知觉问题](https://plato.stanford.edu/entries/perception-problem/#ProPer)
-
-  * [2.1 幻觉论证](https://plato.stanford.edu/entries/perception-problem/#ArgIll)
-  * [2.2 幻觉论证](https://plato.stanford.edu/entries/perception-problem/#ArgHal)
-* [3. 知觉经验的理论](https://plato.stanford.edu/entries/perception-problem/#TheExp)
-
-  * [3.1 知觉经验理论](https://plato.stanford.edu/entries/perception-problem/#SenDatThe)
-
-    * [3.1.1 知觉经验理论概述](https://plato.stanford.edu/entries/perception-problem/#SenDatTheOut)
-    * [3.1.2 知觉经验理论与感知问题](https://plato.stanford.edu/entries/perception-problem/#SenDatThePro)
-    * [3.1.3 知觉经验的感觉数据理论和我们的普通概念](https://plato.stanford.edu/entries/perception-problem/#SenDatTheOrd)
-    * [3.1.4 知觉经验的感觉数据理论和对世界的感知](https://plato.stanford.edu/entries/perception-problem/#SenDatThePer)
-    * [3.1.5 对感觉数据理论的反对意见](https://plato.stanford.edu/entries/perception-problem/#ObjSenDatThe)
-  * [ 3.2 副词主义](https://plato.stanford.edu/entries/perception-problem/#Adv)
-
-    * [3.2.1 副词主义概述](https://plato.stanford.edu/entries/perception-problem/#AdvOut)
-    * [3.2.2 副词主义与感觉质地](https://plato.stanford.edu/entries/perception-problem/#AdvQua)
-    * [3.2.3 对副词主义的反对意见](https://plato.stanford.edu/entries/perception-problem/#ObjAdv)
-    * [3.2.4 副词主义与知觉问题](https://plato.stanford.edu/entries/perception-problem/#AdvPro)
-    * [3.2.5 副词主义与我们对知觉经验的普通概念](https://plato.stanford.edu/entries/perception-problem/#AdvOrd)
-    * [3.2.6 副词主义和对世界的知觉](https://plato.stanford.edu/entries/perception-problem/#AdvPer)
-  * [ 3.3 意向主义](https://plato.stanford.edu/entries/perception-problem/#IntThe)
-
-    * [3.3.1 意向主义概述](https://plato.stanford.edu/entries/perception-problem/#IntOut)
-    * [3.3.2 知觉经验的来源](https://plato.stanford.edu/entries/perception-problem/#SouInt)
-    * [3.3.3 知觉经验的知觉内容](https://plato.stanford.edu/entries/perception-problem/#IntCon)
-    * [3.3.4 知觉经验与感知问题](https://plato.stanford.edu/entries/perception-problem/#IntPro)
-    * [3.3.5 知觉主义和对世界的知觉](https://plato.stanford.edu/entries/perception-problem/#IntPer)
-    * [3.3.6 知觉主义和我们对知觉经验的普通概念](https://plato.stanford.edu/entries/perception-problem/#IntOrd)
-  * [3.4 幼稚实在主义](https://plato.stanford.edu/entries/perception-problem/#NaiRea)
-
-    * [3.4.1 简单实在论概述](https://plato.stanford.edu/entries/perception-problem/#NaiReaOut)
-    * [3.4.2 简单实在论与知觉问题](https://plato.stanford.edu/entries/perception-problem/#NaiReaPro)
-    * [3.4.3 简单实在论分离主义的发展](https://plato.stanford.edu/entries/perception-problem/#DevNaiRea)
-    * [3.4.4 幼稚实在论、分离主义和我们对知觉经验的普通概念](https://plato.stanford.edu/entries/perception-problem/#NaiReaOrd)
-* [ 4. 结论](https://plato.stanford.edu/entries/perception-problem/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/perception-problem/#Bib)
-
-  * [ 进一步阅读](https://plato.stanford.edu/entries/perception-problem/#FurRea)
-* [ 学术工具](https://plato.stanford.edu/entries/perception-problem/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/perception-problem/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/perception-problem/#Rel)
+ 
 
 ---
 

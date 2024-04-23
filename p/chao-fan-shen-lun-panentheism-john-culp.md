@@ -4,16 +4,7 @@
 
 "超泛神论"是一个由希腊词汇"pan"（意为全部）、"en"（意为在）和源自希腊词"theos"（意为上帝）的英语等效词组成的构词。超泛神论认为上帝和世界是相互关联的，世界存在于上帝之中，上帝存在于世界之中。虽然超泛神论提供了一种越来越受欢迎的古典神论的替代方案，但无论是超泛神论还是古典神论系统都肯定了神的超越性和内在性。然而，古典神论系统通过优先考虑上帝与世界之间的差异而拒绝接受世界对上帝的任何影响，而超泛神论则肯定了世界对上帝的影响。另一方面，虽然泛神论强调上帝与世界的同一性，超泛神论则维护了非神性的同一性和重要性。对上帝的超泛神论理解的预期在哲学和神学著作中都有出现（Hartshorne 和 Reese 1953; J. Cooper, 2006）。然而，在过去的两个世纪中，超泛神论的理解形式在基督教传统中得到了丰富多样的发展，以应对科学思想（Clayton 和 Peacocke 2004）。虽然超泛神论肯定了上帝在世界中的存在，同时不失去上帝或世界的独特身份，但是不同来源的超泛神论形式以各种方式解释了上帝与世界的关系的本质，并对世界对上帝身份的重要性得出了不同的结论。超泛神论者对两个主要批评作出了回应：（1）超泛神论的上帝是有限的上帝，（2）超泛神论无法与古典神论或泛神论等其他形式的神论区分开来。
 
-* [ 1. 术语](https://plato.stanford.edu/entries/panentheism/#Ter)
-* [ 2. 历史](https://plato.stanford.edu/entries/panentheism/#His)
-* [3. 当代表达](https://plato.stanford.edu/entries/panentheism/#ConExp)
-* [4. 超泛神论的本质/世界关系](https://plato.stanford.edu/entries/panentheism/#OntBas)
-* [5. 批评与回应](https://plato.stanford.edu/entries/panentheism/#CriRes)
-* [ 参考文献](https://plato.stanford.edu/entries/panentheism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/panentheism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/panentheism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/panentheism/#Rel)
-
+ 
 ---
 
 ## 1. 术语

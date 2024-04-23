@@ -3,31 +3,7 @@
 
 普罗克洛斯（412-485 年）是晚期古代最有权威的哲学家，对柏拉图哲学从古代传承到中世纪起到了至关重要的作用。在近五十年的时间里，他担任了雅典柏拉图学派的负责人或“继任者”（即柏拉图的继承者）。作为一个极其多产的作家，他撰写了关于亚里士多德、欧几里得和柏拉图的评论，以及关于当时哲学各个学科（形而上学和神学、物理学、天文学、数学、伦理学）和宗教智慧传统（奥菲斯主义和迦南神谕）的系统论文和解释性著作。普罗克洛斯对晚期新柏拉图学派的发展产生了持久的影响，不仅在雅典，还在亚历山大，他的学生阿蒙尼乌斯成为了该学派的负责人。在基督教主导的文化中，新柏拉图哲学家们不得不捍卫希腊智慧传统的优越性。继伊安布利科斯（公元 4 世纪）和皇帝朱利安这一具有魅力的人物之后，普罗克洛斯继承了叙利亚努斯的教诲，渴望展示古代宗教启示（荷马和赫西奥德的神话、奥菲斯的神创论和迦南神谕）与毕达哥拉斯和柏拉图的哲学传统的和谐。为此，他的《柏拉图神学》提供了一个对希腊异教神学的权威总结。研究普罗克洛斯哲学的最佳起点可能是《神学要素》（附有 E.R.多兹的精彩评论），它提供了对新柏拉图形而上学系统的系统性介绍。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/proclus/#LifWor)
-
-  * [1.1《普罗克洛斯或幸福论》（马里努斯的《普罗克洛斯传》）](https://plato.stanford.edu/entries/proclus/#ProHapMarLifPro)
-  * [1.2 作品（现存和失传）](https://plato.stanford.edu/entries/proclus/#WorExtLos)
-* [2. 柏拉图的评论者](https://plato.stanford.edu/entries/proclus/#ComPla)
-* [3. 哲学观点](https://plato.stanford.edu/entries/proclus/#PhiVie)
-
-  * [3.1 形而上学和神学](https://plato.stanford.edu/entries/proclus/#MetThe)
-  * [ 3.2 因果关系](https://plato.stanford.edu/entries/proclus/#Cau)
-  * [3.3 心理学和认识论](https://plato.stanford.edu/entries/proclus/#PsyEpi)
-  * [3.4 伦理学（普罗克洛斯，命运，选择自由，邪恶）](https://plato.stanford.edu/entries/proclus/#EthProFatFreChoEvi)
-  * [3.5 物理学，天文学和数学](https://plato.stanford.edu/entries/proclus/#PhyAstMat)
-  * [ 3.6 神秘学](https://plato.stanford.edu/entries/proclus/#The)
-* [ 4. 影响力](https://plato.stanford.edu/entries/proclus/#Inf)
-* [ 参考文献](https://plato.stanford.edu/entries/proclus/#Bib)
-
-  * [普罗克洛斯的现存作品（版本和翻译）](https://plato.stanford.edu/entries/proclus/#ProExtWorEdiTra)
-  * [《普罗克洛斯》和《柏拉图》](https://plato.stanford.edu/entries/proclus/#Biblio)
-  * [《卡利克勒斯》（按时间顺序）](https://plato.stanford.edu/entries/proclus/#IntChrOrd)
-  * [《塞拉西马柯》（按时间顺序）](https://plato.stanford.edu/entries/proclus/#ColVolChrOrd)
-  * [ 学术作品](https://plato.stanford.edu/entries/proclus/#SchWor)
-* [ 学术工具](https://plato.stanford.edu/entries/proclus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/proclus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/proclus/#Rel)
-
+ 
 ---
 
 ## 1. 生平与著作

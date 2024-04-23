@@ -16,37 +16,7 @@
 
 虽然第一个贡献，即从一元逻辑到谓词逻辑的扩展，使皮尔士与弗雷格一起成为现代逻辑的奠基人，但皮尔士的其他成就要等很久才能得到逻辑学家或哲学家的适当关注。本文旨在为皮尔士在演绎逻辑中的旅程绘制一张路线图，以便人们可以意识到他的成就与彼此之间有很大的联系。具体而言，皮尔士在演绎逻辑方面的成就是累积的。在能够用新的符号表示形式化多元关系之后，皮尔士设计了一种全新的表达形式——图示系统。我们可以形式化的内容得到了扩展，以及我们如何形式化我们可以形式化的内容也得到了扩展。皮尔士探索了我们的形式化表示代表着什么，并提出了比二元真值更精细或更广阔的语义值领域的建议。
 
-* [1. 从一元逻辑到多元逻辑](https://plato.stanford.edu/entries/peirce-logic/#MonaPolyLogi)
-
-  * [1.1 关系和量化形式化](https://plato.stanford.edu/entries/peirce-logic/#RelaQuanForm)
-  * [1.2 布尔传统-代数和模型论](https://plato.stanford.edu/entries/peirce-logic/#BoolTradModeTheo)
-* [2. 从符号到图像的表示](https://plato.stanford.edu/entries/peirce-logic/#SymbIconRepr)
-
-  * [2.1 应用于关系逻辑的实用主义原则](https://plato.stanford.edu/entries/peirce-logic/#PragMaxiApplLogiRela)
-  * [2.2 Alpha 系统](https://plato.stanford.edu/entries/peirce-logic/#AlphSyst)
-
-    * [ 语法](https://plato.stanford.edu/entries/peirce-logic/#Synt)
-
-      * [ 词汇](https://plato.stanford.edu/entries/peirce-logic/#Voca)
-      * [ 良好构造的图表](https://plato.stanford.edu/entries/peirce-logic/#WellFormDiag)
-    * [内部阅读算法](https://plato.stanford.edu/entries/peirce-logic/#EndoReadAlgo)
-    * [多重阅读算法](https://plato.stanford.edu/entries/peirce-logic/#MultReadAlgo)
-
-      * [ 示例](https://plato.stanford.edu/entries/peirce-logic/#Exam)
-    * [ 语义学](https://plato.stanford.edu/entries/peirce-logic/#Sema)
-    * [改写的转换规则](https://plato.stanford.edu/entries/peirce-logic/#RefoTranRule)
-  * [ 2.3 测试系统](https://plato.stanford.edu/entries/peirce-logic/#BetaSyst)
-* [3. 从二值逻辑到三元逻辑](https://plato.stanford.edu/entries/peirce-logic/#BivaTriaLogi)
-
-  * [3.1 三值系统的真值表](https://plato.stanford.edu/entries/peirce-logic/#TrutTablThreValuSyst)
-  * [3.2 为什么有第三个值？](https://plato.stanford.edu/entries/peirce-logic/#WhyThirValu)
-* [ 参考文献](https://plato.stanford.edu/entries/peirce-logic/#Bib)
-
-  * [A. 主要来源：在本条目中引用的查尔斯·桑德斯·皮尔士的著作](https://plato.stanford.edu/entries/peirce-logic/#PrimSourWorkCSPeirCiteEntr)
-  * [ B. 次要来源](https://plato.stanford.edu/entries/peirce-logic/#BSecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/peirce-logic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/peirce-logic/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/peirce-logic/#Rel)
+ 
 
 ---
 

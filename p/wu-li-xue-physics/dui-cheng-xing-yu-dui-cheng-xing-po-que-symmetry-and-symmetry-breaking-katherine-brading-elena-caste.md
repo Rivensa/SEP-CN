@@ -6,26 +6,7 @@
 
 本条目首先简要描述了对称性的历史根源和在现代科学中的出现。然后将这个概念应用于物理学，区分了对称原理和对称论证两种不同的对称性使用方式。它提到了不同种类的物理对称性，并概述了它们如何被引入物理学。然后，从各种对称性的细节中退后一步，对对称性在物理学中的地位和意义进行了一些一般性的评论。
 
-* [1. 对称性的概念](https://plato.stanford.edu/entries/symmetry-breaking/#ConcSymm)
-* [2. 对称性原则](https://plato.stanford.edu/entries/symmetry-breaking/#SymmPrin)
-
-  * [ 2.1 相对论](https://plato.stanford.edu/entries/symmetry-breaking/#Rela)
-  * [2.2 对称性和量子力学](https://plato.stanford.edu/entries/symmetry-breaking/#SymmQuanMech)
-  * [2.3 对称性排列](https://plato.stanford.edu/entries/symmetry-breaking/#PermSymm)
-  * [2.4 ](https://plato.stanford.edu/entries/symmetry-breaking/#CPT)​*[C](https://plato.stanford.edu/entries/symmetry-breaking/#CPT)*​[, ](https://plato.stanford.edu/entries/symmetry-breaking/#CPT)​*[P](https://plato.stanford.edu/entries/symmetry-breaking/#CPT)*​[, ](https://plato.stanford.edu/entries/symmetry-breaking/#CPT)​*[T](https://plato.stanford.edu/entries/symmetry-breaking/#CPT)*
-  * [ 2.5 规范对称性](https://plato.stanford.edu/entries/symmetry-breaking/#GaugSymm)
-  * [ 2.6 对偶性](https://plato.stanford.edu/entries/symmetry-breaking/#Dual)
-* [ 3. 对称性论证](https://plato.stanford.edu/entries/symmetry-breaking/#SymmArgu)
-* [4. 对称性破缺](https://plato.stanford.edu/entries/symmetry-breaking/#SymmBrea)
-
-  * [4.1 明确的对称性破缺](https://plato.stanford.edu/entries/symmetry-breaking/#ExplSymmBrea)
-  * [4.2 自发的对称性破缺](https://plato.stanford.edu/entries/symmetry-breaking/#SponSymmBrea)
-* [5. 哲学上的一般问题](https://plato.stanford.edu/entries/symmetry-breaking/#GenePhilQues)
-* [ 参考文献](https://plato.stanford.edu/entries/symmetry-breaking/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/symmetry-breaking/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/symmetry-breaking/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/symmetry-breaking/#Rel)
-
+ 
 ---
 
 ## 1. 对称性的概念

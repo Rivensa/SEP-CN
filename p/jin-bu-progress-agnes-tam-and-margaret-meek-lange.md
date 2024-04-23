@@ -8,27 +8,7 @@
 
 有趣的是，过去十年间，进步的话语似乎有所复兴，尤其是在道德和政治哲学领域。就像它的兴起和衰落一样，进步的话语的持续复兴主要是由其所处时代的政治潮流所推动的。21 世纪被广泛认为是社会变革的另一个时代。从积极的一面来看，社会运动正在为以前被边缘化的群体和个人（例如被种族化为黑人的人，LGBTQ2+社群的成员）赢得人权方面的斗争；从消极的一面来看，非自由主义民粹主义正在动摇全球的民主和和平。如果这些模式不仅仅是状态转变的随机变化，而是被视为构成真正的道德改进需要得到保障和扩大或道德衰退的例子需要被审视和阻止的话，那么为了描述和评估这些趋势，似乎我们仍然需要一个进步的概念。哲学上的挑战是避免陷入启蒙时代的天真乐观主义和后现代主义的过度怀疑。关于进步的许多新文献致力于从人类发展的偶然观点中拯救出一个进步的概念，并为理性、人类行动和制度设计开辟一个有意义但有限的角色，以促进进步。本条目的第 2 节总结了近期哲学努力，试图将进化科学和经验历史与人类进步（道德和政治）调和起来，为启蒙时代的进步观提供证明、完善和挑战。当代话语中出现的一种新共识是一个更加谦逊的进步观念，它仅仅是可能的、开放的、局部的和非线性的。
 
-* [1. 启蒙时代关于进步的话语](https://plato.stanford.edu/entries/progress/#EnliDiscProg)
-
-  * [1.1 历史背景：现代科学的兴起](https://plato.stanford.edu/entries/progress/#HistContRiseModeScie)
-  * [1.2 历史的形而上学和目的论观念的进步](https://plato.stanford.edu/entries/progress/#MetaHistTeleConcProg)
-  * [1.3 人类学和非目的论观念的进步](https://plato.stanford.edu/entries/progress/#AnthNonTeleConcProg)
-* [2. 进步的当代观点](https://plato.stanford.edu/entries/progress/#ContViewProg)
-
-  * [2.1 进化和非目的论的进步观念](https://plato.stanford.edu/entries/progress/#EvolNonTeleConcProg)
-  * [2.2 道德现实主义和目的论的进步观念](https://plato.stanford.edu/entries/progress/#MoraRealTeleConcProg)
-  * [2.3 价值多元主义和进步的衡量方式](https://plato.stanford.edu/entries/progress/#ValuPlurMeasProg)
-  * [2.4 人性的作用](https://plato.stanford.edu/entries/progress/#RoleHumaNatu)
-  * [2.5 理性的作用](https://plato.stanford.edu/entries/progress/#RoleReas)
-  * [2.6 制度的作用](https://plato.stanford.edu/entries/progress/#RoleInst)
-* [3. 进步的批评](https://plato.stanford.edu/entries/progress/#CritProg)
-
-  * [3.1 来自批判理论和道德相对主义的形而上学批评](https://plato.stanford.edu/entries/progress/#MetaCritCritTheoMoraRela)
-  * [3.2 来自后现代主义和后殖民主义的规范批评](https://plato.stanford.edu/entries/progress/#NormCritPostPost)
-* [ 参考文献](https://plato.stanford.edu/entries/progress/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/progress/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/progress/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/progress/#Rel)
+ 
 
 ---
 

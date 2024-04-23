@@ -4,15 +4,7 @@
 
 本杰明·皮尔斯（1809 年 4 月 4 日出生，1880 年 10 月 6 日逝世）是哈佛大学的教授，他对天体力学、平面和球面三角测量在导航中的应用、数论和代数都有兴趣。在力学方面，他帮助确定了（与天王星相关的）海王星的轨道。在数论方面，他证明了没有少于四个不同素因子的奇完全数。在代数方面，他出版了一本关于复合结合代数的综合性书籍。皮尔斯对哲学家们也很有兴趣，因为他对数学的性质和必要性发表了一些评论。
 
-* [ 1. 职业生涯](https://plato.stanford.edu/entries/peirce-benjamin/#1)
-* [2. 数学、力学和上帝](https://plato.stanford.edu/entries/peirce-benjamin/#2)
-* [3. 代数及其哲学](https://plato.stanford.edu/entries/peirce-benjamin/#3)
-* [4. 必然性的哲学](https://plato.stanford.edu/entries/peirce-benjamin/#4)
-* [ 参考文献](https://plato.stanford.edu/entries/peirce-benjamin/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/peirce-benjamin/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/peirce-benjamin/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/peirce-benjamin/#Rel)
-
+ 
 ---
 
 ## 1. 职业生涯

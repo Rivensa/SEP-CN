@@ -4,46 +4,7 @@ _首次发表于2006年7月14日；实质修订于2017年5月16日_
 
 中世纪哲学是在中世纪期间在西欧产生的哲学。即使在中世纪学者中，对于这个时期的开始和结束时间也没有共识；\[1]然而，一般而言，从奥古斯丁（354-430）开始，并注意到中世纪哲学的影响甚至延续到笛卡尔（1596-1650）的诞生，这种说法可能既不完全正确也不完全错误。中世纪政治哲学是中世纪哲学中关注政治事务的部分。中世纪（以及早期现代时期）关于政治的哲学写作往往是试图影响公共事件的一种尝试，因此这个主题的历史涉及对这些事件的参考。它还涉及对中世纪文化的发展的参考，例如九世纪和十二世纪的复兴，以及法律制度和大学的发展。这一时期哲学与宗教之间的紧密关系也使得故事变得复杂。这些“超哲学”的联系是中世纪政治哲学在中世纪的发展过程中的原因之一，因为宗教和政治思想受到文化发展和事件压力的影响而发生了变化。本文的重点是拉丁中世纪的神学家和哲学家，文章的一般安排是按时间顺序排列的。\[2]
 
-* [1. 中世纪政治哲学的范围](https://plato.stanford.edu/entries/medieval-political/#ScopMediPoliPhil)
-* [2. 圣经](https://plato.stanford.edu/entries/medieval-political/#BibA)
-  * [2.1 顺从权力](https://plato.stanford.edu/entries/medieval-political/#ObedPowe)
-  * [2.2 奴隶制度](https://plato.stanford.edu/entries/medieval-political/#Slav)
-  * [2.3 财产](https://plato.stanford.edu/entries/medieval-political/#Prop)
-  * [2.4 和平主义](https://plato.stanford.edu/entries/medieval-political/#Paci)
-  * [2.5 基督的国度](https://plato.stanford.edu/entries/medieval-political/#ChriKing)
-* [3. 教父们](https://plato.stanford.edu/entries/medieval-political/#FathChur)
-* [4. 奥古斯丁](https://plato.stanford.edu/entries/medieval-political/#Augu)
-  * [4.1 《上帝之城》](https://plato.stanford.edu/entries/medieval-political/#CityGod)
-  * [4.2 战争](https://plato.stanford.edu/entries/medieval-political/#Warf)
-  * [4.3 强制异端](https://plato.stanford.edu/entries/medieval-political/#CoerHere)
-* [5. 卡洛林主义政治思想](https://plato.stanford.edu/entries/medieval-political/#CaroPoliThou)
-* [6. 民法和教会法](https://plato.stanford.edu/entries/medieval-political/#CiviCanoLaw)
-  * [6.1 自然法和自然权利](https://plato.stanford.edu/entries/medieval-political/#NatuLawNatuRigh)
-* [7. 亚里士多德的政治学](https://plato.stanford.edu/entries/medieval-political/#ArisPoli)
-* [8. 教皇权力的完全性](https://plato.stanford.edu/entries/medieval-political/#PapaFullPowe)
-* [9. 托马斯·阿奎那](https://plato.stanford.edu/entries/medieval-political/#ThomAqui)
-  * [9.1 世俗与精神权力](https://plato.stanford.edu/entries/medieval-political/#SecuSpirPowe)
-* [10. 罗马的吉尔斯](https://plato.stanford.edu/entries/medieval-political/#GileRome)
-* [11. 约翰·巴黎](https://plato.stanford.edu/entries/medieval-political/#JohnPari)
-* [12. 帕多瓦的马西略](https://plato.stanford.edu/entries/medieval-political/#MarsPadu)
-* [13. 威廉·奥坎](https://plato.stanford.edu/entries/medieval-political/#WillOckh)
-  * [13.1 属性](https://plato.stanford.edu/entries/medieval-political/#PropA)
-  * [13.2 教皇权力受限](https://plato.stanford.edu/entries/medieval-political/#PapaPoweLimi)
-  * [13.3 世俗权力同样受限](https://plato.stanford.edu/entries/medieval-political/#SecuPoweAlsoLimi)
-  * [13.4 社区的权利](https://plato.stanford.edu/entries/medieval-political/#RighComm)
-  * [13.5 教会内的讨论自由](https://plato.stanford.edu/entries/medieval-political/#FreeDiscWithChur)
-* [14. 公会运动](https://plato.stanford.edu/entries/medieval-political/#ConcMove)
-* [15. 政治哲学的中世纪传统](https://plato.stanford.edu/entries/medieval-political/#MediTradPoliPhil)
-* [参考书目](https://plato.stanford.edu/entries/medieval-political/#Bib)
-  * [概述和综述](https://plato.stanford.edu/entries/medieval-political/#GeneSurvOver)
-  * [翻译选集](https://plato.stanford.edu/entries/medieval-political/#AnthTran)
-  * [翻译的个别作者](https://plato.stanford.edu/entries/medieval-political/#IndiAuthTran)
-  * [主要作品的拉丁版](https://plato.stanford.edu/entries/medieval-political/#LatiEditPrinWork)
-  * [一般参考书目](https://plato.stanford.edu/entries/medieval-political/#GeneBibl)
-* [学术工具](https://plato.stanford.edu/entries/medieval-political/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/medieval-political/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/medieval-political/#Rel)
-
+ 
 ***
 
 ## 1. 中世纪政治哲学的范围

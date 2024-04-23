@@ -4,16 +4,7 @@
 
 实践理性是人类通过反思解决自己应该做什么的问题的一般能力。这种思考至少在两个意义上是实践的。首先，它在主题上是实践的，因为它涉及行动。但它在结果或问题上也是实践的，因为对行动本身的反思直接促使人们采取行动。我们对决策自主能力提出了两组哲学问题。首先，有关决策如何在问题上成功实践的问题。为了理解决策反思可以直接引发行动的事实，我们需要假设什么——关于行动者和他们从事的推理过程的假设？我们能够在保持实践决策真正成为一种推理形式的观念的同时，充分考虑到实践理性的这个维度吗？其次，关于实践推理中所涉及的标准的内容存在重大问题。哪些评估行动的规范对我们作为行动者具有约束力？这些规范是否为我们对自己的目标进行批判性反思提供资源，还是仅仅是工具性的？在什么条件下，道德规范能够为行动的推理提供有效的标准？本文的第 1-3 节讨论了第一组问题，而第 4-5 节涵盖了第二组问题。
 
-* [1. 实践理性和理论理性](https://plato.stanford.edu/entries/practical-reason/#PraTheRea)
-* [2. 自然主义和规范性](https://plato.stanford.edu/entries/practical-reason/#NatNor)
-* [3. 原因和动机](https://plato.stanford.edu/entries/practical-reason/#ReaMot)
-* [4. 工具性和结构性理性](https://plato.stanford.edu/entries/practical-reason/#InsStrRat)
-* [5. 最大化理性](https://plato.stanford.edu/entries/practical-reason/#MaxRat)
-* [6. 后果主义，价值和道德理由](https://plato.stanford.edu/entries/practical-reason/#ConValMorRea)
-* [ 参考文献](https://plato.stanford.edu/entries/practical-reason/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/practical-reason/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/practical-reason/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/practical-reason/#Rel)
+ 
 
 ---
 

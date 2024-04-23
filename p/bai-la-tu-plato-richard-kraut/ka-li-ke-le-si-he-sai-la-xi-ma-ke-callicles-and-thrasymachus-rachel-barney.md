@@ -4,21 +4,7 @@
 
 卡利克勒斯和塞拉西马柯是哲学中对传统道德持蔑视挑战的两个伟大典范。他们都是柏拉图对话中的角色，分别出现在《哥吉亚斯》和《理想国》第一卷中；他们都谴责公正、正义（dikaiosunê）的美德，认为它是对个人利益的人为制约，是一个只有聪明人才能看穿的欺诈。塞拉西马柯和卡利克勒斯一起成为了道德哲学中的民间神话中的“不道德主义者”（或“无道德主义者”）。也许这些词并不完全准确，但给他们的共同挑战贴上一个标签是有用的——更一般地说，对于那些要求有一个好理由遵守道德约束，并明确或暗示地否认这一要求能够得到满足的人物。由于这个共同的议程，以及苏格拉底对卡利克勒斯的驳斥可以被看作是《理想国》的一个不令人满意的排练，人们很容易认为这两个人有着相同的哲学立场。但事实上，卡利克勒斯和塞拉西马柯并不是可以互换的；他们之间的差异对于对柏拉图的解释以及对不道德主义的各种形式和背后动机的理解都是重要的。本文讨论了这两个人物所提出的共同挑战以及区分他们的特点，严格将他们视为柏拉图哲学戏剧中的角色。（塞拉西马柯是一个真实的人物，是一位著名的外交家和演说家，我们只知道他的真实观点很少；关于卡利克勒斯，我们一无所知，他甚至可能是柏拉图的虚构。）本文还将把他们与《理想国》第二卷中格劳孔和阿黛玛特所提出的不道德主义挑战以及索菲斯特安提丰的著作进行比较——后者是这三种柏拉图观点中最知名的现实对应物，也许是它们的历史原型。 柏拉图自己反对不道德主义的论证的某些方面也将被讨论，因为它们有助于澄清卡利克勒斯和塞拉西马柯自己的观点。
 
-* [ 1. 正义](https://plato.stanford.edu/entries/callicles-thrasymachus/#Just)
-* [ 2. 塞拉西马柯](https://plato.stanford.edu/entries/callicles-thrasymachus/#Thra)
-* [3. 苏格拉底 vs. 塞拉西马柯[4]](https://plato.stanford.edu/entries/callicles-thrasymachus/#SocrVsThra)
-* [ 4. 卡利克勒斯](https://plato.stanford.edu/entries/callicles-thrasymachus/#Call)
-* [5. 苏格拉底 vs. 卡利克勒斯](https://plato.stanford.edu/entries/callicles-thrasymachus/#SocrVsCall)
-* [6. 结论：塞拉西马柯，卡利克勒斯，格劳孔，安提丰](https://plato.stanford.edu/entries/callicles-thrasymachus/#ConcThraCallGlauAnti)
-* [ 参考文献](https://plato.stanford.edu/entries/callicles-thrasymachus/#Bib)
-
-  * [不道德主义者的挑战](https://plato.stanford.edu/entries/callicles-thrasymachus/#ImmoChal)
-  * [希腊道德传统，苏格拉底派和他们的社会背景（包括安提丰）](https://plato.stanford.edu/entries/callicles-thrasymachus/#GreeMoraTradSophTheiSociContInclAnti)
-  * [塞拉西马柯和《理想国》（包括格劳孔）](https://plato.stanford.edu/entries/callicles-thrasymachus/#ThraRepuInclGlau)
-  * [卡利克勒斯和《哥吉亚斯》](https://plato.stanford.edu/entries/callicles-thrasymachus/#CallGorg)
-* [ 学术工具](https://plato.stanford.edu/entries/callicles-thrasymachus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/callicles-thrasymachus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/callicles-thrasymachus/#Rel)
+ 
 
 ---
 

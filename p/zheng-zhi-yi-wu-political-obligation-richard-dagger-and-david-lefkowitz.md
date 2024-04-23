@@ -7,35 +7,7 @@
 政治思想史上充满了试图提供一个令人满意的政治义务解释的尝试，从苏格拉底时代到现在。近年来，这些尝试变得越来越复杂，但是它们并没有使我们在解决政治义务问题上比十七世纪的托马斯·霍布斯和约翰·洛克的努力更接近一些。这些复杂的尝试也没有使回顾早期解决问题的努力变得不必要。相反，对政治义务问题的棘手性的认识需要对其在政治思想史中的地位给予一些关注。
 
 因此，这篇论文首先简要介绍了政治义务问题的历史。然后，在第二部分中，转向了政治义务引发的概念问题，比如义务何以成为政治义务。第三部分关注怀疑论者，特别关注自称哲学无政府主义者，他们否认存在政治义务，但并不坚持国家必然是不合理的。第四部分概述了现在提供的各种政治义务理论中的主要竞争者，第五部分通过考虑最近提出的多元主义或“多原则”方法来结束论文。
-
-* [1. 历史视角下的政治义务](https://plato.stanford.edu/entries/political-obligation/#PolOblHisPer)
-
-  * [1.1 苏格拉底对遵守法律的看法](https://plato.stanford.edu/entries/political-obligation/#SocObeLaw)
-  * [ 1.2 神命令](https://plato.stanford.edu/entries/political-obligation/#DivCom)
-  * [1.3 社会契约](https://plato.stanford.edu/entries/political-obligation/#SocCon)
-  * [1.4 效用和义务](https://plato.stanford.edu/entries/political-obligation/#UtiObl)
-  * [1.5 康德对合法性和义务的看法](https://plato.stanford.edu/entries/political-obligation/#KanLegObl)
-* [2. 概念问题](https://plato.stanford.edu/entries/political-obligation/#ConMat)
-
-  * [2.1 义务和责任](https://plato.stanford.edu/entries/political-obligation/#OblDut)
-  * [2.2 义务: 政治、法律和公民](https://plato.stanford.edu/entries/political-obligation/#OblPolCivLeg)
-  * [2.3 义务、道德和实践理由](https://plato.stanford.edu/entries/political-obligation/#OblMorPra)
-* [3. 对政治义务的无政府主义挑战](https://plato.stanford.edu/entries/political-obligation/#AnaChaPolObl)
-
-  * [3.1 哲学无政府主义](https://plato.stanford.edu/entries/political-obligation/#PhiAna)
-  * [3.2 反对哲学无政府主义](https://plato.stanford.edu/entries/political-obligation/#AgaPhiAna)
-* [4. 政治义务的当代理论](https://plato.stanford.edu/entries/political-obligation/#ConThePolObl)
-
-  * [ 4.1 同意](https://plato.stanford.edu/entries/political-obligation/#Con)
-  * [ 4.2 公平竞争](https://plato.stanford.edu/entries/political-obligation/#FaiPla)
-  * [4.3 成员资格或协会](https://plato.stanford.edu/entries/political-obligation/#MemAss)
-  * [ 4.4 自然义务](https://plato.stanford.edu/entries/political-obligation/#NatDut)
-* [5. 结论：多元原则？](https://plato.stanford.edu/entries/political-obligation/#ConPluPri)
-* [ 参考文献](https://plato.stanford.edu/entries/political-obligation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/political-obligation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/political-obligation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/political-obligation/#Rel)
-
+ 
 ---
 
 ## 1.历史视角下的政治义务

@@ -6,31 +6,7 @@
 柏拉图的较短的伦理著作展示了苏格拉底在与美德相关的主题上的工作，他认为我们应该为了灵魂而寻求美德，就像我们应该为了身体而寻求健康一样。这个群体中的作品不仅在风格上有相似之处，而且在哲学上也有相似之处，通常被认为是柏拉图早期的作品。这个群体中的对话是我们对柏拉图式苏格拉底哲学风格和教学的主要来源，一些学者认为这个苏格拉底在某种程度上可以合理地近似于历史人物。在本文中，“苏格拉底”始终指的是在这里讨论的作品中的柏拉图式人物。他与柏拉图中期作品中的苏格拉底不同，后者将灵魂视为一个统一体，而共和国 2-10 和其他中期对话中的苏格拉底将其视为分为两个或三个部分。
 
 第 2 至 9 节涉及到这些讨论作品中常见的哲学主题。第 10 节涉及到柏拉图用作这些对话的背景的知识世界。第 11 至 20 节涉及到这个群体中的各个对话。由于这个苏格拉底经常用问题的形式发言，而且当他发表陈述时，它们可能是反驳中的战略要素，而不是他真正的观点，所以很难确定他的观点。因此，学者们对他的观点进行了许多争论。有关详细信息，请参阅 Rappe 和 Kamtekar（2005）、Morrison（2011）、Bussanich 和 Smith（2013）以及 Jones 和 Smith（2023）等相关文献。
-
-* [ 1. 引言](https://plato.stanford.edu/entries/plato-ethics-shorter/#1)
-* [ 2. 悖论](https://plato.stanford.edu/entries/plato-ethics-shorter/#2)
-* [ 3. 苏格拉底的定义](https://plato.stanford.edu/entries/plato-ethics-shorter/#3)
-* [4. 定义的优先级](https://plato.stanford.edu/entries/plato-ethics-shorter/#4)
-* [5. 美德及其本体论](https://plato.stanford.edu/entries/plato-ethics-shorter/#5)
-* [6. 美德的工具性](https://plato.stanford.edu/entries/plato-ethics-shorter/#6)
-* [7. 美德的统一](https://plato.stanford.edu/entries/plato-ethics-shorter/#7)
-* 8. 技术类比、知识主义和道德伤害
-* [9. 自制力不可能性](https://plato.stanford.edu/entries/plato-ethics-shorter/#9)
-* [10. 背景：诡辩家和科学家](https://plato.stanford.edu/entries/plato-ethics-shorter/#10)
-* [ 11. 道歉](https://plato.stanford.edu/entries/plato-ethics-shorter/#11)
-* [ 12. 克里托](https://plato.stanford.edu/entries/plato-ethics-shorter/#12)
-* [ 13. 尤西弗洛](https://plato.stanford.edu/entries/plato-ethics-shorter/#13)
-* [ 14. 魅力德斯](https://plato.stanford.edu/entries/plato-ethics-shorter/#14)
-* [ 15. 拉凯斯](https://plato.stanford.edu/entries/plato-ethics-shorter/#15)
-* [ 16. 希庇亚斯大师](https://plato.stanford.edu/entries/plato-ethics-shorter/#16)
-* [17. 柏拉图的真实性](https://plato.stanford.edu/entries/plato-ethics-shorter/#17)
-* [ 18. 小希庇阿斯](https://plato.stanford.edu/entries/plato-ethics-shorter/#18)
-* [ 19. 尤西德莫斯](https://plato.stanford.edu/entries/plato-ethics-shorter/#19)
-* [ 20. 柏拉图](https://plato.stanford.edu/entries/plato-ethics-shorter/#20)
-* [ 参考书目](https://plato.stanford.edu/entries/plato-ethics-shorter/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/plato-ethics-shorter/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plato-ethics-shorter/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plato-ethics-shorter/#Rel)
+ 
 
 ---
 

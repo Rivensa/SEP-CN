@@ -3,23 +3,7 @@
 *首次发表于2001年8月1日；实质性修订于2022年12月9日。*
 
 传统的神论认为上帝是天地的创造者，宇宙中发生的一切都在神意之下——也就是在上帝的主导和控制之下。据信徒们说，上帝以慈爱的父亲身份统治着创造，使一切事物都朝着好的方向发展。此外，据说上帝是一个绝对完美的存在。首先，他是全知的：他知道所有真理都是真实的，所有谬误都是错误的，无论是过去、现在还是未来。上帝的知识不会改变。他不会学习或忘记任何事情；他所知道的，他从永恒中无误地知道。其次，上帝是全能的：只要是逻辑上可能的事情，他都能做到。最后，上帝是完美善良的：在任何情况下，他都会为了最好的结果而行动，意图达到最好的可能结果。基于这些假设，我们最初的期望是，所有的创造物，有生命的和无生命的，都被命定为完美的善：作为创造者，上帝将他的努力投入到实现最大的可能的善的事业中，而没有人能够抵抗这种努力，因此我们所处的世界就是，用莱布尼茨的话来说，最好的世界。但不幸的是，证据表明情况并非如此。世界可能包含很多好的东西，但也是一个充满苦难、破坏和死亡的地方。生命是短暂的，并且充满各种痛苦——往往没有明显的目的，更不用说一个好的目的了。对于我们每个人来说，生命最终以个人的毁灭——死亡结束，这超越了一切世俗的希望，并且无法穿透地隐藏了可能存在的任何经历。这些困难不仅仅是人类的苦难。每一个生命都会死去，所有美丽的事物都会消逝，自然建造的一切都会被摧毁。事实上，根据科学的一个解释，当宇宙最终坍塌时，没有一个原子、没有一个光子能够逃脱这个大熔炉。而且这还不是全部。 在人类事务中，还存在着罪恶的额外问题：我们有时是受害者，有时是加害者的故意错误行为。如果上帝的本质如传统所假设的那样，这一切又如何解释呢？
-
-* [1. 逻辑一致性和归纳证据](https://plato.stanford.edu/entries/providence-divine/#LogConIndEvi)
-* [2. 自由意志辩护](https://plato.stanford.edu/entries/providence-divine/#FreWilDef)
-* [3. 神对未来的知识和开放神学](https://plato.stanford.edu/entries/providence-divine/#GodKnoFut)
-* [ 4. 中间知识](https://plato.stanford.edu/entries/providence-divine/#MidKno)
-* [5. 一个认识论的替代方案](https://plato.stanford.edu/entries/providence-divine/#WeaAlt)
-* [6. 传统解决方案](https://plato.stanford.edu/entries/providence-divine/#TraSol)
-* [7. 罪的作者](https://plato.stanford.edu/entries/providence-divine/#Sin)
-* [ 8. 道德恶](https://plato.stanford.edu/entries/providence-divine/#MorEviDef)
-* [ 9. 苦难](https://plato.stanford.edu/entries/providence-divine/#Suf)
-* [ 10. 神秘](https://plato.stanford.edu/entries/providence-divine/#SufDef)
-* [ 11. 结论](https://plato.stanford.edu/entries/providence-divine/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/providence-divine/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/providence-divine/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/providence-divine/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/providence-divine/#Rel)
-
+ 
 ---
 
 ## 1. 逻辑一致性和归纳证据

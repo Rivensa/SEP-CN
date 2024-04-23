@@ -4,21 +4,7 @@
 
 法律惩罚是否以及如何能够被证明合理一直是法律、道德和政治哲学的核心关注点：什么能够证明国家使用法律机构对其公民施加有意义的负担是合理的？对于这个问题，后果主义者和报复主义者理论家提供了截然不同的答案，同时还有那些试图将后果主义和报复主义考虑纳入“混合”惩罚理论的人。与此同时，废除主义者主张我们应该努力取代法律惩罚而不是为其辩护。在最近的惩罚理论研究中，一些重要的发展包括将惩罚描述为一种沟通企业，更加认识到惩罚的合理性取决于刑法的合理性，对国际背景下惩罚引发的规范挑战越来越感兴趣，以及对惩罚与所谓“附带”后果的关系越来越关注。
 
-* [1. 法律惩罚及其合理性](https://plato.stanford.edu/entries/legal-punishment/#LegPunJus)
-* [2. 惩罚、犯罪和国家](https://plato.stanford.edu/entries/legal-punishment/#PunCriSta)
-* [3. 解释/原理](https://plato.stanford.edu/entries/legal-punishment/#PurConPun)
-* [4. 解释/原理](https://plato.stanford.edu/entries/legal-punishment/#PosRetMeaDes)
-* [5. 法律惩罚作为沟通](https://plato.stanford.edu/entries/legal-punishment/#PunCom)
-* [ 6. 混合账户](https://plato.stanford.edu/entries/legal-punishment/#SidConConPun)
-* [7. 废除和替代方案](https://plato.stanford.edu/entries/legal-punishment/#ResJus)
-* [8. 国际刑法和法律惩罚](https://plato.stanford.edu/entries/legal-punishment/#ICL_Pun)
-* [9. 法律惩罚](https://plato.stanford.edu/entries/legal-punishment/#CollCons)
-* [ 10. 随附问题](https://plato.stanford.edu/entries/legal-punishment/#FurIss)
-* [ 解释/原理](https://plato.stanford.edu/entries/legal-punishment/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/legal-punishment/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/legal-punishment/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/legal-punishment/#Rel)
-
+ 
 ---
 
 ## 1. 法律惩罚及其正当性

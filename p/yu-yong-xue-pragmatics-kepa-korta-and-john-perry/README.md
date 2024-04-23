@@ -7,36 +7,7 @@
 > 当他说“不”，他就不是一位外交官。—伏尔泰（引自 Escandell 1993 年的西班牙语引述）
 
 这些句子——也被归功于 H·L·门肯和卡尔·荣格——可能对外交官不公平，但无疑在提醒我们，沟通中涉及的不仅仅是字面上所说的内容；在所使用的词语的标准、常规含义之外，还涉及到说话者的意思。词语“是”，“可能”，“不”各自都有一个完全可辨认的意义，每个英语的说话者都知道（包括不太能干的人）。然而，正如这些句子所说明的，不同的说话者在不同的情况下使用这些词语可能意味着不同的事情。这是怎么可能的？词语的意义、说话者在说这些词语时的意思、他们说话的具体情况、他们的意图、他们的行动以及他们成功传达的内容之间有什么关系？这些是语用学试图回答的一些问题；大致上来说，这些问题用来描述语用学领域。
-
-* [ 1. 引言](https://plato.stanford.edu/entries/pragmatics/#Intro)
-* [2. 古典语用学](https://plato.stanford.edu/entries/pragmatics/#Class)
-
-  * [2.1 语用学的远端：超越言说](https://plato.stanford.edu/entries/pragmatics/#Far1)
-
-    * [2.1.1 奥斯汀、西尔和言语行为](https://plato.stanford.edu/entries/pragmatics/#Far1.1)
-    * [2.1.2 格赖斯和会话含义](https://plato.stanford.edu/entries/pragmatics/#Far1.2)
-    * [2.1.3 Bach，Harnish 和统一理论](https://plato.stanford.edu/entries/pragmatics/#Far1.3)
-  * [2.2 近侧语用学](https://plato.stanford.edu/entries/pragmatics/#Near1)
-
-    * [2.2.1 Kaplan 关于指示词和示意词的解释](https://plato.stanford.edu/entries/pragmatics/#Near2.1)
-    * [2.2.2 语用学中的引用主义难题](https://plato.stanford.edu/entries/pragmatics/#Near2.2)
-    * [2.2.3 斯坦内克关于语境和内容的观点](https://plato.stanford.edu/entries/pragmatics/#Near2.3)
-* [3. 当代语用学理论](https://plato.stanford.edu/entries/pragmatics/#Cont)
-
-  * [3.1 语言交际的两种模型](https://plato.stanford.edu/entries/pragmatics/#Twomod)
-  * [3.2 关联理论](https://plato.stanford.edu/entries/pragmatics/#RelT)
-
-    * [3.2.1 关联理论的原理](https://plato.stanford.edu/entries/pragmatics/#Thepr)
-    * [3.2.2 暗示的前提和结论](https://plato.stanford.edu/entries/pragmatics/#Impl)
-  * [3.3 话语类型意义的理论](https://plato.stanford.edu/entries/pragmatics/#TheUttTypMea)
-  * [3.4 边界争议：字面主义者、最小主义者、语境主义者和其他人](https://plato.stanford.edu/entries/pragmatics/#Lite)
-  * [3.5 语用学的方法论缺陷？](https://plato.stanford.edu/entries/pragmatics/#Flaw)
-* [4. 一些语用学的定义](https://plato.stanford.edu/entries/pragmatics/#Defs)
-* [ 5. 术语表](https://plato.stanford.edu/entries/pragmatics/#Glos)
-* [ 参考文献](https://plato.stanford.edu/entries/pragmatics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/pragmatics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/pragmatics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/pragmatics/#Rel)
+ 
 
 ---
 

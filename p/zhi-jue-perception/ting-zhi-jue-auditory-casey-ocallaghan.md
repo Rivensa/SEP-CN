@@ -4,61 +4,7 @@
 
 听知觉引发了许多具有挑战性的哲学问题。我们听到了什么？听觉意识的对象是什么？听觉的内容是什么？听觉是否具有空间性？听觉与视觉和其他感官模式有何不同？听觉感知与颜色和普通物体的感知有何不同？本文介绍了这一发展领域的主要辩论，并讨论了未来研究的有希望的途径。它讨论了探索非视觉模式的动机，听觉对于感知理论的影响，以及有关听觉知觉的对象、内容、现象学、种类和界限的问题。
 
-* [1. 其他模式和感知哲学](https://plato.stanford.edu/entries/perception-auditory/#Introduction)
-* [2. 听知觉的对象](https://plato.stanford.edu/entries/perception-auditory/#Objects)
-
-  * [ 2.1 听知觉](https://plato.stanford.edu/entries/perception-auditory/#Sounds)
-
-    * [2.1.1 私人还是公共的？](https://plato.stanford.edu/entries/perception-auditory/#Public)
-    * [2.1.2 靠近还是远离的？](https://plato.stanford.edu/entries/perception-auditory/#Distal)
-    * [2.1.3 属性还是个体？](https://plato.stanford.edu/entries/perception-auditory/#Individuals)
-    * [2.1.4 对象还是事件？](https://plato.stanford.edu/entries/perception-auditory/#Events)
-  * [2.2 听知觉对象](https://plato.stanford.edu/entries/perception-auditory/#Auditory)
-
-    * [2.2.1 听知觉中的物体知觉](https://plato.stanford.edu/entries/perception-auditory/#OP)
-    * [2.2.2 什么是听知觉对象？](https://plato.stanford.edu/entries/perception-auditory/#WAO)
-  * [2.3 声源](https://plato.stanford.edu/entries/perception-auditory/#Sources)
-
-    * [2.3.1 人类是否听到声音源？](https://plato.stanford.edu/entries/perception-auditory/#HearSources)
-    * [2.3.2 声音和声源的整体论](https://plato.stanford.edu/entries/perception-auditory/#Mereology)
-* [3. 听知觉的内容](https://plato.stanford.edu/entries/perception-auditory/#Contents)
-
-  * [3.1 听知觉](https://plato.stanford.edu/entries/perception-auditory/#Spatial)
-
-    * [3.1.1 关于听知觉的怀疑](https://plato.stanford.edu/entries/perception-auditory/#Skepticism)
-    * [3.1.2 斯特劳森和纯粹的听觉体验](https://plato.stanford.edu/entries/perception-auditory/#Strawson)
-    * [3.1.3 听知觉是否具有空间结构？](https://plato.stanford.edu/entries/perception-auditory/#Structure)
-    * [3.1.4 听知觉与视觉的空间差异](https://plato.stanford.edu/entries/perception-auditory/#Differs)
-  * [3.2 可听见的特质](https://plato.stanford.edu/entries/perception-auditory/#Qualities)
-
-    * [3.2.1 声音和颜色](https://plato.stanford.edu/entries/perception-auditory/#Colors)
-    * [3.2.2 音高、音色和音量](https://plato.stanford.edu/entries/perception-auditory/#Pitch)
-    * [3.2.3 音高是否是物理的？](https://plato.stanford.edu/entries/perception-auditory/#Physical)
-    * [3.3.4 颜色的不类比](https://plato.stanford.edu/entries/perception-auditory/#Disanalogies)
-    * [3.3.5 颜色的类比](https://plato.stanford.edu/entries/perception-auditory/#Analogies)
-* [4. 听知觉的种类](https://plato.stanford.edu/entries/perception-auditory/#Varieties)
-
-  * [4.1 音乐听知觉](https://plato.stanford.edu/entries/perception-auditory/#Musical)
-
-    * [4.1.1 听觉经验](https://plato.stanford.edu/entries/perception-auditory/#Acousmatic)
-    * [4.1.2 听觉随附作为注意力](https://plato.stanford.edu/entries/perception-auditory/#Attention)
-  * [4.2 听知觉](https://plato.stanford.edu/entries/perception-auditory/#Speech)
-
-    * [4.2.1 语音是否特殊？](https://plato.stanford.edu/entries/perception-auditory/#Special)
-    * [4.2.2 语音知觉的对象](https://plato.stanford.edu/entries/perception-auditory/#SpeechObj)
-    * [4.2.3 听知觉的内容](https://plato.stanford.edu/entries/perception-auditory/#SpeechCon)
-    * [4.3.4 听知觉是否是听觉的？](https://plato.stanford.edu/entries/perception-auditory/#SpeechAud)
-    * [关于听知觉的补充](https://plato.stanford.edu/entries/perception-auditory/supplement.html)
-  * [4.3 跨模态影响](https://plato.stanford.edu/entries/perception-auditory/#Crossmodal)
-
-    * [4.3.1 跨模态错觉](https://plato.stanford.edu/entries/perception-auditory/#Illusions)
-    * [4.3.2 因果还是构成？](https://plato.stanford.edu/entries/perception-auditory/#Constitutive)
-    * [4.3.3 听知觉中的多模态性](https://plato.stanford.edu/entries/perception-auditory/#Multimodal)
-* [5. 结论和未来方向](https://plato.stanford.edu/entries/perception-auditory/#Conclusion)
-* [ 参考文献](https://plato.stanford.edu/entries/perception-auditory/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/perception-auditory/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/perception-auditory/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/perception-auditory/#Rel)
+ 
 
 ---
 

@@ -4,46 +4,7 @@
 *首次发表于2018年2月5日；实质修订于2022年8月16日*
 
 亚历山大里亚的斐洛是一位犹太思想家，生活在公元前一世纪上半叶的亚历山大里亚（Hadas Lebel 2012）。他是否真正是一位哲学家仍然是一个长期争论的问题。在罗马帝国的开始阶段，特别是对于斯多葛派和犬儒派来说，哲学家的根本任务是建构自己的自我（Foucault 2001）。一个追求自我完善的人首先必须调节自己的本性，控制自己的激情和情绪，消除理论与实践之间的任何差距。因此，他被认为接近了神的完美。与这种态度完全相反，斐洛的目的是证明人类的本体上的虚无。在他看来，拥有真正存在的唯一途径是承认没有上帝的帮助，人就是一无所有，上帝是自由、理性和意识的源泉。他的目标是成为启示录和构成上帝话语的文本的最好仆人。他接受矛盾作为一种正常的表达方式，这可能解释了他的论文给人的无序印象。然而，他既不无知也不困惑；相反，他有意识地解构了希腊思想中的理性主义模式，他认为这些模式用来肯定自我的首要性。他并不想摆脱理性，而是要将其明确地置于神圣超越的独特视角之中。尽管他对柏拉图（Reydams-Schils 2008）非常钦佩，但他的超越并不完全是柏拉图式的，而是一种既绝对无法知晓又非常接近人类的上帝。Nikiprowetzky（1977）通过肯定法律在斐洛思想中的核心地位，开启了斐洛研究的新时代。 从这个角度来看，哲学是启示的仆人，通过借鉴希腊逻辑学的范畴，使其解释更具普遍影响力。我们的演示的一个目的是对斐洛的众多形象和解释进行合理评估，这些形象和解释在斐洛学术研究中被发现。
-
-* [1. 人与他的工作](https://plato.stanford.edu/entries/philo/#ManHisWork)
-
-  * [ 1.1 亚历山大里亚的斐洛](https://plato.stanford.edu/entries/philo/#PhilAlex)
-  * [ 1.2 他的作品](https://plato.stanford.edu/entries/philo/#HisWork)
-* [2. 哲学，哲学家和修辞学](https://plato.stanford.edu/entries/philo/#PhilPhilRhet)
-
-  * [ 2.1 哲学著作](https://plato.stanford.edu/entries/philo/#PhilWork)
-  * [ 2.2 哲学家们](https://plato.stanford.edu/entries/philo/#Phil)
-* [3. 斐洛和哲学学派](https://plato.stanford.edu/entries/philo/#PhilPhilScho)
-
-  * [3.1 斐洛和亚里士多德主义](https://plato.stanford.edu/entries/philo/#PhilAris)
-  * [ 3.2 斯多嘉学派](https://plato.stanford.edu/entries/philo/#Stoi)
-  * [3.3 从怀疑主义到毕达哥拉斯柏拉图主义](https://plato.stanford.edu/entries/philo/#ScepPythPlat)
-  * [ 3.4 伊壁鸠鲁学派](https://plato.stanford.edu/entries/philo/#Epic)
-* [4. 斐洛的主要哲学主题和方法](https://plato.stanford.edu/entries/philo/#MajoPhilThemMethPhil)
-
-  * [ 4.1 寓言](https://plato.stanford.edu/entries/philo/#Alle)
-  * [4.2 负面神学和随附](https://plato.stanford.edu/entries/philo/#NegaTheoProv)
-  * [4.3 上帝和理论的力量](https://plato.stanford.edu/entries/philo/#PoweGodLogo)
-  * [4.4 自然法则](https://plato.stanford.edu/entries/philo/#LawNatu)
-  * [4.5 创造和人类学](https://plato.stanford.edu/entries/philo/#CreaAnth)
-  * [4.6 灵魂与身体](https://plato.stanford.edu/entries/philo/#SoulBody)
-* [5. 超验伦理学](https://plato.stanford.edu/entries/philo/#TranEthi)
-
-  * [5.1 从 oikeiôsis 到 omoiôsis](https://plato.stanford.edu/entries/philo/#OikeOmoi)
-  * [5.2 从激情到美德](https://plato.stanford.edu/entries/philo/#PassVirt)
-  * [5.3 美德，通往完美的道路](https://plato.stanford.edu/entries/philo/#VirtPathPerf)
-  * [5.4 政治和沉思](https://plato.stanford.edu/entries/philo/#PoliCont)
-  * [5.5 圣人，神圣之人](https://plato.stanford.edu/entries/philo/#SageDiviMan)
-* [ 6. 结论](https://plato.stanford.edu/entries/philo/#Conc)
-* [ 附录文件](https://plato.stanford.edu/entries/philo/#SuppDocu)
-* [ 参考书目](https://plato.stanford.edu/entries/philo/#Bib)
-
-  * [主要文献：版本、翻译和评论](https://plato.stanford.edu/entries/philo/#PrimLiteEditTranComm)
-  * [ 参考书目列表](https://plato.stanford.edu/entries/philo/#Bibl)
-  * [ 二次文献](https://plato.stanford.edu/entries/philo/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/philo/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/philo/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/philo/#Rel)
+ 
 
 ---
 

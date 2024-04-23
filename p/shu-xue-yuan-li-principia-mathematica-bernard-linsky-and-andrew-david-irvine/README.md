@@ -4,43 +4,7 @@
 
 这篇文章简要描述了阿尔弗雷德·诺思·怀特黑德和伯特兰·罗素的符号逻辑巨著《数学原理》（PM）的历史和重要性，该书首次出版于 1910 年至 1913 年。《数学原理》的内容在每个卷的引言中以现代化的逻辑符号表示，并在每个卷的引言后进行描述。原始符号表示在本百科全书的附属文章《《数学原理》的符号表示》中呈现。《数学原理》的内容被描述得可以与戈特洛布·弗雷格的《算术基本定律》进行比较，后者受到了罗素悖论的影响。为了避免悖论，怀特黑德和罗素引入了一个复杂的系统，现在被称为“类型分层理论”。然而，在第一卷早期引入了一个集合或“类”的理论后，PM 的系统可以与弗雷格和集合论的早期发展进行比较，并发现其中包含了竞争性的解释，没有矛盾，但在尚未深入研究的方面与现在的标准理论有所不同。
 
-* [ 1. 概述](https://plato.stanford.edu/entries/principia-mathematica/#Over)
-* [2. 《数学原理》的历史和重要性](https://plato.stanford.edu/entries/principia-mathematica/#HistSignPrinMath)
-
-  * [2.1 《数学原理》的历史](https://plato.stanford.edu/entries/principia-mathematica/#HistPrinMath)
-  * [2.2 《数学原理》的重要性](https://plato.stanford.edu/entries/principia-mathematica/#SignPrinMath)
-* [3. 《数学原理》的内容](https://plato.stanford.edu/entries/principia-mathematica/#ContPrinMath)
-
-  * [ 3.1 卷一](https://plato.stanford.edu/entries/principia-mathematica/#VoluI)
-  * [ 3.2 卷二](https://plato.stanford.edu/entries/principia-mathematica/#VoluII)
-  * [ 3.3 卷三](https://plato.stanford.edu/entries/principia-mathematica/#VoluIII)
-* [4. 卷一](https://plato.stanford.edu/entries/principia-mathematica/#VoluI_1)
-
-  * [4.1 第一部分：数理逻辑](https://plato.stanford.edu/entries/principia-mathematica/#PartIMathLogi)
-
-    * [4.1.1 PM 中的命题逻辑](https://plato.stanford.edu/entries/principia-mathematica/#PropLogiPM)
-    * [4.1.2 类型的“分层”理论](https://plato.stanford.edu/entries/principia-mathematica/#RamiTheoType)
-  * [4.2 第二部分：基数算术的前奏](https://plato.stanford.edu/entries/principia-mathematica/#PartIIProlCardArit)
-* [5. 第二卷](https://plato.stanford.edu/entries/principia-mathematica/#VoluII_1)
-
-  * [5.1 符号约定的前言声明](https://plato.stanford.edu/entries/principia-mathematica/#PrefStatSymbConv)
-  * [5.2 第三部分：基数算术](https://plato.stanford.edu/entries/principia-mathematica/#PartIIICardArit)
-  * [5.3 第四部分：关系算术](https://plato.stanford.edu/entries/principia-mathematica/#PartIVRelaArit)
-  * [5.4 第五部分：级数](https://plato.stanford.edu/entries/principia-mathematica/#PartVSeri)
-* [6. 第三卷](https://plato.stanford.edu/entries/principia-mathematica/#VoluIII_1)
-
-  * [6.1 第五部分：级数（续）](https://plato.stanford.edu/entries/principia-mathematica/#PartVSeriCont)
-  * [6.2 第六部分：数量](https://plato.stanford.edu/entries/principia-mathematica/#PartVIQuan)
-
-    * [ 6.2.1 测量](https://plato.stanford.edu/entries/principia-mathematica/#Meas)
-    * [6.2.2 《数学原理》末尾没有“结论”](https://plato.stanford.edu/entries/principia-mathematica/#TherNoConcEndPM)
-* [ 参考文献](https://plato.stanford.edu/entries/principia-mathematica/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/principia-mathematica/#PrimLite)
-  * [ 次要文献](https://plato.stanford.edu/entries/principia-mathematica/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/principia-mathematica/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/principia-mathematica/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/principia-mathematica/#Rel)
+ 
 
 ---
 

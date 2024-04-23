@@ -4,26 +4,7 @@
 
 柏拉图（公元前 429 年-公元前 347 年）无论如何都是西方文学传统中最令人眼花缭乱的作家之一，也是哲学史上最有洞察力、广泛影响力的作者之一。作为雅典高地的公民，他在自己的作品中展示了对当时政治事件和思想运动的全神贯注，但他提出的问题如此深刻，他用来解决这些问题的策略如此丰富、引人思考，以至于几乎每个时期受过教育的读者在某种程度上都受到了他的影响，几乎每个时代都有哲学家在某些重要方面自称为柏拉图主义者。他并不是第一个被称为“哲学家”的思想家或作家。但他对哲学应该如何构思，以及它的范围和目标应该是什么，以及他如何改变了他所探讨的思想潮流，以至于哲学这个主题，通常被认为是对伦理学、政治学、形而上学和认识论问题进行严格而系统的研究，并配以独特的方法，可以称之为他的发明。在西方哲学史上，很少有其他作者能与他在深度和范围上相媲美：也许只有亚里士多德（曾与他学习）、阿奎那和康德被普遍认为是同一级别的。
 
-* [1. 柏拉图的核心教义](https://plato.stanford.edu/entries/plato/#PlaCenDoc)
-* [ 2. 柏拉图的难题](https://plato.stanford.edu/entries/plato/#PlaPuz)
-* [3. 对话，背景，角色](https://plato.stanford.edu/entries/plato/#DiaSetCha)
-* [ 4. 苏格拉底](https://plato.stanford.edu/entries/plato/#Soc)
-* [ 5. 柏拉图的间接性](https://plato.stanford.edu/entries/plato/#PlaInd)
-* [6. 我们能了解柏拉图的思想吗？](https://plato.stanford.edu/entries/plato/#WeKnoPlaMin)
-* [7. 苏格拉底作为主要发言人](https://plato.stanford.edu/entries/plato/#SocDomSpe)
-* [8. 对话之间的联系](https://plato.stanford.edu/entries/plato/#LinBetDia)
-* [9. 柏拉图是否改变了他对形式的看法？](https://plato.stanford.edu/entries/plato/#DoePlaChaHisMinAboFor)
-* [10. 柏拉图是否改变了他对政治的看法？](https://plato.stanford.edu/entries/plato/#DoePlaChaHisMinAboPol)
-* [11. 历史上的苏格拉底：早期、中期和晚期对话](https://plato.stanford.edu/entries/plato/#HisSocEarMidLatDia)
-* [ 12. 为什么选择对话？](https://plato.stanford.edu/entries/plato/#WhyDia)
-* [ 参考文献](https://plato.stanford.edu/entries/plato/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/plato/#PrimLit)
-  * [ 次级文献](https://plato.stanford.edu/entries/plato/#SecoLit)
-* [ 学术工具](https://plato.stanford.edu/entries/plato/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plato/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plato/#Rel)
-
+ 
 ---
 
 ## 1. 柏拉图的核心教义

@@ -3,26 +3,7 @@
 *首次发表于2003年12月22日；实质性修订于2024年2月20日。*
 
 柏拉图对修辞学和诗歌的讨论既广泛又有影响力。就像许多其他情况一样，他为随后的传统设定了议程。然而，理解他对这些主题（修辞学和诗歌）的言论给我们带来了重大的哲学和解释上的挑战。此外，最初并不清楚他为什么将这两个主题紧密地联系在一起（他暗示诗歌是一种修辞学）。柏拉图肯定认为最重要的问题取决于这个问题，这一点从他著名的说法中可以明显看出：“哲学与诗歌之间有一场古老的争论”（《理想国》，607b5-6）。在他的对话中，这场争论以及哲学与修辞学之间的相关争论都是综合世界观之间的冲突，一方面是哲学的世界观，另一方面是诗歌或修辞学的世界观。这些争论是关于什么的？柏拉图所说的“诗歌”和“修辞学”是什么意思？本文的目的是分析他在四个对话中对修辞学和诗歌的讨论：《伊昂篇》、《理想国》、《戈吉亚斯篇》和《斐德鲁斯篇》。柏拉图（或许是自相矛盾的）以他自己的著作的诗意和修辞特质而闻名，这一事实也将在接下来的讨论中进行讨论。
-
-* [ 1. 引言](https://plato.stanford.edu/entries/plato-rhetoric/#Int)
-* [ 2. 伊昂篇](https://plato.stanford.edu/entries/plato-rhetoric/#Ion)
-* [3. 《理想国》，第二、三、十卷](https://plato.stanford.edu/entries/plato-rhetoric/#RepBooIIIIIX)
-
-  * [ 3.1 《理想国》第二卷](https://plato.stanford.edu/entries/plato-rhetoric/#RepII)
-  * [ 3.2 《理想国》第三卷](https://plato.stanford.edu/entries/plato-rhetoric/#RepIII)
-  * [ 3.3 《理想国》 X](https://plato.stanford.edu/entries/plato-rhetoric/#RepX)
-  * [3.4 关于《理想国》“争论”的总结观察](https://plato.stanford.edu/entries/plato-rhetoric/#ConObsAboRepQua)
-* [ 4. 卡利克勒斯](https://plato.stanford.edu/entries/plato-rhetoric/#Gor)
-* [ 5. 柏拉图](https://plato.stanford.edu/entries/plato-rhetoric/#Pha)
-
-  * [5.1 《理想国》中的修辞学](https://plato.stanford.edu/entries/plato-rhetoric/#RhePha)
-  * [5.2 《理想国》中的吟游诗人、灵感和诗歌](https://plato.stanford.edu/entries/plato-rhetoric/#RhaInsPoePha)
-* [6. 柏拉图的对话作为修辞学和诗歌](https://plato.stanford.edu/entries/plato-rhetoric/#PlaDiaRhePoe)
-* [ 参考书目](https://plato.stanford.edu/entries/plato-rhetoric/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/plato-rhetoric/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/plato-rhetoric/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/plato-rhetoric/#Rel)
-
+ 
 ---
 
 ## 1. 介绍

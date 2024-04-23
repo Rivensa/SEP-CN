@@ -8,43 +8,7 @@
 
 在§1 中，我们考虑了一些最基本的主题，包括将属性纳入本体论的主要动机和论证。在§2 中，我们处理了属性被实例化的核心问题。在§3 中，我们解决了属性存在和身份条件的交织问题。在§4 中，我们考虑了属性可能具有结构复杂性的不同意义。在§5 中，我们调查了当前科学形而上学中对属性的频繁引用。在§6 中，我们总结了属性的形式化解释和它们在自然语言语义学和数学基础中的应用，并为对属性的本体论承诺提供了额外的动机。
 
-* [1. 属性：基本概念](https://plato.stanford.edu/entries/properties/#PropBasiIdea)
-
-  * [1.1 我们如何谈论属性](https://plato.stanford.edu/entries/properties/#HowWeSpeaProp)
-  * [1.2 属性的论证](https://plato.stanford.edu/entries/properties/#ArguForProp)
-  * [1.3 关于普遍存在的传统观点](https://plato.stanford.edu/entries/properties/#TradViewAbouExisUniv)
-  * [1.4 命题和事实中的属性](https://plato.stanford.edu/entries/properties/#PropPropStatAffa)
-  * [ 1.5 关系](https://plato.stanford.edu/entries/properties/#Rela)
-  * [1.6 通用性与特征](https://plato.stanford.edu/entries/properties/#UnivVersTrop)
-  * [1.7 属性的种类](https://plato.stanford.edu/entries/properties/#KindProp)
-* [ 2. 举例说明](https://plato.stanford.edu/entries/properties/#Exem)
-
-  * [2.1 唯一主义与多元主义解释/原理](https://plato.stanford.edu/entries/properties/#MoniVsPlurAcco)
-  * [2.2 同在性和部分一致性](https://plato.stanford.edu/entries/properties/#CompPartIden)
-  * [ 2.3 布拉德利的回归](https://plato.stanford.edu/entries/properties/#BradRegr)
-  * [2.4 自我实例化](https://plato.stanford.edu/entries/properties/#SelfExem)
-* [3. 属性的存在和身份条件](https://plato.stanford.edu/entries/properties/#ExisIdenCondForProp)
-
-  * [3.1 从外延性到超内涵性](https://plato.stanford.edu/entries/properties/#ExteHype)
-  * [3.2 稀疏和丰富的概念](https://plato.stanford.edu/entries/properties/#SparAbunConc)
-* [4. 复杂属性](https://plato.stanford.edu/entries/properties/#CompProp)
-
-  * [4.1 逻辑复合属性](https://plato.stanford.edu/entries/properties/#LogiCompProp)
-  * [4.2 结构属性](https://plato.stanford.edu/entries/properties/#StruProp)
-* [5. 科学形而上学中的属性](https://plato.stanford.edu/entries/properties/#PropMetaScie)
-
-  * [5.1 其他主题](https://plato.stanford.edu/entries/properties/#MiscTopi)
-  * [5.2. 本质上的范畴性属性与本质上的处置性属性](https://plato.stanford.edu/entries/properties/#EsseCateVsEsseDispProp)
-* [6. 形式属性理论及其应用](https://plato.stanford.edu/entries/properties/#FormPropTheoTheiAppl)
-
-  * [6.1 属性的逻辑系统](https://plato.stanford.edu/entries/properties/#LogiSystForProp)
-  * [6.2 语义学和逻辑形式](https://plato.stanford.edu/entries/properties/#SemaLogiForm)
-  * [6.3 数学基础](https://plato.stanford.edu/entries/properties/#FounMath)
-* [ 参考文献](https://plato.stanford.edu/entries/properties/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/properties/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/properties/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/properties/#Rel)
-
+ 
 ---
 
 ## 1. 属性：基本概念
