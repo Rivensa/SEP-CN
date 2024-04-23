@@ -4,31 +4,7 @@
 
 知识论证旨在证明意识体验涉及非物质属性。它基于这样的观点：即使一个人对另一个有意识的存在拥有完全的物理知识，他仍可能缺乏关于那个存在的体验感受的知识。这是对物理主义最广泛讨论的论证之一。
 
-* [1. 潜在观点的历史](https://plato.stanford.edu/entries/qualia-knowledge/#HistUndeIdea)
-* [2. 基本观点](https://plato.stanford.edu/entries/qualia-knowledge/#BasiIdea)
-* [3. 一些澄清](https://plato.stanford.edu/entries/qualia-knowledge/#SomeClar)
-
-  * [3.1 论证的两个版本](https://plato.stanford.edu/entries/qualia-knowledge/#TwoVersArgu)
-  * [3.2 物理和非物理](https://plato.stanford.edu/entries/qualia-knowledge/#PhysNonPhys)
-  * [3.3 知道它是什么样的](https://plato.stanford.edu/entries/qualia-knowledge/#KnowWhatItLike)
-* [ 4. 反对意见](https://plato.stanford.edu/entries/qualia-knowledge/#Obje)
-
-  * [4.1 对思想实验的怀疑](https://plato.stanford.edu/entries/qualia-knowledge/#DoubAbouThouExpe)
-  * [4.2 没有对所有物理事实的知识的完整物理知识](https://plato.stanford.edu/entries/qualia-knowledge/#CompPhysKnowWithKnowAllPhysFact)
-  * [4.3 没有命题知识 1：能力假设](https://plato.stanford.edu/entries/qualia-knowledge/#NoPropKnow1AbilHypo)
-  * [4.4 对能力假设的反对意见](https://plato.stanford.edu/entries/qualia-knowledge/#ObjeAgaiAbilHypo)
-  * [4.5 没有命题性知识 2：熟悉假设](https://plato.stanford.edu/entries/qualia-knowledge/#NoPropKnow2AcquHypo)
-  * [4.6 新知识/旧事实观点](https://plato.stanford.edu/entries/qualia-knowledge/#NewKnowFactView)
-  * [4.7 新知识/旧事实观点的变体](https://plato.stanford.edu/entries/qualia-knowledge/#VariNewKnowFactView)
-  * [4.8. 对新知识/旧事实观点的反对意见](https://plato.stanford.edu/entries/qualia-knowledge/#ObjeAgaiNewKnowFactView)
-  * [4.9 知识论证和客观主义](https://plato.stanford.edu/entries/qualia-knowledge/#KnowArguObje)
-* [5. 关于知识论证的二元论观点](https://plato.stanford.edu/entries/qualia-knowledge/#DualViewAbouKnowArgu)
-* [ 6. 进一步的论证](https://plato.stanford.edu/entries/qualia-knowledge/#FurtArgu)
-* [ 7. 结论性的备注](https://plato.stanford.edu/entries/qualia-knowledge/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/qualia-knowledge/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qualia-knowledge/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qualia-knowledge/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qualia-knowledge/#Rel)
+ 
 
 ---
 

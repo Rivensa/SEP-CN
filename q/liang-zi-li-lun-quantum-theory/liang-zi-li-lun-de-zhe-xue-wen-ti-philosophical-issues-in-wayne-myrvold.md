@@ -5,30 +5,7 @@
 
 本文是对量子理论引发的哲学问题的概述，旨在指向斯坦福哲学百科全书中其他条目的更深入的处理。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/qt-issues/#Intro)
-* [2. 量子理论](https://plato.stanford.edu/entries/qt-issues/#QuanTheo)
-
-  * [2.1 量子态和经典态](https://plato.stanford.edu/entries/qt-issues/#QuanStatClasStat)
-  * [2.2 量子力学和量子场论](https://plato.stanford.edu/entries/qt-issues/#QuanMechQuanFielTheo)
-  * [2.3 量子态演化](https://plato.stanford.edu/entries/qt-issues/#QuanStatEvol)
-* [3. 纠缠、非局域性和非可分性](https://plato.stanford.edu/entries/qt-issues/#EntaNonlNons)
-* [4. 测量问题](https://plato.stanford.edu/entries/qt-issues/#MeasProb)
-
-  * [4.1 测量问题的表述](https://plato.stanford.edu/entries/qt-issues/#MeasProbForm)
-  * [4.2 测量问题的方法](https://plato.stanford.edu/entries/qt-issues/#ApprMeasProb)
-  * [4.3 扩展的维格纳朋友场景作为无解定理的来源](https://plato.stanford.edu/entries/qt-issues/#ExtWigFrnd)
-  * [4.4 退相干的作用](https://plato.stanford.edu/entries/qt-issues/#RoleDeco)
-  * [4.5 对测量问题的方法比较](https://plato.stanford.edu/entries/qt-issues/#CompApprMeasProb)
-* [5. 实体论问题](https://plato.stanford.edu/entries/qt-issues/#OntoIssu)
-
-  * [5.1 量子态实在性的问题](https://plato.stanford.edu/entries/qt-issues/#QuesQuanStatReal)
-  * [5.2 量子态的本体论类别](https://plato.stanford.edu/entries/qt-issues/#OntoCateQuanStat)
-* [6. 量子计算和量子信息理论](https://plato.stanford.edu/entries/qt-issues/#QuanCompQuanInfoTheo)
-* [7. 量子力学及其重建](https://plato.stanford.edu/entries/qt-issues/#RecoQuanMechBeyo)
-* [ 参考文献](https://plato.stanford.edu/entries/qt-issues/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qt-issues/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qt-issues/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qt-issues/#Rel)
+ 
 
 ---
 

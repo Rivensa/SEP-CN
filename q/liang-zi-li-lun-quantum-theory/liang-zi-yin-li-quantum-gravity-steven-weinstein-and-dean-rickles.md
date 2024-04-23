@@ -6,37 +6,7 @@
 
 在大多数量子引力理论中（尽管不是全部），引力场本身也是量子化的。由于当代引力理论——广义相对论将引力描述为物质和能量对时空的曲率，引力的量子化似乎意味着时空几何的某种量子化：量子时空。因为所有现有的物理理论都依赖于经典（非量子）时空背景，这不仅带来了极端的技术困难，而且对哲学家和物理学家来说也带来了深刻的方法论和本体论挑战。尽管量子引力已经成为物理学家研究的课题近一个世纪（参见 Rickles，2020 年），哲学家们才刚刚开始研究其哲学意义。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/quantum-gravity/#Intr)
-* [2. 引力与量子理论相遇](https://plato.stanford.edu/entries/quantum-gravity/#GravMeetQuanTheo)
-* [3. 理论框架](https://plato.stanford.edu/entries/quantum-gravity/#TheoFram)
-
-  * [ 3.1 弦理论](https://plato.stanford.edu/entries/quantum-gravity/#StriTheo)
-  * [3.2 规范和环路量子引力](https://plato.stanford.edu/entries/quantum-gravity/#CanoLoopQuanGrav)
-
-    * [3.2.1 几何变量](https://plato.stanford.edu/entries/quantum-gravity/#GeomVari)
-    * [3.2.2 时间问题](https://plato.stanford.edu/entries/quantum-gravity/#ProbTime)
-    * [3.2.3 阿什特卡尔，环路和其他变量](https://plato.stanford.edu/entries/quantum-gravity/#AshtLoopOtheVari)
-  * [ 3.3 其他方法](https://plato.stanford.edu/entries/quantum-gravity/#OtheAppr)
-* [ 4. 方法论](https://plato.stanford.edu/entries/quantum-gravity/#Meth)
-
-  * [ 4.1 理论](https://plato.stanford.edu/entries/quantum-gravity/#Theo)
-  * [ 4.2 实验](https://plato.stanford.edu/entries/quantum-gravity/#Expe)
-* [5. 哲学问题](https://plato.stanford.edu/entries/quantum-gravity/#PhilIssu)
-
-  * [ 5.1 时间](https://plato.stanford.edu/entries/quantum-gravity/#Time)
-  * [ 5.2 本体论](https://plato.stanford.edu/entries/quantum-gravity/#Onto)
-  * [5.3 量子理论的状态](https://plato.stanford.edu/entries/quantum-gravity/#StatQuanTheo)
-  * [5.4 Planck 尺度](https://plato.stanford.edu/entries/quantum-gravity/#PlanScal)
-  * [5.5 背景结构](https://plato.stanford.edu/entries/quantum-gravity/#BackStru)
-  * [5.6 量子化的必要性](https://plato.stanford.edu/entries/quantum-gravity/#NeceQuan)
-* [ 6. 结论](https://plato.stanford.edu/entries/quantum-gravity/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/quantum-gravity/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/quantum-gravity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/quantum-gravity/#Oth)
-
-  * [未发表的在线手稿](https://plato.stanford.edu/entries/quantum-gravity/#UnpuOnliManu)
-  * [ 有用的网络资源](https://plato.stanford.edu/entries/quantum-gravity/#UsefWebReso)
-* [ 相关条目](https://plato.stanford.edu/entries/quantum-gravity/#Rel)
+ 
 
 ---
 

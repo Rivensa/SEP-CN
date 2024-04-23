@@ -4,17 +4,7 @@
 
 量子纠缠是一种物理资源，类似于能量，与可能存在于分离的量子系统之间的奇特非经典相关性相关。纠缠可以被测量、转换和纯化。处于纠缠态的一对量子系统可以被用作量子信息通道，用于执行计算和密码学任务，这对于经典系统来说是不可能的。对量子系统的信息处理能力的一般研究是量子信息理论的主题。
 
-* [ 1. 量子纠缠](https://plato.stanford.edu/entries/qt-entangle/#QuanEnta)
-* [2. 利用纠缠：量子传送](https://plato.stanford.edu/entries/qt-entangle/#ExplEntaQuanTele)
-* [ 3. 量子信息](https://plato.stanford.edu/entries/qt-entangle/#QuanInfo)
-* [ 4. 量子密码学](https://plato.stanford.edu/entries/qt-entangle/#QuanCryp)
-* [ 5. 量子计算](https://plato.stanford.edu/entries/qt-entangle/#QuanComp)
-* [6. 解释性评论](https://plato.stanford.edu/entries/qt-entangle/#InteRema)
-* [ 参考文献](https://plato.stanford.edu/entries/qt-entangle/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qt-entangle/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qt-entangle/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qt-entangle/#Rel)
-
+ 
 ---
 
 ## 1. 量子纠缠

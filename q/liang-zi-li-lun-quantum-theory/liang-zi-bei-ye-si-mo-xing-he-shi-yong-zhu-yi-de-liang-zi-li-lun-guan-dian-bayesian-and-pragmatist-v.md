@@ -4,39 +4,7 @@
 
 量子理论对当代物理学至关重要。[1] 将基本物理理论视为描述或代表物理世界是很自然的。但许多物理学家和一些哲学家对量子理论的这种观点提出了质疑或否定。他们认为这个理论关注我们对世界的观察和描述、对世界的知识或信念、或者与世界的相互作用。自 20 世纪 20 年代以来，当量子理论以接近其现在的形式出现时，这种观点就已经被表达出来。本文关注物理学家和哲学家对这一传统的最新发展，其中很大一部分被描述为量子贝叶斯主义或实用主义。本文在第 1 节中讨论了量子贝叶斯主义的形式，第 2 节解决了常见的反对意见。第 3 节简要介绍了实用主义对量子贝叶斯主义的影响，第 4 节概述了一系列自称为实用主义的量子理论方法，而第 5 节提到了一些相关观点。
 
-* [ 1. 量子贝叶斯主义](https://plato.stanford.edu/entries/quantum-bayesian/#QBis)
-
-  * [ 1.1 历史](https://plato.stanford.edu/entries/quantum-bayesian/#Hist)
-  * [ 1.2 概率](https://plato.stanford.edu/entries/quantum-bayesian/#Prob)
-  * [ 1.3 测量](https://plato.stanford.edu/entries/quantum-bayesian/#Meas)
-  * [ 1.4 非局域性](https://plato.stanford.edu/entries/quantum-bayesian/#Nonl)
-  * [ 1.5 退相干](https://plato.stanford.edu/entries/quantum-bayesian/#Deco)
-  * [1.6 量子贝叶斯模型的推广](https://plato.stanford.edu/entries/quantum-bayesian/#GeneQBis)
-* [2. 反对意见和回应](https://plato.stanford.edu/entries/quantum-bayesian/#ObjeRepl)
-
-  * [ 2.1 孤立主义者？](https://plato.stanford.edu/entries/quantum-bayesian/#Soli)
-  * [ 2.2 仪器主义者？](https://plato.stanford.edu/entries/quantum-bayesian/#Inst)
-  * [2.3 QBist 量子理论是否具有解释性？](https://plato.stanford.edu/entries/quantum-bayesian/#QBisQuanTheoExpl)
-  * [2.4 出生规则是一种新的贝叶斯规范吗？](https://plato.stanford.edu/entries/quantum-bayesian/#BornRuleNewBayeNorm)
-  * [2.5 QBism 太主观了吗？](https://plato.stanford.edu/entries/quantum-bayesian/#QBisTooSubj)
-  * [2.6 QBist 应该相信一个代理人准备了一个物理上真实的状态吗？](https://plato.stanford.edu/entries/quantum-bayesian/#ShouQBisBeliAgenPrepPhysRealStat)
-  * [2.7 其他反对意见和回应](https://plato.stanford.edu/entries/quantum-bayesian/#OtheObjeRepl)
-* [3. 量子贝叶斯模型和实用主义](https://plato.stanford.edu/entries/quantum-bayesian/#QBisPrag)
-* [4. 实用主义观点](https://plato.stanford.edu/entries/quantum-bayesian/#PragView)
-
-  * [4.1 Stapp](https://plato.stanford.edu/entries/quantum-bayesian/#Stap)
-  * [4.2 Bächtold](https://plato.stanford.edu/entries/quantum-bayesian/#Bach)
-  * [4.3 Healey](https://plato.stanford.edu/entries/quantum-bayesian/#Heal)
-* [5. 相关观点](https://plato.stanford.edu/entries/quantum-bayesian/#RelaView)
-
-  * [5.1 Friederich](https://plato.stanford.edu/entries/quantum-bayesian/#Frie)
-  * [5.2 Brukner 和 Zeilinger](https://plato.stanford.edu/entries/quantum-bayesian/#BrukZeil)
-* [ 6. 结论](https://plato.stanford.edu/entries/quantum-bayesian/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/quantum-bayesian/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/quantum-bayesian/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/quantum-bayesian/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/quantum-bayesian/#Rel)
-
+ 
 ---
 
 ## 1. QBism

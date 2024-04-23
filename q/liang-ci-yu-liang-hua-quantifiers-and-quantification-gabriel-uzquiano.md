@@ -8,66 +8,7 @@
 
 现代量化逻辑选择将注意力集中在一元量词“每个事物”和“某些事物”的形式对应物上，分别可以写作∀x 和∃x。它们是一元量词，因为它们需要一个参数来构成形式为∀xA 或∃xA 的句子。弗雷格（和罗素）设计了一种巧妙的程序，用一元量词“每个事物”和“某些事物”来规范二元量词“每个”和“某些”：他们将形式为┌某些 A 是 B┐和┌每个 A 是 B┐的句子形式化为∃x(Ax∧Bx)和∀x(Ax→Bx)。他们将像“一些苹果很好吃”这样的句子分析为“某些事物是苹果且好吃”，而将像“每个物体都是延展的”这样的句子解析为“每个事物都是延展的，如果它是一个物体”。不幸的是，这种程序无法推广到涵盖“许多”、“大多数”或“少数”等量词短语。用“大多数事物是行星且对肉眼可见”或“大多数事物是这样的，如果它们是行星，则对肉眼可见”来规范句子“大多数行星对肉眼可见”将是错误的。相反，它们更好地被分析为不可约的二元量词，并且它们的研究已经引发了广义量词理论，这在自然语言语义学中的应用使其成为一个富有成果的研究课题。
 
-* [1. 古典量化逻辑](https://plato.stanford.edu/entries/quantification/#ClaQuaLog)
-
-  * [1.1 纯量化逻辑](https://plato.stanford.edu/entries/quantification/#PurQuaLog)
-
-    * [1.1.1 纯量词逻辑的语言](https://plato.stanford.edu/entries/quantification/#LanPurQuaLog)
-    * [1.1.2 纯量词逻辑的公理](https://plato.stanford.edu/entries/quantification/#AxiForPurQuaLog)
-    * [1.1.3 纯量词逻辑的解释](https://plato.stanford.edu/entries/quantification/#IntForPurQuaLog)
-    * [1.1.4 纯量词逻辑的元理论](https://plato.stanford.edu/entries/quantification/#MetForPurQuaLog)
-  * [1.2 带有恒等性的经典量词逻辑](https://plato.stanford.edu/entries/quantification/#ClaQuaLogIde)
-* [2. 从经典量词逻辑的偏离](https://plato.stanford.edu/entries/quantification/#DepClaQuaLog)
-
-  * [2.1 包容和自由的量词逻辑](https://plato.stanford.edu/entries/quantification/#IncQuaLog)
-  * [2.2 直觉主义量词逻辑](https://plato.stanford.edu/entries/quantification/#IntQuaLog)
-
-    * [2.2.1 直觉主义量词逻辑的公理](https://plato.stanford.edu/entries/quantification/#AxiForIntQuaLog)
-    * [2.2.2 直觉量词逻辑的 Kripke 模型](https://plato.stanford.edu/entries/quantification/#KriModForIntQuaLog)
-  * [2.3 替代量词](https://plato.stanford.edu/entries/quantification/#SubQua)
-
-    * [2.3.1 一个简单的例子](https://plato.stanford.edu/entries/quantification/#SimExa)
-    * [2.3.2 Kripke 对替代量词的论述](https://plato.stanford.edu/entries/quantification/#KriSubQua)
-* [3.经典量化逻辑的扩展](https://plato.stanford.edu/entries/quantification/#ExtClaQuaLog)
-
-  * [3.1 广义量词](https://plato.stanford.edu/entries/quantification/#GenQua)
-
-    * [3.1.1 量词的基数](https://plato.stanford.edu/entries/quantification/#CarQua)
-    * [3.1.2 广义二元量词](https://plato.stanford.edu/entries/quantification/#GenBinQua)
-  * [3.2 多分类量化](https://plato.stanford.edu/entries/quantification/#ManSorQua)
-  * [3.3 二阶量词](https://plato.stanford.edu/entries/quantification/#SecOrdQua)
-
-    * [3.3.1 二阶量化的公理](https://plato.stanford.edu/entries/quantification/#AxiForSecOrdQua)
-    * [3.3.2 二阶逻辑的标准模型](https://plato.stanford.edu/entries/quantification/#StaModForSecOrdLog)
-    * [3.3.3 第二阶逻辑的亨金模型](https://plato.stanford.edu/entries/quantification/#HenModForSecOrdLog)
-    * [3.3.4 模型和解释](https://plato.stanford.edu/entries/quantification/#ModInt)
-    * [3.3.5 如何理解第二阶量化](https://plato.stanford.edu/entries/quantification/#IrrSecOrdQua)
-  * [ 3.4 复数量词](https://plato.stanford.edu/entries/quantification/#PluQua)
-  * [3.5 命题量词](https://plato.stanford.edu/entries/quantification/#ProQua)
-
-    * [3.5.1 量化命题逻辑](https://plato.stanford.edu/entries/quantification/#QuaProLog)
-    * [3.5.2 命题量词的公理](https://plato.stanford.edu/entries/quantification/#AxiForProQua)
-    * [3.5.3 命题量词和真理](https://plato.stanford.edu/entries/quantification/#ProQuaTru)
-    * [3.5.4 内涵悖论](https://plato.stanford.edu/entries/quantification/#IntPar)
-    * [3.5.5 量词命题模态逻辑](https://plato.stanford.edu/entries/quantification/#QuaProModLog)
-    * [3.5.6 如何理解命题量化](https://plato.stanford.edu/entries/quantification/#IrrProQua)
-* [4. 量化和本体论](https://plato.stanford.edu/entries/quantification/#QuaOnt)
-
-  * [4.1 量化、谓词和存在：弗雷格和罗素](https://plato.stanford.edu/entries/quantification/#QuaPreExiFreRus)
-
-    * [4.1.1 量化和谓词](https://plato.stanford.edu/entries/quantification/#QuaPre)
-    * [4.1.2 量化和存在](https://plato.stanford.edu/entries/quantification/#QuaExi)
-  * [4.2 奎因的本体承诺准则](https://plato.stanford.edu/entries/quantification/#QuiCriOntCom)
-  * [4.3 无限制的量词化](https://plato.stanford.edu/entries/quantification/#UnrQua)
-  * [4.4 量词化、时态和情态](https://plato.stanford.edu/entries/quantification/#QuaTenMod)
-
-    * [4.4.1 量化和情态](https://plato.stanford.edu/entries/quantification/#QuaMod)
-    * [4.4.2 量化和时态](https://plato.stanford.edu/entries/quantification/#QuaTen)
-    * [4.4.3 从逻辑到本体论](https://plato.stanford.edu/entries/quantification/#LogOnt)
-* [ 参考文献](https://plato.stanford.edu/entries/quantification/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/quantification/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/quantification/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/quantification/#Rel)
+ 
 
 ---
 

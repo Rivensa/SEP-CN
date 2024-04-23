@@ -4,20 +4,7 @@
 
 1935 年 5 月 15 日，《物理评论》上，阿尔伯特·爱因斯坦与他在高级研究所的两位博士后研究助理鲍里斯·波多尔斯基和内森·罗森合著了一篇论文。这篇文章的标题是“量子力学对物理现实的描述是否可以被认为是完整的？”（Einstein et al. 1935）。通常被称为“EPR”，这篇论文迅速成为关于量子理论解释的辩论的核心，这些辩论至今仍在继续。根据影响力排名，《EPR》是《物理评论》杂志有史以来发表的所有论文中排名前十的。由于其在量子信息理论发展中的作用，它也位居他们当前“热门”论文的前列。这篇论文展示了一个引人注目的案例，其中两个量子系统以某种方式相互作用，使它们的空间坐标和线性动量（在同一方向上）都相互关联，即使这些系统在空间上相隔很远。由于这种“纠缠”，确定一个系统的位置或动量将确定另一个系统的位置或动量。EPR 证明了在空间上分离的系统之间存在严格的相关性与具有确定值的性质之间的一般引理。基于此，他们认为无法通过波函数同时保持直观的局部作用条件和量子描述的完整性。本条目描述了该 1935 年论文的引理和论证，考虑了几个不同版本和反应，并探讨了所提出问题的持续重要性。
 
-* [1. 量子力学对物理现实的描述是否可以被认为是完整的？](https://plato.stanford.edu/entries/qt-epr/#QuanMechDescPhysRealConsComp)
-
-  * [1.1 背景和前史](https://plato.stanford.edu/entries/qt-epr/#SettPreh)
-  * [1.2 文本中的悖论](https://plato.stanford.edu/entries/qt-epr/#ArguText)
-  * [1.3 爱因斯坦的悖论版本](https://plato.stanford.edu/entries/qt-epr/#EinsVersArgu)
-* [2. 一个流行的悖论形式：玻尔的回应](https://plato.stanford.edu/entries/qt-epr/#PopuFormArguBohrResp)
-* [3. EPR 的发展](https://plato.stanford.edu/entries/qt-epr/#DeveEPR)
-
-  * [3.1 自旋和玻姆版本](https://plato.stanford.edu/entries/qt-epr/#SpinBohmVers)
-  * [3.2 贝尔和超越](https://plato.stanford.edu/entries/qt-epr/#BellBeyo)
-* [ 参考文献](https://plato.stanford.edu/entries/qt-epr/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qt-epr/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qt-epr/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qt-epr/#Rel)
+ 
 
 ---
 

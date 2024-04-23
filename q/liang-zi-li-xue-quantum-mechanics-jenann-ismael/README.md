@@ -6,22 +6,7 @@
 
 这就是理论的一种解释所能提供的：根据量子力学，从内在和从底层来看，世界是什么样子的一个适当的解释。给出一个解释的问题（不仅仅是一种令人舒适、亲切的解释，即不仅仅是一种根据这种解释，世界与常识中熟悉的世界并没有太大不同的解释，而是任何解释）在本百科全书的其他部分中进行了讨论。在这里，我们只关注理论的数学核心，即作为数学机器的理论，而无论其余部分是什么样的，这部分理论都是非常合理的。
 
-* [ 1. 术语](https://plato.stanford.edu/entries/qm/#Term)
-* [ 2. 数学](https://plato.stanford.edu/entries/qm/#Math)
-
-  * [2.1 向量和向量空间](https://plato.stanford.edu/entries/qm/#VectVectSpac)
-  * [ 2.2 算符](https://plato.stanford.edu/entries/qm/#Oper)
-* [ 3. 量子力学](https://plato.stanford.edu/entries/qm/#QuanMech)
-* [4. 希尔伯特空间上的结构](https://plato.stanford.edu/entries/qm/#StruHilbSpac)
-* [ 参考书目](https://plato.stanford.edu/entries/qm/#Bib)
-
-  * [初学者有用的书籍](https://plato.stanford.edu/entries/qm/#BookUsefForBegi)
-  * [量子力学教材](https://plato.stanford.edu/entries/qm/#QuanMechText)
-  * [数学和物理学中有用的通用文本](https://plato.stanford.edu/entries/qm/#UsefGeneTextMathPhys)
-  * [量子力学哲学书籍](https://plato.stanford.edu/entries/qm/#BookPhilQM)
-* [ 学术工具](https://plato.stanford.edu/entries/qm/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qm/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qm/#Rel)
+ 
 
 ---
 

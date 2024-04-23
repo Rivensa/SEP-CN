@@ -4,29 +4,7 @@
 
 量子物理基础领域中的一个持续争论是数学严谨性的作用。冯·诺伊曼和狄拉克的对立观点提供了关于这场争论的有趣和有启发性的见解。冯·诺伊曼的贡献经常强调数学严谨性，而狄拉克的贡献则强调实用主义的关注点。下面的讨论从评估他们对量子力学基础的贡献开始。然后考虑他们在量子力学之外的数学物理方面的贡献，重点将放在这些贡献对量子理论的后续发展，特别是对量子场论及其基础的影响上。条目“量子场论”提供了各种发展量子场理论的方法的概述。本文的目的是提供对数学严谨方法进行量子场论的更详细讨论，而不是传统方法，如拉格朗日量子场论，通常被描绘为更具启发性的方法。然后讨论了关于拉格朗日量子场论还是公理量子场论应该作为解释分析基础的当前争论。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/qt-nvd/#Intr)
-* [2. 冯·诺伊曼和量子理论的基础](https://plato.stanford.edu/entries/qt-nvd/#VonNeumFounQuanTheo)
-
-  * [2.1 量子力学的可分离希尔伯特空间表述](https://plato.stanford.edu/entries/qt-nvd/#SepaHilbSpacFormQuanMech)
-  * [2.2 算子环、量子逻辑和连续几何](https://plato.stanford.edu/entries/qt-nvd/#RingOperQuanLogiContGeom)
-* [3. 狄拉克和量子理论的基础](https://plato.stanford.edu/entries/qt-nvd/#DiraFounQuanTheo)
-
-  * [3.1 狄拉克的δ函数、原理和布拉-凯特符号](https://plato.stanford.edu/entries/qt-nvd/#DiraDeltFuncPrinBraKetNota)
-  * [3.2 量子力学的装备希尔伯特空间表述](https://plato.stanford.edu/entries/qt-nvd/#RiggHilbSpacFormQuanMech)
-  * [ 3.3 科隆博代数](https://plato.stanford.edu/entries/qt-nvd/#ColoAlge)
-* [4 数学严谨性：两个路径](https://plato.stanford.edu/entries/qt-nvd/#MathRigoTwoPath)
-
-  * [4.1 代数量子场论](https://plato.stanford.edu/entries/qt-nvd/#AlgeQuanFielTheo)
-  * [4.2 Wightman 的公理化量子场论](https://plato.stanford.edu/entries/qt-nvd/#WighAxioQuanFielTheo)
-* [5 个哲学问题](https://plato.stanford.edu/entries/qt-nvd/#PhilIssu)
-
-  * [5.1 实用主义与公理主义](https://plato.stanford.edu/entries/qt-nvd/#PragVersAxio)
-  * [ 5.2 中间立场](https://plato.stanford.edu/entries/qt-nvd/#MiddGrou)
-* [ 参考文献](https://plato.stanford.edu/entries/qt-nvd/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qt-nvd/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qt-nvd/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qt-nvd/#Rel)
-
+ 
 ---
 
 ## 1. 引言

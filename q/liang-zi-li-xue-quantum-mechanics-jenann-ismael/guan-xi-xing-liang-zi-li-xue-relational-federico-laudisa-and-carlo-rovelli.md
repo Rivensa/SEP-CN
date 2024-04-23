@@ -13,29 +13,7 @@ RQM 的基本物理假设是以下假设：相对于 S'的（未来）变量值�
 
 RQM 是形而上学中立的，但它对强实在论持有强烈的关系立场（Laudisa 2019），在下面详细说明。由于与实在论的关系，RQM 被放置在各种哲学观点的背景下，包括建设性经验主义（van Fraassen 2010），新康德主义（Bitbol 2007 [其他互联网资源/OIR]，Bitbol 2010），最近的反单一主义（Dorato 2016）和结构实在论（Candiotto 2017）。 （另请参阅 Brown 2009，Wood 2010 [OIR]。）该解释与 QBism（Fuchs 2001, 2002 [OIR]）有共同之处，与 Healey 的实用主义方法（Healey 1989）特别是与 Zeilinger 和 Bruckner 讨论的量子理论观点（Zeilinger 1999，Brukner＆Zeilinger 2003）一致。
 
-* [1. 主要思想](https://plato.stanford.edu/entries/qm-relational/#MainIdea)
-
-  * [1.1 物理变量的值](https://plato.stanford.edu/entries/qm-relational/#ValuPhysVari)
-  * [1.2 相对变量：“不同的观察者可以对同一组事件给出不同的解释”](https://plato.stanford.edu/entries/qm-relational/#RelaVariDiffObseGiveDiffAccoSameSetEven)
-  * [1.3 观察者和测量](https://plato.stanford.edu/entries/qm-relational/#ObseMeas)
-  * [1.4 波函数](https://plato.stanford.edu/entries/qm-relational/#WaveFunc)
-  * [1.5. 量子叠加：一只猫可以是半死半活的吗？](https://plato.stanford.edu/entries/qm-relational/#QuanSupeCatHalfDeadHalfAliv)
-* [2. 相关问题](https://plato.stanford.edu/entries/qm-relational/#RelaIssu)
-
-  * [ 2.1 信息](https://plato.stanford.edu/entries/qm-relational/#Info)
-  * [ 2.2 离散性](https://plato.stanford.edu/entries/qm-relational/#Disc)
-  * [2.3 与其他解释的比较](https://plato.stanford.edu/entries/qm-relational/#CompOtheInte)
-  * [ 2.4 表示](https://plato.stanford.edu/entries/qm-relational/#Repr)
-  * [2.5 Frauchiger-Renner 实验和局部性](https://plato.stanford.edu/entries/qm-relational/#FrauRennExpeLoca)
-  * [ 2.6 孤立主义？](https://plato.stanford.edu/entries/qm-relational/#Soli)
-* [3. 一般评论](https://plato.stanford.edu/entries/qm-relational/#GeneComm)
-
-  * [3.1 现实主义和关系性](https://plato.stanford.edu/entries/qm-relational/#RealRela)
-  * [3.2 反应和批评](https://plato.stanford.edu/entries/qm-relational/#ReacCrit)
-* [ 参考文献](https://plato.stanford.edu/entries/qm-relational/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qm-relational/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qm-relational/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qm-relational/#Rel)
+ 
 
 ---
 

@@ -6,48 +6,7 @@
 
 我们对此应该如何理解呢？有人认为，量子力学的实证成功要求对逻辑本身进行革命。这种观点与对量子力学的现实解释的要求相关，即不以任何原始的测量概念为基础。相反，有一个长期以来将量子力学解释为操作性的传统，即将其准确地看作是一种测量理论。在这种后一种观点下，在不是所有测量都兼容的情况下，测量结果的“逻辑”不是布尔的并不令人意外。相反，令人困惑的是，为什么量子力学中的非布尔结构会具有特定的形式。围绕着从更基本和合理的公理推导出这种结构的独立动机的计划已经形成了大量的文献。
 
-* [1. 量子力学作为概率计算](https://plato.stanford.edu/entries/qt-quantlog/#QuanMechProbCalc)
-
-  * [1.1 量子概率简介](https://plato.stanford.edu/entries/qt-quantlog/#QuanProbNuts)
-  * [1.2 投影的“逻辑”](https://plato.stanford.edu/entries/qt-quantlog/#LogiProj)
-  * [1.3 概率测度和格里森定理](https://plato.stanford.edu/entries/qt-quantlog/#ProbMeasGleaTheo)
-  * [1.4 量子力学的重建](https://plato.stanford.edu/entries/qt-quantlog/#RecoQM)
-* [2. 量子逻辑的解释](https://plato.stanford.edu/entries/qt-quantlog/#InteQuanLogi)
-
-  * [2.1 现实主义量子逻辑](https://plato.stanford.edu/entries/qt-quantlog/#RealQuanLogi)
-  * [2.2 运算量子逻辑](https://plato.stanford.edu/entries/qt-quantlog/#OperQuanLogi)
-* [3. 广义概率论](https://plato.stanford.edu/entries/qt-quantlog/#GeneProbTheo)
-
-  * [3.1 离散经典概率论](https://plato.stanford.edu/entries/qt-quantlog/#DiscClasProbTheo)
-  * [ 3.2 测试空间](https://plato.stanford.edu/entries/qt-quantlog/#TestSpac)
-  * [3.3 科尔莫戈洛夫概率论](https://plato.stanford.edu/entries/qt-quantlog/#KolmProbTheo)
-  * [3.4 量子概率论](https://plato.stanford.edu/entries/qt-quantlog/#QuanProbTheo)
-* [4. 与概率模型相关的逻辑](https://plato.stanford.edu/entries/qt-quantlog/#LogiAssoProbMode)
-
-  * [ 4.1 操作逻辑](https://plato.stanford.edu/entries/qt-quantlog/#OperLogi)
-  * [ 4.2 正交相干](https://plato.stanford.edu/entries/qt-quantlog/#Orth)
-  * [4.3 特性的格子](https://plato.stanford.edu/entries/qt-quantlog/#LattProp)
-* [5. 皮龙定理](https://plato.stanford.edu/entries/qt-quantlog/#PiroTheo)
-
-  * [5.1 条件和覆盖定律](https://plato.stanford.edu/entries/qt-quantlog/#CondCoveLaw)
-* [6. 古典表示](https://plato.stanford.edu/entries/qt-quantlog/#ClasRepr)
-
-  * [6.1 古典嵌入](https://plato.stanford.edu/entries/qt-quantlog/#ClasEmbe)
-  * [6.2 上下文隐藏变量](https://plato.stanford.edu/entries/qt-quantlog/#ContHiddVari)
-* [7.复合系统](https://plato.stanford.edu/entries/qt-quantlog/#CompSyst)
-
-  * [7.1 Foulis-Randall 示例](https://plato.stanford.edu/entries/qt-quantlog/#FoulRandExam)
-  * [ 7.2 Aerts 定理](https://plato.stanford.edu/entries/qt-quantlog/#AertTheo)
-  * [ 7.3 影响](https://plato.stanford.edu/entries/qt-quantlog/#Rami)
-* [8. 效应代数](https://plato.stanford.edu/entries/qt-quantlog/#EffAlg)
-
-  * [8.1 量子效应和奈马克定理](https://plato.stanford.edu/entries/qt-quantlog/#QEffects)
-  * [8.2 顺序效应代数](https://plato.stanford.edu/entries/qt-quantlog/#SEAs)
-* [ 参考文献](https://plato.stanford.edu/entries/qt-quantlog/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qt-quantlog/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qt-quantlog/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qt-quantlog/#Rel)
-
+ 
 ---
 
 ## 1. 量子力学作为概率计算

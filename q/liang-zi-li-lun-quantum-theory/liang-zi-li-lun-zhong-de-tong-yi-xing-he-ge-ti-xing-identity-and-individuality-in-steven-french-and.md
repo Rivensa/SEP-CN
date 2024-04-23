@@ -4,17 +4,7 @@
 
 量子物理学的形而上学含义是什么？接近这个问题的一种方式是考虑该理论对我们对物体的理解的影响，将其视为具有明确定义的个体身份条件的个体。根据“接受的观点”，在量子革命正在发生时被详细阐述的观点是，量子理论意味着物理学的基本粒子不能被视为以这种意义上的个体物体。这种观点促使了非标准形式系统的发展，这些系统适合表示非个体物体。然而，也有人认为量子物理学实际上与个体物体的形而上学相容，但这些物体在某种意义上是无法区分的，这导致了莱布尼茨著名的不可辨识性原则的违反。这个最后的主张也受到了质疑，从而打开了理解量子实体的个体性的另一种方式。因此，我们面临着物理学对相关形而上学的一种不确定性，一方面是量子个体物体，另一方面是量子非个体物体。有人认为这种基本形而上学“包裹”的不确定性对于现实主义-反现实主义的辩论具有重要的影响。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/qt-idind/#Intr)
-* [2. 量子非个体性](https://plato.stanford.edu/entries/qt-idind/#QuanNonIndi)
-* [3. 量子个体性](https://plato.stanford.edu/entries/qt-idind/#QuanIndi)
-* [4. 量子物理与不可辨认性的同一性](https://plato.stanford.edu/entries/qt-idind/#QuanPhysIdenIndi)
-* [5. 对量子可辨认性的异端方法](https://plato.stanford.edu/entries/qt-idind/#HeteApprQuanDisc)
-* [6. 非个体性和自我认同](https://plato.stanford.edu/entries/qt-idind/#NonIndiSelfIden)
-* [7. 形而上学的不确定性](https://plato.stanford.edu/entries/qt-idind/#MetaUnde)
-* [ 参考文献](https://plato.stanford.edu/entries/qt-idind/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qt-idind/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qt-idind/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qt-idind/#Rel)
+ 
 
 ---
 

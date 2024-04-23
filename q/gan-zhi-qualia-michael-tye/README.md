@@ -6,23 +6,7 @@
 
 接下来的条目分为十个部分。第一部分区分了术语“感质”的各种用法。第二部分讨论了哪些心理状态具有感质的问题。第三部分阐述了感质是不可约的和非物质的观点的主要论证。其余部分侧重于功能主义和感质、解释性差距、感质和内省、感质的表征理论、感质作为内在的非表征性属性、感质的关系理论，最后是感质和简单心灵的问题。
 
-* [1. “感质”一词的用法](https://plato.stanford.edu/entries/qualia/#Uses)
-* [2. 哪些心理状态具有感质？](https://plato.stanford.edu/entries/qualia/#Which)
-* [3. 感质是否是不可约的、非物质实体？](https://plato.stanford.edu/entries/qualia/#Irreducible)
-* [4. 功能主义和感质](https://plato.stanford.edu/entries/qualia/#Functional)
-* [5. 感质和解释原理之间的鸿沟](https://plato.stanford.edu/entries/qualia/#Explangap)
-* [6. 感质和内省](https://plato.stanford.edu/entries/qualia/#Introspect)
-* [7. 感质的表征理论](https://plato.stanford.edu/entries/qualia/#Repqualia)
-* [8. 感质作为内在的、非表征性的属性](https://plato.stanford.edu/entries/qualia/#Intrinsic)
-* [9. 感质的关系理论](https://plato.stanford.edu/entries/qualia/#Relational)
-* [10. 关于感质的幻觉主义](https://plato.stanford.edu/entries/qualia/#Illusional)
-* [11. 关于感质的罗素式唯物主义](https://plato.stanford.edu/entries/qualia/#Russellian)
-* [12. 哪些生物经历具有感质的状态？](https://plato.stanford.edu/entries/qualia/#Creat)
-* [ 参考文献](https://plato.stanford.edu/entries/qualia/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qualia/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qualia/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qualia/#Rel)
-
+ 
 ---
 
 ## 1. 使用“感质”一词的目的

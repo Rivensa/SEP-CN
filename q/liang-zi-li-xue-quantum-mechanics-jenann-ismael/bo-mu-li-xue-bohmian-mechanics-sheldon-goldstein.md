@@ -6,28 +6,7 @@
 
 玻姆力学继承并明确了量子理论中普遍存在的概念的非局域性，即多粒子系统的配置空间上的波函数。它解释了由非相对论量子力学控制的所有现象，从光谱线和散射理论到超导、量子霍尔效应和量子计算。特别地，量子理论的通常测量假设，包括波函数的坍缩和由概率振幅的绝对平方给出的概率，都可以从对两个运动方程的分析中得出：薛定谔方程和引导方程。不需要引用特殊且有些晦涩的观察状态。
 
-* [1. 量子力学描述的完备性](https://plato.stanford.edu/entries/qm-bohm/#CompQuanMechDesc)
-* [2. 隐藏变量的不可能性...或者非局域性的必然性？](https://plato.stanford.edu/entries/qm-bohm/#ImpoHiddVariHInevNonl)
-* [ 3. 历史](https://plato.stanford.edu/entries/qm-bohm/#Hist)
-* [4. 玻姆力学的定义方程](https://plato.stanford.edu/entries/qm-bohm/#DefiEquaBohmMech)
-* [5. 量子势能](https://plato.stanford.edu/entries/qm-bohm/#QuanPote)
-* [6. 双缝实验](https://plato.stanford.edu/entries/qm-bohm/#TwoSlitExpe)
-* [7. 量子力学的测量问题](https://plato.stanford.edu/entries/qm-bohm/#MeasProb)
-* [8. 波函数的坍缩](https://plato.stanford.edu/entries/qm-bohm/#CollWaveFunc)
-* [ 9. 量子随机性](https://plato.stanford.edu/entries/qm-bohm/#QuanRand)
-* [ 10. 量子可观测量](https://plato.stanford.edu/entries/qm-bohm/#QuanObse)
-* [ 11. 自旋](https://plato.stanford.edu/entries/qm-bohm/#Spin)
-* [ 12. 上下文相关性](https://plato.stanford.edu/entries/qm-bohm/#Cont)
-* [ 13. 非局域性](https://plato.stanford.edu/entries/qm-bohm/#Nonl)
-* [ 14. 洛伦兹不变性](https://plato.stanford.edu/entries/qm-bohm/#LoreInva)
-* [ 15. 相同粒子](https://plato.stanford.edu/entries/qm-bohm/#IP)
-* [16. 量子力学在形状空间上的运动](https://plato.stanford.edu/entries/qm-bohm/#QMSS)
-* [17. 反对意见和回应](https://plato.stanford.edu/entries/qm-bohm/#ObjeResp)
-* [ 参考文献](https://plato.stanford.edu/entries/qm-bohm/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qm-bohm/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qm-bohm/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qm-bohm/#Rel)
-
+ 
 ---
 
 ## 1. 量子力学描述的完备性

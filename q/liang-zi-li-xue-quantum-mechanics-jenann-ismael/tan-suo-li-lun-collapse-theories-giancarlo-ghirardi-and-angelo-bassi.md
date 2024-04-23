@@ -10,24 +10,8 @@
 
 最后但并非最不重要的是，坍缩理论被认为是量子力学的竞争理论，人们可以很容易地辨认出它们的一些物理含义，这些物理含义原则上可以允许关键性的实验来区分两者。从这些实验中得到严格的指示需要实验，而这些实验的技术直到最近才得到了显著的改进。实际上，正是由于光机械学、冷原子以及核物理领域的显著改进，已经获得了用于研究中的理论参数的具体界限；更重要的是，已经明确确定了一些可能出现标准形式主义线性性质违背的物理过程的精确族群，并且这些过程正在进行系统的研究，最终可能导致重要的发现。
 
-* [1. 总体考虑](https://plato.stanford.edu/entries/qm-collapse/#GeneCons)
-* [2. 形式主义：简明概述](https://plato.stanford.edu/entries/qm-collapse/#FormConcSket)
-* [3. 宏观客体化问题](https://plato.stanford.edu/entries/qm-collapse/#MacrObjeProb)
-* [4. 坍缩理论的诞生](https://plato.stanford.edu/entries/qm-collapse/#BirtCollTheo)
-* [5. 原始坍缩模型](https://plato.stanford.edu/entries/qm-collapse/#OrigCollMode)
-* [6. 连续自发定位模型（CSL）](https://plato.stanford.edu/entries/qm-collapse/#ContSponLocaModeCSL)
-* [7. CSL 和实验](https://plato.stanford.edu/entries/qm-collapse/#CSLExpe)
-* [8. 关于坍缩理论的一些备注](https://plato.stanford.edu/entries/qm-collapse/#SomeRemaAbouCollTheo)
-* [9. 相对论动力学坍缩模型](https://plato.stanford.edu/entries/qm-collapse/#RelaDynaReduMode)
-* [10. 坍缩理论和确定性感知](https://plato.stanford.edu/entries/qm-collapse/#CollTheoDefiPerc)
-* [11. 理论的解释及其原始本体论](https://plato.stanford.edu/entries/qm-collapse/#InteTheoPrimOnto)
-* [12. 波函数尾部的问题](https://plato.stanford.edu/entries/qm-collapse/#ProbTailWaveFunc)
-* [13. 坍缩模型的状态和最近的立场](https://plato.stanford.edu/entries/qm-collapse/#StatCollModeRecePosiAbouThem)
-* [ 14. 总结](https://plato.stanford.edu/entries/qm-collapse/#Summ)
-* [ 参考文献](https://plato.stanford.edu/entries/qm-collapse/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qm-collapse/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qm-collapse/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qm-collapse/#Rel)
+ 
+ 
 
 ---
 

@@ -5,43 +5,7 @@
 威拉德·冯·奥曼·奎因（1908-2000）从事理论哲学和逻辑学。（在实践哲学-伦理学和政治哲学方面，他的贡献微不足道。）他最著名的是他对逻辑经验主义的反驳（特别是对其使用分析-综合区分的反驳）。然而，这个论点应该被视为一个综合世界观的一部分，这个世界观在哲学和经验科学之间没有明确的区分，因此需要对这个主题进行全面的重新定位。
 
 在接下来的内容中，将简要介绍奎因的生平和哲学工作，然后是一个概述，以帮助读者理解。我们不会详细评论奎因在纯逻辑或集合论方面的工作（关于奎因的集合论工作，请参见奎因的新基础条目），还有莫里斯 2018 年的工作。第三部分专门讨论奎因对逻辑经验主义者对分析-综合区分的使用的反驳，以及他制定的替代观点。随后的三个部分系统地介绍了奎因自己的观点；最后一部分是关于奎因在哲学史上的地位。
-
-* [1. 奎因的生平和工作](https://plato.stanford.edu/entries/quine/#QuinLifeWork)
-* [2. 奎因的自然主义及其含义](https://plato.stanford.edu/entries/quine/#QuinNatuImpl)
-
-  * [ 2.1 引言](https://plato.stanford.edu/entries/quine/#Intr)
-  * [ 2.2 负面方面](https://plato.stanford.edu/entries/quine/#NegaAspe)
-  * [2.3 正面方面（1）：知识](https://plato.stanford.edu/entries/quine/#PosiAspe1Know)
-  * [2.4 正面方面（2）：世界的本质](https://plato.stanford.edu/entries/quine/#PosiAspe2NatuWorl)
-* [3. 分析-综合区分和反对逻辑经验主义的论证](https://plato.stanford.edu/entries/quine/#AnalSyntDistArguAgaiLogiEmpi)
-
-  * [3.1 卡尔纳普的宽容原则和奎因的反对意见](https://plato.stanford.edu/entries/quine/#CarnPrinToleQuinObje)
-  * [ 3.2 奎因的替代方案](https://plato.stanford.edu/entries/quine/#QuinAlte)
-  * [3.3 意义和奎因的分析性](https://plato.stanford.edu/entries/quine/#MeanQuinAnal)
-* [4. 奎因认识论](https://plato.stanford.edu/entries/quine/#QuinEpis)
-
-  * [4.1 认识论项目](https://plato.stanford.edu/entries/quine/#EpisProj)
-  * [4.2 观察句子](https://plato.stanford.edu/entries/quine/#ObseSent)
-  * [4.3 认知语言的更复杂形式](https://plato.stanford.edu/entries/quine/#CompFormCognLang)
-  * [4.4 认识论的其他方面](https://plato.stanford.edu/entries/quine/#OtheAspeEpis)
-* [5. 归化的形而上学](https://plato.stanford.edu/entries/quine/#MetaNatu)
-
-  * [5.1 方法：规范理论](https://plato.stanford.edu/entries/quine/#MethRegiTheo)
-  * [ 5.2 形而上学主张](https://plato.stanford.edu/entries/quine/#MetaClai)
-  * [ 5.3 真理](https://plato.stanford.edu/entries/quine/#Trut)
-* [6. 证据对理论的不确定性；翻译的不确定性](https://plato.stanford.edu/entries/quine/#UndeTheoEvidIndeTran)
-
-  * [ 6.1 不确定性](https://plato.stanford.edu/entries/quine/#Unde)
-  * [6.2 翻译的不确定性](https://plato.stanford.edu/entries/quine/#IndeTran)
-* [7. 威拉德·冯·奥曼·奎因在哲学史上的地位](https://plato.stanford.edu/entries/quine/#QuinPlacHistPhil)
-* [ 参考文献](https://plato.stanford.edu/entries/quine/#Bib)
-
-  * [ 威拉德·冯·奥曼·奎因的完整著作集](https://plato.stanford.edu/entries/quine/#QuinCompCorp)
-  * [在文本中提到的奎因的作品](https://plato.stanford.edu/entries/quine/#WorkQuinRefeText)
-  * [ 二次文献](https://plato.stanford.edu/entries/quine/#WorkOthe)
-* [ 学术工具](https://plato.stanford.edu/entries/quine/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/quine/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/quine/#Rel)
+ 
 
 ---
 

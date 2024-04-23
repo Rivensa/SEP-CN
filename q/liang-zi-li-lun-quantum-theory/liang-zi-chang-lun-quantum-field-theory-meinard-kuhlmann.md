@@ -6,35 +6,7 @@
 
 以下概述了 QFT 如何描述基础物理学以及 QFT 在其他物理理论中的地位。由于强调了对理论中特别重要的解释性问题，它并不能取代对 QFT 的介绍。一个主要的目标读者群体是哲学家，他们希望对一些可能与他们自己的工作相关的问题有第一印象，另一个目标群体是对 QFT 的哲学观点感兴趣的物理学家。
 
-* [1. 什么是 QFT？](https://plato.stanford.edu/entries/quantum-field-theory/#WhatQFT)
-* [2. 常规表述的基本结构](https://plato.stanford.edu/entries/quantum-field-theory/#BasiStruConvForm)
-
-  * [2.1 量子场论的拉格朗日表述](https://plato.stanford.edu/entries/quantum-field-theory/#LagrFormQFT)
-  * [ 2.2 相互作用](https://plato.stanford.edu/entries/quantum-field-theory/#Inte)
-  * [ 2.3 规范不变性](https://plato.stanford.edu/entries/quantum-field-theory/#GaugInva)
-  * [2.4 有效场论和重整化](https://plato.stanford.edu/entries/quantum-field-theory/#EffeFielTheoReno)
-* [3. 超出标准模型](https://plato.stanford.edu/entries/quantum-field-theory/#BeyoStanMode)
-
-  * [ 3.1 量子引力](https://plato.stanford.edu/entries/quantum-field-theory/#QuanGrav)
-  * [ 3.2 弦理论](https://plato.stanford.edu/entries/quantum-field-theory/#StriTheo)
-* [4. 量子场论的公理重构及其解释意义](https://plato.stanford.edu/entries/quantum-field-theory/#AxioRefoQFTTheiInteSign)
-
-  * [4.1 动机一：操作主义](https://plato.stanford.edu/entries/quantum-field-theory/#MotiOneOper)
-  * [4.2 动机二：数学严谨性](https://plato.stanford.edu/entries/quantum-field-theory/#MotiTwoMathRigo)
-  * [4.3 动机三：处理不等价表示](https://plato.stanford.edu/entries/quantum-field-theory/#MotiThreDealIneqRepr)
-  * [4.4 代数，不等价表示和物理内容问题](https://plato.stanford.edu/entries/quantum-field-theory/#AlgeIneqReprPhysContQues)
-  * [4.5 加速观察者和相互作用系统的解释影响](https://plato.stanford.edu/entries/quantum-field-theory/#InteImpaAcceObseInteSyst)
-* [5. 进一步的哲学问题](https://plato.stanford.edu/entries/quantum-field-theory/#FurtPhilIssu)
-
-  * [5.1 设定舞台：候选本体论](https://plato.stanford.edu/entries/quantum-field-theory/#SettStagCandOnto)
-  * [5.2 维格纳定义了粒子概念吗？](https://plato.stanford.edu/entries/quantum-field-theory/#DidWignDefiPartConc)
-  * [5.3 非局部化定理](https://plato.stanford.edu/entries/quantum-field-theory/#NonLocaTheo)
-  * [5.4 对称性的作用](https://plato.stanford.edu/entries/quantum-field-theory/#RoleSymm)
-  * [5.5 总结：我们现在处于何种地位？](https://plato.stanford.edu/entries/quantum-field-theory/#TakiStocWherDoWeStan)
-* [ 参考文献](https://plato.stanford.edu/entries/quantum-field-theory/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/quantum-field-theory/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/quantum-field-theory/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/quantum-field-theory/#Rel)
+ 
 
 ---
 

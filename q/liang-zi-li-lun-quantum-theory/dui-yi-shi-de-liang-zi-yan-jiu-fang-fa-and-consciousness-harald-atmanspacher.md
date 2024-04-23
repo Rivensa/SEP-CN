@@ -3,31 +3,8 @@
 *首次发表于2004年11月30日；实质性修订于2020年4月16日。*
 
 广泛认可的观点是意识或者更一般地说，心智活动与物质大脑的行为在某种程度上存在相关性。由于量子理论是目前可用的最基本的物质理论，因此合理的问题是，量子理论是否能帮助我们理解意识。近几十年提出的几种肯定回答这个问题的方法将被概述。这些方法有三种基本类型：（1）意识是大脑中量子过程的表现，（2）使用量子概念来理解意识而不涉及大脑活动，以及（3）将物质和意识视为一个基础现实的双重方面。将讨论这些量子启发方法的主要当代变体。将指出它们在认识论上做出了不同的假设，并以不同的方式使用量子理论。对于讨论的每种方法，都将强调其存在问题和有希望的特点。
-
-* [ 1. 引言](https://plato.stanford.edu/entries/qt-consciousness/#Intr)
-* [2. 哲学背景假设](https://plato.stanford.edu/entries/qt-consciousness/#PhilBackAssu)
-* [3. 量子大脑](https://plato.stanford.edu/entries/qt-consciousness/#QuanBrai)
-
-  * [3.1 神经生理学描述层次](https://plato.stanford.edu/entries/qt-consciousness/#NeurLeveDesc)
-  * [3.2 斯塔普：量子态坍缩与意识行为](https://plato.stanford.edu/entries/qt-consciousness/#StapQuanStatReduConsActs)
-  * [3.3 Vitiello and Freeman: 大脑状态的量子场论](https://plato.stanford.edu/entries/qt-consciousness/#VitiFreeQuanFielTheoBraiStat)
-  * [3.4 Beck and Eccles: 突触间隙的量子力学](https://plato.stanford.edu/entries/qt-consciousness/#BeckEcclQuanMechSynaClef)
-  * [3.5 Penrose and Hameroff: 量子引力和微管](https://plato.stanford.edu/entries/qt-consciousness/#PenrHameQuanGravMicr)
-* [4. 量子心灵](https://plato.stanford.edu/entries/qt-consciousness/#QuanMind)
-
-  * [4.1 将量子概念应用于心理系统](https://plato.stanford.edu/entries/qt-consciousness/#ApplQuanConcMentSyst)
-  * [4.2 具体应用](https://plato.stanford.edu/entries/qt-consciousness/#ConcAppl)
-* [5. 心灵和物质作为双重方面](https://plato.stanford.edu/entries/qt-consciousness/#MindMattDualAspe)
-
-  * [5.1 组合和分解方法](https://plato.stanford.edu/entries/qt-consciousness/#CompDecoAppr)
-  * [5.2 心灵-物质相关性](https://plato.stanford.edu/entries/qt-consciousness/#MindMattCorr)
-  * [5.3 进一步发展](https://plato.stanford.edu/entries/qt-consciousness/#FurtDeve)
-* [ 6. 结论](https://plato.stanford.edu/entries/qt-consciousness/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/qt-consciousness/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qt-consciousness/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qt-consciousness/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qt-consciousness/#Rel)
-
+ 
+ 
 ---
 
 ## 1. 引言

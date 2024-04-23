@@ -5,27 +5,7 @@
 
 科亨-施佩克尔定理是量子力学基础中一个重要而微妙的主题。该定理证明了在考虑解释量子力学的项目时，以隐藏变量为基础的某种类型的解释是不可能的。我们在这里介绍了该定理/论证以及围绕它的基础讨论的不同层次。寻求快速概述的读者应阅读以下章节和子章节：1、2、3.1、3.2、4 和 6。阅读整个条目的人将在补充文件中找到一些非平凡主张的证明。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/kochen-specker/#intro)
-* [2. KS 定理的背景](https://plato.stanford.edu/entries/kochen-specker/#background)
-* [3. KS 定理的陈述和证明](https://plato.stanford.edu/entries/kochen-specker/#snp)
-
-  * [3.1 KS 定理的陈述](https://plato.stanford.edu/entries/kochen-specker/#statement)
-  * [3.2 四维空间中的快速 KS 论证（Cabello 等人）](https://plato.stanford.edu/entries/kochen-specker/#quick)
-  * [3.3 原始的 KS 论证。技术准备](https://plato.stanford.edu/entries/kochen-specker/#preliminaries)
-  * [3.4 原始的 KS 论证。证明概述](https://plato.stanford.edu/entries/kochen-specker/#sketch)
-  * [3.5 三维统计 KS 论证（克利夫顿）](https://plato.stanford.edu/entries/kochen-specker/#statistical)
-* [4. 功能组合原则](https://plato.stanford.edu/entries/kochen-specker/#functional)
-* [5. 逃离 KS 论证](https://plato.stanford.edu/entries/kochen-specker/#escaping)
-
-  * [5.1 无一般值确定性](https://plato.stanford.edu/entries/kochen-specker/#general)
-  * [5.2 价值现实主义的否定](https://plato.stanford.edu/entries/kochen-specker/#denial)
-  * [ 5.3 上下文性](https://plato.stanford.edu/entries/kochen-specker/#contextuality)
-* [6. 经验测试的问题](https://plato.stanford.edu/entries/kochen-specker/#question)
-* [ 参考文献](https://plato.stanford.edu/entries/kochen-specker/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/kochen-specker/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/kochen-specker/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/kochen-specker/#Rel)
-
+ 
 ---
 
 ## 1. 引言

@@ -6,58 +6,7 @@
 
 在接下来的文章中，“一致性历史”一词通常缩写为“历史”，因为“相干”和“一致性”解释非常相似；当有疑问时，在“历史”之前插入“一致性”。读者应该熟悉并可能对入门教材中的量子力学基础知识感到困惑和沮丧。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/qm-consistent-histories/#Int)
-* [2. 量子性质](https://plato.stanford.edu/entries/qm-consistent-histories/#QuaPro)
-
-  * [2.1 指示器，投影仪，否定](https://plato.stanford.edu/entries/qm-consistent-histories/#IndProNeg)
-  * [2.2 合取和析取](https://plato.stanford.edu/entries/qm-consistent-histories/#ConDis)
-  * [2.3 自旋 1/2 的示例](https://plato.stanford.edu/entries/qm-consistent-histories/#ExaSpiHal)
-* [3. 量子概率](https://plato.stanford.edu/entries/qm-consistent-histories/#QuaProb)
-
-  * [3.1 概率模型](https://plato.stanford.edu/entries/qm-consistent-histories/#ProMod)
-  * [3.2 量子力学中的概率](https://plato.stanford.edu/entries/qm-consistent-histories/#ProQuaMec)
-  * [ 3.3 量子可观测量](https://plato.stanford.edu/entries/qm-consistent-histories/#QuaObs)
-  * [3.4 细化、粗化和单一框架规则](https://plato.stanford.edu/entries/qm-consistent-histories/#RefCoaSinFraRul)
-  * [3.5 量子态作为预概率](https://plato.stanford.edu/entries/qm-consistent-histories/#QuaStaPrePro)
-* [4. 量子时间发展](https://plato.stanford.edu/entries/qm-consistent-histories/#QuaTimDev)
-
-  * [ 4.1 运动学](https://plato.stanford.edu/entries/qm-consistent-histories/#Kin)
-  * [ 4.2 动力学](https://plato.stanford.edu/entries/qm-consistent-histories/#Dyn)
-* [5. 量子推理](https://plato.stanford.edu/entries/qm-consistent-histories/#QuaRea)
-
-  * [ 5.1 一般原理](https://plato.stanford.edu/entries/qm-consistent-histories/#GenPri)
-  * [5.2 反事实推理](https://plato.stanford.edu/entries/qm-consistent-histories/#CouRea)
-* [ 6. 经典物理学](https://plato.stanford.edu/entries/qm-consistent-histories/#ClaPhy)
-* [7. 测量和准备](https://plato.stanford.edu/entries/qm-consistent-histories/#MeaPre)
-
-  * [ 7.1 示意模型](https://plato.stanford.edu/entries/qm-consistent-histories/#SchMod)
-  * [ 7.2 测量](https://plato.stanford.edu/entries/qm-consistent-histories/#Mea)
-  * [7.3 准备和波函数坍缩](https://plato.stanford.edu/entries/qm-consistent-histories/#PreWavFunCol)
-  * [7.4 广义和弱测量](https://plato.stanford.edu/entries/qm-consistent-histories/#GeneWeakMeas)
-  * [ 7.5 结语](https://plato.stanford.edu/entries/qm-consistent-histories/#ConRem)
-* [8. 局域性和特殊相对论](https://plato.stanford.edu/entries/qm-consistent-histories/#LocSpeRel)
-
-  * [8.1 自旋半粒子的纯态](https://plato.stanford.edu/entries/qm-consistent-histories/#SinStaSpiHalPar)
-  * [8.2 贝尔不等式和爱因斯坦的局域性](https://plato.stanford.edu/entries/qm-consistent-histories/#BelIneEinLoc)
-* [ 9. 量子信息](https://plato.stanford.edu/entries/qm-consistent-histories/#QuaInf)
-* [10. 悖论解决](https://plato.stanford.edu/entries/qm-consistent-histories/#ParRes)
-
-  * [ 10.1 薛定谔的猫](https://plato.stanford.edu/entries/qm-consistent-histories/#SchCat)
-  * [10.2 干涉悖论](https://plato.stanford.edu/entries/qm-consistent-histories/#IntPar)
-  * [10.3 不相容悖论](https://plato.stanford.edu/entries/qm-consistent-histories/#IncPar)
-  * [10.4 反事实悖论](https://plato.stanford.edu/entries/qm-consistent-histories/#CouPar)
-  * [10.5 非局域性悖论](https://plato.stanford.edu/entries/qm-consistent-histories/#NonPar)
-* [11.困难和异议](https://plato.stanford.edu/entries/qm-consistent-histories/#DifObj)
-
-  * [11.1 内部一致性](https://plato.stanford.edu/entries/qm-consistent-histories/#IntCon)
-  * [11.2 单一框架规则](https://plato.stanford.edu/entries/qm-consistent-histories/#SinFraRul)
-  * [11.3 准经典框架的非唯一性](https://plato.stanford.edu/entries/qm-consistent-histories/#NonQuaFra)
-  * [ 11.4 唯一性](https://plato.stanford.edu/entries/qm-consistent-histories/#Uni)
-* [ 参考文献](https://plato.stanford.edu/entries/qm-consistent-histories/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qm-consistent-histories/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qm-consistent-histories/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qm-consistent-histories/#Rel)
-
+ 
 ---
 
 ## 1. 引言

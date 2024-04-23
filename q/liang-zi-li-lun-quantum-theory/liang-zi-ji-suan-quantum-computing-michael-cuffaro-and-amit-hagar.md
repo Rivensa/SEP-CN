@@ -7,47 +7,7 @@
 从社会历史的角度来看，量子计算是一个实验者领先于同行理论家的领域。事实上，量子的奥秘，如纠缠和非局域性，历史上被认为只是“纯粹哲学”兴趣，直到物理学家发现这些奥秘可以被利用来设计新的高效算法。但是，虽然利用数百个量子比特（量子计算机中的基本信息单位）的技术现在已经可以实现，但只有少数几个量子算法存在，对于这些算法是否真正能够胜过任何可能的经典替代方案的问题，对于理论家来说仍然是一个开放的问题。
 
 从基础的角度来看，反思高效量子算法的设计和实现特征可能有助于我们更好地理解量子系统的本质，它可能阐明测量和因果关系等基本概念。此外，抽象的数学概念（如可计算性和复杂性）不仅可以被翻译成物理学，而且还可以被物理学重新书写，这直接涉及计算机科学的自主性以及其理论实体（所谓的“计算种类”）的地位。因此，这也与长期以来关于数学与物理世界之间关系的哲学辩论相关。
-
-* [1. 领域的简要历史](https://plato.stanford.edu/entries/qt-quantcomp/#BrieHistFiel)
-
-  * [1.1 物理计算复杂性](https://plato.stanford.edu/entries/qt-quantcomp/#PhysCompComp)
-  * [1.2 计算的物理“捷径”](https://plato.stanford.edu/entries/qt-quantcomp/#PhysShorCutsComp)
-  * [ 1.3 里程碑](https://plato.stanford.edu/entries/qt-quantcomp/#Mile)
-* [ 2. 基础](https://plato.stanford.edu/entries/qt-quantcomp/#Basi)
-
-  * [ 2.1 量子比特](https://plato.stanford.edu/entries/qt-quantcomp/#Qubi)
-  * [ 2.2 量子门](https://plato.stanford.edu/entries/qt-quantcomp/#QuanGate)
-  * [ 2.3 量子电路](https://plato.stanford.edu/entries/qt-quantcomp/#QuanCirc)
-* [3 量子算法](https://plato.stanford.edu/entries/qt-quantcomp/#QuanAlgo)
-
-  * [3.1 基于量子电路的算法](https://plato.stanford.edu/entries/qt-quantcomp/#QuanCircBaseAlgo)
-
-    * [ 3.1.1 预言机](https://plato.stanford.edu/entries/qt-quantcomp/#Orac)
-    * [3.1.2 德意志算法](https://plato.stanford.edu/entries/qt-quantcomp/#DeutAlgo)
-    * [ 3.1.3 西蒙算法](https://plato.stanford.edu/entries/qt-quantcomp/#SimoAlgo)
-    * [ 3.1.4 肖尔算法](https://plato.stanford.edu/entries/qt-quantcomp/#ShorAlgo)
-    * [3.1.5 Grover 算法](https://plato.stanford.edu/entries/qt-quantcomp/#GrovAlgo)
-  * [3.2 绝热算法](https://plato.stanford.edu/entries/qt-quantcomp/#AdiaAlgo)
-  * [3.3 基于测量的算法](https://plato.stanford.edu/entries/qt-quantcomp/#MeasBaseAlgo)
-  * [3.4 拓扑量子场论（TQFT）算法](https://plato.stanford.edu/entries/qt-quantcomp/#TopoQuanFielTheoTQFTAlgo)
-* [ 4 实现](https://plato.stanford.edu/entries/qt-quantcomp/#Real)
-* [5 哲学问题](https://plato.stanford.edu/entries/qt-quantcomp/#PhilQues)
-
-  * [5.1 量子计算中的量子是什么？](https://plato.stanford.edu/entries/qt-quantcomp/#WhatQuanQuanComp)
-
-    * [5.1.1 并行性和多世界的争论](https://plato.stanford.edu/entries/qt-quantcomp/#DebaOverParaManyWorl)
-    * [5.1.2 加速的难以捉摸的本质](https://plato.stanford.edu/entries/qt-quantcomp/#ElusNatuSpeeUp)
-  * [5.2 实验形而上学？](https://plato.stanford.edu/entries/qt-quantcomp/#ExpeMeta)
-  * [ 5.3 量子因果性](https://plato.stanford.edu/entries/qt-quantcomp/#QuanCaus)
-  * [5.4 （量子）计算视角下的物理科学](https://plato.stanford.edu/entries/qt-quantcomp/#QuanCompPersPhysScie)
-  * [5.5 教堂-图灵论题和德意志原则](https://plato.stanford.edu/entries/qt-quantcomp/#ChurTuriThesDeutPrin)
-  * [5.6 （量子）计算和科学解释](https://plato.stanford.edu/entries/qt-quantcomp/#QuanCompScieExpl)
-  * [5.7 是否存在计算种类？](https://plato.stanford.edu/entries/qt-quantcomp/#TherCompKind)
-* [ 参考文献](https://plato.stanford.edu/entries/qt-quantcomp/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qt-quantcomp/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qt-quantcomp/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qt-quantcomp/#Rel)
-
+ 
 ---
 
 ## 1. 领域的简要历史

@@ -4,24 +4,7 @@
 
 非相对论量子理论的最初的“模态解释”诞生于 20 世纪 70 年代初，当时这个短语指的是一种单一的解释。现在这个短语包含了一类解释，并且最好理解为对量子理论解释的一般方法。我们将描述模态解释的历史，短语如何以这种方式被使用，以及那些支持这种方法的人的一般计划（至少是其中一部分）。
 
-* [1. 模态方法的起源](https://plato.stanford.edu/entries/qm-modal/#OrigModaAppr)
-* [2. 模态解释的一般特点](https://plato.stanford.edu/entries/qm-modal/#GeneFeatModaInte)
-* [3. 与其他非坍缩解释的关系](https://plato.stanford.edu/entries/qm-modal/#RelaOtheNoncInte)
-* [4. 双正交分解和谱分解模态解释](https://plato.stanford.edu/entries/qm-modal/#BiorDecoSpecDecoModaInte)
-* [5. 属性组合和原子模态解释](https://plato.stanford.edu/entries/qm-modal/#PropCompAtomModaInte)
-* [6. 属性的动力学](https://plato.stanford.edu/entries/qm-modal/#DynaProp)
-* [7. 透视模态解释](https://plato.stanford.edu/entries/qm-modal/#PersModaInte)
-* [8. 模态-哈密顿解释](https://plato.stanford.edu/entries/qm-modal/#ModaHamiInte)
-* [9. 非理想测量](https://plato.stanford.edu/entries/qm-modal/#NoniMeas)
-* [10. 相干性的作用](https://plato.stanford.edu/entries/qm-modal/#RoleDeco)
-* [11. 重新审视测量问题：完备性和隐藏变量](https://plato.stanford.edu/entries/qm-modal/#MeasProbRevi)
-* [12. 概率的解释](https://plato.stanford.edu/entries/qm-modal/#InteProb)
-* [13. 未解决的问题和展望](https://plato.stanford.edu/entries/qm-modal/#OpenProbPers)
-* [ 参考文献](https://plato.stanford.edu/entries/qm-modal/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qm-modal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qm-modal/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qm-modal/#Rel)
-
+ 
 ---
 
 ## 1. 模态方法的起源

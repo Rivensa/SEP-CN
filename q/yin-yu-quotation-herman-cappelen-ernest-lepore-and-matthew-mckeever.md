@@ -33,36 +33,7 @@
 
 条目的结构如下：
 
-* [1. 如何描述引语](https://plato.stanford.edu/entries/quotation/#HowCharQuot)
-
-  * [1.1 引语通过示例确定](https://plato.stanford.edu/entries/quotation/#QuotIdenThroExam)
-  * [1.2 引语通过句法确定](https://plato.stanford.edu/entries/quotation/#QuotIdenSynt)
-  * [1.3 引语通过语义确定](https://plato.stanford.edu/entries/quotation/#QuotIdenSema)
-* [2. 基本引语特征](https://plato.stanford.edu/entries/quotation/#BasiQuotFeat)
-
-  * [2.1 引语理论的指导问题](https://plato.stanford.edu/entries/quotation/#GuidQuesForTheoQuot)
-  * [2.2 使用-提及区分](https://plato.stanford.edu/entries/quotation/#UseMentDist)
-* [3. 引语的五种理论](https://plato.stanford.edu/entries/quotation/#FiveTheoQuot)
-
-  * [3.1 引语的适当名称理论](https://plato.stanford.edu/entries/quotation/#PropNameTheo)
-  * [3.2 引语的描述理论](https://plato.stanford.edu/entries/quotation/#DescTheoQuot)
-  * [3.3 引语的示意理论](https://plato.stanford.edu/entries/quotation/#DemoTheoQuot)
-  * [3.4 引语的非引语理论](https://plato.stanford.edu/entries/quotation/#DisqTheoQuot)
-  * [3.5 引语的同一性理论（或者更好地说，引语的使用理论）](https://plato.stanford.edu/entries/quotation/#IdenTheoQuotBettUseTheoQuot)
-* [ 4. 混合引语](https://plato.stanford.edu/entries/quotation/#MixeQuot)
-* [5. 引语指涉哪些实体？](https://plato.stanford.edu/entries/quotation/#WhatKindEntiDoQuotRefe)
-* [6. 替代引语设备](https://plato.stanford.edu/entries/quotation/#AlteQuotDevi)
-
-  * [ 6.1 引语标记](https://plato.stanford.edu/entries/quotation/#TokeQuot)
-  * [6.2 角引号（准）引语](https://plato.stanford.edu/entries/quotation/#CornQuasQuot)
-  * [ 6.3 点引语](https://plato.stanford.edu/entries/quotation/#DotQuot)
-  * [ 6.4 引语明确无歧义](https://plato.stanford.edu/entries/quotation/#UnamQuot)
-* [7. 形式-物质模式](https://plato.stanford.edu/entries/quotation/#FormMateMode)
-* [ 参考文献](https://plato.stanford.edu/entries/quotation/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/quotation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/quotation/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/quotation/#Rel)
-
+ 
 ---
 
 ## 1. 如何描述引语

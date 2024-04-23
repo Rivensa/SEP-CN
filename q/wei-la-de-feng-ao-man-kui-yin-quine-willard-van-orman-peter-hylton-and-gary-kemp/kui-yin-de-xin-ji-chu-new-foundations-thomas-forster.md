@@ -15,18 +15,7 @@
 一些例子可能有助于理解：'x∈x'不是分层的。'x∈y'是分层的。因此，并非每个分层公式的替换实例都是分层的。'y=℘(x)'是分层的（花哨的 P 表示幂集），其中变量'y'被赋予比变量'x'高一个类型的类型。要检查这一点，我们必须用原始符号写出'y=℘(x)'（在原始符号中，这个公式变为：∀z(z∈y↔∀w(w∈z→w∈x))）。可以将 0 赋给'w'，1 赋给'z'，2 赋给'x'，以得到这个公式的分层。一般来说，总是有必要用原始符号写出一个公式-至少在掌握它之前。
 
 细心的读者会注意到上面出现了“弱分层”这个表达。这是什么意思？说 x∪{y}总是存在的理解实例是分层的，因此是一个公理。所以 x∪{y}总是存在。所以通过替换，x∪{x}总是存在。然而，声称其存在的理解方案的实例并不是分层的。术语“x∪{x}”被称为弱分层，这意味着如果我们允许给自由变量的不同出现赋予不同的类型，它可以被分层。弱分层是为了从一开始就允许那些给我们替换分层实例的理解方案的实例，并且不需要像这里通过 x∪{y}的存在这样的绕道。
-
-* [1. 集合论的根源](https://plato.stanford.edu/entries/quine-nf/#RootSetTheo)
-* [2. 良基性和 ZF](https://plato.stanford.edu/entries/quine-nf/#WellZF)
-* [3. 类型理论和 NF 的公理化](https://plato.stanford.edu/entries/quine-nf/#TypeTheoAxioNF)
-* [ 4. 历史](https://plato.stanford.edu/entries/quine-nf/#Hist)
-* [5. 其他当前研究领域](https://plato.stanford.edu/entries/quine-nf/#OtheCurrReseArea)
-* [6. 在新基础中实现数学概念](https://plato.stanford.edu/entries/quine-nf/#ImplMathConcNF)
-* [ 7. 尾声](https://plato.stanford.edu/entries/quine-nf/#Coda)
-* [ 参考文献](https://plato.stanford.edu/entries/quine-nf/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/quine-nf/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/quine-nf/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/quine-nf/#Rel)
+ 
 
 ---
 

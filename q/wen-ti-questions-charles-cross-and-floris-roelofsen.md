@@ -5,39 +5,7 @@
 
 在介绍一些基础知识后，我们将重点关注三个关于问题的研究方向：一个位于语言哲学和形式语义学的交叉点上，关注 Belnap 和 Steel（1976）所称为基本问题的语义学；一个位于语言哲学和科学哲学的交叉点上，关注为什么问题和解释的概念；以及一个位于语言哲学和认识论的交叉点上，关注嵌入式问题。
 
-* [ 1. 基础知识](https://plato.stanford.edu/entries/questions/#Pre)
-
-  * [1.1 问题，答案和预设](https://plato.stanford.edu/entries/questions/#QueAnsPre)
-  * [1.2 问题的种类](https://plato.stanford.edu/entries/questions/#KinQue)
-* [2. 基本问题的语义](https://plato.stanford.edu/entries/questions/#SemEleQue)
-
-  * [2.1 问题的经典语义理论](https://plato.stanford.edu/entries/questions/#ClaSemTheQue)
-  * [2.2 动态语义学中的问题](https://plato.stanford.edu/entries/questions/#QueDynSem)
-  * [2.3 好奇语义学](https://plato.stanford.edu/entries/questions/#InqSem)
-  * [2.4 结构化问题的含义](https://plato.stanford.edu/entries/questions/#StrQueMea)
-  * [2.5 进一步阅读的指引](https://plato.stanford.edu/entries/questions/#PoiFurRea)
-* [ 3. 为什么问题](https://plato.stanford.edu/entries/questions/#WhyQue)
-
-  * [3.1 一个正式的方法：异常规律](https://plato.stanford.edu/entries/questions/#ForAppAbnLaw)
-  * [3.2 一个实用的方法：解释对比](https://plato.stanford.edu/entries/questions/#PraAppExpCon)
-  * [3.3 一个形而上学的方法：答案作为原因](https://plato.stanford.edu/entries/questions/#MetApp)
-  * [3.4 进一步阅读的指引](https://plato.stanford.edu/entries/questions/#PoiFurReaThr)
-* [4. 嵌入式（或间接）问题](https://plato.stanford.edu/entries/questions/#EmbIndQue)
-
-  * [4.1 知识-wh 和命令-认知 wh 问题的理论](https://plato.stanford.edu/entries/questions/#KnoWhImpEpiTheWhQue)
-  * [4.2 作为有意义的单位的 Wh-补语](https://plato.stanford.edu/entries/questions/#WhComMeaUni)
-  * [4.3 在上下文中定义的 Wh-补语](https://plato.stanford.edu/entries/questions/#WhComConDef)
-  * [4.4 信息提供与上下文主义](https://plato.stanford.edu/entries/questions/#InfProVerCon)
-  * [ 4.5 问题相对性](https://plato.stanford.edu/entries/questions/#QueRel)
-  * [4.6 作为谓语的 Wh-补语](https://plato.stanford.edu/entries/questions/#WhComPre)
-  * [4.7 假信念敏感性](https://plato.stanford.edu/entries/questions/#FalBelSen)
-  * [4.8 响应式、疑问和反疑问谓词](https://plato.stanford.edu/entries/questions/#RogPreAndResPre)
-  * [4.9 进一步阅读的指针](https://plato.stanford.edu/entries/questions/#PoiFurReaFou)
-* [ 参考文献](https://plato.stanford.edu/entries/questions/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/questions/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/questions/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/questions/#Rel)
-
+ 
 ---
 
 ## 1. 准备工作

@@ -3,41 +3,7 @@
 *首次发表于2002年3月24日；实质性修订于2021年8月5日。*
 
 多世界诠释（MWI）量子力学认为，在同一时空中，存在许多与我们自己平行的世界。其他世界的存在使得量子理论以及所有物理学中的随机性和超距作用成为可能。多世界诠释为量子力学的测量问题提供了解决方案。
-
-* [ 1. 引言](https://plato.stanford.edu/entries/qm-manyworlds/#Intr)
-* [ 2. 定义](https://plato.stanford.edu/entries/qm-manyworlds/#Defi)
-
-  * [2.1 “一个世界”是什么？](https://plato.stanford.edu/entries/qm-manyworlds/#WhatWorl)
-  * [2.2 我是谁？](https://plato.stanford.edu/entries/qm-manyworlds/#WhoAmI)
-* [3. 正式主义与我们的经验之间的对应关系](https://plato.stanford.edu/entries/qm-manyworlds/#CorrBetwFormOurExpe)
-
-  * [3.1 一个宏观物体的量子态](https://plato.stanford.edu/entries/qm-manyworlds/#QuanStatMacrObje)
-  * [3.2 一个世界的量子态](https://plato.stanford.edu/entries/qm-manyworlds/#QuanStatWorl)
-  * [3.3 宇宙的量子态](https://plato.stanford.edu/entries/qm-manyworlds/#QuanStatUniv)
-  * [3.4 FAPP](https://plato.stanford.edu/entries/qm-manyworlds/#FAPP)
-  * [3.5 Preferred Basis](https://plato.stanford.edu/entries/qm-manyworlds/#PrefBasi)
-  * [3.6 存在的度量](https://plato.stanford.edu/entries/qm-manyworlds/#MeasExis)
-* [4. 多世界诠释中的概率](https://plato.stanford.edu/entries/qm-manyworlds/#ProbMWI)
-
-  * [4.1 不确定性导致的概率](https://plato.stanford.edu/entries/qm-manyworlds/#ProbUnce)
-  * [4.2 后测量不确定性导致的概率幻觉](https://plato.stanford.edu/entries/qm-manyworlds/#IlluProbPostMeasUnce)
-  * [4.3 从对称性论证中得出的概率假设](https://plato.stanford.edu/entries/qm-manyworlds/#ProbPostSymmArgu)
-* [5. 多世界诠释的测试](https://plato.stanford.edu/entries/qm-manyworlds/#TestMWI)
-* [6. 对多世界诠释的反对意见](https://plato.stanford.edu/entries/qm-manyworlds/#ObjeMWI)
-
-  * [ 6.1 奥卡姆剃刀](https://plato.stanford.edu/entries/qm-manyworlds/#OckhRazo)
-  * [6.2 首选基础问题](https://plato.stanford.edu/entries/qm-manyworlds/#ProbPrefBasi)
-  * [6.3 波函数不足够](https://plato.stanford.edu/entries/qm-manyworlds/#WaveFuncNotEnou)
-  * [6.4 概率假设的推导](https://plato.stanford.edu/entries/qm-manyworlds/#DeriProbPost)
-  * [6.5 MWI 信徒的社会行为](https://plato.stanford.edu/entries/qm-manyworlds/#SociBehaBeliMWI)
-* [7. 为什么选择 MWI？](https://plato.stanford.edu/entries/qm-manyworlds/#WhyMWI)
-* [ 参考文献](https://plato.stanford.edu/entries/qm-manyworlds/#Bib)
-
-  * [ 预印本](https://plato.stanford.edu/entries/qm-manyworlds/#Prep)
-* [ 学术工具](https://plato.stanford.edu/entries/qm-manyworlds/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qm-manyworlds/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qm-manyworlds/#Rel)
-
+ 
 ---
 
 ## 1. 简介

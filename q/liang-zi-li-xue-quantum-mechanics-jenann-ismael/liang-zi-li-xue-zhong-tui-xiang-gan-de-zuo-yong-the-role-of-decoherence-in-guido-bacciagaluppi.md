@@ -7,39 +7,7 @@
 
 自从量子力学的开始以来，干涉的抑制在许多论文中都有所提及，例如莫特（1929）对α粒子轨迹的分析。作为一个独立学科，退相干的现代基础是由 H.-D. Zeh 在 20 世纪 70 年代初奠定的（Zeh 1970, 1973）。同样有影响力的是 W. Zurek 在 20 世纪 80 年代初的论文（Zurek 1981, 1982）。这些早期的退相干例子（例如，分子的左旋态和右旋态之间的干涉抑制）在数学上更容易理解，而较新的例子则不然。Zurek 在《物理学今日》（1991）中提供了一份简明易懂的理论介绍。这篇文章之后，还发表了几封带有 Zurek 回复的信件（1993），其中突出了有争议的问题。更近期的综述可参考 Zeh（2003a）、Zurek（2003）以及 Giulini 等人的书籍（1996 年版 Joos 等人的第二版 2003 年）和 Schlosshauer 的书籍（2007 年）。
 
-* [1. 退相干理论](https://plato.stanford.edu/entries/qm-decoherence/#EssDec)
-
-  * [1.1 环境退相干](https://plato.stanford.edu/entries/qm-decoherence/#DynDec)
-  * [1.2 退相干的历史](https://plato.stanford.edu/entries/qm-decoherence/#DecHis)
-  * [ 1.3 比较](https://plato.stanford.edu/entries/qm-decoherence/#Com)
-* [2. 退相干和测量问题](https://plato.stanford.edu/entries/qm-decoherence/#ConApp)
-
-  * [2.1 解决测量问题？](https://plato.stanford.edu/entries/qm-decoherence/#SolMeaPro)
-  * [2.2 扩大测量问题](https://plato.stanford.edu/entries/qm-decoherence/#ExaMeaPro)
-* [3. 退相干在不同量子力学方法中的角色(们)](https://plato.stanford.edu/entries/qm-decoherence/#DecAppQuaMec)
-
-  * [ 3.1 埃弗雷特理论](https://plato.stanford.edu/entries/qm-decoherence/#EveInt)
-  * [ 3.2 导引波理论](https://plato.stanford.edu/entries/qm-decoherence/#PilWavThe)
-  * [3.3 自发坍缩理论](https://plato.stanford.edu/entries/qm-decoherence/#ColApp)
-  * [3.4 正统方法](https://plato.stanford.edu/entries/qm-decoherence/#OrthApp)
-
-    * [ 3.4.1 冯·诺依曼](https://plato.stanford.edu/entries/qm-decoherence/#Neu)
-    * [ 3.4.2 海森堡](https://plato.stanford.edu/entries/qm-decoherence/#Hei)
-    * [ 3.4.3 玻尔](https://plato.stanford.edu/entries/qm-decoherence/#Boh)
-  * [3.5 其他方法](https://plato.stanford.edu/entries/qm-decoherence/#OthApp)
-
-    * [3.5.1 尼尔森的随机力学](https://plato.stanford.edu/entries/qm-decoherence/#Nel)
-    * [3.5.2 模态解释](https://plato.stanford.edu/entries/qm-decoherence/#Mod)
-    * [3.5.3 QBism](https://plato.stanford.edu/entries/qm-decoherence/#qBi)
-* [4. 退相干的范围](https://plato.stanford.edu/entries/qm-decoherence/#ScoDec)
-
-  * [4.1 退相干的世界](https://plato.stanford.edu/entries/qm-decoherence/#WorAccDec)
-  * [4.2 进一步的应用](https://plato.stanford.edu/entries/qm-decoherence/#FurApp)
-* [ 参考文献](https://plato.stanford.edu/entries/qm-decoherence/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qm-decoherence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qm-decoherence/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qm-decoherence/#Rel)
-
+ 
 ---
 
 ## 1. 退相干理论

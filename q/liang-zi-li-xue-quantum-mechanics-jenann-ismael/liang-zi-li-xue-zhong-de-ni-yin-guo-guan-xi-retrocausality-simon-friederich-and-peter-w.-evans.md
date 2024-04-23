@@ -6,42 +6,7 @@
 
 在众多试图为量子理论提供“解释”以解释其预测和解释成功的尝试中，一类解释假设逆因果关系-逆因果性作为构建量子理论基础解释的基础。本条目概述了逆因果方法对量子理论解释的概述，采用这种方法的主要动机，一些具体建议的逆因果模型的选择，以及对此类方法提出的异议的回顾。
 
-* [ 1. 历史](https://plato.stanford.edu/entries/qm-retrocausality/#Hist)
-* [2. 形而上学的前提](https://plato.stanford.edu/entries/qm-retrocausality/#MetaPrel)
-
-  * [ 2.1 因果关系](https://plato.stanford.edu/entries/qm-retrocausality/#Caus)
-  * [ 2.2 局域性](https://plato.stanford.edu/entries/qm-retrocausality/#Loca)
-* [3. 动机 I：利用“无法定理”中的漏洞](https://plato.stanford.edu/entries/qm-retrocausality/#MotiIExplLoopNoGoTheo)
-
-  * [3.1 非局域性定理](https://plato.stanford.edu/entries/qm-retrocausality/#NonlTheo)
-  * [3.2 上下文性定理](https://plato.stanford.edu/entries/qm-retrocausality/#ContTheo)
-  * [3.3 超距本体论定理](https://plato.stanford.edu/entries/qm-retrocausality/#PsiOntoTheo)
-  * [ 3.4 古典本体论？](https://plato.stanford.edu/entries/qm-retrocausality/#ClasOnto)
-* [4. 动机 II：时间对称性](https://plato.stanford.edu/entries/qm-retrocausality/#MotiIITimeSymm)
-
-  * [4.1 从时间对称性推导逆因果关系](https://plato.stanford.edu/entries/qm-retrocausality/#DeriRetrTimeSymm)
-  * [4.2 行动二重性原理](https://plato.stanford.edu/entries/qm-retrocausality/#ActiDualPrin)
-* [5. 交易解释](https://plato.stanford.edu/entries/qm-retrocausality/#TranInte)
-* [6. 超距作用模型的发展](https://plato.stanford.edu/entries/qm-retrocausality/#DeveTowaRetrMode)
-
-  * [6.1 两态矢量形式主义](https://plato.stanford.edu/entries/qm-retrocausality/#TwoStatVectForm)
-  * [ 6.2 玩具模型](https://plato.stanford.edu/entries/qm-retrocausality/#ToyMode)
-  * [6.3 超距作用对称的玻姆模型](https://plato.stanford.edu/entries/qm-retrocausality/#CausSymmBohmMode)
-  * [6.4 关系性块世界诠释](https://plato.stanford.edu/entries/qm-retrocausality/#RelaBlocInte)
-  * [6.5 双时间边界值模型](https://plato.stanford.edu/entries/qm-retrocausality/#TwoTimeBounValuMode)
-  * [6.6 “一次性”拉格朗日模型](https://plato.stanford.edu/entries/qm-retrocausality/#AllOnceLagrMode)
-  * [6.7 基于 Q 的解释](https://plato.stanford.edu/entries/qm-retrocausality/#QBasedInt)
-* [7. 对量子力学中逆因果关系的反对意见](https://plato.stanford.edu/entries/qm-retrocausality/#ObjeAgaiRetrQuanMech)
-
-  * [7.1 逆因果关系的一般论证](https://plato.stanford.edu/entries/qm-retrocausality/#GeneArguAgaiRetr)
-  * [7.2 逆因果关系就是超决定论](https://plato.stanford.edu/entries/qm-retrocausality/#RetrJustIsSupe)
-  * [7.3 逆因果关系需要精细调整](https://plato.stanford.edu/entries/qm-retrocausality/#RetrRequFineTuni)
-  * [7.4 异国因果结构的语境性](https://plato.stanford.edu/entries/qm-retrocausality/#ContForExotCausStru)
-* [ 参考文献](https://plato.stanford.edu/entries/qm-retrocausality/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qm-retrocausality/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qm-retrocausality/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qm-retrocausality/#Rel)
-
+ 
 ---
 
 ## 1. 历史

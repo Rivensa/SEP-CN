@@ -4,45 +4,7 @@
 
 在量子领域中，远距离系统的属性之间存在着奇特的相关性。爱因斯坦-波多尔斯基-罗森/波姆实验提供了这种相关性的一个例子。EPR/B 实验中的相关性强烈暗示了远距离系统之间存在非局部影响，即在这些系统之间没有光信号传播，而正统的量子力学及其各种解释都假设了这种非局部性的存在。然而，EPR/B 相关性是否意味着非局部性以及这种非局部性的确切性质仍然存在争议。在本条目中，我们将重点关注 EPR/B 类型的实验，考虑不同量子力学解释所假设的各种非局部性的性质。基于这种考虑，我们简要讨论这些解释与狭义相对论的相容性。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/qm-action-distance/#Int)
-* [2. 贝尔定理和非局部性](https://plato.stanford.edu/entries/qm-action-distance/#BelTheNonLoc)
-* [3. 因子化的分析](https://plato.stanford.edu/entries/qm-action-distance/#AnaFac)
-* [4. 超距作用、整体性和非分离性](https://plato.stanford.edu/entries/qm-action-distance/#ActDisHolNonSep)
-
-  * [4.1 超距作用](https://plato.stanford.edu/entries/qm-action-distance/#ActDis)
-  * [ 4.2 整体论](https://plato.stanford.edu/entries/qm-action-distance/#Hol)
-  * [ 4.3 非可分性](https://plato.stanford.edu/entries/qm-action-distance/#NonSep)
-* [5. 量子力学中的整体论、非可分性和超距作用](https://plato.stanford.edu/entries/qm-action-distance/#HolNonSepActDisQuaMec)
-
-  * [ 5.1 坍缩理论](https://plato.stanford.edu/entries/qm-action-distance/#ColThe1)
-  * [5.2 超距作用是否能与非分离性和整体性共存？](https://plato.stanford.edu/entries/qm-action-distance/#ActDisCoExiNonSepHol)
-  * [5.3 非坍缩理论](https://plato.stanford.edu/entries/qm-action-distance/#NoColThe1)
-* [6. 超光速因果关系](https://plato.stanford.edu/entries/qm-action-distance/#SupCau1)
-* [7. 超光速信号传递](https://plato.stanford.edu/entries/qm-action-distance/#SupSig1)
-
-  * [7.1 超光速信号传递的必要和充分条件](https://plato.stanford.edu/entries/qm-action-distance/#NecSufConForSupSig)
-  * [7.2 无坍缩理论](https://plato.stanford.edu/entries/qm-action-distance/#NoColThe2)
-  * [ 7.3 坍缩理论](https://plato.stanford.edu/entries/qm-action-distance/#ColThe2)
-  * [7.4 可控概率依赖的前景](https://plato.stanford.edu/entries/qm-action-distance/#ProConProDep)
-  * [7.5 超光速信号和超距作用](https://plato.stanford.edu/entries/qm-action-distance/#SupSigActDis)
-* [8. 因子化分析：对量子非局域性的影响](https://plato.stanford.edu/entries/qm-action-distance/#AnaFacImpForQuaNonLoc)
-
-  * [8.1 非可分性、整体性和超距作用](https://plato.stanford.edu/entries/qm-action-distance/#NonSepHolActDis)
-  * [8.2 超光速信号传输](https://plato.stanford.edu/entries/qm-action-distance/#SupSig2)
-  * [ 8.3 相对论](https://plato.stanford.edu/entries/qm-action-distance/#Rela)
-  * [8.4 超光速因果关系](https://plato.stanford.edu/entries/qm-action-distance/#SupCau2)
-  * [8.5 关于参数依赖的起源和性质](https://plato.stanford.edu/entries/qm-action-distance/#OriNatParDep)
-* [9. 是否可以存在“局部”的量子理论？](https://plato.stanford.edu/entries/qm-action-distance/#TheLocQuaThe)
-* [10. 量子非局域性是否能与相对论相一致？](https://plato.stanford.edu/entries/qm-action-distance/#QuaNonLocRecRel)
-
-  * [ 10.1 坍缩理论](https://plato.stanford.edu/entries/qm-action-distance/#ColThe3)
-  * [10.2 非坍缩理论](https://plato.stanford.edu/entries/qm-action-distance/#NoColThe3)
-  * [10.3 量子因果循环和相对论](https://plato.stanford.edu/entries/qm-action-distance/#QuaCauLooRel)
-* [ 参考文献](https://plato.stanford.edu/entries/qm-action-distance/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qm-action-distance/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qm-action-distance/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qm-action-distance/#Rel)
-
+ 
 ---
 
 ## 1. 引言

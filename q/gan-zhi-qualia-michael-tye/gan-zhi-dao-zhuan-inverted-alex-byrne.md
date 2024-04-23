@@ -7,35 +7,7 @@
 
 这篇文章很长，涉及到一些读者可能希望忽略的复杂细节。那些想要简短介绍的人应该阅读第 1 节（跳过子节 1.1），第 2 节（子节 2.1、2.2、2.3）和子节 3.1。（另一个简短介绍是 Ross 2020 年的文章。）对这个主题不熟悉的人应该先阅读关于感质的条目。
 
-* [ 1. 感质](https://plato.stanford.edu/entries/qualia-inverted/#Qua)
-
-  * [1.1 ‘感质’的其他用途](https://plato.stanford.edu/entries/qualia-inverted/#OthUseQua)
-* [2. 倒转感质场景](https://plato.stanford.edu/entries/qualia-inverted/#InvQuaSce)
-
-  * [2.1 一个简单的倒转感质场景](https://plato.stanford.edu/entries/qualia-inverted/#SimInvQuaSce)
-  * [2.2 洛克的倒转光谱场景](https://plato.stanford.edu/entries/qualia-inverted/#LocInvSpeSce)
-  * [2.3 其他倒转光谱场景](https://plato.stanford.edu/entries/qualia-inverted/#OthInvSpeSce)
-
-    * [2.3.1 行为上无法检测的情景](https://plato.stanford.edu/entries/qualia-inverted/#BehUndSce)
-    * [2.3.2 个人内部和人际情景](https://plato.stanford.edu/entries/qualia-inverted/#IntIntSce)
-    * [ 2.3.3 倒转地球](https://plato.stanford.edu/entries/qualia-inverted/#InvEar)
-  * [ 2.4 倒转的感质](https://plato.stanford.edu/entries/qualia-inverted/#ShiQua)
-* [3. 倒转光谱的论证...](https://plato.stanford.edu/entries/qualia-inverted/#SpeInvArg)
-
-  * [3.1 ...反对行为主义、功能主义和物理主义的论证...](https://plato.stanford.edu/entries/qualia-inverted/#HAgBehFunPhy)
-  * [3.2 …反对再现主义](https://plato.stanford.edu/entries/qualia-inverted/#HAgRep)
-  * [3.3 …支持外观属性](https://plato.stanford.edu/entries/qualia-inverted/#HFoAppPro)
-  * [3.4 …支持呈现方式](https://plato.stanford.edu/entries/qualia-inverted/#HFoModPre)
-  * [ 3.5 …对于相对主义](https://plato.stanford.edu/entries/qualia-inverted/#HFoRel)
-  * [3.6 …对于怀疑他人心灵](https://plato.stanford.edu/entries/qualia-inverted/#HFoSkeAboOthMin)
-  * [3.7 …对于解释上的鸿沟](https://plato.stanford.edu/entries/qualia-inverted/#HFoExpGap)
-  * [3.8 …对于感质的难以言喻性](https://plato.stanford.edu/entries/qualia-inverted/#HFoIneQua)
-  * [3.9 ...对于内容外在主义、再现主义和感质内在主义的不一致性](https://plato.stanford.edu/entries/qualia-inverted/#ForIncConExtRepQuaInt)
-  * [3.10 总结：倒转光谱情景的必要特征](https://plato.stanford.edu/entries/qualia-inverted/#SumReqFeaInvSpeSce)
-* [ 参考文献](https://plato.stanford.edu/entries/qualia-inverted/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qualia-inverted/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qualia-inverted/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qualia-inverted/#Rel)
+ 
 
 ---
 

@@ -8,24 +8,7 @@
 
 实际上，玻尔和海森堡从未完全就如何理解量子力学的数学形式主义达成一致，他们中的任何一个也从未使用“哥本哈根诠释”这个术语作为他们观点的共同名称。事实上，玻尔曾经与他认为是海森堡更主观解释的观点保持距离（APHK，第 51 页）。这个术语更多地是由反对玻尔互补性观念的人引入的一个标签，用来识别他们认为是 20 世纪 20 年代末出现的玻尔-海森堡解释背后的共同特征。如今，哥本哈根诠释在大多数情况下被视为与不确定性、玻尔的对应原理、玻恩对波函数的统计解释以及玻尔对某些原子现象的互补性解释等同。
 
-* [ 1. 背景](https://plato.stanford.edu/entries/qm-copenhagen/#Bac)
-* [ 2. 经典物理学](https://plato.stanford.edu/entries/qm-copenhagen/#ClaPhy)
-* [3. 对应规则](https://plato.stanford.edu/entries/qm-copenhagen/#CorRul)
-* [ 4. 互补性](https://plato.stanford.edu/entries/qm-copenhagen/#Com)
-* [5. 经典概念的使用](https://plato.stanford.edu/entries/qm-copenhagen/#UseCla)
-* [6. 量子形式主义的解释](https://plato.stanford.edu/entries/qm-copenhagen/#IntQua)
-* [7. 互补性的误解](https://plato.stanford.edu/entries/qm-copenhagen/#MisCom)
-* [8. 分歧的观点](https://plato.stanford.edu/entries/qm-copenhagen/#DivVie)
-* [9. 测量问题和经典-量子区别](https://plato.stanford.edu/entries/qm-copenhagen/#MeaProClaQuaDis)
-* [ 10. 新的视角](https://plato.stanford.edu/entries/qm-copenhagen/#NewPer)
-* [ 参考书目](https://plato.stanford.edu/entries/qm-copenhagen/#Bib)
-
-  * [对玻尔的工作的参考资料](https://plato.stanford.edu/entries/qm-copenhagen/#RefWorBoh)
-  * [ 其他参考资料](https://plato.stanford.edu/entries/qm-copenhagen/#OthRef)
-* [ 学术工具](https://plato.stanford.edu/entries/qm-copenhagen/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qm-copenhagen/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qm-copenhagen/#Rel)
-
+ 
 ---
 
 ## 1. 背景

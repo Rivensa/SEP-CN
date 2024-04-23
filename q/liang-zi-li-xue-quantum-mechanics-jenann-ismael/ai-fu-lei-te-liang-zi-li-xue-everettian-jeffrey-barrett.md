@@ -4,32 +4,7 @@
 
 休·埃弗雷特三世提出通过采用纯波动力学来解决量子测量问题，这是通过从标准冯·诺依曼量子力学的坍缩动力学中去除而得到的理论。埃弗雷特的相对态形式包括纯波动力学以及绝对态和相对态之间的区别，一个有关观察的模型和一个典型性标准。他的目标是通过展示典型观察者的相对记录将满足标准量子统计学，从而重新捕捉标准坍缩理论的预测。我们将考虑他的理论以及几种完全不同的理解方式。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/qm-everett/#Intr)
-* [2. 测量问题](https://plato.stanford.edu/entries/qm-everett/#MeasProb)
-* [3. 埃弗雷特的推导](https://plato.stanford.edu/entries/qm-everett/#EverDedu)
-
-  * [ 3.1 确定记录](https://plato.stanford.edu/entries/qm-everett/#DeteReco)
-  * [ 3.2 概率](https://plato.stanford.edu/entries/qm-everett/#Prob)
-* [4. 经验忠诚度](https://plato.stanford.edu/entries/qm-everett/#EmpiFait)
-* [5. 纯波动力学忠诚度的四个论证](https://plato.stanford.edu/entries/qm-everett/#FourArguForFaitPureWaveMech)
-
-  * [5.1 经验存在于观察者的相对记忆记录中](https://plato.stanford.edu/entries/qm-everett/#ExpeFounRelaMemoRecoObse)
-  * [5.2 纯波动力学预测，人们通常不会注意到存在替代的相对记录](https://plato.stanford.edu/entries/qm-everett/#PureWaveMechPredOneWoulNotOrdiNotiTherAlteRelaReco)
-  * [5.3 纯波动力学的剩余结构原则上是可检测的，因此根本不是剩余结构](https://plato.stanford.edu/entries/qm-everett/#SurpStruPureWaveMechPrinDeteHencIsntSurpStruAll)
-  * [5.4 典型的相对测量记录序列展现了标准的量子统计学](https://plato.stanford.edu/entries/qm-everett/#TypiRelaSequMeasRecoExhiStanQuanStat)
-* [6. 经验忠诚和经验充分性](https://plato.stanford.edu/entries/qm-everett/#EmpiFaitEmpiAdeq)
-* [ 7. 多世界](https://plato.stanford.edu/entries/qm-everett/#ManyWorl)
-* [8. 裸理论和扩展](https://plato.stanford.edu/entries/qm-everett/#BareTheoExte)
-
-  * [8.1 裸理论](https://plato.stanford.edu/entries/qm-everett/#BareTheo)
-  * [8.2 多心和隐藏变量](https://plato.stanford.edu/entries/qm-everett/#ManyMindHiddVari)
-  * [ 8.3 多历史](https://plato.stanford.edu/entries/qm-everett/#ManyHist)
-* [ 9. 总结](https://plato.stanford.edu/entries/qm-everett/#Summ)
-* [ 参考文献](https://plato.stanford.edu/entries/qm-everett/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/qm-everett/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/qm-everett/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/qm-everett/#Rel)
-
+ 
 ---
 
 ## 1. 简介
