@@ -4,18 +4,6 @@
 
 古代哲学中希腊词语“pathos”的许多用途之一，大致上指的是我们所称的情绪。相应的拉丁术语是 passio，affectus 或 affectio。情绪的中世纪理论基本上是基于古代来源的。新的发展包括从阿维森纳的能力心理学角度讨论情绪，特别是在十三世纪亚里士多德主义中制定系统的分类法，对情绪反应的自愿和非自愿方面进行详细研究，以及晚期中世纪对情绪和意志之间明显分界的重新评估。
 
-* [ 古代来源](https://plato.stanford.edu/entries/medieval-emotions/#AnciSour)
-* [早期中世纪讨论](https://plato.stanford.edu/entries/medieval-emotions/#EarlMediDisc)
-* [新的分类学思想](https://plato.stanford.edu/entries/medieval-emotions/#NewTaxoIdea)
-* [阿尔伯特大师，波纳文图拉和托马斯·阿奎那](https://plato.stanford.edu/entries/medieval-emotions/#AlbeGreaBonaThomAqui)
-* [约翰·邓斯·斯科特和晚期中世纪讨论](https://plato.stanford.edu/entries/medieval-emotions/#JohnDunsScotLateMediDisc)
-* [ 参考文献](https://plato.stanford.edu/entries/medieval-emotions/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/medieval-emotions/#PrimSour)
-  * [ 次级来源](https://plato.stanford.edu/entries/medieval-emotions/#SecoSour)
-* [ 学术工具](https://plato.stanford.edu/entries/medieval-emotions/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/medieval-emotions/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/medieval-emotions/#Rel)
 
 ---
 

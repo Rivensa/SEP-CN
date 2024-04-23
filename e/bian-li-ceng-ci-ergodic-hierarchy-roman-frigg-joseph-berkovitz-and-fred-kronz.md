@@ -6,21 +6,7 @@
 
 遍历层次（EH）是遍历理论的核心部分。它是动力系统可能具有的一系列性质。其五个层次分别是遍历性、弱混合性、强混合性、科尔莫哥洛夫和伯努利。尽管 EH 是一个数学理论，但其概念已被广泛应用于统计物理学的基础、随机性的解释以及关于混沌本质的讨论，以及其他领域如经济学等。我们介绍 EH 并讨论其应用。
 
-* [ 动力系统](https://plato.stanford.edu/entries/ergodic-hierarchy/#DynaSyst)
-* [ 遍历性](https://plato.stanford.edu/entries/ergodic-hierarchy/#Ergo)
-* [遍历层次](https://plato.stanford.edu/entries/ergodic-hierarchy/#ErgoHier)
-* [遍历层次与统计力学](https://plato.stanford.edu/entries/ergodic-hierarchy/#ErgoHierStatMech)
 
-  * [4.1 Boltzmannian SM](https://plato.stanford.edu/entries/ergodic-hierarchy/#BoltSM)
-  * [ 4.2 Gibbsian SM4.2 Gibbsian SM](https://plato.stanford.edu/entries/ergodic-hierarchy/#GibbSM)
-* [遍历层次与随机性](https://plato.stanford.edu/entries/ergodic-hierarchy/#ErgoHierRand)
-* [遍历层次](https://plato.stanford.edu/entries/ergodic-hierarchy/#NoApplChar)
-* [遍历层次与混沌](https://plato.stanford.edu/entries/ergodic-hierarchy/#ErgoHierChao)
-* [ 结论](https://plato.stanford.edu/entries/ergodic-hierarchy/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/ergodic-hierarchy/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ergodic-hierarchy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ergodic-hierarchy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ergodic-hierarchy/#Rel)
 
 ---
 

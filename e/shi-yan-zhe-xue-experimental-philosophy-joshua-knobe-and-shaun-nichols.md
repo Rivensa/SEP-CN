@@ -11,29 +11,6 @@
 
 本文简要介绍了当代实验哲学的核心目标。然后回顾了最近关于否定计划、自由意志、道德判断和认识论的实验工作。最后讨论了对整个实验哲学领域的主要反对意见。
 
-* [ 概览](https://plato.stanford.edu/entries/experimental-philosophy/#Over)
-* [实验哲学研究](https://plato.stanford.edu/entries/experimental-philosophy/#ReseExpePhil)
-
-  * [2.1 The Negative Program2.1 负面计划](https://plato.stanford.edu/entries/experimental-philosophy/#NegaProg)
-
-    * [2.1.1 多样性论](https://plato.stanford.edu/entries/experimental-philosophy/#ArguDive)
-    * [2.1.2 The argument from sensitivity](https://plato.stanford.edu/entries/experimental-philosophy/#ArguSens)
-  * [自由意志和道德责任](https://plato.stanford.edu/entries/experimental-philosophy/#FreeWillMoraResp)
-  * [2.3 Impact of Moral Judgment2.3 道德判断的影响](https://plato.stanford.edu/entries/experimental-philosophy/#ImpaMoraJudg)
-  * [ 2.4 Epistemology2.4 认识论](https://plato.stanford.edu/entries/experimental-philosophy/#Epis)
-  * [ 其他主题](https://plato.stanford.edu/entries/experimental-philosophy/#OtheTopi)
-* [实验哲学的挑战](https://plato.stanford.edu/entries/experimental-philosophy/#ChalExpePhil)
-
-  * [3.1 在哲学中争论直觉的作用](https://plato.stanford.edu/entries/experimental-philosophy/#DispRoleIntuPhil)
-
-    * [3.1.1 Philosophers don’t rely on intuitions](https://plato.stanford.edu/entries/experimental-philosophy/#PhilDontRelyIntu)
-    * [3.1.2 Philosophers shouldn’t rely on intuitions](https://plato.stanford.edu/entries/experimental-philosophy/#PhilShouRelyIntu)
-  * [3.2 Defending Privileged Intuitions Rather Than Those of Ordinary Experimental Participants](https://plato.stanford.edu/entries/experimental-philosophy/#DefePrivIntuRathThanThosOrdiExpePart)
-  * [但这是哲学吗？](https://plato.stanford.edu/entries/experimental-philosophy/#ButItPhil)
-* [ 参考文献](https://plato.stanford.edu/entries/experimental-philosophy/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/experimental-philosophy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/experimental-philosophy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/experimental-philosophy/#Rel)
 
 ---
 

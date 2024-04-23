@@ -4,30 +4,7 @@
 
 这篇文章提供了达尔文进化论的起源和发展的广泛历史回顾，从“达尔文革命”的最初达尔文阶段一直到 1871 年出版的《人类的由来》。在达尔文之前的进化思想发展已在另一篇文章《达尔文之前的进化思想》中进行了讨论。达尔文进化论及其传记发展的其他方面在本百科全书的其他条目中有所涉及（请参阅达尔文主义；物种；自然选择；创造论）。本条目的其余部分将重点关注达尔文理论中未在其他条目中展开的方面。它还将保持历史和文本方法。本百科全书中在文章末尾引用的其他条目和参考书目应在此之外进行讨论。这些问题将在以下标题下进行审查：
 
-* [达尔文理论的起源](https://plato.stanford.edu/entries/origin-descent/#OrigDarwTheo)
 
-  * [1.1 Historiographical Issues1.1 历史学问题](https://plato.stanford.edu/entries/origin-descent/#HistIssu)
-  * [1.2 Darwin’s Early Reflections1.2 达尔文的早期思考](https://plato.stanford.edu/entries/origin-descent/#DarwEarlRefl)
-* [达尔文进化论](https://plato.stanford.edu/entries/origin-descent/#DarwEvol)
-
-  * [2.1. The Concept of Natural Selection2.1. 自然选择的概念](https://plato.stanford.edu/entries/origin-descent/#ConcNatuSele)
-  * [2.2. The Argument of the Published Origin已发表的起源的论证](https://plato.stanford.edu/entries/origin-descent/#CentArguOrig)
-* [3. 《物种起源》的接受](https://plato.stanford.edu/entries/origin-descent/#ReceOrig)
-
-  * [3.1 The Popular Reception of Darwin’s Theory达尔文理论的普遍接受](https://plato.stanford.edu/entries/origin-descent/#PopuReceDarwTheo)
-  * [3.2 达尔文理论的专业接受](https://plato.stanford.edu/entries/origin-descent/#ProfReceDarwTheo)
-* [人类进化与人类的由来](https://plato.stanford.edu/entries/origin-descent/#HumaEvolDescMan)
-
-  * [达尔文衰落的起源](https://plato.stanford.edu/entries/origin-descent/#GeneDarwDesc)
-  * [4.2 Darwin on Mental Powers达尔文论心智力量](https://plato.stanford.edu/entries/origin-descent/#DarwMentPowe)
-  * [4.3 The Ethical Theory of the Descent of Man4.3 《人类的由来》的伦理理论](https://plato.stanford.edu/entries/origin-descent/#EthiTheoDescMan)
-  * [4.4 The Reception of the Descent4.4 《人类的由来》的接受](https://plato.stanford.edu/entries/origin-descent/#RecDescMan)
-* [5. 总结与结论](https://plato.stanford.edu/entries/origin-descent/#SummConc)
-* [ 参考文献](https://plato.stanford.edu/entries/origin-descent/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/origin-descent/#Aca)
-* [其他互联网资源Assistant&apos;s Note: The first translation session has been completed. Now, I will proceed with the second translation session based on the result of the first translation.其他网络资源](https://plato.stanford.edu/entries/origin-descent/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/origin-descent/#Rel)
-* [ 致谢](https://plato.stanford.edu/entries/origin-descent/#Rel)
 
 ---
 

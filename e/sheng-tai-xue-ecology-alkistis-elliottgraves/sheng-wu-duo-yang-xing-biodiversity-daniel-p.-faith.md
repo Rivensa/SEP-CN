@@ -10,35 +10,7 @@
 
 对生物多样性保护的政策背景一直保持着对多样性的核心关注（正如《生物多样性公约》和《生物多样性与生态系统服务评估》的定义所反映的那样），但更多的学术讨论很难确定。关于“生物多样性”的哲学讨论展示了当前学术界在基本问题上缺乏共识，包括生物多样性的定义、价值，甚至历史。学术界对这一术语的日益流行导致了对该术语的清晰度降低。如果我们查阅《生物多样性百科全书》中的“生物多样性定义”，我们会发现“生物多样性的明确、精确和普遍接受的定义并不存在”（Swingland 2013）。最近出版的书籍《捍卫生物多样性》（Newman, Varner, & Linquist 2017）的前提是永远不可能就定义达成一致。因此，本文将重点关注有关生物多样性定义和价值的这些基本问题。特别关注的是多样性的概念（而不是个体元素的定义和价值）。其他与生物多样性相关的哲学问题在其他 SEP 条目中有所涵盖（请参阅有关生物多样性保护的补充文件，以及有关环境伦理学、保护生物学和生态学的条目）。
 
-* [“生物多样性”之前的历史：多样性及其价值](https://plato.stanford.edu/entries/biodiversity/#PreHistBiodVariValu)
 
-  * [生物多样性的多重益处：保险和投资](https://plato.stanford.edu/entries/biodiversity/#MultBeneBiotDiveInsuInve)
-* [后来关于多样性、其价值和规范性问题的研究](https://plato.stanford.edu/entries/biodiversity/#LateWorkVariValuQuesNorm)
-
-  * [生物多样性选项价值的进一步探讨](https://plato.stanford.edu/entries/biodiversity/#FurtExplBiodOptiValu)
-  * [2.2 Variety, value and normativity](https://plato.stanford.edu/entries/biodiversity/#VariValuNorm)
-  * [我们所说的“多样性”或“多样性”是什么意思，我们如何衡量它？](https://plato.stanford.edu/entries/biodiversity/#WhatDoWeMeanVariDiveHowDoWeMeasIt)
-  * [2.4 如何理解多样性有助于我们建立一个可行的生物多样性计算方法](https://plato.stanford.edu/entries/biodiversity/#HowUndeVariHelpUsBuilWorkCalcBiod)
-* [超越多样性——1985 年后的新“生物多样性”框架](https://plato.stanford.edu/entries/biodiversity/#BeyoVari1985NewBiodFram)
-* [生态/生态系统服务框架](https://plato.stanford.edu/entries/biodiversity/#EcolServFram)
-
-  * [生物多样性保险价值的进一步探讨](https://plato.stanford.edu/entries/biodiversity/#FurtExplBiodInsuValu)
-  * [生态系统框架的基本原理](https://plato.stanford.edu/entries/biodiversity/#RatiForEcosFram)
-  * [4.3 定义和价值](https://plato.stanford.edu/entries/biodiversity/#DefiValu)
-  * [ 历史](https://plato.stanford.edu/entries/biodiversity/#Hist)
-  * [4.5 结论观察](https://plato.stanford.edu/entries/biodiversity/#ConcObse)
-* [生物多样性保护生物学框架](https://plato.stanford.edu/entries/biodiversity/#ConsBiolFram)
-
-  * [ 5.1 介绍](https://plato.stanford.edu/entries/biodiversity/#Intr)
-  * [生物多样性降格主义](https://plato.stanford.edu/entries/biodiversity/#BiodDefl)
-  * [生物多样性消除论](https://plato.stanford.edu/entries/biodiversity/#BiodElim)
-  * [5.4 结论观察](https://plato.stanford.edu/entries/biodiversity/#ConcObse_1)
-* [社会生态框架](https://plato.stanford.edu/entries/biodiversity/#SociEcolFram)
-* [结束观察](https://plato.stanford.edu/entries/biodiversity/#ConcObse_2)
-* [ 参考文献](https://plato.stanford.edu/entries/biodiversity/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/biodiversity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/biodiversity/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/biodiversity/#Rel)
 
 ---
 

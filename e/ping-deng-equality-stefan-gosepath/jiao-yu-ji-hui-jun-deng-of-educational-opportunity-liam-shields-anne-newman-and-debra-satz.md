@@ -6,34 +6,6 @@
 
 为了构建讨论，我们介绍了三个关键因素，强调了将教育机会均等视为一个独立关注点的重要性，与一般机会均等理论不同。这些因素是：教育在现代社会中的中心地位及其提供的多样机会；许多儿童缺乏高质量的教育机会；以及国家在提供教育机会方面的关键作用。这些因素使教育与许多其他社会产品有所不同。接着我们简要介绍了自 1950 年代以来美国如何解释教育机会均等以及机会均等的法律理解的演变历史。我们随后的分析对当前美国诉讼中心的问题有着重要影响。但我们的哲学讨论旨在具有更广泛的影响力，试图澄清这一概念最具吸引力的竞争性构想。
 
-* [教育机会均等作为一个独立关注点](https://plato.stanford.edu/entries/equal-ed-opportunity/#EquaEducOppoIndeConc)
-
-  * [教育的价值](https://plato.stanford.edu/entries/equal-ed-opportunity/#ValuEduc)
-  * [1.2 高质量教育机会的稀缺](https://plato.stanford.edu/entries/equal-ed-opportunity/#ScarHighQualEducOppo)
-  * [1.3 The State Regulation of Education1.3 教育的国家监管](https://plato.stanford.edu/entries/equal-ed-opportunity/#StatReguEduc)
-* [美国教育机会均等的简要历史](https://plato.stanford.edu/entries/equal-ed-opportunity/#BrieHistEquaEducOppoUnitStat)
-* [教育机会均等的含义和争论](https://plato.stanford.edu/entries/equal-ed-opportunity/#MeanDebaAbouEquaEducOppo)
-
-  * [3.1 什么是教育机会？](https://plato.stanford.edu/entries/equal-ed-opportunity/#WhatEducOppo)
-  * [3.2 Formal Equality of Educational Opportunity教育机会均等](https://plato.stanford.edu/entries/equal-ed-opportunity/#FormEquaEducOppo)
-  * [3.3 Meritocratic Equality of Educational Opportunity3.3 教育机会均等](https://plato.stanford.edu/entries/equal-ed-opportunity/#MeriEquaEducOppo)
-  * [3.4 公平的教育机会](https://plato.stanford.edu/entries/equal-ed-opportunity/#FairEquaEducOppo)
-  * [3.5 关于教育机会均等的辩论](https://plato.stanford.edu/entries/equal-ed-opportunity/#DebaAbouFairEquaEducOppo)
-  * [3.6 Equality of Educational Opportunity for Flourishing](https://plato.stanford.edu/entries/equal-ed-opportunity/#EquaEducOppoForFlou)
-  * [3.7 劳动力市场的教育机会均等](https://plato.stanford.edu/entries/equal-ed-opportunity/#EquaEducOppoForLaboMark)
-  * [公民教育机会均等](https://plato.stanford.edu/entries/equal-ed-opportunity/#EquaEducOppoForCiti)
-  * [教育机会的平等和充分性](https://plato.stanford.edu/entries/equal-ed-opportunity/#EquaAdeqDistEducOppo)
-* [教育机会均等与其他价值观的紧张关系](https://plato.stanford.edu/entries/equal-ed-opportunity/#EquaEducOppoTensOtheValu)
-
-  * [4.1 教育与家庭](https://plato.stanford.edu/entries/equal-ed-opportunity/#EducFami)
-  * [ 4.2 残疾](https://plato.stanford.edu/entries/equal-ed-opportunity/#Disa)
-  * [4.3 平等教育机会的目标：个人还是团体？](https://plato.stanford.edu/entries/equal-ed-opportunity/#TargEquaEducOppoIndiGrou)
-* [ 5. 结论](https://plato.stanford.edu/entries/equal-ed-opportunity/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/equal-ed-opportunity/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/equal-ed-opportunity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/equal-ed-opportunity/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/equal-ed-opportunity/#Rel)
-
 ---
 
 ## 教育机会均等作为一个独立关注点

@@ -20,29 +20,7 @@
 
 由于我们所诉诸的是我们考虑的认知状态的纯粹认知效用，而不是它们引导我们做出选择的结果的实用或实际效用，认知效用理论的论证与赌注论证或荷兰书论证（Ramsey 1926 [1931]; de Finetti 1937 [1980]; 参见荷兰书论证词条）不同。它们也不同于像 Cox 的定理（Cox 1946, 1961; Paris 1994）所体现的公理证明的类型，以及 R. I. G. Hughes 和 Bas van Fraassen（1984）以及 Hannes Leitgeb（2021）提供的结构性证明类型。
 
-* [认知状态建模](https://plato.stanford.edu/entries/epistemic-utility/#ModEpiSta)
-* [认知效用论证中的论证形式](https://plato.stanford.edu/entries/epistemic-utility/#ForArgEpiUtiThe)
-* [3. 议程和世界的状态](https://plato.stanford.edu/entries/epistemic-utility/#AgeStaWor)
-* [认知效用论证关于直接信念](https://plato.stanford.edu/entries/epistemic-utility/#EpiUtiArgFulBel)
 
-  * [4.1 Dominance and Consistency4.1 主导性与一致性](https://plato.stanford.edu/entries/epistemic-utility/#DomCon)
-  * [4.2 预期的认知效用和洛克式命题](https://plato.stanford.edu/entries/epistemic-utility/#ExpEpiUtiLocThe)
-  * [4.3 主导性和几乎洛克完备性](https://plato.stanford.edu/entries/epistemic-utility/#StrDomLocThe)
-  * [在收到证据时更新您的信念](https://plato.stanford.edu/entries/epistemic-utility/#UpBel)
-* [认知效用论证对于精确置信度的论点](https://plato.stanford.edu/entries/epistemic-utility/#EpiUtiArgPreCre)
-
-  * [5.1 Epistemic utility function for precise credences5.1 精确信念的认知效用函数](https://plato.stanford.edu/entries/epistemic-utility/#EpiUtiFunPreCre)
-  * [5.2 Epistemic Utility Arguments to 认知效用论证](https://plato.stanford.edu/entries/epistemic-utility/#EpiUtiArgPro)
-  * [5.3 Epistemic utility arguments for chance-credence norms5.3 认知效用论证对机会-信念规范的论点](https://plato.stanford.edu/entries/epistemic-utility/#EpiUtiArgChCr)
-  * [5.4 Epistemic utility arguments for Conditionalization5.4 认知效用论证对于条件化](https://plato.stanford.edu/entries/epistemic-utility/#EpiUtiArgCon)
-  * [5.5 认知效用论证支持和反对唯一性命题。](https://plato.stanford.edu/entries/epistemic-utility/#EpiArgUniThe)
-  * [5.6 社会认识论中的认知效用论证](https://plato.stanford.edu/entries/epistemic-utility/#EpiUtiArgSocEpi)
-* [6. 比较信心](https://plato.stanford.edu/entries/epistemic-utility/#ComCon)
-* [ 认知效用论证](https://plato.stanford.edu/entries/epistemic-utility/#ImpCre)
-* [ 参考文献](https://plato.stanford.edu/entries/epistemic-utility/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/epistemic-utility/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/epistemic-utility/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/epistemic-utility/#Rel)
 
 ---
 

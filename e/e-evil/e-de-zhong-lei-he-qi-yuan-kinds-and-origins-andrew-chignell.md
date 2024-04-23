@@ -14,33 +14,7 @@
 
 第 5 至 7 节考虑了一些难以归类的恶的令人困惑的案例：系统性恶；象征性恶；以及所谓的“根本”恶。
 
-* [恶](https://plato.stanford.edu/entries/evil-kinds-origins/#SpeaEvil)
-* [恶的两个区别：种类和起源](https://plato.stanford.edu/entries/evil-kinds-origins/#TwoDistEvilKindOrig)
-* [3. 恶的种类：形而上学和经验主义](https://plato.stanford.edu/entries/evil-kinds-origins/#KindEvilMetaEmpi)
 
-  * [3.1 形而上的恶](https://plato.stanford.edu/entries/evil-kinds-origins/#MetaEvil)
-
-    * [3.1.1 Absence Theory](https://plato.stanford.edu/entries/evil-kinds-origins/#AbseTheo)
-    * [ 3.1.2 物质理论](https://plato.stanford.edu/entries/evil-kinds-origins/#MattTheo)
-    * [3.1.3 Privation Theory](https://plato.stanford.edu/entries/evil-kinds-origins/#PrivTheo)
-    * [3.1.4 Real Property Theory](https://plato.stanford.edu/entries/evil-kinds-origins/#RealPropTheo)
-  * [ 3.2 经验性恶](https://plato.stanford.edu/entries/evil-kinds-origins/#EmpiEvil)
-* [恶的起源：道德和自然](https://plato.stanford.edu/entries/evil-kinds-origins/#OrigEvilMoraNatu)
-
-  * [ 4.1 道德恶](https://plato.stanford.edu/entries/evil-kinds-origins/#MoraEvil)
-  * [ 4.2 自然恶](https://plato.stanford.edu/entries/evil-kinds-origins/#NatuEvil)
-* [ 系统性恶](https://plato.stanford.edu/entries/evil-kinds-origins/#SystEvil)
-* [ 符号恶行](https://plato.stanford.edu/entries/evil-kinds-origins/#SymbEvil)
-* [恶：四种构想](https://plato.stanford.edu/entries/evil-kinds-origins/#RadiEvilFourConc)
-
-  * [恶的根本邪恶作为道德法则的违反](https://plato.stanford.edu/entries/evil-kinds-origins/#RadiEvilViolMoraLaw)
-  * [恶的本质是为了恶而选择恶。](https://plato.stanford.edu/entries/evil-kinds-origins/#RadiEvilChooEvilForOwnSake)
-  * [7.3. Radical Evil as Repudiation of the Moral Law7.3. 恶的根本性作为道德法则的拒绝](https://plato.stanford.edu/entries/evil-kinds-origins/#RadiEvilRepuMoraLaw)
-  * [7.4. 恶的根本恶：以另一种方式使人类变得多余](https://plato.stanford.edu/entries/evil-kinds-origins/#RadiEvilSystEvilHumaBeinMadeSupeAnotWay)
-* [ 参考文献](https://plato.stanford.edu/entries/evil-kinds-origins/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/evil-kinds-origins/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/evil-kinds-origins/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/evil-kinds-origins/#Rel)
 
 ---
 

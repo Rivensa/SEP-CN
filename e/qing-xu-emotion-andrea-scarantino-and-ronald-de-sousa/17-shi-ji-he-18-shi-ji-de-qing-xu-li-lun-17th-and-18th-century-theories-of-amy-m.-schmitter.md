@@ -6,24 +6,6 @@
 
 一句警告在此必要：有大量的来源资料，这篇文章被提供作为组织这些资料的调查。可惜的是，许多有价值的材料必须在这里被排除。本文及其附录旨在为寻找特定信息的读者提供帮助，以及那些可能希望直接阅读的勇敢的人。主要文件提供了关于早期现代情绪讨论的主题概述。单独的链接指向致力于该主题的文献，以及一些早期现代哲学中最重要的个人人物。
 
-* [ 介绍](https://plato.stanford.edu/entries/emotions-17th18th/#Int)
-
-  * [1.1 接近的困难](https://plato.stanford.edu/entries/emotions-17th18th/#DifApp)
-  * [1.2 哲学背景](https://plato.stanford.edu/entries/emotions-17th18th/#PhiBac)
-  * [古代、中世纪和文艺复兴时期的情绪理论【补充文件】](https://plato.stanford.edu/entries/emotions-17th18th/#AncMedRenTheEmoSupDoc)
-* [早期现代激情理论的背景。](https://plato.stanford.edu/entries/emotions-17th18th/#ConEarModThePas)
-
-  * [ 更改词汇](https://plato.stanford.edu/entries/emotions-17th18th/#ChaVoc)
-  * [ 2.2 分类学](https://plato.stanford.edu/entries/emotions-17th18th/#Tax)
-  * [2.3 情绪理论中的哲学问题](https://plato.stanford.edu/entries/emotions-17th18th/#PhiIssTheEmo)
-* [个别哲学家](https://plato.stanford.edu/entries/emotions-17th18th/#IndPhiSupDoc)
-* [ 参考文献](https://plato.stanford.edu/entries/emotions-17th18th/#Bib)
-
-  * [ 主要引用作品](https://plato.stanford.edu/entries/emotions-17th18th/#PriWorCit)
-  * [次要参考文献](https://plato.stanford.edu/entries/emotions-17th18th/#SecWorCon)
-* [ 学术工具](https://plato.stanford.edu/entries/emotions-17th18th/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/emotions-17th18th/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/emotions-17th18th/#Rel)
 
 ---
 

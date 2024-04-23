@@ -13,43 +13,7 @@
 
 除了在第九世纪对法国产生轻微影响外，爱留根纳的宇宙论思想对当时的哲学家和神学家来说似乎概念上过于先进，因此他的哲学体系在第十和十一世纪通常被忽视。他的主要作品《Periphyseon》在十二世纪的新柏拉图主义者中得到复兴，并且在奥古斯都敦尼斯的《自然之钥》（Clavis Physicae）中流传。《Periphyseon》在沙特尔和圣维克多的哲学家中很受欢迎（例如，圣维克多的休格提到了它），但在十三世纪被谴责，与大卫·迪南特和阿莫里·德·贝讷的著作一起，因为它们宣扬上帝与创造物的同一性。在十四和十五世纪，爱留根纳继续对基督教新柏拉图主义者产生相对隐秘但重要的影响，如迈斯特·埃克哈特和尼古拉斯·库萨。他的作品首次印刷出版是在十七世纪，但直到十九世纪才重新引起兴趣，尤其是在黑格尔的追随者中，他们将爱留根纳视为先验唯心主义的先驱，是“西方的普罗克洛斯”（Hauréau, 1872）和“先验哲学之父”（Huber, 1861）。第一个真正学术性的尝试，以确立他的生平、作品和影响的事实，是由比利时学者 Maiul Cappuyns 进行的，他于 1933 年的作品《Jean Scot Erigène: sa vie, son oeuvre, sa pensée》仍然可靠。许多有价值的二十世纪研究（例如，Contreni, 1992; Marenbon, 1981, 2006; Schrimpf, 1982; O’Meara, 1969, 1988）探讨了爱留根纳的卡洛林时代背景和与拉丁作家的延续。然而，对他思想的系统研究（Beierwaltes, 1980, 1987, 1990; Gersh, 1978, 2006; Moran, 1989, 1999）也认识到他是一位高度原创的形而上学家和先验思想家，其作品超越了他所处时代和表达方式的局限。
 
-* [生活与著作](https://plato.stanford.edu/entries/scottus-eriugena/#LifeWrit)
 
-  * [1.1 约翰内斯·司各特·爱留根纳作为自由艺术大师](https://plato.stanford.edu/entries/scottus-eriugena/#EriuLibeArtsMast)
-  * [1.2 关于预定命的神学争议](https://plato.stanford.edu/entries/scottus-eriugena/#TheoContOverPred)
-  * [1.3 爱留根纳作为翻译者](https://plato.stanford.edu/entries/scottus-eriugena/#EriuTran)
-  * [1.4 The Dialogue Periphyseon (On the Division of Nature)—The Manuscripts1.4 对话《自然的分裂》（On the Division of Nature）—手稿](https://plato.stanford.edu/entries/scottus-eriugena/#DialPeriDiviNatu)
-  * [ 其他著作](https://plato.stanford.edu/entries/scottus-eriugena/#OtheWrit)
-* [爱留根纳的来源](https://plato.stanford.edu/entries/scottus-eriugena/#EriuSour)
-
-  * [2.1 伪狄奥尼修斯·亚略巴吉特](https://plato.stanford.edu/entries/scottus-eriugena/#PseuDionAreo)
-  * [2.2 Maximus Confessor](https://plato.stanford.edu/entries/scottus-eriugena/#MaxiConf)
-  * [ 2.3 奥古斯丁](https://plato.stanford.edu/entries/scottus-eriugena/#Augu)
-  * [2.4 尼西亚的格里高利、纳西亚的格里高利和大巴西流 (Gregory of Nyssa, Gregory of Nazianzus and Basil the Great)](https://plato.stanford.edu/entries/scottus-eriugena/#GregNyssGregNaziBasiGrea)
-* [3. 《Periphyseon》的哲学体系](https://plato.stanford.edu/entries/scottus-eriugena/#PhilSystPeri)
-
-  * [自然的四个分部](https://plato.stanford.edu/entries/scottus-eriugena/#FourDiviNatu)
-  * [存在与非存在的五种模式](https://plato.stanford.edu/entries/scottus-eriugena/#FiveModeBeinNonBein)
-  * [3.3 上帝的属性](https://plato.stanford.edu/entries/scottus-eriugena/#AttrGod)
-  * [3.4 创造作为神圣的自我展示](https://plato.stanford.edu/entries/scottus-eriugena/#CreaDiviSelfMani)
-  * [3.5 原初的原因](https://plato.stanford.edu/entries/scottus-eriugena/#PrimCaus)
-  * [3.6 创造的效果](https://plato.stanford.edu/entries/scottus-eriugena/#CreaEffe)
-  * [3.7 从无中创造](https://plato.stanford.edu/entries/scottus-eriugena/#CreaNoth)
-  * [3.8 一切事物的回归](https://plato.stanford.edu/entries/scottus-eriugena/#RetuAllThin)
-  * [ 3.9 人类的本性](https://plato.stanford.edu/entries/scottus-eriugena/#HumaNatu)
-* [ 影响](https://plato.stanford.edu/entries/scottus-eriugena/#Infl)
-* [ 参考文献](https://plato.stanford.edu/entries/scottus-eriugena/#Bib)
-
-  * [ 爱留根纳的著作](https://plato.stanford.edu/entries/scottus-eriugena/#EriuWork)
-
-    * [ 收集作品](https://plato.stanford.edu/entries/scottus-eriugena/#CollWork)
-    * *[Periphyseon](https://plato.stanford.edu/entries/scottus-eriugena/#Peri)*
-    * [ 其他个人作品](https://plato.stanford.edu/entries/scottus-eriugena/#OtheIndiWork)
-  * [其他早期作品提到](https://plato.stanford.edu/entries/scottus-eriugena/#OtheEarlWorkMent)
-  * [ 次级文献](https://plato.stanford.edu/entries/scottus-eriugena/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/scottus-eriugena/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/scottus-eriugena/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/scottus-eriugena/#Rel)
 
 ---
 

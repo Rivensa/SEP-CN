@@ -8,23 +8,6 @@ _首次发表于 2002 年 1 月 15 日星期二；实质性修订于 2020 年 7 
 
 爱德华兹预期的《救赎史》将会将这些主题汇集在一起，因为正是在他在历史中的救赎工作中，上帝的主权、圣洁和美丽得到了最清晰的展示。
 
-* [生命](https://plato.stanford.edu/entries/edwards/#1)
-* [形而上学](https://plato.stanford.edu/entries/edwards/#2)
-  * [2.1 神学决定论](https://plato.stanford.edu/entries/edwards/#2.1)
-  * [偶然主义、唯心主义、心灵现象主义和身份观](https://plato.stanford.edu/entries/edwards/#2.2)
-  * [2.3 上帝作为一般存在](https://plato.stanford.edu/entries/edwards/#2.3)
-  * [2.4 God's End in Creation2.4 上帝在创造中的目的](https://plato.stanford.edu/entries/edwards/#2.4)
-* [价值理论](https://plato.stanford.edu/entries/edwards/#3)
-  * [伦理学](https://plato.stanford.edu/entries/edwards/#3.1)
-  * [3.2 美学](https://plato.stanford.edu/entries/edwards/#3.2)
-* [认识论](https://plato.stanford.edu/entries/edwards/#4)
-  * [心灵的感知](https://plato.stanford.edu/entries/edwards/#4.1)
-  * [4.2 Sanctified Reason](https://plato.stanford.edu/entries/edwards/#4.2)
-* [救赎的历史](https://plato.stanford.edu/entries/edwards/#5)
-* [参考文献](https://plato.stanford.edu/entries/edwards/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/edwards/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/edwards/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/edwards/#Rel)
 
 ***
 

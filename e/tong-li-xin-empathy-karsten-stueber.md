@@ -4,22 +4,6 @@ _首次发表于 2008 年 3 月 31 日星期一；实质性修订于 2019 年 6 
 
 同理心的概念用来指代一系列心理能力，被认为是构成人类社会生物的核心，使我们能够了解其他人在想什么、感受什么，与他们建立情感联系，分享他们的想法和感受，并关心他们的幸福。自 18 世纪以来，特别是由于大卫·休谟和亚当·斯密的著作的影响，这些能力一直是学者们研究我们社会和道德本质的心理基础的中心。然而，同理心的概念在知识上是相对较新的。此外，由于不同学科的研究人员专注于同理心相关现象的非常特定的方面，人们可能不会对在许多不同的科学和非科学话语中与同理心概念相关的概念混乱和定义的多样性感到惊讶。本文的目的是通过调查其在各种哲学和心理学讨论中的历史，以及指出为什么同理心被认为在理解普通情境中的人类行为、在人文科学中以及在我们作为社会和道德主体的构成方面具有如此重要的地位来澄清同理心概念。更具体地说，在简短的历史介绍中阐明了同理心概念被创造的哲学背景之后，第二和第三部分将讨论与我们的同理心能力相关的认识维度。它们将探讨同理心是了解他人思想的主要认识手段，并且应被视为区分人文科学与自然科学的独特方法的主张。第四和第五部分将重点关注将同理心视为基本社会粘合剂的主张，并将理解同理心为使我们能够建立和维持社会关系并对彼此采取评价立场的主要心理机制。
 
-* [历史介绍](https://plato.stanford.edu/entries/empathy/#HisInt)
-* [同理心与其他心灵的哲学问题](https://plato.stanford.edu/entries/empathy/#EmpPhiProOthMin)
-  * [2.1 镜像神经元、模拟和当代心灵理论辩论中的同理心讨论](https://plato.stanford.edu/entries/empathy/#MirNeuSimPhiRevEmp)
-* [人文科学的独特方法是同理心](https://plato.stanford.edu/entries/empathy/#EmpUniMetHumSci)
-  * [在人文科学的解释学概念背景下对同理心的批判](https://plato.stanford.edu/entries/empathy/#CriEmpConHerConHumSci)
-  * [3.2 在人文科学自然主义观念背景下对同理心的批判](https://plato.stanford.edu/entries/empathy/#CriEmpWitConNatConHumSci)
-* [4. 同理心作为心理学科学探索的主题](https://plato.stanford.edu/entries/empathy/#EmpTopSciExpPsy)
-* [同理心，道德哲学和道德心理学](https://plato.stanford.edu/entries/empathy/#EmpMorPsy)
-  * [同理心和利他动机](https://plato.stanford.edu/entries/empathy/#EmpAltMot)
-  * [5.2 同理心，其局部性，对偏见的敏感性和道德代理。](https://plato.stanford.edu/entries/empathy/#EmpMorDevMorAge)
-  * [5.3 同理心, 道德判断, 和道德规范的权威](https://plato.stanford.edu/entries/empathy/#EmpMorNor)
-* [参考文献](https://plato.stanford.edu/entries/empathy/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/empathy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/empathy/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/empathy/#Rel)
-
 ***
 
 ## 历史介绍

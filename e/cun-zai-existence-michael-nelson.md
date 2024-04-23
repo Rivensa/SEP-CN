@@ -16,14 +16,6 @@ _首次发表于 2012 年 10 月 10 日星期三；实质性修订于 2020 年 5
 
 以下部分讨论了弗雷格（Frege）和罗素（Russell）对真负存在性的观点。第二部分讨论了迈农学派（Meinongianism），比较了迈农学派提供的真负存在性观点与第一部分讨论的罗素观点。文章最后讨论了一种反迈农学派的观点，根据该观点，存在是个体的普遍属性，并讨论了在量化时态和情态逻辑背景下存在相关问题。
 
-* [弗雷格和罗素：存在不是个体的属性](https://plato.stanford.edu/entries/existence/#FreRusExiNotProInd)
-* [Meinongianism迈农主义](https://plato.stanford.edu/entries/existence/#Mei)
-* [反迈侬主义的一阶观点](https://plato.stanford.edu/entries/existence/#AntMeiFirOrdVie)
-* [4. 结论](https://plato.stanford.edu/entries/existence/#Con)
-* [参考文献](https://plato.stanford.edu/entries/existence/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/existence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/existence/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/existence/#Rel)
 
 ***
 

@@ -6,17 +6,6 @@
 
 我们将考虑那些独立撰写（用西班牙语、葡萄牙语或英语）关于认识论问题的学者的工作，无论他们目前是否在拉丁美洲，以及他们是否在非拉丁美洲国家工作了相当长一段时间。包含的标准不是他们是否出生在拉丁美洲——尽管提到的人中除一人外都是在那里出生的——而是他们是否具有拉丁美洲血统，从拉丁美洲大学获得学位，并在拉丁美洲至少工作过一段时间，因此在这样的环境中接受了（部分）哲学教育。因此，不会提到，例如，厄内斯托·索萨（Ernesto Sosa）和琳达·马丁·阿尔科夫（Linda Martín Alcoff）在认识论方面的广泛和有影响力的工作。[1]
 
-* [ 介绍](https://plato.stanford.edu/entries/epistemology-latin-america/#Intr)
-* [ 怀疑主义](https://plato.stanford.edu/entries/epistemology-latin-america/#Skep)
-* [ 核心认识论](https://plato.stanford.edu/entries/epistemology-latin-america/#CoreEpis)
-* [ 形式认识论](https://plato.stanford.edu/entries/epistemology-latin-america/#FormEpis)
-* [维特根斯坦：认识论与怀疑主义](https://plato.stanford.edu/entries/epistemology-latin-america/#WittEpisSkep)
-* [法律认识论](https://plato.stanford.edu/entries/epistemology-latin-america/#EpisLaw)
-* [宗教认识论](https://plato.stanford.edu/entries/epistemology-latin-america/#ReliEpis)
-* [ 参考文献](https://plato.stanford.edu/entries/epistemology-latin-america/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/epistemology-latin-america/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/epistemology-latin-america/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/epistemology-latin-america/#Rel)
 
 ---
 

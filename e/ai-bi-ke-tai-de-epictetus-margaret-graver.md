@@ -5,31 +5,6 @@
 
 爱比克泰德（Epictetus）是一位生活在公元 1 至 2 世纪初的希腊哲学家，是斯多葛伦理学的倡导者，以其伦理思想的一贯性和力量以及有效的教学方法而著称。爱比克泰德主要关注诚信、自我管理和个人自由，他通过要求学生对他所称之为“意志”（prohairesis）的能力和正确使用印象（chrēsis tōn phantasiōn）进行彻底审查来倡导这些观念。爱比克泰德时而真诚，时而讽刺，对流行的道德主义传统产生了重要影响，但他不仅仅是一个道德说教者；他对斯多葛伦理学的明晰重整和具有挑战性的应用使他成为一位独具重要性的哲学家。
 
-* [生活与作品](https://plato.stanford.edu/entries/epictetus/#LifWor)
-* [ 2. 前因论证](https://plato.stanford.edu/entries/epictetus/#Ant)
-* [3. 解释学前提](https://plato.stanford.edu/entries/epictetus/#PreInt)
-* [4. 主要论点](https://plato.stanford.edu/entries/epictetus/#MaiCon)
-
-  * [ 理性](https://plato.stanford.edu/entries/epictetus/#Rat)
-  * [4.2. 与神的亲属关系](https://plato.stanford.edu/entries/epictetus/#KinGod)
-  * [ 4.3. 意志](https://plato.stanford.edu/entries/epictetus/#Vol)
-  * [ 价值](https://plato.stanford.edu/entries/epictetus/#Val)
-  * [情绪调节](https://plato.stanford.edu/entries/epictetus/#EmoAdj)
-  * [4.6. 适当的他人关注](https://plato.stanford.edu/entries/epictetus/#AppOthCon)
-  * [4.7. 自我修养与自主权](https://plato.stanford.edu/entries/epictetus/#SelCulAut)
-  * [4.8. 心灵与身体](https://plato.stanford.edu/entries/epictetus/#MinBod)
-* [ 教育方法](https://plato.stanford.edu/entries/epictetus/#EduMet)
-* [ 影响](https://plato.stanford.edu/entries/epictetus/#Inf)
-* [ 参考文献](https://plato.stanford.edu/entries/epictetus/#Bib)
-
-  * [ 文本和翻译](https://plato.stanford.edu/entries/epictetus/#TexTra)
-  * [ 一般](https://plato.stanford.edu/entries/epictetus/#Gen)
-  * [ 生活与时代](https://plato.stanford.edu/entries/epictetus/#LifTim)
-  * [ 哲学](https://plato.stanford.edu/entries/epictetus/#Phi)
-  * [ 接受与影响](https://plato.stanford.edu/entries/epictetus/#RecInf)
-* [ 学术工具](https://plato.stanford.edu/entries/epictetus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/epictetus/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/epictetus/#Rel)
 
 ---
 

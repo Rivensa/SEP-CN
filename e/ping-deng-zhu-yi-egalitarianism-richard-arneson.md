@@ -4,28 +4,6 @@ _首次发表于 2002 年 8 月 16 日星期五；实质性修订于 2013 年 4 
 
 平等主义是政治哲学中的一种思潮。平等主义者支持某种形式的平等：人们应该得到相同的待遇，或者被视为平等，在某种方面。另一种观点扩展了上述最后一种选择：人们应该被视为平等，应该彼此平等对待，应该平等相处，或者享有某种社会地位的平等。平等主义学说往往基于这样一个背景思想，即所有人在基本价值或道德地位上是平等的。就西欧和盎格鲁-美国的哲学传统而言，这种思想的一个重要来源是基督教的观念，即上帝平等地爱着所有人的灵魂。平等主义是一个多变的学说，因为有几种不同类型的平等，或者人们可能被视为平等，或者可能平等相处，这可能被认为是可取的。在现代民主社会中，“平等主义”这个术语通常用来指代一种支持，出于各种各样的原因，比当前存在的更大程度的收入和财富平等的立场。
 
-* [初步区分](https://plato.stanford.edu/entries/egalitarianism/#PreDis)
-* [平等的机会](https://plato.stanford.edu/entries/egalitarianism/#EquOpp)
-* [平等的条件：什么的平等？](https://plato.stanford.edu/entries/egalitarianism/#EquConEquWha)
-  * [3.1 洛克权利](https://plato.stanford.edu/entries/egalitarianism/#LocRig)
-  * [卡尔·马克思论平等权利](https://plato.stanford.edu/entries/egalitarianism/#KarMarEquRig)
-  * [收入和财富](https://plato.stanford.edu/entries/egalitarianism/#IncWea)
-  * [能力](https://plato.stanford.edu/entries/egalitarianism/#Cap)
-  * [资源](https://plato.stanford.edu/entries/egalitarianism/#Res)
-  * [3.6 福利与福利机会](https://plato.stanford.edu/entries/egalitarianism/#WelOppForWel)
-  * [3.7 结论：一个测试案例](https://plato.stanford.edu/entries/egalitarianism/#ConTesCas)
-* [关系平等](https://plato.stanford.edu/entries/egalitarianism/#RelEqu)
-* [平等主义是关于谁的平等？](https://plato.stanford.edu/entries/egalitarianism/#EquAmoWho)
-* [平等主义是否本质上可取？ 平等主义的替代方案](https://plato.stanford.edu/entries/egalitarianism/#EquDesPerSeAltEga)
-  * [平等主义](https://plato.stanford.edu/entries/egalitarianism/#Suf)
-  * [6.2 优先级](https://plato.stanford.edu/entries/egalitarianism/#Pri)
-  * [6.3 沙漠](https://plato.stanford.edu/entries/egalitarianism/#Des)
-  * [其他观点](https://plato.stanford.edu/entries/egalitarianism/#OthVie)
-* [平等的基本人类价值](https://plato.stanford.edu/entries/egalitarianism/#EquFunHumWor)
-* [参考文献](https://plato.stanford.edu/entries/egalitarianism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/egalitarianism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/egalitarianism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/egalitarianism/#Rel)
 
 ***
 

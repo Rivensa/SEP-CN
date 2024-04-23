@@ -6,21 +6,7 @@
 
 在早期现代哲学时期，至少有十几种经济思想流派。令人印象深刻的是，到了十八世纪末，许多关于货币、市场和贸易的核心原则和法则已经被阐明，许多经济学方法——模型构建、时间序列分析、统计估计、博弈论和决策理论——已经存在。总的来说，作为当时主要被称为“商业科学”的经济学，它是一个成熟的探究，并且，正如早期现代时期的自然科学一样，它在很大程度上依赖于其哲学根源。
 
-* [经济思想学派](https://plato.stanford.edu/entries/economics-early-modern/#SchoEconThou)
-* [ 早期现代哲学时间边界](https://plato.stanford.edu/entries/economics-early-modern/#TempBoun)
-* [早期现代哲学](https://plato.stanford.edu/entries/economics-early-modern/#PreModeEconThou)
-* [商业与贸易伦理学](https://plato.stanford.edu/entries/economics-early-modern/#EthiCommTrad)
-* [财产和合同原则](https://plato.stanford.edu/entries/economics-early-modern/#PrinPropCont)
-* [哲学的钱](https://plato.stanford.edu/entries/economics-early-modern/#PhilMone)
-* [经济学的科学地位及其方法论](https://plato.stanford.edu/entries/economics-early-modern/#ScieStatEconMeth)
-* [ 分配正义](https://plato.stanford.edu/entries/economics-early-modern/#DistJust)
-* [ 参考文献](https://plato.stanford.edu/entries/economics-early-modern/#Bib)
 
-  * [ 主要文献](https://plato.stanford.edu/entries/economics-early-modern/#PrimLite)
-  * [ 次级文献](https://plato.stanford.edu/entries/economics-early-modern/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/economics-early-modern/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/economics-early-modern/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/economics-early-modern/#Rel)
 
 ---
 

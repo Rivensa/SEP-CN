@@ -4,29 +4,7 @@
 
 直到最近，认识论——研究知识的性质、来源和追求——在很大程度上是以个体为中心的。重点是个体主体追求知识，与其社会环境隔离开来。社会认识论试图通过研究社会互动、实践、规范和系统的认识效应来纠正这种不平衡。在第 1 和第 2 节简要讨论该领域的历史后，我们将在第 3 节讨论社会认识论的中心议题。第 4 节转向最近采用形式方法来描述类似科学领域中认识社区运作的方法。在第 5 节，我们简要讨论社会认识论对民主社会正常运作的方法，包括对应对错误/失实信息以及当我们与他人共同生活时出现的各种认识功能障碍的回应。
 
-* [什么是社会认识论？](https://plato.stanford.edu/entries/epistemology-social/#WhatSociEpis)
-* [赋予社会认识论领域形态](https://plato.stanford.edu/entries/epistemology-social/#GiviShapFielSociEpis)
-* [社会认识论的中心议题](https://plato.stanford.edu/entries/epistemology-social/#CentTopiSociEpis)
 
-  * [ 3.1 Testimony3.1 证言](https://plato.stanford.edu/entries/epistemology-social/#Test)
-  * [ 3.2 Peer Disagreement3.2 同行异议](https://plato.stanford.edu/entries/epistemology-social/#PeerDisa)
-  * [3.3 Group Belief](https://plato.stanford.edu/entries/epistemology-social/#EpisCollAgen)
-  * [ 3.4 Group Justification3.4 群体理由](https://plato.stanford.edu/entries/epistemology-social/#GrouJust)
-* [社会认识论的形式方法](https://plato.stanford.edu/entries/epistemology-social/#FormApprSociEpis)
-
-  * [社会领域中的形式认识论](https://plato.stanford.edu/entries/epistemology-social/#FormEpisSociReal)
-  * [4.2 The Credit Economy4.2 信用经济](https://plato.stanford.edu/entries/epistemology-social/#CredEcon)
-  * [4.3 Network Epistemology Models4.3 网络认识论模型](https://plato.stanford.edu/entries/epistemology-social/#NetwEpisMode)
-  * [4.4 在认识论社区中建模多样性](https://plato.stanford.edu/entries/epistemology-social/#ModeDiveEpisComm)
-* [社会认识论与社会](https://plato.stanford.edu/entries/epistemology-social/#SociEpisSoci)
-
-  * [5.1 民主的社会认识论](https://plato.stanford.edu/entries/epistemology-social/#TrutSeekPursDemo)
-  * [误导性在线内容](https://plato.stanford.edu/entries/epistemology-social/#MisiInte)
-  * [5.3 Socio-Epistemic Dysfunctions5.3 社会认识论功能障碍](https://plato.stanford.edu/entries/epistemology-social/#MoraSociEpis)
-* [ 参考文献](https://plato.stanford.edu/entries/epistemology-social/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/epistemology-social/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/epistemology-social/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/epistemology-social/#Rel)
 
 ---
 

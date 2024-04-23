@@ -10,22 +10,6 @@
 
 干细胞研究的争议主要源于对人类胚胎生命价值的竞争观点，但干细胞研究中的伦理问题范围不仅限于关于摧毁人类胚胎的伦理问题。它还涵盖了其他问题，比如使用但不衍生人类胚胎干细胞的研究人员是否与胚胎破坏有牵连，为研究目的而创造胚胎与为生殖目的而创造胚胎之间是否存在道德区别，克隆人类胚胎以获取干细胞的道德性，以及创造人类/非人类嵌合体的伦理。本文概述了除最后两个问题之外的所有问题；克隆和人类/非人类嵌合体将在单独的条目中讨论。
 
-* [摧毁人类胚胎进行研究的伦理学](https://plato.stanford.edu/entries/stem-cells/#EthDesHumEmbForRes)
-
-  * [1.1 人类何时开始存在？](https://plato.stanford.edu/entries/stem-cells/#WheDoeHumBeiBegExi)
-  * [1.2 人类胚胎的道德地位](https://plato.stanford.edu/entries/stem-cells/#MorStaHumEmb)
-  * [1.3 The case of “doomed embryos”](https://plato.stanford.edu/entries/stem-cells/#CasDooEmb)
-* [人类胚胎干细胞在研究中的伦理学](https://plato.stanford.edu/entries/stem-cells/#EthUsiHumEmbSteCelRes)
-* [干细胞研究和治疗胚胎创造的伦理学](https://plato.stanford.edu/entries/stem-cells/#EthCreEmbForSteCelResThe)
-* [干细胞来源的配子](https://plato.stanford.edu/entries/stem-cells/#4SteCelDerGam)
-* [干细胞来源的器官样体、胚胎囊和合成胚 ryo](https://plato.stanford.edu/entries/stem-cells/#SteCelDerOrg)
-* [ 参考文献](https://plato.stanford.edu/entries/stem-cells/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/stem-cells/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/stem-cells/#Oth)
-
-  * [ 引用的资源](https://plato.stanford.edu/entries/stem-cells/#CitRes)
-  * [ 其他资源](https://plato.stanford.edu/entries/stem-cells/#OthRes)
-* [ 相关条目](https://plato.stanford.edu/entries/stem-cells/#Rel)
 
 ---
 

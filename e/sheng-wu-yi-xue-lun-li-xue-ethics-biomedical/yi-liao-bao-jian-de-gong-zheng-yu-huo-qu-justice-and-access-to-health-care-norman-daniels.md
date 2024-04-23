@@ -6,23 +6,7 @@
 
 在接下来的内容中，我们将按照以下顺序讨论这些问题。在第一部分中，我们简要描述了一些社会为确保全民获得医疗保健而实际采取的措施。尽管在这些社会中，医疗保健的分配比其他社会产品更加平等，但是跨人口群体之间的健康不平等仍然存在。这意味着我们将不得不解决一个问题：如果全民获得医疗保健不能确保健康状况的平等，因为人口健康及其分布还受到其他重要社会决定因素的影响，那么全民获得医疗保健究竟是否是正义的要求？我们还将研究不平等医疗保健获取的一些后果，因为这些后果可能加剧其他健康决定因素的不公平分布的影响。在第二部分中，我们将更仔细地研究医疗保健获取的概念。例如，我们如何实际判断医疗保健获取是否平等或公正？除了衡量医疗保健获取的问题之外，我们可能认为平等获取的概念可以直接分析，而公正获取的概念在于对可接受的获取不平等的复杂方式。然而，我们将看到，正义考量对于对平等获取和公正获取的判断都有影响。在第三部分中，我们将探讨三种不同的论证线索支持全民获得医疗保健。在第四部分中，我们将考虑这些观点，特别是基于机会的观点，意味着我们应该向彼此提供何种医疗保健。在第五部分中，我们将考虑根据正义观点，我们是否有权利获得健康或医疗保健，以及如果确实存在这样的权利，那么从这样的权利中产生的权利。
 
-* [什么社会对医疗保健的获取采取了哪些行动](https://plato.stanford.edu/entries/justice-healthcareaccess/#WhatSociDoAbouAcceCare)
-* [概念化和衡量医疗保健获取](https://plato.stanford.edu/entries/justice-healthcareaccess/#ConcMeasAcceCare)
 
-  * [医疗保健的公正与获取 2.1 何时医疗保健的获取是平等的？](https://plato.stanford.edu/entries/justice-healthcareaccess/#WhenAcceCareEqua)
-  * [2.2 医疗保健获取的公平性的概念化和衡量](https://plato.stanford.edu/entries/justice-healthcareaccess/#ConcMeasEquiAcceCare)
-* [正义是否要求普遍获得医疗保健？](https://plato.stanford.edu/entries/justice-healthcareaccess/#DoesJustRequUnivAcceHealCare)
-
-  * [健康，机会和普遍获取](https://plato.stanford.edu/entries/justice-healthcareaccess/#HealOppoUnivAcce)
-  * [3.2 通往谨慎定义护理的普遍获取](https://plato.stanford.edu/entries/justice-healthcareaccess/#UnivAccePrudDefiCare)
-  * [获取到合理的最低医疗保健](https://plato.stanford.edu/entries/justice-healthcareaccess/#AcceDeceMiniHealCare)
-  * [3.4 通往普遍获取的原理的教训](https://plato.stanford.edu/entries/justice-healthcareaccess/#LessAbouRatiForUnivAcce)
-* [我们彼此应该提供什么样的医疗保健？](https://plato.stanford.edu/entries/justice-healthcareaccess/#WhatKindHealCareDoWeOweEachOthe)
-* [是否存在健康或医疗保健的权利？](https://plato.stanford.edu/entries/justice-healthcareaccess/#TherRighHealHealCare)
-* [ 参考文献](https://plato.stanford.edu/entries/justice-healthcareaccess/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/justice-healthcareaccess/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justice-healthcareaccess/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justice-healthcareaccess/#Rel)
 
 ---
 

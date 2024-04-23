@@ -8,22 +8,6 @@
 
 我们首先讨论了所有形式的德性伦理学中都至关重要的两个概念，即德行和实践智慧。然后我们指出了一些区分不同德性伦理理论的特征，然后转向针对德性伦理学提出的异议以及为其提供的回应。最后，我们展望了未来研究可能发展的方向。
 
-* [ 1. 准备工作](https://plato.stanford.edu/entries/ethics-virtue/#Prel)
-
-  * [ 德性](https://plato.stanford.edu/entries/ethics-virtue/#Virt)
-  * [ 1.2 实践智慧](https://plato.stanford.edu/entries/ethics-virtue/#PracWisd)
-* [德性伦理学的形式](https://plato.stanford.edu/entries/ethics-virtue/#FormVirtEthi)
-
-  * [2.1 Eudaimonist Virtue Ethics2.1 幸福主义德性伦理学](https://plato.stanford.edu/entries/ethics-virtue/#EudaVirtEthi)
-  * [2.2 代理人伦理学和榜样主义德性伦理学](https://plato.stanford.edu/entries/ethics-virtue/#AgenBaseExemVirtEthi)
-  * [2.3 Target-Centered Virtue Ethics2.3 目标中心的德性伦理学](https://plato.stanford.edu/entries/ethics-virtue/#TargCentVirtEthi)
-  * [2.4 Platonistic Virtue Ethics](https://plato.stanford.edu/entries/ethics-virtue/#PlatVirtEthi)
-* [3. 对德性伦理学的反对](https://plato.stanford.edu/entries/ethics-virtue/#ObjeVirtEthi)
-* [ 未来方向](https://plato.stanford.edu/entries/ethics-virtue/#FutuDire)
-* [ 参考文献](https://plato.stanford.edu/entries/ethics-virtue/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ethics-virtue/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ethics-virtue/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ethics-virtue/#Rel)
 
 ---
 

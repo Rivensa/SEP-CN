@@ -10,42 +10,6 @@
 
 也许了解形式认识论的最佳方式是看具体的例子。我们将探讨一些经典的认识论问题，并看看对它们的流行形式方法，以了解形式工具带来了什么。我们还将研究这些形式方法在认识论之外的一些应用。
 
-* [第一案例研究：确认科学理论](https://plato.stanford.edu/entries/formal-epistemology/#FirCasStuConSciThe)
-
-  * [1.1 The Deductive Approach1.1 演绎方法](https://plato.stanford.edu/entries/formal-epistemology/#DedApp)
-  * [1.2 The Probabilistic Approach1.2 概率方法](https://plato.stanford.edu/entries/formal-epistemology/#ProApp)
-
-    * [1.2.1 Basic Building Blocks1.2.1 基本构件](https://plato.stanford.edu/entries/formal-epistemology/#BasBui)
-    * [ 贝叶斯定理](https://plato.stanford.edu/entries/formal-epistemology/#BayThe)
-  * [1.3 定量确认与乌鸦悖论](https://plato.stanford.edu/entries/formal-epistemology/#QuaConRavPar)
-  * [1.4 先验问题](https://plato.stanford.edu/entries/formal-epistemology/#ProPri)
-  * [ 1.5 总结](https://plato.stanford.edu/entries/formal-epistemology/#Sum)
-* [第二个案例研究：归纳问题](https://plato.stanford.edu/entries/formal-epistemology/#SecCasStuProInd)
-
-  * [2.1 The Principle of Indifference2.1 中立原则](https://plato.stanford.edu/entries/formal-epistemology/#PriInd)
-  * [2.2 更新与推理](https://plato.stanford.edu/entries/formal-epistemology/#UpdInf)
-* [第三个案例研究：回归问题](https://plato.stanford.edu/entries/formal-epistemology/#ThiCasStuRegPro)
-
-  * [ 3.1 Kohärenzismus](https://plato.stanford.edu/entries/formal-epistemology/#Coh)
-  * [ 3.2 基础主义](https://plato.stanford.edu/entries/formal-epistemology/#FouA)
-* [第四个案例研究：知识的界限](https://plato.stanford.edu/entries/formal-epistemology/#FouCasStuLimKno)
-
-  * [4.1 Epistemic Modal Logic4.1 形式认识论模态逻辑](https://plato.stanford.edu/entries/formal-epistemology/#EpiModLog)
-  * [4.2 可知性悖论（又称教堂-菲奇悖论）](https://plato.stanford.edu/entries/formal-epistemology/#KnoParAkaChuFitPar)
-  * [ 4.3 自我认知](https://plato.stanford.edu/entries/formal-epistemology/#SelKno)
-* [第五个案例研究：社会认识论](https://plato.stanford.edu/entries/formal-epistemology/#FifCasStuSocEpi)
-
-  * [5.1 The Zollman Effect](https://plato.stanford.edu/entries/formal-epistemology/#TheZolEff)
-  * [5.2 不信任与极化](https://plato.stanford.edu/entries/formal-epistemology/#MisAndPol)
-* [6. 形式认识论之外的应用](https://plato.stanford.edu/entries/formal-epistemology/#AppOutEpi)
-
-  * [ 决策理论](https://plato.stanford.edu/entries/formal-epistemology/#DecThe)
-  * [6.2 上帝的存在：微调](https://plato.stanford.edu/entries/formal-epistemology/#ExiGodFinTun)
-  * [6.3 “如果…那么…”的含义](https://plato.stanford.edu/entries/formal-epistemology/#MeaIfT)
-* [ 参考文献](https://plato.stanford.edu/entries/formal-epistemology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/formal-epistemology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/formal-epistemology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/formal-epistemology/#Rel)
 
 ---
 

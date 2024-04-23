@@ -8,34 +8,6 @@
 
 本条目主要涉及医生、护士和其他经过培训和持有执照的医疗护理人员，以及医院、保险公司和研究人员的专业工作。隐私与健康和幸福的关系超出了本条目的范围，除非在很大程度上促使与医疗专业人员和组织的接触。与精神、健身或非医疗美容专业人员的健康接触不在讨论范围之内。最后，虽然患者的隐私和生物医学研究对象是本条目的重点，但也承认了涉及医疗实践中医疗专业人员自身隐私相关利益的哲学问题。
 
-* [信息隐私](https://plato.stanford.edu/entries/privacy-medicine/#InfPri)
-
-  * [ 1.1 保密](https://plato.stanford.edu/entries/privacy-medicine/#Con)
-  * [ 1.2 保密](https://plato.stanford.edu/entries/privacy-medicine/#Sec)
-  * [1.3 数据保护与安全](https://plato.stanford.edu/entries/privacy-medicine/#DatProSec)
-  * [ 1.4 匿名](https://plato.stanford.edu/entries/privacy-medicine/#Ano)
-  * [ 1.5 责任](https://plato.stanford.edu/entries/privacy-medicine/#Acc)
-  * [ 1.6 专业规范](https://plato.stanford.edu/entries/privacy-medicine/#ProNor)
-* [2. Physical Privacy2. 身体隐私](https://plato.stanford.edu/entries/privacy-medicine/#PhyPri)
-
-  * [ 2.1 孤独](https://plato.stanford.edu/entries/privacy-medicine/#Sol)
-  * [ 2.2 Bodily Modesty2.2 身体的谦虚](https://plato.stanford.edu/entries/privacy-medicine/#BodMod)
-  * [ 身体完整性](https://plato.stanford.edu/entries/privacy-medicine/#BodInt)
-* [3. 联想隐私](https://plato.stanford.edu/entries/privacy-medicine/#AssPri)
-* [ 专有隐私](https://plato.stanford.edu/entries/privacy-medicine/#ProPri)
-* [决策隐私](https://plato.stanford.edu/entries/privacy-medicine/#DecPri)
-
-  * [5.1 Birth Control](https://plato.stanford.edu/entries/privacy-medicine/#BirCon)
-  * [ 5.2 流产](https://plato.stanford.edu/entries/privacy-medicine/#Abo)
-  * [5.3 Conscientious Refusal of Medical Services5.3 拒绝医疗服务的良心抵制](https://plato.stanford.edu/entries/privacy-medicine/#ConCla)
-  * [辅助生殖技术](https://plato.stanford.edu/entries/privacy-medicine/#AssRepTec)
-  * [5.5 Medically Unhealthy Life-Styles5.5 医学上不健康的生活方式](https://plato.stanford.edu/entries/privacy-medicine/#MedUnhLifSty)
-  * [患者拒绝救生护理的权利](https://plato.stanford.edu/entries/privacy-medicine/#RigRefCar)
-* [ 6. 结论](https://plato.stanford.edu/entries/privacy-medicine/#Conclusion)
-* [ 参考文献](https://plato.stanford.edu/entries/privacy-medicine/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/privacy-medicine/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/privacy-medicine/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/privacy-medicine/#Rel)
 
 ---
 

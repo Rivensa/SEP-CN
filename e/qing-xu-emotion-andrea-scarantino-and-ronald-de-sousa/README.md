@@ -6,36 +6,6 @@
 
 在一些旨在澄清哲学方法与更一般的认知科学视角在情绪方面的区别的简要方法论说明之后，我们首先概述了研究人员构想情绪在心灵地形图中的位置的一些方式。我们将指出，情绪在历史上曾以三种主要方式之一进行概念化：作为经验、作为评估和作为动机。这些研究传统中的每一种都捕捉到了关于情绪的某些真实和重要之处，但在任何传统中的任何理论都似乎都无法免受反例和问题案例的影响。关于情绪的理性性，我们将区分其两种主要变体——认知理性和战略理性，并探讨情绪在不同理性标准下成功或失败的多种方式。
 
-* [定义情绪：什么是欲望？](https://plato.stanford.edu/entries/emotion/#DefiEmotWhatDesi)
-* [情绪研究中的三种传统：情绪作为感受、评价和动机](https://plato.stanford.edu/entries/emotion/#ThreTradStudEmotEmotFeelEvalMoti)
-* [早期情绪传统：情绪作为感受](https://plato.stanford.edu/entries/emotion/#EarlFeelTradEmotFeel)
-* [情绪和意向对象](https://plato.stanford.edu/entries/emotion/#EmotInteObje)
-* [哲学中的早期评价传统：情绪作为判断](https://plato.stanford.edu/entries/emotion/#EarlEvalTradPhilEmotJudg)
-* [情绪科学中的评估传统：评估理论](https://plato.stanford.edu/entries/emotion/#EvalTradAffeScieApprTheo)
-* [最近哲学中的混合评价-情感传统](https://plato.stanford.edu/entries/emotion/#EvalTradRecePhilEmotEvalPercSali)
-
-  * [情绪作为评价性感知](https://plato.stanford.edu/entries/emotion/#EmotEvalPerc)
-  * [情绪作为评价性情感](https://plato.stanford.edu/entries/emotion/#EmotEvalFeel)
-  * [情绪作为显著性模式](https://plato.stanford.edu/entries/emotion/#EmotPattSali)
-* [情绪科学中的动机传统及其反对者](https://plato.stanford.edu/entries/emotion/#MotiTradAffeScieOppo)
-
-  * [基本情绪理论：情绪作为进化的情感程序](https://plato.stanford.edu/entries/emotion/#BasiEmotTheoEmotEvolAffeProg)
-  * [行为生态学观点、心理建构主义和社会建构主义：情绪作为建构物](https://plato.stanford.edu/entries/emotion/#BehaEcolViewPsycConsSociConsEmotCons)
-* [最近哲学中的动机传统](https://plato.stanford.edu/entries/emotion/#MotiTradPhilEmotStatActiRead)
-
-  * [9.1 态度和动机理论：情绪作为态度和动机状态](https://plato.stanford.edu/entries/emotion/#AttiMotiTheo)
-  * [情绪的实践论理论：情绪作为实践](https://plato.stanford.edu/entries/emotion/#EnacTheoEmot)
-* [理性与情绪](https://plato.stanford.edu/entries/emotion/#RatiEmot)
-
-  * [认知合理性作为适合性、保证和连贯性](https://plato.stanford.edu/entries/emotion/#CognRatiFittWarrCohe)
-  * [10.2 工具性和实质性战略理性](https://plato.stanford.edu/entries/emotion/#InstSubsStraRati)
-* [ 结束语](https://plato.stanford.edu/entries/emotion/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/emotion/#Bib)
-
-  * [ 引用的作品](https://plato.stanford.edu/entries/emotion/#CiteWork)
-* [ 学术工具](https://plato.stanford.edu/entries/emotion/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/emotion/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/emotion/#Rel)
 
 ---
 

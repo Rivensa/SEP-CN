@@ -4,23 +4,6 @@
 
 进化认识论是一种强调自然选择在认识论中的重要性的自然主义方法，其强调自然选择在两个主要角色中的重要性。在第一个角色中，选择是我们感官和认知机制可靠性的生成者和维护者，以及这些机制与世界之间的“契合”。在第二个角色中，试错学习和科学理论的演化被解释为选择过程。
 
-* [历史、问题和议题](https://plato.stanford.edu/entries/epistemology-evolutionary/#HistProbIssu)
-
-  * [1.1 认识论机制的演变 (EEM) 与理论的进化认识论 (EET)](https://plato.stanford.edu/entries/epistemology-evolutionary/#EvolEpisMechEEMVersEvolEpisTheoEET)
-  * [1.2 Ontogeny versus Phylogeny1.2 个体发生与种系发生](https://plato.stanford.edu/entries/epistemology-evolutionary/#OntoVersPhyl)
-  * [1.3 描述性与规范性方法](https://plato.stanford.edu/entries/epistemology-evolutionary/#DescVersPresAppr)
-  * [ 未来展望](https://plato.stanford.edu/entries/epistemology-evolutionary/#FutuPros)
-  * [1.5 扩大圈子](https://plato.stanford.edu/entries/epistemology-evolutionary/#ExpaCirc)
-* [正式模型](https://plato.stanford.edu/entries/epistemology-evolutionary/#FormMode)
-
-  * [2.1 Static Optimization Models](https://plato.stanford.edu/entries/epistemology-evolutionary/#StatOptiMode)
-  * [ 人口动态](https://plato.stanford.edu/entries/epistemology-evolutionary/#PopuDyna)
-  * [2.3 Multi-Level Evolution2.3 多层次演化](https://plato.stanford.edu/entries/epistemology-evolutionary/#MultLeveEvol)
-  * [ 2.4 Meaning2.4 意义](https://plato.stanford.edu/entries/epistemology-evolutionary/#Mean)
-* [ 参考文献](https://plato.stanford.edu/entries/epistemology-evolutionary/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/epistemology-evolutionary/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/epistemology-evolutionary/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/epistemology-evolutionary/#Rel)
 
 ---
 

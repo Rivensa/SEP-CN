@@ -9,19 +9,6 @@
 
 这篇文章是对英语教育哲学领域中重要的当代研究进行的选择性调查；它没有详细讨论该背景之外的最近学术研究。
 
-* [教育哲学领域的问题](https://plato.stanford.edu/entries/education-philosophy/#ProbDeliFiel)
-* [教育哲学的分析哲学及其影响](https://plato.stanford.edu/entries/education-philosophy/#AnalPhilEducInfl)
-* [当代活动领域](https://plato.stanford.edu/entries/education-philosophy/#AreaContActi)
-
-  * [课程内容与学校教育的目标与功能](https://plato.stanford.edu/entries/education-philosophy/#ContCurrAimsFuncScho)
-  * [社会、政治和道德哲学。](https://plato.stanford.edu/entries/education-philosophy/#SociPoliMoraPhil)
-  * [3.3 社会认识论、德行认识论和教育认识论](https://plato.stanford.edu/entries/education-philosophy/#SociEpisVirtEpisEpisEduc)
-  * [3.4 Philosophical Disputes Concerning Empirical Education Research](https://plato.stanford.edu/entries/education-philosophy/#PhilDispConcEmpiEducRese)
-* [ 结束语](https://plato.stanford.edu/entries/education-philosophy/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/education-philosophy/#Bib)
-* [ 教育哲学](https://plato.stanford.edu/entries/education-philosophy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/education-philosophy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/education-philosophy/#Rel)
 
 ---
 

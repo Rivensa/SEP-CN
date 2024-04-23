@@ -4,45 +4,7 @@
 
 分配正义通常被认为不属于经济学范畴，但实际上经济学中有一部重要文献涉及社会和经济正义的规范问题。各种经济理论和方法在这些问题上提供了许多见解。以下介绍了不平等和贫困测量理论、福利经济学、社会选择理论、协商理论和合作博弈理论，以及公平分配理论。这些不同分支的规范经济学与正义哲学理论之间有很多交叉影响，本文展示了许多这种相互影响的例子。
 
-* [经济学与伦理学](https://plato.stanford.edu/entries/economic-justice/#EcoEth)
 
-  * [正面经济学与规范经济学](https://plato.stanford.edu/entries/economic-justice/#PosVsNorEco)
-  * [规范经济学与政治哲学](https://plato.stanford.edu/entries/economic-justice/#NorEcoPol)
-* [不平等和贫困测量](https://plato.stanford.edu/entries/economic-justice/#InePovMea)
-
-  * [不平等和贫困指数](https://plato.stanford.edu/entries/economic-justice/#IndInePov)
-  * [2.2 主导方法](https://plato.stanford.edu/entries/economic-justice/#DomApp)
-  * [2.3 Equality, Priority, Sufficiency](https://plato.stanford.edu/entries/economic-justice/#EquPriSuf)
-* [规范经济学与经济正义](https://plato.stanford.edu/entries/economic-justice/#WelEco)
-
-  * [3.1 旧福利经济学与新福利经济学](https://plato.stanford.edu/entries/economic-justice/#OldNewWelEco)
-  * [ 3.2 Harsanyi 的定理](https://plato.stanford.edu/entries/economic-justice/#HarThe)
-* [社会选择](https://plato.stanford.edu/entries/economic-justice/#SocCho)
-
-  * [ 4.1 阿罗的定理](https://plato.stanford.edu/entries/economic-justice/#ArrThe)
-  * [4.2 信息基础](https://plato.stanford.edu/entries/economic-justice/#InfBas)
-  * [4.3 Utilitarianism](https://plato.stanford.edu/entries/economic-justice/#AroUti)
-* [协商与合作博弈](https://plato.stanford.edu/entries/economic-justice/#BarCooGam)
-
-  * [5.1 纳什和其他解决方案](https://plato.stanford.edu/entries/economic-justice/#NasOthSol)
-  * [5.2 公理谈判与合作博弈](https://plato.stanford.edu/entries/economic-justice/#AxiBarCooGam)
-* [公平分配](https://plato.stanford.edu/entries/economic-justice/#FaiAll)
-
-  * [公平作为无嫉妒](https://plato.stanford.edu/entries/economic-justice/#EquNoEnv)
-  * [ 6.2 扩展](https://plato.stanford.edu/entries/economic-justice/#Ext)
-* [相关主题](https://plato.stanford.edu/entries/economic-justice/#RelTop)
-
-  * [自由与权利](https://plato.stanford.edu/entries/economic-justice/#FreRig)
-  * [ 能力](https://plato.stanford.edu/entries/economic-justice/#Cap)
-  * [ 马克思主义](https://plato.stanford.edu/entries/economic-justice/#Mar)
-  * [ 意见](https://plato.stanford.edu/entries/economic-justice/#Opi)
-  * [7.5 利他主义与互惠](https://plato.stanford.edu/entries/economic-justice/#AltRec)
-  * [ 幸福研究](https://plato.stanford.edu/entries/economic-justice/#HapStu)
-  * [ 动物](https://plato.stanford.edu/entries/economic-justice/#Anim)
-* [ 参考文献](https://plato.stanford.edu/entries/economic-justice/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/economic-justice/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/economic-justice/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/economic-justice/#Rel)
 
 ---
 

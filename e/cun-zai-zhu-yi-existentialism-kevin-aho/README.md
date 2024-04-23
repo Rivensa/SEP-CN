@@ -17,43 +17,6 @@
 
 这些思想用来构建这个入口。
 
-* [虚无主义与现代性的危机](https://plato.stanford.edu/entries/existentialism/#NihiCrisMode)
-* [参与 vs. 分离](https://plato.stanford.edu/entries/existentialism/#EngaVsDeta)
-
-  * [ 2.1 主观真理](https://plato.stanford.edu/entries/existentialism/#SubjTrut)
-  * [ 2.2 Perspectivism2.2 透视主义](https://plato.stanford.edu/entries/existentialism/#Pers)
-  * [ 2.3 Being-in-the-World2.3 存在于世界](https://plato.stanford.edu/entries/existentialism/#BeinWorl)
-  * [ 2.4 体现](https://plato.stanford.edu/entries/existentialism/#Embo)
-* [存在先于本质](https://plato.stanford.edu/entries/existentialism/#ExisPrecEsse)
-* [ 自由](https://plato.stanford.edu/entries/existentialism/#Free)
-
-  * [选择的焦虑](https://plato.stanford.edu/entries/existentialism/#AnxiChoi)
-  * [ 4.2 Mediated Freedom4.2 中介自由](https://plato.stanford.edu/entries/existentialism/#MediFree)
-* [ 5. 真实性](https://plato.stanford.edu/entries/existentialism/#Auth)
-
-  * [情绪的力量](https://plato.stanford.edu/entries/existentialism/#PoweMood)
-  * [5.2 Kierkegaard’s Knight of Faith](https://plato.stanford.edu/entries/existentialism/#KierKnigFait)
-  * [ 5.3 尼采的超人](https://plato.stanford.edu/entries/existentialism/#NietOver)
-  * [5.4 海德格尔的坚决存在](https://plato.stanford.edu/entries/existentialism/#HeidResoDase)
-  * [5.5 自我恢复在萨特和波伏儿](https://plato.stanford.edu/entries/existentialism/#SelfRecoSartBeau)
-* [ 伦理学](https://plato.stanford.edu/entries/existentialism/#Ethi)
-
-  * [6.1 他者存在](https://plato.stanford.edu/entries/existentialism/#AuthBeinForOthe)
-  * [6.2 认同的伦理学](https://plato.stanford.edu/entries/existentialism/#EthiReco)
-  * [6.3 参与的伦理学](https://plato.stanford.edu/entries/existentialism/#EthiEnga)
-* [当代相关性](https://plato.stanford.edu/entries/existentialism/#ContRele)
-
-  * [ 后结构主义](https://plato.stanford.edu/entries/existentialism/#PostStru)
-  * [7.2 叙事与诠释哲学](https://plato.stanford.edu/entries/existentialism/#NarrHermPhil)
-  * [存在主义的心灵哲学和认知科学](https://plato.stanford.edu/entries/existentialism/#PhilMindCognScie)
-  * [7.4 批判现象学](https://plato.stanford.edu/entries/existentialism/#CritPhen)
-  * [比较哲学与环境哲学](https://plato.stanford.edu/entries/existentialism/#CompEnviPhil)
-  * [7.6 健康与疾病的哲学](https://plato.stanford.edu/entries/existentialism/#PhilHealIlln)
-  * [一个新的一代](https://plato.stanford.edu/entries/existentialism/#NewGene)
-* [ 参考文献](https://plato.stanford.edu/entries/existentialism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/existentialism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/existentialism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/existentialism/#Rel)
 
 ---
 

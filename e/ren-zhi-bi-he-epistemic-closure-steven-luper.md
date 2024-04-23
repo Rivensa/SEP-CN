@@ -16,31 +16,7 @@
 
 一个密切相关的观念是，我们相信任何从我们有理由相信的事情得出的结论是合理的（可证明的）。这个观念与知识是封闭的论点密切相关，因为根据一些理论家的观点，知道 p 意味着有理由相信 p。如果知识蕴含着理据，那么后者的封闭失败可能导致前者的封闭失败。
 
-* [1. 闭合原则](https://plato.stanford.edu/entries/closure-epistemic/#CloPri)
-* [论证来自知识分析](https://plato.stanford.edu/entries/closure-epistemic/#ArgAnaKno)
 
-  * [2.1 Closure Fails Due to the Tracking Condition on Knowledge2.1 由于知识的跟踪条件，认知闭合失败。](https://plato.stanford.edu/entries/closure-epistemic/#CloFaiDueTraConKno)
-  * [2.2 Closure Fails on a Relevant Alternatives Approach2.2 在相关替代方法上认知闭合失败](https://plato.stanford.edu/entries/closure-epistemic/#CloFaiRelAltApp)
-  * [2.3 Closure and Reliabilism2.3 闭合与可靠主义](https://plato.stanford.edu/entries/closure-epistemic/#CloRel)
-* [认知模式不封闭的论证](https://plato.stanford.edu/entries/closure-epistemic/#ArgNonKnoMod)
-
-  * [3.1 知识模式与非闭合](https://plato.stanford.edu/entries/closure-epistemic/#KnoModNon)
-  * [3.2 对德雷茨克的回应](https://plato.stanford.edu/entries/closure-epistemic/#ResDre)
-* [认知闭合到不易知命题的论证](https://plato.stanford.edu/entries/closure-epistemic/#ArgNotEasKnoPro)
-
-  * [4.1 The Argument from Limiting Propositions](https://plato.stanford.edu/entries/closure-epistemic/#ArgLimPro)
-  * [4.2 The Argument from Lottery Propositions4.2 彩票命题的论证](https://plato.stanford.edu/entries/closure-epistemic/#ArgLotPro)
-* [5. 怀疑论证](https://plato.stanford.edu/entries/closure-epistemic/#ArgSke)
-
-  * [5.1 怀疑主义与反怀疑主义](https://plato.stanford.edu/entries/closure-epistemic/#SkeAnt)
-  * [5.2 跟踪与怀疑](https://plato.stanford.edu/entries/closure-epistemic/#TraSke)
-  * [5.3 安全指示和怀疑主义](https://plato.stanford.edu/entries/closure-epistemic/#SafIndSke)
-  * [5.4 语境主义和怀疑论](https://plato.stanford.edu/entries/closure-epistemic/#ConSke)
-* [理性信念的封闭认知闭合](https://plato.stanford.edu/entries/closure-epistemic/#CloRatBel)
-* [ 参考文献](https://plato.stanford.edu/entries/closure-epistemic/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/closure-epistemic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/closure-epistemic/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/closure-epistemic/#Rel)
 
 ---
 

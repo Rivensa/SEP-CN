@@ -8,41 +8,7 @@
 
 这篇文章提供了有关上帝和时间的一些关键立场的概述，并讨论了支持和反对神的永恒性的论点。最后一部分概述了一些其他哲学背景，其中永恒的概念可以发挥作用。
 
-* [ 术语](https://plato.stanford.edu/entries/eternity/#Term)
-* [ 方法论](https://plato.stanford.edu/entries/eternity/#Meth)
-* [3. 简要历史述评](https://plato.stanford.edu/entries/eternity/#BrieHistRema)
 
-  * [3.1 The ](https://plato.stanford.edu/entries/eternity/#LociClas)​*[Loci Classici](https://plato.stanford.edu/entries/eternity/#LociClas)*
-  * [3.2 Sources in Antiquity](https://plato.stanford.edu/entries/eternity/#SourAnti)
-  * [ 3.3 Medieval Thinkers3.3 中世纪思想家](https://plato.stanford.edu/entries/eternity/#MediThin)
-* [一些关于上帝和时间的观点](https://plato.stanford.edu/entries/eternity/#SomeViewGodTime)
-
-  * [神圣的永恒](https://plato.stanford.edu/entries/eternity/#DiviTime)
-
-    * [ 4.1.1 Pure Atemporalism4.1.1 纯粹的永恒主义](https://plato.stanford.edu/entries/eternity/#PureAtem)
-    * [4.1.2 Atemporal Duration4.1.2 非时间性持续](https://plato.stanford.edu/entries/eternity/#AtemDura)
-    * [永恒的时间](https://plato.stanford.edu/entries/eternity/#TimeTimeEter)
-  * [4.2 Divine Temporality4.2 神的时间性](https://plato.stanford.edu/entries/eternity/#DiviTemp)
-
-    * [ 4.2.1 Pure Temporalism4.2.1 纯时间主义](https://plato.stanford.edu/entries/eternity/#PureTemp)
-    * [4.2.2 相对永恒](https://plato.stanford.edu/entries/eternity/#RelaTime)
-    * [4.2.3 Timeless Without and Temporal With Creation4.2.3 永恒无和有时间性的创造](https://plato.stanford.edu/entries/eternity/#TimeWithTempCrea)
-    * [4.2.4 Metrically Amorphous Time4.2.4 度量上无定形的时间](https://plato.stanford.edu/entries/eternity/#MetrAmorTime)
-* [反对神的永恒性的论点](https://plato.stanford.edu/entries/eternity/#ArguAgaiDiviTime)
-
-  * [5.1 Arguments from Divine Omniscience and Tensed Facts5.1 神圣全知和时态事实的论证](https://plato.stanford.edu/entries/eternity/#ArguDiviOmniTensFact)
-  * [5.2 Arguments from Divine Action5.2 神迹的论证](https://plato.stanford.edu/entries/eternity/#ArguDiviActi)
-  * [5.3 Arguments from Divine Personhood5.3 神性人格的论证](https://plato.stanford.edu/entries/eternity/#ArguDiviPers)
-* [神的永恒性论证](https://plato.stanford.edu/entries/eternity/#ArguForDiviTime)
-
-  * [6.1 Arguments from Divine Perfection6.1 神圣完美的论证](https://plato.stanford.edu/entries/eternity/#ArguDiviPerf)
-  * [6.2 Arguments from Divine Foreknowledge6.2 神学预知的论证](https://plato.stanford.edu/entries/eternity/#ArguDiviFore)
-  * [6.3 相对论的论证](https://plato.stanford.edu/entries/eternity/#ArguRelaTheo)
-* [关于永恒的其他辩论](https://plato.stanford.edu/entries/eternity/#OtheDeba)
-* [ 参考文献](https://plato.stanford.edu/entries/eternity/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/eternity/#Aca)
-* [其他互联网资源Assistant&apos;s Note: The first translation session has been completed. Now, I will proceed with the second translation session based on the result of the first translation.其他网络资源](https://plato.stanford.edu/entries/eternity/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/eternity/#Rel)
 
 ---
 

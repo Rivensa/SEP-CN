@@ -9,20 +9,6 @@
 
 试图通过将临床研究限制在医疗环境中，向希望尝试的患者提供实验性干预来解决中心伦理挑战。这种方法在试图帮助个体患者的过程中评估干预措施的优点是有意义的，适用于广泛接受并已在临床使用中的两种或两种以上干预措施的比较。相比之下，这种方法在测试新干预措施方面存在巨大的科学和实际问题。在实际方面，谁会愿意制造一种新的干预措施而不知道它是否有效？应该使用多少剂量？新药应该多久服用一次？更重要的是，除非数百，甚至数千人接受了新干预措施，否则这种方法可能无法提供关于新治疗是否有用或有害的可靠信息。临床研究旨在通过在少数个体中系统评估潜在的新治疗方法，包括非常患病的人，然后再将其广泛应用来解决这些问题。当我们日常生活中开车、冲马桶、呼吸、养狗时，我们不可避免地会使他人面临伤害的风险。尽管这些实践渗透到我们的生活中，但对于它们何时是可以接受的条件，哲学分析却惊人地少见（Hayenhjelm and Wolff 2012）。除了本身具有价值之外，对临床研究提出的中心伦理挑战进行评估还提供了一个机会，考虑道德理论中更基本的关注点之一：何时可以让一些个体面临伤害的风险是可以接受的？
 
-* [什么是临床研究？](https://plato.stanford.edu/entries/clinical-research/#WhatClinRese)
-* [早期临床研究](https://plato.stanford.edu/entries/clinical-research/#EarlClinRese)
-* [滥用和指导原则](https://plato.stanford.edu/entries/clinical-research/#AbusGuid)
-* [临床研究和临床护理](https://plato.stanford.edu/entries/clinical-research/#ClinReseClinCare)
-* [5. 自由意志主义分析](https://plato.stanford.edu/entries/clinical-research/#LibeAnal)
-* [ 6. 合同理论](https://plato.stanford.edu/entries/clinical-research/#ContTheo)
-* [ 7. 最小风险](https://plato.stanford.edu/entries/clinical-research/#MiniRisk)
-* [目标和兴趣](https://plato.stanford.edu/entries/clinical-research/#GoalInte)
-* [行业赞助的研究](https://plato.stanford.edu/entries/clinical-research/#InduSponRese)
-* [学习医疗](https://plato.stanford.edu/entries/clinical-research/#LearHealCare)
-* [ 参考文献](https://plato.stanford.edu/entries/clinical-research/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/clinical-research/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/clinical-research/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/clinical-research/#Rel)
 
 ---
 

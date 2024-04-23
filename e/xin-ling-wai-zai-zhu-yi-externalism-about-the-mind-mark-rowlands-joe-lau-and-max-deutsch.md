@@ -4,26 +4,7 @@
 
 在心灵哲学中，心灵外在主义是一种观点，认为个体心灵中发生的事情并非完全由其身体内部，包括大脑内部发生的事情所决定。心灵外在主义有两种主要形式：关于心理内容的外在主义和关于这些内容的载体或承载者的外在主义。后一种形式的心灵外在主义通常被称为扩展心灵。涉及的是关于心灵的本质及其与世界（自然和社会）的关系的重要问题。
 
-* [ 介绍](https://plato.stanford.edu/entries/content-externalism/#Intr)
-* [2. 历史前提](https://plato.stanford.edu/entries/content-externalism/#HistAnte)
-* [内容外在主义](https://plato.stanford.edu/entries/content-externalism/#ContExte)
 
-  * [3.1 Arguments for Content Externalism3.1 内容外在主义的论点](https://plato.stanford.edu/entries/content-externalism/#ArguForContExte)
-  * [3.2 Responses to Content Externalism3.2 对内容外在主义的回应](https://plato.stanford.edu/entries/content-externalism/#RespContExte)
-  * [ 窄内容](https://plato.stanford.edu/entries/content-externalism/#NarrCont)
-* [4. 内容外在主义的意义](https://plato.stanford.edu/entries/content-externalism/#SignContExte)
-* [心灵外在主义](https://plato.stanford.edu/entries/content-externalism/#ExteMind)
-
-  * [5.1 State-Oriented Extended Mind5.1 国家导向的扩展心灵](https://plato.stanford.edu/entries/content-externalism/#StatOrieExteMind)
-  * [5.2 反对面向状态的扩展心灵](https://plato.stanford.edu/entries/content-externalism/#ObjeStatOrieExteMind)
-  * [5.3 过程导向的扩展心灵](https://plato.stanford.edu/entries/content-externalism/#ProcOrieExteMind)
-  * [5.4 The Mark of the Cognitive/Mental5.4 认知/心理的标志](https://plato.stanford.edu/entries/content-externalism/#MarkCogn)
-* [心灵外在主义的范围](https://plato.stanford.edu/entries/content-externalism/#ScopExteMind)
-* [心灵外在主义和 4E 心灵](https://plato.stanford.edu/entries/content-externalism/#ExteMind4EMind)
-* [ 参考文献](https://plato.stanford.edu/entries/content-externalism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/content-externalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/content-externalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/content-externalism/#Rel)
 
 ---
 

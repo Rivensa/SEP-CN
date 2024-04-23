@@ -12,27 +12,7 @@
 
 这篇文章描述了启蒙运动思想的主要倾向，主要分为以下几个主要部分：(1) 真实：启蒙运动中的科学、认识论和形而上学；(2) 善：启蒙运动中的政治理论、伦理理论和宗教；(3) 美：启蒙运动中的美学。
 
-* [启蒙运动中的真实：科学、认识论和形而上学](https://plato.stanford.edu/entries/enlightenment/#TruSciEpiMetEnl)
 
-  * [理性主义与启蒙运动](https://plato.stanford.edu/entries/enlightenment/#RatEnl)
-  * [1.2 经验主义与启蒙运动](https://plato.stanford.edu/entries/enlightenment/#EmpEnl)
-  * [启蒙运动中的怀疑主义](https://plato.stanford.edu/entries/enlightenment/#SkeEnl)
-  * [1.4 启蒙运动中的人类科学与主观主义](https://plato.stanford.edu/entries/enlightenment/#SciManSubEnl)
-  * [1.5 新兴科学与百科全书](https://plato.stanford.edu/entries/enlightenment/#EmeSciEnc)
-* [2. The Good: Political Theory, Ethical Theory and Religion in the Enlightenment2. 善：启蒙运动中的政治理论、伦理理论和宗教](https://plato.stanford.edu/entries/enlightenment/#GooPolTheEthTheRelEnl)
-
-  * [ 2.1 Political Theory2.1 政治理论](https://plato.stanford.edu/entries/enlightenment/#PolThe)
-  * [ 2.2 伦理学理论](https://plato.stanford.edu/entries/enlightenment/#EthThe)
-  * [2.3 宗教与启蒙运动](https://plato.stanford.edu/entries/enlightenment/#RelEnl)
-* [启蒙运动中的美学](https://plato.stanford.edu/entries/enlightenment/#BeaAesEnl)
-
-  * [3.1 法国古典主义和德国理性主义](https://plato.stanford.edu/entries/enlightenment/#FreClaGerRat)
-  * [经验主义和主观主义](https://plato.stanford.edu/entries/enlightenment/#EmpSub)
-  * [3.3 晚期启蒙运动美学](https://plato.stanford.edu/entries/enlightenment/#LatEnlAes)
-* [ 参考文献](https://plato.stanford.edu/entries/enlightenment/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/enlightenment/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/enlightenment/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/enlightenment/#Rel)
 
 ---
 

@@ -6,49 +6,7 @@
 
 生态学是研究个体生物与其环境之间相互作用的科学学科，包括与同种个体和其他物种成员的相互作用。至少自达尔文发表《物种起源》以来，人们已经认识到其重要性，该书将生态相互作用归类为“生存斗争”。从那时起，人们一直在努力将这种斗争的调查系统化为一门科学学科。历史上，哲学家对生态学的关注较少，与其他科学学科相比，但这种情况已经开始改变，因为越来越明显的是，研究生态系统本身是有趣的，而且还可以为科学哲学提供更广泛的见解。本文将涵盖一些仅存在于生态背景下的主题（§2），以及一些在科学哲学中已经讨论但从生态学角度审视时尤为有趣的主题。
 
-* [生态学是什么？](https://plato.stanford.edu/entries/ecology/#WhatScieDiscCallEcol)
-* [生态学中的哲学主题](https://plato.stanford.edu/entries/ecology/#PhilTopiEcol)
 
-  * [生态研究单位](https://plato.stanford.edu/entries/ecology/#UnitEcolRese)
-
-    * [ 生态系统](https://plato.stanford.edu/entries/ecology/#Ecos)
-    * [ 社区](https://plato.stanford.edu/entries/ecology/#Comm)
-    * [ 人口](https://plato.stanford.edu/entries/ecology/#Popu)
-    * [个体（生物体）](https://plato.stanford.edu/entries/ecology/#IndiOrga)
-  * [生态位](https://plato.stanford.edu/entries/ecology/#Nich)
-
-    * [2.2.1 概念化的生态位](https://plato.stanford.edu/entries/ecology/#ConcNich)
-    * [反对生态位](https://plato.stanford.edu/entries/ecology/#AgaiNich)
-  * [生物入侵](https://plato.stanford.edu/entries/ecology/#BiolInva)
-
-    * [2.3.1 定义生物入侵者](https://plato.stanford.edu/entries/ecology/#DefiBiolInva)
-    * [2.3.2 生物入侵的原因](https://plato.stanford.edu/entries/ecology/#CausBiolInva)
-  * [ 保护主义](https://plato.stanford.edu/entries/ecology/#Cons)
-
-    * [2.4.1 自然、荒野与恢复](https://plato.stanford.edu/entries/ecology/#NatuWildRest)
-    * [ 生物多样性](https://plato.stanford.edu/entries/ecology/#Biod)
-* [生态学中的科学哲学](https://plato.stanford.edu/entries/ecology/#PhilScieEcol)
-
-  * [生态学的科学地位](https://plato.stanford.edu/entries/ecology/#ScieStatEcol)
-  * [ 复杂性](https://plato.stanford.edu/entries/ecology/#Comp)
-
-    * [生态复杂性的特征](https://plato.stanford.edu/entries/ecology/#CharEcolComp)
-    * [3.2.2 复杂性的影响](https://plato.stanford.edu/entries/ecology/#EffeComp)
-  * [ 生态学](https://plato.stanford.edu/entries/ecology/#Laws)
-  * [ 生态学](https://plato.stanford.edu/entries/ecology/#Leve)
-  * [ 方法](https://plato.stanford.edu/entries/ecology/#Meth)
-
-    * [ 3.5.1 模型](https://plato.stanford.edu/entries/ecology/#Mode)
-    * [ 实验](https://plato.stanford.edu/entries/ecology/#Expe)
-  * [ 功能](https://plato.stanford.edu/entries/ecology/#Func)
-  * [生态学作为一门应用科学](https://plato.stanford.edu/entries/ecology/#EcolApplScie)
-
-    * [ 价值观](https://plato.stanford.edu/entries/ecology/#Valu)
-    * [3.7.2 跨学科性](https://plato.stanford.edu/entries/ecology/#Inte)
-* [ 参考文献](https://plato.stanford.edu/entries/ecology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ecology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ecology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ecology/#Rel)
 
 ---
 

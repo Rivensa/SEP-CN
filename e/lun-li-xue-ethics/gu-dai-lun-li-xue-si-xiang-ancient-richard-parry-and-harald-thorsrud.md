@@ -4,19 +4,6 @@
 
 伦理学理论并非创造道德，甚至对其进行反思，而是试图对这些活动进行系统性思考。然而，古代伦理学理论并不试图成为涵盖所有属于道德范畴的现象的全面解释。相反，它试图捕捉其潜在本质，假设零碎的观点和实践。这种企图的本质是评估和批评其中一些观点和实践，但这并非其主要目标。古代伦理学理论试图提供对一种基本人类活动的反思性描述，以便人们能够理解在追求中的基本重要性。按历史顺序，本文将考虑的理论包括苏格拉底在柏拉图的某些对话中提出的理论；柏拉图在《理想国》中的理论；亚里士多德；犬儒派；锡拉诺享乐主义；伊壁鸠鲁；斯多噶学派；以及匹洛斯怀疑论。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/ethics-ancient/#Intr)
-* [ 苏格拉底](https://plato.stanford.edu/entries/ethics-ancient/#Socr)
-* [ 3. 柏拉图](https://plato.stanford.edu/entries/ethics-ancient/#Plat)
-* [ 亚里士多德](https://plato.stanford.edu/entries/ethics-ancient/#Aris)
-* [ 5. Cynics5. 犬儒主义](https://plato.stanford.edu/entries/ethics-ancient/#Cyni)
-* [ 6. Cyrenaics6. 伊利亚德主义](https://plato.stanford.edu/entries/ethics-ancient/#Cyre)
-* [ 7. 伊壁鸠鲁](https://plato.stanford.edu/entries/ethics-ancient/#Epic)
-* [ 斯多亚派](https://plato.stanford.edu/entries/ethics-ancient/#Stoi)
-* [ 9. Pyrrhonian Skeptics9. Pyrrhonian Skeptics](https://plato.stanford.edu/entries/ethics-ancient/#PyrrSkep)
-* [ 参考文献](https://plato.stanford.edu/entries/ethics-ancient/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ethics-ancient/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ethics-ancient/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ethics-ancient/#Rel)
 
 ---
 

@@ -4,14 +4,7 @@
 
 该条目阐述了通常被认为是任何人成为合法自愿安乐死候选人所必需的五个条件（以及在适当情况下，医师辅助自杀），概述了支持将自愿安乐死合法化的人提出的道德理由，并讨论了那些否认自愿安乐死在道德上是可容许的、因此反对将其合法化的人提出的五个最重要的反对意见。
 
-* [ 介绍](https://plato.stanford.edu/entries/euthanasia-voluntary/#Intr)
-* [自愿安乐死的候选资格通常提出的五个条件](https://plato.stanford.edu/entries/euthanasia-voluntary/#FiveCondOftePropNeceForCandForVoluEuth)
-* [自愿安乐死的道德案例](https://plato.stanford.edu/entries/euthanasia-voluntary/#MoraCaseForVoluEuth)
-* [对自愿安乐死的道德允许性的五个反对意见](https://plato.stanford.edu/entries/euthanasia-voluntary/#FiveObjeMoraPermVoluEuth)
-* [ 参考文献](https://plato.stanford.edu/entries/euthanasia-voluntary/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/euthanasia-voluntary/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/euthanasia-voluntary/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/euthanasia-voluntary/#Rel)
+
 
 ---
 

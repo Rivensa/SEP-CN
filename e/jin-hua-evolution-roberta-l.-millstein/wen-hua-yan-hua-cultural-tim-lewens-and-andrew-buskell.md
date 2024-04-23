@@ -10,32 +10,7 @@ _首次发表于 2007 年 12 月 23 日星期日；实质性修订于 2023 年 5
 
 对一些文化演化理论的支持是不可抗拒的。我们自己物种的成员之所以能够生存和繁衍，部分原因在于习惯、技术和知识，这些不仅通过向他人学习而得以保持，而且作为一个累积性项目的一部分，借鉴了他人的发现。我们的物种还包含具有不同习惯、不同规范、不同知识形式和不同生活方式支持的子群体，这些再次是通过与他人的互动生成和维持的。社会学习也是动物适应和可能是物种形成的重要因素。有趣的问题不是文化演化是否重要，而是文化演化理论应该如何构建，以及它们应该如何与更传统的有机演化理解相联系。
 
-* [自然选择和文化](https://plato.stanford.edu/entries/evolution-cultural/#NatuSeleCult)
-* [什么在进化？](https://plato.stanford.edu/entries/evolution-cultural/#WhatEvol)
-  * [2.1 The Culture Concept2.1 文化概念](https://plato.stanford.edu/entries/evolution-cultural/#CultConc)
-  * [2.2 传播与继承](https://plato.stanford.edu/entries/evolution-cultural/#TranInhe)
-  * [2.3 Reproduction and Selection](https://plato.stanford.edu/entries/evolution-cultural/#ReprSele)
-* [3. 一个强有力的类比：Memes 和 Memetics](https://plato.stanford.edu/entries/evolution-cultural/#StroAnalMemeMeme)
-* [4. 问题与模因学](https://plato.stanford.edu/entries/evolution-cultural/#ProbMemeMeme)
-  * [文化单位是否是复制体？](https://plato.stanford.edu/entries/evolution-cultural/#CultUnitRepl)
-  * [文化单位是否形成谱系？](https://plato.stanford.edu/entries/evolution-cultural/#DoCultUnitFormLine)
-  * [文化演化 4.3 文化是否可以被原子化为离散单元？](https://plato.stanford.edu/entries/evolution-cultural/#CultAtomDiscUnit)
-* [松散的类比](https://plato.stanford.edu/entries/evolution-cultural/#LoosAnal)
-  * [双重遗传理论](https://plato.stanford.edu/entries/evolution-cultural/#DualInheTheo)
-  * [文化吸引](https://plato.stanford.edu/entries/evolution-cultural/#CultAttr)
-  * [文化系统](https://plato.stanford.edu/entries/evolution-cultural/#CultSyst)
-  * [5.4 A Persisting Problem: The Explanatory Power of the Biology/Culture Analogy](https://plato.stanford.edu/entries/evolution-cultural/#PersProbExplPoweBiolAnal)
-* [扩展和阐述](https://plato.stanford.edu/entries/evolution-cultural/#ExteElab)
-  * [6.1 Coevolution and the Cultural Evolution of Cultural Evolution6.1 共同进化与文化演化的文化演化](https://plato.stanford.edu/entries/evolution-cultural/#CoevCultEvolCultEvol)
-  * [6.2 Cumulative Culture6.2 累积文化](https://plato.stanford.edu/entries/evolution-cultural/#CumuCult)
-  * [文化演化团体选择](https://plato.stanford.edu/entries/evolution-cultural/#CultGrouSele)
-  * [6.4 Evolvability6.4 可进化性](https://plato.stanford.edu/entries/evolution-cultural/#Evol)
-  * [6.5 宏观进化](https://plato.stanford.edu/entries/evolution-cultural/#Macr)
-* [7. 结论](https://plato.stanford.edu/entries/evolution-cultural/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/evolution-cultural/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/evolution-cultural/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/evolution-cultural/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/evolution-cultural/#Rel)
+
 
 ***
 

@@ -8,22 +8,6 @@
 
 克里斯蒂安·冯·厄棱费尔（1859 年 6 月 20 日出生，1932 年 9 月 8 日逝世）是奥地利哲学家和心理学家，属于弗朗茨·布伦塔诺学派。他通过提出格式塔特质的概念、阐述新的价值理论以及在性伦理学和宇宙学领域发展新思想，展现了自己作为一个高度独立和多元化思想家的能力。他不仅借鉴了布伦塔诺的观点，还从奥地利经济学家和进化论者亚历克修斯·迈农那里汲取了知识。然而，厄棱费尔（以下简称厄棱费尔）在一些问题上也对他的各种导师持批判态度。尽管他是一位理论家，但他并不对当时社会和文化问题置之不理。因此，他还尝试通过开辟新的道路来解决这些问题。
 
-* [生活与工作](https://plato.stanford.edu/entries/ehrenfels/#LifWor)
-* [ 2. Gestalt Qualities2. 格式塔特特质](https://plato.stanford.edu/entries/ehrenfels/#GesQua)
-* [价值理论](https://plato.stanford.edu/entries/ehrenfels/#TheVal)
-* [ 性伦理学](https://plato.stanford.edu/entries/ehrenfels/#SexEth)
-* [哲学数学](https://plato.stanford.edu/entries/ehrenfels/#Mat)
-* [ 宇宙学](https://plato.stanford.edu/entries/ehrenfels/#Cos)
-* [ 遗产](https://plato.stanford.edu/entries/ehrenfels/#Leg)
-* [ 参考文献](https://plato.stanford.edu/entries/ehrenfels/#Bib)
-
-  * [ 主要文献](https://plato.stanford.edu/entries/ehrenfels/#PriLit)
-  * [ 次级文献](https://plato.stanford.edu/entries/ehrenfels/#SecLit)
-* [ 学术工具](https://plato.stanford.edu/entries/ehrenfels/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ehrenfels/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ehrenfels/#Rel)
-* [ 致谢](https://plato.stanford.edu/entries/ehrenfels/#Ack)
-
 ---
 
 ## 生活与工作

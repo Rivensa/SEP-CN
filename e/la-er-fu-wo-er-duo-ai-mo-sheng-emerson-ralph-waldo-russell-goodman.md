@@ -11,28 +11,6 @@
 
 拉尔夫·沃尔多·爱默生（1803-82）是一位美国散文家、诗人和著名哲学家，他最初是波士顿的一位一神论牧师，但后来以演讲家和《自力更生》、《历史》、《超灵》和《命运》等文章的作者而享誉世界。爱默生借鉴了英国和德国浪漫主义、新柏拉图主义、康德主义和印度教，发展出了一个关于过程的形而上学、一种基于情绪的认识论，以及一种“存在主义”伦理学，即自我改进的伦理学。他影响了几代美国人，从他的朋友亨利·大卫·梭罗到约翰·杜威，以及在欧洲的弗里德里希·尼采，后者探讨了爱默生式的主题，如权力、命运、诗歌和历史的用途，以及对基督教的批判。
 
-* [爱默生的生平 chronology of Emerson’s Life](https://plato.stanford.edu/entries/emerson/#ChroEmerLife)
-* [爱默生哲学中的主要主题](https://plato.stanford.edu/entries/emerson/#MajoThemEmerPhil)
-
-  * [ 2.1 教育](https://plato.stanford.edu/entries/emerson/#Educ)
-  * [ 2.2 过程](https://plato.stanford.edu/entries/emerson/#Proc)
-  * [ 2.3 道德](https://plato.stanford.edu/entries/emerson/#Mora)
-  * [ 2.4 基督教](https://plato.stanford.edu/entries/emerson/#Chri)
-  * [ 2.5 力量](https://plato.stanford.edu/entries/emerson/#Powe)
-  * [2.6 统一与情绪](https://plato.stanford.edu/entries/emerson/#UnitMood)
-* [爱默生论奴隶制和种族](https://plato.stanford.edu/entries/emerson/#EmerSlavRace)
-* [一些关于爱默生的问题](https://plato.stanford.edu/entries/emerson/#SomeQuesAbouEmer)
-
-  * [ 4.1 一致性](https://plato.stanford.edu/entries/emerson/#Cons)
-  * [4.2 早期和晚期的爱默生](https://plato.stanford.edu/entries/emerson/#EarlLateEmer)
-  * [4.3 Sources and Influence](https://plato.stanford.edu/entries/emerson/#SourInfl)
-* [ 参考文献](https://plato.stanford.edu/entries/emerson/#Bib)
-
-  * [ 爱默生的著作](https://plato.stanford.edu/entries/emerson/#WorkEmer)
-  * [选定的爱默生著作](https://plato.stanford.edu/entries/emerson/#SeleWritEmer)
-* [ 学术工具](https://plato.stanford.edu/entries/emerson/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/emerson/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/emerson/#Rel)
 
 ---
 

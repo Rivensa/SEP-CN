@@ -11,32 +11,7 @@
 
 然而，目前尚不清楚这种表面上的承诺在多大程度上构成了一个整合的现象，而不是独立的、独立的倾向。此外，即使在那些支持对事件的本体论地位持现实主义态度的人中，对这些实体的确切性质存在重大分歧。(尽管在词典中常见，将它们广泛描述为“发生的事情”仅仅将任务转移到澄清“发生”的含义。) 一个有用的方法是将它们与属于其他哲学上更熟悉的本体论类别的实体进行对比。在接下来的内容中，我们将回顾事件与那些在文献中明确提出作为它们的本体论竞争者，或者至少作为与事件类别存在显著差异的类别的主要对比。在此过程中，我们还将回顾形而上学家和其他哲学家在试图处理事件时采用的主要概念工具，无论是从现实主义还是非现实主义的角度。
 
-* [事件和其他类别](https://plato.stanford.edu/entries/events/#EveOthCat)
 
-  * [1.1 事件 vs. 物体](https://plato.stanford.edu/entries/events/#EveVsObj)
-  * [1.2 事件 vs. 事实](https://plato.stanford.edu/entries/events/#EveVsFac)
-  * [1.3 Events vs. Properties事件 vs. 属性](https://plato.stanford.edu/entries/events/#EveVsPro)
-  * [事件与时间](https://plato.stanford.edu/entries/events/#EveVsTim)
-* [事件的类型](https://plato.stanford.edu/entries/events/#TypEve)
-
-  * [2.1 活动、成就、成就和状态](https://plato.stanford.edu/entries/events/#ActAccAchSta)
-  * [2.2 Static and Dynamic Events](https://plato.stanford.edu/entries/events/#StaDynEve)
-  * [2.3 Actions and Bodily Movements](https://plato.stanford.edu/entries/events/#ActBodMov)
-  * [2.4 心理和身体事件](https://plato.stanford.edu/entries/events/#MenPhyEve)
-  * [ 2.5 Negative Events2.5 负面事件](https://plato.stanford.edu/entries/events/#NegEve)
-* [事件形而上学与语义学](https://plato.stanford.edu/entries/events/#MetSem)
-
-  * [ 存在](https://plato.stanford.edu/entries/events/#Existence)
-  * [3.2 Identity](https://plato.stanford.edu/entries/events/#Identity)
-  * [ 本文旨在探讨存在的本质。](https://plato.stanford.edu/entries/events/#Essence)
-* [ 参考文献](https://plato.stanford.edu/entries/events/#Bib)
-
-  * [ 调查](https://plato.stanford.edu/entries/events/#Sur)
-  * [ 引用的作品](https://plato.stanford.edu/entries/events/#CitWorks)
-  * [ 进一步阅读](https://plato.stanford.edu/entries/events/#FurRe)
-* [ 学术工具](https://plato.stanford.edu/entries/events/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/events/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/events/#Rel)
 
 ---
 

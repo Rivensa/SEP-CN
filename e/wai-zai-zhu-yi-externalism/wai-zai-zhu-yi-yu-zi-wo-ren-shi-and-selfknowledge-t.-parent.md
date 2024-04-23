@@ -14,26 +14,6 @@ _首次发表于2013年5月9日星期四；实质性修订于2017年6月27日星
 
 在标准术语中，争论是在外在主义与自我认识之间存在冲突的不相容论者和相容论者之间。不相容论者主要通过两种方式来强调冲突。第一种方式，在第 2 节中讨论，是通过归谬法：不相容论者认为外在主义加上自我认识会导致一个荒谬的结论，即一个人可以仅仅通过舒适的扶手椅知道关于外部世界的偶然事实。第二种方式，在第 3 节中讨论，涉及到一个关于“缓慢切换”两个环境的思想实验。不相容论者认为这样的思想实验表明外在主义排除了自我认识。在第 4 节中，我们将结束对外在主义自我认识的一些较少知名的问题。
 
-* [1. 为什么外在主义？](https://plato.stanford.edu/entries/self-knowledge-externalism/#WhyExt)
-* [2. 对外在世界的坐椅知识的还原](https://plato.stanford.edu/entries/self-knowledge-externalism/#RedArmKnoExtWor)
-  * [2.1 回答 1：环境影响是经验主义的](https://plato.stanford.edu/entries/self-knowledge-externalism/#Rep1EnvImpEmp)
-  * [2.2 回复 2: 外在主义关于空概念](https://plato.stanford.edu/entries/self-knowledge-externalism/#Rep2ExtAboEmpCon)
-  * [2.3 回复 3: 传递失败](https://plato.stanford.edu/entries/self-knowledge-externalism/#Rep3TraFai)
-  * [2.4 回复 4: 自我认识是经验主义](https://plato.stanford.edu/entries/self-knowledge-externalism/#Rep4SelKnoEmp)
-  * [2.5 回答 5: 一个超验论证？](https://plato.stanford.edu/entries/self-knowledge-externalism/#Rep5TraArg)
-* [3. 慢切换论证](https://plato.stanford.edu/entries/self-knowledge-externalism/#SloSwiArg)
-  * [3.1 回答 1: 自我验证判断](https://plato.stanford.edu/entries/self-knowledge-externalism/#Rep1SelVerJud)
-  * [3.2 回复 2: 相关替代方案](https://plato.stanford.edu/entries/self-knowledge-externalism/#Rep2RelAlt)
-  * [3.3 回复 3: 关于记忆的外在主义](https://plato.stanford.edu/entries/self-knowledge-externalism/#Rep3ExtAboMem)
-  * [3.4 回复 4: 这个论证是自我认识的自我削弱](https://plato.stanford.edu/entries/self-knowledge-externalism/#Rep4ArgSelUnd)
-  * [3.5 回答 5：反认知主义](https://plato.stanford.edu/entries/self-knowledge-externalism/#Rep5AntRec)
-* [4. 外在主义自我认识的其他问题](https://plato.stanford.edu/entries/self-knowledge-externalism/#OthIssExtSelKno)
-* [参考文献](https://plato.stanford.edu/entries/self-knowledge-externalism/#Bib)
-  * [引用文献](https://plato.stanford.edu/entries/self-knowledge-externalism/#WorCit)
-  * [收藏品](https://plato.stanford.edu/entries/self-knowledge-externalism/#Col)
-* [学术工具](https://plato.stanford.edu/entries/self-knowledge-externalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/self-knowledge-externalism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/self-knowledge-externalism/#Rel)
 
 ***
 

@@ -10,36 +10,6 @@
 
 相对论中最著名的方程式 E=mc2，可以说是 20 世纪物理学中最著名的方程式。为了理解爱因斯坦的著名结果是关于什么，以及不是关于什么，我们从第 1 节开始描述质能等价的物理学。在第 2 节中，我们调查了质能等价的六种不同但相关的哲学解释。然后在第 3 节中讨论了质能等价的推导历史及其哲学重要性。第 4 节是对爱因斯坦结果的经验确认的简要和选择性描述，重点关注科克罗夫特和沃尔顿（1932 年）首次确认质能等价以及雷恩维尔等人（2005 年）最近更为准确的确认。
 
-* [质能等价的物理学](https://plato.stanford.edu/entries/equivME/#PhysMassEnerEqui)
-
-  * [1.1 牛顿物理学中质量、动量和动能的回顾](https://plato.stanford.edu/entries/equivME/#ReviMassMomeKineEnerNewtPhys)
-  * [1.2 相对论中的质量和能量：初步和符号表示](https://plato.stanford.edu/entries/equivME/#MassEnerRelaPrelNota)
-  * [1.3 爱因斯坦方程的物理意义](https://plato.stanford.edu/entries/equivME/#PhysSignEinsEqua)
-  * [1.4 原子物理中的质量和能量](https://plato.stanford.edu/entries/equivME/#MassEnerAtomPhys)
-  * [1.5 为什么 Eo 等于 mc2？](https://plato.stanford.edu/entries/equivME/#WhyDoesEoEquaMc2)
-  * [1.6 爱因斯坦的方程式和标志性方程式](https://plato.stanford.edu/entries/equivME/#EinsEquaIconEqua)
-* [2. E=mc2 的哲学解释](https://plato.stanford.edu/entries/equivME/#PhilInteEoMc2)
-
-  * [关于 E=mc2 的误解](https://plato.stanford.edu/entries/equivME/#MiscAbouEoMc2)
-  * [2.2 相同属性的 E=mc2 解释](https://plato.stanford.edu/entries/equivME/#SamePropInteEoMc2)
-  * [2.3 E=mc²的不同属性解释](https://plato.stanford.edu/entries/equivME/#DiffPropInteEoMc2)
-
-    * [2.3.1 Bondi and Spurgin’s Different-Properties, No-Conversion Interpretation2.3.1 Bondi 和 Spurgin 的 Different-Properties, No-Conversion Interpretation](https://plato.stanford.edu/entries/equivME/#BondSpurDiffPropNoConvInte)
-    * [2.3.2 Rindler’s Different-Properties, Conversion Interpretation2.3.2 Rindler 的 Different-Properties, Conversion Interpretation](https://plato.stanford.edu/entries/equivME/#RindDiffPropConvInte)
-    * [2.3.3 Lange&apos;s One-Property, No-Conversion Interpretation2.3.3 兰格的一性质，无转换解释](https://plato.stanford.edu/entries/equivME/#LangOnePropNoConvInte)
-  * [2.4 对 E=mc2 的解释和关于物质本质的假设](https://plato.stanford.edu/entries/equivME/#InteEoMc2HypoConcNatuMatt)
-  * [2.5 E=mc²的本体论解释](https://plato.stanford.edu/entries/equivME/#OntoInteEoMc2)
-* [质能等价的演绎历史](https://plato.stanford.edu/entries/equivME/#HistDeriMassEnerEqui)
-
-  * [3.1 使用麦克斯韦理论推导 Eo=mc2](https://plato.stanford.edu/entries/equivME/#DeriEoMc2UseMaxwTheo)
-  * [3.2 纯动力学推导的 E=mc2](https://plato.stanford.edu/entries/equivME/#PureDynaDeriEoMc2)
-* [4. 质能等价的实验验证](https://plato.stanford.edu/entries/equivME/#ExpeVeriMassEnerEqui)
-* [ 5. 结论](https://plato.stanford.edu/entries/equivME/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/equivME/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/equivME/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/equivME/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/equivME/#Rel)
-
 ---
 
 ## 质能等价的物理学

@@ -14,22 +14,6 @@
 
 为了回答这些问题，人们必须审视两种截然不同的文献。一方面，有关健康基本决定因素的实证文献；另一方面，有关人口健康伦理学的哲学文献。前者的文献要比后者更为广泛和发展。然而，即便在前者，所提供的答案也并不完整或完全确立。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/justice-inequality-health/#Intr)
-* [社会健康梯度](https://plato.stanford.edu/entries/justice-inequality-health/#SociGradHeal)
-* [其他社会健康决定因素](https://plato.stanford.edu/entries/justice-inequality-health/#OtheSociDeteHeal)
-* [4. Groups or individuals?](https://plato.stanford.edu/entries/justice-inequality-health/#GrouIndi)
-* [ 5. 因果路径](https://plato.stanford.edu/entries/justice-inequality-health/#CausPath)
-* [正义和国内健康不平等](https://plato.stanford.edu/entries/justice-inequality-health/#JustDomeHealIneq)
-
-  * [ 健康公平](https://plato.stanford.edu/entries/justice-inequality-health/#HealEqui)
-  * [6.2 Free-Standing Approaches6.2 独立方法](https://plato.stanford.edu/entries/justice-inequality-health/#FreeStanAppr)
-  * [6.3 衍生方法](https://plato.stanford.edu/entries/justice-inequality-health/#DeriAppr)
-* [个人责任与健康行为](https://plato.stanford.edu/entries/justice-inequality-health/#IndiRespHealBeha)
-* [正义和全球健康不平等](https://plato.stanford.edu/entries/justice-inequality-health/#JustGlobHealIneq)
-* [ 参考文献](https://plato.stanford.edu/entries/justice-inequality-health/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/justice-inequality-health/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/justice-inequality-health/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/justice-inequality-health/#Rel)
 
 ---
 

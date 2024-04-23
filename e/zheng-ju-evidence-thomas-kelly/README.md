@@ -18,14 +18,6 @@
 
 一个可能性是以下。在哲学内外，证据的概念经常被要求扮演许多不同的角色。尽管其中一些角色是互补的，但其他角色至少在某种程度上存在紧张关系。事实上，正如我们将在下文看到的，很明显并不是任何一件事情都能扮演证据在不同时间被期望扮演的多样角色。关于证据性质的不同理论可能自然地源自对已被放置在概念上的竞争性需求的不同强调。在接下来的内容中，我将概述一些被要求扮演的理论角色，并探讨它们之间的关系。
 
-* [证据作为证明信仰的东西。](https://plato.stanford.edu/entries/evidence/#EviWhiJusBel)
-* [理性思考者尊重他们的证据](https://plato.stanford.edu/entries/evidence/#RatThiResTheEvi)
-* [证据作为真理的指引：证据作为符号、症状或标记](https://plato.stanford.edu/entries/evidence/#EviGuiTruEviSigSymMar)
-* [客观性、公开性和主体间性：证据作为中立仲裁者](https://plato.stanford.edu/entries/evidence/#ObjPubIntEviNeuArb)
-* [ 参考文献](https://plato.stanford.edu/entries/evidence/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/evidence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/evidence/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/evidence/#Rel)
 
 ---
 

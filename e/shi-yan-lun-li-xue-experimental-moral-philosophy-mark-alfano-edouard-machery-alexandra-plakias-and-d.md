@@ -5,36 +5,6 @@
 
 实验伦理学作为二十世纪最后十年的一种方法论出现，是更大范围实验哲学（X-Phi）方法的一个分支。实验伦理学是对道德直觉、判断和行为的经验研究。与其他形式的实验哲学一样，它涉及使用实验方法收集数据，并利用这些数据来证实、削弱或修订哲学理论。在这种情况下，所涉及的理论涉及道德推理和判断的本质；道德义务的程度和来源；一个好人和好生活的本质；甚至道德理论本身的范围和本质。本文首先简要回顾了道德理论中经验数据的历史用途，然后探讨了实验伦理学有何独特之处——我们应该如何将其与实证道德心理学中的相关工作区分开来？在讨论回答这个问题的一些策略之后，本文检视了实验伦理学中的两个主要项目，然后讨论了该领域内一些最重要的研究领域。正如我们将看到的那样，在某些情况下，实验伦理学已经开辟了新的研究途径，而在其他情况下，它已经影响了道德理论中长期存在的争论。
 
-* [介绍与历史](https://plato.stanford.edu/entries/experimental-moral/#IntrHist)
-
-  * [什么是实验？](https://plato.stanford.edu/entries/experimental-moral/#WhatExpe)
-  * [1.2 什么类型的问题和数据？](https://plato.stanford.edu/entries/experimental-moral/#WhatTypeQuesData)
-* [道德直觉与概念分析](https://plato.stanford.edu/entries/experimental-moral/#MoraIntuConcAnal)
-
-  * [实验伦理学中的负面计划](https://plato.stanford.edu/entries/experimental-moral/#NegaProgExpeMoraPhil)
-  * [实验伦理学中的积极计划](https://plato.stanford.edu/entries/experimental-moral/#PosiProgExpeMoraPhil)
-  * [2.3 一个例子：意向性与责任](https://plato.stanford.edu/entries/experimental-moral/#ExamInteResp)
-  * [2.4 Another Example: The Linguistic Analogy2.4 另一个例子：语言类比](https://plato.stanford.edu/entries/experimental-moral/#AnotExamLingAnal)
-  * [2.5 跨文化实验伦理学](https://plato.stanford.edu/entries/experimental-moral/#CrosCultExpeMoraPhil)
-* [3. 角色、幸福、情感和道德地位](https://plato.stanford.edu/entries/experimental-moral/#CharWellEmotMoraStan)
-
-  * [3.1 Character and Virtue](https://plato.stanford.edu/entries/experimental-moral/#CharVirt)
-  * [3.2 Wellbeing, Happiness, and the Good Life3.2 幸福、快乐和美好生活](https://plato.stanford.edu/entries/experimental-moral/#WellHappGoodLife)
-  * [情感与情感](https://plato.stanford.edu/entries/experimental-moral/#EmotAffe)
-  * [ 3.4 道德地位](https://plato.stanford.edu/entries/experimental-moral/#MoraStan)
-* [元伦理学与实验伦理学](https://plato.stanford.edu/entries/experimental-moral/#MetaExpeMoraPhil)
-
-  * [4.1 民间元伦理学与道德现实主义](https://plato.stanford.edu/entries/experimental-moral/#FolkMetaMoraReal)
-  * [ 4.2 道德分歧](https://plato.stanford.edu/entries/experimental-moral/#MoraDisa)
-  * [ 4.3 道德语言](https://plato.stanford.edu/entries/experimental-moral/#MoraLang)
-* [实验伦理学的批评](https://plato.stanford.edu/entries/experimental-moral/#CritExpeMoraPhil)
-
-  * [实验设计和解释存在的问题](https://plato.stanford.edu/entries/experimental-moral/#ProbExpeDesiInte)
-  * [5.2 Philosophical Problems](https://plato.stanford.edu/entries/experimental-moral/#PhilProb)
-* [ 参考文献](https://plato.stanford.edu/entries/experimental-moral/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/experimental-moral/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/experimental-moral/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/experimental-moral/#Rel)
 
 ---
 

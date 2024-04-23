@@ -10,34 +10,7 @@ NE 也可以被理解为试图弥补通常被称为“传统认识论”（TE）
 
 以下讨论描述了自然主义认识论的主要主张、承诺和形式，以及此类自然主义观点的具体示例。此外，我们将讨论自然主义认识论的主要动机和主要反对意见。最后（有时候也会穿插其中），我们将简要考虑自然主义认识论与一些其他最近和重要的主题、立场和发展之间的关系，其中一些主题和立场与自然主义认识论本身一样具有争议性。这些包括外部主义、实验哲学、社会认识论、女性主义认识论、进化认识论，以及关于（认识论）理性性质的争论。
 
-* [一、总体定位](https://plato.stanford.edu/entries/epistemology-naturalized/#GenOri)
 
-  * [1.1 TE 的一些关键特征](https://plato.stanford.edu/entries/epistemology-naturalized/#SomKeyFeaTE)
-  * [1.2 NE: Some key forms and themes1.2 自然主义认识论：一些关键形式和主题](https://plato.stanford.edu/entries/epistemology-naturalized/#NESomKeyForThe)
-  * [1.3 NE: A brief note on the pre-Quinean history1.3 自然主义认识论：关于昆恩之前历史的简要说明](https://plato.stanford.edu/entries/epistemology-naturalized/#NEBriNotPreQuiHis)
-* [&quot;认知论自然化&quot;](https://plato.stanford.edu/entries/epistemology-naturalized/#QuiEpiNat)
-* [对奎因的批判反应](https://plato.stanford.edu/entries/epistemology-naturalized/#CriReaQui)
-
-  * [ 3.1 五个异议](https://plato.stanford.edu/entries/epistemology-naturalized/#FivObj)
-  * [3.2 一些回应，以及问题的进一步澄清。](https://plato.stanford.edu/entries/epistemology-naturalized/#SomResFurClaIss)
-* [4. Epistemology as “Thoroughly Empirical”认识论作为“彻底经验主义”](https://plato.stanford.edu/entries/epistemology-naturalized/#KorEpiThoEmp)
-
-  * [4.1 Knowledge and Epistemology4.1 知识与认识论](https://plato.stanford.edu/entries/epistemology-naturalized/#KorKnoEpi)
-  * [4.2 Epistemic Normativity4.2 认识规范](https://plato.stanford.edu/entries/epistemology-naturalized/#EpiNor)
-  * [直觉和先验 (Intuitions and the A Priori)](https://plato.stanford.edu/entries/epistemology-naturalized/#IntPri)
-* [5. 自然主义认识论的中庸立场](https://plato.stanford.edu/entries/epistemology-naturalized/#GolModNat)
-
-  * [概念分析、直觉和认识论方法论](https://plato.stanford.edu/entries/epistemology-naturalized/#GolConAnaIntEpiMet)
-  * [直觉、规范、实验](https://plato.stanford.edu/entries/epistemology-naturalized/#IntNorExp)
-* [其他主题和方法](https://plato.stanford.edu/entries/epistemology-naturalized/#OthTopApp)
-
-  * [ 社会认识论](https://plato.stanford.edu/entries/epistemology-naturalized/#SocEpi)
-  * [女性主义认识论](https://plato.stanford.edu/entries/epistemology-naturalized/#FemEpi)
-  * [ 6.3 Rationality debates6.3 合理性辩论](https://plato.stanford.edu/entries/epistemology-naturalized/#RatDeb)
-* [ 参考文献](https://plato.stanford.edu/entries/epistemology-naturalized/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/epistemology-naturalized/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/epistemology-naturalized/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/epistemology-naturalized/#Rel)
 
 ---
 

@@ -6,43 +6,7 @@
 
 这个讨论分为八个部分。第一部分涉及一些初步的区分；第二部分涉及从恶的论证中选择演绎版本和证据版本；第三部分涉及从恶的论证的替代证据表述；第四部分涉及对从恶的论证的三种非常不同类型的回应的区分：尝试全面驳斥、辩护和神辩。第五部分然后集中讨论尝试全面驳斥，而第六部分涉及辩护，第七部分涉及一些传统的神辩。然后在第八部分考虑了基于全局属性概念的辩护和神辩的更为温和的变体的可能性。
 
-* [一些重要的区分](https://plato.stanford.edu/entries/evil/#SomImpDis)
 
-  * [1.1 上帝的相关概念](https://plato.stanford.edu/entries/evil/#RelConGod)
-  * [1.2 不相容公式与归纳公式](https://plato.stanford.edu/entries/evil/#IncForVerIndFor)
-  * [1.3 摘要与具体表述](https://plato.stanford.edu/entries/evil/#AbsVerConFor)
-  * [1.4 价值论与义务论的表述](https://plato.stanford.edu/entries/evil/#AxiVerDeoFor)
-* [选择不相容表述和证据表述之间的选择](https://plato.stanford.edu/entries/evil/#ChoBetIncForEviFor)
-* [从恶的论证的归纳版本](https://plato.stanford.edu/entries/evil/#IndVerArgEvi)
-
-  * [ 3.1 Arguments3.1 论证](https://plato.stanford.edu/entries/evil/#Arg)
-  * [3.2 直接归纳版本的恶之证据论](https://plato.stanford.edu/entries/evil/#DirIndVerEviArgEvi)
-  * [3.3 恶的证据论间接归纳版本](https://plato.stanford.edu/entries/evil/#IndIndVerEviArgEvi)
-  * [3.4 从恶的证据论的贝叶斯风格概率版本](https://plato.stanford.edu/entries/evil/#BayStyProVerEviArgEvi)
-  * [3.5 归纳逻辑与恶的证据论](https://plato.stanford.edu/entries/evil/#IndLogEviArgEvi)
-* [对恶的论证的回应：驳斥、神辩和辩护。](https://plato.stanford.edu/entries/evil/#ResArgEviRefDefThe)
-* [尝试总体驳斥](https://plato.stanford.edu/entries/evil/#AttTotRef)
-
-  * [人类认识论限制](https://plato.stanford.edu/entries/evil/#HumEpiLim)
-  * [5.2 The ‘No Best of All Possible Worlds’ Response5.2 “没有最佳可能世界”回应](https://plato.stanford.edu/entries/evil/#NoBesAllPosWorRes)
-  * [5.3 The Appeal to the Ontological Argument5.3 对本体论论证的呼吁](https://plato.stanford.edu/entries/evil/#AppOntArg)
-* [尝试的辩护](https://plato.stanford.edu/entries/evil/#AttDef)
-
-  * [对上帝存在的积极证据的呼吁](https://plato.stanford.edu/entries/evil/#AppPosEviForExiGod)
-  * [6.2 相信上帝的存在是非推理地被证明的](https://plato.stanford.edu/entries/evil/#BelExiGodNonInfJus)
-  * [6.3 Induction Based on Partial Success6.3 基于部分成功的归纳](https://plato.stanford.edu/entries/evil/#IndBasParSuc)
-* [ 恶论](https://plato.stanford.edu/entries/evil/#The)
-
-  * [灵魂塑造神辩论](https://plato.stanford.edu/entries/evil/#SouMakThe)
-  * [ 自由意志](https://plato.stanford.edu/entries/evil/#FreWil)
-  * [自由去做伟大的恶行](https://plato.stanford.edu/entries/evil/#FreDoGreEvi)
-  * [对自然法则的需求](https://plato.stanford.edu/entries/evil/#NeeForNatLaw)
-  * [7.5 宗教神学阐释](https://plato.stanford.edu/entries/evil/#RelThe)
-* [更为谦逊的辩护和神辩变体](https://plato.stanford.edu/entries/evil/#DefTheBasGloPro)
-* [ 参考文献](https://plato.stanford.edu/entries/evil/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/evil/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/evil/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/evil/#Rel)
 
 ---
 

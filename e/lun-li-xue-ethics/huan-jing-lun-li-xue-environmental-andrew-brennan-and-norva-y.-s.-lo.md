@@ -4,22 +4,7 @@ _首次发表于 2002 年 6 月 3 日星期一；实质性修订于 2021 年 12 
 
 环境伦理学是研究人类与环境及其非人类内容的道德关系以及价值和道德地位的哲学学科。本条目涵盖了：(1)环境伦理学对传统西方伦理思维中人类中心主义的挑战；(2)该学科从 1960 年代和 1970 年代开始的发展；(3)深层生态学、女性主义环境伦理学、泛灵论和社会生态学与政治的联系；(4)试图应用传统伦理理论，包括后果主义、义务论和美德伦理，以支持当代环境关切；(5)一些思想家对荒野、建成环境和贫困政治的更广泛关注；以及(6)可持续性伦理和气候变化的伦理学。
 
-* [介绍：环境伦理学的挑战](https://plato.stanford.edu/entries/ethics-environmental/#IntChaEnvEth)
-* [环境伦理学的发展](https://plato.stanford.edu/entries/ethics-environmental/#EarDevEnvEth)
-* [环境伦理学和政治](https://plato.stanford.edu/entries/ethics-environmental/#EnvEthPol)
-  * [3.1 深度生态学](https://plato.stanford.edu/entries/ethics-environmental/#DeeEco)
-  * [3.2 Feminism and the Environment](https://plato.stanford.edu/entries/ethics-environmental/#FemEnv)
-  * [3.3 Disenchantment and the New Animism](https://plato.stanford.edu/entries/ethics-environmental/#DisNewAni)
-  * [3.4 社会生态学和生态区域主义](https://plato.stanford.edu/entries/ethics-environmental/#SocEcoBio)
-* [传统伦理学理论与当代环境伦理学](https://plato.stanford.edu/entries/ethics-environmental/#TraEthTheConEnvEth)
-  * [补充文件：生物多样性保护](https://plato.stanford.edu/entries/ethics-environmental/biodiversity.html)
-* [荒野、建筑环境、贫困和政治](https://plato.stanford.edu/entries/ethics-environmental/#WilBuiEnvPovPol)
-* [可持续性和气候变化](https://plato.stanford.edu/entries/ethics-environmental/#SusCliCha)
-  * [补充文件：环境危机的病理学 - 理论与实证研究](https://plato.stanford.edu/entries/ethics-environmental/theories-research.html)
-* [参考文献](https://plato.stanford.edu/entries/ethics-environmental/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/ethics-environmental/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ethics-environmental/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ethics-environmental/#Rel)
+
 
 ***
 

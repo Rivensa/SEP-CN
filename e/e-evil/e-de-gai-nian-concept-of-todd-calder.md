@@ -15,48 +15,6 @@
 
 这篇文章概述了文献中对这些问题的回答。
 
-* [邪恶怀疑主义与邪恶复兴主义](https://plato.stanford.edu/entries/concept-evil/#EviSkeVerEviRev)
-
-  * [邪恶与超自然](https://plato.stanford.edu/entries/concept-evil/#EviSup)
-  * [1.2 Evil and Explanatory Power1.2 恶与解释力量](https://plato.stanford.edu/entries/concept-evil/#EviExpPow)
-  * [1.3 “邪恶”的危险](https://plato.stanford.edu/entries/concept-evil/#DanEvi)
-
-    * [1.3.1 尼采对恶的攻击](https://plato.stanford.edu/entries/concept-evil/#NieAttEvi)
-  * [1.4 支持“恶”的概念的论点](https://plato.stanford.edu/entries/concept-evil/#ArgFavConEvi)
-* [邪恶理论的历史](https://plato.stanford.edu/entries/concept-evil/#HisTheEvi)
-
-  * [2.1 Dualist and Privation Theories of Evil](https://plato.stanford.edu/entries/concept-evil/#DuaPriTheEvi)
-  * [康德的恶理论](https://plato.stanford.edu/entries/concept-evil/#KanTheEvi)
-  * [2.3 Arendt’s Analyses of Evil](https://plato.stanford.edu/entries/concept-evil/#AreAnaEvi)
-* [当代恶行理论](https://plato.stanford.edu/entries/concept-evil/#ConTheEviAct)
-
-  * [邪恶与不端](https://plato.stanford.edu/entries/concept-evil/#EviWro)
-  * [邪恶与伤害](https://plato.stanford.edu/entries/concept-evil/#EviHar)
-  * [3.3 恶与动机](https://plato.stanford.edu/entries/concept-evil/#EviMot)
-  * [3.4 Evil and Affect](https://plato.stanford.edu/entries/concept-evil/#EviAff)
-  * [3.5 Evil and Relation3.5 恶与关系](https://plato.stanford.edu/entries/concept-evil/#EviRel)
-  * [3.6 恶与责任](https://plato.stanford.edu/entries/concept-evil/#EviRes)
-
-    * [ 3.6.1 精神病患](https://plato.stanford.edu/entries/concept-evil/#Psy)
-    * [ 3.6.2 不良的成长](https://plato.stanford.edu/entries/concept-evil/#BadUpb)
-    * [ 无知](https://plato.stanford.edu/entries/concept-evil/#Ign)
-* [当代恶的特性/人格理论](https://plato.stanford.edu/entries/concept-evil/#ConTheEviCha)
-
-  * [4.1 行动为基础的解释](https://plato.stanford.edu/entries/concept-evil/#ActBasAcc)
-  * [4.2 基于情感的解释](https://plato.stanford.edu/entries/concept-evil/#AffBasAcc)
-  * [4.3 基于动机的解释](https://plato.stanford.edu/entries/concept-evil/#MotBasAcc)
-  * [ 4.4 Regularity Accounts4.4 规律性解释](https://plato.stanford.edu/entries/concept-evil/#RegAcc)
-  * [4.5 Dispositional Accounts4.5 处置解释](https://plato.stanford.edu/entries/concept-evil/#DisAcc)
-  * [4.6 关于邪恶人格的附加论题](https://plato.stanford.edu/entries/concept-evil/#AddThes)
-
-    * [4.6.1 The Fixity Thesis4.6.1 固定性命题](https://plato.stanford.edu/entries/concept-evil/#Fix)
-    * [4.6.2 一致性命题](https://plato.stanford.edu/entries/concept-evil/#Con)
-    * [4.6.3 The Mirror Thesis4.6.3 镜像论](https://plato.stanford.edu/entries/concept-evil/#Mir)
-* [ 邪恶机构](https://plato.stanford.edu/entries/concept-evil/#EviIns)
-* [ 参考文献](https://plato.stanford.edu/entries/concept-evil/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/concept-evil/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/concept-evil/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/concept-evil/#Rel)
 
 ---
 

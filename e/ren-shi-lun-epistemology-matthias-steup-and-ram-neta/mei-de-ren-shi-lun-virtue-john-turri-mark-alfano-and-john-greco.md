@@ -8,30 +8,6 @@
 
 首先，在继续之前，了解一些术语将会很有帮助。首先，我们将“认知”、“认识论”和“智力”视为同义词。其次，我们通常广泛使用“规范的”一词，不仅包括规范和规则，还包括职责和价值观。最后，“从业者”指的是当代美德认识论者。
 
-* [ 介绍](https://plato.stanford.edu/entries/epistemology-virtue/#Intr)
-* [2. 先驱和当代起源](https://plato.stanford.edu/entries/epistemology-virtue/#PrecContOrig)
-* [3. 知识美德的本质](https://plato.stanford.edu/entries/epistemology-virtue/#NatuInteVirt)
-* [4. 传统与替代](https://plato.stanford.edu/entries/epistemology-virtue/#ConvAlte)
-* [ 5. Knowledge5. 知识](https://plato.stanford.edu/entries/epistemology-virtue/#Know)
-* [ 6. 认识论价值](https://plato.stanford.edu/entries/epistemology-virtue/#EpisValu)
-* [ 信誉](https://plato.stanford.edu/entries/epistemology-virtue/#Cred)
-* [ 情境主义](https://plato.stanford.edu/entries/epistemology-virtue/#Cont)
-* [美德认识论](https://plato.stanford.edu/entries/epistemology-virtue/#EpisSitu)
-* [拓展视野](https://plato.stanford.edu/entries/epistemology-virtue/#ExpaHori)
-
-  * [10.1 Intellectual Virtues in Epistemic Communities10.1 美德认识论中的智力美德](https://plato.stanford.edu/entries/epistemology-virtue/#InteVirtEpisComm)
-  * [10.2 特定的美德和恶习](https://plato.stanford.edu/entries/epistemology-virtue/#SpecVirtVice)
-  * [10.3 Statuses Other Than Knowledge除了知识之外的状态](https://plato.stanford.edu/entries/epistemology-virtue/#StatOtheThanKnow)
-  * [ 10.4 Epistemic Emotions10.4 认知情感](https://plato.stanford.edu/entries/epistemology-virtue/#EpisEmot)
-* [ 参考文献](https://plato.stanford.edu/entries/epistemology-virtue/#Bib)
-
-  * [ 参考文献](https://plato.stanford.edu/entries/epistemology-virtue/#WorkCite)
-  * [Collections](https://plato.stanford.edu/entries/epistemology-virtue/#Coll)
-  * [专题期刊](https://plato.stanford.edu/entries/epistemology-virtue/#DediJourIssu)
-  * [ 其他重要作品](https://plato.stanford.edu/entries/epistemology-virtue/#OtheImpoWork)
-* [ 学术工具](https://plato.stanford.edu/entries/epistemology-virtue/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/epistemology-virtue/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/epistemology-virtue/#Rel)
 
 ---
 

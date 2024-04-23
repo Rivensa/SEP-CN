@@ -6,19 +6,6 @@ _首次发表于 2011 年 4 月 4 日星期一；实质性修订于 2022 年 9 �
 
 逻辑经验主义的讨论分为五个方面：
 
-* [1. 运动的映射](https://plato.stanford.edu/entries/logical-empiricism/#MapMov)
-* [背景Logical Empiricism to 逻辑经验主义](https://plato.stanford.edu/entries/logical-empiricism/#Bac)
-* [3. 运动中的一些主要参与者](https://plato.stanford.edu/entries/logical-empiricism/#SomRepPar)
-* [问题](https://plato.stanford.edu/entries/logical-empiricism/#Iss)
-  * [4.1 经验主义、验证主义和反形而上学](https://plato.stanford.edu/entries/logical-empiricism/#EmpVerAntMet)
-  * [4.2 Analyticity](https://plato.stanford.edu/entries/logical-empiricism/#Ana)
-  * [4.3 Unity of Science and Reduction4.3 科学的统一与还原](https://plato.stanford.edu/entries/logical-empiricism/#UniSciRed)
-  * [4.4 Probability4.4 概率](https://plato.stanford.edu/entries/logical-empiricism/#Pro)
-* [影响](https://plato.stanford.edu/entries/logical-empiricism/#Imp)
-* [参考文献](https://plato.stanford.edu/entries/logical-empiricism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/logical-empiricism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logical-empiricism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/logical-empiricism/#Rel)
 
 ***
 

@@ -5,14 +5,6 @@
 
 进化在当代生物学中的含义通常指的是随着时间推移种群中生物类型比例的变化（参见达尔文之前的进化思想和达尔文：从物种起源到人类的衍变的条目，了解更早的含义）。由于进化是一个太大的主题，无法在一个条目中全面讨论，因此本条目的主要目标是提供关于进化当代问题的广泛概述，并链接到其他条目，以便查找更深入的讨论。本条目首先简要概述了进化的定义，然后讨论了不同的进化模式和相关的哲学问题，最后总结了进化哲学中的其他主题，特别关注本百科全书中涵盖的主题。
 
-* [进化的定义](https://plato.stanford.edu/entries/evolution/#DefiEvol)
-* [2. 进化的模式](https://plato.stanford.edu/entries/evolution/#ModeEvol)
-* [进化哲学中的其他主题](https://plato.stanford.edu/entries/evolution/#OtheTopiPhilEvol)
-* [ 参考文献](https://plato.stanford.edu/entries/evolution/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/evolution/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/evolution/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/evolution/#Rel)
-
 ---
 
 ## 进化的定义

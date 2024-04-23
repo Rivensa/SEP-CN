@@ -6,45 +6,6 @@
 
 这篇文章从探讨生物伦理学和道德理论的复杂性开始。接着，我们探讨了应用伦理学的实质是什么。随后，讨论集中在生物伦理学相对短暂历史中的主要方法论运动：其对高级道德理论的吸引力，中级生物伦理学方法的出现，以及将理论工具的作用减少甚至完全不考虑的生物伦理学方法。接下来是女性主义对生物伦理学的方法，然后是对道德理论对临床生物伦理学的重要性的探讨。
 
-* [什么是道德理论？什么是生物伦理学？](https://plato.stanford.edu/entries/theory-bioethics/#WhatMoraTheoWhatBioe)
-
-  * [1.1 道德理论的不同观点](https://plato.stanford.edu/entries/theory-bioethics/#VaryAccoMoraTheo)
-  * [1.2 生物伦理的追求](https://plato.stanford.edu/entries/theory-bioethics/#PursBioe)
-* [应用伦理学的本质是什么？](https://plato.stanford.edu/entries/theory-bioethics/#WhatNatuApplEthi)
-
-  * [2.1 Problems with the “Applied Model” of Applied Ethics应用伦理学的“应用模型”存在的问题](https://plato.stanford.edu/entries/theory-bioethics/#ProbApplModeApplEthi)
-  * [2.2 应用伦理学与理论分歧](https://plato.stanford.edu/entries/theory-bioethics/#ApplEthiDisaTheo)
-  * [2.3 应用伦理学和规则应用](https://plato.stanford.edu/entries/theory-bioethics/#ApplEthiRuleAppl)
-  * [2.4 Toulmin on the Tyranny of Principles2.4 图尔敏对原则的暴政](https://plato.stanford.edu/entries/theory-bioethics/#ToulTyraPrin)
-* [生物伦理学和高尚道德理论](https://plato.stanford.edu/entries/theory-bioethics/#BioeHighMoraTheo)
-
-  * [高理论的吸引力](https://plato.stanford.edu/entries/theory-bioethics/#AttrHighTheo)
-  * [生物伦理理论作为对高尚道德理论的呼吁存在问题](https://plato.stanford.edu/entries/theory-bioethics/#ProbBioeConcAppeHighMoraTheo)
-* [The Move to Mid-Level Theorizing: a Principles-Centered Approach](https://plato.stanford.edu/entries/theory-bioethics/#MoveMidLeveTheoPrinCentAppr)
-
-  * [4.1 从演绎的方式转向反思均衡](https://plato.stanford.edu/entries/theory-bioethics/#MoveAwayDeduReflEqui)
-  * [4.2 The Common Morality4.2 共同道德](https://plato.stanford.edu/entries/theory-bioethics/#CommMora)
-  * [4.3 批评原则中心方法](https://plato.stanford.edu/entries/theory-bioethics/#CritPrinCentAppr)
-* [生物伦理学的其他方法](https://plato.stanford.edu/entries/theory-bioethics/#OtheMethBioe)
-
-  * [5.1 Casuistry](https://plato.stanford.edu/entries/theory-bioethics/#Casu)
-
-    * [5.1.1 倫理學的優勢](https://plato.stanford.edu/entries/theory-bioethics/#AdvaCasu)
-    * [5.1.2 Criticisms of casuistry5.1.2 对情境伦理学的批评](https://plato.stanford.edu/entries/theory-bioethics/#CritCasu)
-  * [5.2 叙事伦理学](https://plato.stanford.edu/entries/theory-bioethics/#NarrEthi)
-
-    * [5.2.1 批评叙事伦理学](https://plato.stanford.edu/entries/theory-bioethics/#CritNarrEthi)
-* [女性主义理论和生物伦理学](https://plato.stanford.edu/entries/theory-bioethics/#FemiTheoBioe)
-* [道德理论与临床生物伦理学](https://plato.stanford.edu/entries/theory-bioethics/#MoraTheoClinBioe)
-
-  * [临床伦理咨询模式](https://plato.stanford.edu/entries/theory-bioethics/#ModeClinEthiCons)
-  * [生物伦理学理论与伦理学理论](https://plato.stanford.edu/entries/theory-bioethics/#ClinEthiMoraTheo)
-* [ 结论](https://plato.stanford.edu/entries/theory-bioethics/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/theory-bioethics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/theory-bioethics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/theory-bioethics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/theory-bioethics/#Rel)
-
 ---
 
 ## 什么是道德理论？什么是生物伦理学？

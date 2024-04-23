@@ -4,33 +4,6 @@
 
 这篇文章涉及社会和政治平等。在其规范用法中，“平等”是一个备受争议的概念。它通常具有积极的内涵，使其具有在政治口号中使用的修辞力量（Westen 1990）。至少自法国大革命以来，平等一直是政治体制的主要理想之一；在这方面，它目前可能是伟大社会理想中最具争议的。关于平等的确切概念、正义与平等的关系（平等原则）、理想平等的物质要求和衡量标准（平等的什么？）、平等的扩展（谁之间的平等？）以及其在综合（自由主义）正义理论中的地位（平等的价值）都存在争议。本文将依次讨论这些问题。
 
-* [定义概念](https://plato.stanford.edu/entries/equality/#DefiConc)
-* [平等和正义原则](https://plato.stanford.edu/entries/equality/#PrinEquaJust)
-
-  * [ 2.1 正式平等](https://plato.stanford.edu/entries/equality/#FormEqua)
-  * [2.2 Proportional Equality2.2 比例平等](https://plato.stanford.edu/entries/equality/#PropEqua)
-  * [ 2.3 道德平等](https://plato.stanford.edu/entries/equality/#MoraEqua)
-  * [2.4 Presumption of Equality2.4 平等的假设](https://plato.stanford.edu/entries/equality/#PresEqua)
-* [分配平等的概念：平等的什么？](https://plato.stanford.edu/entries/equality/#ConcDistEquaEquaWhat)
-
-  * [3.1 简单平等和对一般平等的反对](https://plato.stanford.edu/entries/equality/#SimpEquaObjeEquaGene)
-  * [ 3.2 自由意志主义](https://plato.stanford.edu/entries/equality/#Libe)
-  * [ 3.3 功利主义](https://plato.stanford.edu/entries/equality/#Util)
-  * [3.4 平等的福利](https://plato.stanford.edu/entries/equality/#EquaWelf)
-  * [3.5 资源的平等](https://plato.stanford.edu/entries/equality/#EquaReso)
-  * [3.6 责任与运气平等主义](https://plato.stanford.edu/entries/equality/#RespLuckEgal)
-  * [3.7 平等的福利或优势机会](https://plato.stanford.edu/entries/equality/#EquaOppoForWelfAdva)
-  * [3.8 能力方法论](https://plato.stanford.edu/entries/equality/#CapaAppr)
-* [ 4. 关系平等](https://plato.stanford.edu/entries/equality/#RelaEqua)
-* [5. 平等是指谁之间的平等？](https://plato.stanford.edu/entries/equality/#EquaAmonWhom)
-* [平等的价值：为什么平等？](https://plato.stanford.edu/entries/equality/#ValuEquaWhyEqua)
-
-  * [6.1. 平等主义的种类](https://plato.stanford.edu/entries/equality/#KindEgal)
-  * [6.2 Equality vs. Priority or Sufficiency6.2 平等 与 优先权 或 充分性](https://plato.stanford.edu/entries/equality/#EquaVsPrioSuff)
-* [ 参考文献](https://plato.stanford.edu/entries/equality/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/equality/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/equality/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/equality/#Rel)
 
 ---
 

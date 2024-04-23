@@ -4,24 +4,6 @@
 
 本文讨论了哲学家、神学家和心理学家关于宗教情绪的几个相关问题。它们是否有某种本质？是否有一种情绪类型适合称为“宗教”，还是有许多宗教情绪类型？宗教情绪与“普通”情绪有何不同？“情绪”是否是适合考虑的经历的正确词语？宗教情绪是“认知的”还是“非认知的”，“理性的”还是“非理性的”？它们有何益处？它们是否具有任何认识论意义？本文将重点关注犹太-基督教传统中的情绪。
 
-* [基督教中的情绪历史](https://plato.stanford.edu/entries/emotion-Christian-tradition/#HistEmotChri)
-
-  * [新约中的情绪](https://plato.stanford.edu/entries/emotion-Christian-tradition/#EmotNewTest)
-  * [激情、感情和情绪](https://plato.stanford.edu/entries/emotion-Christian-tradition/#PassAffeEmot)
-* [宗教情绪概念中的本质主义](https://plato.stanford.edu/entries/emotion-Christian-tradition/#EsseConcReliEmot)
-* [一些基督教情绪](https://plato.stanford.edu/entries/emotion-Christian-tradition/#SomeChriEmot)
-
-  * [ 感恩](https://plato.stanford.edu/entries/emotion-Christian-tradition/#Grat)
-  * [ 悔过](https://plato.stanford.edu/entries/emotion-Christian-tradition/#Cont)
-  * [ 3.3 怜悯](https://plato.stanford.edu/entries/emotion-Christian-tradition/#Comp)
-* [宗教情绪是否“认知性”？](https://plato.stanford.edu/entries/emotion-Christian-tradition/#ReliEmotCogn)
-* [宗教情绪的重要性](https://plato.stanford.edu/entries/emotion-Christian-tradition/#ImpoReliEmot)
-* [宗教情绪的标准化工作](https://plato.stanford.edu/entries/emotion-Christian-tradition/#CritWorkReliEmot)
-* [结论 詹姆斯似乎是正确的，声称没有](https://plato.stanford.edu/entries/emotion-Christian-tradition/#ConcJameSeemRighClaiTherNo)
-* [ 参考文献](https://plato.stanford.edu/entries/emotion-Christian-tradition/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/emotion-Christian-tradition/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/emotion-Christian-tradition/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/emotion-Christian-tradition/#Rel)
 
 ---
 

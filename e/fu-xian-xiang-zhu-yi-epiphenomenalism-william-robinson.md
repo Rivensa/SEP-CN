@@ -6,25 +6,7 @@
 
 古代灵魂理论引发了亚里士多德的继承者之间的辩论，这些辩论与一些当代关于心理事件效力的讨论有着明显的相似之处（Caston, 1997）。然而，关于副现象主义的现代讨论可以追溯到 19 世纪的背景，当时假定了对心理事件的二元观点是正确的。我们讨论的第一部分——传统论证——将以反映这种二元前提的风格表达。相比之下，许多当代讨论在假设物质主义唯一性更可取的背景下进行。人们可能认为这种立场会结束对副现象主义的调查的必要性；但正如我们将在物质主义时代的论证中看到的那样，这种假设远非事实。以下是对这两种讨论的简要概述。
 
-* [传统论证 (A) Pro](https://plato.stanford.edu/entries/epiphenomenalism/#TraArgPro)
-* [传统论证 (B) Con (with Epiphenomenalists’ Responses)](https://plato.stanford.edu/entries/epiphenomenalism/#TraArgBConEpiRes)
 
-  * [ 明显的荒谬](https://plato.stanford.edu/entries/epiphenomenalism/#ObvAbs)
-  * [2.2 Natural Selection](https://plato.stanford.edu/entries/epiphenomenalism/#NatSel)
-  * [2.3 Knowledge of Other Minds2.3 知识的其他心灵](https://plato.stanford.edu/entries/epiphenomenalism/#KnoOthMin)
-  * [ 自我愚蠢](https://plato.stanford.edu/entries/epiphenomenalism/#SelStu)
-* [在唯物主义时代的论点](https://plato.stanford.edu/entries/epiphenomenalism/#ArgAgeMat)
-
-  * [3.1 三种困惑途径：外部主义、异常单一论和实现论](https://plato.stanford.edu/entries/epiphenomenalism/#TwoRouPuzAnoMonExt)
-  * [3.2 对排除论证的回应](https://plato.stanford.edu/entries/epiphenomenalism/#WayOut)
-  * [3.3 Mental Properties and Distinctive Causal Powers](https://plato.stanford.edu/entries/epiphenomenalism/#MenProDisCauPow)
-  * [3.4 Epiphenomenalism and Intrinsic Properties3.4 副现象主义与内在属性](https://plato.stanford.edu/entries/epiphenomenalism/#EpiIntPro)
-  * [3.5 Empirical Considerations3.5 实证考虑](https://plato.stanford.edu/entries/epiphenomenalism/#LibUncCerIni)
-* [关于自动机制和术语“副现象主义”的历史注解](https://plato.stanford.edu/entries/epiphenomenalism/#HisNotAutTerEpi)
-* [ 参考文献](https://plato.stanford.edu/entries/epiphenomenalism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/epiphenomenalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/epiphenomenalism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/epiphenomenalism/#Rel)
 
 ---
 

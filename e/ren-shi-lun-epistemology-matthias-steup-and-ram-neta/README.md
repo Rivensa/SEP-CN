@@ -4,48 +4,7 @@
 
 “认识论”一词源自希腊词“episteme”和“logos”。 “Episteme”可译为“知识”、“理解”或“熟悉”，而“logos”可译为“论述”、“论证”或“理由”。正如这些不同的翻译各自捕捉了这些希腊术语的某一方面含义一样，每种翻译也捕捉了认识论本身的不同方面。尽管术语“认识论”只有几个世纪的历史，但认识论领域至少与哲学中的任何领域一样古老。在其悠久历史的不同阶段，认识论的不同方面吸引了人们的注意。柏拉图的认识论试图理解知识是什么，以及知识（不同于单纯的真实观点）对知识者有益。洛克的认识论试图理解人类理解的运作，康德的认识论试图理解人类理解的可能性条件，罗素的认识论试图理解现代科学如何通过对感官经验的呼应来得到合理化。最近形式认识论的许多工作试图理解我们的信心程度如何受到我们的证据的理性约束，而女性主义认识论的许多最新工作试图理解利益如何影响我们的证据，并在更一般的情况下影响我们的理性约束。在所有这些情况下，认识论试图理解一种或另一种认知成功（或相应地，认知失败）。本文概述了认知成功的各种形式，以及最近一些努力理解其中一些形式。
 
-* [认知成功的多样性](https://plato.stanford.edu/entries/epistemology/#VariCognSucc)
 
-  * [1.1 什么样的事物享有认知成功？](https://plato.stanford.edu/entries/epistemology/#WhatKindThinEnjoCognSucc)
-  * [1.2 约束与价值](https://plato.stanford.edu/entries/epistemology/#ConsValu)
-  * [1.3 Substantive and Structural1.3 实质和结构](https://plato.stanford.edu/entries/epistemology/#SubsStru)
-  * [1.4. What Explains What?](https://plato.stanford.edu/entries/epistemology/#WhatExplWhat)
-  * [什么造就了成功？](https://plato.stanford.edu/entries/epistemology/#WhatMakeItSucc)
-  * [1.6 认识论伤害与认识论错误](https://plato.stanford.edu/entries/epistemology/#EpisHarmEpisWron)
-* [什么是知识？](https://plato.stanford.edu/entries/epistemology/#WhatKnow)
-
-  * [ 2.1 Knowing Individuals2.1 认识个体](https://plato.stanford.edu/entries/epistemology/#KnowIndi)
-  * [ 2.2 Knowing How2.2 知识如何](https://plato.stanford.edu/entries/epistemology/#KnowHow)
-  * [ 2.3 Knowing Facts2.3 认识事实](https://plato.stanford.edu/entries/epistemology/#KnowFact)
-* [什么是正当化？](https://plato.stanford.edu/entries/epistemology/#WhatJust)
-
-  * [3.1 Deontological and Non-Deontological Justification3.1 应行为主义和非应行为主义的正当化](https://plato.stanford.edu/entries/epistemology/#DeonNonDeonJust)
-  * [3.2 什么证明了信念？](https://plato.stanford.edu/entries/epistemology/#WhatJustBeli)
-  * [3.3 Internal vs. External3.3 内部 vs. 外部](https://plato.stanford.edu/entries/epistemology/#InteVsExte)
-* [知识和理由的结构](https://plato.stanford.edu/entries/epistemology/#StruKnowJust)
-
-  * [ 4.1 Foundationalism4.1 基础主义](https://plato.stanford.edu/entries/epistemology/#Foun)
-  * [ 4.2 Kohärenzismus4.2 Kohärenzismus](https://plato.stanford.edu/entries/epistemology/#Cohe)
-  * [为什么基础主义？](https://plato.stanford.edu/entries/epistemology/#WhyFoun)
-  * [ 为什么一贯主义？](https://plato.stanford.edu/entries/epistemology/#WhyCohe)
-* [知识和理由的来源](https://plato.stanford.edu/entries/epistemology/#SourKnowJust)
-
-  * [ 感知](https://plato.stanford.edu/entries/epistemology/#Perc)
-  * [ 5.2 Introspection5.2 反省](https://plato.stanford.edu/entries/epistemology/#Intr)
-  * [ 5.3 记忆](https://plato.stanford.edu/entries/epistemology/#Memo)
-  * [ 理由](https://plato.stanford.edu/entries/epistemology/#Reas)
-  * [ 5.5 Testimony5.5 证言](https://plato.stanford.edu/entries/epistemology/#Test)
-* [认知成功的界限](https://plato.stanford.edu/entries/epistemology/#LimiCognSucc)
-
-  * [一般怀疑论和选择性怀疑论](https://plato.stanford.edu/entries/epistemology/#GeneSkepSeleSkep)
-  * [6.2 Responses to the Closure Argument6.2 对封闭论的回应](https://plato.stanford.edu/entries/epistemology/#RespClosArgu)
-  * [6.3 Responses to the Underdetermination Argument6.3 对不确定性论据的回应](https://plato.stanford.edu/entries/epistemology/#RespUndeArgu)
-  * [6.4 对可推翻性论点的回应](https://plato.stanford.edu/entries/epistemology/#RespDefeArgu)
-  * [6.5 对认识可能性论的回应](https://plato.stanford.edu/entries/epistemology/#RespEpisPossArgu)
-* [ 参考文献](https://plato.stanford.edu/entries/epistemology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/epistemology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/epistemology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/epistemology/#Rel)
 
 ---
 

@@ -6,22 +6,7 @@
 
 本文有两个中心目标。首先，它旨在确定自然法德性理论的定义特征。其次，它旨在确定自然法理论家在制定一个精确观点时面临的一些主要理论选择，这些选择受到这些定义特征设定的限制以及每个选择的一些困难。然而，它不会尝试叙述自然法思想的发展历史。（有关自然法思想发展历史直至现代时期初期的非常有帮助的详细历史，请参见 Crowe 1977。有关现代时期自然法思想的非常有帮助的详细历史，请参见 Haakonssen 1996。有关自然法思想整个历史的文章长度回顾，请参见 Haakonssen 1992。）
 
-* [自然法传统理论的关键特征](https://plato.stanford.edu/entries/natural-law-ethics/#KeyFeaNatLawThe)
 
-  * [1.1 自然法传统 and divine providence](https://plato.stanford.edu/entries/natural-law-ethics/#NatLawDivPro)
-  * [1.2 自然法与实践理性](https://plato.stanford.edu/entries/natural-law-ethics/#NatLawPraRat)
-  * [1.3 The substance of the natural law view自然法传统观点的实质](https://plato.stanford.edu/entries/natural-law-ethics/#SubNatLawVie)
-  * [1.4 范式和非范式自然法理论](https://plato.stanford.edu/entries/natural-law-ethics/#ParNonNatLawThe)
-* [自然法理论者的理论选择](https://plato.stanford.edu/entries/natural-law-ethics/#TheOptForNatLawThe)
-
-  * [2.1 Natural goodness](https://plato.stanford.edu/entries/natural-law-ethics/#NatGoo)
-  * [2.2 Knowledge of the basic goods2.2 基本善的认知](https://plato.stanford.edu/entries/natural-law-ethics/#KnoBasGoo)
-  * [2.3 The catalog of basic goods2.3 基本商品目录](https://plato.stanford.edu/entries/natural-law-ethics/#CatBasGoo)
-  * [2.4 从好到对的](https://plato.stanford.edu/entries/natural-law-ethics/#GooRig)
-* [ 参考文献](https://plato.stanford.edu/entries/natural-law-ethics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/natural-law-ethics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/natural-law-ethics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/natural-law-ethics/#Rel)
 
 ---
 

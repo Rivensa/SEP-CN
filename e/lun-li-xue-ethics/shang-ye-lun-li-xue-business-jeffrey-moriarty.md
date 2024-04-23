@@ -9,36 +9,6 @@
 
 这篇文章总结了商业伦理学中的核心问题研究，包括：什么样的东西可以出售？它们如何出售？公司应该以谁的利益为管理目标？谁应该管理它们？公司应该向员工承担什么责任，员工又应该向公司承担什么责任？公司是否应该尝试解决社会问题？它们是否可以干预政治结果？鉴于该领域的广泛性，必然会有一些问题未被讨论。
 
-* [商业伦理的多样性](https://plato.stanford.edu/entries/ethics-business/#VariBusiEthi)
-* [企业道德代理](https://plato.stanford.edu/entries/ethics-business/#CorpMoraAgen)
-* [企业治理的目的和手段](https://plato.stanford.edu/entries/ethics-business/#EndsMeanCorpGove)
-
-  * [3.1 Ends: 股东至上还是利益相关者平衡？](https://plato.stanford.edu/entries/ethics-business/#EndsSharPrimStakBala)
-  * [3.2 Means: control by shareholders or others too?](https://plato.stanford.edu/entries/ethics-business/#MeanContSharOtheToo)
-* [重要的商业伦理学框架](https://plato.stanford.edu/entries/ethics-business/#ImpoFramForBusiEthi)
-* [企业和消费者](https://plato.stanford.edu/entries/ethics-business/#FirmCons)
-
-  * [市场的界限](https://plato.stanford.edu/entries/ethics-business/#LimiMark)
-  * [5.2 产品安全与责任](https://plato.stanford.edu/entries/ethics-business/#ProdSafeLiab)
-  * [5.3 Advertising](https://plato.stanford.edu/entries/ethics-business/#Adve)
-  * [ 5.4 销售](https://plato.stanford.edu/entries/ethics-business/#Sale)
-  * [ 5.5 定价](https://plato.stanford.edu/entries/ethics-business/#Pric)
-* [公司和工人](https://plato.stanford.edu/entries/ethics-business/#FirmWork)
-
-  * [雇佣和解雇](https://plato.stanford.edu/entries/ethics-business/#HiriFiri)
-  * [ 6.2 补偿](https://plato.stanford.edu/entries/ethics-business/#Comp)
-  * [ 6.3 有意义的工作](https://plato.stanford.edu/entries/ethics-business/#MeanWork)
-  * [ 6.4 吹哨者](https://plato.stanford.edu/entries/ethics-business/#Whis)
-* [伦理学中的公司](https://plato.stanford.edu/entries/ethics-business/#FirmSoci)
-
-  * [伦理学 to 伦理学 .](https://plato.stanford.edu/entries/ethics-business/#CorpSociResp)
-  * [7.2 企业政治活动](https://plato.stanford.edu/entries/ethics-business/#CorpPoliActi)
-  * [7.3 International business7.3 国际商务](https://plato.stanford.edu/entries/ethics-business/#InteBusi)
-* [商业伦理的地位](https://plato.stanford.edu/entries/ethics-business/#StatBusiEthi)
-* [ 参考文献](https://plato.stanford.edu/entries/ethics-business/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ethics-business/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ethics-business/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/ethics-business/#Rel)
 
 ---
 

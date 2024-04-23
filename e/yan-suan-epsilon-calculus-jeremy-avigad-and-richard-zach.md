@@ -4,18 +4,6 @@ _首次发表于 2002 年 5 月 3 日星期五；实质性修订于 2019 年 5 �
 
 ε演算是由 David Hilbert 在数学基础研究中开发的逻辑形式主义。ε运算符是一个术语形成运算符，它取代了普通谓词逻辑中的量词。具体来说，在演算中，术语εxA 表示满足 A(x)的某个 x，如果存在的话。在 Hilbert 的计划中，ε术语扮演着理想元素的角色；Hilbert 的有限一致性证明的目的是提供一种从形式证明中去除这些术语的过程。这一过程的实施基于 Hilbert 的ε替换方法。然而，ε演算在其他情境中也有应用。ε演算的第一个普遍应用是在 Hilbert 的ε定理中，这进而为 Herbrand 定理的第一个正确证明提供了基础。最近，ε运算符的变体已被应用于语言学和语言哲学中，以处理指代代词。
 
-* [概览](https://plato.stanford.edu/entries/epsilon-calculus/#Over)
-* [2. The Epsilon Calculus2. Epsilon 演算](https://plato.stanford.edu/entries/epsilon-calculus/#EpsiCalc)
-* [3. Epsilon 定理](https://plato.stanford.edu/entries/epsilon-calculus/#EpsiTheo)
-* [4. Herbrand’s Theorem4. 赫布兰定理](https://plato.stanford.edu/entries/epsilon-calculus/#HerbTheo)
-* [5. The Epsilon Substitution Method and Arithmetic5. ε替换法和算术](https://plato.stanford.edu/entries/epsilon-calculus/#EpsiSubsMethArit)
-* [更近期的发展](https://plato.stanford.edu/entries/epsilon-calculus/#ReceDeve)
-* [7. 语言学、哲学和非经典逻辑中的 Epsilon 运算符](https://plato.stanford.edu/entries/epsilon-calculus/#EpsiOperLingPhilNonClasLogi)
-* [参考文献](https://plato.stanford.edu/entries/epsilon-calculus/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/epsilon-calculus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/epsilon-calculus/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/epsilon-calculus/#Rel)
-
 ***
 
 ## 概览

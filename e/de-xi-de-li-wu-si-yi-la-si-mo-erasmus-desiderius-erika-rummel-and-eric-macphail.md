@@ -4,21 +4,7 @@ _首次发表于 2017 年 9 月 27 日星期三；实质性修订于 2021 年 10
 
 德西德里乌斯·伊拉斯谟（1467?–1536）虽然不是系统的哲学家，但我们在他的大量著作中可以看出某种伊拉斯谟式的思维习惯。他经常反思邀请哲学探讨的主题：自然与培养的影响，言语与事物之间的关系，政府的理想形式，信仰的本质以及知识论。即使他的观点不够系统化，但今天的历史学家对伊拉斯谟在这些主题上的观点仍然感兴趣，因为他的作品广泛流传，他在北欧的影响力深远。用现代术语来说，他是一个舆论领袖。如果需要一个通用标签，伊拉斯谟的思想最好被描述为“基督教人文主义”，即一种将基督教思想与古典传统相结合的生活哲学。他接受了人文主义对个体自我提升能力和教育在提升人类超越禽兽水平中的基本作用的信念。伊拉斯谟教育计划的核心是推广 docta pietas，即学术虔诚，或者他所称的“基督哲学”。作为一名圣经学者，他支持人文主义的 Ad fontes 呼声，即回到原始语言的文本，因此推动了对希伯来语、希腊语和拉丁语等圣经语言的研究。他处于现代语言学的前沿。他开创性地编辑了希腊语新约圣经，表明他对文本传承过程有一定了解，并制定了文本批判原则。在政治方面，伊拉斯谟主张共识、妥协和和平合作，这些理想他推荐给宗教改革辩论的参与者，尽管并不成功。他被他的同时代人视为宗教改革的先驱，但他因马丁·路德的教派主义而与之决裂。更根本地，这两位人在启发法和自由意志问题上存在分歧，并就此展开了一场论战。伊拉斯谟对路德的主张持怀疑态度。与改革者不同，他不相信圣经的明晰性，并将共识和传统作为解决那些无法得出理性结论的问题的标准。然而，伊拉斯谟很少涉足教义问题，更倾向于简单的信仰和虔诚，而非辩证法和学术推测。当天主教会将他的作品列入禁书目录时，伊拉斯谟的作品流传一度受到限制，但在启蒙运动期间，他被视为理性主义的先驱，他的思想得到了复兴。他最著名的作品《愚人颂》至今仍在印刷，这与 16 世纪的少数几本书之一。
 
-* [生活与作品](https://plato.stanford.edu/entries/erasmus/#LifeWork)
-* [方法论](https://plato.stanford.edu/entries/erasmus/#Meth)
-* [教育哲学](https://plato.stanford.edu/entries/erasmus/#EducPhil)
-*
-  4. 语言和文学
-* [政治思想](https://plato.stanford.edu/entries/erasmus/#PoliThou)
-* [6. ](https://plato.stanford.edu/entries/erasmus/#PietPhilChri)​\*[Pietas](https://plato.stanford.edu/entries/erasmus/#PietPhilChri)_​_[ _and_ ](https://plato.stanford.edu/entries/erasmus/#PietPhilChri)_​_[Philosophia Christi](https://plato.stanford.edu/entries/erasmus/#PietPhilChri)\*
-* [参考文献](https://plato.stanford.edu/entries/erasmus/#Bib)
-  * [德西德里乌斯·伊拉斯谟的著作](https://plato.stanford.edu/entries/erasmus/#ErasWork)
-  * [其他主要作品](https://plato.stanford.edu/entries/erasmus/#OthePrimWork)
-  * [传记](https://plato.stanford.edu/entries/erasmus/#Biog)
-  * [次要作品](https://plato.stanford.edu/entries/erasmus/#SecoWork)
-* [学术工具](https://plato.stanford.edu/entries/erasmus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/erasmus/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/erasmus/#Rel)
+
 
 ***
 

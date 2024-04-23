@@ -7,24 +7,6 @@
 
 机会平等的概念尽管为人熟知且表面上颇受欢迎，但却一直备受争议且难以捉摸。正因为“机会平等”一词被用来指代各种不同的观念，一些人曾诱惑质疑是否存在一个一贯的核心概念（Westen 1985），或者呼吁彻底放弃这一概念（Radcliffe Richards 1997）。因此，大量关于“机会平等”概念的哲学工作明确反映了对这一概念的思考，其中包括对隐藏在这一概念下的各种不同观念进行解析和区分（例如，Arneson 2018；Green 1989；Riva 2015）。如果说“机会平等”的各种概念之间存在一个广泛的统一主题，那就是合理的等级制度或不平等的概念，将某些因素归类为不适当的人们成功的决定因素。机会平等备受争议，部分原因是人们对哪些因素是否合格作为人们在相关意义上成功的障碍存在分歧。根据被认为是相关机会上的障碍的因素范围，不同的“机会平等”概念可以大致按照从形式到实质的顺序进行排序。
 
-* [机会平等——约束还是事实](https://plato.stanford.edu/entries/equal-opportunity/#EquaOppoStatAffa)
-* [2. 机会平等的概念](https://plato.stanford.edu/entries/equal-opportunity/#ConcEquaOppo)
-* [3. 机会平等](https://plato.stanford.edu/entries/equal-opportunity/#FormEquaOppo)
-* [4. 机会平等的精英主义](https://plato.stanford.edu/entries/equal-opportunity/#MeriEquaOppo)
-* [5. 机会平等](https://plato.stanford.edu/entries/equal-opportunity/#SubsEquaOppo)
-* [公平的机会平等](https://plato.stanford.edu/entries/equal-opportunity/#FairEquaOppo)
-* [机会平等与家庭](https://plato.stanford.edu/entries/equal-opportunity/#EquaOppoFami)
-* [Radical/Luck Egalitarian Equality of Opportunity机会平等](https://plato.stanford.edu/entries/equal-opportunity/#RadiEgalEquaOppo)
-* [机会平等的实践](https://plato.stanford.edu/entries/equal-opportunity/#EquaOppoPrac)
-* [机会平等的范围](https://plato.stanford.edu/entries/equal-opportunity/#ScopEquaOppo)
-
-  * [机会平等的范围](https://plato.stanford.edu/entries/equal-opportunity/#GoodScopEquaOppo)
-  * [10.2 机会平等的人员范围](https://plato.stanford.edu/entries/equal-opportunity/#PersScopEquaOppo)
-* [ 结束语](https://plato.stanford.edu/entries/equal-opportunity/#ConcRema)
-* [ 参考文献](https://plato.stanford.edu/entries/equal-opportunity/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/equal-opportunity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/equal-opportunity/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/equal-opportunity/#Rel)
 
 ---
 

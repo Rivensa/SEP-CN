@@ -6,22 +6,6 @@
 
 除了在情感哲学讨论中的核心地位外，嫉妒还在政治哲学中引发了争议。其中最著名的或许是声称公正的平等观是由嫉妒所驱使的这一说法。约翰·罗尔斯（John Rawls）也对此进行了充分的探讨，他极力辩称嫉妒并不对他的正义理论构成威胁。以下将对每个主题进行一些探讨。
 
-* [嫉妒的本质](https://plato.stanford.edu/entries/envy/#1)
-
-  * [ 1.1 定义嫉妒](https://plato.stanford.edu/entries/envy/#1.1)
-  * [1.2 嫉妒 vs. 妒忌](https://plato.stanford.edu/entries/envy/#1.2)
-  * [1.3 ‘Benign’ and ‘Invidious’ Envy1.3 ‘良性’和‘恶意’的嫉妒](https://plato.stanford.edu/entries/envy/#1.3)
-  * [1.4 嫉妒 vs. 恨](https://plato.stanford.edu/entries/envy/#1.4)
-* [嫉妒的理性](https://plato.stanford.edu/entries/envy/#2)
-* [嫉妒与正义](https://plato.stanford.edu/entries/envy/#3)
-
-  * [3.1 平等主义与嫉妒](https://plato.stanford.edu/entries/envy/#3.1)
-  * [3.2 无嫉妒分配](https://plato.stanford.edu/entries/envy/#3.2)
-  * [3.3 Rawls’ Problem of Envy3.3 Rawls 的嫉妒问题](https://plato.stanford.edu/entries/envy/#3.3)
-* [ 参考文献](https://plato.stanford.edu/entries/envy/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/envy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/envy/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/envy/#Rel)
 
 ---
 

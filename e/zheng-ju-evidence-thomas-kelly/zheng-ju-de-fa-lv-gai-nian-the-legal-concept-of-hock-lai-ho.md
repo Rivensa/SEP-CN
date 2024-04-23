@@ -8,26 +8,6 @@ _首次发表于 2015 年 11 月 13 日星期五；实质性修订于 2021 年 1
 
 虽然法律和其他背景下的证据推理可能具有某些共同特征，但仍然存在一些法律证据和证明方法的特点（Rescher and Joynt 1959）。第 1 节（“证据概念”）确定了法律话语中证据的不同含义。律师们谈论证据时，他们指的是什么？他们心中所想的是什么？第 2 节（“接受证据的条件”）从法律证据的概念角度探讨了法律中什么算作证据。法律规定了什么条件必须满足才能被法庭接受为证据？第 3 节（“证据的力量”）将注意力转向证据已经被法庭接受的阶段。这里的重点是法庭如何权衡证据以作出裁决。在这方面，将讨论证据的三个属性：证明价值、充分性和完整程度。
 
-* [证据的概念：在法律中，证据指的是什么？](https://plato.stanford.edu/entries/evidence-legal/#ConEviWhaDoeEviRefLaw)
-* [收到证据的条件：法律中的证据是什么？](https://plato.stanford.edu/entries/evidence-legal/#ConForRecEviWhaCouEviLaw)
-  * [2.1 关联](https://plato.stanford.edu/entries/evidence-legal/#RelA)
-    * [2.1.1 Relevance 的法律意义](https://plato.stanford.edu/entries/evidence-legal/#LegSigRel)
-    * [2.1.2 Conceptions of Logical Relevance2.1.2 逻辑相关性的概念](https://plato.stanford.edu/entries/evidence-legal/#ConLogRel)
-    * [2.1.3 Logical Relevance versus Legal Relevance2.1.3 逻辑相关性与法律相关性](https://plato.stanford.edu/entries/evidence-legal/#LogRelVerLegRel)
-  * [2.2 实质性和事实问题](https://plato.stanford.edu/entries/evidence-legal/#MatFacIss)
-  * [2.3 Admissibility2.3 可采纳性](https://plato.stanford.edu/entries/evidence-legal/#Adm)
-    * [2.3.1 Admissibility and Relevance2.3.1 可采纳性和相关性](https://plato.stanford.edu/entries/evidence-legal/#AdmRel)
-    * [2.3.2 Admissibility or Exclusionary Rules2.3.2 证据的可接受性或排除性规则](https://plato.stanford.edu/entries/evidence-legal/#AdmExcRul)
-* [证据的强度](https://plato.stanford.edu/entries/evidence-legal/#StrEviProWei)
-  * [3.1 证据的特定项目的证明价值](https://plato.stanford.edu/entries/evidence-legal/#ProValSpeIteEvi)
-  * [证据的充分性和证明标准](https://plato.stanford.edu/entries/evidence-legal/#SufEviStaPro)
-    * [3.2.1 Mathematical Probability and the Standards of Proof3.2.1 数学概率与证据标准](https://plato.stanford.edu/entries/evidence-legal/#MatProStaPro)
-    * [3.2.2 Objections to Using Mathematical Probability to Interpret Standards of Proof](https://plato.stanford.edu/entries/evidence-legal/#ObjUsiMatProIntStaPro)
-  * [证据的重要性作为证据完整性的程度](https://plato.stanford.edu/entries/evidence-legal/#WeiEviDegEviCom)
-* [参考文献](https://plato.stanford.edu/entries/evidence-legal/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/evidence-legal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/evidence-legal/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/evidence-legal/#Rel)
 
 ***
 

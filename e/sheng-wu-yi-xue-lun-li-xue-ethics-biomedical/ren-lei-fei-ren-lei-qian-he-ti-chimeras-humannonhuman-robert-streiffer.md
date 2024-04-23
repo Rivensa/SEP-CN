@@ -4,20 +4,6 @@
 
 人类/非人类嵌合体是由具有不同胚胎起源的细胞组成的个体。1998 年成功分离出五株人类胚胎干细胞（hESC）系增强了科学家创造人类/非人类嵌合体的能力，并引发了广泛的生物伦理学讨论，导致了所谓的“其他干细胞辩论”（Shreeve 2005）。关于嵌合体的辩论集中在五个主要论点上。不自然性论探讨了违反自然物种界限的伦理学。道德混乱论声称，存在无法明确定性地归类为人类或非人类的实体将导致道德混乱，从而破坏有价值的社会和文化实践。边缘人格论侧重于大猩猩，并得出结论称，它们的边缘人格赋予了足够高的道德地位，使得对它们进行的大部分，如果不是全部的嵌合体研究都是不允许的。人类尊严论声称，给予一个“被困”在非人类动物身体中的个体与人类尊严相关的能力是对人类尊严的侮辱。最后，道德地位框架认为，除非有合理的保证确保其新的道德地位将受到尊重，否则将不允许将非人类动物的道德地位提升到正常成年人的水平的研究，考虑到嵌合体研究的动机和可能提供的监督，这是不太可能的。这些论点为评估嵌合体研究提供了不同的基础，因此在伦理上的影响以及嵌合体研究在公共政策中应如何处理方面存在差异。
 
-* [ 导言](https://plato.stanford.edu/entries/chimeras/#Int)
-* [2. The Unnaturalness Argument](https://plato.stanford.edu/entries/chimeras/#UnnArg)
-* [道德混乱论](https://plato.stanford.edu/entries/chimeras/#MorConArg)
-* [边缘人格论证](https://plato.stanford.edu/entries/chimeras/#BorPerArg)
-* [人类尊严论](https://plato.stanford.edu/entries/chimeras/#HumDigArg)
-* [道德地位框架](https://plato.stanford.edu/entries/chimeras/#MorStaFra)
-* [ 结论](https://plato.stanford.edu/entries/chimeras/#Con)
-* [ 参考文献](https://plato.stanford.edu/entries/chimeras/#Bib)
-
-  * [ 参考文献](https://plato.stanford.edu/entries/chimeras/#RefCit)
-  * [ 其他参考](https://plato.stanford.edu/entries/chimeras/#OthRef)
-* [ 学术工具](https://plato.stanford.edu/entries/chimeras/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/chimeras/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/chimeras/#Rel)
 
 ---
 

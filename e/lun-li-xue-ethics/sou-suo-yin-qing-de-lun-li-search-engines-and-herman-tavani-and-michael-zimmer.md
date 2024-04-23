@@ -15,30 +15,6 @@
 
 鉴于全球超过 50%的人口使用互联网，而且全球 97%的人口现在生活在移动蜂窝信号覆盖范围内，93%的人口在 3G（或更高）网络覆盖范围内（国际电信联盟，2019 年），在这个高度中介环境中继续探讨与研究相关的伦理问题至关重要。
 
-* [ 定义Philosophy is the study of general and fundamental questions about existence, knowledge, values, reason, mind, and language.](https://plato.stanford.edu/entries/ethics-internet-research/#Defi)
-* [人类研究](https://plato.stanford.edu/entries/ethics-internet-research/#HumaSubjRese)
-* [IRE 学科的历史与发展](https://plato.stanford.edu/entries/ethics-internet-research/#HistDeveIREDisc)
-* [互联网研究中的关键伦理问题](https://plato.stanford.edu/entries/ethics-internet-research/#KeyEthiIssuInteRese)
-
-  * [ 隐私](https://plato.stanford.edu/entries/ethics-internet-research/#Priv)
-  * [ 4.2 招聘](https://plato.stanford.edu/entries/ethics-internet-research/#Recr)
-  * [知情同意](https://plato.stanford.edu/entries/ethics-internet-research/#InfoCons)
-
-    * [4.3.1 未成年人和同意](https://plato.stanford.edu/entries/ethics-internet-research/#MinoCons)
-  * [4.4 云计算与研究伦理](https://plato.stanford.edu/entries/ethics-internet-research/#ClouCompReseEthi)
-  * [4.5 大数据考虑](https://plato.stanford.edu/entries/ethics-internet-research/#BigDataCons)
-  * [4.6 互联网研究与行业伦理](https://plato.stanford.edu/entries/ethics-internet-research/#InteReseInduEthi)
-* [研究伦理委员会指南](https://plato.stanford.edu/entries/ethics-internet-research/#ReseEthiBoarGuid)
-* [ 参考文献](https://plato.stanford.edu/entries/ethics-internet-research/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/ethics-internet-research/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ethics-internet-research/#Oth)
-
-  * [ 引用于条目](https://plato.stanford.edu/entries/ethics-internet-research/#CiteEntr)
-  * [法律和政府文件](https://plato.stanford.edu/entries/ethics-internet-research/#LawsGoveDocu)
-  * [ 专业标准](https://plato.stanford.edu/entries/ethics-internet-research/#ProfStan)
-  * [期刊、论坛和博客](https://plato.stanford.edu/entries/ethics-internet-research/#JourForuBlog)
-  * [ 其他资源](https://plato.stanford.edu/entries/ethics-internet-research/#OtheReso)
-* [ 相关条目](https://plato.stanford.edu/entries/ethics-internet-research/#Rel)
 
 ---
 

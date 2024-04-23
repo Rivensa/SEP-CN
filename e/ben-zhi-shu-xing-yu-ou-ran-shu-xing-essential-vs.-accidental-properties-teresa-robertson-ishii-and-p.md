@@ -10,17 +10,6 @@
 
 本质主义通常可被描述为（至少一些）对象具有（至少一些）本质属性的信条。这种描述并不被普遍接受（见§3），但也没有普遍被接受的描述；至少这个描述具有简单和直接的优点。至于具体的本质主义主张，我们已经遇到了一个——即作为人类属性对苏格拉底是本质的主张。另一个例子是声称苏格拉底的生物起源——苏格拉底的父母，或更具体地说，苏格拉底产生的精子和卵子——对苏格拉底是本质的主张。第一个例子是一种种类本质主义，而第二个例子是一种起源本质主义。这两种本质主义在哲学文献中都占据重要地位。
 
-* [本质属性与偶然属性的模态刻画](https://plato.stanford.edu/entries/essential-accidental/#ModaCharEssePropDist)
-* [2. 本质属性与偶然属性的其他表征方式](https://plato.stanford.edu/entries/essential-accidental/#OtheWaysCharEssePropDist)
-* [本质主义的四种表征方式](https://plato.stanford.edu/entries/essential-accidental/#FourWaysCharEsse)
-* [4. 一些本质主义的种类](https://plato.stanford.edu/entries/essential-accidental/#SomeVariEsse)
-* [对本质主义的怀疑](https://plato.stanford.edu/entries/essential-accidental/#SuspAbouEsse)
-* [本质主义主张的认识论](https://plato.stanford.edu/entries/essential-accidental/#EpisEsseClai)
-* [在非同一性论证中的本质主义主张](https://plato.stanford.edu/entries/essential-accidental/#EsseClaiArguForNoni)
-* [ 参考文献](https://plato.stanford.edu/entries/essential-accidental/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/essential-accidental/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/essential-accidental/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/essential-accidental/#Rel)
 
 ---
 

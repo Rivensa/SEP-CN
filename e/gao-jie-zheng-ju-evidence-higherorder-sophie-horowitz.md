@@ -21,32 +21,7 @@ Aisha 的“一阶”证据是她直接影响她对 G 的信念的证据：即�
 
 高阶证据的一些快速注释。遵循大多数文献，这里使用术语“higher-order evidence”，尽管更准确的说法应该是高阶证据效应或高阶证据影响（因为一条证据可能与一个人对许多不同主题的信念有关，以多种不同方式）。与大多数文献一样，重点是高阶击败，而不是高阶确认，尽管这些可能性是相辅相成的。本文讨论的一些问题在认识论自我怀疑条目中有更详细的讨论。最后，尽管高阶证据的辩论根源于关于分歧的文献，但本条目侧重于上述引入的更简单的单人案例，并大多省略了分歧。
 
-* [高阶证据有何独特之处？](https://plato.stanford.edu/entries/higher-order-evidence/#WhatDistAbouHighOrdeEvid)
-* [拒绝高阶证据的重要性](https://plato.stanford.edu/entries/higher-order-evidence/#DenyImpoHighOrdeEvid)
 
-  * [2.1 Structural problems for higher-order evidence高阶证据的结构问题](https://plato.stanford.edu/entries/higher-order-evidence/#StruProbForHighOrdeEvid)
-  * [2.2 Higher-order defeat and self-undermining2.2 高阶证据与自我削弱](https://plato.stanford.edu/entries/higher-order-evidence/#HighOrdeDefeSelfUnde)
-  * [拒绝高阶证据的重要性的后果](https://plato.stanford.edu/entries/higher-order-evidence/#ConsDenyImpoHighOrdeEvid)
-* [高阶证据的容纳](https://plato.stanford.edu/entries/higher-order-evidence/#AccoImpoHighOrdeEvid)
-
-  * [3.1 独立原则](https://plato.stanford.edu/entries/higher-order-evidence/#IndePrin)
-  * [3.2 Level-bridging principles3.2 水平桥接原则](https://plato.stanford.edu/entries/higher-order-evidence/#LeveBridPrin)
-
-    * [3.2.1 Rationality-focused principles3.2.1 理性为中心的原则](https://plato.stanford.edu/entries/higher-order-evidence/#RatiFocuPrin)
-    * [3.2.2 可靠性为中心的原则](https://plato.stanford.edu/entries/higher-order-evidence/#ReliFocuPrin)
-* [困境和双规范观。](https://plato.stanford.edu/entries/higher-order-evidence/#DileTwoNormView)
-
-  * [ 4.1 Dilemmas4.1 困境](https://plato.stanford.edu/entries/higher-order-evidence/#Dile)
-  * [4.2 理想与非理想评估模式](https://plato.stanford.edu/entries/higher-order-evidence/#IdeaVsNonIdeaModeEval)
-  * [4.3 Best plans to follow vs. best plans to make4.3 最佳跟随计划 vs. 最佳制定计划](https://plato.stanford.edu/entries/higher-order-evidence/#BestPlanFollVsBestPlanMake)
-  * [4.4 Reasons vs. rationality4.4 理由与理性](https://plato.stanford.edu/entries/higher-order-evidence/#ReasVsRati)
-  * [4.5 证据 vs. 天赋](https://plato.stanford.edu/entries/higher-order-evidence/#EvidVsDisp)
-  * [4.5 Propositional justification vs. doxastic justification4.5 命题理由与信念理由](https://plato.stanford.edu/entries/higher-order-evidence/#PropJustVsDoxaJust)
-* [ 5. 结论](https://plato.stanford.edu/entries/higher-order-evidence/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/higher-order-evidence/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/higher-order-evidence/#Aca)
-* [其他互联网资源Assistant&apos;s note: The translation of the text &quot;Other Internet Resources&quot; to Simplified Chinese is &quot;其他互联网资源&quot;](https://plato.stanford.edu/entries/higher-order-evidence/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/higher-order-evidence/#Rel)
 
 ---
 

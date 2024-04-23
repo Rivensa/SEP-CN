@@ -6,30 +6,7 @@ _首次发表于 2017 年 9 月 27 日星期三；实质性修订于 2023 年 6 
 
 为什么要研究这些古代和中世纪的思想家？对于那些相信“除非通过历史，否则无法正确理解任何概念”的人来说（Comte 1934: 2），答案似乎是显而易见的。但即使是那些更倾向于直接从事哲学分析的人，也可能会发现这些思想家具有启发性。经验主义者一直难以解释日常生活和科学知识的关键方面。他们发现很难解释我们如何了解逻辑和数学真理、因果关系，以及（更一般地）世界的模态结构（事物如何可能）。由于我们仍然面临这些问题，我们可能能够从我们的前辈给出的答案中学到一些东西。
 
-* [介绍](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#Intr)
-* [经验主义的种类](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#VariEmpi)
-  * [2.1 Explanatory Empiricism](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#ExplEmpi)
-  * [2.2 Genetic Empiricism2.2 遗传经验主义](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#GeneEmpi)
-  * [2.3 Justificatory Empiricism](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#JustEmpi)
-* [古代经验主义](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#AnciEmpi)
-  * [3.1 The Emergence of an Empiricist Attitude](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#EmerEmpiAtti)
-  * [3.2 亚里士多德的经验主义](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#ArisEmpi)
-  * [3.3 Hellenistic Philosophy3.3 希腊哲学](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#HellPhil)
-    * [3.3.1 Medical Writers3.3.1 医学作家](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#MediWrit)
-    * [3.3.2 Epicureans](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#Epic)
-    * [3.3.3 Stoics](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#Stoi)
-    * [3.3.4 怀疑论](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#Scep)
-* [中世纪经验主义](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#MediEmpi)
-  * [4.1 中世纪经验主义的种类](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#VariMediEmpi)
-  * [4.2 The Eclipse of Divine Illumination4.2 神圣启示的日食](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#EcliDiviIllu)
-  * [4.3 A Cognitive Empiricism4.3 认知经验主义](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#CognEmpi)
-* [5. 结论](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#Bib)
-  * [主要来源](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#PrimSour)
-  * [次级来源](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/empiricism-ancient-medieval/#Rel)
+
 
 ***
 

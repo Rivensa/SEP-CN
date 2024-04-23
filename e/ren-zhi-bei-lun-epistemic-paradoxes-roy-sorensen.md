@@ -6,29 +6,7 @@
 
 这样的修正对认识论者来说是很有趣的。历史学家将认识论的起源追溯到怀疑论者的出现。正如在柏拉图的对话中展现的那样，关于认知的悖论已经被讨论了两千五百年。鉴于它们的持久性，这些关于知识的谜团中的一些很可能会被讨论下两千五百年。
 
-* [意外考试悖论](https://plato.stanford.edu/entries/epistemic-paradoxes/#SurTesPar)
 
-  * [1.1 自我毁灭的预言和实用主义悖论](https://plato.stanford.edu/entries/epistemic-paradoxes/#SelDefProPraPar)
-  * [1.2 预测性决定论](https://plato.stanford.edu/entries/epistemic-paradoxes/#PreDet)
-  * [1.3 预知问题](https://plato.stanford.edu/entries/epistemic-paradoxes/#ProFor)
-* [ 知识自杀](https://plato.stanford.edu/entries/epistemic-paradoxes/#IntSui)
-* [抽签和抽签悖论](https://plato.stanford.edu/entries/epistemic-paradoxes/#LotLotPar)
-* [ 4. 前言悖论](https://plato.stanford.edu/entries/epistemic-paradoxes/#PrePar)
-* [ 反专家主义](https://plato.stanford.edu/entries/epistemic-paradoxes/#AntExp)
-
-  * [知者悖论](https://plato.stanford.edu/entries/epistemic-paradoxes/#KnoPar)
-  * [5.2 The “Knowability Paradox”](https://plato.stanford.edu/entries/epistemic-paradoxes/#KnowPar)
-  * [ 5.3 Moore’s problem5.3 摩尔问题](https://plato.stanford.edu/entries/epistemic-paradoxes/#MooPro)
-  * [ 盲点](https://plato.stanford.edu/entries/epistemic-paradoxes/#Bli)
-* [动态认知悖论](https://plato.stanford.edu/entries/epistemic-paradoxes/#DynEpiPar)
-
-  * [6.1 Meno’s Paradox of Inquiry: A puzzle about gaining knowledge6.1 门诺的探究悖论：关于获取知识的难题](https://plato.stanford.edu/entries/epistemic-paradoxes/#MenParInqPuzAboGaiKno)
-  * [6.2 Dogmatism paradox: A puzzle about losing knowledge6.2 独断论悖论：关于失去知识的难题](https://plato.stanford.edu/entries/epistemic-paradoxes/#DogParPuzAboLosKno)
-  * [认知悖论的未来](https://plato.stanford.edu/entries/epistemic-paradoxes/#FutEpiPar)
-* [ 参考文献](https://plato.stanford.edu/entries/epistemic-paradoxes/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/epistemic-paradoxes/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/epistemic-paradoxes/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/epistemic-paradoxes/#Rel)
 
 ---
 

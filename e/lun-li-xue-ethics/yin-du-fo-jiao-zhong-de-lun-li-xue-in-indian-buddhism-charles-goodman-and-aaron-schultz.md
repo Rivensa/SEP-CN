@@ -6,18 +6,7 @@ _首次发表于 2010 年 6 月 22 日星期二；实质性修订于 2024 年 2 
 
 佛教坚守崇高而严格的伦理价值观，但也认识到需要将这些价值观适应现实世界的条件。从佛教的角度来看，动物生命是宝贵的，而人类生命更是如此。理想情况下，我们应该避免杀害动物，采用素食饮食，摒弃一切形式的暴力，与自然和谐共处。然而，在一些困难情况下，暴力和杀戮似乎几乎是不可避免的。一些佛教作家提供了如何在这种情况下适当和现实地行动的指导，而不放弃构成佛教伦理基础的慈悲和慈爱。
 
-* [佛教伦理学的基本教义](https://plato.stanford.edu/entries/ethics-indian-buddhism/#BasTeaBudEth)
-* [2. 佛教伦理的形式](https://plato.stanford.edu/entries/ethics-indian-buddhism/#ForBudEth)
-* [佛教伦理学的理论结构](https://plato.stanford.edu/entries/ethics-indian-buddhism/#TheStrBudEth)
-* [超越道德纪律](https://plato.stanford.edu/entries/ethics-indian-buddhism/#BeyMorDis)
-* [动物与环境](https://plato.stanford.edu/entries/ethics-indian-buddhism/#AniEnv)
-* [战争、暴力和惩罚](https://plato.stanford.edu/entries/ethics-indian-buddhism/#WarVioPun)
-* [堕胎和安乐死](https://plato.stanford.edu/entries/ethics-indian-buddhism/#AboEut)
-* [人工智能和技术](https://plato.stanford.edu/entries/ethics-indian-buddhism/#AIandTech)
-* [参考文献](https://plato.stanford.edu/entries/ethics-indian-buddhism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/ethics-indian-buddhism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ethics-indian-buddhism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ethics-indian-buddhism/#Rel)
+
 
 ***
 

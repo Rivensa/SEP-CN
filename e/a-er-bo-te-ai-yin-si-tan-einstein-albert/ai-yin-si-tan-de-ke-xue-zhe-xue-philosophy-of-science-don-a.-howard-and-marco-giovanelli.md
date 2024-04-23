@@ -4,20 +4,7 @@
 
 爱因斯坦（1879-1955）被誉为二十世纪最杰出的物理学家。尽管他对二十世纪科学哲学的贡献同样重要，但较为不为人知。爱因斯坦自己的科学哲学是从新康德主义、常规主义和逻辑经验主义等多样来源中提取元素的原创综合，其独特之处在于将现实主义与一种整体主义、不确定性形式的常规主义进行了新颖融合。值得特别注意的是，爱因斯坦的哲学思想是如何受到并为解决他在物理学工作中首次遇到的问题所驱动的，并对问题的解决做出了贡献。同样重要的是爱因斯坦与其他杰出的二十世纪科学哲学家的关系和影响，包括莫里茨·施利克、汉斯·赖希巴赫、恩斯特·卡西勒、菲利普·弗兰克、亨利·柏格森、埃米尔·梅耶森。
 
-* [引言：爱因斯坦是一个认识论上的“机会主义者”吗？](https://plato.stanford.edu/entries/einstein-philscience/#IntWasEinEpiOpp)
-* [理论整体主义：科学中惯例的性质和作用](https://plato.stanford.edu/entries/einstein-philscience/#UndTheChoEviNatRolConSci)
-* [科学哲学](https://plato.stanford.edu/entries/einstein-philscience/#SimTheCho)
-* [在自然的理论表征中的单声性](https://plato.stanford.edu/entries/einstein-philscience/#UniTheRepNat)
-* [5. 现实主义与可分离性](https://plato.stanford.edu/entries/einstein-philscience/#ReaSep)
-* [原则理论——建设性理论区分](https://plato.stanford.edu/entries/einstein-philscience/#PriTheTheDis)
-* [结论：阿尔伯特·爱因斯坦：哲学家-物理学家](https://plato.stanford.edu/entries/einstein-philscience/#ConAlbEinPhiPhy)
-* [ 参考文献](https://plato.stanford.edu/entries/einstein-philscience/#Bib)
 
-  * [ 爱因斯坦的工作](https://plato.stanford.edu/entries/einstein-philscience/#EinWor)
-  * [ 相关文献](https://plato.stanford.edu/entries/einstein-philscience/#RelLit)
-* [ 学术工具](https://plato.stanford.edu/entries/einstein-philscience/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/einstein-philscience/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/einstein-philscience/#Rel)
 
 ---
 

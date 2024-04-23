@@ -6,22 +6,7 @@
 
 一些哲学家认为他们可以区分开来，并且他们探讨了“自由主义”或“新型”优生学与“威权主义”或“旧式”优生学的可取性（Agar 2004）。自由主义优生学将基于未来父母的自由选择、多元主义价值观以及对基因组科学和技术的最新科学理解。此外，自由主义优生学的倡导者旨在对一些问题严重且根深蒂固的社会问题（如种族主义、性别歧视、异性恋主义）对个人选择的影响保持敏感。相比之下，威权主义优生学计划是强制性的国家计划，旨在促进社会利益，并基于关于遗传可遗传性的问题科学假设。自由主义优生学者指出，我们对基因组科学的重要发展有助于区分当代自由主义优生学与其问题的前辈。事实上，过去几十年的科学进步 - 包括体外受精的出现、人类基因组计划的资助和完成、国家人类基因组研究所的建立以及植入前筛查、产前检测面板的扩展，以及基因组编辑的发展 - 不仅提供了更精确的基因理解及其在塑造表型和基因环境相互作用中的作用，还为干预生殖过程提供了多种可能性。我们应该如何利用这些新知识和能力？本文将按以下方式进行。首先，它提供了优生学运动的简要历史。第二部分介绍了一些试图定义和捍卫新型或自由主义优生学的主要论点。最后一部分涵盖了对这些论点的各种批评。
 
-* [优生学简史](https://plato.stanford.edu/entries/eugenics/#ShorHistEuge)
-* [辩护“自由主义”优生学](https://plato.stanford.edu/entries/eugenics/#ArguForLibeEuge)
 
-  * [2.1 区分“旧”和“新”优生学](https://plato.stanford.edu/entries/eugenics/#DistOldNewEuge)
-  * [2.2 使用再生遗传技术](https://plato.stanford.edu/entries/eugenics/#UsinReprTech)
-* [对“自由主义”优生学的批评](https://plato.stanford.edu/entries/eugenics/#CritLibeEuge)
-
-  * [3.1 比较问题](https://plato.stanford.edu/entries/eugenics/#CompProb)
-  * [3.2 促进不公问题](https://plato.stanford.edu/entries/eugenics/#PromInjuProb)
-  * [3.3 不一致问题](https://plato.stanford.edu/entries/eugenics/#IncoProb)
-  * [3.4 残疾权利批评](https://plato.stanford.edu/entries/eugenics/#DisaRighCrit)
-  * [3.5 Undermining core values3.5 侵蚀核心价值观](https://plato.stanford.edu/entries/eugenics/#UndeCoreValu)
-* [ 参考文献](https://plato.stanford.edu/entries/eugenics/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/eugenics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/eugenics/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/eugenics/#Rel)
 
 ---
 

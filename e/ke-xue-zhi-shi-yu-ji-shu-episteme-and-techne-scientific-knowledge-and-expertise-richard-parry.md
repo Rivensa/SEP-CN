@@ -6,19 +6,6 @@
 
 然而，接下来我们将看到，这种当代理论与实践之间的区别的一些特征在知识与技术之间的关系中并不存在。其他一些以一种略微扭曲的方式存在。当我们从克西弗诺到普罗提诺按时间顺序移动时，我们从一个不区分这两个术语的作者转向一个几乎不使用技术的作者，因为技术远离他认为真实的东西。在亚里士多德那里，我们找到了类似于现代对立的基础，即将知识视为纯理论，将技术视为实践。然而，即使亚里士多德也将技术或工艺称为知识，因为它是一种基于“解释”的实践 —— 涉及理论理解的东西。柏拉图 —— 其形式理论似乎是纯理论知识的一个典型例子 —— 仍然着迷于一种由形式知识指导的技术的概念。在《理想国》中，这种知识是哲学家执掌城市的手艺的不可或缺的基础。在柏拉图对话中另一个主题的基础上，斯多亚派发展了一种观点，即美德是一种生活技术或生活技艺，这种技良基于对宇宙的理解。因此，在古代哲学中，知识与技术之间的关系与我们关于理论（纯知识）和（基于经验的）实践的概念形成了有趣的对比。知识与技术之间存在着密切的积极关系，同时也存在着根本性的对比。
 
-* [ 1. 克西弗诺](https://plato.stanford.edu/entries/episteme-techne/#Xeno)
-* [ 2. 柏拉图](https://plato.stanford.edu/entries/episteme-techne/#Plat)
-* [ 亚里士多德](https://plato.stanford.edu/entries/episteme-techne/#Aris)
-* [ 斯多亚派（Stoics）](https://plato.stanford.edu/entries/episteme-techne/#Stoi)
-* [亚历山大的阿弗罗迪西亚斯](https://plato.stanford.edu/entries/episteme-techne/#AlexAphr)
-* [ 普罗提诺 (Plotinus)](https://plato.stanford.edu/entries/episteme-techne/#Plot)
-* [ 参考文献](https://plato.stanford.edu/entries/episteme-techne/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/episteme-techne/#PrimSour)
-  * [ 次级文献](https://plato.stanford.edu/entries/episteme-techne/#SecoLite)
-* [ 学术工具](https://plato.stanford.edu/entries/episteme-techne/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/episteme-techne/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/episteme-techne/#Rel)
 
 ---
 

@@ -4,14 +4,6 @@
 
 利己主义可以是一种描述性或规范性立场。心理利己主义，最著名的描述性立场，声称每个人只有一个最终目标：自己的福祉。利己主义的规范形式提出了关于一个人应该做什么的主张，而不是描述一个人确实做了什么。伦理利己主义声称，只有当执行某个行动最大化了我的自身利益时，我才在道德上应该执行某个行动。理性利己主义声称，只有当执行某个行动最大化了我的自身利益时，我才应该执行某个行动。 （这里的“应该”并不仅限于道德上的“应该”）。
 
-* [ 心理利己主义](https://plato.stanford.edu/entries/egoism/#PsycEgoi)
-* [ 伦理利己主义](https://plato.stanford.edu/entries/egoism/#EthiEgoi)
-* [ 理性利己主义](https://plato.stanford.edu/entries/egoism/#RatiEgoi)
-* [ 4. 结论](https://plato.stanford.edu/entries/egoism/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/egoism/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/egoism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/egoism/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/egoism/#Rel)
 
 ---
 

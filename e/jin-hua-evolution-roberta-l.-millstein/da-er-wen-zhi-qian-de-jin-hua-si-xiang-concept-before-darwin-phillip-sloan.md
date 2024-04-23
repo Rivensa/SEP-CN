@@ -6,28 +6,6 @@ _首次发表于 2019 年 6 月 17 日星期一；实质性修订于 2023 年 11
 
 这篇文章对该主题进行了广泛的历史回顾，直至“达尔文革命”时期。达尔文时期将在单独的条目《达尔文：从物种起源到人类的衰落》中进行讨论。问题将在以下标题下进行审查：
 
-* [古代的物种永恒与变迁](https://plato.stanford.edu/entries/evolution-before-darwin/#SpecPermChanAnti)
-  * [1.1 古典讨论](https://plato.stanford.edu/entries/evolution-before-darwin/#ClasDisc)
-  * [1.2 中世纪修订](https://plato.stanford.edu/entries/evolution-before-darwin/#MediRevi)
-* [早期现代基础](https://plato.stanford.edu/entries/evolution-before-darwin/#EarlModeFoun)
-  * [笛卡尔自然史](https://plato.stanford.edu/entries/evolution-before-darwin/#CartHistNatu)
-  * [2.2 机制、先前存在理论和物种固定性](https://plato.stanford.edu/entries/evolution-before-darwin/#MechPreExisTheoSpecFixi)
-  * [2.3 牛顿修正](https://plato.stanford.edu/entries/evolution-before-darwin/#NewtRevi)
-  * [2.4 Revitalizing Nature2.4 重振自然](https://plato.stanford.edu/entries/evolution-before-darwin/#ReviNatu)
-* [布丰的启蒙自然史的转变](https://plato.stanford.edu/entries/evolution-before-darwin/#BuffTranEnliNatuHist)
-  * [3.1 Buffon and the Methodology of Natural History3.1 巴芬和自然历史的方法论](https://plato.stanford.edu/entries/evolution-before-darwin/#BuffMethNatuHist)
-  * [3.2 有关生物生成的布丰(Bufferon)](https://plato.stanford.edu/entries/evolution-before-darwin/#BuffGeneOrga)
-  * [3.3 伯丰和物种的退化](https://plato.stanford.edu/entries/evolution-before-darwin/#BuffDegeSpec)
-  * [3.4 The Reception of Buffon’s Natural History](https://plato.stanford.edu/entries/evolution-before-darwin/#ReceBuffNatuHist)
-* [19 世纪初期的变形主义](https://plato.stanford.edu/entries/evolution-before-darwin/#EarlNineCentTran)
-  * [4.1 Lamarckian Transformism4.1 拉马克变形主义](https://plato.stanford.edu/entries/evolution-before-darwin/#LamaTran)
-  * [4.2 巴黎博物馆辩论：库维耶与变种论者](https://plato.stanford.edu/entries/evolution-before-darwin/#PariMuseDebaCuviVsTran)
-  * [英国 1830-1859 年的变形主义](https://plato.stanford.edu/entries/evolution-before-darwin/#TranBrit1830)
-* [5. 总结与结论](https://plato.stanford.edu/entries/evolution-before-darwin/#SummConc)
-* [参考文献](https://plato.stanford.edu/entries/evolution-before-darwin/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/evolution-before-darwin/#Aca)
-* [其他互联网资源Assistant's Note: The first translation session has been completed. Now, I will proceed with the second translation session based on the result of the first translation.其他网络资源](https://plato.stanford.edu/entries/evolution-before-darwin/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/evolution-before-darwin/#Rel)
 
 ***
 

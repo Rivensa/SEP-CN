@@ -4,23 +4,7 @@ _首次发表于 2007 年 11 月 21 日星期三；实质性修订于 2020 年 1
 
 义务伦理学一词源自希腊语中的义务（deon）和科学（或研究）（logos）两个词。在当代道德哲学中，义务伦理学是关于哪些选择在道德上是必要的、被禁止的或被允许的那种规范性理论之一。换句话说，义务伦理学属于指导和评估我们应该做什么选择的道德理论领域（义务理论），与指导和评估我们是什么样的人以及应该成为什么样的人的道德理论（德性\[美德]理论）相对立。在评估我们的选择的道德理论领域中，持有义务伦理学道德理论的人——即那些赞同义务论道德理论的人——与功利主义者相对立。
 
-* [义务伦理学的对立面：后果主义](https://plato.stanford.edu/entries/ethics-deontological/#DeoFoiCon)
-* [义务伦理学理论](https://plato.stanford.edu/entries/ethics-deontological/#DeoThe)
-  * [2.1 代理中心义务伦理学](https://plato.stanford.edu/entries/ethics-deontological/#AgeCenDeoThe)
-  * [2.2 Patient-Centered Deontological Theories2.2 以患者为中心的义务伦理学理论](https://plato.stanford.edu/entries/ethics-deontological/#PatCenDeoThe)
-  * [2.3 Contractualist Deontological Theories2.3 契约义务论理论](https://plato.stanford.edu/entries/ethics-deontological/#ConDeoThe)
-  * [2.4 Deontological Theories and Kant2.4 义务伦理学理论和康德](https://plato.stanford.edu/entries/ethics-deontological/#DeoTheKan)
-* [义务伦理学理论的优势](https://plato.stanford.edu/entries/ethics-deontological/#AdvDeoThe)
-* [义务伦理学理论的弱点](https://plato.stanford.edu/entries/ethics-deontological/#WeaDeoThe)
-* [义务伦理学与后果主义的关系重新考虑](https://plato.stanford.edu/entries/ethics-deontological/#DeoRelConRec)
-  * [不对后果主义让步：一种纯粹的义务伦理理性？](https://plato.stanford.edu/entries/ethics-deontological/#MakNoConConPurDeoRat)
-  * [不对义务伦理学做出任何让步：一种纯粹的后果主义理性？](https://plato.stanford.edu/entries/ethics-deontological/#MakNoConDeoPurConRat)
-* [义务伦理学与结果的不确定性](https://plato.stanford.edu/entries/ethics-deontological/#DeoTheMet)
-* [义务伦理学理论和元伦理学](https://plato.stanford.edu/entries/ethics-deontological/#DeoTheMet)
-* [参考文献](https://plato.stanford.edu/entries/ethics-deontological/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/ethics-deontological/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ethics-deontological/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ethics-deontological/#Rel)
+
 
 ***
 
