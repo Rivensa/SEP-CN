@@ -4,30 +4,6 @@ _首次发表于 2003 年 6 月 26 日；实质性修订于 2020 年 11 月 5 �
 
 塔伦图姆的阿基塔斯（Archytas）是一位希腊数学家、政治领袖和哲学家，活跃于公元前四世纪上半叶（即柏拉图的生活时期）。他是早期毕达哥拉斯传统中最后一位杰出人物，也是塔伦图姆的主要政治人物，连续七次当选将军。他在公元前 361 年派遣一艘船救出柏拉图，使其摆脱了锡拉库托的暴君狄奥尼修斯二世的控制。然而，他与柏拉图的个人和哲学联系非常复杂，两位哲学家之间存在许多分歧的迹象。从公元前一世纪开始，有大量以阿基塔斯名义写作的伪作问世，而他真正的作品只有四个片段幸存下来，尽管这些片段得到了许多重要的证言的补充。阿基塔斯是古代最著名的数学问题之一——立方倍增问题的首位解决者。我们还有他的证明，表明形如(_n_+1) : _n_的比例（在音乐理论中很重要）不能被中比例分割。他是毕达哥拉斯和谐理论家中最复杂的一位，并提供了他那个时代实际音乐家使用的音阶的数学解释。阿基塔斯的第一篇片段可能是最早将四门经典科学（逻辑学\[算术]、几何学、天文学和音乐学）确定为中世纪所称的"四道"的文本。还有一些迹象表明，他对光学科学的发展做出了贡献，并为力学科学奠定了数学基础。他认为科学的最终目标是以比例和比例来描述世界中的个体事物，并因此将逻辑学（数与比例的科学）视为主导科学。合理的计算和对比例的理解也是公正的国家和个人美好生活的基础。他给出了同时考虑事物的物质和形式的定义。虽然我们对他的宇宙学了解甚少，但他提出了古代宇宙无限性的最著名论证。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/archytas/#Life)
-* [1.1 家庭、老师和学生；日期](https://plato.stanford.edu/entries/archytas/#date)
-* [1.2 溯因](https://plato.stanford.edu/entries/archytas/#Sour)
-* [1.3 Archytas 和 Tarentum](https://plato.stanford.edu/entries/archytas/#Tar)
-* [1.4 Archytas 和 Plato](https://plato.stanford.edu/entries/archytas/#Plato)
-* [1.5 真实性问题](https://plato.stanford.edu/entries/archytas/#Auth)
-* [1.6 归因于阿基塔斯的伪作](https://plato.stanford.edu/entries/archytas/#Spur)
-* [1.7 真正的作品和证言](https://plato.stanford.edu/entries/archytas/#Gen)
-* [2. Archytas as Mathematician and Harmonic Theorist](https://plato.stanford.edu/entries/archytas/#Math)
-* [2.1 Doubling the Cube](https://plato.stanford.edu/entries/archytas/#Cube)
-* [2.2 Music and Mathematics](https://plato.stanford.edu/entries/archytas/#Mus)
-* [2.3 Archytas 作为数学家的评价](https://plato.stanford.edu/entries/archytas/#Eval)
-* [3. Archytas 与科学](https://plato.stanford.edu/entries/archytas/#Sci)
-* [3.1 科学的价值](https://plato.stanford.edu/entries/archytas/#Valsci)
-* [3.2 “Logistic” as the Master Science](https://plato.stanford.edu/entries/archytas/#Log)
-* [3.3 Optics and Mechanics](https://plato.stanford.edu/entries/archytas/#Opt)
-* [4. Definitions](https://plato.stanford.edu/entries/archytas/#Def) （3.2 “逻辑学”作为主要科学）
-* [5. 宇宙学和物理学](https://plato.stanford.edu/entries/archytas/#Cos)
-* [6. 伦理学和政治哲学](https://plato.stanford.edu/entries/archytas/#Eth)
-* [7. 重要性和影响力](https://plato.stanford.edu/entries/archytas/#Imp)
-* [参考文献](https://plato.stanford.edu/entries/archytas/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/archytas/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/archytas/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/archytas/#Rel)
 
 ***
 

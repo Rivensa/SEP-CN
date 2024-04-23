@@ -10,16 +10,6 @@ _首次发表于 2009 年 3 月 7 日；实质性修订于 2021 年 1 月 19 日
 
 从神秘主义的角度来看，伊斯兰哲学与其他知识传统之间的所有后来发展和互动都应被视为伊斯兰环境中神秘元素的理性表达。伊斯兰中存在两种不同且独立的神秘元素。实际上，苏菲主义代表了伊斯兰教的内在维度，是其最纯粹的形式，而伊斯兰神秘主义的显著特征则逐渐融入了伊斯兰哲学传统中。因此，伊斯兰神秘主义建立在两个支柱上：首先是实践，然后是哲学。也就是说，内在的智慧可以通过实践智慧来获得，其中包括内在净化和禁欲，也可以通过一种哲学方式来获得，其中包括但不限于辩证推理。
 
-* [1. 新柏拉图主义和苏菲主义](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#NeopSufi)
-* [2. 伊斯玛仪派传统](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#IsmaTrad)
-* [3. 哲学衰落时期和设拉子学派](https://plato.stanford.edu/entries/arabic-islamic-mysticism/)
-* [4. 伊斯法罕学派和穆拉·萨德拉](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#SchoIsfaMullSadr)
-* [5. 鲁米的案例](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#TheCase)
-* [6. 结论](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/arabic-islamic-mysticism/#Rel)
 
 ***
 

@@ -16,21 +16,6 @@ _首次发表于 2024 年 3 月 6 日_
 
 布拉德雷在心理学方面的次要作品为我们提供了对他伦理学方法的额外见解。正如 D·克罗斯利（1989b: 59）所指出的，这些文章详细探讨了书中仅作简要介绍的概念和思想。对伦理学家来说，最有趣的是布拉德雷文章的再版《文集》（1935 年），尤其是以下文章：“论快乐、痛苦、欲望和意志”（1888 年）；“意志的定义（I–III）”（1902–04 年，与动机、欲望、决心、愿望、需求、快乐和痛苦的讨论相关）；“关于决心的一些注解”（1901 年，欲望和决心）；“一个人是否可以违背知识”（1884 年，道德判断的本质）；“论文学作品中性细节的处理”（欲望）；“论心理冲突和归因”（1902 年，欲望和个人身份）。《弗朗西斯·赫伯特·布拉德雷文集》（1999 年）是布拉德雷以前未发表作品的宝库，其中包括道德心理学和规范伦理学：“《伦理研究》笔记\[c. 1874–1875]”（第一卷）；“论道德\[1877 或 1878 年]”（第一卷）；“手稿 BK Z：主要关于心理学主题\[c. 1893–1902]”（第二卷）；“手稿 BK W：最终共同笔记本\[1915–1924]”（第三卷）。另一个来源是“《表象与现实》中的第二十五章：善” ，对于研究布拉德雷观点演变以及后来布拉德雷伦理学如何融入其形而上学背景的人来说，这是一个主要兴趣点。
 
-* [1. 背景和影响](https://plato.stanford.edu/entries/bradley-moral/#BackInfl)
-* [2. “我的立场及其职责”](https://plato.stanford.edu/entries/bradley-moral/#MyStatDuti)
-* [3. 道德自我作为道德责任的先决条件](https://plato.stanford.edu/entries/bradley-moral/#MoraSelfPrecForMoraResp)
-* [4. 欲望的道德相关性](https://plato.stanford.edu/entries/bradley-moral/#MoraReleDesi)
-* [5. 完整性](https://plato.stanford.edu/entries/bradley-moral/#Inte)
-* [6. 道德理想](https://plato.stanford.edu/entries/bradley-moral/#MoraIdea)
-* [7. 道德发展](https://plato.stanford.edu/entries/bradley-moral/#MoraDeve)
-* [8. 道德的界限](https://plato.stanford.edu/entries/bradley-moral/#LimiMora)
-* [参考文献](https://plato.stanford.edu/entries/bradley-moral/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/bradley-moral/#PrimLite)
-* [次级文献](https://plato.stanford.edu/entries/bradley-moral/#SecoLite)
-* [参考资料](https://plato.stanford.edu/entries/bradley-moral/#BiblMate)
-* [学术工具](https://plato.stanford.edu/entries/bradley-moral/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/bradley-moral/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bradley-moral/#Rel)
 
 ***
 

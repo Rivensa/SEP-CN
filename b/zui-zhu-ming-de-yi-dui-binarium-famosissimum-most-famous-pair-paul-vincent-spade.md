@@ -4,17 +4,6 @@ _First published Mon Jul 14, 2003; substantive revision Mon Jun 16, 2008_
 
 “_Binarium famosissimum_”（=“最著名的一对”）是 20 世纪一些中世纪哲学历史学家赋予中世纪哲学特征的一对学说的名称——普遍的物质形态学和形式的多样性，这两个学说通常由 13 世纪“奥古斯丁派”的学者们共同维护。这些学说受到了“亚里士多德派”如托马斯·阿奎那等人的反对。这两个理论在这个名称下的联系似乎是最近才发展起来的，尽管这两个理论之间存在概念上的联系。
 
-* [1. “最著名的一对”](https://plato.stanford.edu/entries/binarium/#1)
-* [1.1 通用的物质形式论](https://plato.stanford.edu/entries/binarium/#1.1)
-* [1.2 形式的多样性](https://plato.stanford.edu/entries/binarium/#1.2)
-* [2. 支持者和反对者](https://plato.stanford.edu/entries/binarium/#2)
-* [3. 表达“binarium famosissimum”](https://plato.stanford.edu/entries/binarium/#3)
-* [4. 概念问题](https://plato.stanford.edu/entries/binarium/#4)
-* [5. Conclusion](https://plato.stanford.edu/entries/binarium/#Conclusion)
-* [参考文献](https://plato.stanford.edu/entries/binarium/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/binarium/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/binarium/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/binarium/#Rel)
 
 ***
 

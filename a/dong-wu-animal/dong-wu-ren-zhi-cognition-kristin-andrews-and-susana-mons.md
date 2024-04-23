@@ -12,28 +12,6 @@ _首次发布于 2021 年 3 月 8 日_
 
 动物认知研究挑战哲学家们思考许多常常被认为需要语言、复杂技术能力或法律制度的能力和行为，实际上可能被其他缺乏这些特征的动物所具有。通过这种方式，动物认知研究经常通过展示通过相当简单的机制可以引起看似复杂的活动而让我们感到惊讶。
 
-* [1. 什么是动物认知？](https://plato.stanford.edu/entries/cognition-animal/#WhatAnimCogn)
-* [2. 动物认知研究中的哲学假设](https://plato.stanford.edu/entries/cognition-animal/#PhilAssuStudAnimCogn)
-* [2.1 理论负荷](https://plato.stanford.edu/entries/cognition-animal/#TheoLade)
-* [2.2 价值负载性](https://plato.stanford.edu/entries/cognition-animal/#ValuLade)
-* [2.3 客观性](https://plato.stanford.edu/entries/cognition-animal/#Obje)
-* [2.4 简单性](https://plato.stanford.edu/entries/cognition-animal/#Simp)
-* [2.5 总结](https://plato.stanford.edu/entries/cognition-animal/#Summ)
-* [3. 动物认知应用于哲学](https://plato.stanford.edu/entries/cognition-animal/#AnimCognApplPhil)
-* [3.1 其他心灵问题](https://plato.stanford.edu/entries/cognition-animal/#ProbOtheMind)
-* [3.2 心灵-身体问题](https://plato.stanford.edu/entries/cognition-animal/#MindBodyProb)
-* [3.3 意识](https://plato.stanford.edu/entries/cognition-animal/#Cons)
-* [3.4 思想](https://plato.stanford.edu/entries/cognition-animal/#Thou)
-* [3.5 交流](https://plato.stanford.edu/entries/cognition-animal/#Comm)
-* [3.6 社会理解](https://plato.stanford.edu/entries/cognition-animal/#SociUnde)
-* [3.7 动物认知对价值理论的影响](https://plato.stanford.edu/entries/cognition-animal/#InflAnimCognValuTheo)
-* [3.7.1 伦理学](https://plato.stanford.edu/entries/cognition-animal/#Ethi)
-* [3.7.2 政治理论](https://plato.stanford.edu/entries/cognition-animal/#PoliTheo)
-* [3.8 总结](https://plato.stanford.edu/entries/cognition-animal/#Summ_1)
-* [参考文献](https://plato.stanford.edu/entries/cognition-animal/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/cognition-animal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/cognition-animal/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/cognition-animal/#Rel)
 
 ***
 

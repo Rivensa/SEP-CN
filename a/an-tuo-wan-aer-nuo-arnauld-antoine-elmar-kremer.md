@@ -8,37 +8,6 @@ _首次发表于 2007 年 1 月 27 日；实质性修订于 2021 年 11 月 5 �
 
 阿尔诺是他所在世纪哲学辩论中的重要参与者，并与笛卡尔、马勒布朗什和莱布尼茨进行了著名的思想交流。此外，他与皮埃尔·尼科尔合著的《波尔图瓦尔逻辑学》（_l’Art de penser_）是该领域的标准教材长达两个世纪。虽然人们对阿尔诺终身努力将“grâce efficace par elle-même”教义与自由意志相调和的关注较少，但它们与关于决定论和自由意志的辩论有许多联系，这一辩论至今仍在继续。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/arnauld/#LifWor)
-* [2. 安托万·阿尔诺对哲学和神学的区别](https://plato.stanford.edu/entries/arnauld/#ArnDisBetThe)
-* [3. 安托万·阿尔诺的笛卡尔主义](https://plato.stanford.edu/entries/arnauld/#ArnCar)
-* [3.1 哲学方法](https://plato.stanford.edu/entries/arnauld/#PhiMet)
-* [3.2 阿尔诺对观念与感知的认同，一种新的解释](https://plato.stanford.edu/entries/arnauld/#ArnIdenIde)
-* [3.3 心灵-身体二元论](https://plato.stanford.edu/entries/arnauld/#MinBodDua)
-* [3.4 永恒真理的创造](https://plato.stanford.edu/entries/arnauld/#CreEteTru)
-* [3.5 上帝的行动是否合理？](https://plato.stanford.edu/entries/arnauld/#AreGodActRea)
-* [4. 阿尔诺和马勒布朗什](https://plato.stanford.edu/entries/arnauld/#ArnMal)
-* [4.1 《自然与恩典论》中的马勒布朗什立场](https://plato.stanford.edu/entries/arnauld/#MalPosTreNatGra)
-* [4.2 阿尔诺对《自然与恩典论》的批评中的两个主题](https://plato.stanford.edu/entries/arnauld/#TwoTheArnCriTreNatGra)
-* [4.3 上帝只通过普遍意愿行动吗？](https://plato.stanford.edu/entries/arnauld/#DoeGodActOnlGenVol)
-* [4.4 阿尔诺对马勒布朗奇的偶然论的批评](https://plato.stanford.edu/entries/arnauld/#ArnCriMalOcc)
-* [5. 安托万·阿尔诺和莱布尼茨](https://plato.stanford.edu/entries/arnauld/#ArnLei)
-* [5.1 莱布尼茨对个体实体的概念](https://plato.stanford.edu/entries/arnauld/#LeibNotiIndi)
-* [5.2 阿尔诺对莱布尼茨的模态形而上学的批评；阿尔诺的替代方案](https://plato.stanford.edu/entries/arnauld/#ArnaCritLeib)
-* [6. 阿尔诺的兼容主义](https://plato.stanford.edu/entries/arnauld/#ArnCom)
-* [6.1 ](https://plato.stanford.edu/entries/arnauld/#ConDeAuxSevCenConAboGra)​\*[辅助会议](https://plato.stanford.edu/entries/arnauld/#ConDeAuxSevCenConAboGra)\*​[和 17 世纪关于恩典的争议](https://plato.stanford.edu/entries/arnauld/#ConDeAuxSevCenConAboGra)
-* [6.2 巴涅斯、詹森和阿尔诺对于意愿的有效实际恩典的本质](https://plato.stanford.edu/entries/arnauld/#BanJanArnNatEffActGraWil)
-* [6.3 安托万·阿尔诺的兼容主义的限制](https://plato.stanford.edu/entries/arnauld/#LimArnCom)
-* [6.4 安托万·阿尔诺关于自由意志本质的后期立场](https://plato.stanford.edu/entries/arnauld/#ArnLatPosNatFreWil)
-* [6.5 阿尔诺对他的新理论相较于詹森理论的优势的主张](https://plato.stanford.edu/entries/arnauld/#AdvArnClaForHisNewTheOveJanThe)
-* [参考文献](https://plato.stanford.edu/entries/arnauld/#Bib)
-* [阿尔诺的著作](https://plato.stanford.edu/entries/arnauld/#ArnWor)
-* [相关的早期作品](https://plato.stanford.edu/entries/arnauld/#RelEarModWor)
-* [引用的次要作品](https://plato.stanford.edu/entries/arnauld/#SecWorCit)
-* [其他推荐的次要作品](https://plato.stanford.edu/entries/arnauld/#OthRecSecWor)
-* [学术工具](https://plato.stanford.edu/entries/arnauld/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/arnauld/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/arnauld/#Rel)
-
 ***
 
 ## 1. 生平与作品

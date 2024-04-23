@@ -4,32 +4,6 @@ _首次发表于 2018 年 5 月 30 日星期三；实质性修订于 2024 年 3 
 
 Giordano Bruno（1548-1600）是文艺复兴时期最具冒险精神的思想家之一。他对自己的智力能力极为自信，嘲笑亚里士多德主义，尤其是当代的信徒。哥白尼的日心说为他所谓的“新哲学”阐述提供了一个起点。它推翻了亚里士多德自然哲学的公理，尤其是亚里士多德认为亚月元素占据或努力回到它们的自然位置，即宇宙中心的元素球的想法。同时，它也推翻了一个由不可腐蚀的以太组成的超月区域的存在，这个以太围绕地球运转，因此也推翻了亚里士多德认为宇宙是有限的主要论据。宇宙是无限的，有生命的，并且由无数太阳系组成。它也是永恒的。因此，在任何给定时刻，它展示了所有可能性，它的所有部分随着时间展示了所有可能性，从而构成了一个无时间和绝对原则的可认知表现，上帝。与这些观念一致，布鲁诺提出了轮回转世、多源说、泛心灵论，并放弃了基督教对人类不完美的强调，主张一种鼓励个体完善其智力能力的道德。
 
-* [1. 生平](https://plato.stanford.edu/entries/bruno/#Life)
-* [2. 古人的智慧](https://plato.stanford.edu/entries/bruno/#WisdAnci)
-* [3. 宇宙学：宇宙与原子](https://plato.stanford.edu/entries/bruno/#CosmUnivAtom)
-* [4. 宇宙灵魂、宇宙物质和宇宙智慧](https://plato.stanford.edu/entries/bruno/#UnivSoulUnivInteUnivMatt)
-* [5. 宇宙作为上帝的形象](https://plato.stanford.edu/entries/bruno/#UniverseImageGod)
-* [6. 无限宇宙作为神圣全能的表达](https://plato.stanford.edu/entries/bruno/#LimitlessInfinite)
-* [7. “隐藏的上帝”，他的过程，自然作为“物中之神”](https://plato.stanford.edu/entries/bruno/#Trinity)
-* [7.1. 神圣的超越和内在](https://plato.stanford.edu/entries/bruno/#TranscendenceImmanence)
-* [7.2. 两个形而上学的矛盾？](https://plato.stanford.edu/entries/bruno/#Inconsistencies)
-* [8. 泛心灵论](https://plato.stanford.edu/entries/bruno/#Panpsychism)
-* [9. 个体灵魂及其完美](https://plato.stanford.edu/entries/bruno/#IndiSoulPerf)
-* [10. 宗教](https://plato.stanford.edu/entries/bruno/#Reli)
-* [11. 布鲁诺的来世](https://plato.stanford.edu/entries/bruno/#BrunAfte)
-* [参考文献](https://plato.stanford.edu/entries/bruno/#Bib)
-* [缩写](https://plato.stanford.edu/entries/bruno/#abbreviations)
-* [主要文献](https://plato.stanford.edu/entries/bruno/#PrimSour)
-* [布鲁诺的作品](https://plato.stanford.edu/entries/bruno/#WorkBrun)
-* [布鲁诺审判相关文件](https://plato.stanford.edu/entries/bruno/#DocuRelaBrunTria)
-* [其他主要来源](https://plato.stanford.edu/entries/bruno/#OthePrimSour)
-* [次级文献](https://plato.stanford.edu/entries/bruno/#SecoSour)
-* [本条目引用的研究和选定研究](https://plato.stanford.edu/entries/bruno/#StudCiteEntrSeleStud)
-* [参考书目](https://plato.stanford.edu/entries/bruno/#Bibl)
-* [额外资源](https://plato.stanford.edu/entries/bruno/#AddiReso)
-* [学术工具](https://plato.stanford.edu/entries/bruno/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/bruno/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bruno/#Rel)
 
 ***
 

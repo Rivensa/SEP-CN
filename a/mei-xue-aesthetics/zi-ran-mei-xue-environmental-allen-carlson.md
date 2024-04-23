@@ -4,25 +4,7 @@ _首次发布于 2007 年 1 月 29 日；实质性修订于 2019 年 4 月 9 日
 
 自然美学是哲学美学的一个相对较新的子领域。它在二十世纪的最后三分之一内兴起于分析美学中。在它出现之前，分析传统中的美学主要关注艺术哲学。自然美学起源于对这种强调的反应，转而追求对自然环境的审美欣赏的研究。自其早期阶段以来，自然美学的范围已经扩大，不仅包括自然环境，还包括人类和人类影响的环境。与此同时，该学科还包括对这些环境中的事物的研究，从而产生了所谓的日常生活美学。这个领域涉及的不仅仅是更常见的物体和环境的美学，还包括一系列日常活动。因此，在二十一世纪初，自然美学涵盖了除艺术以外几乎所有事物的审美意义的研究。随着自然美学范围的扩大，二十一世纪还出现了对自然美学与环境主义之间关系的重新和更深入的研究，以及几个新的兴趣和方向。
 
-* [1. 历史](https://plato.stanford.edu/entries/environmental-aesthetics/#Hist)
-* [1.1 十八世纪的自然美学](https://plato.stanford.edu/entries/environmental-aesthetics/#EighCentAestNatu)
-* [1.2 十九世纪的自然美学](https://plato.stanford.edu/entries/environmental-aesthetics/#NineCentAestNatu)
-* [2. 二十世纪的发展](https://plato.stanford.edu/entries/environmental-aesthetics/#TwenCentDeve)
-* [2.1 忽视自然美学](https://plato.stanford.edu/entries/environmental-aesthetics/#NeglAestNatu)
-* [2.2 自然美学的出现](https://plato.stanford.edu/entries/environmental-aesthetics/#EmerEnviAest)
-* [3. 环境美学的基本取向](https://plato.stanford.edu/entries/environmental-aesthetics/#BasiOrieEnviAest)
-* [3.1 认知观点](https://plato.stanford.edu/entries/environmental-aesthetics/#CognView)
-* [3.2 非认知观点](https://plato.stanford.edu/entries/environmental-aesthetics/#NonCognView)
-* [4. 自然美学超越自然环境](https://plato.stanford.edu/entries/environmental-aesthetics/#EnviAestBeyoNatuEnvi)
-* [4.1 人类环境的美学](https://plato.stanford.edu/entries/environmental-aesthetics/#AestHumaEnvi)
-* [4.2 日常生活的美学](https://plato.stanford.edu/entries/environmental-aesthetics/#AestEverLife)
-* [5. 自然美学、环境主义和未来发展方向](https://plato.stanford.edu/entries/environmental-aesthetics/#EnviAestEnviFutuDire)
-* [5.1 自然美学与环境主义](https://plato.stanford.edu/entries/environmental-aesthetics/#EnviAestEnvi)
-* [5.2 自然美学：新兴兴趣和未来方向](https://plato.stanford.edu/entries/environmental-aesthetics/#EnviAestNewInteFutuDire)
-* [参考文献](https://plato.stanford.edu/entries/environmental-aesthetics/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/environmental-aesthetics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/environmental-aesthetics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/environmental-aesthetics/#Rel)
+
 
 ***
 

@@ -8,19 +8,7 @@ _首次发表于 2008 年 9 月 8 日星期一；实质性修订于 2018 年 9 �
 
 本文的主要部分分为两个部分。第一部分试图将拜占庭哲学置于拜占庭文化和教育的一般背景中，并简要概述更重要的哲学作者及其作品。至于第二部分，我们选择了自然哲学和形而上学领域中两个特别重要的主题。这种安排使我们能够更仔细地观察一些拜占庭哲学观点和论证的形式和内容，同时又不放弃对历史的相当全面性的追求。
 
-* [1. 历史调查](https://plato.stanford.edu/entries/byzantine-philosophy/#HisSur)
-* [1.1 拜占庭文化与教育](https://plato.stanford.edu/entries/byzantine-philosophy/#ByzCulEdu)
-* [1.2 拜占庭哲学的文学形式](https://plato.stanford.edu/entries/byzantine-philosophy/#LitForByz)
-* [1.3 人物、作品、流派](https://plato.stanford.edu/entries/byzantine-philosophy/#PeoWorCur)
-* [2. 主题](https://plato.stanford.edu/entries/byzantine-philosophy/#Top)
-* [2.1 灵魂的不朽性](https://plato.stanford.edu/entries/byzantine-philosophy/#ImmSou)
-* [2.2 玄学：普遍](https://plato.stanford.edu/entries/byzantine-philosophy/#MetUni)
-* [参考文献](https://plato.stanford.edu/entries/byzantine-philosophy/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/byzantine-philosophy/#PriLit)
-* [次级文献](https://plato.stanford.edu/entries/byzantine-philosophy/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/byzantine-philosophy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/byzantine-philosophy/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/byzantine-philosophy/#Rel)
+
 
 ***
 

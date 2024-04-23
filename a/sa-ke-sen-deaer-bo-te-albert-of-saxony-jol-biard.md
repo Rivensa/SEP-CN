@@ -5,17 +5,6 @@
 
 萨克森的阿尔伯特（约 1320 年-1390 年），巴黎大学文学硕士，维也纳大学校长，最后成为哈尔伯斯塔特（德国）主教。作为一位逻辑学家，他处于基于术语属性，特别是它们的指称（拉丁文：suppositio）的语言分析扩展运动的前沿，同时也在逻辑新领域的探索中，特别是在推论理论方面做出了贡献。作为一位自然哲学家，他与奥雷姆和布里丹一起在新巴黎物理学的背景下工作，促进了其在意大利和中欧的传播。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/albert-saxony/#LifeWork)
-* [2. 逻辑](https://plato.stanford.edu/entries/albert-saxony/#Logi)
-* [3. 自然哲学](https://plato.stanford.edu/entries/albert-saxony/#NatuPhil)
-* [4. 影响和影响力](https://plato.stanford.edu/entries/albert-saxony/#ImpaInfl)
-* [参考文献](https://plato.stanford.edu/entries/albert-saxony/#Bib)
-* [主要文本](https://plato.stanford.edu/entries/albert-saxony/#PrimText)
-* [选定研究和批评讨论](https://plato.stanford.edu/entries/albert-saxony/#SeleStudCritDisc)
-* [文献研究](https://plato.stanford.edu/entries/albert-saxony/#BiblStud)
-* [学术工具](https://plato.stanford.edu/entries/albert-saxony/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/albert-saxony/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/albert-saxony/#Rel)
 
 ---
 

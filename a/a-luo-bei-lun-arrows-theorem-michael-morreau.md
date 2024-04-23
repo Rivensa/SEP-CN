@@ -4,34 +4,6 @@ _首次发表于 2014 年 10 月 13 日；实质性修订于 2019 年 11 月 26 
 
 肯尼斯·阿罗的“不可能性”定理，或者他所称的“一般可能性”定理，回答了集体决策理论中一个非常基本的问题。假设有一些可供选择的替代方案。它们可以是政策、公共项目、选举中的候选人、社会成员之间的收入和劳动需求分配，或者几乎任何其他事物。有一些人的偏好将决定这个选择，问题是：有哪些程序可以根据已知或可以了解到的他们的偏好，从更好到更差地推导出一种集体或“社会”对替代方案的排序？答案令人震惊。阿罗的定理说根本就没有这样的程序，无论如何，它们都不能满足关于人们的自治和偏好的合理假设。阿罗给出了社会排序问题的技术框架，使其具有明确的意义和严格的答案，现在广泛用于研究福利经济学中的问题。不可能性定理本身为当代社会选择理论的大部分议程设定了基调。阿罗在研究生时期就取得了这一成就。1972 年，他因其贡献而获得了诺贝尔经济学奖。
 
-* [1. 人民的意愿？](https://plato.stanford.edu/entries/arrows-theorem/#WilPeo)
-* [2. 阿罗悖论的框架](https://plato.stanford.edu/entries/arrows-theorem/#ArrFra)
-* [2.1 个体偏好](https://plato.stanford.edu/entries/arrows-theorem/#IndPre)
-* [2.2 多重配置文件](https://plato.stanford.edu/entries/arrows-theorem/#MulPro)
-* [2.3 社会福利函数](https://plato.stanford.edu/entries/arrows-theorem/#SocWelFun)
-* [3. 不可能性](https://plato.stanford.edu/entries/arrows-theorem/#Imp)
-* [3.1 这些条件…](https://plato.stanford.edu/entries/arrows-theorem/#TheCon)
-* [3.2 …不相容](https://plato.stanford.edu/entries/arrows-theorem/#HarInc)
-* [4. 条件，再次](https://plato.stanford.edu/entries/arrows-theorem/#ConAga)
-* [4.1 无限制的定义域](https://plato.stanford.edu/entries/arrows-theorem/#UnrDom)
-* [4.2 社会排序](https://plato.stanford.edu/entries/arrows-theorem/#SocOrd)
-* [4.3 弱帕累托](https://plato.stanford.edu/entries/arrows-theorem/#WeaPar)
-* [4.4 非独裁](https://plato.stanford.edu/entries/arrows-theorem/#NonDic)
-* [4.5 不相关选择的独立性](https://plato.stanford.edu/entries/arrows-theorem/#IndIrrAlt)
-* [5. 可能性](https://plato.stanford.edu/entries/arrows-theorem/#Pos)
-* [5.1 域限制](https://plato.stanford.edu/entries/arrows-theorem/#DomRes)
-* [5.2 更多序数信息](https://plato.stanford.edu/entries/arrows-theorem/#OrdInf)
-* [5.3 更多序数信息：分数和等级](https://plato.stanford.edu/entries/arrows-theorem/#ScoGra)
-* [5.4 基数信息](https://plato.stanford.edu/entries/arrows-theorem/#CarInf)
-* [6. 重新解释](https://plato.stanford.edu/entries/arrows-theorem/#Rei)
-* [6.1 判断聚合](https://plato.stanford.edu/entries/arrows-theorem/#JudAgg)
-* [6.2 多准则决策](https://plato.stanford.edu/entries/arrows-theorem/#MulCriDec)
-* [6.3 总体相似性](https://plato.stanford.edu/entries/arrows-theorem/#OveSim)
-* [参考文献](https://plato.stanford.edu/entries/arrows-theorem/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/arrows-theorem/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/arrows-theorem/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/arrows-theorem/#Rel)
-
 ***
 
 ## 1. 人民的意愿？

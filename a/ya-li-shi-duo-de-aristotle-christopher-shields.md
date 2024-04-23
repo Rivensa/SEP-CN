@@ -6,31 +6,6 @@ _首次发布于 2008 年 9 月 25 日；实质性修订于 2020 年 8 月 25 �
 
 由于其广泛的范围和时间上的遥远性，亚里士多德的哲学难以简单概括。对亚里士多德文本和主题的解释和运用的漫长历史——跨越了两千多年，并包括在各种宗教和世俗传统中工作的哲学家——使得即使是基本的解释观点也存在争议。本网站上关于亚里士多德的条目集通过三个层次来解决这个问题。首先，本条目提供了亚里士多德生平的简要介绍，并描述了他的中心哲学承诺，突出了他最独特的方法和最有影响力的成就。其次是“一般主题”，它们详细介绍了亚里士多德哲学活动的主要领域。最后，还有“特殊主题”，它们更详细地研究了更狭窄的问题，特别是近期亚里士多德学术界关注的问题。
 
-* [1. 亚里士多德的生平](https://plato.stanford.edu/entries/aristotle/#AriLif)
-* [2. 亚里士多德文集：特点和主要划分](https://plato.stanford.edu/entries/aristotle/#AriCorChaPriDiv)
-* [3. ](https://plato.stanford.edu/entries/aristotle/#PhaEndMet)​\*[现象](https://plato.stanford.edu/entries/aristotle/#PhaEndMet)\*​[和常见方法](https://plato.stanford.edu/entries/aristotle/#PhaEndMet)
-* [4. 逻辑、科学和辩证法](https://plato.stanford.edu/entries/aristotle/#LogSciDia)
-* [4.1 逻辑](https://plato.stanford.edu/entries/aristotle/#Log)
-* [4.2 科学](https://plato.stanford.edu/entries/aristotle/#Sci)
-* [4.3 辩证法](https://plato.stanford.edu/entries/aristotle/#Dia)
-* [5. 本质论和同名异义](https://plato.stanford.edu/entries/aristotle/#EssHom)
-* [6. 类别论](https://plato.stanford.edu/entries/aristotle/#CatThe)
-* [7. 解释充分性的四因果学说](https://plato.stanford.edu/entries/aristotle/#FouCauAccExpAde)
-* [8. Hylomorphism](https://plato.stanford.edu/entries/aristotle/#Hyl)
-* [9. Aristotelian Teleology](https://plato.stanford.edu/entries/aristotle/#AriTel)
-* [10. Substance](https://plato.stanford.edu/entries/aristotle/#Sub)
-* [11. 生物](https://plato.stanford.edu/entries/aristotle/#LivBei)
-* [12. 幸福和政治联盟](https://plato.stanford.edu/entries/aristotle/#HapPolAss)
-* [13. 辩论和艺术](https://plato.stanford.edu/entries/aristotle/#RheArt)
-* [14. 亚里士多德的遗产](https://plato.stanford.edu/entries/aristotle/#AriLeg)
-* [参考文献](https://plato.stanford.edu/entries/aristotle/#Bib)
-* [A. 翻译](https://plato.stanford.edu/entries/aristotle/#Tra)
-* [B. Translations with Commentaries](https://plato.stanford.edu/entries/aristotle/#TraCom)
-* [C. General Works](https://plato.stanford.edu/entries/aristotle/#GenWor)
-* [D. Bibliography of Works Cited](https://plato.stanford.edu/entries/aristotle/#BibWorCit)
-* [学术工具](https://plato.stanford.edu/entries/aristotle/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aristotle/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aristotle/#Rel)
 
 ***
 

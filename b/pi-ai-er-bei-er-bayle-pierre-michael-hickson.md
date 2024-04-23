@@ -12,21 +12,6 @@ _首次发表于 2003 年 2 月 7 日；实质性修订于 2023 年 1 月 12 日
 
 然而，并非所有贝尔的读者都会同意这些激进的解释。二十世纪最有影响力的贝尔学者伊丽莎白·拉布鲁斯深入研究了贝尔的著作，并在其中发现了一个真诚、有时传统的加尔文主义基督徒的迹象。其他当代贝尔学者，尤其是让-吕克·索莱尔，追溯了贝尔一些最“现代”的学说的核心，比如他对普遍良心自由和宗教宽容的主张，追溯到传统的中世纪哲学观念中的良心及其权利。对贝尔著作的矛盾解释在他的时代盛行，并且自他去世以来每个世纪都有出现，给哲学史学家留下了“贝尔之谜”的问题。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/bayle/#LifeWork)
-* [2. 无神论者协会](https://plato.stanford.edu/entries/bayle/#SociAthe)
-* [3. 良心自由](https://plato.stanford.edu/entries/bayle/#FreeCons)
-* [4. 宗教宽容](https://plato.stanford.edu/entries/bayle/#ReliTole)
-* [5. 真理和怀疑的标准](https://plato.stanford.edu/entries/bayle/#CritTrutSkep)
-* [6. Problem of Evil](https://plato.stanford.edu/entries/bayle/#ProbEvil)
-* [7. 贝尔之谜](https://plato.stanford.edu/entries/bayle/#BaylEnig)
-* [参考文献](https://plato.stanford.edu/entries/bayle/#Bib)
-* [A. 主要文献](https://plato.stanford.edu/entries/bayle/#PrimLite)
-* [A.1 法语](https://plato.stanford.edu/entries/bayle/#Fren)
-* [A.2 英文翻译](https://plato.stanford.edu/entries/bayle/#EnglTran)
-* [B. 二级文献](https://plato.stanford.edu/entries/bayle/#BSecoLite)
-* [学术工具](https://plato.stanford.edu/entries/bayle/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/bayle/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bayle/#Rel)
 
 ***
 

@@ -6,23 +6,7 @@ _首次发表于 2006 年 1 月 11 日；实质性修订于 2023 年 3 月 7 日
 
 亚里士多德坚持一种形式的因果复数主义（Stein 2011: 121–147）。对于亚里士多德来说，原因可以以多种方式被谈论，因此可能有不止一个原因是某事物的非巧合原因（《物理学》II 3，195 a 3–5；《形而上学》V 2，1013 b 4–6）。亚里士多德的观点是，有四种主要且不可约的原因（《形而上学》I 3，983 a 24–983 b 1；参见《后分析》II 11，94 a 20–24）。本文重点讨论它们之间的系统相互关系。
 
-* [1. 引言](https://plato.stanford.edu/entries/aristotle-causality/#Intr)
-* [2. 四个原因](https://plato.stanford.edu/entries/aristotle-causality/#FourCaus)
-* [3. 四个原因与自然研究](https://plato.stanford.edu/entries/aristotle-causality/#FourCausStudNatu)
-* [4. 最终原因的辩护](https://plato.stanford.edu/entries/aristotle-causality/#FinaCausDefe)
-* [5. 最终原因的解释优先性](https://plato.stanford.edu/entries/aristotle-causality/#ExplPrioFinaCaus)
-* [6. 月食的解释](https://plato.stanford.edu/entries/aristotle-causality/#ExplLunaEcli)
-* [7. 结论](https://plato.stanford.edu/entries/aristotle-causality/#Conc)
-* [8. 亚里士多德术语词汇表](https://plato.stanford.edu/entries/aristotle-causality/#GlosArisTerm)
-* [参考文献](https://plato.stanford.edu/entries/aristotle-causality/#Bib)
-* [总体概述](https://plato.stanford.edu/entries/aristotle-causality/#GeneSurv)
-* [四个原因](https://plato.stanford.edu/entries/aristotle-causality/#FourCaus_1)
-* [艺术与自然](https://plato.stanford.edu/entries/aristotle-causality/#ArtNatu)
-* [目的论与必然性](https://plato.stanford.edu/entries/aristotle-causality/#TeleNece)
-* [特殊主题](https://plato.stanford.edu/entries/aristotle-causality/#SpecTopi)
-* [学术工具](https://plato.stanford.edu/entries/aristotle-causality/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aristotle-causality/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aristotle-causality/#Rel)
+
 
 ***
 

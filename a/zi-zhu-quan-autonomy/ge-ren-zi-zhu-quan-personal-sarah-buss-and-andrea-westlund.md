@@ -4,15 +4,7 @@ _首次发布于 2002 年 5 月 28 日；实质性修订于 2018 年 2 月 15 �
 
 自主代理是自我管理的代理。但是什么是自我管理的代理？自我管理并不能保证一个人在未来会有更多的选择，或者拥有自己最想要的机会。此外，一个人可以自我管理，却无法理解对错之间的区别，因此似乎一个自主代理可以做错事而不为其行为负责。那么，这种自我关系的必要和充分特征是什么？哲学家们对这个问题提供了各种不同的竞争性答案。
 
-* [1. 简介](https://plato.stanford.edu/entries/personal-autonomy/#Intr)
-* [2. 个人自主权的四个或多或少重叠的解释](https://plato.stanford.edu/entries/personal-autonomy/#FourLessOverAccoPersAuto)
-* [3. 识别个人自主权最低条件的挑战](https://plato.stanford.edu/entries/personal-autonomy/#ChalIdenMiniCondPersAuto)
-* [4. 代理人作为原因和实践观点](https://plato.stanford.edu/entries/personal-autonomy/#AgenCausPracPoinView)
-* [5. 结论](https://plato.stanford.edu/entries/personal-autonomy/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/personal-autonomy/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/personal-autonomy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/personal-autonomy/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/personal-autonomy/#Rel)
+
 
 ***
 

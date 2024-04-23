@@ -12,18 +12,7 @@ _首次发表于 2011 年 3 月 9 日星期三；实质性修订于 2021 年 5 �
 
 大多数哲学家都同意，溯因（在推理至最佳解释的意义上）是一种经常被使用的推理类型，无论是在日常生活中还是在科学推理中以某种形式。然而，溯因的确切形式以及规范地位仍然存在争议。本文对比了溯因与其他类型的推理；指出了它在哲学内外的突出用途；考虑了对它的各种或多或少精确的陈述；讨论了它的规范地位；并突出了溯因与贝叶斯证实理论之间可能的联系。
 
-* [1. 溯因：概念](https://plato.stanford.edu/entries/abduction/#AbdGenIde)
-* [1.1 演绎、归纳、溯因](https://plato.stanford.edu/entries/abduction/#DedIndAbd)
-* [1.2 溯因的普遍性](https://plato.stanford.edu/entries/abduction/#UbiAbd)
-* [2. 阐释溯因](https://plato.stanford.edu/entries/abduction/#ExpAbd)
-* [3. 溯因的地位](https://plato.stanford.edu/entries/abduction/#StaAbd)
-* [3.1 批评](https://plato.stanford.edu/entries/abduction/#Cri)
-* [3.2 辩护](https://plato.stanford.edu/entries/abduction/#Def)
-* [4. 溯因 versus 贝叶斯证实理论](https://plato.stanford.edu/entries/abduction/#AbdVerBayConThe)
-* [参考文献](https://plato.stanford.edu/entries/abduction/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/abduction/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/abduction/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/abduction/#Rel)
+
 
 ***
 

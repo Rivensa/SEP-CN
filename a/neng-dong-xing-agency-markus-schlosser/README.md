@@ -6,29 +6,7 @@ _首次发布于 2015 年 8 月 10 日；实质性修订于 2019 年 10 月 28 �
 
 关于能动性的本质的辩论在过去几十年中在哲学和其他研究领域（包括心理学、认知神经科学、社会科学和人类学）中蓬勃发展。在哲学中，能动性的本质是心灵哲学、心理学哲学、自由意志和道德责任的辩论、伦理学、元伦理学以及关于理由的本质和实践理性的辩论中的一个重要问题。在大部分情况下，本文集中讨论关于能动性本质的概念和形而上学问题。在最后几节中，它提供了一个关于经验为基础的能动感的概述，以及对我们的理由和我们的意识意图对我们的行动产生真正影响的常识假设的各种经验挑战。
 
-* [1. 简介](https://plato.stanford.edu/entries/agency/#Int)
-* [2. 代理的概念、理论和种类](https://plato.stanford.edu/entries/agency/#ConTheKinAge)
-* [2.1 能动性作为有意识的行动](https://plato.stanford.edu/entries/agency/#AgeIntAct)
-* [2.2 能动性作为由行动者发起](https://plato.stanford.edu/entries/agency/#AgeIniAge)
-* [2.3 机构和独特的人类行动](https://plato.stanford.edu/entries/agency/#AgeDisHumAct)
-* [2.4 没有心理表征的机构](https://plato.stanford.edu/entries/agency/#AgeWitMenRep)
-* [2.5 其他类型的能动性：心理、认识、共享、集体、关系、人工](https://plato.stanford.edu/entries/agency/#OthKinAgeMenShaColRelArt)
-* [3. 能动性的形而上学](https://plato.stanford.edu/entries/agency/#MetAge)
-* [3.1 三种形而上学框架](https://plato.stanford.edu/entries/agency/#ThrMetFra)
-* [3.2 异常因果链](https://plato.stanford.edu/entries/agency/#DevCauCha)
-* [3.3 消失的能动性、自然主义和双重立场理论](https://plato.stanford.edu/entries/agency/#DisAgeNatDuaStaThe)
-* [3.4 行动、事件、过程和遗漏](https://plato.stanford.edu/entries/agency/#ActEveProOmi)
-* [4. 经验挑战和意识的作用](https://plato.stanford.edu/entries/agency/#EmpChaRolCon)
-* [4.1 理由和原因](https://plato.stanford.edu/entries/agency/#ReaCau)
-* [4.2 情境主义](https://plato.stanford.edu/entries/agency/#Situat)
-* [4.3 利贝特实验和韦格纳的挑战](https://plato.stanford.edu/entries/agency/#LibWeg)
-* [4.4 自动性和双系统理论](https://plato.stanford.edu/entries/agency/#Autdual)
-* [4.5 代理感](https://plato.stanford.edu/entries/agency/#SenAge)
-* [4.6 知觉和注意力](https://plato.stanford.edu/entries/agency/#PerAtt)
-* [参考文献](https://plato.stanford.edu/entries/agency/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/agency/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/agency/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/agency/#Rel)
+
 
 ***
 

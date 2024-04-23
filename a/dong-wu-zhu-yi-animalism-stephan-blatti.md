@@ -4,22 +4,6 @@ _首次发布于 2014 年 4 月 7 日；实质性修订于 2019 年 7 月 15 日
 
 在“个人身份”这个标题下需要提出的问题包括：“我们是什么？”（基本性质问题）和“在什么条件下我们能够持续存在？”（持续性问题）。在对这些问题的主导性新洛克式方法进行反驳时，被称为动物主义的观点回答说，我们每个人都是一种_人类（Homo sapiens）_ 的有机体，我们持续存在的条件是动物的条件。除了描述动物主义及其竞争对手的内容和历史背景外，本文还探讨了关于我们的本质和持续性的这种有争议的观点的一些论证和反对意见。
 
-* [1.制定动物主义](https://plato.stanford.edu/entries/animalism/#FormAnim)
-* [1.1 我们的根本本质](https://plato.stanford.edu/entries/animalism/#OurFundNatu)
-* [1.2 我们的持续性](https://plato.stanford.edu/entries/animalism/#OurPers)
-* [2. 洛克的遗产](https://plato.stanford.edu/entries/animalism/#LockLega)
-* [2.1 洛克的人类/个体区分](https://plato.stanford.edu/entries/animalism/#LockHumaDist)
-* [2.2 动物主义和人类/个体的区别](https://plato.stanford.edu/entries/animalism/#AnimHumaDist)
-* [2.3 动物主义与新洛克主义的对比](https://plato.stanford.edu/entries/animalism/#AnimVsNeoLock)
-* [3. 动物主义的论证和反对意见](https://plato.stanford.edu/entries/animalism/#ArguForObjeAnim)
-* [3.1 思维动物论证](https://plato.stanford.edu/entries/animalism/#ThinAnimArgu)
-* [3.2 对思维动物论的回应](https://plato.stanford.edu/entries/animalism/#ReplThinAnimArgu)
-* [3.3 动物祖先论](https://plato.stanford.edu/entries/animalism/#AnimAnceArgu)
-* [3.4 进一步的反对、含义和问题](https://plato.stanford.edu/entries/animalism/#FurtObjeImplQues)
-* [参考文献](https://plato.stanford.edu/entries/animalism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/animalism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/animalism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/animalism/#Rel)
 
 ***
 

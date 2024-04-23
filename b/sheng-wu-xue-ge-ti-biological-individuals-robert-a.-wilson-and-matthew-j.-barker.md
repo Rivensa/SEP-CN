@@ -4,29 +4,6 @@ _首次发布于 2022 年 6 月 3 日_
 
 发展是一个中心性的生物过程，对其本质的理念在生物学思想中具有影响力。本文通过“表观发生与预定论”这个视角，概述了这些理念的历史。表观发生大致上是指每个发展实体都从未形成的物质开始，形式逐渐在发展过程中逐渐出现。相反，预定论认为发展始于某种已经预先形成、预先界定或预先确定的实体。问题“表观发生还是预定论？”在一定程度上是形而上学的：存在的是什么——形式还是成为形式的未形成物？它在一定程度上是认识论的：我们如何知道——通过观察还是推理？关于这些纠缠不清的问题的辩论自古以来就一直存在，今天表现为遗传决定论者诉诸已经“形成”的遗传继承，而其他人则坚持环境可塑性的有效性。本文概述了参与这一辩论的发展主要理论，从亚里士多德的有关生殖的理论到最近的系统论和干细胞理论。当然，“表观发生与预定论”并不是唯一与发展相关的长期理论对立。但这种框架是一种包容性的方式，以捕捉关于生物发展中的转变和恒定性的模式。自然还是培养，表观发生还是预定论，遗传决定论还是发展自由意志，或者某种中间立场的版本是否可能？这个永恒的讨论的术语和潜在假设继续塑造关于生命何时开始的辩论，并具有深远的生物伦理和政策影响。
 
-* [1. 关于理论的一个警告](https://plato.stanford.edu/entries/theories-biological-development/#CaveAbouTheo)
-* [2. 问题](https://plato.stanford.edu/entries/theories-biological-development/#Prob)
-* [3. 亚里士多德和亚里士多德主义](https://plato.stanford.edu/entries/theories-biological-development/#ArisAris)
-* [4. 十八世纪的辩论](https://plato.stanford.edu/entries/theories-biological-development/#EighCentDeba)
-* [5. Evolution and Embryos: A New Preformationism](https://plato.stanford.edu/entries/theories-biological-development/#EvolEmbrNewPref)
-* [6. 十九世纪末的辩论：魏斯曼和赫尔特维希](https://plato.stanford.edu/entries/theories-biological-development/#LateNineCentDebaWeisHert)
-* [7. 十九世纪末的争论：鲁和德里什](https://plato.stanford.edu/entries/theories-biological-development/#LateNineCentDebaRouxDrie)
-* [8. 发育的调节理论](https://plato.stanford.edu/entries/theories-biological-development/#ReguTheoDeve)
-* [8.1 Organicism, gradients, and fields](https://plato.stanford.edu/entries/theories-biological-development/#OrgaGradFiel)
-* [8.2 图灵的反应扩散模型](https://plato.stanford.edu/entries/theories-biological-development/#TuriReacDiffMode)
-* [8.3 位置信息](https://plato.stanford.edu/entries/theories-biological-development/#PosiInfo)
-* [9. Twentieth-Century Genetics: A New Predeterminism](https://plato.stanford.edu/entries/theories-biological-development/#TwenCentGeneNewPred)
-* [9.1 瓦丁顿的景观](https://plato.stanford.edu/entries/theories-biological-development/#WaddLand)
-* [9.2 遗传程序](https://plato.stanford.edu/entries/theories-biological-development/#GeneProg)
-* [9.3 调控基因组](https://plato.stanford.edu/entries/theories-biological-development/#ReguGeno)
-* [10. Twenty-First-Century Alternatives: A New Epigenesis?](https://plato.stanford.edu/entries/theories-biological-development/#TwenFirsCentAlteNewEpig)
-* [10.1 发育系统和周期](https://plato.stanford.edu/entries/theories-biological-development/#DeveSystCycl)
-* [10.2 物理和动态系统](https://plato.stanford.edu/entries/theories-biological-development/#PhysDynaSyst)
-* [10.3 干细胞和谱系](https://plato.stanford.edu/entries/theories-biological-development/#StemCellLine)
-* [参考文献](https://plato.stanford.edu/entries/theories-biological-development/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/theories-biological-development/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/theories-biological-development/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/theories-biological-development/#Rel)
 
 ***
 

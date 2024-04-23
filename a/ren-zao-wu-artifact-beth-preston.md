@@ -8,20 +8,6 @@ _首次发布于 2018 年 7 月 18 日；实质性修订于 2022 年 10 月 3 �
 
 本文的目的是将哲学中有时分散在不同领域的人造物讨论汇集在一起，同时还包括其他学科中相关的讨论。第一部分涉及定义问题。第二部分关注人造物的形而上学问题。第三部分转向认识论问题。此外，人造物还涉及重要的规范问题，但这些问题在本百科全书的其他文章中有所涉及，详见下方的相关条目部分。
 
-* [1. 定义](https://plato.stanford.edu/entries/artifact/#Defi)
-* [2.形而上学](https://plato.stanford.edu/entries/artifact/#Meta)
-* [2.1 人造物是否存在？](https://plato.stanford.edu/entries/artifact/#DoArtiExis)
-* [2.2 人造物种类](https://plato.stanford.edu/entries/artifact/#ArtiKind)
-* [2.3 人造物功能](https://plato.stanford.edu/entries/artifact/#ArtiFunc)
-* 2.4 抽象人造物
-* [3. 认识论](https://plato.stanford.edu/entries/artifact/#Epis)
-* [3.1 方法论](https://plato.stanford.edu/entries/artifact/#Meth)
-* [3.2 了解人造物](https://plato.stanford.edu/entries/artifact/#KnowArti)
-* [3.3 以人造物思考和行动](https://plato.stanford.edu/entries/artifact/#ThinActiArti)
-* [参考文献](https://plato.stanford.edu/entries/artifact/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/artifact/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/artifact/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/artifact/#Rel)
 
 ***
 

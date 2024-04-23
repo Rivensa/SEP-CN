@@ -6,18 +6,7 @@ _首次发表于 2011 年 1 月 18 日；实质性修订于 2020 年 10 月 14 �
 
 本雅明的著作的延迟出版决定并维持了他的作品在英语世界的接受。 （两卷本的选集于 1955 年以德文出版，直到 1972-1989 年才出版了完整版，自 2008 年以来一直在制作 21 卷的批判版；英文选集首次出版于 1968 年和 1978 年，而四卷本的《选集》则在 1996 年至 2003 年间出版。）最初在文学理论和美学的背景下接受，直到 20 世纪的最后几十年，本雅明思想的哲学深度和文化广度才开始得到充分的赞赏。尽管有大量的二次文献产生，但他的作品仍然是持续生产力的源泉。对他作品的思想背景的理解有助于早期德国浪漫主义哲学的复兴。他的语言哲学在翻译理论中起到了重要的作用。他关于“技术再生产时代的艺术作品”的论文仍然是电影理论的重要理论文本。《单行道》和他未完成的对 19 世纪巴黎的研究所产生的作品（《拱廊计划》）为文化理论和现代哲学概念提供了理论刺激。本雅明对历史的弥赛亚理解一直是各种哲学思想家的持久的理论魅力和困惑的源泉，包括雅克·德里达、乔治·阿甘本以及在批判背景下的于尔根·哈贝马斯。《暴力批判》和《历史概念论》是德里达关于弥赛亚性讨论的重要来源，这对于后结构主义对本雅明著作的接受产生了影响，与保罗·德·曼关于寓言的讨论一起。本雅明思想的某些方面也与政治神学的复兴有关，尽管这种接受是否符合本雅明自己政治思想的倾向还有疑问。最近，对本雅明教育哲学的兴趣受到了他 2011 年《早期著作》的翻译和他 2014 年为儿童广播的讲稿（《本雅明广播》）的推动。
 
-* [1. 传记概述](https://plato.stanford.edu/entries/benjamin/#BioSke)
-* [2. 早期作品：康德与经验](https://plato.stanford.edu/entries/benjamin/#EarWorKanExp)
-* [3. 浪漫主义，歌德与批评](https://plato.stanford.edu/entries/benjamin/#RomGoeCri)
-* [4. 巴洛克星座](https://plato.stanford.edu/entries/benjamin/#BarCon)
-* [5. 弧廊工程](https://plato.stanford.edu/entries/benjamin/#ArcPro)
-* [6. 艺术与技术](https://plato.stanford.edu/entries/benjamin/#ArtTec)
-* [7. 波德莱尔与现代](https://plato.stanford.edu/entries/benjamin/#BauMod)
-* [8. 图像、历史、文化](https://plato.stanford.edu/entries/benjamin/#ImaHisCul)
-* [参考文献](https://plato.stanford.edu/entries/benjamin/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/benjamin/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/benjamin/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/benjamin/#Rel)
+
 
 ***
 

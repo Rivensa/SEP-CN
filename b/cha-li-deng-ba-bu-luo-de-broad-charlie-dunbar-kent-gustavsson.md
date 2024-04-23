@@ -10,27 +10,6 @@ _首次发表于 2010 年 9 月 3 日星期五；实质性修订于 2021 年 8 �
 
 布罗德过着相对平静的生活——他在《自传》中说，“与修道院里的僧侣的生活并无二致”(1959b, p. 67)。直到 1946 年他才第一次离开不列颠群岛，当时他访问了瑞典——一个他“爱上了”的国家，几乎每年都会回访。在职业层面上，他结识了几位瑞典哲学家(如乌普萨拉大学的康拉德-马克·沃高)。在 1953-1954 学年，布罗德访问了密歇根大学安娜堡分校和加利福尼亚大学洛杉矶分校。他非常热情地写道自己受到的“善意和款待”，并以特有的谦逊补充道：“被当作伟大哲学家对我来说很有趣”(1959b)。布罗德是同性恋者，从未结婚。
 
-* [1. 生平与著作简要年表](https://plato.stanford.edu/entries/broad/#BriChrLifWor)
-* [2. 知觉](https://plato.stanford.edu/entries/broad/#Per)
-* [2.1 天真实在主义的界定](https://plato.stanford.edu/entries/broad/#NaiReaDel)
-* [2.2 领悟：感知即时性的核心概念](https://plato.stanford.edu/entries/broad/#PreCorNotPerImm)
-* [2.3 天真实在主义的拆解](https://plato.stanford.edu/entries/broad/#NaiReaDis)
-* [2.4 感知感觉的竞争性解释](https://plato.stanford.edu/entries/broad/#RivAccPerSen)
-* [2.5 代表性感知理论](https://plato.stanford.edu/entries/broad/#TheRepPer)
-* [3. 时间](https://plato.stanford.edu/entries/broad/#Tim)
-* [4. 自由意志](https://plato.stanford.edu/entries/broad/#FreWil)
-* [5. 新兴主义](https://plato.stanford.edu/entries/broad/#Eme)
-* [5.1 Emergence 的概念](https://plato.stanford.edu/entries/broad/#ConEme)
-* [5.2 Emergence 的现实性](https://plato.stanford.edu/entries/broad/#ReaEme)
-* [5.3 查理·邓巴·布罗德的知识论论证](https://plato.stanford.edu/entries/broad/#BroKnoArg)
-* [6. 形而上学](https://plato.stanford.edu/entries/broad/#Met)
-* [7. 其他哲学作品](https://plato.stanford.edu/entries/broad/#OthPhiWor)
-* [参考文献](https://plato.stanford.edu/entries/broad/#Bib)
-* [主要文献：查理·邓巴·布罗德的著作](https://plato.stanford.edu/entries/broad/#PriLitBroWor)
-* [次要文献](https://plato.stanford.edu/entries/broad/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/broad/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/broad/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/broad/#Rel)
 
 ***
 

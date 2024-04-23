@@ -6,30 +6,6 @@ _首次发布于 2021 年 8 月 9 日星期一_
 
 本文的重点将是指出自非洲哲学开始认真巩固其在专业哲学家中的地位以来出现的一些研究方向。本文将首先介绍一些框架主题、条件和原则，然后简要介绍现代非洲哲学的前史。接下来的大部分内容将致力于探索当代贡献如何加强和扩展这个领域，并发展其核心主题。
 
-* [1. 框架主题：界定话题](https://plato.stanford.edu/entries/africana-contemporary/#FramThemCircTopi)
-* [1.1 非洲性](https://plato.stanford.edu/entries/africana-contemporary/#Afri)
-* [1.2 问题性](https://plato.stanford.edu/entries/africana-contemporary/#Prob)
-* [2. 框架条件：殖民性、异端和历史性](https://plato.stanford.edu/entries/africana-contemporary/#FramCondColoHeteHist)
-* [3. 历史的现代视角：指导原则](https://plato.stanford.edu/entries/africana-contemporary/#HistContPersGuidPrin)
-* [4. 第一阶段：出现](https://plato.stanford.edu/entries/africana-contemporary/#StagOneEmer)
-* [4.1 特征主题](https://plato.stanford.edu/entries/africana-contemporary/#CharThem)
-* [4.2 区域的连续性和不连续性](https://plato.stanford.edu/entries/africana-contemporary/#RegiContDisc)
-* [4.3 复杂性](https://plato.stanford.edu/entries/africana-contemporary/#Comp)
-* [5. 第二阶段：建立和巩固](https://plato.stanford.edu/entries/africana-contemporary/#StagTwoEstaCons)
-* [6. 阅读当代——结构](https://plato.stanford.edu/entries/africana-contemporary/#ReadCont)
-* [6.1 强化和扩展，支柱和理论考古学](https://plato.stanford.edu/entries/africana-contemporary/#FortExpaTentTheoArch)
-* [6.2 转变学派和运动](https://plato.stanford.edu/entries/africana-contemporary/#TranSchoMove)
-* [6.3 转变地理](https://plato.stanford.edu/entries/africana-contemporary/#ShifGeog)
-* [7. 阅读当代 - 不断演变的主题](https://plato.stanford.edu/entries/africana-contemporary/#ReadContThem)
-* [7.1 性别和性取向](https://plato.stanford.edu/entries/africana-contemporary/#GendSexu)
-* [7.2 批判性民族哲学](https://plato.stanford.edu/entries/africana-contemporary/#CritEthn)
-* [7.3 背景下的政治思想](https://plato.stanford.edu/entries/africana-contemporary/#PoliThouCont)
-* [7.4 黑人生命与社会死亡](https://plato.stanford.edu/entries/africana-contemporary/#BlacLifeSociDeat)
-* [8. 结论](https://plato.stanford.edu/entries/africana-contemporary/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/africana-contemporary/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/africana-contemporary/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/africana-contemporary/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/africana-contemporary/#Rel)
 
 ***
 

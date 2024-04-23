@@ -10,36 +10,7 @@ _首次发布于 2010 年 6 月 14 日；实质性修订于 2018 年 3 月 5 日
 
 最后，假设存在某种规范来管理信念形成，那么这意味着什么关于信念的本质？这是否意味着信念形成是自愿的或者在我们的控制之下？如果是这样，那么这种控制是什么样的？如果不是，那么谈论信念的伦理学是否甚至是一致的？
 
-* [1. 信念的伦理学：简史](https://plato.stanford.edu/entries/ethics-belief/#EthBelBriHis)
-* [1.1 辩论的起源](https://plato.stanford.edu/entries/ethics-belief/#OriDeb)
-* [1.2 19 世纪之前的信念伦理学](https://plato.stanford.edu/entries/ethics-belief/#EthBelBef19tCen)
-* [2. 信念规范](https://plato.stanford.edu/entries/ethics-belief/#DoxNor)
-* [2.1 规范的种类：谨慎的、道德的、认识论的](https://plato.stanford.edu/entries/ethics-belief/#KinNorPruMorEpi)
-* [2.2 规范的结构：假设性 vs. 范畴性](https://plato.stanford.edu/entries/ethics-belief/#StrNorHypVsCat)
-* [2.3 反思访问的程度](https://plato.stanford.edu/entries/ethics-belief/#DegRefAcc)
-* [2.4 Relations between doxastic norms](https://plato.stanford.edu/entries/ethics-belief/#RelBetDoxNor)
-* [3. 信念、其目标和我们对其的控制](https://plato.stanford.edu/entries/ethics-belief/#BelAimOurConOveIt)
-* [3.1 信念的本质](https://plato.stanford.edu/entries/ethics-belief/#NatBel)
-* [3.2 信念的目标](https://plato.stanford.edu/entries/ethics-belief/#AimSBel)
-* [3.3 知识作为信念的规范](https://plato.stanford.edu/entries/ethics-belief/#KnowlNorm)
-* [3.4 信念控制](https://plato.stanford.edu/entries/ethics-belief/#BelCon)
-* [4. 证据主义：概述](https://plato.stanford.edu/entries/ethics-belief/#EviOve)
-* [4.1 严格 vs. 温和](https://plato.stanford.edu/entries/ethics-belief/#StrVsMod)
-* [4.2 同步与历时](https://plato.stanford.edu/entries/ethics-belief/#SynVsDia)
-* [4.3 证据及其拥有](https://plato.stanford.edu/entries/ethics-belief/#EviPos)
-* [5. 证据主义的种类](https://plato.stanford.edu/entries/ethics-belief/#VarEvi)
-* [5.1 谨慎证据主义](https://plato.stanford.edu/entries/ethics-belief/#PruEvi)
-* [5.2 Moral evidentialism](https://plato.stanford.edu/entries/ethics-belief/#MorEvi)
-* [5.3 认识论证据主义](https://plato.stanford.edu/entries/ethics-belief/#EpiEvi)
-* [6. 非证据主义的种类](https://plato.stanford.edu/entries/ethics-belief/#VarNonEvi)
-* [6.1 实践非证据主义](https://plato.stanford.edu/entries/ethics-belief/#PraNonEvi)
-* [6.2 保守非证据主义](https://plato.stanford.edu/entries/ethics-belief/#ConNonEvi)
-* [6.3 信仰非证据主义](https://plato.stanford.edu/entries/ethics-belief/#FidNonEvi)
-* [7. 接受的伦理学](https://plato.stanford.edu/entries/ethics-belief/#EthAcc)
-* [参考文献](https://plato.stanford.edu/entries/ethics-belief/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/ethics-belief/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ethics-belief/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ethics-belief/#Rel)
+
 
 ***
 

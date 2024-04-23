@@ -12,15 +12,6 @@ _首次发表于 2004 年 2 月 29 日；实质性修订于 2023 年 11 月 13 �
 
 在 17 世纪和 18 世纪，关于美和品味的讨论涉及各种对象，包括视觉艺术、文学、音乐、人体、食物和礼仪。本文将重点关注受到作家们最关注的领域：文学和视觉艺术。争议的问题包括：如何定义美——通过感官、理性还是传统规则？人类的思维如何感知美的对象？谁有权利评判？这些问题都没有得到明确的答案，但启蒙时代对美的理念塑造了古典法国文化的遗产，不仅至今对法国有影响，而且对 18 世纪西方世界的整体影响也是如此。
 
-* [1. 古典遗产](https://plato.stanford.edu/entries/aesthetics-18th-french/#ClasLega)
-* [2. 沙龙文化与感性](https://plato.stanford.edu/entries/aesthetics-18th-french/#SaloCultSens)
-* [3. 笛卡尔美学](https://plato.stanford.edu/entries/aesthetics-18th-french/#CartBeau)
-* [4. 启蒙运动的哲学家们](https://plato.stanford.edu/entries/aesthetics-18th-french/#EnliPhil)
-* [5. 绘画：业余爱好者和专业人士](https://plato.stanford.edu/entries/aesthetics-18th-french/#PainAmatProf)
-* [参考文献](https://plato.stanford.edu/entries/aesthetics-18th-french/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/aesthetics-18th-french/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aesthetics-18th-french/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aesthetics-18th-french/#Rel)
 
 ***
 

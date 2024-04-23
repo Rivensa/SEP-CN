@@ -4,20 +4,6 @@ _首次发表于 2012 年 10 月 17 日星期三；实质性修订于 2023 年 1
 
 约瑟夫·巴特勒以批评与霍布斯和伯纳德·曼德维尔相关的享乐主义和利己主义“自私”理论而闻名，以及他积极主张自爱和良心并不矛盾，如果正确理解的论点（实际上促进并支持相同的行动）。除了作为道德哲学家的重要性外，巴特勒还是一位有影响力的英国圣公会神学家。毫不奇怪，他的神学和哲学是相互联系的 - 他在道德哲学方面的主要著作是发表的布道、一部自然神学著作以及附属于该著作的简短论文。尽管巴特勒的大部分道德论点充分利用了经文和熟悉的基督教故事和概念，但它们很少提到 - 并且很少依赖读者具有 - 任何特定的宗教承诺。实际上，他的许多论点并不依赖于读者具有任何宗教承诺。他的《宗教类比》旨在说服自然神学和启示神学核心教义的自然神论者，但这一论点只假设了巴特勒与他们共享的前提。这导致他的哲学对世俗和基督教道德家都感兴趣，并引发了关于他的伦理学有多少和什么依赖于他的基督教承诺的讨论。
 
-* [1. 生平、作品和概述](https://plato.stanford.edu/entries/butler-moral/#LifWorGenOve)
-* [2. 道德科学](https://plato.stanford.edu/entries/butler-moral/#MorSci)
-* [3. 人类本性](https://plato.stanford.edu/entries/butler-moral/#HumNat)
-* [4. 良心与人类本性的原则](https://plato.stanford.edu/entries/butler-moral/#ConPriHumNat)
-* [5. 自爱与仁爱](https://plato.stanford.edu/entries/butler-moral/#SelLovBen)
-* [6. 怜悯、愤恨和宽恕](https://plato.stanford.edu/entries/butler-moral/#ComResFor)
-* [7. 自欺和无知](https://plato.stanford.edu/entries/butler-moral/#SelDecIgn)
-* [8. 影响](https://plato.stanford.edu/entries/butler-moral/#Inf)
-* [参考文献](https://plato.stanford.edu/entries/butler-moral/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/butler-moral/#PriLit)
-* [次要文献](https://plato.stanford.edu/entries/butler-moral/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/butler-moral/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/butler-moral/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/butler-moral/#Rel)
 
 ***
 

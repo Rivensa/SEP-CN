@@ -4,22 +4,6 @@ _首次发表于 1997 年 6 月 15 日；实质性修订于 2021 年 8 月 6 日
 
 伯纳德·鲍桑葵（1848–1923），英国哲学家、政治理论家和社会改革者，是十九世纪末至二十世纪初“绝对唯心主义”（Absolute Idealism）的主要代表之一。
 
-* [1. 生平](https://plato.stanford.edu/entries/bosanquet/#Lif)
-* [2. 概况背景](https://plato.stanford.edu/entries/bosanquet/#GenBac)
-* [3. 主要贡献](https://plato.stanford.edu/entries/bosanquet/#PriCon)
-* [3.1 逻辑与认识论](https://plato.stanford.edu/entries/bosanquet/#LogEpi)
-* [3.2 形而上学与绝对理论](https://plato.stanford.edu/entries/bosanquet/#MetTheAbs)
-* [3.3 宗教](https://plato.stanford.edu/entries/bosanquet/#Reli)
-* [3.4 美学](https://plato.stanford.edu/entries/bosanquet/#Aes)
-* [3.5 社会、政治和法律哲学](https://plato.stanford.edu/entries/bosanquet/#SocPolLeg)
-* [3.6 社会工作和成人教育](https://plato.stanford.edu/entries/bosanquet/#SocWorAduEdu)
-* [4. 总体评估](https://plato.stanford.edu/entries/bosanquet/#GenAss)
-* [参考文献](https://plato.stanford.edu/entries/bosanquet/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/bosanquet/#PriLit)
-* [次要文献](https://plato.stanford.edu/entries/bosanquet/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/bosanquet/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/bosanquet/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bosanquet/#Rel)
 
 ***
 

@@ -8,16 +8,6 @@ _首次发表于 2006 年 12 月 27 日_
 
 Wiredu 和 Gyekye 之间的辩论不仅提供了关于人格观念的实质性见解，还展示了经验证据如何用于哲学分析。在这个特定案例中，阿肯人对人格的看法，像许多其他形而上学和道德观念一样，对社会实践和制度产生深远影响。利用这些实践和制度的事实来重建人格观念，突显了非洲哲学中另一个重要的普遍主题：哲学原则对日常生活的实际影响。对于阿肯人来说，关于人格的判断不仅仅是学术兴趣的问题，而是在塑造和支持他们高度共同体社会结构中起着重要作用。在阿肯人的观念中，普遍人性作为价值的固有源泉，支持了道德平等。同时，它对人格社会基础的强调有助于将信任、合作和对社区的责任牢固地融入文化实践中。因此，阿肯人的人格哲学代表了一种试图在身份、自由和道德问题上以共同体主义的方式解决，并作为一种理性适应恶劣条件下生存需求的方式。
 
-* [1. 人格的程度](https://plato.stanford.edu/entries/akan-person/#DegPer)
-* [2. 实现人格](https://plato.stanford.edu/entries/akan-person/#AchPer)
-* [3. 个体与社区](https://plato.stanford.edu/entries/akan-person/#IndCom)
-* [4. 责任和自由意志](https://plato.stanford.edu/entries/akan-person/#ResFreWil)
-* [5. 人格和社会地位](https://plato.stanford.edu/entries/akan-person/#PerSocSta)
-* [6. 结论](https://plato.stanford.edu/entries/akan-person/#Con)
-* [参考文献](https://plato.stanford.edu/entries/akan-person/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/akan-person/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/akan-person/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/akan-person/#Rel)
 
 ***
 

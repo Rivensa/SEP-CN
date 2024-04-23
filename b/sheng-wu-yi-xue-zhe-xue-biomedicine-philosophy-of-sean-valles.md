@@ -17,26 +17,7 @@ _首次发布于 2020 年 4 月 9 日_
 
 在“生物医学哲学”中所研究的“医学”大部分是在生物医学框架内进行的医学，因此存在很大的重叠。然而，本条目将完成与该条目不同的任务。本条目将回顾哲学文献（以及一些相关领域的文献，如医学史），对生物医学框架本身进行全面或部分的审查。
 
-* [1. 生物医学作为医学和生物学的框架](https://plato.stanford.edu/entries/biomedicine/#BiomFramForMediBiol)
-* [1.1 什么是生物医学？](https://plato.stanford.edu/entries/biomedicine/#WhatBiom)
-* [1.2 生物医学的历史](https://plato.stanford.edu/entries/biomedicine/#HistBiom)
-* [2. 生物医学中的本体论和形而上学承诺](https://plato.stanford.edu/entries/biomedicine/#OntoMetaCommBiom)
-* [2.1 生物医学中的身体和生命本体论](https://plato.stanford.edu/entries/biomedicine/#OntoBodyLifeBiom)
-* [2.2 生物医学对健康和疾病的概念](https://plato.stanford.edu/entries/biomedicine/#BiomConcHealDise)
-* [3. 生物医学的认识论](https://plato.stanford.edu/entries/biomedicine/#EpisBiom)
-* [3.1 生物医学中专业知识和实验临床数据的认识论](https://plato.stanford.edu/entries/biomedicine/#EpisExpeExpeClinDataBiom)
-* [3.2 生物医学中基础科学和应用科学的认识论](https://plato.stanford.edu/entries/biomedicine/#EpisBasiApplScieBiom)
-* [3.3 生物医学中测量的认识论](https://plato.stanford.edu/entries/biomedicine/#EpisMeasBiom)
-* [3.4 生物医学认识论中的还原主义](https://plato.stanford.edu/entries/biomedicine/#ReduEpisBiom)
-* [4. 生物医学作为一种制度](https://plato.stanford.edu/entries/biomedicine/#BiomInst)
-* [5. 替代性框架](https://plato.stanford.edu/entries/biomedicine/#AlteFram)
-* [5.1 传统疗法](https://plato.stanford.edu/entries/biomedicine/#TradHealPrac)
-* [5.2 叙事和现象学方法](https://plato.stanford.edu/entries/biomedicine/#NarrPhenAppr)
-* [5.3 温和医学和人口健康框架方法](https://plato.stanford.edu/entries/biomedicine/#GentMediPopuHealFramAppr)
-* [参考文献](https://plato.stanford.edu/entries/biomedicine/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/biomedicine/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/biomedicine/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/biomedicine/#Rel)
+
 
 ***
 

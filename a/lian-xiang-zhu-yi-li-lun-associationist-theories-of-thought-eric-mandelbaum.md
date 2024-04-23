@@ -4,34 +4,6 @@ _首次发布于 2015 年 3 月 17 日；实质性修订于 2020 年 6 月 24 �
 
 联想主义是最古老的思维理论之一，而且以某种形式广泛流传。几个世纪以来，联想主义一直是经验主义的推动力量，从英国经验主义者到行为主义者再到现代的连接主义者。然而，“联想主义”并不是指特定的认知理论本身，而是一系列相关但可分离的命题。这些命题的共同点在于对思维的某种非理性的承诺：一个生物的心理状态之间存在关联，是由于其因果历史的某些事实，而且这些心理状态的关联意味着将一对关联中的一个想起来将会在其他情况不变的情况下激活另一个。
 
-* [1. 什么是联想主义？](https://plato.stanford.edu/entries/associationist-thought/#WhaAss)
-* [2. 联想主义作为心理过程的理论：经验主义的联系](https://plato.stanford.edu/entries/associationist-thought/#AssTheMenProEmpCon)
-* [3. 联想主义作为学习理论](https://plato.stanford.edu/entries/associationist-thought/#AssTheLea)
-* [4.心理结构的联想主义理论](https://plato.stanford.edu/entries/associationist-thought/#AssTheMenStr)
-* [4.1 联想对称性](https://plato.stanford.edu/entries/associationist-thought/#AssSym)
-* [4.2 关联结构的激活图](https://plato.stanford.edu/entries/associationist-thought/#ActMapAssStr)
-* [4.3 关联学习与关联结构之间的关系](https://plato.stanford.edu/entries/associationist-thought/#RelBetAssLeaAssStr)
-* [4.4 灭绝和反条件化](https://plato.stanford.edu/entries/associationist-thought/#ExtCou)
-* [5. 联想转换](https://plato.stanford.edu/entries/associationist-thought/#AssTra)
-* [6. 关联实例化](https://plato.stanford.edu/entries/associationist-thought/#AssIns)
-* [7. 关联的种类与相关立场之间的关系](https://plato.stanford.edu/entries/associationist-thought/#RelBetVarAssRelPos)
-* [8. 社会心理学中的联想主义](https://plato.stanford.edu/entries/associationist-thought/#AssSocPsy)
-* [8.1 隐性态度](https://plato.stanford.edu/entries/associationist-thought/#ImpAtt)
-* [8.2 双过程理论](https://plato.stanford.edu/entries/associationist-thought/#DuaProThe)
-* [9. 关联主义的批评](https://plato.stanford.edu/entries/associationist-thought/#CriAss)
-* [9.1 学习曲线](https://plato.stanford.edu/entries/associationist-thought/#LeaCur)
-* [9.2 断言问题](https://plato.stanford.edu/entries/associationist-thought/#ProPre)
-* [9.3 词汇学习](https://plato.stanford.edu/entries/associationist-thought/#WorLea)
-* [9.3.1 快速映射](https://plato.stanford.edu/entries/associationist-thought/#FasMap)
-* [9.3.2 句法类别学习](https://plato.stanford.edu/entries/associationist-thought/#SynCatLea)
-* [9.4 反对联想主义的邻近性分析](https://plato.stanford.edu/entries/associationist-thought/#AgaConAnaAss)
-* [9.4.1 对接触性的必要性的反对](https://plato.stanford.edu/entries/associationist-thought/#AgaNecCon)
-* [9.4.2 对接触性的充分性的反对](https://plato.stanford.edu/entries/associationist-thought/#AgaSufCon)
-* [9.5 同一性](https://plato.stanford.edu/entries/associationist-thought/#Coe)
-* [参考文献](https://plato.stanford.edu/entries/associationist-thought/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/associationist-thought/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/associationist-thought/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/associationist-thought/#Rel)
 
 ***
 

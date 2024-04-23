@@ -4,21 +4,6 @@
 
 逻辑代数是仅具有联结词的两值逻辑代数，或者等效地说是集合代数中的代数（并集和补集）。严格的概念是某种类型的代数，类似于数学概念中的群。这个概念在逻辑（林登鲍姆-塔斯基代数和模型论）、集合论（集合域）、拓扑学（完全不连通的紧致 Hausdorff 空间）、集合论基础（布尔值模型）、测度论（测度代数）、函数分析（投影代数）和环论（布尔环）中有根源和应用。对逻辑代数的研究有几个方面：结构理论、逻辑代数的模型论、布尔代数类的可判定性和不可判定性问题，以及所指示的应用。此外，虽然这里没有解释，但与其他逻辑、包含作为特殊类型代数逻辑的一部分、有限布尔代数和开关电路理论以及布尔矩阵有关。
 
-* [1. 定义和简单性质](https://plato.stanford.edu/entries/boolalg-math/#def)
-* [2. 初等代数理论](https://plato.stanford.edu/entries/boolalg-math/#elem)
-* [3. 逻辑代数的特殊类](https://plato.stanford.edu/entries/boolalg-math/#spec)
-* [4. 逻辑代数的结构理论和基数函数](https://plato.stanford.edu/entries/boolalg-math/#card)
-* [5. 可决定性和不可决定性问题](https://plato.stanford.edu/entries/boolalg-math/#decid)
-
-* [6. Lindenbaum-Tarski algebras](https://plato.stanford.edu/entries/boolalg-math/#lind)
-
-* [7. Boolean-valued models](https://plato.stanford.edu/entries/boolalg-math/#bv)
-
-* [Bibliography](https://plato.stanford.edu/entries/boolalg-math/#Bib)
-
-* [学术工具](https://plato.stanford.edu/entries/boolalg-math/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/boolalg-math/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/boolalg-math/#Rel)
 
 ---
 

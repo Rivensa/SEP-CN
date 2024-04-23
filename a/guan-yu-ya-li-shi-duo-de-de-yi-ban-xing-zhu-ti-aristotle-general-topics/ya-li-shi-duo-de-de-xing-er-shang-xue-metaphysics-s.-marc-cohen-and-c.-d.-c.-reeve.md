@@ -6,25 +6,6 @@ _首次发表于 2000 年 10 月 8 日；实质性修订于 2020 年 11 月 21 �
 
 在文中，对亚里士多德的《形而上学》的引用以希腊字母表示。按顺序（括号中给出相应的罗马数字），它们是：Α（I），α（II），Β（III），Γ（IV），Δ（V），Ε（VI），Ζ（VII），Η（VIII），Θ（IX），I（X），Κ（XI），Λ（XII），Μ（XIII），Ν（XIV）。翻译取自 Reeve（2016）。
 
-* [1. 亚里士多德的《形而上学》的主题](https://plato.stanford.edu/entries/aristotle-metaphysics/#SubjMattArisMeta)
-* [2. 范畴论](https://plato.stanford.edu/entries/aristotle-metaphysics/#Cate)
-* [3. 实体在研究存在本身中的作用](https://plato.stanford.edu/entries/aristotle-metaphysics/#RoleSubsStudBeinQuaBein)
-* [4. 基本原理：公理](https://plato.stanford.edu/entries/aristotle-metaphysics/#FundPrinAxio)
-* [5. 什么是实体？](https://plato.stanford.edu/entries/aristotle-metaphysics/#WhatSubs)
-* [6. 实体、物质和主体](https://plato.stanford.edu/entries/aristotle-metaphysics/#SubsMattSubj)
-* [7. 实体和本质](https://plato.stanford.edu/entries/aristotle-metaphysics/#SubsEsse)
-* [8. 物质作为形质化合物](https://plato.stanford.edu/entries/aristotle-metaphysics/#SubsHyloComp)
-* [9. 物质和定义](https://plato.stanford.edu/entries/aristotle-metaphysics/#SubsDefi)
-* [10. 物质和普遍性](https://plato.stanford.edu/entries/aristotle-metaphysics/#SubsUniv)
-* [11. 实体作为存在的原因](https://plato.stanford.edu/entries/aristotle-metaphysics/#SubsCausBein)
-* [12. 实际性和潜在性](https://plato.stanford.edu/entries/aristotle-metaphysics/#ActuPote)
-* [13. 重新考虑的统一性](https://plato.stanford.edu/entries/aristotle-metaphysics/#UnitReco)
-* [14. 神学](https://plato.stanford.edu/entries/aristotle-metaphysics/#Theol)
-* [15. 亚里士多德术语词汇表](https://plato.stanford.edu/entries/aristotle-metaphysics/#GlosArisTerm)
-* [参考文献](https://plato.stanford.edu/entries/aristotle-metaphysics/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/aristotle-metaphysics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aristotle-metaphysics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aristotle-metaphysics/#Rel)
 
 ***
 

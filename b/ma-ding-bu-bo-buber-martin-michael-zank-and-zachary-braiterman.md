@@ -4,26 +4,6 @@ _首次发表于 2004 年 4 月 20 日；实质性修订于 2020 年 7 月 28 �
 
 马丁·布伯（1878–1965）是一位多产的作家、学者、文学翻译家和政治活动家，他的著作主要用德语和希伯来语，涵盖犹太神秘主义、社会哲学、圣经研究、宗教现象学、哲学人类学、教育、政治和艺术等领域。他最著名的哲学著作之一是短小而有力的《我与你》（1923 年），在这本书中，我们与他人的关系被认为是双重的。_我-它_关系存在于思想和行动的主体和客体之间；另一方面，_我-你_关系则发生在超越笛卡尔主体-客体关系范围的主体之间的相遇中。尽管最初计划作为宗教现象学导论，_我与你_在其他领域也产生了影响，包括教育哲学。马丁·布伯的著作仍然是定性哲学人类学的关键，继续在哲学心理学、医学人类学和教育理论等领域被引用。布伯关于犹太民族复兴、Hasidism 和政治哲学的著作使他成为犹太思想和宗教哲学领域的重要二十世纪人物。布伯广泛探讨圣经史学和先知文学的政治维度，不仅对宗教史作出了贡献，还对具有无政府主义倾向的当代政治神学讨论产生了影响。他与弗朗茨·罗森茨韦格合译的希伯来圣经德语译本仍然是德语中的经典之作。
 
-* [1. 传记背景](https://plato.stanford.edu/entries/buber/#BioBac)
-* [2. 哲学影响](https://plato.stanford.edu/entries/buber/#PhiInf)
-* [3. 早期的马丁·布伯：](https://plato.stanford.edu/entries/buber/#EarBubGesMeaRea)​\*[整体](https://plato.stanford.edu/entries/buber/#EarBubGesMeaRea)\*​[作为实现的手段](https://plato.stanford.edu/entries/buber/#EarBubGesMeaRea)
-* [4. 对话哲学：](https://plato.stanford.edu/entries/buber/#DiaITho)​\*[我和你](https://plato.stanford.edu/entries/buber/#DiaITho)\*
-* [5. 锡安主义](https://plato.stanford.edu/entries/buber/#Zio)
-* [6. 政治神学](https://plato.stanford.edu/entries/buber/#PolThe)
-* [7. 距离与关系：晚期哲学人类学](https://plato.stanford.edu/entries/buber/#DisRelLatPhiAnt)
-* [8. 批判](https://plato.stanford.edu/entries/buber/#Cri)
-* [9. 荣誉与遗产](https://plato.stanford.edu/entries/buber/#HonLeg)
-* [参考文献](https://plato.stanford.edu/entries/buber/#Bib)
-* [已引用作品](https://plato.stanford.edu/entries/buber/#WorCit)
-* [文献目录](https://plato.stanford.edu/entries/buber/#Bibs)
-* [马丁·布伯的部分早期作品](https://plato.stanford.edu/entries/buber/#SelEarWorMarBub)
-* [著作和信函的汇编与版本](https://plato.stanford.edu/entries/buber/#ColEdiWriLet)
-* [马丁·布伯 in English](https://plato.stanford.edu/entries/buber/#BubEng)
-* [马丁·布伯选编辑著作](https://plato.stanford.edu/entries/buber/#SelEdiVolMarBub)
-* [次级文献](https://plato.stanford.edu/entries/buber/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/buber/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/buber/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/buber/#Rel)
 
 ***
 

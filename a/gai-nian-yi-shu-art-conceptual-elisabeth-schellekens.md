@@ -4,24 +4,6 @@
 
 艺术哲学涉及广泛的理论问题，涵盖了各种各样的关注对象。这些对象包括旧石器时代的洞穴壁画到后现代诗歌，以及音乐如何传达情感的问题到虚构角色的形而上学地位的问题。然而，直到最近，哲学对概念艺术或概念主义的兴趣明显稀少。为什么呢？毕竟，哲学和概念传统下的各种艺术和艺术创作形式都有一个共同点：它们都旨在让你思考并提出紧迫的问题。那些问题是什么，我们如何回答它们？
 
-* [1. 概念艺术 - 是什么？](https://plato.stanford.edu/entries/conceptual-art/#ConArtWhaIt)
-* [1.1 简介](https://plato.stanford.edu/entries/conceptual-art/#Int)
-* [1.2 艺术的界限和艺术家的角色](https://plato.stanford.edu/entries/conceptual-art/#LimArtRolArt)
-* [1.3 艺术媒体](https://plato.stanford.edu/entries/conceptual-art/#ArtMed)
-* [1.4 艺术作为思想](https://plato.stanford.edu/entries/conceptual-art/#ArtIde)
-* [1.5 语义表示](https://plato.stanford.edu/entries/conceptual-art/#SemRep)
-* [2. 概念艺术的哲学 - 它是什么？](https://plato.stanford.edu/entries/conceptual-art/#PhiConArtWhaIt)
-* [3. 五个哲学主题](https://plato.stanford.edu/entries/conceptual-art/#FivPhiThe)
-* [3.1 艺术的定义](https://plato.stanford.edu/entries/conceptual-art/#DefArt)
-* [3.2 概念艺术的本体论和媒介](https://plato.stanford.edu/entries/conceptual-art/#OntMedArt)
-* [3.3 艺术的审美价值](https://plato.stanford.edu/entries/conceptual-art/#AesValArt)
-* [3.4 艺术的解释](https://plato.stanford.edu/entries/conceptual-art/#IntArt)
-* [3.5 艺术的认知价值](https://plato.stanford.edu/entries/conceptual-art/#CogValArt)
-* [4. 进一步的问题](https://plato.stanford.edu/entries/conceptual-art/#FurQue)
-* [参考文献](https://plato.stanford.edu/entries/conceptual-art/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/conceptual-art/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/conceptual-art/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/conceptual-art/#Rel)
 
 ***
 

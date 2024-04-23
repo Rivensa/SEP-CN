@@ -8,19 +8,6 @@ _首次发布于 2014 年 9 月 11 日；实质性修订于 2020 年 2 月 20 �
 
 除了作为哲学辩论的一个话题外，真实性也是一种普遍的理想，影响着社会和政治思维。事实上，近期西方知识发展的一个显著特点就是转向了所谓的“真实性时代”（泰勒 2007 年；费拉拉 1998 年）。因此，理解这个概念还涉及对其历史和哲学源头的调查，以及它对当代社会的社会政治观念的影响。
 
-* [1. 真实性概念的起源和意义](https://plato.stanford.edu/entries/authenticity/#OriMeaConAut)
-* [1.1 真诚与真实性](https://plato.stanford.edu/entries/authenticity/#SinAut)
-* [1.2 自主与真实性](https://plato.stanford.edu/entries/authenticity/#AutAut)
-* [1.3 真实性与自我](https://plato.stanford.edu/entries/authenticity/#AutSel)
-* [2. 对真实性的批判](https://plato.stanford.edu/entries/authenticity/#CriAut)
-* [3. 真实性的概念](https://plato.stanford.edu/entries/authenticity/#ConAut)
-* [3.1 基尔凯郭尔和海德格尔](https://plato.stanford.edu/entries/authenticity/#KieHei)
-* [3.2 萨特和德博瓦尔](https://plato.stanford.edu/entries/authenticity/#SarDeBea)
-* [4. 最近对真实性的解释](https://plato.stanford.edu/entries/authenticity/#RecAccAut)
-* [参考文献](https://plato.stanford.edu/entries/authenticity/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/authenticity/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/authenticity/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/authenticity/#Rel)
 
 ***
 

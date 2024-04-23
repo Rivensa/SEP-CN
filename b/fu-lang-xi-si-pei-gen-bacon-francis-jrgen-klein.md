@@ -8,23 +8,7 @@ _First published Mon Dec 29, 2003; substantive revision Fri Dec 7, 2012_
 
 直到今天，培根以他关于经验主义自然哲学的论文（《学术进展》、《新科学方法》）以及他在早期著作中提出的偶像学说而闻名，同时也以他在《新亚特兰蒂斯》中描述的现代研究机构的概念而闻名。
 
-* [1. 传记](https://plato.stanford.edu/entries/francis-bacon/#Bio)
-* [2. 自然哲学：与传统的斗争](https://plato.stanford.edu/entries/francis-bacon/#NatStrTra)
-* [3. 自然哲学：偶像理论和科学体系](https://plato.stanford.edu/entries/francis-bacon/#NatTheIdoSysSci)
-* [3.1 偶像](https://plato.stanford.edu/entries/francis-bacon/#Ido)
-* [3.2 科学体系](https://plato.stanford.edu/entries/francis-bacon/#SysSci)
-* [3.3 物质理论和宇宙学](https://plato.stanford.edu/entries/francis-bacon/#MatTheCos)
-* [4. 科学方法：《伟大的恢复》计划](https://plato.stanford.edu/entries/francis-bacon/#SciMetProInsMag)
-* [5. 科学方法：新工具论和归纳理论](https://plato.stanford.edu/entries/francis-bacon/#SciMetNovOrgTheInd)
-* [6. 科学与社会哲学](https://plato.stanford.edu/entries/francis-bacon/#SciSoc)
-* [7. 培根思想中的伦理维度](https://plato.stanford.edu/entries/francis-bacon/#EthDimBacTho)
-* [参考文献](https://plato.stanford.edu/entries/francis-bacon/#Bib)
-* [培根的主要哲学著作](https://plato.stanford.edu/entries/francis-bacon/#MajPhiWorBac)
-* [关于培根的选集](https://plato.stanford.edu/entries/francis-bacon/#SelWorBac)
-* [其他次级文献](https://plato.stanford.edu/entries/francis-bacon/#OthSecLit)
-* [学术工具](https://plato.stanford.edu/entries/francis-bacon/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/francis-bacon/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/francis-bacon/#Rel)
+
 
 ***
 

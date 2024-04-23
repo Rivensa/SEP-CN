@@ -4,24 +4,7 @@ _首次发表于 2004 年 2 月 23 日星期一；实质性修订于 2020 年 5 
 
 埃德蒙·伯克，《法国革命反思录》的作者，被广泛认为是一位经典的政治思想家：人们较少了解的是，他的知识成就取决于他对哲学的理解以及在实践著作和演讲中对其的运用，而这些是他主要以此而闻名的。本文探讨了他在政治思想中运用哲学的特点和意义。这一思想对知识史和政治行为至关重要。本文是首次尝试审视其哲学特性，并将后者与伯克的政治活动联系起来。通过这样做，它展示了伯克思想中哲学元素的重要性，以及这些元素对他的政治思想产生的重要影响。
 
-* [1. 简介](https://plato.stanford.edu/entries/burke/#Intr)
-* [2. 生平](https://plato.stanford.edu/entries/burke/#Life)
-* [3. 知识取向](https://plato.stanford.edu/entries/burke/#InteOrie)
-* [4. 哲学和历史著作](https://plato.stanford.edu/entries/burke/#PhilHistWrit)
-* [5. 政治风格：一些议会应用](https://plato.stanford.edu/entries/burke/#PoliStylSomeParlAppl)
-* [6. 埃德蒙·伯克的实践推理](https://plato.stanford.edu/entries/burke/#BurkPracReas)
-* [7. 伯克与美国革命](https://plato.stanford.edu/entries/burke/#BurkAmerRevo)
-* [8. 政治倾向的哲学特征](https://plato.stanford.edu/entries/burke/#PhilCharPoliDisp)
-* [9. 法国的革命](https://plato.stanford.edu/entries/burke/#RevoFran)
-* [10. 解释的问题](https://plato.stanford.edu/entries/burke/#ProbInte)
-* [11. 结论](https://plato.stanford.edu/entries/burke/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/burke/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/burke/#PrimLite)
-* [次要文献](https://plato.stanford.edu/entries/burke/#SecoLite)
-* [其他引用的作品](https://plato.stanford.edu/entries/burke/#OtheWorkCite)
-* [学术工具](https://plato.stanford.edu/entries/burke/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/burke/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/burke/#Rel)
+
 
 ***
 

@@ -6,31 +6,6 @@
 
 法拉比研究语言在人类生活和社会中的各种作用。他强调语言用于传达信息、提出问题和解决分歧，以及描述区别和分类。他认为语言在某种意义上复制意义，并且需要避免语言与意义之间的不匹配。他将亚里士多德的逻辑呈现为一套方法，用于行使说服力、调节辩论、发现真理和获得确定性。他还探讨了逻辑在诗歌中的应用。在这一过程中，他对诸如形而上学问题的来源、事件的时间结构以及诗歌与音乐之间的关系等问题做出了许多深刻的观察。
 
-* [1. 阿里·法拉比的著作及其背景](https://plato.stanford.edu/entries/al-farabi-logic/#AlFrbsWritTheiBack)
-* [2. 语言的起源](https://plato.stanford.edu/entries/al-farabi-logic/#OrigLang)
-* [3. 推理艺术的起源](https://plato.stanford.edu/entries/al-farabi-logic/#OrigSyllArts)
-* [4. 请求与问题](https://plato.stanford.edu/entries/al-farabi-logic/#RequQues)
-
-  * [4.1 辩论中的问题](https://plato.stanford.edu/entries/al-farabi-logic/#QuesDeba)
-  * [4.2 寻求信息的问题](https://plato.stanford.edu/entries/al-farabi-logic/#QuesSeekInfo)
-* [5. 逻辑的定义](https://plato.stanford.edu/entries/al-farabi-logic/#DefiLogi)
-* [6. 推理工具](https://plato.stanford.edu/entries/al-farabi-logic/#ToolForInfe)
-
-  * [ 6.1 分类逻辑](https://plato.stanford.edu/entries/al-farabi-logic/#CateLogi)
-  * [ 6.2 假设逻辑](https://plato.stanford.edu/entries/al-farabi-logic/#HypoLogi)
-  * [ 6.3 模态逻辑](https://plato.stanford.edu/entries/al-farabi-logic/#ModaLogi)
-  * [ 6.4 演示逻辑](https://plato.stanford.edu/entries/al-farabi-logic/#DemoLogi)
-* [ 7. 逻辑推论](https://plato.stanford.edu/entries/al-farabi-logic/#LogiCons)
-* [8. 真理与虚假](https://plato.stanford.edu/entries/al-farabi-logic/#TrutFals)
-* [9. 阿拉伯语的基础](https://plato.stanford.edu/entries/al-farabi-logic/#FounArab)
-* [10. 诗歌与音乐](https://plato.stanford.edu/entries/al-farabi-logic/#PoetMusi)
-* [ 参考文献](https://plato.stanford.edu/entries/al-farabi-logic/#Bib)
-
-  * [ 阿里·法拉比著作](https://plato.stanford.edu/entries/al-farabi-logic/#WorkAlFrb)
-  * [其他作者的作品](https://plato.stanford.edu/entries/al-farabi-logic/#WorkOtheAuth)
-* [ 学术工具](https://plato.stanford.edu/entries/al-farabi-logic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/al-farabi-logic/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/al-farabi-logic/#Rel)
 
 ---
 

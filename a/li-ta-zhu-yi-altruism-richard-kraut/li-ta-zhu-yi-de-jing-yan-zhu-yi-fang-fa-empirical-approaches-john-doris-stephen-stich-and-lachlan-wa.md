@@ -4,21 +4,7 @@ _首次发布于 2020 年 1 月 6 日_
 
 许多哲学家认为利他主义是道德的重要组成部分，并且人们经常表现出利他行为。其他哲学家以及许多生物学家和社会科学家声称，关于人类心理学或塑造人类心理学的进化过程的事实表明，没有任何人类行为是真正的利他主义。这种分歧的一部分可以追溯到哲学家和科学家都使用“利他主义”一词，但含义却有很大不同。第 2、3 和 4 节介绍了一些广泛使用的利他主义解释。其中之一，“标准解释”，是哲学界关于利他主义存在性的大部分争论的焦点。第 5 和 6 节回顾了一些最重要的经验研究工作，旨在确定人类是否确实可以按照标准解释表现出利他行为。
 
-* [1.一些哲学背景](https://plato.stanford.edu/entries/altruism-empirical/#SomePhilBack)
-* [2. 定义“利己主义”和“利他主义”——标准解释](https://plato.stanford.edu/entries/altruism-empirical/#DefiEgoiAltrStanAcco)
-* [3. 利他主义和进化](https://plato.stanford.edu/entries/altruism-empirical/#AltrEvol)
-* [4. 社会科学中的利他主义](https://plato.stanford.edu/entries/altruism-empirical/#AltrSociScie)
-* [5. 心理学中的利己主义与利他主义辩论](https://plato.stanford.edu/entries/altruism-empirical/#EgoiVsAltrDebaPsyc)
-* [5.1 社会惩罚假设](https://plato.stanford.edu/entries/altruism-empirical/#SociPuniHypo)
-* [5.2 厌恶-唤醒减少假设](https://plato.stanford.edu/entries/altruism-empirical/#AverArouReduHypo)
-* [5.3 自我与他人融合所带来的挑战](https://plato.stanford.edu/entries/altruism-empirical/#ChalPoseSelfOtheMerg)
-* [5.4 Batson 的研究是否为人类存在利他主义提供了令人信服的证据？](https://plato.stanford.edu/entries/altruism-empirical/#HaveBatsStudMadeConvCaseForExisAltrHuma)
-* [6. 利他主义与利己主义之外](https://plato.stanford.edu/entries/altruism-empirical/#BeyoEgoiVsAltr)
-* [7. 最终结论](https://plato.stanford.edu/entries/altruism-empirical/#BottLine)
-* [参考文献](https://plato.stanford.edu/entries/altruism-empirical/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/altruism-empirical/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/altruism-empirical/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/altruism-empirical/#Rel)
+
 
 ***
 

@@ -6,26 +6,6 @@ _首次发布于 2014 年 6 月 2 日；实质性修订于 2022 年 7 月 13 日
 
 亚历山大的作品在他的一生中广受赞誉。J·H·穆尔黑德（1939：3）写道，在布拉德利于 1924 年去世后，亚历山大成为“英国哲学界的领军人物，所有学派，无论他们的分歧如何，都很高兴将他视为他们的首领”。约翰·莱尔德（1939：61-5）将《空间、时间和神》描述为自霍布斯以来“最大胆的详细推测形而上学冒险”。尽管他从未创办过哲学学派，但亚历山大被认为对新实在主义者莱尔德、C·D·布罗德和埃德温·B·霍尔特；过程哲学家 A·N·怀特黑德；澳大利亚哲学之父约翰·安德森及其在悉尼的学派；英国唯心主义者梅·辛克莱尔和希尔达·奥克利；以及历史哲学家 R·G·科林伍德产生了影响。在 20 世纪中叶，有许多关于亚历山大作品的研究问世，但随后它经历了一段被忽视的时期。在过去的十年左右，人们对亚历山大的兴趣有所增加，如费舍尔（2021）的《纪念塞缪尔·亚历山大《空间、时间和神》百年》所示。
 
-* [1. 生活](https://plato.stanford.edu/entries/alexander/#Lif)
-* [2. 早期著作](https://plato.stanford.edu/entries/alexander/#EarWri)
-* [2.1 哲学史：黑格尔和洛克](https://plato.stanford.edu/entries/alexander/#HisHegLoc)
-* [2.2 进化伦理学](https://plato.stanford.edu/entries/alexander/#EvoEth)
-* [3. 形而上学和相关观点](https://plato.stanford.edu/entries/alexander/#MetRelVie)
-* [3.1 现实主义和共存](https://plato.stanford.edu/entries/alexander/#ReaCom)
-* [3.2 ](https://plato.stanford.edu/entries/alexander/#SpaTimDei)​\*[空间、时间和神](https://plato.stanford.edu/entries/alexander/#SpaTimDei)\*
-* [3.3 宗教哲学](https://plato.stanford.edu/entries/alexander/#PhilRel)
-* [4. 后期著作](https://plato.stanford.edu/entries/alexander/#LatWri)
-* [4.1 哲学史：斯宾诺莎](https://plato.stanford.edu/entries/alexander/#HisSpi)
-* [4.2 艺术和其他价值形式](https://plato.stanford.edu/entries/alexander/#ArtOthForVal)
-* [4.3 事物的历史性](https://plato.stanford.edu/entries/alexander/#HisThi)
-* [5. 亚历山大的遗产](https://plato.stanford.edu/entries/alexander/#AlexLega)
-* [参考文献](https://plato.stanford.edu/entries/alexander/#Bib)
-* [亚历山大的作品](https://plato.stanford.edu/entries/alexander/#WorAle)
-* [其他主要文献](https://plato.stanford.edu/entries/alexander/#OthPriLit)
-* [二级文献](https://plato.stanford.edu/entries/alexander/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/alexander/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/alexander/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/alexander/#Rel)
 
 ***
 

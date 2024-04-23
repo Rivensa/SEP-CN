@@ -4,20 +4,6 @@ _首次发表于 2001 年 7 月 25 日；实质性修订于 2022 年 1 月 17 �
 
 罗伯特·阿林顿是约翰·威克里夫之后一代最重要的作者之一。他深受沃尔特·伯利的逻辑本体论系统和威克里夫的形而上学影响。他的主要现存作品是对《范畴论》的评论，严重依赖于伯利对《范畴论》的最后评论和威克里夫的《论实在范畴》。然而，他能够发展出新的逻辑和语义理论，以及牛津现实主义者采用的一般策略，他系统地将对外部客观现实的引用替换为对语言和/或心理活动的引用。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/alyngton/#LifeWork)
-* [2. 存在与范畴](https://plato.stanford.edu/entries/alyngton/#BeinCate)
-* [3. 通性与断言](https://plato.stanford.edu/entries/alyngton/#UnivPred)
-* [4. 物质的理论](https://plato.stanford.edu/entries/alyngton/#TheoSubs)
-* [5. 绝对的意外](https://plato.stanford.edu/entries/alyngton/#AbsoluteAcci)
-* [6. 关系和亲属](https://plato.stanford.edu/entries/alyngton/#Relat)
-* [7. 第二意图的语义学](https://plato.stanford.edu/entries/alyngton/#SemaSecoInte)
-* [8. 阿林顿在中世纪思想史中的地位](https://plato.stanford.edu/entries/alyngton/#AlynHistMediThou)
-* [参考文献](https://plato.stanford.edu/entries/alyngton/#Bib)
-* [Primary Literature](https://plato.stanford.edu/entries/alyngton/#PrimLit)
-* [Secondary literature](https://plato.stanford.edu/entries/alyngton/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/alyngton/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/alyngton/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/alyngton/#Rel)
 
 ***
 

@@ -12,28 +12,6 @@ _批评的可能性_（1970 年），这三本书中的第二本，范围更为�
 
 最后一本书《审美观点》（1982 年）是一本论文集，其中大部分是旧作，有些是新作。这本书以主文的标题命名，但标题也是象征性的，表明比厄斯利对整个艺术哲学的方法：必须采取审美观点。书中重新印刷了十四篇论文，主要涉及审美和艺术批评的本质，并增加了六篇新作。这些新作特别有趣，因为它们构成了比厄斯利对所涉及主题的最后一句话，而这些主题本身就是核心问题：审美体验、艺术定义、价值判断、艺术批评中的理由、艺术家的意图和解释，以及艺术与文化。
 
-* [1. 背景](https://plato.stanford.edu/entries/beardsley-aesthetics/#Back)
-* [2. 美学的本质](https://plato.stanford.edu/entries/beardsley-aesthetics/#NatuAest)
-* [3. 艺术的本体论：现象主义和朋友们](https://plato.stanford.edu/entries/beardsley-aesthetics/#OntoArtPhenFrie)
-* [4. 艺术的本质是制度性的](https://plato.stanford.edu/entries/beardsley-aesthetics/#ArtEsseInst)
-* [5. 物体和种类](https://plato.stanford.edu/entries/beardsley-aesthetics/#PhysObjeKind)
-* [6. The Definition of Art](https://plato.stanford.edu/entries/beardsley-aesthetics/#DefiArt)
-* [7. Against Institutional Definitions](https://plato.stanford.edu/entries/beardsley-aesthetics/#AgaiInstDefi)
-* [8. 新浪漫主义的定义](https://plato.stanford.edu/entries/beardsley-aesthetics/#NeoRomaDefi)
-* [9. 艺术家的意图](https://plato.stanford.edu/entries/beardsley-aesthetics/#InteArti)
-* [10. 意向主义者的反击](https://plato.stanford.edu/entries/beardsley-aesthetics/#InteStriBack)
-* [11. 归纳与演绎之间](https://plato.stanford.edu/entries/beardsley-aesthetics/#HalfBetwInduDedu)
-* [12. 意义和言语行为](https://plato.stanford.edu/entries/beardsley-aesthetics/#MeanSpeeActs)
-* [13. 标准和意义](https://plato.stanford.edu/entries/beardsley-aesthetics/#CritMean)
-* [14. 法律的字面意义和精神意义](https://plato.stanford.edu/entries/beardsley-aesthetics/#LettLawSpirLaw)
-* [15. 回到文学话语](https://plato.stanford.edu/entries/beardsley-aesthetics/#BackLiteDisc)
-* [16. 内部与外部](https://plato.stanford.edu/entries/beardsley-aesthetics/#InteExte)
-* [参考文献](https://plato.stanford.edu/entries/beardsley-aesthetics/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/beardsley-aesthetics/#PrimLite)
-* [次级文献](https://plato.stanford.edu/entries/beardsley-aesthetics/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/beardsley-aesthetics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/beardsley-aesthetics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/beardsley-aesthetics/#Rel)
 
 ***
 

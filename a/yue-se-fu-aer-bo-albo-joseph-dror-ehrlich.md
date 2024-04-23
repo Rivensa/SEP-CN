@@ -6,20 +6,6 @@ _首次发表于 2006 年 7 月 20 日；实质性修订于 2020 年 1 月 8 日
 
 阿尔博对犹太哲学史的中心贡献是他的原则理论。在他的理论中，他确定了一个人必须坚持的基本必要信仰，以便属于所谓的“神律法”体系。这一理论是对以前的原则列表的替代，尤其是梅蒙尼德斯制定的十三项信仰原则。阿尔博的列表只包括三个基本信仰：上帝的存在，《托拉》的神圣起源以及奖惩。以下段落将概述阿尔博的理论以及他思想中的几个重要问题，如法律理论、神圣属性理论、人类完善理论以及神意和奖励理论。
 
-* [1. 传记概述](https://plato.stanford.edu/entries/albo-joseph/#BioSke)
-* [2. 历史背景](https://plato.stanford.edu/entries/albo-joseph/#HisBac)
-* [3. 约瑟夫·阿尔博的《](https://plato.stanford.edu/entries/albo-joseph/#IntSefHaIkk)​\*[Sefer ha-‘Ikkarim](https://plato.stanford.edu/entries/albo-joseph/#IntSefHaIkk)\*​[》简介](https://plato.stanford.edu/entries/albo-joseph/#IntSefHaIkk)
-* [4. 法律理论](https://plato.stanford.edu/entries/albo-joseph/#TheLaw)
-* [5. 原理的理论](https://plato.stanford.edu/entries/albo-joseph/#ThePri)
-* [6. 神性的理论](https://plato.stanford.edu/entries/albo-joseph/#TheDiv)
-* [7. 人性的理论](https://plato.stanford.edu/entries/albo-joseph/#TheHum)
-* [8. 天意和报应的理论](https://plato.stanford.edu/entries/albo-joseph/#TheProRec)
-* [参考文献](https://plato.stanford.edu/entries/albo-joseph/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/albo-joseph/#PriLit)
-* [二级文献](https://plato.stanford.edu/entries/albo-joseph/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/albo-joseph/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/albo-joseph/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/albo-joseph/#Rel)
 
 ***
 

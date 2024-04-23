@@ -10,26 +10,6 @@ _首次发布于 2017 年 11 月 1 日 星期三_
 
 这篇文章以布拉德雷回归论点的历史背景开始。_第 1 节_以概述古代、中世纪和现代哲学中一些布拉德雷回归论点的历史前身开篇。然后详细介绍了布拉德雷在《表象与现实》（1893 年）中制定的回归论点，以及布拉德雷后来对复合体和关系的关注。_第 2 节_讨论了布拉德雷回归论点经历的两种扩展类型——就其适用的本体论和所考虑的问题类型而言。_第 3 节_介绍了文献中围绕布拉德雷问题的六种常见回应类型。_第 4 节_通过描述最近在关于基础、对象组成和命题统一的文献中对回归论点的一些应用来总结。
 
-* [1. 历史背景](https://plato.stanford.edu/entries/bradley-regress/#HistBack)
-* [1.1 布拉德雷的回归的先驱者](https://plato.stanford.edu/entries/bradley-regress/#PrecBradRegr)
-* [1.2 布拉德雷的回归 在《表象与现实》(1893)](https://plato.stanford.edu/entries/bradley-regress/#BradRegrArguAppeReal1893)
-* [1.3 1910/1911 年关于关系和复合体的布拉德雷-罗素辩论](https://plato.stanford.edu/entries/bradley-regress/#BradRussDebaAbouRelaComp1910)
-* [1.4 布拉德雷的回归在他的遗作《关系》（1926 年）中的评论](https://plato.stanford.edu/entries/bradley-regress/#BradRemaRelaHisPostRela1926)
-* [2. 布拉德雷回归论证的延伸](https://plato.stanford.edu/entries/bradley-regress/#ExteBradRegrArgu)
-* [2.1 布拉德雷的回归 vs. 一元和二元本体论](https://plato.stanford.edu/entries/bradley-regress/#BradRegrVsOneTwoCateOnto)
-* [2.2 回归及相关问题](https://plato.stanford.edu/entries/bradley-regress/#RegrAssoProb)
-* [3. 对布拉德雷的回归论点的回应](https://plato.stanford.edu/entries/bradley-regress/#ReplBradArgu)
-* [3.1 拒绝主义](https://plato.stanford.edu/entries/bradley-regress/#Reje)
-* [3.2 非关系联系](https://plato.stanford.edu/entries/bradley-regress/#NonRelaTies)
-* [3.3 具有特殊特征的外部关系](https://plato.stanford.edu/entries/bradley-regress/#ExteRelaSpecFeat)
-* [3.4 成分的相互依存](https://plato.stanford.edu/entries/bradley-regress/#MutuInteCons)
-* [3.5 事实的蛮力方法](https://plato.stanford.edu/entries/bradley-regress/#BrutFactAppr)
-* [3.6 仁慈的无限主义](https://plato.stanford.edu/entries/bradley-regress/#N36BeniInfi)
-* [4. 布拉德雷的回归的进一步应用](https://plato.stanford.edu/entries/bradley-regress/#FurtApplBradRegr)
-* [参考文献](https://plato.stanford.edu/entries/bradley-regress/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/bradley-regress/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/bradley-regress/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bradley-regress/#Rel)
 
 ***
 

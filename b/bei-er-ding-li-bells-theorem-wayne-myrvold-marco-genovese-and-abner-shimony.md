@@ -12,26 +12,6 @@ _贝尔定理_是一系列结果的集合名称，所有这些结果都涉及从
 
 物理学界对贝尔定理重要性态度的转变，通过将 2022 年诺贝尔物理学奖授予阿兰·阿斯佩克特、约翰·克劳泽和安东·泽林格而得到了戏剧性的证明，以表彰他们“通过纠缠光子的实验，建立了贝尔不等式的违背，并开创了量子信息科学”。
 
-* [1. 引言](https://plato.stanford.edu/entries/bell-theorem/#Intr)
-* [2. 贝尔定理的证明](https://plato.stanford.edu/entries/bell-theorem/#ProoTheoBellType)
-* [3. 证明的假设](https://plato.stanford.edu/entries/bell-theorem/#AssuProo)
-* [3.1 局域性和因果性假设](https://plato.stanford.edu/entries/bell-theorem/#LocaCausAssu)
-* [3.2 附加假设](https://plato.stanford.edu/entries/bell-theorem/#SuppAssu)
-* [3.3 关于“局域实在论”](https://plato.stanford.edu/entries/bell-theorem/#LocaReal)
-* [4. 贝尔不等式的早期实验测试](https://plato.stanford.edu/entries/bell-theorem/#EarlExpeTestBellIneq)
-* [5. 通信和检测漏洞及其补救措施](https://plato.stanford.edu/entries/bell-theorem/#CommDeteLoopTheiReme)
-* [5.1 通信漏洞及其补救措施](https://plato.stanford.edu/entries/bell-theorem/#CommLoopReme)
-* [5.2 检测漏洞及其补救措施](https://plato.stanford.edu/entries/bell-theorem/#DeteLoopReme)
-* [5.3 无漏洞测试](https://plato.stanford.edu/entries/bell-theorem/#LoopFreeTest)
-* [6. 贝尔定理的一些变体](https://plato.stanford.edu/entries/bell-theorem/#SomeVariBellTheo)
-* [7. 对量子信息理论的意义](https://plato.stanford.edu/entries/bell-theorem/#SignForQuanInfoTheo)
-* [8. 哲学/形而上学的含义](https://plato.stanford.edu/entries/bell-theorem/#PhilImpl)
-* [8.1 实验违反贝尔不等式后留下的选择](https://plato.stanford.edu/entries/bell-theorem/#OptiLeftOpenExpeViolBellIneq)
-* [8.2 量子力学和相对论](https://plato.stanford.edu/entries/bell-theorem/#QuanMechRela)
-* [参考文献](https://plato.stanford.edu/entries/bell-theorem/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/bell-theorem/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/bell-theorem/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bell-theorem/#Rel)
 
 ***
 

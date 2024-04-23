@@ -8,23 +8,6 @@ _首次发布于 2012 年 10 月 22 日；实质性修订于 2021 年 11 月 8 �
 
 约翰·安德森（1893-1962）是一位苏格兰哲学家，主要在澳大利亚工作。1927 年，他被任命为悉尼大学查利斯哲学教授，并一直担任该职位直到 1958 年退休。在相对孤立的环境中，他发展出了一种独特的现实主义哲学，对悉尼大学的几代学生产生了启发。在发展这一立场的同时，他承担了大部分的哲学教学工作，撰写了他主要知名的文章，并作为撰稿人和编辑维持着《澳大拉西亚心理学与哲学杂志》的运作。在抵达悉尼后不久，他曾担任澳大利亚共产党的理论顾问，但在 30 年代逐渐远离该党，并最终采取了强烈的反共立场。然而，他在整个职业生涯中一直活跃于一系列关于审查制度、大学改革、学术自由和反对宗教教育的公开争议中。根据不同的观点，这些活动要么使他偏离了严肃的哲学工作，要么是他哲学观点的自然表达。无论哪种观点，他在悉尼的思想影响力都是压倒性的。像大卫·马莱特·阿姆斯特朗、约翰·帕斯莫尔、约翰·莱斯利·麦基、尤金·卡门卡、吉姆·贝克和大卫·斯托夫这样的哲学家都承认安德森对他们的形成影响。从他在爱丁堡的早期教学开始，安德森影响了拉什·里斯的社会和政治思想，间接地也影响了阿拉斯代尔·麦金泰尔对伦理学的社会学和历史观的认识和价值。在学术界之外，安德森对传统道德的批评以及他对促进一种承诺、努力、风险和对仅仅习俗期望的批判性反对的积极伦理价值观，对一群小而有影响力的反事业主义知识分子、律师、记者和艺术家集体称为“悉尼推动力”的人群产生了强大的刺激作用。
 
-* [1. 生平与工作](https://plato.stanford.edu/entries/anderson-john/#1)
-* [2. 安德森哲学概述](https://plato.stanford.edu/entries/anderson-john/#2)
-* [3. 理解安德森作品的困难](https://plato.stanford.edu/entries/anderson-john/#3)
-* [4. 一个系统的现实主义](https://plato.stanford.edu/entries/anderson-john/#4)
-* [5. 具体领域](https://plato.stanford.edu/entries/anderson-john/#5)
-* [5.1 逻辑](https://plato.stanford.edu/entries/anderson-john/#5.1)
-* [5.2 形而上学](https://plato.stanford.edu/entries/anderson-john/#5.2)
-* [5.3 认识论](https://plato.stanford.edu/entries/anderson-john/#5.3)
-* [5.4 伦理学](https://plato.stanford.edu/entries/anderson-john/#5.4)
-* [5.5 社会和政治思想](https://plato.stanford.edu/entries/anderson-john/#5.5)
-* [5.6 教育](https://plato.stanford.edu/entries/anderson-john/#5.6)
-* [6. 超越大学的影响力](https://plato.stanford.edu/entries/anderson-john/#6)
-* [7. 结论](https://plato.stanford.edu/entries/anderson-john/#7)
-* [参考文献](https://plato.stanford.edu/entries/anderson-john/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/anderson-john/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/anderson-john/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/anderson-john/#Rel)
 
 ***
 

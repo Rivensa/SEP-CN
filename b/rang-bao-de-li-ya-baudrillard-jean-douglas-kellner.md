@@ -6,18 +6,7 @@ _首次发表于 2005 年 4 月 22 日；实质性修订于 2019 年 12 月 18 �
 
 多年来，鲍德里亚一直是后现代理论的崇拜对象，从 20 世纪 80 年代初到 2007 年去世，他在后期的著作中发展出了一种高度独特的哲学和文化分析方式。本文重点关注鲍德里亚独特思维方式的发展，以及他是如何从社会理论转向后现代理论，进而发展出一种挑衅性的哲学分析方法的。\[1] 回顾来看，鲍德里亚可以被视为一位以独特方式追踪符号生活和技术对社会生活的影响的理论家，并系统地批评了主要的现代思想模式，同时发展了自己的哲学观点。
 
-* [1. 早期著作：从《物的系统》到《生产的镜像》](https://plato.stanford.edu/entries/baudrillard/#EarlWritSystObjeMirrProd)
-* [2. 符号交换与后现代的突破](https://plato.stanford.edu/entries/baudrillard/#SymbExchPostBrea)
-* [3. 从超现象学到形而上学和物体的胜利](https://plato.stanford.edu/entries/baudrillard/#PataMetaTriuObje)
-* [4. 进入 1990 年代：从内在逆转到不可能的交换](https://plato.stanford.edu/entries/baudrillard/#N199ImmaReveImpoExch)
-* [5. 理论虚构：让·鲍德里亚在当代时刻](https://plato.stanford.edu/entries/baudrillard/#TheoFictBaudContMome)
-* [6. 结论评估](https://plato.stanford.edu/entries/baudrillard/#ConcAsse)
-* [Bibliography](https://plato.stanford.edu/entries/baudrillard/#Bib)
-* [Primary Literature](https://plato.stanford.edu/entries/baudrillard/#PrimLite)
-* [二级文献](https://plato.stanford.edu/entries/baudrillard/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/baudrillard/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/baudrillard/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/baudrillard/#Rel)
+
 
 ***
 

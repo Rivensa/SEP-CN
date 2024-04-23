@@ -6,27 +6,6 @@
 
 阿布拉瓦内尔的巨著《爱的对话》属于“爱的论文”这一与文艺复兴和意大利白话文发展密切相关的文体。尽管阿布拉瓦内尔的对话在这方面提供了该文体中最重要的哲学讨论之一，但它仍然局限于其文学化和风格化的形式。这部作品本身由三个对话组成，其中第三个对话提供了最长且最持久的哲学讨论。有人认为阿布拉瓦内尔最初创作了一篇导论和第四个对话，但这两者都没有保存下来。\[1] 从本质上讲，《对话》提供了两个人之间的对话记录，菲洛和索菲亚，两个宫廷人，他们讨论了爱作为感性和宇宙原则的本质。男性角色菲洛被描绘为一位有成就的哲学家，而女性角色索菲亚则是一位哲学学生。尽管如此，索菲亚不仅仅是一种方便的文本策略，而且成为了一个独立的角色，她对作品的哲学展开做出了重要贡献。此外，菲洛和索菲亚之间进行的许多对话交流非常有趣，菲洛在某种程度上要么回答索菲亚关于爱的问题，要么回应她的批评；然而，在另一层面上，他对索菲亚产生了身体上的欲望，并希望实现这种欲望。因此，菲洛对索菲亚的欲望反映了上帝（上位者）对世界（下位者）的同样欲望。作为一个文艺复兴艺术家，阿布拉瓦内尔巧妙地将爱、美和欲望的哲学原则编织到他的《对话》的文学结构中。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/abrabanel/#LifWor)
-* [1.1 生平](https://plato.stanford.edu/entries/abrabanel/#Lif)
-* [1.2 作品](https://plato.stanford.edu/entries/abrabanel/#Wor)
-* [1.3 《爱的对话》与语言问题](https://plato.stanford.edu/entries/abrabanel/#DiaDamQueLan)
-* [2. 信仰、理性和神话](https://plato.stanford.edu/entries/abrabanel/#FaiReaMyt)
-* [3. 美和爱](https://plato.stanford.edu/entries/abrabanel/#BeaLov)
-* [4. 美的哲学](https://plato.stanford.edu/entries/abrabanel/#Bea)
-* [4.1 修辞学、美学和想象力的提升](https://plato.stanford.edu/entries/abrabanel/#EleRheAesIma)
-* [4.2 宇宙学和形而上学](https://plato.stanford.edu/entries/abrabanel/#CosMet)
-* [4.3 心理学和预言](https://plato.stanford.edu/entries/abrabanel/#PsyPro)
-* [5. 爱的哲学](https://plato.stanford.edu/entries/abrabanel/#Lov)
-* [5.1 犹大将爱重新塑造为哲学原则](https://plato.stanford.edu/entries/abrabanel/#JudRecLovPhiPri)
-* [5.2 “爱的循环”（](https://plato.stanford.edu/entries/abrabanel/#CirLovIlCirDegAma)​\*[il circulo degli amari](https://plato.stanford.edu/entries/abrabanel/#CirLovIlCirDegAma)\*​[）](https://plato.stanford.edu/entries/abrabanel/#CirLovIlCirDegAma)
-* [6. 人类生命的终结](https://plato.stanford.edu/entries/abrabanel/#EndHumLif)
-* [7. 接受历史和影响](https://plato.stanford.edu/entries/abrabanel/#RecHisInf)
-* [参考文献](https://plato.stanford.edu/entries/abrabanel/#Bib)
-* [版本](https://plato.stanford.edu/entries/abrabanel/#Edi)
-* [二次文献](https://plato.stanford.edu/entries/abrabanel/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/abrabanel/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/abrabanel/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/abrabanel/#Rel)
 
 ***
 

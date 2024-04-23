@@ -12,42 +12,6 @@
 
 在阿拉伯语进行——依我理解——既非必要也非充分，才能被视为阿拉伯逻辑。阿拉伯逻辑的问题已被采纳，并且其中的技术术语已被借译或翻译成其他语言，如波斯语、土耳其语、希伯来语和乌尔都语。举一个可能的例子，纳西尔·阿尔丁·图西的《逻辑基础》，虽然用波斯语写成，但在十五世纪时却适合用阿拉伯语精确表达，因为它是用另一种语言写成的阿拉伯逻辑。同样地，其他逻辑传统虽然是用阿拉伯语进行的，但在我的用法中并非阿拉伯逻辑。弗雷格开创的传统中的现代逻辑，在大多数现代阿拉伯大学中教授，通常用阿拉伯语授课，但并非阿拉伯逻辑。同样地，如果十八世纪的马龙尼特人仅基于他们在罗马学习的逻辑写成阿拉伯语的逻辑论著，那么他们是在用阿拉伯语写拉丁逻辑，而非阿拉伯逻辑。
 
-* [1. 历史概述](https://plato.stanford.edu/entries/arabic-islamic-language/#HisOut)
-
-  * [1.1 早期翻译](https://plato.stanford.edu/entries/arabic-islamic-language/#EarTra)
-  * [1.2 法拉比的亚里士多德主义](https://plato.stanford.edu/entries/arabic-islamic-language/#FarAri)
-  * [1.3 阿维森纳的亚里士多德主义](https://plato.stanford.edu/entries/arabic-islamic-language/#AviAri)
-  * [1.4 十二世纪的逻辑学](https://plato.stanford.edu/entries/arabic-islamic-language/#LogTweCen)
-
-    * [1.4.1 阿尔-加扎里（Ghazâlî）和逻辑](https://plato.stanford.edu/entries/arabic-islamic-language/#GhaLog)
-    * [1.4.2 阿维森纳（Averroes）和文本亚里士多德主义的终结](https://plato.stanford.edu/entries/arabic-islamic-language/#AveEndTexAri)
-    * [1.4.3 十二世纪的阿维森纳传统](https://plato.stanford.edu/entries/arabic-islamic-language/#AviTraTweCen)
-  * [1.5 在清真寺及其以外的地方的阿维森纳传统](https://plato.stanford.edu/entries/arabic-islamic-language/#AviTraMadBey)
-
-    * [1.5.1 拉兹 (Râzî) 和胡纳吉 (Khûnajî)](https://plato.stanford.edu/entries/arabic-islamic-language/#RzKhn)
-    * [1.5.2 图西 (Tûsî) 和马拉加学派](https://plato.stanford.edu/entries/arabic-islamic-language/#TsMarSch)
-    * [1.5.3 逻辑与清真学校](https://plato.stanford.edu/entries/arabic-islamic-language/#LogMad)
-  * [1.6 逻辑传统的勾画](https://plato.stanford.edu/entries/arabic-islamic-language/#DelLogTra)
-* [2. 争议中的逻辑学说](https://plato.stanford.edu/entries/arabic-islamic-language/#LogDocUndDis)
-
-  * [2.1 逻辑学的主题](https://plato.stanford.edu/entries/arabic-islamic-language/#SubMatLog)
-
-    * [2.1.1 表达、意义和可理解性](https://plato.stanford.edu/entries/arabic-islamic-language/#ExpMeaInt)
-    * [2.1.2 次级可理解性](https://plato.stanford.edu/entries/arabic-islamic-language/#SecInt)
-    * [2.1.3 概念与同意](https://plato.stanford.edu/entries/arabic-islamic-language/#ConAss)
-  * [2.2 《逻辑论文》的内容](https://plato.stanford.edu/entries/arabic-islamic-language/#ConTreLog)
-
-    * [2.2.1 逻辑作为形式科学](https://plato.stanford.edu/entries/arabic-islamic-language/#LogForSci)
-    * [2.2.2 同意和语境理论](https://plato.stanford.edu/entries/arabic-islamic-language/#AssConThe)
-    * [2.2.3 另一种工具？](https://plato.stanford.edu/entries/arabic-islamic-language/#AltOrg)
-  * [2.3 情态命题与情态三段论](https://plato.stanford.edu/entries/arabic-islamic-language/#ModProModSyl)
-
-    * [ 2.3.1 伊本·西那](https://plato.stanford.edu/entries/arabic-islamic-language/#Avi)
-    * [2.3.2 伊本·西那后逻辑学家](https://plato.stanford.edu/entries/arabic-islamic-language/#PosAviLog)
-* [ 参考文献](https://plato.stanford.edu/entries/arabic-islamic-language/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/arabic-islamic-language/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/arabic-islamic-language/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/arabic-islamic-language/#Rel)
 
 ---
 

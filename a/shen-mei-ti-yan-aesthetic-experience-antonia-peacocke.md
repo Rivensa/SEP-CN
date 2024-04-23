@@ -12,23 +12,6 @@ _首次发布于 2023 年 1 月 20 日_
 
 这个概述将代表各种不同的审美体验方法来回答这些问题。概述按照两个维度组织这些方法：一是关注审美体验的对象的属性；二是关注体验本身的各种内在方面。
 
-* [1. 审美体验的焦点](https://plato.stanford.edu/entries/aesthetic-experience/#FocuAestExpe)
-* [1.1 形式与功能](https://plato.stanford.edu/entries/aesthetic-experience/#FormFunc)
-* [1.2 取悦的力量](https://plato.stanford.edu/entries/aesthetic-experience/#PowePlea)
-* [1.3 优点](https://plato.stanford.edu/entries/aesthetic-experience/#Meri)
-* [1.4 (情感)表达](https://plato.stanford.edu/entries/aesthetic-experience/#EmotExpr)
-* [1.5 基本本质](https://plato.stanford.edu/entries/aesthetic-experience/#FundNatu)
-* [2. 美学体验的心理方面](https://plato.stanford.edu/entries/aesthetic-experience/#MentAspeAestExpe)
-* [2.1 乐趣](https://plato.stanford.edu/entries/aesthetic-experience/#Plea)
-* [2.2 概念化](https://plato.stanford.edu/entries/aesthetic-experience/#Conc)
-* [2.3 想象力](https://plato.stanford.edu/entries/aesthetic-experience/#Imag)
-* [2.4 情感](https://plato.stanford.edu/entries/aesthetic-experience/#Emot)
-* [2.5 无兴趣](https://plato.stanford.edu/entries/aesthetic-experience/#Disi)
-* [2.6 规范性](https://plato.stanford.edu/entries/aesthetic-experience/#Norm)
-* [参考文献](https://plato.stanford.edu/entries/aesthetic-experience/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/aesthetic-experience/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aesthetic-experience/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aesthetic-experience/#Rel)
 
 ***
 

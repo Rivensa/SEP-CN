@@ -6,24 +6,6 @@
 
 由于这个主题的复杂性以及之前对此主题的研究特别是系统性的短缺，对阿拉伯和伊斯兰哲学对犹太思想的“影响”的全面、即使不详细的分析应该有一些限制。 “影响”这个概念本身应该仅限于那些可以明确确定犹太作者直接和明显地使用了阿拉伯和伊斯兰来源的情况，即使不一定是明确的。 （例如，众所周知，迈蒙尼德斯直接了解并使用了许多阿拉伯哲学来源；然而，应该承认，在许多情况下，晚期中世纪的犹太作者并不是直接了解和使用这些来源，而是通过迈蒙尼德斯。）这种分析不应仅限于将作者的文本（或文本）仅仅“翻译”成希伯来语或直接引用其阿拉伯原文的情况。这些情况已经在一些书籍（Steinschneider 1893，译者 Manekin et al. 2013 和 Manekin＆Biesterfeldt 2022，Zonta 1996）和一些最近的文章中进行了研究，但这种分析现在应该扩展到这些文本被评论并在某些情况下直接实际被犹太思想家用于构建自己的哲学的情况。（在这方面，应该注意到，许多晚期中世纪的犹太哲学家似乎了解阿维森纳的哲学；实际上，其中一些人可能并不是直接了解，而是主要通过阿尔加扎利了解 - 这在迈蒙尼德斯的情况下可能也发生过。）对这种影响的历史考察不应按照犹太哲学史的主要线索进行，而应按照犹太作者阅读的各种阿拉伯和伊斯兰哲学家的时间顺序进行，无论是在他们的原始文本中，还是在中世纪希伯来语翻译中，或者在某些情况下甚至是在中世纪拉丁语版本中 - 并且应该清楚的是，犹太哲学家似乎并没有将活动在 1200 年左右之后的阿拉伯作者作为来源。这种考察应该考虑到“阿拉伯哲学”和“伊斯兰哲学”不能完全等同，但它们的关系有时似乎就像两个并不完全相同概念的交集一样。（例如，一些伊斯兰哲学的重要作品，如阿维森纳的《科学之书》[Danesh name]，是用波斯语写的，而在近东活动的一些中世纪基督教哲学家则用阿拉伯语写作，他们最好被归类为“[基督教-]阿拉伯哲学对犹太思想的影响”的案例之一。）
 
-* [1. al-Kindi](https://plato.stanford.edu/entries/arabic-islamic-judaic/#AlKind)
-
-* [2. 阿布·巴克尔·拉齐](https://plato.stanford.edu/entries/arabic-islamic-judaic/#AbuBakrAlRazi)
-* [3. 纯洁兄弟会（伊克瓦纳萨法）及其追随者](https://plato.stanford.edu/entries/arabic-islamic-judaic/#BretPuriIkhwAlSafaTheiFoll)
-* [4. 阿尔法拉比](https://plato.stanford.edu/entries/arabic-islamic-judaic/#AlFara)
-* [5. 阿维森纳](https://plato.stanford.edu/entries/arabic-islamic-judaic/#Avic)
-* [6. 阿尔加扎利](https://plato.stanford.edu/entries/arabic-islamic-judaic/#AlGhaz)
-* [7. 伊本·巴杰](https://plato.stanford.edu/entries/arabic-islamic-judaic/#IbnBajj)
-* [8. 伊本·图费尔](https://plato.stanford.edu/entries/arabic-islamic-judaic/#IbnTufa)
-* [9. 阿维罗伊斯（伊本·鲁什德）及其追随者](https://plato.stanford.edu/entries/arabic-islamic-judaic/#AverIbnRushSomeHisFoll)
-* [10. 法赫尔·阿尔丁·拉齐和西哈卜·阿尔丁·苏赫拉瓦迪](https://plato.stanford.edu/entries/arabic-islamic-judaic/#FakhAlDinAlRaziSihaAlDinAlSuhr)
-* [11. 基督教阿拉伯作家](https://plato.stanford.edu/entries/arabic-islamic-judaic/#ChriArabAuth)
-* [参考文献](https://plato.stanford.edu/entries/arabic-islamic-judaic/#Bib)
-* [原始文献](https://plato.stanford.edu/entries/arabic-islamic-judaic/#PrimLite)
-* [次级文献](https://plato.stanford.edu/entries/arabic-islamic-judaic/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/arabic-islamic-judaic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/arabic-islamic-judaic/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/arabic-islamic-judaic/#Rel)
 
 ---
 

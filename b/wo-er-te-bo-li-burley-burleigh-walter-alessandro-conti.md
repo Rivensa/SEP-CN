@@ -4,23 +4,6 @@ _首次发表于 2004 年 7 月 11 日星期日；实质性修订于 2016 年 5 
 
 沃尔特·伯利（约 1275-1344 年）是十四世纪最杰出和有影响力的哲学家之一。他在英格兰和法国有着非常悠久的职业生涯，1301 年成为牛津大学文学硕士，1324 年成为巴黎神学硕士。他创作了大约五十部著作，其中许多在中世纪晚期被广泛阅读。尤其突出的是他关于《_Ars Vetus_》和《Physics》的最后评论，这些评论在整个欧洲以及十四世纪后半叶和十五世纪整个时期的意大利大学中被广泛研究。在对传统实在论的奥卡姆尖锐批评中，他的语义和本体论观点在职业生涯中发生了变化，从十三世纪神学家（如托马斯·阿奎那和亨利·甘特）典型的温和实在论转向了他后期著作中的极端实在论，后者认为存在与个体事物真正不同的超个体普遍概念、超个体命题作为真实句子的指示物，以及十种范畴之间的真实区别。根据伯利的观点，所有这些都是为了保持我们对外部世界的知识的有效性，他认为这可以明确表明，而不会受到奥卡姆的批评的影响。
 
-* [1. 生平和著作](https://plato.stanford.edu/entries/burley/#LifeWork)
-* [1.1 生平](https://plato.stanford.edu/entries/burley/#Life)
-* [1.2 作品](https://plato.stanford.edu/entries/burley/#Work)
-* [2. 初步说明](https://plato.stanford.edu/entries/burley/#PrelRema)
-* [3. 本体论（1324 年之前）：范畴和普遍性](https://plato.stanford.edu/entries/burley/#OntoBefo1324CateUniv)
-* [4. 沃尔特·伯利 (before 1324): 本体论和实质形式](https://plato.stanford.edu/entries/burley/#OntoBefo1324EsseSubsForm)
-* [5. 语义学](https://plato.stanford.edu/entries/burley/#Sema)
-* [6. “柏拉图式”转向 (after 1324): 宏观对象的新本体论 (和语义学)](https://plato.stanford.edu/entries/burley/#PlatTurnAfte1324NewOntoSemaMacrObje)
-* [7. The “Platonic” turn (after 1324): the ‘regional’ ontologies](https://plato.stanford.edu/entries/burley/#PlatTurnAfte1324RegiOnto)
-* [8. The theories of knowledge](https://plato.stanford.edu/entries/burley/#TheoKnow)
-* [Bibliography](https://plato.stanford.edu/entries/burley/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/burley/#PrimLite)
-* [次要文献](https://plato.stanford.edu/entries/burley/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/burley/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/burley/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/burley/#Rel)
-
 ***
 
 ## 1. 生平与作品

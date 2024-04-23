@@ -10,37 +10,6 @@ _首次发布于 2009 年 9 月 8 日；实质性修订于 2021 年 10 月 26 �
 
 关于注意力与这些其他现象的关系的争议通常包括对通过对注意力在神经心理学和认知水平上的实证研究发展起来的理论的哲学意义的辩论。注意力的文化和经济方面也成为哲学上的一个关注点，一些理论家认为新媒体的社会意义主要是由于这些媒体以新颖的方式吸引并争夺我们的注意力。
 
-* [1. 历史概述](https://plato.stanford.edu/entries/attention/#HisOve)
-* [1.1 笛卡尔：注意力与认识论](https://plato.stanford.edu/entries/attention/#DesAttEpi)
-* [1.2 伯克利：注意力和抽象](https://plato.stanford.edu/entries/attention/#BerAttAbs)
-* [1.3 洛克：注意力作为思维的一种方式](https://plato.stanford.edu/entries/attention/#LocAttModTho)
-* [1.4 十八和十九世纪：感知中的注意力，行动中的注意力和反思性思维](https://plato.stanford.edu/entries/attention/#EigNinCenAttPerActRefTho)
-* [1.5 威廉·詹姆斯和他的同时代人：贬值理论](https://plato.stanford.edu/entries/attention/#WilJamHisConDefThe)
-* [1.6 二十世纪：将注意力定位在信息处理的瓶颈处](https://plato.stanford.edu/entries/attention/#TweCenLocAttBotInfPro)
-* [2. 注意力理论](https://plato.stanford.edu/entries/attention/#TheAtt)
-* [2.1 容量限制理论](https://plato.stanford.edu/entries/attention/#CapLimThe)
-* [2.2 特征整合理论](https://plato.stanford.edu/entries/attention/#FeaIntThe)
-* [2.3 一致性理论](https://plato.stanford.edu/entries/attention/#CohThe)
-* [2.4 通用优先级](https://plato.stanford.edu/entries/attention/#GenPurPri)
-* [2.5 精确度优化理论和预测误差编码](https://plato.stanford.edu/entries/attention/#PreErrCod)
-* [2.6 竞争理论和认知统一](https://plato.stanford.edu/entries/attention/#ComThe)
-* [2.7 聚光灯理论](https://plato.stanford.edu/entries/attention/#SpoThe)
-* [2.8 运动理论](https://plato.stanford.edu/entries/attention/#MotThe)
-* [3. 注意力的解释角色](https://plato.stanford.edu/entries/attention/#ExpRolForAtt)
-* [3.1 注意力与意识](https://plato.stanford.edu/entries/attention/#AttCon)
-* [3.2 注意力和指示性引用](https://plato.stanford.edu/entries/attention/#AttDemRef)
-* [3.3 注意力和他人的心灵](https://plato.stanford.edu/entries/attention/#AttOthMin)
-* [3.4 注意力和知识](https://plato.stanford.edu/entries/attention/#AttKno)
-* [3.5 注意力和自愿行动](https://plato.stanford.edu/entries/attention/#VolAct)
-* [4 注意力和价值](https://plato.stanford.edu/entries/attention/#AttVal)
-* [4.1 美学中的注意力](https://plato.stanford.edu/entries/attention/#AttAes)
-* [4.2 伦理学中的注意力](https://plato.stanford.edu/entries/attention/#AttEth)
-* [4.3 社会和政治理论中的注意力](https://plato.stanford.edu/entries/attention/#AttSoc)
-* [参考文献](https://plato.stanford.edu/entries/attention/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/attention/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/attention/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/attention/#Rel)
-
 ***
 
 ## 1. 历史概述

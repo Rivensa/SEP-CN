@@ -6,32 +6,6 @@ _首次发布于 2006 年 8 月 14 日；实质性修订于 2023 年 11 月 15 �
 
 大多数当代哲学家将信念描述为一种“命题态度”。命题通常被认为是句子所表达的内容（参见[命题](https://plato.stanford.edu/entries/propositions/)条目）。例如，如果两个句子意思相同（例如，英语中的“雪是白色”，德语中的“Schnee ist weiss”），它们表达的是同一个命题，而如果两个句子的意思不同，它们表达的是不同的命题。（在这里，我们暂时忽略了一些关于指示词的复杂性；请参见[指示词](https://plato.stanford.edu/entries/indexicals/)条目。）因此，_命题态度_是指对命题或命题为真的潜在事态持有某种态度、立场、看法或意见的心理状态，这种心理状态通常以“_S_ _A_ that _P_”的形式来表达，其中_S_指代持有该心理状态的个体，_A_指代态度，_P_是表达命题的句子。例如：Ahmed（主体）希望（态度）半人马座有智慧生命（命题），或者 Yifeng（主体）怀疑（态度）纽约市将在四百年后存在。一个人怀疑或希望的事情，另一个人可能会害怕、相信、渴望或打算——不同的态度，都针对同一个命题。关于信念的讨论通常嵌入在更一般的命题态度讨论中；而对命题态度的处理通常以信念作为首要和最重要的例子。
 
-* [1. 什么是信念？](https://plato.stanford.edu/entries/belief/#WhatItBeli)
-* [1.1 表象主义](https://plato.stanford.edu/entries/belief/#Repr)
-* [1.2 倾向主义](https://plato.stanford.edu/entries/belief/#Disp)
-* [1.3 Interpretationism](https://plato.stanford.edu/entries/belief/#Inte)
-* [1.4 功能主义](https://plato.stanford.edu/entries/belief/#Func)
-* [1.5 消除论、工具论和虚构主义](https://plato.stanford.edu/entries/belief/#ElimInst)
-* [1.6 规范主义](https://plato.stanford.edu/entries/belief/#Norm)
-* [2. 信念的类型、程度和相关性](https://plato.stanford.edu/entries/belief/#TypeDegrRelaBeli)
-* [2.1 发生性信念与倾向性信念](https://plato.stanford.edu/entries/belief/#OccuVersDispBeli)
-* [2.2 Varieties of Implicit Belief](https://plato.stanford.edu/entries/belief/#VariImplBeli)
-* [2.3 信念的程度](https://plato.stanford.edu/entries/belief/#DegrBeli)
-* [2.4 信念与接受](https://plato.stanford.edu/entries/belief/#BeliAcce)
-* [2.5 信念与知识](https://plato.stanford.edu/entries/belief/#BeliKnow)
-* [2.6 信念与妄想](https://plato.stanford.edu/entries/belief/#BeliDelu)
-* [3. 信念的内容](https://plato.stanford.edu/entries/belief/#ContBeli)
-* [3.1 精细还是粗粒度？](https://plato.stanford.edu/entries/belief/#FineCoarGrai)
-* [3.2 原子论与整体论](https://plato.stanford.edu/entries/belief/#AtomVersHoli)
-* [3.3 De Re Versus De Dicto Belief Attributions](https://plato.stanford.edu/entries/belief/#DeReVersDeDictBeliAttr)
-* [3.4 内在主义与外在主义](https://plato.stanford.edu/entries/belief/#InteExte)
-* [3.5 弗雷格的谜题](https://plato.stanford.edu/entries/belief/#FregPuzz)
-* [4. 是否可以没有语言的信念？](https://plato.stanford.edu/entries/belief/#TherBeliWithLang)
-* [参考文献](https://plato.stanford.edu/entries/belief/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/belief/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/belief/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/belief/#Rel)
-
 ***
 
 ## 1. 信念是什么？

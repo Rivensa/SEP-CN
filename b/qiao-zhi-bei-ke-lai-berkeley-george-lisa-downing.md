@@ -4,38 +4,6 @@ _首次发表于 2004 年 9 月 10 日；实质性修订于 2011 年 1 月 19 �
 
 乔治·贝克莱，克洛因主教，是早期现代哲学家中的一位伟大人物。他是他的前辈，特别是笛卡尔、马勒布朗什和洛克的杰出批评家。他是一位才华横溢的形而上学家，以捍卫唯心主义而闻名，即现实仅由思想和意识构成的观点。贝克莱的体系虽然让许多人感到违反直觉，但足够强大和灵活，能够应对大多数反对意见。他最受研究的作品《人类知识原理论》（简称《原理》）和《海拉斯与菲洛纳斯之间的三个对话》（简称《对话》）写得精美，充满了令当代哲学家欣喜的论证。他还是一位广泛思考的学者，对宗教（这对他的哲学动机至关重要）、视觉心理学、数学、物理学、道德、经济学和医学都有兴趣。尽管贝克莱的最初读者对他的作品感到难以理解，但他影响了休谟和康德，并且在我们今天也被广泛阅读（尽管很少有人追随他的观点）。
 
-* [1. 生平和哲学作品](https://plato.stanford.edu/entries/berkeley/#1)
-* [2. 《原理》和《对话》中贝克莱对唯物主义的批判](https://plato.stanford.edu/entries/berkeley/#2)
-* [2.1 对表象主义唯物主义的攻击](https://plato.stanford.edu/entries/berkeley/#2.1)
-* [2.1.1 核心论证](https://plato.stanford.edu/entries/berkeley/#2.1.1)
-* [2.1.2 类似原则](https://plato.stanford.edu/entries/berkeley/#2.1.2)
-* [2.1.3 反抽象主义](https://plato.stanford.edu/entries/berkeley/#2.1.3)
-* [2.1.4 唯物主义解释了什么？](https://plato.stanford.edu/entries/berkeley/#2.1.4)
-* [2.2 反对直接现实主义唯物主义](https://plato.stanford.edu/entries/berkeley/#2.2)
-* [2.2.1 主要论据？](https://plato.stanford.edu/entries/berkeley/#2.2.1)
-* [2.2.2 第一次](https://plato.stanford.edu/entries/berkeley/#2.2.2)​\*[对话](https://plato.stanford.edu/entries/berkeley/#2.2.2)\*​[和相对论论据](https://plato.stanford.edu/entries/berkeley/#2.2.2)
-* [3. 贝克莱的积极计划：唯心主义和常识](https://plato.stanford.edu/entries/berkeley/#3)
-* [3.1 乔治·贝克莱本体论的基础](https://plato.stanford.edu/entries/berkeley/#3.1)
-* [3.1.1 普通物体的地位](https://plato.stanford.edu/entries/berkeley/#3.1.1)
-* [3.1.2 灵魂作为主动物质](https://plato.stanford.edu/entries/berkeley/#3.1.2)
-* [3.1.3 上帝的存在](https://plato.stanford.edu/entries/berkeley/#3.1.3)
-* [3.2 对异议的回应](https://plato.stanford.edu/entries/berkeley/#3.2)
-* [3.2.1 真实的事物与想象的事物](https://plato.stanford.edu/entries/berkeley/#3.2.1)
-* [3.2.2 Hidden structures and internal mechanisms](https://plato.stanford.edu/entries/berkeley/#3.2.2)
-* [3.2.3 科学解释](https://plato.stanford.edu/entries/berkeley/#3.2.3)
-* [3.2.4 未被感知的对象——《原理》与《对话》](https://plato.stanford.edu/entries/berkeley/#3.2.4)
-* [3.2.5 错误的可能性](https://plato.stanford.edu/entries/berkeley/#3.2.5)
-* [3.2.6 灵魂与因果关系](https://plato.stanford.edu/entries/berkeley/#3.2.6)
-*
-  4. 其他重要的哲学作品 \[暂不可用]
-* 4.1 贝克莱关于视觉的作品
-* 4.2 _De Motu_ 和 乔治·贝克莱 的牛顿主义
-* 4.3 _Alciphron_
-* 4.4 _Siris_
-* [参考文献](https://plato.stanford.edu/entries/berkeley/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/berkeley/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/berkeley/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/berkeley/#Rel)
 
 ***
 

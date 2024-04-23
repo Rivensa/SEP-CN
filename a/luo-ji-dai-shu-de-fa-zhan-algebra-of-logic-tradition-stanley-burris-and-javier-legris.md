@@ -4,24 +4,6 @@
 
 逻辑代数作为一种显式的代数系统，展示了逻辑的基本数学结构，由乔治·布尔（George Boole，1815–1864）在他的著作《逻辑的数学分析》（1847 年）中引入。因此，它与代数逻辑的更一般方法有所区别。布尔开创的方法在 19 世纪得到了成功延续，威廉·斯坦利·杰文斯（William Stanley Jevons，1835–1882）、查尔斯·桑德斯·皮尔斯（Charles Sanders Peirce，1839–1914）、恩斯特·施罗德（Ernst Schröder，1841–1902）等人的工作中，奠定了（数学）逻辑的传统。从布尔的第一本书开始，直到阿尔弗雷德·诺思·怀特海德（Alfred North Whitehead，1861–1947）和伯特兰德·罗素（Bertrand Russell，1872–1970）在第一次世界大战后的巨著《数学原理》（1910–1913）的影响，逻辑代数的各种版本一直是数学逻辑的最发达形式，尤其是在施罗德的三卷本《逻辑代数讲义》（1890–1905）中呈现的形式。此外，这一传统激发了莱奥波德·勒文海姆（Leopold Löwenheim，1878–1957）的研究，最终催生了模型论。此外，1941 年，阿尔弗雷德·塔斯基（Alfred Tarski，1901–1983）在他的论文《关系演算》中回到了皮尔斯关系代数，正如施罗德的《逻辑代数》中所呈现的那样。逻辑代数传统在逻辑作为演算的概念中发挥了关键作用，与逻辑作为普遍语言的概念相对立。除了塔斯基的关系代数，逻辑代数传统在逻辑中的影响还可以在其他数学理论中找到，比如范畴论。然而，这种影响超出了本条目的范围，本条目分为 10 个部分。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/algebra-logic-tradition/#Int)
-* [2. 1847—现代逻辑代数版本的开端](https://plato.stanford.edu/entries/algebra-logic-tradition/#a184BegModVerAlgLog)
-* [3. 1854—布尔对其逻辑代数的最终呈现](https://plato.stanford.edu/entries/algebra-logic-tradition/#a185FinPreHisAlgLog)
-* [4. Jevons: 基于总操作的逻辑代数](https://plato.stanford.edu/entries/algebra-logic-tradition/#JevAlgLogBasTotOpe)
-* [5. Peirce: 将逻辑代数基于包含关系进行构建](https://plato.stanford.edu/entries/algebra-logic-tradition/#PeiBasAlgLogSub)
-* [6. De Morgan and Peirce: Relations and Quantifiers in the Algebra of Logic](https://plato.stanford.edu/entries/algebra-logic-tradition/#DeMorPeiRelQuaAlgLog)
-* [7. Schröder’s systematization of the algebra of logic 6. 德·摩根（De Morgan）和皮尔斯（Peirce）：逻辑代数中的关系和量词](https://plato.stanford.edu/entries/algebra-logic-tradition/#SchSysAlgLog)
-* [8. 亨廷顿：逻辑代数的公理研究](https://plato.stanford.edu/entries/algebra-logic-tradition/#HunAxiInvAlgLog)
-* [9. 斯通：逻辑代数的模型](https://plato.stanford.edu/entries/algebra-logic-tradition/#StoModForAlgLog)
-* [10. Skolem: 量词消除与可决定性](https://plato.stanford.edu/entries/algebra-logic-tradition/#SkoQuaEliDec)
-* [11. Tarski 和代数逻辑的复兴](https://plato.stanford.edu/entries/algebra-logic-tradition/#TarRevAlgLog)
-* [ 参考文献](https://plato.stanford.edu/entries/algebra-logic-tradition/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/algebra-logic-tradition/#PriSou)
-  * [ 次级来源](https://plato.stanford.edu/entries/algebra-logic-tradition/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/algebra-logic-tradition/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/algebra-logic-tradition/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/algebra-logic-tradition/#Rel)
 
 ---
 

@@ -4,25 +4,6 @@ _首次发表于 2000 年 5 月 18 日；实质性修订于 2023 年 7 月 16 �
 
 坎特伯雷的安瑟伦（1033-1109）是十一世纪杰出的基督教哲学家和神学家。他以在《思辨篇》中提出的著名的“本体论证明”而闻名，但他对哲学神学（以及哲学的更广泛领域）的贡献远不止于本体论证。接下来，我将考察安瑟伦的神论证明、他对神的本质的理解，以及他对人类自由、罪恶和救赎的描述。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/anselm/#LifWor)
-* [2. 基督教神论的证明](https://plato.stanford.edu/entries/anselm/#ThePro)
-* [2.1 “信仰寻求理解”：安瑟伦的神论证明的性质和目的](https://plato.stanford.edu/entries/anselm/#FaiSeeUndChaPurAnsThePro)
-* [2.2 ](https://plato.stanford.edu/entries/anselm/#ArgMon)​\*[Monologion](https://plato.stanford.edu/entries/anselm/#ArgMon)\*​[的论证](https://plato.stanford.edu/entries/anselm/#ArgMon)
-* [2.3 ](https://plato.stanford.edu/entries/anselm/#ArgPro)​\*[Proslogion](https://plato.stanford.edu/entries/anselm/#ArgPro)\*​[的论证](https://plato.stanford.edu/entries/anselm/#ArgPro)
-* [3. 神的本质](https://plato.stanford.edu/entries/anselm/#DivNat)
-* [3.1 证明神的属性](https://plato.stanford.edu/entries/anselm/#ProDivAtt)
-* [3.2 神圣属性的一致性](https://plato.stanford.edu/entries/anselm/#ConDivAtt)
-* [4. 自由、罪恶和救赎](https://plato.stanford.edu/entries/anselm/#FreSinRed)
-* [4.1 陈述和意愿中的真理](https://plato.stanford.edu/entries/anselm/#TruStaWil)
-* [4.2 自由与罪恶](https://plato.stanford.edu/entries/anselm/#FreSin)
-* [4.3 恩典与救赎](https://plato.stanford.edu/entries/anselm/#GraRed)
-* [参考文献](https://plato.stanford.edu/entries/anselm/#Bib)
-* [关键版本](https://plato.stanford.edu/entries/anselm/#CriEdi)
-* [翻译](https://plato.stanford.edu/entries/anselm/#Tra)
-* [次级文献](https://plato.stanford.edu/entries/anselm/#SecWor)
-* [学术工具](https://plato.stanford.edu/entries/anselm/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/anselm/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/anselm/#Rel)
 
 ***
 

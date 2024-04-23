@@ -5,16 +5,6 @@
 
 不可靠的翻译阻碍了阿多诺的英文著作在英语国家的初次接受。然而，自 1990 年代以来，出现了更好的翻译，还有新翻译的讲座和其他遗作仍在出版。这些材料不仅有助于对他在认识论和伦理学方面的工作的新兴评估，还加强了对他在美学和文化理论方面的已有高度评价。
 
-* [1. 简·亚当斯的生平概述](https://plato.stanford.edu/entries/adorno/#1)
-* [2. 启蒙的辩证法](https://plato.stanford.edu/entries/adorno/#2)
-* [3. 批判社会理论](https://plato.stanford.edu/entries/adorno/#3)
-* [4. 美学理论](https://plato.stanford.edu/entries/adorno/#4)
-* [5. 负面辩证法](https://plato.stanford.edu/entries/adorno/#5)
-* [6. 奥斯维辛之后的伦理学和形而上学](https://plato.stanford.edu/entries/adorno/#6)
-* [参考文献](https://plato.stanford.edu/entries/adorno/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/adorno/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/adorno/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/adorno/#Rel)
 
 ---
 

@@ -20,27 +20,6 @@ Boyle 是一个颗粒学派者，这个术语他用来掩盖信仰真空和信�
 
 II. 基督教为人类带来各种积极的好处，例如更清晰和广泛地了解上帝和神圣事物；罪恶的赦免；上帝的恩惠；适合人们各自需求和条件的几种恩典和美德；最重要的是，在来世拥有幸福的永生。（Boyle Papers \[BP] 5:73–4; BOA §3.7.4, p 301）
 
-* [1. 生命](https://plato.stanford.edu/entries/boyle/#Life)
-* [1.1 伟大之旅](https://plato.stanford.edu/entries/boyle/#GranTour)
-* [1.2 转向自然哲学](https://plato.stanford.edu/entries/boyle/#TurnNatuPhil)
-* [2. 宗教观点](https://plato.stanford.edu/entries/boyle/#ReliView)
-* [2.1 关于上帝存在的论据](https://plato.stanford.edu/entries/boyle/#BoylArguForExisGod)
-* [2.2 Miracles](https://plato.stanford.edu/entries/boyle/#Mira)
-* [3. 有限理性 World View](https://plato.stanford.edu/entries/boyle/#BoylWorlView)
-* [3.1 世界的创造](https://plato.stanford.edu/entries/boyle/#CreaWorl)
-* [3.2 有限理性是什么样的世界？](https://plato.stanford.edu/entries/boyle/#WhatKindWorlItGodCrea)
-* [3.3 最终原因](https://plato.stanford.edu/entries/boyle/#FinaCaus)
-* [4. 自然法则](https://plato.stanford.edu/entries/boyle/#LawsNatu)
-* [5. Boyle’s Law](https://plato.stanford.edu/entries/boyle/#BoylLaw)
-* [6. Boyle’s Philosophy of Experiment](https://plato.stanford.edu/entries/boyle/#BoylPhilExpe)
-* [7. Perception and the Soul](https://plato.stanford.edu/entries/boyle/#PercSoul)
-* [参考文献](https://plato.stanford.edu/entries/boyle/#Bib)
-* [一手资料](https://plato.stanford.edu/entries/boyle/#PrimSour)
-* [二手资料](https://plato.stanford.edu/entries/boyle/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/boyle/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/boyle/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/boyle/#Rel)
-
 ***
 
 ## 1. 生命

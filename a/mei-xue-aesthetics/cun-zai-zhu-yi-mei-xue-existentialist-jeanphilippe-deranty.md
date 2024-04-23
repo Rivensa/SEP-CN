@@ -12,27 +12,6 @@ _首次发表于 2009 年 6 月 26 日；实质性修订于 2019 年 3 月 4 日
 
 一些存在主义者对不同艺术形式进行了实质性的分析，并探讨了它们如何进行比较，类似于古典美学的“艺术体系”。除了梅洛-庞蒂之外，所有存在主义思想家都认为最能展现艺术启示潜力的形式是戏剧，其次是小说。
 
-* [1. 存在主义美学的形而上学基础](https://plato.stanford.edu/entries/aesthetics-existentialist/#MetFouExiAes)
-* [2. 存在主义美学的现象学核心](https://plato.stanford.edu/entries/aesthetics-existentialist/#PheCorExiAes)
-* [3. 艺术作为世界的启示](https://plato.stanford.edu/entries/aesthetics-existentialist/#ArtRevWor)
-* [4. 艺术作为人类自由的表达](https://plato.stanford.edu/entries/aesthetics-existentialist/#ArtExpHumFre)
-* [5. 艺术与荒谬](https://plato.stanford.edu/entries/aesthetics-existentialist/#ArtAbs)
-* [6. 艺术作品的本体论](https://plato.stanford.edu/entries/aesthetics-existentialist/#OntArt)
-* [7. 表达理论](https://plato.stanford.edu/entries/aesthetics-existentialist/#TheExp)
-* [8. 艺术家](https://plato.stanford.edu/entries/aesthetics-existentialist/#Art)
-* [9. 观众](https://plato.stanford.edu/entries/aesthetics-existentialist/#Aud)
-* [10. 自然美学的存在主义“艺术体系”](https://plato.stanford.edu/entries/aesthetics-existentialist/#ExiSysArt)
-* [10.1 戏剧](https://plato.stanford.edu/entries/aesthetics-existentialist/#The)
-* [10.2 小说](https://plato.stanford.edu/entries/aesthetics-existentialist/#Nov)
-* [10.3 诗歌](https://plato.stanford.edu/entries/aesthetics-existentialist/#Poe)
-* [10.4 非语言艺术：绘画和音乐](https://plato.stanford.edu/entries/aesthetics-existentialist/#NonLinArtPaiMusCin)
-* [10.5 电影](https://plato.stanford.edu/entries/aesthetics-existentialist/#Cin)
-* [参考文献](https://plato.stanford.edu/entries/aesthetics-existentialist/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/aesthetics-existentialist/#PriSou)
-* [选定的次要来源](https://plato.stanford.edu/entries/aesthetics-existentialist/#SelSecSou)
-* [学术工具](https://plato.stanford.edu/entries/aesthetics-existentialist/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aesthetics-existentialist/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aesthetics-existentialist/#Rel)
 
 ***
 

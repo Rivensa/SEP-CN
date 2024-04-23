@@ -4,46 +4,6 @@ _首次发表于 2002 年 5 月 2 日；实质性修订于 2022 年 3 月 15 日
 
 亚里士多德的《修辞学》对修辞艺术的发展产生了无与伦比的影响。除了亚里士多德的门徒和追随者，所谓的游走哲学家（见 Fortenbaugh/Mirhady 1994）以及著名的罗马修辞教师，如西塞罗和昆蒂利安，经常使用源自亚里士多德修辞理论的要素。然而，后者并不是主要关注对亚里士多德著作的细致解释，而是在寻找一个概念框架来撰写自己的修辞手册。这也是为什么两千年来，亚里士多德修辞学的解释主要由关注修辞学历史而非哲学的人追求的原因之一。与修辞学传统而非哲学传统的关联也反映在最有影响力的手稿和版本中，亚里士多德的《修辞学》（关于其传承请参见 Kassel 1971）的文本被其他希腊和拉丁作家的修辞作品和演讲所包围，因此很少在亚里士多德哲学著作的背景下进行解释。直到最近几十年，亚里士多德修辞学的哲学特点才得到认可（例如在 Furley/Nehamas 1994 和 Rorty 1996 的文集中；有关 20 世纪学术研究的更一般概述，请参见 Natali 1994）。值得注意的是，学者们意识到亚里士多德关于说服的修辞分析借鉴了他在逻辑、伦理、政治和心理学著作中也涉及的许多概念和思想，因此《修辞学》逐渐被视为亚里士多德著作中不可或缺的一部分。例如，亚里士多德的《修辞学》与古代逻辑的历史密不可分（见 Allen 2008，更一般地参见[古代逻辑](https://plato.stanford.edu/entries/logic-ancient/)），并且常常被视为现代论证理论的重要启示（见 van Eemeren 2013，更一般地参见[对话逻辑](https://plato.stanford.edu/entries/logic-dialogical/)）。一些作者强调《修辞学》与亚里士多德的伦理学理论的亲缘关系（见例如 Woerner 1990），而其他人则被亚里士多德关于隐喻的修辞观所吸引（见例如 Ricoeur 1996，更一般地参见[隐喻](https://plato.stanford.edu/entries/metaphor/)）。最重要的是，哲学家和学者开始关注《修辞学》对情感或情绪的描述，这不仅比亚里士多德其他著作中的描述更丰富，而且被视为情感认知、基于判断的早期例子（见例如 Nussbaum 1996，Konstan 2006，更一般地参见[情感](https://plato.stanford.edu/entries/emotion/)的第 5 节）。
 
-* [1. 亚里士多德的修辞学著作](https://plato.stanford.edu/entries/aristotle-rhetoric/#ArisWorkRhet)
-* [2. 《修辞学》的结构](https://plato.stanford.edu/entries/aristotle-rhetoric/#StruRhet)
-* [3. 辩证法的对应物：修辞学](https://plato.stanford.edu/entries/aristotle-rhetoric/#RhetCounDial)
-* [4. 修辞学的性质和目的](https://plato.stanford.edu/entries/aristotle-rhetoric/#NatuPurpRhet)
-* [4.1 修辞学的定义](https://plato.stanford.edu/entries/aristotle-rhetoric/#DefiRhet)
-* [4.2 亚里士多德的范畴论有什么用处](https://plato.stanford.edu/entries/aristotle-rhetoric/#WhatRhetUsefFor)
-* [4.3 亚里士多德的范畴论能被滥用吗](https://plato.stanford.edu/entries/aristotle-rhetoric/#ArisRhetMisu)
-* [4.4 亚里士多德的范畴论的概念是规范性的吗](https://plato.stanford.edu/entries/aristotle-rhetoric/#ArisConcRhetNorm)
-* [5. 说服的三种手段](https://plato.stanford.edu/entries/aristotle-rhetoric/#ThreMeanPers)
-* [5.1 通过演讲者的品格进行说服](https://plato.stanford.edu/entries/aristotle-rhetoric/#PersThroCharSpea)
-* [5.2 通过听众的情感进行说服](https://plato.stanford.edu/entries/aristotle-rhetoric/#PersThroEmotHear)
-* [5.3 通过论证本身进行说服](https://plato.stanford.edu/entries/aristotle-rhetoric/#PersThroArguItse)
-* [5.4 亚里士多德的修辞学理论是否存在矛盾？](https://plato.stanford.edu/entries/aristotle-rhetoric/#TherIncoArisRhetTheo)
-* [6. 演绎法](https://plato.stanford.edu/entries/aristotle-rhetoric/#Enth)
-* [6.1 Enthymeme 的概念](https://plato.stanford.edu/entries/aristotle-rhetoric/#ConcEnth)
-* [6.2 形式要求](https://plato.stanford.edu/entries/aristotle-rhetoric/#FormRequ)
-* [6.3 Enthymemes 作为辩证论证](https://plato.stanford.edu/entries/aristotle-rhetoric/#EnthDialArgu)
-* [6.4 亚里士多德的范畴论的简洁性](https://plato.stanford.edu/entries/aristotle-rhetoric/#BrevEnth)
-* [6.5 不同类型的亚里士多德的范畴论](https://plato.stanford.edu/entries/aristotle-rhetoric/#DiffTypeEnth)
-* [7. ](https://plato.stanford.edu/entries/aristotle-rhetoric/#Topo)​\*[Topoi](https://plato.stanford.edu/entries/aristotle-rhetoric/#Topo)\*
-* [7.1 ‘](https://plato.stanford.edu/entries/aristotle-rhetoric/#LackDefiTopo)​\*[Topos](https://plato.stanford.edu/entries/aristotle-rhetoric/#LackDefiTopo)\*​[’的（缺乏）定义](https://plato.stanford.edu/entries/aristotle-rhetoric/#LackDefiTopo)
-* [7.2 ‘](https://plato.stanford.edu/entries/aristotle-rhetoric/#WordTopoTechPlac)​\*[Topos](https://plato.stanford.edu/entries/aristotle-rhetoric/#WordTopoTechPlac)\*​[’一词和技巧的运用](https://plato.stanford.edu/entries/aristotle-rhetoric/#WordTopoTechPlac)
-* [7.3 ](https://plato.stanford.edu/entries/aristotle-rhetoric/#IngrFuncTopo)​\*[Topoi](https://plato.stanford.edu/entries/aristotle-rhetoric/#IngrFuncTopo)\*​[的成分和功能](https://plato.stanford.edu/entries/aristotle-rhetoric/#IngrFuncTopo)
-* [7.4 修辞学的](https://plato.stanford.edu/entries/aristotle-rhetoric/#RhetTopo)​\*[Topoi](https://plato.stanford.edu/entries/aristotle-rhetoric/#RhetTopo)\*
-* [8. 风格：如何用言辞表达](https://plato.stanford.edu/entries/aristotle-rhetoric/#StylHowSayThinWord)
-* [8.1 风格的美德](https://plato.stanford.edu/entries/aristotle-rhetoric/#VirtStyl)
-* [8.2 亚里士多德的隐喻](https://plato.stanford.edu/entries/aristotle-rhetoric/#ArisMeta)
-* [选定术语词汇表](https://plato.stanford.edu/entries/aristotle-rhetoric/#GlosSeleTerm)
-* [参考文献](https://plato.stanford.edu/entries/aristotle-rhetoric/#Bib)
-* [翻译、版本和评论](https://plato.stanford.edu/entries/aristotle-rhetoric/#TranEditComm)
-* [收集](https://plato.stanford.edu/entries/aristotle-rhetoric/#Coll)
-* [专著和文章](https://plato.stanford.edu/entries/aristotle-rhetoric/#MonoArti)
-* [学术工具](https://plato.stanford.edu/entries/aristotle-rhetoric/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aristotle-rhetoric/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aristotle-rhetoric/#Rel)
-* 补充资料：
-* [亚里士多德情感的判断和非判断解释](https://plato.stanford.edu/entries/aristotle-rhetoric/judgmental-emotions.html)
-* [关于恩希美的论点是放松的推理](https://plato.stanford.edu/entries/aristotle-rhetoric/enthymeme-inference.html)
-* [论演绎法的简洁性](https://plato.stanford.edu/entries/aristotle-rhetoric/brevity-enthymeme.html)
-* [《修辞学》中的](https://plato.stanford.edu/entries/aristotle-rhetoric/variety-topoi.html)​\*[Topoi](https://plato.stanford.edu/entries/aristotle-rhetoric/variety-topoi.html)\*​[的多样性](https://plato.stanford.edu/entries/aristotle-rhetoric/variety-topoi.html)
 
 ***
 

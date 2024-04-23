@@ -6,27 +6,6 @@ _首次发布于 2010 年 10 月 11 日；实质性修订于 2017 年 5 月 23 �
 
 这个新兴的第三层次工作主要集中在确定对非洲人和非洲裔人民来说具有思考和审美意义的哲学表达和表达方式，并为进一步的完善和新发展提供研究和教学的基础。这项工作已经产生了关于特定思想和思想空间的教育目录和批判性调查；关于知识和审美表达的议程、实践和传统；以及为非洲和非洲裔生活世界中的哲学思辨提供服务的个人、组织和机构的网络。
 
-* [1. Africana 哲学的概念](https://plato.stanford.edu/entries/africana/#ConcAfriPhil)
-* [2. 源于斗争的哲学思考：Africana 哲学的出现条件](https://plato.stanford.edu/entries/africana/#PhilBornStruCondEmerAfriPhil)
-* [3. Africana Philosophy: Continental Africa](https://plato.stanford.edu/entries/africana/#AfriPhilContAfri)
-* [4. African Philosophy: Contributions](https://plato.stanford.edu/entries/africana/#AfriPhilCont)
-* [5. Africana Philosophy: The African Diaspora](https://plato.stanford.edu/entries/africana/#AfriPhilAfriDias)
-* [6. African American Philosophizings Born of Struggles](https://plato.stanford.edu/entries/africana/#AfriAmerPhilBornStru)
-* [7. 1600–1860](https://plato.stanford.edu/entries/africana/#N1600)
-* [8. 1860–1915](https://plato.stanford.edu/entries/africana/#N1860)
-* [9. 1915–2000](https://plato.stanford.edu/entries/africana/#N1915)
-* [10. 1950–现在：非洲裔专业哲学家](https://plato.stanford.edu/entries/africana/#N1950ProfPhilAfriDesc)
-* [11. 出版和专业非洲哲学](https://plato.stanford.edu/entries/africana/#PublProfAfriPhil)
-* [12. 非洲哲学：贡献](https://plato.stanford.edu/entries/africana/#AfriPhilContrib)
-* [13. 未来发展](https://plato.stanford.edu/entries/africana/#FutuDeve)
-* [参考文献](https://plato.stanford.edu/entries/africana/#Bib)
-* [非洲哲学](https://plato.stanford.edu/entries/africana/#AfricanaPhil)
-* [非洲哲学](https://plato.stanford.edu/entries/africana/#AfriPhil)
-* [非洲裔美国哲学](https://plato.stanford.edu/entries/africana/#AfriAmerPhil)
-* [非洲加勒比哲学](https://plato.stanford.edu/entries/africana/#AfroCariPhil)
-* [学术工具](https://plato.stanford.edu/entries/africana/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/africana/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/africana/#Rel)
 
 ***
 

@@ -10,39 +10,7 @@ _首次发表于 2003 年 8 月 27 日；实质性修订于 2024 年 2 月 27 �
 
 本条目假定主要是哲学家的受众，他们对人工智能几乎没有了解。它集中讨论了在理解机械化推理系统中使用逻辑时出现的问题。它提供了一个选择性的概述，而不试图实现完全覆盖。[第 3 节](https://plato.stanford.edu/entries/logic-ai/#NonmReasNonmLogi)和[第 4 节](https://plato.stanford.edu/entries/logic-ai/#ReasAbouActiChan)描述了早期出现并持续至今的两个重要主题：非单调逻辑和关于行动和变化的推理。其余部分概述了一些选定的主题，并参考了主要文献。
 
-* [1. 人工智能中的逻辑](https://plato.stanford.edu/entries/logic-ai/#LogiArtiInte)
-* [1.1 逻辑在人工智能中的作用](https://plato.stanford.edu/entries/logic-ai/#RoleLogiArtiInte)
-* [1.2 哲学逻辑](https://plato.stanford.edu/entries/logic-ai/#PhilLogi)
-* [1.3 人工智能中的逻辑和哲学逻辑](https://plato.stanford.edu/entries/logic-ai/#LogiAIPhilLogi)
-* [2. 约翰·麦卡锡和常识逻辑主义](https://plato.stanford.edu/entries/logic-ai/#JohnMcCaCommLogi)
-* [2.1 逻辑与人工智能](https://plato.stanford.edu/entries/logic-ai/#LogiAI)
-* [2.2 常识的形式化](https://plato.stanford.edu/entries/logic-ai/#FormCommSens)
-* [3. 非单调推理和非单调逻辑](https://plato.stanford.edu/entries/logic-ai/#NonmReasNonmLogi)
-* [3.1 非单调性](https://plato.stanford.edu/entries/logic-ai/#Nonm)
-* [3.2 起源](https://plato.stanford.edu/entries/logic-ai/#Begi)
-* [3.3 最早的形式化方法](https://plato.stanford.edu/entries/logic-ai/#EarlForm)
-* [3.4 非单调逻辑的后续研究](https://plato.stanford.edu/entries/logic-ai/#LateWorkNonmLogi)
-* [4. 推理行动和变化](https://plato.stanford.edu/entries/logic-ai/#ReasAbouActiChan)
-* [4.1 先验时态逻辑](https://plato.stanford.edu/entries/logic-ai/#PrioTensLogi)
-* [4.2 计划问题和情境演算](https://plato.stanford.edu/entries/logic-ai/#PlanProbSituCalc)
-* [4.3 形式化微观世界](https://plato.stanford.edu/entries/logic-ai/#FormMicr)
-* [4.4 预测和框架问题](https://plato.stanford.edu/entries/logic-ai/#PredFramProb)
-* [4.5 惯性的非单调处理和一系列问题](https://plato.stanford.edu/entries/logic-ai/#NonmTreaInerPackProb)
-* [4.6 一些新兴框架](https://plato.stanford.edu/entries/logic-ai/#SomeEmerFram)
-* [5. 因果推理](https://plato.stanford.edu/entries/logic-ai/#CausReas)
-* [6. 空间推理](https://plato.stanford.edu/entries/logic-ai/#SpatReas)
-* [7. 知识推理](https://plato.stanford.edu/entries/logic-ai/#ReasAbouKnow)
-* [8. 基于逻辑的人工智能的形式化](https://plato.stanford.edu/entries/logic-ai/#TowaFormCommSens)
-* [9. 分类学表示和推理](https://plato.stanford.edu/entries/logic-ai/#TaxoReprReas)
-* [9.1 基于概念的分类](https://plato.stanford.edu/entries/logic-ai/#ConcBaseClas)
-* [9.2 非单调继承](https://plato.stanford.edu/entries/logic-ai/#NonmInhe)
-* [10. 上下文推理](https://plato.stanford.edu/entries/logic-ai/#ContReas)
-* [11. 逻辑实践理论的前景](https://plato.stanford.edu/entries/logic-ai/#ProsForLogiTheoPracReas)
-* [12. 阅读](https://plato.stanford.edu/entries/logic-ai/#Read)
-* [参考文献](https://plato.stanford.edu/entries/logic-ai/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/logic-ai/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/logic-ai/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/logic-ai/#Rel)
+
 
 ***
 

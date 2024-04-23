@@ -8,18 +8,6 @@ _首次发表于 2001 年 12 月 28 日；实质性修订于 2018 年 4 月 9 �
 
 公众对平权行动的争议可以被描绘成一条线上的两个峰值，第一个峰值代表着从 1972 年开始的激烈辩论时期，在 1980 年后逐渐减弱，而第二个峰值则表示在 1990 年代重新兴起的辩论，最终导致了 2003 年和 2016 年最高法院对某些形式的平权行动的支持。第一个峰值涵盖了有关性别和种族偏好的争议。这是因为在开始阶段，平权行动与工厂、消防站和公司高层一样与大学校园有关。第二个峰值代表了有关种族和民族的争论。这是因为在二十一世纪之交，关键问题是大学入学问题。在精英大学中，女性不需要额外的帮助；而非洲裔美国人和西班牙裔美国人则需要。\[1]
 
-* [2. 争议的参与](https://plato.stanford.edu/entries/affirmative-action/#ContEnga)
-* [3. 权利和一致性](https://plato.stanford.edu/entries/affirmative-action/#RighCons)
-* [4. 真实世界的平权行动：职场](https://plato.stanford.edu/entries/affirmative-action/#RealWorlAffiActiWork)
-* [5. 真实世界的平权行动：大学](https://plato.stanford.edu/entries/affirmative-action/#RealWorlAffiActiUniv)
-* [6. 平等的规则](https://plato.stanford.edu/entries/affirmative-action/#EquaRule)
-* [7. 多样性的主导](https://plato.stanford.edu/entries/affirmative-action/#DiveDomi)
-* [8. 整合论证](https://plato.stanford.edu/entries/affirmative-action/#InteArgu)
-* [9. 混淆的功过，误用的功过](https://plato.stanford.edu/entries/affirmative-action/#DeseConfDeseMisa)
-* [参考文献](https://plato.stanford.edu/entries/affirmative-action/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/affirmative-action/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/affirmative-action/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/affirmative-action/#Rel)
 
 ***
 

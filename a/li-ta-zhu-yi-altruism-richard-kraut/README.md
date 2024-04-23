@@ -10,32 +10,6 @@ _首次发布于 2016 年 8 月 25 日；实质性修订于 2020 年 8 月 31 �
 
 通常认为，我们至少应该在某种程度上表现出利他主义。但是到什么程度呢？利他主义一定值得赞赏吗？为什么一个人应该为了他人而行动，而不仅仅是为了自己的利益？实际上，人们是否真的出于利他主义行动，还是所有行为最终都是出于自私？
 
-* [1. 什么是利他主义？](https://plato.stanford.edu/entries/altruism/#WhatAltr)
-* [1.1 混合动机和纯粹利他主义](https://plato.stanford.edu/entries/altruism/#MixeMotiPureAltr)
-* [1.2 自我牺牲，强弱利他主义](https://plato.stanford.edu/entries/altruism/#SelfSacrStroWeakAltr)
-* [1.3 道德动机和利他动机](https://plato.stanford.edu/entries/altruism/#MoraMotiAltrMoti)
-* [1.4 幸福和完美](https://plato.stanford.edu/entries/altruism/#WellBeinPerf)
-* [2. 利他主义是否存在？](https://plato.stanford.edu/entries/altruism/#DoesAltrExis)
-* [2.1 心理利己主义：强版本和弱版本](https://plato.stanford.edu/entries/altruism/#PsycEgoiStroWeakVers)
-* [2.2 心理利己主义的实证论证](https://plato.stanford.edu/entries/altruism/#EmpiArguForPsycEgoi)
-* [2.3 利他主义的先验论证](https://plato.stanford.edu/entries/altruism/#PrioArguForPsycEgoi)
-* [2.4 饥饿和欲望](https://plato.stanford.edu/entries/altruism/#HungDesi)
-* [2.5 欲望和动机](https://plato.stanford.edu/entries/altruism/#DesiMoti)
-* [2.6 纯粹利他主义和自我牺牲](https://plato.stanford.edu/entries/altruism/#PureAltrSelfSacr)
-* [2.7 利他主义是否存在？](https://plato.stanford.edu/entries/altruism/#DoesEgoiExis)
-* [3. 自我与他人：一些激进的形而上学替代方案](https://plato.stanford.edu/entries/altruism/#SelfOtheSomeRadiMetaAlte)
-* [4. 为什么关心他人？](https://plato.stanford.edu/entries/altruism/#WhyCareAbouOthe)
-* [4.1 幸福主义](https://plato.stanford.edu/entries/altruism/#Euda)
-* [4.2 公正的理由](https://plato.stanford.edu/entries/altruism/#ImpaReas)
-* [4.3 纳格尔和客观立场](https://plato.stanford.edu/entries/altruism/#NageImpeStan)
-* [4.4 情感主义和同情](https://plato.stanford.edu/entries/altruism/#SentFellFeel)
-* [5. 康德对同情和义务的看法](https://plato.stanford.edu/entries/altruism/#KantSympDuty)
-* [6. 情感主义再探讨](https://plato.stanford.edu/entries/altruism/#SentRevi)
-* [7. 结论](https://plato.stanford.edu/entries/altruism/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/altruism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/altruism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/altruism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/altruism/#Rel)
 
 ***
 

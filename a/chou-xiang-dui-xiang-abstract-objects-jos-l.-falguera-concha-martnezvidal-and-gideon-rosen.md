@@ -4,26 +4,6 @@ _首次发表于 2001 年 7 月 19 日；实质性修订于 2021 年 8 月 9 日
 
 在研究存在的事物时，人们很快就会遇到一个观点，即每个实体都属于两个类别之一：_具体_或_抽象_。这种区分被认为对于形而上学（尤其是本体论）、认识论和形式科学哲学（尤其是数学哲学）具有基本意义；它也与语言哲学、心灵哲学和经验科学哲学的分析相关。本文概述了（a）如何划分这种区别的尝试和（b）关于抽象对象的主要理论。
 
-* [1. 引言](https://plato.stanford.edu/entries/abstract-objects/#Intr)
-* [1.1 关于“对象”这个表达](https://plato.stanford.edu/entries/abstract-objects/#AbouExprObje)
-* [1.2 关于抽象/具体区分](https://plato.stanford.edu/entries/abstract-objects/#AbouAbstDist)
-* [2.历史背景](https://plato.stanford.edu/entries/abstract-objects/#HistRema)
-* [2.1 区分的来源](https://plato.stanford.edu/entries/abstract-objects/#ProvDist)
-* [2.2 当代辩论的初步概述](https://plato.stanford.edu/entries/abstract-objects/#InitOverContDeba)
-* [3. 什么是抽象对象？](https://plato.stanford.edu/entries/abstract-objects/#WhatAbstObje)
-* [3.1 例证之道与原始主义之道](https://plato.stanford.edu/entries/abstract-objects/#WayExamWayPrim)
-* [3.2 混淆之道](https://plato.stanford.edu/entries/abstract-objects/#WayConf)
-* [3.3 抽象的方式](https://plato.stanford.edu/entries/abstract-objects/#WayAbst)
-* [3.4 抽象的方式原则](https://plato.stanford.edu/entries/abstract-objects/#WayAbstPrin)
-* [3.5 否定的方式](https://plato.stanford.edu/entries/abstract-objects/#WaysNega)
-* [3.6 编码的方式](https://plato.stanford.edu/entries/abstract-objects/#WayEnco)
-* [3.7 存在减弱的方式](https://plato.stanford.edu/entries/abstract-objects/#WaysWeakExis)
-* [3.8 消除论](https://plato.stanford.edu/entries/abstract-objects/#Elim)
-* [4. 进一步阅读](https://plato.stanford.edu/entries/abstract-objects/#FurtRead)
-* [参考文献](https://plato.stanford.edu/entries/abstract-objects/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/abstract-objects/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/abstract-objects/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/abstract-objects/#Rel)
 
 ***
 

@@ -4,24 +4,6 @@ _首次发表于 2014 年 8 月 20 日，实质修订于 2023 年 2 月 7 日_
 
 什么是情色艺术？所有具有性主题的绘画都可以被归类为情色艺术吗？如何区分情色艺术和色情艺术？美学体验与情色体验有何关联或区别，它们是否兼容？人和艺术作品都可以具有感官吸引力，但在每种情况下的美是否实质上相同？区分裸体和裸露有多大帮助？我们能够在情色艺术和色情作品之间划定明确的界限吗？我们倾向于将艺术视为复杂的，将色情作品视为单一的，但这种区分有多具有说服力？色情作品常常被认为是有害的、物化的和剥削性的，但情色艺术在道德批评方面有多少免疫力？在回答这些问题时，本文将概述当前关于情色艺术的哲学辩论。它还将把这些辩论放置在历史背景下，并在结尾部分探讨一些重要的未来研究方向。
 
-* [1. 什么是情色艺术？](https://plato.stanford.edu/entries/erotic-art/#WhatErotArt)
-* [1.1 情色艺术的定义](https://plato.stanford.edu/entries/erotic-art/#DefiErotArt)
-* [1.2 进一步的区分](https://plato.stanford.edu/entries/erotic-art/#SomeFurtDist)
-* [2. 现代美学与情色艺术问题](https://plato.stanford.edu/entries/erotic-art/#ModeAestProbErotArt)
-* [2.1 情色的美学剥夺](https://plato.stanford.edu/entries/erotic-art/#AestDiseErot)
-* [2.2 现代美学的遗产](https://plato.stanford.edu/entries/erotic-art/#LegaModeAest)
-* [2.3 情色的美学复兴](https://plato.stanford.edu/entries/erotic-art/#AestRehaErot)
-* [3. 当代美学与情色艺术问题](https://plato.stanford.edu/entries/erotic-art/#ContAestProbPornArt)
-* [4. 情色艺术与色情作品：超越美学](https://plato.stanford.edu/entries/erotic-art/#ErotArtVsPornBeyoAest)
-* [4.1 情色艺术、艺术史和色情的文化历史](https://plato.stanford.edu/entries/erotic-art/#ErotArtArtHistCultHistPorn)
-* [4.2 情色艺术、女性主义理论和物化](https://plato.stanford.edu/entries/erotic-art/#ErotArtFemiTheoObje)
-* [5. 进一步的问题](https://plato.stanford.edu/entries/erotic-art/#FurtQues)
-* [参考文献](https://plato.stanford.edu/entries/erotic-art/#Bib)
-* [参考的绘画、雕塑和摄影作品](https://plato.stanford.edu/entries/erotic-art/#PainSculPhotRefe)
-* [参考的文学和电影作品](https://plato.stanford.edu/entries/erotic-art/#LiteFilmRefe)
-* [学术工具](https://plato.stanford.edu/entries/erotic-art/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/erotic-art/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/erotic-art/#Rel)
 
 ***
 

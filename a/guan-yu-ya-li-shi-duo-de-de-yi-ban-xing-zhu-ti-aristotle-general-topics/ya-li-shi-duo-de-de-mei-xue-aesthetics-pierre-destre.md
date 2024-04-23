@@ -22,19 +22,6 @@ _首次发布于 2021 年 12 月 3 日_
 
 _读者请注意_。在我们深入讨论我们的主题之前，先提个警告。《诗学》是古代世界中引起最多争议的作品之一，而且至今仍然如此。众所周知，比起其他任何词汇，_katharsis_这个词从文艺复兴时期（该论文被重新发现的时候）开始，引发了最多的争议（并且产生了最多的文字）。但毫不夸张地说，《诗学》的几乎每一页，如果不是每个句子，都被解释成了不同的方式，许多更一般的主题也是如此，比如这篇论文是写给谁的问题，它的总体目标或者说它的整体意义。希腊文本不仅传承得相当差（并且仍然在专家之间引发许多文献学争议），而且非常复杂和晦涩，许多术语实际上相当模糊或者含糊不清，因此可以有多种可能的解释（和翻译）。因此，这个总体介绍的读者应该被警告，就像任何其他《诗学》的介绍一样，它是基于一系列（希望是连贯的）解释选择的基础上的；其他一些主要的解释选择将会被简要描述，或者在注释中标出。\[[2](https://plato.stanford.edu/entries/aristotle-aesthetics/notes.html#note-2)]
 
-* [1. ](https://plato.stanford.edu/entries/aristotle-aesthetics/#PoetHowJudgPoet)​\*[关于诗人](https://plato.stanford.edu/entries/aristotle-aesthetics/#PoetHowJudgPoet)\*​[：如何评判诗歌？](https://plato.stanford.edu/entries/aristotle-aesthetics/#PoetHowJudgPoet)
-* [2. ](https://plato.stanford.edu/entries/aristotle-aesthetics/#HomeProbHowDefePoet)​\*[荷马问题](https://plato.stanford.edu/entries/aristotle-aesthetics/#HomeProbHowDefePoet)\*​[：如何捍卫诗歌？](https://plato.stanford.edu/entries/aristotle-aesthetics/#HomeProbHowDefePoet)
-* [3. 诗学：如何理解诗歌？](https://plato.stanford.edu/entries/aristotle-aesthetics/#PoetHowUndePoet)
-* [3.1 什么是诗歌本身？](https://plato.stanford.edu/entries/aristotle-aesthetics/#WhatPoetSuch)
-* [3.2. 悲剧](https://plato.stanford.edu/entries/aristotle-aesthetics/#Trag)
-* [3.3 喜剧](https://plato.stanford.edu/entries/aristotle-aesthetics/#Come)
-* [4. 音乐与艺术的价值](https://plato.stanford.edu/entries/aristotle-aesthetics/#MusiValuArt)
-* [参考文献](https://plato.stanford.edu/entries/aristotle-aesthetics/#Bib)
-* [A. 选定的文本、翻译、评论](https://plato.stanford.edu/entries/aristotle-aesthetics/#SeleTextTranComm)
-* [B. 选定的次级文献](https://plato.stanford.edu/entries/aristotle-aesthetics/#BSeleSecoLite)
-* [学术工具](https://plato.stanford.edu/entries/aristotle-aesthetics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aristotle-aesthetics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aristotle-aesthetics/#Rel)
 
 ***
 

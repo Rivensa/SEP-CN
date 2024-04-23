@@ -6,34 +6,6 @@ _首次发布于 2018 年 8 月 30 日；实质性修订于 2022 年 10 月 6 �
 
 本文阐明了异化的基本概念。它将异化与一些相关概念进行了区分，特别是与“物神崇拜”和“物化”进行了区分。并阐明了一些概念和规范上的复杂性，包括：主观异化和客观异化的区别；需要一个标准来确定哪些分离是有问题的；以及异化与伦理价值之间的关系（某些方面）。承认了哲学上对异化的描述常常引发的经验困难，但并未解决这些困难。
 
-* [1. 基本思想](https://plato.stanford.edu/entries/alienation/#BasiIdea)
-* [1.1 引入](https://plato.stanford.edu/entries/alienation/#Intr)
-* [1.2 详述](https://plato.stanford.edu/entries/alienation/#Elab)
-* [1.3 谦逊性](https://plato.stanford.edu/entries/alienation/#Mode)
-* [2. 相邻概念](https://plato.stanford.edu/entries/alienation/#AdjaConc)
-* [2.1 引入](https://plato.stanford.edu/entries/alienation/#Intr2)
-* [2.2 Fetishism](https://plato.stanford.edu/entries/alienation/#Feti)
-* [2.3 Objectification](https://plato.stanford.edu/entries/alienation/#Obje) \* [2.2 崇拜](https://plato.stanford.edu/entries/alienation/#Feti)
-* [3. 主观和客观的异化](https://plato.stanford.edu/entries/alienation/#SubjObjeAlie)
-* [3.1 主观和客观异化的区别](https://plato.stanford.edu/entries/alienation/#Dist)
-* [3.2 诊断模式](https://plato.stanford.edu/entries/alienation/#DiagSche)
-* [3.3 应用](https://plato.stanford.edu/entries/alienation/#Appl)
-* [4. 什么使得分离问题成为问题？](https://plato.stanford.edu/entries/alienation/#WhatMakeSepaProb)
-* [4.1 “不适当性”的标准](https://plato.stanford.edu/entries/alienation/#CritImpr)
-* [4.2 人类本质的本质](https://plato.stanford.edu/entries/alienation/#EsseHumaNatu)
-* [4.3 另一种标准](https://plato.stanford.edu/entries/alienation/#Alte)
-* [5. 异化与价值](https://plato.stanford.edu/entries/alienation/#AlieValu)
-* [5.1 负面因素](https://plato.stanford.edu/entries/alienation/#NegaElem)
-* [5.2 积极因素](https://plato.stanford.edu/entries/alienation/#PosiElem)
-* [5.3 道德作为异化](https://plato.stanford.edu/entries/alienation/#MoraAlie)
-* [6. 一些（未解决的）实证问题](https://plato.stanford.edu/entries/alienation/#SomeUnreEmpiIssu)
-* [6.1 内容](https://plato.stanford.edu/entries/alienation/#Cont)
-* [6.2 程度](https://plato.stanford.edu/entries/alienation/#Exte)
-* [6.3 预后](https://plato.stanford.edu/entries/alienation/#Prog)
-* [参考文献](https://plato.stanford.edu/entries/alienation/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/alienation/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/alienation/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/alienation/#Rel)
 
 ***
 

@@ -6,33 +6,6 @@ _首次发布于 2005 年 6 月 30 日；实质性修订于 2014 年 10 月 9 �
 
 从 19 世纪开始，当严肃的科学原子论首次出现时，原子论的历史意义变为认识论而非形而上学。由于原子远远超出了观察的范畴，关于原子的假设是否应该成为经验科学的一部分？19 世纪确实有哲学家和科学家对这个问题给出了否定的答案。当代哲学家对于这个辩论究竟是科学问题还是哲学问题存在分歧。是否有理由反对原子论，认为其无益或缺乏充分的实验支持，或者这样的反对源于某种一般的认识论命题，也许是某种实证主义，它排除了任何试图通过引入不可观察的原子来解释可观察现象的尝试？许多当代哲学家认为原子论的最终胜利是现实主义战胜实证主义的胜利。这些主张既具有历史性又具有哲学性，因此在评估它们时，弄清历史事实是很重要的。在这方面，哲学文献在 19 世纪化学史的最新进展方面仍有待追赶。本文介绍了从 17 世纪到 20 世纪初，即原子的存在不再是一个有争议的问题的时期，原子论的关键发展。重点放在各个版本的认识论地位上，以及科学与哲学之间的关系。
 
-* [1. 简介](https://plato.stanford.edu/entries/atomism-modern/#Int)
-* [2. 十七世纪的原子论](https://plato.stanford.edu/entries/atomism-modern/#AtoSevCen)
-* [2.1 原子论和机械哲学](https://plato.stanford.edu/entries/atomism-modern/#AtoMec)
-* [2.2 机械化简和跨领域问题](https://plato.stanford.edu/entries/atomism-modern/#MecRedProTra)
-* [2.3 自然的极小](https://plato.stanford.edu/entries/atomism-modern/#NatMin)
-* [2.4 十七世纪的折衷主义](https://plato.stanford.edu/entries/atomism-modern/#SevCenEcl)
-* [3. 牛顿原子论](https://plato.stanford.edu/entries/atomism-modern/#NewtonianAtomism)
-* [3.1 牛顿的原子论](https://plato.stanford.edu/entries/atomism-modern/#NewAto)
-* [3.2 十八世纪牛顿原子论的发展](https://plato.stanford.edu/entries/atomism-modern/#EigCenDevNewAto)
-* [4. 十九世纪的化学原子论](https://plato.stanford.edu/entries/atomism-modern/#CheAtoNinCen)
-* [4.1 达尔顿的原子论](https://plato.stanford.edu/entries/atomism-modern/#DalAto)
-* [4.2 达尔顿化学的地位](https://plato.stanford.edu/entries/atomism-modern/#StaDalChe)
-* [4.3 使用化学式的有机化学进展](https://plato.stanford.edu/entries/atomism-modern/#ProOrgCheUsiCheFor)
-* [4.4 有机化学对原子论的意义](https://plato.stanford.edu/entries/atomism-modern/#ImpOrgCheForAto)
-* [5. 十九世纪物理学中的原子论](https://plato.stanford.edu/entries/atomism-modern/#AtoNinCenPhy)
-* [5.1 气体动力学理论](https://plato.stanford.edu/entries/atomism-modern/#KinTheGas)
-* [5.2 运动论的地位](https://plato.stanford.edu/entries/atomism-modern/#StaKinThe)
-* [5.3 通过原子论相互关联的现象](https://plato.stanford.edu/entries/atomism-modern/#PheConViaAto)
-* [5.4 热力学作为原子论的竞争对手](https://plato.stanford.edu/entries/atomism-modern/#TheRivAto)
-* [6. 布朗运动](https://plato.stanford.edu/entries/atomism-modern/#BroMot)
-* [6.1 布朗粒子的密度分布](https://plato.stanford.edu/entries/atomism-modern/#DenDisBroPar)
-* [6.2 培兰案的进一步维度](https://plato.stanford.edu/entries/atomism-modern/#FurDimPerCas)
-* [7. 结论](https://plato.stanford.edu/entries/atomism-modern/#ConRem)
-* [参考文献](https://plato.stanford.edu/entries/atomism-modern/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/atomism-modern/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/atomism-modern/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/atomism-modern/#Rel)
 
 ***
 

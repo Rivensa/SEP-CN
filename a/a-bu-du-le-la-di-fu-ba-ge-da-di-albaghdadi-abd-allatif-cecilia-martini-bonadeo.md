@@ -6,27 +6,6 @@ _首次发表于 2015 年 9 月 9 日；实质性修订于 2023 年 9 月 28 日
 
 ‘Abd al-Latif 是一位哲学家和博学者，生活在第二次十字军东征（1147-1149 年）和第五次十字军东征结束（1217-1231 年）之间（Jackson 2017）。他于 1162 年出生在巴格达，并于 1231 年 11 月 9 日在那里去世，此前他进行了长达四十多年的朝圣之旅，途中他游历了伊拉克、叙利亚和埃及，寻找一位优秀的哲学导师。他在一个与尼扎米耶学院有着密切联系的沙菲派家庭中长大，并接受了良好的伊斯兰科学教育。然后他转向自然科学、医学、哲学，尤其是炼金术。他对知识的痴迷追求使他通过他们的著作结识了伊本·西那、阿尔加扎利和阿尔苏赖瓦迪。‘Abd al-Latif 有许多慷慨的赞助人，并与他那个时代最重要的人物保持联系，包括萨拉丁和开罗的梅蒙尼德斯。对于‘Abd al-Latif 来说，开罗代表着他朝圣的渴望目标，那里他终于遇到了亚里士多德及其哲学的同时也遇到了他的评论家忒米斯提乌斯和亚历山大的作品，他还接触到了东方最伟大的阿拉伯亚里士多德评论家阿尔法拉比的作品。对于‘Abd al-Latif 来说，开罗也意味着逐渐放弃他在早年教育中认为唯一可能的阿维罗伊斯哲学。‘Abd al-Latif 是一个尖锐的批评家，一个独立思考者，也是哲学和医学方面的多产作家。他明确的知识计划是回归阿拉伯语翻译的原始希腊著作，特别是在哲学上回归亚里士多德，在医学上通过伽伦回归希波克拉底，但他只能通过阿维罗伊斯之前的哲学家阿尔金迪和阿尔法拉比的再创作来回归这些源头。
 
-* [生平与作品](https://plato.stanford.edu/entries/al-baghdadi/#LifeWork)
-* [1.1 生平](https://plato.stanford.edu/entries/al-baghdadi/#Life)
-* [1.2 作品](https://plato.stanford.edu/entries/al-baghdadi/#Work)
-* [2. 哲学研究是什么](https://plato.stanford.edu/entries/al-baghdadi/#WhatPhilRese)
-* [3. 现代派的批评](https://plato.stanford.edu/entries/al-baghdadi/#CritAgaiMode)
-* [3.1 对亚维中尼的批评](https://plato.stanford.edu/entries/al-baghdadi/#AgaiAvic)
-* [3.2 反对法赫鲁丁·拉齐](https://plato.stanford.edu/entries/al-baghdadi/#AgaiFakhAlDinAlRazi)
-* [4. 形而上学](https://plato.stanford.edu/entries/al-baghdadi/#Meta)
-* [4.1 形而上学作为对原因和第一哲学的研究](https://plato.stanford.edu/entries/al-baghdadi/#MetaReseCausFirsPhil)
-* [4.2 天意](https://plato.stanford.edu/entries/al-baghdadi/#Prov)
-* [4.3 知性和第一原因](https://plato.stanford.edu/entries/al-baghdadi/#InteFirsCaus)
-* [4.4 形而上学科学作为主权科学](https://plato.stanford.edu/entries/al-baghdadi/#MetaScieScieSove)
-* [5. 良好和不良的认识论和实践](https://plato.stanford.edu/entries/al-baghdadi/#GoodBadEpisPrac)
-* [5.1 医学认识论](https://plato.stanford.edu/entries/al-baghdadi/#MediEpis)
-* [5.2 反对炼金术](https://plato.stanford.edu/entries/al-baghdadi/#AgaiAlch)
-* [参考文献](https://plato.stanford.edu/entries/al-baghdadi/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/al-baghdadi/#PrimSour)
-* [次要来源](https://plato.stanford.edu/entries/al-baghdadi/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/al-baghdadi/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/al-baghdadi/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/al-baghdadi/#Rel)
 
 ***
 

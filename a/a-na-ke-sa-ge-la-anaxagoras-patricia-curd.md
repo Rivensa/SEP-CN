@@ -4,29 +4,6 @@ _首次发表于 2007 年 8 月 22 日；实质性修订于 2019 年 11 月 11 �
 
 阿那克萨哥拉（克拉佐梅尼的一座重要的希腊城市，位于伊奥尼亚亚洲小）是公元前 5 世纪的希腊哲学家（约生于公元前 500-480 年），他是前苏格拉底哲学家中第一个居住在雅典的人。他提出了一个关于“一切中的一切”的物理理论，并声称“诺斯”（智慧或心灵）是宇宙的动因。他是第一个正确解释日食的人，因其科学理论而闻名和臭名昭著，包括太阳是一团炽热的金属、月亮是土质的以及星星是火石的说法。阿那克萨哥拉认为宇宙的原始状态是所有成分（他的系统的基本实体）的混合物。这些成分被彻底混合在一起，以至于没有任何单独的成分是明显的，但混合物并不完全均匀或均质。尽管每个成分都是无处不在的，但某些成分的浓度比其他成分高，并且这些比例在不同地方也可能有所不同（即使在宇宙的原始状态中并非如此）。混合物的范围是无限的，并且在某个时间点上，它被“诺斯”的作用推动而开始运动。混合物开始围绕其中的某个小点旋转，随着旋转运动的进行并在整个质量中扩散，混合物中的成分按照相对密度的大小被移动和分离，并与彼此重新混合，最终产生我们所感知到的由明显分离的物质质量和物质对象组成的宇宙，具有不同的属性。
 
-* [1. 生平与工作](https://plato.stanford.edu/entries/anaxagoras/#LifWor)
-* [2.形而上学原理](https://plato.stanford.edu/entries/anaxagoras/#MetPri)
-* [2.1 没有生成或消失](https://plato.stanford.edu/entries/anaxagoras/#NoBecPasAwa)
-* [2.2 一切都在一切中](https://plato.stanford.edu/entries/anaxagoras/#EveEve)
-* [2.3 没有最小或最大](https://plato.stanford.edu/entries/anaxagoras/#NoSmaLar)
-* [3. 物理原理](https://plato.stanford.edu/entries/anaxagoras/#PhyPri)
-* [3.1 混合与旋转](https://plato.stanford.edu/entries/anaxagoras/#MixRot)
-* [3.2 成分和种子](https://plato.stanford.edu/entries/anaxagoras/#IngSee)
-* [3.3 心智/智力](https://plato.stanford.edu/entries/anaxagoras/#Min)
-* [3.4 主导原则](https://plato.stanford.edu/entries/anaxagoras/#PriPre)
-* [4. 科学：阿那克萨哥拉的宇宙观](https://plato.stanford.edu/entries/anaxagoras/#SciAnaCos)
-* [4.1 宇宙学](https://plato.stanford.edu/entries/anaxagoras/#Cos)
-* [4.2 气象学和地质学](https://plato.stanford.edu/entries/anaxagoras/#MetGeo)
-* [4.3 其他世界？](https://plato.stanford.edu/entries/anaxagoras/#OthWor)
-* [5. 知识](https://plato.stanford.edu/entries/anaxagoras/#Kno)
-* [5.1 我们内在的心智/智力](https://plato.stanford.edu/entries/anaxagoras/#MinUs)
-* [6. 阿那克萨哥拉的影响](https://plato.stanford.edu/entries/anaxagoras/#AnaInf)
-* [参考文献](https://plato.stanford.edu/entries/anaxagoras/#Bib)
-* [版本和文本](https://plato.stanford.edu/entries/anaxagoras/#EdiTex)
-* [二级文献](https://plato.stanford.edu/entries/anaxagoras/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/anaxagoras/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/anaxagoras/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/anaxagoras/#Rel)
 
 ***
 

@@ -4,21 +4,6 @@
 
 在 18 世纪引入哲学词汇中，术语“美学”已经成为指代多种事物的概念，包括一种对象、一种判断、一种态度、一种经验和一种价值。在很大程度上，美学理论在以下问题上产生了分歧：艺术作品是否必然是美学对象；如何将美学判断的感知基础与我们提供支持理由的事实相协调；如何最好地捕捉美学态度与实用态度之间难以捉摸的对比；是否根据现象学或再现内容来定义美学经验；如何最好地理解美学价值与美学经验之间的关系。但是，最近出现了一些更一般性的问题，这些问题往往带有怀疑的色彩：是否可以在不诉诸其他概念的情况下解释“美学”的任何用法；是否就任何用法的一致达成协议足以为有意义的理论协议或分歧提供基础；是否该术语最终回答了任何合法的哲学目的，以证明其纳入词汇表的合理性。这些一般性问题所表达的怀疑直到 20 世纪后期才开始占据主导地位，这一事实引发了一个问题：（a）美学概念本质上存在问题，只是最近我们才意识到这一点，还是（b）概念本身是好的，只是最近我们变得混乱到以为它不好。要对这些可能性进行裁决，需要一个能够同时了解早期和晚期关于美学问题的理论的视角。
 
-* [1. 品味的概念](https://plato.stanford.edu/entries/aesthetic-concept/#ConTas)
-* [1.1 Immediacy](https://plato.stanford.edu/entries/aesthetic-concept/#Imm)
-* [1.2 Disinterest](https://plato.stanford.edu/entries/aesthetic-concept/#Dis) 美学概念
-* [2. 美学概念](https://plato.stanford.edu/entries/aesthetic-concept/#ConAes)
-* [2.1 美学对象](https://plato.stanford.edu/entries/aesthetic-concept/#AesObj)
-* [2.2 美学判断](https://plato.stanford.edu/entries/aesthetic-concept/#AesJud)
-* [2.3 美学态度](https://plato.stanford.edu/entries/aesthetic-concept/#AesAtt)
-* [2.4 美学体验](https://plato.stanford.edu/entries/aesthetic-concept/#AesExp)
-* [2.5 美学价值](https://plato.stanford.edu/entries/aesthetic-concept/#AesVal)
-* [2.5.1 美学问题](https://plato.stanford.edu/entries/aesthetic-concept/#AesQue)
-* [2.5.2 规范问题](https://plato.stanford.edu/entries/aesthetic-concept/#NorQue)
-* [参考文献](https://plato.stanford.edu/entries/aesthetic-concept/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/aesthetic-concept/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aesthetic-concept/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aesthetic-concept/#Rel)
 
 ***
 

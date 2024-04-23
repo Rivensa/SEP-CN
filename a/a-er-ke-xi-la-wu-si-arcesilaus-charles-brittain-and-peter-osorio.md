@@ -6,27 +6,7 @@ _首次发表于 2005 年 1 月 14 日；实质性修订于 2021 年 7 月 2 日
 
 关于阿尔克西拉乌斯哲学的古代证据很难评估，并且在某些方面存在不一致之处。因此，学者们以几种方式解释他的怀疑主义。有些人认为他的哲学活动完全是否定的，或者破坏了所有观点。其他人认为他持有积极的观点，但不涉及任何哲学主题，包括知识的可能性。有些人认为他基于论证认为没有什么是可以知道的，而另一些人则认为他是一个拒绝接受任何哲学理论或命题在理性上得到保证的人，坚持总是需要进一步的研究。
 
-* [1. 生平与工作](https://plato.stanford.edu/entries/arcesilaus/#LifeWork)
-* [2. 怀疑主义：方法或学说](https://plato.stanford.edu/entries/arcesilaus/#SkepMethDoct)
-* [3. 批评斯多葛派认识论](https://plato.stanford.edu/entries/arcesilaus/#CritStoiEpis)
-* [4. ](https://plato.stanford.edu/entries/arcesilaus/#InapUnivSuspAsse)​\*[无法理解](https://plato.stanford.edu/entries/arcesilaus/#InapUnivSuspAsse)_​_[_和_](https://plato.stanford.edu/entries/arcesilaus/#InapUnivSuspAsse)_​_[普遍保留怀疑](https://plato.stanford.edu/entries/arcesilaus/#InapUnivSuspAsse)\*
-* [4.1 非理性非信念解释](https://plato.stanford.edu/entries/arcesilaus/#NonRatiNonBeliInte)
-* [4.2 理性非信念解释](https://plato.stanford.edu/entries/arcesilaus/#RatiNonBeliInte)
-* [4.3 非理性信念解释](https://plato.stanford.edu/entries/arcesilaus/#NonRatiBeliInte)
-* [5. 实践标准](https://plato.stanford.edu/entries/arcesilaus/#PracCrit)
-* [5.1 ](https://plato.stanford.edu/entries/arcesilaus/#NonRatiNonBeliInte\*1)​\*[非理性非信念](https://plato.stanford.edu/entries/arcesilaus/#NonRatiNonBeliInte\*1)\*​[ 解释](https://plato.stanford.edu/entries/arcesilaus/#NonRatiNonBeliInte\*1)
-* [5.2 ](https://plato.stanford.edu/entries/arcesilaus/#RatiNonBeliInte\*1)​\*[理性非信念](https://plato.stanford.edu/entries/arcesilaus/#RatiNonBeliInte\*1)\*​[ 解释](https://plato.stanford.edu/entries/arcesilaus/#RatiNonBeliInte\*1)
-* [5.3 ](https://plato.stanford.edu/entries/arcesilaus/#NonRatiBeliInte\*1)​\*[非理性信念](https://plato.stanford.edu/entries/arcesilaus/#NonRatiBeliInte\*1)\*​[ 解释](https://plato.stanford.edu/entries/arcesilaus/#NonRatiBeliInte\*1)
-* [6. 方法的优先性](https://plato.stanford.edu/entries/arcesilaus/#PrioMeth)
-* [7. 结论](https://plato.stanford.edu/entries/arcesilaus/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/arcesilaus/#Bib)
-* [来源](https://plato.stanford.edu/entries/arcesilaus/#Sour)
-* [阿尔克西拉乌斯的生平和哲学活动](https://plato.stanford.edu/entries/arcesilaus/#ArceLifePhilActi)
-* [阿尔克西拉乌斯的怀疑立场](https://plato.stanford.edu/entries/arcesilaus/#ArceSkepPosi)
-* [阿尔克西拉乌斯与其他哲学家的关系](https://plato.stanford.edu/entries/arcesilaus/#ArceRelaOthePhil)
-* [学术工具](https://plato.stanford.edu/entries/arcesilaus/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/arcesilaus/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/arcesilaus/#Rel)
+
 
 ***
 

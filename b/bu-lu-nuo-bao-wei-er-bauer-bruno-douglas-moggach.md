@@ -4,17 +4,6 @@ _首次发表于 2002 年 3 月 7 日；实质性修订于 2022 年 2 月 7 日_
 
 布鲁诺·鲍威尔（1809 年 9 月 6 日-1882 年 4 月 13 日），哲学家、历史学家和神学家。他的职业生涯分为两个主要阶段，分别是 1848 年革命之前和之后。在 19 世纪 40 年代，也就是被称为“前马尔茨”或德国 1848 年三月革命序幕的时期，鲍威尔是左黑格尔派运动的领导人，他发展了黑格尔的共和主义解释，将伦理和美学元素结合起来。他的无限自我意识理论源于黑格尔对主观精神的描述，强调理性的自主性和历史进步。在研究基督教的文本来源时，鲍威尔将宗教描述为一种异化形式，由于尘世生活的不足，它将非理性的超越力量投射到自我上，并赞同特定的教派和物质利益。他批评了复辟国家及其社会和法律基础以及其正统宗教意识形态。在分析现代大众社会的出现时，他批评自由主义对现存秩序的不一致反对，并将自由等同于财产，但他指责社会主义对个体自主性的认识不足。在 1848 年的失败之后，鲍威尔否定了黑格尔的理论。他预测欧洲文明将面临一场普遍危机，这是哲学的枯竭和自由主义与革命政治的失败所导致的。他相信，解放的新前景将从这场危机中产生。他晚年的著作探讨了俄罗斯作为世界强国的崛起，开启了全球帝国主义和战争的时代。这些著作影响了尼采对文化复兴的思考。弗里德里希·恩格斯和卡尔·考茨基将鲍威尔的宗教批判归于社会主义运动，而他晚期作品中的反传统保守主义影响了 20 世纪卡尔·施密特的思想。
 
-* [1. 职业生涯](https://plato.stanford.edu/entries/bauer/#Car)
-* [2. 鲍威尔的著作，1829-1850](https://plato.stanford.edu/entries/bauer/#BauWri182)
-* [3. Bauer’s Late Work, 1850–1882](https://plato.stanford.edu/entries/bauer/#BauLatWor185)
-* [4. Recent Developments](https://plato.stanford.edu/entries/bauer/#RecDev)
-* [参考文献](https://plato.stanford.edu/entries/bauer/#Bib)
-* [Major Works by Bruno Bauer, 1829–1882](https://plato.stanford.edu/entries/bauer/#MajWorBruBau182)
-* [Journals edited by Bruno Bauer](https://plato.stanford.edu/entries/bauer/#JouEdiBruBau)
-* [Secondary Sources](https://plato.stanford.edu/entries/bauer/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/bauer/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/bauer/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bauer/#Rel)
 
 ***
 

@@ -4,33 +4,6 @@ _首次发布于 2003 年 8 月 14 日；实质性修订于 2022 年 3 月 30 �
 
 “分析性”句子，例如“儿科医生是医生”，在历史上被认为是仅凭借其词义本身就是真实的，和/或者仅凭借了解这些词义就可以知道其真实性的句子。它们与更常见的“综合性”句子形成对比，例如“儿科医生是富有的”，（知识的）真实性还取决于（对儿科医生的）世俗财富的了解。从弗雷格开始，许多哲学家希望通过对关键词的“概念分析”来显示逻辑和数学以及其他明显的_a priori_领域（例如哲学的大部分内容和科学的基础）的真理可以被证明是分析性的。然而，对于哲学上重要的术语和概念的分析，例如“物质对象”，“原因”，“自由”或“知识”，结果比哲学家预期的要困难得多，一些哲学家，特别是奎因和他的追随者，开始怀疑这种区别的现实性。这反过来又使他和其他人怀疑了一般意义上的含义和翻译的事实确定性，以及最终怀疑了心理状态的现实性和确定性。对这种怀疑产生了许多有趣的反应，包括哲学和语言学（后者将在_补充部分《分析性和乔姆斯基语言学》_ 中进行讨论）；但是，虽然心理状态的现实性可能得以保留，但尚未显示出对分析的呼吁将能够以哲学家所希望的方式来确立“分析”和_a priori_的基础。（请注意，所有脚注都是实质性的，但对于初次阅读来说并非必要，可以通过点击方括号上标来访问单独的文件。术语的提及与使用将通过引号或斜体来指示，具体取决于在上下文中哪种方式更容易阅读。）
 
-* [1. 直觉区分](https://plato.stanford.edu/entries/analytic-synthetic/#IntDis)
-* [1.1 康德](https://plato.stanford.edu/entries/analytic-synthetic/#Kan)
-* [1.2 弗雷格](https://plato.stanford.edu/entries/analytic-synthetic/#Fre)
-* [2. 高期望](https://plato.stanford.edu/entries/analytic-synthetic/#HigHop)
-* [2.1 数学](https://plato.stanford.edu/entries/analytic-synthetic/#Mat)
-* [2.2 科学与超越](https://plato.stanford.edu/entries/analytic-synthetic/#Sci)
-* [3. 区分的问题](https://plato.stanford.edu/entries/analytic-synthetic/#ProDis)
-* [3.1 分析的悖论](https://plato.stanford.edu/entries/analytic-synthetic/#ParAna)
-* [3.2 逻辑主义的问题](https://plato.stanford.edu/entries/analytic-synthetic/#ProLog)
-* [3.3 惯例？](https://plato.stanford.edu/entries/analytic-synthetic/#Con)
-* [3.4 验证主义和确认整体主义](https://plato.stanford.edu/entries/analytic-synthetic/#VerConHol)
-* [3.5 语言学中的类比与类推推理](https://plato.stanford.edu/entries/analytic-synthetic/#QuiMeaLin)
-* [3.6 解释分析性表象的消除](https://plato.stanford.edu/entries/analytic-synthetic/#ExpAwaAppAna)
-* [3.6.1 中心性](https://plato.stanford.edu/entries/analytic-synthetic/#Cen)
-* [3.6.2 一个标准概念](https://plato.stanford.edu/entries/analytic-synthetic/#OneCriCon)
-* [3.6.3 世界，而非言辞](https://plato.stanford.edu/entries/analytic-synthetic/#WorNotWor)
-* [4. 奎因后的策略](https://plato.stanford.edu/entries/analytic-synthetic/#PosQuiStr)
-* [4.1 新笛卡尔主义](https://plato.stanford.edu/entries/analytic-synthetic/#NeoCar)
-* [4.2 外在主义的意义理论](https://plato.stanford.edu/entries/analytic-synthetic/#ExtTheMea)
-* [4.3 内部依赖关系](https://plato.stanford.edu/entries/analytic-synthetic/#IntDep)
-* [4.4 乔姆斯基策略](https://plato.stanford.edu/entries/analytic-synthetic/#ChoStr)
-* [5. 结论](https://plato.stanford.edu/entries/analytic-synthetic/#Conclusion)
-* [补充：分析性和乔姆斯基语言学](https://plato.stanford.edu/entries/analytic-synthetic/analyticity-chomsky.html)
-* [参考文献](https://plato.stanford.edu/entries/analytic-synthetic/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/analytic-synthetic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/analytic-synthetic/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/analytic-synthetic/#Rel)
 
 ***
 

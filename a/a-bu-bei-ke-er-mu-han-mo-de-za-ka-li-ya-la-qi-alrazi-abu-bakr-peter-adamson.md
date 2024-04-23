@@ -4,18 +4,6 @@ _首次发布于 2021 年 5 月 19 日（星期三）_
 
 阿布·贝克尔·穆罕默德·扎卡里亚·拉齐（865-925 年，251-313 年）是伊斯兰传统医学史上最伟大的人物之一，也是最具争议的哲学家之一。虽然我们有大量关于他医学思想的存世证据，但他的哲学思想大多需要通过其他作者的报道来拼凑而成，这些作者通常对他持敌对态度。这尤其涉及他对宗教的臭名昭著的批评，以及他教导宇宙是通过五个“永恒原则”相互作用而产生的，即上帝、灵魂、物质、时间和空间。然而，我们确实可以直接接触到他哲学的一个分支，即伦理学，它由一本名为《灵性医学》的建议书和一本对他的批评者的简短回应《哲学生活方式》代表。（请注意，阿布·贝克尔不应与来自同一城市雷伊的其他哲学家混淆，他们也被称为拉齐：其中最著名的是法赫尔·丁·拉齐，他在几个世纪后写作。）
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/abu-bakr-al-razi/#LifeWork)
-* [2. 五个永恒原则](https://plato.stanford.edu/entries/abu-bakr-al-razi/#FiveEterPrin)
-* [3. 伦理学](https://plato.stanford.edu/entries/abu-bakr-al-razi/#Ethi)
-* [4. 医学和疑虑](https://plato.stanford.edu/entries/abu-bakr-al-razi/#MediDoub)
-* [5. 宗教和预言](https://plato.stanford.edu/entries/abu-bakr-al-razi/#ReliProp)
-* [6. 遗产](https://plato.stanford.edu/entries/abu-bakr-al-razi/#Lega)
-* [参考文献](https://plato.stanford.edu/entries/abu-bakr-al-razi/#Bib)
-* [主要来源和翻译](https://plato.stanford.edu/entries/abu-bakr-al-razi/#PrimSourTran)
-* [次要来源](https://plato.stanford.edu/entries/abu-bakr-al-razi/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/abu-bakr-al-razi/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/abu-bakr-al-razi/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/abu-bakr-al-razi/#Rel)
 
 ***
 

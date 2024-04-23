@@ -4,30 +4,6 @@ _首次发表于 2009 年 10 月 16 日；实质性修订于 2022 年 8 月 22 �
 
 路易·皮埃尔·阿尔都塞（1918-1990）是 20 世纪最有影响力的马克思主义哲学家之一。他在 20 世纪 60 年代提出的关于马克思主义哲学的观点被广泛讨论和辩论，因为这些观点似乎为马克思主义思想带来了更新，并使其在哲学上变得可尊重。然而，由于他在理论立场上的明显逆转，他个人生活的不幸事实，以及 20 世纪末马克思主义的历史命运，对阿尔都塞对马克思的阐释的浓厚兴趣并没有延续到 20 世纪 70 年代。尽管在这些事件之后，人们对他的整体工作表现出相对冷漠，但他在其中发展的意识形态理论在社会科学和人文学科中得到广泛应用，并为许多“后马克思主义”哲学提供了基础。此外，阿尔都塞项目的某些方面也为分析马克思主义、批判现实主义和话语分析提供了灵感。尽管这种影响并不总是明确的，但阿尔都塞的工作及其学生的工作仍然对文学研究、政治哲学、历史学、经济学和社会学的研究项目产生影响。目前，阿尔都塞的整体哲学正在经历一次由受益于先前未发表文本选编的学者进行的批判性重新评估。他的概念也越来越多地被哲学家、政治理论家和活动家所采用，他们重新回到马克思和马克思主义分析，以解释和构想我们当前社会经济环境的替代方案。
 
-* [1. 生平](https://plato.stanford.edu/entries/althusser/#Life)
-* [2. 早期工作（1946-1960）](https://plato.stanford.edu/entries/althusser/#EarlWork1946)
-* [2.1 基督教与马克思主义](https://plato.stanford.edu/entries/althusser/#ChriMarx)
-* [2.2 黑格尔的马克思主义](https://plato.stanford.edu/entries/althusser/#HegeMarx)
-* [2.3 马克思而非黑格尔](https://plato.stanford.edu/entries/althusser/#MarxNotHege)
-* [2.4 历史工作：孟德斯鸠和费尔巴哈](https://plato.stanford.edu/entries/althusser/#HistWorkMontFeue)
-* [3. 经典作品（1961 年-1966 年）](https://plato.stanford.edu/entries/althusser/#ClasWork1961)
-* [3.1 解释学理论](https://plato.stanford.edu/entries/althusser/#HermTheo)
-* [3.2 认识论和科学哲学](https://plato.stanford.edu/entries/althusser/#EpisPhilScie)
-* [3.3 哲学的作用](https://plato.stanford.edu/entries/althusser/#RolePhil)
-* [3.4 马克思主义哲学](https://plato.stanford.edu/entries/althusser/#MarxPhil)
-* [3.5 社会与政治哲学，历史学](https://plato.stanford.edu/entries/althusser/#SociPoliPhilHist)
-* [4. 修订（1966-1978）](https://plato.stanford.edu/entries/althusser/#Revi1966)
-* [4.1 理论与实践的关系](https://plato.stanford.edu/entries/althusser/#RelaBetwTheoPrac)
-* [4.2 意识形态理论](https://plato.stanford.edu/entries/althusser/#TheoIdeo)
-* [4.3 美学理论](https://plato.stanford.edu/entries/althusser/#N43AestTheo)
-* [4.4 马克思哲学再论](https://plato.stanford.edu/entries/althusser/#MarxPhilRedu)
-* [5. 晚期作品（1980-1986 年）：偶然唯物主义](https://plato.stanford.edu/entries/althusser/#LateWork1980AleaMate)
-* [参考文献](https://plato.stanford.edu/entries/althusser/#Bib)
-* [Primary Literature](https://plato.stanford.edu/entries/althusser/#PrimLite)
-* [Secondary Literature](https://plato.stanford.edu/entries/althusser/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/althusser/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/althusser/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/althusser/#Rel)
 
 ***
 

@@ -4,18 +4,6 @@ _首次发布于 2023 年 2 月 5 日_
 
 法赫尔丁·拉齐（1149-1210）是伊斯兰思想史上最具创新和影响力的思想家之一，他被称为“后古典”伊斯兰思想的第一阶段。与 12 世纪伊斯兰东方的其他重要思想家（尤其是阿布·巴拉卡特·巴格达迪和苏赫拉瓦迪）一起，法赫尔丁·拉齐对伊本·西那（阿维森纳）的哲学进行了批判性反应。他创作了大量的著作，这些著作在传达法赫尔丁·拉齐自己的观点方面常常难以捉摸，但却充满了对伊本·西那思想的微妙哲学论证。法赫尔丁·拉齐也确立了自己独特的立场，例如在提供真实定义的问题上，实质与存在的区别，物理学原理，人类灵魂的统一以及道德规范的来源等方面。这些丰富的哲学著作只是他一生工作的一部分，他还撰写了关于伊斯兰法律、神学、占星术以及对《古兰经》最重要的评论之一的文本。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/al-din-al-razi/#LifeWork)
-* [2. 逻辑和认识论](https://plato.stanford.edu/entries/al-din-al-razi/#LogiEpis)
-* [3. 物理学](https://plato.stanford.edu/entries/al-din-al-razi/#Phys)
-* [4. 形而上学](https://plato.stanford.edu/entries/al-din-al-razi/#Meta)
-* [5. 心理学](https://plato.stanford.edu/entries/al-din-al-razi/#Psyc)
-* [6. 伦理学](https://plato.stanford.edu/entries/al-din-al-razi/#Ethi)
-* [参考文献](https://plato.stanford.edu/entries/al-din-al-razi/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/al-din-al-razi/#PrimLite)
-* [次要文献](https://plato.stanford.edu/entries/al-din-al-razi/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/al-din-al-razi/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/al-din-al-razi/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/al-din-al-razi/#Rel)
 
 ***
 

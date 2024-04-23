@@ -6,23 +6,6 @@ _首次发布于 2016 年 6 月 15 日；实质性修订于 2021 年 1 月 20 �
 
 正是在这个联系中，宗教（_milla_）在阿里·法拉比的观点中扮演着重要角色。根据他的观点，宗教是指统治一个社会的信仰和行为准则的总体。它可以说是社会的意识形态和法律宪法，由其第一位统治者设计，旨在引导公民走向人类的完善，从而同时促进个体幸福和城市的福祉。因此，根据阿里·法拉比的说法，宗教本质上是一种旨在应用的工具；它不能被视为独立的知识、智慧和真理领域。宗教及其在_falsafa madaniyya_框架内的地位对伊斯兰世界的后续思想家（如伊本·巴杰、伊本·图费尔和伊本·鲁什德）以及阿里·法拉比的思想，尤其是通常被称为他的“政治哲学”的评估方式产生了巨大影响。为了更清楚地了解这些问题，将按照所示顺序进行研究：从基础开始，阿里·法拉比的社会哲学（[第 2 节](https://plato.stanford.edu/entries/al-farabi-soc-rel/#WhatPhilSoci)），通过决定人、社会和宇宙关系的相似性原则（[第 3 节](https://plato.stanford.edu/entries/al-farabi-soc-rel/#PrinSimi)），到宗教和统治艺术（[第 4 节](https://plato.stanford.edu/entries/al-farabi-soc-rel/#ReliArtRuli)）。
 
-* [1. 概念背景](https://plato.stanford.edu/entries/al-farabi-soc-rel/#ConcBack)
-* [2. 什么是“社会哲学”？](https://plato.stanford.edu/entries/al-farabi-soc-rel/#WhatPhilSoci)
-* [2.1 幸福和来世](https://plato.stanford.edu/entries/al-farabi-soc-rel/#HappAfte)
-* [2.2 幸福的前提条件](https://plato.stanford.edu/entries/al-farabi-soc-rel/#PrecHapp)
-* [3. 相似性原则](https://plato.stanford.edu/entries/al-farabi-soc-rel/#PrinSimi)
-* [3.1 存在：人、社会、宇宙](https://plato.stanford.edu/entries/al-farabi-soc-rel/#BeinManSociCosm)
-* [3.2 知识：事物 ](https://plato.stanford.edu/entries/al-farabi-soc-rel/#KnowThinVersSymbRepr)​\*[对比](https://plato.stanford.edu/entries/al-farabi-soc-rel/#KnowThinVersSymbRepr)\*​[ 符号表达](https://plato.stanford.edu/entries/al-farabi-soc-rel/#KnowThinVersSymbRepr)
-* [4. 宗教与统治艺术](https://plato.stanford.edu/entries/al-farabi-soc-rel/#ReliArtRuli)
-* [4.1 什么是‘宗教’？](https://plato.stanford.edu/entries/al-farabi-soc-rel/#WhatReli)
-* [4.2 宗教与统治](https://plato.stanford.edu/entries/al-farabi-soc-rel/#ReliRule)
-* [5. 最后的话](https://plato.stanford.edu/entries/al-farabi-soc-rel/#FinaRema)
-* [参考文献](https://plato.stanford.edu/entries/al-farabi-soc-rel/#Bib)
-* [英文翻译的主要文献](https://plato.stanford.edu/entries/al-farabi-soc-rel/#PrimLiteEnglTran)
-* [西方语言的次要文献](https://plato.stanford.edu/entries/al-farabi-soc-rel/#SecoLiteWestLang)
-* [学术工具](https://plato.stanford.edu/entries/al-farabi-soc-rel/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/al-farabi-soc-rel/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/al-farabi-soc-rel/#Rel)
 
 ***
 

@@ -4,28 +4,7 @@ _首次发表于 2006 年 12 月 1 日；实质性修订于 2020 年 2 月 21 �
 
 阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪（约公元 800 年至 870 年）是阿拉伯传统中首位自称哲学家的人物。他与一群翻译家合作，将亚里士多德、新柏拉图主义者和希腊数学家、科学家的作品翻译成阿拉伯语。肯迪自己的论文，其中许多是写给哈里发家族成员的书信，严重依赖这些翻译，其中包括著名的《亚里士多德神学》和《原因之书》，这是普罗提诺和普罗克鲁斯的作品的阿拉伯版本。肯迪的思想中充满了新柏拉图主义的影响，尽管他在哲学问题上的主要权威是亚里士多德。肯迪的哲学论文包括《论第一哲学》，他在其中论证了世界并非永恒存在，上帝是一个简单的存在。他还写了许多关于其他哲学主题的作品，尤其是心理学（包括著名的《论智力》）和宇宙学。肯迪在数学和科学方面的工作也非常广泛，他以对占星术的著作而在后来的阿拉伯和拉丁传统中闻名。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/al-kindi/#LifWor)
-* [1.1 生活](https://plato.stanford.edu/entries/al-kindi/#Lif)
-* [1.2 作品](https://plato.stanford.edu/entries/al-kindi/#Wor)
-* [2. 阿布·优素福·叶尔孤白·本·伊斯哈格·本·萨巴赫·肯迪的影响](https://plato.stanford.edu/entries/al-kindi/#InfAlKin)
-* [2.1 希腊的影响](https://plato.stanford.edu/entries/al-kindi/#GreInf)
-* [2.2 当代影响](https://plato.stanford.edu/entries/al-kindi/#ConInf)
-* [3. 形而上学](https://plato.stanford.edu/entries/al-kindi/#Met)
-* [3.1 神的简单性](https://plato.stanford.edu/entries/al-kindi/#DivSim)
-* [3.2 创造](https://plato.stanford.edu/entries/al-kindi/#Cre)
-* [3.3 世界的永恒性](https://plato.stanford.edu/entries/al-kindi/#EteWor)
-* [4. 心理学](https://plato.stanford.edu/entries/al-kindi/#Psy)
-* [4.1 人的灵魂](https://plato.stanford.edu/entries/al-kindi/#HumSou)
-* [4.2 认识论](https://plato.stanford.edu/entries/al-kindi/#Epi)
-* [4.3 应用于伦理学](https://plato.stanford.edu/entries/al-kindi/#AppEth)
-* [5. 科学](https://plato.stanford.edu/entries/al-kindi/#Sci)
-* [5.1 数学的应用](https://plato.stanford.edu/entries/al-kindi/#UseMat)
-* [5.2 宇宙学](https://plato.stanford.edu/entries/al-kindi/#Cos)
-* [6. 遗产](https://plato.stanford.edu/entries/al-kindi/#Leg)
-* [参考文献](https://plato.stanford.edu/entries/al-kindi/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/al-kindi/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/al-kindi/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/al-kindi/#Rel)
+
 
 ***
 

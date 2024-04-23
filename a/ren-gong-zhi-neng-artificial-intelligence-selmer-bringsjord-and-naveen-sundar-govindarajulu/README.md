@@ -6,31 +6,7 @@ _首次发布于 2018 年 7 月 12 日_
 
 在本文中，简要回顾了人工智能的历史，讨论了该领域的定义，并提供了该领域的概述。此外，还通过具体例子讨论了哲学人工智能（作为哲学的一部分进行的人工智能研究和开发）和人工智能的哲学。文章以一些关于人工智能未来的_必要的_推测性评论结束。
 
-* [1. 人造物的历史](https://plato.stanford.edu/entries/artificial-intelligence/#HistAI)
-* [2. 人造物究竟是什么？](https://plato.stanford.edu/entries/artificial-intelligence/#WhatExacAI)
-* [3. AI 的方法](https://plato.stanford.edu/entries/artificial-intelligence/#ApprAI)
-* [3.1 智能代理的连续性](https://plato.stanford.edu/entries/artificial-intelligence/#InteAgenCont)
-* [3.2 基于逻辑的人造智能：一些手术要点](https://plato.stanford.edu/entries/artificial-intelligence/#LogiBaseAISomeSurgPoin)
-* [3.3 非逻辑主义人造智能：摘要](https://plato.stanford.edu/entries/artificial-intelligence/#NonLogiAISumm)
-* [3.4 人造物超越范式的冲突](https://plato.stanford.edu/entries/artificial-intelligence/#AIBeyoClasPara)
-* [4. 人造物的爆炸性增长](https://plato.stanford.edu/entries/artificial-intelligence/#ExplGrowAI)
-* [4.1 机器学习中的开花](https://plato.stanford.edu/entries/artificial-intelligence/#BlooMachLear)
-* [4.2 神经计算技术的复兴](https://plato.stanford.edu/entries/artificial-intelligence/#ResuNeurTech)
-* [4.3 概率技术的复兴](https://plato.stanford.edu/entries/artificial-intelligence/#ResuProbTech)
-* [5. 野外中的人造物](https://plato.stanford.edu/entries/artificial-intelligence/#AIWild)
-* [6. 道德人造物](https://plato.stanford.edu/entries/artificial-intelligence/#MoraAI)
-* [7. 哲学人造物](https://plato.stanford.edu/entries/artificial-intelligence/#PhilAI)
-* [8. 人造物的哲学](https://plato.stanford.edu/entries/artificial-intelligence/#PhilArtiInte)
-* [8.1 “强人工智能”与“弱人工智能”](https://plato.stanford.edu/entries/artificial-intelligence/#StroVersWeakAI)
-* [8.2 对“强人工智能”的中文房间论证](https://plato.stanford.edu/entries/artificial-intelligence/#ChinRoomArguAgaiStroAI)
-* [8.3 对“强人工智能”的哥德尔论证](https://plato.stanford.edu/entries/artificial-intelligence/#GodeArguAgaiStroAI)
-* [8.4 人工智能哲学的其他主题和阅读材料](https://plato.stanford.edu/entries/artificial-intelligence/#AddiTopiReadPhilAI)
-* [9. 未来](https://plato.stanford.edu/entries/artificial-intelligence/#Futu)
-* [参考文献](https://plato.stanford.edu/entries/artificial-intelligence/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/artificial-intelligence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/artificial-intelligence/#Oth)
-* [人造物的在线课程](https://plato.stanford.edu/entries/artificial-intelligence/#OnliCourAI)
-* [相关条目](https://plato.stanford.edu/entries/artificial-intelligence/#Rel)
+
 
 ***
 

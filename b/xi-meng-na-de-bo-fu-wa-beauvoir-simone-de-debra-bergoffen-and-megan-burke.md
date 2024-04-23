@@ -4,27 +4,6 @@ _首次发表于 2004 年 8 月 17 日；实质性修订于 2023 年 1 月 11 �
 
 西蒙娜·德·波伏娃（1908 年-1986 年）是一位哲学家、小说家、女权主义者、公共知识分子和活动家，也是战后法国存在主义的重要人物之一。她以她在女性主义哲学领域的开创性工作《第二性》（1949 年）而闻名，但她在存在主义和现象学方面的原创贡献可以在她的作品中找到，从她的第一部哲学小说《她来了》（1943 年）到她在《老年的到来》（1970 年）中对老年化的政治化。尽管她一生都活跃在法国知识界，并在哲学论文、小说、戏剧、回忆录、旅行日记和报纸文章的作者以及左翼杂志《现代时代》的编辑的角色中参与了当时的哲学辩论，但波伏娃通常被视为让-保罗·萨特的存在主义伦理学的助产士，而不是一个独立的思想家。然而，她拒绝将自己定位为哲学家，尽管她接受了严格的哲学训练并取得了成就，她仍然将自己称为作家。然而，几十年来，由女性主义学者主导的对波伏娃生平和作品的研究使她在哲学领域获得了一席之地，这是有充分理由的。波伏娃对伦理学、社会和政治哲学、存在主义、现象学和女性主义哲学领域做出了持久的贡献，她作为一位活动家和公共知识分子的重要性是显而易见的。波伏娃的生活和作品继续激发着当代哲学及其他领域的研究和辩论。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/beauvoir/#RecoBeau)
-* [2. 波伏娃作为哲学家](https://plato.stanford.edu/entries/beauvoir/#SituBeau)
-* [3. 她来了：自由与暴力](https://plato.stanford.edu/entries/beauvoir/#SheCameStayFreeViol)
-* [4. 皮鲁斯和西奈亚斯：激进自由与他者](https://plato.stanford.edu/entries/beauvoir/#PyrrCineRadiFreeOthe)
-* [5. 模糊的伦理学：虚伪、诉求和艺术家](https://plato.stanford.edu/entries/beauvoir/#EthiAmbiBadFaitAppeArti)
-* [6. 美国日记：一个具体的相遇](https://plato.stanford.edu/entries/beauvoir/#AmericaDaybyDay)
-* [7. 第二性：女性作为他者](https://plato.stanford.edu/entries/beauvoir/#SecoSexWomaOthe)
-* [8. “我们必须烧掉萨德吗？”自由与肉体](https://plato.stanford.edu/entries/beauvoir/#MustWeBurnSadeFreeFles)
-* [9. 长征：政治、时间和可能性](https://plato.stanford.edu/entries/beauvoir/#TheLongMarch)
-* [10. 雅米拉·布帕查：具体的呼吁](https://plato.stanford.edu/entries/beauvoir/#DjamBoupConcAppe)
-* [11. 人皆有死、一次非常容易的死、告别：向萨特告别：有限性、激情和身体](https://plato.stanford.edu/entries/beauvoir/#AllMenMortVeryEasyDeatAdieFareSartFiniPassBody)
-* [12. 成年的到来：再次的他者](https://plato.stanford.edu/entries/beauvoir/#ComiAgeOtheAgai)
-* [13. 生活写作：情境、成长和自他关系](https://plato.stanford.edu/entries/beauvoir/#LifeWritings)
-* [14. 影响力和当前学术研究](https://plato.stanford.edu/entries/beauvoir/#InfluenceAndCurrentScholarship)
-* [参考文献](https://plato.stanford.edu/entries/beauvoir/#Bib)
-* [波伏娃的作品](https://plato.stanford.edu/entries/beauvoir/#WorkBeau)
-* [次级文献](https://plato.stanford.edu/entries/beauvoir/#SecoLite)
-* [二级文献：选集](https://plato.stanford.edu/entries/beauvoir/#SecoLiteAnth)
-* [学术工具](https://plato.stanford.edu/entries/beauvoir/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/beauvoir/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/beauvoir/#Rel)
 
 ***
 

@@ -4,21 +4,6 @@ _首次发表于 2002 年 5 月 13 日星期一；实质性修订于 2024 年 1 
 
 也许是十四世纪最有影响力的巴黎哲学家，让·布里丹（John Buridan）在塑造哲学的方式方面做出了巨大贡献，不仅影响了他自己的一生，还影响了后来的斯科拉哲学和早期现代时期。他的整个职业生涯都在巴黎大学艺术系担任教学大师，讲授逻辑学、亚里士多德的著作，并撰写评论以及独立论著，涉及逻辑学、形而上学、自然哲学和伦理学。他最著名的作品是《辩证法概要》（_Summulae de dialectica_），这是一部广泛而富有独创性的文本，旨在通过使用像西班牙的彼得和奥卡姆的“现代”终结逻辑来更新亚里士多德逻辑的传统。布里丹成功地将这些分析技术应用于他的形而上学、自然哲学和伦理学中，以至于对于他的许多后继者来说，它们被视为哲学方法的代表，被理解为一种_世俗_实践，即与神学有所区别。
 
-* [1. 生平](https://plato.stanford.edu/entries/buridan/#Lif)
-* [2. 著作](https://plato.stanford.edu/entries/buridan/#Wri)
-* [3. 语言](https://plato.stanford.edu/entries/buridan/#Lan)
-* [4. 逻辑](https://plato.stanford.edu/entries/buridan/#Log)
-* [5. 形而上学](https://plato.stanford.edu/entries/buridan/#Met)
-* [6. 自然哲学](https://plato.stanford.edu/entries/buridan/#Nat)
-* [7. 伦理学](https://plato.stanford.edu/entries/buridan/#Eth)
-* [参考文献](https://plato.stanford.edu/entries/buridan/#Bib)
-* [早期印刷版本](https://plato.stanford.edu/entries/buridan/#EarPriEdi)
-* [现代版本](https://plato.stanford.edu/entries/buridan/#ModEdi)
-* [翻译](https://plato.stanford.edu/entries/buridan/#Tra)
-* [次级来源](https://plato.stanford.edu/entries/buridan/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/buridan/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/buridan/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/buridan/#Rel)
 
 ***
 

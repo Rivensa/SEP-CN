@@ -4,39 +4,6 @@ _首次发表于 2007 年 1 月 16 日；实质性修订于 2020 年 7 月 13 �
 
 美学这一哲学学科直到 1735 年才得到其名称，当时 21 岁的亚历山大·戈特利布·鲍姆加滕在他的哈勒硕士论文中引入了这个名词，意为“感知和想象的科学”（鲍姆加滕，《冥想》§CXVI，第 86-7 页）。但是，鲍姆加滕对这个领域的命名是成年洗礼：在没有名称的情况下，美学一直是哲学的一部分，自从柏拉图在《理想国》中攻击诗歌的教育价值，亚里士多德在他的残篇《诗学》中对其进行了简短的辩护。特别是，亚里士多德为了反驳柏拉图对诗歌认知上的无用性的指责，即诗歌只是交换个别事物的图像而不是普遍真理，他认为诗歌以易于理解的形式传达了普遍真理，与历史等只涉及特定事实的学科不同（亚里士多德，《诗学》，第 9 章，1451a37-1451b10）。如果对诗歌的体验能揭示重要的道德真理，那么它对道德发展也同样重要，这是柏拉图怀疑的另一极端。这种对柏拉图的回应的变体是美学在随后的哲学历史中的核心，事实上，它在 20 世纪的大部分时间里仍然是美学的核心。然而，在 18 世纪，对柏拉图的两种替代回应被提出。其中一种可以被视为接受亚里士多德在《诗学》中的观点，即“katharsis”（情感的净化或净化）是我们对悲剧的反应中有价值的一部分；这导致了对情感体验的重视，这在认知主义传统中被淡化。这种思路在让-巴蒂斯特·杜·博斯的《诗歌、绘画和音乐的批判性思考》（1719 年在法国出版，并在被翻译成其他语言之前就在整个欧洲广为人知）中得到了强调。另一种创新是我们对美的反应，无论是在自然界还是在艺术中，都是我们心智力量的自由运动，本质上是愉悦的，因此不需要认识论或道德的证明，尽管它实际上可能具有认识论和道德的好处。这种思路在约瑟夫·阿迪生于 1712 年发表的《观察家》杂志上的关于“想象的乐趣”的文章中首次引入，并由随后的苏格兰作家如弗朗西斯·哈奇森、亨利·霍姆（凯姆斯勋爵）和亚历山大·杰拉德进行了发展。它在德国只是缓慢地被接受，莫西斯·门德尔松在 18 世纪 50 年代末提出了这个思路，他还采纳了杜·博斯对情感体验的重视，但是在约翰·乔治·苏尔策的《美术通论》（1771-1774）中，这种思路首次得到了持续的表达，例如关于“美”和“品味”的条目（苏尔策，《美术通论》，第二卷，第 371-85 页，第 371 页，“Schön (Schöne Künste)”，第四卷，第 305-19 页，第 307 页）。这成为康德和席勒在《判断力的批判》（1790 年）和《人类美育的信函》（1795 年）中的美学理论的核心。本文将记录 18 世纪德国传统美学体验理论与新的美学体验理论之间的互动，后者将美学体验视为认知（有时还有其他）心智力量的自由运动和对情感的替代体验。
 
-* [1. 莱布尼茨和沃尔夫：完美与真理](https://plato.stanford.edu/entries/aesthetics-18th-german/#LeiWolPerTru)
-* [1.1 莱布尼兹](https://plato.stanford.edu/entries/aesthetics-18th-german/#Lei)
-* [1.2 沃尔夫](https://plato.stanford.edu/entries/aesthetics-18th-german/#Wol)
-* [2. Gottsched and His Critics: Truth and Imagination](https://plato.stanford.edu/entries/aesthetics-18th-german/#GotHisCriTruIma)
-* [2.1 Gottsched](https://plato.stanford.edu/entries/aesthetics-18th-german/#Got) \* [2. 戈特谢德和他的批评家：真理与想象](https://plato.stanford.edu/entries/aesthetics-18th-german/#GotHisCriTruIma)
-* [2.2 Bodmer 和 Breitinger](https://plato.stanford.edu/entries/aesthetics-18th-german/#BodBre)
-* [3. Baumgarten 和 Meier：美学作为理性认知的类比](https://plato.stanford.edu/entries/aesthetics-18th-german/#BauMeiAesAnaRatCog)
-* [3.1 Baumgarten](https://plato.stanford.edu/entries/aesthetics-18th-german/#Bau)
-* [3.2 Meier](https://plato.stanford.edu/entries/aesthetics-18th-german/#Mei) \* [3.1 Baumgarten](https://plato.stanford.edu/entries/aesthetics-18th-german/#Bau)
-* [4. 孟德尔松，温克尔曼和莱辛：复杂的情感](https://plato.stanford.edu/entries/aesthetics-18th-german/#MenWinLesMixEmo)
-* [4.1 孟德尔松](https://plato.stanford.edu/entries/aesthetics-18th-german/#Men)
-* [4.2 温克尔曼](https://plato.stanford.edu/entries/aesthetics-18th-german/#Win)
-* [4.3 莱辛](https://plato.stanford.edu/entries/aesthetics-18th-german/#Les)
-* [5. Herder, Sulzer and Herz: Energy, Activity and Truth](https://plato.stanford.edu/entries/aesthetics-18th-german/#HerSulHerEneActTru)
-* [5.1 Herder](https://plato.stanford.edu/entries/aesthetics-18th-german/#Her1)
-* [5.2 Sulzer](https://plato.stanford.edu/entries/aesthetics-18th-german/#Sul)
-* [5.3 Herz](https://plato.stanford.edu/entries/aesthetics-18th-german/#Her) \* [5.2 Sulzer](https://plato.stanford.edu/entries/aesthetics-18th-german/#Sul)
-* [6. 莫里茨：艺术是自身完美的东西](https://plato.stanford.edu/entries/aesthetics-18th-german/#MorArtWhiPerIts)
-* [7. 康德：与真理玩耍](https://plato.stanford.edu/entries/aesthetics-18th-german/#KanPlaTru)
-* [7.1 康德的自由游戏理论](https://plato.stanford.edu/entries/aesthetics-18th-german/#KanTheFrePla)
-* [7.2 美学的道德意义](https://plato.stanford.edu/entries/aesthetics-18th-german/#MorSigAes)
-* [8. 庞德对康德美学的回应：优雅、尊严和美学教育](https://plato.stanford.edu/entries/aesthetics-18th-german/#SchResKanAesGraDigAesEdu)
-* [8.1 康德和庞德对美、优雅和尊严的看法](https://plato.stanford.edu/entries/aesthetics-18th-german/#KanSchBeaGraDig)
-* [8.2 美学教育与道德的实现](https://plato.stanford.edu/entries/aesthetics-18th-german/#AesEduAchMor)
-* [9. 黑德尔对康德的批评：两种方法之间的和解？](https://plato.stanford.edu/entries/aesthetics-18th-german/#HerCriKanRapBetTwoApp)
-* [参考文献](https://plato.stanford.edu/entries/aesthetics-18th-german/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/aesthetics-18th-german/#PriSou)
-* [普通研究和专业历史](https://plato.stanford.edu/entries/aesthetics-18th-german/#GenStuSpeHis)
-* [次级文献：个别作者](https://plato.stanford.edu/entries/aesthetics-18th-german/#SecLitIndAut)
-* [学术工具](https://plato.stanford.edu/entries/aesthetics-18th-german/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aesthetics-18th-german/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aesthetics-18th-german/#Rel)
-
 ***
 
 ## 1. 莱布尼茨和沃尔夫：完美和真理

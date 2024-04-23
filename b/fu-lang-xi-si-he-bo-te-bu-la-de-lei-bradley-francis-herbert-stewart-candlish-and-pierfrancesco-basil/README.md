@@ -14,16 +14,6 @@ _首次发表于 1996 年 5 月 9 日星期四；实质性修订于 2021 年 2 �
 
 英国唯心主义者中的其他知名人物包括伯纳德·博萨奎特、爱德华·凯尔德、T.H.格林、哈罗德·约阿希姆和 J.M.E.麦克泰格特。
 
-* [1. 生命](https://plato.stanford.edu/entries/bradley/#Life)
-* [2. 名誉](https://plato.stanford.edu/entries/bradley/#Rep)
-* [3. 历史哲学](https://plato.stanford.edu/entries/bradley/#PhilHist)
-* [4. 伦理学](https://plato.stanford.edu/entries/bradley/#Ethics)
-* [5. 逻辑](https://plato.stanford.edu/entries/bradley/#Logic)
-* [6. 形而上学](https://plato.stanford.edu/entries/bradley/#Met)
-* [参考文献](https://plato.stanford.edu/entries/bradley/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/bradley/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/bradley/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bradley/#Rel)
 
 ***
 

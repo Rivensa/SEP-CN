@@ -6,22 +6,7 @@ _首次发布于 2012 年 9 月 4 日；实质性修订于 2022 年 3 月 22 日
 
 本文将首先概述关于美是客观还是主观的争论，这可能是文献中最受争议的问题。然后，它将介绍一些西方哲学和艺术传统中发展起来的主要美学理论或观点。
 
-* [1. 客观性与主观性](https://plato.stanford.edu/entries/beauty/#ObjeSubj)
-* [2. 美的哲学观念](https://plato.stanford.edu/entries/beauty/#PhilConcBeau)
-* [2.1 古典观念](https://plato.stanford.edu/entries/beauty/#ClasConc)
-* [2.2 The Idealist Conception](https://plato.stanford.edu/entries/beauty/#IdeaConc)
-* [2.3 爱与渴望](https://plato.stanford.edu/entries/beauty/#LoveLong)
-* [2.4 享乐主义观念](https://plato.stanford.edu/entries/beauty/#HedoConc)
-* [2.5 使用与无用](https://plato.stanford.edu/entries/beauty/#UseUsel)
-* [3. 美的政治学](https://plato.stanford.edu/entries/beauty/#PoliBeau)
-* [3.1 贵族和资本](https://plato.stanford.edu/entries/beauty/#ArisCapi)
-* [3.2 女权主义批评](https://plato.stanford.edu/entries/beauty/#FemiCrit)
-* [3.3 殖民主义和种族](https://plato.stanford.edu/entries/beauty/#ColoRace)
-* [3.4 美与抵抗](https://plato.stanford.edu/entries/beauty/#BeatResi)
-* [参考文献](https://plato.stanford.edu/entries/beauty/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/beauty/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/beauty/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/beauty/#Rel)
+
 
 ***
 

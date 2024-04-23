@@ -4,17 +4,6 @@ _首次发表于 2001 年 2 月 24 日；实质性修订于 2022 年 1 月 14 �
 
 约翰·奥斯汀被许多人认为是分析法学派的创始人，以及更具体地说，被称为“法律实证主义”的法律方法的创始人。奥斯汀的特定命令理论受到了广泛的批评，但其简单性赋予了它一种引人入胜的力量，继续吸引着追随者。
 
-* [1. 生平](https://plato.stanford.edu/entries/austin-john/#Life)
-* [2. 分析法学和法律实证主义](https://plato.stanford.edu/entries/austin-john/#AnalJuriLegaPosi)
-* [3. 奥斯汀的观点](https://plato.stanford.edu/entries/austin-john/#AustView)
-* [4. 批评](https://plato.stanford.edu/entries/austin-john/#Crit)
-* [5. 一种修正主义观点？](https://plato.stanford.edu/entries/austin-john/#ReviView)
-* [参考文献](https://plato.stanford.edu/entries/austin-john/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/austin-john/#PrimSour)
-* [次级来源](https://plato.stanford.edu/entries/austin-john/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/austin-john/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/austin-john/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/austin-john/#Rel)
 
 ***
 

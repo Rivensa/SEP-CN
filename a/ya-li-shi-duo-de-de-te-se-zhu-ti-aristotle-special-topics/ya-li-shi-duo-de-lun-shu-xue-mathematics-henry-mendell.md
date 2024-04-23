@@ -6,32 +6,7 @@ _首次发表于 2004 年 3 月 26 日星期五_
 
 本文将探讨数学科学对亚里士多德的形而上学和科学哲学的影响，并说明他对数学的运用。
 
-* [1. 引言](https://plato.stanford.edu/entries/aristotle-mathematics/#1)
-* [2. 数学科学的结构：第一原理](https://plato.stanford.edu/entries/aristotle-mathematics/#2)
-* [3. 演绎中的三个概念：“每个”，“自身”，“普遍”](https://plato.stanford.edu/entries/aristotle-mathematics/#3)
-* [4. 演绎和数学](https://plato.stanford.edu/entries/aristotle-mathematics/#4)
-* [5. 不同科学之间的关系：自主性和从属性](https://plato.stanford.edu/entries/aristotle-mathematics/#5)
-* [6. 数学科学研究的内容：4 个难题](https://plato.stanford.edu/entries/aristotle-mathematics/#6)
-* [7. 亚里士多德对数学对象的处理](https://plato.stanford.edu/entries/aristotle-mathematics/#7)
-* [7.1 从抽象或“去除”得到的对象 (](https://plato.stanford.edu/entries/aristotle-mathematics/#7.1)​\*[ta ex aphaireseôs](https://plato.stanford.edu/entries/aristotle-mathematics/#7.1)\*​[)](https://plato.stanford.edu/entries/aristotle-mathematics/#7.1)
-* [7.2 精确性 (](https://plato.stanford.edu/entries/aristotle-mathematics/#7.2)​\*[akribeia](https://plato.stanford.edu/entries/aristotle-mathematics/#7.2)\*​[)](https://plato.stanford.edu/entries/aristotle-mathematics/#7.2)
-* [7.3 作为分离的 (](https://plato.stanford.edu/entries/aristotle-mathematics/#7.3)​\*[hôs kekhôrismenon](https://plato.stanford.edu/entries/aristotle-mathematics/#7.3)\*​[)](https://plato.stanford.edu/entries/aristotle-mathematics/#7.3)
-* [7.4 ](https://plato.stanford.edu/entries/aristotle-mathematics/#7.4)​\*[X](https://plato.stanford.edu/entries/aristotle-mathematics/#7.4)_​_[ _依 (_](https://plato.stanford.edu/entries/aristotle-mathematics/#7.4)_​_[hêi](https://plato.stanford.edu/entries/aristotle-mathematics/#7.4)_​_[_)_ ](https://plato.stanford.edu/entries/aristotle-mathematics/#7.4)_​_[Y](https://plato.stanford.edu/entries/aristotle-mathematics/#7.4)\*
-* [7.5 可理解的物质 (](https://plato.stanford.edu/entries/aristotle-mathematics/#7.5)​\*[noêtikê hylê](https://plato.stanford.edu/entries/aristotle-mathematics/#7.5)\*​[)](https://plato.stanford.edu/entries/aristotle-mathematics/#7.5)
-* [8. 通用数学](https://plato.stanford.edu/entries/aristotle-mathematics/#8)
-* [9. 大小的位置和连续性](https://plato.stanford.edu/entries/aristotle-mathematics/#9)
-* [10. 单位（](https://plato.stanford.edu/entries/aristotle-mathematics/#10)​\*[monas](https://plato.stanford.edu/entries/aristotle-mathematics/#10)_​_[_）和数（_](https://plato.stanford.edu/entries/aristotle-mathematics/#10)_​_[arithmos](https://plato.stanford.edu/entries/aristotle-mathematics/#10)\*​[）](https://plato.stanford.edu/entries/aristotle-mathematics/#10)
-* [10.1 背景](https://plato.stanford.edu/entries/aristotle-mathematics/#10.1)
-* [10.2 测量（](https://plato.stanford.edu/entries/aristotle-mathematics/#10.2)​\*[metron](https://plato.stanford.edu/entries/aristotle-mathematics/#10.2)\*​[）](https://plato.stanford.edu/entries/aristotle-mathematics/#10.2)
-* [10.3 时间](https://plato.stanford.edu/entries/aristotle-mathematics/#10.3)
-* [11. 数学与假设必然性](https://plato.stanford.edu/entries/aristotle-mathematics/#11)
-* [12. 无限 (](https://plato.stanford.edu/entries/aristotle-mathematics/#12)​\*[apeiron](https://plato.stanford.edu/entries/aristotle-mathematics/#12)\*​[)](https://plato.stanford.edu/entries/aristotle-mathematics/#12)
-* [13. 亚里士多德与数学历史的证据](https://plato.stanford.edu/entries/aristotle-mathematics/#13)
-* [术语表](https://plato.stanford.edu/entries/aristotle-mathematics/#Glo)
-* [参考文献](https://plato.stanford.edu/entries/aristotle-mathematics/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/aristotle-mathematics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aristotle-mathematics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aristotle-mathematics/#Rel)
+
 
 ***
 

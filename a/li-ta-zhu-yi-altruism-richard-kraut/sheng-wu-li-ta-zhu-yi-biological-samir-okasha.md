@@ -8,19 +8,6 @@ _首次发表于 2003 年 6 月 3 日；实质性修订于 2013 年 7 月 21 日
 
 从达尔文的观点来看，自然界中存在的利他主义乍一看令人困惑，正如达尔文自己所意识到的那样。自然选择使我们期望动物的行为能增加它们自己的生存和繁殖机会，而不是他人的机会。但是，通过利他行为，动物降低了自身的适应度，因此在选择上应该处于劣势，相对于那些自私行为的动物而言。为了理解这一点，想象一下一群绿猴中的一些成员在看到捕食者时发出警报，而其他成员则不发出警报。其他条件相同的情况下，后者将具有优势。通过自私地拒绝发出警报，猴子可以减少自己被攻击的机会，同时从其他猴子的警报中受益。因此，我们应该预期自然选择会偏爱那些不发出警报的猴子，而不是那些发出警报的猴子。但是这引发了一个直接的困惑。警报行为是如何首次进化的？为什么它没有被自然选择淘汰？利他主义的存在如何与基本的达尔文原理相一致？
 
-* [1. 利他主义和选择层次](https://plato.stanford.edu/entries/altruism-biological/#AltLevSel)
-* [2. 亲属选择和包容性适应度](https://plato.stanford.edu/entries/altruism-biological/#KinSelIncFit)
-* [2.1 一个简单的例子：囚徒困境](https://plato.stanford.edu/entries/altruism-biological/#SimIllPriDil)
-* [3. 概念问题](https://plato.stanford.edu/entries/altruism-biological/#ConIss)
-* [3.1 利他主义，合作，互利主义](https://plato.stanford.edu/entries/altruism-biological/#AltCoOpeMut)
-* [3.2 弱利他主义和强利他主义](https://plato.stanford.edu/entries/altruism-biological/#WeaStrAlt)
-* [3.3 短期与长期适应度后果](https://plato.stanford.edu/entries/altruism-biological/#ShoTerVerLonTerFitCon)
-* [4. 互惠利他主义](https://plato.stanford.edu/entries/altruism-biological/#RecAlt)
-* [5. 但这是真正的利他主义吗？](https://plato.stanford.edu/entries/altruism-biological/#ButItReaAlt)
-* [参考文献](https://plato.stanford.edu/entries/altruism-biological/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/altruism-biological/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/altruism-biological/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/altruism-biological/#Rel)
 
 ***
 

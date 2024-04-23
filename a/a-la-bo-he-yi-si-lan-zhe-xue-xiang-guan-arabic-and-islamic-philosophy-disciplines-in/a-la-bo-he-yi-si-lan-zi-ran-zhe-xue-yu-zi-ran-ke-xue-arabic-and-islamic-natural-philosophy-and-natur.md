@@ -4,24 +4,6 @@ _首次发表于 2006 年 12 月 19 日；实质性修订于 2022 年 2 月 3 �
 
 自然哲学，或物理学，在严格意义上是对自然的研究；然而，由于大多数中世纪自然哲学家所指的“自然”是指属于某种本质的变化或运动的内在原理，因此自然哲学更具体地被认定为对物体的研究，因为它们是运动的主体，因此也与运动所必需的条件有关，如无限、位置、虚空和时间。在中世纪的阿拉伯语世界中，有两个主要的知识传统进行自然哲学的研究：伊斯兰神学（_kalam_）和哲学（_falsafa_）。伊斯兰神学一般从一个原子论的框架来探讨物理问题，对于其中一些神学家来说，这个框架不仅适用于物体的构成，还适用于运动和时间，最终在后来的伊斯兰神学家中形成了一种只将因果代理权保留给上帝的偶然论世界观。哲学（_falsafa_）则源于希腊的知识世界，更具体地说是源于亚里士多德的哲学思想，后来由后期亚里士多德学派和新柏拉图主义评论家解释，并由伽利略在生物学和解剖学以及托勒密在天文学方面进行了补充。以下内容首先介绍了伊斯兰神学家中的原子论理论，然后是阿拉伯语哲学家对亚里士多德自然哲学的发展以及他们在该领域的独特贡献。
 
-* [1. 伊斯兰神学的原子论](https://plato.stanford.edu/entries/arabic-islamic-natural/#AtomKala)
-* [1.1 原子和属性](https://plato.stanford.edu/entries/arabic-islamic-natural/#AtomAcci)
-* [1.2 空间和时间](https://plato.stanford.edu/entries/arabic-islamic-natural/#SpacTime)
-* [1.3 变化和因果关系](https://plato.stanford.edu/entries/arabic-islamic-natural/#ChanCaus)
-* [1.4 阿奎那和跳跃](https://plato.stanford.edu/entries/arabic-islamic-natural/#NazzLeap)
-* [2. ](https://plato.stanford.edu/entries/arabic-islamic-natural/#FalsNeopArisIslaWorl)​\*[伪哲学](https://plato.stanford.edu/entries/arabic-islamic-natural/#FalsNeopArisIslaWorl)\*​[：伊斯兰世界中的新柏拉图主义亚里士多德主义](https://plato.stanford.edu/entries/arabic-islamic-natural/#FalsNeopArisIslaWorl)
-* [2.1 运动的定义和形式](https://plato.stanford.edu/entries/arabic-islamic-natural/#DefiFormMoti)
-* [2.2 无限和连续](https://plato.stanford.edu/entries/arabic-islamic-natural/#InfiCont)
-* [2.3 原子论和](https://plato.stanford.edu/entries/arabic-islamic-natural/#CritAtomMiniNatu)​\*[Minima Naturalia](https://plato.stanford.edu/entries/arabic-islamic-natural/#CritAtomMiniNatu)\*​[的批评](https://plato.stanford.edu/entries/arabic-islamic-natural/#CritAtomMiniNatu)
-* [2.4 位置和虚空](https://plato.stanford.edu/entries/arabic-islamic-natural/#PlacVoid)
-* [2.5 时间和永恒](https://plato.stanford.edu/entries/arabic-islamic-natural/#TimeEter)
-* [2.6 阿拉兹和绝对时间与空间](https://plato.stanford.edu/entries/arabic-islamic-natural/#ArRaziAbsoTimeSpac)
-* [参考文献](https://plato.stanford.edu/entries/arabic-islamic-natural/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/arabic-islamic-natural/#PrimSour)
-* [次级来源](https://plato.stanford.edu/entries/arabic-islamic-natural/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/arabic-islamic-natural/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/arabic-islamic-natural/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/arabic-islamic-natural/#Rel)
 
 ***
 

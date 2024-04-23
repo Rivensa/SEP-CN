@@ -6,23 +6,7 @@ _首次发布于 2003 年 7 月 28 日；实质性修订于 2020 年 6 月 29 �
 
 在所有这些讨论中，自主权的概念都是引发争议和辩论的焦点，这些争议集中关注道德和政治哲学的基本问题以及人的启蒙观念。
 
-* [1. 自主权的概念](https://plato.stanford.edu/entries/autonomy-moral/#ConAut)
-* [1.1 基本区分](https://plato.stanford.edu/entries/autonomy-moral/#BasDis)
-* [1.2 概念变异](https://plato.stanford.edu/entries/autonomy-moral/#ConVar)
-* [2. 道德哲学中的自主权](https://plato.stanford.edu/entries/autonomy-moral/#AutMor)
-* [2.1 自主权作为价值对象](https://plato.stanford.edu/entries/autonomy-moral/#AutObjVal)
-* [2.2 自主权与父权主义](https://plato.stanford.edu/entries/autonomy-moral/#AutPat)
-* [3. 社会和政治哲学中的自主权](https://plato.stanford.edu/entries/autonomy-moral/#AutSocPol)
-* [3.1 自主权与自由主义的基础](https://plato.stanford.edu/entries/autonomy-moral/#AutFouLib)
-* [3.2 自我认同和自我概念](https://plato.stanford.edu/entries/autonomy-moral/#IdeConSel)
-* [3.3 关系自主权](https://plato.stanford.edu/entries/autonomy-moral/#AutRelationalAut)
-* [3.4 自主权、自由主义和完善主义](https://plato.stanford.edu/entries/autonomy-moral/#AutLibConValEndCon)
-* [3.5 自主权和政治自由主义](https://plato.stanford.edu/entries/autonomy-moral/#AutPolLib)
-* [3.6 自主权、正义和民主](https://plato.stanford.edu/entries/autonomy-moral/#AutJusDem)
-* [参考文献](https://plato.stanford.edu/entries/autonomy-moral/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/autonomy-moral/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/autonomy-moral/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/autonomy-moral/#Rel)
+
 
 ***
 

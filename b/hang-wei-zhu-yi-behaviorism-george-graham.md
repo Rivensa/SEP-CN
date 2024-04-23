@@ -6,22 +6,6 @@
 
 本条目考虑了不同类型的行为主义，并概述了支持和反对成为行为主义者的理由。它考虑了行为主义对行为研究的贡献。特别关注了 B·F·斯金纳（1904-1990）所谓的“激进行为主义”。斯金纳之所以受到哲学家、同行科学家和广大公众的特别关注（但不是独家关注），是因为他是最受关注的行为主义者。从斯金纳身上也可以学到关于行为科学的一般性教训。本条目描述了这些教训。
 
-* [1. 什么是行为主义？](https://plato.stanford.edu/entries/behaviorism/#WhatBeha)
-* [2. 行为主义的三种类型](https://plato.stanford.edu/entries/behaviorism/#ThreTypeBeha)
-* [3. 行为主义的根源](https://plato.stanford.edu/entries/behaviorism/#RootBeha)
-* [4. 行为主义的流行](https://plato.stanford.edu/entries/behaviorism/#PopuBeha)
-* [5. 为什么要成为行为主义者](https://plato.stanford.edu/entries/behaviorism/#WhyBeha)
-
-* [6. Skinner’s Social Worldview](https://plato.stanford.edu/entries/behaviorism/#SkinSociWorl)
-
-* [7. 为什么要反对行为主义](https://plato.stanford.edu/entries/behaviorism/#WhyAntiBeha)
-
-* [8. Conclusion](https://plato.stanford.edu/entries/behaviorism/#Conc)
-
-* [参考文献](https://plato.stanford.edu/entries/behaviorism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/behaviorism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/behaviorism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/behaviorism/#Rel)
 
 ---
 

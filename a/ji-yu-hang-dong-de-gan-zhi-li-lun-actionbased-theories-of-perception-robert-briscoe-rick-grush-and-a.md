@@ -16,30 +16,6 @@ _首次发布于 2015 年 7 月 8 日；实质性修订于 2023 年 9 月 19 日
 
 在[第 4 节](https://plato.stanford.edu/entries/action-perception/#SkilTheo)中，我们转向**倾向理论**，最有影响力的是加雷斯·埃文斯（Gareth Evans）（1982 年，1985 年）的阐述，但最近由里克·格鲁什（Rick Grush）（2000 年，2007 年）进行了辩护。埃文斯的理论在其核心上与大胆的外行动准备理论非常相似。然而，有一些显著的差异。埃文斯的解释在某些哲学方面更加精细。它也没有将感知归纳为行为倾向，而是假设感知输入和行为之间的某些复杂关系提供了空间内容。格鲁什提出了一个非常具体的理论，与埃文斯的理论类似，它也没有进行归纳，但与埃文斯的观点不同，它没有将行为倾向和感觉输入放在一个不可区分的地位上。
 
-* [1. 早期基于行动的理论](https://plato.stanford.edu/entries/action-perception/#EarlActiBaseTheo)
-* [1.1 运动和触觉在《视觉新理论》中](https://plato.stanford.edu/entries/action-perception/#MoveToucNewTheoVisi)
-* [1.2 对伯克利理论的反驳](https://plato.stanford.edu/entries/action-perception/#ObjeBerkTheo)
-* [1.3 Lotze, Helmholtz, and the Local Sign Doctrine](https://plato.stanford.edu/entries/action-perception/#LotzHelmLocaSignDoct)
-* [2. 传感运动相关理论](https://plato.stanford.edu/entries/action-perception/#SensContTheo)
-* [2.1 运动输出和视觉方向恒定性](https://plato.stanford.edu/entries/action-perception/#EffeVisuDireCons)
-* [2.1.1 对运动输出复制理论的反对意见](https://plato.stanford.edu/entries/action-perception/#ObjeEffeCopyTheo)
-* [2.1.2 基于行动的感知理论的替代方案](https://plato.stanford.edu/entries/action-perception/#AlteEffeCopyTheo)
-* [2.2 再反馈理论](https://plato.stanford.edu/entries/action-perception/#ReafTheo)
-* [2.2.1 Held 的棱镜适应实验](https://plato.stanford.edu/entries/action-perception/#HeldExpePrisAdap)
-* [2.2.2 对反馈理论的挑战](https://plato.stanford.edu/entries/action-perception/#ChalReafTheo)
-* [2.3 基于行动的感知理论](https://plato.stanford.edu/entries/action-perception/#EnacAppr)
-* [2.3.1 基于行动的感知理论的证据](https://plato.stanford.edu/entries/action-perception/#EvidForEnacAppr)
-* [2.3.2 基于行动的感知理论面临的挑战](https://plato.stanford.edu/entries/action-perception/#ChalEnacAppr)
-* [3. 运动组成和外向准备理论](https://plato.stanford.edu/entries/action-perception/#MotoCompEffeReadTheo)
-* [3.1 运动组成理论（具身视觉感知）](https://plato.stanford.edu/entries/action-perception/#MotoCompTheoEmboVisuPerc)
-* [3.2 传出准备理论](https://plato.stanford.edu/entries/action-perception/#EffeReadTheo)
-* [3.2.1 谦逊准备理论](https://plato.stanford.edu/entries/action-perception/#ModeReadTheo)
-* [3.2.2 大胆准备理论](https://plato.stanford.edu/entries/action-perception/#BoldReadTheo)
-* [4. 技能/倾向理论](https://plato.stanford.edu/entries/action-perception/#SkilTheo)
-* [参考文献](https://plato.stanford.edu/entries/action-perception/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/action-perception/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/action-perception/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/action-perception/#Rel)
 
 ***
 

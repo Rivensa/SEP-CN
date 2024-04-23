@@ -8,18 +8,6 @@
 
 将简·亚当斯视为一位哲学家需要欣赏她的写作中反映出的理论与行动之间的动态。此外，亚当斯是一位博览群书、传播她那个时代的知识思想的狂热读者。因此，她的写作是微妙的，其中包含了需要对当时相关思想有上下文理解的引用。阅读亚当斯的作品，人们会发现一个新生的女性主义哲学洞察力的源泉。亚当斯的伦理哲学以她所描述的“对任何人类问题的唯一途径”（NCA 7）即共情知识为指导。共情知识是认识论和伦理学的交融：更好地了解彼此加强了人们之间的共同联系，从而增加了关心和同理心的道德行为的潜力。亚当斯不仅对这个观念进行了理论化，而且她还将其付诸实践。共情知识支撑了亚当斯对赫尔豪斯周围移民社区中的多样性和惊人贫困（HHM）的处理方式，并使她得以发展出一种先驱性的当代女性主义立场认识论。亚当斯在理解贫困和受压迫者方面在美国实用主义者中的领导地位，导致了一种比杜威和詹姆斯更激进的实用主义形式，一种融入了阶级和性别意识的社会哲学。
 
-* [1. 生平](https://plato.stanford.edu/entries/addams-jane/#Lif)
-* [2. 影响](https://plato.stanford.edu/entries/addams-jane/#Inf)
-* [3. 亚当斯的立场认识论](https://plato.stanford.edu/entries/addams-jane/#StaEpi)
-* [4. 激进改良主义](https://plato.stanford.edu/entries/addams-jane/#RadPra)
-* [5. 社会化关怀](https://plato.stanford.edu/entries/addams-jane/#SocCar)
-* [参考文献](https://plato.stanford.edu/entries/addams-jane/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/addams-jane/#PriLit)
-* [简·亚当斯哲学的选定次级文献](https://plato.stanford.edu/entries/addams-jane/#SelSecLitAdd)
-* [传记](https://plato.stanford.edu/entries/addams-jane/#Bio)
-* [学术工具](https://plato.stanford.edu/entries/addams-jane/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/addams-jane/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/addams-jane/#Rel)
 
 ---
 

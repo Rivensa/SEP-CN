@@ -4,29 +4,6 @@ _首次发布于 2022 年 12 月 7 日_
 
 在古代和现代之间，托马斯·阿奎那（约 1225 年-1274 年）矗立着。作为 13 世纪欧洲最伟大的人物，在当时两个最重要的科学领域哲学和神学中，他成为新建立的大学的学术方法的典范。像但丁或米开朗基罗一样，阿奎那从古代，尤其是亚里士多德那里汲取灵感，并建立了全新的东西。从神学的角度来看，阿奎那常被视为基督教传统的顶峰，这一传统可以追溯到奥古斯丁和早期教会。从哲学家的角度来看，他是现代思想的奠基人。他对亚里士多利亚主义的系统重构改变了西方哲学，并在后来的中世纪和现代哲学家中引发了无数的阐述和争论。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/aquinas/#LifeWork)
-* [1.1 生平](https://plato.stanford.edu/entries/aquinas/#Life)
-* [1.2 作品](https://plato.stanford.edu/entries/aquinas/#Work)
-* [2. 上帝](https://plato.stanford.edu/entries/aquinas/#God)
-* [3. 创造的世界](https://plato.stanford.edu/entries/aquinas/#CreaWorl)
-* [4. 形式与物质](https://plato.stanford.edu/entries/aquinas/#FormMatt)
-* [5. 灵魂与身体](https://plato.stanford.edu/entries/aquinas/#SoulBody)
-* [6. 认知理论](https://plato.stanford.edu/entries/aquinas/#CognTheo)
-* [6.1 知觉](https://plato.stanford.edu/entries/aquinas/#Perc)
-* [6.2 思维](https://plato.stanford.edu/entries/aquinas/#Thou)
-* [6.3 知识和科学](https://plato.stanford.edu/entries/aquinas/#KnowScie)
-* [7. 意志和自由](https://plato.stanford.edu/entries/aquinas/#WillFree)
-* [8. 伦理学](https://plato.stanford.edu/entries/aquinas/#Ethi)
-* [8.1 幸福](https://plato.stanford.edu/entries/aquinas/#Happ)
-* [8.2 自然法](https://plato.stanford.edu/entries/aquinas/#NatuLaw)
-* [8.3 美德理论](https://plato.stanford.edu/entries/aquinas/#VirtTheo)
-* [9. 影响力](https://plato.stanford.edu/entries/aquinas/#Infl)
-* [参考文献](https://plato.stanford.edu/entries/aquinas/#Bib)
-* [A. 阿奎那的著作](https://plato.stanford.edu/entries/aquinas/#AquiWork)
-* [B. 二手资料](https://plato.stanford.edu/entries/aquinas/#BSecoSour)
-* [学术工具](https://plato.stanford.edu/entries/aquinas/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aquinas/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aquinas/#Rel)
 
 ***
 

@@ -6,23 +6,6 @@ _首次发布于 2006 年 7 月 6 日；实质性修订于 2022 年 10 月 6 日
 
 虽然这些问题都与 18 世纪的英国美学密切相关，但并非所有问题都同等重要。其他问题往往围绕着关于品味本质的问题。但这个问题并不仅仅是如何最好地普遍定义品味。似乎每个人都至少大致同意约瑟夫·阿迪森早期对品味的定义：“品味是灵魂的一种能力，它能愉悦地辨别出作者的美和缺陷”（阿迪森和斯蒂尔 1879 年，第 409 号）。但是，同意阿迪森的观点只意味着同意使用“品味”来指代那种能力，并承认这种辨别具有某种感觉的现象学特征。核心问题是如何思考这样定义的品味。品味是一种更高的认知能力，类似于理性，其对象主要是智力性的吗？还是一种更低的身体能力，更类似于五种感官，其对象主要是物质性的？对这个问题的回应产生了三个主要流派的理论：（a）内感理论，其中沙夫茨伯里（1711 年）、哈奇森（1725 年）、休谟（1739-1740 年、1751 年和 1757 年）和里德（1785 年）的理论是代表；（b）想象力理论，其中阿迪森（1712 年）和伯克（1757/59 年）的理论是代表；（c）联想理论，其中杰拉德（1757 年）和艾莉森（1790 年）的理论是代表。
 
-* [1. 内感理论](https://plato.stanford.edu/entries/aesthetics-18th-british/#IntSenThe)
-* [1.1 肖夫斯伯里](https://plato.stanford.edu/entries/aesthetics-18th-british/#Sha)
-* [1.2 Hutcheson](https://plato.stanford.edu/entries/aesthetics-18th-british/#Hut)
-* [1.3 Hume](https://plato.stanford.edu/entries/aesthetics-18th-british/#Hum)
-* [1.4 Reid](https://plato.stanford.edu/entries/aesthetics-18th-british/#Rei)
-* [2. 想象理论](https://plato.stanford.edu/entries/aesthetics-18th-british/#ImaThe)
-* [2.1 Addison](https://plato.stanford.edu/entries/aesthetics-18th-british/#Add)
-* [2.2 Burke](https://plato.stanford.edu/entries/aesthetics-18th-british/#Bur) \* [2.1 Addison](https://plato.stanford.edu/entries/aesthetics-18th-british/#Add)
-* [3. 联想理论](https://plato.stanford.edu/entries/aesthetics-18th-british/#AssThe)
-* [3.1 杰拉德](https://plato.stanford.edu/entries/aesthetics-18th-british/#Ger)
-* [3.2 Alison](https://plato.stanford.edu/entries/aesthetics-18th-british/#Ali)
-* [参考文献](https://plato.stanford.edu/entries/aesthetics-18th-british/#Bib)
-* [A. 主要来源](https://plato.stanford.edu/entries/aesthetics-18th-british/#PriSou)
-* [B. 次要来源](https://plato.stanford.edu/entries/aesthetics-18th-british/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/aesthetics-18th-british/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aesthetics-18th-british/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aesthetics-18th-british/#Rel)
 
 ***
 

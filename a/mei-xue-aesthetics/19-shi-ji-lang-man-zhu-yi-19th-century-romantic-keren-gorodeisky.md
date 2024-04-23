@@ -16,33 +16,6 @@ _首次发布于 2016 年 6 月 14 日_
 
 虽然德国、英国和法国的浪漫主义者都被考虑在内，但以下内容的中心人物是德国浪漫主义者。有两个原因解释了这种关注：首先，因为它为其他浪漫主义铺平了道路，德国浪漫主义在不同国家的浪漫主义中占据了重要地位（参见 Lovejoy 1960 和 Berlin 1999）。其次，德国大约在 1796 年至 1801-1802 年之间发展起来的审美观，即所谓的“早期浪漫主义”（Frühromantik）的全盛时期，提供了浪漫主义的最具哲学性的表达，因为它主要基于德国浪漫主义者在康德哲学之后所发现的认识论、形而上学、伦理学和政治学问题。本条目详细阐述了这些问题，并解释了它们如何阐明浪漫主义对美和艺术的理解在人类生活中的基础地位。
 
-* [1. 美的首要性](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#PrimAest)
-* [2. 审美体验与理性](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#AestReas)
-* [2.1 启蒙运动与](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#EnliSturUndDran)​\*[风暴与激情](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#EnliSturUndDran)\*
-* [2.2 浪漫主义诗歌与浪漫讽刺](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#RomaPoetRomaIron)
-* [3. 美学、认识论和形而上学](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#AestEpisMeta)
-* [3.1 绝对](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Abso)
-* [3.2 审美体验](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#AestFeel)
-* [3.3 ](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#SuiGeneNorm)​\*[独特的](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#SuiGeneNorm)\*​[ 规范性](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#SuiGeneNorm)
-* [3.4 具体个体性](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#ConcIndi)
-* [3.5 开放性](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#OpenEnde)
-* [4. 美学、伦理学和政治学](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#AestEthiPoli)
-* [4.1 自主性](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Auto)
-* [4.2 ](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Bild)​\*[Bildung](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Bild)\*
-* [4.3 个体性与社会性](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#IndiSoci)
-* [4.4 政治共同体](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#PoliComm)
-* [4.5 晚期浪漫主义](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#LateRoma)
-* [5. 审美与自然](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#AestNatu)
-* [5.1 焦虑](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Worr)
-* [5.2 浪漫科学](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#RomaScie)
-* [5.3 艺术的本质，自然的艺术](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#ArtsNatuNatuArt)
-* [6. 浪漫主义的遗产](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#RomaLega)
-* [参考文献](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#PrimLit)
-* [二级文献](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aesthetics-19th-romantic/#Rel)
 
 ***
 

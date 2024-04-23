@@ -5,22 +5,6 @@
 
 生物学家和哲学家最近对这场辩论做出了三个重要贡献，这些贡献有助于更好地理解这场辩论。首先，他们明确了各种“风格”的适应主义之间的差异；这有助于澄清辩论的生物学和哲学利害关系。其次，他们明确了支持和反对适应主义主张的证据标准；这提供了更清晰的理解如何构建关于自然选择的经验测试以及测试结果对适应主义的影响。这种澄清有潜力（尚未完全实现）改进科学实践和对科学实践的哲学理解。第三，对非选择性影响特征进化的潜在作用有了更好的理解。
 
-* [1. 历史](https://plato.stanford.edu/entries/adaptationism/#His)
-* [2. 适应主义的不同流派](https://plato.stanford.edu/entries/adaptationism/#DifFlaAda)
-* [2.1 经验适应主义](https://plato.stanford.edu/entries/adaptationism/#EmpAda)
-* [2.2 解释适应主义](https://plato.stanford.edu/entries/adaptationism/#ExpAda)
-* [2.3 方法论适应主义](https://plato.stanford.edu/entries/adaptationism/#MetAda)
-* [3. 测试和证据标准](https://plato.stanford.edu/entries/adaptationism/#TesStaEvi)
-* [3.1 测试适应主义](https://plato.stanford.edu/entries/adaptationism/#TesAda)
-* [3.2 测试适应性假设](https://plato.stanford.edu/entries/adaptationism/#TesAdaHyp)
-* [3.3 共同祖先和适应主义](https://plato.stanford.edu/entries/adaptationism/#ComAncAda)
-* [4. 优化模型是否描述了进化？](https://plato.stanford.edu/entries/adaptationism/#DoOptModDesEvo)
-* [5. 约束假设是否是适应假设的真正竞争对手？](https://plato.stanford.edu/entries/adaptationism/#ConHypGenRivAdaHyp)
-* [6. 结论](https://plato.stanford.edu/entries/adaptationism/#ConRem)
-* [参考文献](https://plato.stanford.edu/entries/adaptationism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/adaptationism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/adaptationism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/adaptationism/#Rel)
 
 ---
 

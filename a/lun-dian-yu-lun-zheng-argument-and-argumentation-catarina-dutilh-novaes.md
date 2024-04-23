@@ -4,37 +4,6 @@ _首次发布于 2021 年 7 月 16 日_
 
 论点是哲学的一个核心概念。哲学家们在论证主张时严重依赖论点，并且这些实践已经激发了对论点与论证的思考数千年。此外，论证实践也普遍存在于其他领域；它们渗透于科学探究、法律程序、教育和政治机构。论证研究是一个跨学科的研究领域，涉及哲学家、语言理论家、法学学者、认知科学家、计算机科学家和政治科学家等众多学科。本文概述了关于论证的文献，主要参考了哲学来源，同时广泛涉及其他学科的相关来源。
 
-* [1. 术语澄清](https://plato.stanford.edu/entries/argument/#TermClar)
-* [2. 论证类型](https://plato.stanford.edu/entries/argument/#TypeArgu)
-* [2.1 推理](https://plato.stanford.edu/entries/argument/#Dedu)
-* [2.2 归纳](https://plato.stanford.edu/entries/argument/#Indu)
-* [2.3 演绎](https://plato.stanford.edu/entries/argument/#Abdu)
-* [2.4 类比](https://plato.stanford.edu/entries/argument/#Anal)
-* [2.5 谬误](https://plato.stanford.edu/entries/argument/#Fall)
-* [3. 论点与论证的类型](https://plato.stanford.edu/entries/argument/#TypeArgu_1)
-* [3.1 对抗性和合作性论点与论证](https://plato.stanford.edu/entries/argument/#AdveCoopArgu)
-* [3.2 论证作为认识实践](https://plato.stanford.edu/entries/argument/#ArguEpisPrac)
-* [3.3 以共识为导向的论点与论证](https://plato.stanford.edu/entries/argument/#ConsOrieArgu)
-* [3.4 论点与论证](https://plato.stanford.edu/entries/argument/#ArguConfMana)
-* [3.5 结论](https://plato.stanford.edu/entries/argument/#Conc)
-* [4. 跨学科研究领域和社会实践中的论证](https://plato.stanford.edu/entries/argument/#ArguAcroFielInquSociPrac)
-* [4.1 论点与论证理论](https://plato.stanford.edu/entries/argument/#ArguTheo)
-* [4.2 人工智能与计算机科学](https://plato.stanford.edu/entries/argument/#ArtiInteCompScie)
-* [4.3 认知科学与心理学](https://plato.stanford.edu/entries/argument/#CognSciePsyc)
-* [4.4 语言与沟通](https://plato.stanford.edu/entries/argument/#LangComm)
-* [4.5 特定社会实践中的论点与论证](https://plato.stanford.edu/entries/argument/#ArguSpecSociPrac)
-* [5. 进一步的主题](https://plato.stanford.edu/entries/argument/#FurtTopi)
-* [5.1 论点与论证的不公正与善良论证](https://plato.stanford.edu/entries/argument/#ArguInjuVirtArgu)
-* [5.2 情感与论证](https://plato.stanford.edu/entries/argument/#EmotArgu)
-* [5.3 跨文化视角下的论证](https://plato.stanford.edu/entries/argument/#CrosCultPersArgu)
-* [5.4 论点与论证与互联网](https://plato.stanford.edu/entries/argument/#ArguInte)
-* [6. 结论](https://plato.stanford.edu/entries/argument/#Conc_1)
-* [参考文献](https://plato.stanford.edu/entries/argument/#Bib)
-* [主文参考资料](https://plato.stanford.edu/entries/argument/#RefeForMainText)
-* [历史补充参考资料](https://plato.stanford.edu/entries/argument/#RefeForHistSupp)
-* [学术工具](https://plato.stanford.edu/entries/argument/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/argument/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/argument/#Rel)
 
 ***
 

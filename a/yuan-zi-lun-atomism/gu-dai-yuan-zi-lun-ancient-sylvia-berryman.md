@@ -8,36 +8,6 @@ _首次发布于 2005 年 8 月 23 日；实质性修订于 2022 年 10 月 18 �
 
 微观粒子的相互作用是解释自然界可察觉变化的一种引人注目的方式。即使亚里士多德——常常被视为原子论的主要敌人——也承认物质的数量可能存在下限，以实现某些属性。但并非所有的原子论都基于表象与现实的区别：佛教哲学家提出了时间和空间中具有最小延伸的现象瞬间，以反映人类经验的短暂性。原子论中有时会出现原子之间的虚空空间，但并非总是如此。
 
-* [1. 古代印度哲学中的原子论](https://plato.stanford.edu/entries/atomism-ancient/#AtomClasIndiPhil)
-* [1.1 奈耶-毗舍迦原子论](https://plato.stanford.edu/entries/atomism-ancient/#NyaaVaisAtom)
-* [1.2 佛教原子论理论](https://plato.stanford.edu/entries/atomism-ancient/#BuddAtomTheo)
-* [1.3 耆那教原子论](https://plato.stanford.edu/entries/atomism-ancient/#JainAtom)
-* [2. 古希腊原子论](https://plato.stanford.edu/entries/atomism-ancient/#AnciGreeAtom)
-* [2.1 雷庇普斯和德谟克利特](https://plato.stanford.edu/entries/atomism-ancient/#LeucDemo)
-* [2.2 柏拉图、柏拉图主义者和毕达哥拉斯派](https://plato.stanford.edu/entries/atomism-ancient/#PlatPlatPyth)
-* [2.3 亚里士多德思想中的最小自然物](https://plato.stanford.edu/entries/atomism-ancient/#MiniNatuArisThou)
-* [2.4 迪奥多罗斯·克罗努斯](https://plato.stanford.edu/entries/atomism-ancient/#DiodCron)
-* [2.5 伊壁鸠鲁原子论](https://plato.stanford.edu/entries/atomism-ancient/#EpicAtom)
-* [2.6 古希腊科学中的原子论和粒子理论](https://plato.stanford.edu/entries/atomism-ancient/#AtomPartTheoAnciGreeScie)
-* [3. 古代原子论的遗产](https://plato.stanford.edu/entries/atomism-ancient/#LegaAnciAtom)
-* [3.1 伊斯兰世界的原子论](https://plato.stanford.edu/entries/atomism-ancient/#AtomIslaWorl)
-* [3.2 后期欧洲哲学中的古希腊原子论](https://plato.stanford.edu/entries/atomism-ancient/#AnciGreeAtomLateEuroPhil)
-* [3.3 早期印度原子论](https://plato.stanford.edu/entries/atomism-ancient/#EarlModeIndiAtom)
-* [参考文献](https://plato.stanford.edu/entries/atomism-ancient/#Bib)
-* [概述](https://plato.stanford.edu/entries/atomism-ancient/#Gene)
-* [古代印度哲学中的原子论](https://plato.stanford.edu/entries/atomism-ancient/#AtomClasIndiPhil_1)
-* [鲁西普和德谟克利特](https://plato.stanford.edu/entries/atomism-ancient/#LeucDemo_1)
-* [柏拉图、柏拉图主义者和毕达哥拉斯派](https://plato.stanford.edu/entries/atomism-ancient/#PlatPlatPyth_1)
-* [亚里士多德思想中的最小自然单位](https://plato.stanford.edu/entries/atomism-ancient/#MiniNatuArisThou_1)
-* [Diodorus Cronus](https://plato.stanford.edu/entries/atomism-ancient/#DiodCron_1)
-* [Epicurean Atomism](https://plato.stanford.edu/entries/atomism-ancient/#EpicAtom\*1) \* [Diodorus Cronus](https://plato.stanford.edu/entries/atomism-ancient/#DiodCron\*1)（迪奥多罗斯·克罗努斯）
-* [古希腊科学中的原子论和粒子理论](https://plato.stanford.edu/entries/atomism-ancient/#AtomPartTheoAnciGreeScie_1)
-* [伊斯兰世界中的原子论](https://plato.stanford.edu/entries/atomism-ancient/#AtomIslaWorl_1)
-* [后期欧洲哲学中的古希腊原子论](https://plato.stanford.edu/entries/atomism-ancient/#AnciGreeAtomLateEuroPhil_1)
-* [早期印度原子论](https://plato.stanford.edu/entries/atomism-ancient/#EarlModeIndiAtom_1)
-* [学术工具](https://plato.stanford.edu/entries/atomism-ancient/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/atomism-ancient/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/atomism-ancient/#Rel)
 
 ***
 

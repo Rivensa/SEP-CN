@@ -6,21 +6,6 @@ _首次发表于 2000 年 1 月 11 日；实质性修订于 2020 年 10 月 12 �
 
 由于围绕亚里士多德的《论灵魂》形成了长期的解释传统，即使是其中最核心的命题的解释有时也存在争议。此外，由于它与当代心灵哲学中一些重要方法的明显关联，亚里士多德的心理学在最近几十年引起了新的兴趣，并引发了激烈的解释争议。因此，本条目在两个层面上进行。主要文章叙述了亚里士多德心理学的主要和独特观点，尽可能避免解释争议和批评评论。在主要文章的适当部分结束时，读者可以通过相应的链接探索亚里士多德理论的问题或高级特点。
 
-* [1. 亚里士多德的心理学著作](https://plato.stanford.edu/entries/aristotle-psychology/#ArisPsycWrit)
-* [2. 一般的形质论](https://plato.stanford.edu/entries/aristotle-psychology/#HyloGene)
-* [3. 形质论的心灵-身体关系：唯物主义，二元论，](https://plato.stanford.edu/entries/aristotle-psychology/#HyloSoulBodyRelaMateDualSuiGene)​\*[Sui Generis](https://plato.stanford.edu/entries/aristotle-psychology/#HyloSoulBodyRelaMateDualSuiGene)\*​[？](https://plato.stanford.edu/entries/aristotle-psychology/#HyloSoulBodyRelaMateDualSuiGene)
-* [4. 心灵能力](https://plato.stanford.edu/entries/aristotle-psychology/#PsycFacu)
-* [5. 营养](https://plato.stanford.edu/entries/aristotle-psychology/#Nutr)
-* [6. 知觉](https://plato.stanford.edu/entries/aristotle-psychology/#Perc)
-* [7. 心灵](https://plato.stanford.edu/entries/aristotle-psychology/#Mind)
-* [8. 欲望](https://plato.stanford.edu/entries/aristotle-psychology/#Desi)
-* [参考文献](https://plato.stanford.edu/entries/aristotle-psychology/#Bib)
-* [《论灵魂》的文本、翻译和评论](https://plato.stanford.edu/entries/aristotle-psychology/#TextTranCommDeAnim)
-* [选集和专著](https://plato.stanford.edu/entries/aristotle-psychology/#AnthMono)
-* [文章和书籍章节](https://plato.stanford.edu/entries/aristotle-psychology/#ArtiBookChap)
-* [学术工具](https://plato.stanford.edu/entries/aristotle-psychology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aristotle-psychology/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aristotle-psychology/#Rel)
 
 ***
 

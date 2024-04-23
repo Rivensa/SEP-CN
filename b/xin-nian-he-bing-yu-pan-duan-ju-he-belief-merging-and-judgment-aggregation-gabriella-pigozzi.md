@@ -10,17 +10,7 @@ _首次发布于 2015 年 7 月 8 日；实质性修订于 2021 年 3 月 1 日_
 
 本文的重点是明确判断聚合和信念合并文献之间的联系。判断聚合将在下一节中简要介绍。有关判断聚合的更全面介绍，请参阅（Grossi 和 Pigozzi 2014 年；Endriss 2016 年）。
 
-* [1. 判断聚合](https://plato.stanford.edu/entries/belief-merging/#JudAgg)
-* [2. Belief Merging](https://plato.stanford.edu/entries/belief-merging/#BelMer)
-* [2.1 信念合并在完整性约束下的框架](https://plato.stanford.edu/entries/belief-merging/#FraForMerUndIntCon)
-* [2.2 基于距离的方法](https://plato.stanford.edu/entries/belief-merging/#DisBasApp)
-* [3. 将信念合并应用于辩论困境](https://plato.stanford.edu/entries/belief-merging/#BelMerAppDisDil)
-* [3.1 扩展和批评](https://plato.stanford.edu/entries/belief-merging/#ExtCri)
-* [4. 其他主题](https://plato.stanford.edu/entries/belief-merging/#OthTop)
-* [参考文献](https://plato.stanford.edu/entries/belief-merging/#Bib)
-* [Academic Tools](https://plato.stanford.edu/entries/belief-merging/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/belief-merging/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/belief-merging/#Rel)
+
 
 ***
 

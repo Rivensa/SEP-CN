@@ -4,18 +4,6 @@ _首次发表于 2005 年 10 月 19 日；实质性修订于 2017 年 11 月 10 
 
 阿蒙尼乌斯（约公元 435/445 年至 517/526 年）在亚历山大教授哲学，他的父亲赫梅亚斯曾在此教授过。他主要以对亚里士多德的评论而闻名，据说比其他人的评论更有益处，他在几何学和天文学方面也很出色。作为雅典普罗克鲁斯的学生，阿蒙尼乌斯在亚历山大教授了 5 世纪末和 6 世纪初的大多数重要柏拉图主义者：阿斯克勒庇乌斯、达玛斯基乌斯和辛普利修斯、欧多修斯和奥林匹奥多罗斯；埃利亚斯和大卫被认为是他的间接学生。达玛斯基乌斯后来成为雅典学派的领导，听过阿蒙尼乌斯的讲座，但他更倾向于依附于伊西多尔，并跟随他去了雅典。几乎所有阿蒙尼乌斯的亚里士多德评论都是由他的学生根据他的讲座出版的，而《论释义》的大评论则是阿蒙尼乌斯自己写的。这些评论在很大程度上依赖于普罗克鲁斯的讲座，较小程度上依赖于西里亚努斯，因此受到了他们的伊安布利克斯新柏拉图主义风格的影响。阿蒙尼乌斯以几个贡献而闻名，尤其是引入了亚历山大的亚里士多德评论传统，还有亚里士多德研究前必须回答的一套问题的首个保存版本，以及对《论释义》第 9 章的海战的处理，将其作为三个决定论论证之一，其他两个是“收割者”和来自神圣预知的论证。
 
-* [1.1 生活](https://plato.stanford.edu/entries/ammonius/#Life)
-* [1.2 作品](https://plato.stanford.edu/entries/ammonius/#Work)
-* [2. 亚蒙尼乌斯作为亚里士多德评论家](https://plato.stanford.edu/entries/ammonius/#Comm)
-* [3. 哲学立场](https://plato.stanford.edu/entries/ammonius/#Phil)
-* [3.1 亚蒙尼乌斯的新柏拉图主义](https://plato.stanford.edu/entries/ammonius/#Neop)
-* [3.2 亚里士多德的上帝作为世界的效果原因](https://plato.stanford.edu/entries/ammonius/#God)
-* [3.3 亚里士多德和反决定论](https://plato.stanford.edu/entries/ammonius/#Anti)
-* [4. 影响](https://plato.stanford.edu/entries/ammonius/#Infl)
-* [参考文献](https://plato.stanford.edu/entries/ammonius/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/ammonius/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ammonius/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ammonius/#Rel)
 
 ***
 

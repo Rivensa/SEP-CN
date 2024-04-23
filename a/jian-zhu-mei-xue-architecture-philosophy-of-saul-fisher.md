@@ -16,35 +16,6 @@ _首次发布于 2015 年 9 月 9 日_
 
 建筑美学的哲学观点远远超出了广义美学评估的范畴，还包括伦理学、社会和政治哲学以及对心理学和行为科学的哲学思考。建筑美学本身涵盖了艺术哲学中提出的传统问题，以及日常美学和环境美学。这些传统问题包括作品的本质；领域中类别、种类或类型的可能性；表征、意向性和表达的特征和作用；以及批评的合理基础。建筑伦理学也涉及传统问题，包括界定建筑环境中的权利、责任、善、美德和正义。建筑哲学的其他方面还涉及社会和技术特征。
 
-* [1. 引言](https://plato.stanford.edu/entries/architecture/#Int)
-* [1.1 哲学对建筑的相对忽视](https://plato.stanford.edu/entries/architecture/#ArcRelNeg)
-* [1.2 术语说明](https://plato.stanford.edu/entries/architecture/#WorTer)
-* [2. 建筑是什么？](https://plato.stanford.edu/entries/architecture/#WhaArc)
-* [2.1 建筑的类型](https://plato.stanford.edu/entries/architecture/#SorEntArc)
-* [2.2 建筑与基本特征](https://plato.stanford.edu/entries/architecture/#ArcEssFea)
-* [2.3 建筑所创造的事物种类](https://plato.stanford.edu/entries/architecture/#KinThiArcMak)
-* [3. 形而上学](https://plato.stanford.edu/entries/architecture/#Met)
-* [3.1 建筑美学](https://plato.stanford.edu/entries/architecture/#Ont)
-* [3.2 部分-整体关系](https://plato.stanford.edu/entries/architecture/#ParWhoRel)
-* [3.3 因果关系](https://plato.stanford.edu/entries/architecture/#Cau)
-* [4. 建筑语言和符号](https://plato.stanford.edu/entries/architecture/#ArcLanNot)
-* [5. 形式主义与反形式主义](https://plato.stanford.edu/entries/architecture/#ForAntFor)
-* [5.1 形式主义](https://plato.stanford.edu/entries/architecture/#For)
-* [5.2 反形式主义与功能美](https://plato.stanford.edu/entries/architecture/#AntForFunBea)
-* [6. 建筑体验、知识和欣赏](https://plato.stanford.edu/entries/architecture/#ArcExpKnoApp)
-* [6.1 建筑的体验](https://plato.stanford.edu/entries/architecture/#ExpArc)
-* [6.2 建筑美学](https://plato.stanford.edu/entries/architecture/#ArcKno)
-* [6.3 建筑欣赏](https://plato.stanford.edu/entries/architecture/#ArcApp)
-* [7. 建筑伦理学](https://plato.stanford.edu/entries/architecture/#ArcEth)
-* [8. 建筑与社会政治哲学](https://plato.stanford.edu/entries/architecture/#ArcSocPol)
-* [8.1 建筑的社会构成特征](https://plato.stanford.edu/entries/architecture/#SocConFeaArc)
-* [8.2 建筑的社会效能特征](https://plato.stanford.edu/entries/architecture/#SocEffFeaArc)
-* [8.3 建筑美学与政治](https://plato.stanford.edu/entries/architecture/#ArcPol)
-* [9. 建筑美学的进一步问题](https://plato.stanford.edu/entries/architecture/#FurIssArc)
-* [参考文献](https://plato.stanford.edu/entries/architecture/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/architecture/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/architecture/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/architecture/#Rel)
 
 ***
 

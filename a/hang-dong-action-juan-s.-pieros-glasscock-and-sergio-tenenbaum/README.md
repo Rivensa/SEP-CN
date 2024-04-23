@@ -10,36 +10,7 @@ _首次发布于 2023 年 1 月 11 日_
 
 这篇文章分为八个部分。第 1 节讨论了“什么是行动”的问题。第 2 节考察了与唐纳德·戴维森的工作相关的有意图行动的经典解释。第 3 节考虑了扩展行动（需要一段时间完成的行动）对这种理论的挑战，特别是在迈克尔·布拉特曼的工作中进行了探讨，并对这一挑战做出了不同的反应。第 4 节考虑了实践知识的概念，正如伊丽莎白·安斯康姆所提出的，这成为对因果理论最重要的竞争性解释的基础。第 5 节探讨了关于行动本体论的基础性问题。第 6 节考虑了一个问题：行动是否具有构成性目标-即仅仅通过成为有意图的行动，它就会指向某个目标？第 7 节考虑了省略是否属于行动，以及各种解释如何适应这一点。最后，第 8 节探讨了动物是否能够有意识地行动。
 
-* [1. 关于问题：什么是行动？](https://plato.stanford.edu/entries/action/#AbouQuesWhatActi)
-* [2. 因果主义和行动的因果理论](https://plato.stanford.edu/entries/action/#CausCausTheoActi)
-* [2.1 戴维森的前辈和辩论中的核心论点](https://plato.stanford.edu/entries/action/#DaviPredCentArguDeba)
-* [2.2 戴维森对有意行动的本质的看法](https://plato.stanford.edu/entries/action/#DaviNatuInteActi)
-* [2.3 心理状态作为行动的因果解释](https://plato.stanford.edu/entries/action/#MentStatCausExplActi)
-* [2.4 因果偏离问题](https://plato.stanford.edu/entries/action/#ProbCausDevi)
-* [3. 扩展行动](https://plato.stanford.edu/entries/action/#ExteActi)
-* [4. 实践知识](https://plato.stanford.edu/entries/action/#PracKnow)
-* [4.1 实践知识的本质](https://plato.stanford.edu/entries/action/#NatuPracKnow)
-* [4.2 知识条件的论证](https://plato.stanford.edu/entries/action/#ArguForKnowCond)
-* [4.3 对知识条件的异议](https://plato.stanford.edu/entries/action/#ObjeKnowCond)
-* [4.4 弱化知识条件](https://plato.stanford.edu/entries/action/#WeakKnowCond)
-* [4.5 实践知识的可能性](https://plato.stanford.edu/entries/action/#PossPracKnow)
-* [5. 行动的本体论](https://plato.stanford.edu/entries/action/#OntoActi)
-* [5.1 事件、过程和更多](https://plato.stanford.edu/entries/action/#EvenProc)
-* [5.2 行动的个体化](https://plato.stanford.edu/entries/action/#IndiActi)
-* [5.3 基本行动的辩论](https://plato.stanford.edu/entries/action/#DebaOverBasiActi)
-* [5.4 制造、行动和行动的多样性](https://plato.stanford.edu/entries/action/#MakiActiVariAgen)
-* [6. 构成目标](https://plato.stanford.edu/entries/action/#ConsAim)
-* [6.1 动机和不同版本的观点](https://plato.stanford.edu/entries/action/#MotiDiffVersView)
-* [6.2 反对意见](https://plato.stanford.edu/entries/action/#Obje)
-* [7. 省略](https://plato.stanford.edu/entries/action/#Omis)
-* [7.1 不行动的不同方式](https://plato.stanford.edu/entries/action/#DiffWaysNotActi)
-* [7.2 主体性、遗漏和克制](https://plato.stanford.edu/entries/action/#AgenOmisRefr)
-* [7.3 故意省略和行动的因果理论](https://plato.stanford.edu/entries/action/#InteOmisCausTheoActi)
-* [8. 动物行动](https://plato.stanford.edu/entries/action/#AnimActi)
-* [参考文献](https://plato.stanford.edu/entries/action/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/action/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/action/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/action/#Rel)
+
 
 ***
 

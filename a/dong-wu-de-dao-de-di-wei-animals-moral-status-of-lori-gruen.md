@@ -4,22 +4,6 @@ _首次发表于 2003 年 7 月 1 日；实质性修订于 2017 年 8 月 23 日
 
 人类是否有与众不同的特点，能够证明人类具有道德地位，而非人类动物则没有？对于哲学家以及对我们对待非人类动物感兴趣的非哲学领域的人来说，回答这个问题变得越来越重要。对于一些人来说，回答这个问题将使我们更好地理解人类的本质和我们道德义务的适当范围。一些人认为，有一种回答可以将人类与自然界的其他事物区分开来。许多接受这个回答的人对于证明人类对待非人类动物的某些做法（这些做法会造成痛苦、不适、苦难和死亡）感兴趣。后一组人预期，通过以特定方式回答这个问题，人类将有正当理由在考虑非人类动物时不需要也不应该给予道德考虑。与这种观点相反，越来越多的哲学家认为，虽然人类在各种方面与彼此和其他动物不同，但这些差异并不能为否定非人类动物的道德考虑提供哲学上的辩护。道德考虑的基础和其意义一直是引起许多争议的来源。
 
-* [1. 动物的道德考虑](https://plato.stanford.edu/entries/moral-animal/#MoraConsAnim)
-* [1.1 物种主义](https://plato.stanford.edu/entries/moral-animal/#Spec)
-* [1.2 人类例外论](https://plato.stanford.edu/entries/moral-animal/#HumaExce)
-* [1.3 人格](https://plato.stanford.edu/entries/moral-animal/#Pers)
-* [1.3.1 理性人](https://plato.stanford.edu/entries/moral-animal/#RatiPers)
-* [1.3.2 法人](https://plato.stanford.edu/entries/moral-animal/#LegaPers)
-* [1.4 感知能力](https://plato.stanford.edu/entries/moral-animal/#Sent)
-* [2. 动物的道德要求的道德意义](https://plato.stanford.edu/entries/moral-animal/#MoraSignAnimMoraClai)
-* [3. 人类与其他动物的关系的替代观点](https://plato.stanford.edu/entries/moral-animal/#AltePersHumaRelaOtheAnim)
-* [参考文献](https://plato.stanford.edu/entries/moral-animal/#Bib)
-* [引用参考](https://plato.stanford.edu/entries/moral-animal/#RefeCite)
-* [进一步阅读](https://plato.stanford.edu/entries/moral-animal/#FurtRead)
-* [学术工具](https://plato.stanford.edu/entries/moral-animal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/moral-animal/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/moral-animal/#Rel)
-
 ***
 
 ## 1. 动物的道德地位

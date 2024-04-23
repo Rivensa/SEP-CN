@@ -8,21 +8,6 @@ _首次发布于 2012 年 7 月 5 日；实质性修订于 2018 年 5 月 16 日
 
 大量且多样化的有关形而上学的著作在阿拉伯语中的写作进一步证实了这种中心性的印象——基本希腊文本的翻译、对翻译材料的不同类型的评论、具有不同程度的广泛性和教义深度的原创作品等等——所有这些都清楚地证明了这个哲学领域的思想活力和创造力。对形而上学的这种深入思考导致了阿拉伯在这一学科历史上的特定贡献，即逐步构建一种新的形而上学标准，其中这一学科呈现出希腊遗产的综合和有条理的综合形式，经历了一系列的认识论精炼——在范围定义、结构连贯性、论证严谨性等方面——并上升到哲学的基石地位。这个过程在哲学界引发了形而上学的真正“第二个开端”，尽管偶尔会有一些批评，这些批评是出于对希腊遗产在其未受污染形式中的保护的时代错误的欲望。非哲学形式的知识——尤其是启示神学——也不得不面对形而上学所带来的挑战。这种形而上学范式在非阿拉伯和非穆斯林文化领域（如拉丁基督教和希伯来犹太）的有力而持久的影响，证明了它的教义和认识论的吸引力。
 
-* [1. 基本文本、方法和问题](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/#FundTextApprIssu)
-* [2. 《形而上学》的阿拉伯翻译](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/#ArabTranMeta)
-* [3. 阿尔-坎迪和他的学派](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/#AlKindHisScho)
-* [4. 托马斯·阿奎那](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/#AabiIbnQurr)
-* [5. 阿尔法拉比](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/#AlFaar)
-* [6. 巴格达亚里士多德学派](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/#BaghAris)
-* [7. 托马斯·阿奎那 (Avicenna)](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/#IbnSiinAvic)
-* [8. 亚维森纳后期 (Post-Avicennian Period)](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/#PostAvicPeri)
-* [9. 结论 (Conclusion)](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/#Bib)
-* [A. 文本和翻译](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/#TextTran)
-* [B. 研究](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/#BStud)
-* [学术工具](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/#Rel)
 
 ***
 

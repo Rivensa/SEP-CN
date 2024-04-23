@@ -6,24 +6,6 @@ _首次发表于 2012 年 2 月 14 日；实质性修订于 2018 年 5 月 17 �
 
 生物学实验的哲学问题也存在于其他实验科学中，例如与因果推断、实验测试、数据可靠性、实验人为因素问题以及科学实践的合理性有关的问题。实验生物学知识与其他科学知识有足够的不同，以便对这些问题进行单独的哲学处理。此外，还存在一些仅在生物学中出现的问题，例如模式生物的作用。接下来将考虑这两种问题。
 
-* [1. 实验和因果推理](https://plato.stanford.edu/entries/biology-experiment/#ExpCauRea)
-* [1.1 实验生物学中的密尔方法](https://plato.stanford.edu/entries/biology-experiment/#MilMetExpBio)
-* [1.2 密尔方法的推广](https://plato.stanford.edu/entries/biology-experiment/#GenMilMet)
-* [1.3 机械构成和层次实验](https://plato.stanford.edu/entries/biology-experiment/#LimCauInfMet)
-* [2. 关键实验证据](https://plato.stanford.edu/entries/biology-experiment/#ConTheExpTes)
-* [2.1 杜安的困境和氧化磷酸化争议](https://plato.stanford.edu/entries/biology-experiment/#TesWha)
-* [2.2 DNA 复制和最佳解释推理](https://plato.stanford.edu/entries/biology-experiment/#InfBesExp)
-* [3. 实验系统和模型生物](https://plato.stanford.edu/entries/biology-experiment/#ExpSysModOrg)
-* [3.1 模型生物](https://plato.stanford.edu/entries/biology-experiment/#ModOrg)
-* [3.2 实验系统](https://plato.stanford.edu/entries/biology-experiment/#ExpSys)
-* [4. 实验、理性和社会认识论](https://plato.stanford.edu/entries/biology-experiment/#ExpRatSocEpi)
-* [5. 实验工具和数据可靠性](https://plato.stanford.edu/entries/biology-experiment/#ExpArtDatRel)
-* [5.1 鲁棒性](https://plato.stanford.edu/entries/biology-experiment/#Robust)
-* [5.2 真因理想](https://plato.stanford.edu/entries/biology-experiment/#VeraCausa)
-* [参考文献](https://plato.stanford.edu/entries/biology-experiment/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/biology-experiment/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/biology-experiment/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/biology-experiment/#Rel)
 
 ***
 

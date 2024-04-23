@@ -8,56 +8,10 @@ _首次发表于 2005 年 11 月 8 日；实质性修订于 2019 年 9 月 6 日
 
 变异一元论的吸引力在于这些神秘的特征、相当直接的论证结构以及它试图将直观可接受的形而上学（一元论）与对心理和物理解释方案之间关系的复杂理解（异常主义）结合起来。它的明确假设各自都意图被反对一元论的立场所接受，但是当它们一起被考虑时，将显示一元论实际上是必需的。
 
-* [1. 变异一元论的论证](https://plato.stanford.edu/entries/anomalous-monism/#ArgForAnoMon)
-* [2. 前提一：相互作用原则](https://plato.stanford.edu/entries/anomalous-monism/#PreIIntPri)
-* [2.1 心理和物理事件](https://plato.stanford.edu/entries/anomalous-monism/#MenPhyEve)
-* [2.2 心理因果关系](https://plato.stanford.edu/entries/anomalous-monism/#MenCau)
-* [2.3 心理异常主义](https://plato.stanford.edu/entries/anomalous-monism/#PsyAno)
-* [3. 前提 II：因果-法则原则](https://plato.stanford.edu/entries/anomalous-monism/#PreIICauLawPri)
-* [3.1 严格法则](https://plato.stanford.edu/entries/anomalous-monism/#StrLaw)
-* [3.2 证明因果-法则原则](https://plato.stanford.edu/entries/anomalous-monism/#JusCauLawPri)
-* [3.3 对因果-法则原则的反驳](https://plato.stanford.edu/entries/anomalous-monism/#ObjCauLawPri)
-* [4. 前提 III：变异一元论原则](https://plato.stanford.edu/entries/anomalous-monism/#PreIIIAnoPri)
-* [4.1 全体主义/不确定性论证](https://plato.stanford.edu/entries/anomalous-monism/#HolArg)
-* [4.2 变异一元论的合理性论证](https://plato.stanford.edu/entries/anomalous-monism/#RatArg)
-* [4.2.1 规范性与描述性原则（金姆）](https://plato.stanford.edu/entries/anomalous-monism/#NorVsDesPriKim)
-* [4.2.2 无法编码和强理性作为理想（麦克道威尔）](https://plato.stanford.edu/entries/anomalous-monism/#UncStrRatIdeMcD)
-* [4.2.3 上下文/复杂性论证（麦克道威尔和奇尔德）](https://plato.stanford.edu/entries/anomalous-monism/#ConArgMcDChi)
-* [4.3 因果定义论证](https://plato.stanford.edu/entries/anomalous-monism/#CauDefArg)
-* [5. 一元论](https://plato.stanford.edu/entries/anomalous-monism/#Mon)
-* [5.1 令牌同一性](https://plato.stanford.edu/entries/anomalous-monism/#TokIde)
-* [5.2 对令牌同一性的反驳](https://plato.stanford.edu/entries/anomalous-monism/#ObjTokIde)
-* [5.3 变异一元论是否与心灵变异论一致？](https://plato.stanford.edu/entries/anomalous-monism/#53SupConMenAno)
-* [6. 反证法论述的异象论反驳](https://plato.stanford.edu/entries/anomalous-monism/#EpiObj)
-* [6.1 心理属性和解释相关性](https://plato.stanford.edu/entries/anomalous-monism/#MenProExpRel)
-* [6.2 利益相对性和双重](https://plato.stanford.edu/entries/anomalous-monism/#IntRelDuaExpStr)​\*[解释对象](https://plato.stanford.edu/entries/anomalous-monism/#IntRelDuaExpStr)\*​[策略](https://plato.stanford.edu/entries/anomalous-monism/#IntRelDuaExpStr)
-* [6.3 原因的因果构成](https://plato.stanford.edu/entries/anomalous-monism/#CauConRea)
-* [7. 结论](https://plato.stanford.edu/entries/anomalous-monism/#Con)
-* [参考文献](https://plato.stanford.edu/entries/anomalous-monism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/anomalous-monism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/anomalous-monism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/anomalous-monism/#Rel)
+
 
 该条目还包括以下链接到文本中的补充文件：
 
-* [相关观点](https://plato.stanford.edu/entries/anomalous-monism/related-views.html)
-* [1. 斯宾诺莎的并行论](https://plato.stanford.edu/entries/anomalous-monism/related-views.html#SpiPar)
-* [2. 功能主义](https://plato.stanford.edu/entries/anomalous-monism/related-views.html#Fun)
-* [3. 赤裸唯物主义](https://plato.stanford.edu/entries/anomalous-monism/related-views.html#BarMat)
-* [4. 其他立场](https://plato.stanford.edu/entries/anomalous-monism/related-views.html#OthPos)
-* [相关问题](https://plato.stanford.edu/entries/anomalous-monism/related-issues.html)
-* [1. 变异一元论和方案-内容二元论](https://plato.stanford.edu/entries/anomalous-monism/related-issues.html#AnoMonSchConDua)
-* [2. 心灵变异论和语义外在主义](https://plato.stanford.edu/entries/anomalous-monism/related-issues.html#MenAnoSemExt)
-* [3. 变异一元论和自由](https://plato.stanford.edu/entries/anomalous-monism/related-issues.html#AnomMoniFree)
-* [3.1 变异一元论和康德的自由理论](https://plato.stanford.edu/entries/anomalous-monism/related-issues.html#AnomMoniKant)
-* [3.2 变异一元论和当代相容主义](https://plato.stanford.edu/entries/anomalous-monism/related-issues.html#AnomMoniContComp)
-* [物理因果封闭与一元论的论证](https://plato.stanford.edu/entries/anomalous-monism/causal-closure.html)
-* [心理属性与因果关联性](https://plato.stanford.edu/entries/anomalous-monism/mental-properties.html)
-* [同名和异名的概括](https://plato.stanford.edu/entries/anomalous-monism/homonomic.html)
-* [解释性附随现象论](https://plato.stanford.edu/entries/anomalous-monism/explanatory.html)
-* [金的证伪策略用于建立心理异常主义](https://plato.stanford.edu/entries/anomalous-monism/reductio.html)
-* [随附性和物理解释的首要性](https://plato.stanford.edu/entries/anomalous-monism/supervenience.html)
-* [令牌-同一性和最小物质主义](https://plato.stanford.edu/entries/anomalous-monism/token-identity.html)
 
 ***
 

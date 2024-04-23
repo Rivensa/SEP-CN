@@ -8,31 +8,7 @@ _首次发布于 2020 年 4 月 30 日_
 
 对于这些主题中的每个部分，我们提供了对_伦理问题_的一般解释，概述了现有的_立场_和_论点_，然后分析了这些在当前_技术_中的表现，最后，可以得出什么_政策_后果。
 
-* [1. 介绍](https://plato.stanford.edu/entries/ethics-ai/#Intr)
-* [1.1 领域背景](https://plato.stanford.edu/entries/ethics-ai/#BackFiel)
-* [1.2 人工智能和机器人](https://plato.stanford.edu/entries/ethics-ai/#AIRobo)
-* [1.3 政策说明](https://plato.stanford.edu/entries/ethics-ai/#NotePoli)
-* [2. 主要辩论](https://plato.stanford.edu/entries/ethics-ai/#MainDeba)
-* [2.1 隐私与监视](https://plato.stanford.edu/entries/ethics-ai/#PrivSurv)
-* [2.2 行为操控](https://plato.stanford.edu/entries/ethics-ai/#ManiBeha)
-* [2.3 AI 系统的不透明性](https://plato.stanford.edu/entries/ethics-ai/#OpacAISyst)
-* [2.4 决策系统中的偏见](https://plato.stanford.edu/entries/ethics-ai/#BiasDeciSyst)
-* [2.5 人机交互](https://plato.stanford.edu/entries/ethics-ai/#HumaRoboInte)
-* [2.6 自动化与就业](https://plato.stanford.edu/entries/ethics-ai/#AutoEmpl)
-* [2.7 自主系统](https://plato.stanford.edu/entries/ethics-ai/#AutoSyst)
-* [2.8 机器伦理](https://plato.stanford.edu/entries/ethics-ai/#MachEthi)
-* [2.9 人工道德代理](https://plato.stanford.edu/entries/ethics-ai/#ArtiMoraAgen)
-* [2.10 奇点](https://plato.stanford.edu/entries/ethics-ai/#Sing)
-* [3. 结束](https://plato.stanford.edu/entries/ethics-ai/#Clos)
-* [参考文献](https://plato.stanford.edu/entries/ethics-ai/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/ethics-ai/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ethics-ai/#Oth)
-* [参考文献](https://plato.stanford.edu/entries/ethics-ai/#Refe)
-* [研究机构](https://plato.stanford.edu/entries/ethics-ai/#ReseOrga)
-* [会议](https://plato.stanford.edu/entries/ethics-ai/#Conf)
-* [政策文件](https://plato.stanford.edu/entries/ethics-ai/#PoliDocu)
-* [其他相关页面](https://plato.stanford.edu/entries/ethics-ai/#OtheRelePage)
-* [相关条目](https://plato.stanford.edu/entries/ethics-ai/#Rel)
+
 
 ***
 

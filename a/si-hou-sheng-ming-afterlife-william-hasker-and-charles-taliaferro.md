@@ -6,15 +6,7 @@ _首次发表于 2005 年 12 月 26 日；实质性修订于 2023 年 2 月 27 �
 
 本条目分为五个部分。在第一部分中，我们提出，对于死亡和死后生命的信仰之所以具有持久的重要性，是因为我们关心此时此地的人，因此也关心他们的未来和我们自己的未来。就像我们希望我们所爱的人在这个生活中有一个充实的未来一样，自然而然地会考虑这个生活是否是唯一的生活，如果有理由相信有死后生命（或者超越这个生活的生命），那么希望这可能涉及一个新的、有价值的环境，或者至少不是地狱般的环境，是合理的。我们还提出了其他一些理由，解释为什么死后生命的话题在哲学上是有趣的。在第二和第三部分中，我们考虑了在两个重要的心灵哲学理论（二元论和唯物论）的光照下，人们在死后是否存活的概念和可能性。第四部分从经验证据的角度讨论了死后生命。在第五部分，我们提出了一些理由，认为对死后生命的信仰的合理性取决于形而上学信念的合理性。
 
-* [1. 生存及其替代方案](https://plato.stanford.edu/entries/afterlife/#SurAlt)
-* [2. 生存的可能性-二元论](https://plato.stanford.edu/entries/afterlife/#PosSur)
-* [3. 对生存可能性的反对意见-唯物主义](https://plato.stanford.edu/entries/afterlife/#ObjPosSurMat)
-* [4. 超心理学和临死体验](https://plato.stanford.edu/entries/afterlife/#ParNeaDeaExp)
-* [5. 关于生存的形而上学考虑](https://plato.stanford.edu/entries/afterlife/#MetConConSur)
-* [参考文献](https://plato.stanford.edu/entries/afterlife/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/afterlife/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/afterlife/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/afterlife/#Rel)
+
 
 ***
 

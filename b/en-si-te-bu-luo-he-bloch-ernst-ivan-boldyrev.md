@@ -4,26 +4,6 @@ _首次发布于 2023 年 1 月 25 日_
 
 恩斯特·布洛赫（1885-1977）是一位德国哲学家和文化批评家，他主要因为重新激发对乌托邦的兴趣以及在解放的激进哲学、非教条宗教思想、大众文化分析和新的美学形式（尤其是表现主义）之间进行调和而受到赞誉。他的著作，尤其是《希望原则》（1954-1959），对一种特定形式的批判理论做出了贡献，并以其独特的散文风格而在学术界和非学术界都颇受欢迎。布洛赫是魏玛德国知识分子中的重要声音，然后在第二次世界大战后的短暂时期内成为东德的主要哲学家。然而，他很快成为马克思主义意识形态的“偏离者”。除了东方集团，他对乌托邦研究、神学和上个世纪的美学产生了深远影响，但也对政治哲学和批判理论产生了普遍影响。布洛赫的左倾取向和对希望的乐观描述使他成为存在主义思想的批评者，尽管在基因谱和风格上有许多亲缘关系。布洛赫以黑格尔和马克思为基础，但也借鉴了许多其他知识传统，试图为不确定和未完成的世界制定本体论和政治哲学。这体现在他的“乌托邦诠释学”中，试图揭示自然或文化现象中的未完成性和“尚未”；在他对人类存在的直接性的敏感性（部分受到现象学运动的启发）和对各种形式的大众文化的敏感性；以及在他试图将马克思主义重新阐释为人类化自然/自然化人类的乌托邦项目时。乌托邦非同一性的经验被提升到本体论原则的层面：“S 尚未 P”，而人类对解放的追求则根植于存在本身的未实现状态。
 
-* [1. 简短传记](https://plato.stanford.edu/entries/bloch/#ShorBiog)
-* [2. 布洛赫的未完成本体论](https://plato.stanford.edu/entries/bloch/#BlocOntoUnfi)
-* [2.1 乌托邦哲学的核心思想](https://plato.stanford.edu/entries/bloch/#CoreIdeaUtopPhil)
-* [2.2 布洛赫的一些知识渊源和亲和力](https://plato.stanford.edu/entries/bloch/#SomeBlocInteOrigAffi)
-* [2.3 初步展望](https://plato.stanford.edu/entries/bloch/#PrelOutl)
-* [3.伦理学、政治哲学和宗教哲学](https://plato.stanford.edu/entries/bloch/#EthiPoliPhilPhilReli)
-* [3.1 实践哲学的一般思想](https://plato.stanford.edu/entries/bloch/#GeneIdeaPracPhil)
-* [3.2 伦理学](https://plato.stanford.edu/entries/bloch/#Ethi)
-* [3.3 历史理论与非同时性](https://plato.stanford.edu/entries/bloch/#TheoHistNonCont)
-* [3.4 布洛赫对自然法的看法](https://plato.stanford.edu/entries/bloch/#N34BlocNatuLaw)
-* [3.5 宗教的乌托邦哲学](https://plato.stanford.edu/entries/bloch/#UtopPhilReli)
-* [4. Aesthetics](https://plato.stanford.edu/entries/bloch/#Aest)
-* [参考文献](https://plato.stanford.edu/entries/bloch/#Bib)
-* [Biographies](https://plato.stanford.edu/entries/bloch/#Biog)
-* [主要来源](https://plato.stanford.edu/entries/bloch/#PrimSour)
-* [次要文献](https://plato.stanford.edu/entries/bloch/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/bloch/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/bloch/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bloch/#Rel)
-
 ***
 
 ## 1. 简介

@@ -26,22 +26,6 @@ Oskar judges that 5 is prime number. (B) 对许多当代读者来说听起来会
 
 对于布伦塔诺来说，判断理论的起点是我们意识到我们接受的——用他的术语来说是承认（Annerkennung）——我们自己的心智行为和（外部）感知对象。从这个起点出发，他试图把我们认为是一种命题态度的东西捕捉下来。正如我们将在第 5 节中看到的，布伦塔诺认为（至少在某个时候）判断某事是这样或那样是建立在某些承认之上的。
 
-* [1. 布伦塔诺的判断理论概述](https://plato.stanford.edu/entries/brentano-judgement/#OutlBrenTheo)
-* [1.1 第一部分：判断与展示](https://plato.stanford.edu/entries/brentano-judgement/#PartIJudgVersPres)
-* [1.2 第二部分：判断与真理](https://plato.stanford.edu/entries/brentano-judgement/#PartIIJudgTrut)
-* [1.3 第三部分：存在性判断](https://plato.stanford.edu/entries/brentano-judgement/#PartIIIExisJudg)
-* [1.4 第四部分：还原主义命题](https://plato.stanford.edu/entries/brentano-judgement/#PartIVReduClai)
-* [2. 布伦塔诺及其前辈对存在性判断的看法](https://plato.stanford.edu/entries/brentano-judgement/#BrenHisPrecExisJudg)
-* [3. 布伦塔诺的判断理论](https://plato.stanford.edu/entries/brentano-judgement/#BrenArguPerc)
-* [4. 归约命题与布伦塔诺的逻辑改革](https://plato.stanford.edu/entries/brentano-judgement/#ReduThesBrenLogiRefo)
-* [5. The Theory of Double Judgements](https://plato.stanford.edu/entries/brentano-judgement/#TheoDoubJudg)
-* [Bibliography](https://plato.stanford.edu/entries/brentano-judgement/#Bib)
-* [布伦塔诺的作品](https://plato.stanford.edu/entries/brentano-judgement/#WorkBren)
-* [更多历史文本](https://plato.stanford.edu/entries/brentano-judgement/#FurtHistText)
-* [次级文献](https://plato.stanford.edu/entries/brentano-judgement/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/brentano-judgement/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/brentano-judgement/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/brentano-judgement/#Rel)
 
 ***
 

@@ -16,21 +16,6 @@
 
 可以在乌尔里希·鲁道夫（Ulrich Rudolph）的《阿布·纳斯尔·法拉比》（2017 年：526-594）和菲利普·瓦拉特（Philippe Vallat）的著作中找到最新和详细的阿里·法拉比作品及其翻译的列表（2004 年：379-87）。此外，乔恩·麦金尼斯（Jon McGinnis）和大卫·C·雷斯曼（David. C. Reisman）在他们的《古典阿拉伯哲学：文献选编》（2007 年：54-120）中翻译了一系列法拉比文本。
 
-* [1.《科学的列举》](https://plato.stanford.edu/entries/al-farabi/#EnumScie)
-* [2. 语言](https://plato.stanford.edu/entries/al-farabi/#Lang)
-* [3. 逻辑](https://plato.stanford.edu/entries/al-farabi/#Logi)
-* [4. 数学与音乐](https://plato.stanford.edu/entries/al-farabi/#MathMusi)
-* [5. 物理学](https://plato.stanford.edu/entries/al-farabi/#Phys)
-* [6. 形而上学](https://plato.stanford.edu/entries/al-farabi/#Meta)
-* [7. 伦理学和政治学](https://plato.stanford.edu/entries/al-farabi/#EthandPol)
-* [8. 结论](https://plato.stanford.edu/entries/al-farabi/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/al-farabi/#Bib)
-* [研究工具](https://plato.stanford.edu/entries/al-farabi/#ReseTool)
-* [主要文献](https://plato.stanford.edu/entries/al-farabi/#PrimLite)
-* [二级文献](https://plato.stanford.edu/entries/al-farabi/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/al-farabi/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/al-farabi/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/al-farabi/#Rel)
 
 ---
 

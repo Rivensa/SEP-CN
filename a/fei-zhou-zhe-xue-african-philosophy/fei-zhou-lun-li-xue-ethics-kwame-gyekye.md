@@ -8,20 +8,6 @@ _首次发布于 2010 年 9 月 9 日_
 
 该条目以非洲道德语言为出发点，因为道德语言能够洞察社会的道德思维或观念。非洲道德语言所启发的性格和道德人格的概念在该条目中占据了重要地位。该条目强调了非洲伦理学的社会性质，并突出了其与责任伦理学（而非权利伦理学）和共同利益的相关概念。非洲伦理学的人文基础和特点得到了广泛讨论。
 
-* [1. 关于“伦理学”和“道德学”这两个术语](https://plato.stanford.edu/entries/african-ethics/#TerEthMor)
-* [2. 非洲伦理学的词汇（或道德）](https://plato.stanford.edu/entries/african-ethics/#AfrWorForEthMor)
-* [3. 个性观念在非洲伦理学中的核心地位](https://plato.stanford.edu/entries/african-ethics/#NotChaCenAfrEth)
-* [4. 道德人格](https://plato.stanford.edu/entries/african-ethics/#MorPer)
-* [5. 非洲道德的人文基础](https://plato.stanford.edu/entries/african-ethics/#HumFouAfrMor)
-* [6. 人性与兄弟情谊](https://plato.stanford.edu/entries/african-ethics/#HumBro)
-* [7. 共同利益的概念](https://plato.stanford.edu/entries/african-ethics/#NotComGoo)
-* [8. 社会伦理，而非个人主义伦理](https://plato.stanford.edu/entries/african-ethics/#SocNotIndEth)
-* [9. 责任伦理，而非权利伦理](https://plato.stanford.edu/entries/african-ethics/#EthDutNotRig)
-* [10. 结论](https://plato.stanford.edu/entries/african-ethics/#Con)
-* [参考文献](https://plato.stanford.edu/entries/african-ethics/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/african-ethics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/african-ethics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/african-ethics/#Rel)
 
 ***
 

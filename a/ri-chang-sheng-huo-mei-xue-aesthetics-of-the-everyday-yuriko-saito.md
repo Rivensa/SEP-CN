@@ -12,20 +12,6 @@ _首次发表于 2015 年 9 月 30 日，实质修订于 2019 年 11 月 18 日_
 
 日常生活美学不仅关注更多的事物和品质，还提出了一些理论问题，这些问题在主流的西方美学中没有得到足够的关注。这些问题包括：由于缺乏一个被机构一致认可的框架，审美体验对象的不确定身份；日常物品经历的变化和修改；设计师和创作者的普遍匿名性，以及日常物品背后缺乏明确的作者；与物品和活动的身体接触及其实用结果；对审美判断标准的感知缺乏。通过提出这些问题，日常生活美学挑战了以艺术为中心的美学话语的长期假设。然而，日常生活美学的倡导者提出这些挑战并不是为了否定已经确立的美学话语。相反，它们旨在为现有话语带来新的启示。正如阿瑟·丹托所提出的，新形式的艺术常常引入以前未被考虑的品质和价值，并丰富艺术界，日常生活美学提出通过增加新的研究途径来帮助发展整体美学话语。因此，接下来的日常生活美学描述将重点关注这些问题，以阐明和挑战当代西方哲学中的现有美学话语。
 
-* [1. 近期历史](https://plato.stanford.edu/entries/aesthetics-of-everyday/#RecHis)
-* [2. 日常生活美学中的“日常”和“美学”](https://plato.stanford.edu/entries/aesthetics-of-everyday/#EveAesEveAes)
-* [3. 熟悉的事物的陌生化](https://plato.stanford.edu/entries/aesthetics-of-everyday/#DefFam)
-* [4. 负面美学](https://plato.stanford.edu/entries/aesthetics-of-everyday/#NegAes)
-* [5. 日常生活美学特质](https://plato.stanford.edu/entries/aesthetics-of-everyday/#EveAesQua)
-* [6. 日常生活美学与社会美学](https://plato.stanford.edu/entries/aesthetics-of-everyday/#AmbAesSocAes)
-* [7. 行动导向美学](https://plato.stanford.edu/entries/aesthetics-of-everyday/#ActOriAes)
-* [8. 模糊艺术与生活之间的界线](https://plato.stanford.edu/entries/aesthetics-of-everyday/#BluLinBetArtLif)
-* [9. 日常生活美学的意义](https://plato.stanford.edu/entries/aesthetics-of-everyday/#SigEveAes)
-* [10. 新的和未来的发展](https://plato.stanford.edu/entries/aesthetics-of-everyday/#Con)
-* [参考文献](https://plato.stanford.edu/entries/aesthetics-of-everyday/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/aesthetics-of-everyday/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aesthetics-of-everyday/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aesthetics-of-everyday/#Rel)
 
 ***
 

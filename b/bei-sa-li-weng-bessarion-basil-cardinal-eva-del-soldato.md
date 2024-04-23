@@ -4,18 +4,7 @@ _首次发布于 2018 年 8 月 27 日；实质性修订于 2022 年 9 月 3 日
 
 贝萨里翁（d. 1472）是在马尔西利奥·菲奇诺（1433-1499）之前，负责将柏拉图重新引入西方世界的不那么灰色的显赫人物。在反柏拉图传统的基础上，贝萨里翁捍卫了柏拉图的声誉，抵御了反柏拉图主义者特雷比松德的攻击，他引入了基督教化的柏拉图对话的阅读，将柏拉图描述为最适合罗马神学的异教哲学家。贝萨里翁的论证策略不仅拯救了柏拉图，还为反形而上学的亚里士多德主义打开了道路，同时向拉丁世界展示了他的希腊文化遗产中的丰富知识。
 
-* [1. 生平](https://plato.stanford.edu/entries/bessarion/#Life)
-* [2. Works](https://plato.stanford.edu/entries/bessarion/#Work)
-* [2.1 Bessarion the Theologian](https://plato.stanford.edu/entries/bessarion/#BessTheo)
-* [2.2 Bessarion the Aristotelian](https://plato.stanford.edu/entries/bessarion/#BessAris)
-* [2.3 《针对柏拉图诽谤者》](https://plato.stanford.edu/entries/bessarion/#CaluPlat)
-* [3. Reception](https://plato.stanford.edu/entries/bessarion/#Rece)
-* [Bibliography](https://plato.stanford.edu/entries/bessarion/#Bib)
-* [Primary Literature](https://plato.stanford.edu/entries/bessarion/#PrimLite)
-* [次级文献](https://plato.stanford.edu/entries/bessarion/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/bessarion/#Aca)
-* [Other Internet Resources](https://plato.stanford.edu/entries/bessarion/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bessarion/#Rel)
+
 
 ***
 

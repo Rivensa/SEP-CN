@@ -4,24 +4,6 @@ _首次发表于 1998 年 7 月 1 日；实质性修订于 2022 年 7 月 1 日_
 
 亚里士多德（公元前 384 年-公元前 322 年）是一位希腊哲学家、逻辑学家和科学家。与他的老师柏拉图一起，亚里士多德被普遍认为是古代思想家中在许多哲学领域，包括政治理论方面最有影响力的人之一。亚里士多德出生在希腊北部的斯塔吉拉，他的父亲是马其顿国王的宫廷医生。年轻时，他在雅典的柏拉图学院学习。柏拉图去世后，他离开雅典前往亚洲小亚细亚和莱斯博斯进行哲学和生物学研究，然后受到马其顿国王菲利普二世的邀请，担任他年幼的儿子亚历山大大帝的导师。亚历山大继承父亲王位后，巩固了对希腊城邦的征服，并发起了对波斯帝国的入侵。亚里士多德作为一名外籍居民返回雅典，并成为马其顿总督安提帕特的亲密朋友。在这个时期（公元前 335 年-公元前 323 年），他写作了一些重要的著作，包括《政治学》。亚历山大突然去世后，亚里士多德因为与马其顿的联系而不得不逃离雅典，不久后去世。亚里士多德的生活似乎以各种方式影响了他的政治思想：他对生物学的兴趣似乎反映在他的政治学的自然主义中；他对比较政治学的兴趣以及对民主和君主制的有限同情可能是由他的旅行和对不同政治制度的经验所鼓励的；他对他的老师柏拉图的批判性反应，同时广泛借鉴了柏拉图的《理想国》、《政治家》和《法律》；他自己的《政治学》旨在指导统治者和政治家，反映了他所处的高级政治圈子。
 
-* [1. 总论政治学](https://plato.stanford.edu/entries/aristotle-politics/#PoliScieGene)
-* [附录：亚里士多德政治学的特点和问题](https://plato.stanford.edu/entries/aristotle-politics/supplement1.html)
-* [2. 亚里士多德的政治观](https://plato.stanford.edu/entries/aristotle-politics/#ArisViewPoli)
-* [补充：亚里士多德政治学的前提](https://plato.stanford.edu/entries/aristotle-politics/supplement2.html)
-* [3. 宪法和公民的一般理论](https://plato.stanford.edu/entries/aristotle-politics/#GeneTheoConsCiti)
-* [补充：政治自然主义](https://plato.stanford.edu/entries/aristotle-politics/supplement3.html)
-* [4. 具体宪政的研究](https://plato.stanford.edu/entries/aristotle-politics/#StudSpecCons)
-* [5. 亚里士多德与现代政治](https://plato.stanford.edu/entries/aristotle-politics/#ArisModePoli)
-* [亚里士多德术语词汇表](https://plato.stanford.edu/entries/aristotle-politics/#GlosArisTerm)
-* [参考文献](https://plato.stanford.edu/entries/aristotle-politics/#Bib)
-* [亚里士多德《政治学》的希腊文本](https://plato.stanford.edu/entries/aristotle-politics/#GreeTextArisPoli)
-* [B. 亚里士多德的政治学英文翻译](https://plato.stanford.edu/entries/aristotle-politics/#BEnglTranArisPoli)
-* [C. 文集](https://plato.stanford.edu/entries/aristotle-politics/#CAnth)
-* [D. 单一作者的评论和概述](https://plato.stanford.edu/entries/aristotle-politics/#DSingAuthCommOver)
-* [特定主题的研究](https://plato.stanford.edu/entries/aristotle-politics/#EStudPartTopi)
-* [学术工具](https://plato.stanford.edu/entries/aristotle-politics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aristotle-politics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aristotle-politics/#Rel)
 
 ***
 

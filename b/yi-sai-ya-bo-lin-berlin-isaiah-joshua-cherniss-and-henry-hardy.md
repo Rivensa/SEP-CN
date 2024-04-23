@@ -12,33 +12,7 @@ _© The Trustees of the Isaiah Berlin Literary Trust_
 
 以赛亚·伯林（1909-1997）是一位入籍英国的哲学家、思想史学家、政治理论家、教育家、公共知识分子和道德家，也是一位散文家。他以富有对话才华、捍卫自由主义和多元主义、反对政治极端主义和知识狂热主义，以及对人和思想进行通俗而犀利的写作而闻名。他的论文《自由的两个概念》（1958 年）对英语世界政治理论的复兴做出了贡献，并且仍然是该领域中最有影响力和广泛讨论的文本之一：赞赏者和批评者一致认为，伯林对积极自由和消极自由的区分，无论好坏，都是讨论政治自由的意义和价值的基本起点。在他的晚年，他的众多论文更加易得，引起了对他的工作的日益关注，特别是对价值多元主义的理念；伯林对价值多元主义的阐述存在许多模糊和甚至晦涩之处，这只是鼓励其他哲学家进一步研究这一丰富而重要主题的工作。
 
-* [1. 生平](https://plato.stanford.edu/entries/berlin/#Life)
-* [1.1 知识发展](https://plato.stanford.edu/entries/berlin/#InteDeve)
-* [2. 知识哲学与人文科学](https://plato.stanford.edu/entries/berlin/#PhilKnowHumaScie)
-* [2.1 哲学观念](https://plato.stanford.edu/entries/berlin/#ConcPhil)
-* [2.2 基本命题：认识论、形而上学、逻辑](https://plato.stanford.edu/entries/berlin/#BasiPropEpisMetaLogi)
-* [2.3 科学与人文学科的区别](https://plato.stanford.edu/entries/berlin/#DistBetwNatuHumaScie)
-* [2.4 自由意志与决定论](https://plato.stanford.edu/entries/berlin/#FreeWillDete)
-* [3. 思想的历史](https://plato.stanford.edu/entries/berlin/#HistIdea)
-* [4. 道德思想和价值多元主义](https://plato.stanford.edu/entries/berlin/#EthiThouValuPlur)
-* [4.1 伯林对价值多元主义的定义](https://plato.stanford.edu/entries/berlin/#BerlDefiValuPlur)
-* [4.2 伯林之前的价值多元主义](https://plato.stanford.edu/entries/berlin/#ValuPlurBefoBerl)
-* [4.3 伯林作品中价值多元主义的出现](https://plato.stanford.edu/entries/berlin/#EmerValuPlurBerlWork)
-* [4.4 伯林之后的价值多元主义：一些争议](https://plato.stanford.edu/entries/berlin/#ValuPlurAfteBerlSomeCont)
-* [5. 政治思想](https://plato.stanford.edu/entries/berlin/#PoliThou)
-* [5.1 自由的概念](https://plato.stanford.edu/entries/berlin/#ConcLibe)
-* [5.2 自由与多元主义](https://plato.stanford.edu/entries/berlin/#LibePlur)
-* [5.3 民族主义](https://plato.stanford.edu/entries/berlin/#Nati)
-* [5.4 政治判断和领导](https://plato.stanford.edu/entries/berlin/#PoliJudgLead)
-* [5.4 Political Ethics: Ends, Means, Violence](https://plato.stanford.edu/entries/berlin/#PoliEthiEndsMeanViol)
-* [6. 结论](https://plato.stanford.edu/entries/berlin/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/berlin/#Bib)
-* [A. 以赛亚·伯林的著作](https://plato.stanford.edu/entries/berlin/#WorkBerl)
-* [B. 关于以赛亚·伯林的书籍](https://plato.stanford.edu/entries/berlin/#BBookAbouBerl)
-* [C. 其他引用的作品](https://plato.stanford.edu/entries/berlin/#COtheWorkCite)
-* [学术工具](https://plato.stanford.edu/entries/berlin/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/berlin/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/berlin/#Rel)
+
 
 ***
 

@@ -4,17 +4,6 @@ _首次发表于 2009 年 2 月 23 日；实质性修订于 2022 年 1 月 28 �
 
 在某种程度上，学者们对希腊文献在阿拉伯和伊斯兰哲学（以下简称_falsafa_，即希腊文献的阿拉伯借词φιλοσοφία）中的作用存在争议\[[1](https://plato.stanford.edu/entries/arabic-islamic-greek/notes.html#note-1)]。尽管承认希腊遗产的存在，那些认为《古兰经》和伊斯兰传统是_falsafa_的主要灵感来源的人声称，后者并非源于受过良好教育的穆斯林与希腊哲学遗产的交流：相反，根据他们的观点，_falsafa_源于《古兰经》中的“智慧”（_hikma_）。因此，翻译的希腊文本被看作是哲学家们寻求智慧的工具\[[2](https://plato.stanford.edu/entries/arabic-islamic-greek/notes.html#note-2)]。然而，大多数学者经常支持这样的观点，即导致_falsafa_知识传统形成的是所谓的希腊文献翻译运动\[[3](https://plato.stanford.edu/entries/arabic-islamic-greek/notes.html#note-3)]。本文不讨论这个问题，更不用说试图解决它：它将限制自己介绍从希腊文献翻译成阿拉伯语开始到 10 世纪末期的哲学希腊文献来源。之所以专注于希腊遗产吸收的不同阶段，而不是逐一考虑阿拉伯读者所知的柏拉图、亚里士多德等作品\[[4](https://plato.stanford.edu/entries/arabic-islamic-greek/notes.html#note-4)]，是因为了解不同时期的翻译情况是有用的。事实上，在_falsafa_的形成时期，阿拉伯语哲学家的著作与希腊文献来源之间发生了活跃的相互作用。对_falsafa_的发展具有重要意义的是亚里士多德的《形而上学》和《天体论》，亚历山大·阿弗罗迪西亚斯的一些著作（大部分是宇宙学的性质），普罗克洛斯的《恩尼阿德》第四至第六篇，以及《神学要素》。第一位_faylasuf_阿尔-坎迪开始将亚里士多德、亚里士多德学派和新柏拉图主义的教义融入其中，并在他的哲学著作中加以复制。随后，由另一代翻译家提供的完整的亚里士多德文集的知识，虽然没有从根本上改变这一局面，但产生了不同的方法。亚里士多德的科学作为一个系统整体，以演绎为规则，并与欧几里得、托勒密、希波克拉底和伽利略一起提供，为阿尔法拉比建立起一个高等教育课程的项目铺平了道路，该项目旨在将伊斯兰本土科学纳入更广泛的自由艺术和哲学科学体系中。在坎迪时代亚里士多德和新柏拉图主义传统的相互交融以及在法拉比的哲学家国王教育课程的光辉背景下，阿维森纳的计划提供了从逻辑到哲学神学的演绎科学的_summa_，作为灵魂返回其起源，即可理解的领域的必要步骤（Endress 2006）。两个世纪后翻译时代结束时，当阿维罗伊斯重新开始建立演绎科学的整体系统时，他利用了阿拉伯翻译中的希腊文献来源，这些来源在穆斯林西方地区是可获得的，主要是亚里士多德及其评论家\[[5](https://plato.stanford.edu/entries/arabic-islamic-greek/notes.html#note-5)]。
 
-* [1. 叙利亚背景](https://plato.stanford.edu/entries/arabic-islamic-greek/#SyrBac)
-* [2. 早期阿拉伯翻译](https://plato.stanford.edu/entries/arabic-islamic-greek/#EarTraAra)
-* [3. "阿尔金迪的圆圈"的翻译：亚里士多德、新柏拉图主义传统和](https://plato.stanford.edu/entries/arabic-islamic-greek/#TraCirAlKinAriNeoTraRisFal)​\*[falsafa](https://plato.stanford.edu/entries/arabic-islamic-greek/#TraCirAlKinAriNeoTraRisFal)\*​[的兴起。](https://plato.stanford.edu/entries/arabic-islamic-greek/#TraCirAlKinAriNeoTraRisFal)
-* [4. 侯赛因·伊本·伊萨克、他的儿子伊萨克及其合作者的翻译：亚里士多德全集和亚历山大·阿弗罗迪西亚斯的宇宙。](https://plato.stanford.edu/entries/arabic-islamic-greek/#TraHunIbnIshHisSonIshTheAssComAriCorAleAphUni)
-* [5. 阿布·比什尔·马塔·伊本·尤努斯、亚哈亚·伊本·阿迪和巴格达的亚里士多德学派的翻译：布伊德时代的“人文主义”。](https://plato.stanford.edu/entries/arabic-islamic-greek/#TraAbuBisMatIbnYunYahIbnAdiBagAriHumBuyAge)
-* [参考文献](https://plato.stanford.edu/entries/arabic-islamic-greek/#Bib)
-* [缩写](https://plato.stanford.edu/entries/arabic-islamic-greek/#Abb)
-* [参考资料](https://plato.stanford.edu/entries/arabic-islamic-greek/#Ref)
-* [学术工具](https://plato.stanford.edu/entries/arabic-islamic-greek/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/arabic-islamic-greek/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/arabic-islamic-greek/#Rel)
 
 ***
 

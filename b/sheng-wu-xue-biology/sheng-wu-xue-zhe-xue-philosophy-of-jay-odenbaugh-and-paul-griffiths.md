@@ -8,19 +8,6 @@ _首次发表于 2008 年 7 月 4 日；实质性修订于 2020 年 6 月 1 日_
 
 生物学哲学还可以根据其所涉及的生命科学领域进行细分。生物学是一组非常多样化的学科，涵盖了从古生物学到生物技术等工程科学的各个领域。每个领域都存在不同的哲学问题。文章的后半部分讨论了哲学家如何处理生物学的一些主要学科。
 
-* [1. 生物学哲学的前史](https://plato.stanford.edu/entries/biology-philosophy/#PreHistPhilBiol)
-* [2. 生物学哲学的三种类型](https://plato.stanford.edu/entries/biology-philosophy/#ThreTypePhilBiol)
-* [3. 进化生物学的哲学](https://plato.stanford.edu/entries/biology-philosophy/#PhilEvolBiol)
-* [4. 生物学哲学系统](https://plato.stanford.edu/entries/biology-philosophy/#PhilSystBiol)
-* [5. Philosophy of Molecular Biology](https://plato.stanford.edu/entries/biology-philosophy/#PhilMoleBiol)
-* [6. 生物学哲学发展](https://plato.stanford.edu/entries/biology-philosophy/#PhilDeveBiol)
-* [7. 生态学和保护生物学的哲学](https://plato.stanford.edu/entries/biology-philosophy/#PhilEcolConsBiol)
-* [8. 生物学哲学中的方法论和未来方向](https://plato.stanford.edu/entries/biology-philosophy/#MethPhilBiolFutuDire)
-* [参考文献](https://plato.stanford.edu/entries/biology-philosophy/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/biology-philosophy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/biology-philosophy/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/biology-philosophy/#Rel)
-
 ***
 
 ## 1. 生物学哲学的前史

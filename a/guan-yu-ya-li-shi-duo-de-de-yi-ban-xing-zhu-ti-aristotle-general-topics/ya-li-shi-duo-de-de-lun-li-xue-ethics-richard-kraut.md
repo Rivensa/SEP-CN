@@ -4,42 +4,6 @@ _首次发表于 2001 年 5 月 1 日；实质性修订于 2022 年 7 月 2 日_
 
 亚里士多德将伦理学理论构想为与理论科学不同的领域。它的方法论必须与其主题——善行——相匹配，并且必须尊重这个领域中许多概括只在大部分情况下成立的事实。我们研究伦理学是为了改善我们的生活，因此它的主要关注点是人类幸福的本质。亚里士多德继承苏格拉底和柏拉图的观点，认为美德对于过上美好生活至关重要。像柏拉图一样，他将伦理美德（正义、勇气、节制等等）视为复杂的理性、情感和社交技能。但他反对柏拉图的观点，即要完全具备美德，必须通过科学、数学和哲学的培训来理解什么是善。为了过上美好生活，我们需要适当地理解友谊、快乐、美德、荣誉和财富等诸多好处是如何作为一个整体相互关联的。为了将这种一般的理解应用于具体情况，我们必须通过适当的教养和习惯，获得能够在每个场合下看清哪种行动方式最有理由支持的能力。因此，正如他所构想的那样，实践智慧不能仅通过学习一般规则来获得。我们还必须通过实践获得那些决策、情感和社交技能，使我们能够将对幸福的一般理解以适合每个场合的方式付诸实践。
 
-* [1. Preliminaries（前言）](https://plato.stanford.edu/entries/aristotle-ethics/#Prel)
-* [2. The Human Good and the Function Argument（人类的善和功能论证）](https://plato.stanford.edu/entries/aristotle-ethics/#HumaGoodFuncArgu)
-* [3. 方法论](https://plato.stanford.edu/entries/aristotle-ethics/#Meth)
-* [3.1 传统美德和怀疑论者](https://plato.stanford.edu/entries/aristotle-ethics/#TradVirtSkep)
-* [3.2 与柏拉图的差异和亲和性](https://plato.stanford.edu/entries/aristotle-ethics/#DiffAffiPlat)
-* [4. 美德和缺陷，节制和无节制](https://plato.stanford.edu/entries/aristotle-ethics/#VirtDefiContInco)
-* [5. 中庸之道](https://plato.stanford.edu/entries/aristotle-ethics/#DoctMean)
-* [5.1 道德美德作为性格](https://plato.stanford.edu/entries/aristotle-ethics/#EthiVirtDisp)
-* [5.2 伦理学理论不提供决策程序](https://plato.stanford.edu/entries/aristotle-ethics/#EthiTheoDoesNotOffeDeciProc)
-* [5.3 实践推理的起点](https://plato.stanford.edu/entries/aristotle-ethics/#StarPoinForPracReas)
-* [6. 智慧美德](https://plato.stanford.edu/entries/aristotle-ethics/#InteVirt)
-* [7. ](https://plato.stanford.edu/entries/aristotle-ethics/#Akra)​\*[无意志](https://plato.stanford.edu/entries/aristotle-ethics/#Akra)\*
-* [8. 快乐](https://plato.stanford.edu/entries/aristotle-ethics/#Plea)
-* [9. 友谊](https://plato.stanford.edu/entries/aristotle-ethics/#Frie)
-* [10. 三种生活的比较](https://plato.stanford.edu/entries/aristotle-ethics/#ThreLiveComp)
-* [术语表](https://plato.stanford.edu/entries/aristotle-ethics/#Glos)
-* [进一步阅读](https://plato.stanford.edu/entries/aristotle-ethics/#FurtRead)
-* [A. Single-Authored Overviews](https://plato.stanford.edu/entries/aristotle-ethics/#SingAuthOver)
-* [B. Anthologies](https://plato.stanford.edu/entries/aristotle-ethics/#BAnth)
-* [C. Studies of Particular Topics](https://plato.stanford.edu/entries/aristotle-ethics/#CStudPartTopi)
-* [C.1 亚里士多德伦理著作的时间顺序](https://plato.stanford.edu/entries/aristotle-ethics/#C1ChroOrdeArisEthiTrea)
-* [C.2 伦理理论的方法论和形而上学](https://plato.stanford.edu/entries/aristotle-ethics/#C2MethMetaEthiTheo)
-* [C.3 人类的善和人类的功能](https://plato.stanford.edu/entries/aristotle-ethics/#C3HumaGoodHumaFunc)
-* [C.4 美德的本质和特定美德的解释](https://plato.stanford.edu/entries/aristotle-ethics/#C4NatuVirtAccoPartVirt)
-* [C.5 实践推理、道德心理学和行动](https://plato.stanford.edu/entries/aristotle-ethics/#C5PracReasMoraPsycActi)
-* [C.6 快乐](https://plato.stanford.edu/entries/aristotle-ethics/#C6Plea)
-* [C.7 友谊](https://plato.stanford.edu/entries/aristotle-ethics/#C7Frie)
-* [C.8 女权主义和亚里士多德](https://plato.stanford.edu/entries/aristotle-ethics/#C8FemiAris)
-* [C.9 亚里士多德与当代伦理学](https://plato.stanford.edu/entries/aristotle-ethics/#C9ArisContEthi)
-* [D. Bibliographies](https://plato.stanford.edu/entries/aristotle-ethics/#DBibl)
-* [Bibliography](https://plato.stanford.edu/entries/aristotle-ethics/#Bib)
-* [Primary Literature](https://plato.stanford.edu/entries/aristotle-ethics/#PrimLite) \* [D. 参考书目](https://plato.stanford.edu/entries/aristotle-ethics/#DBibl)
-* [次级文献](https://plato.stanford.edu/entries/aristotle-ethics/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/aristotle-ethics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aristotle-ethics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aristotle-ethics/#Rel)
 
 ***
 

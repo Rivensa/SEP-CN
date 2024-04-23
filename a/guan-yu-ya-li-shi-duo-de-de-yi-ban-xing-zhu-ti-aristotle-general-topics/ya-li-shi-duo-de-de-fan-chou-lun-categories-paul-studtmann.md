@@ -8,25 +8,6 @@ _首次发表于 2007 年 9 月 7 日；实质性修订于 2021 年 2 月 2 日_
 
 鉴于专家对亚里士多德的《范畴论》甚至最基本方面的意见分歧，不可避免地，试图对其基本立场进行中立描述的尝试将被一些学者视为错误的，甚至可能是严重错误的。可以尝试通过评论每个学术辩论和观点来解决这个问题，但这样的项目将无法展现亚里士多德范畴主义最引人注目的特点。因此，在接下来的内容中，我将采取不同的方式。首先，我将以一种自然但可能过于简化的方式解释亚里士多德范畴方案的主要结构，同时暂停一下，注意一些特别有争议的观点。然后，我将讨论一个关于范畴的重要学术和哲学辩论，即亚里士多德是否通过某种系统的程序生成了他著名的列表。这场辩论之所以有趣，很大程度上是因为它涉及到最基本的形而上学主题之一：什么是正确的范畴系统？我最终并不关心提出亚里士多德《范畴论》的“正确”解释。相反，我只希望为这部永远迷人的作品的内容提供一个有用的介绍。
 
-* [1. 四分法](https://plato.stanford.edu/entries/aristotle-categories/#FouFolDiv)
-* [1.1 非所说及非所在](https://plato.stanford.edu/entries/aristotle-categories/#NotSaiNotPre)
-* [1.2 非所说及所在](https://plato.stanford.edu/entries/aristotle-categories/#NotSaiPre)
-* [1.3 说及和不在场](https://plato.stanford.edu/entries/aristotle-categories/#SaiNotPre)
-* [1.4 说及和在场](https://plato.stanford.edu/entries/aristotle-categories/#SaiPre)
-* [1.5 最近的辩论](https://plato.stanford.edu/entries/aristotle-categories/#RecDeb)
-* [2. 十类划分](https://plato.stanford.edu/entries/aristotle-categories/#TenFolDiv)
-* [2.1 总体讨论](https://plato.stanford.edu/entries/aristotle-categories/#GenDis)
-* [2.2 详细讨论](https://plato.stanford.edu/entries/aristotle-categories/#DetDis)
-* [2.2.1 Substance](https://plato.stanford.edu/entries/aristotle-categories/#Sub)
-* [2.2.2 Quantity](https://plato.stanford.edu/entries/aristotle-categories/#Qua)
-* [2.2.3 Relatives](https://plato.stanford.edu/entries/aristotle-categories/#Relatives) \* [2.2.1 实体](https://plato.stanford.edu/entries/aristotle-categories/#Sub)
-* [2.2.4 质量](https://plato.stanford.edu/entries/aristotle-categories/#Quality)
-* [3. 范畴的起源](https://plato.stanford.edu/entries/aristotle-categories/#WheCat)
-* [4. 最近的研究](https://plato.stanford.edu/entries/aristotle-categories/#RecWor)
-* [参考文献](https://plato.stanford.edu/entries/aristotle-categories/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/aristotle-categories/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aristotle-categories/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aristotle-categories/#Rel)
 
 ***
 

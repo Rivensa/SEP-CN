@@ -8,14 +8,7 @@ _首次发表于 2003 年 3 月 26 日星期三；实质性修订于 2020 年 2 
 
 在哲学上，他的心血之作是直观主义，这是数学的一种修正基础。直观主义将数学视为思维的自由活动，独立于任何语言或柏拉图对象领域，并因此将数学基础建立在心灵哲学之上。其含义是双重的。首先，它导致了一种建设性数学形式，其中拒绝了古典数学的大部分内容。其次，对心灵哲学的依赖引入了古典数学以及其他形式的建设性数学所缺乏的特征：与那些不同，直观主义数学不是古典数学的一个适当部分。
 
-* [1. 人](https://plato.stanford.edu/entries/brouwer/#Per)
-* [2. 年表](https://plato.stanford.edu/entries/brouwer/#Chr)
-* [3. 布劳威尔直觉主义简要特征](https://plato.stanford.edu/entries/brouwer/#Bri)
-* [4. 勒伊岑·艾赫贝特斯·扬·布劳威尔的直觉主义发展](https://plato.stanford.edu/entries/brouwer/#Bro)
-* [参考文献](https://plato.stanford.edu/entries/brouwer/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/brouwer/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/brouwer/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/brouwer/#Rel)
+
 
 ***
 

@@ -4,17 +4,6 @@ _首次发表于 2011 年 2 月 17 日星期四；实质性修订于 2023 年 3 
 
 佛陀（约公元前 450 年）是其教导构成佛教传统基础的个人。这些教导保存在被称为《尼柯耶》或《阿含经》的文本中，涉及对从痛苦中解脱的追求。虽然佛陀教导的最终目标是帮助个体获得美好生活，但他对痛苦根源的分析主要涉及有关人的本质以及我们如何获取关于世界及我们在其中的位置的知识的主张。这些教导构成了一个哲学传统的基础，该传统发展并捍卫了形形色色的形而上学和认识论理论。
 
-* [1. 佛陀作为哲学家](https://plato.stanford.edu/entries/buddha/#BuddPhil)
-* [2. 核心教导](https://plato.stanford.edu/entries/buddha/#CoreTeac)
-* [3. 非我](https://plato.stanford.edu/entries/buddha/#NonSelf)
-* [4. 因果与轮回](https://plato.stanford.edu/entries/buddha/#KarmRebi)
-* [5. 对理性的态度](https://plato.stanford.edu/entries/buddha/#AttiTowaReas)
-* [参考文献](https://plato.stanford.edu/entries/buddha/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/buddha/#PrimSour)
-* [次要来源](https://plato.stanford.edu/entries/buddha/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/buddha/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/buddha/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/buddha/#Rel)
 
 ***
 

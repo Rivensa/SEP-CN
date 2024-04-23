@@ -4,32 +4,7 @@ _首次发表于 2015 年 3 月 17 日；实质性修订于 2021 年 12 月 8 �
 
 杰里米·边沁，法学家和政治改革者，是与现代功利主义传统的基础时代最紧密相关的哲学家。早期的道德家们已经阐述了功利主义哲学的几个核心思想和特征性术语，尤其是约翰·盖伊、弗朗西斯·哈奇森、大卫·休谟、克洛德-阿德里安·埃尔韦修斯和切萨雷·贝卡里亚，但是边沁将这一理论呈现为其可识别的世俗和系统形式，并将其作为道德和法律哲学以及政治和社会改进的关键工具。1776 年，他首次在《政府片段》中宣布自己是功利主义的支持者，将功利主义作为行为和法律的指导原则。在《道德和立法原理导论》（1780 年印刷，1789 年出版）中，作为发展刑法理论的前提，他详细阐述了古典功利主义理论的基本要素。刑法典将成为构成功利主义“全法典”的一系列法典中的第一个，这一发展将使边沁投入终身的工作，并包括民事、诉讼和宪法法律。作为副产品，在这个庞大的立法建筑的子法典之间的空隙中，边沁的著作涉及伦理学、本体论、逻辑学、政治经济学、司法管理、贫困法改革、监狱改革、惩罚、警务、国际法、教育、宗教信仰和机构、民主理论、政府和行政。在所有这些领域，他都做出了重大贡献，这些贡献继续在功利主义的讨论中发挥重要作用，尤其是在道德、法律、经济和政治形式方面。正是基于这一点，边沁被誉为现代哲学中的伟大思想家之一。
 
-* [1. 生平与著作](https://plato.stanford.edu/entries/bentham/#LifWri)
-* [2. 哲学基础](https://plato.stanford.edu/entries/bentham/#PhiFou)
-* [3. 痛苦和快乐](https://plato.stanford.edu/entries/bentham/#PaiPle)
-* [3.1 利益](https://plato.stanford.edu/entries/bentham/#Int)
-* [3.2 快乐计算](https://plato.stanford.edu/entries/bentham/#FelCal)
-* [3.3 Diminishing Marginal Utility](https://plato.stanford.edu/entries/bentham/#DimMarUti)
-* [4. 后来的改进](https://plato.stanford.edu/entries/bentham/#LatImp)
-* [4.1 防止失望原则](https://plato.stanford.edu/entries/bentham/#DisPrePri)
-* [4.2 最大幸福原则](https://plato.stanford.edu/entries/bentham/#GreHapPri)
-* [4.3 Universal Interest](https://plato.stanford.edu/entries/bentham/#UniInt)
-* [5. 下级目标、原则和格言](https://plato.stanford.edu/entries/bentham/#SubEndPriMax)
-* [6. 民法和政治经济学](https://plato.stanford.edu/entries/bentham/#CivLawPolEco)
-* [7. 刑法和惩罚](https://plato.stanford.edu/entries/bentham/#PenLawPun)
-* [8. 全视监狱](https://plato.stanford.edu/entries/bentham/#Pan)
-* [9. 行政、政府、宪法法律](https://plato.stanford.edu/entries/bentham/#AdmGovConLaw)
-* [9.1 Securities Against Misrule](https://plato.stanford.edu/entries/bentham/#SecAgaMis)
-* [9.2 主权](https://plato.stanford.edu/entries/bentham/#Sov)
-* [9.3 公众舆论法庭](https://plato.stanford.edu/entries/bentham/#PubOpiTri)
-* [10. 影响力](https://plato.stanford.edu/entries/bentham/#Inf)
-* [11. 批评家和评论家](https://plato.stanford.edu/entries/bentham/#CriCom)
-* [参考文献](https://plato.stanford.edu/entries/bentham/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/bentham/#PriSou)
-* [次要来源](https://plato.stanford.edu/entries/bentham/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/bentham/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/bentham/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bentham/#Rel)
+
 
 ***
 

@@ -6,30 +6,7 @@
 
 这些问题在理论伦理学和应用伦理学中产生了大量关于行善的文献。在理论伦理学中，近年来的主要问题是如何限制行善的范围。在应用伦理学和职业伦理学中，一些问题已经在生物医学伦理学和商业伦理学领域得到了处理。
 
-* [1. 行善和仁爱的概念](https://plato.stanford.edu/entries/principle-beneficence/#ConcBeneBene)
-* [2. 行善在伦理学史上的地位](https://plato.stanford.edu/entries/principle-beneficence/#PlacBeneHistEthiTheo)
 
-  * [ 2.1 休谟的理论](https://plato.stanford.edu/entries/principle-beneficence/#HumeTheo)
-  * [ 2.2 密尔的理论](https://plato.stanford.edu/entries/principle-beneficence/#MillTheo)
-  * [ 2.3 康德的理论](https://plato.stanford.edu/entries/principle-beneficence/#KantTheo)
-* [3. 行善行为是义务性的还是仅仅是道德理想？](https://plato.stanford.edu/entries/principle-beneficence/#BeneActiObliMereMoraIdea)
-* [4. 过度苛求的行善问题](https://plato.stanford.edu/entries/principle-beneficence/#ProbOverDemaBene)
-* [5. 限制自由的行善：利益家长式干预问题](https://plato.stanford.edu/entries/principle-beneficence/#LibeLimiBeneProbBenePate)
-* [6. 行善在生物医学伦理中](https://plato.stanford.edu/entries/principle-beneficence/#BeneBiomEthi)
-
-  * [6.1 生物医学研究伦理](https://plato.stanford.edu/entries/principle-beneficence/#BiomReseEthi)
-  * [6.2 医学的目的](https://plato.stanford.edu/entries/principle-beneficence/#EndsMedi)
-  * [6.3 医疗保健中的伤害和益处](https://plato.stanford.edu/entries/principle-beneficence/#HarmBeneHealCare)
-  * [6.4 社会行善与公共政策](https://plato.stanford.edu/entries/principle-beneficence/#SociBenePublPoli)
-  * [6.5 社会行善与社会正义](https://plato.stanford.edu/entries/principle-beneficence/#SociBeneSociJust)
-* [7. 行善在商业伦理中](https://plato.stanford.edu/entries/principle-beneficence/#BeneBusiEthi)
-
-  * [7.1 公司行善](https://plato.stanford.edu/entries/principle-beneficence/#CorpBene)
-  * [7.2 公司利益-家长式管理](https://plato.stanford.edu/entries/principle-beneficence/#CorpBenePate)
-* [ 参考文献](https://plato.stanford.edu/entries/principle-beneficence/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/principle-beneficence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/principle-beneficence/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/principle-beneficence/#Rel)
 
 ---
 

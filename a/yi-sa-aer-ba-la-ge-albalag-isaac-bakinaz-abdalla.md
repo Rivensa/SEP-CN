@@ -4,29 +4,6 @@ _首次发布于 2020 年 8 月 20 日_
 
 以撒·阿尔巴拉格是犹太亚维罗主义学派的最严谨代表之一，该学派在 13 世纪的西欧繁荣发展，并延续至文艺复兴时期。该学派的成员，如伊本·卡斯皮、舍姆·托夫·伊本·法拉克拉、摩西·纳尔博尼、以撒·波尔卡尔、格尔索尼德斯和伊莱贾·德尔梅迪戈，将亚维罗斯的哲学著作，尤其是他对亚里士多德的评论，视为科学和哲学研究的主要来源。亚维罗斯对这些哲学家的影响，虽然各有不同，但延伸到了宗教和哲学之间的关系问题。许多犹太哲学家借鉴亚维罗斯的宗教认识论，将犹太教解释为一种哲学宗教，即将圣经和演绎科学视为不同的真理表达方式而非相互冲突的真理。这种哲学宗教的观点可以说是由著名犹太哲学家梅蒙尼德（1204 年逝世）所倡导的。与大多数犹太亚维罗主义者一样，阿尔巴拉格专注于物理学、形而上学和认识论等纯粹哲学问题，并通过亚维罗斯的视角来探讨这些问题。阿尔巴拉格特点是对亚里士多德持无保留的钦佩和忠诚，他认为亚里士多德的教导与真理相等，并在亚维罗斯的著作中发现了这一点。恢复亚里士多德主义并在犹太哲学学生中确立它成为阿尔巴拉格哲学事业的关键目标。在这一事业框架下，阿尔巴拉格还探讨了犹太教和哲学之间的关系问题，并通过提倡双重真理学说来独特回答这个问题。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/albalag/#LifeWork)
-* [2. 逻辑](https://plato.stanford.edu/entries/albalag/#Logi)
-* [3. 认识论](https://plato.stanford.edu/entries/albalag/#Epis)
-* [3.1 知识、信念和智力完善](https://plato.stanford.edu/entries/albalag/#KnowBeliIntePerf)
-* [3.2 人类知识：手段和限制](https://plato.stanford.edu/entries/albalag/#HumaKnowMeanLimi)
-* [4. 存在的概念和上帝的存在](https://plato.stanford.edu/entries/albalag/#ConcBeinGodsExis)
-* [5. 上帝与世界的关系](https://plato.stanford.edu/entries/albalag/#GodWorlRela)
-* [5.1 世界的起源](https://plato.stanford.edu/entries/albalag/#OrigWorl)
-* [5.2 神的意愿](https://plato.stanford.edu/entries/albalag/#DiviWill)
-* [5.3 神圣知识](https://plato.stanford.edu/entries/albalag/#DiviKnow)
-* [5.4 决定论问题](https://plato.stanford.edu/entries/albalag/#ProbDete)
-* [6. 宇宙学](https://plato.stanford.edu/entries/albalag/#Cosm)
-* [7. 天体运动](https://plato.stanford.edu/entries/albalag/#CeleMoti)
-* [8. 宗教与哲学的关系](https://plato.stanford.edu/entries/albalag/#RelaBetwReliPhil)
-* [9. 预言理论](https://plato.stanford.edu/entries/albalag/#TheoProp)
-* [10. 政治思想](https://plato.stanford.edu/entries/albalag/#PoliThou)
-* [11. 结论](https://plato.stanford.edu/entries/albalag/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/albalag/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/albalag/#PrimSour)
-* [次级来源](https://plato.stanford.edu/entries/albalag/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/albalag/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/albalag/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/albalag/#Rel)
 
 ***
 

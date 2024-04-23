@@ -4,20 +4,6 @@ _首次发表于 2009 年 7 月 21 日；实质性修订于 2022 年 5 月 30 �
 
 伊丽莎白·安斯康姆是二十世纪最重要的哲学家之一。她涉猎的主题异常广泛，包括整个哲学史（古代、中世纪、现代、近代）、形而上学、认识论、语言哲学、心灵哲学/心理学、行动哲学、道德哲学、政治哲学和宗教哲学。因此，本文将不得不进行非常有选择性的介绍。尽管她的作品常常晦涩难懂，但它对行动理论、道德哲学和心灵哲学领域的哲学家产生了巨大的影响。和她的导师路德维希·维特根斯坦的作品一样，研究安斯康姆的作品需要经过反复的学习和探索才能产生洞见。
 
-* [1. 生平](https://plato.stanford.edu/entries/anscombe/#Lif)
-* [2. 道德和政治哲学](https://plato.stanford.edu/entries/anscombe/#MoPoPh)
-* [3. 形而上学](https://plato.stanford.edu/entries/anscombe/#Met)
-* [4. 行动理论](https://plato.stanford.edu/entries/anscombe/#ActThe)
-* [5. 知觉哲学](https://plato.stanford.edu/entries/anscombe/#PhoP)
-* [6. 证词](https://plato.stanford.edu/entries/anscombe/#Testimony)
-* [7. 结论](https://plato.stanford.edu/entries/anscombe/#Con)
-* [参考文献](https://plato.stanford.edu/entries/anscombe/#Bib)
-* [安斯康姆的著作](https://plato.stanford.edu/entries/anscombe/#PriLit)
-* [安斯康姆的翻译](https://plato.stanford.edu/entries/anscombe/#TraAns)
-* [总体参考书目](https://plato.stanford.edu/entries/anscombe/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/anscombe/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/anscombe/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/anscombe/#Rel)
 
 ***
 

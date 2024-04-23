@@ -4,20 +4,7 @@ _首次发布于 2017 年 8 月 2 日；实质性修订于 2022 年 3 月 22 日
 
 本文的目的是探讨无神论和不可知论与有神论以及彼此之间的关系。这需要对如何最好地定义“无神论”和“不可知论”这两个术语进行令人惊讶的争议性讨论。至少在本文的目的上解决这个问题将为讨论全球无神论和局部无神论之间的重要区别奠定基础，这进而有助于区分不同形式的不可知论。接下来将对一种支持适度形式的不可知论的论证进行考察，然后讨论三种支持无神论的论证以及一种反对更雄心勃勃的不可知论的论证。
 
-* [1. “无神论”的定义](https://plato.stanford.edu/entries/atheism-agnosticism/#DefiAthe)
-* [2. "不可知论"的定义](https://plato.stanford.edu/entries/atheism-agnosticism/#DefiAgno)
-* [3. 全球无神论与地方无神论](https://plato.stanford.edu/entries/atheism-agnosticism/#GlobAtheVersLocaAthe)
-* [4. 无神论的论证](https://plato.stanford.edu/entries/atheism-agnosticism/#ArguForAgno)
-* [5. 全球无神论的论证？](https://plato.stanford.edu/entries/atheism-agnosticism/#ArguForGlobAthe)
-* [6. 本地无神论的两个论证](https://plato.stanford.edu/entries/atheism-agnosticism/#TwoArguForLocaAthe)
-* [6.1 如何为本地无神论辩护](https://plato.stanford.edu/entries/atheism-agnosticism/#HowArguForLocaAthe)
-* [6.2 低先验概率论证](https://plato.stanford.edu/entries/atheism-agnosticism/#LowPrioArgu)
-* [6.3 决定性证据论证](https://plato.stanford.edu/entries/atheism-agnosticism/#DeciEvidArgu)
-* [7. 反对不可知论的论证](https://plato.stanford.edu/entries/atheism-agnosticism/#ArguAgaiAgno)
-* [参考文献](https://plato.stanford.edu/entries/atheism-agnosticism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/atheism-agnosticism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/atheism-agnosticism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/atheism-agnosticism/#Rel)
+
 
 ***
 

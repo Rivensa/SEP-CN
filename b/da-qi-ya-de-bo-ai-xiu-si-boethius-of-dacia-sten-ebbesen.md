@@ -4,36 +4,6 @@ _首次发布于 2020 年 9 月 7 日_
 
 达契亚的波爱修斯是巴黎艺术学院的一位杰出哲学家，大约在 1270 年至 1275 年期间活跃。他发展了亚里士多德的知识领域自主性的观念，以一种能够证明亚里士多德式的自然科学和伦理学的方式，尽管与揭示真理存在分歧。他还对现在被称为“modism”的语言理论做出了重要贡献。
 
-* [1. 生平和与前辈的关系](https://plato.stanford.edu/entries/boethius-dacia/#LifeRelaPred)
-* [1.1 生平](https://plato.stanford.edu/entries/boethius-dacia/#Life)
-* [1.2 前辈和同时代人的关系](https://plato.stanford.edu/entries/boethius-dacia/#RelaPredCont)
-* [2. 作品](https://plato.stanford.edu/entries/boethius-dacia/#Work)
-* [语法](https://plato.stanford.edu/entries/boethius-dacia/#Gram)
-* [逻辑](https://plato.stanford.edu/entries/boethius-dacia/#Logi)
-* [自然哲学](https://plato.stanford.edu/entries/boethius-dacia/#NatuPhil)
-* [形而上学](https://plato.stanford.edu/entries/boethius-dacia/#Meta)
-* [伦理学](https://plato.stanford.edu/entries/boethius-dacia/#Ethi)
-* [修辞学](https://plato.stanford.edu/entries/boethius-dacia/#Rhet)
-* [3. 哲学](https://plato.stanford.edu/entries/boethius-dacia/#Phil)
-* [3.1 本体论](https://plato.stanford.edu/entries/boethius-dacia/#Onto)
-* [3.2 Language](https://plato.stanford.edu/entries/boethius-dacia/#Lang)
-* [3.3 科学/知识](https://plato.stanford.edu/entries/boethius-dacia/#Scie)
-* [3.3.1 普遍性](https://plato.stanford.edu/entries/boethius-dacia/#Gene)
-* [3.3.2 科学的自主性](https://plato.stanford.edu/entries/boethius-dacia/#AutoScie)
-* [3.3.3 科学命题的必然性和真实性。Sophisma 测试](https://plato.stanford.edu/entries/boethius-dacia/#NeceTrutSciePropSophTest)
-* [3.4 世界的永恒性](https://plato.stanford.edu/entries/boethius-dacia/#EterWorl)
-* [3.5 占星术和梦境作为未来事件的预测者](https://plato.stanford.edu/entries/boethius-dacia/#AstrDreaPredFutuEven)
-* [3.6 伦理学](https://plato.stanford.edu/entries/boethius-dacia/#Ethi_1)
-* [4. 影响力](https://plato.stanford.edu/entries/boethius-dacia/#Infl)
-* [5. 文学](https://plato.stanford.edu/entries/boethius-dacia/#Lite)
-* [参考文献](https://plato.stanford.edu/entries/boethius-dacia/#Bib)
-* [版本参见](https://plato.stanford.edu/entries/boethius-dacia/#EditSee)
-* [翻译](https://plato.stanford.edu/entries/boethius-dacia/#Tran)
-* [二次文献](https://plato.stanford.edu/entries/boethius-dacia/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/boethius-dacia/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/boethius-dacia/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/boethius-dacia/#Rel)
-
 ***
 
 ## 1. 生平和与前辈的关系

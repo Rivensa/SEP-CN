@@ -4,32 +4,6 @@ _首次发表于 2006 年 7 月 27 日；实质性修订于 2024 年 2 月 12 �
 
 汉娜·阿伦特（1906-1975）是二十世纪最有影响力的政治哲学家之一。她出生在一个德国犹太家庭，被迫于 1933 年离开德国，在接下来的八年里居住在巴黎，为一些犹太难民组织工作。1941 年，她移民到美国，并很快成为纽约一个活跃的知识界圈子的一部分。她在美国的各个大学担任过多个学术职位，直到 1975 年去世。她最著名的作品有三部，对学术界内外都产生了重大影响。第一部是 1951 年出版的《极权主义的起源》，这是一部研究纳粹和斯大林主义政权的著作，引发了关于极权现象的本质和历史先例的广泛讨论。第二部是 1958 年出版的《人的境况》，这是一部原创的哲学研究，探讨了_vita activa_（劳动、工作、行动）的基本范畴。第三部是《耶路撒冷的艾希曼》，报道了一位纳粹主要罪犯的审判，并创造了有争议的“邪恶的平庸”一词。除了这些重要的作品外，阿伦特还发表了许多有影响力的论文，涉及革命的本质、自由、权威、传统和现代时代等主题。在 1975 年去世时，她已经完成了她最后一部重要哲学著作《心灵的生活》的前两卷，该著作探讨了_vita contemplativa_（思考、意愿、判断）的三个基本能力。
 
-* [1. 传略](https://plato.stanford.edu/entries/arendt/#BiogSket)
-* [2. 引言](https://plato.stanford.edu/entries/arendt/#Intr)
-* [3. 阿伦特对极权主义的概念](https://plato.stanford.edu/entries/arendt/#ArenConcTota)
-* [4. 人的境况](https://plato.stanford.edu/entries/arendt/#HumaCond)
-* [4.1 阿伦特对现代性的理解](https://plato.stanford.edu/entries/arendt/#ArenConcMode)
-* [4.2 汉娜·阿伦特的](https://plato.stanford.edu/entries/arendt/#VitaActiLaboWorkActi)​\*[行动生活](https://plato.stanford.edu/entries/arendt/#VitaActiLaboWorkActi)\*​[: 劳动、工作和行动](https://plato.stanford.edu/entries/arendt/#VitaActiLaboWorkActi)
-* [4.3 自由、出生和多元性](https://plato.stanford.edu/entries/arendt/#FreeNataPlur)
-* [4.4 行动、叙事和记忆](https://plato.stanford.edu/entries/arendt/#ActiNarrReme)
-* [4.5 行动与出现的空间](https://plato.stanford.edu/entries/arendt/#ActiSpacAppe)
-* [4.6 行动与权力](https://plato.stanford.edu/entries/arendt/#ActiPowe)
-* [4.7 行动的不可预测性和不可逆转性](https://plato.stanford.edu/entries/arendt/#UnprIrreActi)
-* [5. 汉娜·阿伦特对公民身份的理解](https://plato.stanford.edu/entries/arendt/#ArenConcCiti)
-* [5.1 公民身份与公共领域](https://plato.stanford.edu/entries/arendt/#CitiPublSphe)
-* [5.2 公民身份、行动能力和集体认同](https://plato.stanford.edu/entries/arendt/#CitiAgenCollIden)
-* [6. 智慧的生命及其道德意义](https://plato.stanford.edu/entries/arendt/#LifeMindMoraSign)
-* [6.1 ](https://plato.stanford.edu/entries/arendt/#EichJeruArenRecoEvil)​\*[耶路撒冷的艾希曼](https://plato.stanford.edu/entries/arendt/#EichJeruArenRecoEvil)\*​[: 阿伦特对邪恶的重新构想](https://plato.stanford.edu/entries/arendt/#EichJeruArenRecoEvil)
-* [6.2 思考和判断的道德意义](https://plato.stanford.edu/entries/arendt/#MoraSignThinJudg)
-* [6.3 自我意识、社会压力和自治](https://plato.stanford.edu/entries/arendt/#SelfConsSociPresAuto)
-* [6.4 判断和政治：两种模式](https://plato.stanford.edu/entries/arendt/#JudgPoliTwoMode)
-* [6.5 政治中的观点和真相](https://plato.stanford.edu/entries/arendt/#OpinTrutPoli)
-* [参考文献](https://plato.stanford.edu/entries/arendt/#Bib)
-* [阿伦特的著作](https://plato.stanford.edu/entries/arendt/#WorkAren)
-* [次级文献](https://plato.stanford.edu/entries/arendt/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/arendt/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/arendt/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/arendt/#Rel)
 
 ***
 

@@ -6,22 +6,6 @@
 
 阿毗达磨既是一种独立的文学体裁，也是一种思想和探究的分支，与佛陀的教诲体系（Skt. sūtras，巴利语为 suttas）相对立。与早期佛教教诲以口语为特点不同，阿毗达磨方法以技术术语呈现佛陀的教诲，这些术语经过精确定义以确保分析的准确性。在内容上，阿毗达磨在努力提供佛教修行的理论对应物，更广泛地说，是对有情众生体验的系统性描述。它通过将意识体验（在这里称为 dharmas/dhammas）分析为其组成的心理和物理事件（Skt. dharmā，巴利语为 dhammā）来实现这一目标。这种将 dharmas 分析为多个类别，并通过它们的多样的因果关系将其综合为一个统一结构的总体探究被称为“法理论”。对 dharmas 性质和相互作用的详尽研究延伸到形而上学、认识论和本体论领域，并在不同佛教学派之间引发了教义争议。阿毗达磨对这些争议的分析和论证方法为中观派和瑜伽行派的大乘佛教提供了参考框架，并定义了其议程。因此，作为一个独特的教义运动，阿毗达磨对后来的佛教思想产生了显著影响，并催生了佛教系统哲学和解释学。
 
-* [1. 阿毗达摩：其起源和文本](https://plato.stanford.edu/entries/abhidharma/#AbhOriTex)
-
-  * [1.1 文学风格和体裁](https://plato.stanford.edu/entries/abhidharma/#LitStyGen)
-  * [1.2 阿毗达摩释义：从法到法门](https://plato.stanford.edu/entries/abhidharma/#AbhExeDhaDha)
-* [2. 法法分类学：一种经验形而上学](https://plato.stanford.edu/entries/abhidharma/#DhaTaxMetExp)
-* [3. 时间：从无常到瞬间性](https://plato.stanford.edu/entries/abhidharma/#TimImpMom)
-* [4. 内在本质：在分类和本体论之间](https://plato.stanford.edu/entries/abhidharma/#IntNatBetCatOnt)
-* [5. 因果关系：作为功能存在](https://plato.stanford.edu/entries/abhidharma/#CauExiFun)
-* [6. 认识论：感知和意识过程理论](https://plato.stanford.edu/entries/abhidharma/#EpiPerTheConPro)
-* [ 参考文献](https://plato.stanford.edu/entries/abhidharma/#Bib)
-
-  * [ 主要来源](https://plato.stanford.edu/entries/abhidharma/#PriSou)
-  * [ 次要来源](https://plato.stanford.edu/entries/abhidharma/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/abhidharma/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/abhidharma/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/abhidharma/#Rel)
 
 ---
 

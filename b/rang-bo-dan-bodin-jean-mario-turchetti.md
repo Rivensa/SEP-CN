@@ -6,28 +6,7 @@ _首次发表于 2005 年 3 月 25 日；实质性修订于 2018 年 7 月 30 �
 
 在本条目中，我们使用缩写引用博丹的原著及其翻译。这些缩写在参考文献的前两个小节中有定义。例如，《简明历史学方法》将指代拉丁文原著（Methodus ad facilem historiarum cognitionem），而\[Re]将指代 B.雷诺兹于 1945 年翻译的《简明历史学方法》英文版，\[Me]将指代 P.梅斯纳德于 1951 年出版的法文翻译全集。
 
-* [1. Bodin’s Life in Politics and Religion: Concord or Tolerance?](https://plato.stanford.edu/entries/bodin/#BodiLifePoliReliConcTole)
-* [2. 博丹的历史和法律方法论](https://plato.stanford.edu/entries/bodin/#BodiMethHistLaw)
-* [3. 让·博丹的宗教信仰：他相信还是不相信？](https://plato.stanford.edu/entries/bodin/#BodiReliDidHeBeliNot)
-* [4. 让·博丹的政治观：主权还是绝对主义？](https://plato.stanford.edu/entries/bodin/#BodiPoliSoveAbso)
-* [5. 文艺复兴人的文化：经济学、巫术、自然主义](https://plato.stanford.edu/entries/bodin/#CultRenaManEconSorcNatu)
-* [5.1 让·博丹对经济和财政的理论](https://plato.stanford.edu/entries/bodin/#BodiTheoEconFina)
-* [5.2 对恶魔的理论](https://plato.stanford.edu/entries/bodin/#TheoDemo)
-* [5.3 自然主义](https://plato.stanford.edu/entries/bodin/#Natu)
-* [6. 让·博丹的正义：开放和封闭问题](https://plato.stanford.edu/entries/bodin/#JustForBodiOpenClosQues)
-* [6.1 Particular Questions](https://plato.stanford.edu/entries/bodin/#PartQues)
-* [6.2 开放问题](https://plato.stanford.edu/entries/bodin/#OpenQues)
-* [6.3 封闭问题](https://plato.stanford.edu/entries/bodin/#ClosQues)
-* [7. 2013-2018 年的出版物、会议和项目](https://plato.stanford.edu/entries/bodin/#PublConfProj2013)
-* [参考文献](https://plato.stanford.edu/entries/bodin/#Bib)
-* [文中引用的博丹的作品](https://plato.stanford.edu/entries/bodin/#WorkBodiCiteText)
-* [引用的翻译和批判版本](https://plato.stanford.edu/entries/bodin/#TranCritEditCite)
-* [参考书目](https://plato.stanford.edu/entries/bodin/#Bibl)
-* [《共和国》的版本](https://plato.stanford.edu/entries/bodin/#EditComm)
-* [二级文献](https://plato.stanford.edu/entries/bodin/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/bodin/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/bodin/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bodin/#Rel)
+
 
 ***
 

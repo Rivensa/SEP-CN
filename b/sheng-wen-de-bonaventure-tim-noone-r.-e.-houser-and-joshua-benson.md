@@ -4,31 +4,7 @@ _首次发表于 2005 年 11 月 1 日星期二；实质性修订于 2023 年 8 
 
 圣文德·巴格诺雷吉（约公元 1221 年出生，1274 年 7 月 15 日去世）是一位方济各会修士，曾在巴黎大学担任哲学和神学大师，也是方济各会总会长，罗马天主教教会的主教和枢机主教。在他的一生中，他成为拉丁基督教界最杰出的人物之一。圣文德的著作都源自他在巴黎大学学习和教授神学以及担任总会长的经历。在他的著作中，圣文德展示了他的哲学训练，并提出了对后来思想家产生影响的哲学观点。如今，他最为人所知的作品可能是《心灵通向上帝之旅》，这是一部哲学、神学和精神上的经典之作。
 
-* [1. 生平与著作](https://plato.stanford.edu/entries/bonaventure/#LifeWork)
-* [2. 哲学、信仰和神学](https://plato.stanford.edu/entries/bonaventure/#PhilFaitTheo)
-* [3. 物质创造](https://plato.stanford.edu/entries/bonaventure/#PhysCrea)
-* [3.1 物质世界](https://plato.stanford.edu/entries/bonaventure/#PhysWorl)
-* [3.2 创造](https://plato.stanford.edu/entries/bonaventure/#Crea)
-* [3.3 Matter](https://plato.stanford.edu/entries/bonaventure/#Matt)
-* [3.4 Light](https://plato.stanford.edu/entries/bonaventure/#Ligh)
-* [3.5 Seminal reasons](https://plato.stanford.edu/entries/bonaventure/#SemiReas)
-* [3.6 生物](https://plato.stanford.edu/entries/bonaventure/#LiviThin)
-* [3.7 感性认识](https://plato.stanford.edu/entries/bonaventure/#SensCogn)
-* [4. 智性生物](https://plato.stanford.edu/entries/bonaventure/#InteCrea)
-* [5. 神](https://plato.stanford.edu/entries/bonaventure/#God)
-* [5.1 圣文德的启示论证](https://plato.stanford.edu/entries/bonaventure/#BonaIlluArgu)
-* [5.2 圣文德的因果论证](https://plato.stanford.edu/entries/bonaventure/#BonaAitiArgu)
-* [5.3 圣文德's Ontological Argument](https://plato.stanford.edu/entries/bonaventure/#BonaOntoArgu)
-* [Bibliography](https://plato.stanford.edu/entries/bonaventure/#Bib)
-* [A. Primary Sources](https://plato.stanford.edu/entries/bonaventure/#PrimSour)
-* [A.1 圣文德 works](https://plato.stanford.edu/entries/bonaventure/#BonaWork)
-* [A.2 圣文德 Original Texts](https://plato.stanford.edu/entries/bonaventure/#OrigTextBona)
-* [A.3 圣文德 Translations](https://plato.stanford.edu/entries/bonaventure/#TranBona)
-* [A.4 Other Primary Sources](https://plato.stanford.edu/entries/bonaventure/#OthePrimSour)
-* [B. Secondary Sources](https://plato.stanford.edu/entries/bonaventure/#BSecoSour)
-* [Academic Tools](https://plato.stanford.edu/entries/bonaventure/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/bonaventure/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bonaventure/#Rel)
+
 
 ***
 

@@ -4,29 +4,6 @@ _首次发布于 2021 年 11 月 22 日_
 
 “阿里·法拉比的形而上学”，在这里的理解中，不仅仅是指他对一系列形而上学主题的观点和对这些观点的论证，而是指他重建和复兴形而上学作为一门科学的项目。这是他重建和复兴“古代科学”的更大项目的一部分：他在形而上学上的科学项目与他对亚里士多德的《形而上学》的解释和吸收是密不可分的。我们首先探讨一下法拉比重建“古代科学”项目的动机，然后转向他对形而上学作为一门科学以及亚里士多德的《形而上学》的看法，然后再详细讨论他对形而上学作为一门科学的重建，包括他对存在和统一等最普遍概念的描述，以及他对上帝作为存在的第一原因的描述。
 
-* [1. 法拉比复兴古代科学的项目](https://plato.stanford.edu/entries/al-farabi-metaphysics/#FaraProjReviScieAnci)
-* [2. 阿里·法拉比关于形而上学作为一门科学和亚里士多德的《形而上学》](https://plato.stanford.edu/entries/al-farabi-metaphysics/#FaraMetaScieArisMeta)
-* [3. 阿里·法拉比的本体论：《字母书》和《论一与统一》](https://plato.stanford.edu/entries/al-farabi-metaphysics/#FaraOntoBookLettOneUnit)
-* [3.1 阿里·法拉比在《书信篇》中的项目](https://plato.stanford.edu/entries/al-farabi-metaphysics/#FaraProjBookLett)
-* [3.2 逻辑和语法形式，以及粒子的作用](https://plato.stanford.edu/entries/al-farabi-metaphysics/#LogiGramFormRolePart)
-* [3.3 阿里·法拉比对希腊语和阿拉伯语中存在的词的解释](https://plato.stanford.edu/entries/al-farabi-metaphysics/#FaraWordForBeinGreeArab)
-* \[3.4 阿里·法拉比对存在的意义​\*[mawjûd](https://plato.stanford.edu/entries/al-farabi-metaphysics/#FaraSensBeinMawjCorrSensExisWuju)_​\[]和相应的实在的意义​_[wujûd](https://plato.stanford.edu/entries/al-farabi-metaphysics/#FaraSensBeinMawjCorrSensExisWuju)\*​\[]的解释]\(https://plato.stanford.edu/entries/al-farabi-metaphysics/#FaraSensBeinMawjCorrSensExisWuju)
-* [3.5 阿里·法拉比关于存在的科学问题](https://plato.stanford.edu/entries/al-farabi-metaphysics/#FaraScieQuesAbouBein)
-* [3.6 ](https://plato.stanford.edu/entries/al-farabi-metaphysics/#OneUnitSensUnitDiffRelaBetwOneManyCircThinQuid)​\*[关于一和统一](https://plato.stanford.edu/entries/al-farabi-metaphysics/#OneUnitSensUnitDiffRelaBetwOneManyCircThinQuid)\*​[：统一的意义，一和多之间的不同关系，以及事物的本质所限定的范围](https://plato.stanford.edu/entries/al-farabi-metaphysics/#OneUnitSensUnitDiffRelaBetwOneManyCircThinQuid)
-* [4. 阿里·法拉比的哲学神学：](https://plato.stanford.edu/entries/al-farabi-metaphysics/#FaraPhilTheoPerfCityPoliRegi)​\*[完美城市](https://plato.stanford.edu/entries/al-farabi-metaphysics/#FaraPhilTheoPerfCityPoliRegi)_​_[_和_](https://plato.stanford.edu/entries/al-farabi-metaphysics/#FaraPhilTheoPerfCityPoliRegi)_​_[政治制度](https://plato.stanford.edu/entries/al-farabi-metaphysics/#FaraPhilTheoPerfCityPoliRegi)\*
-* [参考文献](https://plato.stanford.edu/entries/al-farabi-metaphysics/#Bib)
-* [A. 主要来源](https://plato.stanford.edu/entries/al-farabi-metaphysics/#PrimSour)
-* [A.1 阿里·法拉比的文本版本](https://plato.stanford.edu/entries/al-farabi-metaphysics/#EditTextFara)
-* [A.2 早期阿拉伯哲学文本的版本](https://plato.stanford.edu/entries/al-farabi-metaphysics/#EditEarlArabPhilText)
-* [A.3 阿里·法拉比的文本翻译](https://plato.stanford.edu/entries/al-farabi-metaphysics/#TranTextFara)
-* [A.4 早期阿拉伯哲学文本的翻译，以及用阿拉伯语/希伯来语保存的希腊文本](https://plato.stanford.edu/entries/al-farabi-metaphysics/#TranEarlArabPhilTextGreeTextSurvArab)
-* [B. 二手资料](https://plato.stanford.edu/entries/al-farabi-metaphysics/#BSecoSour)
-* [学术工具](https://plato.stanford.edu/entries/al-farabi-metaphysics/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/al-farabi-metaphysics/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/al-farabi-metaphysics/#Rel)
-* [补充：法拉比复兴古代科学的计划](https://plato.stanford.edu/entries/al-farabi-metaphysics/reviving-sciences.html)
-* [补充：阿里·法拉比关于希腊语和阿拉伯语中存在的词](https://plato.stanford.edu/entries/al-farabi-metaphysics/word-being.html)
-
 ***
 
 ## 1. 阿里·法拉比复兴古代科学的项目

@@ -6,18 +6,7 @@ _首次发表于 2005 年 11 月 16 日；实质性修订于 2018 年 2 月 28 �
 
 然而，在文艺复兴哲学中，有一些文本显然比其他文本更“亚里士多德式”，即亚里士多德文本的_评论_。我们拥有的这些评论比哲学史上任何其他时期都要多。在许多文艺复兴时期的大学中，哲学培训都以解释亚里士多德的文本为重点，通常涉及使用源自亚里士多德及其评论家作品的教科书。除此之外，_亚里士多德文集_被用作教科书和百科全书的基础，并作为探讨更或多或少特殊哲学问题的论文的起点。\[4]
 
-* [1. 从](https://plato.stanford.edu/entries/aristotelianism-renaissance/#CommTextCorpAris)​\*[亚里士多德文集](https://plato.stanford.edu/entries/aristotelianism-renaissance/#CommTextCorpAris)\*​[的评论](https://plato.stanford.edu/entries/aristotelianism-renaissance/#CommTextCorpAris)
-* [2. 文艺复兴时期的大学哲学](https://plato.stanford.edu/entries/aristotelianism-renaissance/#PhilRenaUniv)
-* [3. 教科书和百科全书](https://plato.stanford.edu/entries/aristotelianism-renaissance/#TextEncy)
-* [4. 论文等](https://plato.stanford.edu/entries/aristotelianism-renaissance/#TreaEtc)
-* [5. 关于将文艺复兴哲学划分为学派的习惯的历史的一些注释](https://plato.stanford.edu/entries/aristotelianism-renaissance/#SomeRemaHistHabiSortRenaPhilScho)
-* [参考文献](https://plato.stanford.edu/entries/aristotelianism-renaissance/#Bib)
-* [参考资料](https://plato.stanford.edu/entries/aristotelianism-renaissance/#Refe)
-* [主要文本](https://plato.stanford.edu/entries/aristotelianism-renaissance/#PrimText)
-* [次要文献](https://plato.stanford.edu/entries/aristotelianism-renaissance/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/aristotelianism-renaissance/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aristotelianism-renaissance/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aristotelianism-renaissance/#Rel)
+
 
 ***
 

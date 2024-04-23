@@ -6,31 +6,6 @@ _首次发布于2008年10月22日（星期三）；实质性修订于2020年11�
 
 信念以定性（完全）形式存在，例如 Sophia 相信维也纳是奥地利的首都，以及定量（部分）形式存在，例如 Sophia 相信维也纳是奥地利的首都的程度，在某种意义上，比她相信维也纳比布达佩斯人口更多的程度更强。关于完全信念和部分信念如何相关的问题在形式认识论中受到了相当多的关注，产生了几种微妙、优雅但不幸不兼容的解决方案。这些替代方案之间的辩论是本文的一个特定焦点，涵盖在第 4 节中。
 
-* [1. 预备知识](https://plato.stanford.edu/entries/formal-belief/#Pre)
-* [1.1 为什么要形式主义？](https://plato.stanford.edu/entries/formal-belief/#ForEpiVerMaiEpi)
-* [1.2 信念的对象及其结构](https://plato.stanford.edu/entries/formal-belief/#StrObjBel)
-* [2. 完全信念的表述](https://plato.stanford.edu/entries/formal-belief/#Full)
-* [2.1 非单调逻辑](https://plato.stanford.edu/entries/formal-belief/#NonMonLogic)
-* [2.2 AGM 信念修正](https://plato.stanford.edu/entries/formal-belief/#AGM)
-* [2.3 认知逻辑](https://plato.stanford.edu/entries/formal-belief/#EpistLog)
-* [3. 部分信念的表述](https://plato.stanford.edu/entries/formal-belief/#Part)
-* [3.1 主观概率理论](https://plato.stanford.edu/entries/formal-belief/#SubProThe)
-* [3.2 不精确概率理论](https://plato.stanford.edu/entries/formal-belief/#ImpProb)
-* [3.2 Dempster-Shafer 理论](https://plato.stanford.edu/entries/formal-belief/#DemShaThe)
-* [3.3 可能性和合理性理论](https://plato.stanford.edu/entries/formal-belief/#PosThe)
-* [3.4 排名理论](https://plato.stanford.edu/entries/formal-belief/#RanThe)
-* [4. 完全和部分信念](https://plato.stanford.edu/entries/formal-belief/#FullPart)
-* [4.1 消除主义](https://plato.stanford.edu/entries/formal-belief/#Eliminationism)
-* [4.2 桥梁理论](https://plato.stanford.edu/entries/formal-belief/#Bridge)
-* [4.2.1 极端概率](https://plato.stanford.edu/entries/formal-belief/#Extremal)
-* [4.2.2 Lockean Threshold](https://plato.stanford.edu/entries/formal-belief/#Lockean)
-* [4.2.3 稳定性理论](https://plato.stanford.edu/entries/formal-belief/#Stability)
-* [4.2.4 追踪理论](https://plato.stanford.edu/entries/formal-belief/#Tracking)
-* [4.2.5 认知决策理论](https://plato.stanford.edu/entries/formal-belief/#EpistDec)
-* [参考文献](https://plato.stanford.edu/entries/formal-belief/#Bib)
-* [Academic Tools](https://plato.stanford.edu/entries/formal-belief/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/formal-belief/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/formal-belief/#Rel)
 
 ***
 

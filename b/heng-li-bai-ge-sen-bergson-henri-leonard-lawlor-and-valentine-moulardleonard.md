@@ -5,19 +5,6 @@
 
 亨利·柏格森（1859-1941）是 19 世纪末 20 世纪初最著名和有影响力的法国哲学家之一。尽管他在他的一生中享有崇拜般的国际声誉，但他的影响在第二次世界大战后明显减弱。虽然法国的思想家如梅洛-庞蒂、萨特和莱文纳斯明确承认他对他们思想的影响，但普遍认为吉尔·德勒兹于 1966 年的《柏格森主义》标志着对柏格森作品兴趣的复苏。德勒兹认识到，柏格森对哲学思维最持久的贡献是他对多样性的概念。柏格森对多样性的概念试图以一种一致的方式统一两个矛盾的特征：异质性和连续性。今天许多哲学家认为，尽管这个多样性的概念很难理解，但它是革命性的。它是革命性的，因为它为重新构想社区的方式打开了道路。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/bergson/#LifeWork)
-* [2. 多样性的概念](https://plato.stanford.edu/entries/bergson/#ConcMult)
-* [3. 直觉的方法](https://plato.stanford.edu/entries/bergson/#MethIntu)
-* [4. 知觉与记忆](https://plato.stanford.edu/entries/bergson/#PercMemo)
-* [5. 创造性的进化](https://plato.stanford.edu/entries/bergson/#CreaEvol)
-* [6. 道德和宗教的两个根源](https://plato.stanford.edu/entries/bergson/#TwoSourMoraReli)
-* [7. 柏格森主义的复兴](https://plato.stanford.edu/entries/bergson/#ReviBerg)
-* [参考文献](https://plato.stanford.edu/entries/bergson/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/bergson/#PrimLite)
-* [次要文献](https://plato.stanford.edu/entries/bergson/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/bergson/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/bergson/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bergson/#Rel)
 
 ---
 

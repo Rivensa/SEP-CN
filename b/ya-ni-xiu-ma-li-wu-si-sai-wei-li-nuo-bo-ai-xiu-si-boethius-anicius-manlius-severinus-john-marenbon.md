@@ -4,21 +4,6 @@ _首次发表于 2005 年 5 月 6 日；实质性修订于 2021 年 9 月 21 日
 
 亚尼修·玛理乌斯·塞味利诺·波爱修斯（出生：公元 475-7 年，逝世：526 年？）长期以来被认为是古代哲学与拉丁中世纪之间最重要的中介者之一，通过他的《哲学的安慰》一书，他展现了出色的文学才华，使哲学思想变得戏剧化且易于理解，适合更广泛的读者。他之前曾将亚里士多德的逻辑著作翻译成拉丁文，并对其进行评论，还编写了逻辑教材，并利用他的逻辑训练为当时的神学讨论做出了贡献。所有这些著作在中世纪将产生巨大影响，并广泛借鉴了希腊新柏拉图主义者如波菲利和伊安布利科思的思想。然而，波爱修斯不仅仅是一个中介者，他也是一个独立的思想家，尽管他在一个对哲学原创性几乎没有明显重视的传统中工作。接下来的章节将考虑波爱修斯的这两个方面。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/boethius/#LifeWork)
-* [2. 逻辑项目与逻辑评论](https://plato.stanford.edu/entries/boethius/#LogiProjLogiComm)
-* [3. 逻辑教科书](https://plato.stanford.edu/entries/boethius/#LogiTextBook)
-* [4. 神学论文](https://plato.stanford.edu/entries/boethius/#TheoTrea)
-* [5. 《哲学的安慰》：第一卷至第五卷.2 的论证](https://plato.stanford.edu/entries/boethius/#ConsPhilArguBookIV2)
-* [6. 神圣的预知、偶然性和永恒](https://plato.stanford.edu/entries/boethius/#DiviPresContEter)
-* [7. 解读《安慰哲学》](https://plato.stanford.edu/entries/boethius/#InteCons)
-* [8. 波爱修斯的影响和重要性](https://plato.stanford.edu/entries/boethius/#BoetInflImpo)
-* [参考文献](https://plato.stanford.edu/entries/boethius/#Bib)
-* [拉丁语原始文本](https://plato.stanford.edu/entries/boethius/#PrimTextLati)
-* [选定的英文（和其他语言）原始文本翻译](https://plato.stanford.edu/entries/boethius/#SeleEnglOtheTranPrimText)
-* [选定的次要作品](https://plato.stanford.edu/entries/boethius/#SeleSecoWork)
-* [学术工具](https://plato.stanford.edu/entries/boethius/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/boethius/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/boethius/#Rel)
 
 ***
 

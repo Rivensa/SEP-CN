@@ -8,23 +8,6 @@ _首次发表于 2010 年 10 月 14 日星期四；实质性修订于 2020 年 8
 
 对应原则首次在 1913 年在旧量子理论的背景下被阐明。尽管如此，波尔认为这一原则在旧量子理论被现代量子力学取代后仍然存在。对应原则如今仍然被提及为当前研究课题，尽管可以说其含义与波尔对这一原则的理解略有不同。对应原则的一个版本也在哲学文献中延续下来，被概括为一种广泛的方法论原则（广义对应原则），约束着新科学理论的发展。
 
-* [1. 背景和科学背景](https://plato.stanford.edu/entries/bohr-correspondence/#BacSciCon)
-* [2. 定义了波尔查诺原理](https://plato.stanford.edu/entries/bohr-correspondence/#CorPriDef)
-* [3. 伯恩哈德·波尔查诺对波尔查诺原理的著作（1918–1928）](https://plato.stanford.edu/entries/bohr-correspondence/#BohWriCorPri191)
-* [4. 早期回应](https://plato.stanford.edu/entries/bohr-correspondence/#EarRes)
-* [4.1 索默菲尔德](https://plato.stanford.edu/entries/bohr-correspondence/#Som)
-* [4.2 波利](https://plato.stanford.edu/entries/bohr-correspondence/#Pau)
-* [4.3 Heisenberg](https://plato.stanford.edu/entries/bohr-correspondence/#Hei)
-* [5. 历史和哲学文献中的解释](https://plato.stanford.edu/entries/bohr-correspondence/#IntHisLit)
-* [6. 当前物理学文献中的解释](https://plato.stanford.edu/entries/bohr-correspondence/#IntCurPhyLit)
-* [7. 伯恩哈德·波尔查诺](https://plato.stanford.edu/entries/bohr-correspondence/#GenCorPri)
-* [参考文献](https://plato.stanford.edu/entries/bohr-correspondence/#Bib)
-* [波尔的作品](https://plato.stanford.edu/entries/bohr-correspondence/#WorBoh)
-* [其他主要文献](https://plato.stanford.edu/entries/bohr-correspondence/#OthPriLit)
-* [次要文献](https://plato.stanford.edu/entries/bohr-correspondence/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/bohr-correspondence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/bohr-correspondence/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bohr-correspondence/#Rel)
 
 ***
 

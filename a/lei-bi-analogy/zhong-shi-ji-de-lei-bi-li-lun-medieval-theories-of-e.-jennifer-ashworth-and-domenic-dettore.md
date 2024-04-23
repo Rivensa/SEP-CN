@@ -8,18 +8,7 @@ _首次发布于 1999 年 11 月 29 日；实质性修订于 2021 年 12 月 1 �
 
 从 14 世纪开始，关于类比的讨论不再集中在语言用法上，而是关注与所使用的词相对应的概念的本质。类比术语是否只对应一个概念，还是存在一系列的概念？如果是后者，这些概念的成员如何排序和相关联？此外，我们应该在所谓的形式概念（或心智行为）和客观概念（即理解行为的对象）之间作出多大区分？这些讨论在笛卡尔时代仍然具有影响力。
 
-* [1. 中世纪的语言理论](https://plato.stanford.edu/entries/analogy-medieval/#MediTheoLang)
-* [2. 逻辑、神学和形而上学中的问题](https://plato.stanford.edu/entries/analogy-medieval/#ProbLogiTheoMeta)
-* [3. “类比”一词的历史](https://plato.stanford.edu/entries/analogy-medieval/#HistWordAnal)
-* [4. Equivocation 的划分](https://plato.stanford.edu/entries/analogy-medieval/#DiviEqui)
-* [5. 类比的划分](https://plato.stanford.edu/entries/analogy-medieval/#DiviAnal)
-* [6. 托马斯·阿奎那](https://plato.stanford.edu/entries/analogy-medieval/#ThomAqui)
-* [7. 约翰·邓斯·斯科特和概念的作用](https://plato.stanford.edu/entries/analogy-medieval/#JohnDunsScotRoleConc)
-* [8. Cardinal Cajetan: A New Approach](https://plato.stanford.edu/entries/analogy-medieval/#CardCajeNewAppr)
-* [参考文献](https://plato.stanford.edu/entries/analogy-medieval/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/analogy-medieval/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/analogy-medieval/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/analogy-medieval/#Rel)
+
 
 ***
 

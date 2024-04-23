@@ -4,23 +4,6 @@ _首次发表于 2007 年 8 月 14 日；实质性修订于 2020 年 5 月 8 日
 
 阿布·哈米德·穆罕默德·本·穆罕默德·加札利·沙菲（约 1056 年-1111 年）是逊尼派伊斯兰教中最杰出和有影响力的哲学家、神学家、法学家和神秘主义者之一。他活跃在逊尼派神学刚刚完成巩固并进入与什叶派伊斯玛仪派神学和阿拉伯亚里士多德哲学传统（falsafa）激烈挑战的时期。阿布·哈米德·穆罕默德·本·穆罕默德·加札利·沙菲理解了 falsafa 的重要性，并发展出了一个复杂的回应，既否定和谴责了其中一些教义，同时也允许他接受和应用其他教义。阿布·哈米德·穆罕默德·本·穆罕默德·加札利·沙菲在他的《哲学家的错误》（Tahâfut al-falâsifa）中对 falsafa 的二十个立场进行的批判，在哲学史上具有重要意义，因为它推进了 14 世纪后期欧洲的名义主义批判亚里士多德科学的发展。在阿拉伯和穆斯林方面，阿布·哈米德·穆罕默德·本·穆罕默德·加札利·沙菲对演绎（apodeixis）的接受导致了更加精细和准确的认识论讨论以及亚里士多德逻辑学和形而上学的繁荣。阿布·哈米德·穆罕默德·本·穆罕默德·加札利·沙菲开始成功地将亚里士多德主义或者更确切地说是伊本·西那主义引入穆斯林神学。在从希腊语到阿拉伯语的翻译运动中，以及 falâsifa 的著作直到阿维森纳（伊本·西那，约 980 年-1037 年）之后，哲学和希腊科学被“本土化”到 kalâm 的话语和穆斯林神学中（Sabra 1987）。阿布·哈米德·穆罕默德·本·穆罕默德·加札利·沙菲解决理性和启示之间表面矛盾的方法被几乎所有后来的穆斯林神学家接受，并且通过阿维罗伊斯（伊本·鲁什德，1126 年-1198 年）和犹太作家的著作，在拉丁中世纪思想中产生了重要影响。
 
-* [1. 生平](https://plato.stanford.edu/entries/al-ghazali/#Lif)
-* [2. 阿布·哈米德·穆罕默德·本·穆罕默德·加札利·沙菲对](https://plato.stanford.edu/entries/al-ghazali/#AlGhaRepFalTea)​\*[falâsifa](https://plato.stanford.edu/entries/al-ghazali/#AlGhaRepFalTea)\*​[的教导的报告](https://plato.stanford.edu/entries/al-ghazali/#AlGhaRepFalTea)
-* [3. 阿布·哈米德·穆罕默德·本·穆罕默德·加札利·沙菲对](https://plato.stanford.edu/entries/al-ghazali/#AlGhaRefFalIsm)​\*[falsafa](https://plato.stanford.edu/entries/al-ghazali/#AlGhaRefFalIsm)\*​[和伊斯玛仪派的"反驳"](https://plato.stanford.edu/entries/al-ghazali/#AlGhaRefFalIsm)
-* [4. ](https://plato.stanford.edu/entries/al-ghazali/#PlaFalIsl)​\*[伊斯兰教中的哲学](https://plato.stanford.edu/entries/al-ghazali/#PlaFalIsl)\*​[的地位](https://plato.stanford.edu/entries/al-ghazali/#PlaFalIsl)
-* [5. ](https://plato.stanford.edu/entries/al-ghazali/#EthRevRelSci)​\*[宗教科学复兴](https://plato.stanford.edu/entries/al-ghazali/#EthRevRelSci)\*​[的伦理学](https://plato.stanford.edu/entries/al-ghazali/#EthRevRelSci)
-* [6. 《宗教科学复兴》中的宇宙学](https://plato.stanford.edu/entries/al-ghazali/#CosRevRelSci)
-* [7. 阿布·哈米德·穆罕默德·本·穆罕默德·加札利·沙菲的因果关系](https://plato.stanford.edu/entries/al-ghazali/#CauAlGha)
-* [7.1 偶然论与次级因果关系](https://plato.stanford.edu/entries/al-ghazali/#OccVerSecCau)
-* [7.2 《矛盾论》第 17 讨论](https://plato.stanford.edu/entries/al-ghazali/#17tDisInc)
-* [7.3 两种不同的模态概念](https://plato.stanford.edu/entries/al-ghazali/#TwoDifConMod)
-* [7.4 偶然主义和次级因果性的累积可能性](https://plato.stanford.edu/entries/al-ghazali/#CumPosOccSecCau)
-* [参考文献](https://plato.stanford.edu/entries/al-ghazali/#Bib)
-* [主要文本](https://plato.stanford.edu/entries/al-ghazali/#PriTex)
-* [二级文献](https://plato.stanford.edu/entries/al-ghazali/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/al-ghazali/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/al-ghazali/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/al-ghazali/#Rel)
 
 ***
 

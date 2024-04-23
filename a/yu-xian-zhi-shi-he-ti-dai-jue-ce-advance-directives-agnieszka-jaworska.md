@@ -16,18 +16,6 @@ Q2a. 预先指示应该被尊重吗？
 
 本文重点讨论对最后两个问题的哲学贡献。
 
-* [1. 传统的法律观点](https://plato.stanford.edu/entries/advance-directives/#OrtLegVie)
-* [2. 对于从未有能力的人的传统观点的挑战](https://plato.stanford.edu/entries/advance-directives/#ChaOrtVieRegNevCom)
-* [3. 预先指示和替代决策中的时间冲突](https://plato.stanford.edu/entries/advance-directives/#ConAcrTimForCom)
-* [3.1 权威门槛方法](https://plato.stanford.edu/entries/advance-directives/#ThrAutApp)
-* [3.2 挑战一：呼吁决策的前瞻性观点](https://plato.stanford.edu/entries/advance-directives/#Cha1AppForLooPerDecMak)
-* [3.3 挑战二：意愿行使作为自主的关键](https://plato.stanford.edu/entries/advance-directives/#Cha2ExeWilPoiAut)
-* [3.4 挑战三：个人身份的丧失](https://plato.stanford.edu/entries/advance-directives/#Cha3LosPerIde)
-* [3.5 挑战四：利益关切的断裂](https://plato.stanford.edu/entries/advance-directives/#Cha4SevPruCon)
-* [参考文献](https://plato.stanford.edu/entries/advance-directives/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/advance-directives/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/advance-directives/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/advance-directives/#Rel)
 
 ***
 

@@ -6,17 +6,6 @@ _首次发布于 2016 年 2 月 11 日；实质性修订于 2020 年 4 月 26 �
 
 法拉比的作品的确切年代很难确定。他写了一些专门解释柏拉图和亚里士多德的论文，评论和释义亚里士多德的著作，以及其他论文，其中他将自己的哲学思想与他的形而上学和宇宙观结合起来，甚至与他的政治哲学结合起来。他关于心理学和认识论问题的观点出现在他的几个论文中的几个地方。因此，有必要考虑他澄清和完善思想的几个作品。《存在事物的原理》（也称为《政治制度》）（_Kitāb al-siyāsa al-madaniyya_）和《有德城市的原则和观点》（_Mabādi’ ārā’ ahl al-madīnah al-fāḍilah_）是法拉比的一些重要作品，他在这些作品中探讨了心理学主题，如灵魂的本质、认知能力和智力学说。此外，还有另一篇重要的论文，法拉比直接讨论了智力能力，即《智力论文》（_Risālah fi’l-‘aql_）。这部作品显示出亚里士多德关于灵魂的学说以及亚历山大·阿弗洛狄修斯对其的解释的影响。事实上，M. Geoffroy（2002: 191-231）认为，法拉比可能从未阅读过亚里士多德的《论灵魂》，而是通过亚历山大的论文，尤其是《论智力》来了解它。法拉比主要在《论证书》（_Kitāb al-burhān_）和《确定条件书》（_Kitāb Šara’iṭ al-yaqīn_）中讨论科学知识的理解以及论证和确定性的本质。为了涵盖法拉比作品中多样的心理学和认识论问题，本文分为以下几个部分：
 
-* [1. 灵魂的起源和本质](https://plato.stanford.edu/entries/al-farabi-psych/#OrigNatuSoul)
-* [2. 灵魂及其能力](https://plato.stanford.edu/entries/al-farabi-psych/#SoulFacu)
-* [3. 想象力的相关性](https://plato.stanford.edu/entries/al-farabi-psych/#ReleImagFacu)
-* [4. 知性的教义](https://plato.stanford.edu/entries/al-farabi-psych/#DoctInte)
-* [5. 科学知识理论](https://plato.stanford.edu/entries/al-farabi-psych/#TheoScieKnow)
-* [参考文献](https://plato.stanford.edu/entries/al-farabi-psych/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/al-farabi-psych/#PrimSour)
-* [次要来源](https://plato.stanford.edu/entries/al-farabi-psych/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/al-farabi-psych/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/al-farabi-psych/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/al-farabi-psych/#Rel)
 
 ***
 

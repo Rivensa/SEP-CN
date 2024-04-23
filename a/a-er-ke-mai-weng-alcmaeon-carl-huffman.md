@@ -4,28 +4,7 @@ _首次发布于 2003 年 4 月 10 日；实质性修订于 2021 年 4 月 4 日
 
 阿尔克迈翁（Alcmaeon of Croton）是早期的希腊医学作家和哲学科学家。他的确切日期、与其他早期希腊哲学科学家的关系以及他是主要是医学作家/医生还是典型的前苏格拉底哲学家，这些都是有争议的问题。他很可能在公元前 500 年至公元前 450 年之间写下了他的书。现存的碎片和证言主要关注生理学、心理学和认识论问题，揭示了阿尔克迈翁是一个具有相当独创性的思想家。他是第一个将大脑视为理解的所在，并区分了理解和感知。阿尔克迈翁认为感官器官通过通道（_poroi_）与大脑相连，并可能通过切除动物的眼球（即视神经）来发现连接眼睛与大脑的_poroi_，尽管他是否使用解剖作为标准方法还存在疑问。他是第一个提出灵魂不朽的论证。他用政治隐喻来定义健康和疾病：身体中组成部分（如湿、干、热、冷、甜、苦等）的对等（_isonomia_）维护健康，而其中任何一个的君主制会导致疾病。阿尔克迈翁在生理学中讨论了广泛的主题，包括睡眠、死亡和胚胎的发育。目前尚不清楚他是否也提出了关于对立力量的宇宙观，但我们确实有一些关于他在天文学上观点的证言。阿尔克迈翁对希腊哲学传统的后继者产生了相当大的影响。亚里士多德写了一篇回应他的论文，柏拉图可能受到了他关于灵魂不朽的论证的影响，柏拉图和菲洛劳斯都接受了他的观点，即大脑是智慧的所在。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/alcmaeon/#Life)
-* [1.1 医学作家还是哲学家？](https://plato.stanford.edu/entries/alcmaeon/#Medwri)
-* [1.2 阿尔克迈翁是毕达哥拉斯派的吗？](https://plato.stanford.edu/entries/alcmaeon/#Pyth)
-* [1.3 日期](https://plato.stanford.edu/entries/alcmaeon/#Date)
-* [1.4 阿尔克迈翁的书和其内容的证据](https://plato.stanford.edu/entries/alcmaeon/#Book)
-* [2. 认识论和心理学](https://plato.stanford.edu/entries/alcmaeon/#Epis)
-* [2.1 知识的限度](https://plato.stanford.edu/entries/alcmaeon/#limits)
-* [2.2 理解与经验主义](https://plato.stanford.edu/entries/alcmaeon/#Underst)
-* [2.3 阿尔克迈翁是否进行解剖？](https://plato.stanford.edu/entries/alcmaeon/#Dissec)
-* [2.4 感知](https://plato.stanford.edu/entries/alcmaeon/#Sensper)
-* [2.5 灵魂的不朽](https://plato.stanford.edu/entries/alcmaeon/#immort)
-* [3. 医学教义](https://plato.stanford.edu/entries/alcmaeon/#Med)
-* [3.1 健康与疾病](https://plato.stanford.edu/entries/alcmaeon/#Health)
-* [3.2 睡眠、胚胎学和类比的使用](https://plato.stanford.edu/entries/alcmaeon/#Sleep)
-* [4. 宇宙学](https://plato.stanford.edu/entries/alcmaeon/#Cos)
-* [4.1 天文学](https://plato.stanford.edu/entries/alcmaeon/#Astron)
-* [4.2 对立](https://plato.stanford.edu/entries/alcmaeon/#Opps)
-* [5. 重要性和影响](https://plato.stanford.edu/entries/alcmaeon/#Imp)
-* [参考文献](https://plato.stanford.edu/entries/alcmaeon/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/alcmaeon/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/alcmaeon/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/alcmaeon/#Rel)
+
 
 ***
 

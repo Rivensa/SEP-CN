@@ -4,16 +4,6 @@ _首次发表于 2005 年 3 月 1 日；实质性修订于 2020 年 8 月 6 日_
 
 阿什凯隆的安条克，在公元前二世纪后期和公元前一世纪初期活跃，是柏拉图学派的成员，在学派怀疑主义阶段期间。在自己拥护怀疑主义之后，他成为了一位教条主义者。他捍卫了一种认识论理论，基本上与斯多亚派相同，并且他的伦理学理论综合了斯多亚派、柏拉图和亚里士多德的要素。在这两个领域，他声称自己在复兴柏拉图及其最早的继承者和亚里士多德的学说。
 
-* [1. 生平、作品和背景](https://plato.stanford.edu/entries/antiochus-ascalon/#LifeWorkBack)
-* [2. 阿什凯隆的安条克哲学概述](https://plato.stanford.edu/entries/antiochus-ascalon/#OverAntiPhil)
-* [3. 认识论](https://plato.stanford.edu/entries/antiochus-ascalon/#Epis)
-* [4. 伦理学](https://plato.stanford.edu/entries/antiochus-ascalon/#Ethi)
-* [参考文献](https://plato.stanford.edu/entries/antiochus-ascalon/#Bib)
-* [文本](https://plato.stanford.edu/entries/antiochus-ascalon/#Text)
-* [次要来源](https://plato.stanford.edu/entries/antiochus-ascalon/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/antiochus-ascalon/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/antiochus-ascalon/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/antiochus-ascalon/#Rel)
 
 ***
 

@@ -4,37 +4,6 @@ _首次发表于 1995 年 12 月 23 日；实质性修订于 2016 年 10 月 24 
 
 动物意识的问题——特别是哪些动物具有意识以及这种意识可能是什么样的——既是科学问题，也是哲学问题。它们是科学问题，因为回答这些问题需要使用科学技术来收集信息——无论是多少量的坐在椅子上思考、概念分析、逻辑推理、先验理论构建、超验推断还是内省，都无法告诉我们鸭嘴兽、鬣蜥或乌贼（举几个例子）是否享受主观体验的生活——在某个时候，我们将不得不了解一些关于动物的事情。哪种科学可以涉及这些问题是一个活跃的问题，但至少包括对广泛分类动物的行为和神经生理学的调查，以及分类群之间的系统发育关系。但这些问题也是深层次的哲学问题，涉及认识论、形而上学和现象学的维度。因此，取得进展最终需要哲学家与动物生物学的实证细节进行跨学科合作，以及科学家对问题的哲学复杂性有敏感度。
 
-* [1. 动机](https://plato.stanford.edu/entries/consciousness-animal/#Moti)
-* [2. 意识的概念](https://plato.stanford.edu/entries/consciousness-animal/#ConcCons)
-* [3. 历史背景](https://plato.stanford.edu/entries/consciousness-animal/#HistBack)
-* [4. 认识论和形而上学问题](https://plato.stanford.edu/entries/consciousness-animal/#EpisMetaIssu)
-* [4.1 其他心灵问题](https://plato.stanford.edu/entries/consciousness-animal/#ProbOtheMind)
-* [4.2 直觉和心理状态的认知地位](https://plato.stanford.edu/entries/consciousness-animal/#EpisStatIntuPercMentStat)
-* [4.3 认知和意识](https://plato.stanford.edu/entries/consciousness-animal/#CognCons)
-* [4.4 二元论和物理主义](https://plato.stanford.edu/entries/consciousness-animal/#DualPhys)
-* [4.5 神经功能解释](https://plato.stanford.edu/entries/consciousness-animal/#NeurAcco)
-* [4.6 代表主义的解释](https://plato.stanford.edu/entries/consciousness-animal/#ReprAcco)
-* [4.7 意识是否是二元的？](https://plato.stanford.edu/entries/consciousness-animal/#ConsBina)
-* [4.8 哲学理论的局限性](https://plato.stanford.edu/entries/consciousness-animal/#LimiPhilTheo)
-* [5. 意识的结构和功能](https://plato.stanford.edu/entries/consciousness-animal/#StruFuncCons)
-* [6. 动物意识的进化和分布](https://plato.stanford.edu/entries/consciousness-animal/#EvolDistCons)
-* [6.1 人类](https://plato.stanford.edu/entries/consciousness-animal/#Huma)
-* [6.2 大型类人猿](https://plato.stanford.edu/entries/consciousness-animal/#GreaApes)
-* [6.3 哺乳动物](https://plato.stanford.edu/entries/consciousness-animal/#Mamm)
-* [6.4 羊膜动物（包括鸟类和爬行动物）](https://plato.stanford.edu/entries/consciousness-animal/#AmniInclBirdRept)
-* [6.5 脊椎动物](https://plato.stanford.edu/entries/consciousness-animal/#Vert)
-* [6.6 无脊椎动物](https://plato.stanford.edu/entries/consciousness-animal/#Inve)
-* [7. 动物意识研究中的特殊主题](https://plato.stanford.edu/entries/consciousness-animal/#SpecTopiStudAnimCons)
-* [7.1 动物痛苦和苦难](https://plato.stanford.edu/entries/consciousness-animal/#AnimPainSuff)
-* [7.2 动物情感](https://plato.stanford.edu/entries/consciousness-animal/#AnimEmot)
-* [7.3 感知现象学](https://plato.stanford.edu/entries/consciousness-animal/#PercPhen)
-* [7.4 心智时间旅行](https://plato.stanford.edu/entries/consciousness-animal/#MentTimeTrav)
-* [7.5 自我意识和元认知](https://plato.stanford.edu/entries/consciousness-animal/#SelfConsMeta)
-* [8. 总结](https://plato.stanford.edu/entries/consciousness-animal/#Summ)
-* [参考文献](https://plato.stanford.edu/entries/consciousness-animal/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/consciousness-animal/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/consciousness-animal/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/consciousness-animal/#Rel)
 
 ***
 

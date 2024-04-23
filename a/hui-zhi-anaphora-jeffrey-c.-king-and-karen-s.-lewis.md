@@ -66,19 +66,6 @@ _首次发表于 2004 年 2 月 24 日；实质性修订于 2021 年 10 月 27 �
 
 尽管有许多种回指，本文将重点讨论代词回指，因为这是语言学和（尤其是）哲学文献中受到最多关注的回指类型。一些回指代词是从其他指称表达式继承其指称对象的。例如，在[(3)](https://plato.stanford.edu/entries/anaphora/#ex3)中，根据回指解读，“他”从“约翰”继承其指称对象，被称为代词的_先行词_。这种回指很简单且易于理解。在上述[(2)](https://plato.stanford.edu/entries/anaphora/#ex2)的情况中，回指代词的先行词是一个量词（在(2)中是“每个男性律师”），并且基本上作为被量词约束的变量。同样，这些情况也很容易理解。有一些回指代词不能被理解为从其他指称表达式继承其指称对象的指称表达式，也不能被理解为由量化先行词约束的变量。这些回指情况对于哲学家和语言学家来说很有趣，因为为它们制定适当的语义理论被证明是一项困难且有趣的任务。目前有许多关于这些情况的理论正在被提倡。
 
-* [1. 无问题的回指](https://plato.stanford.edu/entries/anaphora/#UnprAnap)
-* [2. 有问题的回指](https://plato.stanford.edu/entries/anaphora/#ProbAnap)
-* [3. 问题回指的最新理论](https://plato.stanford.edu/entries/anaphora/#ReceTheoProbAnap)
-* [3.1 话语表示理论](https://plato.stanford.edu/entries/anaphora/#DiscReprTheo)
-* [3.2 动态语义方法](https://plato.stanford.edu/entries/anaphora/#DynaSemaAppr)
-* [3.3 描述性方法](https://plato.stanford.edu/entries/anaphora/#DescAppr)
-* [3.4 上下文依赖量词方法](https://plato.stanford.edu/entries/anaphora/#ContDepeQuanAppr)
-* [4. 驴子句子有多少种解读？](https://plato.stanford.edu/entries/anaphora/#HowManyReadDoDonkSentHave)
-* [5. 手语中的回指](https://plato.stanford.edu/entries/anaphora/#AnapSignLang)
-* [参考文献](https://plato.stanford.edu/entries/anaphora/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/anaphora/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/anaphora/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/anaphora/#Rel)
 
 ***
 

@@ -6,30 +6,6 @@ _首次发表于 2010 年 1 月 26 日；实质性修订于 2020 年 10 月 8 �
 
 这篇文章分为三个部分。第一部分，第 1 和第 2 节，提出了讨论能力的哲学理论的框架。第 1 节将更多地介绍能力与代理人和对象的其他能力之间的区别。第 2 节将提出一些有助于构建任何能力理论的形式上的区别。第二部分，第 3 至 5 节，概述了在哲学文献中被辩护的能力理论。第 3 节涉及最突出的理论类型，即能力应该通过假设将代理人的行动与其意愿联系起来来理解。第 4 节涉及那些不以这种方式假设的理论，但仍然保留假设理论的基本还原取向。第 5 节然后讨论了近期文献中提出的各种替代性能力理论。第三部分，第 6 节，转向能力理论与自由意志争论之间的关系。这类争论通常涉及对代理人能力的主张，许多人希望对能力本身有更清晰的认识可以解决或至少能够阐明这类争论。本节的目的将是评估这些希望是否合理。
 
-* [1.分类学](https://plato.stanford.edu/entries/abilities/#Tax)
-* [1.1 倾向和其他能力](https://plato.stanford.edu/entries/abilities/#DisOthPow)
-* [1.2 界定能力](https://plato.stanford.edu/entries/abilities/#DemAbi)
-* [1.3 '知道如何'和智能能力](https://plato.stanford.edu/entries/abilities/#QueKnoHow)
-* [2. 两个基本区别](https://plato.stanford.edu/entries/abilities/#TwoFunDis)
-* [2.1 一般能力和特定能力](https://plato.stanford.edu/entries/abilities/#GenSpeAbi)
-* [2.2 能力和能力归属](https://plato.stanford.edu/entries/abilities/#AbiAbiAsc)
-* [3. 能力的假设理论](https://plato.stanford.edu/entries/abilities/#HypTheAbi)
-* [3.1 条件分析](https://plato.stanford.edu/entries/abilities/#ConAna)
-* [3.2 条件分析的问题](https://plato.stanford.edu/entries/abilities/#ProForConAna)
-* [3.3 条件分析：一些变体](https://plato.stanford.edu/entries/abilities/#ConAnaSomVar)
-* [4. 能力的情态理论](https://plato.stanford.edu/entries/abilities/#ModTheAbi)
-* [4.1 情态分析](https://plato.stanford.edu/entries/abilities/#ModAna)
-* [4.2 模态分析：逻辑考虑](https://plato.stanford.edu/entries/abilities/#ModAnaLogCon)
-* [4.3 模态分析：语言考虑](https://plato.stanford.edu/entries/abilities/#ModAnaLinCon)
-* [5. 能力的新方法](https://plato.stanford.edu/entries/abilities/#NewAppAbi)
-* [5.1 新的能力论](https://plato.stanford.edu/entries/abilities/#NewDis)
-* [5.2 能力作为独特的力量](https://plato.stanford.edu/entries/abilities/#AbiPow)
-* [5.3 其他方法](https://plato.stanford.edu/entries/abilities/#OthApp)
-* [6. 能力和自由意志的争论](https://plato.stanford.edu/entries/abilities/#AbiFreWilDeb)
-* [参考文献](https://plato.stanford.edu/entries/abilities/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/abilities/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/abilities/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/abilities/#Rel)
 
 ***
 

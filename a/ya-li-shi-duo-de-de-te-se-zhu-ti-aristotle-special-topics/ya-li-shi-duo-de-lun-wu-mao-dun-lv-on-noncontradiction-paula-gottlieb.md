@@ -8,24 +8,7 @@ _首次发表于 2007 年 2 月 2 日；实质性修订于 2023 年 10 月 19 �
 
 亚里士多德对非矛盾原则的讨论也在现代哲学的许多领域引发了棘手的问题，例如，关于我们的信念所承诺的内容、语言、思维和世界之间的关系，以及超验论证的地位。从相互矛盾的表象中得出的论证证明了其非常持久，关于怀疑主义、现实主义和反现实主义的辩论至今仍在继续。
 
-* [1. 非矛盾原则的三个版本](https://plato.stanford.edu/entries/aristotle-noncontradiction/#ThreVersPrinNonCont)
-* [2. 非矛盾原则的特殊地位](https://plato.stanford.edu/entries/aristotle-noncontradiction/#PecuStatPrinNonCont)
-* [3. 诘难法和超验论证](https://plato.stanford.edu/entries/aristotle-noncontradiction/#ElenMethTranArgu)
-* [4. 亚里士多德对对手的挑战：指明某一事物](https://plato.stanford.edu/entries/aristotle-noncontradiction/#ArisChalOppoSignSomeOneThin)
-* [5. 亚里士多德本质论的作用](https://plato.stanford.edu/entries/aristotle-noncontradiction/#RoleArisEsse)
-* [6. 非矛盾原则与行动](https://plato.stanford.edu/entries/aristotle-noncontradiction/#PrinNonContActi)
-* [7. 非矛盾原则与接近真理或类似真理](https://plato.stanford.edu/entries/aristotle-noncontradiction/#PrinNonContProxTrutTrutLike)
-* [8. 冲突现象的论证](https://plato.stanford.edu/entries/aristotle-noncontradiction/#ArguConfAppe)
-* [9. 普罗泰戈拉斯、赫拉克利特和柏拉图的《泰阿泰图》](https://plato.stanford.edu/entries/aristotle-noncontradiction/#ProtHeraPlatThea)
-* [10. 亚里士多德的结论及其对伦理学和政治学的影响](https://plato.stanford.edu/entries/aristotle-noncontradiction/#ArisConc)
-* [11. 双真论、非矛盾性和亚里士多德](https://plato.stanford.edu/entries/aristotle-noncontradiction/#DialParaAris)
-* [12. ](https://plato.stanford.edu/entries/aristotle-noncontradiction/#PostAnalI11)​\*[后分析学](https://plato.stanford.edu/entries/aristotle-noncontradiction/#PostAnalI11)\*​[ I 11](https://plato.stanford.edu/entries/aristotle-noncontradiction/#PostAnalI11)
-* [参考文献](https://plato.stanford.edu/entries/aristotle-noncontradiction/#Bib)
-* [选定的主要文本、翻译和评论](https://plato.stanford.edu/entries/aristotle-noncontradiction/#SelePrimTextTranComm)
-* [选定的次要文献](https://plato.stanford.edu/entries/aristotle-noncontradiction/#SeleSecoLite)
-* [学术工具](https://plato.stanford.edu/entries/aristotle-noncontradiction/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aristotle-noncontradiction/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aristotle-noncontradiction/#Rel)
+
 
 ***
 

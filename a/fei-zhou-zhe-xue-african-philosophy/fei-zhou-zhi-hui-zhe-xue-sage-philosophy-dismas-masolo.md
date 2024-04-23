@@ -4,16 +4,6 @@
 
 “非洲智慧哲学”是现在普遍用来指称非洲社区中被认为是智者所产生的思想体系的名称，更具体地指那些通过批判性地审视这些思想和概念的合理性，寻求对描述和观察世界所使用的思想和概念建立合理基础的人。这个表达方式来源于肯尼亚已故哲学家亨利·奥德拉·奥鲁卡（1944-1995）进行的一个项目，他的主要目标是通过证据证明，对于非洲社会中一些基本重要主题的批判性思考一直是少数人关注的问题。这些主题涉及对至高无上的存在的本质、人的概念、自由、平等、死亡和对来世的信仰的意义的问题。奥鲁卡收集到的关于土著智者对这些主题进行理性阐述的证据包含在对话中，其中许多出现在他的经典著作《智慧哲学：非洲哲学的土著思想家和现代辩论》（1990）中。
 
-* [1. 奥鲁卡的项目](https://plato.stanford.edu/entries/african-sage/#OruPro)
-* [2. 非洲智慧传统与欧洲中心主义偏见](https://plato.stanford.edu/entries/african-sage/#AfrSagTraEurBia)
-* [3. 读写能力与口头传统在智慧哲学中的作用](https://plato.stanford.edu/entries/african-sage/#LitOraTraSag)
-* [4. 民族哲学、一致性和非洲批判思想](https://plato.stanford.edu/entries/african-sage/#EthUnaAfrCriTho)
-* [5. 什么被视为智慧哲学？](https://plato.stanford.edu/entries/african-sage/#WhaCouSag)
-* [结论](https://plato.stanford.edu/entries/african-sage/#Con)
-* [参考文献](https://plato.stanford.edu/entries/african-sage/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/african-sage/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/african-sage/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/african-sage/#Rel)
 
 ---
 

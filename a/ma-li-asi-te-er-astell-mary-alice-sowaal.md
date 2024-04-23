@@ -14,29 +14,6 @@ _《关于婚姻的一些反思：由马扎林公爵和公爵夫人的案例引�
 
 今天，她最为人所知的是她关于女性教育的理论以及对诺里斯和约翰·洛克的批评。
 
-* [1. 形而上学](https://plato.stanford.edu/entries/astell/#Meta)
-* [1.1 上帝](https://plato.stanford.edu/entries/astell/#God)
-* [1.2 众生之间的个体化：心灵、身体和心灵-身体的结合](https://plato.stanford.edu/entries/astell/#IndiAmonBeinMindBodiMindBodyUnio)
-* [1.3 上帝与他的创造物之间的关系](https://plato.stanford.edu/entries/astell/#RelaBetwGodHisCrea)
-* [1.3.1 因果关系](https://plato.stanford.edu/entries/astell/#CausRela)
-* [1.3.2 实体关系](https://plato.stanford.edu/entries/astell/#OntoRela)
-* [1.3.3 伦理关系](https://plato.stanford.edu/entries/astell/#EthiRela)
-* [2. 认识论](https://plato.stanford.edu/entries/astell/#Epis)
-* [2.1 心灵与思想](https://plato.stanford.edu/entries/astell/#MindIdea)
-* [2.2 直觉与权威，知识与信仰](https://plato.stanford.edu/entries/astell/#IntuAuthKnowFait)
-* [3. 方法：教育哲学](https://plato.stanford.edu/entries/astell/#MethPhilEduc)
-* [3.1 居住在修道院社区的方法](https://plato.stanford.edu/entries/astell/#MethForInhaMonaComm)
-* [3.2 人们在修道院之外的生活方法](https://plato.stanford.edu/entries/astell/#MethForPeopLiviOutsMonaComm)
-* [4. 伦理学](https://plato.stanford.edu/entries/astell/#Ethi)
-* [4.1 伦理学作为自我关怀](https://plato.stanford.edu/entries/astell/#EthiCareSelf)
-* [4.2 美德理论](https://plato.stanford.edu/entries/astell/#VirtTheo)
-* [4.3 义务伦理](https://plato.stanford.edu/entries/astell/#DeonEthi)
-* [参考文献](https://plato.stanford.edu/entries/astell/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/astell/#PrimSour)
-* [次要来源](https://plato.stanford.edu/entries/astell/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/astell/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/astell/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/astell/#Rel)
 
 ***
 

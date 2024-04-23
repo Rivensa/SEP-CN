@@ -4,20 +4,7 @@
 
 阿佛洛狄西亚的亚历山大是一位斯多亚学派的哲学家和评论家，活跃于公元 2 世纪末和 3 世纪初。他延续了安德洛尼库斯的传统，即在公元前 1 世纪由罗得的安德洛尼库斯编辑的亚里士多德的“秘传”著作上写详细的评论，这些著作只用于他的学校。这一传统反映了对亚里士多德哲学的逐渐复兴，始于公元前 2 世纪末，并有助于在后来的古代哲学辩论中重新确立亚里士多德的活跃地位。亚里士多德的哲学在他去世后的第二代中逐渐被忽视和混乱，一直处于斯多亚学派、伊壁鸠鲁学派和学院怀疑论者的阴影之下。安德洛尼库斯编辑的亚里士多德文集《亚里士多德文集》（Corpus Aristotelicum）巩固了对亚里士多德哲学的新兴兴趣，尽管以不同的形式呈现：积极的研究被学术解释所取代，以解释哲学家难懂的文本。这些评论本身成为向高级学生阐述亚里士多德著作的材料。因此，每一代教师都会产生自己的评论，通常严重依赖于前辈的工作。因此，中世纪特有的权威文本学处理方式在公元前 1 世纪已经开始。由于亚历山大对亚里士多德的逻辑、物理学、心理学、形而上学和伦理学等广泛文本进行了细致入微且哲学上敏锐的解释，他成为后来古代和阿拉伯传统中的典范评论家。他通常被简称为“评论家”（ho exêgetês），后来与伊本·西那（Avicenna）或阿维罗伊斯（Averroes）共享这个称号。由于对亚历山大的生活和活动的证据很少，他的评论和与亚里士多德教义或多或少相关的短篇著作提供了我们对他作为哲学家和人的所有信息。正如这些著作所显示的，他的主要当代对手是斯多亚学派，但也有一些与伽伦的争议的证据。亚历山大不仅被认为是古代评论家中最好的一位，而且被认为是最后一位严格的亚里士多德评论家，他的目标是将亚里士多德的哲学作为一个连贯的整体呈现和捍卫，以适应当代哲学讨论。后来的评论家是新柏拉图主义学派的成员，他们关注的是记录柏拉图和亚里士多德思想的实质性一致性，并将亚里士多德的著作整合到他们的新柏拉图主义哲学体系中。但他们继续不仅咨询、讨论，而且批评亚历山大的著作，这可能是其幸存的原因。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/alexander-aphrodisias/#LifWor)
-* [1.1 日期、家庭、老师和影响](https://plato.stanford.edu/entries/alexander-aphrodisias/#DatFamTeaInf)
-* [1.2 作品及其历史](https://plato.stanford.edu/entries/alexander-aphrodisias/#WorTheHis)
-* [2. 亚历山大作为评论家](https://plato.stanford.edu/entries/alexander-aphrodisias/#AleCom)
-* [3. 亚历山大作为哲学家](https://plato.stanford.edu/entries/alexander-aphrodisias/#AlePhi)
-* [4. 重要性和影响](https://plato.stanford.edu/entries/alexander-aphrodisias/#ImpInf)
-* [参考文献](https://plato.stanford.edu/entries/alexander-aphrodisias/#Bib)
-* [A. 主要来源](https://plato.stanford.edu/entries/alexander-aphrodisias/#PriSou)
-* [B. 翻译](https://plato.stanford.edu/entries/alexander-aphrodisias/#Tra)
-* [C. 二级文献：概述](https://plato.stanford.edu/entries/alexander-aphrodisias/#SecLitOve)
-* [D. 二级文献：特定主题研究](https://plato.stanford.edu/entries/alexander-aphrodisias/#SecLitStuParTop)
-* [学术工具](https://plato.stanford.edu/entries/alexander-aphrodisias/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/alexander-aphrodisias/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/alexander-aphrodisias/#Rel)
+
 
 ---
 

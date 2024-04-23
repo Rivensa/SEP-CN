@@ -18,30 +18,6 @@ _首次发表于 2011 年 8 月 9 日；实质性修订于 2020 年 7 月 8 日_
 
 首先，本文描述了人们从内部了解自己身体的特殊方式。在将其与视觉意识进行比较并评估其认识论意义之后，本文将探讨它是否应被理解为一种感知形式。接下来，本文将讨论心理表征在身体意识中的作用，特别是探索其与行动和身体图式的关系。在最后一节中，本文将回顾几种关于身体所有权感的解释。
 
-* [1. 从内部看身体](https://plato.stanford.edu/entries/bodily-awareness/#BodyInsi)
-* [1.1 身体经验的多样性](https://plato.stanford.edu/entries/bodily-awareness/#VariBodiExpe)
-* [1.2 通过误认免于错误](https://plato.stanford.edu/entries/bodily-awareness/#ImmuErroThroMisi)
-* [1.3 从外部看身体](https://plato.stanford.edu/entries/bodily-awareness/#BodyOuts)
-* [2. 身体意识的知觉模型](https://plato.stanford.edu/entries/bodily-awareness/#PercModeBodiAwar)
-* [2.1 身体作为一个知觉对象](https://plato.stanford.edu/entries/bodily-awareness/#BodyPercObje)
-* [2.2 身体意识的空间性](https://plato.stanford.edu/entries/bodily-awareness/#SpatBodiAwar)
-* [2.3 观察无知识](https://plato.stanford.edu/entries/bodily-awareness/#KnowWithObse)
-* [2.4 身体意识与行动](https://plato.stanford.edu/entries/bodily-awareness/#BodiAwarActi)
-* [3. 心理表征与身体](https://plato.stanford.edu/entries/bodily-awareness/#MentReprBody)
-* [3.1 为什么需要身体意识？](https://plato.stanford.edu/entries/bodily-awareness/#WhyBodyRepr)
-* [3.2 身体意识的分类](https://plato.stanford.edu/entries/bodily-awareness/#TaxoBodyRepr)
-* [4. 身体所有权的感知](https://plato.stanford.edu/entries/bodily-awareness/#SensBodyOwne)
-* [4.1 The feeling of myness](https://plato.stanford.edu/entries/bodily-awareness/#FeelMyne)
-* [4.2 通货紧缩观念](https://plato.stanford.edu/entries/bodily-awareness/#DeflConc)
-* [4.3 认知观念](https://plato.stanford.edu/entries/bodily-awareness/#CognConc)
-* [4.4 主体观念](https://plato.stanford.edu/entries/bodily-awareness/#AgenConc)
-* [4.5 情感概念](https://plato.stanford.edu/entries/bodily-awareness/#AffeConc)
-* [5. 结论](https://plato.stanford.edu/entries/bodily-awareness/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/bodily-awareness/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/bodily-awareness/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/bodily-awareness/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bodily-awareness/#Rel)
-
 ***
 
 ## 1. 从内部来看的身体

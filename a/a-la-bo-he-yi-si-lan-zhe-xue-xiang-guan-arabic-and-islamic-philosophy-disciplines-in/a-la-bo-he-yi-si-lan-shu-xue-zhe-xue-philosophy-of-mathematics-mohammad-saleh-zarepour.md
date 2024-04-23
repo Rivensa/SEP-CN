@@ -6,23 +6,6 @@ _首次发布于 2022 年 4 月 9 日_
 
 众所周知，中世纪伊斯兰文明在数学技术方面的历史发展中起到了关键作用。站在他们的伊斯兰前身（希腊、印度和波斯）的肩膀上，穆斯林数学家在数学的各个分支上进行了许多创新，并写了大量的书籍和论文，介绍了数学概念并证明了数学定理（Al-Daffaʾ 1977; R. Rashed 1984b \[1994]; 1996 \[2012]; 2015; Berggren 2016）。然而，很难（如果不是不可能的话）找到一本中世纪伊斯兰时代专门致力于对数学哲学进行全面系统研究的书籍。尽管如此，许多上述关于数学的哲学问题已经被伟大的穆斯林中世纪思想家在各种作品中讨论过，这些作品的中心主题是数学、物理学、形而上学，甚至是神学（_kalām_）。将这些零散的讨论汇集在一起，可以清楚地看到，尽管数学哲学在中世纪伊斯兰世界从未被视为一个独立的学科，但穆斯林思想家对于至少与数学相关的一些哲学问题提出了非常有趣和深刻的思想、见解和论证。本条目简要回顾了这些见解和论证中最显著的例子，其中一些已经成为穆斯林思想家长期辩论和讨论的主题。因此，本文仅对阿拉伯和穆斯林学者的技术数学著作进行讨论，只要它们包含与数学哲学相关的材料。
 
-* [1. 数学的本体论](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#OntoMath)
-* [1.1 数学对象的本质](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#WhatMathObjeNot)
-* [1.2 数学对象是什么](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#WhatMathObje)
-* [1.3 无穷](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#Infi)
-* [1.4 连续性](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#Cont)
-* [2. 数学认识论](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#EpisMath)
-* [2.1 掌握数学概念](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#GrasMathConc)
-* [2.2 数学原理的认识论状态](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#EpisStatPrinMath)
-* [2.3 ](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#ArsAnalArsInve)​\*[分析艺术](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#ArsAnalArsInve)_​_[ _和_ ](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#ArsAnalArsInve)_​_[发现艺术](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#ArsAnalArsInve)\*
-* [2.4 数学的适用性和可靠性](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#ApplReliMath)
-* [3. 结论](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#PrimSour)
-* [次级来源](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#SconSour)
-* [学术工具](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/arabic-islamic-phil-math/#Rel)
 
 ***
 

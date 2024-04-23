@@ -4,28 +4,6 @@ _首次发表于 2002 年 12 月 4 日星期三；实质性修订于 2019 年 1 
 
 弗朗兹·布伦塔诺（1838-1917）主要以其在心理哲学领域的工作而闻名，特别是因为他引入了“关向性”概念到当代哲学。他对许多哲学领域做出了重要贡献，特别是对心灵哲学、形而上学和本体论、伦理学、逻辑学、哲学史和哲学神学的贡献。布伦塔诺受亚里士多德和斯科拉哲学家的影响很大，同时也受到 19 世纪早期经验主义和实证主义运动的影响。由于他从第一人称角度描述意识的内省主义方法，一方面，以及他严谨的风格以及他主张哲学应该像自然科学一样用精确方法进行的观点，另一方面，布伦塔诺经常被认为是现象学运动和分析哲学传统的先驱。作为一位富有魅力的教师，布伦塔诺对埃德蒙·胡塞尔、亚历克修斯·迈农、克里斯蒂安·冯·埃伦费尔斯、卡西米尔·特瓦多夫斯基、卡尔·斯图姆夫和安东·马蒂等人的工作产生了深远影响，从而在 20 世纪初的中欧哲学发展中发挥了重要作用。
 
-* [1. 生平与工作](https://plato.stanford.edu/entries/brentano/#life)
-* [2. 哲学作为严谨科学和科学心理学的兴起](https://plato.stanford.edu/entries/brentano/#method)
-* [3. 弗朗兹·布伦塔诺的心灵理论](https://plato.stanford.edu/entries/brentano/#psychology)
-* [3.1 内部感知，意识统一和心理现象的三分法](https://plato.stanford.edu/entries/brentano/#innerperception)
-* [3.2 意向性](https://plato.stanford.edu/entries/brentano/#intentionality)
-* [3.3 时间意识](https://plato.stanford.edu/entries/brentano/#time)
-* [4. 逻辑、伦理学和美学](https://plato.stanford.edu/entries/brentano/#contributions)
-* [5. 心理主义和哲学史](https://plato.stanford.edu/entries/brentano/#psychologism)
-* [6. 弗朗兹·布伦塔诺的形而上学](https://plato.stanford.edu/entries/brentano/#metaphysics)
-* [7. 弗朗兹·布伦塔诺哲学的影响](https://plato.stanford.edu/entries/brentano/#impact)
-* [7.1 早期接受：布伦塔诺学派](https://plato.stanford.edu/entries/brentano/#school)
-* [7.2 近期接受：重新发现弗朗兹·布伦塔诺](https://plato.stanford.edu/entries/brentano/#today)
-* [参考文献](https://plato.stanford.edu/entries/brentano/#Bib)
-* [弗朗兹·布伦塔诺的著作](https://plato.stanford.edu/entries/brentano/#works)
-* [引用作品的缩写](https://plato.stanford.edu/entries/brentano/#abbreviations)
-* [作品（德语）](https://plato.stanford.edu/entries/brentano/#german)
-* [作品（英文翻译）](https://plato.stanford.edu/entries/brentano/#transl)
-* [次级来源](https://plato.stanford.edu/entries/brentano/#secondary)
-* [学术工具](https://plato.stanford.edu/entries/brentano/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/brentano/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/brentano/#Rel)
-
 ***
 
 ## 1. 生平与工作

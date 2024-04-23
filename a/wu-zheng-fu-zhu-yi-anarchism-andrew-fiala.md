@@ -4,31 +4,7 @@ _首次发布于 2017 年 10 月 3 日；实质性修订于 2021 年 10 月 26 �
 
 无政府主义是一种对权威和权力合理性持怀疑态度的政治理论。无政府主义通常基于对个体自由重要性的道德主张，常被理解为摆脱统治的自由。无政府主义者还提出了一个关于人类繁荣的积极理论，基于平等、社区和非强制性的共识建立的理想。无政府主义激发了建立乌托邦社区、激进和革命政治议程以及各种形式的直接行动的实践努力。本条目主要描述了“哲学无政府主义”：它侧重于无政府主义作为一种理论观念，而不是一种政治行动形式。虽然哲学无政府主义描述了一种对政治合法性的怀疑理论，但无政府主义也是一个在哲学和文学理论中被用来描述一种反基础主义的概念。哲学无政府主义既可以指对试图证明国家权威的企图持怀疑态度的政治生活理论，也可以指对试图为知识确立坚实基础的企图持怀疑态度的哲学理论。
 
-* [1. 无政府主义的种类](https://plato.stanford.edu/entries/anarchism/#VariAnar)
-* [1.1 政治无政府主义](https://plato.stanford.edu/entries/anarchism/#PoliAnar)
-* [1.2 宗教无政府主义](https://plato.stanford.edu/entries/anarchism/#ReliAnar)
-* [1.3 理论无政府主义](https://plato.stanford.edu/entries/anarchism/#TheoAnar)
-* [1.4 应用无政府主义](https://plato.stanford.edu/entries/anarchism/#ApplAnar)
-* [1.5 无政府主义中的黑人、土著和去殖民化](https://plato.stanford.edu/entries/anarchism/#BlackAnar)
-* [2. 政治哲学中的无政府主义](https://plato.stanford.edu/entries/anarchism/#AnarPoliPhil)
-* [2.1 政治哲学史中的无政府主义](https://plato.stanford.edu/entries/anarchism/#AnarHistPoliPhil)
-* [2.2 绝对主义、义务论和先验无政府主义](https://plato.stanford.edu/entries/anarchism/#AbsoDeonPrioAnar)
-* [2.3 无政府主义的偶然性、结果主义和](https://plato.stanford.edu/entries/anarchism/#ContConsPostAnar)​\*[a posteriori](https://plato.stanford.edu/entries/anarchism/#ContConsPostAnar)\*
-* [2.4 个人主义、自由主义和社会主义无政府主义](https://plato.stanford.edu/entries/anarchism/#IndiLibeSociAnar)
-* [3. 无政府主义与政治活动](https://plato.stanford.edu/entries/anarchism/#AnarPoliActi)
-* [3.1 非暴力、暴力和犯罪](https://plato.stanford.edu/entries/anarchism/#NonvViolCrim)
-* [3.2 不服从、革命和改革](https://plato.stanford.edu/entries/anarchism/#DisoRevoRefo)
-* [3.3 乌托邦社区和非革命无政府主义](https://plato.stanford.edu/entries/anarchism/#UtopCommNonRevoAnar)
-* [4. 反对和回应](https://plato.stanford.edu/entries/anarchism/#ObjeRepl)
-* [4.1 无政府主义是虚无主义和破坏性的](https://plato.stanford.edu/entries/anarchism/#AnarNihiDest)
-* [4.2 无政府主义将始终演变为国家](https://plato.stanford.edu/entries/anarchism/#AnarWillAlwaEvolBackStat)
-* [4.3 无政府主义是乌托邦主义](https://plato.stanford.edu/entries/anarchism/#AnarUtop)
-* [4.4 无政府主义是不连贯的](https://plato.stanford.edu/entries/anarchism/#AnarInco)
-* [4.5 哲学上的无政府主义是“无力的”](https://plato.stanford.edu/entries/anarchism/#PhilAnarToot)
-* [参考文献](https://plato.stanford.edu/entries/anarchism/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/anarchism/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/anarchism/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/anarchism/#Rel)
+
 
 ***
 

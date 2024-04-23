@@ -6,18 +6,7 @@ _首次发表于 2006 年 5 月 26 日；实质性修订于 2023 年 4 月 24 �
 
 亚里士多德强调，物理学几乎包含了关于世界的所有知识。如果没有独立的形式——如宇宙顶点的不动动者——它们没有物质，也不是物质世界的一部分，那么物理学将成为亚里士多德所称的“第一哲学”（《形而上学》6.1, 1026a27–31）。由于存在这样的独立实体，物理学依赖于它们，只是第二哲学（《形而上学》7.11, 1037a14f）。然而，这两种“哲学”之间的相互作用并不完全由超物质实体——即主要动因——对世界施加的因果影响来解释。亚里士多德的形而上学和物理学使用共同的概念框架，它们经常涉及相似的问题。第一哲学的首要和独特任务是对第一实体进行探究；然而，这些实体并不是可感知的实体，因此必须通过对物质实体进行形而上学调查来进行研究。因此，这两个学科之间存在重叠，常常难以分割。
 
-* [1. 本质和四因](https://plato.stanford.edu/entries/aristotle-natphil/#NatuFourCaus)
-* [2. 运动](https://plato.stanford.edu/entries/aristotle-natphil/#Moti)
-* [3. 因果同义的原则](https://plato.stanford.edu/entries/aristotle-natphil/#PrinCausSyno)
-* [4. 运动之间的优先级](https://plato.stanford.edu/entries/aristotle-natphil/#PrioAmonMoti)
-* [5. 运动者和不动者](https://plato.stanford.edu/entries/aristotle-natphil/#MoveUnmoMove)
-* [亚里士多德术语词汇表](https://plato.stanford.edu/entries/aristotle-natphil/#GlosArisTerm)
-* [参考文献](https://plato.stanford.edu/entries/aristotle-natphil/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/aristotle-natphil/#PrimSour)
-* [次级来源](https://plato.stanford.edu/entries/aristotle-natphil/#SecoSour)
-* [学术工具](https://plato.stanford.edu/entries/aristotle-natphil/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aristotle-natphil/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aristotle-natphil/#Rel)
+
 
 ***
 

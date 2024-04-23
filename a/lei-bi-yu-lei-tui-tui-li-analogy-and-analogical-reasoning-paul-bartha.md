@@ -6,33 +6,6 @@ _首次发布于 2013 年 6 月 25 日；实质性修订于 2019 年 1 月 25 �
 
 类比推理对人类思维至关重要，可以说对一些非人类动物也是如此。历史上，类比推理在广泛的问题解决环境中发挥了重要但有时神秘的作用。自古以来，明确使用类比论证一直是科学、哲学和法律推理的一个独特特征。本文主要关注类比论证的性质、评估和证明。相关主题包括[隐喻](https://plato.stanford.edu/entries/metaphor/)、[科学模型](https://plato.stanford.edu/entries/models-science/)以及[法律推理中的先例和类比](https://plato.stanford.edu/entries/legal-reas-prec/)。
 
-* [1. 引言：类比的多种角色](https://plato.stanford.edu/entries/reasoning-analogy/#IntManRolAna)
-* [2. 类比论证](https://plato.stanford.edu/entries/reasoning-analogy/#AnaArg)
-* [2.1 例子](https://plato.stanford.edu/entries/reasoning-analogy/#Exa)
-* [2.2 特征描述](https://plato.stanford.edu/entries/reasoning-analogy/#Cha)
-* [2.3 可信度](https://plato.stanford.edu/entries/reasoning-analogy/#Pla)
-* [2.4 类比推理规则？](https://plato.stanford.edu/entries/reasoning-analogy/#AnaInfRul)
-* [3. 评估类比论证的标准](https://plato.stanford.edu/entries/reasoning-analogy/#CriForEvaAnaArg)
-* [3.1 常识指南](https://plato.stanford.edu/entries/reasoning-analogy/#ComGui)
-* [3.2 亚里士多德的理论](https://plato.stanford.edu/entries/reasoning-analogy/#AriThe)
-* [3.3 材料标准：赫塞的理论](https://plato.stanford.edu/entries/reasoning-analogy/#MatCriHesThe)
-* [3.4 正式标准：结构映射理论](https://plato.stanford.edu/entries/reasoning-analogy/#ForCriStrMapThe)
-* [3.5 其他理论](https://plato.stanford.edu/entries/reasoning-analogy/#OthThe)
-* [3.6 基于实践的方法](https://plato.stanford.edu/entries/reasoning-analogy/#PraBasApp)
-* [4. 类比推理的哲学基础](https://plato.stanford.edu/entries/reasoning-analogy/#PhiFouForAnaRea)
-* [4.1 演绎证明](https://plato.stanford.edu/entries/reasoning-analogy/#DedJus)
-* [4.2 归纳证明](https://plato.stanford.edu/entries/reasoning-analogy/#IndJus)
-* [4.3 ](https://plato.stanford.edu/entries/reasoning-analogy/#PriJus)​\*[先验](https://plato.stanford.edu/entries/reasoning-analogy/#PriJus)\*​[ 正当性](https://plato.stanford.edu/entries/reasoning-analogy/#PriJus)
-* [4.4 实用主义正当性](https://plato.stanford.edu/entries/reasoning-analogy/#PraJus)
-* [5. 超越类比论证](https://plato.stanford.edu/entries/reasoning-analogy/#BeyAnaArg)
-* [5.1 类比与确认](https://plato.stanford.edu/entries/reasoning-analogy/#AnaCon)
-* [5.2 概念变化与理论发展](https://plato.stanford.edu/entries/reasoning-analogy/#ConChaTheDev)
-* [参考文献](https://plato.stanford.edu/entries/reasoning-analogy/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/reasoning-analogy/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/reasoning-analogy/#Oth)
-* [网站](https://plato.stanford.edu/entries/reasoning-analogy/#Web)
-* [在线手稿](https://plato.stanford.edu/entries/reasoning-analogy/#OnlMan)
-* [相关条目](https://plato.stanford.edu/entries/reasoning-analogy/#Rel)
 
 ***
 

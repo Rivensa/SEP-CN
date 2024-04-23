@@ -8,28 +8,6 @@ _先验_论证是一种在某种程度上独立于经验的认识论证。吉蒂
 
 以下列表列出了将要呈现和讨论的主题。
 
-* [1. 举例说明先验和后验（经验）论证之间的区别](https://plato.stanford.edu/entries/apriori/#ExamIlluDiffBetwPrioPostEmpiJust)
-* [2. 什么样的命题可以被先验论证和知识所证明：所有的，也只有模态命题吗？](https://plato.stanford.edu/entries/apriori/#WhatSortPropPrioJustKnowAllOnlyModaProp)
-* [3. 先验论证是否可被推翻和抵触？](https://plato.stanford.edu/entries/apriori/#PrioJustFallDefe)
-* [4. 先验论证的本质是什么？](https://plato.stanford.edu/entries/apriori/#WhatNatuPrioJust)
-* [4.1 先验论证是独立于经验的论证](https://plato.stanford.edu/entries/apriori/#PrioJustJustIndeExpe)
-* [4.2 直观判断的内容是什么？](https://plato.stanford.edu/entries/apriori/#WhatContIntuJudg)
-* [4.3 先验论证与知识与后验论证与知识之间没有显著差异](https://plato.stanford.edu/entries/apriori/#TherNoSignDiffBetwPrioPostJustKnow)
-* [4.4 先验论证与知识的基础：理性直觉或洞察力](https://plato.stanford.edu/entries/apriori/#RatiIntuInsiBasePrioJust)
-* [4.5 先验论证不需要任何非经验性的证据来源](https://plato.stanford.edu/entries/apriori/#PrioJustDoesNotRequAnyNoneSourEvid)
-* [5. 我们应该认为理性直觉为其对象提供证据吗？](https://plato.stanford.edu/entries/apriori/#ShouWeThinRatiIntuProvEvidForPropTheiObje)
-* [6. 我们应该怀疑智力直觉的证据力吗？](https://plato.stanford.edu/entries/apriori/#ShouWeDoubEvidForcInteIntu)
-* [6.1 什么是先验论证或知识直觉？](https://plato.stanford.edu/entries/apriori/#WhatExacInteSeemRatiIntu)
-* [6.2 实证哲学](https://plato.stanford.edu/entries/apriori/#ExpePhil)
-* [6.3 直觉能够被检验准确性吗？](https://plato.stanford.edu/entries/apriori/#IntuChecForAccu)
-* [6.4 自然化认识论](https://plato.stanford.edu/entries/apriori/#NatuEpis)
-* [6.5 实用主义](https://plato.stanford.edu/entries/apriori/#Prag)
-* [7. 即使直觉可以证明，它们能产生关于外部世界的知识吗？](https://plato.stanford.edu/entries/apriori/#EvenIfIntuJustTheyYielKnowExteWorl)
-* [8. 什么是先验知识？](https://plato.stanford.edu/entries/apriori/#WhatPrioKnow)
-* [参考文献](https://plato.stanford.edu/entries/apriori/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/apriori/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/apriori/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/apriori/#Rel)
 
 ***
 

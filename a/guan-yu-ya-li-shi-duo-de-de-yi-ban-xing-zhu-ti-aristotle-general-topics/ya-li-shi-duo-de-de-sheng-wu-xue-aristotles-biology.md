@@ -6,20 +6,6 @@ _首次发表于 2006 年 2 月 15 日；实质性修订于 2021 年 7 月 16 �
 
 相比之下，亚里士多德认为研究生物，尤其是动物，对于理论研究自然界至关重要。他的动物学著作约占现存文集的 25%，为生物学研究提供了一种合理的_方法_的理论辩护，并记录了对动物进行的首次系统和全面的研究。直到 16 世纪，才有类似范围和复杂性的研究再次出现。在 19 世纪，伟大的解剖学家理查德·欧文通过宣称“动物学科学源于他（亚里士多德）的努力，我们几乎可以说，就像米涅瓦从朱庇特的头上诞生一样，以一种高贵而辉煌的成熟状态”（欧文，1992 年，91 页）来介绍亚里士多德的动物学研究。在探讨这一非凡成就之前，有必要简要介绍一下其创造者。\[[1](https://plato.stanford.edu/entries/aristotle-biology/notes.html#note-1)]。
 
-* [1. 生平与工作](https://plato.stanford.edu/entries/aristotle-biology/#LifWor)
-* [2. 亚里士多德的科学哲学](https://plato.stanford.edu/entries/aristotle-biology/#AriSci)
-* [3. Caveat lector](https://plato.stanford.edu/entries/aristotle-biology/#CavLec)
-* [4. 生物哲学](https://plato.stanford.edu/entries/aristotle-biology/#Bio)
-* [5. 亚里士多德的生物学实践](https://plato.stanford.edu/entries/aristotle-biology/#AriBioPra)
-* [5.1 《动物历史》作为一项“Hoti”调查结果的报告](https://plato.stanford.edu/entries/aristotle-biology/#HisAniRepResHot)
-* [5.2 从调查到理解；从“hoti”到“dioti”。](https://plato.stanford.edu/entries/aristotle-biology/#InqUndHotDio)
-* [6. 结论之谜](https://plato.stanford.edu/entries/aristotle-biology/#ConPuz)
-* [参考文献](https://plato.stanford.edu/entries/aristotle-biology/#Bib)
-* [选定文本、翻译、评论](https://plato.stanford.edu/entries/aristotle-biology/#SelTexTraCom)
-* [亚里士多德生物学的二级来源](https://plato.stanford.edu/entries/aristotle-biology/#SecSouAriBio)
-* [学术工具](https://plato.stanford.edu/entries/aristotle-biology/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aristotle-biology/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aristotle-biology/#Rel)
 
 ***
 

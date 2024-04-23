@@ -8,15 +8,7 @@
 
 但是什么是共同行动呢？这个问题在当代行动哲学中得到了持续的讨论。核心关注点是阐明共享能动性的独特特征，并探讨减少的可能性和范围：共享能动性是否可以通过我们从个体能动性研究中获得的资源来理解？本文将重点关注与行动哲学最相关的一些问题。有关更广泛讨论，请参阅关于集体意向性的条目。
 
-* [1. 传统本体论问题和意向论命题](https://plato.stanford.edu/entries/shared-agency/#TraOntProIntThe)
-* [2. 共享能动性的相互关联意图](https://plato.stanford.edu/entries/shared-agency/#IntParInt)
-* [3. 如何建立相互关联意图的结构？](https://plato.stanford.edu/entries/shared-agency/#HowStrIntIntEst)
-* [4. 共同义务](https://plato.stanford.edu/entries/shared-agency/#MutObl)
-* [5. 话语困境和群体心智](https://plato.stanford.edu/entries/shared-agency/#DisDilGroMin)
-* [参考文献](https://plato.stanford.edu/entries/shared-agency/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/shared-agency/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/shared-agency/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/shared-agency/#Rel)
+
 
 ***
 

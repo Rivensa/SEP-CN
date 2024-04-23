@@ -4,31 +4,6 @@ _首次发表于 2010 年 4 月 21 日星期三；实质性修订于 2021 年 12
 
 乔治·布尔（1815–1864）是一位英国数学家，也是逻辑代数传统的创始人。他曾在英格兰担任教师，并从 1849 年直到去世前一直担任爱尔兰科克女王大学的数学教授。他通过将当时新兴的符号代数领域的方法应用于逻辑学，彻底改变了逻辑学。传统（亚里士多德式）逻辑依赖于对各种简单形式的有效三段论进行分类，而布尔的方法提供了用代数语言表示的通用算法，适用于任意复杂性的无限种类的论证。这些成果体现在他的两部重要著作《逻辑的数学分析》（1847 年）和《思维的法则》（1854 年）中。
 
-* [1. 生平与工作](https://plato.stanford.edu/entries/boole/#LifeWork)
-* [2. 布尔在逻辑学工作中的背景和环境](https://plato.stanford.edu/entries/boole/#ContBackBoolWorkLogi)
-* [3. 逻辑的数学分析 (1847)](https://plato.stanford.edu/entries/boole/#MathAnalLogi1847)
-* [3.1 乔治·布尔对亚里士多德逻辑的版本](https://plato.stanford.edu/entries/boole/#BoolVersArisLogi)
-* [3.2 类符号和选举符号](https://plato.stanford.edu/entries/boole/#ClasSymbElecSymb)
-* [3.3 选用符号的运算和定律](https://plato.stanford.edu/entries/boole/#OperLawsForElecSymb)
-* [3.4 常见代数](https://plato.stanford.edu/entries/boole/#CommAlge)
-* [3.5 指数定律的影响](https://plato.stanford.edu/entries/boole/#ImpaIndeLaw)
-* [3.6 范畴命题的等式表达式](https://plato.stanford.edu/entries/boole/#EquaExprCateProp)
-* [3.7 假设三段论](https://plato.stanford.edu/entries/boole/#HypoSyll)
-* [3.8 乔治·布尔代数的一般定理在 ](https://plato.stanford.edu/entries/boole/#GeneTheoBoolAlgeMAL)​\*[MAL](https://plato.stanford.edu/entries/boole/#GeneTheoBoolAlgeMAL)\*​[ 中](https://plato.stanford.edu/entries/boole/#GeneTheoBoolAlgeMAL)
-* [4. The Laws of Thought (1854)](https://plato.stanford.edu/entries/boole/#LawsThou1854)
-* [5. Later Developments](https://plato.stanford.edu/entries/boole/#LateDeve)
-* [5.1 Objections to Boole’s Algebra of Logic](https://plato.stanford.edu/entries/boole/#ObjeBoolAlgeLogi)
-* [5.2 乔治·布尔 系统的现代重建](https://plato.stanford.edu/entries/boole/#ModeRecoBoolSyst)
-* [6. 乔治·布尔 的方法](https://plato.stanford.edu/entries/boole/#BoolMeth)
-* [6.1 乔治·布尔 在 ](https://plato.stanford.edu/entries/boole/#ThreMethArguAnalUsedBoolLT)​\*[LT](https://plato.stanford.edu/entries/boole/#ThreMethArguAnalUsedBoolLT)\*​[ 中使用的三种论证分析方法](https://plato.stanford.edu/entries/boole/#ThreMethArguAnalUsedBoolLT)
-* [6.2. 乔治·布尔 的初等命题的一般方法](https://plato.stanford.edu/entries/boole/#BoolGeneMethForPrimProp)
-* [6.3. 乔治·布尔 的二等命题的一般方法](https://plato.stanford.edu/entries/boole/#BoolGeneMethForSecoProp)
-* [参考文献](https://plato.stanford.edu/entries/boole/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/boole/#PrimLite)
-* [次要文献](https://plato.stanford.edu/entries/boole/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/boole/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/boole/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/boole/#Rel)
 
 ***
 

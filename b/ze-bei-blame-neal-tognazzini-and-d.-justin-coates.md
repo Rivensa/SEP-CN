@@ -9,29 +9,6 @@ _首次发表于 2014 年 4 月 15 日；实质性修订于 2018 年 8 月 17 �
 
 许多理论家在处理这些问题时都有一个更大的理论议程：例如，为了更普遍地理解道德责任的条件和自由的本质（例如，Wallace 1994），或者为了阐明道德属性的内容（例如，Gibbard 1990）。但这些问题本身就很有趣，特别是因为责备是道德经验中如此普遍的特征。本文将批判性地讨论对上述关于责备的问题所提出的答案，旨在揭示责备的本质、伦理学和意义。（一个普遍但并非普遍的假设是赞扬是责备的对应物；然而，责备常常被认为是道德哲学中更重要的现象。）
 
-* [1. 什么是责备？](https://plato.stanford.edu/entries/blame/#WhaBla)
-* [1.1 责备的认知理论](https://plato.stanford.edu/entries/blame/#CogTheBla)
-* [1.2 责备的情感理论](https://plato.stanford.edu/entries/blame/#EmoTheBla)
-* [1.3 责备的意愿理论](https://plato.stanford.edu/entries/blame/#ConTheBla)
-* [1.3.1 围绕信念-欲望对的倾向](https://plato.stanford.edu/entries/blame/#DisAroBelDesPai)
-* [1.3.2 对损害的态度调整](https://plato.stanford.edu/entries/blame/#AttAdjResImp)
-* [1.4 责备的功能理论](https://plato.stanford.edu/entries/blame/#FunTheBla)
-* [2. 何时适用责备？](https://plato.stanford.edu/entries/blame/#WheBlaApp)
-* [2.1 被责备的人的事实](https://plato.stanford.edu/entries/blame/#FacAboPers)
-* [2.1.1 道德行为能力](https://plato.stanford.edu/entries/blame/#MorAge)
-* [2.1.2 自由和责任](https://plato.stanford.edu/entries/blame/#Fre)
-* [2.2 责备互动的事实](https://plato.stanford.edu/entries/blame/#FacAboInter)
-* [2.2.1 比例原则](https://plato.stanford.edu/entries/blame/#Prop)
-* [2.2.2 认知考虑](https://plato.stanford.edu/entries/blame/#Epis)
-* [2.3 责备者的事实](https://plato.stanford.edu/entries/blame/#FacAboBlam)
-* [2.3.1 站立](https://plato.stanford.edu/entries/blame/#Stand)
-* [2.3.2 虚伪](https://plato.stanford.edu/entries/blame/#Hypo)
-* [2.3.3 Other Blamer-Based Worries](https://plato.stanford.edu/entries/blame/#OthBlamWor)
-* [2.4 Varieties of Blame](https://plato.stanford.edu/entries/blame/#VarBla)
-* [参考文献](https://plato.stanford.edu/entries/blame/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/blame/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/blame/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/blame/#Rel)
 
 ***
 

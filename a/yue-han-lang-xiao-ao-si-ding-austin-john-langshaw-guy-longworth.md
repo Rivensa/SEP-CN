@@ -4,23 +4,6 @@ _首次发表于 2012 年 12 月 11 日；实质性修订于 2021 年 6 月 30 �
 
 约约翰·朗肖·奥斯丁（1911-1960 年）是牛津大学的怀特斯道德哲学教授。他在哲学的各个领域做出了许多贡献，包括对知识、感知、行动、自由、真理、语言以及语言在言语行为中的使用的重要研究。奥斯丁在言语行为研究中所提出的区分，尤其是他对言语行为、言外行为和言后行为的区分，在近期的研究中已经被视为一种规范性的地位。他在知识和感知方面的研究使他成为了“牛津现实主义”的广泛传统中的一员，这一传统从库克·威尔逊和哈罗德·亚瑟·普里查德延续到 J.M.辛顿、M.G.F.马丁、约翰·麦克道威尔、保罗·斯诺登、查尔斯·特拉维斯和蒂莫西·威廉姆森。他在真理方面的研究在最近关于句子意义能否用真值条件来解释的讨论中起到了重要作用。
 
-* [1. 生平与工作](https://plato.stanford.edu/entries/austin-jl/#LifeWork)
-* [2. 语言与真理](https://plato.stanford.edu/entries/austin-jl/#LangTrut)
-* [2.1 语言与哲学](https://plato.stanford.edu/entries/austin-jl/#LangPhil)
-* [2.2 语言与真理](https://plato.stanford.edu/entries/austin-jl/#LangTrut_1)
-* [2.3 言语行为与真理](https://plato.stanford.edu/entries/austin-jl/#SpeeActsTrut)
-* [3. 知识和感知](https://plato.stanford.edu/entries/austin-jl/#KnowPerc)
-* [3.1 知识](https://plato.stanford.edu/entries/austin-jl/#Know)
-* [3.2 感觉知觉](https://plato.stanford.edu/entries/austin-jl/#SensPerc)
-* [4. 行动与自由](https://plato.stanford.edu/entries/austin-jl/#ActiFree)
-* [4.1 行动和借口](https://plato.stanford.edu/entries/austin-jl/#ActiExcu)
-* [4.2 自由和能力](https://plato.stanford.edu/entries/austin-jl/#FreeAbil)
-* [参考文献](https://plato.stanford.edu/entries/austin-jl/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/austin-jl/#PrimLite)
-* [二级文献](https://plato.stanford.edu/entries/austin-jl/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/austin-jl/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/austin-jl/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/austin-jl/#Rel)
 
 ***
 

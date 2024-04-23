@@ -4,33 +4,7 @@ _首次发表于 2003 年 2 月 28 日；实质性修订于 2023 年 2 月 16 �
 
 美是我们生活中重要的一部分。丑陋也是如此。因此，自古以来，哲学家们一直对我们对美和丑的体验和判断感兴趣。他们试图理解这些体验和判断的本质，并且也想知道这些体验和判断是否合法。这两个项目在 20 世纪形成了一个更加明确的形式，当时我们生活的这一部分在欧洲和北美的知识界都受到了持续的攻击。自 18 世纪以来，关于美的大部分讨论都使用了“审美”的概念，因此这个概念特别受到了批评。对审美的这种蔑视可能源于更广泛的文化清教主义，它害怕审美与快乐之间的联系。曾经有一段时间，从 20 世纪 60 年代到 90 年代，甚至暗示一件艺术品之所以好是因为它令人愉悦，而不是认知上、道德上或政治上有益，都会招致嘲笑。（现在这种情况不那么普遍了。）20 世纪对美或审美的概念并不友好。然而，总有一些思想家（包括哲学家以及研究特定艺术的其他人）坚持认真思考美和审美。在本文的第一部分，我们将研究伊曼努尔·康德给出的关于美的判断的特别丰富的论述。一个“品味的判断”的概念对康德的论述以及几乎所有从事传统美学研究的人来说都是核心的，因此我们首先要考察康德对品味判断的描述。在第二部分，我们将研究 20 世纪思想家们提出的问题。在第三部分，我们考虑康德认为是品味判断的一部分的客观性。最后，在第四部分，我们利用康德对品味判断的描述来考虑审美的概念是否可行。
 
-* [1. 品味的判断](https://plato.stanford.edu/entries/aesthetic-judgment/#JudgTast)
-* [1.1 主观性](https://plato.stanford.edu/entries/aesthetic-judgment/#Subj)
-* [1.2 规范性](https://plato.stanford.edu/entries/aesthetic-judgment/#Norm)
-* [1.3 重构规范性](https://plato.stanford.edu/entries/aesthetic-judgment/#RecaNorm)
-* [1.4 规范性与快乐](https://plato.stanford.edu/entries/aesthetic-judgment/#NormPlea)
-* [1.5 审美判断和重要问题](https://plato.stanford.edu/entries/aesthetic-judgment/#JudgTastBigQues)
-* [2. 审美判断的其他特征](https://plato.stanford.edu/entries/aesthetic-judgment/#OtheFeatAestJudg)
-* [2.1 审美真理](https://plato.stanford.edu/entries/aesthetic-judgment/#AestTrut)
-* [2.2 心智依赖和非审美依赖](https://plato.stanford.edu/entries/aesthetic-judgment/#MindDepeNonaDepe)
-* [2.3 审美属性依赖于哪些非审美属性？](https://plato.stanford.edu/entries/aesthetic-judgment/#WhicNonAestPropDoAestPropDepe)
-* [2.4 依赖性与无规律性](https://plato.stanford.edu/entries/aesthetic-judgment/#DepeLawl)
-* [2.5 正确性的首要性](https://plato.stanford.edu/entries/aesthetic-judgment/#PrimCorr)
-* [3. 公正无私](https://plato.stanford.edu/entries/aesthetic-judgment/#Disi)
-* [3.1 无私：更有雄心壮志和更少雄心壮志](https://plato.stanford.edu/entries/aesthetic-judgment/#DisiLessAmbi)
-* [3.2 无私的问题](https://plato.stanford.edu/entries/aesthetic-judgment/#ProbDisi)
-* [4.审美的概念](https://plato.stanford.edu/entries/aesthetic-judgment/#NotiAest)
-* [4.1 一些术语上的备注](https://plato.stanford.edu/entries/aesthetic-judgment/#SomeTermRema)
-* [4.2 问题](https://plato.stanford.edu/entries/aesthetic-judgment/#Prob)
-* [4.3 一个分层提议](https://plato.stanford.edu/entries/aesthetic-judgment/#HierProp)
-* [4.4 美和崇高](https://plato.stanford.edu/entries/aesthetic-judgment/#BeauSubl)
-* [4.5 审美道德](https://plato.stanford.edu/entries/aesthetic-judgment/#AestMora)
-* [参考文献](https://plato.stanford.edu/entries/aesthetic-judgment/#Bib)
-* [引用](https://plato.stanford.edu/entries/aesthetic-judgment/#Refe)
-* [进一步阅读](https://plato.stanford.edu/entries/aesthetic-judgment/#FurtRead)
-* [学术工具](https://plato.stanford.edu/entries/aesthetic-judgment/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aesthetic-judgment/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aesthetic-judgment/#Rel)
+
 
 ***
 

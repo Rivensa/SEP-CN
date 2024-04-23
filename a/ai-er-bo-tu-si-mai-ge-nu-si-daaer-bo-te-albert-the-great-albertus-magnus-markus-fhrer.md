@@ -4,20 +4,7 @@
 
 大阿尔伯特（Albertus Magnus），又被称为大阿尔伯特，是中世纪出现的最具普遍思想家之一。与他最著名的学生圣托马斯·阿奎那相比，阿尔伯特的兴趣范围更广，涵盖了从自然科学到神学的各个领域。他在逻辑学、心理学、形而上学、气象学、矿物学和动物学方面都做出了贡献。他是 13 世纪几乎所有重要著作的热衷评论家。他深入研究亚里士多德的思想，试图以一种有序的方式理解其重要性，与将自己的思想融入亚里士多德研究中的阿拉伯评论家有所区别。然而，他并不排斥借鉴一些杰出的阿拉伯哲学家的思想来发展自己的哲学思想。他对多种哲学文本的深入理解使他能够构建出中世纪文化中最为杰出的综合体之一。
 
-* [1. 阿尔伯特大师的生平](https://plato.stanford.edu/entries/albert-great/#LifeAlbeGrea)
-* [2. 哲学事业](https://plato.stanford.edu/entries/albert-great/#PhilEnte)
-* [3. 逻辑](https://plato.stanford.edu/entries/albert-great/#Logi)
-* [4. 形而上学](https://plato.stanford.edu/entries/albert-great/#Meta)
-* [5. 心理学和人类学](https://plato.stanford.edu/entries/albert-great/#PsycAnth)
-* [6. 大阿尔伯特和科学](https://plato.stanford.edu/entries/albert-great/#AlbeMagnScie)
-* [7. 伦理学](https://plato.stanford.edu/entries/albert-great/#Ethi)
-* [8. 大阿尔伯特的影响](https://plato.stanford.edu/entries/albert-great/#InflAlbeGrea)
-* [参考文献](https://plato.stanford.edu/entries/albert-great/#Bib)
-* [主要文献：大阿尔伯特的著作](https://plato.stanford.edu/entries/albert-great/#PrimLite)
-* [次要文献](https://plato.stanford.edu/entries/albert-great/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/albert-great/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/albert-great/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/albert-great/#Rel)
+
 
 ---
 

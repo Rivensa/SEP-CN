@@ -6,34 +6,7 @@ _首次发布于 2007 年 4 月 19 日；实质性修订于 2020 年 4 月 15 �
 
 在这个项目中，他在某种程度上取得了成功。他撰写了一本关于符号学的新颖而具有挑战性的文本，并影响了将“透视学”作为数学研究（四学科）的必修课程。他成功地提出了一种基于光学研究的实验科学模型。后者被用于将实验科学扩展到包括新药物和身体的一般健康护理在内。他在一个新的背景下做到了这一点：运用语言和科学知识来更好地理解神学，并为基督教共和国服务。波那文图拉和约翰·佩查姆是他的最早读者之一。很明显，除了占星术和炼金术之外，培根与波那文图拉一样，试图将科学“还原”为神学。培根还在索邦大学的伟大世俗学者彼得·利摩日（1306 年去世）那里找到了一个有同情心的读者和解释者。他利用培根的光学进行科学和道德研究。通过彼得·利摩日的工作，培根可能影响了雷蒙·卢尔。在 1270 年代末或 1280 年代初的某个时候，培根回到了牛津，在那里完成了他的版本，包括引言和注释，拉丁文翻译的《秘密秘籍》，这是一本关于王子教育的阿拉伯文著作《秘密的秘密》。他认为这是亚里士多德为亚历山大大帝写的作品。这本给予王子的建议书表明了培根与教皇宫廷、法国宫廷和英国宫廷的密切联系。他与教皇宫廷的联系是通过亨利三世国王的大使威廉·博内科尔传达的。培根于 1292 年在牛津去世。
 
-* [1. 罗吉尔·培根的现代研究](https://plato.stanford.edu/entries/roger-bacon/#ModResRogBac)
-* [2. 生平与作品](https://plato.stanford.edu/entries/roger-bacon/#LifWor)
-* [3. 培根关于语法和逻辑的早期作品](https://plato.stanford.edu/entries/roger-bacon/#BacEarWorGraLog)
-* [3.1 ](https://plato.stanford.edu/entries/roger-bacon/#SumGra)​\*[总语法](https://plato.stanford.edu/entries/roger-bacon/#SumGra)\*
-* [3.2 ](https://plato.stanford.edu/entries/roger-bacon/#SumDeSopEtDisSSD)​\*[罗吉尔·培根的《辩证学总论》和《辩证学与区别学总论》](https://plato.stanford.edu/entries/roger-bacon/#SumDeSopEtDisSSD)\*​[ (SSD)](https://plato.stanford.edu/entries/roger-bacon/#SumDeSopEtDisSSD)
-* [3.3 ](https://plato.stanford.edu/entries/roger-bacon/#SumDiaSD)​\*[罗吉尔·培根的《辩证学概要》](https://plato.stanford.edu/entries/roger-bacon/#SumDiaSD)\*​[ (SD)](https://plato.stanford.edu/entries/roger-bacon/#SumDiaSD)
-* [4. 作为亚里士多德评论家的罗吉尔·培根](https://plato.stanford.edu/entries/roger-bacon/#BacAriCom)
-* [4.1 罗吉尔·培根和理查德·鲁弗斯：《亚里士多德自然哲学》](https://plato.stanford.edu/entries/roger-bacon/#RogBacRicRufPhyAri)
-* [4.2 培根和格罗斯特斯特：知识、科学和直觉](https://plato.stanford.edu/entries/roger-bacon/#BacGroKnoSciInt)
-* [4.3 培根论物质](https://plato.stanford.edu/entries/roger-bacon/#BacMat)
-* [4.4 罗吉尔·培根关于普遍性和个体化](https://plato.stanford.edu/entries/roger-bacon/#BacUniInd)
-* [4.5 罗吉尔·培根的实在论：通往晚期中世纪名义主义的道路？](https://plato.stanford.edu/entries/roger-bacon/#BacReaWayLatMedNom)
-* [4.6 罗吉尔·培根关于身体、灵魂和心灵的早期作品](https://plato.stanford.edu/entries/roger-bacon/#BacBodSouMinEarWor)
-* [4.7 罗吉尔·培根关于身体、灵魂和心灵的观点：后期作品](https://plato.stanford.edu/entries/roger-bacon/#BacBodSouMinLatWor)
-* [5. 罗吉尔·培根的后期哲学：语言研究和科学为道德哲学和神学服务](https://plato.stanford.edu/entries/roger-bacon/#BacLatLanStuSciSerBotMorThe)
-* [5.1 背景](https://plato.stanford.edu/entries/roger-bacon/#Bac)
-* [5.2 ](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiOneTwo)​\*[Opus maius](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiOneTwo)\*​[ / 第一部分和第二部分](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiOneTwo)
-* [5.3 ](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiThrLanDeSigComStuPhi)​\*[Opus maius](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiThrLanDeSigComStuPhi)_​_[ _/ 第三部分：关于语言、_](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiThrLanDeSigComStuPhi)_​_[De signis](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiThrLanDeSigComStuPhi)_​_[ _和_ ](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiThrLanDeSigComStuPhi)_​_[Compendium Studii philosophiae](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiThrLanDeSigComStuPhi)\*
-* [5.4 ](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiFouFivSixMatNatDeMulSpePerSciExp)​\*[Opus maius](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiFouFivSixMatNatDeMulSpePerSciExp)_​_[ _/ 第四、五和六部分：数学和自然哲学（_](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiFouFivSixMatNatDeMulSpePerSciExp)_​_[De multiplicatione specierum](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiFouFivSixMatNatDeMulSpePerSciExp)_​_[_、_](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiFouFivSixMatNatDeMulSpePerSciExp)_​_[Perspectiva](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiFouFivSixMatNatDeMulSpePerSciExp)_​_[_、_](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiFouFivSixMatNatDeMulSpePerSciExp)_​_[Scientia Experimentalis](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiFouFivSixMatNatDeMulSpePerSciExp)\*​[）](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiFouFivSixMatNatDeMulSpePerSciExp)
-* [5.5 ](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiSevMorPhi)​\*[罗吉尔·培根大作](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiSevMorPhi)_​_[_/第七部分：_](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiSevMorPhi)_​_[道德哲学](https://plato.stanford.edu/entries/roger-bacon/#OpuMaiSevMorPhi)\*
-* [5.6 培根的政治哲学：](https://plato.stanford.edu/entries/roger-bacon/#BacPolPhi)​\*[秘密的秘密](https://plato.stanford.edu/entries/roger-bacon/#BacPolPhi)\*
-* [6. 结论](https://plato.stanford.edu/entries/roger-bacon/#Conclusion)
-* [参考文献](https://plato.stanford.edu/entries/roger-bacon/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/roger-bacon/#PriSou)
-* [次要来源](https://plato.stanford.edu/entries/roger-bacon/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/roger-bacon/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/roger-bacon/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/roger-bacon/#Rel)
+
 
 ***
 

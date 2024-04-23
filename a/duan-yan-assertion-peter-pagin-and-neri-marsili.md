@@ -10,32 +10,6 @@ _首次发布于 2007 年 1 月 22 日；实质性修订于 2021 年 11 月 17 �
 
 我们将根据两个参数对描述进行分类。首先，我们区分“规范性”和“描述性”描述。规范性描述依赖于断言实践中至关重要的规范或规范关系的存在。描述性描述则不依赖于这些规范。其次，我们区分“内容导向”和“听众导向”描述。内容导向描述关注说话者与所断言的命题内容之间的关系，而听众导向描述则关注说话者与听众之间的关系。一些理论既有规范性成分又有描述性成分。本条目的结构如下所示：
 
-* [1. 话语行为](https://plato.stanford.edu/entries/assertion/#SpeeActs)
-* [2. 语用学](https://plato.stanford.edu/entries/assertion/#Prag)
-* [2.1 假设](https://plato.stanford.edu/entries/assertion/#Pres)
-* [2.2 含义推导](https://plato.stanford.edu/entries/assertion/#Impl)
-* [2.3 间接断言](https://plato.stanford.edu/entries/assertion/#IndiAsse)
-* [2.4 明确性](https://plato.stanford.edu/entries/assertion/#Expl)
-* [3. 描述性解释，内容导向](https://plato.stanford.edu/entries/assertion/#DescAccoContDire)
-* [3.1 与真理的关系](https://plato.stanford.edu/entries/assertion/#RelaTrut)
-* [3.2 通信的认知模型](https://plato.stanford.edu/entries/assertion/#ModeComm)
-* [4. 描述性解释，面向听众](https://plato.stanford.edu/entries/assertion/#DescAccoHearDire)
-* [4.1 自我表达](https://plato.stanford.edu/entries/assertion/#SelfRepr)
-* [4.2 交际意图](https://plato.stanford.edu/entries/assertion/#CommInte)
-* [5. 规范性解释，内容导向](https://plato.stanford.edu/entries/assertion/#NormAccoContDire)
-* [5.1 断言的规范](https://plato.stanford.edu/entries/assertion/#NormAsse)
-* [5.1.1 现代方法：正确性和保证可断言性](https://plato.stanford.edu/entries/assertion/#ModeApprCorrWarrAsse)
-* [5.1.2 当代方法：断言的规范](https://plato.stanford.edu/entries/assertion/#ContApprNormAsse)
-* [5.1.3 什么样的规范？](https://plato.stanford.edu/entries/assertion/#WhatKindNorm)
-* [5.1.4 哪种断言规范？](https://plato.stanford.edu/entries/assertion/#WhicNormAsse)
-* [补充文件：哪种规范？](https://plato.stanford.edu/entries/assertion/supplement.html)
-* [5.2 约定](https://plato.stanford.edu/entries/assertion/#Conv)
-* [6. 规范性解释，面向听者](https://plato.stanford.edu/entries/assertion/#NormAccoHearDire)
-* [6.1 承诺](https://plato.stanford.edu/entries/assertion/#Comm)
-* [参考文献](https://plato.stanford.edu/entries/assertion/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/assertion/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/assertion/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/assertion/#Rel)
 
 ***
 

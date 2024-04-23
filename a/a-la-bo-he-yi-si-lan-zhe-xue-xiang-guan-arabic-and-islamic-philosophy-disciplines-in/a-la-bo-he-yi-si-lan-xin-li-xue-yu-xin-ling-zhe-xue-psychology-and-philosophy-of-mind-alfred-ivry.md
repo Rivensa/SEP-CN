@@ -6,16 +6,6 @@ _首次发表于 2008 年 4 月 18 日；实质性修订于 2012 年 5 月 29 �
 
 亚里士多德所勾勒的心理观点是穆斯林哲学家的主导范式，受到表达柏拉图观点的希腊化变体的影响。九至十二世纪是表征古典伊斯兰哲学的严谨思辨时期，也是本文关注的时期和主题。它分为以下几个部分：
 
-* [1. 来源和首次表达：阿尔-金迪和拉齐](https://plato.stanford.edu/entries/arabic-islamic-mind/#SouFirExpAlKinRaz)
-* [2. 阿尔法拉比](https://plato.stanford.edu/entries/arabic-islamic-mind/#AlFar)
-* [3. 伊本·西那](https://plato.stanford.edu/entries/arabic-islamic-mind/#Avi)
-* [4. 阿维罗伊斯](https://plato.stanford.edu/entries/arabic-islamic-mind/#Ave)
-* [参考文献](https://plato.stanford.edu/entries/arabic-islamic-mind/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/arabic-islamic-mind/#PriSou)
-* [次要来源](https://plato.stanford.edu/entries/arabic-islamic-mind/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/arabic-islamic-mind/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/arabic-islamic-mind/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/arabic-islamic-mind/#Rel)
 
 ***
 

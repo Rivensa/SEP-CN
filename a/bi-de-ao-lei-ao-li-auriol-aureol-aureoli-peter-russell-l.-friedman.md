@@ -4,20 +4,6 @@ _首次发表于 2002 年 11 月 6 日；实质性修订于 2015 年 9 月 8 日
 
 虽然法国方济各会修士彼得·奥雷奥利（约 1280 年-1322 年）并没有像他稍年轻的同时代人威廉·奥卡姆那样引起太多关注，但在许多议题上，奥雷奥利在 14 世纪的思想家中可能与那位尊敬的学者一样有影响力。奥雷奥利经常明确地反对托马斯·阿奎那、亨利·甘特以及最重要的约翰·邓斯·斯科特斯的观点，他在整个哲学和神学问题上创造了有趣、创新且经常引起争议的立场，尤其是在他的认知理论中，他的许多立场为后来的思想家如格雷戈里·里米尼和约翰·卡普雷奥卢斯设定了辩论的条件。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/auriol/#LifWor)
-* [2. 奥雷奥利思想的特点和一些值得注意的立场](https://plato.stanford.edu/entries/auriol/#ChaAurThoSomNotPos)
-* [2.1 类别](https://plato.stanford.edu/entries/auriol/#Cat)
-* [2.2 存在的概念](https://plato.stanford.edu/entries/auriol/#ConBei)
-* [2.3 未来的可能性和神的预知](https://plato.stanford.edu/entries/auriol/#FutConDivFor)
-* [2.4 预定论与自由意志](https://plato.stanford.edu/entries/auriol/#PreFreWil)
-* [3. 认知与现实：概念主义和](https://plato.stanford.edu/entries/auriol/#CogReaConEssApp)​\*[esse apparens](https://plato.stanford.edu/entries/auriol/#CogReaConEssApp)\*
-* [4. 直观和抽象认知以及人类认知能力的限制](https://plato.stanford.edu/entries/auriol/#IntAbsCogLimHumCogAbi)
-* [参考文献](https://plato.stanford.edu/entries/auriol/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/auriol/#PriLit)
-* [次要文献](https://plato.stanford.edu/entries/auriol/#SecLit)
-* [学术工具](https://plato.stanford.edu/entries/auriol/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/auriol/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/auriol/#Rel)
 
 ***
 

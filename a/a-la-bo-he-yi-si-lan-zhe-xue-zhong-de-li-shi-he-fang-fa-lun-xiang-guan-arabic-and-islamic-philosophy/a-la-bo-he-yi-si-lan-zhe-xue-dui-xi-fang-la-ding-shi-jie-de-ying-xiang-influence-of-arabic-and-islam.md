@@ -6,29 +6,6 @@ _首次发表于 2008 年 9 月 19 日；实质性修订于 2020 年 1 月 17 �
 
 其中一些有影响力的阿拉伯理论包括：第一和第二意向之间的逻辑区分；基本形式的内涵和减弱；灵魂的估计能力及其对象，即意向；人类智力与独立活动智力之间的结合；物质智力的唯一性（亚维罗主义）；关于奇迹和预言的自然主义理论；世界的永恒和永恒创造的概念；活动智力作为形式的赋予者；第一原因作为自身必然存在的存在；智力从第一原因中产生的过程；本质与存在之间的区别；原始概念的理论；人类幸福的概念源于人类智力与活动智力的完美结合。
 
-* [1. 传播](https://plato.stanford.edu/entries/arabic-islamic-influence/#Tra)
-* [2. 科学的划分](https://plato.stanford.edu/entries/arabic-islamic-influence/#DivSci)
-* [3. 逻辑学](https://plato.stanford.edu/entries/arabic-islamic-influence/#Log)
-* [4. 自然哲学](https://plato.stanford.edu/entries/arabic-islamic-influence/#Nat)
-* [4.1 西方拉丁世界](https://plato.stanford.edu/entries/arabic-islamic-influence/#EteWor)
-* [4.2 化合物中的元素](https://plato.stanford.edu/entries/arabic-islamic-influence/#EleCom)
-* [4.3 自发生成](https://plato.stanford.edu/entries/arabic-islamic-influence/#SpoGen)
-* [5. 心理学](https://plato.stanford.edu/entries/arabic-islamic-influence/#Psy)
-* [5.1 估计](https://plato.stanford.edu/entries/arabic-islamic-influence/#Est)
-* [5.2 主动智力](https://plato.stanford.edu/entries/arabic-islamic-influence/#ActInt)
-* [5.3 四个智力](https://plato.stanford.edu/entries/arabic-islamic-influence/#FouInt)
-* [5.4 亚维鲁斯的唯一性论](https://plato.stanford.edu/entries/arabic-islamic-influence/#AveUniThe)
-* [5.5 预言的自然主义理论](https://plato.stanford.edu/entries/arabic-islamic-influence/#NatThePro)
-* [6. 形而上学](https://plato.stanford.edu/entries/arabic-islamic-influence/#Met)
-* [6.1 形而上学的主题](https://plato.stanford.edu/entries/arabic-islamic-influence/#SubMet)
-* [6.2 主要概念](https://plato.stanford.edu/entries/arabic-islamic-influence/#PriCon)
-* [6.3 本质与存在，普遍与个体](https://plato.stanford.edu/entries/arabic-islamic-influence/#EssExiUniInd)
-* [6.4 第一因和智慧的发出](https://plato.stanford.edu/entries/arabic-islamic-influence/#FirCauEmaInt)
-* [7. 伦理学](https://plato.stanford.edu/entries/arabic-islamic-influence/#Eth)
-* [参考文献](https://plato.stanford.edu/entries/arabic-islamic-influence/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/arabic-islamic-influence/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/arabic-islamic-influence/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/arabic-islamic-influence/#Rel)
 
 ***
 

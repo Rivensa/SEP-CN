@@ -6,20 +6,7 @@ _首次发布于 2022 年 4 月 3 日_
 
 认知科学涵盖了心理学、语言学、神经科学和哲学等学科，其相对较短的历史主要围绕着人类信息处理依赖于内部表征并受计算的观点（Boden 2006）。现在，认知科学也包括了挑战这一观点的方法，试图用环境依赖来替代或增强内部表征。对人类认知结构的关注在一些发展中得到了体现，例如马尔的视觉理论（1982）、布鲁克斯的机器人子系统架构（1986）以及感知和认知的预测处理理论（Friston 2010，详见下文[第 3 节](https://plato.stanford.edu/entries/aesthetics-cogsci/#PrefJudgReas)）。对于这个广泛领域的调查必须非常有选择性，我们试图为每个主题确定一些关键思想，以便展开讨论。在整个过程中，我们关注的是那些突显出当我们试图决定来自心理科学经验的某些美学原则是否需要重新思考、两个学科是否提供互补的视角以及一个学科对另一个学科是否具有特定的相关性的问题。
 
-* [1. 背景](https://plato.stanford.edu/entries/aesthetics-cogsci/#Back)
-* [2. 自下而上和自上而下的美学方法](https://plato.stanford.edu/entries/aesthetics-cogsci/#BottUpTopDownApprAest)
-* [3. Preference, Judgement and Reasons](https://plato.stanford.edu/entries/aesthetics-cogsci/#PrefJudgReas)
-* [4. Art, Empathy and Neuroaesthetics](https://plato.stanford.edu/entries/aesthetics-cogsci/#ArtEmpaNeur)
-* [5. 真实性](https://plato.stanford.edu/entries/aesthetics-cogsci/#Auth)
-* [6. 图像、想象和感知](https://plato.stanford.edu/entries/aesthetics-cogsci/#PictImagPerc)
-* [7. 情感](https://plato.stanford.edu/entries/aesthetics-cogsci/#Emot)
-* [8. 文学与文学语言的美学](https://plato.stanford.edu/entries/aesthetics-cogsci/#AestLiteLiteLang)
-* [9. 美学与进化](https://plato.stanford.edu/entries/aesthetics-cogsci/#AestEvol)
-* [10. 环境美学](https://plato.stanford.edu/entries/aesthetics-cogsci/#AestEnvi)
-* [参考文献](https://plato.stanford.edu/entries/aesthetics-cogsci/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/aesthetics-cogsci/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aesthetics-cogsci/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aesthetics-cogsci/#Rel)
+
 
 ***
 

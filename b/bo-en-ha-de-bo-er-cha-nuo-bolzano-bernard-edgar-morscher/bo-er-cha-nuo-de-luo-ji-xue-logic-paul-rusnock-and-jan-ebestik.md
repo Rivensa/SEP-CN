@@ -6,28 +6,6 @@ _首次发表于 2007 年 9 月 23 日星期日；实质性修订于 2022 年 7 
 
 波尔查诺对现代意义上的逻辑的阐述融入了广阔的《科学理论》（以下简称_TS_；波尔查诺逻辑的简短介绍可在波尔查诺 2004a 中找到）。这部作品最著名的创新属于他的变元逻辑：普遍有效性和分析性的定义，以及在命题之间创造了一个完整的外延关系系统，其中最重要的是相容性、推导性（推论）和等价性。波尔查诺发现了推导性与条件概率之间的联系，根据这一联系，推导性和不相容性出现为条件概率的两个极限情况。他还因采用反心理主义逻辑方法和对语义学的贡献而受到认可。波尔查诺关于导向关系（_Abfolge_）导致演绎科学命题之间的等级秩序的理论是对公理系统的第一次现代研究。此外，对逻辑概念的深入讨论和许多其他见解有助于使_TS_成为逻辑和认识论中的经典著作，与亚里士多德、莱布尼茨和弗雷格的著作齐名。其中包含的广泛历史注释是逻辑史的独特来源。尽管用自然语言编写，波尔查诺的逻辑代表了现代逻辑发展的重要突破。
 
-* [1. 逻辑和方法论的早期工作](https://plato.stanford.edu/entries/bolzano-logic/#EarlWorkLogiMeth)
-* [2. 逻辑作为科学理论](https://plato.stanford.edu/entries/bolzano-logic/#LogiTheoScie)
-* [3. 本身的命题](https://plato.stanford.edu/entries/bolzano-logic/#PropThem)
-* [3.1 命题的形式](https://plato.stanford.edu/entries/bolzano-logic/#FormProp)
-* [4. 概念](https://plato.stanford.edu/entries/bolzano-logic/#Idea)
-* [4.1 概念的种类](https://plato.stanford.edu/entries/bolzano-logic/#VariIdea)
-* [4.2 概念之间的外延关系：类的逻辑](https://plato.stanford.edu/entries/bolzano-logic/#ExteRelaBetwIdeaLogiClas)
-* [5. The analysis of propositions](https://plato.stanford.edu/entries/bolzano-logic/#AnalProp)
-* [6. 波尔查诺’s logic of variation](https://plato.stanford.edu/entries/bolzano-logic/#BolzLogiVari)
-* [6.1 Propositions and propositional forms](https://plato.stanford.edu/entries/bolzano-logic/#PropPropForm)
-* [6.2 波尔查诺逻辑中的普遍有效性/无效性和分析性](https://plato.stanford.edu/entries/bolzano-logic/#UnivValiAnal)
-* [6.3 具有可变部分的几个命题之间的关系](https://plato.stanford.edu/entries/bolzano-logic/#RelaAmonSevePropVariPart)
-* [6.4 条件概率](https://plato.stanford.edu/entries/bolzano-logic/#CondProb)
-* [6.5 推导性更仔细考虑](https://plato.stanford.edu/entries/bolzano-logic/#DeduClosCons)
-* [7. 真理之间的客观联系：基础 (](https://plato.stanford.edu/entries/bolzano-logic/#ObjeConnAmonTrutGrouAbfo)​\*[Abfolge](https://plato.stanford.edu/entries/bolzano-logic/#ObjeConnAmonTrutGrouAbfo)\*​[)](https://plato.stanford.edu/entries/bolzano-logic/#ObjeConnAmonTrutGrouAbfo)
-* [8. 结论](https://plato.stanford.edu/entries/bolzano-logic/#Conc)
-* [参考文献](https://plato.stanford.edu/entries/bolzano-logic/#Bib)
-* [主要文献](https://plato.stanford.edu/entries/bolzano-logic/#PrimLite)
-* [次要文献](https://plato.stanford.edu/entries/bolzano-logic/#SecoLite)
-* [学术工具](https://plato.stanford.edu/entries/bolzano-logic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/bolzano-logic/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/bolzano-logic/#Rel)
 
 ***
 

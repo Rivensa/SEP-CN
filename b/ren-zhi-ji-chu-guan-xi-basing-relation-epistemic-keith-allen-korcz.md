@@ -10,15 +10,7 @@ _首次发布于 2002 年 10 月 31 日；实质性修订于 2021 年 2 月 25 �
 
 分析基础关系与各种基本认识论问题相关。它与认识论合理化的本质以及关于内在主义/外在主义辩论的问题相关。此外，有人认为可靠主义的证明理论与基础关系的正确分析是不相容的。
 
-* [1. Causal Theories of the Basing Relation](https://plato.stanford.edu/entries/basing-epistemic/#CauTheBasRel)
-* [2. 基础关系的反事实理论](https://plato.stanford.edu/entries/basing-epistemic/#CouTheBasRel)
-* [3. 基础关系的信念论理论](https://plato.stanford.edu/entries/basing-epistemic/#DoxTheBasRel)
-* [4. 认知基础关系的因果信念理论](https://plato.stanford.edu/entries/basing-epistemic/#CauDoxTheBasRel)
-* [5. 认知基础关系与认识论](https://plato.stanford.edu/entries/basing-epistemic/#BasRelEpi)
-* [参考文献](https://plato.stanford.edu/entries/basing-epistemic/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/basing-epistemic/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/basing-epistemic/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/basing-epistemic/#Rel)
+
 
 ***
 

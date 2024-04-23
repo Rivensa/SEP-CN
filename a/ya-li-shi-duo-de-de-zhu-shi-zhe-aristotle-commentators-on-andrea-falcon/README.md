@@ -4,19 +4,7 @@ _首次发表于 2005 年 8 月 11 日；实质性修订于 2021 年 9 月 24 �
 
 希腊后期至晚期古代的哲学表达方式之一是哲学评论。在这个时期，柏拉图和亚里士多德被视为哲学权威，他们的作品受到了深入研究。本文简要介绍了希腊后期对亚里士多德哲学兴趣的复兴如何最终发展成一种新的文学形式：哲学评论。它还追溯了评论传统在晚期古代的发展，以解释这一传统的活力和丰富性。特别强调了对《范畴学》的古代研究，因为这篇简短但难以理解的论文在后希腊时期的亚里士多德复兴中起到了核心作用。读者应该记住，以评论形式研究亚里士多德并不意味着停止真正的哲学思考。相反，哲学家通常使用评论格式不仅来阐述亚里士多德的作品，还作为原创哲学理论的载体。这种方法的一个结果是，至少在开始阶段，回归亚里士多德并不涉及接受任何明确的教义。更直接地说（也更大胆地说）：公元前 1 世纪的亚里士多德学派哲学家并不被期望接受任何明确的教义。当时亚里士多德被视为权威，不是因为他不容置疑，而是因为他值得仔细研究。
 
-* [1. 引言](https://plato.stanford.edu/entries/aristotle-commentators/#Int)
-* [2. 评论传统的前史：公元前 1 世纪《范畴学》的命运](https://plato.stanford.edu/entries/aristotle-commentators/#PreHisComTraForCat1stCenBCE)
-* [3. 亚历山大·阿弗罗迪西亚斯和公元 1 至 2 世纪的亚里士多德传统](https://plato.stanford.edu/entries/aristotle-commentators/#AleAphAriTra1st2ndCenCE)
-* [4. 晚期古代的评论传统：《范畴论》在阅读课程中的地位](https://plato.stanford.edu/entries/aristotle-commentators/#ComTraLatAntPlaCatReaCur)
-* [5. 对《心灵论》的解释性工作](https://plato.stanford.edu/entries/aristotle-commentators/#ExeLabDeAni)
-* [6. 博伊修斯和拉丁传统](https://plato.stanford.edu/entries/aristotle-commentators/#BoeLatTra)
-* [7. 结论](https://plato.stanford.edu/entries/aristotle-commentators/#Con)
-* [参考文献](https://plato.stanford.edu/entries/aristotle-commentators/#Bib)
-* [A. 翻译的一手资料](https://plato.stanford.edu/entries/aristotle-commentators/#PriSouTra)
-* [B. 二手资料](https://plato.stanford.edu/entries/aristotle-commentators/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/aristotle-commentators/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/aristotle-commentators/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/aristotle-commentators/#Rel)
+
 
 ***
 

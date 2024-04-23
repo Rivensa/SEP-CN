@@ -6,23 +6,6 @@
 
 当代的定义可以根据强调的艺术维度进行分类。一种独特的现代传统主义定义关注艺术的制度特征，强调艺术随时间的变化，现代作品与传统艺术完全不同的突破，艺术作品与艺术史、艺术流派等的关系属性，以及艺术作品类别的不可否认的异质性。在当代哲学中，更传统、不那么传统主义的定义使用更广泛、更传统的美学属性概念，包括不仅限于与艺术相关的属性，并更加强调艺术的跨文化和跨历史特征，总之，强调艺术作品类别的共同点。混合定义旨在兼顾传统美学维度以及艺术制度和艺术历史维度，既不偏袒其中任何一个。
 
-* [1. 概念艺术定义的限制](https://plato.stanford.edu/entries/art-definition/#ConDefArt)
-* [2. 哲学史上的艺术定义](https://plato.stanford.edu/entries/art-definition/#TraDef)
-* [2.1 一些例子](https://plato.stanford.edu/entries/art-definition/#SomExa)
-* [3. 对定义的怀疑](https://plato.stanford.edu/entries/art-definition/#SkeAboDef)
-* [3.1 概念、历史、马克思主义、女性主义所激发的怀疑主义](https://plato.stanford.edu/entries/art-definition/#SkeInsVie)
-* [3.2 怀疑主义的一些后裔](https://plato.stanford.edu/entries/art-definition/#SomDes)
-* [4. 当代定义](https://plato.stanford.edu/entries/art-definition/#ConDef)
-* [4.1 传统主义定义：制度和历史](https://plato.stanford.edu/entries/art-definition/#ConDefInsHis)
-* [4.2 机构定义](https://plato.stanford.edu/entries/art-definition/#InsDef)
-* [4.3 历史定义](https://plato.stanford.edu/entries/art-definition/#HisDef)
-* [4.4 功能性（主要是美学）定义](https://plato.stanford.edu/entries/art-definition/#FunMaiAesDef)
-* [4.5 混合（分离）定义](https://plato.stanford.edu/entries/art-definition/#HybDisDef)
-* [5. 结论](https://plato.stanford.edu/entries/art-definition/#Con)
-* [参考文献](https://plato.stanford.edu/entries/art-definition/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/art-definition/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/art-definition/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/art-definition/#Rel)
 
 ***
 

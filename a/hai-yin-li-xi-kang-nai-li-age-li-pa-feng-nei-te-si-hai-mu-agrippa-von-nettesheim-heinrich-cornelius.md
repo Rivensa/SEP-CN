@@ -6,18 +6,6 @@ _首次发表于 2017 年 2 月 15 日；实质性修订于 2021 年 3 月 18 �
 
 为了理解阿格里帕思想之旅的内在连贯性，必须考虑他的整个作品。由于他特定的写作策略，这项任务变得更加困难，这种策略涉及在大量借用的材料和不规则的并置之下隐藏他真正的目的。这种思想和表达方式要求阿格里帕的读者将他的“分散意义”（_dispersa intentio_）拼凑在一起，并寻找故意隐藏在非系统性阐述中的理论信息。隐匿传播知识的文学技巧，是智慧传统的典型特征，对于大多数文艺复兴时期的知识分子来说越来越重要，他们“被迫通过将学问与预言相结合来创造自己的空间”（Celenza 2001: 128）。此外，阿格里帕通过收集古代和当代来源的广泛概念和引文来撰写他的文本，这些概念和引文被从原来的上下文中剥离出来，并在新的解释结构中重新组合。这种解构和重构他的文化模式的方式应该从阿格里帕的意识形态计划的角度来考虑。通过“重写”他的来源，他揭示了这些来源通常没有明说的假设和含义，并将在当代讨论中保持分离的论点和观点连接在一起，形成一个单一的连贯设计。通过这种方式，他为新文本增加了一个“政治”意义，这个意义在他的来源中纯粹的文化或宗教批评中并不存在。这种强调哲学的公民功能可以被视为阿格里帕作品中最具特色和“原创”的元素。
 
-* [1. 传记](https://plato.stanford.edu/entries/agrippa-nettesheim/#Biog)
-* [2. ](https://plato.stanford.edu/entries/agrippa-nettesheim/#DeOccuPhilEarlDraf)​\*[De occulta philosophia](https://plato.stanford.edu/entries/agrippa-nettesheim/#DeOccuPhilEarlDraf)\*​[（早期草稿）](https://plato.stanford.edu/entries/agrippa-nettesheim/#DeOccuPhilEarlDraf)
-* [3. ](https://plato.stanford.edu/entries/agrippa-nettesheim/#DeTripRatiCognDeum)​\*[De triplici ratione cognoscendi Deum](https://plato.stanford.edu/entries/agrippa-nettesheim/#DeTripRatiCognDeum)\*
-* [4. ](https://plato.stanford.edu/entries/agrippa-nettesheim/#DeInceEtVaniScie)​\*[De incertitudine et vanitate scientiarum](https://plato.stanford.edu/entries/agrippa-nettesheim/#DeInceEtVaniScie)\*
-* [5. ](https://plato.stanford.edu/entries/agrippa-nettesheim/#DeOccuPhilFinaDraf)​\*[De occulta philosophia](https://plato.stanford.edu/entries/agrippa-nettesheim/#DeOccuPhilFinaDraf)\*​[（最终草稿）](https://plato.stanford.edu/entries/agrippa-nettesheim/#DeOccuPhilFinaDraf)
-* [参考文献](https://plato.stanford.edu/entries/agrippa-nettesheim/#Bib)
-* [主要来源](https://plato.stanford.edu/entries/agrippa-nettesheim/#PrimSour)
-* [选定研究](https://plato.stanford.edu/entries/agrippa-nettesheim/#SeleStud)
-* [学术工具](https://plato.stanford.edu/entries/agrippa-nettesheim/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/agrippa-nettesheim/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/agrippa-nettesheim/#Rel)
-
 ***
 
 ## 1. 传记
