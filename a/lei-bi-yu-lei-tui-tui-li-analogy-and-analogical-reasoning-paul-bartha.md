@@ -757,7 +757,7 @@ Knuttila 和 Loettgers（2014）研究了类比推理在合成生物学中的作
 
 \| ![inpho icon](../.gitbook/assets/inpho.png) | [查找与本条目相关的主题和思想家](https://www.inphoproject.org/entity?sep=reasoning-analogy\&redirect=True) 在互联网哲学本体项目（InPhO）上。 |
 
-\| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [本条目的增强参考文献](https://philpapers.org/sep/reasoning-analogy/) 在[PhilPapers](https://philpapers.org/)上，附带链接到其数据库。 |
+\| ![phil papers icon](../.gitbook/assets/pp.png) | [本条目的增强参考文献](https://philpapers.org/sep/reasoning-analogy/) 在[PhilPapers](https://philpapers.org/)上，附带链接到其数据库。 |
 
 ## 其他互联网资源
 
@@ -1560,7 +1560,7 @@ Knuttila 和 Loettgers（2014）研究了类比推理在合成生物学中的作
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/reasoning-analogy/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
 | ![inpho icon](../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=reasoning-analogy\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
-| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/reasoning-analogy/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
+| ![phil papers icon](../.gitbook/assets/pp.png)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/reasoning-analogy/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
