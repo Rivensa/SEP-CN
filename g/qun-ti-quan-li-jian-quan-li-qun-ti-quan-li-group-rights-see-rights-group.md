@@ -1,2 +1,2 @@
-# \*群体权利——见权力：群体权力 group rights — see rights: group
+# \*群体权利——见权利：群体权利 group rights — see rights: group
 
