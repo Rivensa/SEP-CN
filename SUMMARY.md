@@ -94,3 +94,7 @@
   * [\*物理学——见物理学：物理学中的跨理论关系 in physics — see physics: intertheory relations in](r/ke-xue-huan-yuan-lun-reduction-scientific-raphael-van-riel-and-robert-van-gulick/wu-li-xue-jian-wu-li-xue-wu-li-xue-zhong-de-kua-li-lun-guan-xi-in-physics-see-physics-intertheory-re.md)
 * [指涉 reference (Eliot Michaelson)](r/zhi-she-reference-eliot-michaelson.md)
 * [反思平衡 reflective equilibrium (Carl Knight)](r/fan-si-ping-heng-reflective-equilibrium-carl-knight.md)
+* [亨利·莱格伍 Regius, Henricus (Desmond Clarke and Erik-Jan Bos)](r/heng-li-lai-ge-wu-regius-henricus-desmond-clarke-and-erikjan-bos.md)
+* [奥古斯特·威廉·雷贝格 Rehberg, August Wilhelm (Frederick C. Beiser)](r/ao-gu-si-te-wei-lian-lei-bei-ge-rehberg-august-wilhelm-frederick-c.-beiser.md)
+* [汉斯·赖兴巴赫 Reichenbach, Hans (Clark Glymour and Frederick Eberhardt)](r/han-si-lai-xing-ba-he-reichenbach-hans-clark-glymour-and-frederick-eberhardt/README.md)
+  * [汉斯·赖兴巴赫的共同原因原理  common cause principle (Christopher Hitchcock and Miklós Rédei)](r/han-si-lai-xing-ba-he-reichenbach-hans-clark-glymour-and-frederick-eberhardt/han-si-lai-xing-ba-he-de-gong-tong-yuan-yin-yuan-li-common-cause-principle-christopher-hitchcock-and.md)
