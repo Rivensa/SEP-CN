@@ -43,3 +43,20 @@
   * [\*不可或缺性论证——见数学哲学：数学哲学中的不可或缺性论证 indispensability argument — see mathematics, philosophy of: indispensability arguments in the](q/wei-la-de-feng-ao-man-kui-yin-quine-willard-van-orman-peter-hylton-and-gary-kemp/bu-ke-huo-que-xing-lun-zheng-jian-shu-xue-zhe-xue-shu-xue-zhe-xue-zhong-de-bu-ke-huo-que-xing-lun-zh.md)
   * [奎因的新基础 New Foundations (Thomas Forster)](q/wei-la-de-feng-ao-man-kui-yin-quine-willard-van-orman-peter-hylton-and-gary-kemp/kui-yin-de-xin-ji-chu-new-foundations-thomas-forster.md)
 * [引语 quotation (Herman Cappelen, Ernest Lepore, and Matthew McKeever)](q/yin-yu-quotation-herman-cappelen-ernest-lepore-and-matthew-mckeever.md)
+
+## R
+
+* [种族 race (Michael James and Adam Burgos)](r/zhong-zu-race-michael-james-and-adam-burgos/README.md)
+  * [\*种族批判哲学——见种族批判哲学 critical philosophy of — see critical philosophy of race](r/zhong-zu-race-michael-james-and-adam-burgos/zhong-zu-pi-pan-zhe-xue-jian-zhong-zu-pi-pan-zhe-xue-critical-philosophy-of-see-critical-philosophy.md)
+* [拉杜尔弗斯·布里托 Radulphus Brito (Ana María Mora-Márquez and Iacopo Costa)](r/la-du-er-fu-si-bu-li-tuo-radulphus-brito-ana-mara-moramrquez-and-iacopo-costa.md)
+* [艾伦·拉姆齐——见苏格兰哲学：18 世纪苏格兰哲学 Ramsay, Allan — see Scottish Philosophy: in the 18th Century](r/ai-lun-la-mu-qi-jian-su-ge-lan-zhe-xue-18-shi-ji-su-ge-lan-zhe-xue-ramsay-allan-see-scottish-philoso.md)
+* [弗兰克·拉姆齐 Ramsey, Frank (Fraser MacBride, Mathieu Marion, María José Frápolli, Dorothy Edgington, Edward Elliott, Sebastian Lutz, and Jeffrey Paris)](r/fu-lan-ke-la-mu-qi-ramsey-frank-fraser-macbride-mathieu-marion-mara-jos-frpolli-dorothy-edgington-ed/README.md)
+  * [拉姆齐的代际福利经济学 and intergenerational welfare economics (Partha Dasgupta)](r/fu-lan-ke-la-mu-qi-ramsey-frank-fraser-macbride-mathieu-marion-mara-jos-frpolli-dorothy-edgington-ed/la-mu-qi-de-dai-ji-fu-li-jing-ji-xue-and-intergenerational-welfare-economics-partha-dasgupta.md)
+* [彼得吕斯·拉米斯 Ramus, Petrus (Erland Sellberg)](r/bi-de-lv-si-la-mi-si-ramus-petrus-erland-sellberg.md)
+* [安·兰德 Rand, Ayn (Neera K. Badhwar and Roderick T. Long)](r/an-lan-de-rand-ayn-neera-k.-badhwar-and-roderick-t.-long.md)
+* [\*随机性 randomness](r/sui-ji-xing-randomness/README.md)
+  * [\*随机性与概率——见概率：概率与随机性 versus chance — see chance: versus randomness](r/sui-ji-xing-randomness/sui-ji-xing-yu-gai-shuai-jian-gai-shuai-gai-shuai-yu-sui-ji-xing-versus-chance-see-chance-versus-ran.md)
+* [\*理性选择的规范理论 rational choice, normative](r/li-xing-xuan-ze-de-gui-fan-li-lun-rational-choice-normative/README.md)
+  * [理性选择的规范理论：预期效用的替代理论 expected utility (R. A. Briggs)](r/li-xing-xuan-ze-de-gui-fan-li-lun-rational-choice-normative/li-xing-xuan-ze-de-gui-fan-li-lun-yu-qi-xiao-yong-de-ti-dai-li-lun-expected-utility-r.-a.-briggs.md)
+  * [理性选择的规范理论：预期效用 rivals to expected utility (Lara Buchak)](r/li-xing-xuan-ze-de-gui-fan-li-lun-rational-choice-normative/li-xing-xuan-ze-de-gui-fan-li-lun-yu-qi-xiao-yong-rivals-to-expected-utility-lara-buchak.md)
+* [理性主义与经验主义 rationalism vs. empiricism (Peter Markie and M. Folescu)](r/li-xing-zhu-yi-yu-jing-yan-zhu-yi-rationalism-vs.-empiricism-peter-markie-and-m.-folescu.md)
