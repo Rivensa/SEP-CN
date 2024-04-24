@@ -1083,7 +1083,7 @@
 * [罗伯特·格罗斯泰斯特 Grosseteste, Robert (Neil Lewis)](g/luo-bo-te-ge-luo-si-tai-si-te-grosseteste-robert-neil-lewis.md)
 * [胡果·格劳秀斯 Grotius, Hugo (Jon Miller)](g/hu-guo-ge-lao-xiu-si-grotius-hugo-jon-miller.md)
 * [形而上学奠基 grounding, metaphysical (Ricki Bliss and Kelly Trogdon)](g/xing-er-shang-xue-dian-ji-grounding-metaphysical-ricki-bliss-and-kelly-trogdon.md)
-* [\*群体权利——见权力：群体权力 group rights — see rights: group](g/qun-ti-quan-li-jian-quan-li-qun-ti-quan-li-group-rights-see-rights-group.md)
+* [\*群体权利——见权利：群体权利 group rights — see rights: group](g/qun-ti-quan-li-jian-quan-li-qun-ti-quan-li-group-rights-see-rights-group.md)
 
 ## H
 
@@ -1146,7 +1146,7 @@
 * [\*人文主义 humanism](h/ren-wen-zhu-yi-humanism/README.md)
   * [\*公民——见公民人文主义 civic — see civic humanism](h/ren-wen-zhu-yi-humanism/gong-min-jian-gong-min-ren-wen-zhu-yi-civic-see-civic-humanism.md)
 * [人性 human nature (Neil Roughley)](h/ren-xing-human-nature-neil-roughley.md)
-* [\*人权——见权力：人权 human rights — see rights: human](h/ren-quan-jian-quan-li-ren-quan-human-rights-see-rights-human.md)
+* [\*人权——见权利：人权 human rights — see rights: human](h/ren-quan-jian-quan-li-ren-quan-human-rights-see-rights-human.md)
 * [\*人体试验 ——见生物医学伦理学：临床研究伦理 human test subjects — see ethics, biomedical: clinical research](h/ren-ti-shi-yan-jian-sheng-wu-yi-xue-lun-li-xue-lin-chuang-yan-jiu-lun-li-human-test-subjects-see-eth.md)
 * [亚历山大·冯·洪堡 Humboldt, Alexander von (Dalia Nassar)](h/ya-li-shan-da-feng-hong-bao-humboldt-alexander-von-dalia-nassar.md)
 * [威廉·冯·洪堡 Humboldt, Wilhelm von (Kurt Mueller-Vollmer and Markus Messling)](h/wei-lian-feng-hong-bao-humboldt-wilhelm-von-kurt-muellervollmer-and-markus-messling.md)
