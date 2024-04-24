@@ -472,7 +472,7 @@
 * [安东尼·柯林斯 Collins, Anthony (William Uzgalis)](c/an-dong-ni-ke-lin-si-collins-anthony-william-uzgalis.md)
 * [殖民主义 colonialism (Margaret Kohn and Kavita Reddy)](c/zhi-min-zhu-yi-colonialism-margaret-kohn-and-kavita-reddy.md)
 * [颜色 color (Barry Maund)](c/yan-se-color-barry-maund.md)
-* [\*共同原因原则——见汉斯·赖兴巴赫的共同原因原则 common cause principle — see Reichenbach, Hans: common cause principle](c/gong-tong-yuan-yin-yuan-ze-jian-han-si-lai-xing-ba-he-de-gong-tong-yuan-yin-yuan-ze-common-cause-pri.md)
+* [\*共同原因原理——见汉斯·赖兴巴赫的共同原因原理 common cause principle — see Reichenbach, Hans: common cause principle](c/gong-tong-yuan-yin-yuan-ze-jian-han-si-lai-xing-ba-he-de-gong-tong-yuan-yin-yuan-ze-common-cause-pri.md)
 * [共同利益 common good (Waheed Hussain)](c/gong-tong-li-yi-common-good-waheed-hussain.md)
 * [共同知识 common knowledge (Peter Vanderschraaf and Giacomo Sillari)](c/gong-tong-zhi-shi-common-knowledge-peter-vanderschraaf-and-giacomo-sillari.md)
 * [社群主义 communitarianism (Daniel Bell)](c/she-qun-zhu-yi-communitarianism-daniel-bell.md)
