@@ -1,2 +1,2 @@
-# \*机遇 chance
+# \*概率 chance
 
