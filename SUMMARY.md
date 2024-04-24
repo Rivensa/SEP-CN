@@ -136,7 +136,7 @@
 * [变异一元论 anomalous monism (Steven Yalowitz)](a/bian-yi-yi-yuan-lun-anomalous-monism-steven-yalowitz.md)
 * [伊丽莎白·安斯康姆 Anscombe, Gertrude Elizabeth Margaret (Eric Wiland and Julia Driver)](a/yi-li-suo-bai-an-si-kang-mu-anscombe-gertrude-elizabeth-margaret-eric-wiland-and-julia-driver.md)
 * [坎特伯雷的安瑟伦 Anselm of Canterbury \[Anselm of Bec\] (Thomas Williams)](a/kan-te-bo-lei-de-an-se-lun-anselm-of-canterbury-anselm-of-bec-thomas-williams.md)
-* [\*反实在论，道德——见道德反实在论 anti-realism, moral — see moral anti-realism](a/fan-shi-zai-lun-dao-de-qing-can-yue-dao-de-fan-shi-zai-lun-antirealism-moral-see-moral-antirealism.md)
+* [\*道德反实在论——见道德反实在论 anti-realism, moral — see moral anti-realism](a/fan-shi-zai-lun-dao-de-qing-can-yue-dao-de-fan-shi-zai-lun-antirealism-moral-see-moral-antirealism.md)
 * [阿什凯隆的安条克 Antiochus of Ascalon (James Allen)](a/a-shi-kai-long-de-an-tiao-ke-antiochus-of-ascalon-james-allen.md)
 * [\*后验知识——见先验论证和知识 a posteriori knowledge — see a priori justification and knowledge](a/hou-yan-zhi-shi-qing-can-yue-xian-yan-lun-zheng-he-zhi-shi-aposteriori-knowledge-seeapriori-justific.md)
 * [\*现象与实在 appearance vs. reality](a/xian-xiang-yu-shi-zai-appearance-vs.-reality/README.md)
