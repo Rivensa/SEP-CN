@@ -1407,7 +1407,7 @@
   * [法律与语言 and language (Timothy Endicott)](l/fa-lv-law/fa-lv-yu-yu-yan-and-language-timothy-endicott.md)
   * [\*限制——见法律的界限 limits of — see limits of law](l/fa-lv-law/xian-zhi-jian-fa-lv-de-jie-xian-limits-of-see-limits-of-law.md)
   * [\*自然——见自然法：自然法理论 nature of — see nature of law: natural law theories](l/fa-lv-law/zi-ran-jian-zi-ran-fa-zi-ran-fa-li-lun-nature-of-see-nature-of-law-natural-law-theories.md)
-  * [\*规则——见法治 rule of — see rule of law and procedural fairness](l/fa-lv-law/gui-ze-jian-fa-zhi-rule-of-see-rule-of-law-and-procedural-fairness.md)
+  * [\*规则——见法治与程序正义 rule of — see rule of law and procedural fairness](l/fa-lv-law/gui-ze-jian-fa-zhi-rule-of-see-rule-of-law-and-procedural-fairness.md)
 * [自然法则 laws of nature (John W. Carroll)](l/zi-ran-fa-ze-laws-of-nature-john-w.-carroll/README.md)
   * [其他条件不变律 ceteris paribus (Alexander Reutlinger, Gerhard Schurz, Andreas Hüttemann, and Siegfried Jaag)](l/zi-ran-fa-ze-laws-of-nature-john-w.-carroll/qi-ta-tiao-jian-bu-bian-lv-ceteris-paribus-alexander-reutlinger-gerhard-schurz-andreas-httemann-and.md)
 * [知觉学习 learning, perceptual (Kevin Connolly)](l/zhi-jue-xue-xi-learning-perceptual-kevin-connolly.md)
