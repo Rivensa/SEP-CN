@@ -1,2 +1,2 @@
-# \*启示——见神圣启示 revelation — see revelation, divine
+# \*启示——见神启 revelation — see revelation, divine
 
