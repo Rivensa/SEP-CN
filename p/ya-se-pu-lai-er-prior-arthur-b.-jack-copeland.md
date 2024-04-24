@@ -1,7 +1,9 @@
 # 亚瑟·普赖尔 Prior, Arthur (B. Jack Copeland)
-![Picture of Arthur Prior sitting on a bench](https://plato.stanford.edu/entries/prior/prior.jpg)
+
 
 *首次发表于 1996 年 10 月 7 日星期一；实质性修订于 2020 年 1 月 28 日星期二*
+
+![Picture of Arthur Prior sitting on a bench](https://plato.stanford.edu/entries/prior/prior.jpg)
 
 1953年之前，克兰默广场的普赖尔。
 
