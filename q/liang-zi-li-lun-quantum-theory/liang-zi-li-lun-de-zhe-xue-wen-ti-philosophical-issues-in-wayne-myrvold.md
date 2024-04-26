@@ -1,13 +1,10 @@
 # 量子理论的哲学问题 philosophical issues in (Wayne Myrvold)
 
-
-*首次发表于2016年7月25日星期一；实质性修订于2022年3月23日星期三。*
+_首次发表于2016年7月25日星期一；实质性修订于2022年3月23日星期三。_
 
 本文是对量子理论引发的哲学问题的概述，旨在指向斯坦福哲学百科全书中其他条目的更深入的处理。
 
- 
-
----
+***
 
 ## 1. 引言
 
@@ -145,7 +142,7 @@ a|ψ1⟩⊗|ϕ1⟩+b|ψ2⟩⊗|ϕ2⟩
 
 现在假设系统 S 准备在状态 |0⟩S 和 |1⟩S 的叠加态中。
 
- |ψ(0)⟩S=a|0⟩S+b|1⟩S，
+|ψ(0)⟩S=a|0⟩S+b|1⟩S，
 
 当 a 和 b 都不为零时。如果从实验前状态到实验后状态的演化是线性的薛定谔演化，那么我们将会有
 
@@ -221,7 +218,7 @@ Frauchiger 和 Renner（2018）发起了关于涉及两个以上观察者的情�
 
 一个量子态，它是两个不同项的叠加，例如
 
- |ψ⟩=a|ψ1⟩+b|ψ2⟩，
+|ψ⟩=a|ψ1⟩+b|ψ2⟩，
 
 其中|ψ1⟩和|ψ2⟩是可区分的态，与|ψ1⟩和|ψ2⟩的混合态不同，后者适用于状态准备为|ψ1⟩或|ψ2⟩的情况，但我们不知道是哪个。两个项的相干叠加和混合态之间的区别具有实证后果。为了看清这一点，考虑双缝实验，其中一束粒子（如电子、中子或光子）通过两个窄缝，然后射到屏幕上，粒子被探测到。将|ψ1⟩视为粒子通过顶部缝隙的状态，将|ψ2⟩视为粒子通过底部缝隙的状态。这个态是这两个选择的叠加态，在屏幕上表现为干涉条纹，高吸收率和低吸收率的交替带。
 
@@ -259,7 +256,7 @@ Frauchiger 和 Renner（2018）发起了关于涉及两个以上观察者的情�
 
 ### 5.1 量子态实在性的问题。
 
-Harrigan 和 Spekkens（2010）提出了一个讨论这些问题的框架。在他们的术语中，物理属性的完整规范由系统的本体态给出。本体论模型假设了一个本体态空间，并将任何制备过程与本体态上的概率分布相关联。如果本体态唯一确定了量子态，那么模型被称为ψ-本体论；也就是说，存在一个从本体态到量子态的函数（这包括量子态也完全确定物理态的情况，以及量子态并不完全确定物理态的情况，如隐藏变量理论）。在他们的术语中，不是ψ-本体论的模型被称为ψ *-认识论*。如果一个模型不是ψ-本体论的，这意味着某些本体态可能是由导致不同纯量子态分配的两个或更多制备过程的结果；也就是说，相同的本体态可能与不同的量子态兼容。
+Harrigan 和 Spekkens（2010）提出了一个讨论这些问题的框架。在他们的术语中，物理属性的完整规范由系统的本体态给出。本体论模型假设了一个本体态空间，并将任何制备过程与本体态上的概率分布相关联。如果本体态唯一确定了量子态，那么模型被称为ψ-本体论；也就是说，存在一个从本体态到量子态的函数（这包括量子态也完全确定物理态的情况，以及量子态并不完全确定物理态的情况，如隐藏变量理论）。在他们的术语中，不是ψ-本体论的模型被称为ψ _-认识论_。如果一个模型不是ψ-本体论的，这意味着某些本体态可能是由导致不同纯量子态分配的两个或更多制备过程的结果；也就是说，相同的本体态可能与不同的量子态兼容。
 
 这提供了一个很好的方式来提出量子态实在性的问题：是否存在与不同纯量子态对应的准备，可以导致相同的本体态，或者反过来，是否存在与不同量子态兼容的本体态？Pusey、Barrett 和 Rudolph（2012）证明，如果一个人采用了一个看似自然的关于态准备的独立性假设，即假设可以以某种方式准备一对系统，使得两个系统的本体态的概率在效果上是独立的，那么答案是否定的；任何重现量子预测并满足这种准备独立性假设的本体论模型必须是一个ψ-本体模型。
 
@@ -289,132 +286,133 @@ Dürr，Goldstein 和 Zanghì（1992）引入了“原始本体论”一词，�
 
 这个项目源于 Mackey（1957, 1963），Ludwig（1964）和 Piron（1964）的早期工作，旨在用操作术语来描述量子力学。这导致了广义概率模型框架的发展。它还与 Birkhoff 和 von Neumann（1936）发起的量子逻辑研究有关（请参阅量子逻辑和概率论条目以获取概述）。
 
-对于从具有明确操作内容的公理中推导量子理论的项目的兴趣，由Hardy（2001 [2008]，其他互联网资源）的工作重新引起。在这方面取得的重要结果包括Masanes和Müller（2011）以及Chiribella，D’Ariano和Perinotti（2011）的公理化。有关这一蓬勃发展的研究领域的概述，请参阅Chiribella和Spekkens（2015）。
+对于从具有明确操作内容的公理中推导量子理论的项目的兴趣，由Hardy（2001 \[2008]，其他互联网资源）的工作重新引起。在这方面取得的重要结果包括Masanes和Müller（2011）以及Chiribella，D’Ariano和Perinotti（2011）的公理化。有关这一蓬勃发展的研究领域的概述，请参阅Chiribella和Spekkens（2015）。
+
 ## Bibliography
 
-* Albert, David Z., 1996, “Elementary quantum metaphysics”, in J.T. Cushing, A. Fine, & S. Goldstein (eds.), *Bohmian Mechanics and Quantum Mechanics: An appraisal*, Dordrecht: Kluwer, 277–284.
+* Albert, David Z., 1996, “Elementary quantum metaphysics”, in J.T. Cushing, A. Fine, & S. Goldstein (eds.), _Bohmian Mechanics and Quantum Mechanics: An appraisal_, Dordrecht: Kluwer, 277–284.
 * –––, 2013, “Wave function realism”, in Ney and Albert (eds.) 2013: 52–57.
 * Allori, Valia, 2013, “Primitive Ontology and the Structure of Fundamental Physical Theories”, in Ney and Albert (eds.) 2013: 58–90.
-* Allori, Valia, 2021, “Wave-functionalism”, *Synthese*, 199: 12271–12293.
-* Allori, Valia, Sheldon Goldstein, Roderich Tumulka, and Nino Zanghì, 2008, “On the Common Structure of Bohmian Mechanics and the Ghirardi–Rimini–Weber Theory”, *The British Journal for the Philosophy of Science*, 59(3): 353–389. doi:10.1093/bjps/axn012
-* Bacciagaluppi, Guido, 2002, “Remarks on Space-time and Locality in Everett’s Interpretation”, in T. Placzek and J. Butterfield (eds.), *Non-locality and Modality*, Berlin: Springer, 105–124.
-* Bacciagaluppi, Guido, and Antony Valentini, 2009, *Quantum Theory at the Crossroads: Reconsidering the 1927 Solvay Conference*, Cambridge: Cambridge University Press.
-* Bell, J.S., 1966, “On the Problem of Hidden Variables in Quantum Mechanics”, *Reviews of Modern Physics*, 38: 447–52; reprinted in Bell 2004: 1–13.
-* –––, 1986, “Six Possible Worlds of Quantum Mechanics”, in S. Allén (ed.), *Possible Worlds in Humanities, Arts and Sciences*, Berlin, Walter de Gruyter, 359–373; reprinted in Bell 2004, 181–195.
-* –––, 1987, “Are There Quantum Jumps?” in C.W. Kilmister (ed), *Schrödinger: Centenary celebration of a polymath*, Cambridge: Cambridge University Press, 41–52; reprinted in Bell 2004: 201–212.
-* –––, 1990, “Against ‘Measurement’”, *Physics World*, 3: 33–40; reprinted in Bell 2004: 213–231.
-* –––, 2004, *Speakable and Unspeakable in Quantum Mechanics*, 2nd edition, Cambridge: Cambridge University Press.
-* Bell, Mary and Shan Gao (eds.), 2016, *Quantum Nonlocality and Reality: 50 Years of Bell’s Theorem*, Cambridge: Cambridge University Press.
-* Belot, Gordon, 2012, “Quantum States for primitive ontologists: a case study”, *European Journal for the Philosophy of Science*, 2: 67–83.
-* Berndl, Karin, Detlef Dürr, Sheldon Goldstein, and Nino Zanghì, 1996, “Nonlocality, Lorentz invariance, and Bohmian quantum theory“, *Physical Review A*, 53: 2062–2073.
-* Birkhoff, Garrett, and John von Neumann, 1936, “The Logic of Quantum Mechanics”, *Annals of Mathematics* (second series), 37: 823–43.
-* Bong, Kok-Wei, Aníbal Utreras-Alarcón, Farzad Ghafari, Yeong-Cherng Liang, Nora Tischler, Eric G. Cavalcanti, Geoff J. Pryde & Howard M. Wiseman, 2020, “A strong no-go theorem on the Wigner’s friend paradox”, *Nature Physics*, 16: 1199–1205.
+* Allori, Valia, 2021, “Wave-functionalism”, _Synthese_, 199: 12271–12293.
+* Allori, Valia, Sheldon Goldstein, Roderich Tumulka, and Nino Zanghì, 2008, “On the Common Structure of Bohmian Mechanics and the Ghirardi–Rimini–Weber Theory”, _The British Journal for the Philosophy of Science_, 59(3): 353–389. doi:10.1093/bjps/axn012
+* Bacciagaluppi, Guido, 2002, “Remarks on Space-time and Locality in Everett’s Interpretation”, in T. Placzek and J. Butterfield (eds.), _Non-locality and Modality_, Berlin: Springer, 105–124.
+* Bacciagaluppi, Guido, and Antony Valentini, 2009, _Quantum Theory at the Crossroads: Reconsidering the 1927 Solvay Conference_, Cambridge: Cambridge University Press.
+* Bell, J.S., 1966, “On the Problem of Hidden Variables in Quantum Mechanics”, _Reviews of Modern Physics_, 38: 447–52; reprinted in Bell 2004: 1–13.
+* –––, 1986, “Six Possible Worlds of Quantum Mechanics”, in S. Allén (ed.), _Possible Worlds in Humanities, Arts and Sciences_, Berlin, Walter de Gruyter, 359–373; reprinted in Bell 2004, 181–195.
+* –––, 1987, “Are There Quantum Jumps?” in C.W. Kilmister (ed), _Schrödinger: Centenary celebration of a polymath_, Cambridge: Cambridge University Press, 41–52; reprinted in Bell 2004: 201–212.
+* –––, 1990, “Against ‘Measurement’”, _Physics World_, 3: 33–40; reprinted in Bell 2004: 213–231.
+* –––, 2004, _Speakable and Unspeakable in Quantum Mechanics_, 2nd edition, Cambridge: Cambridge University Press.
+* Bell, Mary and Shan Gao (eds.), 2016, _Quantum Nonlocality and Reality: 50 Years of Bell’s Theorem_, Cambridge: Cambridge University Press.
+* Belot, Gordon, 2012, “Quantum States for primitive ontologists: a case study”, _European Journal for the Philosophy of Science_, 2: 67–83.
+* Berndl, Karin, Detlef Dürr, Sheldon Goldstein, and Nino Zanghì, 1996, “Nonlocality, Lorentz invariance, and Bohmian quantum theory“, _Physical Review A_, 53: 2062–2073.
+* Birkhoff, Garrett, and John von Neumann, 1936, “The Logic of Quantum Mechanics”, _Annals of Mathematics_ (second series), 37: 823–43.
+* Bong, Kok-Wei, Aníbal Utreras-Alarcón, Farzad Ghafari, Yeong-Cherng Liang, Nora Tischler, Eric G. Cavalcanti, Geoff J. Pryde & Howard M. Wiseman, 2020, “A strong no-go theorem on the Wigner’s friend paradox”, _Nature Physics_, 16: 1199–1205.
 * Brown, Harvey R. and Christopher G. Timpson, 2016,“Bell on Bell’s Theorem: The Changing Face of Nonlocality”, in Bell and Gao (eds.) 2016: 91–123.
-* Brukner, Časlav, 2018, “A no-go theorem for observer-independent facts”, *Entropy*, 20(5): 350.
-* Bub, Jeffrey, 2000, “Indeterminacy and entanglement: the challenge of quantum mechanics”, *The British Journal for the Philosophy of Science*, 51: 597–615.
-* –––, 2020, “‘Two Dogmas’ Redux”, in M. Hemmo and O. Shenker (eds.), *Quantum, Probability, Logic: The Work and Influence of Itamar Pitowsky*, Berlin: Springer, 199–216.
-* –––, 2021, “Understanding the Frauchiger–Renner Argument”, *Foundations of Physics*, 51: 36.
-* Cavalcanti, Eric, 2021, “The View from a Wigner Bubble”, *Foundations of Physics*, 51: 39.
-* Cavalcanti, Eric, and Howard M. Wiseman, 2021, “Implications of Local Friendliness for Violation for Quantum Causality”, *Entropy*, 23: 925.
-* Chiribella, Giulio, Giacomo Mauro D’Ariano, and Paolo Perinotti, 2011, “Informational derivation of quantum theory”, *Physical Review A*, 84: 012311. doi:10.1103/PhysRevA.84.012311
-* Chiribella, Giulio and Robert W. Spekkens (eds.), 2015, *Quantum Theory: Informational Foundations and Foils*, Berlin: Springer.
-* Dascal, Michael, 2020, “What’s left for the neo-Copenhagen theorist”, *Studies in History and Philosophy of Modern Physics*, 72: 310–321.
-* Deutsch, David and Patrick Hayden, 2000, “Information flow in entangled quantum systems”, *Proceedings of the Royal Society of London A*, 456: 1759–74.
-* Dieks, Dennis, 2019, “Quantum Mechanics and Perspectivalism”, in O. Lombardi, S. Fortin, C. Lopez, and F. Holik (eds.), *Quantum Worlds: Perspectives on the Ontology of Quantum Mechanics*, Cambridge: Cambridge University Press, 51–70.
-* Dirac, P.A.M., 1935, *Principles of Quantum Mechanics*, 2nd edition, Oxford: Oxford University Press.
-* Dürr, Detlef, Sheldon Goldstein, and Nino Zanghì, “Quantum Equilibrium and the Origin of Absolute Uncertainty”, *Journal of Statistical Physics*, 67: 843–907.
-* –––, 1997, “Bohmian Mechanics and the Meaning of the Wave Function”, in R.S. Cohen, M. Horne and J. Stachel (eds.), *Experimental Metaphysics: Quantum Mechanical Studies for Abner Shimony* (Volume 1), Boston: Kluwer Academic Publishers.
-* Einstein, Albert, Boris Podolsky, and Nathan Rosen, 1935, “Can Quantum-Mechanical Description of Reality Be Considered Complete?” *Physical Review*, 47: 777–780.
-* Einstein, Albert, 1936, “Physik und Realität”, *Journal of the Franklin Institute*, 221: 349–382. English translation in Einstein 1954.
-* –––, 1948, “Quanten-Mechanik und Wirklichkeit”, *Dialectica*, 2: 320–324.
-* –––, 1949, “Autobiographical notes”, in P.A. Schilpp (ed.), *Albert Einstein: Philosopher-Scientist*, Chicago: Open Court.
-* –––, 1954, “Physics and reality”, in *Ideas and Opinions*, New York: Crown Publishers, Inc., 290–323 (translation of Einstein 1936).
-* Egg, Matthias, 2017, “The physical salience of non-fundamental local beables”, *Studies in History and Philosophy of Modern Physics*, 57: 104–110.
-* –––, 2021, “Quantum Ontology without Speculation”. *European Journal for Philosophy of Science*, 11: 32.
-* Evans, Peter W., 2020, “Perspectival objectivity, Or: how I learned to stop worrying and love observer-dependent reality”, *European Journal for Philosophy of Science*, 10: 19.
-* Everett III, Hugh, 2012, *The Everett Interpretation of Quantum Mechanics: Collected Works 1955–1980 With Commentary*, Jeffrey A. Barrett and Peter Byrne (eds.), Princeton: Princeton University Press.
+* Brukner, Časlav, 2018, “A no-go theorem for observer-independent facts”, _Entropy_, 20(5): 350.
+* Bub, Jeffrey, 2000, “Indeterminacy and entanglement: the challenge of quantum mechanics”, _The British Journal for the Philosophy of Science_, 51: 597–615.
+* –––, 2020, “‘Two Dogmas’ Redux”, in M. Hemmo and O. Shenker (eds.), _Quantum, Probability, Logic: The Work and Influence of Itamar Pitowsky_, Berlin: Springer, 199–216.
+* –––, 2021, “Understanding the Frauchiger–Renner Argument”, _Foundations of Physics_, 51: 36.
+* Cavalcanti, Eric, 2021, “The View from a Wigner Bubble”, _Foundations of Physics_, 51: 39.
+* Cavalcanti, Eric, and Howard M. Wiseman, 2021, “Implications of Local Friendliness for Violation for Quantum Causality”, _Entropy_, 23: 925.
+* Chiribella, Giulio, Giacomo Mauro D’Ariano, and Paolo Perinotti, 2011, “Informational derivation of quantum theory”, _Physical Review A_, 84: 012311. doi:10.1103/PhysRevA.84.012311
+* Chiribella, Giulio and Robert W. Spekkens (eds.), 2015, _Quantum Theory: Informational Foundations and Foils_, Berlin: Springer.
+* Dascal, Michael, 2020, “What’s left for the neo-Copenhagen theorist”, _Studies in History and Philosophy of Modern Physics_, 72: 310–321.
+* Deutsch, David and Patrick Hayden, 2000, “Information flow in entangled quantum systems”, _Proceedings of the Royal Society of London A_, 456: 1759–74.
+* Dieks, Dennis, 2019, “Quantum Mechanics and Perspectivalism”, in O. Lombardi, S. Fortin, C. Lopez, and F. Holik (eds.), _Quantum Worlds: Perspectives on the Ontology of Quantum Mechanics_, Cambridge: Cambridge University Press, 51–70.
+* Dirac, P.A.M., 1935, _Principles of Quantum Mechanics_, 2nd edition, Oxford: Oxford University Press.
+* Dürr, Detlef, Sheldon Goldstein, and Nino Zanghì, “Quantum Equilibrium and the Origin of Absolute Uncertainty”, _Journal of Statistical Physics_, 67: 843–907.
+* –––, 1997, “Bohmian Mechanics and the Meaning of the Wave Function”, in R.S. Cohen, M. Horne and J. Stachel (eds.), _Experimental Metaphysics: Quantum Mechanical Studies for Abner Shimony_ (Volume 1), Boston: Kluwer Academic Publishers.
+* Einstein, Albert, Boris Podolsky, and Nathan Rosen, 1935, “Can Quantum-Mechanical Description of Reality Be Considered Complete?” _Physical Review_, 47: 777–780.
+* Einstein, Albert, 1936, “Physik und Realität”, _Journal of the Franklin Institute_, 221: 349–382. English translation in Einstein 1954.
+* –––, 1948, “Quanten-Mechanik und Wirklichkeit”, _Dialectica_, 2: 320–324.
+* –––, 1949, “Autobiographical notes”, in P.A. Schilpp (ed.), _Albert Einstein: Philosopher-Scientist_, Chicago: Open Court.
+* –––, 1954, “Physics and reality”, in _Ideas and Opinions_, New York: Crown Publishers, Inc., 290–323 (translation of Einstein 1936).
+* Egg, Matthias, 2017, “The physical salience of non-fundamental local beables”, _Studies in History and Philosophy of Modern Physics_, 57: 104–110.
+* –––, 2021, “Quantum Ontology without Speculation”. _European Journal for Philosophy of Science_, 11: 32.
+* Evans, Peter W., 2020, “Perspectival objectivity, Or: how I learned to stop worrying and love observer-dependent reality”, _European Journal for Philosophy of Science_, 10: 19.
+* Everett III, Hugh, 2012, _The Everett Interpretation of Quantum Mechanics: Collected Works 1955–1980 With Commentary_, Jeffrey A. Barrett and Peter Byrne (eds.), Princeton: Princeton University Press.
 * Fleming, Gordon N., 2016, “Bell Nonlocality, Hardy’s Paradox and Hyperplane Dependence”, in Bell and Gao (eds.) 2016: 261–281.
-* Fortin, Sebastian, and Olimpia Lombardi, 2020, “The Frauchiger-Renner argument: A new no-go result?” *Studies in History and Philosophy of Modern Physics*, 70: 1–7.
-* Frauchiger, Daniela, & Renato Renner, 2018, “Quantum theory cannot consistently describe the use of itself”, *Nature Communications*, 9: 3711.
-* Freire Jr., Olival , Guido Bacciagaluppi, Olivier Darrigol, Thiago Hartz, Christian Joas, Alexei Kojevnikov, and Osvaldo Pessoa Jr. (eds.), 2022, *The Oxford Handbook of the History of Quantum Interpretations*, Oxford: Oxford University Press.
-* French, Steven, and Juha Saatsi (eds.), 2020, *Scientific Realism and the Quantum*, Oxford: Oxford University Press.
-* Fuchs, Christopher A., N. David Mermin, and Rüdiger Schack, 2014, “An introduction to QBism with an application to the locality of quantum mechanics”, *American Journal of Physics*, 82: 749–752.
-* Gao, Shan (ed.), 2018, *Collapse of the Wave Function: Models, Ontology, Origin, and Implications*, Cambridge: Cambridge University Press.
-* Guérin, Philippe Allard, Veronika Baumann, Flavio Del Santo, and Časlav Brukner, 2021, “A no-go theorem for the persistent reality of Wigner’s friend’s perception”, *Communications Physics*, 4: 93.
-* Harrigan, Nicholas and Robert W. Spekkens, 2010, “Einstein, Incompleteness, and the Epistemic View of Quantum States”, *Foundations of Physics*, 40: 125–157.
-* Healey, Richard, 2012, “Quantum Theory: A Pragmatist Approach”, *The British Journal for the Philosophy of Science*, 63: 729–771.
-* –––, 2017a, “Quantum States as Objective Informational Bridges”, *Foundations of Physics*, 47: 161–173.
-* –––, 2017b, *The Quantum Revolution in Philosophy*, Oxford: Oxford University Press.
-* –––, 2018, “Quantum theory and the limits of objectivity”, *Foundations of Physics*, 48: 1568–1589.
+* Fortin, Sebastian, and Olimpia Lombardi, 2020, “The Frauchiger-Renner argument: A new no-go result?” _Studies in History and Philosophy of Modern Physics_, 70: 1–7.
+* Frauchiger, Daniela, & Renato Renner, 2018, “Quantum theory cannot consistently describe the use of itself”, _Nature Communications_, 9: 3711.
+* Freire Jr., Olival , Guido Bacciagaluppi, Olivier Darrigol, Thiago Hartz, Christian Joas, Alexei Kojevnikov, and Osvaldo Pessoa Jr. (eds.), 2022, _The Oxford Handbook of the History of Quantum Interpretations_, Oxford: Oxford University Press.
+* French, Steven, and Juha Saatsi (eds.), 2020, _Scientific Realism and the Quantum_, Oxford: Oxford University Press.
+* Fuchs, Christopher A., N. David Mermin, and Rüdiger Schack, 2014, “An introduction to QBism with an application to the locality of quantum mechanics”, _American Journal of Physics_, 82: 749–752.
+* Gao, Shan (ed.), 2018, _Collapse of the Wave Function: Models, Ontology, Origin, and Implications_, Cambridge: Cambridge University Press.
+* Guérin, Philippe Allard, Veronika Baumann, Flavio Del Santo, and Časlav Brukner, 2021, “A no-go theorem for the persistent reality of Wigner’s friend’s perception”, _Communications Physics_, 4: 93.
+* Harrigan, Nicholas and Robert W. Spekkens, 2010, “Einstein, Incompleteness, and the Epistemic View of Quantum States”, _Foundations of Physics_, 40: 125–157.
+* Healey, Richard, 2012, “Quantum Theory: A Pragmatist Approach”, _The British Journal for the Philosophy of Science_, 63: 729–771.
+* –––, 2017a, “Quantum States as Objective Informational Bridges”, _Foundations of Physics_, 47: 161–173.
+* –––, 2017b, _The Quantum Revolution in Philosophy_, Oxford: Oxford University Press.
+* –––, 2018, “Quantum theory and the limits of objectivity”, _Foundations of Physics_, 48: 1568–1589.
 * —, 2020, “Pragmatist Quantum Realism”, in French and Saatsi (eds.), 2021: 123–146.
-* Heisenberg, Werner, 1930a, *Die Physicalische Prinzipien der Quantentheorie*, Leipzig: Verlag von S. Hirzel.
-* –––, 1930b, *The Physical Principles of the Quantum Theory*, Carl Eckert and F.C. Hoyt (trans.), Chicago: University of Chicago Press.
-* Howard, Don, 2004, “Who Invented the ‘Copenhagen Interpretation’? A Study in Mythology”, *Philosophy of Science*, 71: 669–682.
-* Hubert, Mario, and Davide Romano, 2018, “The wave-function as a multi-field”, *European Journal for the Philosophy of Science*, 8: 521–537.
-* Kastner, Ruth, 2020, “Unitary‑Only Quantum Theory Cannot Consistently Describe the Use of Itself: On the Frauchiger–Renner Paradox”, *Foundations of Physics*, 50: 441–456.
-* Knox, Eleanor, and Alastair Wilson (eds.), 2021, *The Routledge Companion to Philosophy of Physics*, London: Routledge.
-* Kochen, Simon and Ernst Specker, 1967, “The Problem of Hidden Variables in Quantum Mechanics”, *Journal of Mathematics and Mechanics*, 17: 59–87.
-* Lazarovici, Dustin, and Mario Hubert, 2019, “How Quantum Mechanics can consistently describe the use of itself”, *Scientific Reports*, 9: 470.
-* Leifer, Matthew Saul, 2014, “Is the Quantum State Real? An Extended Review of ψ-ontology Theorems”, *Quanta*, 3: 67–155.
-* Lewis, Peter J., 2004, “Life in configuration space”, *The British Journal for the Philosophy of Science*, 55: 713–729. doi:10.1093/bjps/55.4.713
-* Loewer, B., 1996, “Humean supervenience”, *Philosophical Topics*, 24: 101–127.
-* London, Fritz and Edmond Bauer, 1939, *La théorie de l’observation en mécanique quantique*, Paris: Hermann. English translation, “The theory of observation in quantum mechanics”, in *Quantum Theory and Measurement*, J.A. Wheeler and W.H. Zurek (eds.), Princeton: Princeton University Press, 1983, 217–259.
-* Losada, Marcelo, Roberto Laura, and Olimpia Lombardi, 2019, “Frauchiger-Renner argument and quantum histories”, *Physical Review A*, 100: 052114.
-* Ludwig, G., 1964, “Versuch einer axiomatischen Grundlegung der Quantenmechanik und allgemeinerer physikalischer Theorien”, *Zeitschrift für Physik*, 181: 233–260.
-* Mackey, George W. 1957, “Quantum Mechanics and Hilbert Space”, *American Mathematical Monthly*, 64: 45–57.
-* –––, 1963, *The Mathematical Foundations of Quantum Mechanics: A lecture-note volume*, New York: W.A. Benjamin.
-* Masanes, Lluís and Markus P. Müller, 2011, “A derivation of quantum theory from physical Requirements”, *New Journal of Physics*, 13: 063001.
+* Heisenberg, Werner, 1930a, _Die Physicalische Prinzipien der Quantentheorie_, Leipzig: Verlag von S. Hirzel.
+* –––, 1930b, _The Physical Principles of the Quantum Theory_, Carl Eckert and F.C. Hoyt (trans.), Chicago: University of Chicago Press.
+* Howard, Don, 2004, “Who Invented the ‘Copenhagen Interpretation’? A Study in Mythology”, _Philosophy of Science_, 71: 669–682.
+* Hubert, Mario, and Davide Romano, 2018, “The wave-function as a multi-field”, _European Journal for the Philosophy of Science_, 8: 521–537.
+* Kastner, Ruth, 2020, “Unitary‑Only Quantum Theory Cannot Consistently Describe the Use of Itself: On the Frauchiger–Renner Paradox”, _Foundations of Physics_, 50: 441–456.
+* Knox, Eleanor, and Alastair Wilson (eds.), 2021, _The Routledge Companion to Philosophy of Physics_, London: Routledge.
+* Kochen, Simon and Ernst Specker, 1967, “The Problem of Hidden Variables in Quantum Mechanics”, _Journal of Mathematics and Mechanics_, 17: 59–87.
+* Lazarovici, Dustin, and Mario Hubert, 2019, “How Quantum Mechanics can consistently describe the use of itself”, _Scientific Reports_, 9: 470.
+* Leifer, Matthew Saul, 2014, “Is the Quantum State Real? An Extended Review of ψ-ontology Theorems”, _Quanta_, 3: 67–155.
+* Lewis, Peter J., 2004, “Life in configuration space”, _The British Journal for the Philosophy of Science_, 55: 713–729. doi:10.1093/bjps/55.4.713
+* Loewer, B., 1996, “Humean supervenience”, _Philosophical Topics_, 24: 101–127.
+* London, Fritz and Edmond Bauer, 1939, _La théorie de l’observation en mécanique quantique_, Paris: Hermann. English translation, “The theory of observation in quantum mechanics”, in _Quantum Theory and Measurement_, J.A. Wheeler and W.H. Zurek (eds.), Princeton: Princeton University Press, 1983, 217–259.
+* Losada, Marcelo, Roberto Laura, and Olimpia Lombardi, 2019, “Frauchiger-Renner argument and quantum histories”, _Physical Review A_, 100: 052114.
+* Ludwig, G., 1964, “Versuch einer axiomatischen Grundlegung der Quantenmechanik und allgemeinerer physikalischer Theorien”, _Zeitschrift für Physik_, 181: 233–260.
+* Mackey, George W. 1957, “Quantum Mechanics and Hilbert Space”, _American Mathematical Monthly_, 64: 45–57.
+* –––, 1963, _The Mathematical Foundations of Quantum Mechanics: A lecture-note volume_, New York: W.A. Benjamin.
+* Masanes, Lluís and Markus P. Müller, 2011, “A derivation of quantum theory from physical Requirements”, _New Journal of Physics_, 13: 063001.
 * Maudlin, Tim, 2016, “Local Beables and the Foundations of Physics”, in Bell and Gao (eds.) 2016: 317–330.
-* Muciño, R., and E. Okon, 2020, “Wigner’s convoluted friends”, *Studies in History and Philosophy of Modern Physics*, 72: 87–90.
-* Myrvold, Wayne C., 2002, “Modal Interpretations and Relativity”, *Foundations of Physics*, 32: 1773–1784.
-* –––, 2015, “What is a Wavefunction?” *Synthese*, 192: 3247–3274.
+* Muciño, R., and E. Okon, 2020, “Wigner’s convoluted friends”, _Studies in History and Philosophy of Modern Physics_, 72: 87–90.
+* Myrvold, Wayne C., 2002, “Modal Interpretations and Relativity”, _Foundations of Physics_, 32: 1773–1784.
+* –––, 2015, “What is a Wavefunction?” _Synthese_, 192: 3247–3274.
 * –––, 2016, “Lessons of Bell”s Theorem: Nonlocality, Yes; Action at a Distance, Not Necessarily”, in Bell and Gao (eds.) 2016: 237–260.
 * –––, 2018, “Ontology for Collapse Theories,” in Gao (ed.) 2018: 97–123.
 * –––, 2020, “On the Status of Quantum State Realism,” in French and Saatsi (eds.), 2020: 229–251.
 * –––, 2021, “Relativistic Constraints on Interpretations of Quantum Mechanics”, in Knox and Wilson (eds.) 2021: 99–121.
-* Ney, Alyssa, 2012, “The status of our ordinary three dimensions in a quantum universe”, *Noûs*, 46: 525–560.
+* Ney, Alyssa, 2012, “The status of our ordinary three dimensions in a quantum universe”, _Noûs_, 46: 525–560.
 * –––, 2013a, “Introduction”, in Ney and Albert (eds.) 2013: 1–51.
-* –––, 2013*b*, “Ontological reduction and the wave function ontology”, in Ney and Albert (eds.) 2013: 168– 183.
-* –––, 2021, *The World in the Wave Function: A Metaphysics for Quantum Physics*, Oxford, Oxford University Press.
-* Ney, Alyssa and David Z. Albert (eds.), 2013, *The Wave Function: Essays on the Metaphysics of Quantum Mechanics*, Oxford: Oxford University Press.
+* –––, 2013_b_, “Ontological reduction and the wave function ontology”, in Ney and Albert (eds.) 2013: 168– 183.
+* –––, 2021, _The World in the Wave Function: A Metaphysics for Quantum Physics_, Oxford, Oxford University Press.
+* Ney, Alyssa and David Z. Albert (eds.), 2013, _The Wave Function: Essays on the Metaphysics of Quantum Mechanics_, Oxford: Oxford University Press.
 * North, Jill, 2013, “The structure of a quantum world”, in Ney and Albert (eds.) 2013: 184–202.
-* Piron, Constantin, 1964, “Axiomatique quantique”, *Helvetica Physica Acta*, 37: 439–468.
-* Pusey, Matthew F., Jonathan Barrett, and Terry Rudolph, 2012, “On the Reality of the Quantum State”, *Nature Physics*, 8: 475–478.
-* Saunders, Simon, 2007. “Many Worlds? An Introduction”, in S. Saunders, J. Barrett, A. Kent, and D. Wallace (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*, Oxford: Oxford University Press, 1–50.
-* Spekkens, Robert W., 2007, “Evidence for the Epistemic view of Quantum States: A Toy Theory”, *Physical Review A*, 75: 032110.
+* Piron, Constantin, 1964, “Axiomatique quantique”, _Helvetica Physica Acta_, 37: 439–468.
+* Pusey, Matthew F., Jonathan Barrett, and Terry Rudolph, 2012, “On the Reality of the Quantum State”, _Nature Physics_, 8: 475–478.
+* Saunders, Simon, 2007. “Many Worlds? An Introduction”, in S. Saunders, J. Barrett, A. Kent, and D. Wallace (eds.), _Many Worlds? Everett, Quantum Theory, and Reality_, Oxford: Oxford University Press, 1–50.
+* Spekkens, Robert W., 2007, “Evidence for the Epistemic view of Quantum States: A Toy Theory”, _Physical Review A_, 75: 032110.
 * –––, 2015, “Quasi-Quantization: Classical Statistical Theories with an Epistemic Restriction”, in Chiribella and Spekkens 2015: 83–135.
-* Sudbery, Anthony, 2017, “Single-world theory of the extended Wigner’s friend experiment”, *Foundations of Physics*, 47: 658–669.
-* –––, 2019, “The Hidden Assumptions of Frauchiger and Renner”, *International Journal of Quantum Foundations*, 5: 98-109.
-* Tipler, Frank J., 2014, “Quantum nonlocality does not exist”, *Proceedings of the National Academy of Sciences*, 111: 11281–6.
-* Vaidman, Lev, 1994, “On the paradoxical aspects of new quantum experiments”, in D. Hull, M. Forbes and R.M. Burian (eds.), *PSA 1994* (Volume 1), Philosophy of Science Association, 211–17.
+* Sudbery, Anthony, 2017, “Single-world theory of the extended Wigner’s friend experiment”, _Foundations of Physics_, 47: 658–669.
+* –––, 2019, “The Hidden Assumptions of Frauchiger and Renner”, _International Journal of Quantum Foundations_, 5: 98-109.
+* Tipler, Frank J., 2014, “Quantum nonlocality does not exist”, _Proceedings of the National Academy of Sciences_, 111: 11281–6.
+* Vaidman, Lev, 1994, “On the paradoxical aspects of new quantum experiments”, in D. Hull, M. Forbes and R.M. Burian (eds.), _PSA 1994_ (Volume 1), Philosophy of Science Association, 211–17.
 * –––, 2016, “The Bell Inequality and the Many-Worlds Interpretation”, in Bell and Gao (eds.) 2016: 195–203.
-* von Neumann, John, 1932, *Mathematische Grundlagen der Quantenmechanik*, Berlin, Springer Verlag.
-* –––, 1955, *Mathematical Foundations of Quantum Mechanics*, Robert T. Beyer (trans.), Princeton: Princeton University Press.
-* Wallace, David, 2012, *The Emergent Multiverse: Quantum Theory according to the Everett interpretation*, Oxford: Oxford University Press.
+* von Neumann, John, 1932, _Mathematische Grundlagen der Quantenmechanik_, Berlin, Springer Verlag.
+* –––, 1955, _Mathematical Foundations of Quantum Mechanics_, Robert T. Beyer (trans.), Princeton: Princeton University Press.
+* Wallace, David, 2012, _The Emergent Multiverse: Quantum Theory according to the Everett interpretation_, Oxford: Oxford University Press.
 * –––, 2020, “On the Plurality of Quantum Theories: Quantum Theory as a Framework, and its Implications for the Quantum Measurement Problem”, in French and Saatsi (eds.) 2020: 78–102.
-* Wigner, Eugene P., 1962, “Remarks on the Mind-Body Problem”, in I.J. Good (ed.), *The Scientist Speculates: An Anthology of Partly-Baked Ideas*, London: William Heinemann, 284–320; reprinted in Wigner (1967), 171–184.
-* –––, 1967, *Symmetries and Reflections: Scientific Essays of Eugene P. Wigner*, Bloomington, Indiana University Press.
-* Żukowski, Marek, and Marcin Markiewicz, 2021, “Physics and Metaphysics of Wigner’s Friends: Even Performed Pre-measurements Have No Results”, *Physical Review Letters*, 126: 130402.
+* Wigner, Eugene P., 1962, “Remarks on the Mind-Body Problem”, in I.J. Good (ed.), _The Scientist Speculates: An Anthology of Partly-Baked Ideas_, London: William Heinemann, 284–320; reprinted in Wigner (1967), 171–184.
+* –––, 1967, _Symmetries and Reflections: Scientific Essays of Eugene P. Wigner_, Bloomington, Indiana University Press.
+* Żukowski, Marek, and Marcin Markiewicz, 2021, “Physics and Metaphysics of Wigner’s Friends: Even Performed Pre-measurements Have No Results”, _Physical Review Letters_, 126: 130402.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=qt-issues). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/qt-issues/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=qt-issues&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/qt-issues/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=qt-issues).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/qt-issues/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=qt-issues\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/qt-issues/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* Feynman, R., [Lectures on Physics](http://www.feynmanlectures.caltech.edu/III_toc.html). These are introductory lectures aimed at physics undergraduates.
-* Hardy, Lucien, 2001 [2008], “[Quantum Theory from Five Reasonable Axioms](https://arxiv.org/abs/quant-ph/0101012v4)”, manuscript at arxiv.org originally submitted in 2001, but now is labeled version 4 (2008).
-* Lewis, Peter J., “[Interpretations of Quantum Mechanics](http://www.iep.utm.edu/int-qm/)”, *Internet Encyclopedia of Philosophy*.
-* Norton, John, “[Origins of Quantum Theory](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/quantum_theory_origins/),” A good introduction to the history of quantum theory, about which little is said in the present entry.
+* Feynman, R., [Lectures on Physics](http://www.feynmanlectures.caltech.edu/III\_toc.html). These are introductory lectures aimed at physics undergraduates.
+* Hardy, Lucien, 2001 \[2008], “[Quantum Theory from Five Reasonable Axioms](https://arxiv.org/abs/quant-ph/0101012v4)”, manuscript at arxiv.org originally submitted in 2001, but now is labeled version 4 (2008).
+* Lewis, Peter J., “[Interpretations of Quantum Mechanics](http://www.iep.utm.edu/int-qm/)”, _Internet Encyclopedia of Philosophy_.
+* Norton, John, “[Origins of Quantum Theory](http://www.pitt.edu/\~jdnorton/teaching/HPS\_0410/chapters/quantum\_theory\_origins/),” A good introduction to the history of quantum theory, about which little is said in the present entry.
 * [PhET Interactive Simulations project](http://phet.colorado.edu/en/simulations/category/physics/quantum-phenomena), University of Colorado Boulder; these pages contain useful simulations of classic quantum experiments.
 
 ## Related Entries
 
-[Bell’s Theorem](https://plato.stanford.edu/entries/bell-theorem/) | [physics: holism and nonseparability](https://plato.stanford.edu/entries/physics-holism/) | [quantum mechanics](https://plato.stanford.edu/entries/qm/) | [quantum mechanics: action at a distance in](https://plato.stanford.edu/entries/qm-action-distance/) | [quantum mechanics: Bohmian mechanics](https://plato.stanford.edu/entries/qm-bohm/) | [quantum mechanics: collapse theories](https://plato.stanford.edu/entries/qm-collapse/) | [quantum mechanics: consistent histories approach](https://plato.stanford.edu/entries/qm-consistent-histories/) | [quantum mechanics: Copenhagen interpretation of](https://plato.stanford.edu/entries/qm-copenhagen/) | [quantum mechanics: Everettian](https://plato.stanford.edu/entries/qm-everett/) | [quantum mechanics: Kochen-Specker theorem](https://plato.stanford.edu/entries/kochen-specker/) | [quantum mechanics: many-worlds interpretation of](https://plato.stanford.edu/entries/qm-manyworlds/) | [quantum mechanics: modal interpretations of](https://plato.stanford.edu/entries/qm-modal/) | [quantum mechanics: relational](https://plato.stanford.edu/entries/qm-relational/) | [quantum mechanics: the role of decoherence in](https://plato.stanford.edu/entries/qm-decoherence/) | [quantum theory: and consciousness](https://plato.stanford.edu/entries/qt-consciousness/) | [quantum theory: and mathematical rigor](https://plato.stanford.edu/entries/qt-nvd/) | [quantum theory: quantum computing](https://plato.stanford.edu/entries/qt-quantcomp/) | [quantum theory: quantum entanglement and information](https://plato.stanford.edu/entries/qt-entangle/) | [quantum theory: quantum field theory](https://plato.stanford.edu/entries/quantum-field-theory/) | [quantum theory: quantum gravity](https://plato.stanford.edu/entries/quantum-gravity/) | [quantum theory: quantum logic and probability theory](https://plato.stanford.edu/entries/qt-quantlog/) | [quantum theory: the Einstein-Podolsky-Rosen argument in](https://plato.stanford.edu/entries/qt-epr/) | [Uncertainty Principle](https://plato.stanford.edu/entries/qt-uncertainty/)
+[Bell’s Theorem](https://plato.stanford.edu/entries/bell-theorem/) | [physics: holism and nonseparability](https://plato.stanford.edu/entries/physics-holism/) | [quantum mechanics](https://plato.stanford.edu/entries/qm/) | [quantum mechanics: action at a distance in](https://plato.stanford.edu/entries/qm-action-distance/) | [quantum mechanics: Bohmian mechanics](https://plato.stanford.edu/entries/qm-bohm/) | [quantum mechanics: collapse theories](https://plato.stanford.edu/entries/qm-collapse/) | [quantum mechanics: consistent histories approach](https://plato.stanford.edu/entries/qm-consistent-histories/) | [quantum mechanics: Copenhagen interpretation of](https://plato.stanford.edu/entries/qm-copenhagen/) | [quantum mechanics: Everettian](https://plato.stanford.edu/entries/qm-everett/) | [quantum mechanics: Kochen-Specker theorem](https://plato.stanford.edu/entries/kochen-specker/) | [quantum mechanics: many-worlds interpretation of](https://plato.stanford.edu/entries/qm-manyworlds/) | [quantum mechanics: modal interpretations of](https://plato.stanford.edu/entries/qm-modal/) | [quantum mechanics: relational](https://plato.stanford.edu/entries/qm-relational/) | [quantum mechanics: the role of decoherence in](https://plato.stanford.edu/entries/qm-decoherence/) | [quantum theory: and consciousness](https://plato.stanford.edu/entries/qt-consciousness/) | [quantum theory: and mathematical rigor](https://plato.stanford.edu/entries/qt-nvd/) | [quantum theory: quantum computing](https://plato.stanford.edu/entries/qt-quantcomp/) | [quantum theory: quantum entanglement and information](https://plato.stanford.edu/entries/qt-entangle/) | [quantum theory: quantum field theory](https://plato.stanford.edu/entries/quantum-field-theory/) | [quantum theory: quantum gravity](https://plato.stanford.edu/entries/quantum-gravity/) | [quantum theory: quantum logic and probability theory](https://plato.stanford.edu/entries/qt-quantlog/) | [quantum theory: the Einstein-Podolsky-Rosen argument in](https://plato.stanford.edu/entries/qt-epr/) | [Uncertainty Principle](https://plato.stanford.edu/entries/qt-uncertainty/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-[Wayne Myrvold](http://publish.uwo.ca/~wmyrvold/) <[*wmyrvold@uwo.ca*](mailto:wmyrvold%40uwo%2eca)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+[Wayne Myrvold](http://publish.uwo.ca/\~wmyrvold/) <[_wmyrvold@uwo.ca_](mailto:wmyrvold%40uwo%2eca)>

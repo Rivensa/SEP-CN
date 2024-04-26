@@ -1,10 +1,12 @@
 # 引语 quotation (Herman Cappelen, Ernest Lepore, and Matthew McKeever)
 
-*首次发表于2005年7月16日；实质性修订于2023年4月19日。*
+## 引语 quotation (Herman Cappelen, Ernest Lepore, and Matthew McKeever)
+
+_首次发表于2005年7月16日；实质性修订于2023年4月19日。_
 
 从弗雷格开始，引语的语义学（和语用学）在过去的一百多年里一直受到持续的关注。然而，它并没有像确定描述或命题态度动词的语义学那样经受过激烈的辩论和审查。许多哲学家可能都有戴维森的经历：“当我接触逻辑和语义学的奥秘时，引语通常被介绍为一种有些可疑的工具，并且伴随着一场严厉的布道，警告我们不要混淆表达式的使用和提及”（戴维森，1979 年，第 79 页）。然而，那些仅止于此的人会错过语言哲学中最困难和有趣的话题之一。
 
-考虑以下句子：[1]
+考虑以下句子：\[1]
 
 (1)
 
@@ -33,16 +35,15 @@
 
 条目的结构如下：
 
- 
----
+***
 
-## 1. 如何描述引语
+### 1. 如何描述引语
 
 问题从一开始就出现了，因为引语并不容易描述。我们从思考如何尝试描述引语开始。
 
-### 1.1 通过例子确定引语
+#### 1.1 通过例子确定引语
 
-有一种简单且相对非争议的方法可以识别引语：它是由（4）中的主语和（5）中的直接宾语[2]所示的语言现象的类型；分别是纯引语和直接引语的实例。
+有一种简单且相对非争议的方法可以识别引语：它是由（4）中的主语和（5）中的直接宾语\[2]所示的语言现象的类型；分别是纯引语和直接引语的实例。
 
 (5)
 
@@ -50,7 +51,7 @@
 
 这就留下了哪些语义和句法设备属于这种类型的问题。任何更具体性质的描述，无论是句法还是语义方面，都会立即进入有争议的领域。
 
-### 1.2 引语在句法上被识别出来
+#### 1.2 引语在句法上被识别出来
 
 一个句法特征化可能是这样的：拿两个引号标记——在英国是单引号，在美国是双引号，在欧洲的某些地方是双角引号——然后将一个字母、一个单词或一个句子放在两个引号之间。结果就是一个引语，如(4)–(5)所示。但是请考虑以下句子：
 
@@ -69,7 +70,7 @@
 
 用作引号替代物的其他设备包括粗体、缩进和行缩进（参见 Quine 1940 年，第 23-24 页；Geach 1957 年，第 82 页）。除了它们被用作引号之外，对于不同书面选项的范围没有明确的限制，但这使得句法描述不完整，因此不令人满意。
 
-### 1.3 语义上确定的引语
+#### 1.3 语义上确定的引语
 
 另一个诱人的策略是说，如果一个表达式被提及，那么它就被引用了。这个表述有两个问题。
 
@@ -78,7 +79,7 @@
 
 为了保持尽可能中立，我们将坚持一个简单的通过示例进行识别的策略，并强调如何识别（4）中的主题所属的语言设备类型是一个开放性问题。
 
-## 2. 基本引语特征
+### 2. 基本引语特征
 
 引语是一个将各种语言和语义问题集合在一起的主题。以下是六个特别重要的基本引语特征（简称为 BQ1-BQ6），它们将指导我们寻找一个合适的解释。
 
@@ -132,7 +133,7 @@ BQ5. 理解引语意味着具有无限的能力，即理解和生成潜在的无
 
 BQ6. 引用的词可以同时被使用和提及。
 
-这是戴维森的一个重要观察，如（12）所示。[3]
+这是戴维森的一个重要观察，如（12）所示。\[3]
 
 (12)
 
@@ -162,7 +163,7 @@ Quine 说引语具有某种异常特征。
 
 在继续之前，重要的一点是：引语，也许比语言的其他领域更难，因为不仅对于正确的理论没有共识，而且对于选择空间和需要解释的数据也存在基本分歧。我们将在下面看到这一点，但重要的是要记住，当涉及引语时，共识是没有共识的，分歧是常态。
 
-### 引语理论的指导问题 2.1
+#### 引语理论的指导问题 2.1
 
 BQ1–BQ6 发挥着重要作用，因为引语理论试图回答某些问题，而这些问题如果没有解释引语 BQ1–BQ6，就不会有令人满意的答案。可以将三个问题视为引语理论的指导问题：
 
@@ -182,11 +183,11 @@ Q2. 引语如何指代？
 
 Q3. 引语指的是什么？
 
-指的是哪些对象？它们总是指的同一个对象，还是引语是模糊的？[ 4]
+指的是哪些对象？它们总是指的同一个对象，还是引语是模糊的？\[ 4]
 
 在接下来的内容中，我们的主要关注点将是 Q1 和 Q2，但在此过程中我们也会解释 Q3。（第 5 节完全致力于 Q3。）
 
-### 2.2 使用-提及区分
+#### 2.2 使用-提及区分
 
 在哲学中，将表达式的使用与提及区分开是标准做法。混淆这两者通常被视为哲学上的致命罪过。尽管它广泛受到欢迎，但如何准确地划分这种区别仍然存在争议。最初的想法很简单。考虑（D1）和（D2）：
 
@@ -194,7 +195,7 @@ D1. 吉姆去了巴黎
 
 D2. ‘Jim’有三个字母
 
-在（D1）中，“Jim”这个词用来谈论（或表示，或指代）一个人，即 Jim，并且句子说这个人去了巴黎。在（D2）中，这个词不是以那种方式使用。相反，“Jim”用来谈论（或表示，或指代）一个词，即“Jim”，并且句子说这个词有三个字母[5]。在（D1）中，“Jim”正在被使用，在（D2）中它被提及。
+在（D1）中，“Jim”这个词用来谈论（或表示，或指代）一个人，即 Jim，并且句子说这个人去了巴黎。在（D2）中，这个词不是以那种方式使用。相反，“Jim”用来谈论（或表示，或指代）一个词，即“Jim”，并且句子说这个词有三个字母\[5]。在（D1）中，“Jim”正在被使用，在（D2）中它被提及。
 
 最初的想法在某种程度上是正确的，但可能会认为它不够深入。人们可能希望我们能够以一种无争议的方式更详细地阐述，一种任何辩论参与方都可以同意的理论中立的方式。实际上，尽管如此（这一点没有得到足够的认识），这并不简单。为了看清这一点，考虑一些试图在最初的描述上进行扩展的方法：
 
@@ -210,11 +211,11 @@ D3. 这个句子中的前七个词包含三十二个字母。
 
 这暗示着，任何试图对使用和提及之间的区别进行更复杂的表征的尝试，都需要至少解决一些我们在接下来描述的引语的各种理论面临的棘手问题。
 
-## 3. 引语的五种理论
+### 3. 引语的五种理论
 
 大致上，有五种引语理论在引语的讨论中起到了重要作用：适当名称理论、描述理论、指示/并列理论、解释理论和使用/身份理论。（参见 Maier 的分类法（2014b），该分类法仅包括前四种理论，并根据形式上的要求如组合性和生产力进行评估，参见 Saka 2013，该分类法包括十种理论。顺便提一下，这种分歧很好地说明了我们之前提到的关于引语理论家之间缺乏共识的观点。）在接下来的章节中，我们将讨论每种理论并评述它们的优点和缺点。
 
-### 3.1 适当名称理论
+#### 3.1 适当名称理论
 
 在引语文献中，几乎成为一种传统，包括对引语的适当名称理论进行简短的否定性讨论。这种观点在奎因和塔斯基的文章中被描述，尽管没有明确支持（例如，奎因 1940 年，第 23-26 页；1961 年，第 140 页；塔斯基 1933 年，第 159 页等），并且在赖兴巴赫（1947 年，第 335 页）和卡纳普（1947 年，第 4 页）的文章中也有一些评论，强烈暗示他们是支持者。话虽如此，关于奎因和塔斯基是否曾经持有这种观点存在一些争议（参见，例如，贝内特 1988 年，理查德 1986 年，萨卡 1998 年和戈麦斯-托伦特 2001 年）。因此，值得一提的是，尽管我们在下面引用了奎因和塔斯基的观点，但我们并不意味着将适当名称理论归因于他们中的任何一个；我们这样做只是因为他们清楚地描述了这一理论。
 
@@ -230,7 +231,7 @@ Tarski 将这一观点阐述如下：
 
 > 引号名称可以被视为一种语言的单词，因此可以像句法简单的表达式一样对待。这些名称的单个组成部分——引号和位于它们之间的表达式——具有与单词中连续字母的字母和复合体相同的功能。因此，它们不能具有独立的含义。每个引号名称都是一个确定表达式（由引号括起来的表达式）的恒定个体名称，实际上是与人的专有名称性质相同的名称。（塔斯基，1933 年，第 159 页）
 
-#### 3.1.1 适用性的优势
+**3.1.1 适用性的优势**
 
 适用性理论很好地解释了（BQ1）-（BQ3）；也就是说，根据这个理论，我们可以理解为什么共指表达式不能互相替换。根据适用性理论，名称“西塞罗”并不出现在“‘西塞罗’”中；仅仅因为西塞罗=Tully，不能得出“Tully”可以替换“西塞罗”在“‘西塞罗’”中的结论。正如奎因所说，“在这样的上下文中对一个人名进行替换，不比在‘cattle’的上下文中对术语‘cat’进行替换更具有正当性”（奎因，1961 年，第 141 页）。适用性理论允许创建新的引语，就像自然语言允许引入新的名称一样。它禁止量化，因为每个引语都是一个单词，所以没有什么可以量化的东西。为了理解这一点，考虑以下情况。我们显然不能对单词进行量化。这个想法几乎没有意义。想象一下我们有句子“欧洲出生率下降”。我们不能对，比如说，单词“下降”进行量化。以下表达没有意义，我们试图表达一个由单词或字符串“earth”满足的存在泛化：
 
@@ -250,7 +251,7 @@ Tarski 将这一观点阐述如下：
 
 这也是不正确的。适当名称理论家可以解释它。记住，对于适当名称理论家来说，引语类似于名称，引号类似于字母。但是如果是这样的话，(16)与(14)是相等的：两者都试图量化为表达式（前者以‘d’开头的表达式，后者以‘’开头并以‘’结尾的表达式）。对于适当名称理论家来说，(14)的明显不好可以解释(16)的不好。
 
-#### 3.1.2 适当名称理论的弱点
+**3.1.2 适当名称理论的弱点**
 
 这里有三个对引语的适当名称理论的反对意见。（主要反对意见在戴维森（1979 年，第 81-83 页）中，尽管一些反对意见在吉奇（1957 年，第 79 页及以下）之前就已经有了。）
 
@@ -292,9 +293,9 @@ Tarski 将这一观点阐述如下：
 
 对引语的适当名称理论提出了其他反对意见。有关进一步讨论，请参阅戴维森（1979 年）、卡佩伦和莱波尔（1997b 年）和萨卡（1998 年）。最近的名称理论的辩护者能否使其摆脱危机尚有待观察，但可以公平地说，他们的工作表明其消亡的报道至少有些过早。
 
-### 3.2 引语的描述理论
+#### 3.2 引语的描述理论
 
-引语的描述理论是为了保证“引语系列总是引语表达式的系列”（Geach 1957 年，第 82 页），而不是“一个单独的长词，其部分没有单独的意义”（同上，第 82 页）而引入的。根据这个理论，每种语言都有一组基本单位：根据 Geach（同上，第 18 章和 1970 年）是单词；根据 Tarski（1956 年，第 160 页）和 Quine（1960 年，第 143 页，第 212 页）是字母。[6]
+引语的描述理论是为了保证“引语系列总是引语表达式的系列”（Geach 1957 年，第 82 页），而不是“一个单独的长词，其部分没有单独的意义”（同上，第 82 页）而引入的。根据这个理论，每种语言都有一组基本单位：根据 Geach（同上，第 18 章和 1970 年）是单词；根据 Tarski（1956 年，第 160 页）和 Quine（1960 年，第 143 页，第 212 页）是字母。\[6]
 
 这种观点保留了基本引语的适当名称理论，例如，根据 Quine，“a”是一个字母的名称，“b”是另一个字母的名称，依此类推。对于 Geach，每个单词都有一个引语名称。复杂引语，即具有多个基本单位的引语，被理解为基本单位串联的描述。这里是 Geach 的一个例子（其中“-”是他表示串联的符号）：
 
@@ -318,7 +319,7 @@ Tarski 将这一观点阐述如下：
 
 也就是说，如果吉奇的理论是正确的，那么（4）的适当表示就是简单的（4），而对于塔斯基和奎因来说，它是更加笨重的（18）。另一方面，吉奇语言中的单词数量至少是我们预期的两倍：对于字典中的每个单词，还会有一个代表该单词的单词（通过将初始单词括在引号中获得）。
 
-#### 3.2.1 描述理论的优点和缺点
+**3.2.1 描述理论的优点和缺点**
 
 在某种程度上，描述理论相对于适当名称理论是一个巨大的改进：它只处理有限的基本名称集，因此潜在地可以解释（BQ5）。然而，在其他方面，根据广泛共识，该理论在适当名称理论上并没有太大的改进。在基本层面上，该理论仍然将引语视为名称。因此，在那个层面上，它继承了许多困扰更简单的适当名称理论的问题。以下是一些更明显的反对意见（由于该理论并不是当代讨论的核心，我们在这里只提及一些最明显的反对意见）：
 
@@ -327,9 +328,9 @@ Tarski 将这一观点阐述如下：
 * 在基本层面上，它未能解释双重使用和提及（BQ6）。这对于 Geach 的版本尤其是一个问题。任何解释，包括适用于引号内词标的语义功能仅仅是指代词类型（或其他类型的语言实体）的适当名称理论，都无法为（12）分配正确的真值条件。实质上，它预测（12）在句法上等同于类似于“Quine 说引语这个短语”的东西，这是不合语法的，因为它包含一个应该是动词短语的确定描述。
 * 根据戴维森（1979 年，第 86-87 页）的说法，描述理论无法解释为什么我们不能将引语量化（即它无法解释 BQ2）。大致上，这种想法似乎是我们可以从（4）推广到“某个单词有八个字母”。但是通过类似的推理，我们应该能够从（18）推广到“某个字母是这样的，即‘B’-‘a’-‘c’-‘h’-‘e’-‘l’-it-‘r’有八个字母”。但显然不能进行这样的推广。
 
-### 3.3 引语的指示理论
+#### 3.3 引语的指示理论
 
-二十世纪关于引语的开创性论文几乎是戴维森的《引语》（1979 年）。它是关于这个主题最多讨论和最有影响力的论文，几乎是普遍共识。戴维森所支持的观点被称为指示理论（也被称为并列理论，尽管在我们的讨论中我们将使用前者的标签）。指示理论在《引语》的最后几页中提出，关键段落如下：[7]
+二十世纪关于引语的开创性论文几乎是戴维森的《引语》（1979 年）。它是关于这个主题最多讨论和最有影响力的论文，几乎是普遍共识。戴维森所支持的观点被称为指示理论（也被称为并列理论，尽管在我们的讨论中我们将使用前者的标签）。指示理论在《引语》的最后几页中提出，关键段落如下：\[7]
 
 > …引号…通过指出具有引号的东西来帮助引用一个形状…单数术语是引号，可以读作“这里有一个标记的表达式”。（戴维森 1979 年，第 90 页）
 >
@@ -337,13 +338,11 @@ Tarski 将这一观点阐述如下：
 >
 > 引号可以被扭曲，以便从它们在其中没有语义作用的句子中删除引用的材料。因此，不是：
 >
->> ‘Alice swooned’是一个句子。
->>
+> > ‘Alice swooned’是一个句子。
 >
 > 我们可以写成：
 >
->> Alice swooned。这个词语的表达是一个句子。
->>
+> > Alice swooned。这个词语的表达是一个句子。
 >
 > (Davidson 1979, p. 90)
 
@@ -361,7 +360,7 @@ Tarski 将这一观点阐述如下：
 
 第三，引号的话语，由于具有指示性/索引性成分，指的是由所示标记实例化的表达式，即在表面语法中位于引号之间的标记所实例化的表达式。
 
-#### 3.3.1 引语理论的优势
+**3.3.1 引语理论的优势**
 
 引语理论至少有五个吸引人之处。首先，掌握引号的功能意味着获得了无限应用的能力（BQ5）。引语理论解释了为什么：我们可以演示的实体种类没有限制。因此，（BQ5）的解释并不是通过将引语作为一个产生详细说明的工具来实现的（详见 Cappelen 和 Lepore 1997b）。
 
@@ -369,11 +368,11 @@ Tarski 将这一观点阐述如下：
 
 (20)
 
- 那很好。
+那很好。
 
 (21)
 
- 那很好。
+那很好。
 
 第三，我们对混合引语有一个优雅的解释，即我们可以解释（BQ6）。戴维森说：
 
@@ -387,7 +386,7 @@ Tarski 将这一观点阐述如下：
 
 (22)
 
-Quine 说，用这些词的话，引语具有某种异常的特征。[8]
+Quine 说，用这些词的话，引语具有某种异常的特征。\[8]
 
 第四，如何引入新的词汇并没有什么神秘之处；因为可以演示的东西没有限制，所以可以引用的东西也没有限制。（BQ3）得到了解释。
 
@@ -395,13 +394,13 @@ Quine 说，用这些词的话，引语具有某种异常的特征。[8]
 
 示指理论既大胆又激进。它引发了一个完全致力于批评和捍卫它的小产业。支持者包括 Partee 1973；Garcia-Carpintero 1994, 2017, 2018；Cappelen 和 Lepore 1997b；McCullagh 2007；和 Predelli 2008；批评者则包括 1979 年之后任何其他关于引语的写作。
 
-#### 3.3.2 示指理论的弱点
+**3.3.2 示指理论的弱点**
 
 接下来我们提出了五个对示指理论的批评。不用说，这个列表并不详尽（例如，参见 Sorensen 2008 和 Saka 2011b 关于空引语的问题），而且每个异议都引发了热烈的讨论，由于空间限制，我们无法在这里详述。
 
 反对意见 1. 如果演示理论是正确的，那么应该有可能通过（4）来演示一只企鹅。
 
-这里有一个论证，模仿了对戴维森间接陈述语义解释的一系列异议（伯奇 1986 年，斯坦顿 1999 年）[9]。
+这里有一个论证，模仿了对戴维森间接陈述语义解释的一系列异议（伯奇 1986 年，斯坦顿 1999 年）\[9]。
 
 请记住，根据戴维森的观点，（4）的逻辑形式是（19）。
 
@@ -413,7 +412,7 @@ Quine 说，用这些词的话，引语具有某种异常的特征。[8]
 
 学士。表示这个词的标记有八个字母。
 
-（19）包含一个指示词，指示词通过使用来指示任何被演示的事物。在特定场合演示的事物取决于说话者（演示或意图或两者的组合）。因此，一个说话者应该能够说出（4）而不演示“学士”的展示标记。也就是说，如果（19）中真的有一个指示词，那么这个指示词应该具有其他指示词具有的自由度：例如，它应该能够指代附近的企鹅。当然，（4）的任何话语都没有提到企鹅。因此，指示理论是错误的。[10]（有关对这个异议的回答，请参见 Cappelen 和 Lepore 1999b。）
+（19）包含一个指示词，指示词通过使用来指示任何被演示的事物。在特定场合演示的事物取决于说话者（演示或意图或两者的组合）。因此，一个说话者应该能够说出（4）而不演示“学士”的展示标记。也就是说，如果（19）中真的有一个指示词，那么这个指示词应该具有其他指示词具有的自由度：例如，它应该能够指代附近的企鹅。当然，（4）的任何话语都没有提到企鹅。因此，指示理论是错误的。\[10]（有关对这个异议的回答，请参见 Cappelen 和 Lepore 1999b。）
 
 反对意见 2. 相关特征的问题
 
@@ -497,8 +496,7 @@ Recanati（2001）关注的是引语表达在句子中不作为名词短语的�
 
 (29)
 
-停下来，约翰！'没有人喜欢我'，'我很悲惨'...
-你不觉得你有点夸张吗？
+停下来，约翰！'没有人喜欢我'，'我很悲惨'... 你不觉得你有点夸张吗？
 
 (30)
 
@@ -520,11 +518,11 @@ Recanati（2001）关注的是引语表达在句子中不作为名词短语的�
 
 停下来，约翰！你说“没有人喜欢我”，“我很痛苦”... 你不觉得你有点夸张吗？
 
- Recanati 说：
+Recanati 说：
 
-> 我否认[29]和[33]是同义词。在这里，除了为了在明显的反例面前挽救理论之外，没有任何揣测省略的理由（Recanati 2001，第 654 页）。
+> 我否认\[29]和\[33]是同义词。在这里，除了为了在明显的反例面前挽救理论之外，没有任何揣测省略的理由（Recanati 2001，第 654 页）。
 
-### 3.4 引语的解释原理
+#### 3.4 引语的解释原理
 
 比演示理论更简洁的引语解释原理可能是最简单、最自然和最明显的解释。它得到了广泛的作者支持，通常只是顺便提及，仿佛完全显而易见。其中一个简单版本可以在理查德的引语解释模式（DQR）中找到：
 
@@ -538,7 +536,7 @@ Ludwig 和 Ray 写道：
 
 根据这个解释，引语不是适当的名称、描述或指示物，而是将表达式作为参数并将其作为值返回的函数。
 
-#### 3.4.1 引语理论的优势
+**3.4.1 引语理论的优势**
 
 引语理论最明显的两个优点是其简单性和直观性。如果被问到引语的功能如何，显而易见的回答是类似于（DQR）的回答。它还是一个令人愉悦的简单公理（或公理模式），不需要对句子的表层结构进行复杂的假设（在这方面，它在指示理论上具有明显的优势）。
 
@@ -550,7 +548,7 @@ Ludwig 和 Ray 写道：
 
 最后，由于引语作为函数，将所有表达式映射到它们自身，这个解释可以解释引语和被引用表达式之间的特殊关系，即恒等关系，从而解释了（BQ4）。
 
-#### 3.4.2 引语理论的弱点
+**3.4.2 引语理论的弱点**
 
 即使具有这些优势，引语理论仍面临至少三个严重困难。
 
@@ -568,7 +566,7 @@ Ludwig 和 Ray 写道：
 
 > 很容易列出一个有限的元素列表（字母、标点符号、数字、空格等），并且有一个操作（连接）可以生成所有的连接…如果我们为具有引号名称的语言形式化一个语法，我们将在词汇表的规范中包含一个规定，即对于每个连接 e，左引号（lq），后跟 e，后跟右引号（rq）是一个特定术语（Richard 1986，第 386-89 页，我们的强调）。
 
-如果这就是表达式的生成方式，那么我们如何解释（9）和（10）的真实性呢？更一般地说，担心的是：（DQR）需要以某种方式明确规定其量化范围内的表达式领域。在不合理地限制可以引用的符号种类的情况下，它如何做到这一点？[11]（有关此观点的详细说明，请参见 Lepore（1999））。
+如果这就是表达式的生成方式，那么我们如何解释（9）和（10）的真实性呢？更一般地说，担心的是：（DQR）需要以某种方式明确规定其量化范围内的表达式领域。在不合理地限制可以引用的符号种类的情况下，它如何做到这一点？\[11]（有关此观点的详细说明，请参见 Lepore（1999））。
 
 其次，根据（BQ6），引语的理论应该留出双重使用和提及的空间。很难看出（DQR）如何留出这样的空间。如果引语是指称表达式（根据 DQR 的说法），那么如果我们让“Ted”命名表达式“具有某种异常特征”，（12）应该与（17）相同，表达相同的命题。
 
@@ -584,7 +582,7 @@ Quine 说引语 Ted。
 
 最后，那些对指示理论提出第 4 个异议的人可能会在这里提出同样的异议：解释理论未能解释没有引语的引语。所有的工作都是由引语标记完成的，所以没有引语标记的引语是没有空间的。（DQR）的支持者可能和指示理论家一样不感兴趣，他们的回答也会大致相同（见上文）。
 
-### 3.5 引语的同一理论（或者更好地说，引语的使用理论）
+#### 3.5 引语的同一理论（或者更好地说，引语的使用理论）
 
 据我们所知，"引语的同一理论"这个标签最早是由华盛顿（1992）使用的，尽管他将这个观点归功于弗雷格（1892）和西尔（1969）。然而，在华盛顿之前所谓的提出这个观点的段落几乎不能算作是提出了一个理论；它们更像是毫无论证的教条式声明。自从华盛顿的论文发表以来，类似的观点已经被萨卡（1998、2004、2011a）、雷默（1996）、雷卡纳蒂（2000、2001）等人更详细地发展了。
 
@@ -592,7 +590,7 @@ Quine 说引语 Ted。
 
 > 引语作为一个整体被分析为表示引语使用的标记和被引用的表达本身，用于提及一个对象。所有的表达式，即使它们的标准用法不是作为提及表达式，也在引语中成为提及表达式...被引用的表达式与其值之间的关系是一致性：被引用的表达式提及它自己。（华盛顿 1992 年，第 557 页）
 
-这个观点有三个重要组成部分：[12]，[13]
+这个观点有三个重要组成部分：\[12]，\[13]
 
 * 引号的使用（如（4）中所示）是一个派生现象。基本现象是华盛顿所称的引语使用（华盛顿 1992 年，第 557 页）。
 * 引号的主要功能是指示单词是引用使用的（或提及），而不是仅仅使用其常规扩展。
@@ -608,9 +606,9 @@ Quine 说引语 Ted。
 
 我们希望身份理论不被称为“身份理论”。（在私下交流中，华盛顿也表达了同样的观点。）“身份”组成部分是从这个表述中提取出来的，“引用表达式与其值之间通过身份关系：引用表达式提到了它自己”。然而，这个表述是非常误导人的，因为根据华盛顿（以及后来的一些人，例如 Saka（1998）），引用是有歧义的。根据华盛顿的说法，它们可以指代类型、标记或形状（参见华盛顿 1992 年，第 594 页），而根据这种观点的另一位支持者 Saka 的说法，它们甚至更加灵活（Saka 1998 年，详细介绍 Saka 的观点见下文）。一个更好的标签应该是“引语的使用理论”，因为这强调了理解引语需要诉诸于一种特殊的语言使用方式的观点。在接下来的内容中，我们使用笨拙的妥协“使用/身份理论”。
 
-将华盛顿的解释与引语理论进行对比是有用的。回想一下，根据 DQR *，引号*具有语义功能，并且这个功能在引语模式（DQR）中得到了详细说明。 (DQR)是一个语义公理。它将引号视为恒等函数。在这个公理中，说话者的意图根本不起作用（除了意图说英语）。在引语理论中，没有必要诉诸于特殊的引语用法。对于华盛顿来说，引号没有真正的语义功能。它们只是一种启发式设备，用于指示表达方式的特殊用法，即引语方式。
+将华盛顿的解释与引语理论进行对比是有用的。回想一下，根据 DQR _，引号_具有语义功能，并且这个功能在引语模式（DQR）中得到了详细说明。 (DQR)是一个语义公理。它将引号视为恒等函数。在这个公理中，说话者的意图根本不起作用（除了意图说英语）。在引语理论中，没有必要诉诸于特殊的引语用法。对于华盛顿来说，引号没有真正的语义功能。它们只是一种启发式设备，用于指示表达方式的特殊用法，即引语方式。
 
-#### 3.5.1 使用/恒等理论的其他版本：Reimer，Recanati，Saka 和图像理论
+**3.5.1 使用/恒等理论的其他版本：Reimer，Recanati，Saka 和图像理论**
 
 几种最近的观点与华盛顿的观点有重要的共同点。Reimer（2003）结合了指示理论和恒等理论的版本。Recanati（2000, 2001, 2010）并没有明确讨论任何版本的恒等理论，但他的理论包含了一些其组成部分；它通过关注他所称之为“开放引语”（参见上面对指示理论的反驳 5）和引语的图标方面（详见 Recanati 2001）而独特。对于那些有兴趣进一步探索使用/恒等理论的人来说，这两个理论可能值得更仔细地研究（其中第二个主要是出于历史兴趣）。
 
@@ -620,7 +618,7 @@ Quine 说引语 Ted。
 
 猫是一个名词。
 
-尽管 Saka 与 Washington 一致认为引号“宣布‘我不仅仅是使用表达式 X；我还在提及它’”（Saka 1998 年，第 127 页），但他与 Washington 的不同之处在于他赋予它们真正的句法和语义功能（Saka，1998 年，第 128 页）。在这方面，他融入了我们上面所称的解释理论的组成部分。[14]，[15]。
+尽管 Saka 与 Washington 一致认为引号“宣布‘我不仅仅是使用表达式 X；我还在提及它’”（Saka 1998 年，第 127 页），但他与 Washington 的不同之处在于他赋予它们真正的句法和语义功能（Saka，1998 年，第 128 页）。在这方面，他融入了我们上面所称的解释理论的组成部分。\[14]，\[15]。
 
 Saka 的解释也与 Washington 的解释不同，他强调引语是模糊的（或不确定的），它们所指的对象取决于说话者的意图（参见 Saka 1998 年，第 123-4 页）。有关这一点的进一步讨论，请参见下面的第 5 节。
 
@@ -634,7 +632,7 @@ Saka 的解释也与 Washington 的解释不同，他强调引语是模糊的（
 
 注意，根据戴维森对这个观点的描述，引号本身没有语义功能；相反，它们表示这些词语正在以一种特殊的方式使用。它们被“自指地”使用，也就是用来指代它们自己。因此，引语的图像理论至少与使用/同一性理论有这么多共同之处：它们都认为引号是非必要的；它们只表示一种特殊的用法。它们表示表达式正在被用作图像（或象形文字）。引语的图像理论——如果称之为理论合适的话——从未详细阐述过，我们怀疑如果详细阐述，就会显而易见它是使用/同一性理论的一个版本。
 
-#### 3.5.2 使用/身份理论的优势
+**3.5.2 使用/身份理论的优势**
 
 使用/身份理论家声称他们的理论在解释上比传统的语义理论更有力。通过将引语视为一种寄生现象，他们能够以统一的方式解释引语和这种更一般的现象的语义。
 
@@ -646,7 +644,7 @@ Saka 的解释也与 Washington 的解释不同，他强调引语是模糊的（
 * 在这种观点下，引用材料与指涉物之间通常存在着特别密切的关系；有时是身份，有时是实例化等，因此我们可以以各种方式说（BQ4）得到满足。
 * 如果我们提及的能力是无限的，那么我们对引语如何可能也有一个解释（即，我们至少有一个（BQ1）解释的开端）。
 
-#### 3.5.3 使用/身份理论的弱点
+**3.5.3 使用/身份理论的弱点**
 
 对使用/身份理论的讨论还没有像对指示性理论的讨论那样广泛，因此可以报告的异议较少。我们讨论了在各种讨论中出现的四个问题。
 
@@ -659,7 +657,7 @@ Saka 的解释也与 Washington 的解释不同，他强调引语是模糊的（
 
 (35)
 
- 'a' = 'a'
+'a' = 'a'
 
 (36)
 
@@ -683,7 +681,7 @@ Saka 的解释也与 Washington 的解释不同，他强调引语是模糊的（
 
 (17)
 
-Quine 说引语 Ted。[ 16]
+Quine 说引语 Ted。\[ 16]
 
 对于身份/使用理论家来说，解释该理论如何解释同时使用和提及至少是一个挑战。
 
@@ -691,7 +689,7 @@ Quine 说引语 Ted。[ 16]
 
 我们现在从关于引语的大规模理论的讨论转向如何理解我们引语实践的具体方面的讨论。在最近的讨论中，有两个问题尤为重要：混合引语和引语的模糊性。对于这些问题的看法对于支持哪种引语理论具有广泛的影响。我们依次讨论这些问题。
 
-## 4. 混合引语
+### 4. 混合引语
 
 从千禧年开始，从 Cappelen 和 Lepore 的 1997a 开始，这使得这个话题成为主流，混合引语可以说是引语理论化的最大进展领域。这个问题引起了哲学家和语言学家的关注，我们对于需要解释的数据以及解释这些数据的各种可能性的理解都得到了很大的提高。
 
@@ -714,7 +712,7 @@ Quine 说引语 Ted。[ 16]
 
 (38)
 
-# 奎恩说引语“具有某种异常特征”，尽管他没有使用“具有某种异常特征”这些词。
+## 奎恩说引语“具有某种异常特征”，尽管他没有使用“具有某种异常特征”这些词。
 
 事情并不那么清楚。然而，某些其他数据与提及要求的这个所谓特征存在矛盾，尤其是一个人可以在不同于他们所说的语言中正确引用某人（Cappelen 和 Lepore 2007 年第 44 页）。因此，以下内容及其括号内的延续是可以接受的：
 
@@ -770,8 +768,7 @@ Meagan 说她“on accident”扔掉了垃圾。
 
 (46)
 
-A: 《教父 2》真是一部无聊透顶的电影。
-B: 嗯，保琳·凯尔说这部“无聊透顶”的电影是美国电影的一个决定性时刻。（波茨，2007 年，第 420 页）
+A: 《教父 2》真是一部无聊透顶的电影。 B: 嗯，保琳·凯尔说这部“无聊透顶”的电影是美国电影的一个决定性时刻。（波茨，2007 年，第 420 页）
 
 我们是否应该在我们的混合引语理论中包含这样的现象？第一句话中没有包含一个说话动词，而第二句话中有，但是被归属于混合引语的人并不是说出混合引语的人。这是不清楚的。当我们考虑到引号（Predelli 2003a,b, Saka 2013, Gomez-Torrente 2017）和被委婉地称为杂货店引号时，事情变得更加不确定：
 
@@ -781,13 +778,13 @@ B: 嗯，保琳·凯尔说这部“无聊透顶”的电影是美国电影的一
 
 (48)
 
-[写在一双新鞋子的干燥剂上] 不要“吃”！
+\[写在一双新鞋子的干燥剂上] 不要“吃”！
 
 在前一种情况下，并没有任何一个人使用“性短信”；相反，作者标明它是在一个他们不属于或不赞同的社区中使用的。在后一种情况下，引号起到强调的作用。虽然我们可能不想花太多时间认真地理论化杂货店的引语（尽管可以参考 Abbott 2003），但是引号是否应该像我们对待混合引语一样对待（实际上，它们是否是同一种情况）是一个悬而未决的问题（参见 McCullagh 2017 的讨论和对这些问题的肯定回答；Gomez-Torrente 2017 的异议）。
 
 这甚至不是一个详尽的描述。因此，重要的是关注类似的现象，如去引号（Shan 2010）和自由间接话语（Maier 2015, 2017）。而混合引语的理论家至少应该意识到混合引用非成分从句的问题（Abbott 2003，De Brabanter 2022），以及可以在没有引号的情况下进行混合引语的可能性（De Brabanter 2010）。数据的复杂性激发了许多有趣的理论化，我们预计混合引语将继续成为引语理论中的一个焦点问题。
 
-## 5. 引语指的是哪些实体？
+### 5. 引语指的是哪些实体？
 
 与关于引语如何指称（如何与其语义值相连接）的辩论并行的是关于引语指称什么的辩论。一种广泛存在的观点是引语是模糊或不确定的。也就是说，同一引语，例如“龙虾”，在不同使用场合下可以指称不同的对象，这完全取决于话语的语境。Garcia-Carpintero（1994 年，第 261 页）举例说明了这种观点以及通常为之提供的论证。他说“gone”可以指称以下任何一种：
 
@@ -817,11 +814,11 @@ Tsohatzidis（1998）声称，尽管笛卡尔不会说英语，但由于 T1 是�
 
 然而，并不是所有人都相信引语以这种方式具有灵活性。有些人对这种论证形式表示怀疑（参见 Cappelen 和 Lepore 1999a），也对具体的例子表示怀疑。Cappelen 和 Lepore（1999a）还认为多重歧义观点过于普遍，即它预测可能用引语句子表达的命题实际上是不可能用这样的句子表达的。有关进一步讨论，还可参见 Saka（2003）。
 
-## 6. 替代引语设备
+### 6. 替代引语设备
 
 多年来，许多作者认为我们的标准引语惯例并不适用于所有目的，并实际上引入了新的技术设备。这里无法总结所有设备，但以下是一些设备的简要概述。
 
-### 6.1 标记引语
+#### 6.1 标记引语
 
 Reichenbach（1947 年，第 284 页）写道：“普通引语操作从一个词到该词的名称，而标记引语操作从一个标记到由该标记表示的标记。” Reichenbach 使用小箭头（↘↙）表示标记引语，因此符号（39）：
 
@@ -837,7 +834,7 @@ Reichenbach（1947 年，第 284 页）写道：“普通引语操作从一个�
 
 引语引用，就像写一个指示性表达式“这个”并将其与一个对象连接起来以产生该对象的符号一样。（正如上面提到的，一些作者（Bennett 1988，Saka 1998，Washington 1992）认为这就是普通引语的功能。）
 
-### 6.2 角落（准）引语
+#### 6.2 角落（准）引语
 
 正如奎恩（1940 年，§6）所指出的，引语：
 
@@ -845,13 +842,13 @@ Reichenbach（1947 年，第 284 页）写道：“普通引语操作从一个�
 
 仅指定其中所描绘的特定表达式，其中包含特定的希腊字母。为了引用未指定的表达式，他引入了新的角标符号（即‘┌’和‘┐’）。因此，例如，如果我们将表达式‘奎恩’表示为μ，则┌(μ)┐为‘(奎恩)’。准引语与以下口头描述同义：写下‘(’，然后是μ和‘)’的结果（奎恩 1940 年，第 36 页）。关于自然语言中准引语的有趣建议，请参见 Saka（2017 年）。
 
-### 6.3 引号
+#### 6.3 引号
 
 使用单词“红色”进行说话或思考的人通常被认为是使用与使用“rouge”的法国人相同的概念。假设“rouge”是“红色”的好翻译，塞拉斯（1963 年）认为方便使用一个通用术语来分类以这种方式是功能对应物的单词。这样的术语由塞拉斯的点引号提供。点引号是一个普通名词，适用于任何语言中扮演我们语言中所展示的标记所执行的角色的项目，因此任何与“红色”功能对应的表达都可以描述为·红色·。在塞拉斯的术语中，红色的概念是·红色·的共同和特殊之处。
 
-### 6.4 明确的引号
+#### 6.4 明确的引号
 
- 考虑（41）：
+考虑（41）：
 
 (41)
 
@@ -859,149 +856,149 @@ Reichenbach（1947 年，第 284 页）写道：“普通引语操作从一个�
 
 迈克尔·恩斯特声称这句话有歧义。从一种方式阅读，（41）意味着罗马字母表的第一个字母与第二个字母的连接是一个表达式；从另一种方式阅读，它意味着两个外引号之间的表达式是一个表达式。面对这种歧义，布洛斯（1995 年）引入了一种引语符号的表示法，其中每个引号都“知道它的伴侣”。因此，可以理解为有无穷多个不同的引号，每个引号由一个自然数 n 的笔画前缀和一个小圆圈组成，为了有意义地用布洛斯引号括起一个表达式，我们必须选择比被引用的表达式中出现的引号“更高级”的引号（如果有的话），并且每个语法句子中的引号都要与下一个相同的引号“配对”（布洛斯 1995 年，第 291 页）。因此，将（41）解读为包含布洛斯引号，我们得到更自然的解读，即它表示罗马字母表的第一个字母与第二个字母的连接是一个表达式。
 
-## 7. 形式-物质模式
+### 7. 形式-物质模式
 
 卡尔纳普在《语言的逻辑语法》（1937 年）中引入了形式和物质模式的区别。物质模式通常用于描述非语言世界；形式模式通常用于讨论用于描述物质世界的语言。因此，“一个是一个数字”是物质模式中的一个句子；而“‘一个’是一个数字词”是形式模式中的对应句子。这个区别在这里只是提及，因为一些作者认为它对应于用法/提及的区别。由于用法/提及的区别并不特别涉及引语，因此在这里对物质/形式模式也没有太多需要说的。揭示一个陈述基本上是关于语言使用的可能会成功地消除一些其形而上学的神秘性。甚至可能是语义上升（即，将一个句子作为主题，而不是句子所声称指的内容）成功地揭示了哲学某些领域中发生的许多事情的神秘性。但正如我们所说，这个区别以及围绕它的各种哲学动作与引语本身没有太多关系。
 
-## Bibliography
+### Bibliography
 
-* Abbott, Barbara, 2003. ‘Some Notes on Quotation’, *Belgian Journal of Linguistics*, 17(1): 13–26.
-* Bazzoni, André, 2016. ‘Pure quotation, metalanguage and metasemantics’, *Linguistics and Philosophy*, 39(2): 119–149.
-* Benbaji, Yitzhak, 2003. ‘Who needs semantics of quotation marks?’ *Belgian Journal of Linguistics*, 17: 27–49.
-* –––, 2004a. ‘A demonstrative analysis of “open quotation”‘. *Mind and Language*, 19: 534–547.
-* –––, 2004b. ‘Using others’ words’, *Journal of Philosophical Research*, 29: 93–112.
-* Bennett, Jonathan, 1988. ‘Quotation’, *Noûs*, 22: 399–418.
-* Boolos, George, 1995. ‘Quotational ambiguity’, in *On Quine*, P. Leonardi and M. Santambrogio (eds.), Cambridge: Cambridge University Press, pp. 283–296.
-* Botterell, Andrew and Stainton, Robert, 2005. ‘Quotation: Compositionality and Innocence without Demonstration’, *Critica: Revista Hispanoamericana de Filosofia*, 37(110): 3–33.
-* Burge, Tyler, 1986. ‘On Davidson’s ‘Saying that’’, in *Truth and Interpretation*, Basil E. Lepore (ed.), Oxford: Blackwell, pp. 190–208.
-* Cappelen, Herman, 1997. *Signs*, Doctoral Dissertation, Philosophy Department, University of California-Berkeley.
-* Cappelen, Herman and Ernest Lepore, 1997a. ‘On an alleged connection between semantic theory and indirect quotation’, *Mind and Language*, 12: 278–296.
-* –––, 1997b. ‘Varieties of quotation’, *Mind*, 106: 429–50.
-* –––, 1998. ‘Using, mentioning, and quoting: reply to Tsohatzidis’, *Mind*, 107: 665–666.
-* –––, 1999a. ‘Reply to Saka’, *Mind*, 108: 741–50.
+* Abbott, Barbara, 2003. ‘Some Notes on Quotation’, _Belgian Journal of Linguistics_, 17(1): 13–26.
+* Bazzoni, André, 2016. ‘Pure quotation, metalanguage and metasemantics’, _Linguistics and Philosophy_, 39(2): 119–149.
+* Benbaji, Yitzhak, 2003. ‘Who needs semantics of quotation marks?’ _Belgian Journal of Linguistics_, 17: 27–49.
+* –––, 2004a. ‘A demonstrative analysis of “open quotation”‘. _Mind and Language_, 19: 534–547.
+* –––, 2004b. ‘Using others’ words’, _Journal of Philosophical Research_, 29: 93–112.
+* Bennett, Jonathan, 1988. ‘Quotation’, _Noûs_, 22: 399–418.
+* Boolos, George, 1995. ‘Quotational ambiguity’, in _On Quine_, P. Leonardi and M. Santambrogio (eds.), Cambridge: Cambridge University Press, pp. 283–296.
+* Botterell, Andrew and Stainton, Robert, 2005. ‘Quotation: Compositionality and Innocence without Demonstration’, _Critica: Revista Hispanoamericana de Filosofia_, 37(110): 3–33.
+* Burge, Tyler, 1986. ‘On Davidson’s ‘Saying that’’, in _Truth and Interpretation_, Basil E. Lepore (ed.), Oxford: Blackwell, pp. 190–208.
+* Cappelen, Herman, 1997. _Signs_, Doctoral Dissertation, Philosophy Department, University of California-Berkeley.
+* Cappelen, Herman and Ernest Lepore, 1997a. ‘On an alleged connection between semantic theory and indirect quotation’, _Mind and Language_, 12: 278–296.
+* –––, 1997b. ‘Varieties of quotation’, _Mind_, 106: 429–50.
+* –––, 1998. ‘Using, mentioning, and quoting: reply to Tsohatzidis’, _Mind_, 107: 665–666.
+* –––, 1999a. ‘Reply to Saka’, _Mind_, 108: 741–50.
 * –––, 1999b. ‘Reply to Stainton’, in Kumiko and Robert, pp. 279–283.
 * –––, 1999c. ‘Reply to Pietroski’, in Kumiko and Robert, pp. 283–285.
 * –––, 1999d. ‘Semantics of quotation’, in Zeglen, pp. 90–99.
-* –––, 2003. ‘Varieties of quotation revisited’, *Belgian Journal of Linguistics*, 17: 51–75.
-* –––, 2004. *Insensitive Semantics*, Oxford: Basil Blackwell Publishers.
-* –––, 2007. *Language Turned On Itself*, Oxford: Oxford University Press.
-* Carnap, Rudolf, 1937. *Logical Syntax of Language*, London: Routledge and Kegan Paul.
-* –––, 1947. *Meaning and Necessity*, Chicago: University of Chicago Press.
-* Christensen, Niels, 1967. ‘The alleged distinction between use and mention’, *Philosophical Review*, 76: 358–67.
-* Clark, Herbert & Richard Gerrig, 1990. ‘Quotations as demonstrations’, *Language*, 66(4): 764–805.
-* Cumming, Sam, 2003. ‘Two accounts of indexicals in mixed quotation’, *Belgian Journal of Linguistics*, 17: 77–88.
-* De Brabanter, Philippe, 2010. ‘The semantics and pragmatics of hybrid quotations’, *Language and Linguistics Compass*, 4(2): 107–120.
-* –––, 2019. ‘The Interpretation of Indexicals in Hybrid Quotation: A Pragmatic Account’, *Anglophonia: French Journal Of English Linguistics*, 28. doi:10.4000/anglophonia.2646.
-* –––, 2022. ‘Accounting for non-constituents in hybrid quotations. Why unquotation is not the answer’, *Journal of Linguistics*, 59(1): 1–22. doi:10.1017/S0022226722000184
+* –––, 2003. ‘Varieties of quotation revisited’, _Belgian Journal of Linguistics_, 17: 51–75.
+* –––, 2004. _Insensitive Semantics_, Oxford: Basil Blackwell Publishers.
+* –––, 2007. _Language Turned On Itself_, Oxford: Oxford University Press.
+* Carnap, Rudolf, 1937. _Logical Syntax of Language_, London: Routledge and Kegan Paul.
+* –––, 1947. _Meaning and Necessity_, Chicago: University of Chicago Press.
+* Christensen, Niels, 1967. ‘The alleged distinction between use and mention’, _Philosophical Review_, 76: 358–67.
+* Clark, Herbert & Richard Gerrig, 1990. ‘Quotations as demonstrations’, _Language_, 66(4): 764–805.
+* Cumming, Sam, 2003. ‘Two accounts of indexicals in mixed quotation’, _Belgian Journal of Linguistics_, 17: 77–88.
+* De Brabanter, Philippe, 2010. ‘The semantics and pragmatics of hybrid quotations’, _Language and Linguistics Compass_, 4(2): 107–120.
+* –––, 2019. ‘The Interpretation of Indexicals in Hybrid Quotation: A Pragmatic Account’, _Anglophonia: French Journal Of English Linguistics_, 28. doi:10.4000/anglophonia.2646.
+* –––, 2022. ‘Accounting for non-constituents in hybrid quotations. Why unquotation is not the answer’, _Journal of Linguistics_, 59(1): 1–22. doi:10.1017/S0022226722000184
 * Elugardo, Reinaldo, 1999. ‘Mixed quotation’, in Murasugi & Stainton.
-* Davidson, Davidson, 1968. ‘On saying that’, in *Inquiries Into Truth and Interpretation*, Oxford: Oxford University Press, pp. 93–108.
-* –––, 1975. ‘Thought and talk’, in *Inquiries Into Truth and Interpretation*, Oxford: Oxford University Press, pp. 155–170.
-* –––, 1979. ‘Quotation’, in *Inquiries Into Truth and Interpretation*, Oxford: Oxford University Press, pp.79–92. Originally published in *Theory and Decision*, 11 (1979): 27–40.
+* Davidson, Davidson, 1968. ‘On saying that’, in _Inquiries Into Truth and Interpretation_, Oxford: Oxford University Press, pp. 93–108.
+* –––, 1975. ‘Thought and talk’, in _Inquiries Into Truth and Interpretation_, Oxford: Oxford University Press, pp. 155–170.
+* –––, 1979. ‘Quotation’, in _Inquiries Into Truth and Interpretation_, Oxford: Oxford University Press, pp.79–92. Originally published in _Theory and Decision_, 11 (1979): 27–40.
 * –––, 1999. ‘Reply to Cappelen and Lepore’, in Zeglen, pp. 100–102.
-* Frege, Gottlob, 1892. ‘On sense and reference’, in *Translations from the Philosophical Writings of Gottlob Frege*, P. Geach and M. Black (eds.), 3rd edition, Oxford: Basil Blackwell, 1980, pp. 56–78.
-* Garcia-Carpintero, Manuel, 1994. ‘Ostensive signs: against the identity theory of quotation’, *Journal of Philosophy*, 91: 253–64.
-* –––, 2004. ‘The deferred ostension theory of quotation’, *Noûs*, 38(4): 674–692.
-* –––, 2012. ‘Minimalism on quotation? Critical Review of Cappelen and Lepore’s Language Turned On Itself’, *Philosophical Studies*, 161(2): 207–225
+* Frege, Gottlob, 1892. ‘On sense and reference’, in _Translations from the Philosophical Writings of Gottlob Frege_, P. Geach and M. Black (eds.), 3rd edition, Oxford: Basil Blackwell, 1980, pp. 56–78.
+* Garcia-Carpintero, Manuel, 1994. ‘Ostensive signs: against the identity theory of quotation’, _Journal of Philosophy_, 91: 253–64.
+* –––, 2004. ‘The deferred ostension theory of quotation’, _Noûs_, 38(4): 674–692.
+* –––, 2012. ‘Minimalism on quotation? Critical Review of Cappelen and Lepore’s Language Turned On Itself’, _Philosophical Studies_, 161(2): 207–225
 * –––, 2017. ‘Reference and Reference-Fixing in Pure Quotation’, in Saka and Johnson (eds.) 2017, pp. 169–194
-* –––, 2018. ‘Pure Quotation Is Demonstrative Reference’, *Journal of Philosophy*, 115 (7): 361–381.
-* Geach, Peter, 1957. *Mental Acts*, London: Routledge Kegan Paul.
-* –––, 1970. ‘Quotation and quantification’, in *Logic Matters*, Oxford: Basil Blackwell.
-* Geurts, Bart and Emar Maier, 2003. ‘Quotation in context’, *Belgian Journal of Linguistics*, 17: 109–128.
-* Goddard, Leonard and Richard Routley, 1966. ‘Use, mention, and quotation’, *Australasian Journal of Philosophy*, 44: 1–49.
-* Goldstein, Laurence, 1984. ‘Quotation of types and types of quotation’, *Analysis*, 44: 1–6.
-* Gomez-Torrente, Mario, 2001. ‘Quotation revisited’, *Philosophical Studies*, 102: 123–53.
-* –––, 2005. ‘Remarks on Impure Quotation’, in Philippe De Brabanter (ed.), *Hybrid Quotations* (*Belgian Journal of Linguistics* 2003 Yearbook, Volume 17), Amsterdam: John Benjamins, pp. 129–151
-* –––, 2013. ‘How Quotations Refer’, *Journal of Philosophy*, 110(7): 353–390
+* –––, 2018. ‘Pure Quotation Is Demonstrative Reference’, _Journal of Philosophy_, 115 (7): 361–381.
+* Geach, Peter, 1957. _Mental Acts_, London: Routledge Kegan Paul.
+* –––, 1970. ‘Quotation and quantification’, in _Logic Matters_, Oxford: Basil Blackwell.
+* Geurts, Bart and Emar Maier, 2003. ‘Quotation in context’, _Belgian Journal of Linguistics_, 17: 109–128.
+* Goddard, Leonard and Richard Routley, 1966. ‘Use, mention, and quotation’, _Australasian Journal of Philosophy_, 44: 1–49.
+* Goldstein, Laurence, 1984. ‘Quotation of types and types of quotation’, _Analysis_, 44: 1–6.
+* Gomez-Torrente, Mario, 2001. ‘Quotation revisited’, _Philosophical Studies_, 102: 123–53.
+* –––, 2005. ‘Remarks on Impure Quotation’, in Philippe De Brabanter (ed.), _Hybrid Quotations_ (_Belgian Journal of Linguistics_ 2003 Yearbook, Volume 17), Amsterdam: John Benjamins, pp. 129–151
+* –––, 2013. ‘How Quotations Refer’, _Journal of Philosophy_, 110(7): 353–390
 * –––, 2017. ‘Semantics vs. Pragmatics in Impure Quotation’, in Saka and Johnson 2017, pp. 135–16
-* Johnson, Michael, 2018. ‘Pure Quotation and Natural Naming’, *Journal of Philosophy*, 115(10): 550–566.
-* Kaplan, David, 1973. ‘Bob, Ted, Carol and Alice’, in *Approaches to Natural language*, J. Hintikka, et al. (eds.), pp. 490–518.
-* –––, 1989. ‘Demonstratives’, in *Themes from Kaplan*, J. Almog, J. Perry, and H. Wettstein (eds.), Oxford: Oxford University Press, pp. 481–564.
-* Lepore, Ernest, 1999. ‘The scope and limits of quotation.’ in *The Philosophy of Donald Davidson*, L. E. Hahn (ed.), Open Court Publishers, pp. 691–714.
-* Lepore, Ernest, and Barry Loewer, 1989. ‘You can say that again’, *Midwest Studies in Philosophy*, 14: 338–356.
-* Ludwig, Kurt and Greg Ray, 1998. ‘Semantics for opaque contexts.’ *Philosophical Perspectives*, 12: 141–166.
+* Johnson, Michael, 2018. ‘Pure Quotation and Natural Naming’, _Journal of Philosophy_, 115(10): 550–566.
+* Kaplan, David, 1973. ‘Bob, Ted, Carol and Alice’, in _Approaches to Natural language_, J. Hintikka, et al. (eds.), pp. 490–518.
+* –––, 1989. ‘Demonstratives’, in _Themes from Kaplan_, J. Almog, J. Perry, and H. Wettstein (eds.), Oxford: Oxford University Press, pp. 481–564.
+* Lepore, Ernest, 1999. ‘The scope and limits of quotation.’ in _The Philosophy of Donald Davidson_, L. E. Hahn (ed.), Open Court Publishers, pp. 691–714.
+* Lepore, Ernest, and Barry Loewer, 1989. ‘You can say that again’, _Midwest Studies in Philosophy_, 14: 338–356.
+* Ludwig, Kurt and Greg Ray, 1998. ‘Semantics for opaque contexts.’ _Philosophical Perspectives_, 12: 141–166.
 * –––, 2017. ‘Unity in the Variety of Quotation’, in Saka and Johnson (eds.) 2017, pp.99–134
-* Maier, Emar, 2014a. ‘Mixed quotation: the grammar of apparently transparent opacity’, *Semantics and Pragmatics*, 7(7): 1–67.
-* –––, 2014b. ‘Pure Quotation’, *Philosophy Compass*, 9(9): 615–630
-* –––, 2015. ‘Quotation and unquotation in free indirect discourse’, *Mind and Language*, 30(3): 345–373.
-* –––, 2016. ‘A plea against monsters’, *Grazer Philosophische Studien*, 93: 363–395.
+* Maier, Emar, 2014a. ‘Mixed quotation: the grammar of apparently transparent opacity’, _Semantics and Pragmatics_, 7(7): 1–67.
+* –––, 2014b. ‘Pure Quotation’, _Philosophy Compass_, 9(9): 615–630
+* –––, 2015. ‘Quotation and unquotation in free indirect discourse’, _Mind and Language_, 30(3): 345–373.
+* –––, 2016. ‘A plea against monsters’, _Grazer Philosophische Studien_, 93: 363–395.
 * –––, 2017. ‘The Pragmatics Of Attraction. Explaining Unquotation in Direct and Free Indirect Discourse’, in Saka and Johnson (eds.) 2017: 259–302
-* –––, 2020. ‘Mixed Quotation’, in *The Companion to Semantics*, Daniel Gutzmann, Lisa Matthewson, Cécile Meier, Hotze Rullman, and Ede Zimmerman (eds.), Wiley Blackwell.
-* Mates, B., 1972. *Elementary Logic*, 2nd edition, Oxford: Oxford University Press.
-* McCullagh, Mark, 2006. ‘Understanding mixed quotation’, *Mind*, 116: 927–46.
+* –––, 2020. ‘Mixed Quotation’, in _The Companion to Semantics_, Daniel Gutzmann, Lisa Matthewson, Cécile Meier, Hotze Rullman, and Ede Zimmerman (eds.), Wiley Blackwell.
+* Mates, B., 1972. _Elementary Logic_, 2nd edition, Oxford: Oxford University Press.
+* McCullagh, Mark, 2006. ‘Understanding mixed quotation’, _Mind_, 116: 927–46.
 * –––, 2017. ‘Scare-quoting and incorporation’, in Saka and Johnson (eds.) 2017, pp.3–34.
-* Miller, James, 2019. ‘Natural Name Theory and Linguistic Kinds’, *Journal of Philosophy*, 116(9): 494–508
-* Munro, Pamela, 1982. ‘On the transitivity of say-verbs’ in P. Hopper & S. Thompson (eds.), *Studies in Transitivity. Syntax and Semantics*, New York, San Francisco, London: Academic Press, pp. 301–318.
-* Murasugi, Kumiko & Robert Stainton (eds.), 1999. *Philosophy and Linguistics*, Boulder CO: Westview.
-* Pagin, Peter & Westerståhl, Dag, 2010. ‘Pure quotation and general compositionality’, *Linguistics and Philosophy*, 33(5): 381–415.
-* Parsons, Terence, 1982. ‘What do quotation marks name? Frege’s theories of quotations and that-clauses’, *Philosophical Studies*, 42: 315–328.
-* Partee, Barbara, 1973. ‘The syntax and semantics of quotation’, in *A Festschrift for Morris Halle*, S.R. Anderson and P. Kiparsky (eds.), New York: Holt, Reinehart and Winston, pp. 410–418.
+* Miller, James, 2019. ‘Natural Name Theory and Linguistic Kinds’, _Journal of Philosophy_, 116(9): 494–508
+* Munro, Pamela, 1982. ‘On the transitivity of say-verbs’ in P. Hopper & S. Thompson (eds.), _Studies in Transitivity. Syntax and Semantics_, New York, San Francisco, London: Academic Press, pp. 301–318.
+* Murasugi, Kumiko & Robert Stainton (eds.), 1999. _Philosophy and Linguistics_, Boulder CO: Westview.
+* Pagin, Peter & Westerståhl, Dag, 2010. ‘Pure quotation and general compositionality’, _Linguistics and Philosophy_, 33(5): 381–415.
+* Parsons, Terence, 1982. ‘What do quotation marks name? Frege’s theories of quotations and that-clauses’, _Philosophical Studies_, 42: 315–328.
+* Partee, Barbara, 1973. ‘The syntax and semantics of quotation’, in _A Festschrift for Morris Halle_, S.R. Anderson and P. Kiparsky (eds.), New York: Holt, Reinehart and Winston, pp. 410–418.
 * Pietroski, Paul, 1999. ‘Compositional quotation’, in Murasugi & Stainton, pp. 245–58.
-* Potts, Christopher, 2007. ‘The Dimensions of Quotation’, in Chris Barker and Pauline Jacobsen (eds.), *Direct Compositionality*, Oxford: Oxford University Press, pp. 405–431
-* Predelli, Stefano, 2003. ‘Scare quotes and their relation to other semantic issues’, *Linguistics and Philosophy*, 26(1): 1–28.
-* –––, 2003. ‘“Subliminable” messages, scare quotes, and the use hypothesis’, *Belgian Journal of Linguistics*, 17: 153–166.
-* –––, 2008. ‘The demonstrative theory of quotation’, *Linguistics and Philosophy*, 31(5): 555–572.
-* Prior, Arthur, 1971. *Objects of Thought*, Oxford: Oxford University Press.
-* Quine, Willard Van Orman., 1940. *Mathematical Logic*, Boston, MA: Harvard University Press.
-* –––, 1955. ‘Quantifiers and propositional attitudes’, *Journal of Philosophy*, 53: 177–86.
-* –––, 1960. *Word and Object*, Cambridge, MA: MIT Press.
+* Potts, Christopher, 2007. ‘The Dimensions of Quotation’, in Chris Barker and Pauline Jacobsen (eds.), _Direct Compositionality_, Oxford: Oxford University Press, pp. 405–431
+* Predelli, Stefano, 2003. ‘Scare quotes and their relation to other semantic issues’, _Linguistics and Philosophy_, 26(1): 1–28.
+* –––, 2003. ‘“Subliminable” messages, scare quotes, and the use hypothesis’, _Belgian Journal of Linguistics_, 17: 153–166.
+* –––, 2008. ‘The demonstrative theory of quotation’, _Linguistics and Philosophy_, 31(5): 555–572.
+* Prior, Arthur, 1971. _Objects of Thought_, Oxford: Oxford University Press.
+* Quine, Willard Van Orman., 1940. _Mathematical Logic_, Boston, MA: Harvard University Press.
+* –––, 1955. ‘Quantifiers and propositional attitudes’, _Journal of Philosophy_, 53: 177–86.
+* –––, 1960. _Word and Object_, Cambridge, MA: MIT Press.
 * –––, 1961. ‘Reference and modality’, in Quine 1961a, pp. 139–159.
-* –––, 1961a. *From a Logical Point Of View*, Cambridge, MA: Harvard University Press.
-* Rabern, Brian, forthcoming. ‘Pure quotation in linguistic context’, *Journal of Philosophical Logic*, first online 07 September 2022. doi:10.1007/s10992-022-09675-3
-* Read, Stephen, 1997. ‘Quotation and Geach’s puzzle’, *Acta Analytica*, 19(S): 9–20.
-* Recanati, François, 2000. *Oratio Obliqua, Oratio Recta: An Essay on Metarepresentation*, Cambridge, MA: MIT Press.
-* –––, 2001. ‘Open quotation’, *Mind*, 110: 637–87.
-* –––, 2010. *Truth-conditional Pragmatics*, Oxford: Oxford University Press.
-* Reichenbach, Hans, 1947. *Elements of Symbolic Logic*, New York: Free Press.
-* Reimer, Marga, 1996. ‘Quotation marks: demonstratives or demonstrations?’ *Analysis*, 56: 131–42.
-* –––, 2003. ‘Too counter-intuitive to believe? Pragmatic accounts of mixed quotation’, *Belgian Journal of Linguistics*, 17: 167–186.
-* Richard, Mark, 1986. ‘Quotation, grammar, and opacity’, *Linguistics and Philosophy*, 9: 383–403.
-* Saka, Paul, 1998. ‘Quotation and the use-mention Distinction’, *Mind*, 107: 113–35.
-* –––, 1999. ‘Quotation: a reply to Cappelen & Lepore’, *Mind*, 108(432): 751–54.
-* –––, 2003. ‘Quotational constructions’, *Belgian Journal of Linguistics*, 17: 187–212.
-* –––, 2006. ‘The Demonstrative and Identity Theories of Quotation’, *The Journal of Philosophy*, 103(9): 452–471.
-* –––, 2011a. ‘The act of quotation’, in E. Brendal, J. Meibauer, M. Steinbach (eds.), *Understanding Quotation*, Berlin: Mouton De Gruyter, 303–22.
-* –––, 2011b. ‘Quotation And Conceptions Of Language’, *dialectica*, 65(2): 205–220.
-* –––, 2013. ‘Quotation’, *Philosophy Compass* 8(10): 935–949
-* –––, 2017. ‘*Blah,Blah,Blah*: Quasi-quotation and Unquotation’, in Saka and Johnson (eds.) 2017, pp. 35–63
-* Saka, Paul and Michael Johnson (eds.), 2017. *The Semantics and Pragmatics of Quotation*, Dordrecht: Springer.
-* Salmon, Nathan, 1986. *Frege’s Puzzle*, Cambridge, MA: MIT Press.
-* Searle, John, 1969. *Speech Acts*, Cambridge: Cambridge University Press, §4.1.
-* Sellars, W., 1963. ‘Abstract entities’, *Review of Metaphysics*, 16(4): 627–671; reprinted in Sellars, *Philosophical Perspectives*, Springfield, IL, Charles Thomas, 1967, pp. 229–269.
-* Seymour, Michel, 1994. ‘Indirect discourse and quotation’, *Philosophical Studies*, 74: 1–38.
-* Smullyan, Raymond, 1957, ‘Languages in which self-reference is possible’, *Journal of Symbolic Logic*, 22: 55–67.
-* Sorensen, Roy, 2008. ‘Empty quotation’, *Analysis*, 68(297): 57–61.
-* Sperber, Dan and Deirdre Wilson, 1981. ‘Irony and the use-mention distinction’, in P. Cole (ed.), *Radical Pragmatics*, New York: Academic Press, pp. 295–318.
-* –––, 1986. *Relevance: Communication and Cognition*, Oxford: Blackwell, 2nd edition, 1995.
+* –––, 1961a. _From a Logical Point Of View_, Cambridge, MA: Harvard University Press.
+* Rabern, Brian, forthcoming. ‘Pure quotation in linguistic context’, _Journal of Philosophical Logic_, first online 07 September 2022. doi:10.1007/s10992-022-09675-3
+* Read, Stephen, 1997. ‘Quotation and Geach’s puzzle’, _Acta Analytica_, 19(S): 9–20.
+* Recanati, François, 2000. _Oratio Obliqua, Oratio Recta: An Essay on Metarepresentation_, Cambridge, MA: MIT Press.
+* –––, 2001. ‘Open quotation’, _Mind_, 110: 637–87.
+* –––, 2010. _Truth-conditional Pragmatics_, Oxford: Oxford University Press.
+* Reichenbach, Hans, 1947. _Elements of Symbolic Logic_, New York: Free Press.
+* Reimer, Marga, 1996. ‘Quotation marks: demonstratives or demonstrations?’ _Analysis_, 56: 131–42.
+* –––, 2003. ‘Too counter-intuitive to believe? Pragmatic accounts of mixed quotation’, _Belgian Journal of Linguistics_, 17: 167–186.
+* Richard, Mark, 1986. ‘Quotation, grammar, and opacity’, _Linguistics and Philosophy_, 9: 383–403.
+* Saka, Paul, 1998. ‘Quotation and the use-mention Distinction’, _Mind_, 107: 113–35.
+* –––, 1999. ‘Quotation: a reply to Cappelen & Lepore’, _Mind_, 108(432): 751–54.
+* –––, 2003. ‘Quotational constructions’, _Belgian Journal of Linguistics_, 17: 187–212.
+* –––, 2006. ‘The Demonstrative and Identity Theories of Quotation’, _The Journal of Philosophy_, 103(9): 452–471.
+* –––, 2011a. ‘The act of quotation’, in E. Brendal, J. Meibauer, M. Steinbach (eds.), _Understanding Quotation_, Berlin: Mouton De Gruyter, 303–22.
+* –––, 2011b. ‘Quotation And Conceptions Of Language’, _dialectica_, 65(2): 205–220.
+* –––, 2013. ‘Quotation’, _Philosophy Compass_ 8(10): 935–949
+* –––, 2017. ‘_Blah,Blah,Blah_: Quasi-quotation and Unquotation’, in Saka and Johnson (eds.) 2017, pp. 35–63
+* Saka, Paul and Michael Johnson (eds.), 2017. _The Semantics and Pragmatics of Quotation_, Dordrecht: Springer.
+* Salmon, Nathan, 1986. _Frege’s Puzzle_, Cambridge, MA: MIT Press.
+* Searle, John, 1969. _Speech Acts_, Cambridge: Cambridge University Press, §4.1.
+* Sellars, W., 1963. ‘Abstract entities’, _Review of Metaphysics_, 16(4): 627–671; reprinted in Sellars, _Philosophical Perspectives_, Springfield, IL, Charles Thomas, 1967, pp. 229–269.
+* Seymour, Michel, 1994. ‘Indirect discourse and quotation’, _Philosophical Studies_, 74: 1–38.
+* Smullyan, Raymond, 1957, ‘Languages in which self-reference is possible’, _Journal of Symbolic Logic_, 22: 55–67.
+* Sorensen, Roy, 2008. ‘Empty quotation’, _Analysis_, 68(297): 57–61.
+* Sperber, Dan and Deirdre Wilson, 1981. ‘Irony and the use-mention distinction’, in P. Cole (ed.), _Radical Pragmatics_, New York: Academic Press, pp. 295–318.
+* –––, 1986. _Relevance: Communication and Cognition_, Oxford: Blackwell, 2nd edition, 1995.
 * Stainton, Robert, 1999, ‘Remarks on the syntax and semantics of mixed quotation’, in Murasugi & Stainton, 259–278.
-* Tarski, Alfred, 1933. ‘The concept of truth in formalized languages’, in A. Tarski, *Logic, Semantics, Metamathematics*, 2nd edition, Indianapolis: Hackett, 1983, pp. 152–278.
-* Tsohatzidis, Savas, 1998. ‘The hybrid theory of mixed quotation’, *Mind*, 107: 661–64.
-* Wallace, Jay, 1972. ‘On the frame of reference’, in *Semantics of Natural Language*, D. Davidson and G. Harman (eds.), Dordrecht: D. Reidel, pp. 219–252.
-* Washington, Corey, 1992. ‘The identity theory of quotation’, *Journal of Philosophy*, 89: 582–605.
-* Wertheimer, Roger, 1999. ‘Quotation apposition’, *Philosophical Quarterly*, 49(197): 514–19.
-* Wilson, Dan, 2000. ‘Metarepresentation in linguistic communication’, in D. Sperber (ed.), *Metarepresentations: A Multidisciplinary Perspective*, New York: Oxford University Press, pp. 411–448.
-* Zeglen, Urszula, 1999. *Donald Davidson: Truth, Meaning and Knowledge*, London: Routledge.
+* Tarski, Alfred, 1933. ‘The concept of truth in formalized languages’, in A. Tarski, _Logic, Semantics, Metamathematics_, 2nd edition, Indianapolis: Hackett, 1983, pp. 152–278.
+* Tsohatzidis, Savas, 1998. ‘The hybrid theory of mixed quotation’, _Mind_, 107: 661–64.
+* Wallace, Jay, 1972. ‘On the frame of reference’, in _Semantics of Natural Language_, D. Davidson and G. Harman (eds.), Dordrecht: D. Reidel, pp. 219–252.
+* Washington, Corey, 1992. ‘The identity theory of quotation’, _Journal of Philosophy_, 89: 582–605.
+* Wertheimer, Roger, 1999. ‘Quotation apposition’, _Philosophical Quarterly_, 49(197): 514–19.
+* Wilson, Dan, 2000. ‘Metarepresentation in linguistic communication’, in D. Sperber (ed.), _Metarepresentations: A Multidisciplinary Perspective_, New York: Oxford University Press, pp. 411–448.
+* Zeglen, Urszula, 1999. _Donald Davidson: Truth, Meaning and Knowledge_, London: Routledge.
 
-## Academic Tools
+### Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=quotation). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/quotation/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=quotation&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/quotation/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=quotation).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/quotation/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=quotation\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/quotation/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
-## Other Internet Resources
+### Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
-## Related Entries
+### Related Entries
 
-[Davidson, Donald](https://plato.stanford.edu/entries/davidson/) | [descriptions](https://plato.stanford.edu/entries/descriptions/) | [Quine, Willard Van Orman](https://plato.stanford.edu/entries/quine/) | [reference](https://plato.stanford.edu/entries/reference/) | [Tarski, Alfred](https://plato.stanford.edu/entries/tarski/)
+[Davidson, Donald](https://plato.stanford.edu/entries/davidson/) | [descriptions](https://plato.stanford.edu/entries/descriptions/) | [Quine, Willard Van Orman](https://plato.stanford.edu/entries/quine/) | [reference](https://plato.stanford.edu/entries/reference/) | [Tarski, Alfred](https://plato.stanford.edu/entries/tarski/)
 
-### Acknowledgments
+#### Acknowledgments
 
 The authors would like to thank Poppy Mankowitz and a reviewer for suggesting several helpful changes, Mike Cohen for pointing out a typo, and two anonymous readers (in 2018 and 2023) for pointing out an unclarity in our discussion of the Proper Name Theory. The editors would like to thank Milan Emil Mosse for noting and reporting a number of typographical errors that have subsequently been corrected.
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-Herman Cappelen <[*h.w.cappelen@ifikk.uio.no*](mailto:h%2ew%2ecappelen%40ifikk%2euio%2eno)>  
-[Ernest Lepore](http://ruccs.rutgers.edu/faculty/lepore.html)  
-Matthew McKeever <[*mipmckeever@gmail.com*](mailto:mipmckeever%40gmail%2ecom)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+Herman Cappelen <[_h.w.cappelen@ifikk.uio.no_](mailto:h%2ew%2ecappelen%40ifikk%2euio%2eno)>\
+[Ernest Lepore](http://ruccs.rutgers.edu/faculty/lepore.html)\
+Matthew McKeever <[_mipmckeever@gmail.com_](mailto:mipmckeever%40gmail%2ecom)>
