@@ -161,7 +161,7 @@
   * [\*精诚兄弟社——见精诚兄弟社 Ikhwân al-Safâ’ — see Ikhwân al-Safâ’](a/a-la-bo-he-yi-si-lan-zhe-xue-zhong-de-te-se-zhu-ti-arabic-and-islamic-philosophy-special-topics-in/jing-cheng-xiong-di-she-jian-jing-cheng-xiong-di-she-ikhwn-alsaf-see-ikhwn-alsaf.md)
   * [阿拉伯和伊斯兰哲学中的神秘主义 mysticism (Mehdi Aminrazavi)](a/a-la-bo-he-yi-si-lan-zhe-xue-zhong-de-te-se-zhu-ti-arabic-and-islamic-philosophy-special-topics-in/a-la-bo-he-yi-si-lan-zhe-xue-zhong-de-shen-mi-zhu-yi-mysticism-mehdi-aminrazavi.md)
 * [阿尔凯西劳 Arcesilaus (Charles Brittain and Peter Osorio)](a/a-er-kai-xi-lao-arcesilaus-charles-brittain-and-peter-osorio.md)
-* [建筑美学 architecture, philosophy of (Saul Fisher)](a/jian-zhu-mei-xue-architecture-philosophy-of-saul-fisher.md)
+* [建筑哲学 architecture, philosophy of (Saul Fisher)](a/jian-zhu-mei-xue-architecture-philosophy-of-saul-fisher.md)
 * [阿尔库塔斯 Archytas (Carl Huffman)](a/a-er-ku-ta-si-archytas-carl-huffman.md)
 * [汉娜·阿伦特 Arendt, Hannah (Tatjana Tömmel and Maurizio Passerin d’Entreves)](a/han-na-alun-te-arendt-hannah-tatjana-tmmel-and-maurizio-passerin-dentreves.md)
 * [\*德性——见伦理学：古代伦理学 arete — see ethics: ancient](a/de-xing-jian-lun-li-xue-gu-dai-lun-li-xue-arete-see-ethics-ancient.md)
