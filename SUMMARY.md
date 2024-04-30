@@ -85,7 +85,7 @@
   * [行动的理由：正当性、动机、解释 justification, motivation, explanation (Maria Alvarez)](r/hang-dong-de-li-you-reasons-for-action/hang-dong-de-li-you-li-you-dong-ji-jie-shi-justification-motivation-explanation-maria-alvarez.md)
 * [承认 recognition (Mattias Iser)](r/cheng-ren-recognition-mattias-iser.md)
 * [和解 reconciliation (Linda Radzik and Colleen Murphy)](r/he-jie-reconciliation-linda-radzik-and-colleen-murphy.md)
-* [递归——见递归 recursion — see recursion](r/di-gui-jian-di-gui-recursion-see-recursion.md)
+* [\*递归——见递归（递归函数） recursion — see recursion](r/di-gui-jian-di-gui-recursion-see-recursion.md)
 * [递归函数 recursive functions (Walter Dean and Alberto Naibo)](r/di-gui-han-shu-recursive-functions-walter-dean-and-alberto-naibo.md)
 * [再分配 redistribution (Christian Barry)](r/zai-fen-pei-redistribution-christian-barry.md)
 * [科学还原论 reduction, scientific (Raphael van Riel and Robert Van Gulick)](r/ke-xue-huan-yuan-lun-reduction-scientific-raphael-van-riel-and-robert-van-gulick/README.md)
