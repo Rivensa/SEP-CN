@@ -1,11 +1,10 @@
 # 现在主义 presentism (David Ingram and Jonathan Tallant)
 
-*首次发布于2018年1月22日星期一；实质性修订于2022年2月1日星期二。*
+_首次发布于2018年1月22日星期一；实质性修订于2022年2月1日星期二。_
 
 现在主义是只有现在存在的观点。因此，从这个角度来看，现在主义主要是一个本体论学说；它是关于存在的观点，绝对和无限制的。这个观点在时间和变化的文献中得到了广泛讨论，其中大部分集中在现在主义所面临的问题上。因此，大部分关于现在主义发展的文献要么是提出对这个观点的异议（例如，Sider 2001: 11–52），要么是对这些异议的回应（例如，Bigelow 1996; Markosian 2004），只有在现在主义的动机方面才有例外。这篇文章在很大程度上反映了这些文献的结构。以下是接下来的计划。我们首先详细介绍现在主义，解释其承诺和动机。然后，我们转向考虑几个对现在主义提出的问题。我们使用这些问题来说明现在主义所面临的挑战的广度和严重性，以及为了应对这些挑战而发展的不同版本的现在主义的范围。
 
- 
----
+***
 
 ## 1. 什么是现在主义？
 
@@ -33,13 +32,11 @@ P 是关于存在的主张（存在的内容），绝对和无限制地。作为
 
 然而，尽管现在主义者有时会采取这种观点，但在文献中很少讨论 PAN 是否比 PA 更可取（参见 Crisp 2003: 215），如果是的话，又有什么理由可以证明这种偏好。 （有人可能认为，如果存在的话，形而上学的命题必然是真实的。但这种想法与关于时间和变化的辩论没有直接联系，而且肯定是有争议的，所以我们在这里不讨论它。）在接下来的内容中，由于缺乏讨论，我们对 PA 或 PAN 哪个更可取保持中立。我们遵循更广泛的文献，通常将现在主义陈述为 P，而不是 PA，尽管我们认为至少 PA 一样强大。
 
-可能需要进行更多修改。首先，严格来说，根据这种描述，现在主义是一种否认非时间性或无时间性实体存在的论题，也就是说，否认存在不在现在的实体（但也不在过去或未来，因为它们不在时间中）。这似乎排除了抽象实体的存在，因为抽象实体被认为是无时间性的。[参见关于抽象对象的条目。] 这也似乎排除了永恒的上帝的存在，这对于接受“神的无时间性”或“神的无时间性”观点的人来说是有问题的。[参见基督教思想中关于永恒的条目，特别是§4.1。] 对于一些现在主义者来说，这两者中的一个或两个可能太过分了。因此，我们可能会被迫修改P并将其限制为具体或物理对象。然而，我们并不被迫采取这种做法，因为P只在这些实体被理解为无时间性时才排除它们的存在。例如，现在主义与抽象实体的存在是相容的，只要这些实体现在存在（存在于时间中）。无论如何，无时间性的抽象实体与P不一致，但（如明显所示）这不应引起太多关注。如果我们将P与无时间性的抽象实体或无时间性的上帝相结合，现在主义的核心将会损失多少尚不清楚。关于将现在主义与神的无时间性相结合的其他问题的讨论，请参见Leftow（2018）。
+可能需要进行更多修改。首先，严格来说，根据这种描述，现在主义是一种否认非时间性或无时间性实体存在的论题，也就是说，否认存在不在现在的实体（但也不在过去或未来，因为它们不在时间中）。这似乎排除了抽象实体的存在，因为抽象实体被认为是无时间性的。\[参见关于抽象对象的条目。] 这也似乎排除了永恒的上帝的存在，这对于接受“神的无时间性”或“神的无时间性”观点的人来说是有问题的。\[参见基督教思想中关于永恒的条目，特别是§4.1。] 对于一些现在主义者来说，这两者中的一个或两个可能太过分了。因此，我们可能会被迫修改P并将其限制为具体或物理对象。然而，我们并不被迫采取这种做法，因为P只在这些实体被理解为无时间性时才排除它们的存在。例如，现在主义与抽象实体的存在是相容的，只要这些实体现在存在（存在于时间中）。无论如何，无时间性的抽象实体与P不一致，但（如明显所示）这不应引起太多关注。如果我们将P与无时间性的抽象实体或无时间性的上帝相结合，现在主义的核心将会损失多少尚不清楚。关于将现在主义与神的无时间性相结合的其他问题的讨论，请参见Leftow（2018）。
 
 其次，现在主义不仅仅是只有现在的事物存在的论点。这并不是该立场的全部。没有限定条件，P 与现实是静态的（或“冻结的”）且时间并不真正流逝的观点是一致的。但现实并非如此；我们的现实是动态的。因此，对现在主义的全面和适当的解释需要更多细节。通常，现在主义被认为包括额外的主张，即各种事物曾经存在过，而其他事物将会存在：塞纳基里布的尼尼微花园，布迪卡和玛丽·居里都曾经存在，但现在不再存在；而且，尽管我们存在，与泰姬陵、泰勒·斯威夫特和你（亲爱的读者）并存，我们所有人都将在未来的某个时刻停止存在，被其他事物取代，而每个事物又将依次消失。因此，现在主义使我们承认随着时间的推移，存在的事物发生变化，现在的事物发生变化。通常（尽管不是唯一如此），现在主义者用时间的流逝或与之密切相关的术语来描述这种变化。因此，现在主义可以理解为以下联结：
 
-* (PC)（i）只有现在的事物存在，
-  &
-  （ii）现在的事物发生变化。
+* (PC)（i）只有现在的事物存在， & （ii）现在的事物发生变化。
 
 对于那些明确以这种方式陈述现在主义的人，请参阅普赖斯（2011: 277）、米勒（2013: 346）和莱宁格（2015: 726）等人。
 
@@ -121,7 +118,7 @@ P 是关于存在的主张（存在的内容），绝对和无限制地。作为
 
 公正地说，我们应该对这些考虑有多大程度的影响感到不清楚。例如，丹尼尔·迪西（2017 年）明确表示他对这个反对意见持有很低的评价。迪西以以下方式相当尖刻地讨论了这个反对意见（对于定义为“始终，一切都是现在存在”的现在主义）：
 
-> [有人沿以下思路争论：]传统定义中的量词要么是时态的，要么是无时态的。如果是时态的，那么现在主义就是一个明显错误的命题，即一切时刻都是现在存在的。如果是无时态的，那么现在主义就是一个显然正确的命题，即一切时刻都是、曾经是或将来是存在的。... 这个论证的问题在于，关键前提——传统定义中的量词要么是时态的，要么是无时态的——是错误的。传统定义中的普遍量词（“一切”）应该被理解为准确表达了经典一阶谓词逻辑的普遍量词... 传统定义旨在表达一个形而上学命题，而形而上学命题应该用最形而上学的、最“切割”的术语来表达，而不是像英语这样的自然语言。此外，经典一阶谓词逻辑的标准量词既不是“时态的”，也不是“无时态的”（或者至少不是按照上述论证的意义来说）。... [量词]不是动词，它们是量词... 因此没有充分的理由认为量词具有任何一种解读。（2017: 380–1）
+> \[有人沿以下思路争论：]传统定义中的量词要么是时态的，要么是无时态的。如果是时态的，那么现在主义就是一个明显错误的命题，即一切时刻都是现在存在的。如果是无时态的，那么现在主义就是一个显然正确的命题，即一切时刻都是、曾经是或将来是存在的。... 这个论证的问题在于，关键前提——传统定义中的量词要么是时态的，要么是无时态的——是错误的。传统定义中的普遍量词（“一切”）应该被理解为准确表达了经典一阶谓词逻辑的普遍量词... 传统定义旨在表达一个形而上学命题，而形而上学命题应该用最形而上学的、最“切割”的术语来表达，而不是像英语这样的自然语言。此外，经典一阶谓词逻辑的标准量词既不是“时态的”，也不是“无时态的”（或者至少不是按照上述论证的意义来说）。... \[量词]不是动词，它们是量词... 因此没有充分的理由认为量词具有任何一种解读。（2017: 380–1）
 
 然而，现在主义者不应该过早庆祝，他们应该保持谨慎。Deasy 继续提出了一个关于如何定义现在主义的独立担忧。他引用了 Timothy Williamson（2013: 24–25）的质疑，Deasy 认为在现在主义的定义中，“存在”是什么意思没有令人满意的方式来解释。此外，我们可能还需要对现在的持续时间做一些说明（参见 Gentry 2021）。
 
@@ -131,11 +128,11 @@ P 是关于存在的主张（存在的内容），绝对和无限制地。作为
 
 特伦顿·梅里克斯对这一观点给出了更详细的表达，如下所示：
 
-> [标准]定义，尽管它们涉及到一些重要的东西，但未能揭示现在主义与永恒主义最根本的区别。...[现在主义]和永恒主义在时间的本质以及在某个时间存在（以及在某个时间具有属性）方面最根本地不同。（2007: 119-20）
+> \[标准]定义，尽管它们涉及到一些重要的东西，但未能揭示现在主义与永恒主义最根本的区别。...\[现在主义]和永恒主义在时间的本质以及在某个时间存在（以及在某个时间具有属性）方面最根本地不同。（2007: 119-20）
 >
 > 现在主义者和永恒主义者都说，那些存在于现在的事物确实存在，并且，现在拥有的属性确实是存在的。因此，人们可能认为，虽然现在主义和永恒主义在其他时间上有分歧，但他们在现在时间的性质上是一致的，并且在存在（和拥有属性）的问题上也是一致的。但他们在这些问题上并不一致。实际上，他们在现在时间的性质和存在上的差异与他们在过去和未来方面的差异一样重要。（2007 年：123）
 >
-> [现在主义者]坚持认为，存在于现在时间的对象存在（或者等价地说，目前存在）。由于他们不相信有一个被称为“现在时间”的区域，现在主义者不能将存在于现在时间的存在归结为位于该区域。我认为现在主义者应该说，存在于现在时间就是存在。因此，根据现在主义，如果某物存在，那么显然它存在于现在时间。因此，根据现在主义，由于一切都存在，一切都存在于现在时间。（2007 年：125）
+> \[现在主义者]坚持认为，存在于现在时间的对象存在（或者等价地说，目前存在）。由于他们不相信有一个被称为“现在时间”的区域，现在主义者不能将存在于现在时间的存在归结为位于该区域。我认为现在主义者应该说，存在于现在时间就是存在。因此，根据现在主义，如果某物存在，那么显然它存在于现在时间。因此，根据现在主义，由于一切都存在，一切都存在于现在时间。（2007 年：125）
 
 这种表述现在主义的方式挑战了正统观点（在第 1 节中概述），该观点认为现在主义和永恒主义（等等）之间的主要区别在于它们不同的本体论承诺。根据这种修正的思考方式，这种本体论分歧是该观点的结果，而不是真正与众不同的地方。相反，对于现在主义来说，关键是对存在的性质的主张。存在就是存在于现在。
 
@@ -163,19 +160,19 @@ P 是关于存在的主张（存在的内容），绝对和无限制地。作为
 
 ## 5. 引用和命题
 
-注意，苏格拉底是一位聪明而鼻子短的哲学家，碰巧是柏拉图最好的老师。从这个故事中，我们可以推断“苏格拉底是聪明的”是真实的，并且我们可以合理地假设它表达了一个（真实的）命题。同样，我们可以认为“柏拉图最好的老师是聪明的”也是真实的，并且它表达了一个（真实的）命题，<*柏拉图最好的老师是聪明的>。[参见命题条目。]
+注意，苏格拉底是一位聪明而鼻子短的哲学家，碰巧是柏拉图最好的老师。从这个故事中，我们可以推断“苏格拉底是聪明的”是真实的，并且我们可以合理地假设它表达了一个（真实的）命题。同样，我们可以认为“柏拉图最好的老师是聪明的”也是真实的，并且它表达了一个（真实的）命题，<\*柏拉图最好的老师是聪明的>。\[参见命题条目。]
 
-一些初步观察。两个命题都存在；它们是真实的，因此为了成为真实，它们必须存在。（假设类似于“严肃实在论”，见上文。）同样，两个命题都是关于同一个个体苏格拉底的，尽管从某种意义上说，<*柏拉图最好的老师是聪明的>比它更全面（更亲密）地关于苏格拉底。实际上，似乎是“直接”关于苏格拉底，而<柏拉图最好的老师是聪明的>只是“间接”关于他。不能不关于苏格拉底；它在所有可能的情境中决定了苏格拉底这个同一的个体。但是，相比之下，<柏拉图最好的老师是聪明的>只是偶然地关于苏格拉底，只是因为苏格拉底是柏拉图最好的老师这个偶然事实。
+一些初步观察。两个命题都存在；它们是真实的，因此为了成为真实，它们必须存在。（假设类似于“严肃实在论”，见上文。）同样，两个命题都是关于同一个个体苏格拉底的，尽管从某种意义上说，<\*柏拉图最好的老师是聪明的>比它更全面（更亲密）地关于苏格拉底。实际上，似乎是“直接”关于苏格拉底，而<柏拉图最好的老师是聪明的>只是“间接”关于他。不能不关于苏格拉底；它在所有可能的情境中决定了苏格拉底这个同一的个体。但是，相比之下，<柏拉图最好的老师是聪明的>只是偶然地关于苏格拉底，只是因为苏格拉底是柏拉图最好的老师这个偶然事实。
 
-此外，注意到表达“苏格拉底是聪明的”这句话中包含一个专有名词（“苏格拉底”）。假设这直接指的是苏格拉底。相比之下，表达<柏拉图最好的老师是聪明的>的句子中包含一个描述（“柏拉图最好的老师”）。我们可以假设这并不直接指的是苏格拉底，也不能在所有可能的情境中确定他。例如，考虑一种可能的情景，即苏格拉底从未遇到柏拉图。在这种情境下，柏拉图最好的老师将是一个不同的个体，相应的描述“柏拉图最好的老师”将指代那个个体。因此，<柏拉图最好的老师是聪明的>并不是关于苏格拉底的，而该命题的真实性也不依赖于关于他的任何事实。两种情况的共同点是指称，而区别它们的是表达方式的直接或间接性。通常，指称被解释为语言和现实之间的关系（语言项目和世界中的事物之间的关系）。[参见指称条目。]再次强调：为了使两个事物之间存在这种关系，两个事物（两个关系者）都必须存在。
+此外，注意到表达“苏格拉底是聪明的”这句话中包含一个专有名词（“苏格拉底”）。假设这直接指的是苏格拉底。相比之下，表达<柏拉图最好的老师是聪明的>的句子中包含一个描述（“柏拉图最好的老师”）。我们可以假设这并不直接指的是苏格拉底，也不能在所有可能的情境中确定他。例如，考虑一种可能的情景，即苏格拉底从未遇到柏拉图。在这种情境下，柏拉图最好的老师将是一个不同的个体，相应的描述“柏拉图最好的老师”将指代那个个体。因此，<柏拉图最好的老师是聪明的>并不是关于苏格拉底的，而该命题的真实性也不依赖于关于他的任何事实。两种情况的共同点是指称，而区别它们的是表达方式的直接或间接性。通常，指称被解释为语言和现实之间的关系（语言项目和世界中的事物之间的关系）。\[参见指称条目。]再次强调：为了使两个事物之间存在这种关系，两个事物（两个关系者）都必须存在。
 
 在捍卫现在主义时，我们面临一个关于仅仅过去实体的直接指称问题。（尽管在一种解读下，这仅仅是在第 4 节中引入的“跨时关系”问题的一个实例。）根据现在主义，似乎我们可以并且确实成功地指称那些曾经存在但现在不存在的实体，那些根本不存在的实体。但是，如果是这样的话，我们所指称的过去实体（以及与我们的语言项目相关的实体）必须存在，与现在主义相矛盾。现在主义者面临一个困难的选择。也就是说，他们必须拒绝以下四个主张中的一个，这四个主张构成了一个明显不一致的集合：（i）我们成功地指称仅仅过去的实体，（ii）指称是一种关系，（iii）为了使关系成立，关系的两个元必须存在，以及（iv）没有仅仅过去的实体（即，过去的实体不存在）。现在主义者不能否认（iv），因为那等于拒绝现在主义。但是，鉴于它们各自的合理性，拒绝其他任何主张几乎同样困难。
 
 ### 5.1 单一命题
 
-让我们暂时离开参考问题，转向命题的形而上学。首先，注意到有一个“特殊”的命题：一个直接涉及某个个体苏格拉底的命题，而<柏拉图最好的老师是聪明的>是一个“特定化”的命题：一个关于苏格拉底的命题，但不是直接关于他们的。[参见关于特殊命题的条目。]通常，命题被认为是复杂的形而上学实体，具有成分和结构。[参见关于结构化命题的条目。]按照这种思路，特殊命题通常被理解为由个体构成，具体是它们（直接）涉及的个体。因此，关于某个个体x的特殊命题由x本身构成。相比之下，特定化命题并不由个体构成，尽管它们是具有成分的结构化实体。关于x的特定化命题并不由x构成，但可能由x的某个属性构成。根据这种观点，例如，是由苏格拉底本人构成的，而<柏拉图最好的老师是聪明的>并不由苏格拉底构成，但也许这个命题由苏格拉底的某个实际偶然属性构成，比如成为柏拉图最好的老师，或者确实曾经是柏拉图最好的老师。这种关于（特殊）命题的思考方式并不是普遍适用的，但它是一种有许多支持者的标准理论的一部分（参见Adams 1986；Williamson 2002；King 2007）。在接下来的内容中，我们将这种观点称为“新罗素主义”命题观。
+让我们暂时离开参考问题，转向命题的形而上学。首先，注意到有一个“特殊”的命题：一个直接涉及某个个体苏格拉底的命题，而<柏拉图最好的老师是聪明的>是一个“特定化”的命题：一个关于苏格拉底的命题，但不是直接关于他们的。\[参见关于特殊命题的条目。]通常，命题被认为是复杂的形而上学实体，具有成分和结构。\[参见关于结构化命题的条目。]按照这种思路，特殊命题通常被理解为由个体构成，具体是它们（直接）涉及的个体。因此，关于某个个体x的特殊命题由x本身构成。相比之下，特定化命题并不由个体构成，尽管它们是具有成分的结构化实体。关于x的特定化命题并不由x构成，但可能由x的某个属性构成。根据这种观点，例如，是由苏格拉底本人构成的，而<柏拉图最好的老师是聪明的>并不由苏格拉底构成，但也许这个命题由苏格拉底的某个实际偶然属性构成，比如成为柏拉图最好的老师，或者确实曾经是柏拉图最好的老师。这种关于（特殊）命题的思考方式并不是普遍适用的，但它是一种有许多支持者的标准理论的一部分（参见Adams 1986；Williamson 2002；King 2007）。在接下来的内容中，我们将这种观点称为“新罗素主义”命题观。
 
-如果命题是具有构成要素的复杂（结构化）实体，那么它们的存在依赖于其命题构成要素的存在。这种实体本体上依赖于构成要素的方式类似于集合依赖于其成员的方式。例如，考虑{x}，x 的单例集。{x}的存在依赖于 x 的存在。通常，这可以解释为：必然地，只有在 x 存在的情况下，{x}才存在；而且，不是只有在{x}存在的情况下，x 才存在。类似地，我们说：必然地，某个命题 P 只有在其（命题）构成要素 c 存在的情况下才存在；而且，不是只有在 P 存在的情况下，c 才存在。[参见本体依赖词条。]
+如果命题是具有构成要素的复杂（结构化）实体，那么它们的存在依赖于其命题构成要素的存在。这种实体本体上依赖于构成要素的方式类似于集合依赖于其成员的方式。例如，考虑{x}，x 的单例集。{x}的存在依赖于 x 的存在。通常，这可以解释为：必然地，只有在 x 存在的情况下，{x}才存在；而且，不是只有在{x}存在的情况下，x 才存在。类似地，我们说：必然地，某个命题 P 只有在其（命题）构成要素 c 存在的情况下才存在；而且，不是只有在 P 存在的情况下，c 才存在。\[参见本体依赖词条。]
 
 现在主义面临一个关于如何解释过去实体的特定命题存在的问题。似乎存在这样的命题；回想一下，“苏格拉底是聪明的”表达了一个真实的特定命题，为了成为真实，它必须存在。问题出现在对特定命题的处理上：直接涉及个体 x 的命题由 x 本身构成，命题的存在依赖于其构成要素的存在。因此，例如，由苏格拉底本人构成，这个命题本体上依赖于苏格拉底。
 
@@ -202,7 +199,7 @@ P 是关于存在的主张（存在的内容），绝对和无限制地。作为
 
 在时间哲学中，关于现在主义的大部分研究都涉及真理问题。在当前背景下，所讨论的工作主要关注现在主义是否能够解释我们认同的不同类型的真命题，以及如何解释。我们的主要关注点将是如何在给出适当的本体论解释的同时，为关于过去事物的真命题的真理辩护（以“真理生成”文献为背景）。我们还简要讨论了关于时间跨度的真理问题，这有时被视为涉及时间量化的一个单独问题。
 
-我们转向当代辩论中对现在主义提出的最常讨论的挑战之一：真理生成对现在主义的反对。乍一看，这个反对意见是跨时关系的一般问题的另一个例子（§4），但有理由认为对真理生成的关注为现在主义者带来了一个特殊的问题。这个反对意见被许多人视为现在主义的一个重大问题，包括但不限于：Sider（2001: 35–42），Armstrong（2004: 145–50），Keller（2004），Crisp（2007），Cameron（2011），Sanson＆Caplan（2010），Markosian（2013），Tallant＆Ingram（2015）和 Emery（2020）。有关该问题的一般讨论，请参见 Caplan＆Sanson（2011）的条目。[有关背景，请参阅真理生成的条目。]
+我们转向当代辩论中对现在主义提出的最常讨论的挑战之一：真理生成对现在主义的反对。乍一看，这个反对意见是跨时关系的一般问题的另一个例子（§4），但有理由认为对真理生成的关注为现在主义者带来了一个特殊的问题。这个反对意见被许多人视为现在主义的一个重大问题，包括但不限于：Sider（2001: 35–42），Armstrong（2004: 145–50），Keller（2004），Crisp（2007），Cameron（2011），Sanson＆Caplan（2010），Markosian（2013），Tallant＆Ingram（2015）和 Emery（2020）。有关该问题的一般讨论，请参见 Caplan＆Sanson（2011）的条目。\[有关背景，请参阅真理生成的条目。]
 
 真理制造者反对意见被提出为三个独立可信的原则之间的紧张关系：（i）现在主义，（ii）关于过去存在（超越证据和客观）真理，以及（iii）真理制造理论，即关于过去真理是由某个存在物“成为真实”的观点（参见，例如，Keller 2004: 85–87; Cameron 2011: 55–57; Tallant & Ingram 2015: 355，对于这种呈现方式）。显然，我们不能捍卫现在主义并放弃（i）。此外，拒绝（ii）似乎是一个代价高昂的选择（参见 Dawson 2021; Miller 即将出版）。如果关于过去没有真理，那么很难理解事物如何从一刻到另一刻发生变化（或者时间如何流逝；参见§7）。这就留下了（iii）。在这里，有三个选择：找到所需的真理制造者，否认关于过去的真理需要真理制造者，或者认为真理制造不是一种需要两个关系物的关系。我们依次考虑这些选择。
 
@@ -212,7 +209,7 @@ P 是关于存在的主张（存在的内容），绝对和无限制地。作为
 
 关于过去的真理生成者并不容易找到。我们正在寻找“由于”命题关于过去是真实的实体。例如，是由于某个实体，即其“真理生成者”而真实。但是，什么扮演着真理生成的角色呢？从概念上讲，这里可以给出两种解决方案：（i）肯定目前存在的真理生成者，或者（ii）肯定存在于“时间之外”的真理生成者。选项（ii）对于主义者来说是开放的，他们承认存在一些非时态实体（例如命题、数字等），尽管这种现在主义的版本需要为“只有现在的事物存在”这一观点辩护（§1）。
 
-现在主义可以通过添加非时态的真理生成者来修正，这些真理生成者在某种意义上是“超越”时间的（参见 Bourne 2006; Crisp 2007）。这就是“伪现在主义”。伪现在主义者声称，例如，是由一个抽象的时间“使真实”，该时间代表了居里存在时的情况。（这是一个“伪”时间，而不是一个“真实”的具体时间。）理解伪现在主义的一种方式是将其视为存在一个抽象的四维时间流形，代表了过去、现在和将来的情况。这个流形由一个伪 B 理论的“早于”关系排序，并形成一个伪 B 时间序列。关于过去的真理生成者是抽象的：伪时间。一个伪时间 T 通过另一个准确地代表现实世界现状的伪时间 T*来代表过去（某个过去的时间），并且 T 与 T*之间具有“早于”关系（“伪 B 关系”）。
+现在主义可以通过添加非时态的真理生成者来修正，这些真理生成者在某种意义上是“超越”时间的（参见 Bourne 2006; Crisp 2007）。这就是“伪现在主义”。伪现在主义者声称，例如，是由一个抽象的时间“使真实”，该时间代表了居里存在时的情况。（这是一个“伪”时间，而不是一个“真实”的具体时间。）理解伪现在主义的一种方式是将其视为存在一个抽象的四维时间流形，代表了过去、现在和将来的情况。这个流形由一个伪 B 理论的“早于”关系排序，并形成一个伪 B 时间序列。关于过去的真理生成者是抽象的：伪时间。一个伪时间 T 通过另一个准确地代表现实世界现状的伪时间 T_来代表过去（某个过去的时间），并且 T 与 T_之间具有“早于”关系（“伪 B 关系”）。
 
 伪现在主义很受欢迎，但选项（i）——假设存在现在的真理生成者——包含更多的变化。这种观点最著名的版本是由约翰·比格洛（1996 年）提出的“卢克莱修斯主义”。卢克莱修斯主义者声称，通过现在实例化一个原始的过去时态属性（“卢克莱修斯”属性），使得“现在存在的真理生成者是世界通过现在实例化卢克莱修斯属性（曾经包含居里夫人）的方式。除了卢克莱修斯主义之外，还有一系列其他“属性解决方案”，在重要方面存在差异，但共享一个共同核心。例如：参见凯勒（2004 年：94-101）关于一系列解决方案的论述，包括具有不可破坏的原子及其属性的解决方案，卡梅伦（2011 年，2013 年）关于时间分布属性的解决方案，麦金农和比格洛（2012 年）关于时态实例化关系的解决方案，以及英格拉姆（2018 年）关于未实例化的个体性等等。
 
@@ -248,7 +245,7 @@ P 是关于存在的主张（存在的内容），绝对和无限制地。作为
 
 有两种可行的途径可以探索。第一种是通过使用个别时间的说法来理解时间跨度的讨论。按照文献的说法，将其称为“切片操作符”。那么，我们可以说
 
-> 曾经是这样的情况[“，曾经是这样的情况[，曾经是这样的情况[...]”]
+> 曾经是这样的情况\[“，曾经是这样的情况\[，曾经是这样的情况\[...]”]
 
 稍微宽松地说，我们可以将其描述为根据构成其组成部分的个体“切片”来分析跨度，如果“跨度”这样的东西存在的话。
 
@@ -258,7 +255,7 @@ P 是关于存在的主张（存在的内容），绝对和无限制地。作为
 
 第二种方法是认可一个原始的“跨度”运算符，这个运算符选择时间间隔而不是个别时刻（参见 Lewis 2004: 12）。与其试图通过切片来分析跨度，这种方法只是将跨度运算符作为一个原始的术语来认可。Berit Brogaard（2007）巧妙地介绍了这种策略，如下所示：
 
-> 在通常的切片运算符中，意味着（正如永恒主义者所说）“在某个过去（或未来）时刻”，而跨度运算符则意味着“在某个过去（或未来）时间间隔”（[Lewis] 2004: 12）。因此，对于“it HAS been that”这个过去时态的跨度运算符，Lewis 建议我们将“there have been two kings named Charles”翻译为“it HAS been that (there are two kings named Charles)”。从永恒主义的角度来看，这意味着“在过去的某个时间间隔内，有两个名叫查尔斯的国王”（[Lewis] 2004: 12）。当然，现在主义者无法接受这种翻译，但可能必须将跨度运算符视为原始的术语（2007: 73）。
+> 在通常的切片运算符中，意味着（正如永恒主义者所说）“在某个过去（或未来）时刻”，而跨度运算符则意味着“在某个过去（或未来）时间间隔”（\[Lewis] 2004: 12）。因此，对于“it HAS been that”这个过去时态的跨度运算符，Lewis 建议我们将“there have been two kings named Charles”翻译为“it HAS been that (there are two kings named Charles)”。从永恒主义的角度来看，这意味着“在过去的某个时间间隔内，有两个名叫查尔斯的国王”（\[Lewis] 2004: 12）。当然，现在主义者无法接受这种翻译，但可能必须将跨度运算符视为原始的术语（2007: 73）。
 
 这种方法也存在问题。首先，这种跨度运算符似乎引入了歧义。让我们将跨度运算符“HAS”引入为运算符“it has been the case that…”，并考虑一个目标句子，“first it was raining and then the sun shone”。然后，假设我们将其改写为：“HAS (it is raining and the sun is shining)”。“HAS”这个改写存在问题的歧义。这个改写可能意味着在某个时间间隔内，太阳照耀并且下雨。或者，它可能意味着存在一个时间间隔，在这个时间间隔的子间隔内太阳照耀，在另一个子间隔内下雨。显然，我们希望是后者；但是，至少在目前的状态下，我们无法区分这两种情况。如果跨度运算符的语义是模棱两可的，那么它就无法为跨度讨论提供一个合理的语义（参见 Tallant＆Ingram 2020）。
 
@@ -278,7 +275,7 @@ P 是关于存在的主张（存在的内容），绝对和无限制地。作为
 
 ## 8. 相对论物理学
 
-在前面的章节中，我们讨论了现在主义面临的来自形而上学领域的问题。特别是，我们讨论了一个“跨时关系”的问题（第 4 节），并讨论了该问题的两个特殊情况，这对现在主义提出了特殊的问题（第 5-6 节），然后讨论了与时间流逝有关的一个相关挑战。尽管现在主义面临许多来自形而上学的担忧，但也许对现在主义最严重的反对意见来自物理学。特别是，狭义相对论（“STR”）被认为与现在主义直接矛盾。[参见现代物理学中有关存在和变化的条目。]
+在前面的章节中，我们讨论了现在主义面临的来自形而上学领域的问题。特别是，我们讨论了一个“跨时关系”的问题（第 4 节），并讨论了该问题的两个特殊情况，这对现在主义提出了特殊的问题（第 5-6 节），然后讨论了与时间流逝有关的一个相关挑战。尽管现在主义面临许多来自形而上学的担忧，但也许对现在主义最严重的反对意见来自物理学。特别是，狭义相对论（“STR”）被认为与现在主义直接矛盾。\[参见现代物理学中有关存在和变化的条目。]
 
 Simon Saunders (2002)给我们提供了一个关于现在主义和 STR 的情况的清晰图景，如下所示：
 
@@ -312,7 +309,7 @@ Katherine Hawley（2006）提出了两种方法：“削弱”或“反驳”（
 
 > 物质场是洛伦兹不变的，但时空不是。因此，其他条件相同的情况下，人们应该更倾向于爱因斯坦闵可夫斯基解释而不是洛伦兹解释。假设不必要的不可观测结构——绝对同时性——违背了奥卡姆剃刀原则。（2008 年：53）
 
-Callender 接着指出，一旦我们承认洛伦兹解释在逻辑上是一致的并且在经验上是充分的，问题就变成了：“相对于_______（在空白处填入任何解释的时态），少了一些解释优点有什么关系？”（2008 年：53）。毕竟，我们必须假设一个不可观测的参考系，而通常情况下，我们不会没有充分的理由假设不可观测的事物。目前，我们缺乏充分的理由，除非我们认为现在主义的动机（例如，在第 2 节中描述的那些动机）使我们相信，对于时空物理学来说，新洛伦兹解释比时空解释更可取。因此，削弱看起来是一条困难的道路。
+Callender 接着指出，一旦我们承认洛伦兹解释在逻辑上是一致的并且在经验上是充分的，问题就变成了：“相对于\_\_\_\_\_\_\_（在空白处填入任何解释的时态），少了一些解释优点有什么关系？”（2008 年：53）。毕竟，我们必须假设一个不可观测的参考系，而通常情况下，我们不会没有充分的理由假设不可观测的事物。目前，我们缺乏充分的理由，除非我们认为现在主义的动机（例如，在第 2 节中描述的那些动机）使我们相信，对于时空物理学来说，新洛伦兹解释比时空解释更可取。因此，削弱看起来是一条困难的道路。
 
 Hawley（2006）描述的第二个选项是“反驳”。
 
@@ -322,181 +319,181 @@ Hawley（2006）描述的第二个选项是“反驳”。
 
 ## Bibliography
 
-* Adams, Robert Merrihew, 1981, “Actualism and Thisness”, *Synthese*, 49(1): 3–41.
-* –––, 1986, “Time and Thisness”, *Midwest Studies in Philosophy*, 11: 315–329. doi:10.1111/j.1475-4975.1986.tb00501.x
-* Armstrong, D.M., 2004, *Truth and Truthmakers*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487552
-* Baia, Alex, 2012, “Presentism and the Grounding of Truth”, *Philosophical Studies*, 159(3): 341–356. doi:10.1007/s11098-011-9711-8
-* Baker, Alan, 2003, “Quantitative Parsimony and Explanatory Power”, *British Journal for the Philosophy of Science*, 54(2): 245–259. doi:10.1093/bjps/54.2.245
-* Balashov, Yuri & Michel Janssen, 2003, “Presentism and Relativity”, *British Journal for the Philosophy of Science*, 54(2): 327–346. doi:10.1093/bjps/54.2.327
-* Barcan Marcus, Ruth, 1985, “Possibilia and Possible Worlds”, *Grazer Philosophische Studien*, 25/26: 107–133, reprinted in *Modalities: Philosophical Essays*, 1995, Oxford: Oxford University Press: 189–214.
-* Baron, Sam, 2013, “Presentism, Truth and Supervenience”, *Ratio*, 26(1): 3–18. doi:10.1111/j.1467-9329.2011.00523.x
-* Bennett, Karen & Dean W. Zimmerman (eds.), 2011, *Oxford Studies in Metaphysics, Vol. 6*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199603039.001.0001
-* –––, 2012, *Oxford Studies in Metaphysics, Vol. 7*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199659081.001.0001
-* –––, 2013, *Oxford Studies in Metaphysics, Vol. 8*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199682904.001.0001
-* Bergmann, Michael, 1999, “(Serious) Actualism and (Serious) Presentism”, *Noûs*, 33(1): 118–132. doi:10.1111/0029-4624.00145
-* Bigelow, John, 1996, “Presentism and Properties”, *Philosophical Perspectives*, 10: 35–52. doi:10.2307/2216235
-* Bnefsi, Sayid, 2020, “Future Bias and Presentism”, in *The Metaphysics of Time: Themes from Prior*, Per Hasle, David Jakobsen, & Peter Øhrstrøm (eds.), Aalborg: Aalborg University Press: 281–297.
-* Bourne, Craig, 2006, *A Future for Presentism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199212804.001.0001
-* Brogaard, Berit, 2006, “Tensed Relations”, *Analysis*, 66(3): 194–202. doi:10.1111/j.1467-8284.2006.00614.x
-* –––, 2007, “Span Operators”, *Analysis*, 67(1): 72–79. doi:10.1111/j.1467-8284.2007.00651.x
+* Adams, Robert Merrihew, 1981, “Actualism and Thisness”, _Synthese_, 49(1): 3–41.
+* –––, 1986, “Time and Thisness”, _Midwest Studies in Philosophy_, 11: 315–329. doi:10.1111/j.1475-4975.1986.tb00501.x
+* Armstrong, D.M., 2004, _Truth and Truthmakers_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487552
+* Baia, Alex, 2012, “Presentism and the Grounding of Truth”, _Philosophical Studies_, 159(3): 341–356. doi:10.1007/s11098-011-9711-8
+* Baker, Alan, 2003, “Quantitative Parsimony and Explanatory Power”, _British Journal for the Philosophy of Science_, 54(2): 245–259. doi:10.1093/bjps/54.2.245
+* Balashov, Yuri & Michel Janssen, 2003, “Presentism and Relativity”, _British Journal for the Philosophy of Science_, 54(2): 327–346. doi:10.1093/bjps/54.2.327
+* Barcan Marcus, Ruth, 1985, “Possibilia and Possible Worlds”, _Grazer Philosophische Studien_, 25/26: 107–133, reprinted in _Modalities: Philosophical Essays_, 1995, Oxford: Oxford University Press: 189–214.
+* Baron, Sam, 2013, “Presentism, Truth and Supervenience”, _Ratio_, 26(1): 3–18. doi:10.1111/j.1467-9329.2011.00523.x
+* Bennett, Karen & Dean W. Zimmerman (eds.), 2011, _Oxford Studies in Metaphysics, Vol. 6_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199603039.001.0001
+* –––, 2012, _Oxford Studies in Metaphysics, Vol. 7_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199659081.001.0001
+* –––, 2013, _Oxford Studies in Metaphysics, Vol. 8_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199682904.001.0001
+* Bergmann, Michael, 1999, “(Serious) Actualism and (Serious) Presentism”, _Noûs_, 33(1): 118–132. doi:10.1111/0029-4624.00145
+* Bigelow, John, 1996, “Presentism and Properties”, _Philosophical Perspectives_, 10: 35–52. doi:10.2307/2216235
+* Bnefsi, Sayid, 2020, “Future Bias and Presentism”, in _The Metaphysics of Time: Themes from Prior_, Per Hasle, David Jakobsen, & Peter Øhrstrøm (eds.), Aalborg: Aalborg University Press: 281–297.
+* Bourne, Craig, 2006, _A Future for Presentism_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199212804.001.0001
+* Brogaard, Berit, 2006, “Tensed Relations”, _Analysis_, 66(3): 194–202. doi:10.1111/j.1467-8284.2006.00614.x
+* –––, 2007, “Span Operators”, _Analysis_, 67(1): 72–79. doi:10.1111/j.1467-8284.2007.00651.x
 * –––, 2013, “Presentism, Primitivism and Cross-Temporal Relations: Lessons from Holistic Ersatzism and Dynamic Semantics”, in Ciuni, Miller, & Torrengo 2013: 253–277
-* Butterfield, Jeremy, 1983, “Prior’s Conception of Time”, *Proceedings of the Aristotelian Society*, 84(1): 193–210. doi:10.1093/aristotelian/84.1.193
-* Callender, Craig, 2000, “Shedding Light on Time”, *Philosophy of Science*, 67(Supp.): S587–S599. doi:10.1086/392848
+* Butterfield, Jeremy, 1983, “Prior’s Conception of Time”, _Proceedings of the Aristotelian Society_, 84(1): 193–210. doi:10.1093/aristotelian/84.1.193
+* Callender, Craig, 2000, “Shedding Light on Time”, _Philosophy of Science_, 67(Supp.): S587–S599. doi:10.1086/392848
 * –––, 2008, “Finding ‘Real’ Time in Quantum Mechanics”, in Craig & Smith 2008: 50–72.
-* ––– (ed.), 2011, *The Oxford Handbook of Philosophy of Time*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199298204.001.0001
+* ––– (ed.), 2011, _The Oxford Handbook of Philosophy of Time_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199298204.001.0001
 * Cameron, Ross P., 2011, “Truthmaking for Presentists”, in Bennett & Zimmerman 2011: 55–100.
 * –––, 2013, “Changing Truthmakers: Reply to Tallant and Ingram”, in Bennett & Zimmerman 2013: 362–373.
-* –––, 2016, “On Characterizing the Presentism/Eternalism and Actualism/Possibilism Debates”, *Analytic Philosophy*, 57(2): 110–140. doi:10.1111/phib.12083
-* Caplan, Ben & David Sanson, 2011, “Presentism and Truthmaking”, *Philosophy Compass*, 6(3): 196–208. doi:10.1111/j.1747-9991.2010.00380.x
-* Chisholm, Roderick M., 1990a, “Events Without Times: An Essay on Ontology”, *Noûs*, 24(3): 413–428. doi:10.2307/2215773
-* –––, 1990b, “Referring to Things that No Longer Exist”, *Philosophical Perspectives*, 4: 545–556. doi:10.2307/2214204
+* –––, 2016, “On Characterizing the Presentism/Eternalism and Actualism/Possibilism Debates”, _Analytic Philosophy_, 57(2): 110–140. doi:10.1111/phib.12083
+* Caplan, Ben & David Sanson, 2011, “Presentism and Truthmaking”, _Philosophy Compass_, 6(3): 196–208. doi:10.1111/j.1747-9991.2010.00380.x
+* Chisholm, Roderick M., 1990a, “Events Without Times: An Essay on Ontology”, _Noûs_, 24(3): 413–428. doi:10.2307/2215773
+* –––, 1990b, “Referring to Things that No Longer Exist”, _Philosophical Perspectives_, 4: 545–556. doi:10.2307/2214204
 * Ciuni, Roberto & Giuliano Torrengo, 2013, “Presentism and Cross-Temporal Relations”, in Ciuni, Miller, & Torrengo 2013: 211–251.
-* Ciuni, Roberto, Kristie Miller, & Giuliano Torrengo (eds.), 2013, *New Papers on the Present: Focus on Presentism*, Munich: Philosophia Verlag.
-* Correia, Fabrice & Sven Rosenkranz, 2015, “Presentism without Presentness”, *Thought*, 4(1): 19–27. doi:10.1002/tht3.153
-* –––, 2020, “The Formalities of Temporaryism without Presentness”, *Notre Dame Journal of Formal Logic*, 61(2): 181–202. doi:10.1215/00294527-2020-0001
-* Craig, William Lane, 2000, *The Tensed Theory of Time: A Critical Examination*, Dordrecht: Kluwer.
-* –––, 2001, *The Metaphysics of Relativity*, Dordrecht: Kluwer.
-* Craig, William Lane & Quentin Smith (eds.), 2008, *Einstein, Relativity and Absolute Simultaneity*, London: Routledge.
+* Ciuni, Roberto, Kristie Miller, & Giuliano Torrengo (eds.), 2013, _New Papers on the Present: Focus on Presentism_, Munich: Philosophia Verlag.
+* Correia, Fabrice & Sven Rosenkranz, 2015, “Presentism without Presentness”, _Thought_, 4(1): 19–27. doi:10.1002/tht3.153
+* –––, 2020, “The Formalities of Temporaryism without Presentness”, _Notre Dame Journal of Formal Logic_, 61(2): 181–202. doi:10.1215/00294527-2020-0001
+* Craig, William Lane, 2000, _The Tensed Theory of Time: A Critical Examination_, Dordrecht: Kluwer.
+* –––, 2001, _The Metaphysics of Relativity_, Dordrecht: Kluwer.
+* Craig, William Lane & Quentin Smith (eds.), 2008, _Einstein, Relativity and Absolute Simultaneity_, London: Routledge.
 * Crisp, Thomas M., 2003, “Presentism”, in Loux & Zimmerman 2003: 211–245.
 * –––, 2004, “On Presentism and Triviality”, & “Reply to Ludlow”, in Zimmerman 2004: 15–20 & 37–46.
-* –––, 2005, “Presentism and ‘Cross-Time’, Relations”, *American Philosophical Quarterly*, 42(1): 5–17.
-* –––, 2007, “Presentism and the Grounding Objection”, *Noûs*, 41(1): 90–109. doi:10.1111/j.1468-0068.2007.00639.x
+* –––, 2005, “Presentism and ‘Cross-Time’, Relations”, _American Philosophical Quarterly_, 42(1): 5–17.
+* –––, 2007, “Presentism and the Grounding Objection”, _Noûs_, 41(1): 90–109. doi:10.1111/j.1468-0068.2007.00639.x
 * –––, 2008, “Presentism, Eternalism and Relativity Physics”, in Craig & Smith 2008: 262–278.
-* Davidson, Matthew, 2000, “Direct Reference and Singular Propositions”, *American Philosophical Quarterly*, 37(3): 285–300.
-* –––, 2003, “Presentism and the Non-Present”, *Philosophical Studies*, 113(1): 77–92. doi:10.1023/A:1023071410620
-* Dawson, Patrick, 2021, “Hard Presentism”, *Synthese*, 198(9): 8433–8461. doi:10.1007/s11229-020-02580-9
-* De Clercq, Rafael, 2006, “Presentism and the Problem of Cross-Time Relations”, *Philosophy and Phenomenological Research*, 72(2): 386–402. doi:10.1111/j.1933-1592.2006.tb00566.x
-* Deasy, Daniel, 2015, “The Moving Spotlight Theory”, *Philosophical Studies*, 172(8): 2073–2089. doi:10.1007/s11098-014-0398-5
-* –––, 2017, “What is Presentism?”, *Noûs*, 51(2): 378–397. doi:10.1111/nous.12109
-* –––, 2019a, “Characterising Theories of Time and Modality”, *Analytic Philosophy*, 60(3): 283–305. doi:10.1111/phib.12147
-* –––, 2019b, “The Triviality Argument against Presentism”, *Synthese*, 196(8):3369–3388. doi:10.1007/s11229-017-1601-y
-* Deng, Natalja, 2018, “What is Temporal Ontology?”, *Philosophical Studies*, 175(3): 793–807. doi:10.1007/s11098-017-0893-6
-* Dieks, Dennis (ed.), 2006, *The Ontology of Spacetime*, volume 1, Amsterdam: Elsevier.
-* Emery, Nina, 2019, “Actualism without Presentism? Not by way of the Relativity Objection”, *Noûs*, 53(4): 963–986. doi:10.1111/nous.12247
-* –––, 2020, “Actualism, Presentism and the Grounding Objection”, *Erkenntnis*, 85(1): 23–43. doi:10.1007/s10670-018-0016-6
-* –––, 2021, “Temporal Ersatzism and Relativity”, *Australasian Journal of Philosophy*, 99(3): 490–503. doi:10.1080/00048402.2020.1780621
-* Fernandes, Alison, 2021, “Does the Temporal Asymmetry of Value Support a Tensed Metaphysics?”, *Synthese*, 198(5): 3999–4016. doi:10.1007/s11229-019-02269-8
-* Fitch, G.W., 1994, “Singular Propositions in Time”, *Philosophical Studies*, 73(2/3): 181–187. doi:10.1007/BF01207665
-* Fine, Kit, 1977, “Prior on the Construction of Possible Worlds and Instants”, in *Worlds, Times and Selves*, London: Duckworth: 116–161, reprinted in Fine 2005b: 133–175.
-* –––, 1985, “Plantinga on the Reduction of Possibilist Discourse”, in *Alvin Plantinga*, James E. Tomberlin & Peter van Inwagen (eds.), Dordrecht: Kluwer: 145–186, reprinted in Fine 2005b: 176–213.
+* Davidson, Matthew, 2000, “Direct Reference and Singular Propositions”, _American Philosophical Quarterly_, 37(3): 285–300.
+* –––, 2003, “Presentism and the Non-Present”, _Philosophical Studies_, 113(1): 77–92. doi:10.1023/A:1023071410620
+* Dawson, Patrick, 2021, “Hard Presentism”, _Synthese_, 198(9): 8433–8461. doi:10.1007/s11229-020-02580-9
+* De Clercq, Rafael, 2006, “Presentism and the Problem of Cross-Time Relations”, _Philosophy and Phenomenological Research_, 72(2): 386–402. doi:10.1111/j.1933-1592.2006.tb00566.x
+* Deasy, Daniel, 2015, “The Moving Spotlight Theory”, _Philosophical Studies_, 172(8): 2073–2089. doi:10.1007/s11098-014-0398-5
+* –––, 2017, “What is Presentism?”, _Noûs_, 51(2): 378–397. doi:10.1111/nous.12109
+* –––, 2019a, “Characterising Theories of Time and Modality”, _Analytic Philosophy_, 60(3): 283–305. doi:10.1111/phib.12147
+* –––, 2019b, “The Triviality Argument against Presentism”, _Synthese_, 196(8):3369–3388. doi:10.1007/s11229-017-1601-y
+* Deng, Natalja, 2018, “What is Temporal Ontology?”, _Philosophical Studies_, 175(3): 793–807. doi:10.1007/s11098-017-0893-6
+* Dieks, Dennis (ed.), 2006, _The Ontology of Spacetime_, volume 1, Amsterdam: Elsevier.
+* Emery, Nina, 2019, “Actualism without Presentism? Not by way of the Relativity Objection”, _Noûs_, 53(4): 963–986. doi:10.1111/nous.12247
+* –––, 2020, “Actualism, Presentism and the Grounding Objection”, _Erkenntnis_, 85(1): 23–43. doi:10.1007/s10670-018-0016-6
+* –––, 2021, “Temporal Ersatzism and Relativity”, _Australasian Journal of Philosophy_, 99(3): 490–503. doi:10.1080/00048402.2020.1780621
+* Fernandes, Alison, 2021, “Does the Temporal Asymmetry of Value Support a Tensed Metaphysics?”, _Synthese_, 198(5): 3999–4016. doi:10.1007/s11229-019-02269-8
+* Fitch, G.W., 1994, “Singular Propositions in Time”, _Philosophical Studies_, 73(2/3): 181–187. doi:10.1007/BF01207665
+* Fine, Kit, 1977, “Prior on the Construction of Possible Worlds and Instants”, in _Worlds, Times and Selves_, London: Duckworth: 116–161, reprinted in Fine 2005b: 133–175.
+* –––, 1985, “Plantinga on the Reduction of Possibilist Discourse”, in _Alvin Plantinga_, James E. Tomberlin & Peter van Inwagen (eds.), Dordrecht: Kluwer: 145–186, reprinted in Fine 2005b: 176–213.
 * –––, 2005a, “Tense and Reality”, in Fine 2005b: 261–320.
-* –––, 2005b, *Modality and Tense*, Oxford: Oxford University Press. doi:10.1093/0199278709.001.0001
-* Gentry, Brittany, 2021, “Measuring the Present: What is the Duration of ‘Now’?”, *Synthese*, 198(10): 9357–9371. doi:10.1007/s11229-020-02644-w
-* Hare, Caspar, 2007, “Self-Bias, Time-Bias, and the Metaphysics of Self and Time”, *The Journal of Philosophy*, 104(7): 350–373. doi:10.5840/jphil2007104717
-* –––, 2013, “Time – The Emotional Asymmetry”, in *A Companion to the Philosophy of Time*, Heather Dyke & Adrian Bardon (eds.), Oxford: Blackwell: 507–520. doi:10.1002/9781118522097.ch29
-* Hawley, Katherine, 2006, “Science as a Guide to Metaphysics?”, *Synthese*, 149(3): 451–470. doi:10.1007/s11229-005-0569-1
-* –––, 2014, “Persistence and Time”, in *The Cambridge Companion to Life and Death*, Steven Luper (ed.), Cambridge: Cambridge University Press: 47–63. doi:10.1017/CCO9781139149129.005
-* Hestevold, H. Scott & William R. Carter, 2002, “On Presentism, Endurance, and Change”, *Canadian Journal of Philosophy*, 32(4): 491–510.
-* Hinchliff, Mark, 1988, *A Defense of Presentism*, Princeton: Princeton University (PhD thesis).
-* –––, 1996, “The Puzzle of Change”, *Philosophical Perspectives*, 10: 119–136. doi:10.2307/2216239
-* Hoerl, Christoph, 2015, “Tense and the Psychology of Relief”, *Topoi*, 34(1): 217–231. doi:10.1007/s11245-013-9226-3
-* Ingram, David, 2016, “The Virtues of Thisness Presentism”, *Philosophical Studies*, 173(11): 2867–2888. doi:10.1007/s11098-016-0641-3
-* –––, 2018, “Thisnesses, Propositions, and Truth”, *Pacific Philosophical Quarterly*, 99(3): 442–463. doi:10.1111/papq.12181
-* –––, 2019, *Thisness Presentism*, Oxford: Routledge. doi:10.4324/9780429452277
-* Ingthorsson, R.D., 2017, “Challenging the Grounding Objection to Presentism”, *Manuscrito*, 40 (1): 87–107. doi:10.1590/0100-6045.2017.V40N1.RI
-* –––, 2019, “Presentism and Cross-Time Relations”, in *Logic and Philosophy of Time: Further Themes from Prior*, Patrick Blackburn, Per Hasle, & Peter Øhrstrøm (eds.), Aalborg: Aalborg University Press: 53–72.
-* Inman, Ross, 2012, “Why so Serious? Non-Serious Presentism and the Problem of Cross-Temporal Relations”, *Metaphysica*, 13(1): 55–63. doi:10.1007/s12133-012-0093-y
-* Jakobsen, David, 2011, “A.N. Prior’s Notion of the Present”, in *Multidisciplinary Aspects of Time and Time Perception*, Argiro Vatakis, Anna Esposito, Maria Giagkou, Fred Cummins, Georgios Papadelis (eds.), Berlin: Springer: 36–45. doi:10.1007/978-3-642-21478-3_3
-* Janssen, Michael, 2002, “Reconsidering a Scientific Revolution: The Case of Einstein *versus* Lorentz”, *Physics in Perspective*, 4(4): 421–446. doi:10.1007/s000160200003
-* Jansson, Lina & Jonathan Tallant, 2017, “Quantitative Parsimony: Probably for the Better”, *British Journal for the Philosophy of Science*, 68(3): 781–803. doi:10.1093/bjps/axv064
+* –––, 2005b, _Modality and Tense_, Oxford: Oxford University Press. doi:10.1093/0199278709.001.0001
+* Gentry, Brittany, 2021, “Measuring the Present: What is the Duration of ‘Now’?”, _Synthese_, 198(10): 9357–9371. doi:10.1007/s11229-020-02644-w
+* Hare, Caspar, 2007, “Self-Bias, Time-Bias, and the Metaphysics of Self and Time”, _The Journal of Philosophy_, 104(7): 350–373. doi:10.5840/jphil2007104717
+* –––, 2013, “Time – The Emotional Asymmetry”, in _A Companion to the Philosophy of Time_, Heather Dyke & Adrian Bardon (eds.), Oxford: Blackwell: 507–520. doi:10.1002/9781118522097.ch29
+* Hawley, Katherine, 2006, “Science as a Guide to Metaphysics?”, _Synthese_, 149(3): 451–470. doi:10.1007/s11229-005-0569-1
+* –––, 2014, “Persistence and Time”, in _The Cambridge Companion to Life and Death_, Steven Luper (ed.), Cambridge: Cambridge University Press: 47–63. doi:10.1017/CCO9781139149129.005
+* Hestevold, H. Scott & William R. Carter, 2002, “On Presentism, Endurance, and Change”, _Canadian Journal of Philosophy_, 32(4): 491–510.
+* Hinchliff, Mark, 1988, _A Defense of Presentism_, Princeton: Princeton University (PhD thesis).
+* –––, 1996, “The Puzzle of Change”, _Philosophical Perspectives_, 10: 119–136. doi:10.2307/2216239
+* Hoerl, Christoph, 2015, “Tense and the Psychology of Relief”, _Topoi_, 34(1): 217–231. doi:10.1007/s11245-013-9226-3
+* Ingram, David, 2016, “The Virtues of Thisness Presentism”, _Philosophical Studies_, 173(11): 2867–2888. doi:10.1007/s11098-016-0641-3
+* –––, 2018, “Thisnesses, Propositions, and Truth”, _Pacific Philosophical Quarterly_, 99(3): 442–463. doi:10.1111/papq.12181
+* –––, 2019, _Thisness Presentism_, Oxford: Routledge. doi:10.4324/9780429452277
+* Ingthorsson, R.D., 2017, “Challenging the Grounding Objection to Presentism”, _Manuscrito_, 40 (1): 87–107. doi:10.1590/0100-6045.2017.V40N1.RI
+* –––, 2019, “Presentism and Cross-Time Relations”, in _Logic and Philosophy of Time: Further Themes from Prior_, Patrick Blackburn, Per Hasle, & Peter Øhrstrøm (eds.), Aalborg: Aalborg University Press: 53–72.
+* Inman, Ross, 2012, “Why so Serious? Non-Serious Presentism and the Problem of Cross-Temporal Relations”, _Metaphysica_, 13(1): 55–63. doi:10.1007/s12133-012-0093-y
+* Jakobsen, David, 2011, “A.N. Prior’s Notion of the Present”, in _Multidisciplinary Aspects of Time and Time Perception_, Argiro Vatakis, Anna Esposito, Maria Giagkou, Fred Cummins, Georgios Papadelis (eds.), Berlin: Springer: 36–45. doi:10.1007/978-3-642-21478-3\_3
+* Janssen, Michael, 2002, “Reconsidering a Scientific Revolution: The Case of Einstein _versus_ Lorentz”, _Physics in Perspective_, 4(4): 421–446. doi:10.1007/s000160200003
+* Jansson, Lina & Jonathan Tallant, 2017, “Quantitative Parsimony: Probably for the Better”, _British Journal for the Philosophy of Science_, 68(3): 781–803. doi:10.1093/bjps/axv064
 * Keller, Simon, 2004, “Presentism and Truthmaking”, in Zimmerman 2004: 83–104.
-* Kierland, Brian & Bradley Monton, 2007, “Presentism and the Objection from Being-Supervenience”, *Australasian Journal of Philosophy*, 85(3): 485–497. doi:10.1080/00048400701572279
-* King, Jeffrey C., 2007, *The Nature and Structure of Content*, Oxford: Oxford University Press.
-* Le Poidevin, Robin, 1991, *Change, Cause and Contradiction: A Defence of the Tenseless Theory of Time*, London: Palgrave Macmillan.
-* Leftow, Brian, 2018, “Presentism, Atemporality, and Time’s Way”, *Faith and Philosophy*, 35(2): 173–194. doi:10.5840/faithphil2018326100
-* Leininger, Lisa, 2015, “Presentism and the Myth of Passage”, *Australasian Journal of Philosophy*, 93(4): 724–739. doi:10.1080/00048402.2015.1007463
-* Lewis, David, 1973, *Counterfactuals*, Oxford: Blackwell.
+* Kierland, Brian & Bradley Monton, 2007, “Presentism and the Objection from Being-Supervenience”, _Australasian Journal of Philosophy_, 85(3): 485–497. doi:10.1080/00048400701572279
+* King, Jeffrey C., 2007, _The Nature and Structure of Content_, Oxford: Oxford University Press.
+* Le Poidevin, Robin, 1991, _Change, Cause and Contradiction: A Defence of the Tenseless Theory of Time_, London: Palgrave Macmillan.
+* Leftow, Brian, 2018, “Presentism, Atemporality, and Time’s Way”, _Faith and Philosophy_, 35(2): 173–194. doi:10.5840/faithphil2018326100
+* Leininger, Lisa, 2015, “Presentism and the Myth of Passage”, _Australasian Journal of Philosophy_, 93(4): 724–739. doi:10.1080/00048402.2015.1007463
+* Lewis, David, 1973, _Counterfactuals_, Oxford: Blackwell.
 * –––, 2004, “Tensed Quantifiers”, in Zimmerman 2004: 3–14.
-* Lombard, Lawrence Brian, 1999, “On the Alleged Incompatibility of Presentism and Temporal Parts”, *Philosophia*, 27(1/2): 253–260.
-* –––, 2010, “Time for a Change: A Polemic Against the Presentism-Eternalism Debate”, in *Time and Identity*, Joseph Keim Campbell, Michael O’Rourke, & Harry S. Silverstein (eds.), Cambridge, MA: MIT Press: 49–77.
-* Loux, Michael J. & Dean W. Zimmerman (eds.), 2003, *The Oxford Handbook of Metaphysics*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199284221.001.0001
+* Lombard, Lawrence Brian, 1999, “On the Alleged Incompatibility of Presentism and Temporal Parts”, _Philosophia_, 27(1/2): 253–260.
+* –––, 2010, “Time for a Change: A Polemic Against the Presentism-Eternalism Debate”, in _Time and Identity_, Joseph Keim Campbell, Michael O’Rourke, & Harry S. Silverstein (eds.), Cambridge, MA: MIT Press: 49–77.
+* Loux, Michael J. & Dean W. Zimmerman (eds.), 2003, _The Oxford Handbook of Metaphysics_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199284221.001.0001
 * Ludlow, Peter, 2004, “Presentism, Triviality, and the Varieties of Tensism”, in Zimmerman 2004: 21–36.
 * Markosian, Ned, 2004, “A Defense of Presentism”, in Zimmerman 2004: 47–82.
-* –––, 2013, “The Truth About the Past and the Future”, in *Around the Tree: Semantic and Metaphysical Issues Concerning Branching and the Open Future*, Fabrice Correia & Andrea Iacona (eds.), Dordrecht: Springer: 127–141. doi:10.1007/978-94-007-5167-5_8
-* McKinnon, Neil & John Bigelow, 2012, “Presentism, and Speaking of the Dead”, *Philosophical Studies*, 160(2): 253–263. doi:10.1007/s11098-011-9717-2
-* Merricks, Trenton, 1995, “On the Incompatibility of Enduring and Perduring Entities”, *Mind*, 104(415): 523–531. doi:10.1093/mind/104.415.521
-* –––, 1999, “Persistence, Parts, and Presentism”, *Noûs*, 33(3): 421–438. doi:10.1111/0029-4624.00162
-* –––, 2007, *Truth and Ontology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199205233.001.0001
-* –––, 2012, “Singular Propositions”, in *Reason, Metaphysics, and Mind: New Essays on the Philosophy of Alvin Plantinga*, Kelly James Clark & Michael Rea (eds.), Oxford: Oxford University Press: 61–81.
-* –––, 2015, *Propositions*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198732563.001.0001
-* Meyer, Ulrich, 2005, “The Presentist’s Dilemma”, *Philosophical Studies*, 122(3): 213–225. doi:10.1007/s11098-005-1784-9
+* –––, 2013, “The Truth About the Past and the Future”, in _Around the Tree: Semantic and Metaphysical Issues Concerning Branching and the Open Future_, Fabrice Correia & Andrea Iacona (eds.), Dordrecht: Springer: 127–141. doi:10.1007/978-94-007-5167-5\_8
+* McKinnon, Neil & John Bigelow, 2012, “Presentism, and Speaking of the Dead”, _Philosophical Studies_, 160(2): 253–263. doi:10.1007/s11098-011-9717-2
+* Merricks, Trenton, 1995, “On the Incompatibility of Enduring and Perduring Entities”, _Mind_, 104(415): 523–531. doi:10.1093/mind/104.415.521
+* –––, 1999, “Persistence, Parts, and Presentism”, _Noûs_, 33(3): 421–438. doi:10.1111/0029-4624.00162
+* –––, 2007, _Truth and Ontology_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199205233.001.0001
+* –––, 2012, “Singular Propositions”, in _Reason, Metaphysics, and Mind: New Essays on the Philosophy of Alvin Plantinga_, Kelly James Clark & Michael Rea (eds.), Oxford: Oxford University Press: 61–81.
+* –––, 2015, _Propositions_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198732563.001.0001
+* Meyer, Ulrich, 2005, “The Presentist’s Dilemma”, _Philosophical Studies_, 122(3): 213–225. doi:10.1007/s11098-005-1784-9
 * –––, 2013, “The Triviality of Presentism”, in Ciuni, Miller, & Torrengo 2013: 67–87.
-* Miller, Kristie, 2013, “Presentism, Eternalism, and the Growing Block”, in *A Companion to the Philosophy of Time*, Heather Dyke & Adrian Bardon (eds.), Oxford: Blackwell: 345–364. doi:10.1002/9781118522097.ch21
-* –––, forthcoming, “Pretence Fictionalism about the Non-Present”, *Inquiry*, first online 31 August 2021. doi:10.1080/0020174X.2021.1971557
+* Miller, Kristie, 2013, “Presentism, Eternalism, and the Growing Block”, in _A Companion to the Philosophy of Time_, Heather Dyke & Adrian Bardon (eds.), Oxford: Blackwell: 345–364. doi:10.1002/9781118522097.ch21
+* –––, forthcoming, “Pretence Fictionalism about the Non-Present”, _Inquiry_, first online 31 August 2021. doi:10.1080/0020174X.2021.1971557
 * Monton, Bradley, 2006, “Presentism and Quantum Gravity”, in Dieks 2006: 263–280.
 * Mozersky, M. Joshua, 2011, “Presentism”, in Callender 2011: 122–144.
-* Nolan, Daniel, 1997, “Quantitative Parsimony”, *British Journal for the Philosophy of Science*, 48(3): 329–343. doi:10.1093/bjps/48.3.329
-* Noonan, Harold W., 2013, “Presentism and Eternalism”, *Erkenntnis*, 73(1): 219–227. doi:10.1007/s10670-011-9303-1
-* –––, 2019, “Presentism and Actualism”, *Philosophia*, 47(2): 489–497. doi:10.1007/s11406-018-9993-6
-* Pearson, Olley, 2018, “Appropriate Emotions and the Metaphysics of Time”, *Philosophical Studies*, 175(8): 1945–1961. doi:10.1007/s11098-017-0944-z
-* Plantinga, Alvin, 1983, “On Existentialism”, *Philosophical Studies*, 44(1): 1–20. doi:10.1007/BF00353411
+* Nolan, Daniel, 1997, “Quantitative Parsimony”, _British Journal for the Philosophy of Science_, 48(3): 329–343. doi:10.1093/bjps/48.3.329
+* Noonan, Harold W., 2013, “Presentism and Eternalism”, _Erkenntnis_, 73(1): 219–227. doi:10.1007/s10670-011-9303-1
+* –––, 2019, “Presentism and Actualism”, _Philosophia_, 47(2): 489–497. doi:10.1007/s11406-018-9993-6
+* Pearson, Olley, 2018, “Appropriate Emotions and the Metaphysics of Time”, _Philosophical Studies_, 175(8): 1945–1961. doi:10.1007/s11098-017-0944-z
+* Plantinga, Alvin, 1983, “On Existentialism”, _Philosophical Studies_, 44(1): 1–20. doi:10.1007/BF00353411
 * Price, Huw, 2011, “The Flow of Time”, in Callender 2011: 276–311.
-* Prior, A.N., 1959, “Thank Goodness That’s Over”, *Philosophy*, 34(128): 12–17. doi:10.1017/S0031819100029685
-* –––, 1970, “The Notion of the Present”, *Studium Generale*, 23: 245–248. Reprinted in *The Study of Time*, J. T. Fraser, F. C. Haber, and G. H. Müller (eds.), Berlin, Heidelberg: Springer Berlin Heidelberg: 320–323. doi:10.1007/978-3-642-65387-2_22
-* Putnam, Hilary, 1967, “Time and Physical Geometry”, *The Journal of Philosophy*, 64(8): 240–247. doi:10.2307/2024493
-* Quine, W.V., 1948, “On What There Is”, *The Review of Metaphysics*, 2(5): 21–38.
-* –––, 1987, *Quiddities: An Intermittently Philosophical Dictionary*, Cambridge, MA: Harvard University Press.
-* Rasmussen, Joshua, 2012, “Presentists May Say Goodbye to A-Properties”, *Analysis*, 72(2): 270–276. doi:10.1093/analys/ans038
-* –––, 2015, “Tenseless Times”, *Philosophical Studies*, 172(12): 3221–3227. doi:10.1007/s11098-015-0466-5
+* Prior, A.N., 1959, “Thank Goodness That’s Over”, _Philosophy_, 34(128): 12–17. doi:10.1017/S0031819100029685
+* –––, 1970, “The Notion of the Present”, _Studium Generale_, 23: 245–248. Reprinted in _The Study of Time_, J. T. Fraser, F. C. Haber, and G. H. Müller (eds.), Berlin, Heidelberg: Springer Berlin Heidelberg: 320–323. doi:10.1007/978-3-642-65387-2\_22
+* Putnam, Hilary, 1967, “Time and Physical Geometry”, _The Journal of Philosophy_, 64(8): 240–247. doi:10.2307/2024493
+* Quine, W.V., 1948, “On What There Is”, _The Review of Metaphysics_, 2(5): 21–38.
+* –––, 1987, _Quiddities: An Intermittently Philosophical Dictionary_, Cambridge, MA: Harvard University Press.
+* Rasmussen, Joshua, 2012, “Presentists May Say Goodbye to A-Properties”, _Analysis_, 72(2): 270–276. doi:10.1093/analys/ans038
+* –––, 2015, “Tenseless Times”, _Philosophical Studies_, 172(12): 3221–3227. doi:10.1007/s11098-015-0466-5
 * Rea, Michael C., 2003, “Four-Dimensionalism”, in Loux & Zimmerman 2003: 246–280.
-* Routley, Richard, 1980, *Exploring Meinong’s Jungle and Beyond: An Investigation of Noneism and the Theory of Items*, Canberra: Australian National University.
-* Sanson, David & Ben Caplan, 2010, “The Way Things Were”, *Philosophy and Phenomenological Research*, 81(1): 24–39. doi:10.1111/j.1933-1592.2010.00357.x
-* Saunders, Simon, 2002, “How Relativity Contradicts Presentism”, in *Time, Reality & Experience*, Craig Callender (ed.), Cambridge: Cambridge University Press: 273–292. doi:10.1017/CBO9780511550263.014
-* Savitt, Steven F., 1994, “The Replacement of Time”, *Australasian Journal of Philosophy*, 72(4): 463–474. doi:10.1080/00048409412346261
-* –––, 2000, “There’s No Time like the Present (in Minkowski Spacetime)”, *Philosophy of Science*, 67(Supp.): S563–S574. doi:10.1086/392846
+* Routley, Richard, 1980, _Exploring Meinong’s Jungle and Beyond: An Investigation of Noneism and the Theory of Items_, Canberra: Australian National University.
+* Sanson, David & Ben Caplan, 2010, “The Way Things Were”, _Philosophy and Phenomenological Research_, 81(1): 24–39. doi:10.1111/j.1933-1592.2010.00357.x
+* Saunders, Simon, 2002, “How Relativity Contradicts Presentism”, in _Time, Reality & Experience_, Craig Callender (ed.), Cambridge: Cambridge University Press: 273–292. doi:10.1017/CBO9780511550263.014
+* Savitt, Steven F., 1994, “The Replacement of Time”, _Australasian Journal of Philosophy_, 72(4): 463–474. doi:10.1080/00048409412346261
+* –––, 2000, “There’s No Time like the Present (in Minkowski Spacetime)”, _Philosophy of Science_, 67(Supp.): S563–S574. doi:10.1086/392846
 * –––, 2006, “Presentism and Eternalism in Perspective”, in Dieks 2006: 111–127.
-* Sider, Theodore, 1999, “Presentism and Ontological Commitment”, *The Journal of Philosophy*, 96(7): 325–347. doi:10.2307/2564601
-* –––, 2001, *Four-Dimensionalism: An Ontology of Persistence and Time*, Oxford: Oxford University Press. doi:10.1093/019924443X.001.0001
-* –––, 2006, “Quantifiers and Temporal Ontology”, *Mind*, 115(457): 75–97. doi:10.1093/mind/fzl075
-* Speaks, Jeff, 2012, “On Possibly Nonexistent Propositions”, *Philosophy and Phenomenological Research*, 85(3): 528–562. doi:10.1111/j.1933-1592.2012.00616.x
-* Stein, Howard, 1968, “On Einstein-Minkowski Space-Time”, *The Journal of Philosophy*, 65(1): 5–23. doi:10.2307/2024512
-* –––, 1970, “A Note on Time and Relativity Theory”, *The Journal of Philosophy*, 67(9): 289–294. doi:10.2307/2024388
-* Stoneham, Tom, 2009, “Time and Truth: The Presentism-Eternalism Debate”, *Philosophy*, 84(2): 201–218. doi:10.1017/S0031819109000187
-* Suhler, Christopher & Craig Callender, 2012, “Thank Goodness that Argument is Over: Explaining the Temporal Value Asymmetry”, *Philosophers’ Imprint*, 12(15): 1–16. <[available online](http://hdl.handle.net/2027/spo.3521354.0012.015)>
-* Sullivan, Meghan, 2012, “The Minimal A-Theory”, *Philosophical Studies*, 158(2): 149–174. doi:10.1007/s11098-012-9888-5
-* –––, 2017, “Personal Volatility”, *Philosophical Perspectives*, 27(1): 343–363. doi:10.1111/phis.12098
-* –––, 2018, *Time Biases*, Oxford: Oxford University Press. doi:10.1093/oso/9780198812845.001.0001
-* Tallant, Jonathan, 2009a, “Ontological Cheats Might Just Prosper”, *Analysis*, 69(3): 422–430. doi:10.1093/analys/anp077
-* –––, 2009b, “Presentism and Truth-Making”, *Erkenntnis*, 71(3): 407–416. doi:10.1007/s10670-009-9188-4
-* –––, 2013, “Quantitative Parsimony and the Metaphysics of Time: Motivating Presentism”, *Philosophy and Phenomenological Research*, 87(3): 688–705. doi:10.1111/j.1933-1592.2012.00617.x
-* –––, 2014, “Defining Existence Presentism”, *Erkenntnis*, 79(3): 479–501. doi:10.1007/s10670-013-9499-3
+* Sider, Theodore, 1999, “Presentism and Ontological Commitment”, _The Journal of Philosophy_, 96(7): 325–347. doi:10.2307/2564601
+* –––, 2001, _Four-Dimensionalism: An Ontology of Persistence and Time_, Oxford: Oxford University Press. doi:10.1093/019924443X.001.0001
+* –––, 2006, “Quantifiers and Temporal Ontology”, _Mind_, 115(457): 75–97. doi:10.1093/mind/fzl075
+* Speaks, Jeff, 2012, “On Possibly Nonexistent Propositions”, _Philosophy and Phenomenological Research_, 85(3): 528–562. doi:10.1111/j.1933-1592.2012.00616.x
+* Stein, Howard, 1968, “On Einstein-Minkowski Space-Time”, _The Journal of Philosophy_, 65(1): 5–23. doi:10.2307/2024512
+* –––, 1970, “A Note on Time and Relativity Theory”, _The Journal of Philosophy_, 67(9): 289–294. doi:10.2307/2024388
+* Stoneham, Tom, 2009, “Time and Truth: The Presentism-Eternalism Debate”, _Philosophy_, 84(2): 201–218. doi:10.1017/S0031819109000187
+* Suhler, Christopher & Craig Callender, 2012, “Thank Goodness that Argument is Over: Explaining the Temporal Value Asymmetry”, _Philosophers’ Imprint_, 12(15): 1–16. <[available online](http://hdl.handle.net/2027/spo.3521354.0012.015)>
+* Sullivan, Meghan, 2012, “The Minimal A-Theory”, _Philosophical Studies_, 158(2): 149–174. doi:10.1007/s11098-012-9888-5
+* –––, 2017, “Personal Volatility”, _Philosophical Perspectives_, 27(1): 343–363. doi:10.1111/phis.12098
+* –––, 2018, _Time Biases_, Oxford: Oxford University Press. doi:10.1093/oso/9780198812845.001.0001
+* Tallant, Jonathan, 2009a, “Ontological Cheats Might Just Prosper”, _Analysis_, 69(3): 422–430. doi:10.1093/analys/anp077
+* –––, 2009b, “Presentism and Truth-Making”, _Erkenntnis_, 71(3): 407–416. doi:10.1007/s10670-009-9188-4
+* –––, 2013, “Quantitative Parsimony and the Metaphysics of Time: Motivating Presentism”, _Philosophy and Phenomenological Research_, 87(3): 688–705. doi:10.1111/j.1933-1592.2012.00617.x
+* –––, 2014, “Defining Existence Presentism”, _Erkenntnis_, 79(3): 479–501. doi:10.1007/s10670-013-9499-3
 * Tallant, Jonathan & David Ingram, 2012, “Presentism and Distributional Properties”, in Bennett & Zimmerman 2012: 305–314.
-* –––, 2015, “Nefarious Presentism”, *Philosophical Quarterly*, 65: 355–371. doi:10.1093/pq/pqu095
-* –––, 2020, “Presentism and the Spans of Time”, *Philosophy and Phenomenological Research*, 101(1): 200–214. doi:10.1111/phpr.12590
-* –––, 2021, “The Rotten Core of Presentism”, *Synthese*, 199(1/2): 3969–3991. doi:10.1007/s11229-020-02965-w
-* Tooley, Michael, 1997, *Time, Tense, and Causation*, Oxford: Oxford University Press. doi:10.1093/0198250746.001.0001
-* Torrengo, Giuliano, 2006, “Tenseless Cross-Temporal Relations”, *Metaphysica*, 7(2): 117–129.
-* –––, 2008, *Time and Cross-Temporal Relations*, Milan: Mimesis.
-* –––, 2010, “Time, Context, and Cross-Temporal Claims”, *Philosophia*, 38(2): 281–296. doi:10.1007/s11406-009-9225-1
-* –––, 2012, “Time and Simple Existence”, *Metaphysica*, 13(2): 125–130. doi:10.1007/s12133-012-0096-8
-* –––, 2016, “Presentism and the Sceptical Challenge”, *Manuscrito*, 39(4): 101–116. doi:10.1590/0100-6045.2016.v39n4.gt
-* Viebahn, Emanuel, 2020. “Presentism, Eternalism and Where Things are Located”, *Synthese*, 197(7): 2963–2974. doi:10.1007/s11229-018-1816-6
-* Williamson, Timothy, 1998, “Bare Possibilia”, *Erkenntnis*, 48(2): 257–273. doi:10.1023/A:1005331819843
-* –––, 2002, “Necessary Existents”, in *Logic, Thought and Language*, Anthony O’Hear (ed.), Cambridge: Cambridge University Press, 233–251. doi:10.1017/CBO9780511550287.012
-* –––, 2013, *Modal Logic as Metaphysics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199552078.001.0001
+* –––, 2015, “Nefarious Presentism”, _Philosophical Quarterly_, 65: 355–371. doi:10.1093/pq/pqu095
+* –––, 2020, “Presentism and the Spans of Time”, _Philosophy and Phenomenological Research_, 101(1): 200–214. doi:10.1111/phpr.12590
+* –––, 2021, “The Rotten Core of Presentism”, _Synthese_, 199(1/2): 3969–3991. doi:10.1007/s11229-020-02965-w
+* Tooley, Michael, 1997, _Time, Tense, and Causation_, Oxford: Oxford University Press. doi:10.1093/0198250746.001.0001
+* Torrengo, Giuliano, 2006, “Tenseless Cross-Temporal Relations”, _Metaphysica_, 7(2): 117–129.
+* –––, 2008, _Time and Cross-Temporal Relations_, Milan: Mimesis.
+* –––, 2010, “Time, Context, and Cross-Temporal Claims”, _Philosophia_, 38(2): 281–296. doi:10.1007/s11406-009-9225-1
+* –––, 2012, “Time and Simple Existence”, _Metaphysica_, 13(2): 125–130. doi:10.1007/s12133-012-0096-8
+* –––, 2016, “Presentism and the Sceptical Challenge”, _Manuscrito_, 39(4): 101–116. doi:10.1590/0100-6045.2016.v39n4.gt
+* Viebahn, Emanuel, 2020. “Presentism, Eternalism and Where Things are Located”, _Synthese_, 197(7): 2963–2974. doi:10.1007/s11229-018-1816-6
+* Williamson, Timothy, 1998, “Bare Possibilia”, _Erkenntnis_, 48(2): 257–273. doi:10.1023/A:1005331819843
+* –––, 2002, “Necessary Existents”, in _Logic, Thought and Language_, Anthony O’Hear (ed.), Cambridge: Cambridge University Press, 233–251. doi:10.1017/CBO9780511550287.012
+* –––, 2013, _Modal Logic as Metaphysics_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199552078.001.0001
 * Wüthrich, Christian, 2013, “The Fate of Presentism in Modern Physics”, in Ciuni, Miller, & Torrengo 2013: 91–131.
-* Zimmerman, Dean W., 1996, “Persistence and Presentism”, *Philosophical Papers*, 25(2): 115–126. doi:10.1080/05568649609506542
-* –––, 1998, “Temporary Intrinsics and Presentism”, in *Metaphysics: The Big Questions*, Peter van Inwagen & Dean W. Zimmerman (eds.), Oxford: Blackwell, 206–219.
-* ––– (ed.), 2004, *Oxford Studies in Metaphysics, Vol. 1*, Oxford: Oxford University Press.
-* –––, 2008, “The Privileged Present: Defending an ‘A-theory’ of Time”, in *Contemporary Debates in Metaphysics*, Theodore Sider, John Hawthorne, & Dean W. Zimmerman (eds.), Oxford: Blackwell, 211–225.
+* Zimmerman, Dean W., 1996, “Persistence and Presentism”, _Philosophical Papers_, 25(2): 115–126. doi:10.1080/05568649609506542
+* –––, 1998, “Temporary Intrinsics and Presentism”, in _Metaphysics: The Big Questions_, Peter van Inwagen & Dean W. Zimmerman (eds.), Oxford: Blackwell, 206–219.
+* ––– (ed.), 2004, _Oxford Studies in Metaphysics, Vol. 1_, Oxford: Oxford University Press.
+* –––, 2008, “The Privileged Present: Defending an ‘A-theory’ of Time”, in _Contemporary Debates in Metaphysics_, Theodore Sider, John Hawthorne, & Dean W. Zimmerman (eds.), Oxford: Blackwell, 211–225.
 * –––, 2011, “Presentism and the Space-Time Manifold”, in Callender 2011: 163–244.
 
 ## Academic Tools
 
-> | ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=presentism). |
-> | --- | --- |
-> | ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/presentism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](../.gitbook/assets/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=presentism&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](../.gitbook/assets/pp.png) | [Enhanced bibliography for this entry](https://philpapers.org/sep/presentism/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=presentism).                                                                      |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/presentism/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=presentism\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](../.gitbook/assets/pp.png)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/presentism/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[abstract objects](https://plato.stanford.edu/entries/abstract-objects/) | [dependence, ontological](https://plato.stanford.edu/entries/dependence-ontological/) | [nonexistent objects](https://plato.stanford.edu/entries/nonexistent-objects/) | [possibilism-actualism debate](https://plato.stanford.edu/entries/possibilism-actualism/) | [Prior, Arthur](https://plato.stanford.edu/entries/prior/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [propositions: singular](https://plato.stanford.edu/entries/propositions-singular/) | [propositions: structured](https://plato.stanford.edu/entries/propositions-structured/) | [reference](https://plato.stanford.edu/entries/reference/) | [simplicity](https://plato.stanford.edu/entries/simplicity/) | [space and time: being and becoming in modern physics](https://plato.stanford.edu/entries/spacetime-bebecome/) | [time](https://plato.stanford.edu/entries/time/) | [truthmakers](https://plato.stanford.edu/entries/truthmakers/)
+[abstract objects](https://plato.stanford.edu/entries/abstract-objects/) | [dependence, ontological](https://plato.stanford.edu/entries/dependence-ontological/) | [nonexistent objects](https://plato.stanford.edu/entries/nonexistent-objects/) | [possibilism-actualism debate](https://plato.stanford.edu/entries/possibilism-actualism/) | [Prior, Arthur](https://plato.stanford.edu/entries/prior/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [propositions: singular](https://plato.stanford.edu/entries/propositions-singular/) | [propositions: structured](https://plato.stanford.edu/entries/propositions-structured/) | [reference](https://plato.stanford.edu/entries/reference/) | [simplicity](https://plato.stanford.edu/entries/simplicity/) | [space and time: being and becoming in modern physics](https://plato.stanford.edu/entries/spacetime-bebecome/) | [time](https://plato.stanford.edu/entries/time/) | [truthmakers](https://plato.stanford.edu/entries/truthmakers/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-David Ingram <[*david.ingram@york.ac.uk*](mailto:david%2eingram%40york%2eac%2euk)>  
-[Jonathan Tallant](http://www.jonathantallant.com/) <[*Jonathan.tallant@nottingham.ac.uk*](mailto:Jonathan%2etallant%40nottingham%2eac%2euk)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+David Ingram <[_david.ingram@york.ac.uk_](mailto:david%2eingram%40york%2eac%2euk)>\
+[Jonathan Tallant](http://www.jonathantallant.com/) <[_Jonathan.tallant@nottingham.ac.uk_](mailto:Jonathan%2etallant%40nottingham%2eac%2euk)>

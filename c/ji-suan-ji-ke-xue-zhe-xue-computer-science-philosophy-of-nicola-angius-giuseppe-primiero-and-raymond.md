@@ -1,11 +1,10 @@
 # 计算机科学哲学 computer science, philosophy of (Nicola Angius, Giuseppe Primiero, and Raymond Turner)
 
-*首次发表于 2013 年 8 月 20 日星期二；实质性修订于 2021 年 1 月 19 日星期二*
+_首次发表于 2013 年 8 月 20 日星期二；实质性修订于 2021 年 1 月 19 日星期二_
 
 计算机科学哲学关注于计算机科学学科内部产生的本体论和方法论问题，以及软件开发及其商业和工业部署的实践。更具体地说，计算机科学哲学考虑了计算系统的本体论和认识论，重点关注与其规范、编程、实现、验证和测试相关的问题。计算机程序的复杂性确保了计算机科学哲学提出的许多概念问题与数学哲学、经验科学哲学和技术哲学中的问题相关。我们将在第 1 至 5 节提供反映计算系统本体论分层性质的主题分析；然后在第 6 至 8 节讨论涉及其方法论的主题。
 
-
----
+***
 
 ## 计算系统
 
@@ -100,10 +99,10 @@ Knuth (1973)回顾并深化了 Markov (1954)和 Kleene (1967)的分析，指出�
 
 > 除了仅仅是一组规则的有限集合，用于解决特定类型问题的操作序列外，算法具有五个重要特征：
 >
-> 1. 有限性。算法必须在有限步之后终止。 [...]
-> 2. 确定性。算法的每一步必须被准确定义；必须为每种情况严格和明确地指定要执行的操作。[…]
-> 3. 输入。一个算法有零个或多个输入。[…]
-> 4. 输出。一个算法可以有零个或多个输出。[…]
+> 1. 有限性。算法必须在有限步之后终止。 \[...]
+> 2. 确定性。算法的每一步必须被准确定义；必须为每种情况严格和明确地指定要执行的操作。\[…]
+> 3. 输入。一个算法有零个或多个输入。\[…]
+> 4. 输出。一个算法可以有零个或多个输出。\[…]
 > 5. 有效性。算法通常也被期望是有效的，即其操作必须都足够基本，以至于原则上可以由使用纸和铅笔的人在有限的时间内准确完成。(Knuth 1973: 4–6)
 
 正如 Kleene（1967）所述，有限性影响了指令数量和实现的计算步骤数量。与马尔可夫的确定性一样，Knuth 的确定性原则要求每个连续的计算步骤都必须明确定义。此外，Knuth（1973）更明确地要求算法具有（可能为空的）输入和输出集。Knuth 可能指的是没有输入或输出的算法，这些算法使用内部存储的数据作为输入，或者不将数据返回给外部用户（Rapaport 2019，第 7 章，在其他互联网资源中）。至于有效性，除了马尔可夫倾向于“获得特定结果”之外，Knuth 要求结果在有限时间内获得，并且指令是原子的，即足够简单，可以被人类或人工计算机理解和执行。
@@ -131,17 +130,12 @@ Rapaport (2012, 附录) 提供了一种尝试总结上述三种经典算法定�
 > 一个算法（用于执行者 E 完成目标 G）是：
 >
 > 1. 一个过程，即一组有限的语句（或序列）（或规则，或指令），使得每个语句都是：
->
-> * 由有限字母表中的有限数量符号（或标记）组成
-> * 并且对于 E 是清晰且明确的
->
->   1. E 知道如何做
->   2. 我们可以做到
->   3. 它可以在有限的时间内完成
->   4. 并且，在这样做之后，E 知道接下来该做什么—
->
-> 2. 哪个过程需要有限的时间（即停止）
-> 3. 并以 G 结束。
+> 2. 由有限字母表中的有限数量符号（或标记）组成
+> 3. 并且对于 E 是清晰且明确的
+>    1. E 知道如何做
+>    2. 我们可以做到
+>    3. 它可以在有限的时间内完成
+>    4. 并且，在这样做之后，E 知道接下来该做什么—
 
 Rapaport 强调算法是一个过程，即一系列有限的陈述，采用规则或说明的形式。有限性在这里通过要求说明包含来自有限字母表的有限数量的符号来表达。
 
@@ -341,280 +335,279 @@ Fetzer (1988) 反对认为，演绎推理只能保证程序相对于其规范的
 
 自从纽厄尔和西蒙的图灵奖演讲以来，计算机科学可以被理解为一种特殊类型的经验科学，这与计算实验的性质有关。事实上，关于计算机科学的认识论地位的许多当前讨论涉及定义它是何种科学的问题（Tedre 2011，Tedre 2015），特别是计算机科学中实验的性质（Schiaffonati 和 Verdicchio 2014），计算中的定律和定理的性质（Hartmanis 1993；Rombach 和 Seelish 2008），以及计算机科学与软件工程之间的方法论关系（Gruner 2011）。
 
-
 ## Bibliography
 
-* Abramsky, Samson & Guy McCusker, 1995, “Games and Full Abstraction for the Lazy λ-Calculus”, in D. Kozen (ed.), *Tenth Annual IEEEE Symposium on Logic in Computer Science*, IEEE Computer Society Press, pp. 234–43. doi:10.1109/LICS.1995.523259
-* Abramsky, Samson, Pasquale Malacaria, & Radha Jagadeesan, 1994, “Full Abstraction for PCF”, in M. Hagiya & J.C. Mitchell (eds.), *Theoretical Aspects of Computer Software: International Symposium TACS ‘94*, Sendai, Japan, April 19–22, 1994, Springer-Verlag, pp. 1–15.
-* Abrial, Jean-Raymond, 1996, *The B-Book: Assigning Programs to Meanings*, Cambridge: Cambridge University Press.
-* Alama, Jesse, 2015, “The Lambda Calculus”, *The Stanford Encyclopedia of Philosophy* (Spring 2015 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2015/entries/lambda-calculus/>.
-* Allen, Robert J., 1997, *A Formal Approach to Software Architecture*, Ph.D. Thesis, Computer Science, Carnegie Mellon University. Issued as CMU Technical Report CMU-CS-97-144. [Allen 1997 available on line](http://www.cs.cmu.edu/~able/paper_abstracts/rallen_thesis.htm)
-* Ammann, Paul & Jeff Offutt, 2008, *Introduction to Software Testing*, Cambridge: Cambridge University Press.
-* Angius, Nicola, 2013a, “Abstraction and Idealization in the Formal Verification of Software”, *Minds and Machines*, 23(2): 211–226. doi:10.1007/s11023-012-9289-8
-* –––, 2013b, “Model-Based Abductive Reasoning in Automated Software Testing”, *Logic Journal of IGPL*, 21(6): 931–942. doi:10.1093/jigpal/jzt006
-* –––, 2014, “The Problem of Justification of Empirical Hypotheses in Software Testing”, *Philosophy & Technology*, 27(3): 423–439. doi:10.1007/s13347-014-0159-6
-* Angius, N., & Primiero, G., 2018, “The logic of identity and copy for computational artefacts”, *Journal of Logic and Computation*, 28(6): 1293–1322.
-* Angius, Nicola & Guglielmo Tamburrini, 2011, “Scientific Theories of Computational Systems in Model Checking”, *Minds and Machines*, 21(2): 323–336. doi:10.1007/s11023-011-9231-5
-* –––, 2017, “Explaining engineered computing systems’ behaviour: the role of abstraction and idealization”, *Philosophy & Technology*, 30(2): 239–258.
-* Anscombe, G. E. M., 1963, *Intention*, second edition, Oxford: Blackwell.
-* Arkoudas, Konstantine & Selmer Bringsjord, 2007, “Computers, Justification, and Mathematical Knowledge”, *Minds and Machines*, 17(2): 185–202. doi:10.1007/s11023-007-9063-5
-* Arif, R. Mori, E., and Primiero, G, 2018, “Validity and Correctness before the OS: the case of LEOI and LEOII”, in Liesbeth de Mol, Giuseppe Primiero (eds.), *Reflections on Programmings Systems - Historical and Philosophical Aspects*, Philosophical Studies Series, Cham: Springer, pp. 15–47.
-* Ashenhurst, Robert L. (ed.), 1989, “Letters in the ACM Forum”, *Communications of the ACM*, 32(3): 287. doi:10.1145/62065.315925
-* Baier, A., 1970, “Act and Intent”, *Journal of Philosophy*, 67: 648–658.
-* Baier, Christel & Joost-Pieter Katoen, 2008, *Principles of Model Checking*, Cambridge, MA: The MIT Press.
-* Bass, Len, Paul C. Clements, & Rick Kazman, 2003 [1997], *Software Architecture in Practice*, second edition, Reading, MA: Addison-Wesley; first edition 1997; third edition, 2012.
-* Bechtel, William & Adele Abrahamsen, 2005, “Explanation: A Mechanist Alternative”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 36(2): 421–441. doi:10.1016/j.shpsc.2005.03.010
-* Boghossian, Paul A., 1989, “The Rule-following Considerations”, *Mind*, 98(392): 507–549. doi:10.1093/mind/XCVIII.392.507
-* Bourbaki, Nicolas, 1968, *Theory of Sets*, Ettore Majorana International Science Series, Paris: Hermann.
-* Bratman, M. E., 1987, *Intention, Plans, and Practical Reason*, Cambridge, MA: Harvard University Press.
-* Bridges, Douglas & Palmgren Erik, 2013, “Constructive Mathematics”, *The Stanford Encyclopedia of Philosophy* (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[Constructive Mathematics (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/mathematics-constructive/)>.
-* Brooks, Frederick P. Jr., 1995, *The Mythical Man Month: Essays on Software Engineering*, Anniversary Edition, Reading, MA: Addison-Wesley.
-* –––, 1996, “The Computer Scientist as Toolsmith II”, *Communications of the ACM*, 39(3): 61–68. doi:10.1145/227234.227243
-* Burge, Tyler, 1998, “Computer Proof, Apriori Knowledge, and Other Minds”, *Noûs*, 32(S12): 1–37. doi:10.1111/0029-4624.32.s12.1
+* Abramsky, Samson & Guy McCusker, 1995, “Games and Full Abstraction for the Lazy λ-Calculus”, in D. Kozen (ed.), _Tenth Annual IEEEE Symposium on Logic in Computer Science_, IEEE Computer Society Press, pp. 234–43. doi:10.1109/LICS.1995.523259
+* Abramsky, Samson, Pasquale Malacaria, & Radha Jagadeesan, 1994, “Full Abstraction for PCF”, in M. Hagiya & J.C. Mitchell (eds.), _Theoretical Aspects of Computer Software: International Symposium TACS ‘94_, Sendai, Japan, April 19–22, 1994, Springer-Verlag, pp. 1–15.
+* Abrial, Jean-Raymond, 1996, _The B-Book: Assigning Programs to Meanings_, Cambridge: Cambridge University Press.
+* Alama, Jesse, 2015, “The Lambda Calculus”, _The Stanford Encyclopedia of Philosophy_ (Spring 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2015/entries/lambda-calculus/](https://plato.stanford.edu/archives/spr2015/entries/lambda-calculus/).
+* Allen, Robert J., 1997, _A Formal Approach to Software Architecture_, Ph.D. Thesis, Computer Science, Carnegie Mellon University. Issued as CMU Technical Report CMU-CS-97-144. [Allen 1997 available on line](http://www.cs.cmu.edu/\~able/paper\_abstracts/rallen\_thesis.htm)
+* Ammann, Paul & Jeff Offutt, 2008, _Introduction to Software Testing_, Cambridge: Cambridge University Press.
+* Angius, Nicola, 2013a, “Abstraction and Idealization in the Formal Verification of Software”, _Minds and Machines_, 23(2): 211–226. doi:10.1007/s11023-012-9289-8
+* –––, 2013b, “Model-Based Abductive Reasoning in Automated Software Testing”, _Logic Journal of IGPL_, 21(6): 931–942. doi:10.1093/jigpal/jzt006
+* –––, 2014, “The Problem of Justification of Empirical Hypotheses in Software Testing”, _Philosophy & Technology_, 27(3): 423–439. doi:10.1007/s13347-014-0159-6
+* Angius, N., & Primiero, G., 2018, “The logic of identity and copy for computational artefacts”, _Journal of Logic and Computation_, 28(6): 1293–1322.
+* Angius, Nicola & Guglielmo Tamburrini, 2011, “Scientific Theories of Computational Systems in Model Checking”, _Minds and Machines_, 21(2): 323–336. doi:10.1007/s11023-011-9231-5
+* –––, 2017, “Explaining engineered computing systems’ behaviour: the role of abstraction and idealization”, _Philosophy & Technology_, 30(2): 239–258.
+* Anscombe, G. E. M., 1963, _Intention_, second edition, Oxford: Blackwell.
+* Arkoudas, Konstantine & Selmer Bringsjord, 2007, “Computers, Justification, and Mathematical Knowledge”, _Minds and Machines_, 17(2): 185–202. doi:10.1007/s11023-007-9063-5
+* Arif, R. Mori, E., and Primiero, G, 2018, “Validity and Correctness before the OS: the case of LEOI and LEOII”, in Liesbeth de Mol, Giuseppe Primiero (eds.), _Reflections on Programmings Systems - Historical and Philosophical Aspects_, Philosophical Studies Series, Cham: Springer, pp. 15–47.
+* Ashenhurst, Robert L. (ed.), 1989, “Letters in the ACM Forum”, _Communications of the ACM_, 32(3): 287. doi:10.1145/62065.315925
+* Baier, A., 1970, “Act and Intent”, _Journal of Philosophy_, 67: 648–658.
+* Baier, Christel & Joost-Pieter Katoen, 2008, _Principles of Model Checking_, Cambridge, MA: The MIT Press.
+* Bass, Len, Paul C. Clements, & Rick Kazman, 2003 \[1997], _Software Architecture in Practice_, second edition, Reading, MA: Addison-Wesley; first edition 1997; third edition, 2012.
+* Bechtel, William & Adele Abrahamsen, 2005, “Explanation: A Mechanist Alternative”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 36(2): 421–441. doi:10.1016/j.shpsc.2005.03.010
+* Boghossian, Paul A., 1989, “The Rule-following Considerations”, _Mind_, 98(392): 507–549. doi:10.1093/mind/XCVIII.392.507
+* Bourbaki, Nicolas, 1968, _Theory of Sets_, Ettore Majorana International Science Series, Paris: Hermann.
+* Bratman, M. E., 1987, _Intention, Plans, and Practical Reason_, Cambridge, MA: Harvard University Press.
+* Bridges, Douglas & Palmgren Erik, 2013, “Constructive Mathematics”, _The Stanford Encyclopedia of Philosophy_ (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[Constructive Mathematics (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/mathematics-constructive/)>.
+* Brooks, Frederick P. Jr., 1995, _The Mythical Man Month: Essays on Software Engineering_, Anniversary Edition, Reading, MA: Addison-Wesley.
+* –––, 1996, “The Computer Scientist as Toolsmith II”, _Communications of the ACM_, 39(3): 61–68. doi:10.1145/227234.227243
+* Burge, Tyler, 1998, “Computer Proof, Apriori Knowledge, and Other Minds”, _Noûs_, 32(S12): 1–37. doi:10.1111/0029-4624.32.s12.1
 * Bynum, Terrell Ward, 2008, “Milestones in the History of Information and Computer Ethics”, in Himma and Tavani 2008: 25–48. doi:10.1002/9780470281819.ch2
-* Callahan, John, Francis Schneider, & Steve Easterbrook, 1996, “Automated Software Testing Using Model-Checking”, in *Proceeding Spin Workshop*, J.C. Gregoire, G.J. Holzmann and D. Peled (eds.), New Brunswick, NJ: Rutgers University, pp. 118–127.
-* Cardelli, Luca & Peter Wegner, 1985, “On Understanding Types, Data Abstraction, and Polymorphism”, 17(4): 471–522. [[Cardelli and Wegner 1985 available online](http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf)]
-* Carnap, R., 1966, *Philosophical foundations of physics* (Vol. 966), New York: Basic Books.
-* Carrara, M., Gaio, S., and Soavi, M., 2014, “Artifact kinds, identity criteria, and logical adequacy”, in M. Franssen, P. Kroes, T. Reydon and P. E. Vermaas (eds.), *Artefact Kinds: Ontology and The Human-made World*, New York: Springer, pp. 85–101.
-* Chalmers, A. F., 1999, *What is this thing called Science?*, Maidenhead: Open University Press
-* Chalmers, David J., 1996, “Does a Rock Implement Every Finite-State Automaton?” *Synthese*, 108(3): 309–33. [[D.J. Chalmers 1996 available online](http://consc.net/papers/rock.html)] doi:10.1007/BF00413692
-* Clarke, Edmund M. Jr., Orna Grumberg, & Doron A. Peled, 1999, *Model Checking*, Cambridge, MA: The MIT Press.
-* Colburn, Timothy R., 1999, “Software, Abstraction, and Ontology”, *The Monist*, 82(1): 3–19. doi:10.5840/monist19998215
-* –––, 2000, *Philosophy and Computer Science*, Armonk, NY: M.E. Sharp.
-* Colburn, T. R., Fetzer, J. H. , and Rankin T. L., 1993, *Program Verification: Fundamental Issues in Computer Science*, Dordrecht: Kluwer Academic Publishers.
-* Colburn, Timothy & Gary Shute, 2007, “Abstraction in Computer Science”, *Minds and Machines*, 17(2): 169–184. doi:10.1007/s11023-007-9061-7
-* Copeland, B. Jack, 1993, *Artificial Intelligence: A Philosophical Introduction*, San Francisco: John Wiley & Sons.
-* –––, 1996, “What is Computation?” *Synthese*, 108(3): 335–359. doi:10.1007/BF00413693
-* –––, 2015, “The Church-Turing Thesis”, *The Stanford Encyclopedia of Philosophy* (Summer 2015 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2015/entries/church-turing/>.
-* Copeland, B. Jack & Oron Shagrir, 2007, “Physical Computation: How General are Gandy’s Principles for Mechanisms?” *Minds and Machines*, 17(2): 217–231. doi:10.1007/s11023-007-9058-2
-* –––, 2011, “Do Accelerating Turing Machines Compute the Uncomputable?” *Minds and Machines*, 21(2): 221–239. doi:10.1007/s11023-011-9238-y
-* Cummins, Robert, 1975, “Functional Analysis”, *The Journal of Philosophy*, 72(20): 741–765. doi:10.2307/2024640
-* Davidson, D., 1963, “Actions, Reasons, and Causes,” reprinted in *Essays on Actions and Events*, Oxford: Oxford University Press, 1980, pp. 3–20.
-* –––, 1978, “Intending”, reprinted in *Essays on Actions and Events*, Oxford: Oxford University Press, 1980, pp. 83–102.
-* De Millo, Richard A., Richard J. Lipton, & Alan J. Perlis, 1979, “Social Processes and Proofs of Theorems and Programs”, *Communications of the ACM*, 22(5): 271–281. doi:10.1145/359104.359106
-* Denning, Peter J., 2005, “Is Computer Science Science?”, *Communications of the ACM*, 48(4): 27–31. doi:10.1145/1053291.1053309
-* –––, 2007, “Computing is a Natural Science”, *Communications of the ACM*, 50(7): 13–18. doi:10.1145/1272516.1272529
-* Denning, Peter J., Edward A. Feigenbaum, Paul Gilmore, Anthony C. Hearn, Robert W. Ritchie, & Joseph F. Traub, 1981, “A Discipline in Crisis”, *Communications of the ACM*, 24(6): 370–374. doi:10.1145/358669.358682
-* Devlin, Keith, 1994, *Mathematics: The Science of Patterns: The Search for Order in Life, Mind, and the Universe*, New York: Henry Holt.
-* Dijkstra, Edsger W., 1970, *Notes on Structured Programming*, T.H.-Report 70-WSK-03, Mathematics Technological University Eindhoven, The Netherlands. [[Dijkstra 1970 available online](http://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF)]
-* –––, 1974, “Programming as a Discipline of Mathematical Nature”, *American Mathematical Monthly*, 81(6): 608–612. [[Dijkstra 1974 available online](http://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD361.html)
-* Distributed Software Engineering, 1997, *The Darwin Language*, Department of Computing, Imperial College of Science, Technology and Medicine, London. [[Darwin language 1997 available online](http://www.cs.toronto.edu/~chechik/courses00/ece450/darwin-lang.pdf)]
-* Duhem, P., 1954, *The Aim and Structure of Physical Theory*, Princeton: Princeton University Press.
-* Duijf, H., Broersen, J., and Meyer, J. J. C., 2019, “Conflicting intentions: rectifying the consistency requirements”, *Philosophical Studies*, 176(4): 1097–1118.
-* Dummett, Michael A.E., 2006, *Thought and Reality*, Oxford: Oxford University Press.
-* Duncan, William, 2011, “Using Ontological Dependence to Distinguish between Hardware and Software”, *Proceedings of the Society for the Study of Artificial Intelligence and Simulation of Behavior Conference: Computing and Philosophy*, University of York, York, UK. [[Duncan 2011 available online (zip file)](http://www.aisb.org.uk/publications/proceedings/aisb2011.zip)]
-* –––, 2017, “Ontological Distinctions between Hardware and Software”, *Applied Ontology*, 12(1): 5–32.
-* Eden, Amnon H., 2007, “Three Paradigms of Computer Science”, *Minds and Machines*, 17(2): 135–167. doi:10.1007/s11023-007-9060-8
-* Egan, Frances, 1992, “Individualism, Computation, and Perceptual Content”, *Mind*, 101(403): 443–59. doi:10.1093/mind/101.403.443
-* Edgar, Stacey L., 2003 [1997], *Morality and Machines: Perspectives on Computer Ethics*, Sudbury, MA: Jones & Bartlett Learning.
-* Ferrero, L., 2017, “Intending, Acting, and Doing,” *Philosophical Explorations*, 20 (Supplement 2): 13–39.
-* Fernández, Maribel, 2004, *Programming Languages and Operational Semantics: An Introduction*, London: King’s College Publications.
-* Fetzer, James H., 1988, “Program Verification: The Very Idea”, *Communications of the ACM*, 31(9): 1048–1063. doi:10.1145/48529.48530
-* –––, 1990, *Artificial Intelligence: Its Scope and Limits*, Dordrecht: Springer Netherlands.
-* Feynman, Richard P., 1984–1986, *Feynman Lectures on Computation*, Cambridge, MA: Westview Press, 2000.
-* Flanagan, Mary, Daniel C. Howe, & Helen Nissenbaum, 2008, “Embodying Values in Technology: Theory and Practice”, in *Information Technology and Moral Philosophy*, Jeroen van den Hoven and John Weckert (eds.), Cambridge: Cambridge University Press, pp. 322–353.
-* Floridi, Luciano, 2008, “The Method of Levels of Abstraction”, *Minds and Machines*, 18(3): 303–329. doi:10.1007/s11023-008-9113-7
-* Floridi, Luciano, Nir Fresco, & Giuseppe Primiero, 2015, “On Malfunctioning Software”, *Synthese*, 192(4): 1199–1220. doi:10.1007/s11229-014-0610-3
-* Floyd, Robert W., 1979, “The Paradigms of Programming”, *Communications of the ACM*, 22(8): 455–460. doi:10.1145/1283920.1283934
-* Fowler, Martin, 2003, *UML Distilled: A Brief Guide to the Standard Object Modeling Language*, 3rd edition, Reading, MA: Addison-Wesley.
-* Franssen, Maarten, Gert-Jan Lokhorst, & Ibio van de Poel, 2013, “Philosophy of Technology”, *The Stanford Encyclopedia of Philosophy* (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[Philosophy of Technology (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/technology/)>.
+* Callahan, John, Francis Schneider, & Steve Easterbrook, 1996, “Automated Software Testing Using Model-Checking”, in _Proceeding Spin Workshop_, J.C. Gregoire, G.J. Holzmann and D. Peled (eds.), New Brunswick, NJ: Rutgers University, pp. 118–127.
+* Cardelli, Luca & Peter Wegner, 1985, “On Understanding Types, Data Abstraction, and Polymorphism”, 17(4): 471–522. \[[Cardelli and Wegner 1985 available online](http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf)]
+* Carnap, R., 1966, _Philosophical foundations of physics_ (Vol. 966), New York: Basic Books.
+* Carrara, M., Gaio, S., and Soavi, M., 2014, “Artifact kinds, identity criteria, and logical adequacy”, in M. Franssen, P. Kroes, T. Reydon and P. E. Vermaas (eds.), _Artefact Kinds: Ontology and The Human-made World_, New York: Springer, pp. 85–101.
+* Chalmers, A. F., 1999, _What is this thing called Science?_, Maidenhead: Open University Press
+* Chalmers, David J., 1996, “Does a Rock Implement Every Finite-State Automaton?” _Synthese_, 108(3): 309–33. \[[D.J. Chalmers 1996 available online](http://consc.net/papers/rock.html)] doi:10.1007/BF00413692
+* Clarke, Edmund M. Jr., Orna Grumberg, & Doron A. Peled, 1999, _Model Checking_, Cambridge, MA: The MIT Press.
+* Colburn, Timothy R., 1999, “Software, Abstraction, and Ontology”, _The Monist_, 82(1): 3–19. doi:10.5840/monist19998215
+* –––, 2000, _Philosophy and Computer Science_, Armonk, NY: M.E. Sharp.
+* Colburn, T. R., Fetzer, J. H. , and Rankin T. L., 1993, _Program Verification: Fundamental Issues in Computer Science_, Dordrecht: Kluwer Academic Publishers.
+* Colburn, Timothy & Gary Shute, 2007, “Abstraction in Computer Science”, _Minds and Machines_, 17(2): 169–184. doi:10.1007/s11023-007-9061-7
+* Copeland, B. Jack, 1993, _Artificial Intelligence: A Philosophical Introduction_, San Francisco: John Wiley & Sons.
+* –––, 1996, “What is Computation?” _Synthese_, 108(3): 335–359. doi:10.1007/BF00413693
+* –––, 2015, “The Church-Turing Thesis”, _The Stanford Encyclopedia of Philosophy_ (Summer 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2015/entries/church-turing/](https://plato.stanford.edu/archives/sum2015/entries/church-turing/).
+* Copeland, B. Jack & Oron Shagrir, 2007, “Physical Computation: How General are Gandy’s Principles for Mechanisms?” _Minds and Machines_, 17(2): 217–231. doi:10.1007/s11023-007-9058-2
+* –––, 2011, “Do Accelerating Turing Machines Compute the Uncomputable?” _Minds and Machines_, 21(2): 221–239. doi:10.1007/s11023-011-9238-y
+* Cummins, Robert, 1975, “Functional Analysis”, _The Journal of Philosophy_, 72(20): 741–765. doi:10.2307/2024640
+* Davidson, D., 1963, “Actions, Reasons, and Causes,” reprinted in _Essays on Actions and Events_, Oxford: Oxford University Press, 1980, pp. 3–20.
+* –––, 1978, “Intending”, reprinted in _Essays on Actions and Events_, Oxford: Oxford University Press, 1980, pp. 83–102.
+* De Millo, Richard A., Richard J. Lipton, & Alan J. Perlis, 1979, “Social Processes and Proofs of Theorems and Programs”, _Communications of the ACM_, 22(5): 271–281. doi:10.1145/359104.359106
+* Denning, Peter J., 2005, “Is Computer Science Science?”, _Communications of the ACM_, 48(4): 27–31. doi:10.1145/1053291.1053309
+* –––, 2007, “Computing is a Natural Science”, _Communications of the ACM_, 50(7): 13–18. doi:10.1145/1272516.1272529
+* Denning, Peter J., Edward A. Feigenbaum, Paul Gilmore, Anthony C. Hearn, Robert W. Ritchie, & Joseph F. Traub, 1981, “A Discipline in Crisis”, _Communications of the ACM_, 24(6): 370–374. doi:10.1145/358669.358682
+* Devlin, Keith, 1994, _Mathematics: The Science of Patterns: The Search for Order in Life, Mind, and the Universe_, New York: Henry Holt.
+* Dijkstra, Edsger W., 1970, _Notes on Structured Programming_, T.H.-Report 70-WSK-03, Mathematics Technological University Eindhoven, The Netherlands. \[[Dijkstra 1970 available online](http://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF)]
+* –––, 1974, “Programming as a Discipline of Mathematical Nature”, _American Mathematical Monthly_, 81(6): 608–612. \[[Dijkstra 1974 available online](http://www.cs.utexas.edu/\~EWD/transcriptions/EWD03xx/EWD361.html)
+* Distributed Software Engineering, 1997, _The Darwin Language_, Department of Computing, Imperial College of Science, Technology and Medicine, London. \[[Darwin language 1997 available online](http://www.cs.toronto.edu/\~chechik/courses00/ece450/darwin-lang.pdf)]
+* Duhem, P., 1954, _The Aim and Structure of Physical Theory_, Princeton: Princeton University Press.
+* Duijf, H., Broersen, J., and Meyer, J. J. C., 2019, “Conflicting intentions: rectifying the consistency requirements”, _Philosophical Studies_, 176(4): 1097–1118.
+* Dummett, Michael A.E., 2006, _Thought and Reality_, Oxford: Oxford University Press.
+* Duncan, William, 2011, “Using Ontological Dependence to Distinguish between Hardware and Software”, _Proceedings of the Society for the Study of Artificial Intelligence and Simulation of Behavior Conference: Computing and Philosophy_, University of York, York, UK. \[[Duncan 2011 available online (zip file)](http://www.aisb.org.uk/publications/proceedings/aisb2011.zip)]
+* –––, 2017, “Ontological Distinctions between Hardware and Software”, _Applied Ontology_, 12(1): 5–32.
+* Eden, Amnon H., 2007, “Three Paradigms of Computer Science”, _Minds and Machines_, 17(2): 135–167. doi:10.1007/s11023-007-9060-8
+* Egan, Frances, 1992, “Individualism, Computation, and Perceptual Content”, _Mind_, 101(403): 443–59. doi:10.1093/mind/101.403.443
+* Edgar, Stacey L., 2003 \[1997], _Morality and Machines: Perspectives on Computer Ethics_, Sudbury, MA: Jones & Bartlett Learning.
+* Ferrero, L., 2017, “Intending, Acting, and Doing,” _Philosophical Explorations_, 20 (Supplement 2): 13–39.
+* Fernández, Maribel, 2004, _Programming Languages and Operational Semantics: An Introduction_, London: King’s College Publications.
+* Fetzer, James H., 1988, “Program Verification: The Very Idea”, _Communications of the ACM_, 31(9): 1048–1063. doi:10.1145/48529.48530
+* –––, 1990, _Artificial Intelligence: Its Scope and Limits_, Dordrecht: Springer Netherlands.
+* Feynman, Richard P., 1984–1986, _Feynman Lectures on Computation_, Cambridge, MA: Westview Press, 2000.
+* Flanagan, Mary, Daniel C. Howe, & Helen Nissenbaum, 2008, “Embodying Values in Technology: Theory and Practice”, in _Information Technology and Moral Philosophy_, Jeroen van den Hoven and John Weckert (eds.), Cambridge: Cambridge University Press, pp. 322–353.
+* Floridi, Luciano, 2008, “The Method of Levels of Abstraction”, _Minds and Machines_, 18(3): 303–329. doi:10.1007/s11023-008-9113-7
+* Floridi, Luciano, Nir Fresco, & Giuseppe Primiero, 2015, “On Malfunctioning Software”, _Synthese_, 192(4): 1199–1220. doi:10.1007/s11229-014-0610-3
+* Floyd, Robert W., 1979, “The Paradigms of Programming”, _Communications of the ACM_, 22(8): 455–460. doi:10.1145/1283920.1283934
+* Fowler, Martin, 2003, _UML Distilled: A Brief Guide to the Standard Object Modeling Language_, 3rd edition, Reading, MA: Addison-Wesley.
+* Franssen, Maarten, Gert-Jan Lokhorst, & Ibio van de Poel, 2013, “Philosophy of Technology”, _The Stanford Encyclopedia of Philosophy_ (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[Philosophy of Technology (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/technology/)>.
 * Frege, Gottlob, 1914, “Letter to Jourdain”, reprinted in Frege 1980: 78–80.
-* –––, 1980, Gottlob Frege: *Philosophical and Mathematical Correspondence*, G. Gabriel, H. Hermes, F. Kambartel, C. Thiel, and A. Veraart (eds.), Oxford: Blackwell Publishers.
-* Fresco, Nir & Giuseppe Primiero, 2013, “Miscomputation”, *Philosophy & Technology*, 26(3): 253–272. doi:10.1007/s13347-013-0112-0
-* Friedman, Batya & Helen Nissenbaum, 1996, “Bias in Computer Systems”, *ACM Transactions on Information Systems (TOIS)*, 14(3): 330–347. doi:10.1145/230538.230561
-* Frigg, Roman & Stephan Hartmann, 2012, “Models in Science”, *The Stanford Encyclopedia of Philosophy* (Fall 2012 Edition), Edward N. Zalta (ed.), URL =<[Models in Science (Stanford Encyclopedia of Philosophy/Fall 2012 Edition)](https://plato.stanford.edu/archives/fall2012/entries/models-science/)>.
-* Gagliardi, Francesco, 2007, “Epistemological Justification of Test Driven Development in Agile Processes”, *Agile Processes in Software Engineering and Extreme Programming: Proceedings of the 8th International Conference, XP 2007*, Como, Italy, June 18–22, 2007, Berlin: Springer Berlin Heidelberg, pp. 253–256. doi:10.1007/978-3-540-73101-6_48
-* Gamma, Erich, Richard Helm, Ralph Johnson, & John Vlissides, 1994, *Design Patterns: Elements of Reusable Object-Oriented Software*, Reading, MA: Addison-Wesley.
-* Glennan, Stuart S., 1996, “Mechanisms and the Nature of Causation”, *Erkenntnis*, 44(1): 49–71. doi:10.1007/BF00172853
-* Glüer, Kathrin & Åsa Wikforss, 2015, “The Normativity of Meaning and Content”, *The Stanford Encyclopedia of Philosophy* (Summer 2015 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2015/entries/meaning-normativity/>.
-* Goguen, Joseph A. & Rod M. Burstall, 1985, “Institutions: Abstract Model Theory for Computer Science”, *Report CSLI-85-30*, Center for the Study of Language and Information at Stanford University.
-* –––, 1992, “Institutions: Abstract Model Theory for Specification and Programming”, *Journal of the ACM (JACM)*, 39(1): 95–146. doi:10.1145/147508.147524
-* Gordon, Michael J.C., 1979, *The Denotational Description of Programming Languages*, New York: Springer-Verlag.
-* Gotterbarn, Donald, 1991, “Computer Ethics: Responsibility Regained”, *National Forum: The Phi Beta Kappa Journal*, 71(3): 26–31.
-* –––, 2001, “Informatics and Professional Responsibility”, *Science and Engineering Ethics*, 7(2): 221–230. doi:10.1007/s11948-001-0043-5
-* Gotterbarn, Donald, Keith Miller, & Simon Rogerson, 1997, “Software Engineering Code of Ethics”, *Information Society*, 40(11): 110–118. doi:10.1145/265684.265699
-* Gotterbarn, Donald & Keith W. Miller, 2009, “The Public is the Priority: Making Decisions Using the Software Engineering Code of Ethics”, *IEEE Computer*, 42(6): 66–73. doi:10.1109/MC.2009.204
-* Gruner, Stefan, 2011, “Problems for a Philosophy of Software Engineering”, *Minds and Machines*, 21(2): 275–299. doi:10.1007/s11023-011-9234-2
-* Gunter, Carl A., 1992, *Semantics of Programming Languages: Structures and Techniques*, Cambridge, MA: MIT Press.
-* Gupta, Anil, 2014, “Definitions”, *The Stanford Encyclopedia of Philosophy* (Fall 2014 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2014/entries/definitions/>.
-* Gurevich, Y., 2000, “Sequential Abstract-State Machines Capture Sequential Algorithms”, *ACM Transactions on Computational Logic (TOCL)*, 1(1): 77-111.
-* –––, 2012, “What is an algorithm?”, in *International conference on current trends in theory and practice of computer science*, Heidelberg, Berlin: Springer, pp. 31–42.
-* Hacking, I., 2014, *Why is there a Philosophy of Mathematics at all?*, Cambridge: Cambridge University Press.
-* Hagar, Amit, 2007, “Quantum Algorithms: Philosophical Lessons”, *Minds and Machines*, 17(2): 233–247. doi:10.1007/s11023-007-9057-3
-* Hale, Bob, 1987, *Abstract Objects*, Oxford: Basil Blackwell.
-* Hales, Thomas C., 2008, “Formal Proof”, *Notices of the American Mathematical Society*, 55(11): 1370–1380.
-* Hankin, Chris, 2004, *An Introduction to Lambda Calculi for Computer Scientists*, London: King’s College Publications.
-* Harrison, John, 2008, “Formal Proof—Theory and Practice”, *Notices of the American Mathematical Society*, 55(11): 1395–1406.
-* Hartmanis, Juris, 1981, “Nature of Computer Science and Its Paradigms”, pp. 353–354 (in Section 1) of “Quo Vadimus: Computer Science in a Decade”, J.F. Traub (ed.), *Communications of the ACM*, 24(6): 351–369. doi:10.1145/358669.358677
-* –––, 1993, “Some Observations About the Nature of Computer Science”, in *International Conference on Foundations of Software Technology and Theoretical Computer Science*, Springer Berlin Heidelberg, pp. 1–12. doi:10.1007/3-540-57529-4_39
-* Hayes, P. J., 1997, “What is a Computer?”, *The Monist*, 80(3): 389–404.
-* Hempel, C. G., 1970, “On the ‘standard conception’ of scientific theories”, *Minnesota Studies in the Philosophy of Science*, 4: 142–163.
-* Henson, Martin C., 1987, *Elements of Functional Programming*, Oxford: Blackwell.
-* Hilbert, David, 1931, “The Grounding of Elementary Number Theory”, reprinted in P. Mancosu (ed.), 1998, *From Brouwer to Hilbert: the Debate on the Foundations of Mathematics in the 1920s*, New York: Oxford University Press, pp. 266–273.
-* Hilbert, David & Wilhelm Ackermann, 1928, *Grundzüge Der Theoretischen Logik*, translated as *Principles of Mathematical Logic*, Lewis M. Hammond, George G. Leckie, and F. Steinhardt (trans.), New York: Chelsea, 1950.
-* Hill, R.K., 2016, “What an algorithm is”, *Philosophy & Technology*, 29(1): 35–59.
-* –––, 2018, “Elegance in Software”, in Liesbeth de Mol, Giuseppe Primiero (eds.), *Reflections on Programmings Systems - Historical and Philosophical Aspects (Philosophical Studies Series)*, Cham: Springer, pp. 273–286.
-* Hoare, C.A.R., 1969, “An Axiomatic Basis for Computer Programming”, *Communications of the ACM*, 12(10): 576–580. doi:10.1145/363235.363259
-* –––, 1973, “Notes on Data Structuring”, in O.J. Dahl, E.W. Dijkstra, and C.A.R. Hoare (eds.), *Structured Programming*, London: Academic Press, pp. 83–174.
-* –––, 1981, “The Emperor’s Old Clothes”, *Communications of the ACM*, 24(2): 75–83. doi:10.1145/1283920.1283936
-* –––, 1985, *Communicating Sequential Processes*, Englewood Cliffs, NJ: Prentice Hall. [[Hoare 1985 available online](http://www.usingcsp.com/)]
-* –––, 1986, *The Mathematics of Programming: An Inaugural Lecture Delivered Before the University of Oxford on Oct. 17, 1985*, Oxford: Oxford University Press.
-* Hodges, Andrews, 2011, “Alan Turing”, *The Stanford Encyclopedia of Philosophy* (Summer 2011 Edition), Edward N. Zalta (ed.), URL = <[Alan Turing (Stanford Encyclopedia of Philosophy/Summer 2011 Edition)](https://plato.stanford.edu/archives/sum2011/entries/turing/)>.
-* Hodges, Wilfrid, 2013, “Model Theory”, *The Stanford Encyclopedia of Philosophy* (Fall 2013 Edition), Edward N. Zalta (ed.), forthcoming URL = <[Model Theory (Stanford Encyclopedia of Philosophy/Fall 2013 Edition)](https://plato.stanford.edu/archives/fall2013/entries/model-theory/)>.
-* Hopcroft, John E. & Jeffrey D. Ullman, 1969, *Formal Languages and their Relation to Automata*, Reading, MA: Addison-Wesley.
-* Hughes, Justin, 1988, “The Philosophy of Intellectual Property”, *Georgetown Law Journal*, 77: 287.
-* Irmak, Nurbay, 2012, “Software is an Abstract Artifact”, *Grazer Philosophische Studien*, 86(1): 55–72.
-* Johnson, Christopher W., 2006, “What are Emergent Properties and How Do They Affect the Engineering of Complex Systems”, *Reliability Engineering and System Safety*, 91(12): 1475–1481. [[Johnson 2006 available online](http://www.dcs.gla.ac.uk/~johnson/papers/RESS/Complexity_Emergence_Editorial.pdf)]
-* Johnson-Laird, P. N., 1988, *The Computer and the Mind: An Introduction to Cognitive Science*, Cambridge, MA: Harvard University Press.
-* Jones, Cliff B., 1990 [1986], *Systematic Software Development Using VDM*, second edition, Englewood Cliffs, NJ: Prentice Hall. [[Jones 1990 available online](http://homepages.cs.ncl.ac.uk/cliff.jones/publications/)]
-* Kimppa, Kai, 2005, “Intellectual Property Rights in Software—Justifiable from a Liberalist Position? Free Software Foundation’s Position in Comparison to John Locke’s Concept of Property”, in R.A. Spinello & H.T. Tavani (eds.), *Intellectual Property Rights in a Networked World: Theory and Practice*, Hershey, PA: Idea, pp. 67–82.
-* Kinsella, N. Stephan, 2001, “Against Intellectual Property”, *Journal of Libertarian Studies*, 15(2): 1–53.
-* Kleene, S. C., 1967, *Mathematical Logic*, New York: Wiley.
-* Knuth, D. E., 1973, *The Art of Computer Programming*, second edition, Reading, MA: Addison-Wesley.
-* –––, 1974a, “Computer Programming as an Art”, *Communications of the ACM*, 17(12): 667–673. doi:10.1145/1283920.1283929
-* –––, 1974b, “Computer Science and Its Relation to Mathematics”, *The American Mathematical Monthly*, 81(4): 323–343.
-* –––, 1977, “Algorithms”, *Scientifc American*, 236(4): 63–80.
-* Kripke, Saul, 1982, *Wittgenstein on Rules and Private Language*, Cambridge, MA: Harvard University Press.
-* Kroes, Peter, 2010, “Engineering and the Dual Nature of Technical Artefacts”, *Cambridge Journal of Economics*, 34(1): 51–62. doi:10.1093/cje/bep019
-* –––, 2012, *Technical Artefacts: Creations of Mind and Matter: A Philosophy of Engineering Design*, Dordrecht: Springer.
-* Kroes, Peter & Anthonie Meijers, 2006, “The Dual Nature of Technical Artefacts”, *Studies in History and Philosophy of Science*, 37(1): 1–4. doi:10.1016/j.shpsa.2005.12.001
-* Kröger, Fred & Stephan Merz, 2008, *Temporal Logics and State Systems*, Berlin: Springer.
-* Ladd, John, 1988, “Computers and Moral Responsibility: a Framework for An Ethical Analysis”, in Carol C. Gould, (ed.), *The Information Web: Ethical & Social Implications of Computer Networking*, Boulder, CO: Westview Press, pp. 207–228.
-* Landin, P.J., 1964, “The Mechanical Evaluation of Expressions”, *The Computer Journal*, 6(4): 308–320. doi:10.1093/comjnl/6.4.308
-* Littlewood, Bev & Lorenzo Strigini, 2000, “Software Reliability and Dependability: a Roadmap”, *ICSE ’00 Proceedings of the Conference on the Future of Software Engineering*, pp. 175–188. doi:10.1145/336512.336551
-* Locke, John, 1690, *The Second Treatise of Government*. [[Locke 1690 available online](https://www.gutenberg.org/files/7370/7370-h/7370-h.htm)]
-* Loewenheim, Ulrich, 1989, “Legal Protection for Computer Programs in West Germany”, *Berkeley Technology Law Journal*, 4(2): 187–215. [[Loewenheim 1989 available online](http://scholarship.law.berkeley.edu/btlj/vol4/iss2/1/)] doi:10.15779/Z38Q67F
-* Long, Roderick T., 1995, “The Libertarian Case Against Intellectual Property Rights”, *Formulations*, Autumn, Free Nation Foundation.
-* Loui, Michael C. & Keith W. Miller, 2008, “Ethics and Professional Responsibility in Computing”, *Wiley Encyclopedia of Computer Science and Engineering*, Benjamin Wah (ed.), John Wiley & Sons. [[Loui and Miller 2008 available online](http://hdl.handle.net/2142/12247)]
-* Lowe, E. J., 1998, *The Possibility of Metaphysics: Substance, Identity, and Time*, Oxford: Clarendon Press.
-* Luckham, David C., 1998, “Rapide: A Language and Toolset for Causal Event Modeling of Distributed System Architectures”, in Y. Masunaga, T. Katayama, and M. Tsukamoto (eds.), *Worldwide Computing and its Applications*, WWCA’98, Berlin: Springer, pp. 88–96. doi:10.1007/3-540-64216-1_42
-* Machamer, Peter K., Lindley Darden, & Carl F. Craver, 2000, “Thinking About Mechanisms”, *Philosophy of Science*, 67(1): 1–25. doi:10.1086/392759
-* Magee, Jeff, Naranker Dulay, Susan Eisenbach, & Jeff Kramer, 1995, “Specifying Distributed Software Architectures”, *Proceedings of 5th European Software Engineering Conference (ESEC 95)*, Berlin: Springer-Verlag, pp. 137–153.
-* Markov, A., 1954, “Theory of algorithms”, Tr. Mat. Inst. Steklov 42, pp. 1–14. trans. by Edwin Hewitt in *American Mathematical Society Translations*, Series 2, Vol. 15 (1960).
-* Martin-Löf, Per, 1982, “Constructive Mathematics and Computer Programming”, in *Logic, Methodology and Philosophy of Science* (Volume VI: 1979), Amsterdam: North-Holland, pp. 153–175.
-* McGettrick, Andrew, 1980, *The Definition of Programming Languages*, Cambridge: Cambridge University Press.
-* McLaughlin, Peter, 2001, *What Functions Explain: Functional Explanation and Self-Reproducing Systems*, Cambridge: Cambridge University Press.
-* Meijers, A.W.M., 2001, “The Relational Ontology of Technical Artifacts”, in P.A. Kroes and A.W.M. Meijers (eds.), *The Empirical Turn in the Philosophy of Technology*, Amsterdam: Elsevier, pp. 81–96.
-* Mitchelmore, Michael & Paul White, 2004, “Abstraction in Mathematics and Mathematics Learning”, in M.J. Høines and A.B. Fuglestad (eds.), *Proceedings of the 28th Conference of the International Group for the Psychology of Mathematics Education (Volume 3)*, Bergen: Programm Committee, pp. 329–336. [[Mitchelmore and White 2004 available online](http://www.emis.de/proceedings/PME28/RR/RR031_Mitchelmore.pdf)]
-* Miller, Alexander & Crispin Wright (eds), 2002, *Rule Following and Meaning*, Montreal/Ithaca: McGill-Queen's University Press.
-* Milne, Robert & Christopher Strachey, 1976, *A Theory of Programming Language Semantics*, London: Chapman and Hall.
-* Milner, R., 1971, “An algebraic definition of simulation between programs”, Technical Report, *CS-205*, pp. 481–489, Department of Computer Science, Stanford University.
-* Mitchell, John C., 2003, *Concepts in Programming Languages*, Cambridge: Cambridge University Press.
-* Monin, Jean François, 2003, *Understanding Formal Methods*, Michael G. Hinchey (ed.), London: Springer (this is Monin's translation of his own Introduction aux Méthodes Formelles, Hermes, 1996, first edition; 2000, second edition), doi:10.1007/978-1-4471-0043-0
-* Mooers, Calvin N., 1975, “Computer Software and Copyright”, *ACM Computing Surveys*, 7(1): 45–72. doi:10.1145/356643.356647
-* Moor, James H., 1978, “Three Myths of Computer Science”, *The British Journal for the Philosophy of Science*, 29(3): 213–222.
-* Morgan, C., 1994, *Programming From Specifications*, Englewood Cliffs: Prentice Hall. [Morgan 1994 available online]
-* Moschovakis, Y. N., 2001, “What is an algorithm?”, in *Mathematics Unlimited—2001 and Beyond*, Heidelberg, Berlin: Springer, pp. 919–936.
-* Naur, P., 1985, “Programming as theory building”, *Microprocessing and microprogramming*, 15(5): 253–261.
-* Newell, A., and Simon, H. A., 1961, “Computer simulation of human thinking” *Science*, 134(3495): 2011–2017.
-* ––– 1972, *Human Problem Solving*, Englewood Cliffs, NJ: Prentice-Hall.
-* –––, 1976, “Computer Science as Empirical Inquiry: Symbols and Search”, *Communications of the ACM*, 19(3): 113–126. doi:10.1145/1283920.1283930
-* Newell, Allen, Alan J. Perlis, & Herbert A. Simon, 1967, “Computer Science”, *Science*, 157(3795): 1373–1374. doi:10.1126/science.157.3795.1373-b
-* Nissenbaum,Helen, 1998, “Values in the Design of Computer Systems”, *Computers and Society*, 28(1): 38–39.
-* Northover, Mandy, Derrick G. Kourie, Andrew Boake, Stefan Gruner, & Alan Northover, 2008, “Towards a Philosophy of Software Development: 40 Years After the Birth of Software Engineering”, *Journal for General Philosophy of Science*, 39(1): 85–113. doi:10.1007/s10838-008-9068-7
-* Pears, David Francis, 2006, *Paradox and Platitude in Wittgenstein’s Philosophy*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199247707.001.0001
-* Piccinini, Gualtiero, 2007, “Computing Mechanisms”, *Philosophy of Science*, 74(4): 501–526. doi:10.1086/522851
-* –––, 2008, “Computation without Representation”, *Philosophical Studies*, 137(2): 206–241. [[Piccinini 2008 available online](http://www.umsl.edu/~piccininig/Computation_without_Representation.pdf)] doi:10.1007/s11098-005-5385-4
-* –––, 2008, “Computers”, *Pacific Philosophical Quarterly*, 89: 32–73.
-* –––, 2015, *Physical Computation: A Mechanistic Account*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199658855.001.0001
-* Piccinini, Gualtiero & Carl Craver, 2011, “Integrating Psychology and Neuroscience: Functional Analyses as Mechanism Sketches”, *Synthese*, 183(3): 283–311. doi:10.1007/s11229-011-9898-4
-* Popper, Karl R., 1959, *The Logic of Scientific Discovery*, London: Hutchinson.
-* Primiero, G., 2016, “Information in the philosophy of computer science”, in Floridi L. (ed.), *The Routledge Handbook of Philosophy of Information*, London: Routledge, pp. 90–106.
-* –––, 2020, *On the Foundations of Computing*. New York: Oxford University Press.
-* Primiero, G., D.F. Solheim & J.M. Spring, 2019 “On Malfunction, Mechanisms and Malware Classification”, *Philos. Technol*. 32: 339–362. https://doi.org/10.1007/s13347-018-0334-2
-* Pylyshyn, Z. W., 1984, *Computation and Cognition: Towards a Foundation for Cognitive Science*, Cambridge, MA: MIT Press.
-* Pym, D., J.M. Spring, & P. O’Hearn, 2019, “Why Separation Logic Works”, *Philosophy & Technology*, 32: 483–516.
-* Rapaport, William J., 1995, “Understanding Understanding: Syntactic Semantics and Computational Cognition”, in Tomberlin (ed.), *Philosophical Perspectives*, Vol. 9: AI, Connectionism, and Philosophical Psychology, Atascadero, CA: Ridgeview, pp. 49–88. [[Rapaport 1995 available online](http://www.cse.buffalo.edu/~rapaport/Papers/rapaport95-uu.pdf)] doi:10.2307/2214212
-* –––, 1999, “Implementation Is Semantic Interpretation”, *The Monist*, 82(1): 109–30. [[Rapaport 1999 available online](http://www.cse.buffalo.edu/~rapaport/Papers/monist.pdf)]
-* –––, 2005, “Implementation as Semantic Interpretation: Further Thoughts”, *Journal of Experimental& Theoretical Artificial Intelligence*, 17(4): 385–417. [[Rapaport 2005 available online](http://www.cse.buffalo.edu/~rapaport/Papers/jetai05.pdf)]
-* –––, 2012, “Semiotic systems, computers, and the mind: how cognition could be computing”, *International Journal of Signs and Semiotic Systems*, 2(1): 32–71
-* –––, 2018, “What is a Computer? A Survey”, *Minds and Machines*, 28(3): 385–426.
-* Reynolds, J.C., 2002, “Separation Logic: a logic for shared mutable data structures”, in *Proceedings of the 17th Annual IEEE Symposium on Logic in Computer Science*, IEEE, pp. 55–74.
-* Rombach, Dieter & Frank Seelisch, 2008, “Formalisms in Software Engineering: Myths Versus Empirical Facts”, in *Balancing Agility and Formalism in Software Engineering*, Springer Berlin Heidelberg, pp. 13–25. doi:10.1007/978-3-540-85279-7_2
-* Rosenberg, A., 2012, *The Philosophy of Science*, London: Routledge.
-* Ryle G., 1949 [2009], *The Concept of Mind*, Abingdon: Routledge
-* Schiaffonati, Viola, 2015, “Stretching the Traditional Notion of Experiment in Computing: Explorative Experiments”, *Science and Engineering Ethics*, 22(3): 1–19. doi:10.1007/s11948-015-9655-z
-* Schiaffonati, Viola & Mario Verdicchio, 2014, “Computing and Experiments”, *Philosophy & Technology*, 27(3): 359–376. doi:10.1007/s13347-013-0126-7
-* Searle, J. R., 1990, “Is the brain a digital computer?” *Proceedings and Addresses of the American Philosophical Association*, 64(3): 21–37.
-* Searle, John R., 1995, *The Construction of Social Reality*, New York: Free Press.
-* Setiya, K., “Intention”, *The Stanford Encyclopedia of Philosophy* (Fall 2018 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2018/entries/intention/>.
-* Shanker, S.G., 1987, “Wittgenstein versus Turing on the Nature of Church’s Thesis”, *Notre Dame Journal of Formal Logic*, 28(4): 615–649. [[Shanker 1987 available online](http://projecteuclid.org/euclid.ndjfl/1093637650)] doi:10.1305/ndjfl/1093637650
-* Shavell, Steven & Tanguy van Ypersele, 2001, “Rewards Versus Intellectual Property Rights”, *Journal of Law and Economics*, 44: 525–547
-* Skemp, Richard R., 1987, *The Psychology of Learning Mathematics*, Hillsdale, NJ: Lawrence Erlbaum Associates.
-* Smith, Brian Cantwell, 1985, “The Limits of Correctness in Computers”, *ACM SIGCAS Computers and Society*, 14–15(1–4): 18–26. doi:10.1145/379486.379512
-* Snelting, Gregor, 1998, “Paul Feyerabend and Software Technology”, *Software Tools for Technology Transfer*, 2(1): 1–5. doi:10.1007/s100090050013
-* Sommerville, Ian, 2016 [1982], *Software Engineering*, Reading, MA: Addison-Wesley; first edition, 1982.
-* Sprevak, M., 2010, “Computation, individuation, and the received view on representation”, *Studies in History and Philosophy of Science*, 41(3): 260–270.
-* –––, 2012, “Three Challenges to Chalmers on Computational Implementation”, *Journal of Cognitive Science*, 13(2): 107–143.
-* Stoy, Joseph E., 1977, *Denotational Semantics: The Scott-Strachey Approach to Programming Language Semantics*, Cambridge, MA: MIT Press.
-* Strachey, Christopher, 2000, “Fundamental Concepts in Programming Languages”, *Higher-Order and Symbolic Computation*, 13(1–2): 11–49. doi:10.1023/A:1010000313106
-* Suber, Peter, 1988, “What Is Software?” *Journal of Speculative Philosophy*, 2(2): 89–119. [[Suber 1988 available online](https://dash.harvard.edu/bitstream/handle/1/3715472/suber_software.html)]
-* Summerville, I., 2012, *Software Engineering*, Reading, MA: Addison-Wesley; first edition, 1982.
-* Suppe, Frederick, 1989, *The Semantic Conception of Theories and Scientific Realism*, Chicago: University of Illinois Press.
-* Suppes, Patrick, 1960, “A Comparison of the Meaning and Uses of Models in Mathematics and the Empirical Sciences”, *Synthese*, 12(2): 287–301. doi:10.1007/BF00485107
-* –––, 1969, “Models of Data”, in *Studies in the Methodology and Foundations of Science*, Dordrecht: Springer Netherlands, pp. 24–35.
-* Technical Correspondence, Corporate, 1989, *Communications of the ACM*, 32(3): 374–381. Letters from James C. Pleasant, Lawrence Paulson/Avra Cohen/Michael Gordon, William Bevier/Michael Smith/William Young, Thomas Clune, Stephen Savitzky, James Fetzer. doi:10.1145/62065.315927
-* Tedre, Matti, 2011, “Computing as a Science: A Survey of Competing Viewpoints”, *Minds and Machines*, 21(3): 361–387. doi:10.1007/s11023-011-9240-4
-* –––, 2015, *The Science of Computing: Shaping a Discipline*, Boca Raton: CRC Press, Taylor and Francis Group.
-* Tedre, Matti & Ekki Sutinen, 2008, “Three Traditions of Computing: What Educators Should Know”, *Computer Science Education*, 18(3): 153–170. doi:10.1080/08993400802332332
-* Thagard, P., 1984, “Computer programs as psychological theories”, *Mind, Language and Society*, Vienna: Conceptus-Studien, pp. 77–84.
-* Thomasson, Amie, 2007, “Artifacts and Human Concepts”, in Eric Margolis and Stephen Laurence (eds.), *Creations of the Mind: Essays on Artifacts and Their Representations*, Oxford: Oxford University Press, pp. 52–73.
-* Thompson, Simon, 2011, *Haskell: The Craft of Functional Programming*, third edition, Reading, MA: Addison-Wesley; first edition, 1996.
-* Tichy, Walter F., 1998, “Should Computer Scientists Experiment More?”, *IEEE Computer*, 31(5): 32–40. doi:10.1109/2.675631
-* Turing, A.M., 1936, “On Computable Numbers, with an Application to the Entscheidungsproblem”, *Proceedings of the London Mathematical Society (Series 2)*, 42: 230–65. doi:10.1112/plms/s2-42.1.230
-* –––, 1950, “Computing Machinery and Intelligence”, *Mind*, 59(236): 433–460. doi:10.1093/mind/LIX.236.433
-* Turner, Raymond, 2007, “Understanding Programming Languages”, *Minds and Machines*, 17(2): 203–216. doi:10.1007/s11023-007-9062-6
-* –––, 2009a, *Computable Models*, Berlin: Springer. doi:10.1007/978-1-84882-052-4
-* –––, 2009b, “The Meaning of Programming Languages”, *APA Newsletters*, 9(1): 2–7. (This APA Newsletter is available online; see the Other Internet Resources.)
-* –––, 2010, “Programming Languages as Mathematical Theories”, in J. Vallverdú (ed.), *Thinking Machines and the Philosophy of Computer Science: Concepts and Principles*, Hershey, PA: IGI Global, pp. 66–82.
-* –––, 2011, “Specification”, *Minds and Machines*, 21(2): 135–152. doi:10.1007/s11023-011-9239-x
-* –––, 2012, “Machines”, in H. Zenil (ed.), *A Computable Universe: Understanding and Exploring Nature as Computation*, London: World Scientific Publishing Company/Imperial College Press, pp. 63–76.
-* –––, 2014, “Programming Languages as Technical Artefacts”, *Philosophy and Technology*, 27(3): 377–397; first published online 2013. doi:10.1007/s13347–012–0098-z
-* –––, 2018, *Computational artifacts: Towards a philosophy of computer science*, Berlin Heidelberg: Springer.
-* Tymoczko, Thomas, 1979, “The Four Color Problem and Its Philosophical Significance”, *The Journal of Philosophy*, 76(2): 57–83. doi:10.2307/2025976
-* –––, 1980, “Computers, Proofs and Mathematicians: A Philosophical Investigation of the Four-Color Proof”, *Mathematics Magazine*, 53(3): 131–138.
-* Van Fraassen, Bas C., 1980, *The Scientific Image*, Oxford: Oxford University Press. doi:10.1093/0198244274.001.0001
-* –––, 1989, *Laws and Symmetry*, Oxford: Oxford University Press. doi:10.1093/0198248601.001.0001
-* Van Leeuwen, Jan (ed.), 1990, *Handbook of Theoretical Computer Science. Volume B: Formal Models and Semantics*, Amsterdam: Elsevier and Cambridge, MA: MIT Press.
-* Vardi, M., 2012, “What is an algorithm?”, *Communications of the ACM*, 55(3): 5. doi:10.1145/2093548.2093549
-* Vermaas, Pieter E. & Wybo Houkes, 2003, “Ascribing Functions to Technical Artifacts: A Challenge to Etiological Accounts of Function”, *British Journal of the Philosophy of Science*, 54: 261–289. [[Vermaas and Houkes 2003 available online](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.5.5058)]
-* Vliet, Hans van, 2008, *Software Engineering: Principles and Practice*, 3rd edition, Hoboken, NJ: Wiley. (First edition, 1993)
-* von Neumann, J. (1945). “First draft report on the EDVAC”, *IEEE Annals of the History of Computing*, 15(4): 27–75.
-* Wang, Hao, 1974, *From Mathematics to Philosophy*, London: Routledge, Kegan & Paul.
-* Wegner, Peter, 1976, “Research Paradigms in Computer Science”, in *Proceedings of the 2nd international Conference on Software Engineering*, Los Alamitos, CA: IEEE Computer Society Press, pp. 322–330.
-* White, Graham, 2003, “The Philosophy of Computer Languages”, in Luciano Floridi (ed.), *The Blackwell Guide to the Philosophy of Computing and Information*, Malden: Wiley-Blackwell, pp. 318–326. doi:10.1111/b.9780631229193.2003.00020.x
-* Wiener, Norbert, 1948, *Cybernetics: Control and Communication in the Animal and the Machine*, New York: Wiley & Sons.
-* –––, 1964, *God and Golem, Inc.: A Comment on Certain Points Where Cybernetics Impinges on Religion*, Cambridge, MA: MIT press.
-* Wittgenstein, Ludwig, 1953 [2001], *Philosophical Investigations*, translated by G.E.M. Anscombe, 3rd Edition, Oxford: Blackwell Publishing.
-* –––, 1956 [1978], *Remarks of the Foundations of Mathematics*, G.H. von Wright, R. Rhees, and G.E.M. Anscombe (eds.), translated by G.E.M. Anscombe, revised edition, Oxford: Basil Blackwell.
-* –––, 1939 [1975], *Wittgenstein’s Lectures on the Foundations of Mathematics, Cambridge 1939*, C. Diamond (ed.), Cambridge: Cambridge University Press.
-* Woodcock, Jim & Jim Davies, 1996, *Using Z: Specification, Refinement, and Proof*, Englewood Cliffs, NJ: Prentice Hall.
-* Wright, Crispin 1983, *Frege’s Conception of Numbers as Objects*, Aberdeen: Aberdeen University Press.
+* –––, 1980, Gottlob Frege: _Philosophical and Mathematical Correspondence_, G. Gabriel, H. Hermes, F. Kambartel, C. Thiel, and A. Veraart (eds.), Oxford: Blackwell Publishers.
+* Fresco, Nir & Giuseppe Primiero, 2013, “Miscomputation”, _Philosophy & Technology_, 26(3): 253–272. doi:10.1007/s13347-013-0112-0
+* Friedman, Batya & Helen Nissenbaum, 1996, “Bias in Computer Systems”, _ACM Transactions on Information Systems (TOIS)_, 14(3): 330–347. doi:10.1145/230538.230561
+* Frigg, Roman & Stephan Hartmann, 2012, “Models in Science”, _The Stanford Encyclopedia of Philosophy_ (Fall 2012 Edition), Edward N. Zalta (ed.), URL =<[Models in Science (Stanford Encyclopedia of Philosophy/Fall 2012 Edition)](https://plato.stanford.edu/archives/fall2012/entries/models-science/)>.
+* Gagliardi, Francesco, 2007, “Epistemological Justification of Test Driven Development in Agile Processes”, _Agile Processes in Software Engineering and Extreme Programming: Proceedings of the 8th International Conference, XP 2007_, Como, Italy, June 18–22, 2007, Berlin: Springer Berlin Heidelberg, pp. 253–256. doi:10.1007/978-3-540-73101-6\_48
+* Gamma, Erich, Richard Helm, Ralph Johnson, & John Vlissides, 1994, _Design Patterns: Elements of Reusable Object-Oriented Software_, Reading, MA: Addison-Wesley.
+* Glennan, Stuart S., 1996, “Mechanisms and the Nature of Causation”, _Erkenntnis_, 44(1): 49–71. doi:10.1007/BF00172853
+* Glüer, Kathrin & Åsa Wikforss, 2015, “The Normativity of Meaning and Content”, _The Stanford Encyclopedia of Philosophy_ (Summer 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2015/entries/meaning-normativity/](https://plato.stanford.edu/archives/sum2015/entries/meaning-normativity/).
+* Goguen, Joseph A. & Rod M. Burstall, 1985, “Institutions: Abstract Model Theory for Computer Science”, _Report CSLI-85-30_, Center for the Study of Language and Information at Stanford University.
+* –––, 1992, “Institutions: Abstract Model Theory for Specification and Programming”, _Journal of the ACM (JACM)_, 39(1): 95–146. doi:10.1145/147508.147524
+* Gordon, Michael J.C., 1979, _The Denotational Description of Programming Languages_, New York: Springer-Verlag.
+* Gotterbarn, Donald, 1991, “Computer Ethics: Responsibility Regained”, _National Forum: The Phi Beta Kappa Journal_, 71(3): 26–31.
+* –––, 2001, “Informatics and Professional Responsibility”, _Science and Engineering Ethics_, 7(2): 221–230. doi:10.1007/s11948-001-0043-5
+* Gotterbarn, Donald, Keith Miller, & Simon Rogerson, 1997, “Software Engineering Code of Ethics”, _Information Society_, 40(11): 110–118. doi:10.1145/265684.265699
+* Gotterbarn, Donald & Keith W. Miller, 2009, “The Public is the Priority: Making Decisions Using the Software Engineering Code of Ethics”, _IEEE Computer_, 42(6): 66–73. doi:10.1109/MC.2009.204
+* Gruner, Stefan, 2011, “Problems for a Philosophy of Software Engineering”, _Minds and Machines_, 21(2): 275–299. doi:10.1007/s11023-011-9234-2
+* Gunter, Carl A., 1992, _Semantics of Programming Languages: Structures and Techniques_, Cambridge, MA: MIT Press.
+* Gupta, Anil, 2014, “Definitions”, _The Stanford Encyclopedia of Philosophy_ (Fall 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2014/entries/definitions/](https://plato.stanford.edu/archives/fall2014/entries/definitions/).
+* Gurevich, Y., 2000, “Sequential Abstract-State Machines Capture Sequential Algorithms”, _ACM Transactions on Computational Logic (TOCL)_, 1(1): 77-111.
+* –––, 2012, “What is an algorithm?”, in _International conference on current trends in theory and practice of computer science_, Heidelberg, Berlin: Springer, pp. 31–42.
+* Hacking, I., 2014, _Why is there a Philosophy of Mathematics at all?_, Cambridge: Cambridge University Press.
+* Hagar, Amit, 2007, “Quantum Algorithms: Philosophical Lessons”, _Minds and Machines_, 17(2): 233–247. doi:10.1007/s11023-007-9057-3
+* Hale, Bob, 1987, _Abstract Objects_, Oxford: Basil Blackwell.
+* Hales, Thomas C., 2008, “Formal Proof”, _Notices of the American Mathematical Society_, 55(11): 1370–1380.
+* Hankin, Chris, 2004, _An Introduction to Lambda Calculi for Computer Scientists_, London: King’s College Publications.
+* Harrison, John, 2008, “Formal Proof—Theory and Practice”, _Notices of the American Mathematical Society_, 55(11): 1395–1406.
+* Hartmanis, Juris, 1981, “Nature of Computer Science and Its Paradigms”, pp. 353–354 (in Section 1) of “Quo Vadimus: Computer Science in a Decade”, J.F. Traub (ed.), _Communications of the ACM_, 24(6): 351–369. doi:10.1145/358669.358677
+* –––, 1993, “Some Observations About the Nature of Computer Science”, in _International Conference on Foundations of Software Technology and Theoretical Computer Science_, Springer Berlin Heidelberg, pp. 1–12. doi:10.1007/3-540-57529-4\_39
+* Hayes, P. J., 1997, “What is a Computer?”, _The Monist_, 80(3): 389–404.
+* Hempel, C. G., 1970, “On the ‘standard conception’ of scientific theories”, _Minnesota Studies in the Philosophy of Science_, 4: 142–163.
+* Henson, Martin C., 1987, _Elements of Functional Programming_, Oxford: Blackwell.
+* Hilbert, David, 1931, “The Grounding of Elementary Number Theory”, reprinted in P. Mancosu (ed.), 1998, _From Brouwer to Hilbert: the Debate on the Foundations of Mathematics in the 1920s_, New York: Oxford University Press, pp. 266–273.
+* Hilbert, David & Wilhelm Ackermann, 1928, _Grundzüge Der Theoretischen Logik_, translated as _Principles of Mathematical Logic_, Lewis M. Hammond, George G. Leckie, and F. Steinhardt (trans.), New York: Chelsea, 1950.
+* Hill, R.K., 2016, “What an algorithm is”, _Philosophy & Technology_, 29(1): 35–59.
+* –––, 2018, “Elegance in Software”, in Liesbeth de Mol, Giuseppe Primiero (eds.), _Reflections on Programmings Systems - Historical and Philosophical Aspects (Philosophical Studies Series)_, Cham: Springer, pp. 273–286.
+* Hoare, C.A.R., 1969, “An Axiomatic Basis for Computer Programming”, _Communications of the ACM_, 12(10): 576–580. doi:10.1145/363235.363259
+* –––, 1973, “Notes on Data Structuring”, in O.J. Dahl, E.W. Dijkstra, and C.A.R. Hoare (eds.), _Structured Programming_, London: Academic Press, pp. 83–174.
+* –––, 1981, “The Emperor’s Old Clothes”, _Communications of the ACM_, 24(2): 75–83. doi:10.1145/1283920.1283936
+* –––, 1985, _Communicating Sequential Processes_, Englewood Cliffs, NJ: Prentice Hall. \[[Hoare 1985 available online](http://www.usingcsp.com/)]
+* –––, 1986, _The Mathematics of Programming: An Inaugural Lecture Delivered Before the University of Oxford on Oct. 17, 1985_, Oxford: Oxford University Press.
+* Hodges, Andrews, 2011, “Alan Turing”, _The Stanford Encyclopedia of Philosophy_ (Summer 2011 Edition), Edward N. Zalta (ed.), URL = <[Alan Turing (Stanford Encyclopedia of Philosophy/Summer 2011 Edition)](https://plato.stanford.edu/archives/sum2011/entries/turing/)>.
+* Hodges, Wilfrid, 2013, “Model Theory”, _The Stanford Encyclopedia of Philosophy_ (Fall 2013 Edition), Edward N. Zalta (ed.), forthcoming URL = <[Model Theory (Stanford Encyclopedia of Philosophy/Fall 2013 Edition)](https://plato.stanford.edu/archives/fall2013/entries/model-theory/)>.
+* Hopcroft, John E. & Jeffrey D. Ullman, 1969, _Formal Languages and their Relation to Automata_, Reading, MA: Addison-Wesley.
+* Hughes, Justin, 1988, “The Philosophy of Intellectual Property”, _Georgetown Law Journal_, 77: 287.
+* Irmak, Nurbay, 2012, “Software is an Abstract Artifact”, _Grazer Philosophische Studien_, 86(1): 55–72.
+* Johnson, Christopher W., 2006, “What are Emergent Properties and How Do They Affect the Engineering of Complex Systems”, _Reliability Engineering and System Safety_, 91(12): 1475–1481. \[[Johnson 2006 available online](http://www.dcs.gla.ac.uk/\~johnson/papers/RESS/Complexity\_Emergence\_Editorial.pdf)]
+* Johnson-Laird, P. N., 1988, _The Computer and the Mind: An Introduction to Cognitive Science_, Cambridge, MA: Harvard University Press.
+* Jones, Cliff B., 1990 \[1986], _Systematic Software Development Using VDM_, second edition, Englewood Cliffs, NJ: Prentice Hall. \[[Jones 1990 available online](http://homepages.cs.ncl.ac.uk/cliff.jones/publications/)]
+* Kimppa, Kai, 2005, “Intellectual Property Rights in Software—Justifiable from a Liberalist Position? Free Software Foundation’s Position in Comparison to John Locke’s Concept of Property”, in R.A. Spinello & H.T. Tavani (eds.), _Intellectual Property Rights in a Networked World: Theory and Practice_, Hershey, PA: Idea, pp. 67–82.
+* Kinsella, N. Stephan, 2001, “Against Intellectual Property”, _Journal of Libertarian Studies_, 15(2): 1–53.
+* Kleene, S. C., 1967, _Mathematical Logic_, New York: Wiley.
+* Knuth, D. E., 1973, _The Art of Computer Programming_, second edition, Reading, MA: Addison-Wesley.
+* –––, 1974a, “Computer Programming as an Art”, _Communications of the ACM_, 17(12): 667–673. doi:10.1145/1283920.1283929
+* –––, 1974b, “Computer Science and Its Relation to Mathematics”, _The American Mathematical Monthly_, 81(4): 323–343.
+* –––, 1977, “Algorithms”, _Scientifc American_, 236(4): 63–80.
+* Kripke, Saul, 1982, _Wittgenstein on Rules and Private Language_, Cambridge, MA: Harvard University Press.
+* Kroes, Peter, 2010, “Engineering and the Dual Nature of Technical Artefacts”, _Cambridge Journal of Economics_, 34(1): 51–62. doi:10.1093/cje/bep019
+* –––, 2012, _Technical Artefacts: Creations of Mind and Matter: A Philosophy of Engineering Design_, Dordrecht: Springer.
+* Kroes, Peter & Anthonie Meijers, 2006, “The Dual Nature of Technical Artefacts”, _Studies in History and Philosophy of Science_, 37(1): 1–4. doi:10.1016/j.shpsa.2005.12.001
+* Kröger, Fred & Stephan Merz, 2008, _Temporal Logics and State Systems_, Berlin: Springer.
+* Ladd, John, 1988, “Computers and Moral Responsibility: a Framework for An Ethical Analysis”, in Carol C. Gould, (ed.), _The Information Web: Ethical & Social Implications of Computer Networking_, Boulder, CO: Westview Press, pp. 207–228.
+* Landin, P.J., 1964, “The Mechanical Evaluation of Expressions”, _The Computer Journal_, 6(4): 308–320. doi:10.1093/comjnl/6.4.308
+* Littlewood, Bev & Lorenzo Strigini, 2000, “Software Reliability and Dependability: a Roadmap”, _ICSE ’00 Proceedings of the Conference on the Future of Software Engineering_, pp. 175–188. doi:10.1145/336512.336551
+* Locke, John, 1690, _The Second Treatise of Government_. \[[Locke 1690 available online](https://www.gutenberg.org/files/7370/7370-h/7370-h.htm)]
+* Loewenheim, Ulrich, 1989, “Legal Protection for Computer Programs in West Germany”, _Berkeley Technology Law Journal_, 4(2): 187–215. \[[Loewenheim 1989 available online](http://scholarship.law.berkeley.edu/btlj/vol4/iss2/1/)] doi:10.15779/Z38Q67F
+* Long, Roderick T., 1995, “The Libertarian Case Against Intellectual Property Rights”, _Formulations_, Autumn, Free Nation Foundation.
+* Loui, Michael C. & Keith W. Miller, 2008, “Ethics and Professional Responsibility in Computing”, _Wiley Encyclopedia of Computer Science and Engineering_, Benjamin Wah (ed.), John Wiley & Sons. \[[Loui and Miller 2008 available online](http://hdl.handle.net/2142/12247)]
+* Lowe, E. J., 1998, _The Possibility of Metaphysics: Substance, Identity, and Time_, Oxford: Clarendon Press.
+* Luckham, David C., 1998, “Rapide: A Language and Toolset for Causal Event Modeling of Distributed System Architectures”, in Y. Masunaga, T. Katayama, and M. Tsukamoto (eds.), _Worldwide Computing and its Applications_, WWCA’98, Berlin: Springer, pp. 88–96. doi:10.1007/3-540-64216-1\_42
+* Machamer, Peter K., Lindley Darden, & Carl F. Craver, 2000, “Thinking About Mechanisms”, _Philosophy of Science_, 67(1): 1–25. doi:10.1086/392759
+* Magee, Jeff, Naranker Dulay, Susan Eisenbach, & Jeff Kramer, 1995, “Specifying Distributed Software Architectures”, _Proceedings of 5th European Software Engineering Conference (ESEC 95)_, Berlin: Springer-Verlag, pp. 137–153.
+* Markov, A., 1954, “Theory of algorithms”, Tr. Mat. Inst. Steklov 42, pp. 1–14. trans. by Edwin Hewitt in _American Mathematical Society Translations_, Series 2, Vol. 15 (1960).
+* Martin-Löf, Per, 1982, “Constructive Mathematics and Computer Programming”, in _Logic, Methodology and Philosophy of Science_ (Volume VI: 1979), Amsterdam: North-Holland, pp. 153–175.
+* McGettrick, Andrew, 1980, _The Definition of Programming Languages_, Cambridge: Cambridge University Press.
+* McLaughlin, Peter, 2001, _What Functions Explain: Functional Explanation and Self-Reproducing Systems_, Cambridge: Cambridge University Press.
+* Meijers, A.W.M., 2001, “The Relational Ontology of Technical Artifacts”, in P.A. Kroes and A.W.M. Meijers (eds.), _The Empirical Turn in the Philosophy of Technology_, Amsterdam: Elsevier, pp. 81–96.
+* Mitchelmore, Michael & Paul White, 2004, “Abstraction in Mathematics and Mathematics Learning”, in M.J. Høines and A.B. Fuglestad (eds.), _Proceedings of the 28th Conference of the International Group for the Psychology of Mathematics Education (Volume 3)_, Bergen: Programm Committee, pp. 329–336. \[[Mitchelmore and White 2004 available online](http://www.emis.de/proceedings/PME28/RR/RR031\_Mitchelmore.pdf)]
+* Miller, Alexander & Crispin Wright (eds), 2002, _Rule Following and Meaning_, Montreal/Ithaca: McGill-Queen's University Press.
+* Milne, Robert & Christopher Strachey, 1976, _A Theory of Programming Language Semantics_, London: Chapman and Hall.
+* Milner, R., 1971, “An algebraic definition of simulation between programs”, Technical Report, _CS-205_, pp. 481–489, Department of Computer Science, Stanford University.
+* Mitchell, John C., 2003, _Concepts in Programming Languages_, Cambridge: Cambridge University Press.
+* Monin, Jean François, 2003, _Understanding Formal Methods_, Michael G. Hinchey (ed.), London: Springer (this is Monin's translation of his own Introduction aux Méthodes Formelles, Hermes, 1996, first edition; 2000, second edition), doi:10.1007/978-1-4471-0043-0
+* Mooers, Calvin N., 1975, “Computer Software and Copyright”, _ACM Computing Surveys_, 7(1): 45–72. doi:10.1145/356643.356647
+* Moor, James H., 1978, “Three Myths of Computer Science”, _The British Journal for the Philosophy of Science_, 29(3): 213–222.
+* Morgan, C., 1994, _Programming From Specifications_, Englewood Cliffs: Prentice Hall. \[Morgan 1994 available online]
+* Moschovakis, Y. N., 2001, “What is an algorithm?”, in _Mathematics Unlimited—2001 and Beyond_, Heidelberg, Berlin: Springer, pp. 919–936.
+* Naur, P., 1985, “Programming as theory building”, _Microprocessing and microprogramming_, 15(5): 253–261.
+* Newell, A., and Simon, H. A., 1961, “Computer simulation of human thinking” _Science_, 134(3495): 2011–2017.
+* ––– 1972, _Human Problem Solving_, Englewood Cliffs, NJ: Prentice-Hall.
+* –––, 1976, “Computer Science as Empirical Inquiry: Symbols and Search”, _Communications of the ACM_, 19(3): 113–126. doi:10.1145/1283920.1283930
+* Newell, Allen, Alan J. Perlis, & Herbert A. Simon, 1967, “Computer Science”, _Science_, 157(3795): 1373–1374. doi:10.1126/science.157.3795.1373-b
+* Nissenbaum,Helen, 1998, “Values in the Design of Computer Systems”, _Computers and Society_, 28(1): 38–39.
+* Northover, Mandy, Derrick G. Kourie, Andrew Boake, Stefan Gruner, & Alan Northover, 2008, “Towards a Philosophy of Software Development: 40 Years After the Birth of Software Engineering”, _Journal for General Philosophy of Science_, 39(1): 85–113. doi:10.1007/s10838-008-9068-7
+* Pears, David Francis, 2006, _Paradox and Platitude in Wittgenstein’s Philosophy_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199247707.001.0001
+* Piccinini, Gualtiero, 2007, “Computing Mechanisms”, _Philosophy of Science_, 74(4): 501–526. doi:10.1086/522851
+* –––, 2008, “Computation without Representation”, _Philosophical Studies_, 137(2): 206–241. \[[Piccinini 2008 available online](http://www.umsl.edu/\~piccininig/Computation\_without\_Representation.pdf)] doi:10.1007/s11098-005-5385-4
+* –––, 2008, “Computers”, _Pacific Philosophical Quarterly_, 89: 32–73.
+* –––, 2015, _Physical Computation: A Mechanistic Account_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199658855.001.0001
+* Piccinini, Gualtiero & Carl Craver, 2011, “Integrating Psychology and Neuroscience: Functional Analyses as Mechanism Sketches”, _Synthese_, 183(3): 283–311. doi:10.1007/s11229-011-9898-4
+* Popper, Karl R., 1959, _The Logic of Scientific Discovery_, London: Hutchinson.
+* Primiero, G., 2016, “Information in the philosophy of computer science”, in Floridi L. (ed.), _The Routledge Handbook of Philosophy of Information_, London: Routledge, pp. 90–106.
+* –––, 2020, _On the Foundations of Computing_. New York: Oxford University Press.
+* Primiero, G., D.F. Solheim & J.M. Spring, 2019 “On Malfunction, Mechanisms and Malware Classification”, _Philos. Technol_. 32: 339–362. https://doi.org/10.1007/s13347-018-0334-2
+* Pylyshyn, Z. W., 1984, _Computation and Cognition: Towards a Foundation for Cognitive Science_, Cambridge, MA: MIT Press.
+* Pym, D., J.M. Spring, & P. O’Hearn, 2019, “Why Separation Logic Works”, _Philosophy & Technology_, 32: 483–516.
+* Rapaport, William J., 1995, “Understanding Understanding: Syntactic Semantics and Computational Cognition”, in Tomberlin (ed.), _Philosophical Perspectives_, Vol. 9: AI, Connectionism, and Philosophical Psychology, Atascadero, CA: Ridgeview, pp. 49–88. \[[Rapaport 1995 available online](http://www.cse.buffalo.edu/\~rapaport/Papers/rapaport95-uu.pdf)] doi:10.2307/2214212
+* –––, 1999, “Implementation Is Semantic Interpretation”, _The Monist_, 82(1): 109–30. \[[Rapaport 1999 available online](http://www.cse.buffalo.edu/\~rapaport/Papers/monist.pdf)]
+* –––, 2005, “Implementation as Semantic Interpretation: Further Thoughts”, _Journal of Experimental& Theoretical Artificial Intelligence_, 17(4): 385–417. \[[Rapaport 2005 available online](http://www.cse.buffalo.edu/\~rapaport/Papers/jetai05.pdf)]
+* –––, 2012, “Semiotic systems, computers, and the mind: how cognition could be computing”, _International Journal of Signs and Semiotic Systems_, 2(1): 32–71
+* –––, 2018, “What is a Computer? A Survey”, _Minds and Machines_, 28(3): 385–426.
+* Reynolds, J.C., 2002, “Separation Logic: a logic for shared mutable data structures”, in _Proceedings of the 17th Annual IEEE Symposium on Logic in Computer Science_, IEEE, pp. 55–74.
+* Rombach, Dieter & Frank Seelisch, 2008, “Formalisms in Software Engineering: Myths Versus Empirical Facts”, in _Balancing Agility and Formalism in Software Engineering_, Springer Berlin Heidelberg, pp. 13–25. doi:10.1007/978-3-540-85279-7\_2
+* Rosenberg, A., 2012, _The Philosophy of Science_, London: Routledge.
+* Ryle G., 1949 \[2009], _The Concept of Mind_, Abingdon: Routledge
+* Schiaffonati, Viola, 2015, “Stretching the Traditional Notion of Experiment in Computing: Explorative Experiments”, _Science and Engineering Ethics_, 22(3): 1–19. doi:10.1007/s11948-015-9655-z
+* Schiaffonati, Viola & Mario Verdicchio, 2014, “Computing and Experiments”, _Philosophy & Technology_, 27(3): 359–376. doi:10.1007/s13347-013-0126-7
+* Searle, J. R., 1990, “Is the brain a digital computer?” _Proceedings and Addresses of the American Philosophical Association_, 64(3): 21–37.
+* Searle, John R., 1995, _The Construction of Social Reality_, New York: Free Press.
+* Setiya, K., “Intention”, _The Stanford Encyclopedia of Philosophy_ (Fall 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2018/entries/intention/](https://plato.stanford.edu/archives/fall2018/entries/intention/).
+* Shanker, S.G., 1987, “Wittgenstein versus Turing on the Nature of Church’s Thesis”, _Notre Dame Journal of Formal Logic_, 28(4): 615–649. \[[Shanker 1987 available online](http://projecteuclid.org/euclid.ndjfl/1093637650)] doi:10.1305/ndjfl/1093637650
+* Shavell, Steven & Tanguy van Ypersele, 2001, “Rewards Versus Intellectual Property Rights”, _Journal of Law and Economics_, 44: 525–547
+* Skemp, Richard R., 1987, _The Psychology of Learning Mathematics_, Hillsdale, NJ: Lawrence Erlbaum Associates.
+* Smith, Brian Cantwell, 1985, “The Limits of Correctness in Computers”, _ACM SIGCAS Computers and Society_, 14–15(1–4): 18–26. doi:10.1145/379486.379512
+* Snelting, Gregor, 1998, “Paul Feyerabend and Software Technology”, _Software Tools for Technology Transfer_, 2(1): 1–5. doi:10.1007/s100090050013
+* Sommerville, Ian, 2016 \[1982], _Software Engineering_, Reading, MA: Addison-Wesley; first edition, 1982.
+* Sprevak, M., 2010, “Computation, individuation, and the received view on representation”, _Studies in History and Philosophy of Science_, 41(3): 260–270.
+* –––, 2012, “Three Challenges to Chalmers on Computational Implementation”, _Journal of Cognitive Science_, 13(2): 107–143.
+* Stoy, Joseph E., 1977, _Denotational Semantics: The Scott-Strachey Approach to Programming Language Semantics_, Cambridge, MA: MIT Press.
+* Strachey, Christopher, 2000, “Fundamental Concepts in Programming Languages”, _Higher-Order and Symbolic Computation_, 13(1–2): 11–49. doi:10.1023/A:1010000313106
+* Suber, Peter, 1988, “What Is Software?” _Journal of Speculative Philosophy_, 2(2): 89–119. \[[Suber 1988 available online](https://dash.harvard.edu/bitstream/handle/1/3715472/suber\_software.html)]
+* Summerville, I., 2012, _Software Engineering_, Reading, MA: Addison-Wesley; first edition, 1982.
+* Suppe, Frederick, 1989, _The Semantic Conception of Theories and Scientific Realism_, Chicago: University of Illinois Press.
+* Suppes, Patrick, 1960, “A Comparison of the Meaning and Uses of Models in Mathematics and the Empirical Sciences”, _Synthese_, 12(2): 287–301. doi:10.1007/BF00485107
+* –––, 1969, “Models of Data”, in _Studies in the Methodology and Foundations of Science_, Dordrecht: Springer Netherlands, pp. 24–35.
+* Technical Correspondence, Corporate, 1989, _Communications of the ACM_, 32(3): 374–381. Letters from James C. Pleasant, Lawrence Paulson/Avra Cohen/Michael Gordon, William Bevier/Michael Smith/William Young, Thomas Clune, Stephen Savitzky, James Fetzer. doi:10.1145/62065.315927
+* Tedre, Matti, 2011, “Computing as a Science: A Survey of Competing Viewpoints”, _Minds and Machines_, 21(3): 361–387. doi:10.1007/s11023-011-9240-4
+* –––, 2015, _The Science of Computing: Shaping a Discipline_, Boca Raton: CRC Press, Taylor and Francis Group.
+* Tedre, Matti & Ekki Sutinen, 2008, “Three Traditions of Computing: What Educators Should Know”, _Computer Science Education_, 18(3): 153–170. doi:10.1080/08993400802332332
+* Thagard, P., 1984, “Computer programs as psychological theories”, _Mind, Language and Society_, Vienna: Conceptus-Studien, pp. 77–84.
+* Thomasson, Amie, 2007, “Artifacts and Human Concepts”, in Eric Margolis and Stephen Laurence (eds.), _Creations of the Mind: Essays on Artifacts and Their Representations_, Oxford: Oxford University Press, pp. 52–73.
+* Thompson, Simon, 2011, _Haskell: The Craft of Functional Programming_, third edition, Reading, MA: Addison-Wesley; first edition, 1996.
+* Tichy, Walter F., 1998, “Should Computer Scientists Experiment More?”, _IEEE Computer_, 31(5): 32–40. doi:10.1109/2.675631
+* Turing, A.M., 1936, “On Computable Numbers, with an Application to the Entscheidungsproblem”, _Proceedings of the London Mathematical Society (Series 2)_, 42: 230–65. doi:10.1112/plms/s2-42.1.230
+* –––, 1950, “Computing Machinery and Intelligence”, _Mind_, 59(236): 433–460. doi:10.1093/mind/LIX.236.433
+* Turner, Raymond, 2007, “Understanding Programming Languages”, _Minds and Machines_, 17(2): 203–216. doi:10.1007/s11023-007-9062-6
+* –––, 2009a, _Computable Models_, Berlin: Springer. doi:10.1007/978-1-84882-052-4
+* –––, 2009b, “The Meaning of Programming Languages”, _APA Newsletters_, 9(1): 2–7. (This APA Newsletter is available online; see the Other Internet Resources.)
+* –––, 2010, “Programming Languages as Mathematical Theories”, in J. Vallverdú (ed.), _Thinking Machines and the Philosophy of Computer Science: Concepts and Principles_, Hershey, PA: IGI Global, pp. 66–82.
+* –––, 2011, “Specification”, _Minds and Machines_, 21(2): 135–152. doi:10.1007/s11023-011-9239-x
+* –––, 2012, “Machines”, in H. Zenil (ed.), _A Computable Universe: Understanding and Exploring Nature as Computation_, London: World Scientific Publishing Company/Imperial College Press, pp. 63–76.
+* –––, 2014, “Programming Languages as Technical Artefacts”, _Philosophy and Technology_, 27(3): 377–397; first published online 2013. doi:10.1007/s13347–012–0098-z
+* –––, 2018, _Computational artifacts: Towards a philosophy of computer science_, Berlin Heidelberg: Springer.
+* Tymoczko, Thomas, 1979, “The Four Color Problem and Its Philosophical Significance”, _The Journal of Philosophy_, 76(2): 57–83. doi:10.2307/2025976
+* –––, 1980, “Computers, Proofs and Mathematicians: A Philosophical Investigation of the Four-Color Proof”, _Mathematics Magazine_, 53(3): 131–138.
+* Van Fraassen, Bas C., 1980, _The Scientific Image_, Oxford: Oxford University Press. doi:10.1093/0198244274.001.0001
+* –––, 1989, _Laws and Symmetry_, Oxford: Oxford University Press. doi:10.1093/0198248601.001.0001
+* Van Leeuwen, Jan (ed.), 1990, _Handbook of Theoretical Computer Science. Volume B: Formal Models and Semantics_, Amsterdam: Elsevier and Cambridge, MA: MIT Press.
+* Vardi, M., 2012, “What is an algorithm?”, _Communications of the ACM_, 55(3): 5. doi:10.1145/2093548.2093549
+* Vermaas, Pieter E. & Wybo Houkes, 2003, “Ascribing Functions to Technical Artifacts: A Challenge to Etiological Accounts of Function”, _British Journal of the Philosophy of Science_, 54: 261–289. \[[Vermaas and Houkes 2003 available online](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.5.5058)]
+* Vliet, Hans van, 2008, _Software Engineering: Principles and Practice_, 3rd edition, Hoboken, NJ: Wiley. (First edition, 1993)
+* von Neumann, J. (1945). “First draft report on the EDVAC”, _IEEE Annals of the History of Computing_, 15(4): 27–75.
+* Wang, Hao, 1974, _From Mathematics to Philosophy_, London: Routledge, Kegan & Paul.
+* Wegner, Peter, 1976, “Research Paradigms in Computer Science”, in _Proceedings of the 2nd international Conference on Software Engineering_, Los Alamitos, CA: IEEE Computer Society Press, pp. 322–330.
+* White, Graham, 2003, “The Philosophy of Computer Languages”, in Luciano Floridi (ed.), _The Blackwell Guide to the Philosophy of Computing and Information_, Malden: Wiley-Blackwell, pp. 318–326. doi:10.1111/b.9780631229193.2003.00020.x
+* Wiener, Norbert, 1948, _Cybernetics: Control and Communication in the Animal and the Machine_, New York: Wiley & Sons.
+* –––, 1964, _God and Golem, Inc.: A Comment on Certain Points Where Cybernetics Impinges on Religion_, Cambridge, MA: MIT press.
+* Wittgenstein, Ludwig, 1953 \[2001], _Philosophical Investigations_, translated by G.E.M. Anscombe, 3rd Edition, Oxford: Blackwell Publishing.
+* –––, 1956 \[1978], _Remarks of the Foundations of Mathematics_, G.H. von Wright, R. Rhees, and G.E.M. Anscombe (eds.), translated by G.E.M. Anscombe, revised edition, Oxford: Basil Blackwell.
+* –––, 1939 \[1975], _Wittgenstein’s Lectures on the Foundations of Mathematics, Cambridge 1939_, C. Diamond (ed.), Cambridge: Cambridge University Press.
+* Woodcock, Jim & Jim Davies, 1996, _Using Z: Specification, Refinement, and Proof_, Englewood Cliffs, NJ: Prentice Hall.
+* Wright, Crispin 1983, _Frege’s Conception of Numbers as Objects_, Aberdeen: Aberdeen University Press.
 
 ## Academic Tools
 
-> | ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=computer-science). |
-> | --- | --- |
-> | ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/computer-science/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](../.gitbook/assets/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=computer-science&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](../.gitbook/assets/pp.png) | [Enhanced bibliography for this entry](https://philpapers.org/sep/computer-science/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=computer-science).                                                                      |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/computer-science/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=computer-science\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](../.gitbook/assets/pp.png)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/computer-science/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* ACM (ed.), 2013, [ACM Turing Award Lectures](http://amturing.acm.org/byyear.cfm).
+* ACM (ed.), 2013, [ACM Turing Award Lectures](http://amturing.acm.org/byyear.cfm).
 * [APA Newsletter on Philosophy and Computers](https://cdn.ymaws.com/www.apaonline.org/resource/collection/EADE8D52-8D02-4136-9A2A-729368501E43/v09n1Computers.pdf), 9(1): Fall 2009.
-* Groklaw, 2012a, [“What Does ‘Software is Mathematics’ Mean?” Part 1, by PoIR.](http://www.groklaw.net/article.php?story=20121013192858600)
-* Groklaw, 2012b, [“What Does ‘Software is Mathematics’ Mean?” Part 2, by PoIR.](http://www.groklaw.net/articlebasic.php?story=20121129053154687)
-* Huss, Eric, 1997, [The C Library Reference Guide](http://www.fortran-2000.com/ArnaudRecipes/Cstd/), at Fortran 90+ (www.fortran-2000.com).
-* Rapaport, William J., 2020, “Philosophy of Computer Science”. DRAFT © 2004–2020 by William J. Rapaport. Available at [Philosophy of Computer Science](http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf), manuscript.
-* Smith, Barry, 2012, [“Logic and Formal Ontology”](http://ontology.buffalo.edu/smith/articles/lfo.pdf). A revised version of the paper which appeared in J. N. Mohanty and W. McKenna (eds), 1989, *Husserl’s Phenomenology: A Textbook*, Lanham: University Press of America.
-* Turner, Ray and Amon Eden, 2011, “The Philosophy of Computer Science”, *Stanford Encyclopedia of Philosophy* (Winter 2011 Edition), Edward N. Zalta (ed.), URL = <[The Philosophy of Computer Science (Stanford Encyclopedia of Philosophy/Winter 2011 Edition)](https://plato.stanford.edu/archives/win2011/entries/computer-science/)>. [This was the previous entry on the philosophy of computer science in the *Stanford Encyclopedia of Philosophy*—see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=computer-science).]
+* Groklaw, 2012a, [“What Does ‘Software is Mathematics’ Mean?” Part 1, by PoIR.](http://www.groklaw.net/article.php?story=20121013192858600)
+* Groklaw, 2012b, [“What Does ‘Software is Mathematics’ Mean?” Part 2, by PoIR.](http://www.groklaw.net/articlebasic.php?story=20121129053154687)
+* Huss, Eric, 1997, [The C Library Reference Guide](http://www.fortran-2000.com/ArnaudRecipes/Cstd/), at Fortran 90+ (www.fortran-2000.com).
+* Rapaport, William J., 2020, “Philosophy of Computer Science”. DRAFT © 2004–2020 by William J. Rapaport. Available at [Philosophy of Computer Science](http://www.cse.buffalo.edu/\~rapaport/Papers/phics.pdf), manuscript.
+* Smith, Barry, 2012, [“Logic and Formal Ontology”](http://ontology.buffalo.edu/smith/articles/lfo.pdf). A revised version of the paper which appeared in J. N. Mohanty and W. McKenna (eds), 1989, _Husserl’s Phenomenology: A Textbook_, Lanham: University Press of America.
+* Turner, Ray and Amon Eden, 2011, “The Philosophy of Computer Science”, _Stanford Encyclopedia of Philosophy_ (Winter 2011 Edition), Edward N. Zalta (ed.), URL = <[The Philosophy of Computer Science (Stanford Encyclopedia of Philosophy/Winter 2011 Edition)](https://plato.stanford.edu/archives/win2011/entries/computer-science/)>. \[This was the previous entry on the philosophy of computer science in the _Stanford Encyclopedia of Philosophy_—see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=computer-science).]
 
 ## Related Entries
 
-[artificial intelligence: logic-based](https://plato.stanford.edu/entries/logic-ai/) | [Church-Turing Thesis](https://plato.stanford.edu/entries/church-turing/) | [computability and complexity](https://plato.stanford.edu/entries/computability/) | [computation: in physical systems](https://plato.stanford.edu/entries/computation-physicalsystems/) | [computational complexity theory](https://plato.stanford.edu/entries/computational-complexity/) | [information](https://plato.stanford.edu/entries/information/) | [information: semantic conceptions of](https://plato.stanford.edu/entries/information-semantic/) | [intention](https://plato.stanford.edu/entries/intention/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [recursive functions](https://plato.stanford.edu/entries/recursive-functions/) | [technology, philosophy of](https://plato.stanford.edu/entries/technology/) | [Turing machines](https://plato.stanford.edu/entries/turing-machine/)
+[artificial intelligence: logic-based](https://plato.stanford.edu/entries/logic-ai/) | [Church-Turing Thesis](https://plato.stanford.edu/entries/church-turing/) | [computability and complexity](https://plato.stanford.edu/entries/computability/) | [computation: in physical systems](https://plato.stanford.edu/entries/computation-physicalsystems/) | [computational complexity theory](https://plato.stanford.edu/entries/computational-complexity/) | [information](https://plato.stanford.edu/entries/information/) | [information: semantic conceptions of](https://plato.stanford.edu/entries/information-semantic/) | [intention](https://plato.stanford.edu/entries/intention/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [recursive functions](https://plato.stanford.edu/entries/recursive-functions/) | [technology, philosophy of](https://plato.stanford.edu/entries/technology/) | [Turing machines](https://plato.stanford.edu/entries/turing-machine/)
 
-[Copyright © 2021](https://plato.stanford.edu/info.html#c) by  
-[Nicola Angius](https://uniss.academia.edu/NicolaAngius) <[*nangius@uniss.it*](mailto:nangius%40uniss%2eit)>  
-Giuseppe Primiero <[*giuseppe.primiero@unimi.it*](mailto:giuseppe%2eprimiero%40unimi%2eit)>  
-[Raymond Turner](http://cswww.essex.ac.uk/staff/turnr/) <[*turnr@essex.ac.uk*](mailto:turnr%40essex%2eac%2euk)>
+[Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
+[Nicola Angius](https://uniss.academia.edu/NicolaAngius) <[_nangius@uniss.it_](mailto:nangius%40uniss%2eit)>\
+Giuseppe Primiero <[_giuseppe.primiero@unimi.it_](mailto:giuseppe%2eprimiero%40unimi%2eit)>\
+[Raymond Turner](http://cswww.essex.ac.uk/staff/turnr/) <[_turnr@essex.ac.uk_](mailto:turnr%40essex%2eac%2euk)>

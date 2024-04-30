@@ -1,6 +1,6 @@
 # 囚徒困境 prisoner’s dilemma (Steven Kuhn)
 
-*首次发表于1997年9月4日；实质性修订于2019年4月2日*
+_首次发表于1997年9月4日；实质性修订于2019年4月2日_
 
 Tanya和Cinque因抢劫Hibernia储蓄银行而被逮捕，并被分别关押在单独的隔离牢房中。他们两个都更关心自己的个人自由，而不是同伙的福祉。一个聪明的检察官向每个人提出以下选择：“你可以选择坦白或保持沉默。如果你坦白而你的同伙保持沉默，我将撤销对你的所有指控，并使用你的证词确保你的同伙被判重刑。同样，如果你的同伙坦白而你保持沉默，他们将获得自由，而你将被判刑。如果你们两个都坦白，我将得到两个定罪，但我会确保你们两个都获得提前假释。如果你们两个都保持沉默，我只能就非法持有武器的指控判你们轻微的刑罚。如果你想坦白，你必须在明天早上我回来之前给狱卒留下一张纸条。”
 
@@ -12,15 +12,14 @@ Tanya和Cinque因抢劫Hibernia储蓄银行而被逮捕，并被分别关押在�
 
 下面的部分提供了囚徒困境的各种更精确的特征描述，从最狭窄的开始，并调查了与类似游戏的一些联系以及在哲学和其他领域的一些应用。特别关注游戏的迭代和进化版本。在前者中，囚徒困境游戏被重复进行，打开了一个可能性，即玩家可以利用其当前的移动来奖励或惩罚对方在以前的移动中的表现，以便在未来诱导合作性的游戏。在后者中，一个群体的成员在囚徒困境游戏中反复与彼此对战，那些获得更高回报的人比那些获得较低回报的人“繁殖”得更快。"囚徒困境"缩写为"PD"。
 
- 
----
+***
 
 ## 1. 对称的 2×2 囚徒困境与序数支付
 
 在其最简单的形式中，囚徒困境是一个由支付矩阵描述的游戏：
 
 |   | C   | D   |
-| --- | ----- | ----- |
+| - | --- | --- |
 | C | R,R | S,T |
 | D | T,S | P,P |
 
@@ -42,7 +41,7 @@ Tanya和Cinque因抢劫Hibernia储蓄银行而被逮捕，并被分别关押在�
 不假设对称性的情况下，囚徒困境可以用下标 r 和 c 来表示对行和列的回报。
 
 |   | C     | D     |
-| --- | ------- | ------- |
+| - | ----- | ----- |
 | C | Rr,Rc | Sr,Tc |
 | D | Tr,Sc | Pr,Pc |
 
@@ -62,7 +61,7 @@ Tanya和Cinque因抢劫Hibernia储蓄银行而被逮捕，并被分别关押在�
 
 ![Figure 1](https://plato.stanford.edu/entries/prisoner-dilemma/fig1--pureimpure.png)
 
- 图 1
+图 1
 
 这里的 x 轴和 y 轴分别代表了 Row 和 Column 的效用。在第二部分的矩阵中输入的四个结果由标记的点表示。条件 PD3a 和 PD3b（见上文）确保了(C,D)和(D,C)位于(D,D)的西北和东南方向，而 PD3c 反映了(C,C)位于(D,D)的东北方向。首先假设(D,D)和(C,C)位于(C,D)和(D,C)之间的直线的两侧，如左图所示。然后这四个点形成一个凸四边形，混合策略的可行结果的收益由该四边形上或内的所有点表示。当然，每次进行游戏时，玩家实际上只能获得四种可能的收益之一，但是四边形中的点表示了两个玩家的收益的预期值。例如，如果 Row 和 Column 以概率 p 和 q 合作（以概率 p∗=1−p 和 q∗=1−q 背叛），那么 Row 的收益的预期值为 p∗qT+pqR+p∗q∗P+pq∗S。根据标准观点，一个理性的自利玩家应该更喜欢较高的预期收益而不是较低的。在左图中，普遍合作（概率为 1）的收益是所有混合策略的收益中最优的。然而，在右图中，(D,D)和(C,C)都位于(C,D)和(D,C)之间的直线的西南方向，情况更加复杂。在这里，可行结果的收益位于一个由三条不同曲线段界定的图形的东北方。请注意，(C,C)现在位于由实线界定的区域的内部，这表明存在混合策略可以为两个玩家提供比(C,C)更高的预期收益。重要的是要注意，我们在这里谈论的是独立的混合策略。Row 和 Column 使用私人随机设备，并且没有交流。 如果他们能够相关他们的混合策略，以确保，比如说(C,D)的概率为 p，(D,C)的概率为 p∗，可行解的集合将延伸到（并包括）(C,D)和(D,C)之间的虚线。关键在于，即使限于独立策略，也有一些满足囚徒困境 3 的游戏，两个玩家都可以比他们在普遍合作下做得更好。一个普遍合作是帕累托最优的囚徒困境可以称为纯囚徒困境。（这一现象在 Kuhn 和 Moresi 中被发现，并应用于道德哲学中的 Kuhn 1996 年。）纯囚徒困境的特点是在 PD3 的基础上添加以下条件。
 
@@ -79,7 +78,7 @@ Tanya和Cinque因抢劫Hibernia储蓄银行而被逮捕，并被分别关押在�
 一般来说，可以说囚徒困境是一种游戏，在这个游戏中，只有当每个玩家违背理性自利时才能获得“合作”结果，而这个结果被一致地优先于每个玩家坚持理性自利时获得的“自私”结果。我们可以将自私的结果描述为每个玩家追求其占优（强占优）策略的结果，或者是唯一的弱（强）纳什均衡。在一个两步游戏中，这两种描述是一样的 - 一个占优的步骤对是一个唯一的均衡，而一个唯一的均衡是一个占优的步骤对。然而，如下所示的收益矩阵显示，这两个概念在超过两个步骤的游戏中有所不同。
 
 |   | C   | D   | N   |
-| --- | ----- | ----- | ----- |
+| - | --- | --- | --- |
 | C | R,R | S,T | T,S |
 | D | T,S | P,P | R,S |
 | N | S,T | S,R | S,S |
@@ -89,7 +88,7 @@ Tanya和Cinque因抢劫Hibernia储蓄银行而被逮捕，并被分别关押在�
 具有稍微不同结构的三步游戏在“可选囚徒困境”标签下受到关注。例如，参见 Kitcher（2011），Kitcher（1993），Batali 和 Kitcher，Szabó和 Hauert，Orbell 和 Dawes（1993）以及 Orbell 和 Dawes（1991）。前三个来源还允许可选游戏中的玩家向特定对手发出信号，表示愿意参与（即对特定对手进行 C 或 D 的选择）。本节讨论的没有信号的简单三步游戏在 Batali 和 Kitcher 中被称为“半可选”。S，R，P 和 T 的收益按照之前的顺序排列，但是收益矩阵现在还包含一个介于 P 和 R 之间的“退出”值 O。
 
 |   | C   | D   | N   |
-| --- | ----- | ----- | ----- |
+| - | --- | --- | --- |
 | C | R,R | S,T | O,O |
 | D | T,S | P,P | O,O |
 | N | O,O | O,O | O,O |
@@ -106,10 +105,10 @@ Orbell 和 Dawes 特别关注一个解释合作行为的原理，该原理基于
 
 一种常见观点是，多人囚徒困境结构反映在加勒特·哈丁所普及的“公地悲剧”中。一组相邻农民中的每个成员都更愿意让自己的牛在公地上放牧，而不是将其放在自己不足的土地上，但如果超过某个阈值的人使用公地，公地将变得不适合放牧。更一般地说，如果足够多的人付出成本 C，每个成员都可以获得一些社会利益 B。我们可以将支付矩阵表示如下：
 
-|   | ** 多于 n 个人<br /> 选择 C** | ** n 或更少<br /> 选择 C** |
-| --- | --------------------------- | ------------------------ |
-| C | C+B                       | C                      |
-| D | B                         | 0                      |
+|   | <p>** 多于 n 个人<br>选择 C**</p> | <p>** n 或更少<br>选择 C**</p> |
+| - | --------------------------- | ------------------------- |
+| C | C+B                         | C                         |
+| D | B                           | 0                         |
 
 成本 C 被假设为一个负数。这里的“诱惑”是在没有成本的情况下获得利益，奖励是在有成本的情况下获得利益，惩罚是既不获得利益也不付出成本，而吃亏的回报是付出成本却没有实现利益。因此，回报按照 B>(B+C)>0>C 的顺序排列。就像在两人游戏中一样，对于所有玩家来说，D 似乎在 C 上强势占优，因此理性的玩家会选择 D 并获得 0，同时希望每个人都选择 C 并获得 C+B。
 
@@ -119,10 +118,10 @@ Orbell 和 Dawes 特别关注一个解释合作行为的原理，该原理基于
 
 如上所述，投票游戏与两人囚徒困境有一些不同之处。首先，即使每个玩家的行动完全独立于其他玩家，上述公共矩阵中列所代表的选择与行所代表的选择不再独立。我选择 C 必然增加超过 n 人选择 C 的机会。为了确保独立性，我们应该重新绘制矩阵如下：
 
-|   | **超过 n 个其他人选择 C**    | ** n 其他人选择 C** | **少于 n 其他人选择 C选择 C**  |
-| --- | ----- | --------------------- | --- |
-| C | C+B | C+B                 | C |
-| D | B   | 0                   | 0 |
+|   | **超过 n 个其他人选择 C** | \*\* n 其他人选择 C\*\* | **少于 n 其他人选择 C选择 C** |
+| - | ----------------- | ------------------ | -------------------- |
+| C | C+B               | C+B                | C                    |
+| D | B                 | 0                  | 0                    |
 
 但是现在我们看到，与 2 人囚徒困境中一样，移动 D 并不支配 C。当我们处于足够合作的阈值位置时，即恰好有 n 个其他人选择 C 时，我选择合作更好。同样地，原始囚徒困境中唯一的纳什均衡是相互背叛，而这个游戏有两个均衡。一个是普遍背叛，因为任何一个玩家单方面偏离这个结果都会从收益 0 变为 C。但第二个是最低效合作的状态，此时合作者的数量刚好足够获得利益。一个离开这个结果的背叛者将从 B 变为 B+C，而一个离开的合作者将从 B+C 变为 0。最后，在原始囚徒困境中，除了普遍背叛之外的每个结果都是帕累托最优的——也就是说，只要至少有一个玩家合作，就没有一个结果使得每个玩家至少与之前一样好，而有一个玩家更好。另一方面，在投票游戏中，只有最低效合作的状态是帕累托最优的。如果合作者的数量超过阈值一个或多个，一个新的背叛者将使自己受益而不伤害其他人。
 
@@ -133,7 +132,7 @@ Orbell 和 Dawes 特别关注一个解释合作行为的原理，该原理基于
 共有资源悲剧的两人版本游戏（阈值为一）产生了一个矩阵，呈现出较少的困境。
 
 |   | C       | D   |
-| --- | --------- | ----- |
+| - | ------- | --- |
 | C | B+C,B+C | C,0 |
 | D | 0,C     | 0,0 |
 
@@ -146,8 +145,7 @@ Orbell 和 Dawes 特别关注一个解释合作行为的原理，该原理基于
 在 Schelling 的《囚徒困境》中，Molander 1992 以及其他地方标记为多人囚徒困境的游戏要求每个合作者和背叛者的回报都严格随着合作者的数量增加而增加，并且所有参与方的回报总和随着合作者的数量增加而增加（因此，一个参与方从背叛转向合作总是会提高总和）。上述公式不满足这两个条件，人们可能会质疑它们是否适用于给定的例子。胜利的幅度似乎不会提高赢得选举的价值。自然过滤系统可能允许水体吸收一定量的废物而没有任何有害影响。然而，通常可以合理地认为它们在“局部”成立，即对于接近最低有效合作阈值 t 的 j，可以合理地假设：
 
 * 对于每个个体 i，当 j>t 时，B(i,j+1)+C(i,j+1)>B(i,j)+C(i,j)，
-* 对于每个个体 i，当 j≤t 时，C(i,j+1)>C(i,j)，并且
-  B(1,j+1)+C(1,j+1)+…+B(j+1,j+1)+C(t+1,j+1)+B(j+2,j+1))+…+B(n,j+1) > B(1,j)+C(1,j)+…+B(j,j)+C(j,j)+B(j+1,j)+…+B(n,j).
+* 对于每个个体 i，当 j≤t 时，C(i,j+1)>C(i,j)，并且 B(1,j+1)+C(1,j+1)+…+B(j+1,j+1)+C(t+1,j+1)+B(j+2,j+1))+…+B(n,j+1) > B(1,j)+C(1,j)+…+B(j,j)+C(j,j)+B(j+1,j)+…+B(n,j).
 
 通过要求其他人的合作始终严格使每个玩家受益，Schelling 和 Molander 对 n 人囚徒困境的表述未能模拟出似乎渗透在许多公地悲剧示例中的过剩合作/搭便车现象。然而，他们的条件可能是某些公共物品困境的合理模型。可以合理地假设，任何对公共卫生、国防、公路安全或清洁空气的贡献对所有人都有价值，无论我们已经拥有多少，但每个人为自己对这些物品的贡献所付出的成本总是超过他从这些贡献中获得的利益。满足上述条件的一个特别简单的游戏是公共物品游戏。每个玩家可以选择不贡献或向共同存储器贡献固定效用 C。对存储器的贡献相加，乘以大于一的某个因子，然后平均分配给小组成员。通过这种方式，一个玩家无论自己是否贡献，都会从其他人的贡献中获得同样的利益，而无论其他人是否贡献，她自己的贡献都会损失同样（较小）的金额。这对于一般的囚徒困境来说并不成立，尽管对于介绍中提到的交换游戏是成立的。
 
@@ -156,30 +154,30 @@ Schelling 和 Per Molander 的表述以及公共物品博弈具有将注意力�
 这些想法可以通过一些图片更加明确，这些图片提供了额外的细化和扩展。下面的图 2 说明了投票游戏。在图 2(a)中，有 25 名支持者正在选择是否在多数规则选举中投票。对于玩家 i，效用值绘制在除 i 之外的其他人投票的数量上。黑色圆盘代表合作者（投票者），圆圈代表背叛者（不投票者）。当其他投票者少于 12 人或多于 12 人时，背叛击败合作。但当正好有 12 个其他人投票时，对 i 来说投票是有益的。
 
 | ![Figure 2a](https://plato.stanford.edu/entries/prisoner-dilemma/fig2a--voters-discrete.png) | ![Figure 2b](https://plato.stanford.edu/entries/prisoner-dilemma/fig2b--voters-continuous.png) |
-| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| (a)                                                                                         | (b)                                                                                           |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| (a)                                                                                          | (b)                                                                                            |
 
- 图 2
+图 2
 
 在图2(b)中，通过线条和圆圈绘制了平滑曲线，以说明投票游戏的更一般形式。合作者和背叛者的效用由两个S形曲线表示。曲线在两个地方相交。现在，我们不再只有一个最低效合作点，而是在两条曲线之间有一个小区域，在这个区域内合作胜过背叛。就污染湖泊的例子而言，我们可以假设在第一个交点的左侧，污染非常严重，我的额外贡献不会使情况变得更糟，而在第二个交点的右侧，湖泊非常健康，可以毫无不良影响地处理我的废物。交点都是平衡点，污染和讲究卫生的居民改变行为都会受到损失。就投票的例子而言，我们可以假设非支持者的行为是不确定的，曲线之间的区域表示我的投票增加了获胜的几率，超过了我投票的成本。
 
 更一般的投票游戏满足 Schelling/Molander 条件，即每个玩家的效用仅在合作有效的地区附近严格随着合作水平增加。在下面的图 3 中，S 曲线弯曲，以便在任何地方都满足这个条件。在 3(a)中，两条曲线仍然相交两次。Bovens 对 n 人游戏进行了非常有启发性的分类，将这种形式称为投票游戏，并认为它最能代表文献中描述的共有悲剧情境。请注意，如果有一个值 x，使得两条曲线都位于均衡点之上，那么这里的均衡点就不可能是帕累托最优的（就像上面所称的投票游戏的最简版本中的孤立均衡点一样）。因此，这是一场悲剧。在图 3(b)中，两条曲线之间没有交点。因此，PD 的第二个 Schelling/Molander 条件也得到满足：背叛主导合作。最后一个条件，即合作总是提高效用总和，不容易描绘出来，但是由于两条曲线的斜率是正的，我们可以确定，如果人口足够大，这个条件将得到满足。
 
 | ![Figure 3a](https://plato.stanford.edu/entries/prisoner-dilemma/fig3a--voters-upsloping.png) | ![Figure 3b](https://plato.stanford.edu/entries/prisoner-dilemma/fig3b--PD.png) |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| (a)                                                                                          | (b)                                                                            |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| (a)                                                                                           | (b)                                                                             |
 
- 图 3
+图 3
 
 在这两个游戏中，利益相对较为平稳，比之前的两个游戏要好一些。通过进一步拉平曲线，可以进一步减少不稳定性。在极限情况下，我们得到了图 4 中第一个图表所示的公共物品游戏。在这里，曲线是直线。每个额外的合作者都为背叛者和合作者提供了相同的额外收益，收益为 mc/n，其中 c 是捐赠的成本，m 是规定的乘数，n 是游戏中的玩家数量。如果曲线足够平坦，它们最多可以相交一次。总共有三种可能性：图 4(a)中所示的游戏，其中两条曲线不相交；图 4(b)中所示的游戏，合作者的效用在相交点左侧高于背叛者，在相交点右侧低于背叛者；以及图 4(c)中所示的游戏，背叛者的效用开始高于合作者，最终低于合作者。在图 4(b)中，当其他人中只有少数人合作时，通过合作可以获益，当大多数人合作时，通过背叛可以获益。Bovens 合理地认为，这应该被视为鸡游戏的多人版本：如果对手转弯，就直行；如果对手直行，就转弯。在图 4(c)中，当大多数人背叛时，通过背叛可以获益，当大多数人合作时，通过合作可以获益。正如 Bovens 所建议的，这可能被视为鹿猎的多人版本：如果对手也这样做，一起狩猎或分开狩猎。（鹿猎在下面的第 8 节中进一步讨论）。正如我们所见，第一种可能性符合与囚徒困境有关的合理条件。
 
 | ![Figure 4a](https://plato.stanford.edu/entries/prisoner-dilemma/fig4a--public-goods.png) | ![Figure 4b](https://plato.stanford.edu/entries/prisoner-dilemma/fig4b--chicken.png) |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
-| (a)                                                                                      | (b)                                                                                 |
-| ![Figure 4c](https://plato.stanford.edu/entries/prisoner-dilemma/fig4c--stag-hunt.png)    |                                                                                     |
-| (c)                                                                                      |                                                                                     |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| (a)                                                                                       | (b)                                                                                  |
+| ![Figure 4c](https://plato.stanford.edu/entries/prisoner-dilemma/fig4c--stag-hunt.png)    |                                                                                      |
+| (c)                                                                                       |                                                                                      |
 
- 图 4
+图 4
 
 ## 6. 单人解释
 
@@ -197,7 +195,7 @@ Kavka 在 1991 年提出了对囚徒困境的第二种个人解释。根据 Kavk
 我注重健康的一面，"阿诺德"按照以下顺序选择这些选项：c，b，d，a。我注重口味的一面，"埃皮"对它们进行排名：a，b，d，c。这种偏好之间的内部冲突通常可以通过与个体选择的标准观点一致的方式来解决。例如，我的整体偏好排序可能是由阿诺德和埃皮为每个选项分配的效用的加权平均值确定的。卡夫卡还指出，我的内部冲突可能被解决为理性子代之间战略互动的结果。在这种情况下，阿诺德和埃皮可以选择坚持自己的意见（I）或妥协（A）。子代之间的互动可以用以下收益矩阵表示，其中阿诺德在行上进行选择，埃皮在列上进行选择。
 
 |   | A | I |
-| --- | --- | --- |
+| - | - | - |
 | A | b | a |
 | I | c | d |
 
@@ -208,7 +206,7 @@ Kavka 在 1991 年提出了对囚徒困境的第二种个人解释。根据 Kavk
 一个有争议的论点认为，在囚徒困境中合作是理性的，原因在于我犯罪的伙伴很可能会像我一样思考和行动。（例如，参见Davis 1977和1985年对这种论点的同情性陈述，以及Binmore 1994年第3.4章和第3.5章对其进行改进和扩展的反驳。）在极端情况下，我的帮凶是一个与我完全相同的复制品，他的思维方式和我一样，因此我们必然会做出相同的选择。那么，唯一可能的两种结果就是两个玩家都合作或者两个玩家都背叛。由于奖励回报超过惩罚回报，我应该选择合作。更一般地说，即使我的帮凶不是完美的复制品，如果我选择合作，他合作的可能性更大，如果我选择背叛，他背叛的可能性更大。当我们的行为之间的相关性足够强或者回报之间的差异足够大时，如果我选择合作，我的预期回报（通常理解的那种回报）比我选择背叛要高。当然，反对论点是，我的行动与我的复制品的因果关系是独立的。由于我无法影响我的帮凶的行动，并且无论他做什么，如果我选择背叛，我的回报都会更高，所以我应该选择背叛。这些论点与新康姆问题上的两个立场的论证非常相似，新康姆问题是一道在诺齐克哲学家中广为流传的难题。（这种相似性在刘易斯的著作中得到了明确的展示。）新康姆问题要求我们考虑两个盒子，一个是透明的，一个是不透明的。透明盒子里有一千美元。不透明盒子里可能有一百万美元，也可能什么都没有。我们有两个选择：拿走不透明盒子的内容，或者拿走两个盒子的内容。在选择之前，我们知道一个可靠的预测者根据我们的行为预测，在第一种选择上放了一百万美元，在第二种选择上则空着。 为了看到囚徒困境中的每个玩家都面临着一个纽科姆问题，考虑以下收益矩阵。
 
 |   | C     | D     |
-| --- | ------- | ------- |
+| - | ----- | ----- |
 | C | m,m   | 0,m+t |
 | D | m+t,0 | t,t   |
 
@@ -233,7 +231,7 @@ Newcomb 问题中描述的相当牵强的情景最初使一些人对因果决策
 这个寓言戏剧化了这个游戏并提供了它的名字，取自卢梭在《不平等论》中的一段话，讲述的是一次狩猎远足，而不是监狱审讯。两个猎人正在寻找一只鹿。成功是不确定的，如果成功，需要两人的努力。另一方面，任何一个猎人都可以抛弃他的伙伴，捕捉一只有很大成功机会的野兔。下面是一个典型的收益矩阵。
 
 |   | C   | D   |
-| --- | ----- | ----- |
+| - | --- | --- |
 | C | 4,4 | 0,3 |
 | D | 3,0 | 3,3 |
 
@@ -261,14 +259,14 @@ Newcomb 问题中描述的相当牵强的情景最初使一些人对因果决策
 
 ![Figure 5](https://plato.stanford.edu/entries/prisoner-dilemma/fig5--farmers.png)
 
- 图 5
+图 5
 
 在这里，时间向右流动。方形标记的节点表示玩家一的选择点，圆圈标记的节点表示玩家二的选择点。每个玩家的移动和收益与普通囚徒困境中完全相同，但在这里，玩家二可以根据玩家一的行动选择自己的移动。像图 5 这样的树状图被称为广义形式的游戏表示，而之前给出的收益矩阵是正常形式的表示。正如休谟的分析所示，使游戏异步并不能消除困境。玩家一知道，如果他在第一次移动时选择 C，玩家二会在第二次移动时选择 D（因为她更喜欢诱惑而不是奖励），所以他自己最终会得到吃亏的收益。如果玩家一选择 D，玩家二仍然会选择 D（因为她更喜欢惩罚而不是吃亏的收益），他最终会得到惩罚的收益。由于他更喜欢惩罚的收益而不是吃亏的收益，玩家一会在第一次移动时选择 D，两个玩家最终都会得到惩罚的收益。这种“向后”推理，在其中玩家首先评估如果各种游戏历史实现了最后一次移动会发生什么，并根据此确定之前的移动会发生什么，在广义形式的游戏中广泛适用，并且在下面的有限迭代中将讨论更一般的版本。
 
 农民困境可以通过将玩家一理解为在 C 和 D 之间进行选择，将玩家二理解为（同时）在四个条件移动中进行选择来以正常形式表示。这四个条件移动是：无条件合作（Cu），无条件背叛（Du），模仿玩家一的移动（I）和与玩家一的移动相反（O）。结果是一个具有以下矩阵的双人游戏。
 
 |   | Cu  | Du  | I   | O   |
-| --- | ----- | ----- | ----- | ----- |
+| - | --- | --- | --- | --- |
 | C | R,R | S,T | R,R | S,T |
 | D | T,S | P,P | P,P | T,S |
 
@@ -284,11 +282,11 @@ Newcomb 问题中描述的相当牵强的情景最初使一些人对因果决策
 
 ## 10. 透明度
 
-引入条件性行动到囚徒困境中的另一种方式是假设玩家具有 David Gauthier 所称的透明度属性。一个完全透明的玩家是其意图对其他人完全可见的玩家。虽然没有人认为我们人类是完全透明的，但我们通常能够成功预测其他人的行为，这表明我们至少是“半透明”的。此外，像公司或国家这样的更大规模的代理人，在行动之前可能需要公开讨论，可能比我们更透明。因此，对于具有透明玩家的囚徒困境的研究可能具有一定的理论兴趣。这样的玩家可能能够执行比（非透明的）扩展游戏玩家更复杂的条件策略，例如基于其他人所采用的条件策略的条件策略。然而，确定这样的玩家可以采用哪些策略存在一些困难。假设 Row 采用策略“与 Column 相同”，而 Column 采用策略“与 Row 相反”。这两种策略都无法同时满足。另一方面，如果每个人都采用策略“模仿对方玩家”，那么有两种方式可以满足这些策略，而无法确定他们将采用其中的哪一种。Nigel Howard 可能是最早系统研究这种条件策略的人，他通过坚持一种严格类型化的游戏层次结构来避免这个困难。在基本层次上，我们有普通的囚徒困境游戏，每个玩家在合作和背叛之间进行选择。对于层次结构中的任何游戏 G，我们可以生成两个新游戏 RG 和 CG。在 RG 中，Column 的移动与游戏 G 中的移动相同，而 Row 可以选择任何将 C 或 D 分配给 Column 的每个可能移动的函数。类似地，在 CG 中，Row 的移动与 G 中的移动相同，而 Column 有一组新的条件移动。 例如，如果[PD]是基本级别的游戏，那么 C[PD]是一个游戏，其中 Column 可以从上述策略 Cu、Du、I 和 O 中选择。霍华德观察到，在两个第三级游戏 RC[PD]和 CR[PD]（以及每个更高级别的游戏）中，存在一个平衡结果，使每个玩家都选择 R。特别是，当一个玩家选择 I，而另一个玩家在对手选择 I 时合作，在对手选择 Cu、Du 或 O 时背叛时，就会达到这样的平衡。请注意，这种最后的策略等同于丹尼尔森在上一节中描述的互惠合作。
+引入条件性行动到囚徒困境中的另一种方式是假设玩家具有 David Gauthier 所称的透明度属性。一个完全透明的玩家是其意图对其他人完全可见的玩家。虽然没有人认为我们人类是完全透明的，但我们通常能够成功预测其他人的行为，这表明我们至少是“半透明”的。此外，像公司或国家这样的更大规模的代理人，在行动之前可能需要公开讨论，可能比我们更透明。因此，对于具有透明玩家的囚徒困境的研究可能具有一定的理论兴趣。这样的玩家可能能够执行比（非透明的）扩展游戏玩家更复杂的条件策略，例如基于其他人所采用的条件策略的条件策略。然而，确定这样的玩家可以采用哪些策略存在一些困难。假设 Row 采用策略“与 Column 相同”，而 Column 采用策略“与 Row 相反”。这两种策略都无法同时满足。另一方面，如果每个人都采用策略“模仿对方玩家”，那么有两种方式可以满足这些策略，而无法确定他们将采用其中的哪一种。Nigel Howard 可能是最早系统研究这种条件策略的人，他通过坚持一种严格类型化的游戏层次结构来避免这个困难。在基本层次上，我们有普通的囚徒困境游戏，每个玩家在合作和背叛之间进行选择。对于层次结构中的任何游戏 G，我们可以生成两个新游戏 RG 和 CG。在 RG 中，Column 的移动与游戏 G 中的移动相同，而 Row 可以选择任何将 C 或 D 分配给 Column 的每个可能移动的函数。类似地，在 CG 中，Row 的移动与 G 中的移动相同，而 Column 有一组新的条件移动。 例如，如果\[PD]是基本级别的游戏，那么 C\[PD]是一个游戏，其中 Column 可以从上述策略 Cu、Du、I 和 O 中选择。霍华德观察到，在两个第三级游戏 RC\[PD]和 CR\[PD]（以及每个更高级别的游戏）中，存在一个平衡结果，使每个玩家都选择 R。特别是，当一个玩家选择 I，而另一个玩家在对手选择 I 时合作，在对手选择 Cu、Du 或 O 时背叛时，就会达到这样的平衡。请注意，这种最后的策略等同于丹尼尔森在上一节中描述的互惠合作。
 
 对于理性行动来说，这一切的教训并不明确。假设两个囚徒在囚徒困境中足够透明，可以采用更高级别游戏的条件策略。他们如何决定玩哪个级别的游戏？谁选择模仿行动，谁选择互惠合作？在更高级别的游戏中采取行动，可能意味着形成一个对其他玩家可观察的意图。但是，如果忽视这个意图有利可图，为什么任何一方都应该期望这个意图能够得到执行呢？
 
-条件策略在我们将调查的方向不是朝着玩囚徒困境的方向，而是设计能够与各种可能的对手玩得好的代理人时，具有更有说服力的应用。这是Danielson的观点。（参见J.V. Howard对这一观点的早期启发性讨论。）条件策略不是玩家在游戏中形成的一个动作，而是定义一种玩家的确定性算法。事实上，囚徒困境的一个教训可能是，透明的代理人如果能够形成不可撤销的“行动协议”，而不是始终遵循他们在行动时可能形成的意图，那么他们会更好。Danielson并不事先限制自己在Howard的等级体系内的策略。代理人只是一个计算机程序，可以包含允许其他程序读取和执行它的行。我们可以很容易地编写两个这样的程序，每个程序都设计用来确定对手是选择合作还是背叛，并采取相反的行动。当这两个程序玩囚徒困境时，具体实施的细节决定了结果，但很可能它们会“不连贯”，即它们会进入无限循环，无法进行任何移动。为了成功，一个程序应该能够与各种其他程序配对，并且能够获得有价值的结果，包括自身的副本。以直接方式实现I和O的程序不太可能成功，因为它们在彼此配对时会不连贯。实现Du的程序不太可能成功，因为它们在与它们的克隆配对时只能获得P。实现Cu的程序不太可能成功，因为它们在与能够识别和利用它们无条件合作性质的程序配对时只能获得S。成功的标准存在一些模糊性。在Howard的方案中，我们可以将条件策略与该级别的所有可能替代方案进行比较。 在这里，任何两个程序都可以配对，这种方法是没有意义的。然而，某些程序似乎在与各种不同的玩家配对时表现良好。其中一种是 Gauthier 提倡的受限最大化策略的版本。其思想是，如果其他人在 j 合作时也会合作，那么玩家 j 应该合作；否则就背叛。如所述，这似乎是 RC[PD]或 CR[PD]游戏的一种策略。然而，如果与自己配对，不清楚实施该策略的程序会如何移动（如果确实移动）。然而，Danielson 能够构建一个近似的受限最大化策略，使其能够与自己合作。Danielson 的程序（以及其他实施受限最大化策略的程序）不能与所有东西一起配对。然而，它确实移动并且对抗熟悉的策略得分很高。它与 Cu 和自己合作，并对抗 Du。如果它与其他程序配对是一致的，似乎保证获得的回报不会比 P 差。
+条件策略在我们将调查的方向不是朝着玩囚徒困境的方向，而是设计能够与各种可能的对手玩得好的代理人时，具有更有说服力的应用。这是Danielson的观点。（参见J.V. Howard对这一观点的早期启发性讨论。）条件策略不是玩家在游戏中形成的一个动作，而是定义一种玩家的确定性算法。事实上，囚徒困境的一个教训可能是，透明的代理人如果能够形成不可撤销的“行动协议”，而不是始终遵循他们在行动时可能形成的意图，那么他们会更好。Danielson并不事先限制自己在Howard的等级体系内的策略。代理人只是一个计算机程序，可以包含允许其他程序读取和执行它的行。我们可以很容易地编写两个这样的程序，每个程序都设计用来确定对手是选择合作还是背叛，并采取相反的行动。当这两个程序玩囚徒困境时，具体实施的细节决定了结果，但很可能它们会“不连贯”，即它们会进入无限循环，无法进行任何移动。为了成功，一个程序应该能够与各种其他程序配对，并且能够获得有价值的结果，包括自身的副本。以直接方式实现I和O的程序不太可能成功，因为它们在彼此配对时会不连贯。实现Du的程序不太可能成功，因为它们在与它们的克隆配对时只能获得P。实现Cu的程序不太可能成功，因为它们在与能够识别和利用它们无条件合作性质的程序配对时只能获得S。成功的标准存在一些模糊性。在Howard的方案中，我们可以将条件策略与该级别的所有可能替代方案进行比较。 在这里，任何两个程序都可以配对，这种方法是没有意义的。然而，某些程序似乎在与各种不同的玩家配对时表现良好。其中一种是 Gauthier 提倡的受限最大化策略的版本。其思想是，如果其他人在 j 合作时也会合作，那么玩家 j 应该合作；否则就背叛。如所述，这似乎是 RC\[PD]或 CR\[PD]游戏的一种策略。然而，如果与自己配对，不清楚实施该策略的程序会如何移动（如果确实移动）。然而，Danielson 能够构建一个近似的受限最大化策略，使其能够与自己合作。Danielson 的程序（以及其他实施受限最大化策略的程序）不能与所有东西一起配对。然而，它确实移动并且对抗熟悉的策略得分很高。它与 Cu 和自己合作，并对抗 Du。如果它与其他程序配对是一致的，似乎保证获得的回报不会比 P 差。
 
 第二个成功的程序模拟了 Danielson 的互惠合作。同样，不清楚该策略（如上所述）是否允许它与自己合作（或进行任何移动），但是 Danielson 能够构建一个能够与自己合作的近似策略。与自己、Du 和受限最大化策略相比，（近似的）互惠合作表现得同样好。与 Cu 相比，它表现得更好，得到了 T，而受限最大化策略只得到了 R。
 
@@ -300,7 +298,7 @@ IPD 可以通过树状图的广义形式来表示，就像上面农夫困境的�
 
 ![Figure 6](https://plato.stanford.edu/entries/prisoner-dilemma/fig6--IPD.png)
 
- 图 6
+图 6
 
 这里我们有一个长度为两个回合的囚徒困境。游戏的每个回合结束都由一条虚线垂直线标记。两个玩家的回报（通过将他们在两个回合的回报相加获得）列在树的每条路径的末尾。与之前的表示不同之处在于，在同一分支内的两个节点标记了两个玩家的同时选择。由于在同一回合中，两个玩家都不知道对方的动作，囚徒困境不符合博弈论中“完美信息游戏”的标准之一。如果玩家是依次移动而不是同时移动（我们可以通过去掉虚线垂直线来表示），则得到的游戏是一个迭代的农夫困境，它符合博弈论家的定义，并且具有使囚徒困境有趣的许多特征。
 
@@ -322,7 +320,7 @@ IPD 可以通过树状图的广义形式来表示，就像上面农夫困境的�
 
 ![Figure 7](https://plato.stanford.edu/entries/prisoner-dilemma/fig7--centipede.png)
 
- 图 7
+图 7
 
 可能真正的蜈蚣游戏应该包含 100 个“腿”，这里讨论的一般形式应该真正被称为“n-tipede”。该游戏似乎首次在 Rosenthal 中讨论。
 
@@ -366,7 +364,7 @@ Li（2007）明确表示，APavlov的想法是对参赛策略进行有根据的�
 
 ## 15. 带有错误的迭代
 
-在上述结果发表几年后的一项调查中，阿克塞尔罗德和迪昂记录了TFT的几个成功案例和对其进行的修改。他们得出结论：“研究表明，阿克塞尔罗德的许多发现可以推广到与原始的两人重复囚徒困境游戏非常不同的环境中。” 但是，在几种合理的情况下，TFT存在严重的缺点。阿克塞尔罗德和迪昂在调查中指出的一个案例是，当试图纳入玩家受到执行和感知错误的合理假设时。这可以通过多种方式实现。例如，本多考虑了“嘈杂的回报”。当一名玩家在对手背叛时合作，其回报为S+e，其中e是一个随机变量，其期望值为0。每个玩家从自己的回报中推断出对方的动作，因此，如果e足够高，其推断可能是错误的。萨格登（第112-115页）考虑了一种情况，即玩家有一定的概率在执行上出错，这对他们自己而言是显而易见的，但对他们的对手而言则不是。这样的玩家可以通过采取策略来“补偿”错误的背叛，即在后续回合中比本来计划的背叛更加合作。然而，假设玩家们自己无法区分错误的移动或观察与真实的移动或观察，模拟错误的必然性最简单的方法就是完全禁止像TFT这样的确定性策略，取而代之的是“不完美”的对应策略，例如“以99%的概率模仿对手的上一次动作，并以1%的概率反对它。” 不完美的TFT比其确定性的兄弟策略更不具吸引力，因为当两个不完美的TFT策略相互对战时，任何一方的“错误”都会引发一系列长时间的轮流背叛的动作。 在两个不完美的 TFT 之间进行长期迭代游戏中，任何错误概率为 p 的情况下，0<p<12，玩家的平均收益将接近于两个策略之间选择合作和背叛的随机游戏的平均收益，即 14(R+P+S+T)。这比当 p=0 时的 R 的收益要差得多。
+在上述结果发表几年后的一项调查中，阿克塞尔罗德和迪昂记录了TFT的几个成功案例和对其进行的修改。他们得出结论：“研究表明，阿克塞尔罗德的许多发现可以推广到与原始的两人重复囚徒困境游戏非常不同的环境中。” 但是，在几种合理的情况下，TFT存在严重的缺点。阿克塞尔罗德和迪昂在调查中指出的一个案例是，当试图纳入玩家受到执行和感知错误的合理假设时。这可以通过多种方式实现。例如，本多考虑了“嘈杂的回报”。当一名玩家在对手背叛时合作，其回报为S+e，其中e是一个随机变量，其期望值为0。每个玩家从自己的回报中推断出对方的动作，因此，如果e足够高，其推断可能是错误的。萨格登（第112-115页）考虑了一种情况，即玩家有一定的概率在执行上出错，这对他们自己而言是显而易见的，但对他们的对手而言则不是。这样的玩家可以通过采取策略来“补偿”错误的背叛，即在后续回合中比本来计划的背叛更加合作。然而，假设玩家们自己无法区分错误的移动或观察与真实的移动或观察，模拟错误的必然性最简单的方法就是完全禁止像TFT这样的确定性策略，取而代之的是“不完美”的对应策略，例如“以99%的概率模仿对手的上一次动作，并以1%的概率反对它。” 不完美的TFT比其确定性的兄弟策略更不具吸引力，因为当两个不完美的TFT策略相互对战时，任何一方的“错误”都会引发一系列长时间的轮流背叛的动作。 在两个不完美的 TFT 之间进行长期迭代游戏中，任何错误概率为 p 的情况下，0\<p<12，玩家的平均收益将接近于两个策略之间选择合作和背叛的随机游戏的平均收益，即 14(R+P+S+T)。这比当 p=0 时的 R 的收益要差得多。
 
 主流观点似乎是，当不完美是不可避免的时候，成功的策略将不得不对对手的背叛更加宽容（因为这些背叛很可能是无意的）。Molander 1985 证明了，将 TFT 与 Cu 混合的策略在错误概率接近于零时接近于 R 的收益。当这些混合策略相互对战时，它们从 Cu 到 TFT 的比例更高的比例中受益，但如果它们变得太慷慨，它们就会面临与 TFT 混合背叛的“吝啬”策略的利用风险。Molander 计算出，当混合策略设置为，在背叛之后，以概率 g(R,P,T,S)=min{1−(T−R)/(R−S),(R−P)/(T−P)}合作，慷慨的策略将在彼此之间获得最高分数，而不允许吝啬的策略比 TFT 对它们更好。根据 Nowak 和 Sigmund 的说法，我们将这种策略标记为慷慨的 TFT，或 GTFT。当支付具有常见值 5,3,1,0（如 Axelrod 1984）时，GTFT 在对手合作的每个实例之后以及对手背叛的 25%之后合作。
 
@@ -374,7 +372,7 @@ Li（2007）明确表示，APavlov的想法是对参赛策略进行有根据的�
 
 第二个想法是，不完美的环境鼓励策略更仔细地观察对手的行动。在类似于 Axelrod 的锦标赛（Donninger）中，每个玩家的移动都有 10%的机会被改变，TFT 在 21 种策略中排名第六。按照主流观点的预测，它被更慷慨的 Tit-for-Two-Tats（即 TFTT，除非连续两次受到背叛，否则合作）击败。然而，它也被 Downing 的两个版本击败，Downing 是一个根据对手对其先前移动的反应进行最佳估计的程序。在 Axelrod 的两个原始锦标赛中，Downing 在提交的程序中排名靠后的三分之一。Bendor（1987）从逻辑上证明，对于不完美的策略，将自己的背叛概率基于更长的历史比 TFT 更有优势。
 
-一种巧妙的实现是，一个在不完美环境中的策略应该注意其先前的互动的想法，是由Kraines和Kraines研究的“巴甫洛夫”策略家族。对于每个自然数n，n-Pavlov或Pn根据上一轮的表现调整其合作的概率，单位为1n。更确切地说，如果Pn在上一轮以概率p合作，那么在这一轮中，如果它在上一轮中获得了奖励支付，它将以概率p[+]1n合作；如果它在上一轮中获得了惩罚支付，它将以概率p[−]1n合作；如果它在上一轮中获得了诱惑支付，它将以概率p[+]2n合作；如果它在上一轮中获得了吸血鬼支付，它将以概率p[−]2n合作。[+]和[−]是有界的加法和减法，即x[+]y是x+y的和，除非该数字超过了1，此时它是1（或者尽可能接近1，允许误差的可能性），x[−]y同样要么是x-y，要么接近于零。严格来说，只有在给出合作的初始概率之后，Pn才能完全确定，但是在足够长的游戏中，该参数的值对大多数目的来说变得微不足道，并且可以安全地忽略。可能看起来Pn需要比TFT更多的计算资源来实现。后者的每一步只取决于对手的最后一步，而Pn的每一步都是根据两个玩家先前移动的整个历史的函数。然而，Pn始终可以通过仅跟踪其当前合作概率和上次支付来计算其下一步。正如其作者所坚持的那样，这似乎是“动物世界中的一种自然策略”。可以计算出，对于n>1，Pn对抗随机策略的表现比TFT更好。更一般地说，对于总是以固定概率p≥12合作的慷慨不响应策略Cp，Pn的表现与TFT一样好或更好（因为偶尔的诱惑支付可以教会它利用不响应的策略）。) 在这些情况下，具有较高 n 值的“慢学习者”版本的帕夫洛夫比具有低值的“快学习者”稍微好一些。与其他帕夫洛夫策略和 TFT 一样，Pn 及其对手对于反应性策略最终达到（几乎）恒定的合作状态。总体回报与“训练时间”成反比，即达到该状态所需的回合数。由于 Pn 的训练时间与 n 呈指数变化，Kraines 和 Kraines 认为 P3 或 P4 比其他帕夫洛夫策略更可取，并且接近于“理想”的 IPD 策略。然而，值得注意的是，当（确定性的）TFT 与自身对战时，根本不需要训练时间，而当帕夫洛夫策略与 TFT 或其他帕夫洛夫策略对战时，训练时间可能很长。因此，帕夫洛夫相对于 TFT 的优越性的论证的说服力取决于其在受到缺陷影响时表现出的退化程度较小的观察结果。还值得记住的是，在 IPD 中，没有一种策略在每个环境中都是最好的，而且用于捍卫各种策略的标准模糊且异质。下一节讨论的 IPD 的进化版本的一个优点是它们允许更仔细地制定和评估成功标准。
+一种巧妙的实现是，一个在不完美环境中的策略应该注意其先前的互动的想法，是由Kraines和Kraines研究的“巴甫洛夫”策略家族。对于每个自然数n，n-Pavlov或Pn根据上一轮的表现调整其合作的概率，单位为1n。更确切地说，如果Pn在上一轮以概率p合作，那么在这一轮中，如果它在上一轮中获得了奖励支付，它将以概率p\[+]1n合作；如果它在上一轮中获得了惩罚支付，它将以概率p\[−]1n合作；如果它在上一轮中获得了诱惑支付，它将以概率p\[+]2n合作；如果它在上一轮中获得了吸血鬼支付，它将以概率p\[−]2n合作。\[+]和\[−]是有界的加法和减法，即x\[+]y是x+y的和，除非该数字超过了1，此时它是1（或者尽可能接近1，允许误差的可能性），x\[−]y同样要么是x-y，要么接近于零。严格来说，只有在给出合作的初始概率之后，Pn才能完全确定，但是在足够长的游戏中，该参数的值对大多数目的来说变得微不足道，并且可以安全地忽略。可能看起来Pn需要比TFT更多的计算资源来实现。后者的每一步只取决于对手的最后一步，而Pn的每一步都是根据两个玩家先前移动的整个历史的函数。然而，Pn始终可以通过仅跟踪其当前合作概率和上次支付来计算其下一步。正如其作者所坚持的那样，这似乎是“动物世界中的一种自然策略”。可以计算出，对于n>1，Pn对抗随机策略的表现比TFT更好。更一般地说，对于总是以固定概率p≥12合作的慷慨不响应策略Cp，Pn的表现与TFT一样好或更好（因为偶尔的诱惑支付可以教会它利用不响应的策略）。) 在这些情况下，具有较高 n 值的“慢学习者”版本的帕夫洛夫比具有低值的“快学习者”稍微好一些。与其他帕夫洛夫策略和 TFT 一样，Pn 及其对手对于反应性策略最终达到（几乎）恒定的合作状态。总体回报与“训练时间”成反比，即达到该状态所需的回合数。由于 Pn 的训练时间与 n 呈指数变化，Kraines 和 Kraines 认为 P3 或 P4 比其他帕夫洛夫策略更可取，并且接近于“理想”的 IPD 策略。然而，值得注意的是，当（确定性的）TFT 与自身对战时，根本不需要训练时间，而当帕夫洛夫策略与 TFT 或其他帕夫洛夫策略对战时，训练时间可能很长。因此，帕夫洛夫相对于 TFT 的优越性的论证的说服力取决于其在受到缺陷影响时表现出的退化程度较小的观察结果。还值得记住的是，在 IPD 中，没有一种策略在每个环境中都是最好的，而且用于捍卫各种策略的标准模糊且异质。下一节讨论的 IPD 的进化版本的一个优点是它们允许更仔细地制定和评估成功标准。
 
 ## 16. 进化
 
@@ -400,7 +398,7 @@ Nowak和Sigmund模拟了两种避免三个可疑特征的锦标赛。第一个�
 
 ![Figure 8](https://plato.stanford.edu/entries/prisoner-dilemma/fig8-Moore.png)
 
- 图 8
+图 8
 
 这台机器有两个状态，用圆圈表示。它从最左边的状态开始。左圆圈中的C表示机器在第一步上合作。从左到右的箭头表示机器在合作（处于C状态）并且对手背叛（箭头标有d）之后会缺陷（进入D状态）。林斯特进行了演化囚徒困境的模拟，其中的策略可以用两状态的摩尔机器来表示。结果发现，这些策略正是诺瓦克和西格蒙德的S策略的确定性版本。由于这些策略是确定性的，我们必须区分在第一轮合作和第一轮背叛的版本。在第一轮合作者中，S(1,1,1,1)、S(1,1,1,0)、S(1,1,0,1)和S(1,1,0,0)都代表无条件合作的策略Cu。同样，第一轮背叛者中的四个都代表Du。其他的每个S(p1,p2,p3,p4)，其中p1、p2、p3、p4都是零或一，代表着独特的策略，并且每个策略有两种变体，根据它在第一轮是合作还是背叛。通过从这32个确定性版本的诺瓦克和西格蒙德策略中删除这六个重复的，我们得到了林斯特考虑的26个“两状态”策略。
 
@@ -482,10 +480,10 @@ SPD 的“地理”方面不必过于字面理解。对于社会应用，甚至�
 
 2IPD 的另一个值得注意的特点，在 Press 和 Dyson（附录 A）中得到了严格证明，即长期记忆对于游戏的好表现是不必要的。假设我采用一个记忆一的策略，即我只根据我们上次的互动来决定每一步。然后 Press 和 Dyson 证明，你不能通过使用更长的记忆来获益：无论你采用什么策略，都存在一个等效的记忆一策略，你本可以采用它来使我们两个得分相同。通过自己采用记忆一策略，我确保更长的记忆对你没有好处。因此，我们可以不失一般性地将 2IPD 游戏视为具有记忆一策略的代理之间的游戏。
 
-两个记忆一代理之间的 2IPD 游戏（实际上是任何两个记忆一代理之间的两个玩家、两个移动的游戏）可以以一种特别明晰的方式表示。让 O1、O2、O3、O4 表示四种结果 CC、CD、DC 和 DD。记忆一策略（如上面的演化讨论中所述）是在结果 O1、O2、O3、O4 之后以概率 p1、p2、p3、p4 合作的策略 S(p1,p2,p3,p4)。（如果我们假设游戏无限次重复，并且对于 i=1,2,3,4，0<pi<1，则可以忽略初始移动。）让 S(p1,p2,p3,p4)和 S(q1,q2,q3,q4)分别是玩家一和玩家二的策略。（对于玩家二，下标被交换，所以 p2 和 q2 都表示在收到吸血鬼支付后合作的概率，p3 和 q3 表示在收到诱惑后合作的概率。）让 p′i=1−pi 和 q′i=1−qi（对于 i=1,2）（这样 p′i 和 q′i 就是背叛的几率）。然后我们可以将 One 和 Two 之间的 2IPD 表示为“马尔可夫转移矩阵”，显示从任何状态转移到任何状态的几率。
+两个记忆一代理之间的 2IPD 游戏（实际上是任何两个记忆一代理之间的两个玩家、两个移动的游戏）可以以一种特别明晰的方式表示。让 O1、O2、O3、O4 表示四种结果 CC、CD、DC 和 DD。记忆一策略（如上面的演化讨论中所述）是在结果 O1、O2、O3、O4 之后以概率 p1、p2、p3、p4 合作的策略 S(p1,p2,p3,p4)。（如果我们假设游戏无限次重复，并且对于 i=1,2,3,4，0\<pi<1，则可以忽略初始移动。）让 S(p1,p2,p3,p4)和 S(q1,q2,q3,q4)分别是玩家一和玩家二的策略。（对于玩家二，下标被交换，所以 p2 和 q2 都表示在收到吸血鬼支付后合作的概率，p3 和 q3 表示在收到诱惑后合作的概率。）让 p′i=1−pi 和 q′i=1−qi（对于 i=1,2）（这样 p′i 和 q′i 就是背叛的几率）。然后我们可以将 One 和 Two 之间的 2IPD 表示为“马尔可夫转移矩阵”，显示从任何状态转移到任何状态的几率。
 
-|    | O1   | O2     | O3     | O4       |
-| ---- | ------ | -------- | -------- | ---------- |
+|    | O1   | O2    | O3    | O4     |
+| -- | ---- | ----- | ----- | ------ |
 | O1 | p1q1 | p1q′1 | p′1q1 | p′1q′1 |
 | O2 | p2q3 | p2q′3 | p′2q3 | p′2q′3 |
 | O3 | p3q2 | p3q′2 | p′3q2 | p′3q′2 |
@@ -526,7 +524,7 @@ p1（p2，p3，p4）p3（T−R）（R−S）p4（T−R）（R−P）=1，≠（1
 第三种机制是通过考虑更复杂的进化动力学，使玩家更有可能与类似自己的人相遇。生物学家和生物哲学家之间一直存在着关于自然选择作用的适当“选择单位”的激烈辩论。最近，人们重新提出了这样一种观点，即在许多情况下，将这些单位视为个体群体（而不是或者除了基因或个体之外）是有道理的和可信的观点（请参见Sober和Wilson或Wilson和Sober，了解这种观点的历史和激情的辩护）。对于文化进化来说，这个观点同样可信 - 群体内的行为可能处于平衡状态，但不同群体达到的平衡可能是不同的。不成功的群体可能会模仿、被更成功的群体取代，或者失去成员。Sober和Wilson有时写得好像进化博弈论是对群体选择的一种替代观点，但重要的是要理解，这只适用于像上面介绍的简单进化模型这样的情况。更复杂的进化博弈是可能的。例如，考虑一种最初由约翰·梅纳德·史密斯描述的简化版本的干草堆模型。来自大群体的玩家成对随机配对。每对玩家占领一个干草堆。这对玩家进行囚徒困境，并且个体的回报决定了该个体在下一代中的后代数量（父母在孩子出生时死亡）。在固定的若干代中，群体成员与其他成员随机配对并进行囚徒困境。然后拆除干草堆，群体混合并随机成对占领下一个季节的干草堆。 一种简单的表示 n 代干草堆囚徒困境的方法是将其视为两个初始创始人之间的游戏，创始人的回报被设定为使用其策略的后代数量。（这个想法是在 Bergstrom 的建议下提出的，并在 Skyrms 2004 年的报告中提到。）例如，假设 n=3，诱惑、奖励、惩罚和吸血鬼的回报分别设定为 5、3、1、0。那么，如果玩家一合作而玩家二背叛，玩家一的回报将为 0，因为合作者在第二代和任何后续的一代中都没有后代。玩家二的回报将为 5，因为背叛者在第二代中有五个（志同道合的）后代，并且每个后代在第三代中都有一个，因为没有合作者可以相遇。四代干草堆囚徒困境的完整回报矩阵，其回报为 3、2、1 和 0，如下所示。
 
 |   | C   | D   |
-| --- | ----- | ----- |
+| - | --- | --- |
 | C | 8,8 | 0,3 |
 | D | 3,0 | 1,1 |
 
@@ -536,135 +534,135 @@ p1（p2，p3，p4）p3（T−R）（R−S）p4（T−R）（R−P）=1，≠（1
 
 ## Bibliography
 
-* Akin, Ethan, 2013, “The Iterated Prisoner’s Dilemma: Good Strategies and Their Dynamics,” arXiv:1211.0969v3 [math.DS].
-* Aumann, Robert, 1995, “Backward Induction and Common Knowledge of Rationality,” *Games and Economic Behavior*, 8: 97–105.
-* –––, 1998, “Note on the Centipede Game,” *Games and Economic Behavior*, 23: 97–105.
-* Axelrod, Robert, 1981, “The Emergence of Cooperation Among Egoists,” *The American Political Science Review*, 75: 306–318.
-* –––, 1984, *The Evolution of Cooperation*, New York: Basic Books.
-* Axelrod, Robert and Douglas Dion, 1988, “The Further Evolution of Cooperation,”*Science*, 242 (December 9): 1385–1390.
-* Axelrod, Robert and William Hamilton, 1981, “The Evolution of Cooperation,” *Science*, 211 (March 27): 1390–1396.
-* Batali, John and Philip Kitcher, 1995, “Evolution of Altruism in Optional and Compulsory Games,” *Journal of Theoretical Biology*, 178: 161–171.
-* Beaufils, Bruno & J.P. Delahaye, and P. Mathieu, “Our Meeting With Gradual: A Good Strategy For The Iterated Prisoner's Dilemma,” *Proceedings of the Fifth International Workshop on the Synthesis and Simulation of Living Systems*, MIT Press, 202–212.
-* Becker, Neal and Ann Cudd, 1990, “Indefinitely Repeated Games: A Response to Carroll,” *Theory and Decision*, 28: 189–195.
-* Bendor, Jonathan, 1987, “In Good Times and Bad: Reciprocity in an Uncertain World,” *American Journal of Political Science*, 31: 531–558.
-* –––, 1993, “Uncertainty and the Evolution of Cooperation,” *Journal of Conflict Resolution*, 37: 709–733.
-* Bendor, Jonathan, and Piotr Swistak, 1995, “Types of Evolutionary Stability and the Problem of cooperations,” *Proceedings of the National Academy of Sciences*, 92 (April): 3596–3600.
-* Bendor, Jonathan, and Piotr Swistak, 1996, “The Controversy about the Evolution of Cooperation and the Evolutionary Roots of Social Institutions,” in Gasparski, Wojciech et al (eds), *Social Agency*, New Brunswick, N.J.: Transaction Publishers.
-* Bendor, Jonathan, and Piotr Swistak, 1997, “The Evolutionary Stability of Cooperations,” *American Political Science Review*, 91 (2): 290–307.
-* Bendor, Jonathan, and Piotr Swistak, 1998, “Evolutionary Equilibria: Characterization Theorems and Their Implications,” *Theory and Decision*, 45: 99–159.
-* Bendor, Jonathan, Roderick Kramer and Piotr Swistak, 1996, “Cooperation Under Uncertainty: What is New, What is True and What is Important?” *American Sociological Review*, 61 (April): 333–338.
-* Berg, Joyce, John Dickhaut and Kevin McCabe, 1995,  “Trust, Reciprocity and Social History?” *Games and Economic Behavior*, 10 (July): 122–142.
-* Bergstrom, T., 2002, “Evolution of Social Behavior: Individual and Group Selection Models,” *Journal of Economic Perspectives*, 16: 231–238.
-* Bicchieri, Cristina, 1989, “Self-refuting Theories of Strategic Interaction,” *Erkenntinis*, 30: 69–85.
+* Akin, Ethan, 2013, “The Iterated Prisoner’s Dilemma: Good Strategies and Their Dynamics,” arXiv:1211.0969v3 \[math.DS].
+* Aumann, Robert, 1995, “Backward Induction and Common Knowledge of Rationality,” _Games and Economic Behavior_, 8: 97–105.
+* –––, 1998, “Note on the Centipede Game,” _Games and Economic Behavior_, 23: 97–105.
+* Axelrod, Robert, 1981, “The Emergence of Cooperation Among Egoists,” _The American Political Science Review_, 75: 306–318.
+* –––, 1984, _The Evolution of Cooperation_, New York: Basic Books.
+* Axelrod, Robert and Douglas Dion, 1988, “The Further Evolution of Cooperation,”_Science_, 242 (December 9): 1385–1390.
+* Axelrod, Robert and William Hamilton, 1981, “The Evolution of Cooperation,” _Science_, 211 (March 27): 1390–1396.
+* Batali, John and Philip Kitcher, 1995, “Evolution of Altruism in Optional and Compulsory Games,” _Journal of Theoretical Biology_, 178: 161–171.
+* Beaufils, Bruno & J.P. Delahaye, and P. Mathieu, “Our Meeting With Gradual: A Good Strategy For The Iterated Prisoner's Dilemma,” _Proceedings of the Fifth International Workshop on the Synthesis and Simulation of Living Systems_, MIT Press, 202–212.
+* Becker, Neal and Ann Cudd, 1990, “Indefinitely Repeated Games: A Response to Carroll,” _Theory and Decision_, 28: 189–195.
+* Bendor, Jonathan, 1987, “In Good Times and Bad: Reciprocity in an Uncertain World,” _American Journal of Political Science_, 31: 531–558.
+* –––, 1993, “Uncertainty and the Evolution of Cooperation,” _Journal of Conflict Resolution_, 37: 709–733.
+* Bendor, Jonathan, and Piotr Swistak, 1995, “Types of Evolutionary Stability and the Problem of cooperations,” _Proceedings of the National Academy of Sciences_, 92 (April): 3596–3600.
+* Bendor, Jonathan, and Piotr Swistak, 1996, “The Controversy about the Evolution of Cooperation and the Evolutionary Roots of Social Institutions,” in Gasparski, Wojciech et al (eds), _Social Agency_, New Brunswick, N.J.: Transaction Publishers.
+* Bendor, Jonathan, and Piotr Swistak, 1997, “The Evolutionary Stability of Cooperations,” _American Political Science Review_, 91 (2): 290–307.
+* Bendor, Jonathan, and Piotr Swistak, 1998, “Evolutionary Equilibria: Characterization Theorems and Their Implications,” _Theory and Decision_, 45: 99–159.
+* Bendor, Jonathan, Roderick Kramer and Piotr Swistak, 1996, “Cooperation Under Uncertainty: What is New, What is True and What is Important?” _American Sociological Review_, 61 (April): 333–338.
+* Berg, Joyce, John Dickhaut and Kevin McCabe, 1995,  “Trust, Reciprocity and Social History?” _Games and Economic Behavior_, 10 (July): 122–142.
+* Bergstrom, T., 2002, “Evolution of Social Behavior: Individual and Group Selection Models,” _Journal of Economic Perspectives_, 16: 231–238.
+* Bicchieri, Cristina, 1989, “Self-refuting Theories of Strategic Interaction,” _Erkenntinis_, 30: 69–85.
 * Bicchieri, Cristina and Allesandro Sontuoso, “I Cannot Cheat on You After We Talk,” in Martin Peterson (ed) 2015, 101–114.
-* Binmore, Kenneth, 1992, *Fun and Games*, Lexington, MA: D.C. Heath and Company.
-* –––, 1994, *Playing Fair: Game Theory and the Social Contract 1*, Cambridge, MA: MIT Press.
-* –––, 1997, “Rationality and Backward Induction,” *Journal of Economic Methodology*, 4: 23–41.
-* –––, 2005, *Natural Justice*, New York, NY: Oxford Univsity Press.
+* Binmore, Kenneth, 1992, _Fun and Games_, Lexington, MA: D.C. Heath and Company.
+* –––, 1994, _Playing Fair: Game Theory and the Social Contract 1_, Cambridge, MA: MIT Press.
+* –––, 1997, “Rationality and Backward Induction,” _Journal of Economic Methodology_, 4: 23–41.
+* –––, 2005, _Natural Justice_, New York, NY: Oxford Univsity Press.
 * –––, 2015,“Why All the Fuss: The Many Aspects of the Prisoner's Dilemma,” in Peterson (ed.), 16–34.
 * Bonanno, Giacomo, 2015, “Counterfactuals and the Prisoner's Dilemma,” in Martin Peterson (ed.) 2015, 133–155.
 * Bovens, Luc, 2015, “The Tragedy of the Commons as a Voting Game,” in Martin Peterson (ed.) 2015, 133–156-176.
-* Boyd, Robert and Jeffrey Lorberbaum, 1987, “No Pure Strategy is Evolutionarily Stable in the repeated Prisoner's Dilemma Game,” *Nature*, 327 (May 7): 58–59.
-* Carroll, J.W., 1987, “Indefinite Terminating Points and the Iterated Prisoner’s Dilemma,” *Theory and Decision*, 22: 247–256.
-* Cambell, Richmond and Lanning Snowden, 1985, *Paradoxes of Rationality and Cooperation*, Vancouver: University of British Columbia Press.
-* Danielson, Peter, 1992, *Artificial Morality: Virtual Robots for Virtual Games*, London: Routledge.
-* Davis, Laurence, 1977, “Prisoners, Paradox and Rationality,” *American Philosophical Quarterly*, 14: 319–327; reprinted in Campbell and Snowden, 45–58.
+* Boyd, Robert and Jeffrey Lorberbaum, 1987, “No Pure Strategy is Evolutionarily Stable in the repeated Prisoner's Dilemma Game,” _Nature_, 327 (May 7): 58–59.
+* Carroll, J.W., 1987, “Indefinite Terminating Points and the Iterated Prisoner’s Dilemma,” _Theory and Decision_, 22: 247–256.
+* Cambell, Richmond and Lanning Snowden, 1985, _Paradoxes of Rationality and Cooperation_, Vancouver: University of British Columbia Press.
+* Danielson, Peter, 1992, _Artificial Morality: Virtual Robots for Virtual Games_, London: Routledge.
+* Davis, Laurence, 1977, “Prisoners, Paradox and Rationality,” _American Philosophical Quarterly_, 14: 319–327; reprinted in Campbell and Snowden, 45–58.
 * –––, 1985, “Is the Symmetry Argument Valid?,” in Campbell and Snowden 1985, 255–262.
-* Donninger, Christian, 1986, “Is It Always Efficient to be Nice?” in Dickman and Mitter (eds.), *Paradoxical Effects of Social Behavior*, Heidelberg: Physica Verlag, 123–134.
-* Farrell, Joseph, and Roger Ware, 1989, “Evolutionary Stability in the Repeated Prisoner's Dilemma,” *Theoretical Population Biology*, 36: 161–167.
-* Gauthier, David, 1986, *Morals by Agreement*, Oxford: Clarendon Press.
-* Grim, Patrick, Gary Mar and Paul St. Denis, 1998, *The Philosophical Computer*, Cambrige, Mass: MIT Press.
-* Hardin, Garret, 1968, “The Tragedy of the Commons,” *Science*, 162 (December 13): 1243–1248.
-* Hilbe, Christian, Martin A. Nowak, and Karl Sigmund, 2013, “Evolution of extortion in Iterated Prisoner's Dilemma games,” *Proceedings of the National Academy of Sciences*, 110 (17): 6913–6918.
-* Howard, Nigel, 1971, *Paradoxes of Rationality*, Cambridge, MA: MIT Press.
-* Howard, J.V., 1988, “Cooperation in the Prisoner's Dilemma,” *Theory and Decision*, 24: 203–213.
-* Hurley, S.L., 1991, “Newcomb's Problem, Prisoners' Dilemma, and Collective Action,” *Synthese*, 86: 173–196.
-* Joyce, James, 1999, *The Foundations of Causal Decision Theory*, Cambridge University Press.
-* Jurišić, Marko, D. Kermek and M. Konecki, 2012, “A Review of Iterated Prisoner’s Dilemma Strategies,” *Proceedings of the 35th International Convention MIPRO*, 1093–1097.
-* Kavka, Gregory, 1983, “Hobbes War of All Against All,” *Ethics*, 93: 291–310.
-* –––, 1986, *Hobbesean Moral and Political Theory*, Princeton: Princeton University Press.
-* –––, 1991, “Is Individual Choice Less Problematic than Collective Choice?” *Economics and Philosophy*, 7: 291–310.
-* Kitcher, Philip, 1993, “The Evolution of Human Altruism” *Journal of Philosophy*, 90: 497–516.
-* –––, 2011, *The Ethical Project*, Cambridge, MA: Harvard University Press.
-* Kendall, Graham, Xin Yao and Siang Yew Chong, 2007, *The Iterated Prisoners’ Dilemma: 20 Years On*, Singapore: World Scientific Publishing Co.
-* Kollock, Peter, 1993, “An Eye For an Eye Leaves Everybody Blind: Cooperation and Accounting Systems,” *American Sociological Review*, 58: 768–786.
-* Kraines, David and Vivian Kraines, 1989, “Pavlov and the Prisoner's Dilemma,” *Theory and Decision*, 26: 47–79.
-* –––, 1993, “Learning to Cooperate with Pavlov: an Adaptive Strategy for the Iterated Prisoner's Dilemma with Noise,” *Theory and Decision*, 35: 107–150.
-* Kreps, David, 1990, “Corporate Culture and Economic Theory,” in Alt, J and K Shepsle (eds.), *Perspectives on Positive Political Economy* Cambridge: Cambridge University Press, 90–142.
-* Kreps, David, Paul Milgrom, John Roberts and Robert Wilson, 1982, “Rational Cooperation in the Finitely Repeated Prisoner's Dilemma,” *Journal of Economic Theory*, 27: 245–252.
-* Kretz, Tobias, 2011, “A Round-Robin Tournament of the Iterated Prisoner's Dilemma with Complete Memory-Size-Three Strategies,” *Complex Systems* 19: 363–389.
-* Kuhn, Steven, 1996, “Agreement Keeping and Indirect Moral Theory” *Journal of Philosophy*, 93: 105–128.
-* –––, 2004, “Reflections on Ethics and Game Theory” *Synthese*, 141: 1–44.
-* Kuhn, Steven, and Serge Moresi, 1995, “Pure and Utilitarian Prisoner's Dilemmas” *Economics and Philosophy*, 11: 123–133.
-* Lewis, David, 1979, “Prisoner's Dilemma Is a Newcomb Problem,” *Philosophy and Public Affairs* 8: 235–240.
-* Linster, Bruce, 1992, “Evolutionary Stability in the Infinitely Repeated Prisoners' Dilemma Played by Two-State Moore Machines,” *Southern Economic Journal*, 58: 880–903.
-* –––, 1994, “Stochastic Evolutionary Dynamics in the Repeated Prisoners' Dilemma,” *Economic Inquiry*, XXXII: 342–357.
-* Maynard Smith, John, 1978, “The Evolution of Behavior,” *Scientific American*, 239: 176–192.
-* Molander, Per, 1985, “The Optimal Level of Generosity in a Selfish, Uncertain Environment,” *Journal of Conflict Resolution*, 29 (December): 611–619.
-* –––, 1992, “The Prevalence of Free Riding,” *Journal of Conflict Resolution*, 36 (December): 756–771.
-* Mukherji, Arijit, Vijay Rajan and James Slagle, 1996, “Robustness of Cooperation,” *Nature*, 379 (January 11): 125–126.
-* Nash, John, 1950, *Non Cooperative Games*, Princeton University PhD dissertation, reprinted in *Annals of Mathematics* 54, 1951 (September) 286–295.
+* Donninger, Christian, 1986, “Is It Always Efficient to be Nice?” in Dickman and Mitter (eds.), _Paradoxical Effects of Social Behavior_, Heidelberg: Physica Verlag, 123–134.
+* Farrell, Joseph, and Roger Ware, 1989, “Evolutionary Stability in the Repeated Prisoner's Dilemma,” _Theoretical Population Biology_, 36: 161–167.
+* Gauthier, David, 1986, _Morals by Agreement_, Oxford: Clarendon Press.
+* Grim, Patrick, Gary Mar and Paul St. Denis, 1998, _The Philosophical Computer_, Cambrige, Mass: MIT Press.
+* Hardin, Garret, 1968, “The Tragedy of the Commons,” _Science_, 162 (December 13): 1243–1248.
+* Hilbe, Christian, Martin A. Nowak, and Karl Sigmund, 2013, “Evolution of extortion in Iterated Prisoner's Dilemma games,” _Proceedings of the National Academy of Sciences_, 110 (17): 6913–6918.
+* Howard, Nigel, 1971, _Paradoxes of Rationality_, Cambridge, MA: MIT Press.
+* Howard, J.V., 1988, “Cooperation in the Prisoner's Dilemma,” _Theory and Decision_, 24: 203–213.
+* Hurley, S.L., 1991, “Newcomb's Problem, Prisoners' Dilemma, and Collective Action,” _Synthese_, 86: 173–196.
+* Joyce, James, 1999, _The Foundations of Causal Decision Theory_, Cambridge University Press.
+* Jurišić, Marko, D. Kermek and M. Konecki, 2012, “A Review of Iterated Prisoner’s Dilemma Strategies,” _Proceedings of the 35th International Convention MIPRO_, 1093–1097.
+* Kavka, Gregory, 1983, “Hobbes War of All Against All,” _Ethics_, 93: 291–310.
+* –––, 1986, _Hobbesean Moral and Political Theory_, Princeton: Princeton University Press.
+* –––, 1991, “Is Individual Choice Less Problematic than Collective Choice?” _Economics and Philosophy_, 7: 291–310.
+* Kitcher, Philip, 1993, “The Evolution of Human Altruism” _Journal of Philosophy_, 90: 497–516.
+* –––, 2011, _The Ethical Project_, Cambridge, MA: Harvard University Press.
+* Kendall, Graham, Xin Yao and Siang Yew Chong, 2007, _The Iterated Prisoners’ Dilemma: 20 Years On_, Singapore: World Scientific Publishing Co.
+* Kollock, Peter, 1993, “An Eye For an Eye Leaves Everybody Blind: Cooperation and Accounting Systems,” _American Sociological Review_, 58: 768–786.
+* Kraines, David and Vivian Kraines, 1989, “Pavlov and the Prisoner's Dilemma,” _Theory and Decision_, 26: 47–79.
+* –––, 1993, “Learning to Cooperate with Pavlov: an Adaptive Strategy for the Iterated Prisoner's Dilemma with Noise,” _Theory and Decision_, 35: 107–150.
+* Kreps, David, 1990, “Corporate Culture and Economic Theory,” in Alt, J and K Shepsle (eds.), _Perspectives on Positive Political Economy_ Cambridge: Cambridge University Press, 90–142.
+* Kreps, David, Paul Milgrom, John Roberts and Robert Wilson, 1982, “Rational Cooperation in the Finitely Repeated Prisoner's Dilemma,” _Journal of Economic Theory_, 27: 245–252.
+* Kretz, Tobias, 2011, “A Round-Robin Tournament of the Iterated Prisoner's Dilemma with Complete Memory-Size-Three Strategies,” _Complex Systems_ 19: 363–389.
+* Kuhn, Steven, 1996, “Agreement Keeping and Indirect Moral Theory” _Journal of Philosophy_, 93: 105–128.
+* –––, 2004, “Reflections on Ethics and Game Theory” _Synthese_, 141: 1–44.
+* Kuhn, Steven, and Serge Moresi, 1995, “Pure and Utilitarian Prisoner's Dilemmas” _Economics and Philosophy_, 11: 123–133.
+* Lewis, David, 1979, “Prisoner's Dilemma Is a Newcomb Problem,” _Philosophy and Public Affairs_ 8: 235–240.
+* Linster, Bruce, 1992, “Evolutionary Stability in the Infinitely Repeated Prisoners' Dilemma Played by Two-State Moore Machines,” _Southern Economic Journal_, 58: 880–903.
+* –––, 1994, “Stochastic Evolutionary Dynamics in the Repeated Prisoners' Dilemma,” _Economic Inquiry_, XXXII: 342–357.
+* Maynard Smith, John, 1978, “The Evolution of Behavior,” _Scientific American_, 239: 176–192.
+* Molander, Per, 1985, “The Optimal Level of Generosity in a Selfish, Uncertain Environment,” _Journal of Conflict Resolution_, 29 (December): 611–619.
+* –––, 1992, “The Prevalence of Free Riding,” _Journal of Conflict Resolution_, 36 (December): 756–771.
+* Mukherji, Arijit, Vijay Rajan and James Slagle, 1996, “Robustness of Cooperation,” _Nature_, 379 (January 11): 125–126.
+* Nash, John, 1950, _Non Cooperative Games_, Princeton University PhD dissertation, reprinted in _Annals of Mathematics_ 54, 1951 (September) 286–295.
 * Northcott, Robert and Anna Alexandrova, 2015,“Prisoner's Dilemma Doesn't Explain Much,” in Peterson (ed), 64–84.
-* Nowak, Martin, and Robert May, 1992, “Evolutionary Games and Spatial Chaos,”*Nature*, 359 (October 29): 826–829.
-* Nowak, Martin and Karl Sigmund, 1992, “Tit for Tat in Heterogeneous Populations,” *Nature*, 355 (January 16): 250–253.
-* –––, 1993, “A Strategy of Win-stay, Lose-shift that Outperforms Tit-for-tat in the Prisoner's Dilemma Game,” *Nature*, 364 (July 1): 56–58.
-* Nowak, Martin, Robert May, and Karl Sigmund, 1995, “The Arithmetics of Mutual Help,” *Scientific American*, (June): 76–81.
-* Nozick, Robert, 1969, “Newcomb's Problem and Two Principles of Choice”, in N. Resher (ed.), *Essays in Honor of Carl G. Hempel*, Dordrecht: D. Reidel, 114–146; reprinted in Cambell and Snowden 1985, 107–132.
-* Orbell, John, and Robyn Dawes, 1993, “A ‘Cognitive Miser Miser’ Theory of Cooperative Advantage,” *American Political Science Reveiw*, 58: 787–800.
-* Orbell, John, and Robyn Dawes, 1993, “Social Welfare, Cooperators' Advantage and the Option of Not Playing the Game,” *American Sociological Reveiw*, 58: 787–800.
-* Peterson, Martin (ed), 2015, *The Prisoner's Dilemma*, Cambridge: Cambridge University Press.
-* Pettit, Phillip, 1986, “Free Riding and Foul Dealing,” *Journal of Philosophy*, 83: 361–379.
-* Pettit, Phillip and Robert Sugden, 1989, “The Backward Induction Paradox,” *Journal of Philosophy*, 86: 169–182.
-* Poundstone, William, 1992, *Prisoner's Dilemma* New York: Doubleday.
-* Press, William and Freeman Dyson, 2012, “Iterated Prisoner's Dilemma Contains Strategeis That Dominate Any Evolutionary Opponent,” *Proceedings of the National Academy of Sciences*, 109: 10409–10413.
-* Quinn, Warren, 1990, “The Paradox of the Self-Torturer,” *Philosophical Studies*, 59: 79–90.
-* Rabinowicz, Wlodek, 1998, “Grappling with the Centipede: Defense of Backward Induction for BI-Terminating Games,” *Economics and Philosophy*, 14: 95–126.
-* Rapoport Ammon, DA Seale and AM Colman, 2015, “Is Tit-for-Tat the Answer? On the Conclusions Drawn from Axelrod's Tournaments,” *PLoS ONE*, 10(7): e0134128.
+* Nowak, Martin, and Robert May, 1992, “Evolutionary Games and Spatial Chaos,”_Nature_, 359 (October 29): 826–829.
+* Nowak, Martin and Karl Sigmund, 1992, “Tit for Tat in Heterogeneous Populations,” _Nature_, 355 (January 16): 250–253.
+* –––, 1993, “A Strategy of Win-stay, Lose-shift that Outperforms Tit-for-tat in the Prisoner's Dilemma Game,” _Nature_, 364 (July 1): 56–58.
+* Nowak, Martin, Robert May, and Karl Sigmund, 1995, “The Arithmetics of Mutual Help,” _Scientific American_, (June): 76–81.
+* Nozick, Robert, 1969, “Newcomb's Problem and Two Principles of Choice”, in N. Resher (ed.), _Essays in Honor of Carl G. Hempel_, Dordrecht: D. Reidel, 114–146; reprinted in Cambell and Snowden 1985, 107–132.
+* Orbell, John, and Robyn Dawes, 1993, “A ‘Cognitive Miser Miser’ Theory of Cooperative Advantage,” _American Political Science Reveiw_, 58: 787–800.
+* Orbell, John, and Robyn Dawes, 1993, “Social Welfare, Cooperators' Advantage and the Option of Not Playing the Game,” _American Sociological Reveiw_, 58: 787–800.
+* Peterson, Martin (ed), 2015, _The Prisoner's Dilemma_, Cambridge: Cambridge University Press.
+* Pettit, Phillip, 1986, “Free Riding and Foul Dealing,” _Journal of Philosophy_, 83: 361–379.
+* Pettit, Phillip and Robert Sugden, 1989, “The Backward Induction Paradox,” _Journal of Philosophy_, 86: 169–182.
+* Poundstone, William, 1992, _Prisoner's Dilemma_ New York: Doubleday.
+* Press, William and Freeman Dyson, 2012, “Iterated Prisoner's Dilemma Contains Strategeis That Dominate Any Evolutionary Opponent,” _Proceedings of the National Academy of Sciences_, 109: 10409–10413.
+* Quinn, Warren, 1990, “The Paradox of the Self-Torturer,” _Philosophical Studies_, 59: 79–90.
+* Rabinowicz, Wlodek, 1998, “Grappling with the Centipede: Defense of Backward Induction for BI-Terminating Games,” _Economics and Philosophy_, 14: 95–126.
+* Rapoport Ammon, DA Seale and AM Colman, 2015, “Is Tit-for-Tat the Answer? On the Conclusions Drawn from Axelrod's Tournaments,” _PLoS ONE_, 10(7): e0134128.
 * Rogers , Alex, R.K. Dash , S.D. Ramchurn, P. Vytelingum and N.R. Jenning, 2007, “Error Correcting Codes for Team Coordination within a Noisy Iterated Prisoner’s Dilemma Tournament”, Chapter 9 of Kendall et al.
-* Rosenthal, R., 1981, “Games of Perfect Information, Predatory Pricing, and the Chain Store,” *Journal of Economic Theory*, 25: 92–100.
-* Santos, Francisco C., Jorge M. Pacheco and Brian Skyrms, 2011, “Co-evolution of Pre-play Signaling and Cooperation,” *Journal of Theoretical Biology*, 274 (1),30–35. .
-* Schelling, Thomas, 1978, *Micromotives and Macrobehavior* New York: Norton.
-* Segal, Nancy and Scott Hershberger, 1999, “Cooperation and Competition Between Twins: Findings from a Prisoner's Dilemma Game,” *Evolution and Human Behavior*, 20: 29–51
-* Selten, Reinhard, 1975, “Reexamination of the Perfectness Concept of Equilibrium in Extensive Games,” *International Journal of Game Theory*, 4: 25–55.
-* –––, 1978, “The Chain-Store Paradox,” *Theory and Decision*, 9: 127–159.
-* –––, 1983, “Evolutionary Stability in Extensive Two-person Games,” *Mathematical Social Sciences*, 5: 269–363.
-* Sigmund, Karl, 1993, *Games of Life: Explorations in Ecology Evolution and Behavior*, Oxford: Oxford University Press.
-* Skyrms, Brian, 1990, *The Dynamics of Rational Deliberation*, Cambridge, MA: Harvard University Press.
-* –––, 1996, *Evolution of the Social Contract*, Cambridge, Cambridge University Press.
-* –––, 1998, “The Shadow of the Future,” in Coleman and Morris (eds.), *Rational Commitment and Social Justice: Essays for Gregory Kavka*, New York, Cambridge University Press.
-* –––, 2004, *The Stag Hunt and the Evolution of Social Structure*, Cambridge, Cambridge University Press.
+* Rosenthal, R., 1981, “Games of Perfect Information, Predatory Pricing, and the Chain Store,” _Journal of Economic Theory_, 25: 92–100.
+* Santos, Francisco C., Jorge M. Pacheco and Brian Skyrms, 2011, “Co-evolution of Pre-play Signaling and Cooperation,” _Journal of Theoretical Biology_, 274 (1),30–35. .
+* Schelling, Thomas, 1978, _Micromotives and Macrobehavior_ New York: Norton.
+* Segal, Nancy and Scott Hershberger, 1999, “Cooperation and Competition Between Twins: Findings from a Prisoner's Dilemma Game,” _Evolution and Human Behavior_, 20: 29–51
+* Selten, Reinhard, 1975, “Reexamination of the Perfectness Concept of Equilibrium in Extensive Games,” _International Journal of Game Theory_, 4: 25–55.
+* –––, 1978, “The Chain-Store Paradox,” _Theory and Decision_, 9: 127–159.
+* –––, 1983, “Evolutionary Stability in Extensive Two-person Games,” _Mathematical Social Sciences_, 5: 269–363.
+* Sigmund, Karl, 1993, _Games of Life: Explorations in Ecology Evolution and Behavior_, Oxford: Oxford University Press.
+* Skyrms, Brian, 1990, _The Dynamics of Rational Deliberation_, Cambridge, MA: Harvard University Press.
+* –––, 1996, _Evolution of the Social Contract_, Cambridge, Cambridge University Press.
+* –––, 1998, “The Shadow of the Future,” in Coleman and Morris (eds.), _Rational Commitment and Social Justice: Essays for Gregory Kavka_, New York, Cambridge University Press.
+* –––, 2004, _The Stag Hunt and the Evolution of Social Structure_, Cambridge, Cambridge University Press.
 * Slany, Wolfgang and W. Kienreich, 2007, “On some winning strategies for the Iterated Prisoner’s Dilemma, or, Mr. Nice Guy and the Cosa Nostra,” Chapter 8 of Kendall et al.
-* Sobel, J.H., 2005, “Backward Induction Without Tears?,” in D. Vanderveken (ed.), *Logic, Thought and Action*, Berlin: Springer, 433–461.
-* –––, 1993, “Backward Induction Arguments: A Paradox Regained,” *Philosophy of Science*, 60: 114–133.
-* Sober, Elliott and David Sloan Wilson, 1998, *Unto Others: The Evolution and Psychology of Unselfish Behavior*, Cambridge, MA: Harvard University Press.
-* Stewart, Alexander and Joshua Plotkin, 2012, “Extortion and Cooperation in the Prisoner's Dilemm,” *Proceedings of the National Academy of Sciences*, 109: 10134–10135.
-* –––, 2013, “From Extortion to Generosity, Evolution in the Iterated Prisoner's Dilemm,” *Proceedings of the National Academy of Sciences*, 110: 15348–15353.
-* Sugden, R., 1986, *The Economics of Rights, Cooperation and Welfare*, New York, Basil Blackwell; 2nd edition, 2004, Basingstoke, UK: Palgrave MacMillan.
-* Szabó:, György and Christoph Hauert, 2002, “Evolutionary Prisoner's Dilemma Games with Optional Participation,” *Physical Review E*, 66: 062903.
-* Taylor, Michael, 1987, *The Possibility of Cooperation*, Cambridge: Cambridge University Press.
-* Trivers, Robert, 1971, “The Evolution of Reciprocal Altruism,” *Quarterly Review of Biology*, 46: 35–57.
-* Tzafestas, Elpida, 2000 “Toward adaptive cooperative behavior,” *Proceedings of the Sixth International Conference on the Simulation of Adaptive Behavior*, SAB-2000, 2, 334–340.
-* Vanderschraaf, Peter, 1998, “The Informal Game Theory in Hume's Account of Convention,” *Economics and Philosophy*, 14: 215–247.
-* Williamson, Timothy, 1992, “Inexact Knowledge,” *Mind*, 101: 217–242.
-* Wilson, D.S. and E. Sober, 1994, “Reintroducing Group Selection to the Human Behavioral Sciences,” *Behavioral and Brain Sciences*, 17: 585–654.
+* Sobel, J.H., 2005, “Backward Induction Without Tears?,” in D. Vanderveken (ed.), _Logic, Thought and Action_, Berlin: Springer, 433–461.
+* –––, 1993, “Backward Induction Arguments: A Paradox Regained,” _Philosophy of Science_, 60: 114–133.
+* Sober, Elliott and David Sloan Wilson, 1998, _Unto Others: The Evolution and Psychology of Unselfish Behavior_, Cambridge, MA: Harvard University Press.
+* Stewart, Alexander and Joshua Plotkin, 2012, “Extortion and Cooperation in the Prisoner's Dilemm,” _Proceedings of the National Academy of Sciences_, 109: 10134–10135.
+* –––, 2013, “From Extortion to Generosity, Evolution in the Iterated Prisoner's Dilemm,” _Proceedings of the National Academy of Sciences_, 110: 15348–15353.
+* Sugden, R., 1986, _The Economics of Rights, Cooperation and Welfare_, New York, Basil Blackwell; 2nd edition, 2004, Basingstoke, UK: Palgrave MacMillan.
+* Szabó:, György and Christoph Hauert, 2002, “Evolutionary Prisoner's Dilemma Games with Optional Participation,” _Physical Review E_, 66: 062903.
+* Taylor, Michael, 1987, _The Possibility of Cooperation_, Cambridge: Cambridge University Press.
+* Trivers, Robert, 1971, “The Evolution of Reciprocal Altruism,” _Quarterly Review of Biology_, 46: 35–57.
+* Tzafestas, Elpida, 2000 “Toward adaptive cooperative behavior,” _Proceedings of the Sixth International Conference on the Simulation of Adaptive Behavior_, SAB-2000, 2, 334–340.
+* Vanderschraaf, Peter, 1998, “The Informal Game Theory in Hume's Account of Convention,” _Economics and Philosophy_, 14: 215–247.
+* Williamson, Timothy, 1992, “Inexact Knowledge,” _Mind_, 101: 217–242.
+* Wilson, D.S. and E. Sober, 1994, “Reintroducing Group Selection to the Human Behavioral Sciences,” _Behavioral and Brain Sciences_, 17: 585–654.
 
 ## Academic Tools
 
-> | ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=prisoner-dilemma). |
-> | --- | --- |
-> | ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/prisoner-dilemma/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](../.gitbook/assets/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=prisoner-dilemma&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](../.gitbook/assets/pp.png) | [Enhanced bibliography for this entry](https://philpapers.org/sep/prisoner-dilemma/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=prisoner-dilemma).                                                                      |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/prisoner-dilemma/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=prisoner-dilemma\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](../.gitbook/assets/pp.png)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/prisoner-dilemma/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* [Interactive Prisoner's Dilemma](http://serendip.brynmawr.edu/playground/pd.html) (at the Serendip pages at Bryn Mawr).
-* [20th Anniversary IPD Tournaments](http://www.prisoners-dilemma.com/) (This site includes complete results of the tournaments described in Kendall, et al.)
+* [Interactive Prisoner's Dilemma](http://serendip.brynmawr.edu/playground/pd.html) (at the Serendip pages at Bryn Mawr).
+* [20th Anniversary IPD Tournaments](http://www.prisoners-dilemma.com/) (This site includes complete results of the tournaments described in Kendall, et al.)
 * Spatial IPD Pictures
-  * [Dirk Helbing](https://www.researchgate.net/figure/Representative-simulation-results-for-the-spatial-prisoners-dilemma-with-payoffs-T_fig1_24035250)
+  * [Dirk Helbing](https://www.researchgate.net/figure/Representative-simulation-results-for-the-spatial-prisoners-dilemma-with-payoffs-T\_fig1\_24035250)
   * [Gani Parrott](https://www.youtube.com/watch?v=WWt3Zwj2yck)
-  * [Graeme Cumming](https://www.researchgate.net/figure/Spatial-depiction-of-an-implementation-of-the-prisoners-dilemma-game-in-NetLogo_fig3_278661104)
-* [Split or Steal](https://www.youtube.com/watch?v=p3Uos2fzIJ0) (British Quiz show illustrating strategy considerations in playing one-shot PD.)
+  * [Graeme Cumming](https://www.researchgate.net/figure/Spatial-depiction-of-an-implementation-of-the-prisoners-dilemma-game-in-NetLogo\_fig3\_278661104)
+* [Split or Steal](https://www.youtube.com/watch?v=p3Uos2fzIJ0) (British Quiz show illustrating strategy considerations in playing one-shot PD.)
 * [More Interactive PD Materials from gametheory.net](http://www.gametheory.net/applets/prisoners.html)
 * Vincent Knight's Axelrod-Python repository on GitHub. (Allows users to write strategies for the iterated prisoner's dilemma in Python, and conduct tournaments against a multiple of others stored here.)
   * [Blog post explaining the project](https://vknight.org/unpeudemath/code/2015/02/20/an-iterated-prisoners-dilemma-on-github.html)
@@ -673,11 +671,11 @@ p1（p2，p3，p4）p3（T−R）（R−S）p4（T−R）（R−P）=1，≠（1
 
 ## Related Entries
 
-[decision theory: causal](https://plato.stanford.edu/entries/decision-causal/) | [game theory](https://plato.stanford.edu/entries/game-theory/) | [game theory: and ethics](https://plato.stanford.edu/entries/game-ethics/) | [game theory: epistemic foundations of](https://plato.stanford.edu/entries/epistemic-game/) | [game theory: evolutionary](https://plato.stanford.edu/entries/game-evolutionary/)
+[decision theory: causal](https://plato.stanford.edu/entries/decision-causal/) | [game theory](https://plato.stanford.edu/entries/game-theory/) | [game theory: and ethics](https://plato.stanford.edu/entries/game-ethics/) | [game theory: epistemic foundations of](https://plato.stanford.edu/entries/epistemic-game/) | [game theory: evolutionary](https://plato.stanford.edu/entries/game-evolutionary/)
 
 ### Acknowledgments
 
 The current (2019) version of this article has benefited from the advice and assistance of Clark Donley.
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
-[Steven Kuhn](http://explore.georgetown.edu/people/kuhns/?PageTemplateID=189) <[*kuhns@georgetown.edu*](mailto:kuhns%40georgetown%2eedu)>
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
+[Steven Kuhn](http://explore.georgetown.edu/people/kuhns/?PageTemplateID=189) <[_kuhns@georgetown.edu_](mailto:kuhns%40georgetown%2eedu)>

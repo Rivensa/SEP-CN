@@ -1,7 +1,6 @@
 # 证明论 proof theory (Michael Rathjen and Wilfried Sieg)
 
-
-*首次发表于2018年8月13日星期一；实质性修订于2024年2月21日星期三。*
+_首次发表于2018年8月13日星期一；实质性修订于2024年2月21日星期三。_
 
 证明论并非是为了支持数学哲学中形式主义学说而发明的晦涩技术性课题；相反，它是作为一种试图分析数学经验的方面并隔离、可能克服数学基础中的方法论问题的努力而发展起来的。这些问题的起源可以追溯到 19 世纪数学的转变：抽象数学的出现，它对集合论概念的依赖以及它对逻辑的广泛、基础性的关注。实质性问题已经在 Dedekind 和 Kronecker 的数学工作和基础论文中凸显出来；它们涉及不可判定概念的合法性、无限数学对象的存在以及存在性陈述的非构造性证明的意义。
 
@@ -9,9 +8,7 @@
 
 我们的文章的主要部分涵盖了这些令人兴奋的调查，这些调查通过 1999 年的一个扩展的希尔伯特计划进行了详细的研究，特别关注了现在可以称为“经典”的结果和技术，并且仍然具有持续的兴趣。附录中概述了较新的但仍然紧密相关的发展：附录 D 中的集合论的证明论，附录 E 中的组合独立性结果，以及附录 F 中的可证明总函数。在这里，（无穷）序列演算和适当的序数符号系统是关键的证明论工具。然而，在第 4.2 节中，我们还讨论了哥德尔的迪亚莱克蒂卡解释及其一些扩展，作为获得相对一致性证明的替代方法，并在第 5.2.1 节中描述了通过递归进展来完成不完全性的系统性尝试。这两个主题分别在附录 C.2 和附录 B 中进一步分析。为了完整地概述我们的文章，我们还提到了尾声第 6 节，它不仅指出了进一步的证明论主题，还提到了与证明论和深层内在兴趣相关的当前研究方向。我们试图传达这个主题的活力，这个主题以具体的计算和（元）数学工作为基础，但也邀请并根植于一般的哲学思考。
 
- 
-
-** 附录**
+\*\* 附录\*\*
 
 我们一共有六个附录，详细阐述了历史、数学和相当“技术性”的证明论问题：
 
@@ -22,11 +19,11 @@
 5. [组合独立性结果](https://plato.stanford.edu/entries/proof-theory/appendix-e.html)
 6. [可证明可计算函数](https://plato.stanford.edu/entries/proof-theory/appendix-f.html)
 
----
+***
 
 ## 1. 证明论：一个新的学科
 
-希尔伯特将公理方法视为数学（以及一般的理性讨论）的关键工具。在 1917 年向瑞士数学学会发表的演讲中，该演讲于次年出版，名为《公理化思维》（1918），他阐述了他对该方法的广泛观点，并通过详细考虑来自数学各个部分以及物理学的例子，展示了该方法的“工作”方式。公理化的进行不仅仅是从第一原理严格地发展一个学科，而且对于高级学科来说，还需要对其更深层次的概念组织，并且对于新的研究来说，它是一种发现的工具。在他的演讲中，希尔伯特回顾了他在 1900 年之前对实数算术和欧几里得几何的研究。我们强调他公理化表述的特定形式；它们不是逻辑表述，而是数学表述：他以类似于群或域等其他抽象概念的方式定义了欧几里得空间；这就是为什么我们称之为结构公理化[1]。然而，希尔伯特转向了未来，指出了数学基础研究的一个规划方向；他写道：
+希尔伯特将公理方法视为数学（以及一般的理性讨论）的关键工具。在 1917 年向瑞士数学学会发表的演讲中，该演讲于次年出版，名为《公理化思维》（1918），他阐述了他对该方法的广泛观点，并通过详细考虑来自数学各个部分以及物理学的例子，展示了该方法的“工作”方式。公理化的进行不仅仅是从第一原理严格地发展一个学科，而且对于高级学科来说，还需要对其更深层次的概念组织，并且对于新的研究来说，它是一种发现的工具。在他的演讲中，希尔伯特回顾了他在 1900 年之前对实数算术和欧几里得几何的研究。我们强调他公理化表述的特定形式；它们不是逻辑表述，而是数学表述：他以类似于群或域等其他抽象概念的方式定义了欧几里得空间；这就是为什么我们称之为结构公理化\[1]。然而，希尔伯特转向了未来，指出了数学基础研究的一个规划方向；他写道：
 
 > 要征服这个关于数学基础的领域，我们必须将特定的数学证明概念本身转化为研究对象，就像天文学家考虑他的位置的移动，物理学家研究他的仪器的理论，哲学家批判理性本身一样。
 
@@ -40,9 +37,9 @@
 
 > 通过构造证明的方法，使得对更高层次推理的形式化成为可能，并且一般情况下可以解决一致性问题。
 
-Bernays 在大纲的结尾建议：“接下来将发展证明论”。这个大纲于 1921 年 10 月 17 日发送给了希尔伯特，并且在接下来的学期的讲座中严格遵循了这个大纲，只有一个术语上的变化：“上述表述中的“构造”变成了“有限主义”。[2]
+Bernays 在大纲的结尾建议：“接下来将发展证明论”。这个大纲于 1921 年 10 月 17 日发送给了希尔伯特，并且在接下来的学期的讲座中严格遵循了这个大纲，只有一个术语上的变化：“上述表述中的“构造”变成了“有限主义”。\[2]
 
-1921/22 年的讲座中，伯奈斯的笔记反映了态度的变化所带来的后果。它们以无量词形式的“有限主义算术”和“有限主义逻辑”进行了实质性的发展。有限主义算术从一开始就涉及归纳和原始递归[3]，而所有的中元数学论证都是通过对证明图进行归纳来进行的。这些讲座的第三部分题为“希尔伯特的新证明论证算术的一致性的基础”。在这里，我们从有限主义的角度找到了第一个重要的一致性证明[4]。这个证明在希尔伯特的莱比锡演讲中概述（希尔伯特 1923: 184），并在 1922/23 冬季学期以修改形式呈现；在那个形式中，证明在阿克曼 1925: 4–7 中给出。阿克曼的文章于 1924 年初提交发表，到那时，证明已经采取了一定的规范形式，这种形式仍然可以在希尔伯特和伯奈斯 1934: 220–230 的陈述中找到。让我们看看通过遵循阿克曼简明讨论所取得的成果。
+1921/22 年的讲座中，伯奈斯的笔记反映了态度的变化所带来的后果。它们以无量词形式的“有限主义算术”和“有限主义逻辑”进行了实质性的发展。有限主义算术从一开始就涉及归纳和原始递归\[3]，而所有的中元数学论证都是通过对证明图进行归纳来进行的。这些讲座的第三部分题为“希尔伯特的新证明论证算术的一致性的基础”。在这里，我们从有限主义的角度找到了第一个重要的一致性证明\[4]。这个证明在希尔伯特的莱比锡演讲中概述（希尔伯特 1923: 184），并在 1922/23 冬季学期以修改形式呈现；在那个形式中，证明在阿克曼 1925: 4–7 中给出。阿克曼的文章于 1924 年初提交发表，到那时，证明已经采取了一定的规范形式，这种形式仍然可以在希尔伯特和伯奈斯 1934: 220–230 的陈述中找到。让我们看看通过遵循阿克曼简明讨论所取得的成果。
 
 ### 1.1 希尔伯特的方法和结果
 
@@ -52,21 +49,21 @@ Bernays 在大纲的结尾建议：“接下来将发展证明论”。这个大
 
 并通过以下方式定义量词
 
- 并且
+并且
 
 使用ε项，量词现在可以从量化逻辑的证明中消除，从而将其转化为无量词的证明。最后，所给的推导允许人们，据推测，确定ε项的数值。在1922年9月的莱比锡演讲中，希尔伯特讨论了这种消除量词的方法，并将超穷情况简化为无量词理论。他只“对最简单的情况”进行了这一战略计划的实际执行（参见希尔伯特1923年：1143-1144）。然而，这次演讲对证明论和有限主义计划的发展至关重要：“通过在莱比锡演讲中向我们展示的证明论结构，其概念的原则形式已经达到。”这是伯奈斯在他关于希尔伯特算术基础研究的论文中对其成就的描述（1935年：204）。
 
-阿克曼在他 1925 年的第三部分继续了希尔伯特和伯奈斯离开的地方。他的论文于 1924 年 3 月提交给《数学年刊》，他在 1925 年所做的修正工作导致了初等算术的一致性已经得到证实。修正工作是为了解决冯·诺伊曼指出的困难，但阿克曼没有发表；它只在希尔伯特和伯奈斯 1939 年的第二卷中呈现（第 93-130 页）。[6]冯·诺伊曼自己的证明论研究于 1925 年 7 月提交给《数学杂志》，并于 1927 年以《关于希尔伯特的证明论》的标题发表。希尔伯特在 1928 年的博洛尼亚讲座中突出了阿克曼和冯·诺伊曼的工作，认为他们已经建立了初等算术的一致性，证明仅使用有限主义原则。设 F 是一个仅包含这些原则的理论，如原始递归算术 PRA；PRA 的原则（在注释 3 中更详细地定义）包括零和后继的皮亚诺公理，所有原始递归函数的定义方程，以及原子公式的归纳。现在，F 中一致性证明的重要性可以表述如下：
+阿克曼在他 1925 年的第三部分继续了希尔伯特和伯奈斯离开的地方。他的论文于 1924 年 3 月提交给《数学年刊》，他在 1925 年所做的修正工作导致了初等算术的一致性已经得到证实。修正工作是为了解决冯·诺伊曼指出的困难，但阿克曼没有发表；它只在希尔伯特和伯奈斯 1939 年的第二卷中呈现（第 93-130 页）。\[6]冯·诺伊曼自己的证明论研究于 1925 年 7 月提交给《数学杂志》，并于 1927 年以《关于希尔伯特的证明论》的标题发表。希尔伯特在 1928 年的博洛尼亚讲座中突出了阿克曼和冯·诺伊曼的工作，认为他们已经建立了初等算术的一致性，证明仅使用有限主义原则。设 F 是一个仅包含这些原则的理论，如原始递归算术 PRA；PRA 的原则（在注释 3 中更详细地定义）包括零和后继的皮亚诺公理，所有原始递归函数的定义方程，以及原子公式的归纳。现在，F 中一致性证明的重要性可以表述如下：
 
 定理 1.1 设 T 是一个包含一些算术的理论，A 是一个陈述，即形式为量化范围为自然数的 P 是一个原始递归谓词，即具有原始递归特征函数的谓词。如果 F 证明了 T 的一致性，并且 T 证明了 A，则 F 证明了 A。
 
 这个定理可以在 PRA 中表达和证明，并确保“真实的”有限意义陈述 A 的 T-证明导致一个有限有效的陈述。这一点在希尔伯特的 1927 年汉堡演讲中明确提出（希尔伯特 1927）。在那里，他将 A 视为费马猜想，并认为如果我们在一个包含“理想”元素的理论中有一个 A 的证明，那么该理论的有限一致性证明将使我们能够将该证明转化为一个有限的证明。
 
-直到 1930 年 12 月，希尔伯特在他的第三次汉堡演讲中（希尔伯特 1931a）和伯奈斯在 1931 年 4 月写给哥德尔的一封信中（见哥德尔 2003：98-103），才表达了阿克曼和冯·诺伊曼已经证明了初等算术的一致性的信念。伯奈斯在信中断言，他“多次考虑过[阿克曼修改后的证明]并认为它是正确的”。他继续提到哥德尔的不完全性结果，
+直到 1930 年 12 月，希尔伯特在他的第三次汉堡演讲中（希尔伯特 1931a）和伯奈斯在 1931 年 4 月写给哥德尔的一封信中（见哥德尔 2003：98-103），才表达了阿克曼和冯·诺伊曼已经证明了初等算术的一致性的信念。伯奈斯在信中断言，他“多次考虑过\[阿克曼修改后的证明]并认为它是正确的”。他继续提到哥德尔的不完全性结果，
 
-> 然而，根据你的结果，现在必须得出这样的结论，即该证明不能在 Z 系统[初等数论]中形式化；即使将系统限制为仅保留加法和乘法的递归定义，这一点实际上仍然成立。另一方面，我不明白在阿克曼的证明中哪个地方在 Z 中形式化应该变得不可能，...
+> 然而，根据你的结果，现在必须得出这样的结论，即该证明不能在 Z 系统\[初等数论]中形式化；即使将系统限制为仅保留加法和乘法的递归定义，这一点实际上仍然成立。另一方面，我不明白在阿克曼的证明中哪个地方在 Z 中形式化应该变得不可能，...
 
-在信的结尾，伯奈斯提到赫尔布兰在最近的一次谈话中误解了他，赫尔布兰在一封给哥德尔并抄送给伯奈斯的信中提到了这次谈话。赫尔布兰不仅误解了伯奈斯，伯奈斯也误解了赫尔布兰关于后者一项将在几个月后作为赫尔布兰 1931 年发表的一致性结果的程度。伯奈斯理解赫尔布兰声称他已经建立了完全的一阶算术的一致性：赫尔布兰的系统确实是一个具有丰富的有限主义函数集合的一阶理论，但它仅对无量词公式使用归纳原理。[7]哥德尔在 1933 年 12 月断言，赫尔布兰的这个定理甚至当时已经是在追求希尔伯特有限主义计划中获得的最强结果，并以一种美丽的非正式方式表述了这个结果：
+在信的结尾，伯奈斯提到赫尔布兰在最近的一次谈话中误解了他，赫尔布兰在一封给哥德尔并抄送给伯奈斯的信中提到了这次谈话。赫尔布兰不仅误解了伯奈斯，伯奈斯也误解了赫尔布兰关于后者一项将在几个月后作为赫尔布兰 1931 年发表的一致性结果的程度。伯奈斯理解赫尔布兰声称他已经建立了完全的一阶算术的一致性：赫尔布兰的系统确实是一个具有丰富的有限主义函数集合的一阶理论，但它仅对无量词公式使用归纳原理。\[7]哥德尔在 1933 年 12 月断言，赫尔布兰的这个定理甚至当时已经是在追求希尔伯特有限主义计划中获得的最强结果，并以一种美丽的非正式方式表述了这个结果：
 
 > 如果我们采用一种理论，该理论在公理中的每个存在断言都有一个构造来支持，并且如果我们将这个理论与非构造性的存在概念以及与之相关的所有逻辑规则（例如排中律）相结合，我们将永远不会陷入任何矛盾。（哥德尔 1933 年：52）
 
@@ -74,9 +71,9 @@ Bernays 在大纲的结尾建议：“接下来将发展证明论”。这个大
 
 ### 1.2 不完备性和归约
 
-1931 年，哥德尔发表了一篇论文（1931a），证明了在前提亚里斯多德数学的形式系统中存在无法证明的真实算术陈述，假设 PM 是一致的。他的方法不仅适用于 PM，还适用于任何包含一定程度算术的形式系统。在哥德尔于 1930 年 9 月在科尼斯堡的一次会议上宣布了这一结果几个月后，冯·诺伊曼和哥德尔独立地意识到不完备性定理可以得出一个引人注目的推论。每个一致且有效地公理化的理论，允许发展基本算术的部分，都无法证明其自身的一致性。这被称为第二个不完备性定理。（有关这些定理及其历史的详细信息，请参见附录 A.4）第二个不完备性定理以唯一且非常合理的假设为基础，即有限主义数学包含在算术、分析或集合论的形式理论之一中。事实上，对有限主义数学的当代描述将基本算术作为上界。[8]作为对哥德尔结果的回应，希尔伯特在他最后发表的论文（1931b）中试图制定一种一致性证明策略，这种策略让人想起他在 20 世纪 20 年代初（当时考虑对象理论为建设性）的思考，并明确扩展了有限主义的立场。他引入了一个广泛的建设性框架，其中包括完全直觉主义算术，并建议将新的“方法”扩展到“函数变量甚至更高级别的变量的情况”。他还制定了一种新的规则，只要所有数值实例都已通过有限主义证明建立，就允许引入新的公理；在 1931 年，这是针对无量词的，而在 1931b 年，这被扩展到任意复杂的公式。 半正式的演算法，阐述了更广泛的框架，基于反映数学实践的规则，同时也定义了逻辑连接词的含义。事实上，希尔伯特认为它们显然是一致的原因在一句话中表达出来：“所有的超限规则和推理模式都是一致的；因为它们等同于定义”。以 tertium non datur 的形式添加
+1931 年，哥德尔发表了一篇论文（1931a），证明了在前提亚里斯多德数学的形式系统中存在无法证明的真实算术陈述，假设 PM 是一致的。他的方法不仅适用于 PM，还适用于任何包含一定程度算术的形式系统。在哥德尔于 1930 年 9 月在科尼斯堡的一次会议上宣布了这一结果几个月后，冯·诺伊曼和哥德尔独立地意识到不完备性定理可以得出一个引人注目的推论。每个一致且有效地公理化的理论，允许发展基本算术的部分，都无法证明其自身的一致性。这被称为第二个不完备性定理。（有关这些定理及其历史的详细信息，请参见附录 A.4）第二个不完备性定理以唯一且非常合理的假设为基础，即有限主义数学包含在算术、分析或集合论的形式理论之一中。事实上，对有限主义数学的当代描述将基本算术作为上界。\[8]作为对哥德尔结果的回应，希尔伯特在他最后发表的论文（1931b）中试图制定一种一致性证明策略，这种策略让人想起他在 20 世纪 20 年代初（当时考虑对象理论为建设性）的思考，并明确扩展了有限主义的立场。他引入了一个广泛的建设性框架，其中包括完全直觉主义算术，并建议将新的“方法”扩展到“函数变量甚至更高级别的变量的情况”。他还制定了一种新的规则，只要所有数值实例都已通过有限主义证明建立，就允许引入新的公理；在 1931 年，这是针对无量词的，而在 1931b 年，这被扩展到任意复杂的公式。 半正式的演算法，阐述了更广泛的框架，基于反映数学实践的规则，同时也定义了逻辑连接词的含义。事实上，希尔伯特认为它们显然是一致的原因在一句话中表达出来：“所有的超限规则和推理模式都是一致的；因为它们等同于定义”。以 tertium non datur 的形式添加
 
-现在得到了经典版本的理论，这就是需要证明的添加部分。[9] 希尔伯特对这一新的元数学步骤的问题考虑，启发了根岑在 1931 年末开始研究初等算术的一致性证明时的“Urdissertation”。[10]
+现在得到了经典版本的理论，这就是需要证明的添加部分。\[9] 希尔伯特对这一新的元数学步骤的问题考虑，启发了根岑在 1931 年末开始研究初等算术的一致性证明时的“Urdissertation”。\[10]
 
 作为他的“Urdissertation”的一部分，根岑在 1932 年底已经证明了经典算术归约为直觉主义算术，这个结果也被哥德尔得到过。根岑的研究最终在 1935 年得出了他对算术一致性的第一个证明。背景是直觉主义逻辑的一个正常形式定理，将在下一节与根岑的实际论文和他在那里引入的特殊演算一起讨论。现在我们只是阐述根岑-哥德尔结果，将经典的一阶数论 PA 与其直觉主义版本 HA“连接”起来。这些理论的非逻辑原则旨在描述数学中最重要的结构，即戴德金的简单无穷系统，以及零、后继、乘法、指数和小于关系：
 
@@ -84,7 +81,7 @@ Bernays 在大纲的结尾建议：“接下来将发展证明论”。这个大
 
 现在我们考虑从 PA 和 HA 的通用语言到其“否定”片段的句法翻译，该片段用德摩根等价替换析取，并用存在性陈述替换。根岑和哥德尔在 1933 年获得的约化结果现在很容易陈述：
 
- 定理 1.2
+定理 1.2
 
 1. PA 证明了 A 和对于任意公式 A 的等价性。
 2. 如果 PA 证明了 A，那么 HA 证明。
@@ -127,7 +124,7 @@ Hilbert 和 Bernays 引入了这种新的逻辑形式主义有两个原因，(i)
 
 显然，这些公理直接对应于这些联结词的自然推理规则，这里可以找到根源是根岑的自然推理演算法。伯奈斯在他的博士论文（1918 年）中研究了基于规则的演算法。然而，在给定的背景下，演算法的元数学描述的简洁性似乎是最重要的，伯奈斯在 1927 年的论文中（第 17 页）中有这样的计划性的备注：“我们希望尽可能少的规则，而是将更多的内容放入公理中”。
 
-Gentzen 被引导到了一种基于规则的演算，其中包含了每个逻辑连接词的引入和消除规则。然而，这种新型演算的真正独特之处在于 Gentzen 进行假设的制定和取消。他指出，这一特点最直接地反映了数学论证的一个关键方面。[12]在这里，我们制定了涉及矛盾并超越了具有所有逻辑连接词的 I-和 E-规则的最小逻辑的独特规则。直觉主义逻辑是通过添加规则而从最小逻辑中获得的：从任意公式 A 推导出任意假设的否定。在经典逻辑的情况下，如果从假设中获得了的证明，则推导出 A（并取消假设）。Gentzen 发现了直觉主义演算的一个显著事实，他观察到证明可以具有以下形式的奇特绕道路线：一个公式通过 I-规则获得，然后成为相应的 E-规则的主前提。对于合取，这样的绕道路线如下所示：
+Gentzen 被引导到了一种基于规则的演算，其中包含了每个逻辑连接词的引入和消除规则。然而，这种新型演算的真正独特之处在于 Gentzen 进行假设的制定和取消。他指出，这一特点最直接地反映了数学论证的一个关键方面。\[12]在这里，我们制定了涉及矛盾并超越了具有所有逻辑连接词的 I-和 E-规则的最小逻辑的独特规则。直觉主义逻辑是通过添加规则而从最小逻辑中获得的：从任意公式 A 推导出任意假设的否定。在经典逻辑的情况下，如果从假设中获得了的证明，则推导出 A（并取消假设）。Gentzen 发现了直觉主义演算的一个显著事实，他观察到证明可以具有以下形式的奇特绕道路线：一个公式通过 I-规则获得，然后成为相应的 E-规则的主前提。对于合取，这样的绕道路线如下所示：
 
 显然，给定的推导中已经包含了 B 的证明。没有绕道路线的证明被称为正常证明，Gentzen 证明了任何证明都可以通过“规约步骤”有效地转化为正常证明。
 
@@ -137,9 +134,9 @@ Gentzen 被引导到了一种基于规则的演算，其中包含了每个逻辑
 
 推论 2.2（子公式性质）如果是从到 A 的正常证明，则中的每个公式要么是一个元素的子公式，要么是 A 的子公式。
 
-正如 Gentzen 在他的论文（1934/35）的开头回顾的那样，当他无法将考虑扩展到经典逻辑时，他通过对自然演算的研究引导了他的 Hauptsatz[13]。
+正如 Gentzen 在他的论文（1934/35）的开头回顾的那样，当他无法将考虑扩展到经典逻辑时，他通过对自然演算的研究引导了他的 Hauptsatz\[13]。
 
-> 要能够以直接的方式来阐述它[主要命题]，我必须基于一个特别适合的逻辑演算法。自然演绎法则被证明不适合这个目的。
+> 要能够以直接的方式来阐述它\[主要命题]，我必须基于一个特别适合的逻辑演算法。自然演绎法则被证明不适合这个目的。
 
 因此，根岑将他的注意力集中在了由保罗·赫尔茨引入的序列演算法上，这也是根岑的第一篇科学论文的主题（1932 年）。
 
@@ -213,17 +210,17 @@ Gentzen 的 Hauptsatz 的秘密在于所有逻辑连接词（包括否定）的�
 
 我们有兴趣将特定序数表示为关于的关系。实质上，康托尔在 1897 年定义了第一个序数表示系统。自然序数表示系统通常是从以下形式的结构派生的：
 
-其中  是一个序数，  是限制在  元素上的序数排序，而  是函数
+其中 是一个序数， 是限制在 元素上的序数排序，而 是函数
 
 对于某个自然数 .
 
-如果满足以下条件，那么  是可计算（或递归）表示：
+如果满足以下条件，那么 是可计算（或递归）表示：
 
 1. 并且 A 是一个可计算集合。
 2. 是 A 上的一个可计算全序，并且这些函数是可计算的。
 3. ，即这两个结构是同构的。
 
-定理 3.3（Cantor 1897）对于每个序数  ，存在唯一的序数  ，使得
+定理 3.3（Cantor 1897）对于每个序数 ，存在唯一的序数 ，使得
 
 在（4）中的表示被称为其康托正规形式。我们将写为表示。
 
@@ -251,7 +248,7 @@ Gentzen 的 Hauptsatz 的秘密在于所有逻辑连接词（包括否定）的�
 
 Gentzen 对 PA 的一致性证明采用了对空序列证明 P 的简化过程，以及对证明的序数表示进行的分配 ord，使得。这里表示与相关序数的排序引起的序数表示的排序。为此，他需要表示序数的表示，其中是最小的序数，使得每当，那么也是如此，其中是序数指数的函数。此外，函数和 ord 以及关系是可计算的（当视为作用于句法对象的代码时），它们可以选择为原始递归的。对于，应用于 P 的 n 次迭代，对于所有 n，这是荒谬的，因为序数是良基的。因此，PA 是一致的。
 
-尽管 Gentzen 的证明很基础，但非常复杂，因此人们寻求更透明的证明。事实证明，对于 PA 固有的消去割的障碍可以通过转向更丰富的证明系统来克服，尽管以一种激进的方式进行无限扩展。这个更丰富的系统允许具有无限多个前提的证明规则。[15]通常称为-规则的推理包括两种类型的无穷推理：
+尽管 Gentzen 的证明很基础，但非常复杂，因此人们寻求更透明的证明。事实证明，对于 PA 固有的消去割的障碍可以通过转向更丰富的证明系统来克服，尽管以一种激进的方式进行无限扩展。这个更丰富的系统允许具有无限多个前提的证明规则。\[15]通常称为-规则的推理包括两种类型的无穷推理：
 
 付出的代价将是扣除变成无限对象，即无限良基树。
 
@@ -263,13 +260,13 @@ Gentzen 对 PA 的一致性证明采用了对空序列证明 P 的简化过程�
 
 上述关系是根据推导的建立递归地定义的。对于割等级，我们需要公式长度的定义：
 
- 其中；。
+其中；。
 
 现在假设最后的推理 I 是以下形式的
 
 其中和是的直接子推导。如果
 
- 并且对于所有的，则
+并且对于所有的，则
 
 假设我是一个带有切割公式 A 的切割，我们也有。我们将写成存在一个-deduction 来传达。对于 PA 的序数分析首先将任何 PA-deduction 展开为一个-deduction：
 
@@ -285,7 +282,7 @@ Gentzen 在他发表的第二个关于 PA 一致性的证明中没有明确处�
 
 其中 F，如上所述，仅包含有限可接受的手段。在他 1943 年的论文中，Gentzen 还证明了这个结果是最好的，因为 PA 证明了迄今为止的序数归纳直到任意一个。因此，有人可能认为 PA 的非有限主义部分被 PR-TI 所包含，并且由“ ”来“衡量”。也是 PA 在定义 3.4 中指定的证明论序数。Gentzen 希望这类结果也可以在更强的数学理论中获得，特别是在分析学中。希尔伯特的著名第二个问题要求对该数学理论进行直接的一致性证明。Gentzen 在 1938 年写道
 
-> 在实践中，分析学的最重要的[一致性]证明仍然未解决。（1938a [Gentzen 1969: 236]）。
+> 在实践中，分析学的最重要的\[一致性]证明仍然未解决。（1938a \[Gentzen 1969: 236]）。
 
 他实际上在分析的一致性证明上工作，以信件的形式（例如，1935 年 6 月 23 日写给伯奈斯的信件，由冯·普拉托 2017 年翻译：240）和 1945 年的速记笔记（例如，根岑 1945 年）显示。从形式上讲，“分析”已经在希尔伯特 1917/18 年的第二阶数论中被确定为一种形式。希尔伯特和伯奈斯在他们的著作中发展了数学分析，而在“数学基础”的第二卷的补充中则更加广泛。我们以下面的方式给出。它的语言通过额外的变量类型扩展了 PA 的语言，这些变量类型可以范围在数字集合上，并且具有二元成员关系。它的公理是 PA 的公理，但归纳证明原理被表述为第二阶归纳公理。
 
@@ -303,7 +300,7 @@ Gentzen 在他发表的第二个关于 PA 一致性的证明中没有明确处�
 
 哥德尔在 1933 年 12 月也持有非常类似的立场（Gödel 1995: 53）。他在那里扩展了修订版希尔伯特计划的想法，允许超越有限主义的建设性手段，而不完全接受完全发展的直觉主义；他认为后者存在问题，特别是因为直觉主义蕴涵的不可预测性。关于希尔伯特立场的扩展，他写道：
 
-> 但仍然有希望在未来找到其他更令人满意的建设方法，超越系统 A 的限制[捕捉有限主义方法]，从而使我们能够将经典算术和分析建立在它们之上。这个问题有望成为进一步研究的富有成果的领域。
+> 但仍然有希望在未来找到其他更令人满意的建设方法，超越系统 A 的限制\[捕捉有限主义方法]，从而使我们能够将经典算术和分析建立在它们之上。这个问题有望成为进一步研究的富有成果的领域。
 
 在第 3.2 节中，我们描述了 Gentzen 的考虑；在第 4.2 节中，我们讨论了哥德尔在 20 世纪 30 年代末发展起来的观点。在第 4.1 节中，我们概述了一些其他的建设性立场。
 
@@ -326,9 +323,9 @@ Gentzen 在他发表的第二个关于 PA 一致性的证明中没有明确处�
 
 (c) 要理解竹内的有限主义观点，重要的是确定在类似于 Gentzen 的一致性证明中，PRA 的手段被超越的地方。Gentzen 的证明使用了一种具体的类型排序，它使用了对证明的序数的分配，并提供了一种对证明进行缩减的过程，使得任何声称的不一致性证明都被缩减为另一个被分配给排序较小元素的不一致性证明。这种排序、序数分配和缩减过程实际上是原始递归的，迄今为止所描述的步骤可以在 PRA 的一个小片段中完成。推断 PA 的一致性所需的附加原理如下：
 
-* (*)不存在无限的基本递归序列，使得对于所有 n 都成立。
+* (\*)不存在无限的基本递归序列，使得对于所有 n 都成立。
 
-竹内将()称为的可访问性。注意，这是一个比的良好基础性要求更弱的性质，后者涉及任意序列。对于 PA 的情况并没有什么特别之处，因为文献中对于理论 T 的任何序数分析都可以适应这种格式。因此，从认识论的角度来看，()是任何这种一致性证明的支点。竹内的核心思想（1987 年，1975 年）是我们可以对具体给定的（基本）序列进行思维实验，以得出(*)成立的洞察力。[16]
+竹内将()称为的可访问性。注意，这是一个比的良好基础性要求更弱的性质，后者涉及任意序列。对于 PA 的情况并没有什么特别之处，因为文献中对于理论 T 的任何序数分析都可以适应这种格式。因此，从认识论的角度来看，()是任何这种一致性证明的支点。竹内的核心思想（1987 年，1975 年）是我们可以对具体给定的（基本）序列进行思维实验，以得出(\*)成立的洞察力。\[16]
 
 （d）Errett Bishop对建设性分析的新颖方法（1967年）给具有建设性倾向的数学家们留下了深刻的印象。在这本书中，他将不同类型的数学对象（数字、函数、集合）处理为明确的表达式，并为每种类型配备了相应的“相等”关系，这样操作这些对象时，可以从表达式到表达式保持相等关系。使Bishop的建设性成为可能的一个重要因素是系统地使用证明数据作为构成数学对象的一个组成部分。例如，实数带有收敛模，而实数函数则配备了（一致）收敛模。在他的明确数学中，Feferman（1975年，1979年）旨在（除其他目标外）形式化Bishop本体论的核心。明确数学是一种描述具体和明确给定对象（符号的宇宙U）的理论，配备了一种应用操作，使得给定两个对象a和b，a可以被视为在输入b上运行的程序，可能产生输出或永远不停机（这些结构被称为部分组合代数或Schönfinkel代数）。此外，U的一些对象表示U的元素集合。通过显式的基本理解或归纳生成过程，可以从给定的集合构建新的集合。如果还添加了以下原则：每个在集合上单调的内部操作（给定为某个）都具有一个最小不动点，那么就得到了一个非常强大的理论（参见Rathjen 1998年，1999b年，2002年）。
 
@@ -338,7 +335,7 @@ Gentzen 在他发表的第二个关于 PA 一致性的证明中没有明确处�
 
 构造性集合论的"宣言"最生动地表达了 Myhill 的观点：
 
-> …[Bishop 1967]的论证看起来非常顺畅，似乎直接从某种对集合、函数等的概念中得出，并且我们希望发现一种能够隔离这种概念背后原理的形式化方法，就像泽尔梅洛-弗兰克尔集合论隔离了经典（非构造性）数学的原理一样。我们希望这些原理能够使形式化过程完全变得微不足道，就像经典情况下一样。（Myhill 1975: 347）
+> …\[Bishop 1967]的论证看起来非常顺畅，似乎直接从某种对集合、函数等的概念中得出，并且我们希望发现一种能够隔离这种概念背后原理的形式化方法，就像泽尔梅洛-弗兰克尔集合论隔离了经典（非构造性）数学的原理一样。我们希望这些原理能够使形式化过程完全变得微不足道，就像经典情况下一样。（Myhill 1975: 347）
 
 尽管乍看之下，（d）-（f）的方法之间存在着密切的联系。构造性集合论可以在马丁-勒夫类型论中进行解释（由 Aczel 1978 提出），而显式数学可以在构造性集合论中进行解释（见 Rathjen 1993b，其他互联网资源）。也许（e）和（f）之间最接近的匹配是由 Rathjen＆Tupailo 2006 提供的，可以进行来回解释。一些具体的数学结果可以在第 5.3 节的末尾找到。
 
@@ -346,7 +343,7 @@ Gentzen 在他发表的第二个关于 PA 一致性的证明中没有明确处�
 
 在他在 Zilsel 的 1938 年演讲中提出的扩展有限主义方法的建议中，哥德尔似乎更倾向于通过更高类型函数的途径。被称为 Dialectica 解释的细节直到 1958 年（哥德尔 1958 年）才被发表，但 D-解释本身在 1941 年就已经出现了。哥德尔的系统公理化了一类他称之为有限类型原始递归函数的函数。这是一个主要是等式的理论，其公理涉及到具有一层命题逻辑的更高类型函数的术语。通过这种方式，量词，对于有限主义者来说是有问题的，对直觉主义者来说是令人讨厌的，被避免了。为了解释 D-解释的好处，我们需要更仔细地看一下的语法和原理。
 
-定义 4.1 使用了多排序语言，其中每个术语都被分配了一个类型。类型（符号）通过以下规则从 0 生成：如果和是类型，那么也是类型。直观上，基本类型 0 是自然数的类型。如果和是已知的类型，那么是一个类型，其对象被认为是从类型的对象到类型的对象的函数。除了每个类型的变量之外，还有特殊常量 0，，，和，适用于所有类型。这些常量的含义由它们的定义方程解释。和在组合逻辑中是熟知的，这是由 Schönfinkel 在 1924 年引入的，并通过 Curry 的工作（1930 年）而更为广为人知。0 扮演着第一个自然数的角色，而代表了类型 0 的后继函数。常量，称为递归器，为通过对上的递归来定义函数提供了主要手段。术语的形成从常量和变量开始，如果 s 和 t 分别是类型和的术语，则是类型的术语。为了增加可读性，我们将写成而不是，而写成等等。也将缩写为。常量的定义公理如下：[17]
+定义 4.1 使用了多排序语言，其中每个术语都被分配了一个类型。类型（符号）通过以下规则从 0 生成：如果和是类型，那么也是类型。直观上，基本类型 0 是自然数的类型。如果和是已知的类型，那么是一个类型，其对象被认为是从类型的对象到类型的对象的函数。除了每个类型的变量之外，还有特殊常量 0，，，和，适用于所有类型。这些常量的含义由它们的定义方程解释。和在组合逻辑中是熟知的，这是由 Schönfinkel 在 1924 年引入的，并通过 Curry 的工作（1930 年）而更为广为人知。0 扮演着第一个自然数的角色，而代表了类型 0 的后继函数。常量，称为递归器，为通过对上的递归来定义函数提供了主要手段。术语的形成从常量和变量开始，如果 s 和 t 分别是类型和的术语，则是类型的术语。为了增加可读性，我们将写成而不是，而写成等等。也将缩写为。常量的定义公理如下：\[17]
 
 证明论的公理包括上述的定义公理、相等公理和命题逻辑的公理。推理规则包括假言演绎和归纳规则。
 
@@ -376,21 +373,21 @@ Spector（1962）扩展了 Gödel 的函数解释，通过在更高类型排序�
 
 ### 5.1 武井的基本猜想
 
-在 Gentzen 之后，武井外志（Gaisi Takeuti）在 1940 年代末为一致性证明工作。他猜想 Gentzen 的 Hauptsatz 不仅适用于一阶逻辑，而且适用于高阶逻辑，也被称为简单类型理论 STT。这被称为武井的基本猜想[18]。他引入的特定序列演算被称为广义逻辑演算 GLC（Takeuti 1953）。可以看作是 GLC 的一个子理论。在 GLC 的设置中，包含原理 CA 被封装在存在量词的右引入规则和全称量词的左引入规则中。为了显示这些规则，以下符号表示很方便。如果和是公式，则通过将所有的子公式（用 U 表示）替换为 ，从而得到 。然后可以陈述二阶量词的规则如下[19]：
+在 Gentzen 之后，武井外志（Gaisi Takeuti）在 1940 年代末为一致性证明工作。他猜想 Gentzen 的 Hauptsatz 不仅适用于一阶逻辑，而且适用于高阶逻辑，也被称为简单类型理论 STT。这被称为武井的基本猜想\[18]。他引入的特定序列演算被称为广义逻辑演算 GLC（Takeuti 1953）。可以看作是 GLC 的一个子理论。在 GLC 的设置中，包含原理 CA 被封装在存在量词的右引入规则和全称量词的左引入规则中。为了显示这些规则，以下符号表示很方便。如果和是公式，则通过将所有的子公式（用 U 表示）替换为 ，从而得到 。然后可以陈述二阶量词的规则如下\[19]：
 
 要推导出 CA 的一个实例，只需将公式设为，并观察到
 
- 因此
+因此
 
 如果 GLC 的割除定理成立（或者只是对应于 GLC2 的片段），则排除了空序列的可推导性。Takeuti 的基本猜想表明了的一致性。然而，请注意，它不像一阶情况那样产生子公式性质。毕竟，在和中，次要公式的（量词）复杂性可能比主要公式的复杂性高得多。实际上，可能是的一个真子公式，这清楚地展示了这些推理的非预测性质，并显示它们与预测性分析中的推理明显不同，其中子公式性质成立。
 
-在 1960 年，舒特（Schütte）使用部分或半估值开发了一个与（句法的）基本猜想语义等价的方法。他采用了搜索树（或推导链）的方法，证明了在无剪切系统中无法推导出的公式 F 具有一个没有公理的推导链，从而产生了一个将值“false”赋给 F 的部分估值 V。从后者推断出无剪切系统的完备性[20]等价于语义属性，即每个部分估值都可以扩展为一个完全估值（基本上是 STT 的 Henkin 模型）。1966 年，泰特（Tait）成功地证明了使用舒特的语义等价物来消除二阶逻辑中的剪切。不久之后，高桥（Takahashi，1967）和普拉维茨（Prawitz，1968）独立地证明了对于完全的经典简单类型，每个部分估值都可以扩展为一个完全估值，从而建立了 Takeuti 的基本猜想。然而，这些结果有些令人失望，因为它们是通过高度非构造性的方法获得的，没有提供消除推导中剪切的具体方法。相比之下，吉拉尔（Girard）在 1971 年证明了简单类型理论不仅允许消除剪切，而且还有一个终止的归一化过程[21]。这些显然是非常有趣的结果，但就对 SST 的一致性产生信任而言，剪切消除或终止证明只是循环的，因为它们明目张胆地使用了这些理论中形式化的理解原则（以及更多）。引用 Takeuti 的话：
+在 1960 年，舒特（Schütte）使用部分或半估值开发了一个与（句法的）基本猜想语义等价的方法。他采用了搜索树（或推导链）的方法，证明了在无剪切系统中无法推导出的公式 F 具有一个没有公理的推导链，从而产生了一个将值“false”赋给 F 的部分估值 V。从后者推断出无剪切系统的完备性\[20]等价于语义属性，即每个部分估值都可以扩展为一个完全估值（基本上是 STT 的 Henkin 模型）。1966 年，泰特（Tait）成功地证明了使用舒特的语义等价物来消除二阶逻辑中的剪切。不久之后，高桥（Takahashi，1967）和普拉维茨（Prawitz，1968）独立地证明了对于完全的经典简单类型，每个部分估值都可以扩展为一个完全估值，从而建立了 Takeuti 的基本猜想。然而，这些结果有些令人失望，因为它们是通过高度非构造性的方法获得的，没有提供消除推导中剪切的具体方法。相比之下，吉拉尔（Girard）在 1971 年证明了简单类型理论不仅允许消除剪切，而且还有一个终止的归一化过程\[21]。这些显然是非常有趣的结果，但就对 SST 的一致性产生信任而言，剪切消除或终止证明只是循环的，因为它们明目张胆地使用了这些理论中形式化的理解原则（以及更多）。引用 Takeuti 的话：
 
 > 我的基本猜想本身在某种意义上已经由 Motoo Takahashi 和 Dag Prawitz 独立解决。然而，他们的证明依赖于集合论，因此不能被视为 Hilbert 计划的执行。（Takeuti 2003: 133）
 
 Takeuti 对他的猜想的研究主要集中在部分结果上。他在 1967 年取得了一项重大突破，激发了证明论研究，特别是序数理论的研究。在 Takeuti 1967 中，他为-comprehension 给出了一种一致性证明，从而首次获得了一个非预测性理论的序数分析。为此，Takeuti 大大扩展了 Gentzen 分配序数的方法（准确地说是序数图表），以用于对空序列的推导。值得引用 Takeuti 对自己成就的评价。
 
-> ...我能够证明基本猜想的子系统是带有-comprehension 公理的系统和稍强的系统，即带有-comprehension 公理和归纳定义的系统。[...]我试图在我们的有限立场的扩展版本中解决带有-comprehension 公理的基本猜想。最终，我们的成功仅限于可证明带有-comprehension 公理的系统。这是我在这个领域的最后一个成功结果。（Takeuti 2003: 133）
+> ...我能够证明基本猜想的子系统是带有-comprehension 公理的系统和稍强的系统，即带有-comprehension 公理和归纳定义的系统。\[...]我试图在我们的有限立场的扩展版本中解决带有-comprehension 公理的基本猜想。最终，我们的成功仅限于可证明带有-comprehension 公理的系统。这是我在这个领域的最后一个成功结果。（Takeuti 2003: 133）
 
 上述讨论中提到的子系统现在将被描述。我们考虑给定的公式类的-comprehension 公理模式
 
@@ -398,7 +395,7 @@ Takeuti 对他的猜想的研究主要集中在部分结果上。他在 1967 年
 
 还有“混合”形式的理解也很有趣，例如
 
- 其中在中，在中。
+其中在中，在中。
 
 人们还考虑理解规则：
 
@@ -443,7 +440,7 @@ Kleene 使用作为后继序数的记号，使用和作为极限序数的记号�
 
 定理 5.2 对于任何真命题 F，可以构造一个数使得和。此外，函数由一个原始递归函数给出。
 
-乍一看，图灵的定理似乎为真-陈述的性质提供了一些见解。通过对其简单证明的分析，我们发现这是一种“幻觉”，它仅仅基于将 F 的真实性编码为的成员的技巧。证明还表明，的无限多次迭代的一致性公理对于证明 F 是无关紧要的。事实证明，必须到达阶段的原因仅仅是因为只有在阶段才能引入的非标准公理定义。关于递归进展的更多细节和其他结果在附录 B 中讨论。在这里，我们只提到已经考虑了基于各种扩展程序的其他进展，这些程序加强了给定理论，特别是：[22]
+乍一看，图灵的定理似乎为真-陈述的性质提供了一些见解。通过对其简单证明的分析，我们发现这是一种“幻觉”，它仅仅基于将 F 的真实性编码为的成员的技巧。证明还表明，的无限多次迭代的一致性公理对于证明 F 是无关紧要的。事实证明，必须到达阶段的原因仅仅是因为只有在阶段才能引入的非标准公理定义。关于递归进展的更多细节和其他结果在附录 B 中讨论。在这里，我们只提到已经考虑了基于各种扩展程序的其他进展，这些程序加强了给定理论，特别是：\[22]
 
 * (R2) 闭合的。
 * (R3) 至多有 x 个自由的。
@@ -484,7 +481,7 @@ Veblen 首先将这个想法扩展到任意有限数量的参数，然后又扩�
 
 #### 5.2.3 预测性理论的无穷证明
 
-Feferman 和 Schütte 确定的序数作为  的最小上界是 ，最小的非零序数在 Veblen 函数 下封闭。这是一个真正的证明论结果，其工具来自 Schütte（1960b）的专著。在那里，他使用具有无穷规则的逻辑的削减技术（被称为“半正式系统”）计算了  的证明论序数作为 的函数。如果  ，那么 。 “半正式”是 Schütte 使用的术语，指的是这个证明系统具有无限多个前提的规则，类似于 规则。
+Feferman 和 Schütte 确定的序数作为 的最小上界是 ，最小的非零序数在 Veblen 函数 下封闭。这是一个真正的证明论结果，其工具来自 Schütte（1960b）的专著。在那里，他使用具有无穷规则的逻辑的削减技术（被称为“半正式系统”）计算了 的证明论序数作为 的函数。如果 ，那么 。 “半正式”是 Schütte 使用的术语，指的是这个证明系统具有无限多个前提的规则，类似于 规则。
 
 定义 5.7 在接下来的内容中，我们假设序数来自某个表示系统。的语言是一阶算术的扩展。对于每个序数和，它具有级别为的自由集合变量和级别为的绑定集合变量。公式的级别，，被定义为出现在 A 中的集合变量的级别的最大值。形式为的表达式将被称为抽象项，它们的级别与公式的级别相同。
 
@@ -500,16 +497,16 @@ Feferman 和 Schütte 确定的序数作为  的最小上界是 ，最小的非�
 
 定理 5.8（第二削减消除定理）
 
-当然，它包括产生的特殊情况，因此，由于后者的推导是无削减的，所有削减都可以被移除。可以在中解释的几个子理论，通过定理 5.8，得到它们证明论序数的上界。以下是一些这样的结果的选择：[24]
+当然，它包括产生的特殊情况，因此，由于后者的推导是无削减的，所有削减都可以被移除。可以在中解释的几个子理论，通过定理 5.8，得到它们证明论序数的上界。以下是一些这样的结果的选择：\[24]
 
- 定理 5.9
+定理 5.9
 
 1. .
 2. .
 3. .
 4. .
 
-对于该定理中的理论定义，请参见第 5.1 节末尾。为了得到关于(iii)和(iv)中的理论的结果，首先将它们简化为形式的系统会更容易，因为后者在中有一个直接的解释。将简化为和简化为的工作分别由 Feferman（1964）和 Friedman（1970）完成。[25]
+对于该定理中的理论定义，请参见第 5.1 节末尾。为了得到关于(iii)和(iv)中的理论的结果，首先将它们简化为形式的系统会更容易，因为后者在中有一个直接的解释。将简化为和简化为的工作分别由 Feferman（1964）和 Friedman（1970）完成。\[25]
 
 对分析的这些子系统的研究以及努力确定它们的数学能力，导致了一个由 Friedman 和 Simpson 在三十年前发起的研究计划，被称为逆向数学。该计划的目标是研究集合存在原理在普通数学中的作用。主要问题可以陈述如下：
 
@@ -521,7 +518,7 @@ Feferman 和 Schütte 确定的序数作为  的最小上界是 ，最小的非�
 
 的证明论强度比 PA 弱，而与 PA 的强度相同。为了对其强度有一个概念，前四个理论的强度最好通过它们的证明论序数来表达：
 
- 定理 5.10
+定理 5.10
 
 1. .
 2. .
@@ -531,9 +528,9 @@ Feferman 和 Schütte 确定的序数作为  的最小上界是 ，最小的非�
 
 反向数学有重要的前身。魏尔（1918 年）开始使用极简主义基础发展分析（相当于），而希尔伯特和伯奈斯（1939 年）在二阶算术中发展了分析，仔细观察后可以看到他们所使用的全部是。真正的反向数学定理是由戴德金德在他的论文《连续性和无理数》（1872 年）中建立的。它指出他的连续性（或完备性）原理与分析中一个众所周知的定理等价，即，每个有界的、单调递增的序列都有一个极限。他强调，
 
-> 这个定理等同于连续性原理，即，只要我们假设存在一个实数不包含在[所有实数，即所有有理数的截断]的定义域中，该定理就失去了有效性。（1872 [1996: 778]）
+> 这个定理等同于连续性原理，即，只要我们假设存在一个实数不包含在\[所有实数，即所有有理数的截断]的定义域中，该定理就失去了有效性。（1872 \[1996: 778]）
 
-它是为了揭示“连续性原理与无穷小分析之间的联系”（1872 [1996: 779]）。
+它是为了揭示“连续性原理与无穷小分析之间的联系”（1872 \[1996: 779]）。
 
 ### 5.3 非谓词子系统和广义归纳定义
 
@@ -553,7 +550,7 @@ Spector（1962 年）对通过条形递归函数进行的功能解释在证明�
 
 通过复杂的选择序列形式理论，已知该理论可以简化为。该理论的第一个序数分析是由 Howard（1972）获得的。通过已知的证明论减少，这也导致了的序数分析。的证明论序数是 Bachmann-Howard 序数，用定义 5.11 中的表示。
 
-由于归纳定义的集合可以成为另一个归纳定义的起点，归纳定义谓词的过程可以以统一的方式沿着任何良序进行迭代。这导致了允许我们形式化迭代归纳定义的理论，其中  代表原始递归良序。如果  是一个基于建设性基础的良序，那么Kleene的  的  次迭代版本也有明确的建设性含义。因此，体现这一过程的形式理论在建设性上是合理的。关于迭代归纳定义理论的主题在1968年的布法罗直觉主义和证明论会议上蓬勃发展（参见Kino等人，1970年）。其中一个主要的证明论目标是找到将经典理论  归约为它们的直觉主义对应理论  的方法。这更加可取，因为已知将重要的二阶算术片段归约为前一种理论的方法。Friedman（1970年）已经证明了带有选择公理的二阶系统可以在小于  次迭代  -包含中解释，而Feferman（1970a）已经证明了小于  次迭代  -包含可以在系统  中解释。
+由于归纳定义的集合可以成为另一个归纳定义的起点，归纳定义谓词的过程可以以统一的方式沿着任何良序进行迭代。这导致了允许我们形式化迭代归纳定义的理论，其中 代表原始递归良序。如果 是一个基于建设性基础的良序，那么Kleene的 的 次迭代版本也有明确的建设性含义。因此，体现这一过程的形式理论在建设性上是合理的。关于迭代归纳定义理论的主题在1968年的布法罗直觉主义和证明论会议上蓬勃发展（参见Kino等人，1970年）。其中一个主要的证明论目标是找到将经典理论 归约为它们的直觉主义对应理论 的方法。这更加可取，因为已知将重要的二阶算术片段归约为前一种理论的方法。Friedman（1970年）已经证明了带有选择公理的二阶系统可以在小于 次迭代 -包含中解释，而Feferman（1970a）已经证明了小于 次迭代 -包含可以在系统 中解释。
 
 对于有限限制。然而，Zucker（1973）表明，将理论直接简化为直觉主义理论存在明确的障碍。Sieg（1977）通过一种从 Tait（1970）那里改编的方法来解决这个问题，Tait（1970）使用了一个在构造数类上索引的无穷命题逻辑的削减消除来获得具有依赖选择模式的二阶算术理论的一致性证明。他通过对具有无限长合取和析取的命题逻辑系统进行证明论，将简化为限制。由此带来了简化。Pohlers 使用 Takeuti 的-comprehension 简化程序（参见 Pohlers 1975, 1977）获得了关于迭代归纳定义理论的序数分析，首先是有限迭代，然后是无限迭代。独立工作，Buchholz（1977a）使用了一种新类型的规则，称为-规则，以便在不使用 Takeuti 的方法的情况下重新捕捉这些结果。这些规则是 Definition C.3 中描述的Ω规则的扩展。
 
@@ -565,7 +562,7 @@ Bachmann 使用大序数来生成小序数的名称的大胆举动是一个非�
 
 以 Buchholz 1977b 为例，我们将介绍一个表征理论的序数表示系统。它基于某些常被称为折叠函数的序数函数。这些函数的定义，即在上的值的定义，通过对上的递归进行，并与下面指定的某些函数下的序数集合的定义相互交织。
 
-让  是不包括 0 的自然数。下面我们假设  是一个“大”序数，并且 。它们的极限， ，将用  表示。
+让 是不包括 0 的自然数。下面我们假设 是一个“大”序数，并且 。它们的极限， ，将用 表示。
 
 定义 5.11 通过对 进行递归，我们定义：
 
@@ -585,19 +582,19 @@ Bachmann 使用大序数来生成小序数的名称的大胆举动是一个非�
 
 #### 5.3.2 分配证明论序数
 
-使用从定义 5.11 的表示系统的扩展版本，如果[29]，归纳定义理论的所有工作的结果可以通过以下定理总结[30]。
+使用从定义 5.11 的表示系统的扩展版本，如果\[29]，归纳定义理论的所有工作的结果可以通过以下定理总结\[30]。
 
 定理 5.12 对于递归，
 
 对于任意良序的迭代归纳定义和自主迭代的理论进行了广义处理，这些理论比如果更强。
 
-定理 5.12 在确定某些片段的确切强度方面起着重要作用。关于 1980 年前的子系统的主要序数理论结果在下一个定理中给出。[31]
+定理 5.12 在确定某些片段的确切强度方面起着重要作用。关于 1980 年前的子系统的主要序数理论结果在下一个定理中给出。\[31]
 
- 定理 5.13
+定理 5.13
 
 在之后的挑战是由理论提出的。它的处理不仅需要一个更强的序数表示系统，而且还与从理论和迭代归纳定义的理论转向直接的证明论处理集合理论相一致。关于集合理论的证明论的开创性工作主要归功于 Jäger（1980 年，1982 年）。Jäger＆Pohlers 1982 年的分析提供了这种新方法的一个特别好的应用，该方法被称为可接受的证明论，因为它关注扩展 Kripke-Platek 集合论的理论，通过断言存在可接受集合的公理（有关详细信息，请参见附录 D.1）。
 
- 定理 5.14
+定理 5.14
 
 在上述符号中，“I”被假定表示“不可达基数”。事实上，建立一个足以完成这个任务的扩展序数表示系统的最简单方法（以定义 5.11 为模型）是添加一个不可达的 I，对于所有形式的 I 或者关闭 Skolem 包，引入折叠函数。
 
@@ -615,17 +612,17 @@ Bachmann 使用大序数来生成小序数的名称的大胆举动是一个非�
 
 让我们也报告一下有关有限主义一致性计划所要解决的方法论问题的进展。首先，由于相当多的重要历史工作，我们对20世纪20年代该计划的演变以及其根源在19世纪朝现代结构主义数学发展的理解更加深入。编辑希尔伯特未发表的讲稿已经揭示了大量信息。与19世纪数学发展的联系在附录A中有所提及，但在Ferreirós 2008年、Reck 2003年、2013年以及Sieg与Morris（2018）和Schlimm（2005年、2014年）合著的有关戴德金的论文中有更深入的探讨。Reck和Schiemer编辑的2020年卷对这种联系进行了丰富的探索。其次，关于适当的方法论问题，我们在第4.1节中提出了一些广泛的考虑，即一致性证明应该相对于“构造性”理论给出。我们没有对构造性观点的特点以及为什么这种观点不仅具有数学上的意义，而且具有哲学上的意义做出任何评论。当然，有非常丰富的文献。让我们指出一些信息来源：van Atten（2007）为布劳威尔观点辩护，Martin-Löf（1984）阐述了他的类型理论的哲学动机，Feferman（1988年、2000年）讨论了证明论的基础观点，Bernays（1976年）介绍了一个知情的数学哲学的关键方面，以及Sieg（2013年、2020年）阐明了（背景下的）他的还原结构主义。
 
-回到证明论：我们必须承认我们忽略了一些经典的主题。其中之一是研究不同的证明系统及其关系，追溯到 Gentzen 的论文（1935 年）。在他们的《基本证明论》中，Troelstra 和 Schwichtenberg（2000 年）给出了一个很好的选择，但一些重要的演算，如 Schütte 的证明系统没有涵盖（例如，Schütte 1960b，1977）。他们也没有涵盖时间逻辑和模态逻辑的证明系统，也没有介绍子结构逻辑。[33]
+回到证明论：我们必须承认我们忽略了一些经典的主题。其中之一是研究不同的证明系统及其关系，追溯到 Gentzen 的论文（1935 年）。在他们的《基本证明论》中，Troelstra 和 Schwichtenberg（2000 年）给出了一个很好的选择，但一些重要的演算，如 Schütte 的证明系统没有涵盖（例如，Schütte 1960b，1977）。他们也没有涵盖时间逻辑和模态逻辑的证明系统，也没有介绍子结构逻辑。\[33]
 
 第二个遗漏涉及有界算术，其中可行性问题是一个核心关注点：人们研究具有可证明递归函数的形式理论，这些函数是原始递归函数的非常小的子类。事实上，Buss 的基本理论的可证明总函数类是可以在多项式时间内计算的函数类，人们希望证明论的研究可以为复杂性理论带来新的结果。第三个遗漏涉及证明挖掘；这是一条深入的数学研究线路，使用证明论工具，由 Kreisel（1958 年，1982 年）和 Luckhardt（1989 年）发起，但真正完善是由 Kohlenbach（2007 年）完成的。我们在 4.1 节的最后提到了他的学派的工作。
 
-证明论，正如我们所描述的，主要涉及形式证明或推导。然而，正如我们在第 1 节中指出的，希尔伯特的目标是对普通的非正式数学证明进行更一般的分析。根据根岑在他 1936 年的论文中，“证明论的对象应该是在数学中进行的证明”（第 499 页）。希尔伯特及其合作者的目标无疑是实现更深入的数学和概念理解，同时也是寻找形式演算中的一般证明构造方法。这一目标现在在使用强大计算机进行交互验证证明和程序以及完全自动化搜索数学定理证明的活跃领域中得到追求[34]。这可以追求以认知科学的目的来建模数学推理（参见 Sieg 2010，Ganesalingam＆Gowers 2017 以及 Sieg＆Derakhshan 2021）。这显然符合希尔伯特的精神，他在 1927 年的第二次汉堡演讲中如下所述：
+证明论，正如我们所描述的，主要涉及形式证明或推导。然而，正如我们在第 1 节中指出的，希尔伯特的目标是对普通的非正式数学证明进行更一般的分析。根据根岑在他 1936 年的论文中，“证明论的对象应该是在数学中进行的证明”（第 499 页）。希尔伯特及其合作者的目标无疑是实现更深入的数学和概念理解，同时也是寻找形式演算中的一般证明构造方法。这一目标现在在使用强大计算机进行交互验证证明和程序以及完全自动化搜索数学定理证明的活跃领域中得到追求\[34]。这可以追求以认知科学的目的来建模数学推理（参见 Sieg 2010，Ganesalingam＆Gowers 2017 以及 Sieg＆Derakhshan 2021）。这显然符合希尔伯特的精神，他在 1927 年的第二次汉堡演讲中如下所述：
 
 > 这个公式游戏除了具有数学价值外，还具有重要的一般哲学意义。因为这个公式游戏是根据一定的规则进行的，这些规则表达了我们思考的技巧。这些规则构成了一个封闭的系统，可以被发现和明确陈述。
 
 然后他继续以对证明论研究的认知目标的挑衅性陈述。
 
-> 我的证明论的基本思想无非是描述我们理解的活动，根据我们思考实际进行的规则制定一个协议。（希尔伯特 1927 [1967: 475]）
+> 我的证明论的基本思想无非是描述我们理解的活动，根据我们思考实际进行的规则制定一个协议。（希尔伯特 1927 \[1967: 475]）
 
 对我们来说很明显，对希尔伯特来说也很明显，数学思维并不是按照严格的军事化形式理论所强加的方式进行的。虽然形式严谨至关重要，但它并不足以使证明有条理地形成或高效地发现，即使在纯粹的逻辑中也是如此。回顾数学应该通过“最少的盲目计算和最大的引导思考”来解决问题的原则，我们必须研究理解和推理之间微妙的相互作用，即引入概念和证明定理之间的关系。
 
@@ -633,311 +630,311 @@ Bachmann 使用大序数来生成小序数的名称的大胆举动是一个非�
 
 The translations in this paper are ours, unless we explicitly refer to an English edition.
 
-* Ackermann, Wilhelm, 1925, “Begründung des ‘tertium non datur’ mittels der Hilbertschen Theorie der Widerspruchsfreiheit”, *Mathematische Annalen*, 93: 1–36. doi:10.1007/BF01449946
-* Aczel, Peter, 1978, “The Type Theoretic Interpretation of Constructive Set Theory”, in A. MacIntyre, L. Pacholski, and J. Paris (eds.), *Studies in Logic and the Foundations of Mathematics, 96*, Amsterdam: North-Holland, pp. 55–66. doi:10.1016/S0049-237X(08)71989-X
-* Arai, Toshiyasu, 2003, “Proof theory for theories of ordinals I: recursively Mahlo ordinals”, *Annals of Pure and Applied Logic*, 122(1–3): 1–85. doi:10.1016/S0168-0072(03)00020-4
-* –––, 2004, “Proof theory for theories of ordinals II: -Reflection”, *Annals of Pure and Applied Logic*, 129(1–3): 39–92. doi:10.1016/j.apal.2004.01.001
-* –––, 2020, *Ordinal Analysis with an Introduction to Proof Theory*, Singapore: Springer. doi.org/10.1007/978-981-15-6459-8
-* Avigad, Jeremy and Richard Zach, 2007, “The Epsilon Calculus”, *Stanford Encyclopedia of Philosophy* (Fall 2007), Edward N. Zalta (ed.), URL = <[The Epsilon Calculus (Stanford Encyclopedia of Philosophy/Fall 2007 Edition)](https://plato.stanford.edu/archives/fall2007/entries/epsilon-calculus/)>
-* Awodey, Steve, 2012, “Homotopy Type Theory and Univalent Foundations”, Slides from a talk at Carnegie Mellon, March 2012. [ [Awodey 2012 available online](https://www.andrew.cmu.edu/user/awodey/hott/CMUslides.pdf)]
-* Bachmann, Heinz, 1950, “Die Normalfunktionen und das Problem der ausgezeichneten Folgen von Ordinalzahlen”, *Vierteljahrsschrift der Naturforschenden Gesellschaft Zürich*, 95(2): 115–147. [[Bachmann 1950 available online](http://www.ngzh.ch/archiv/1950_95/95_2/95_14.pdf)]
-* Barwise, Jon, 1975, *Admissible Sets and Structures: An Approach to Definability Theory*, (Perspectives in Mathematical Logic, 7), Berlin: Springer.
-* ––– (ed.), 1977, *Handbook of Mathematical Logic*, ( Studies in Logic and the Foundations of Mathematics, 90), Amsterdam: North Holland.
-* Bernays, Paul, 1918, *Beiträge zur axiomatischen Behandlung des Logik-Kalküls*, Habilitationsschrift, Göttingen, reprinted in Ewald and Sieg 2013: 222–272.
+* Ackermann, Wilhelm, 1925, “Begründung des ‘tertium non datur’ mittels der Hilbertschen Theorie der Widerspruchsfreiheit”, _Mathematische Annalen_, 93: 1–36. doi:10.1007/BF01449946
+* Aczel, Peter, 1978, “The Type Theoretic Interpretation of Constructive Set Theory”, in A. MacIntyre, L. Pacholski, and J. Paris (eds.), _Studies in Logic and the Foundations of Mathematics, 96_, Amsterdam: North-Holland, pp. 55–66. doi:10.1016/S0049-237X(08)71989-X
+* Arai, Toshiyasu, 2003, “Proof theory for theories of ordinals I: recursively Mahlo ordinals”, _Annals of Pure and Applied Logic_, 122(1–3): 1–85. doi:10.1016/S0168-0072(03)00020-4
+* –––, 2004, “Proof theory for theories of ordinals II: -Reflection”, _Annals of Pure and Applied Logic_, 129(1–3): 39–92. doi:10.1016/j.apal.2004.01.001
+* –––, 2020, _Ordinal Analysis with an Introduction to Proof Theory_, Singapore: Springer. doi.org/10.1007/978-981-15-6459-8
+* Avigad, Jeremy and Richard Zach, 2007, “The Epsilon Calculus”, _Stanford Encyclopedia of Philosophy_ (Fall 2007), Edward N. Zalta (ed.), URL = <[The Epsilon Calculus (Stanford Encyclopedia of Philosophy/Fall 2007 Edition)](https://plato.stanford.edu/archives/fall2007/entries/epsilon-calculus/)>
+* Awodey, Steve, 2012, “Homotopy Type Theory and Univalent Foundations”, Slides from a talk at Carnegie Mellon, March 2012. \[ [Awodey 2012 available online](https://www.andrew.cmu.edu/user/awodey/hott/CMUslides.pdf)]
+* Bachmann, Heinz, 1950, “Die Normalfunktionen und das Problem der ausgezeichneten Folgen von Ordinalzahlen”, _Vierteljahrsschrift der Naturforschenden Gesellschaft Zürich_, 95(2): 115–147. \[[Bachmann 1950 available online](http://www.ngzh.ch/archiv/1950\_95/95\_2/95\_14.pdf)]
+* Barwise, Jon, 1975, _Admissible Sets and Structures: An Approach to Definability Theory_, (Perspectives in Mathematical Logic, 7), Berlin: Springer.
+* ––– (ed.), 1977, _Handbook of Mathematical Logic_, ( Studies in Logic and the Foundations of Mathematics, 90), Amsterdam: North Holland.
+* Bernays, Paul, 1918, _Beiträge zur axiomatischen Behandlung des Logik-Kalküls_, Habilitationsschrift, Göttingen, reprinted in Ewald and Sieg 2013: 222–272.
 * –––, 1921, “Disposition for Hilbert’s Seminar: MI”, published in Sieg 2013: 123–124.
-* –––, 1922 [1998], “Über Hilberts Gedanken zur Grundlegung der Mathematik”, *Jahresberichte der Deutschen Mathematiker-Vereinigung*, 31: 10–19. Translated in Mancosu 1998: 215–222.
-* –––, 1927, “Probleme der theoretischen Logik”, *Unterrichtsblätter für Mathematik und Naturwissenschaften*, 33: 369–377.
-* –––, 1935, “Hilberts Untersuchungen über die Grundlagen der Arithmetik”, in Hilbert 1935: 196–216. doi:10.1007/978-3-662-38452-7_14
-* –––, 1965, “Betrachtungen zum Sequenzenkalkül”, in Anna-Teresa Tymieniecka and C. Parsons (eds.), *Contributions to Logic and Methodology, in honor of J. M. Bochenski*, Amsterdam: North-Holland, 1–44. doi:10.1016/B978-1-4832-3159-4.50007-1
-* –––, 1976, *Abhandlungen zur Philosophie der Mathematik*, Darmstadt: Wissenschaftliche Buchgesellschaft.
-* Bernstein, Felix, 1919, “Die Mengenlehre Georg Cantors und der Finitismus”, *Jahresberichte der Deutschen Mathematiker-Vereinigung*, 28: 63–78.
-* Bishop, Errett, 1967, *Foundations of Constructive Analysis*, New York: McGraw-Hill.
+* –––, 1922 \[1998], “Über Hilberts Gedanken zur Grundlegung der Mathematik”, _Jahresberichte der Deutschen Mathematiker-Vereinigung_, 31: 10–19. Translated in Mancosu 1998: 215–222.
+* –––, 1927, “Probleme der theoretischen Logik”, _Unterrichtsblätter für Mathematik und Naturwissenschaften_, 33: 369–377.
+* –––, 1935, “Hilberts Untersuchungen über die Grundlagen der Arithmetik”, in Hilbert 1935: 196–216. doi:10.1007/978-3-662-38452-7\_14
+* –––, 1965, “Betrachtungen zum Sequenzenkalkül”, in Anna-Teresa Tymieniecka and C. Parsons (eds.), _Contributions to Logic and Methodology, in honor of J. M. Bochenski_, Amsterdam: North-Holland, 1–44. doi:10.1016/B978-1-4832-3159-4.50007-1
+* –––, 1976, _Abhandlungen zur Philosophie der Mathematik_, Darmstadt: Wissenschaftliche Buchgesellschaft.
+* Bernstein, Felix, 1919, “Die Mengenlehre Georg Cantors und der Finitismus”, _Jahresberichte der Deutschen Mathematiker-Vereinigung_, 28: 63–78.
+* Bishop, Errett, 1967, _Foundations of Constructive Analysis_, New York: McGraw-Hill.
 * Brouwer, Luitzen Egbertus Jan, 1927, “Über Definitionsbereiche von Funktionen”, Mathematische Annalen, 97: 60–75. doi:10.1007/BF01447860 English translation in van Heijenoort 1967: 446–463.
-* –––, 1928 [1967], “Intuitionistische Betrachtungen über den Formalismus”, *Koninklijke Akademie van wetenschappen te Amsterdam, Proceedings of the section of sciences*, 31: 374–379. English translation in van Heijenoort 1967: 490–492.
-* Buchholz, Wilfried, 1977a, *Eine Erweiterung der Schnitteliminationsmethode*, Habilitationsschrift, München.
-* –––, 1977b, “A New System of Proof-Theoretic Ordinal Functions”, *Annals of Pure and Applied Logic*, 32: 195–207. doi:10.1016/0168-0072(86)90052-7
-* –––, 1987, “An independence result for -CA+BI)”, *Annals of Pure and Applied Logic*, 33: 131–155. doi:10.1016/0168-0072(87)90078-9
-* –––, 1993, “A Simplified Version of Local Predicativity”, in Peter Aczel, Harold Simmons, and Stanley S. Wainer (eds.), *Proof Theory: A selection of papers from the Leeds Proof Theory Programme 1990*, Cambridge: Cambridge University Press, 115–147. doi:10.1017/CBO9780511896262.006
-* –––, 1997, “Explaining Gentzen’s Consistency Proof Within Infinitary Proof Theory”, in Georg Gottlob, Alexander Leitsch, and Daniele Mundici (eds.), *KGC ’97 Proceedings of the 5th Kurt Gödel Colloquium on Computational Logic and Proof Theory,* , Lecture Notes in Computer Science 1289, Berlin: Springer-Verlag, pp. 4–17. doi:10.1007/3-540-63385-5_29
-* –––, 2015, “On Gentzen’s First Consistency Proof for Arithmetic” in Kahle and Rathjen 2015: 63–87. doi:10.1007/978-3-319-10103-3_4
-* Buchholz, Wilfried, Solomon Feferman, Wolfram Pohlers, and Wilfried Sieg, 1981, *Iterated Inductive Definitions and Subsystems of Analysis: Recent Proof-Theoretical Studies*, (Lecture Notes in Mathematics, 897), Berlin: Springer. doi:10.1007/BFb0091894
-* Buchholz, Wilfried and Kurt Schütte, 1988, *Proof Theory of Impredicative Subsystems of Analysis*, Naples: Bibliopolis.
+* –––, 1928 \[1967], “Intuitionistische Betrachtungen über den Formalismus”, _Koninklijke Akademie van wetenschappen te Amsterdam, Proceedings of the section of sciences_, 31: 374–379. English translation in van Heijenoort 1967: 490–492.
+* Buchholz, Wilfried, 1977a, _Eine Erweiterung der Schnitteliminationsmethode_, Habilitationsschrift, München.
+* –––, 1977b, “A New System of Proof-Theoretic Ordinal Functions”, _Annals of Pure and Applied Logic_, 32: 195–207. doi:10.1016/0168-0072(86)90052-7
+* –––, 1987, “An independence result for -CA+BI)”, _Annals of Pure and Applied Logic_, 33: 131–155. doi:10.1016/0168-0072(87)90078-9
+* –––, 1993, “A Simplified Version of Local Predicativity”, in Peter Aczel, Harold Simmons, and Stanley S. Wainer (eds.), _Proof Theory: A selection of papers from the Leeds Proof Theory Programme 1990_, Cambridge: Cambridge University Press, 115–147. doi:10.1017/CBO9780511896262.006
+* –––, 1997, “Explaining Gentzen’s Consistency Proof Within Infinitary Proof Theory”, in Georg Gottlob, Alexander Leitsch, and Daniele Mundici (eds.), _KGC ’97 Proceedings of the 5th Kurt Gödel Colloquium on Computational Logic and Proof Theory,_ , Lecture Notes in Computer Science 1289, Berlin: Springer-Verlag, pp. 4–17. doi:10.1007/3-540-63385-5\_29
+* –––, 2015, “On Gentzen’s First Consistency Proof for Arithmetic” in Kahle and Rathjen 2015: 63–87. doi:10.1007/978-3-319-10103-3\_4
+* Buchholz, Wilfried, Solomon Feferman, Wolfram Pohlers, and Wilfried Sieg, 1981, _Iterated Inductive Definitions and Subsystems of Analysis: Recent Proof-Theoretical Studies_, (Lecture Notes in Mathematics, 897), Berlin: Springer. doi:10.1007/BFb0091894
+* Buchholz, Wilfried and Kurt Schütte, 1988, _Proof Theory of Impredicative Subsystems of Analysis_, Naples: Bibliopolis.
 * Buchholz, Wilfried and Wilfried Sieg, 1990, “A Note on Polynomial Time Computable Arithmetic”, in Sieg 1990: 51–56. doi:10.1090/conm/106/1057815
 * Buchholz, Wilfried and Stan Wainer, 1987, “Provable Computable Functions and the Fast Growing Hierarchy”, in Simpson 1987: 179–198. doi:10.1090/conm/065/891248
-* Burr, Wolfgang, 2000, “Functional Interpretation of Aczel’s Constructive Set Theory”, *Annals of Pure and Applied Logic*, 104: 31–73. doi:10.1016/S0168-0072(00)00007-5
-* Buss, Samuel R., 1986, *Bounded Arithmetic*, Napoli: Bibliopolis. [[Buss 1986 draft available online](http://math.ucsd.edu/~sbuss/ResearchWeb/BAthesis)]
-* Cantor, Georg, 1872, “Ueber die Ausdehnung eines Satzes aus der Theorie der trigonometrischen Reihen”, *Mathematische Annalen*, 5: 123–132. [[Cantor 1872 available online](http://eudml.org/doc/156562)]
-* –––, 1897, “Beiträge zur Begründung der transfiniten Mengenlehre II”, *Mathematische Annalen*, 49(2): 207–246. doi:10.1007/BF01444205
-* Carnap, Rudolf, 1934, *Logische Syntax der Sprache*, Wien: Springer. doi:10.1007/978-3-662-25376-2
-* Church, Alonzo, 1936, “An Unsolvable Problem of Elementary Number Theory”, *American Journal of Mathematics*, 58(2): 345–363. doi:10.2307/2371045
-* Church, Alonzo and S.C. Kleene, 1936, “Formal Definitions in the Theory of Ordinal Numbers”, *Fundamenta Mathematicae*, 28(1): 11–21. [[Church and Kleene 1936 available online](http://pldml.icm.edu.pl/pldml/element/bwmeta1.element.bwnjournal-article-fmv28i1p3bwm)]
-* Cichon, E.A., 1983, “A Short Proof of Two Recently Discovered Independence Results Using Recursion Theoretic Methods”, *Proceedings of the American Mathematical Society*, 87(4): 704–706. doi:10.1090/S0002-9939-1983-0687646-0
-* Curry, Haskell B., 1930 “Grundlagen der Kombinatorischen Logik”, *American Journal of Mathematics*, 52(3): 509–536, 52(4): 789–834. doi:10.2307/2370619 (part 1) doi:10.2307/2370716 (part 2)
-* Dawson, John W., 1997, *Logical Dilemmas: The Life and Work of Kurt Gödel*, Wellesley, MA: A.K. Peters.
-* Dedekind, Richard, 1872, *Stetigkeit und irrationale Zahlen*, Braunschweig: Vieweg. Translated by Wooster Woodruff Beman as “Continuity and Irrational Numbers”, in *Essays on the Theory of Numbers* , Chicago: Open Court, 1901; reprinted with corrections by William Ewald in Ewald 1996: 765–779 (vol. 2).
-* –––, 1888, *Was sind und was sollen die Zahlen*, Braunschweig: Vieweg. Translated by Wooster Woodruff Beman as “The Nature and Meaning of Numbers”, in *Essays on the Theory of Numbers* , Chicago: Open Court, 1901; reprinted with corrections by William Ewald in Ewald 1996: 787–833 (vol. 2).
-* –––, 1890 [1967], “Letter to H. Keferstein”, Cod. Ms. Dedekind III, I, IV (1890). Printed in Sinaceur 1974: 270–278. Translated in van Heijenoort 1967: 98–103.
-* –––, 1932, *Gesammelte mathematische Werke*, Volume 3, Robert Fricke, Emmy Noether, and Öystein Ore (eds), Braunschweig: Vieweg. [[Dedekind 1932 available online](http://resolver.sub.uni-goettingen.de/purl?PPN23569441X)]
-* Diestel, Reinhard, 1997 *Graph Theory*, New York, Berlin, Heidelberg: Springer. doi:10.1007/978-3-662-53622-3 (doi is for the fifth edition but page numbers are from the first edition).
-* Diller, Justus, 2008, “Functional Interpretations of Constructive Set Theory in All Finite Types”, *Dialectica*, 62(2): 149–177. doi:10.1111/j.1746-8361.2008.01133.x
-* Diller, Justus and Gert H. Müller (eds), 1975,  *ISILCProof Theory Symposium: Proceedings of the International Summer Institute and Logic Colloquium, Kiel 1974*, (Lecture Notes in Mathematics, 500), Berlin: Springer.
-* Dugac, Pierre, 1976, *Richard Dedekind et les fondements des mathématiques*, Paris: VRIN.
-* Ewald, William (ed.), 1996, *From Kant to Hilbert: A Source Book in the Foundations of Mathematics*, Oxford: Oxford University Press, two volumes.
-* Ewald, William and Wilfried Sieg (eds.), 2013, *David Hilbert’s Lectures on the Foundations of Arithmetic and Logic 1917–1933*, Heidelberg: Springer. doi:10.1007/978-3-540-69444-1
-* Feferman, Solomon, 1962, “Transfinite Recursive Progressions of Axiomatic Theories”, *Journal of Symbolic Logic*, 27(3): 259–316. doi:10.2307/2964649
-* –––, 1964, “Systems of Predicative Analysis”, *Journal of Symbolic Logic*, 29(1): 1–30. doi:10.2307/2269764
-* –––, 1968, “Autonomous Transfinite Progressions and the Extent of Predicative Mathematics”, in *Logic, Methodology, and Philosophy of Science III*, Proceedings of the Third International Congress, Amsterdam, 1967, (Studies in Logic and the Foundations of Mathematics, Volume 52), Amsterdam: North-Holland, 121–135. doi:10.1016/S0049-237X(08)71190-X
+* Burr, Wolfgang, 2000, “Functional Interpretation of Aczel’s Constructive Set Theory”, _Annals of Pure and Applied Logic_, 104: 31–73. doi:10.1016/S0168-0072(00)00007-5
+* Buss, Samuel R., 1986, _Bounded Arithmetic_, Napoli: Bibliopolis. \[[Buss 1986 draft available online](http://math.ucsd.edu/\~sbuss/ResearchWeb/BAthesis)]
+* Cantor, Georg, 1872, “Ueber die Ausdehnung eines Satzes aus der Theorie der trigonometrischen Reihen”, _Mathematische Annalen_, 5: 123–132. \[[Cantor 1872 available online](http://eudml.org/doc/156562)]
+* –––, 1897, “Beiträge zur Begründung der transfiniten Mengenlehre II”, _Mathematische Annalen_, 49(2): 207–246. doi:10.1007/BF01444205
+* Carnap, Rudolf, 1934, _Logische Syntax der Sprache_, Wien: Springer. doi:10.1007/978-3-662-25376-2
+* Church, Alonzo, 1936, “An Unsolvable Problem of Elementary Number Theory”, _American Journal of Mathematics_, 58(2): 345–363. doi:10.2307/2371045
+* Church, Alonzo and S.C. Kleene, 1936, “Formal Definitions in the Theory of Ordinal Numbers”, _Fundamenta Mathematicae_, 28(1): 11–21. \[[Church and Kleene 1936 available online](http://pldml.icm.edu.pl/pldml/element/bwmeta1.element.bwnjournal-article-fmv28i1p3bwm)]
+* Cichon, E.A., 1983, “A Short Proof of Two Recently Discovered Independence Results Using Recursion Theoretic Methods”, _Proceedings of the American Mathematical Society_, 87(4): 704–706. doi:10.1090/S0002-9939-1983-0687646-0
+* Curry, Haskell B., 1930 “Grundlagen der Kombinatorischen Logik”, _American Journal of Mathematics_, 52(3): 509–536, 52(4): 789–834. doi:10.2307/2370619 (part 1) doi:10.2307/2370716 (part 2)
+* Dawson, John W., 1997, _Logical Dilemmas: The Life and Work of Kurt Gödel_, Wellesley, MA: A.K. Peters.
+* Dedekind, Richard, 1872, _Stetigkeit und irrationale Zahlen_, Braunschweig: Vieweg. Translated by Wooster Woodruff Beman as “Continuity and Irrational Numbers”, in _Essays on the Theory of Numbers_ , Chicago: Open Court, 1901; reprinted with corrections by William Ewald in Ewald 1996: 765–779 (vol. 2).
+* –––, 1888, _Was sind und was sollen die Zahlen_, Braunschweig: Vieweg. Translated by Wooster Woodruff Beman as “The Nature and Meaning of Numbers”, in _Essays on the Theory of Numbers_ , Chicago: Open Court, 1901; reprinted with corrections by William Ewald in Ewald 1996: 787–833 (vol. 2).
+* –––, 1890 \[1967], “Letter to H. Keferstein”, Cod. Ms. Dedekind III, I, IV (1890). Printed in Sinaceur 1974: 270–278. Translated in van Heijenoort 1967: 98–103.
+* –––, 1932, _Gesammelte mathematische Werke_, Volume 3, Robert Fricke, Emmy Noether, and Öystein Ore (eds), Braunschweig: Vieweg. \[[Dedekind 1932 available online](http://resolver.sub.uni-goettingen.de/purl?PPN23569441X)]
+* Diestel, Reinhard, 1997 _Graph Theory_, New York, Berlin, Heidelberg: Springer. doi:10.1007/978-3-662-53622-3 (doi is for the fifth edition but page numbers are from the first edition).
+* Diller, Justus, 2008, “Functional Interpretations of Constructive Set Theory in All Finite Types”, _Dialectica_, 62(2): 149–177. doi:10.1111/j.1746-8361.2008.01133.x
+* Diller, Justus and Gert H. Müller (eds), 1975,  _ISILCProof Theory Symposium: Proceedings of the International Summer Institute and Logic Colloquium, Kiel 1974_, (Lecture Notes in Mathematics, 500), Berlin: Springer.
+* Dugac, Pierre, 1976, _Richard Dedekind et les fondements des mathématiques_, Paris: VRIN.
+* Ewald, William (ed.), 1996, _From Kant to Hilbert: A Source Book in the Foundations of Mathematics_, Oxford: Oxford University Press, two volumes.
+* Ewald, William and Wilfried Sieg (eds.), 2013, _David Hilbert’s Lectures on the Foundations of Arithmetic and Logic 1917–1933_, Heidelberg: Springer. doi:10.1007/978-3-540-69444-1
+* Feferman, Solomon, 1962, “Transfinite Recursive Progressions of Axiomatic Theories”, _Journal of Symbolic Logic_, 27(3): 259–316. doi:10.2307/2964649
+* –––, 1964, “Systems of Predicative Analysis”, _Journal of Symbolic Logic_, 29(1): 1–30. doi:10.2307/2269764
+* –––, 1968, “Autonomous Transfinite Progressions and the Extent of Predicative Mathematics”, in _Logic, Methodology, and Philosophy of Science III_, Proceedings of the Third International Congress, Amsterdam, 1967, (Studies in Logic and the Foundations of Mathematics, Volume 52), Amsterdam: North-Holland, 121–135. doi:10.1016/S0049-237X(08)71190-X
 * –––, 1970a, “Hereditarily Replete Functionals Over the Ordinals”, in Kino, Myhill, and Vesley 1970: 289–301. doi:10.1016/S0049-237X(08)70760-2
 * –––, 1970b, “Formal Theories for Transfinite Inductive Definitions and Some Subsystems of Analysis”, in Kino, Myhill, and Vesley 1970: 303–326. doi:10.1016/S0049-237X(08)70761-4
-* –––, 1975, “A Language and Axioms for Explicit Mathematics”, in *Algebra and Logic Papers from the 1974 Summer Research Institute of the Australian Mathematical Society, Monash University, Australia* , (Lecture Notes in Mathematics, 450), John Newsome Crossley (ed.), Berlin: Springer, 87–139. doi:10.1007/BFb0062852
-* –––, 1979, “Constructive Theories of Functions and Classes”, in Maurice Boffa, Dirk van Dalen, Kenneth McAloon (eds.), *Logic Colloquium ’78: Proceedings of the colloquium held in Mons, 1 August 1978*, Amsterdam: North-Holland, 159–224. doi:10.1016/S0049-237X(08)71625-2
+* –––, 1975, “A Language and Axioms for Explicit Mathematics”, in _Algebra and Logic Papers from the 1974 Summer Research Institute of the Australian Mathematical Society, Monash University, Australia_ , (Lecture Notes in Mathematics, 450), John Newsome Crossley (ed.), Berlin: Springer, 87–139. doi:10.1007/BFb0062852
+* –––, 1979, “Constructive Theories of Functions and Classes”, in Maurice Boffa, Dirk van Dalen, Kenneth McAloon (eds.), _Logic Colloquium ’78: Proceedings of the colloquium held in Mons, 1 August 1978_, Amsterdam: North-Holland, 159–224. doi:10.1016/S0049-237X(08)71625-2
 * –––, 1987, “Proof Theory: A Personal Report”, in Takeuti 1987: 445–485.
-* –––, 1988, “Hilbert’s Program Relativized: Proof-Theoretical and Foundational Reductions”, *Journal of Symbolic Logic*, 53(2): 364–384. doi:10.1017/S0022481200028310
-* –––, 1989, “Remarks for ‘The Trends in Logic’”, in R. Ferro, C. Bonotto, S. Valentini, and A. Zanardo (eds), *Logic Colloquium ‘88: Proceedings of the Colloquium held in Padova Italy 22–31 August 1988*, (Studies in Logic and the Foundations of Mathematics, 127), Amsterdam: North-Holland, 361–363. doi:10.1016/S0049-237X(08)70276-3
-* –––, 1998, *In the Light of Logic*, Oxford: Oxford University Press.
-* –––, 2000, “Does Reductive Proof Theory Have a Viable Rationale?”, *Erkenntnis*, 53(1–2): 63–96. doi:10.1023/A:1005622403850
+* –––, 1988, “Hilbert’s Program Relativized: Proof-Theoretical and Foundational Reductions”, _Journal of Symbolic Logic_, 53(2): 364–384. doi:10.1017/S0022481200028310
+* –––, 1989, “Remarks for ‘The Trends in Logic’”, in R. Ferro, C. Bonotto, S. Valentini, and A. Zanardo (eds), _Logic Colloquium ‘88: Proceedings of the Colloquium held in Padova Italy 22–31 August 1988_, (Studies in Logic and the Foundations of Mathematics, 127), Amsterdam: North-Holland, 361–363. doi:10.1016/S0049-237X(08)70276-3
+* –––, 1998, _In the Light of Logic_, Oxford: Oxford University Press.
+* –––, 2000, “Does Reductive Proof Theory Have a Viable Rationale?”, _Erkenntnis_, 53(1–2): 63–96. doi:10.1023/A:1005622403850
 * Feferman, Solomon and Wilfried Sieg, 1981a, “Inductive Definitions and Subsystems of Analysis”, in Buchholz, Feferman, Pohlers, and Sieg 1981: 16–77. doi:10.1007/BFb0091895
 * –––, 1981b, “Proof Theoretic Equivalences between Classical and Constructive Theories for Analysis”, in Buchholz, Feferman, Pohlers, and Sieg 1981: 78–142. doi:10.1007/BFb0091896
-* Feferman, Solomon and Thomas Strahm, 2010, “Unfolding Finitist Arithmetic”, *Review of Symbolic Logic*, 3(4): 665–689. doi:10.1017/S1755020310000183
+* Feferman, Solomon and Thomas Strahm, 2010, “Unfolding Finitist Arithmetic”, _Review of Symbolic Logic_, 3(4): 665–689. doi:10.1017/S1755020310000183
 * Ferreira, Fernando, 1990, “Polynomial Time Computable Arithmetic”, in Sieg 1990: 137–156. doi:10.1090/conm/106/1057819
-* Ferreirós, José, 2008, *Labyrinth of Thought: A History of Set Theory and Its Role in Modern Mathematics*, second revised edition, Basel: Birkhäuser. First edition was published in 1999. doi:10.1007/978-3-7643-8350-3
-* Franks, Curtis, 2009, *The Autonomy of Mathematical Knowledge: Hilbert’s Program Revisited*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511642098
-* Franzén, Torkel, 2004a, *Inexhaustability. A non-exhaustive treatment*, (Lecture Notes in Logic 16), Association for Symbolic Logic, Wellesley, MA: A.K. Peters.
-* –––, 2004b, “Transfinite Progressions: a Second Look at Completeness”, *Bulletin of Symbolic Logic*, 10(3): 367–389. doi:10.2178/bsl/1102022662
-* Frege, Gottlob, 1879, *Begriffsschrift: eine der arithmetischen nachgebildete Formelsprache des reinen Denkens*, Halle: Verlag von Louis Nebert.
-* Friedman, Harvey, 1970, “Iterated Inductive Definitions and -AC”, in Kino, Myhill, and Vesley 1970: 435–442. doi:10.1016/S0049-237X(08)70769-9
+* Ferreirós, José, 2008, _Labyrinth of Thought: A History of Set Theory and Its Role in Modern Mathematics_, second revised edition, Basel: Birkhäuser. First edition was published in 1999. doi:10.1007/978-3-7643-8350-3
+* Franks, Curtis, 2009, _The Autonomy of Mathematical Knowledge: Hilbert’s Program Revisited_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511642098
+* Franzén, Torkel, 2004a, _Inexhaustability. A non-exhaustive treatment_, (Lecture Notes in Logic 16), Association for Symbolic Logic, Wellesley, MA: A.K. Peters.
+* –––, 2004b, “Transfinite Progressions: a Second Look at Completeness”, _Bulletin of Symbolic Logic_, 10(3): 367–389. doi:10.2178/bsl/1102022662
+* Frege, Gottlob, 1879, _Begriffsschrift: eine der arithmetischen nachgebildete Formelsprache des reinen Denkens_, Halle: Verlag von Louis Nebert.
+* Friedman, Harvey, 1970, “Iterated Inductive Definitions and -AC”, in Kino, Myhill, and Vesley 1970: 435–442. doi:10.1016/S0049-237X(08)70769-9
 * Friedman, Harvey, Neil Robertson, and Paul Seymour, 1987, “The Metamathematics of the Graph Minor Theorem”, in Simpson 1987: 229–261. doi:10.1090/conm/065/891251
-* Friedman, Harvey and Michael Sheard, 1995, “Elementary Descent Recursion and Proof Theory”, *Annals of Pure and Applied Logic*, 71(1): 1–45. doi:10.1016/0168-0072(94)00003-L
-* Gabriel, Gottfried, Friedrich Kambartel, and Christian Thiel (eds.), 1980, *Gottlob Freges Briefwechsel mit D. Hilbert, E. Husserl, B. Russell, sowie ausgewählte Einzelbriefe Freges*, (Philosophische Bibliothek, Band 321), Hamburg: Felix Meiner Verlag.
-* Ganesalingam, Mohan and W. Timothy Gowers, 2017, “A Fully Automatic Theorem Prover with Human-Style Output”, *Journal of Automated Reasoning*, 58(2): 253–291. doi:10.1007/s10817-016-9377-1
-* Gentzen, Gerhard, 1932, “Über die Existenz unabhängiger Axiomensysteme zu unendlichen Satzsystemen”, *Mathematische Annalen*, 107: 329–350. English translation, “On the Existence of Independent Axiom Systems for Infinite Sentence Systems”, in Gentzen 1969: 29–52. doi:10.1007/BF01448897 (de) doi:10.1016/S0049-237X(08)70820-6 (en)
-* –––, [1933] 1974, “Über das Verhältnis zwischen intuitionistischer und klassischer Arithmetik”, *Archiv für mathematische Logik und Grundlagenforschung*, 16(3–4): 119–132. Written in 1933, but withdrawn from publication after the appearence of Gödel 1933. English translation, “On the Relation Between Intuitionist and Classical Arithmetic”, in Gentzen 1969: 53–67. doi:10.1007/BF02015371 (de) doi:10.1016/S0049-237X(08)70821-8 (en)
-* –––, 1934/35, “Untersuchungen über das logische Schließen I,II”, *Mathematische Zeitschrift*, 39: 176–210, 405–431. English translation, “Investigations into Logical Deduction”, in Gentzen 1969: 68–131. doi:10.1007/BF01201353 (I, de) doi:10.1007/BF01201363 (II, de) doi:10.1016/S0049-237X(08)70822-X (en)
-* –––, 1936, “Die Widerspruchsfreiheit der reinen Zahlentheorie”, *Mathematische Annalen*, 112: 493–565. English translation, “The Consistency of Elementary Number Theory”, in Gentzen 1969: 132–213. doi:10.1007/BF01565428 (de) doi:10.1016/S0049-237X(08)70823-1 (en)
-* –––, 1938a, “Die gegenwärtige Lage in der mathematischen Grundlagenforschung”, *Forschungen zur Logik und zur Grundlegung der exakten Wissenschaften*, Neue Folge 4, Leipzig: Hirzel, 5–18. English translation, “The Present State of Research into the Foundations of Mathematics”, in Gentzen 1969: 234–251. doi:10.1016/S0049-237X(08)70826-7 (en)
-* –––, 1938b, “Neue Fassung des Widerspruchsfreiheitsbeweises für die reine Zahlentheorie”, *Forschungen zur Logik und zur Grundlegung der exacten Wissenschaften*, Neue Folge 4, Leipzig: Hirzel, 19–44. English translation, “New Version of the Consistency Proof for Elementary Number Theory”, in Gentzen 1969: 252–286. doi:10.1016/S0049-237X(08)70827-9
-* –––, 1943, “Beweisbarkeit und Unbeweisbarkeit von Anfangsfällen der transfiniten Induktion in der reinen Zahlentheorie”, *Mathematische Annalen*, 119(1): 140–161. English translation, “Provability and Nonprovability of Restricted Transfinite Induction in Elementary Number Theory”, in Gentzen 1969: 287–308. doi:10.1007/BF01564760 (de) doi:10.1016/S0049-237X(08)70828-0 (en)
-* –––, 1945, *Stenogramm von G. Gentzen*, Transcription by H. Kneser and H. Urban, 13 pages.
-* –––, 1969, *The Collected Papers of Gerhard Gentzen*, (Studies in Logic and the Foundations of Mathematics, 55), translated and edited by M.E. Szabo, Amsterdam: North-Holland.
-* –––, 1974, “Der erste Widerspruchsfreiheitsbeweis für die klassische Zahlentheorie”, *Archiv für Mathematische Logik und Grundlagenforschung*, 16(3–4): 97–118. doi:10.1007/BF02015370
-* Girard, Jean-Yves, 1971, *Une extension de l’interpretation de Gödel a l’analyse et son application a l’élimination des coupures dans l’analyse et la théorie des types*, in J.E. Fenstad (ed.), 1971, *Proceedings of the Second Scandinavian Logic Symposium*, (Studies in Logic and the Foundations of Mathematics, 63), Amsterdam: North-Holland, 63–92. doi:10.1016/S0049-237X(08)70843-7
-* –––, 1987, *Proof Theory and Logical Complexity, Volume 1*, Napoli: Bibliopolis.
-* Gödel, Kurt, 1929 [1986], *Über die Vollständigkeit des Logikkalküls*, Dissertation, Wien, also in Gödel 1986: 60–101.
-* –––, 1931a, “Über formal unentscheidbare Sätze der Principia mathematica und verwandter Systeme I”, *Monatshefte für Mathematik und Physik*, 38: 173–198. doi:10.1007/BF01700692
-* –––, 1931b [1986], “Nachtrag [to the Diskussion zur Grundlegung der Mathematik]”, *Erkenntnis*, 2: 149–151 (the full *Diskussion* starts on 135). Reprinted in Gödel 1986: 200–205. doi:10.1007/BF02028146 (de)
-* –––, 1933, “Zur intuitionistischen Arithmetik und Zahlentheorie”, *Ergebnisse eines mathematischen Kolloquiums*, 4: 34–38, in English translation in Gödel 1986.
+* Friedman, Harvey and Michael Sheard, 1995, “Elementary Descent Recursion and Proof Theory”, _Annals of Pure and Applied Logic_, 71(1): 1–45. doi:10.1016/0168-0072(94)00003-L
+* Gabriel, Gottfried, Friedrich Kambartel, and Christian Thiel (eds.), 1980, _Gottlob Freges Briefwechsel mit D. Hilbert, E. Husserl, B. Russell, sowie ausgewählte Einzelbriefe Freges_, (Philosophische Bibliothek, Band 321), Hamburg: Felix Meiner Verlag.
+* Ganesalingam, Mohan and W. Timothy Gowers, 2017, “A Fully Automatic Theorem Prover with Human-Style Output”, _Journal of Automated Reasoning_, 58(2): 253–291. doi:10.1007/s10817-016-9377-1
+* Gentzen, Gerhard, 1932, “Über die Existenz unabhängiger Axiomensysteme zu unendlichen Satzsystemen”, _Mathematische Annalen_, 107: 329–350. English translation, “On the Existence of Independent Axiom Systems for Infinite Sentence Systems”, in Gentzen 1969: 29–52. doi:10.1007/BF01448897 (de) doi:10.1016/S0049-237X(08)70820-6 (en)
+* –––, \[1933] 1974, “Über das Verhältnis zwischen intuitionistischer und klassischer Arithmetik”, _Archiv für mathematische Logik und Grundlagenforschung_, 16(3–4): 119–132. Written in 1933, but withdrawn from publication after the appearence of Gödel 1933. English translation, “On the Relation Between Intuitionist and Classical Arithmetic”, in Gentzen 1969: 53–67. doi:10.1007/BF02015371 (de) doi:10.1016/S0049-237X(08)70821-8 (en)
+* –––, 1934/35, “Untersuchungen über das logische Schließen I,II”, _Mathematische Zeitschrift_, 39: 176–210, 405–431. English translation, “Investigations into Logical Deduction”, in Gentzen 1969: 68–131. doi:10.1007/BF01201353 (I, de) doi:10.1007/BF01201363 (II, de) doi:10.1016/S0049-237X(08)70822-X (en)
+* –––, 1936, “Die Widerspruchsfreiheit der reinen Zahlentheorie”, _Mathematische Annalen_, 112: 493–565. English translation, “The Consistency of Elementary Number Theory”, in Gentzen 1969: 132–213. doi:10.1007/BF01565428 (de) doi:10.1016/S0049-237X(08)70823-1 (en)
+* –––, 1938a, “Die gegenwärtige Lage in der mathematischen Grundlagenforschung”, _Forschungen zur Logik und zur Grundlegung der exakten Wissenschaften_, Neue Folge 4, Leipzig: Hirzel, 5–18. English translation, “The Present State of Research into the Foundations of Mathematics”, in Gentzen 1969: 234–251. doi:10.1016/S0049-237X(08)70826-7 (en)
+* –––, 1938b, “Neue Fassung des Widerspruchsfreiheitsbeweises für die reine Zahlentheorie”, _Forschungen zur Logik und zur Grundlegung der exacten Wissenschaften_, Neue Folge 4, Leipzig: Hirzel, 19–44. English translation, “New Version of the Consistency Proof for Elementary Number Theory”, in Gentzen 1969: 252–286. doi:10.1016/S0049-237X(08)70827-9
+* –––, 1943, “Beweisbarkeit und Unbeweisbarkeit von Anfangsfällen der transfiniten Induktion in der reinen Zahlentheorie”, _Mathematische Annalen_, 119(1): 140–161. English translation, “Provability and Nonprovability of Restricted Transfinite Induction in Elementary Number Theory”, in Gentzen 1969: 287–308. doi:10.1007/BF01564760 (de) doi:10.1016/S0049-237X(08)70828-0 (en)
+* –––, 1945, _Stenogramm von G. Gentzen_, Transcription by H. Kneser and H. Urban, 13 pages.
+* –––, 1969, _The Collected Papers of Gerhard Gentzen_, (Studies in Logic and the Foundations of Mathematics, 55), translated and edited by M.E. Szabo, Amsterdam: North-Holland.
+* –––, 1974, “Der erste Widerspruchsfreiheitsbeweis für die klassische Zahlentheorie”, _Archiv für Mathematische Logik und Grundlagenforschung_, 16(3–4): 97–118. doi:10.1007/BF02015370
+* Girard, Jean-Yves, 1971, _Une extension de l’interpretation de Gödel a l’analyse et son application a l’élimination des coupures dans l’analyse et la théorie des types_, in J.E. Fenstad (ed.), 1971, _Proceedings of the Second Scandinavian Logic Symposium_, (Studies in Logic and the Foundations of Mathematics, 63), Amsterdam: North-Holland, 63–92. doi:10.1016/S0049-237X(08)70843-7
+* –––, 1987, _Proof Theory and Logical Complexity, Volume 1_, Napoli: Bibliopolis.
+* Gödel, Kurt, 1929 \[1986], _Über die Vollständigkeit des Logikkalküls_, Dissertation, Wien, also in Gödel 1986: 60–101.
+* –––, 1931a, “Über formal unentscheidbare Sätze der Principia mathematica und verwandter Systeme I”, _Monatshefte für Mathematik und Physik_, 38: 173–198. doi:10.1007/BF01700692
+* –––, 1931b \[1986], “Nachtrag \[to the Diskussion zur Grundlegung der Mathematik]”, _Erkenntnis_, 2: 149–151 (the full _Diskussion_ starts on 135). Reprinted in Gödel 1986: 200–205. doi:10.1007/BF02028146 (de)
+* –––, 1933, “Zur intuitionistischen Arithmetik und Zahlentheorie”, _Ergebnisse eines mathematischen Kolloquiums_, 4: 34–38, in English translation in Gödel 1986.
 * –––, 1934, “On Undecidable Propositions of Formal Mathematical Systems”, Princeton lecture notes, in Gödel 1986: 346–371.
 * –––, 1938/9, “On Undecidable Diophantine Propositions”, Manuscript for a lecture written 1938 or 1939, in Gödel 1995: 164–175.
 * –––, 1942, “In what sense is intuitionistic logic constructive?”, in Gödel 1995: 189–200.
-* –––, 1958, “Über eine bisher noch nicht benützte Erweiterung des finiten Standpunktes”, *Dialectica*, 12(3–4): 280–287. doi:10.1111/j.1746-8361.1958.tb01464.x
-* –––, *Collected Works*, Oxford: Oxford University Press. Includes both the German originals with English translations, Solomon Feferman, Editor-in-Chief.
-  * 1986, *Volume I: Publications 1929–1936*, Solomon Feferman, John W. Dawson, Jr., Stephen C. Kleene, Gregory H. Moore, Robert M. Solovay, and Jean van Heijenoort (eds).
-  * 1990, *Volume II: Publications 1938–1974*, Solomon Feferman, John W. Dawson, Jr., Stephen C. Kleene, Gregory H. Moore, Robertt M. Solovay, and Jean van Heijenoort (eds).
-  * 1995, *Volume III: Unpublished Essays and Lectures*, Solomon Feferman, John W. Dawson, Jr., Warren Goldfarb, Charles Parsons, and Robert M. Solovay (eds).
-  * 2003, *Volume IV: Correspondence, A–G*, Solomon Feferman, John W. Dawson, Warren Goldfarb, Charles Parsons, and Wilfred Sieg (eds).
-* Goodstein, R.L., 1944, “On the Restricted Ordinal Theorem”, *Journal of Symbolic Logic*, 9(2): 33–41. doi:10.2307/2268019
-* Gowers, Timothy (with Alexander Diaz-Lopez), 2016, “Interview with Sir Timothy Gowers”, *Notices of the American Mathematical Society*, 63(9): 1026–1028. doi:10.1090/noti1432
+* –––, 1958, “Über eine bisher noch nicht benützte Erweiterung des finiten Standpunktes”, _Dialectica_, 12(3–4): 280–287. doi:10.1111/j.1746-8361.1958.tb01464.x
+* –––, _Collected Works_, Oxford: Oxford University Press. Includes both the German originals with English translations, Solomon Feferman, Editor-in-Chief.
+  * 1986, _Volume I: Publications 1929–1936_, Solomon Feferman, John W. Dawson, Jr., Stephen C. Kleene, Gregory H. Moore, Robert M. Solovay, and Jean van Heijenoort (eds).
+  * 1990, _Volume II: Publications 1938–1974_, Solomon Feferman, John W. Dawson, Jr., Stephen C. Kleene, Gregory H. Moore, Robertt M. Solovay, and Jean van Heijenoort (eds).
+  * 1995, _Volume III: Unpublished Essays and Lectures_, Solomon Feferman, John W. Dawson, Jr., Warren Goldfarb, Charles Parsons, and Robert M. Solovay (eds).
+  * 2003, _Volume IV: Correspondence, A–G_, Solomon Feferman, John W. Dawson, Warren Goldfarb, Charles Parsons, and Wilfred Sieg (eds).
+* Goodstein, R.L., 1944, “On the Restricted Ordinal Theorem”, _Journal of Symbolic Logic_, 9(2): 33–41. doi:10.2307/2268019
+* Gowers, Timothy (with Alexander Diaz-Lopez), 2016, “Interview with Sir Timothy Gowers”, _Notices of the American Mathematical Society_, 63(9): 1026–1028. doi:10.1090/noti1432
 * Hallett, Michael, 2013, “Introduction to Hilbert’s 1931 Göttingen Lecture”, in Ewald and Sieg 2013: 983–984.
 * Hallett, Michael and Wilfried Sieg, 2013, “Introduction to the Kneser Mitschriften”, in Ewald and Sieg 2013: 565–576.
-* Hardy, G.H., 1904, “A Theorem Concerning the Infinite Cardinal Numbers”, *Quarterly Journal of Mathematics*, 35: 87–94.
-* Harrison, John, 2009, *Handbook of Practical Logic and Automated Reasoning*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511576430
-* Herbrand, Jacques, 1930, *Recherches sur la théorie de la démonstration*, Dissertation, University of Paris. [[Herbrand 1930 available online](http://www.numdam.org/item?id=THESE_1930__110__1_0)]
-* –––, 1931, “Sur la non-contradiction de l’arithmétique”, *Crelles Journal für die reine und angewandte Mathematik*, 166: 1–8. doi:10.1515/crll.1932.166.1
-* Heyting, Arend, 1930, “Die formalen Regeln der intuitionistischen Logik und Mathematik”, (*Sitzungsberichte der Preußischen Akademie der Wissenschaften, Physikalisch-Mathematische Klasse*), Berlin.
-* ––– (ed.), 1959, *Constructivity in Mathematics, Proceedings of the Colloquium held at Amsterdam, 1957*, (Studies in Logic and the Foundations of Mathematics), Amsterdam: North-Holland Publishing Company.
-* Hilbert, David, 1898/99, *Grundlagen der Euklidischen Geometrie*, Lecture Notes by H. von Schaper, MI. Printed in Hilbert 2004: 302–395.
+* Hardy, G.H., 1904, “A Theorem Concerning the Infinite Cardinal Numbers”, _Quarterly Journal of Mathematics_, 35: 87–94.
+* Harrison, John, 2009, _Handbook of Practical Logic and Automated Reasoning_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511576430
+* Herbrand, Jacques, 1930, _Recherches sur la théorie de la démonstration_, Dissertation, University of Paris. \[[Herbrand 1930 available online](http://www.numdam.org/item?id=THESE\_1930\_\_110\_\_1\_0)]
+* –––, 1931, “Sur la non-contradiction de l’arithmétique”, _Crelles Journal für die reine und angewandte Mathematik_, 166: 1–8. doi:10.1515/crll.1932.166.1
+* Heyting, Arend, 1930, “Die formalen Regeln der intuitionistischen Logik und Mathematik”, (_Sitzungsberichte der Preußischen Akademie der Wissenschaften, Physikalisch-Mathematische Klasse_), Berlin.
+* ––– (ed.), 1959, _Constructivity in Mathematics, Proceedings of the Colloquium held at Amsterdam, 1957_, (Studies in Logic and the Foundations of Mathematics), Amsterdam: North-Holland Publishing Company.
+* Hilbert, David, 1898/99, _Grundlagen der Euklidischen Geometrie_, Lecture Notes by H. von Schaper, MI. Printed in Hilbert 2004: 302–395.
 * –––, 1899, “Grundlagen der Geometrie”, in Festschrift zur Feier der Enthüllung des Gauss-Weber Denkmals in Göttingen, Teubner 1899: 1–92.
-* –––, 1900a, “Über den Zahlbegriff”, *Jahresberichte der Deutschen Mathematiker-Vereinigung*, 8: 180–194. English translation in Ewald 1996: 1089–1095. [[Hilbert 1900a available online](https://eudml.org/doc/144659)]
-* –––, 1900b, “Mathematische Probleme”, *Nachrichten der Königlichen Gesellschaft der Wissenschaften zu Göttingen*, 253–297, translated in Ewald 1996: 1096–1105.
-* –––, 1904, *Zahlbegriff und Quadratur des Kreises*, Lecture notes by M. Born.
-* –––, 1905 [1967], “Über die Grundlagen der Logik und der Arithmetik”, in *Verhandlungen des Dritten Internationalen Mathematiker-Kongresses*, Teubner, 174–185. Translated in van Heijenoort 1967: 129–138.
-* –––, 1917, *Mengenlehre*, Lecture notes by M. Goeb, MI.
-* –––, 1917–18, *Prinzipien der Mathematik*, Lecture notes by P. Bernays, MI. Published in Ewald and Sieg 2013: 59–221.
-* –––, 1918, “Axiomatisches Denken”, *Mathematische Annalen*, 78: 405–415. doi:10.1007/BF01457115 Reprinted in Hilbert 1935: 146–156.
-* –––, 1922, “Neubegründung der Mathematik”, *Abhandlungen aus dem mathematischen Seminar der Hamburgischen Universität*, 1: 157–177; translated in Ewald 1996: 1117–1134.
-* –––, 1922–23, *Logische Grundlagen der Mathematik*, Lecture notes by P. Bernays, SUB 567.
-* –––, 1923, “Die logischen Grundlagen der Mathematik”, *Mathematische Annalen*, 88(1–2): 151–165; translated in Ewald 1996: 1136–1148. doi:10.1007/BF01448445 (de)
-* –––, 1926, “Über das Unendliche”, *Mathematische Annalen*, 95: 161–190. doi:10.1007/BF01206605 English translation in van Heijenoort 1967: 367–392.
-* –––, 1927 [1967], “Die Grundlagen der Mathematik”, Vortrag gehalten auf Einladung des Mathematischen Seminars im Juli 1927 in Hamburg, published in *Abhandlungen aus dem mathematischen Seminar der Hamburgischen Universität*, 6(1/2): 65–85; translated in van Heijenoort 1967: 464–479. doi:10.1007/BF02940602 (de)
-* –––, 1928, “Probleme der Grundlegung der Mathematik”, *Mathematische Annalen*, 102: 1–9. Reprint, with emendations and additions, of paper with the same title, published in Atti del Congresso internazionale dei matematici, Bologna 1928, 135–141. doi:10.1007/BF01782335 (original)
-* –––, 1931a, “Die Grundlegung der elementaren Zahlenlehre”, *Mathematische Annalen*, 104: 485–494; translated in Ewald 1996: 1148–1157. doi:10.1007/BF01457953 (de)
-* –––, 1931b, “Beweis des tertium non datur”, *Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-physikalische Klasse*, 120–125.
-* –––, 1935, *Dritter Band: Analysis · Grundlagen der Mathematik · Physik Verschiedenes*, of his *Gesammelte Abhandlungen*, volume 3, Berlin: Springer. doi:10.1007/978-3-662-38452-7
-* –––, *David Hilbert’s Lectures on the Foundations of Mathematics and Physics, 1891–1933*, Berlin: Springer.
-  * 2004, volume 1, *David Hilbert’s Lectures on the Foundations of Geometry, 1891–1902*, Michael Hallett and Ulrich Majer (eds).
-  * 2009, volume 5, *David Hilbert’s Lectures on the Foundations of Physics, 1915–1927*, Tilman Sauer and Ulrich Majer (eds). doi:10.1007/b12915
-  * 2013, volume 3, *David Hilbert’s Lectures on the Foundations of Arithmetic and Logic, 1917–1933*, Ewald and Sieg (eds).
-* Hilbert, David and Wilhelm Ackermann, 1928, *Grundzüge der theoretischen Logik*, Berlin: Springer.
-* Hilbert, David and Paul Bernays, *Grundlagen der Mathematik*, Berlin: Springer, with revisions detailed in foreword by Bernays.
+* –––, 1900a, “Über den Zahlbegriff”, _Jahresberichte der Deutschen Mathematiker-Vereinigung_, 8: 180–194. English translation in Ewald 1996: 1089–1095. \[[Hilbert 1900a available online](https://eudml.org/doc/144659)]
+* –––, 1900b, “Mathematische Probleme”, _Nachrichten der Königlichen Gesellschaft der Wissenschaften zu Göttingen_, 253–297, translated in Ewald 1996: 1096–1105.
+* –––, 1904, _Zahlbegriff und Quadratur des Kreises_, Lecture notes by M. Born.
+* –––, 1905 \[1967], “Über die Grundlagen der Logik und der Arithmetik”, in _Verhandlungen des Dritten Internationalen Mathematiker-Kongresses_, Teubner, 174–185. Translated in van Heijenoort 1967: 129–138.
+* –––, 1917, _Mengenlehre_, Lecture notes by M. Goeb, MI.
+* –––, 1917–18, _Prinzipien der Mathematik_, Lecture notes by P. Bernays, MI. Published in Ewald and Sieg 2013: 59–221.
+* –––, 1918, “Axiomatisches Denken”, _Mathematische Annalen_, 78: 405–415. doi:10.1007/BF01457115 Reprinted in Hilbert 1935: 146–156.
+* –––, 1922, “Neubegründung der Mathematik”, _Abhandlungen aus dem mathematischen Seminar der Hamburgischen Universität_, 1: 157–177; translated in Ewald 1996: 1117–1134.
+* –––, 1922–23, _Logische Grundlagen der Mathematik_, Lecture notes by P. Bernays, SUB 567.
+* –––, 1923, “Die logischen Grundlagen der Mathematik”, _Mathematische Annalen_, 88(1–2): 151–165; translated in Ewald 1996: 1136–1148. doi:10.1007/BF01448445 (de)
+* –––, 1926, “Über das Unendliche”, _Mathematische Annalen_, 95: 161–190. doi:10.1007/BF01206605 English translation in van Heijenoort 1967: 367–392.
+* –––, 1927 \[1967], “Die Grundlagen der Mathematik”, Vortrag gehalten auf Einladung des Mathematischen Seminars im Juli 1927 in Hamburg, published in _Abhandlungen aus dem mathematischen Seminar der Hamburgischen Universität_, 6(1/2): 65–85; translated in van Heijenoort 1967: 464–479. doi:10.1007/BF02940602 (de)
+* –––, 1928, “Probleme der Grundlegung der Mathematik”, _Mathematische Annalen_, 102: 1–9. Reprint, with emendations and additions, of paper with the same title, published in Atti del Congresso internazionale dei matematici, Bologna 1928, 135–141. doi:10.1007/BF01782335 (original)
+* –––, 1931a, “Die Grundlegung der elementaren Zahlenlehre”, _Mathematische Annalen_, 104: 485–494; translated in Ewald 1996: 1148–1157. doi:10.1007/BF01457953 (de)
+* –––, 1931b, “Beweis des tertium non datur”, _Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-physikalische Klasse_, 120–125.
+* –––, 1935, _Dritter Band: Analysis · Grundlagen der Mathematik · Physik Verschiedenes_, of his _Gesammelte Abhandlungen_, volume 3, Berlin: Springer. doi:10.1007/978-3-662-38452-7
+* –––, _David Hilbert’s Lectures on the Foundations of Mathematics and Physics, 1891–1933_, Berlin: Springer.
+  * 2004, volume 1, _David Hilbert’s Lectures on the Foundations of Geometry, 1891–1902_, Michael Hallett and Ulrich Majer (eds).
+  * 2009, volume 5, _David Hilbert’s Lectures on the Foundations of Physics, 1915–1927_, Tilman Sauer and Ulrich Majer (eds). doi:10.1007/b12915
+  * 2013, volume 3, _David Hilbert’s Lectures on the Foundations of Arithmetic and Logic, 1917–1933_, Ewald and Sieg (eds).
+* Hilbert, David and Wilhelm Ackermann, 1928, _Grundzüge der theoretischen Logik_, Berlin: Springer.
+* Hilbert, David and Paul Bernays, _Grundlagen der Mathematik_, Berlin: Springer, with revisions detailed in foreword by Bernays.
   * 1934, Volume 1, second edition, 1968
   * 1939, Volume II, second edition, 1970
-* Howard, William A., 1963, “The Axiom of Choice (-), Bar Induction and Bar Recursion”, in *Reports of the Seminar on the Foundations of Analysis*, Stanford,(mimeographed), Mathematical Sciences Library, Stanford University, 2.1–2.44.
-* –––, 1968, “Functional Interpretation of Bar Induction by Bar Recursion”, *Compositio Mathematica*, 20: 107–124. [[Howard 1968 available online](https://eudml.org/doc/88970)]
-* –––, 1972, “A System of Abstract Constructive Ordinals”, *Journal of Symbolic Logic*, 37(2): 355–374. doi:10.2307/2272979
-* Jäger, Gerhard, 1980, “Beweistheorie von KPN”, *Archiv für Mathematische Logik und Grundlagenforschung*, 20(1–2): 53–63. doi:10.1007/BF02011138
-* –––, 1982, “Zur Beweistheorie der Kripke-Platek-Mengenlehre über den natürlichen Zahlen”, *Archiv für Mathematische Logik und Grundlagenforschung*, 22(3–4): 121–139. doi:10.1007/BF02297652
-* –––, 1983, “A well-ordering proof for Feferman’s theory ”, *Archiv für Mathematische Logik und Grundlagenforschung*, 23(1): 65–77. doi:10.1007/BF02023014
-* –––, 1986, *Theories for Admissible Sets: A Unifying Approach to Proof Theory*, Napoli: Bibliopolis.
-* Jäger, Gerhard and Wolfram Pohlers, 1982, “Eine beweistheoretische Untersuchung von -CA+BI und verwandter Systeme”, *Sitzungsberichte der Bayerischen Akademie der Wissenschaften, Mathematisch–Naturwissenschaftliche Klasse*, 1–28.
-* Jäger, Gerhard and Wilfried Sieg (eds), 2018, *Feferman on Foundations: Logic, Mathematics, Philosophy*, (Outstanding Contributions to Logic, 13), Cham: Springer. doi:10.1007/978-3-319-63334-3
-* Kahle, Reinhard and Michael Rathjen (eds), 2015, *Gentzen’s Centenary: The Quest for Consistency*, Cham: Springer. doi:10.1007/978-3-319-10103-3
-* Kanamori, A. and M. Magidor, 1978,“The Evolution of Large Cardinal Axioms in Set Theory”, in Gert H. Müller and Dana Scott (eds.), *Higher Set Theory*, (Lecture Notes in Mathematics, 669), Berlin: Springer, pp. 99–275. doi:10.1007/BFb0103104
-* Kino, A., J. Myhill, and R. Vesley (eds), 1970, *Intuitionism and Proof Theory: Proceedings of the Summer Conference at Buffalo N.Y. 1968*, (Studies in Logic and the Foundations of Mathematics, 60), Amsterdam: North-Holland.
-* Kirby, Laurie and Jeff Paris, 1982, “Accessible Independence Results for Peano Arithmetic”, *Bulletin of the London Mathematical Society*, 14: 285–293. doi:10.1112/blms/14.4.285
-* Kleene, Stephen Cole, 1938, “On Notations for Ordinal Numbers”, *Journal of Symbolic Logic*, 3(4): 150–155. doi:10.2307/2267778
-* –––, 1958, “Extension of an Effectively Generated Class of Functions by Enumeration”, *Colloquium Mathematicum*, 6: 67–78. doi:10.4064/cm-6-1-67-78
+* Howard, William A., 1963, “The Axiom of Choice (-), Bar Induction and Bar Recursion”, in _Reports of the Seminar on the Foundations of Analysis_, Stanford,(mimeographed), Mathematical Sciences Library, Stanford University, 2.1–2.44.
+* –––, 1968, “Functional Interpretation of Bar Induction by Bar Recursion”, _Compositio Mathematica_, 20: 107–124. \[[Howard 1968 available online](https://eudml.org/doc/88970)]
+* –––, 1972, “A System of Abstract Constructive Ordinals”, _Journal of Symbolic Logic_, 37(2): 355–374. doi:10.2307/2272979
+* Jäger, Gerhard, 1980, “Beweistheorie von KPN”, _Archiv für Mathematische Logik und Grundlagenforschung_, 20(1–2): 53–63. doi:10.1007/BF02011138
+* –––, 1982, “Zur Beweistheorie der Kripke-Platek-Mengenlehre über den natürlichen Zahlen”, _Archiv für Mathematische Logik und Grundlagenforschung_, 22(3–4): 121–139. doi:10.1007/BF02297652
+* –––, 1983, “A well-ordering proof for Feferman’s theory ”, _Archiv für Mathematische Logik und Grundlagenforschung_, 23(1): 65–77. doi:10.1007/BF02023014
+* –––, 1986, _Theories for Admissible Sets: A Unifying Approach to Proof Theory_, Napoli: Bibliopolis.
+* Jäger, Gerhard and Wolfram Pohlers, 1982, “Eine beweistheoretische Untersuchung von -CA+BI und verwandter Systeme”, _Sitzungsberichte der Bayerischen Akademie der Wissenschaften, Mathematisch–Naturwissenschaftliche Klasse_, 1–28.
+* Jäger, Gerhard and Wilfried Sieg (eds), 2018, _Feferman on Foundations: Logic, Mathematics, Philosophy_, (Outstanding Contributions to Logic, 13), Cham: Springer. doi:10.1007/978-3-319-63334-3
+* Kahle, Reinhard and Michael Rathjen (eds), 2015, _Gentzen’s Centenary: The Quest for Consistency_, Cham: Springer. doi:10.1007/978-3-319-10103-3
+* Kanamori, A. and M. Magidor, 1978,“The Evolution of Large Cardinal Axioms in Set Theory”, in Gert H. Müller and Dana Scott (eds.), _Higher Set Theory_, (Lecture Notes in Mathematics, 669), Berlin: Springer, pp. 99–275. doi:10.1007/BFb0103104
+* Kino, A., J. Myhill, and R. Vesley (eds), 1970, _Intuitionism and Proof Theory: Proceedings of the Summer Conference at Buffalo N.Y. 1968_, (Studies in Logic and the Foundations of Mathematics, 60), Amsterdam: North-Holland.
+* Kirby, Laurie and Jeff Paris, 1982, “Accessible Independence Results for Peano Arithmetic”, _Bulletin of the London Mathematical Society_, 14: 285–293. doi:10.1112/blms/14.4.285
+* Kleene, Stephen Cole, 1938, “On Notations for Ordinal Numbers”, _Journal of Symbolic Logic_, 3(4): 150–155. doi:10.2307/2267778
+* –––, 1958, “Extension of an Effectively Generated Class of Functions by Enumeration”, _Colloquium Mathematicum_, 6: 67–78. doi:10.4064/cm-6-1-67-78
 * –––, 1959, “Countable Functionals”, in Heyting 1959: 81–100.
-* Kleene, Stephen Cole and Richard Eugene Vesley, 1965, *The Foundations of Intuitionistic Mathematics, Especially in Relation to Recursive Functions*, Amsterdam: North Holland.
-* Kohlenbach, Ulrich, 2007, *Applied Proof Theory: Proof Interpretations and Their Use in Mathematics*, Berlin, Heidelberg: Springer. doi:10.1007/978-3-540-77533-1
-* Kolmogorov, Andrei Nikolaevich, 1925 [1967], “O principe tertium non datur” (Russian), *Matematiceskij Sbornik*, 32: 646–667. Translated as “On the Principle of the Excluded Middle” in van Heijenoort 1967: 414–437.
-* Kreisel, Georg, 1952, “On the Interpretation of Non-Finitist Proofs, Part II: Interpretation of Number Theory, Applications”, *Journal of Symbolic Logic*, 17(1): 43–58. doi:10.2307/2267457
-* –––, 1958, “Mathematical Significance of Consistency Proofs”, *Journal of Symbolic Logic*, 23(2): 155–182. doi:10.2307/2964396
+* Kleene, Stephen Cole and Richard Eugene Vesley, 1965, _The Foundations of Intuitionistic Mathematics, Especially in Relation to Recursive Functions_, Amsterdam: North Holland.
+* Kohlenbach, Ulrich, 2007, _Applied Proof Theory: Proof Interpretations and Their Use in Mathematics_, Berlin, Heidelberg: Springer. doi:10.1007/978-3-540-77533-1
+* Kolmogorov, Andrei Nikolaevich, 1925 \[1967], “O principe tertium non datur” (Russian), _Matematiceskij Sbornik_, 32: 646–667. Translated as “On the Principle of the Excluded Middle” in van Heijenoort 1967: 414–437.
+* Kreisel, Georg, 1952, “On the Interpretation of Non-Finitist Proofs, Part II: Interpretation of Number Theory, Applications”, _Journal of Symbolic Logic_, 17(1): 43–58. doi:10.2307/2267457
+* –––, 1958, “Mathematical Significance of Consistency Proofs”, _Journal of Symbolic Logic_, 23(2): 155–182. doi:10.2307/2964396
 * –––, 1959, “Interpretation of Analysis by Means of Constructive Functionals of Finite Type”, in Heyting 1959: 101–128.
-* –––, 1960, “Ordinal Logics and the Characterization of Informal Concepts of Proof”, *Proceedings of the International Congress of Mathematicians, 14–21 August 1958, Edinburgh*, Cambridge: Cambridge University Press, 289–299. [[Kreisel 1960 available online](https://www.mathunion.org/fileadmin/ICM/Proceedings/ICM1958/ICM1958.ocr.pdf)]
-* –––, 1963, “Generalized Inductive Definitions”, in *Reports of the Seminar on the Foundations of Analysis*, Stanford,(mimeographed), Mathematical Sciences Library, Stanford University, 3.1–3.25.
-* –––, 1982, “Finiteness Theorems in Arithmetic: An Application of Herbrand’s Theorem for -Formulas”, in J. Stern (ed.), *Proceedings of the Herbrand Symposium*, (Studies in Logic and the Foundations of Mathematics, 107), North-Holland Publishing Company, 39–55. doi:10.1016/S0049-237X(08)71876-7
-* Kreisel, G., G.E. Mints, and S.G. Simpson, 1975, “The Use of Abstract Language in Elementary Metamathematics: Some Pedagogic Examples”, in Rohit Parikh (ed.), *Logic Colloquium Symposium on Logic Held at Boston, 1972–73*, Berlin: Springer, 38–131. doi:10.1007/BFb0064871
-* Lejeune Dirichlet, Peter Gustav and Richard Dedekind, *Vorlesungen über Zahlentheorie* (*Lectures on Number Theory*), Braunschweig, Vieweg.
+* –––, 1960, “Ordinal Logics and the Characterization of Informal Concepts of Proof”, _Proceedings of the International Congress of Mathematicians, 14–21 August 1958, Edinburgh_, Cambridge: Cambridge University Press, 289–299. \[[Kreisel 1960 available online](https://www.mathunion.org/fileadmin/ICM/Proceedings/ICM1958/ICM1958.ocr.pdf)]
+* –––, 1963, “Generalized Inductive Definitions”, in _Reports of the Seminar on the Foundations of Analysis_, Stanford,(mimeographed), Mathematical Sciences Library, Stanford University, 3.1–3.25.
+* –––, 1982, “Finiteness Theorems in Arithmetic: An Application of Herbrand’s Theorem for -Formulas”, in J. Stern (ed.), _Proceedings of the Herbrand Symposium_, (Studies in Logic and the Foundations of Mathematics, 107), North-Holland Publishing Company, 39–55. doi:10.1016/S0049-237X(08)71876-7
+* Kreisel, G., G.E. Mints, and S.G. Simpson, 1975, “The Use of Abstract Language in Elementary Metamathematics: Some Pedagogic Examples”, in Rohit Parikh (ed.), _Logic Colloquium Symposium on Logic Held at Boston, 1972–73_, Berlin: Springer, 38–131. doi:10.1007/BFb0064871
+* Lejeune Dirichlet, Peter Gustav and Richard Dedekind, _Vorlesungen über Zahlentheorie_ (_Lectures on Number Theory_), Braunschweig, Vieweg.
   * 1863, first edition
   * 1871, second edition
   * 1879, third edition
   * 1894, fourth edition
-* Lipschitz, Rudolf, 1986, *Briefwechsel mit Cantor, Dedekind, Helmholtz, Kronecker, Weierstrass und anderen*, Winfried Scharlau (ed.), Braunschweig: Vieweg. doi:10.1007/978-3-663-14205-8
-* López-Escobar, E.G.K., 1976, “On an Extremely Restricted -rule”, *Fundamenta Mathematicae*, 90(2): 159–172. [[Lópex-Escobar 1976 available online](http://pldml.icm.edu.pl/pldml/element/bwmeta1.element.bwnjournal-article-fmv90i1p15bwm)]
-* Luckhardt, H., 1989, “Herbrand-Analysen zweier Beweise des Satzes von Roth: polynomiale Anzahlschranken”, *Journal of Symbolic Logic*, 54(1): 234–263. doi:10.2307/2275028
-* Mancosu, Paolo, 1998, *From Brouwer to Hilbert. The Debate on the Foundations of Mathematics in the 1920s*, Oxford: Oxford University Press.
-* –––, 1999a, “Between Russell and Hilbert: Behmann on the Foundations of Mathematics”, *Bulletin of Symbolic Logic*, 5(3): 303–330. doi:10.2307/421183
-* –––, 1999b, “Between Vienna and Berlin: The Immediate Reception of Gödel’s Incompleteness Theorems”, *History and Philosophy of Logic*, 20(1): 33–45. doi:10.1080/014453499298174
-* Martin-Löf, Per, 1984, *Intuitionistic Type Theory*, Naples: Bibliopolis.
-* Mints, G.E., 1981, “Closed Categories and the Theory of Proofs”, *Journal of Soviet Mathematics*, 15(1): 45–62. doi:10.1007/BF01404107
-* Myhill, John, 1975, “Constructive Set Theory”, *Journal of Symbolic Logic*, 40(3): 347–382. doi:10.2307/2272159
+* Lipschitz, Rudolf, 1986, _Briefwechsel mit Cantor, Dedekind, Helmholtz, Kronecker, Weierstrass und anderen_, Winfried Scharlau (ed.), Braunschweig: Vieweg. doi:10.1007/978-3-663-14205-8
+* López-Escobar, E.G.K., 1976, “On an Extremely Restricted -rule”, _Fundamenta Mathematicae_, 90(2): 159–172. \[[Lópex-Escobar 1976 available online](http://pldml.icm.edu.pl/pldml/element/bwmeta1.element.bwnjournal-article-fmv90i1p15bwm)]
+* Luckhardt, H., 1989, “Herbrand-Analysen zweier Beweise des Satzes von Roth: polynomiale Anzahlschranken”, _Journal of Symbolic Logic_, 54(1): 234–263. doi:10.2307/2275028
+* Mancosu, Paolo, 1998, _From Brouwer to Hilbert. The Debate on the Foundations of Mathematics in the 1920s_, Oxford: Oxford University Press.
+* –––, 1999a, “Between Russell and Hilbert: Behmann on the Foundations of Mathematics”, _Bulletin of Symbolic Logic_, 5(3): 303–330. doi:10.2307/421183
+* –––, 1999b, “Between Vienna and Berlin: The Immediate Reception of Gödel’s Incompleteness Theorems”, _History and Philosophy of Logic_, 20(1): 33–45. doi:10.1080/014453499298174
+* Martin-Löf, Per, 1984, _Intuitionistic Type Theory_, Naples: Bibliopolis.
+* Mints, G.E., 1981, “Closed Categories and the Theory of Proofs”, _Journal of Soviet Mathematics_, 15(1): 45–62. doi:10.1007/BF01404107
+* Myhill, John, 1975, “Constructive Set Theory”, _Journal of Symbolic Logic_, 40(3): 347–382. doi:10.2307/2272159
 * Noether, Emmy, 1932, “Remark on Dedekind 1872”, in Dedekind 1932: 334.
 * Paris, Jeff and Leo Harrington, 1977, “A Mathematical Incompleteness in Peano Arithmetic”, Barwise 1977: 1133–1142. doi:10.1016/S0049-237X(08)71130-3
-* Peano, Giuseppe, 1889, *Arithmetices principia, nova methodo exposita*, Turin. [[Peano 1889 available online](http://archive.org/details/arithmeticespri00peangoog)]
-* Peckhaus, Volker, 1990, *Hilbertprogramm und Kritische Philosophie*, Göttingen: Vandenhoeck & Ruprecht.
+* Peano, Giuseppe, 1889, _Arithmetices principia, nova methodo exposita_, Turin. \[[Peano 1889 available online](http://archive.org/details/arithmeticespri00peangoog)]
+* Peckhaus, Volker, 1990, _Hilbertprogramm und Kritische Philosophie_, Göttingen: Vandenhoeck & Ruprecht.
 * Pohlers, Wolfram, 1975, “An Upper Bound for the Provability of Transfinite Induction in Systems with N-Times Iterated Inductive Definitions”, in Diller and Müller 1975: 271–289. doi:10.1007/BFb0079558
-* –––, 1977, *Beweistheorie der iterierten induktiven Definitionen*, Habilitationsschrift, München.
-* –––, 1982, “Cut Elimination for Impredicative Infinitary Systems, Part II: Ordinal Analysis for Iterated Inductive Definitions”, *Archiv für mathematische Logik und Grundlagenforschung*, 22(1–2): 113–129. doi:10.1007/BF02318028
-* –––, 1991, “Proof Theory and Ordinal Analysis”, *Archive for Mathematical Logic*, 30(5–6): 311–376. doi:10.1007/BF01621474
-* –––, 2009, *Proof Theory: The First Step into Impredicativity*, Berlin: Springer. doi:10.1007/978-3-540-69319-2
-* Poincaré, Henri, 1905 [1996], “Les mathématiques et la logique”, *Revue de Métaphysique et de Morale*, 13(6): 815–835; translated in Ewald 1996: 1021–1038).
-* Prawitz, Dag, 1965, *Natural Deduction: A Proof-Theoretical Study*, Stockholm: Almqvist & Wiksell..
-* –––, 1968, “Hauptsatz for Higher Order Logic”, *Journal of Symbolic Logic*, 33(3): 452–457. doi:10.2307/2270331
-* Rathjen, Michael, 1988, *Untersuchungen zu Teilsystemen der Zahlentheorie zweiter Stufe und der Mengenlehre mit einer zwischen -CA und -CA+BI liegenden Beweisstärke,* Ph.D. thesis, University of Münster, Münster.
-* –––, 1990, “Ordinal Notations Based on a Weakly Mahlo Cardinal”, *Archive for Mathematical Logic*, 29(4): 249–263. doi:10.1007/BF01651328
-* –––, 1991, “Proof-Theoretic Analysis of KPM”, *Archive for Mathematical Logic*, 30(5–6): 377–403. doi:10.1007/BF01621475
-* –––, 1993a, “How to Develop Proof-Theoretic Ordinal Functions on the Basis of Admissible Sets”, *Mathematical Logic Quarterly*, 39(1): 47–54. doi:10.1002/malq.19930390107
-* –––, 1994a, “Collapsing Functions Based on Recursively Large Ordinals: A Well-Ordering Proof for KPM”, *Archive for Mathematical Logic*, 33(1): 35–55. doi:10.1007/BF01275469
-* –––, 1994b, “Proof Theory of Reflection”, *Annals of Pure and Applied Logic*, 68(2): 181–224. doi:10.1016/0168-0072(94)90074-4
-* –––, 1995, “Recent Advances in Ordinal Analysis: -CA and Related Systems”, *Bulletin of Symbolic Logic*, 1(4): 468–485. doi:10.2307/421132
-* –––, 1998, “Explicit Mathematics with the Monotone Fixed Point Principle”, *Journal of Symbolic Logic*, 63(2): 509–542. doi:10.2307/2586846
-* –––, 1999a, “The Realm of Ordinal Analysis”, in S. Barry Cooper and John K. Truss (eds.), *Sets and Proofs*, Cambridge: Cambridge University Press, 219–279. doi:10.1017/CBO9781107325944.011
-* –––, 1999b, “Explicit Mathematics with the Monotone Fixed Point Principle II: Models”, *Journal of Symbolic Logic*, 64(2): 517–550. doi:10.2307/2586483
+* –––, 1977, _Beweistheorie der iterierten induktiven Definitionen_, Habilitationsschrift, München.
+* –––, 1982, “Cut Elimination for Impredicative Infinitary Systems, Part II: Ordinal Analysis for Iterated Inductive Definitions”, _Archiv für mathematische Logik und Grundlagenforschung_, 22(1–2): 113–129. doi:10.1007/BF02318028
+* –––, 1991, “Proof Theory and Ordinal Analysis”, _Archive for Mathematical Logic_, 30(5–6): 311–376. doi:10.1007/BF01621474
+* –––, 2009, _Proof Theory: The First Step into Impredicativity_, Berlin: Springer. doi:10.1007/978-3-540-69319-2
+* Poincaré, Henri, 1905 \[1996], “Les mathématiques et la logique”, _Revue de Métaphysique et de Morale_, 13(6): 815–835; translated in Ewald 1996: 1021–1038).
+* Prawitz, Dag, 1965, _Natural Deduction: A Proof-Theoretical Study_, Stockholm: Almqvist & Wiksell..
+* –––, 1968, “Hauptsatz for Higher Order Logic”, _Journal of Symbolic Logic_, 33(3): 452–457. doi:10.2307/2270331
+* Rathjen, Michael, 1988, _Untersuchungen zu Teilsystemen der Zahlentheorie zweiter Stufe und der Mengenlehre mit einer zwischen -CA und -CA+BI liegenden Beweisstärke,_ Ph.D. thesis, University of Münster, Münster.
+* –––, 1990, “Ordinal Notations Based on a Weakly Mahlo Cardinal”, _Archive for Mathematical Logic_, 29(4): 249–263. doi:10.1007/BF01651328
+* –––, 1991, “Proof-Theoretic Analysis of KPM”, _Archive for Mathematical Logic_, 30(5–6): 377–403. doi:10.1007/BF01621475
+* –––, 1993a, “How to Develop Proof-Theoretic Ordinal Functions on the Basis of Admissible Sets”, _Mathematical Logic Quarterly_, 39(1): 47–54. doi:10.1002/malq.19930390107
+* –––, 1994a, “Collapsing Functions Based on Recursively Large Ordinals: A Well-Ordering Proof for KPM”, _Archive for Mathematical Logic_, 33(1): 35–55. doi:10.1007/BF01275469
+* –––, 1994b, “Proof Theory of Reflection”, _Annals of Pure and Applied Logic_, 68(2): 181–224. doi:10.1016/0168-0072(94)90074-4
+* –––, 1995, “Recent Advances in Ordinal Analysis: -CA and Related Systems”, _Bulletin of Symbolic Logic_, 1(4): 468–485. doi:10.2307/421132
+* –––, 1998, “Explicit Mathematics with the Monotone Fixed Point Principle”, _Journal of Symbolic Logic_, 63(2): 509–542. doi:10.2307/2586846
+* –––, 1999a, “The Realm of Ordinal Analysis”, in S. Barry Cooper and John K. Truss (eds.), _Sets and Proofs_, Cambridge: Cambridge University Press, 219–279. doi:10.1017/CBO9781107325944.011
+* –––, 1999b, “Explicit Mathematics with the Monotone Fixed Point Principle II: Models”, _Journal of Symbolic Logic_, 64(2): 517–550. doi:10.2307/2586483
 * –––, 2002, “Explicit Mathematics with Monotone Inductive Definitions: A Survey”, in Sieg, Sommer, and Talcott 2002: 335–352.
-* –––, 2005a, “An Ordinal Analysis of Stability”, *Archive for Mathematical Logic*, 44(1): 1–62. doi:10.1007/s00153-004-0226-2
-* –––, 2005b, “An Ordinal Analysis of Parameter-Free -Comprehension”, *Archive for Mathematical Logic*, 44(3): 263–362. doi:10.1007/s00153-004-0232-4
-* –––, 2006, “Theories and Ordinals in Proof Theory”, *Synthese*, 148(3): 719–743. doi:10.1007/s11229-004-6297-0
-* –––, 2009, “The Constructive Hilbert Programme and the Limits of Martin-Löf Type Theory”, in Sten Lindström, Erik Palmgren, Krister Segerberg, and Viggo Stoltenberg-Hansen (eds.), *Logicism, Intuitionism, and Formalism: What Has Become of Them?*, (Synthese Library, 341), Dordrecht: Springer Netherlands, 397–433.
-* –––, 2010, “Investigations of Subsystems of Second Order Arithmetic and Set Theory in Strength Between -CA and -CA+BI: Part I”, in Ralf Schindler (ed.), *Ways of Proof Theory*, (Ontos Mathematical Logic, 2), Frankfurt: Ontos Verlag, 363–439.
-* –––, 2015, “Goodstein’s Theorem Revisited”, in Kahle and Rathjen 2015: 229–242. doi:10.1007/978-3-319-10103-3_9
+* –––, 2005a, “An Ordinal Analysis of Stability”, _Archive for Mathematical Logic_, 44(1): 1–62. doi:10.1007/s00153-004-0226-2
+* –––, 2005b, “An Ordinal Analysis of Parameter-Free -Comprehension”, _Archive for Mathematical Logic_, 44(3): 263–362. doi:10.1007/s00153-004-0232-4
+* –––, 2006, “Theories and Ordinals in Proof Theory”, _Synthese_, 148(3): 719–743. doi:10.1007/s11229-004-6297-0
+* –––, 2009, “The Constructive Hilbert Programme and the Limits of Martin-Löf Type Theory”, in Sten Lindström, Erik Palmgren, Krister Segerberg, and Viggo Stoltenberg-Hansen (eds.), _Logicism, Intuitionism, and Formalism: What Has Become of Them?_, (Synthese Library, 341), Dordrecht: Springer Netherlands, 397–433.
+* –––, 2010, “Investigations of Subsystems of Second Order Arithmetic and Set Theory in Strength Between -CA and -CA+BI: Part I”, in Ralf Schindler (ed.), _Ways of Proof Theory_, (Ontos Mathematical Logic, 2), Frankfurt: Ontos Verlag, 363–439.
+* –––, 2015, “Goodstein’s Theorem Revisited”, in Kahle and Rathjen 2015: 229–242. doi:10.1007/978-3-319-10103-3\_9
 * –––, 2018 “Proof Theory of Constructive Systems: Inductive Types and Univalence”, in Jäger and Sieg 2018: 385–419.
-* Rathjen, Michael and Sergei Tupailo, 2006, “Characterizing the Interpretation of Set Theory in Martin-Löf Type Theory”, *Annals of Pure and Applied Logic*, 141(3): 442–471. doi:10.1016/j.apal.2005.12.008
-* Rathjen, Michael and Andreas Weiermann, 1993, “Proof-Theoretic Investigations on Kruskal’s Theorem”, *Annals of Pure and Applied Logic*: 60(1): 49–88. doi:10.1016/0168-0072(93)90192-G
-* Ravaglia, Mark, 2003, *Explicating the Finitist Standpoint*, PhD Dissertation, Carnegie Mellon University.
-* Reck, Erich H., 2003, “Dedekind’s Structuralism: An Interpretation and Partial Defense”, *Synthese*, 137(3): 389–419. doi:10.1023/B:SYNT.0000004903.11236.91
-* –––, 2013, “Frege, Dedekind, and the Origins of Logicism”, *History and Philosophy of Logic*, 34(3): 242–265. doi:10.1080/01445340.2013.806397
+* Rathjen, Michael and Sergei Tupailo, 2006, “Characterizing the Interpretation of Set Theory in Martin-Löf Type Theory”, _Annals of Pure and Applied Logic_, 141(3): 442–471. doi:10.1016/j.apal.2005.12.008
+* Rathjen, Michael and Andreas Weiermann, 1993, “Proof-Theoretic Investigations on Kruskal’s Theorem”, _Annals of Pure and Applied Logic_: 60(1): 49–88. doi:10.1016/0168-0072(93)90192-G
+* Ravaglia, Mark, 2003, _Explicating the Finitist Standpoint_, PhD Dissertation, Carnegie Mellon University.
+* Reck, Erich H., 2003, “Dedekind’s Structuralism: An Interpretation and Partial Defense”, _Synthese_, 137(3): 389–419. doi:10.1023/B:SYNT.0000004903.11236.91
+* –––, 2013, “Frege, Dedekind, and the Origins of Logicism”, _History and Philosophy of Logic_, 34(3): 242–265. doi:10.1080/01445340.2013.806397
 * Reck, Erich and Georg Schiemer (eds), 2020, “The Prehistory of Mathematical Structuralism”, Oxford: Oxford University Press.
-* Richter, Wayne and Peter Aczel, 1973, “Inductive Definitions and Reflecting Properties of Admissible Ordinals”, in Jens E. Fenstad and P. G. Hinman (eds.), 1973, *Generalized Recursion Theory: Proceedings of the 1972 Oslo Symposium*, (Studies in Logic and the Foundations of Mathematics, 79), Amsterdam: North Holland, 301–381. doi:10.1016/S0049-237X(08)70592-5
-* Robertson, Neil and Paul Seymour, 2004, “Graph Minors. XX. Wagner’s conjecture”, *Journal of Combinatorial Theory* (Series B), 92(2): 325–357. doi:10.1016/j.jctb.2004.08.001
-* Schmidt, Diana, 1979, *Well-Partial Orderings and Their Maximal Order Types*, Habilitationsschrift, Heidelberg, 77 pages.
-* Schönfinkel, M., 1924 [1967], “Über die Bausteine der mathematischen Logik”, *Mathematische Annalen*, 92(3–4): 305–316. English translation in van Heijenoort 1967: 355–366. doi:10.1007/BF01448013 (de)
-* Schütte, Kurt, 1950, “Beweistheoretische Erfassung der unendlichen Induktion in der Zahlentheorie”, *Mathematische Annalen*, 122(5): 369–389. doi:10.1007/BF01342849
-* –––, 1960a, “Syntactical and Semantical Properties of Simple Type Theory”, *Journal of Symbolic Logic*, 25(4): 305–326. doi:10.2307/2963525
-* –––, 1960b, *Beweistheorie*, (Grundlehren der mathematischen Wissenschaften, 103), Berlin: Springer. Revised version translated to English as Schütte 1977.
-* –––, 1964, “Eine Grenze für die Beweisbarkeit der transfiniten Induktion in der verzweigten Typenlogik”, *Archiv für Mathematische Logik und Grundlagenforschung*, 7(1–2): 45–60. doi:10.1007/BF01972460
-* –––, 1965, “Predicative Well-Orderings”, in J.N. Crossley and M.A.E. Dummett (eds.), *Formal Systems and Recursive Functions*, (Studies in Logic and the Foundations of Mathematics, 40), Amsterdam: North Holland, 280–303. doi:10.1016/S0049-237X(08)71694-X
-* –––, 1977, *Proof Theory*, ( Grundlehren der mathematischen Wissenschaften, 225), J.N. Crossley (trans.), Berlin: Springer. Translation of a revised version of Schütte 1960b. doi:10.1007/978-3-642-66473-1
-* Schwichtenberg, Helmut, 1971, “Eine Klassifikation der -Rekursiven Funktionen”, *Zeitschrift für mathematische Logik und Grundlagen der Mathematik*, 17: 61–74. doi: 10.1002/malq.19710170113
+* Richter, Wayne and Peter Aczel, 1973, “Inductive Definitions and Reflecting Properties of Admissible Ordinals”, in Jens E. Fenstad and P. G. Hinman (eds.), 1973, _Generalized Recursion Theory: Proceedings of the 1972 Oslo Symposium_, (Studies in Logic and the Foundations of Mathematics, 79), Amsterdam: North Holland, 301–381. doi:10.1016/S0049-237X(08)70592-5
+* Robertson, Neil and Paul Seymour, 2004, “Graph Minors. XX. Wagner’s conjecture”, _Journal of Combinatorial Theory_ (Series B), 92(2): 325–357. doi:10.1016/j.jctb.2004.08.001
+* Schmidt, Diana, 1979, _Well-Partial Orderings and Their Maximal Order Types_, Habilitationsschrift, Heidelberg, 77 pages.
+* Schönfinkel, M., 1924 \[1967], “Über die Bausteine der mathematischen Logik”, _Mathematische Annalen_, 92(3–4): 305–316. English translation in van Heijenoort 1967: 355–366. doi:10.1007/BF01448013 (de)
+* Schütte, Kurt, 1950, “Beweistheoretische Erfassung der unendlichen Induktion in der Zahlentheorie”, _Mathematische Annalen_, 122(5): 369–389. doi:10.1007/BF01342849
+* –––, 1960a, “Syntactical and Semantical Properties of Simple Type Theory”, _Journal of Symbolic Logic_, 25(4): 305–326. doi:10.2307/2963525
+* –––, 1960b, _Beweistheorie_, (Grundlehren der mathematischen Wissenschaften, 103), Berlin: Springer. Revised version translated to English as Schütte 1977.
+* –––, 1964, “Eine Grenze für die Beweisbarkeit der transfiniten Induktion in der verzweigten Typenlogik”, _Archiv für Mathematische Logik und Grundlagenforschung_, 7(1–2): 45–60. doi:10.1007/BF01972460
+* –––, 1965, “Predicative Well-Orderings”, in J.N. Crossley and M.A.E. Dummett (eds.), _Formal Systems and Recursive Functions_, (Studies in Logic and the Foundations of Mathematics, 40), Amsterdam: North Holland, 280–303. doi:10.1016/S0049-237X(08)71694-X
+* –––, 1977, _Proof Theory_, ( Grundlehren der mathematischen Wissenschaften, 225), J.N. Crossley (trans.), Berlin: Springer. Translation of a revised version of Schütte 1960b. doi:10.1007/978-3-642-66473-1
+* Schwichtenberg, Helmut, 1971, “Eine Klassifikation der -Rekursiven Funktionen”, _Zeitschrift für mathematische Logik und Grundlagen der Mathematik_, 17: 61–74. doi: 10.1002/malq.19710170113
 * –––, 1977, “Proof Theory: Some Applications of Cut-Elimination”, in Barwise 1977: 867–895. doi:10.1016/S0049-237X(08)71124-8
-* Schwichtenberg, Helmut and Stanley S. Wainer, 2012, *Proofs and Computations*, (Perspectives in Logic), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139031905
-* Setzer, Anton, 1998, “A Well-Ordering Proof for the Proof Theoretical Strength of Martin-Löf Type Theory”, *Annals of Pure and Applied Logic*, 92(2): 113–159. doi:10.1016/S0168-0072(97)00078-X
-* –––, 2000, “Extending Martin-Löf Type Theory by One Mahlo-Universe”, *Archive for Mathematical Logic*, 39(3): 155–181. doi:10.1007/s001530050140
-* Shoenfield, J.R., 1959, “On a restricted -rule”, *Bulletin de L’Académie Polonaise des Sciences*, Série des sciences Mathématiques, Astronomiques et Physiques, 7: 405–407.
-* Sieg, Wilfried, 1977, *Trees in Metamathematics (Theories of Inductive Definitions and Subsystems of Analysis)*, Ph.D. Thesis, Stanford.
+* Schwichtenberg, Helmut and Stanley S. Wainer, 2012, _Proofs and Computations_, (Perspectives in Logic), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139031905
+* Setzer, Anton, 1998, “A Well-Ordering Proof for the Proof Theoretical Strength of Martin-Löf Type Theory”, _Annals of Pure and Applied Logic_, 92(2): 113–159. doi:10.1016/S0168-0072(97)00078-X
+* –––, 2000, “Extending Martin-Löf Type Theory by One Mahlo-Universe”, _Archive for Mathematical Logic_, 39(3): 155–181. doi:10.1007/s001530050140
+* Shoenfield, J.R., 1959, “On a restricted -rule”, _Bulletin de L’Académie Polonaise des Sciences_, Série des sciences Mathématiques, Astronomiques et Physiques, 7: 405–407.
+* Sieg, Wilfried, 1977, _Trees in Metamathematics (Theories of Inductive Definitions and Subsystems of Analysis)_, Ph.D. Thesis, Stanford.
 * –––, 1981, “Inductive Definitions, Constructive Ordinals, and Normal Derivations”, in Buchholz et al. 1981: 143–187. doi:10.1007/BFb0091897
-* –––, 1985, “Fragments of Arithmetic”, *Annals of Pure and Applied Logic*, 28: 33–71. doi:10.1016/0168-0072(85)90030-2
-* ––– (ed.), 1990, *Logic and Computation*, (Contemporary Mathematics, 106), Providence, Rhode Island: American Mathematical Society. doi:10.1090/conm/106
-* –––, 1991, “Herbrand Analyses”, *Archive for Mathematical Logic*, 30(5–6): 409–441. doi:10.1007/BF01621477
-* –––, 2010, “Searching for Proofs (and Uncovering Capacities of the Mathematical Mind)”, in *Proofs, Categories, and Computations: Essays in Honor of Grigori Mints*, Solomon Feferman and Wilfried Sieg (eds), London: College Publications, 189–215.
-* –––, 2012, “In the Shadow of Incompleteness: Hilbert and Gentzen”, in P. Dybjer, Sten Lindström, Erik Palmgren, and G. Sundholm (eds.), *Epistemology versus Ontology: Essays on the Philosophy and Foundations of Mathematics in Honour of Per Martin-Löf*, Dordrecht, Heidelberg: Springer, 87–128. doi:10.1007/978-94-007-4435-6_5
-* –––, 2013, *Hilbert’s Programs and Beyond*, Oxford: Oxford University Press.
+* –––, 1985, “Fragments of Arithmetic”, _Annals of Pure and Applied Logic_, 28: 33–71. doi:10.1016/0168-0072(85)90030-2
+* ––– (ed.), 1990, _Logic and Computation_, (Contemporary Mathematics, 106), Providence, Rhode Island: American Mathematical Society. doi:10.1090/conm/106
+* –––, 1991, “Herbrand Analyses”, _Archive for Mathematical Logic_, 30(5–6): 409–441. doi:10.1007/BF01621477
+* –––, 2010, “Searching for Proofs (and Uncovering Capacities of the Mathematical Mind)”, in _Proofs, Categories, and Computations: Essays in Honor of Grigori Mints_, Solomon Feferman and Wilfried Sieg (eds), London: College Publications, 189–215.
+* –––, 2012, “In the Shadow of Incompleteness: Hilbert and Gentzen”, in P. Dybjer, Sten Lindström, Erik Palmgren, and G. Sundholm (eds.), _Epistemology versus Ontology: Essays on the Philosophy and Foundations of Mathematics in Honour of Per Martin-Löf_, Dordrecht, Heidelberg: Springer, 87–128. doi:10.1007/978-94-007-4435-6\_5
+* –––, 2013, _Hilbert’s Programs and Beyond_, Oxford: Oxford University Press.
 * –––, 2020, “Methodological Frames: Paul Bernays, Mathematical Structuralism, and Proof Theory”, in: Reck and Schiemer 2020: 352–382.
-* Sieg, Wilfried and Farzaneh Derakhshan, 2021, “Human-centered automated proof search”, *Journal of Automated Reasoning*, 65: 1153–1190.
-* Sieg, Wilfried and Rebecca Morris, 2018, “Dedekind’s Structuralism: Creating Concepts and Deriving Theorems”, in: *Logic, Philosophy of Mathematics, and Their History: Essays in Honor of W.W. Tait*, London: College Publication, 251–301.
-* Sieg, Wilfried and Dirk Schlimm, 2005, “Dedekind’s Analysis of Number: Systems and Axioms”, *Synthese*, 147(1): 121–170. doi:10.1007/s11229-004-6300-9
-* –––, 2014, “Dedekind’s Abstract Concepts: Models and Mappings”, *Philosophia Mathematica*, 25(3): 292–317. doi:10.1093/philmat/nku021.
-* Sieg, Wilfried, Richard Sommer, and Carolyn Talcott (eds.), 2002, *Reflections on the Foundations of Mathematics: Essays in Honor of Solomon Feferman*, (Lecture Notes in Logic, 15), Urbana, IL: Association for Symbolic Logic.
-* Simpson, Stephen G., 1985, “Nichtbeweisbarkeit von gewissen kombinatorischen Eigenschaften endlicher Bäume”, *Archiv für Mathematische Logik und Grundlagenforschung*, 25(1): 45–65. doi:10.1007/BF02007556
-* ––– (ed.), 1987, *Logic and Combinatorics*, (Contemporary Mathematics, 65), Providence, Rhode Island: American Mathematical Society. doi:10.1090/conm/065
-* –––, 1999, *Subsystems of Second Order Arithmetic*, Berlin: Springer.
-* Sinaceur, Mohammed-A., 1974, “L’infini et les nombres: Commentaires de R. Dedekind à « Zahlen » La correspondance avec Keferstein”, *Revue d’histoire des sciences*, 27(3): 251–278. doi:10.3406/rhs.1974.1089
-* Spector, Clifford, 1962, “Provably Recursive Functions of Analysis: A Consistency Proof of Analysis by An Extension of Principles Formulated in Current Intuitionistic Mathematics”, in J.C.E. Dekker (ed.), *Recursive Function Theory: Proceedings of the Fifth Symposia in Pure Mathematics*, New York, April 6–7, 1961, pp. 1–27. doi:10.1090/pspum/005/0154801
-* Tait, W.W., 1966, “A Nonconstructive Proof of Gentzen’s Hauptsatz for Second Order Predicate Logic”, *Bulletin of the American Mathematical Society*, 72(6): 980–983.
+* Sieg, Wilfried and Farzaneh Derakhshan, 2021, “Human-centered automated proof search”, _Journal of Automated Reasoning_, 65: 1153–1190.
+* Sieg, Wilfried and Rebecca Morris, 2018, “Dedekind’s Structuralism: Creating Concepts and Deriving Theorems”, in: _Logic, Philosophy of Mathematics, and Their History: Essays in Honor of W.W. Tait_, London: College Publication, 251–301.
+* Sieg, Wilfried and Dirk Schlimm, 2005, “Dedekind’s Analysis of Number: Systems and Axioms”, _Synthese_, 147(1): 121–170. doi:10.1007/s11229-004-6300-9
+* –––, 2014, “Dedekind’s Abstract Concepts: Models and Mappings”, _Philosophia Mathematica_, 25(3): 292–317. doi:10.1093/philmat/nku021.
+* Sieg, Wilfried, Richard Sommer, and Carolyn Talcott (eds.), 2002, _Reflections on the Foundations of Mathematics: Essays in Honor of Solomon Feferman_, (Lecture Notes in Logic, 15), Urbana, IL: Association for Symbolic Logic.
+* Simpson, Stephen G., 1985, “Nichtbeweisbarkeit von gewissen kombinatorischen Eigenschaften endlicher Bäume”, _Archiv für Mathematische Logik und Grundlagenforschung_, 25(1): 45–65. doi:10.1007/BF02007556
+* ––– (ed.), 1987, _Logic and Combinatorics_, (Contemporary Mathematics, 65), Providence, Rhode Island: American Mathematical Society. doi:10.1090/conm/065
+* –––, 1999, _Subsystems of Second Order Arithmetic_, Berlin: Springer.
+* Sinaceur, Mohammed-A., 1974, “L’infini et les nombres: Commentaires de R. Dedekind à « Zahlen » La correspondance avec Keferstein”, _Revue d’histoire des sciences_, 27(3): 251–278. doi:10.3406/rhs.1974.1089
+* Spector, Clifford, 1962, “Provably Recursive Functions of Analysis: A Consistency Proof of Analysis by An Extension of Principles Formulated in Current Intuitionistic Mathematics”, in J.C.E. Dekker (ed.), _Recursive Function Theory: Proceedings of the Fifth Symposia in Pure Mathematics_, New York, April 6–7, 1961, pp. 1–27. doi:10.1090/pspum/005/0154801
+* Tait, W.W., 1966, “A Nonconstructive Proof of Gentzen’s Hauptsatz for Second Order Predicate Logic”, _Bulletin of the American Mathematical Society_, 72(6): 980–983.
 * –––, 1970, “Applications of the Cut Elimination Theorem to Some Subsystems of Classical Analysis”, in Kino, Myhill, and Vesley 1970: 475–488. doi:10.1016/S0049-237X(08)70772-9
-* –––, 1981, “Finitism”, *Journal of Philosophy*, 78(9): 524–546. doi:10.2307/2026089
+* –––, 1981, “Finitism”, _Journal of Philosophy_, 78(9): 524–546. doi:10.2307/2026089
 * –––, 2002, “Remarks on Finitism”, in Sieg, Sommer and Talcott 2002: 410–419.
-* –––, 2015, “Gentzen’s Original Consistency Proof and the Bar Theorem”, in Kahle and Rathjen 2015: 213–228. doi:10.1007/978-3-319-10103-3_8
-* Takahashi, Moto-o, 1967, “A Proof of Cut-Elimination in Simple Type Theory”, *Journal of the Mathematical Society of Japan*, 19(4): 399–410. doi:10.2969/jmsj/01940399
-* Takeuti, Gaisi, 1953, “On a Generalized Logic Calculus”, *Japanese Journal of Mathematics*, 24: 149–156. doi:10.4099/jjm1924.23.0_39
-* –––, 1967, “Consistency Proofs of Subsystems of Classical Analysis”, *Annals of Mathematics*, 86(2): 299–348. doi:10.2307/1970691
+* –––, 2015, “Gentzen’s Original Consistency Proof and the Bar Theorem”, in Kahle and Rathjen 2015: 213–228. doi:10.1007/978-3-319-10103-3\_8
+* Takahashi, Moto-o, 1967, “A Proof of Cut-Elimination in Simple Type Theory”, _Journal of the Mathematical Society of Japan_, 19(4): 399–410. doi:10.2969/jmsj/01940399
+* Takeuti, Gaisi, 1953, “On a Generalized Logic Calculus”, _Japanese Journal of Mathematics_, 24: 149–156. doi:10.4099/jjm1924.23.0\_39
+* –––, 1967, “Consistency Proofs of Subsystems of Classical Analysis”, _Annals of Mathematics_, 86(2): 299–348. doi:10.2307/1970691
 * –––, 1975, “Consistency Proofs and Ordinals”, in Diller and Müller 1975: 365–369. doi:10.1007/BFb0079562
-* –––, 1985, “Proof Theory and Set Theory”, *Synthese*, 62(2): 255–263. doi:10.1007/BF00486049
-* –––, 1987, *Proof Theory*, second edition, Amsterdam: North-Holland.
-* –––, 2003, *Memoirs of a Proof Theorist: Gödel and Other Logicians*, translated into English by Mariko Yasugi and Nicholas Passell, River Edge, NJ: World Scientific. doi:10.1142/5202
-* Takeuti, Gaisi and Mariko Yasugi, 1973, “The Ordinals of the Systems of Second Order Arithmetic with the Provably -Comprehension and the -Comprehension Axiom Respectively”, *Japanese Journal of Mathematics*, 41: 1–67. doi:10.4099/jjm1924.41.0_1
-* Torretti, Roberto, 1978 [1984], *Philosophy of Geometry from Riemann to Poincaré*, Dordrecht: D. Reidel. doi:10.1007/978-94-009-9909-1
-* Troelstra, Anne S. (ed.), 1973, *Metamathematical Investigations of Intuitionistic Arithmetic and Analysis*, (Lecture Notes in Mathematics, 344), Heidelberg, Berlin: Springer. doi:10.1007/BFb0066739
-* Troelstra, A.S. and H. Schwichtenberg, 2000, *Basic Proof Theory*, second edition, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139168717
-* Turing, A.M., 1936, “On Computable Numbers with an Application to the Entscheidungsproblem”, *Proceedings of the London Mathematical Society*, series 2, 42(1): 230–265. doi:10.1112/plms/s2-42.1.230
-* –––, 1939, “Systems of Logic Based on Ordinals”, *Proceedings of the London Mathematical Society*, series 2, 45(2239): 161–228. doi:10.1112/plms/s2-45.1.161
-* van Atten, Mark, 2007, *Brouwer Meets Husserl: On the Phenomenology of Choice Sequences*, (Synthese Library, 335), Dordrecht: Springer Netherlands. doi:10.1007/978-1-4020-5087-9
-* van Heijenoort, Jean (ed.), 1967, *From Frege to Gödel. A Source Book in Mathematical Logic 1879–1931*, Cambridge, MA: Harvard University Press (reprinted 1970).
-* Veblen, Oswald, 1908, “Continuous Increasing Functions of Finite and Transfinite Ordinals”, *Transactions of the American Mathematics Society*, 9(3): 280–292. doi:10.1090/S0002-9947-1908-1500814-9
-* von Neumann, J., 1927, “Zur Hilbertschen Beweistheorie”, *Mathematische Zeitschrift*, 26: 1–46. doi:10.1007/BF01475439
-* von Plato, Jan, 2008, “Gentzen’s Proof of Normalization for Natural Deduction”, *Bulletin of Symbolic Logic*, 14(2): 240–257. doi:10.2178/bsl/1208442829
-* –––, 2009, “Gentzen’s logic”, in D.M. Gabbay and J. Woods (eds), *Handbook of the History of Logic 5, Logic from Russell to Church*, Amsterdam: Elsevier, 667–721. doi:10.1016/S1874-5857(09)70017-2
-* –––, 2017, *Saved from the Cellar: Gerhard Gentzen’s Shorthand Notes on Logic and Foundations of Mathematics*, Berlin: Springer. doi:10.1007/978-3-319-42120-9
-* Wainer, S.S., 1970, “A Classification of the Ordinal Recursive Functions”, *Archiv für Mathematische Logik und Grundlagenforschung*, 13(3–4): 136–153. doi:10.1007/BF01973619
-* Wang, Hao, 1981, “Some Facts About Kurt Gödel”, *Journal of Symbolic Logic*, 46(3): 653–659. doi:10.2307/2273764
-* Weiermann, A., 1996, “How to Characterize Provably Total Functions by Local Predicativity”, *Journal of Symbolic Logic*, 61(1): 52–69. doi:10.2307/2275597
-* Weyl, Hermann, 1918, *Das Kontinuum*, Leipzig: Veit.
-* –––, 1946, “Mathematics and Logic”, *American Mathematical Monthly*, 53(1): 2–13. doi:10.2307/2306078
-* Zach, Richard, 1999, “Completeness Before Post: Bernays, Hilbert, and the Development of Propositional Logic”, *Bulletin of Symbolic Logic*, 5(3): 331–366. doi:10.2307/421184
-* –––, 2003, “The Practice of Finitism: Epsilon Calculus and Consistency Proofs in Hilbert’s Program”, *Synthese*, 137(1–2): 211–259. doi:10.1023/A:1026247421383
-* –––, 2004, “Hilbert’s ‘*Verunglückter Beweis*’, the First Epsilon Theorem, and Consistency Proofs”, *History and Philosophy of Logic*, 25(2): 79–94. doi:10.1080/01445340310001606930
-* Zermelo, E., 1932, “Über Stufen der Quantifikation und die Logik des Unendlichen”, *Jahresberichte der Deutschen Mathematiker-Vereinigung*, 41: 85–88.
+* –––, 1985, “Proof Theory and Set Theory”, _Synthese_, 62(2): 255–263. doi:10.1007/BF00486049
+* –––, 1987, _Proof Theory_, second edition, Amsterdam: North-Holland.
+* –––, 2003, _Memoirs of a Proof Theorist: Gödel and Other Logicians_, translated into English by Mariko Yasugi and Nicholas Passell, River Edge, NJ: World Scientific. doi:10.1142/5202
+* Takeuti, Gaisi and Mariko Yasugi, 1973, “The Ordinals of the Systems of Second Order Arithmetic with the Provably -Comprehension and the -Comprehension Axiom Respectively”, _Japanese Journal of Mathematics_, 41: 1–67. doi:10.4099/jjm1924.41.0\_1
+* Torretti, Roberto, 1978 \[1984], _Philosophy of Geometry from Riemann to Poincaré_, Dordrecht: D. Reidel. doi:10.1007/978-94-009-9909-1
+* Troelstra, Anne S. (ed.), 1973, _Metamathematical Investigations of Intuitionistic Arithmetic and Analysis_, (Lecture Notes in Mathematics, 344), Heidelberg, Berlin: Springer. doi:10.1007/BFb0066739
+* Troelstra, A.S. and H. Schwichtenberg, 2000, _Basic Proof Theory_, second edition, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139168717
+* Turing, A.M., 1936, “On Computable Numbers with an Application to the Entscheidungsproblem”, _Proceedings of the London Mathematical Society_, series 2, 42(1): 230–265. doi:10.1112/plms/s2-42.1.230
+* –––, 1939, “Systems of Logic Based on Ordinals”, _Proceedings of the London Mathematical Society_, series 2, 45(2239): 161–228. doi:10.1112/plms/s2-45.1.161
+* van Atten, Mark, 2007, _Brouwer Meets Husserl: On the Phenomenology of Choice Sequences_, (Synthese Library, 335), Dordrecht: Springer Netherlands. doi:10.1007/978-1-4020-5087-9
+* van Heijenoort, Jean (ed.), 1967, _From Frege to Gödel. A Source Book in Mathematical Logic 1879–1931_, Cambridge, MA: Harvard University Press (reprinted 1970).
+* Veblen, Oswald, 1908, “Continuous Increasing Functions of Finite and Transfinite Ordinals”, _Transactions of the American Mathematics Society_, 9(3): 280–292. doi:10.1090/S0002-9947-1908-1500814-9
+* von Neumann, J., 1927, “Zur Hilbertschen Beweistheorie”, _Mathematische Zeitschrift_, 26: 1–46. doi:10.1007/BF01475439
+* von Plato, Jan, 2008, “Gentzen’s Proof of Normalization for Natural Deduction”, _Bulletin of Symbolic Logic_, 14(2): 240–257. doi:10.2178/bsl/1208442829
+* –––, 2009, “Gentzen’s logic”, in D.M. Gabbay and J. Woods (eds), _Handbook of the History of Logic 5, Logic from Russell to Church_, Amsterdam: Elsevier, 667–721. doi:10.1016/S1874-5857(09)70017-2
+* –––, 2017, _Saved from the Cellar: Gerhard Gentzen’s Shorthand Notes on Logic and Foundations of Mathematics_, Berlin: Springer. doi:10.1007/978-3-319-42120-9
+* Wainer, S.S., 1970, “A Classification of the Ordinal Recursive Functions”, _Archiv für Mathematische Logik und Grundlagenforschung_, 13(3–4): 136–153. doi:10.1007/BF01973619
+* Wang, Hao, 1981, “Some Facts About Kurt Gödel”, _Journal of Symbolic Logic_, 46(3): 653–659. doi:10.2307/2273764
+* Weiermann, A., 1996, “How to Characterize Provably Total Functions by Local Predicativity”, _Journal of Symbolic Logic_, 61(1): 52–69. doi:10.2307/2275597
+* Weyl, Hermann, 1918, _Das Kontinuum_, Leipzig: Veit.
+* –––, 1946, “Mathematics and Logic”, _American Mathematical Monthly_, 53(1): 2–13. doi:10.2307/2306078
+* Zach, Richard, 1999, “Completeness Before Post: Bernays, Hilbert, and the Development of Propositional Logic”, _Bulletin of Symbolic Logic_, 5(3): 331–366. doi:10.2307/421184
+* –––, 2003, “The Practice of Finitism: Epsilon Calculus and Consistency Proofs in Hilbert’s Program”, _Synthese_, 137(1–2): 211–259. doi:10.1023/A:1026247421383
+* –––, 2004, “Hilbert’s ‘_Verunglückter Beweis_’, the First Epsilon Theorem, and Consistency Proofs”, _History and Philosophy of Logic_, 25(2): 79–94. doi:10.1080/01445340310001606930
+* Zermelo, E., 1932, “Über Stufen der Quantifikation und die Logik des Unendlichen”, _Jahresberichte der Deutschen Mathematiker-Vereinigung_, 41: 85–88.
 * Zucker, J.I., 1973, “Iterated Inductive Definitions, Trees, and Ordinals”, in Troelstra 1973: 392–453. doi:10.1007/BFb0066745
 
 ## Academic Tools
 
-> | ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=proof-theory). |
-> | --- | --- |
-> | ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/proof-theory/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](../../.gitbook/assets/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=proof-theory&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](../../.gitbook/assets/pp.png) | [Enhanced bibliography for this entry](https://philpapers.org/sep/proof-theory/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=proof-theory).                                                                      |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/proof-theory/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](../../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=proof-theory\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](../../.gitbook/assets/pp.png)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/proof-theory/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* Rathjen, M., 1993b, “[The Strength of Some Martin-Löf Type Theories](https://www1.maths.leeds.ac.uk/~rathjen/typeOHIO.pdf)”, manuscript available online, School of Mathematics, University of Leeds.
+* Rathjen, M., 1993b, “[The Strength of Some Martin-Löf Type Theories](https://www1.maths.leeds.ac.uk/\~rathjen/typeOHIO.pdf)”, manuscript available online, School of Mathematics, University of Leeds.
 
 ## Related Entries
 
-[epsilon calculus](https://plato.stanford.edu/entries/epsilon-calculus/) | [Hilbert, David: program in the foundations of mathematics](https://plato.stanford.edu/entries/hilbert-program/) | [logic: linear](https://plato.stanford.edu/entries/logic-linear/) | [mathematics: constructive](https://plato.stanford.edu/entries/mathematics-constructive/) | [proof theory: development of](https://plato.stanford.edu/entries/proof-theory-development/) | [reasoning: automated](https://plato.stanford.edu/entries/reasoning-automated/) | [semantics: proof-theoretic](https://plato.stanford.edu/entries/proof-theoretic-semantics/) | [set theory: constructive and intuitionistic ZF](https://plato.stanford.edu/entries/set-theory-constructive/) | [type theory](https://plato.stanford.edu/entries/type-theory/)
+[epsilon calculus](https://plato.stanford.edu/entries/epsilon-calculus/) | [Hilbert, David: program in the foundations of mathematics](https://plato.stanford.edu/entries/hilbert-program/) | [logic: linear](https://plato.stanford.edu/entries/logic-linear/) | [mathematics: constructive](https://plato.stanford.edu/entries/mathematics-constructive/) | [proof theory: development of](https://plato.stanford.edu/entries/proof-theory-development/) | [reasoning: automated](https://plato.stanford.edu/entries/reasoning-automated/) | [semantics: proof-theoretic](https://plato.stanford.edu/entries/proof-theoretic-semantics/) | [set theory: constructive and intuitionistic ZF](https://plato.stanford.edu/entries/set-theory-constructive/) | [type theory](https://plato.stanford.edu/entries/type-theory/)
 
 ### Acknowledgments
 
-Some passages in this entry first appeared in W. Sieg, *Hilbert’s Programs and Beyond*, Oxford: Oxford University Press, 2013.
+Some passages in this entry first appeared in W. Sieg, _Hilbert’s Programs and Beyond_, Oxford: Oxford University Press, 2013.
 
-[Copyright © 2024](https://plato.stanford.edu/info.html#c) by  
-[Michael Rathjen](http://www1.maths.leeds.ac.uk/~rathjen/rathjen.html) <[*rathjen@maths.leeds.ac.uk*](mailto:rathjen%40maths%2eleeds%2eac%2euk)>  
-Wilfried Sieg <[*sieg@cmu.edu*](mailto:sieg%40cmu%2eedu)>
+[Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
+[Michael Rathjen](http://www1.maths.leeds.ac.uk/\~rathjen/rathjen.html) <[_rathjen@maths.leeds.ac.uk_](mailto:rathjen%40maths%2eleeds%2eac%2euk)>\
+Wilfried Sieg <[_sieg@cmu.edu_](mailto:sieg%40cmu%2eedu)>

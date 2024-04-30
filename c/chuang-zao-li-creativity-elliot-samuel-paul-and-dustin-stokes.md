@@ -1,6 +1,6 @@
 # 创造力 creativity (Elliot Samuel Paul and Dustin Stokes)
 
-*首次发布于 2023 年 2 月 16 日星期四*
+_首次发布于 2023 年 2 月 16 日星期四_
 
 很少有东西像创造力那样深刻地或普遍地塑造人类经验。创造力引发了许多哲学问题。由于艺术是创造力的一个显著领域，起初你可能会认为创造力哲学是艺术哲学或美学的哲学，或者是这些领域的一个分支。但创造力引发了超越这些领域范围的问题。
 
@@ -10,9 +10,7 @@
 
 这些问题中有一些具有经验维度，最明显的是那些涉及创意过程如何实际进行的问题。因此，我们将调查的许多研究都属于认知科学的跨学科范畴，不仅有哲学家的贡献，还有来自邻近领域如心理学、神经科学和计算机科学的研究人员的贡献。
 
-
-
----
+***
 
 ## 创造力的哲学：过去与现在
 
@@ -20,7 +18,7 @@
 
 毫无疑问，西方哲学史上一些最杰出的人物对创造力或我们现在所称的“创造力”都感到着迷。据一些学者称，创造力的抽象名词直到 19 世纪才出现，但这种现象确实存在，许多哲学家对此感兴趣（McMahon 2013; Nahm 1956; Murray 1989; Tatarkiewicz 1980: 第 8 章）。
 
-举几个例子：柏拉图（公元前 4 世纪）在某些对话中让苏格拉底说，当诗人创作出真正伟大的诗歌时，他们并不是通过知识或掌握，而是通过被缪斯女神神灵启发，处于一种展现出一种疯狂的状态（《爱奥尼亚》和《斐德罗》）。相比之下，亚里士多德（公元前 3 世纪）将诗人的工作描述为一种理性的、目标导向的创作活动（poeisis），在这个过程中，诗人运用各种手段（如具有同情心的角色和涉及命运转折的情节）来达到一个目的（引发观众各种情绪）。玛格丽特·坎文迪什（1623–1673）和埃米莉·杜·夏特莱（1706–1749）倡导创造性地运用想象力追求自由，克服偏见，培养自然能力，即使在社会和政治压迫下。康德（1724–1804）将艺术天才构想为通过想象力的自由运用产生原创作品的天赋能力，这个过程不在于遵循规则，既不能学习也不能教授，甚至对天才本身也是神秘的。叔本华（1788–1860）强调，最伟大的艺术家不仅凭借在艺术创作中运用的技术技巧而著称，还凭借在美丽和崇高的体验中“迷失自我”的能力（叔本华 1859：卷 I：184–194 和卷 II：376–402）。弗里德里希·尼采（1844–1900）认为，最伟大的创造力成就，他认为是古希腊悲剧诗歌的典范，是由“狄奥尼索斯”精神和“阿波罗”精神之间罕见的合作产生的，“狄奥尼索斯”精神充满活力和激情，而“阿波罗”精神充满清醒的克制，用秩序和形式调和混沌（尼采 1872 [1967]）。威廉·詹姆斯（1842–1910）理论化创造天才具有改变历史进程的因果力（西蒙顿 2018）。这只是这些哲学家对创造力所说的一小部分，还有许多其他人物可以加入其中。
+举几个例子：柏拉图（公元前 4 世纪）在某些对话中让苏格拉底说，当诗人创作出真正伟大的诗歌时，他们并不是通过知识或掌握，而是通过被缪斯女神神灵启发，处于一种展现出一种疯狂的状态（《爱奥尼亚》和《斐德罗》）。相比之下，亚里士多德（公元前 3 世纪）将诗人的工作描述为一种理性的、目标导向的创作活动（poeisis），在这个过程中，诗人运用各种手段（如具有同情心的角色和涉及命运转折的情节）来达到一个目的（引发观众各种情绪）。玛格丽特·坎文迪什（1623–1673）和埃米莉·杜·夏特莱（1706–1749）倡导创造性地运用想象力追求自由，克服偏见，培养自然能力，即使在社会和政治压迫下。康德（1724–1804）将艺术天才构想为通过想象力的自由运用产生原创作品的天赋能力，这个过程不在于遵循规则，既不能学习也不能教授，甚至对天才本身也是神秘的。叔本华（1788–1860）强调，最伟大的艺术家不仅凭借在艺术创作中运用的技术技巧而著称，还凭借在美丽和崇高的体验中“迷失自我”的能力（叔本华 1859：卷 I：184–194 和卷 II：376–402）。弗里德里希·尼采（1844–1900）认为，最伟大的创造力成就，他认为是古希腊悲剧诗歌的典范，是由“狄奥尼索斯”精神和“阿波罗”精神之间罕见的合作产生的，“狄奥尼索斯”精神充满活力和激情，而“阿波罗”精神充满清醒的克制，用秩序和形式调和混沌（尼采 1872 \[1967]）。威廉·詹姆斯（1842–1910）理论化创造天才具有改变历史进程的因果力（西蒙顿 2018）。这只是这些哲学家对创造力所说的一小部分，还有许多其他人物可以加入其中。
 
 然而，尽管早期思想家探讨的一些主题如自由、正义、意识和知识等已经成为今天哲学中的核心议题，创造力却不在其中。事实上，“创造力哲学”在大多数领域仍然是一个新词，就像“行动哲学”和“性别哲学”不久前一样。然而，关于创造力的哲学研究在过去二十年里一直在蓬勃发展（例如，在一些重要的论文集中显示出来：B. Gaut & Livingston 2003；Krausz, Dutton, & Bardsley 2009；Paul & Kaufman 2014；B. Gaut & Kieran 2018）。我们现在将深入探讨这些贡献，以及早期的工作，从这个领域中可能提出的最基本问题开始。
 
@@ -28,7 +26,7 @@
 
 正如我们在开头所指出的，术语“创造性”可以应用于三种事物：一个人、一个过程或一个产品（其中产品可以是一个想法、表现或物质制品）。
 
-大多数定义侧重于产品。根据一种常见的方法，只有当人或过程产生创造性产品时，人或过程才被认为具有创造性，而产品只有在满足两个条件时才被认为具有创造性：除了新颖外，它还必须有价值。许多理论家认为新颖性并不足够，因为某物可以是新的但毫无价值（例如，毫无意义的一串字母），在这种情况下，它不值得被称为“创造性”。伊曼纽尔·康德经常被引用为预见到创造性定义的人，他在讨论（艺术）天才时定义了创造性。根据一种常见的解释，康德将（艺术）天才定义为能够创作出不仅“原创”的作品，因为“也可以有原创的胡言乱语”，而且还“典范”（康德 1790 年：§§43–50 [2000 年：182–197]）。这个定义在心理学家中得到了如此广泛的接受，以至于它已经被称为心理学中的“标准定义”创造性。实际上，“创造性通常没有被定义”（J.C.考夫曼 2009 年：19）在心理实验中——关于这一点，我们将在下面的第 5 节中详细讨论。然而，当心理学家明确采用一个定义时，他们通常会说创造性产品不仅是新的，而且在某种程度上也是有价值的，尽管他们以各种方式表达产品的价值，比如“有用”，“有效”，“有价值”，“合适”，或“适合手头的任务”（布鲁纳 1962 年：18；A.J.克罗普利 1967 年：67；杰克逊和梅西克 1965 年：313；克内勒 1965 年：7；卡特尔和布彻 1968 年；海内尔特 1974 年；J.C.考夫曼 2009 年：19–20；S.B.考夫曼和格雷戈瓦 2016 年；斯坦 1953 年；斯特恩伯格和卢巴特 1999 年：3——有关概述，请参见 Runco 和 Jaeger 2012 年）。一些心理学家提出，标准定义并没有完全捕捉到创造性的概念（阿马比勒 1996 年；西蒙顿 2012b）。至于哲学家，至少有一个人带着保留地捍卫标准定义（克劳森 2010 年），但他们中的许多人都对此提出了质疑，我们很快就会看到。
+大多数定义侧重于产品。根据一种常见的方法，只有当人或过程产生创造性产品时，人或过程才被认为具有创造性，而产品只有在满足两个条件时才被认为具有创造性：除了新颖外，它还必须有价值。许多理论家认为新颖性并不足够，因为某物可以是新的但毫无价值（例如，毫无意义的一串字母），在这种情况下，它不值得被称为“创造性”。伊曼纽尔·康德经常被引用为预见到创造性定义的人，他在讨论（艺术）天才时定义了创造性。根据一种常见的解释，康德将（艺术）天才定义为能够创作出不仅“原创”的作品，因为“也可以有原创的胡言乱语”，而且还“典范”（康德 1790 年：§§43–50 \[2000 年：182–197]）。这个定义在心理学家中得到了如此广泛的接受，以至于它已经被称为心理学中的“标准定义”创造性。实际上，“创造性通常没有被定义”（J.C.考夫曼 2009 年：19）在心理实验中——关于这一点，我们将在下面的第 5 节中详细讨论。然而，当心理学家明确采用一个定义时，他们通常会说创造性产品不仅是新的，而且在某种程度上也是有价值的，尽管他们以各种方式表达产品的价值，比如“有用”，“有效”，“有价值”，“合适”，或“适合手头的任务”（布鲁纳 1962 年：18；A.J.克罗普利 1967 年：67；杰克逊和梅西克 1965 年：313；克内勒 1965 年：7；卡特尔和布彻 1968 年；海内尔特 1974 年；J.C.考夫曼 2009 年：19–20；S.B.考夫曼和格雷戈瓦 2016 年；斯坦 1953 年；斯特恩伯格和卢巴特 1999 年：3——有关概述，请参见 Runco 和 Jaeger 2012 年）。一些心理学家提出，标准定义并没有完全捕捉到创造性的概念（阿马比勒 1996 年；西蒙顿 2012b）。至于哲学家，至少有一个人带着保留地捍卫标准定义（克劳森 2010 年），但他们中的许多人都对此提出了质疑，我们很快就会看到。
 
 尽管新颖性对于创造性是必需的是毫无争议的，哲学家们已经完善了这一点。某些例子乍看之下可能会暗示新颖性对于创造性并非真正必要。牛顿发现微积分是创造性的，即使在当时他并不知道，莱布尼茨已经率先发现了这一点——这是科学史上所谓的“多重性”之一（西蒙顿 2004 年）。一个初学者的想法，即自由与因果决定主义是兼容的，即使她很快就会了解到，哲学家们已经千百年来一直在捍卫这样的“兼容主义”理论，也可能是创造性的。然而，这些例子并不迫使我们放弃新颖性的要求，而只是对其进行了限定。牛顿的微积分和学生的兼容主义在整个历史上并不是新的，但对于它们各自的创作者来说是新的，这就足以让它们被视为创造性。用哲学家玛格丽特·博登的术语来说，这些想法是“心理上创造性的”（P-creative），尽管它们不是“历史上创造性的”（H-creative）。请注意，P-创造性更为基础。任何在整个历史上都是新的（H-创造性）的东西也必须对其创作者是新的（P-创造性）。因此，创造性总是表现出心理上的新颖性，尽管它并不总是表现出历史上的新颖性。
 
@@ -44,7 +42,7 @@
 
 其他批评者使用反例来论证价值对于创造性并非必要，最突出的案例是不道德创造性。 （有关心理学家关于不道德或所谓“黑暗”创造性现象的文章集，请参见 D. Cropley 等人 2010 年的文集）。不道德创造性的假设案例包括创造性会计欺骗投资者或创造性证词误导陪审团，文献中的典型案例是创造性的酷刑或谋杀。人们可以想象出新颖且设计良好的谋杀，正如托马斯·德昆西曾在一篇讽刺性的文章中所做的那样：
 
-> 一个出色的谋杀案所需的不仅仅是两个蠢货去杀人和被杀——一把刀——一个钱包——一个黑暗小巷。设计、先生们，构图、明暗、诗歌、情感，现在被认为是这种尝试不可或缺的要素。威廉姆斯先生将谋杀的理想提升到了我们所有人的心中[...] 就像埃斯库罗斯或弥尔顿在诗歌中，像米开朗基罗在绘画中一样，他将自己的艺术推向了巨大的崇高境界。（德昆西 1827 年；另请参阅巴丁等人 1989 年的讨论）
+> 一个出色的谋杀案所需的不仅仅是两个蠢货去杀人和被杀——一把刀——一个钱包——一个黑暗小巷。设计、先生们，构图、明暗、诗歌、情感，现在被认为是这种尝试不可或缺的要素。威廉姆斯先生将谋杀的理想提升到了我们所有人的心中\[...] 就像埃斯库罗斯或弥尔顿在诗歌中，像米开朗基罗在绘画中一样，他将自己的艺术推向了巨大的崇高境界。（德昆西 1827 年；另请参阅巴丁等人 1989 年的讨论）
 
 创新的方式造成不必要的痛苦和精心设计的谋杀并不好（它们没有价值），但它们可以是有创意的。如果这是正确的，那么似乎可以得出结论，创造力并不需要价值。
 
@@ -60,7 +58,7 @@
 
 #### 2.2.1 令人惊讶
 
-玛格丽特·博登认为，创意产品必须是“新的、令人惊讶的和有价值的”（2004 年：1；参见博登 2010 年；2014 年）。最自然的假设可能是，令人惊讶——就像新颖和有价值一样——是产品的一个特征。但博登认为创意产品是令人惊讶的，但她更基本地关注的是潜在的生成过程，即创作者如何设法制造出令人惊讶的东西。在她看来，有“三种创造力”——组合、探索和转化——“引发不同形式的惊讶，[并且]由产生新结构的不同心理过程定义”（2010 年：1，斜体添加）。
+玛格丽特·博登认为，创意产品必须是“新的、令人惊讶的和有价值的”（2004 年：1；参见博登 2010 年；2014 年）。最自然的假设可能是，令人惊讶——就像新颖和有价值一样——是产品的一个特征。但博登认为创意产品是令人惊讶的，但她更基本地关注的是潜在的生成过程，即创作者如何设法制造出令人惊讶的东西。在她看来，有“三种创造力”——组合、探索和转化——“引发不同形式的惊讶，\[并且]由产生新结构的不同心理过程定义”（2010 年：1，斜体添加）。
 
 组合创造力发生在旧观念以新方式结合时。明显的例子包括虚构的混合生物或奇美拉：给马加上翅膀（飞马），在女人的头部和上半身加上鱼的尾巴（美人鱼），在女人的头部和躯干上加上狮子的身体（斯芬克斯），等等。其他组合可以在类比中找到，比如尼尔斯·玻尔将原子比作太阳系。术语“组合”可以指的是组合后的产品，也可以指的是组合它们的过程，但博登在这里关注的是过程，即通过以旧观念为基础，以新方式结合它们来生成新观念的事实。
 
@@ -116,7 +114,7 @@ Gaut（2018: 133–137）同意创造力需要自发性，并且他指出，正�
 
 但让我们假设出于论证的目的，创造力确实是一种有价值的特质。它是否也以更加丰富的意义算作美德？美德理论家通常从亚里士多德在《尼各马可伦理学》中的经典讨论中得到启示。亚里士多德援引正义和节制作为典范美德，断言一个特质必须满足至少三个条件才能算作美德：
 
-> 对于要谨慎或公正地执行符合美德的行动，仅仅拥有正确的品质是不够的。相反，执行者在进行这些行动时也必须处于正确的状态。首先，他必须知道[他正在进行美德行动]；其次，他必须对它们做出决定，并为自己做出决定；第三，他还必须从坚定而不变的状态中执行它们。(EN II.4, 1105a28–1105a33)
+> 对于要谨慎或公正地执行符合美德的行动，仅仅拥有正确的品质是不够的。相反，执行者在进行这些行动时也必须处于正确的状态。首先，他必须知道\[他正在进行美德行动]；其次，他必须对它们做出决定，并为自己做出决定；第三，他还必须从坚定而不变的状态中执行它们。(EN II.4, 1105a28–1105a33)
 
 因此，例如，如果你归还借过的东西，只有当(1) 你知道你正在归还借过的东西，(2) 你选择这样做是因为这是公正的事情，而没有其他原因，以及(3) 你在机会出现时在各种情况下都倾向于做正确的事情时，这个行为才展现出公正的美德。亚里士多德列举了其他伦理美德，如谨慎、慷慨和勇气，以及理论智慧的智力美德。在他看来，每个特质都要求满足上述三个条件。虽然他没有考虑创造力是否是一种美德，但我们可以问创造力是否也具备这三个标准。一个人是否必须满足这三个要求才能被视为具有创造力呢？
 
@@ -140,7 +138,7 @@ Gaut（2018: 133–137）同意创造力需要自发性，并且他指出，正�
 
 对这一提议提出异议，高特引用证据表明外在动机并不总是对创造力有害。在一项研究中，一群心理学入门课程的学生如果获得财务奖励，他们会想出更有创意的短篇小说标题(Eisenberger & Rhodes 2001)。在使用免疫技术的研究中，IMP 的支持者认为奖励只是间接地增强创造力，通过支持内在动机。但在这种情况下没有使用这样的技术，因此似乎奖励的前景直接增强了创造力。
 
-此外，高特认为，这一观点与奖励在许多现实世界的创造性成就案例中似乎扮演的角色是一致的。在寻求发现 DNA 分子结构的过程中，沃森和克里克被“模仿林纳斯·保罗林并在他的游戏中击败他”（沃森 1968 [1999: 46]）所驱使。毕加索和马蒂斯都受到彼此之间的竞争激励（弗拉姆 2003: 37）。保罗·麦克雷迪说，他被驱使在 1977 年发明他获奖的人力滑翔机，因为他需要奖金来偿还债务：
+此外，高特认为，这一观点与奖励在许多现实世界的创造性成就案例中似乎扮演的角色是一致的。在寻求发现 DNA 分子结构的过程中，沃森和克里克被“模仿林纳斯·保罗林并在他的游戏中击败他”（沃森 1968 \[1999: 46]）所驱使。毕加索和马蒂斯都受到彼此之间的竞争激励（弗拉姆 2003: 37）。保罗·麦克雷迪说，他被驱使在 1977 年发明他获奖的人力滑翔机，因为他需要奖金来偿还债务：
 
 > 我觉得我没有时间去搞这些事情，但我有这种强烈的经济动机来关注人力飞行，所以我四处奔波，试图找出解决问题的方法。（引自斯特恩伯格和卢巴特 1995: 242）
 
@@ -162,41 +160,34 @@ Gaut（2018: 133–137）同意创造力需要自发性，并且他指出，正�
 
 有一长传统的思想家们对上面的问题回答是否定的。其中两位最有影响力的思想家来自 18 世纪——爱德华·扬和伊曼纽尔·康德，他们特别关注天才，即实现最高创造力水平的能力。在《关于原创作品的猜测》（1759 年）中，扬说，
 
-> 一个原创作品可以说是植物性质的；它自发地从天才的生命根源中升起；它生长，而非被制造……（1759 年[1966 年：7]）
+> 一个原创作品可以说是植物性质的；它自发地从天才的生命根源中升起；它生长，而非被制造……（1759 年\[1966 年：7]）
 
 他的观点是，独创性是自然赋予我们的东西，只有学习才会阻碍它的发展。杨氏似乎认为学习要么是通过模仿，要么是通过遵循规则进行的，他认为这两者都会对独创性产生不利影响。关于模仿，他写道，
 
-> 出生原创，为什么我们最终变成了复制品？那只瞎搅和的模仿猿……摧毁了所有的心智个性……（1759 [1966: 20]）
+> 出生原创，为什么我们最终变成了复制品？那只瞎搅和的模仿猿……摧毁了所有的心智个性……（1759 \[1966: 20]）
 
-就学习而言，“对规则的极度热爱”会“对那种天才常常因其卓越的荣耀而拥有的自由设定严格的界限”（1759 [1966: 13]）。
+就学习而言，“对规则的极度热爱”会“对那种天才常常因其卓越的荣耀而拥有的自由设定严格的界限”（1759 \[1966: 13]）。
 
 康德在他的《判断力批判》（1790 年）中提出了类似的观点。像杨格一样，他认为天才是一种自然的能力，尽管是非常罕见的：
 
-> 这样的技能无法传授，而是直接从自然之手分配给每个人，并随之而逝。（1790 年：§47 5:309 [2000: 188]）
+> 这样的技能无法传授，而是直接从自然之手分配给每个人，并随之而逝。（1790 年：§47 5:309 \[2000: 188]）
 
 它肯定不能通过模仿学习：
 
-> 天才完全与模仿精神相对立。现在，由于学习无非是模仿，即使是最大的学习能力，学习的便利性（能力）本身也不算是天才。（1790 年：§47 5:308 [2000 年：187]）
+> 天才完全与模仿精神相对立。现在，由于学习无非是模仿，即使是最大的学习能力，学习的便利性（能力）本身也不算是天才。（1790 年：§47 5:308 \[2000 年：187]）
 
 康德认为，天才也不能通过规则学习。
 
-> 天赋（天生的天赋）给予艺术规则的才能……心灵的天生倾向（天赋），通过这种天赋，自然给予艺术规则。（1790 年：§46 5:307 [2000 年：186]）
+> 天赋（天生的天赋）给予艺术规则的才能……心灵的天生倾向（天赋），通过这种天赋，自然给予艺术规则。（1790 年：§46 5:307 \[2000 年：186]）
 
-对康德而言，天才不遵循规则；天才间接地创造规则，通过创作出其他艺术家可能提取规则并进行“根据规则进行方法论指导”（1790: §49 5:318 [2000: 196]）。
+对康德而言，天才不遵循规则；天才间接地创造规则，通过创作出其他艺术家可能提取规则并进行“根据规则进行方法论指导”（1790: §49 5:318 \[2000: 196]）。
 
 年轻人和康德关注天才，具体而言，但如果我们将他们的推理扩展到创造力的一般情况，正如 Berys Gaut（2014a）所指出的，我们可以辨别出两条论证线索：
 
-> * 模仿论证*
->
-> 1. 所有的学习都是一种模仿形式。
-> 2. 模仿某人或某物与创造力是不相容的。
-> 3. 因此，一个人无法学会创造力。
->
-> * 规则参数*
->
-> 1. 所有学习都在遵循规则中进行。
-> 2. 遵循规则与创造力不兼容。
-> 3. 因此，一个人无法学会创造性。 (2014a: 266)
+> * 模仿论证\*
+> * 所有的学习都是一种模仿形式。
+> * 模仿某人或某物与创造力是不相容的。
+> * 因此，一个人无法学会创造力。
 
 高特首先指出，这两个论点都是无效的。在这两种情况下，前提所暗示的是学习不能创造性，换句话说，你不能创造性地学习（关于你如何学习的说法）。但即使这是真的，也不能得出你不能学会创造性的结论（关于你可以学到什么的说法）。如果你吸收了创意写作手册的建议，那么这种学习行为本身可能并不创造性。但如果手册有效——我们马上会看到它是如何有效的——那么你将学到如何变得更有创造力。
 
@@ -210,7 +201,7 @@ Gaut（2018: 133–137）同意创造力需要自发性，并且他指出，正�
 
 有一种方式可以从经验上回答手头的问题：我们可以通过指出已经教授创造力的案例来表明创造力是可以被教授的。Gaut 本人讨论了这样的例子，这些例子出现在数学和小说写作中，我们将在下面转向这些例子。但是，虽然这些案例可能足以表明创造力是可以被教授的，但 Gaut 通过解释这是如何可能的进一步丰富了我们的理解。他这样做部分是通过阐明然后驳斥相反的模仿和规则论证。此外，他提出了以下积极的论证来表明创造力是可以被教授和学习的。他称之为“构成性论证”，因为它始于他对创造力本身构成或定义的看法。
 
-*构成性论证*
+_构成性论证_
 
 1. 创造力是一种倾向——既包括能力又包括动机——以新颖和有价值的方式产生事物，并通过“选择、评估、理解和判断的行使”来表达个体的主体性（Gaut 2014a: 273）。
 2. 至少一些人可以学会提升他们的创造动力。
@@ -239,7 +230,7 @@ Hospers（1985）基于创造力的多样性和复杂性来捍卫这种悲观主
 
 这种观点的经典表达来自柏拉图。在他的对话中，柏拉图将他的老师苏格拉底作为自己观点的代言人，而在《爱奥尼亚人》中，苏格拉底认为诗人并非通过知识或技能创作诗歌。当你运用一种技能（技术），你会应用技巧、规则或方法来执行某项活动，比如驾驶战车、钓鱼或指挥军队。原则上，通过识别所涉及的技巧，可以解释这些活动，学生或学徒可以通过应用和练习这些技巧来学习这些活动。但在苏格拉底看来，诗歌并非如此。在苏格拉底看来，诗人只能模仿规则或技巧的应用，模仿技能的表面外观。苏格拉底提出了一个在古希腊文化中熟悉的观念，即诗歌是通过神灵的启示而产生的，一个人受到启发——字面上是“被灵魂充满”，与一个神或女神、与一位缪斯：
 
-> 你知道，史诗[或抒情]诗人中，如果他们是优秀的，都不是他们所写主题的大师；他们是受到启发、被附体的，这就是他们吟唱所有那些美丽诗歌的方式。……[他们]在创作那些美丽的歌词时并不是清醒的，但一旦他们进入和谐与节奏，他们就被狂热的狄俄尼索附体。[…]因为诗人是一种飘渺的东西，有翅膀且神圣，只有当他受到启发、失去理智，他的智力不再在他身上时，他才能创作诗歌。只要一个人拥有他的理智，他就永远缺乏创作诗歌或歌唱预言的力量。[…]你看，使他们能够吟唱那些诗句的不是掌握[技术]，而是一种神圣的力量。这就是为什么神在使用他们作为他的仆人时，会将他们的理智带走，就像他使用先知和神圣的占卜者一样，这样我们听到的人就会知道，吟唱那些具有如此高价值的诗句的并不是他们自己，因为他们的理智不在他们身上：神自己是在说话，他通过他们向我们发声。在这方面，我认为，神比任何事情都更多地向我们展示，以便我们不会对此产生任何疑问，这些美丽的诗歌不是人类的，甚至不是来自人类，而是神圣的，来自神；诗人只不过是神的代表，被拥有他们的人附体。 （《爱奥尼亚人》534a-d）
+> 你知道，史诗\[或抒情]诗人中，如果他们是优秀的，都不是他们所写主题的大师；他们是受到启发、被附体的，这就是他们吟唱所有那些美丽诗歌的方式。……\[他们]在创作那些美丽的歌词时并不是清醒的，但一旦他们进入和谐与节奏，他们就被狂热的狄俄尼索附体。\[…]因为诗人是一种飘渺的东西，有翅膀且神圣，只有当他受到启发、失去理智，他的智力不再在他身上时，他才能创作诗歌。只要一个人拥有他的理智，他就永远缺乏创作诗歌或歌唱预言的力量。\[…]你看，使他们能够吟唱那些诗句的不是掌握\[技术]，而是一种神圣的力量。这就是为什么神在使用他们作为他的仆人时，会将他们的理智带走，就像他使用先知和神圣的占卜者一样，这样我们听到的人就会知道，吟唱那些具有如此高价值的诗句的并不是他们自己，因为他们的理智不在他们身上：神自己是在说话，他通过他们向我们发声。在这方面，我认为，神比任何事情都更多地向我们展示，以便我们不会对此产生任何疑问，这些美丽的诗歌不是人类的，甚至不是来自人类，而是神圣的，来自神；诗人只不过是神的代表，被拥有他们的人附体。 （《爱奥尼亚人》534a-d）
 
 苏格拉底在《斐德罗》中重申了这一观点：“一些最伟大的祝福确实是通过疯狂而来的，确实是天赐的疯狂”（244a）。他补充说，虽然诗人可能具有某种技能，但任何渴望仅凭技能而非疯狂或缪斯创作诗歌的人将会失败（245a）。
 
@@ -275,7 +266,7 @@ Hospers（1985）基于创造力的多样性和复杂性来捍卫这种悲观主
 
 充分理由原则表明，对于每个事实都存在一个完全解释该事实的原因。因此，天才的定义能力在于以超越因果顺序的方式看待事物，并且无法被任何解释所限制。
 
-这种观点的一个版本是最近由卡尔·豪斯曼（1975 [1984]，1979，1985）辩护，他将其表述为涉及创造力的新颖性。豪斯曼断言，如果一个产品具有创造性，那么它必须在形而上学上是新颖的（或用他的术语来说，“真正新颖”），即它不能从先前事件中预测或解释，甚至在原则上也不行。因此，创造力与因果决定和因果解释不相容：“解释的因果观设定了否认太阳底下没有新事物的方式的框架”（豪斯曼 1984：ix）。如果某事物可以被先前原因解释，那么它就不是形而上学上的新颖，因此，在豪斯曼看来，它并非真正具有创造性。
+这种观点的一个版本是最近由卡尔·豪斯曼（1975 \[1984]，1979，1985）辩护，他将其表述为涉及创造力的新颖性。豪斯曼断言，如果一个产品具有创造性，那么它必须在形而上学上是新颖的（或用他的术语来说，“真正新颖”），即它不能从先前事件中预测或解释，甚至在原则上也不行。因此，创造力与因果决定和因果解释不相容：“解释的因果观设定了否认太阳底下没有新事物的方式的框架”（豪斯曼 1984：ix）。如果某事物可以被先前原因解释，那么它就不是形而上学上的新颖，因此，在豪斯曼看来，它并非真正具有创造性。
 
 针对豪斯曼的怀疑指控，玛丽亚·克朗费尔德纳（2009 年）认为创造力与因果决定是兼容的。首先，因果决定并不排除新颖性或变化。决定论表明新事物的出现至少在原则上是可以事先预测的。重要的是，当这种预测变为现实时，世界就会增加一些新的东西。当然，并非所有的新颖性都体现了创造力。问题是，创造力中涉及的新颖性是否必须是形而上学的新颖性，这在定义上与因果决定是不兼容的。这是值得怀疑的。请注意，根据定义，形而上学的新颖性违背自然法则。因此，生产出某种形而上学上新颖的东西将需要超自然力量。传统的西方宗教将上帝描绘为通过无中生有的创举来创造奇迹。但每当我们将人类的工艺品或成就描述为创造性时，我们是否在假设发生了奇迹？当然不是。正如前面所述，人类的创造力体现在相对于制造者而言是新颖的事物或对人类历史而言是新的事物，但这两种新颖性（心理和历史）都与因果决定是完全兼容的。克朗费尔德纳解释说，创造力并不排除一般的原因；它只排除某些类型的原因。她认为，一个创造性的产品必须是原创的——这意味着它不能通过复制先前的东西来生产。而且它必须是自发的（不是通过例行程序或机械程序生产的）——这意味着它在某种程度上独立于制作者的故意控制和先前获得的知识。（有关原创性和自发性的更多信息，请回顾上面的第 2.2 节）。直观地说，创造性的原因不能简单地是复制或遵循例行程序的问题。但它可能仍然有原因，认知科学至少在原则上可以调查这些原因。事实上，接下来我们将看到，它正在实践中这样做。
 
@@ -293,7 +284,7 @@ Hospers（1985）基于创造力的多样性和复杂性来捍卫这种悲观主
 
 此外，当代研究者在创造力范围内考虑的现象远比传统关注诗歌和美术更广泛和多样化，因为创造力可以在任何艺术或工艺品、科学、技术、创业、烹饪、幽默等领域中显现，实际上在任何人们提出新颖且有价值的想法或事物的领域中都可以显现。与康德不同，天才，即创造力的最高层次，可以在几乎任何领域被认可，而不仅仅是在美术领域。虽然一些研究者（例如，西蒙顿 1984 年、1994 年、1997 年、2009 年；鲁特-伯恩斯坦和鲁特-伯恩斯坦 1999 年）冒险研究天才（所谓的“大 C”创造力），但大多数研究者更专注于相对普通的创造性壮举（“小 c”创造力），包括那些可以在实验环境中从普通人口中命令引出的故事编织、绘画和问题解决等。一些研究者提出，为了理解头脑如何产生新想法，我们应该从更基础的现象开始。例如，哲学家杰西·普林兹和心理学家劳伦斯·巴萨卢专注于我们如何形成新概念来对我们所感知的事物进行分类，他们声称这个过程是创造性的，尽管是以“平凡”而不是“特殊”的方式（普林兹和巴萨卢 2002 年；巴萨卢和普林兹 1997 年；参见 Child 2018 年）。
 
-当然，许多人类创造力的壮举，尤其是最有趣的壮举，远远超出了基本概念的形成。解释这些壮举的一个重要步骤是认识到我们所谓的“创造过程”，好像它是一个单一、同质的现象，实际上是多个阶段或操作的组合。最简单的认识到这一事实的方法是 Geneplore 模型，它区分了两个阶段：生成想法和探索想法（Finke 1996 年；Smith, Ward, & Finke 1995 年）。这种区分可以被看作是二十世纪初科学哲学家所做的一个区分，即发现的背景和证明的背景（波普尔 1934 年）。其他理论家提出了多达八个创造性阶段（有关提议摘要，请参见 Sawyer 2012 年：89）。但最有影响力的阶段理论可以追溯到亨利·庞加莱的讲座《数学创作》（1908 年[1913 年：383–394]），在这篇讲座中，他确定了他自己作为数学家在创新工作中的四个阶段：
+当然，许多人类创造力的壮举，尤其是最有趣的壮举，远远超出了基本概念的形成。解释这些壮举的一个重要步骤是认识到我们所谓的“创造过程”，好像它是一个单一、同质的现象，实际上是多个阶段或操作的组合。最简单的认识到这一事实的方法是 Geneplore 模型，它区分了两个阶段：生成想法和探索想法（Finke 1996 年；Smith, Ward, & Finke 1995 年）。这种区分可以被看作是二十世纪初科学哲学家所做的一个区分，即发现的背景和证明的背景（波普尔 1934 年）。其他理论家提出了多达八个创造性阶段（有关提议摘要，请参见 Sawyer 2012 年：89）。但最有影响力的阶段理论可以追溯到亨利·庞加莱的讲座《数学创作》（1908 年\[1913 年：383–394]），在这篇讲座中，他确定了他自己作为数学家在创新工作中的四个阶段：
 
 1. 有意识的辛勤工作或准备，
 2. 无意识的孵化，
@@ -378,7 +369,7 @@ Hospers（1985）基于创造力的多样性和复杂性来捍卫这种悲观主
 
 在每种情况下，某人在与完全不同的事物交往时突然对一件事产生了灵感。以经验为基础的理论家拒绝认为这些想法是从虚无中产生或通过神圣附体而来。那么，如何用自然心理现象的术语来解释它们呢？
 
-阿瑟·科斯特勒（Arthur Koestler）在亨利·庞加莱（Henri Poincaré）的工作（1908 年[1913 年]）的部分启发下，假设在创造性思维过程中，思想以新颖的方式结合，这种组合主要是在潜意识下进行的，正如庞加莱所说的潜意识自我（Koestler 1964: 164–5）。对于庞加莱来说，我们可能认为无意识只有两种方式。一种是，我们可以用弗洛伊德的术语来思考无意识，即作为一个能够进行仔细和精细辨别以及重要的区分和组合的自我。另一种方式（这也是庞加莱和科斯特勒所青睐的选择），我们可以将无意识看作是一个机械地运行各种思想组合的次人自动机。重要的是，这种无意识过程（或者，如果愿意，自动机）会产生随机的概念联想和思想。然后这些思想可以进一步考虑、检查、探索和修订。
+阿瑟·科斯特勒（Arthur Koestler）在亨利·庞加莱（Henri Poincaré）的工作（1908 年\[1913 年]）的部分启发下，假设在创造性思维过程中，思想以新颖的方式结合，这种组合主要是在潜意识下进行的，正如庞加莱所说的潜意识自我（Koestler 1964: 164–5）。对于庞加莱来说，我们可能认为无意识只有两种方式。一种是，我们可以用弗洛伊德的术语来思考无意识，即作为一个能够进行仔细和精细辨别以及重要的区分和组合的自我。另一种方式（这也是庞加莱和科斯特勒所青睐的选择），我们可以将无意识看作是一个机械地运行各种思想组合的次人自动机。重要的是，这种无意识过程（或者，如果愿意，自动机）会产生随机的概念联想和思想。然后这些思想可以进一步考虑、检查、探索和修订。
 
 特别是在创造力的背景下，科林·马丁代尔（Colin Martindale）的皮层激活理论中存在先例，或者至少有重叠之处。这一理论围绕注意力焦点的性质展开（Martindale 1977, 1981, 1995, 1999; Martindale & Armstrong 1974; Martindale & Hines 1975）。马丁代尔提出了一个多阶段的问题解决模型，如果拥有正确的机制，就会导致创造性思维。在最初阶段，信息被收集，对问题采取各种方法，并且有着高水平的皮层激活和狭窄的注意力焦点。随着信息的增加和问题仍未解决，可能会出现两种反应。第一种反应是继续尝试相同的解决方案，以使激活和注意力焦点保持高水平和狭窄，分别。另一种反应是，一些人会经历皮层激活的减少，同时注意力焦点范围扩大。然后信息进入马丁代尔所称的初级处理：一种不完全受主体控制的潜意识认知。正是这种处理方式和使其可能的激活机制区分了创造性的洞察或成就与非创造性的洞察或成就。第一种反应通常导致挫折和失败（固定化），而第二种通常导致创造性的洞察。
 
@@ -386,7 +377,7 @@ Hospers（1985）基于创造力的多样性和复杂性来捍卫这种悲观主
 
 这些行为方法可以与对神经可塑性以及认知努力和注意力影响的当代理解相结合。神经科学家长期以来一直认识到人类大脑是可塑的——在遗传物质上稳定，但在对外部刺激做出反应时，不断经历功能性变化和神经网络发展，唐纳德·赫布在二十世纪中叶的工作是一个重要的早期先例。正如赫布所说，神经元“一起激活，一起连接”。细胞集合体因此形成，是作为个体细胞激活的同步性和接近性的结果。
 
-> 任何两个反复同时活跃的细胞或细胞系统都会倾向于“关联”，以便一个细胞的活动促进另一个细胞的活动。（赫布 1949 [2002: 70]）
+> 任何两个反复同时活跃的细胞或细胞系统都会倾向于“关联”，以便一个细胞的活动促进另一个细胞的活动。（赫布 1949 \[2002: 70]）
 
 对问题的持续关注，一些人所称的大脑努力，会导致大脑皮层的网络发生变化（唐纳德 2001: 175–8）。重要的是，这些变化可以继续发生，即使一个人已经将注意力从问题上移开。这促使了一个简单（并且有些不足为奇）的假设：关注和执行认知任务会影响神经网络（波斯纳等人 1997；波斯纳和雷克尔 1994；另见卡米等人 1995），这些变化可能涉及突触连接的加强（与概念联系和关联相关）。这些变化在一个人关注任务时和在一个人将注意力转移到其他地方后都可能发生。最后，后者在一定程度上解释了孵化后的顿悟时刻（所谓的孵化效应）：当一个人重新关注目标问题时，新的或新加强的神经连接（作为先前认知努力的结果）可以产生新的想法。由于这种神经过程在任何意义上都不是由你完成的，新想法的出现可能会感觉像一阵顿悟（参见斯托克斯 2007；萨加德和斯图尔特 2011；里特和戴克斯特豪斯 2014；以及海尔曼 2016）。
 
@@ -411,7 +402,7 @@ Hospers（1985）基于创造力的多样性和复杂性来捍卫这种悲观主
 > (a)和(b)中的三个词中的每一个都可以与解答词形成一个复合词或两个词组。解答词可以在任何问题词的前面或后面出现。
 >
 > 1. 法国，汽车，鞋子
-> 2. 靴子，夏天，地面[1]
+> 2. 靴子，夏天，地面\[1]
 >
 > (Bowden 等人，2005 年: 324)
 
@@ -431,7 +422,7 @@ Hospers（1985）基于创造力的多样性和复杂性来捍卫这种悲观主
 
 其他研究支持索耶尔（Sawyer）所称的生产力理论，该理论认为获得好点子的最佳方法是拥有大量点子，然后只扔掉不好的。在历史计量研究中，西蒙顿发现，一生中创作数量最多的创作者最有可能创作出具有重要意义并经得起时间考验的作品。更引人注目的是，他发现，从一年到另一年，创作者最富生产力的时期也是他们最有可能做出杰出工作的时期（Simonton 1988a, 1988b）。1954 年获得化学诺贝尔奖以及 1962 年获得和平诺贝尔奖的林纳斯·鲍林在一句著名的话中总结了生产力理论：
 
-> 如果你想拥有好的想法，你必须有很多想法。其中大部分都是错误的，你需要学会的是哪些要丢弃。（由克里克在 1995 年引用 [时间 34:57]）
+> 如果你想拥有好的想法，你必须有很多想法。其中大部分都是错误的，你需要学会的是哪些要丢弃。（由克里克在 1995 年引用 \[时间 34:57]）
 
 ### 5.5 外部化
 
@@ -455,7 +446,7 @@ Vera John-Steiner（1985）采访了超过 70 位杰出的创作者（从作家 
 
 一些人担心在神经影像研究中使用的心理测量方法的有效性。其中一个担忧涉及我们应该对所使用的测试是否真正跟踪创造性行为的信心。这当然是一个普遍问题，部分是定义创造力（像其他现象一样）所面临的挑战的症状，以及与洞察力和孵化等特征相关的特殊挑战。但是使用神经影像技术（如 fMRI 扫描）来尝试研究自然发生的现象会带来特殊的挑战。使用这种技术几乎总是生态无效的——无法在艺术家的工作室中进行 fMRI 扫描。由于这些成像系统的成本和敏感性，相关的行为测试通常会被大幅缩短。这可能会对出现目标现象——新颖思维和洞察力——的空间施加限制，使其在成像会话期间发生。正如一位研究人员担心的那样，
 
-> 单个测试经常被使用，甚至是单个项目！这与心理测量理论相悖（较长的测试允许错误相互抵消，因此更可靠），特别是在创造力评估研究中，项目甚至测试之间的差异很常见（Richards，1976 年；Runco，Mohamad 和 Paek，2016 年[sic 应为 Runco，Abdulla 等人 2016 年）。任何一个测试的结果都不能推广到其他测试。当然，单个项目的结果甚至更不具有普适性。（Runco 2017：309-310；另请参见 Abraham 2013）
+> 单个测试经常被使用，甚至是单个项目！这与心理测量理论相悖（较长的测试允许错误相互抵消，因此更可靠），特别是在创造力评估研究中，项目甚至测试之间的差异很常见（Richards，1976 年；Runco，Mohamad 和 Paek，2016 年\[sic 应为 Runco，Abdulla 等人 2016 年）。任何一个测试的结果都不能推广到其他测试。当然，单个项目的结果甚至更不具有普适性。（Runco 2017：309-310；另请参见 Abraham 2013）
 
 另一位实证研究者批评他所看到的创造力神经科学中的“不切实际的追逐”。Arne Dietrich（2019 年）重申了上述对心理测量指标有效性及其简略和零碎应用的担忧。他进一步担心目前主导的强调发散思维以及默认模式网络（以及现在大多被放弃的强调诸如疯狂、右脑和快速眼动睡眠等概念）。Dietrich 在每种情况下的担忧是研究重点过于狭隘，虽然成像方法是可靠且处于最先进状态，但对创造力的描述却不是。他谴责将创造力的某个特征视为整个现象的诱惑。他建议，发散思维很可能是各种心理现象的集合，而不是单一的心理现象，
 
@@ -473,7 +464,7 @@ Vera John-Steiner（1985）采访了超过 70 位杰出的创作者（从作家 
 
 ## 6. 创造力与人工智能
 
-正如我们在心理学和神经科学中发现的那样，在人工智能和计算机科学领域有丰富的创造力研究文献，包括专门的期刊、专题和会议（《人工创造力杂志》、《创意音乐系统杂志》、《数字创意》、《心智与机器关于计算创造力的专题》[Gervás 等人，2010 年]、《国际计算创造力会议》）。我们在这里关注的问题是计算机是否能够具有创造力。作为背景，值得考虑的是理论家们如何处理类似的问题，即计算机是否能够思考。
+正如我们在心理学和神经科学中发现的那样，在人工智能和计算机科学领域有丰富的创造力研究文献，包括专门的期刊、专题和会议（《人工创造力杂志》、《创意音乐系统杂志》、《数字创意》、《心智与机器关于计算创造力的专题》\[Gervás 等人，2010 年]、《国际计算创造力会议》）。我们在这里关注的问题是计算机是否能够具有创造力。作为背景，值得考虑的是理论家们如何处理类似的问题，即计算机是否能够思考。
 
 尽管各种理论家自早期现代以来就一直在问机器是否能够思考，但关于这个话题最重要的概念创新来自于艾伦·图灵，围绕着他 1950 年的论文《计算机器械与智能》。在这里，图灵提供了一些开创性的见解。也许最为人熟知的是图灵的“模仿游戏”，现在通常被称为“图灵测试”。简而言之，测试涉及一个不知情的询问者可以向人类和计算机提出一系列开放性问题。如果询问者无法区分计算机和人类，图灵推测这足以说明真正的智能。关于该测试对智能的适用性存在争议，可以说迄今为止没有计算机通过该测试。（有关图灵和图灵测试的更详细讨论，请参阅有关艾伦·图灵、图灵机和图灵测试的条目）。
 
@@ -488,7 +479,7 @@ Vera John-Steiner（1985）采访了超过 70 位杰出的创作者（从作家 
 * 弱人工智能：计算机能否表现出像思考一样的行为？
 * 强人工智能：计算机能否真正地思考？
 
-这里的一般担忧是，无论一个系统的行为看起来多么复杂“从外表上看”，我们可能只是看到了一个“空壳”（Haugeland 1981 [1997]; Clark 2001）。然后，通过指定空壳缺少的内容，这种担忧以各种方式得到了具体化。以下是三个标准的候选项。而且，再次强调，在每种情况下，无论计算机的行为看起来多么复杂，它仍然可能缺少以下任何一种或全部内容。首先，计算机可能缺乏意识。其次，计算机可能缺乏对其计算的符号的任何理解（Searle 1980）。最后，计算机可能在不关心自己的行为或者像约翰·豪格兰（John Haugeland）形象地说的那样“毫不在乎”的情况下运行。在每种情况下，对于雄心勃勃的人工智能研究人员的任何回应都会遇到理论化意识、理解、语言能力和情感等心理现象所带来的重大挑战（例如，图灵 1950 年承认但在很大程度上回避了这些主题）。
+这里的一般担忧是，无论一个系统的行为看起来多么复杂“从外表上看”，我们可能只是看到了一个“空壳”（Haugeland 1981 \[1997]; Clark 2001）。然后，通过指定空壳缺少的内容，这种担忧以各种方式得到了具体化。以下是三个标准的候选项。而且，再次强调，在每种情况下，无论计算机的行为看起来多么复杂，它仍然可能缺少以下任何一种或全部内容。首先，计算机可能缺乏意识。其次，计算机可能缺乏对其计算的符号的任何理解（Searle 1980）。最后，计算机可能在不关心自己的行为或者像约翰·豪格兰（John Haugeland）形象地说的那样“毫不在乎”的情况下运行。在每种情况下，对于雄心勃勃的人工智能研究人员的任何回应都会遇到理论化意识、理解、语言能力和情感等心理现象所带来的重大挑战（例如，图灵 1950 年承认但在很大程度上回避了这些主题）。
 
 询问计算机是否能够思考是一回事，而询问它们是否能够创造是另一回事。正如人工智能或思考的前景分为弱人工智能和强人工智能两个问题一样，我们也可以区分关于人工创造力的两个类似问题，分别称为“弱人工创造力”和“强人工创造力”的问题。让我们从前者开始：
 
@@ -514,7 +505,7 @@ Vera John-Steiner（1985）采访了超过 70 位杰出的创作者（从作家 
 
 再次考虑 AlphaGo。这是一个“深度学习”系统，包括两个神经网络：一个策略网络和一个价值网络。简而言之：该系统通过大量专业人类玩家在围棋实际比赛中所下的合法棋步（确切地说是来自 160,000 场比赛的 28.4 百万步棋；请参阅 Silver 等人 2016 年和 Halina 2021 年）进行训练。该网络进一步通过与之前版本（即不同权重的神经网络）进行多场比赛（约 1 亿场）的方式进行训练，再次使用学习算法进行训练。网络中节点的权重通过偏爱在获胜比赛中所下的棋步的学习算法进行调整。价值网络在这些众多比赛的子集上进行训练，节点权重调整导致对棋步的可靠概率分配，以确定其对赢得比赛的潜力。最后，系统采用蒙特卡洛搜索树（MCT）。一般来说，这种算法旨在模拟一个决策过程，以优化在选择的参数下的成功。在这种情况下，搜索算法选择一条给定的棋步路径，然后向该路径添加一些有效的棋步，如果这个过程没有终止（以胜利/失败结束），系统执行“展开”。展开实质上为两名玩家（使用可能棋步的样本）玩游戏直至结束。MCT 和价值网络处理的信息然后被反馈（反向传播）到系统中。这整个过程（一旦系统训练完成）是快速的，并决定了 AlphaGo 在任何给定游戏中“决定”如何移动。
 
-这里有一些需要注意的事情。AlphaGo 的下棋风格令人惊讶。正如评论员所指出的，相对于人类下棋的标准，它的风格极不传统（Halina 引用了 Baker 和 Hui 2017 [其他互联网资源]）。事实上，2016 年被 AlphaGo 击败的世界冠军围棋选手李世石曾表示，AlphaGo 的下棋揭示了许多人类下棋并非像之前普遍认为的那样创造性——至少 AlphaGo 的一部分下棋是创造性的。进一步注意，这个系统是灵活的。虽然有学习算法和调整网络权重的规则，但这个系统并不像早期的经典系统（包括深蓝）那样机械或可预测。在最近的一篇论文中，Marta Halina 提出了这个论点（Halina 2021）。她明确引用了博登对创造性的表征，其中包括新颖性、价值和惊喜。再次强调，这种新颖性和价值在这种情况下应该是合理的。关于惊喜，Halina 认为正是 AlphaGo 采用了 MCT 技术，才使得一种“洞察力”、灵活性和不可预测的结果成为可能。她写道，
+这里有一些需要注意的事情。AlphaGo 的下棋风格令人惊讶。正如评论员所指出的，相对于人类下棋的标准，它的风格极不传统（Halina 引用了 Baker 和 Hui 2017 \[其他互联网资源]）。事实上，2016 年被 AlphaGo 击败的世界冠军围棋选手李世石曾表示，AlphaGo 的下棋揭示了许多人类下棋并非像之前普遍认为的那样创造性——至少 AlphaGo 的一部分下棋是创造性的。进一步注意，这个系统是灵活的。虽然有学习算法和调整网络权重的规则，但这个系统并不像早期的经典系统（包括深蓝）那样机械或可预测。在最近的一篇论文中，Marta Halina 提出了这个论点（Halina 2021）。她明确引用了博登对创造性的表征，其中包括新颖性、价值和惊喜。再次强调，这种新颖性和价值在这种情况下应该是合理的。关于惊喜，Halina 认为正是 AlphaGo 采用了 MCT 技术，才使得一种“洞察力”、灵活性和不可预测的结果成为可能。她写道，
 
 > 探索参数使 AlphaGo 能够超越其训练，鼓励它模拟策略网络未推荐的走法。随着搜索树的构建，系统开始选择具有最高“行动价值”的走法进行模拟，其中行动价值根据模拟结果和价值网络评估来衡量走法的优劣。（Halina 2021: 324）
 
@@ -542,294 +533,294 @@ Halina 承认，鉴于其特定领域性，正如我们已经注意到的，这�
 
 ## Bibliography
 
-* Abdulla, Ahmed M., Sue Hyeon Paek, Bonnie Cramond, and Mark A. Runco, 2020, “Problem Finding and Creativity: A Meta-Analytic Review”, *Psychology of Aesthetics, Creativity, and the Arts*, 14(1): 3–14. doi:10.1037/aca0000194
-* Abraham, Anna, 2013, “The Promises and Perils of the Neuroscience of Creativity”, *Frontiers in Human Neuroscience*, 7. doi:10.3389/fnhum.2013.00246
+* Abdulla, Ahmed M., Sue Hyeon Paek, Bonnie Cramond, and Mark A. Runco, 2020, “Problem Finding and Creativity: A Meta-Analytic Review”, _Psychology of Aesthetics, Creativity, and the Arts_, 14(1): 3–14. doi:10.1037/aca0000194
+* Abraham, Anna, 2013, “The Promises and Perils of the Neuroscience of Creativity”, _Frontiers in Human Neuroscience_, 7. doi:10.3389/fnhum.2013.00246
 * Albert, Robert S. and Mark A. Runco, 1999, “A History of Research on Creativity”, in Sternberg 1999: 16–32. doi:10.1017/CBO9780511807916.004
-* Amabile, Teresa, 1983, *The Social Psychology of Creativity*, (Springer Series in Social Psychology), New York: Springer-Verlag.
-* –––, 1996, *Creativity in Context: Update to the Social Psychology of Creativity*, Boulder, CO: Westview Press.
-* Anderson, Linda, 2006, *Creative Writing: A Workbook with Readings*, Abingdon, Oxon: Routledge. doi:10.4324/9781315811932
-* Aristotle, *The Complete Works of Aristotle: The Revised Oxford Translation*, Jonathan Barnes (ed.), Princeton, NJ: Princeton University Press, 1984.
-* Aristotle, [EN], *Nicomachean Ethics*, Terrence Irwin (trans.), Indianapolis, IN: Hackett Publishing, 2019.
-* Arnheim, R., 2001, “What It Means to Be Creative.” *British Journal of Aesthetics* 41(1): 24–25. doi:10.1093/bjaesthetics/41.1.24
-* Asmis, Elizabeth, 1992, “Plato on Poetic Creativity”, in *The Cambridge Companion to Plato*, Richard Kraut (ed.), Cambridge: Cambridge University Press, 338–364. doi:10.1017/CCOL0521430186.011
-* Baldwin, James, 1962, “The Creative Process”, in *Creative America,* New York, NY: Ridge Press.
-* Barsalou, Lawrence W. and Jesse J. Prinz, 1997, “Mundane Creativity in Perceptual Symbol Systems”, in *Creative Thought: An Investigation of Conceptual Structures and Processes.*, Thomas B. Ward, Steven M. Smith, and Jyotsna Vaid (eds.), Washington, DC: American Psychological Association, 267–307. doi:10.1037/10227-011
-* Battin, Margaret P., John Fisher, Ronald Moore, and Anita Silvers, 1989, *Puzzles about Art: An Aesthetics Casebook*, New York: St. Martin’s Press.
-* Beaty, Roger E., Mathias Benedek, Paul J. Silvia, and Daniel L. Schacter, 2016, “Creative Cognition and Brain Network Dynamics”, *Trends in Cognitive Sciences*, 20(2): 87–95. doi:10.1016/j.tics.2015.10.004
-* Beaty, Roger E., Paul Seli, and Daniel L Schacter, 2019, “Network Neuroscience of Creative Cognition: Mapping Cognitive Mechanisms and Individual Differences in the Creative Brain”, *Current Opinion in Behavioral Sciences*, 27(June): 22–30. doi:10.1016/j.cobeha.2018.08.013
-* Beer, Randall D. and John C. Gallagher, 1992, “Evolving Dynamical Neural Networks for Adaptive Behavior”, *Adaptive Behavior*, 1(1): 91–122. doi:10.1177/105971239200100105
-* Bell, Julia and Paul Magrs (eds), 2001, *The Creative Writing Coursebook: Forty Authors Share Advice and Exercises for Fiction and Poetry*, London: Macmillan UK.
-* Berrar, Daniel Peter and Alfons Schuster, 2014, “Computing Machinery and Creativity: Lessons Learned from the Turing Test”, *Kybernetes*, 43(1): 82–91. doi:10.1108/K-08-2013-0175
-* Bink, Martin L. and Richard L. Marsh, 2000, “Cognitive Regularities in Creative Activity”, *Review of General Psychology*, 4(1): 59–78. doi:10.1037/1089-2680.4.1.59
-* Bird, Jon and P. Layzell, 2002, “The Evolved Radio and Its Implications for Modelling the Evolution of Novel Sensors”, in *Proceedings of the 2002 Congress on Evolutionary Computation. CEC’02 (Cat. No.02TH8600)*, Honolulu, HI, USA: IEEE, 2:1836–1841. doi:10.1109/CEC.2002.1004522
-* Bird, Jon and Dustin Stokes, 2006, “Evolving Minimally Creative Robots”, in *Proceedings of the Third Joint Workshop on Computational Creativity, 17th European Conference on Artificial Intelligence*, Simon Colton and Alison Pease (eds), 1–5. [[Bird and Stokes 2006 available online](http://computationalcreativity.net/home/wp-content/papercite-data/pdf/bird-stokes-2006.pdf)]
-* –––, 2007, “Minimal Creativity, Evaluation and Fractal Pattern Discrimination”, in *Proceedings of the Fourth International Joint Workshop on Computational Creativity*, Amílcar Cardosa and Geraint A. Wiggins (eds), 121–128. [[Bird and Stokes 2007 available online](http://computationalcreativity.net/ijwcc07/papers/bird-stokes.pdf)]
-* Blair, Cassie S. and Michael D. Mumford, 2007, “Errors in Idea Evaluation: Preference for the Unoriginal?”, *The Journal of Creative Behavior*, 41(3): 197–222. doi:10.1002/j.2162-6057.2007.tb01288.x
-* Boden, Margaret A., 1994, “What Is Creativity?”, in *Dimensions of Creativity*, Margaret A. Boden (ed.), Cambridge, MA: The MIT Press, 75–117. doi:10.7551/mitpress/2437.003.0006
-* –––, 1998, “Creativity and Artificial Intelligence”, *Artificial Intelligence*, 103(1–2): 347–356. doi:10.1016/S0004-3702(98)00055-1
-* –––, 2004, *The Creative Mind: Myths and Mechanisms*, second edition, London/New York: Routledge. doi:10.4324/9780203508527
-* –––, 2010, *Creativity and Art: Three Roads to Surprise*, Oxford/New York: Oxford University Press.
+* Amabile, Teresa, 1983, _The Social Psychology of Creativity_, (Springer Series in Social Psychology), New York: Springer-Verlag.
+* –––, 1996, _Creativity in Context: Update to the Social Psychology of Creativity_, Boulder, CO: Westview Press.
+* Anderson, Linda, 2006, _Creative Writing: A Workbook with Readings_, Abingdon, Oxon: Routledge. doi:10.4324/9781315811932
+* Aristotle, _The Complete Works of Aristotle: The Revised Oxford Translation_, Jonathan Barnes (ed.), Princeton, NJ: Princeton University Press, 1984.
+* Aristotle, \[EN], _Nicomachean Ethics_, Terrence Irwin (trans.), Indianapolis, IN: Hackett Publishing, 2019.
+* Arnheim, R., 2001, “What It Means to Be Creative.” _British Journal of Aesthetics_ 41(1): 24–25. doi:10.1093/bjaesthetics/41.1.24
+* Asmis, Elizabeth, 1992, “Plato on Poetic Creativity”, in _The Cambridge Companion to Plato_, Richard Kraut (ed.), Cambridge: Cambridge University Press, 338–364. doi:10.1017/CCOL0521430186.011
+* Baldwin, James, 1962, “The Creative Process”, in _Creative America,_ New York, NY: Ridge Press.
+* Barsalou, Lawrence W. and Jesse J. Prinz, 1997, “Mundane Creativity in Perceptual Symbol Systems”, in _Creative Thought: An Investigation of Conceptual Structures and Processes._, Thomas B. Ward, Steven M. Smith, and Jyotsna Vaid (eds.), Washington, DC: American Psychological Association, 267–307. doi:10.1037/10227-011
+* Battin, Margaret P., John Fisher, Ronald Moore, and Anita Silvers, 1989, _Puzzles about Art: An Aesthetics Casebook_, New York: St. Martin’s Press.
+* Beaty, Roger E., Mathias Benedek, Paul J. Silvia, and Daniel L. Schacter, 2016, “Creative Cognition and Brain Network Dynamics”, _Trends in Cognitive Sciences_, 20(2): 87–95. doi:10.1016/j.tics.2015.10.004
+* Beaty, Roger E., Paul Seli, and Daniel L Schacter, 2019, “Network Neuroscience of Creative Cognition: Mapping Cognitive Mechanisms and Individual Differences in the Creative Brain”, _Current Opinion in Behavioral Sciences_, 27(June): 22–30. doi:10.1016/j.cobeha.2018.08.013
+* Beer, Randall D. and John C. Gallagher, 1992, “Evolving Dynamical Neural Networks for Adaptive Behavior”, _Adaptive Behavior_, 1(1): 91–122. doi:10.1177/105971239200100105
+* Bell, Julia and Paul Magrs (eds), 2001, _The Creative Writing Coursebook: Forty Authors Share Advice and Exercises for Fiction and Poetry_, London: Macmillan UK.
+* Berrar, Daniel Peter and Alfons Schuster, 2014, “Computing Machinery and Creativity: Lessons Learned from the Turing Test”, _Kybernetes_, 43(1): 82–91. doi:10.1108/K-08-2013-0175
+* Bink, Martin L. and Richard L. Marsh, 2000, “Cognitive Regularities in Creative Activity”, _Review of General Psychology_, 4(1): 59–78. doi:10.1037/1089-2680.4.1.59
+* Bird, Jon and P. Layzell, 2002, “The Evolved Radio and Its Implications for Modelling the Evolution of Novel Sensors”, in _Proceedings of the 2002 Congress on Evolutionary Computation. CEC’02 (Cat. No.02TH8600)_, Honolulu, HI, USA: IEEE, 2:1836–1841. doi:10.1109/CEC.2002.1004522
+* Bird, Jon and Dustin Stokes, 2006, “Evolving Minimally Creative Robots”, in _Proceedings of the Third Joint Workshop on Computational Creativity, 17th European Conference on Artificial Intelligence_, Simon Colton and Alison Pease (eds), 1–5. \[[Bird and Stokes 2006 available online](http://computationalcreativity.net/home/wp-content/papercite-data/pdf/bird-stokes-2006.pdf)]
+* –––, 2007, “Minimal Creativity, Evaluation and Fractal Pattern Discrimination”, in _Proceedings of the Fourth International Joint Workshop on Computational Creativity_, Amílcar Cardosa and Geraint A. Wiggins (eds), 121–128. \[[Bird and Stokes 2007 available online](http://computationalcreativity.net/ijwcc07/papers/bird-stokes.pdf)]
+* Blair, Cassie S. and Michael D. Mumford, 2007, “Errors in Idea Evaluation: Preference for the Unoriginal?”, _The Journal of Creative Behavior_, 41(3): 197–222. doi:10.1002/j.2162-6057.2007.tb01288.x
+* Boden, Margaret A., 1994, “What Is Creativity?”, in _Dimensions of Creativity_, Margaret A. Boden (ed.), Cambridge, MA: The MIT Press, 75–117. doi:10.7551/mitpress/2437.003.0006
+* –––, 1998, “Creativity and Artificial Intelligence”, _Artificial Intelligence_, 103(1–2): 347–356. doi:10.1016/S0004-3702(98)00055-1
+* –––, 2004, _The Creative Mind: Myths and Mechanisms_, second edition, London/New York: Routledge. doi:10.4324/9780203508527
+* –––, 2010, _Creativity and Art: Three Roads to Surprise_, Oxford/New York: Oxford University Press.
 * –––, 2014, “Creativity and Artificial Intelligence: : A Contradiction in Terms?”, in Paul and Kaufman 2014: 224–244. doi:10.1093/acprof:oso/9780199836963.003.0012
 * –––, 2018, “The Value of Creativity”, in Gaut and Kieran 2018: 173–193.
-* Bowden, Edward M., Mark Jung-Beeman, Jessica Fleck, and John Kounios, 2005, “New Approaches to Demystifying Insight”, *Trends in Cognitive Sciences*, 9(7): 322–328. doi:10.1016/j.tics.2005.05.012
-* Bringsjord, Selmer, 1994, “Lady Lovelace Had It Right: Computers Originate Nothing”, *Behavioral and Brain Sciences*, 17(3): 532–533. doi:10.1017/S0140525X00035718
-* Bringsjord, Selmer, Paul Bello, and David Ferrucci, 2001, “Creativity, the Turing Test, and the (Better) Lovelace Test”, *Minds and Machines*, 11(1): 3–27. doi:10.1023/A:1011206622741
-* Briskman, Larry, 1980, “Creative Product and Creative Process in Science and Art.” *Inquiry: An Interdisciplinary Journal of Philosophy* 23(1): 83–106. doi.org/10.1080/00201748008601892
-* Bruner, Jerome S., 1962, “The Conditions of Creativity”, in *Contemporary Approaches to Creative Thinking*, H. Gruber, G. Terrell, and M. Wertheimer (eds), New York: Atherton, 1–30.
-* Buckner, Randy L. and Lauren M. DiNicola, 2019, “The Brain’s Default Network: Updated Anatomy, Physiology and Evolving Insights”, *Nature Reviews Neuroscience*, 20(10): 593–608. doi:10.1038/s41583-019-0212-7
-* Cacciari, Cristina, Maria Chiara Levorato, and Piercarla Cicogna, 1997, “Imagination at Work: Conceptual and Linguistic Creativity in Children”, in *Creative Thought: An Investigation of Conceptual Structures and Processes.*, Thomas B. Ward, Steven M. Smith, and Jyotsna Vaid (eds.), Washington, DC: American Psychological Association, 145–177. doi:10.1037/10227-007
-* Campbell, Donald T., 1960, “Blind Variation and Selective Retentions in Creative Thought as in Other Knowledge Processes”, *Psychological Review*, 67(6): 380–400. doi:10.1037/h0040373
-* –––, 1965, “Variation and Selective Retention in Socio-Cultural Evolution”, in *Social Change in Developing Areas : A Reinterpretation of Evolutionary Theory*, H.R. Barringer, G.I. Blanksten, and R.W. Mack (eds), Cambridge, MA: Schenkman, 19–49.
-* Carruthers, Peter, 2002, “Human Creativity: Its Cognitive Basis, Its Evolution, and Its Connections with Childhood Pretence”, *The British Journal for the Philosophy of Science*, 53(2): 225–249. doi:10.1093/bjps/53.2.225
-* –––, 2006, *The Architecture of the Mind: Massive Modularity and the Flexibility of Thought*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199207077.001.0001
-* –––, 2011, “Creative Action in Mind”, *Philosophical Psychology*, 24(4): 437–461. doi:10.1080/09515089.2011.556609
-* –––, 2020, “Mechanisms for Constrained Stochasticity”, *Synthese*, 197(10): 4455–4473. doi:10.1007/s11229-018-01933-9
-* Cattell, Raymond B. and Harold John Butcher, 1968, *The Prediction of Achievement and Creativity*, Indianapolis, IN: Bobbs-Merrill.
-* Chen, Melvin, 2020, “Imagination Machines, Dartmouth-Based Turing Tests, & a Potted History of Responses”, *AI and Society*, 35(1): 283–287. doi:10.1007/s00146-018-0855-3
-* Child, William, 2018, “Wittgenstein, Seeing-As, and Novelty”, in *Aspect Perception After Wittgenstein: Seeing-As and Novelty*, Michael Beaney, Dominic Shaw, and Brendan Harrington (eds), New York: Routledge, 29–48.
-* Christoff, Kalina, Zachary C. Irving, Kieran C. R. Fox, R. Nathan Spreng, and Jessica R. Andrews-Hanna, 2016, “Mind-Wandering as Spontaneous Thought: A Dynamic Framework”, *Nature Reviews Neuroscience*, 17(11): 718–731. doi:10.1038/nrn.2016.113
-* Chrysikou, Evangelia G, 2019, “Creativity in and out of (Cognitive) Control”, *Current Opinion in Behavioral Sciences*, 27(June): 94–99. doi:10.1016/j.cobeha.2018.09.014
-* Clark, Andy, 1996, *Being There: Putting Brain, Body, and World Together Again*, Cambridge, MA: MIT Press.
-* –––, 2001, *Mindware*, New York: Oxford University Press.
-* Cliff, Dave, Phil Husbands, and Inman Harvey, 1993, “Explorations in Evolutionary Robotics”, *Adaptive Behavior*, 2(1): 73–110. doi:10.1177/105971239300200104
-* Colton, Simon, 2012, “The Painting Fool: Stories from Building an Automated Painter”, in *Computers and Creativity*, Jon McCormack and Mark d’Inverno (eds.), Berlin, Heidelberg: Springer Berlin Heidelberg, 3–38. doi:10.1007/978-3-642-31727-9_1
-* Cope, David, 1996, *Experiments in Musical Intelligence*, (Computer Music and Digital Audio Series 12), Madison, WI: A-R Editions.
-* –––, 2006, *Computer Models of Musical Creativity*, Cambridge, MA: MIT Press.
-* Crick, Francis, 1995, “The Impact of Linus Pauling on Molecular Biology”, video (with transcript), part of a conference, “The Life and Work of Linus Pauling (1901–1994): A Discourse on the Art of Biography”, 28 February – 2 March 1995, Oregon State University, Special Collections & Archives Research Center, Oregon State University Libraries. [[Crick 1995 available online](https://scarc.library.oregonstate.edu/events/1995paulingconference/video-s1-2-crick.html).
-* Cropley, A. J., 1967, *Creativity* (Education Today), London: Longmans.
-* Cropley, David H., Arthur J. Cropley, James C. Kaufman, and Mark A. Runco (eds.), 2010, *The Dark Side of Creativity*, New York: Cambridge University Press. doi:10.1017/CBO9780511761225
-* Csikszentmihalyi, Mihaly, 1965, “Artistic Problems and Their Solutions: An Exploration of Creativity in the Arts”, PhD thesis, University of Chicago. [[Csikszentmihalyi 1965 available online](https://search.proquest.com/docview/302199290?pq-origsite=primo)]
-* Csikszentmihalyi, Mihaly and J. W. Getzels, 1970, “Concern for Discovery: An Attitudinal Component of Creative Production 1”, *Journal of Personality*, 38(1): 91–105. doi:10.1111/j.1467-6494.1970.tb00639.x
-* Csikszentmihalyi, Mihaly and Keith Sawyer, 1995, “Creative Insight: The Social Dimension of a Solitary Moment”, in *The Nature of Insight*, R. J. Steinberg and J. E. Davidson (eds.), Cambridge, MA: The MIT Press, 329–363. Reprinted in Mihaly Csikszentmihalyi’s *The Systems Model of Creativity: The Collected Works of Mihaly Csikszentmihalyi*, Dordrecht: Springer Netherlands, 2014, 73–98. doi:10.1007/978-94-017-9085-7_7
-* Dailey, Lesley and Michael D. Mumford, 2006, “Evaluative Aspects of Creative Thought: Errors in Appraising the Implications of New Ideas”, *Creativity Research Journal*, 18(3): 385–390. doi:10.1207/s15326934crj1803_11
-* De Quincey, Thomas, 1827, “On Murder Considered as One of the Fine Arts”, *Blackwood’s Magazine*, 21(122/February): 199–213.
-* Dietrich, Arne, 2019, “Where in the Brain Is Creativity: A Brief Account of a Wild-Goose Chase”, *Current Opinion in Behavioral Sciences*, 27(June): 36–39. doi:10.1016/j.cobeha.2018.09.001
-* Dietrich, Arne and Riam Kanso, 2010, “A Review of EEG, ERP, and Neuroimaging Studies of Creativity and Insight”, *Psychological Bulletin*, 136(5): 822–848. doi:10.1037/a0019749
+* Bowden, Edward M., Mark Jung-Beeman, Jessica Fleck, and John Kounios, 2005, “New Approaches to Demystifying Insight”, _Trends in Cognitive Sciences_, 9(7): 322–328. doi:10.1016/j.tics.2005.05.012
+* Bringsjord, Selmer, 1994, “Lady Lovelace Had It Right: Computers Originate Nothing”, _Behavioral and Brain Sciences_, 17(3): 532–533. doi:10.1017/S0140525X00035718
+* Bringsjord, Selmer, Paul Bello, and David Ferrucci, 2001, “Creativity, the Turing Test, and the (Better) Lovelace Test”, _Minds and Machines_, 11(1): 3–27. doi:10.1023/A:1011206622741
+* Briskman, Larry, 1980, “Creative Product and Creative Process in Science and Art.” _Inquiry: An Interdisciplinary Journal of Philosophy_ 23(1): 83–106. doi.org/10.1080/00201748008601892
+* Bruner, Jerome S., 1962, “The Conditions of Creativity”, in _Contemporary Approaches to Creative Thinking_, H. Gruber, G. Terrell, and M. Wertheimer (eds), New York: Atherton, 1–30.
+* Buckner, Randy L. and Lauren M. DiNicola, 2019, “The Brain’s Default Network: Updated Anatomy, Physiology and Evolving Insights”, _Nature Reviews Neuroscience_, 20(10): 593–608. doi:10.1038/s41583-019-0212-7
+* Cacciari, Cristina, Maria Chiara Levorato, and Piercarla Cicogna, 1997, “Imagination at Work: Conceptual and Linguistic Creativity in Children”, in _Creative Thought: An Investigation of Conceptual Structures and Processes._, Thomas B. Ward, Steven M. Smith, and Jyotsna Vaid (eds.), Washington, DC: American Psychological Association, 145–177. doi:10.1037/10227-007
+* Campbell, Donald T., 1960, “Blind Variation and Selective Retentions in Creative Thought as in Other Knowledge Processes”, _Psychological Review_, 67(6): 380–400. doi:10.1037/h0040373
+* –––, 1965, “Variation and Selective Retention in Socio-Cultural Evolution”, in _Social Change in Developing Areas : A Reinterpretation of Evolutionary Theory_, H.R. Barringer, G.I. Blanksten, and R.W. Mack (eds), Cambridge, MA: Schenkman, 19–49.
+* Carruthers, Peter, 2002, “Human Creativity: Its Cognitive Basis, Its Evolution, and Its Connections with Childhood Pretence”, _The British Journal for the Philosophy of Science_, 53(2): 225–249. doi:10.1093/bjps/53.2.225
+* –––, 2006, _The Architecture of the Mind: Massive Modularity and the Flexibility of Thought_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199207077.001.0001
+* –––, 2011, “Creative Action in Mind”, _Philosophical Psychology_, 24(4): 437–461. doi:10.1080/09515089.2011.556609
+* –––, 2020, “Mechanisms for Constrained Stochasticity”, _Synthese_, 197(10): 4455–4473. doi:10.1007/s11229-018-01933-9
+* Cattell, Raymond B. and Harold John Butcher, 1968, _The Prediction of Achievement and Creativity_, Indianapolis, IN: Bobbs-Merrill.
+* Chen, Melvin, 2020, “Imagination Machines, Dartmouth-Based Turing Tests, & a Potted History of Responses”, _AI and Society_, 35(1): 283–287. doi:10.1007/s00146-018-0855-3
+* Child, William, 2018, “Wittgenstein, Seeing-As, and Novelty”, in _Aspect Perception After Wittgenstein: Seeing-As and Novelty_, Michael Beaney, Dominic Shaw, and Brendan Harrington (eds), New York: Routledge, 29–48.
+* Christoff, Kalina, Zachary C. Irving, Kieran C. R. Fox, R. Nathan Spreng, and Jessica R. Andrews-Hanna, 2016, “Mind-Wandering as Spontaneous Thought: A Dynamic Framework”, _Nature Reviews Neuroscience_, 17(11): 718–731. doi:10.1038/nrn.2016.113
+* Chrysikou, Evangelia G, 2019, “Creativity in and out of (Cognitive) Control”, _Current Opinion in Behavioral Sciences_, 27(June): 94–99. doi:10.1016/j.cobeha.2018.09.014
+* Clark, Andy, 1996, _Being There: Putting Brain, Body, and World Together Again_, Cambridge, MA: MIT Press.
+* –––, 2001, _Mindware_, New York: Oxford University Press.
+* Cliff, Dave, Phil Husbands, and Inman Harvey, 1993, “Explorations in Evolutionary Robotics”, _Adaptive Behavior_, 2(1): 73–110. doi:10.1177/105971239300200104
+* Colton, Simon, 2012, “The Painting Fool: Stories from Building an Automated Painter”, in _Computers and Creativity_, Jon McCormack and Mark d’Inverno (eds.), Berlin, Heidelberg: Springer Berlin Heidelberg, 3–38. doi:10.1007/978-3-642-31727-9\_1
+* Cope, David, 1996, _Experiments in Musical Intelligence_, (Computer Music and Digital Audio Series 12), Madison, WI: A-R Editions.
+* –––, 2006, _Computer Models of Musical Creativity_, Cambridge, MA: MIT Press.
+* Crick, Francis, 1995, “The Impact of Linus Pauling on Molecular Biology”, video (with transcript), part of a conference, “The Life and Work of Linus Pauling (1901–1994): A Discourse on the Art of Biography”, 28 February – 2 March 1995, Oregon State University, Special Collections & Archives Research Center, Oregon State University Libraries. \[[Crick 1995 available online](https://scarc.library.oregonstate.edu/events/1995paulingconference/video-s1-2-crick.html).
+* Cropley, A. J., 1967, _Creativity_ (Education Today), London: Longmans.
+* Cropley, David H., Arthur J. Cropley, James C. Kaufman, and Mark A. Runco (eds.), 2010, _The Dark Side of Creativity_, New York: Cambridge University Press. doi:10.1017/CBO9780511761225
+* Csikszentmihalyi, Mihaly, 1965, “Artistic Problems and Their Solutions: An Exploration of Creativity in the Arts”, PhD thesis, University of Chicago. \[[Csikszentmihalyi 1965 available online](https://search.proquest.com/docview/302199290?pq-origsite=primo)]
+* Csikszentmihalyi, Mihaly and J. W. Getzels, 1970, “Concern for Discovery: An Attitudinal Component of Creative Production 1”, _Journal of Personality_, 38(1): 91–105. doi:10.1111/j.1467-6494.1970.tb00639.x
+* Csikszentmihalyi, Mihaly and Keith Sawyer, 1995, “Creative Insight: The Social Dimension of a Solitary Moment”, in _The Nature of Insight_, R. J. Steinberg and J. E. Davidson (eds.), Cambridge, MA: The MIT Press, 329–363. Reprinted in Mihaly Csikszentmihalyi’s _The Systems Model of Creativity: The Collected Works of Mihaly Csikszentmihalyi_, Dordrecht: Springer Netherlands, 2014, 73–98. doi:10.1007/978-94-017-9085-7\_7
+* Dailey, Lesley and Michael D. Mumford, 2006, “Evaluative Aspects of Creative Thought: Errors in Appraising the Implications of New Ideas”, _Creativity Research Journal_, 18(3): 385–390. doi:10.1207/s15326934crj1803\_11
+* De Quincey, Thomas, 1827, “On Murder Considered as One of the Fine Arts”, _Blackwood’s Magazine_, 21(122/February): 199–213.
+* Dietrich, Arne, 2019, “Where in the Brain Is Creativity: A Brief Account of a Wild-Goose Chase”, _Current Opinion in Behavioral Sciences_, 27(June): 36–39. doi:10.1016/j.cobeha.2018.09.001
+* Dietrich, Arne and Riam Kanso, 2010, “A Review of EEG, ERP, and Neuroimaging Studies of Creativity and Insight”, _Psychological Bulletin_, 136(5): 822–848. doi:10.1037/a0019749
 * Dominowski, Roger L., 1995, “Productive Problem Solving”, in Smith, Ward, and Finke 1995: 73–95.
-* Donald, Merlin, 2001, *A Mind so Rare: The Evolution of Human Consciousness*, New York: W.W. Norton.
-* du Sautoy, Marcus, 2019, *The Creativity Code: Art and Innovation in the Age of AI*, Cambridge, MA: Belknap Press.
-* Einstein, Albert, “Kyoto Lecture”, 14 December 1922, from notes in Japanese taken by Jun Ishiwara and published as *Einstein Koen-Roku*, Tokyo: Tokyo-Tosho, 1977.
-* Einstein, Albert and Leopold Infeld, 1938, *The Evolution of Physics: The Growth of Ideas from Early Concepts to Relativity and Quanta*, New York: Simon and Schuster.
-* Eisenberger, Robert and Linda Rhoades, 2001, “Incremental Effects of Reward on Creativity”, *Journal of Personality and Social Psychology*, 81(4): 728–741. doi:10.1037/0022-3514.81.4.728
-* Eisenberg, Jacob and William Forde Thompson, 2003, “A Matter of Taste: Evaluating Improvised Music”, *Creativity Research Journal*, 15(2–3): 287–296. doi:10.1080/10400419.2003.9651421
-* Ericsson, K. Anders, Neil Charness, Paul J. Feltovich, and Robert R. Hoffman (eds.), 2006, *The Cambridge Handbook of Expertise and Expert Performance*, New York/Cambridge: Cambridge University Press. doi:10.1017/CBO9780511816796
-* Ericsson, K. Anders, Ralf T. Krampe, and Clemens Tesch-Römer, 1993, “The Role of Deliberate Practice in the Acquisition of Expert Performance”, *Psychological Review*, 100(3): 363–406. doi:10.1037/0033-295X.100.3.363
-* Essinger, James, 2014, *Ada’s Algorithm: How Lord Byron’s Daughter Ada Lovelace Launched the Digital Age*, Brooklyn: Melville House.
-* Finke, Ronald A., 1990, *Creative Imagery: Discoveries and Inventions in Visualization*, Hillsdale, NJ: L. Erlbaum Associates.
-* –––, 1996, “Imagery, Creativity, and Emergent Structure”, *Consciousness and Cognition*, 5(3): 381–393. doi:10.1006/ccog.1996.0024
-* Finke, Ronald A., Ward, Thomas B., Smith, Steven M., 1992, *Creative Cognition: Theory, Research, and Applications*, Cambridge, MA: MIT Press.
-* Flam, Jack D., 2003, *Matisse and Picasso: The Story of Their Rivalry and Friendship*, Cambridge, MA: Icon Edition/Westview Press.
-* Flavell, John H. and Juris Draguns, 1957, “A Microgenetic Approach to Perception and Thought”, *Psychological Bulletin*, 54(3): 197–217. doi:10.1037/h0041350
-* Gardner, Howard, 1993, *Creating Minds: An Anatomy of Creativity Seen through the Lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham, and Gandhi*, New York: BasicBooks.
+* Donald, Merlin, 2001, _A Mind so Rare: The Evolution of Human Consciousness_, New York: W.W. Norton.
+* du Sautoy, Marcus, 2019, _The Creativity Code: Art and Innovation in the Age of AI_, Cambridge, MA: Belknap Press.
+* Einstein, Albert, “Kyoto Lecture”, 14 December 1922, from notes in Japanese taken by Jun Ishiwara and published as _Einstein Koen-Roku_, Tokyo: Tokyo-Tosho, 1977.
+* Einstein, Albert and Leopold Infeld, 1938, _The Evolution of Physics: The Growth of Ideas from Early Concepts to Relativity and Quanta_, New York: Simon and Schuster.
+* Eisenberger, Robert and Linda Rhoades, 2001, “Incremental Effects of Reward on Creativity”, _Journal of Personality and Social Psychology_, 81(4): 728–741. doi:10.1037/0022-3514.81.4.728
+* Eisenberg, Jacob and William Forde Thompson, 2003, “A Matter of Taste: Evaluating Improvised Music”, _Creativity Research Journal_, 15(2–3): 287–296. doi:10.1080/10400419.2003.9651421
+* Ericsson, K. Anders, Neil Charness, Paul J. Feltovich, and Robert R. Hoffman (eds.), 2006, _The Cambridge Handbook of Expertise and Expert Performance_, New York/Cambridge: Cambridge University Press. doi:10.1017/CBO9780511816796
+* Ericsson, K. Anders, Ralf T. Krampe, and Clemens Tesch-Römer, 1993, “The Role of Deliberate Practice in the Acquisition of Expert Performance”, _Psychological Review_, 100(3): 363–406. doi:10.1037/0033-295X.100.3.363
+* Essinger, James, 2014, _Ada’s Algorithm: How Lord Byron’s Daughter Ada Lovelace Launched the Digital Age_, Brooklyn: Melville House.
+* Finke, Ronald A., 1990, _Creative Imagery: Discoveries and Inventions in Visualization_, Hillsdale, NJ: L. Erlbaum Associates.
+* –––, 1996, “Imagery, Creativity, and Emergent Structure”, _Consciousness and Cognition_, 5(3): 381–393. doi:10.1006/ccog.1996.0024
+* Finke, Ronald A., Ward, Thomas B., Smith, Steven M., 1992, _Creative Cognition: Theory, Research, and Applications_, Cambridge, MA: MIT Press.
+* Flam, Jack D., 2003, _Matisse and Picasso: The Story of Their Rivalry and Friendship_, Cambridge, MA: Icon Edition/Westview Press.
+* Flavell, John H. and Juris Draguns, 1957, “A Microgenetic Approach to Perception and Thought”, _Psychological Bulletin_, 54(3): 197–217. doi:10.1037/h0041350
+* Gardner, Howard, 1993, _Creating Minds: An Anatomy of Creativity Seen through the Lives of Freud, Einstein, Picasso, Stravinsky, Eliot, Graham, and Gandhi_, New York: BasicBooks.
 * Gaut, Berys, 2003, “Creativity and Imagination”, in Gaut and Livingston 2003: 148–173 (ch. 6).
 * –––, 2009, “Creativity and Skill”, in Krausz, Dutton, and Bardsley 2009: 83–104.
-* –––, 2010, “The Philosophy of Creativity”, *Philosophy Compass*, 5(12): 1034–1046. doi:10.1111/j.1747-9991.2010.00351.x
-* –––, 2012, “Creativity and Rationality”, *Journal of Aesthetics and Art Criticism*, 70(3): 259–270. doi: 10.1111/jaac.2012.70.issue-3
+* –––, 2010, “The Philosophy of Creativity”, _Philosophy Compass_, 5(12): 1034–1046. doi:10.1111/j.1747-9991.2010.00351.x
+* –––, 2012, “Creativity and Rationality”, _Journal of Aesthetics and Art Criticism_, 70(3): 259–270. doi: 10.1111/jaac.2012.70.issue-3
 * –––, 2014a, “Educating for Creativity”, in Paul and Kaufman 2014: 265–287. doi:10.1093/acprof:oso/9780199836963.003.0014
-* –––, 2014b, “Mixed Motivations: Creativity as a Virtue”, *Royal Institute of Philosophy Supplement*, 75: 183–202. doi:10.1017/S1358246114000198
+* –––, 2014b, “Mixed Motivations: Creativity as a Virtue”, _Royal Institute of Philosophy Supplement_, 75: 183–202. doi:10.1017/S1358246114000198
 * –––, 2018, “The Value of Creativity”, in Gaut and Kieran 2018: 124–39.
-* Gaut, Berys and Morag Gaut, 2011, *Philosophy for Young Children: A Practical Guide*, London: Routledge. doi:10.4324/9780203818428
-* Gaut, Berys and Matthew Kieran (eds.), 2018, *Creativity and Philosophy*, New York: Routledge. doi:10.4324/9781351199797
-* Gaut, Berys Nigel and Paisley Livingston (eds.), 2003, *The Creation of Art: New Essays in Philosophical Aesthetics*, New York, NY: Cambridge University Press.
-* Gaut, Morag, 2010, “Can Children Engage in Philosophical Enquiry?” in *Exploring Interdisciplinary Trends in Creativity and Engagement*, Barbara McKenzie and Phil Fitzsimmons (eds), Oxford, U.K.: Oxford Inter-Disciplinary Press, 195–203.
-* Gervás, Pablo, Rafael Pérez y Pérez, and Tony Veale, 2010, *Computational Creativity*, special issue of *Minds and Machines*, 20(4).
-* Getzels, Jacob W., 1965, “Creative Thinking, Problem Solving, and Instruction”, in *Theories of Learning and Instruction. Sixty-Third Year Book of the National Society for the Study of Education*, E.R. Hilgard (ed.), Chicago, IL: University of Chicago Press, 240–67.
-* Getzels, Jacob W. and Mihaly Csikszentmihalyi, 1975, “From Problem Solving to Problem Finding”, in *Perspectives in Creativity*, Irving A. Taylor and Jacob W. Getzels (eds.), Chicago: Aldine, chap. 4.
-* Glaveanu, Vlad Petre, 2014, “The Psychology of Creativity: A Critical Reading”, *Creativity. Theories—Research—Applications*, 1(1): 10–32.
-* Grant, James, 2012, “The Value of Imaginativeness”, *Australasian Journal of Philosophy*, 90(2): 275–289. doi:10.1080/00048402.2011.574143
-* Guilford, J. P., 1950, “Creativity”, *American Psychologist*, 5(9): 444–454. doi:10.1037/h0063487
+* Gaut, Berys and Morag Gaut, 2011, _Philosophy for Young Children: A Practical Guide_, London: Routledge. doi:10.4324/9780203818428
+* Gaut, Berys and Matthew Kieran (eds.), 2018, _Creativity and Philosophy_, New York: Routledge. doi:10.4324/9781351199797
+* Gaut, Berys Nigel and Paisley Livingston (eds.), 2003, _The Creation of Art: New Essays in Philosophical Aesthetics_, New York, NY: Cambridge University Press.
+* Gaut, Morag, 2010, “Can Children Engage in Philosophical Enquiry?” in _Exploring Interdisciplinary Trends in Creativity and Engagement_, Barbara McKenzie and Phil Fitzsimmons (eds), Oxford, U.K.: Oxford Inter-Disciplinary Press, 195–203.
+* Gervás, Pablo, Rafael Pérez y Pérez, and Tony Veale, 2010, _Computational Creativity_, special issue of _Minds and Machines_, 20(4).
+* Getzels, Jacob W., 1965, “Creative Thinking, Problem Solving, and Instruction”, in _Theories of Learning and Instruction. Sixty-Third Year Book of the National Society for the Study of Education_, E.R. Hilgard (ed.), Chicago, IL: University of Chicago Press, 240–67.
+* Getzels, Jacob W. and Mihaly Csikszentmihalyi, 1975, “From Problem Solving to Problem Finding”, in _Perspectives in Creativity_, Irving A. Taylor and Jacob W. Getzels (eds.), Chicago: Aldine, chap. 4.
+* Glaveanu, Vlad Petre, 2014, “The Psychology of Creativity: A Critical Reading”, _Creativity. Theories—Research—Applications_, 1(1): 10–32.
+* Grant, James, 2012, “The Value of Imaginativeness”, _Australasian Journal of Philosophy_, 90(2): 275–289. doi:10.1080/00048402.2011.574143
+* Guilford, J. P., 1950, “Creativity”, _American Psychologist_, 5(9): 444–454. doi:10.1037/h0063487
 * Guyer, Paul, 2003, “Exemplary Originality: Genius, Universality, and Individuality”, in Gaut and Livingston 2003: 116–137.
 * Hájek, Alan, 2014, “Philosophical Heuristics and Philosophical Creativity”, in Paul and Kaufman 2014: 288–318. doi:10.1093/acprof:oso/9780199836963.003.0015
-* –––, 2016, “Philosophical Heuristics and Philosophical Methodology”, in *The Oxford Handbook of Philosophical Methodology*, Herman Cappelen, Tamar Szabó Gendler, and John Hawthorne (eds), Oxford: Oxford University Press, ch. 19.
-* –––, 2017, “The Philosophy Toolkit”, *AEON*, 3 April 2017. [[Hájek 2017 available online](https://aeon.co/essays/with-the-use-of-heuristics-anybody-can-think-like-a-philosopher)]
+* –––, 2016, “Philosophical Heuristics and Philosophical Methodology”, in _The Oxford Handbook of Philosophical Methodology_, Herman Cappelen, Tamar Szabó Gendler, and John Hawthorne (eds), Oxford: Oxford University Press, ch. 19.
+* –––, 2017, “The Philosophy Toolkit”, _AEON_, 3 April 2017. \[[Hájek 2017 available online](https://aeon.co/essays/with-the-use-of-heuristics-anybody-can-think-like-a-philosopher)]
 * –––, 2018, “Creating Heuristics for Philosophical Creativity”, in Gaut and Kieran 2018: 292–312.
-* Halina, Marta, 2021, “Insightful Artificial Intelligence”, *Mind & Language*, 36(2): 315–329. doi:10.1111/mila.12321
-* Harris, Paul L., 2000, *The Work of the Imagination*, (Understanding Children’s Worlds), Oxford/Malden, MA: Blackwell Publishers.
-* Haugeland, John (ed.), 1981 [1997], *Mind Design*, Cambridge, MA: MIT Press. Second and enlarged edition as *Mind Design II: Philosophy, Psychology, and Artificial Intelligence*, Cambridge, MA: A Bradford Book. First edition, 1997. doi:10.7551/mitpress/4626.001.0001
-* Hausman, Carl R., 1975 [1984], *A Discourse on Novelty and Creation*, The Hague: Martinus Nijhoff. New edition Albany, NY: SUNY Press, 1984.
-* –––, 1979, “Criteria of Creativity”, *Philosophy and Phenomenological Research*, 40(2): 237–249. doi:10.2307/2106319
+* Halina, Marta, 2021, “Insightful Artificial Intelligence”, _Mind & Language_, 36(2): 315–329. doi:10.1111/mila.12321
+* Harris, Paul L., 2000, _The Work of the Imagination_, (Understanding Children’s Worlds), Oxford/Malden, MA: Blackwell Publishers.
+* Haugeland, John (ed.), 1981 \[1997], _Mind Design_, Cambridge, MA: MIT Press. Second and enlarged edition as _Mind Design II: Philosophy, Psychology, and Artificial Intelligence_, Cambridge, MA: A Bradford Book. First edition, 1997. doi:10.7551/mitpress/4626.001.0001
+* Hausman, Carl R., 1975 \[1984], _A Discourse on Novelty and Creation_, The Hague: Martinus Nijhoff. New edition Albany, NY: SUNY Press, 1984.
+* –––, 1979, “Criteria of Creativity”, _Philosophy and Phenomenological Research_, 40(2): 237–249. doi:10.2307/2106319
 * –––, 1984, “Second Preface”, in the 1984 edition of Hausman 1975.
-* –––, 1985, “Originality as a Criterion of Creativity”, in *Creativity in Art, Religion, and Culture*, Michael H. Mitias (ed.), Amsterdam: Rodopoi, 26–41.
-* Hebb, D. O., 1949 [2002], *The Organization of Behavior: A Neuropsychological Theory*, New York: Wiley, Reprinted Mahwah, NJ: L. Erlbaum Associates, 2002.
-* Heilman, Kenneth M., 2016, “Possible Brain Mechanisms of Creativity”, *Archives of Clinical Neuropsychology*, 31(4): 285–296. doi:10.1093/arclin/acw009
-* Heinelt, Gottfried, 1974, *Kreative Lehrer = Kreative Schüler*, Freiburg: Herder.
-* Hennessey, Beth A. and Teresa M. Amabile, 2010, “Creativity”, *Annual Review of Psychology*, 61(1): 569–598. doi:10.1146/annurev.psych.093008.100416
-* Hills, Alison, 2018, “Moral and Aesthetic Virtue”, *Proceedings of the Aristotelian Society*, 118(3): 255–274. doi:10.1093/arisoc/aoy015
+* –––, 1985, “Originality as a Criterion of Creativity”, in _Creativity in Art, Religion, and Culture_, Michael H. Mitias (ed.), Amsterdam: Rodopoi, 26–41.
+* Hebb, D. O., 1949 \[2002], _The Organization of Behavior: A Neuropsychological Theory_, New York: Wiley, Reprinted Mahwah, NJ: L. Erlbaum Associates, 2002.
+* Heilman, Kenneth M., 2016, “Possible Brain Mechanisms of Creativity”, _Archives of Clinical Neuropsychology_, 31(4): 285–296. doi:10.1093/arclin/acw009
+* Heinelt, Gottfried, 1974, _Kreative Lehrer = Kreative Schüler_, Freiburg: Herder.
+* Hennessey, Beth A. and Teresa M. Amabile, 2010, “Creativity”, _Annual Review of Psychology_, 61(1): 569–598. doi:10.1146/annurev.psych.093008.100416
+* Hills, Alison, 2018, “Moral and Aesthetic Virtue”, _Proceedings of the Aristotelian Society_, 118(3): 255–274. doi:10.1093/arisoc/aoy015
 * Hills, Alison and Alexander Bird, 2018, “Creativity Without Value”, in Gaut and Kieran 2018: 95–107.
-* Hofstadter, Douglas, 2001, “Staring EMI Straight in the Eye—and Doing My Best Not to Flinch”, in *Virtual Music: Computer Synthesis of Musical Style*, David Cope (ed.), Cambridge, MA: MIT Press, 33–82.
-* Horng, Jeou-Shyan and Lin Lin, 2009, “The Development of a Scale for Evaluating Creative Culinary Products”, *Creativity Research Journal*, 21(1): 54–63. doi:10.1080/10400410802633491
-* Hospers, John, 1985, “Artistic Creativity”, *The Journal of Aesthetics and Art Criticism*, 43(3): 243–255. doi:10.2307/430638
-* Howell, Patrick A., 2020, *Dispatches from the Vanguard: The Global International African Arts Movement versus Donald J. Trump*, London: Repeater Books.
-* Irving, Zachary and Evan Thompson, 2018, “The Philosophy of Mind-Wandering”, in *Oxford Handbook of Spontaneous Thought: Mind-Wandering, Creativity, and Dreaming*, Christoff Kalina and Fox Kieran, Oxford University Press, ch. 8.
-* Jackson, Philip W. and Samuel Messick, 1965, “The Person, the Product, and the Response: Conceptual Problems in the Assessment of Creativity1”, *Journal of Personality*, 33(3): 309–329. doi:10.1111/j.1467-6494.1965.tb01389.x
-* John-Steiner, Vera, 1985, *Notebooks of the Mind: Explorations of Thinking*. 1st ed. Albuquerque: University of New Mexico Press.
-* Jung, Rex Eugene, Brittany S. Mead, Jessica Carrasco, and Ranee A. Flores, 2013, “The Structure of Creative Cognition in the Human Brain”, *Frontiers in Human Neuroscience*, 7. doi:10.3389/fnhum.2013.00330
-* Jung-Beeman, Mark, Edward M Bowden, Jason Haberman, Jennifer L Frymiare, Stella Arambel-Liu, Richard Greenblatt, Paul J Reber, and John Kounios, 2004, “Neural Activity When People Solve Verbal Problems with Insight”, *PLoS Biology*, 2(4): e97. doi:10.1371/journal.pbio.0020097
-* Kami, Avi, Gundela Meyer, Peter Jezzard, Michelle M. Adams, Robert Turner, and Leslie G. Ungerleider, 1995, “Functional MRI Evidence for Adult Motor Cortex Plasticity during Motor Skill Learning”, *Nature*, 377(6545): 155–158. doi:10.1038/377155a0
-* Kant, Immanuel, 1790 [2000], *Kritik der Urteilskraft*, Berlin und Libau : Lagarde und Friedrich. Translated as *Critique of the Power of Judgment*, Paul Guyer (ed.), Eric Matthews (trans.), Cambridge: Cambridge University Press, 2000. Citations include the section of the *Critique*, the volume and page number of the *Akademie* edition, and page number of this translation. doi:10.1017/CBO9780511804656
-* Karmiloff-Smith, Annette, 1990, “Constraints on Representational Change: Evidence from Children’s Drawing”, *Cognition*, 34(1): 57–83. doi:10.1016/0010-0277(90)90031-E
-* –––, 1992, *Beyond Modularity: A Developmental Perspective on Cognitive Science*, (Learning, Development, and Conceptual Change), Cambridge, MA: MIT Press.
-* Kasparov, Garry K. and Mig Greengard, 2017, *Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins*, New York: PublicAffairs, an imprint of Perseus Books.
-* Kaufman, James C., 2009, *Creativity 101*, (The Psych 101 Series), New York: Springer Publishing.
-* Kaufman, Scott Barry (ed.), 2013, *The Complexity of Greatness: Beyond Talent or Practice*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199794003.001.0001
-* Kaufman, Scott Barry and Carolyn Gregoire, 2016, *Wired to Create: Discover the 10 Things Great Artists, Writers and Innovators Do Differently*, Perigee/Penguin.
-* Kaufman, Scott Barry and James C. Kaufman (eds.), 2009, *The Psychology of Creative Writing*, Cambridge/New York: Cambridge University Press. doi:10.1093/acprof:oso/9780199836963.003.0007
+* Hofstadter, Douglas, 2001, “Staring EMI Straight in the Eye—and Doing My Best Not to Flinch”, in _Virtual Music: Computer Synthesis of Musical Style_, David Cope (ed.), Cambridge, MA: MIT Press, 33–82.
+* Horng, Jeou-Shyan and Lin Lin, 2009, “The Development of a Scale for Evaluating Creative Culinary Products”, _Creativity Research Journal_, 21(1): 54–63. doi:10.1080/10400410802633491
+* Hospers, John, 1985, “Artistic Creativity”, _The Journal of Aesthetics and Art Criticism_, 43(3): 243–255. doi:10.2307/430638
+* Howell, Patrick A., 2020, _Dispatches from the Vanguard: The Global International African Arts Movement versus Donald J. Trump_, London: Repeater Books.
+* Irving, Zachary and Evan Thompson, 2018, “The Philosophy of Mind-Wandering”, in _Oxford Handbook of Spontaneous Thought: Mind-Wandering, Creativity, and Dreaming_, Christoff Kalina and Fox Kieran, Oxford University Press, ch. 8.
+* Jackson, Philip W. and Samuel Messick, 1965, “The Person, the Product, and the Response: Conceptual Problems in the Assessment of Creativity1”, _Journal of Personality_, 33(3): 309–329. doi:10.1111/j.1467-6494.1965.tb01389.x
+* John-Steiner, Vera, 1985, _Notebooks of the Mind: Explorations of Thinking_. 1st ed. Albuquerque: University of New Mexico Press.
+* Jung, Rex Eugene, Brittany S. Mead, Jessica Carrasco, and Ranee A. Flores, 2013, “The Structure of Creative Cognition in the Human Brain”, _Frontiers in Human Neuroscience_, 7. doi:10.3389/fnhum.2013.00330
+* Jung-Beeman, Mark, Edward M Bowden, Jason Haberman, Jennifer L Frymiare, Stella Arambel-Liu, Richard Greenblatt, Paul J Reber, and John Kounios, 2004, “Neural Activity When People Solve Verbal Problems with Insight”, _PLoS Biology_, 2(4): e97. doi:10.1371/journal.pbio.0020097
+* Kami, Avi, Gundela Meyer, Peter Jezzard, Michelle M. Adams, Robert Turner, and Leslie G. Ungerleider, 1995, “Functional MRI Evidence for Adult Motor Cortex Plasticity during Motor Skill Learning”, _Nature_, 377(6545): 155–158. doi:10.1038/377155a0
+* Kant, Immanuel, 1790 \[2000], _Kritik der Urteilskraft_, Berlin und Libau : Lagarde und Friedrich. Translated as _Critique of the Power of Judgment_, Paul Guyer (ed.), Eric Matthews (trans.), Cambridge: Cambridge University Press, 2000. Citations include the section of the _Critique_, the volume and page number of the _Akademie_ edition, and page number of this translation. doi:10.1017/CBO9780511804656
+* Karmiloff-Smith, Annette, 1990, “Constraints on Representational Change: Evidence from Children’s Drawing”, _Cognition_, 34(1): 57–83. doi:10.1016/0010-0277(90)90031-E
+* –––, 1992, _Beyond Modularity: A Developmental Perspective on Cognitive Science_, (Learning, Development, and Conceptual Change), Cambridge, MA: MIT Press.
+* Kasparov, Garry K. and Mig Greengard, 2017, _Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins_, New York: PublicAffairs, an imprint of Perseus Books.
+* Kaufman, James C., 2009, _Creativity 101_, (The Psych 101 Series), New York: Springer Publishing.
+* Kaufman, Scott Barry (ed.), 2013, _The Complexity of Greatness: Beyond Talent or Practice_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199794003.001.0001
+* Kaufman, Scott Barry and Carolyn Gregoire, 2016, _Wired to Create: Discover the 10 Things Great Artists, Writers and Innovators Do Differently_, Perigee/Penguin.
+* Kaufman, Scott Barry and James C. Kaufman (eds.), 2009, _The Psychology of Creative Writing_, Cambridge/New York: Cambridge University Press. doi:10.1093/acprof:oso/9780199836963.003.0007
 * Kieran, Matthew, 2014a, “Creativity as a Virtue of Character”, in Paul and Kaufman 2014: 125–144. doi:10.1093/acprof:oso/9780199836963.003.0007
-* –––, 2014b, “Creativity, Virtue and the Challenges from Natural Talent, Ill-Being and Immorality”, *Royal Institute of Philosophy Supplement*, 75: 203–230. doi:10.1017/S1358246114000241
+* –––, 2014b, “Creativity, Virtue and the Challenges from Natural Talent, Ill-Being and Immorality”, _Royal Institute of Philosophy Supplement_, 75: 203–230. doi:10.1017/S1358246114000241
 * –––, 2018, “Creativity, Vanity and Narcissism” in Gaut and Kieran 2018: 74–92.
-* Kivy, Peter, 2001, *The Possessor and the Possessed: Handel, Mozart, Beethoven, and the Idea of Musical Genius*, (Yale Series in the Philosophy and Theory of Art), New Haven, CT: Yale University Press.
-* Klausen, Søren Harnow, 2010, “The Notion of Creativity Revisited: A Philosophical Perspective on Creativity Research” *Creativity Research Journal*, 22(4):347–360. doi:10.1080/10400419.2010.523390
-* Kneller, George F., 1965, *The Art and Science of Creativity*, New York: Holt, Rinehart and Winston.
-* Koestler, Arthur, 1964, *The Act of Creation*, New York: Macmillan.
-* Kounios, John and Mark Beeman, 2014, “The Cognitive Neuroscience of Insight”, *Annual Review of Psychology*, 65(1): 71–93. doi:10.1146/annurev-psych-010213-115154
-* Koza, John R., 1992, *Genetic Programming: On the Programming of Computers by Means of Natural Selection*, (Complex Adaptive Systems), Cambridge, MA: MIT Press.
-* Krausz, Michael, Denis Dutton, and Karen Bardsley (eds.), 2009, *The Idea of Creativity*, Leiden/Boston: Brill. doi:10.1163/ej.9789004174443.i-348
-* Kronfeldner, Maria E., 2009, “Creativity Naturalized”, *The Philosophical Quarterly*, 59(237): 577–592. doi:10.1111/j.1467-9213.2009.637.x
-* –––, 2010, “Darwinian ‘Blind’ Hypothesis Formation Revisited”, *Synthese*, 175(2): 193–218. doi:10.1007/s11229-009-9498-8
-* –––, 2011, *Darwinian Creativity and Memetics*, (Acumen Research Editions), Durham, UK: Acumen Publishing.
+* Kivy, Peter, 2001, _The Possessor and the Possessed: Handel, Mozart, Beethoven, and the Idea of Musical Genius_, (Yale Series in the Philosophy and Theory of Art), New Haven, CT: Yale University Press.
+* Klausen, Søren Harnow, 2010, “The Notion of Creativity Revisited: A Philosophical Perspective on Creativity Research” _Creativity Research Journal_, 22(4):347–360. doi:10.1080/10400419.2010.523390
+* Kneller, George F., 1965, _The Art and Science of Creativity_, New York: Holt, Rinehart and Winston.
+* Koestler, Arthur, 1964, _The Act of Creation_, New York: Macmillan.
+* Kounios, John and Mark Beeman, 2014, “The Cognitive Neuroscience of Insight”, _Annual Review of Psychology_, 65(1): 71–93. doi:10.1146/annurev-psych-010213-115154
+* Koza, John R., 1992, _Genetic Programming: On the Programming of Computers by Means of Natural Selection_, (Complex Adaptive Systems), Cambridge, MA: MIT Press.
+* Krausz, Michael, Denis Dutton, and Karen Bardsley (eds.), 2009, _The Idea of Creativity_, Leiden/Boston: Brill. doi:10.1163/ej.9789004174443.i-348
+* Kronfeldner, Maria E., 2009, “Creativity Naturalized”, _The Philosophical Quarterly_, 59(237): 577–592. doi:10.1111/j.1467-9213.2009.637.x
+* –––, 2010, “Darwinian ‘Blind’ Hypothesis Formation Revisited”, _Synthese_, 175(2): 193–218. doi:10.1007/s11229-009-9498-8
+* –––, 2011, _Darwinian Creativity and Memetics_, (Acumen Research Editions), Durham, UK: Acumen Publishing.
 * –––, 2018, “Explaining Creativity”, in Gaut and Kieran 2018: 213–229.
-* Laukkonen, Ruben E. and Jason M. Tangen, 2018, “How to Detect Insight Moments in Problem Solving Experiments”, *Frontiers in Psychology*, 9(March): article 282. doi:10.3389/fpsyg.2018.00282
-* Lehman, Joel, Jeff Clune, Dusan Misevic, Christoph Adami, Lee Altenberg, Julie Beaulieu, Peter J. Bentley, Samuel Bernard, Guillaume Beslon, David M. Bryson, et al., 2020, “The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities”, *Artificial Life*, 26(2): 274–306. doi:10.1162/artl_a_00319
-* Lepper, Mark R., David Greene, and Richard E. Nisbett, 1973, “Undermining Children’s Intrinsic Interest with Extrinsic Reward: A Test of the ‘Overjustification’ Hypothesis”, *Journal of Personality and Social Psychology*, 28(1): 129–137. doi:10.1037/h0035519
-* Limb, Charles J. and Allen R. Braun, 2008, “Neural Substrates of Spontaneous Musical Performance: An FMRI Study of Jazz Improvisation”, *PLoS ONE*, 3(2): e1679. doi:10.1371/journal.pone.0001679
+* Laukkonen, Ruben E. and Jason M. Tangen, 2018, “How to Detect Insight Moments in Problem Solving Experiments”, _Frontiers in Psychology_, 9(March): article 282. doi:10.3389/fpsyg.2018.00282
+* Lehman, Joel, Jeff Clune, Dusan Misevic, Christoph Adami, Lee Altenberg, Julie Beaulieu, Peter J. Bentley, Samuel Bernard, Guillaume Beslon, David M. Bryson, et al., 2020, “The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities”, _Artificial Life_, 26(2): 274–306. doi:10.1162/artl\_a\_00319
+* Lepper, Mark R., David Greene, and Richard E. Nisbett, 1973, “Undermining Children’s Intrinsic Interest with Extrinsic Reward: A Test of the ‘Overjustification’ Hypothesis”, _Journal of Personality and Social Psychology_, 28(1): 129–137. doi:10.1037/h0035519
+* Limb, Charles J. and Allen R. Braun, 2008, “Neural Substrates of Spontaneous Musical Performance: An FMRI Study of Jazz Improvisation”, _PLoS ONE_, 3(2): e1679. doi:10.1371/journal.pone.0001679
 * Livingston, Paisley, 2018, “Explicating ‘Creativity’”, in Gaut and Kieran 2018: 108–123.
-* Lopes, Dominic McIver, 2008, “Virtues of Art: Good Taste”, *Aristotelian Society Supplementary Volume*, 82(1): 197–211. doi:10.1111/j.1467-8349.2008.00169.x
-* Lovelace, Ada Augusta, 1843, “Translation of, and Notes to, Luigi F. Menabrea’s Sketch of the Analytical Engine Invented by Charles Babbage”, in *Scientific Memoirs, Volume 3*, Richard Taylor (ed.), London: Richard and John E. Taylor, 691–731.
-* Luo, Jing and Kazuhisa Niki, 2003, “Function of Hippocampus in ‘Insight’ of Problem Solving”, *Hippocampus*, 13(3): 316–323. doi:10.1002/hipo.10069
-* Mai, Xiao-Qin, Jing Luo, Jian-Hui Wu, and Yue-Jia Luo, 2004, “‘Aha!’ Effects in a Guessing Riddle Task: An Event-Related Potential Study”, *Human Brain Mapping*, 22(4): 261–270. doi:10.1002/hbm.20030
-* Martindale, Colin, 1977, “Creativity, Consciousness, and Cortical Arousal”, *Journal of Altered States of Consciousness*, 3(1): 69–87.
-* –––, 1981, *Cognition and Consciousness*, (Dorsey Series in Psychology), Homewood, IL: Dorsey Press.
+* Lopes, Dominic McIver, 2008, “Virtues of Art: Good Taste”, _Aristotelian Society Supplementary Volume_, 82(1): 197–211. doi:10.1111/j.1467-8349.2008.00169.x
+* Lovelace, Ada Augusta, 1843, “Translation of, and Notes to, Luigi F. Menabrea’s Sketch of the Analytical Engine Invented by Charles Babbage”, in _Scientific Memoirs, Volume 3_, Richard Taylor (ed.), London: Richard and John E. Taylor, 691–731.
+* Luo, Jing and Kazuhisa Niki, 2003, “Function of Hippocampus in ‘Insight’ of Problem Solving”, _Hippocampus_, 13(3): 316–323. doi:10.1002/hipo.10069
+* Mai, Xiao-Qin, Jing Luo, Jian-Hui Wu, and Yue-Jia Luo, 2004, “‘Aha!’ Effects in a Guessing Riddle Task: An Event-Related Potential Study”, _Human Brain Mapping_, 22(4): 261–270. doi:10.1002/hbm.20030
+* Martindale, Colin, 1977, “Creativity, Consciousness, and Cortical Arousal”, _Journal of Altered States of Consciousness_, 3(1): 69–87.
+* –––, 1981, _Cognition and Consciousness_, (Dorsey Series in Psychology), Homewood, IL: Dorsey Press.
 * –––, 1995, “Creativity and Connectionism”, in Smith, Ward, and Finke 1995 :249–68.
 * –––, 1999, “Biological Bases of Creativity”, in Sternberg 1999: 137–152. doi:10.1017/CBO9780511807916.009
-* Martindale, Colin and James Armstrong, 1974, “The Relationship of Creativity to Cortical Activation and Its Operant Control”, *The Journal of Genetic Psychology*, 124(2): 311–320. doi:10.1080/00221325.1974.10532293
-* Martindale, Colin and Dwight Hines, 1975, “Creativity and Cortical Activation during Creative, Intellectual and Eeg Feedback Tasks”, *Biological Psychology*, 3(2): 91–100. doi:10.1016/0301-0511(75)90011-3
-* Maybury, Barry, 1967, *Creative Writing for Juniors*, London: B. T. Batsford.
-* Mayer, Richard E., 1989, “Systematic Thinking Fostered by Illustrations in Scientific Text”, *Journal of Educational Psychology*, 81(2): 240–246. doi:10.1037/0022-0663.81.2.240
-* Mayseless, Naama, Ayelet Eran, and Simone G. Shamay-Tsoory, 2015, “Generating Original Ideas: The Neural Underpinning of Originality”, *NeuroImage*, 116(August): 232–239. doi:10.1016/j.neuroimage.2015.05.030
-* McMahon, Darrin M., 2013, *Divine Fury: A History of Genius*, New York: Basic Books.
-* Mekern, Vera, Bernhard Hommel, and Zsuzsika Sjoerds, 2019, “Computational Models of Creativity: A Review of Single-Process and Multi-Process Recent Approaches to Demystify Creative Cognition”, *Current Opinion in Behavioral Sciences*, 27(June): 47–54. doi:10.1016/j.cobeha.2018.09.008
-* Metcalfe, Janet and David Wiebe, 1987, “Intuition in Insight and Noninsight Problem Solving”, *Memory & Cognition*, 15(3): 238–246. doi:10.3758/BF03197722
-* Miller, Arthur I., 2019, *The artist in the machine: The world of AI-powered creativity*, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/11585.001.0001
-* Mithen, Steven J., 1996, *The Prehistory of the Mind: The Cognitive Origins of Art, Religion and Science*, New York: Thames and Hudson.
-* –––, 1998, “A Creative Explosion? Theory of Mind, Language, and the Disembodied Mind of the Upper Paleolithic”, in *Creativity in Human Evolution and Prehistory*, Steven Mithen (ed.) , London: Routledge, 97–106.
-* Morrison, Robert G. and Benjamin Wallace, 2001, “Imagery Vividness, Creativity and the Visual Arts”, *Journal of Mental Imagery*, 25(3–4): 135–152.
-* Morrison, Toni, 1993, “The of of Fiction No. 134”, interview by Elissa Schappell and Calaudia Brodsky Lacour, *The Paris Review*, 128(Fall 1993). [[Morrison 1993 available online](https://www.theparisreview.org/interviews/1888/the-art-of-fiction-no-134-toni-morrison)]
-* Mumford, Michael D., 2003, “Where Have We Been, Where Are We Going? Taking Stock in Creativity Research”, *Creativity Research Journal*, 15(2–3): 107–120. doi:10.1080/10400419.2003.9651403
-* Murray, Penelope, 1989, *Genius: The History of an Idea*, Oxford/New York: B. Blackwell.
-* Murray, Samuel, Nathan Liang, Nicholaus Brosowsky, and Paul Seli, forthcoming, “What Are the Benefits of Mind Wandering to Creativity?”, *Psychology of Aesthetics, Creativity, and the Arts*, early online: September 2021. doi:10.1037/aca0000420
-* Nahm, Milton Charles, 1956, *Genius and Creativity: An Essay in the History of Ideas*, New York: Harper Torchbooks.
+* Martindale, Colin and James Armstrong, 1974, “The Relationship of Creativity to Cortical Activation and Its Operant Control”, _The Journal of Genetic Psychology_, 124(2): 311–320. doi:10.1080/00221325.1974.10532293
+* Martindale, Colin and Dwight Hines, 1975, “Creativity and Cortical Activation during Creative, Intellectual and Eeg Feedback Tasks”, _Biological Psychology_, 3(2): 91–100. doi:10.1016/0301-0511(75)90011-3
+* Maybury, Barry, 1967, _Creative Writing for Juniors_, London: B. T. Batsford.
+* Mayer, Richard E., 1989, “Systematic Thinking Fostered by Illustrations in Scientific Text”, _Journal of Educational Psychology_, 81(2): 240–246. doi:10.1037/0022-0663.81.2.240
+* Mayseless, Naama, Ayelet Eran, and Simone G. Shamay-Tsoory, 2015, “Generating Original Ideas: The Neural Underpinning of Originality”, _NeuroImage_, 116(August): 232–239. doi:10.1016/j.neuroimage.2015.05.030
+* McMahon, Darrin M., 2013, _Divine Fury: A History of Genius_, New York: Basic Books.
+* Mekern, Vera, Bernhard Hommel, and Zsuzsika Sjoerds, 2019, “Computational Models of Creativity: A Review of Single-Process and Multi-Process Recent Approaches to Demystify Creative Cognition”, _Current Opinion in Behavioral Sciences_, 27(June): 47–54. doi:10.1016/j.cobeha.2018.09.008
+* Metcalfe, Janet and David Wiebe, 1987, “Intuition in Insight and Noninsight Problem Solving”, _Memory & Cognition_, 15(3): 238–246. doi:10.3758/BF03197722
+* Miller, Arthur I., 2019, _The artist in the machine: The world of AI-powered creativity_, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/11585.001.0001
+* Mithen, Steven J., 1996, _The Prehistory of the Mind: The Cognitive Origins of Art, Religion and Science_, New York: Thames and Hudson.
+* –––, 1998, “A Creative Explosion? Theory of Mind, Language, and the Disembodied Mind of the Upper Paleolithic”, in _Creativity in Human Evolution and Prehistory_, Steven Mithen (ed.) , London: Routledge, 97–106.
+* Morrison, Robert G. and Benjamin Wallace, 2001, “Imagery Vividness, Creativity and the Visual Arts”, _Journal of Mental Imagery_, 25(3–4): 135–152.
+* Morrison, Toni, 1993, “The of of Fiction No. 134”, interview by Elissa Schappell and Calaudia Brodsky Lacour, _The Paris Review_, 128(Fall 1993). \[[Morrison 1993 available online](https://www.theparisreview.org/interviews/1888/the-art-of-fiction-no-134-toni-morrison)]
+* Mumford, Michael D., 2003, “Where Have We Been, Where Are We Going? Taking Stock in Creativity Research”, _Creativity Research Journal_, 15(2–3): 107–120. doi:10.1080/10400419.2003.9651403
+* Murray, Penelope, 1989, _Genius: The History of an Idea_, Oxford/New York: B. Blackwell.
+* Murray, Samuel, Nathan Liang, Nicholaus Brosowsky, and Paul Seli, forthcoming, “What Are the Benefits of Mind Wandering to Creativity?”, _Psychology of Aesthetics, Creativity, and the Arts_, early online: September 2021. doi:10.1037/aca0000420
+* Nahm, Milton Charles, 1956, _Genius and Creativity: An Essay in the History of Ideas_, New York: Harper Torchbooks.
 * Nanay, Bence, 2014, “An Experiential Account of Creativity”, in Paul and Kaufman 2014: 17–36. doi:10.1093/acprof:oso/9780199836963.003.0002
-* Newell, Allen, J. C. Shaw, and Herbert A. Simon, 1962, “The Processes of Creative Thinking”, in *Contemporary Approaches to Creative Thinking: A Symposium Held at the University of Colorado.*, Howard E. Gruber, Glenn Terrell, and Michael Wertheimer (eds.), New York: Atherton Press, 63–119. doi:10.1037/13117-003
-* Nickles, Thomas, 2003, “Evolutionary Models of Innovation and the Meno Problem”, in L. V. Shavinina (ed.), *The International* *Handbook on Innovation,* 54–78. New York, NY: Elsevier Science.
-* Nietzsche, Friedrich, 1872 [1967], *The Birth of Tragedy out of the Spirit of Music*, Walter Kaufmann (trans.), New York: Vintage.
-* Nolfi, Stefano and Dario Floreano, 2000, *Evolutionary Robotics: The Biology, Intelligence, and Technology of Self-Organizing Machines*, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/2889.001.0001
-* Novitz, David, 1999, “Creativity and Constraint”, *Australasian Journal of Philosophy*, 77(1): 67–82. doi:10.1080/00048409912348811
-* Pais, Abraham, 1982, *Subtle Is the Lord: The Science and the Life of Albert Einstein*, Oxford/New York: Oxford University Press.
-* Palmiero, Massimiliano, Raffaella Nori, Vincenzo Aloisi, Martina Ferrara, and Laura Piccardi, 2015, “Domain-Specificity of Creativity: A Study on the Relationship Between Visual Creativity and Visual Mental Imagery”, *Frontiers in Psychology*, 6(December). doi:10.3389/fpsyg.2015.01870
-* Paul, Elliot Samuel and Scott Barry Kaufman (eds.), 2014, *The Philosophy of Creativity: New Essays*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199836963.001.0001
+* Newell, Allen, J. C. Shaw, and Herbert A. Simon, 1962, “The Processes of Creative Thinking”, in _Contemporary Approaches to Creative Thinking: A Symposium Held at the University of Colorado._, Howard E. Gruber, Glenn Terrell, and Michael Wertheimer (eds.), New York: Atherton Press, 63–119. doi:10.1037/13117-003
+* Nickles, Thomas, 2003, “Evolutionary Models of Innovation and the Meno Problem”, in L. V. Shavinina (ed.), _The International_ _Handbook on Innovation,_ 54–78. New York, NY: Elsevier Science.
+* Nietzsche, Friedrich, 1872 \[1967], _The Birth of Tragedy out of the Spirit of Music_, Walter Kaufmann (trans.), New York: Vintage.
+* Nolfi, Stefano and Dario Floreano, 2000, _Evolutionary Robotics: The Biology, Intelligence, and Technology of Self-Organizing Machines_, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/2889.001.0001
+* Novitz, David, 1999, “Creativity and Constraint”, _Australasian Journal of Philosophy_, 77(1): 67–82. doi:10.1080/00048409912348811
+* Pais, Abraham, 1982, _Subtle Is the Lord: The Science and the Life of Albert Einstein_, Oxford/New York: Oxford University Press.
+* Palmiero, Massimiliano, Raffaella Nori, Vincenzo Aloisi, Martina Ferrara, and Laura Piccardi, 2015, “Domain-Specificity of Creativity: A Study on the Relationship Between Visual Creativity and Visual Mental Imagery”, _Frontiers in Psychology_, 6(December). doi:10.3389/fpsyg.2015.01870
+* Paul, Elliot Samuel and Scott Barry Kaufman (eds.), 2014, _The Philosophy of Creativity: New Essays_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199836963.001.0001
 * Paul, Elliot Samuel and Dustin Stokes, 2018, “Attributing Creativity”, in Gaut and Kieran 2018: 193–210.
-* –––, 2021, “Computer Creativity is a Matter of Agency”, *Institute of Arts and Ideas News*, 11 November 2021, [[Paul and Stokes 2021 available online](https://iai.tv/articles/ai-will-never-rival-picasso-auid-1971?_auid=2020)]
-* Pease, Alison and Simon Colton, 2011, “On Impact and Evaluation in Computational Creativity: A Discussion of the Turing Test and an Alternative Proposal”, in *Proceedings of AISB ’11: Computing and Philosophy*, Dimitar Kazakov and George Tsoulas (eds.), York: Society for the Study of Artificial Intelligence and Simulation of Behaviour, 15–22.
-* Pérez-Fabello, María José and Alfredo Campos, 2007, “Influence of Training in Artistic Skills on Mental Imaging Capacity”, *Creativity Research Journal*, 19(2–3): 227–232. doi:10.1080/10400410701397495
-* Perkins, David N., 1981, *The Mind’s Best Work*, Cambridge, MA: Harvard University Press.
+* –––, 2021, “Computer Creativity is a Matter of Agency”, _Institute of Arts and Ideas News_, 11 November 2021, \[[Paul and Stokes 2021 available online](https://iai.tv/articles/ai-will-never-rival-picasso-auid-1971?\_auid=2020)]
+* Pease, Alison and Simon Colton, 2011, “On Impact and Evaluation in Computational Creativity: A Discussion of the Turing Test and an Alternative Proposal”, in _Proceedings of AISB ’11: Computing and Philosophy_, Dimitar Kazakov and George Tsoulas (eds.), York: Society for the Study of Artificial Intelligence and Simulation of Behaviour, 15–22.
+* Pérez-Fabello, María José and Alfredo Campos, 2007, “Influence of Training in Artistic Skills on Mental Imaging Capacity”, _Creativity Research Journal_, 19(2–3): 227–232. doi:10.1080/10400410701397495
+* Perkins, David N., 1981, _The Mind’s Best Work_, Cambridge, MA: Harvard University Press.
 * Picciuto, Elizabeth and Peter Carruthers, 2014, “The Origins of Creativity”, in Paul and Kaufman 2014: 199–223. doi:10.1093/acprof:oso/9780199836963.003.0011
-* Plato, *Plato: Complete Works*, John M. Cooper and D.S. Hutchinson (eds), Indianapolis, IN: Hackett Publishing, 1997.
-* Plucker, Jonathan A., Ronald A. Beghetto, and Gayle T. Dow, 2004, “Why Isn’t Creativity More Important to Educational Psychologists? Potentials, Pitfalls, and Future Directions in Creativity Research”, *Educational Psychologist*, 39(2): 83–96. doi:10.1207/s15326985ep3902_1
-* Poincaré, Henri, 1908 [1913], *Science et Méthode*, Paris: Flammarion. Translated as “Science and Method” in *The Foundations of Science: Science and Hypothesis, The Value of Science, Science and Method*, George Bruce Halsted (trans.), (Science and Education 1), New York: The Science Press, 1913. [[Poincaré 1913 available online](https://www.gutenberg.org/ebooks/39713)]
+* Plato, _Plato: Complete Works_, John M. Cooper and D.S. Hutchinson (eds), Indianapolis, IN: Hackett Publishing, 1997.
+* Plucker, Jonathan A., Ronald A. Beghetto, and Gayle T. Dow, 2004, “Why Isn’t Creativity More Important to Educational Psychologists? Potentials, Pitfalls, and Future Directions in Creativity Research”, _Educational Psychologist_, 39(2): 83–96. doi:10.1207/s15326985ep3902\_1
+* Poincaré, Henri, 1908 \[1913], _Science et Méthode_, Paris: Flammarion. Translated as “Science and Method” in _The Foundations of Science: Science and Hypothesis, The Value of Science, Science and Method_, George Bruce Halsted (trans.), (Science and Education 1), New York: The Science Press, 1913. \[[Poincaré 1913 available online](https://www.gutenberg.org/ebooks/39713)]
 * Policastro, Emma and Howard Gardner, 1999, “From Case Studies to Robust Generalizations: An Approach to the Study of Creativity”, in Sternberg 1999: 213–225. doi:10.1017/CBO9780511807916.013
-* Pólya, George, 1945, *How to Solve It: A New Aspect of Mathematical Method*, Princeton, NJ: Princeton University Press.
-* Popper, Karl Raimund, 1934 [1959], *Logik der forschung: zur erkenntnistheorie der modernen naturwissenschaft*, (Schriften zur wissenschaftlichen weltauffassung, Bd. 9), Wien: J. Springer. Translated as *The Logic of Scientific Discovery*, London: Hutchinson, 1959.
-* Posner, Micheal I., and Raichle, Marcus E., 1994, *Images of Mind*, New York, NY: WH Freeman and Co.
-* Posner, Michael I., DiGirolamo, Gregory, J., Fernandez-Duque, Diego, 1997, “Brain mechanisms of cognitive skills”, *Consciousness and Cognition* 1997, 6(2-3):267-90. doi: 10.1006/ccog.1997.0301. PMID: 9262412.
-* Prinz, Jesse and Laurence Barsalou, 2002, “Acquisition and Productivity in Perceptual Symbol Systems: An Account of Mundane Creativity”, in *Creativity, Cognition, and Knowledge: An Interaction*, Terry Dartnall (ed.), Westport, CT: Praeger, ch. 2.
-* Raichle, Marcus E., Ann Mary MacLeod, Abraham Z. Snyder, William J. Powers, Debra A. Gusnard, and Gordon L. Shulman, 2001, “A Default Mode of Brain Function”, *Proceedings of the National Academy of Sciences*, 98(2): 676–682. doi:10.1073/pnas.98.2.676
-* Richards, Ruth L., 1976, “A Comparison of Selected Guilford and Wallach-Kogan Creative Thinking Tests in Conjunction With Measures of Intelligence*”, *The Journal of Creative Behavior*, 10(3): 151–164. doi:10.1002/j.2162-6057.1976.tb01018.x
-* Ritter, Simone M. and Ap Dijksterhuis, 2014, “Creativity: The Unconscious Foundations of the Incubation Period”, *Frontiers in Human Neuroscience*, 8(April). doi:10.3389/fnhum.2014.00215
-* Roberts, Tom, 2018, “Aesthetic Virtues: Traits and Faculties”, *Philosophical Studies*, 175(2): 429–447. doi:10.1007/s11098-017-0875-8
-* Root-Bernstein, Robert Scott and Michèle Root-Bernstein, 1999, *Sparks of Genius: The Thirteen Thinking Tools of Creative People*, Boston, MA: Houghton, Mifflin and Company.
-* Runco, Mark A., 1991, “The Evaluative, Valuative, and Divergent Thinking of Children*”, *The Journal of Creative Behavior*, 25(4): 311–319. doi:10.1002/j.2162-6057.1991.tb01143.x
-* –––, 2017, “Comments on Where the Creativity Research Has Been and Where Is It Going”, *The Journal of Creative Behavior*, 51(4): 308–313. doi:10.1002/jocb.189
-* Runco, Mark A., Ahmed M. Abdulla, Sue Hyeon Paek, Fatima A. Al-Jasim, and Hanadi N. Alsuwaidi, 2016, “Which Test of Divergent Thinking Is Best?”, *Creativity. Theories—Research—Applications*, 3(1): 4–18. doi:10.1515/ctra-2016-0001
-* Runco, Mark A. and Robert S. Albert, 2010, “Creativity Research: A Historical View”, in *The Cambridge Handbook of Creativity*, James C. Kaufman and Robert J. Sternberg (eds.), New York: Cambridge University Press, 3–19. doi:10.1017/CBO9780511763205.003
-* Runco, Mark A. and Ivonne Chand, 1994, “Problem Finding, Evaluative Thinking, and Creativity”, in *Problem Finding, Problem Solving, and Creativity*, Mark A. Runco (ed.), (Creativity Research), Westport, CT: Ablex Publishing, 40–76.
-* Runco, Mark A. and Gayle T. Dow, 2004, “Assessing the Accuracy of Judgments of Originality on Three Divergent Thinking Tests”, *Korean Journal of Thinking & Problem Solving*, 14(2): 5–14.
-* Runco, Mark A. and Garrett J. Jaeger, 2012, “The Standard Definition of Creativity”, *Creativity Research Journal*, 24(1): 92–96. doi:10.1080/10400419.2012.650092
-* Runco, Mark A. and Steven R. Pritzker (eds.), 2020, *Encyclopedia of Creativity*, third edition, Amsterdam: Academic Press.
-* Runco, Mark A. and Luiz Vega, 1990, “Evaluating the Creativity of Children’s Ideas”, *Journal of Social Behavior & Personality*, 5(5): 439–452.
-* Sawyer, R. Keith, 2012, *Explaining Creativity: The Science of Human Innovation*, second edition, New York: Oxford University Press.
-* Schank, Roger A. and Abelson, Robert P., 1977, *Scripts, Plans, Goals, and Understanding: An Inquiry Into Human Knowledge Structures*, London: Psychology Press.
-* Schoenfeld, Alan H., 1982, “Measures of Problem-Solving Performance and of Problem-Solving Instruction”, *Journal for Research in Mathematics Education*, 13(1): 31–49. doi:10.2307/748435
-* –––, 1987a, “Pólya, Problem Solving, and Education”, *Mathematics Magazine*, 60(5): 283–291. doi:10.2307/2690409
-* –––, 1987b, “What’s All the Fuss about Metacognition?”, in *Cognitive Science and Mathematics Education*, Alan H. Schoenfeld (ed.), Hillsdale, NJ: Lawrence Erlbaum Associates, 189–215.
-* Schopenhauer, Arthur, 1859 [WWV], *Die Welt als Wille und Vorstellung*, third edition, Leipzig. First edition in 1811 and expanded in 1844. Translated as *The World as Will and Representation*, two volumes, E. F. J. Payne (trans.), Indian Hills, CO: The Falcon’s Wing Press, 1958. Reprinted New York: Dover Publications, 1966. Citations, WWV, with volume and page are to the 1966 edition.
-* –––, 1851 [SW/PP], *Parerga und Paralipomena: kleine philosophische Schriften*, two volumes, Berlin. Collected in his *Sämtliche Werke* [SW], Arthur Hübscher (ed.), Mannheim: F. A. Brockhaus, 1988, volumes 5 and 6. Translated as *Arthur Schopenhauer: Parerga and Paralipomena Short Philosophical Essays*, 2 volumes, Christopher Janaway, Sabine Roehr, and Adrian Del Caro (eds.), Adrian Del Caro (trans.), Cambridge: Cambridge University Press, 2014 and 2015. Page numbers are given both to the SW edition with volume and page and to the Cambridge University edition [PP] with volume and page.
-* Searle, John R., 1980, “Minds, Brains, and Programs”, *Behavioral and Brain Sciences*, 3(3): 417–424. doi:10.1017/S0140525X00005756
-* Shevlin, Henry, Karina Vold, Matthew Crosby, and Marta Halina, 2019, “The Limits of Machine Intelligence: Despite Progress in Machine Intelligence, Artificial General Intelligence Is Still a Major Challenge”, *EMBO Reports*, 20(10). doi:10.15252/embr.201949177
-* Silver, David, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, et al., 2016, “Mastering the Game of Go with Deep Neural Networks and Tree Search”, *Nature*, 529(7587): 484–489. doi:10.1038/nature16961
-* Simonton, Dean Keith, 1984, *Genius, Creativity, and Leadership: Historiometric Inquiries*, Cambridge, MA: Harvard University Press.
-* –––, 1988a, “Creativity, Leadership, and Chance”, in R. J. Sternberg (ed.), *The Nature of Creativity*, 386-426. New York: Cambridge University Press.
-* –––, 1988b, *Scientific genius: A psychology of science*. New York: Cambridge University Press.
-* –––, 1994, *Greatness: Who Makes History and Why*, New York: Guilford.
-* –––, 1997, *Genius and Creativity: Selected Papers*, Westport, CT: Ablex Publishing.
-* –––, 1999a, “Creativity as Blind Variation and Selective Retention: Is the Creative Process Darwinian?”, *Psychological Inquiry*, 10(4): 309–328.
-* –––, 1999b, *Origins of Genius: Darwinian Perspectives on Creativity*, New York/Oxford: Oxford University Press.
-* –––, 2004, *Creativity in Science: Chance, Logic, Genius, and Zeitgeist*, Cambridge, UK/New York: Cambridge University Press.
-* –––, 2009, *Genius 101*, (The Psych 101 Series), New York: Springer.
-* –––, 2011, “Creativity and Discovery as Blind Variation: Campbell’s (1960) BVSR Model after the Half-Century Mark”, *Review of General Psychology*, 15(2): 158–174. doi:10.1037/a0022912
-* –––, 2012a, “Creativity, Problem Solving, and Solution Set Sightedness: Radically Reformulating BVSR”, *The Journal of Creative Behavior*, 46(1): 48–65. doi:10.1002/jocb.004
-* –––, 2012b, “Taking the U.S. Patent Office Criteria Seriously: A Quantitative Three-Criterion Creativity Definition and Its Implications”, *Creativity Research Journal*, 24(2–3): 97–106. doi:10.1080/10400419.2012.676974
-* –––, 2018, “Creative Genius as Causal Agent in History: William James’s 1880 Theory Revisited and Revitalized”, *Review of General Psychology*, 22(4): 406–421. doi:10.1037/gpr0000165
-* –––, forthcoming, “The Blind-Variation and Selective-Retention Theory of Creativity: Recent Developments and Current Status of BVSR”, *Creativity Research Journal*, early online: 14 April 2022 (20 pages). doi:10.1080/10400419.2022.2059919
-* Sims, Karl, 1994, “Evolving 3D Morphology and Behavior by Competition”, *Artificial Life*, 1(4): 353–372. doi:10.1162/artl.1994.1.4.353
-* Singh, Simon, 1999, *The Code Book: The Secret History of Codes and Codebreaking*, London: Fourth Estate.
-* Smith, Steven M. and Steven E. Blankenship, 1989, “Incubation Effects”, *Bulletin of the Psychonomic Society*, 27(4): 311–314. doi:10.3758/BF03334612
-* –––, 1991, “Incubation and the Persistence of Fixation in Problem Solving”, *The American Journal of Psychology*, 104(1): 61–87. doi:10.2307/1422851
-* Smith, Steven M., Thomas B. Ward, and Ronald A. Finke (eds.), 1995, *The Creative Cognition Approach*, Cambridge, MA: MIT Press.
-* Stein, Morris I., 1953, “Creativity and Culture”, *The Journal of Psychology*, 36(2): 311–322. doi:10.1080/00223980.1953.9712897
-* Sternberg, Robert J. (ed.), 1999, *Handbook of Creativity*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511807916
-* Sternberg, Robert J. and Todd I. Lubart, 1995, *Defying the Crowd: Cultivating Creativity in a Culture of Conformity*, New York, NY: Free Press.
+* Pólya, George, 1945, _How to Solve It: A New Aspect of Mathematical Method_, Princeton, NJ: Princeton University Press.
+* Popper, Karl Raimund, 1934 \[1959], _Logik der forschung: zur erkenntnistheorie der modernen naturwissenschaft_, (Schriften zur wissenschaftlichen weltauffassung, Bd. 9), Wien: J. Springer. Translated as _The Logic of Scientific Discovery_, London: Hutchinson, 1959.
+* Posner, Micheal I., and Raichle, Marcus E., 1994, _Images of Mind_, New York, NY: WH Freeman and Co.
+* Posner, Michael I., DiGirolamo, Gregory, J., Fernandez-Duque, Diego, 1997, “Brain mechanisms of cognitive skills”, _Consciousness and Cognition_ 1997, 6(2-3):267-90. doi: 10.1006/ccog.1997.0301. PMID: 9262412.
+* Prinz, Jesse and Laurence Barsalou, 2002, “Acquisition and Productivity in Perceptual Symbol Systems: An Account of Mundane Creativity”, in _Creativity, Cognition, and Knowledge: An Interaction_, Terry Dartnall (ed.), Westport, CT: Praeger, ch. 2.
+* Raichle, Marcus E., Ann Mary MacLeod, Abraham Z. Snyder, William J. Powers, Debra A. Gusnard, and Gordon L. Shulman, 2001, “A Default Mode of Brain Function”, _Proceedings of the National Academy of Sciences_, 98(2): 676–682. doi:10.1073/pnas.98.2.676
+* Richards, Ruth L., 1976, “A Comparison of Selected Guilford and Wallach-Kogan Creative Thinking Tests in Conjunction With Measures of Intelligence\*”, _The Journal of Creative Behavior_, 10(3): 151–164. doi:10.1002/j.2162-6057.1976.tb01018.x
+* Ritter, Simone M. and Ap Dijksterhuis, 2014, “Creativity: The Unconscious Foundations of the Incubation Period”, _Frontiers in Human Neuroscience_, 8(April). doi:10.3389/fnhum.2014.00215
+* Roberts, Tom, 2018, “Aesthetic Virtues: Traits and Faculties”, _Philosophical Studies_, 175(2): 429–447. doi:10.1007/s11098-017-0875-8
+* Root-Bernstein, Robert Scott and Michèle Root-Bernstein, 1999, _Sparks of Genius: The Thirteen Thinking Tools of Creative People_, Boston, MA: Houghton, Mifflin and Company.
+* Runco, Mark A., 1991, “The Evaluative, Valuative, and Divergent Thinking of Children\*”, _The Journal of Creative Behavior_, 25(4): 311–319. doi:10.1002/j.2162-6057.1991.tb01143.x
+* –––, 2017, “Comments on Where the Creativity Research Has Been and Where Is It Going”, _The Journal of Creative Behavior_, 51(4): 308–313. doi:10.1002/jocb.189
+* Runco, Mark A., Ahmed M. Abdulla, Sue Hyeon Paek, Fatima A. Al-Jasim, and Hanadi N. Alsuwaidi, 2016, “Which Test of Divergent Thinking Is Best?”, _Creativity. Theories—Research—Applications_, 3(1): 4–18. doi:10.1515/ctra-2016-0001
+* Runco, Mark A. and Robert S. Albert, 2010, “Creativity Research: A Historical View”, in _The Cambridge Handbook of Creativity_, James C. Kaufman and Robert J. Sternberg (eds.), New York: Cambridge University Press, 3–19. doi:10.1017/CBO9780511763205.003
+* Runco, Mark A. and Ivonne Chand, 1994, “Problem Finding, Evaluative Thinking, and Creativity”, in _Problem Finding, Problem Solving, and Creativity_, Mark A. Runco (ed.), (Creativity Research), Westport, CT: Ablex Publishing, 40–76.
+* Runco, Mark A. and Gayle T. Dow, 2004, “Assessing the Accuracy of Judgments of Originality on Three Divergent Thinking Tests”, _Korean Journal of Thinking & Problem Solving_, 14(2): 5–14.
+* Runco, Mark A. and Garrett J. Jaeger, 2012, “The Standard Definition of Creativity”, _Creativity Research Journal_, 24(1): 92–96. doi:10.1080/10400419.2012.650092
+* Runco, Mark A. and Steven R. Pritzker (eds.), 2020, _Encyclopedia of Creativity_, third edition, Amsterdam: Academic Press.
+* Runco, Mark A. and Luiz Vega, 1990, “Evaluating the Creativity of Children’s Ideas”, _Journal of Social Behavior & Personality_, 5(5): 439–452.
+* Sawyer, R. Keith, 2012, _Explaining Creativity: The Science of Human Innovation_, second edition, New York: Oxford University Press.
+* Schank, Roger A. and Abelson, Robert P., 1977, _Scripts, Plans, Goals, and Understanding: An Inquiry Into Human Knowledge Structures_, London: Psychology Press.
+* Schoenfeld, Alan H., 1982, “Measures of Problem-Solving Performance and of Problem-Solving Instruction”, _Journal for Research in Mathematics Education_, 13(1): 31–49. doi:10.2307/748435
+* –––, 1987a, “Pólya, Problem Solving, and Education”, _Mathematics Magazine_, 60(5): 283–291. doi:10.2307/2690409
+* –––, 1987b, “What’s All the Fuss about Metacognition?”, in _Cognitive Science and Mathematics Education_, Alan H. Schoenfeld (ed.), Hillsdale, NJ: Lawrence Erlbaum Associates, 189–215.
+* Schopenhauer, Arthur, 1859 \[WWV], _Die Welt als Wille und Vorstellung_, third edition, Leipzig. First edition in 1811 and expanded in 1844. Translated as _The World as Will and Representation_, two volumes, E. F. J. Payne (trans.), Indian Hills, CO: The Falcon’s Wing Press, 1958. Reprinted New York: Dover Publications, 1966. Citations, WWV, with volume and page are to the 1966 edition.
+* –––, 1851 \[SW/PP], _Parerga und Paralipomena: kleine philosophische Schriften_, two volumes, Berlin. Collected in his _Sämtliche Werke_ \[SW], Arthur Hübscher (ed.), Mannheim: F. A. Brockhaus, 1988, volumes 5 and 6. Translated as _Arthur Schopenhauer: Parerga and Paralipomena Short Philosophical Essays_, 2 volumes, Christopher Janaway, Sabine Roehr, and Adrian Del Caro (eds.), Adrian Del Caro (trans.), Cambridge: Cambridge University Press, 2014 and 2015. Page numbers are given both to the SW edition with volume and page and to the Cambridge University edition \[PP] with volume and page.
+* Searle, John R., 1980, “Minds, Brains, and Programs”, _Behavioral and Brain Sciences_, 3(3): 417–424. doi:10.1017/S0140525X00005756
+* Shevlin, Henry, Karina Vold, Matthew Crosby, and Marta Halina, 2019, “The Limits of Machine Intelligence: Despite Progress in Machine Intelligence, Artificial General Intelligence Is Still a Major Challenge”, _EMBO Reports_, 20(10). doi:10.15252/embr.201949177
+* Silver, David, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George van den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, et al., 2016, “Mastering the Game of Go with Deep Neural Networks and Tree Search”, _Nature_, 529(7587): 484–489. doi:10.1038/nature16961
+* Simonton, Dean Keith, 1984, _Genius, Creativity, and Leadership: Historiometric Inquiries_, Cambridge, MA: Harvard University Press.
+* –––, 1988a, “Creativity, Leadership, and Chance”, in R. J. Sternberg (ed.), _The Nature of Creativity_, 386-426. New York: Cambridge University Press.
+* –––, 1988b, _Scientific genius: A psychology of science_. New York: Cambridge University Press.
+* –––, 1994, _Greatness: Who Makes History and Why_, New York: Guilford.
+* –––, 1997, _Genius and Creativity: Selected Papers_, Westport, CT: Ablex Publishing.
+* –––, 1999a, “Creativity as Blind Variation and Selective Retention: Is the Creative Process Darwinian?”, _Psychological Inquiry_, 10(4): 309–328.
+* –––, 1999b, _Origins of Genius: Darwinian Perspectives on Creativity_, New York/Oxford: Oxford University Press.
+* –––, 2004, _Creativity in Science: Chance, Logic, Genius, and Zeitgeist_, Cambridge, UK/New York: Cambridge University Press.
+* –––, 2009, _Genius 101_, (The Psych 101 Series), New York: Springer.
+* –––, 2011, “Creativity and Discovery as Blind Variation: Campbell’s (1960) BVSR Model after the Half-Century Mark”, _Review of General Psychology_, 15(2): 158–174. doi:10.1037/a0022912
+* –––, 2012a, “Creativity, Problem Solving, and Solution Set Sightedness: Radically Reformulating BVSR”, _The Journal of Creative Behavior_, 46(1): 48–65. doi:10.1002/jocb.004
+* –––, 2012b, “Taking the U.S. Patent Office Criteria Seriously: A Quantitative Three-Criterion Creativity Definition and Its Implications”, _Creativity Research Journal_, 24(2–3): 97–106. doi:10.1080/10400419.2012.676974
+* –––, 2018, “Creative Genius as Causal Agent in History: William James’s 1880 Theory Revisited and Revitalized”, _Review of General Psychology_, 22(4): 406–421. doi:10.1037/gpr0000165
+* –––, forthcoming, “The Blind-Variation and Selective-Retention Theory of Creativity: Recent Developments and Current Status of BVSR”, _Creativity Research Journal_, early online: 14 April 2022 (20 pages). doi:10.1080/10400419.2022.2059919
+* Sims, Karl, 1994, “Evolving 3D Morphology and Behavior by Competition”, _Artificial Life_, 1(4): 353–372. doi:10.1162/artl.1994.1.4.353
+* Singh, Simon, 1999, _The Code Book: The Secret History of Codes and Codebreaking_, London: Fourth Estate.
+* Smith, Steven M. and Steven E. Blankenship, 1989, “Incubation Effects”, _Bulletin of the Psychonomic Society_, 27(4): 311–314. doi:10.3758/BF03334612
+* –––, 1991, “Incubation and the Persistence of Fixation in Problem Solving”, _The American Journal of Psychology_, 104(1): 61–87. doi:10.2307/1422851
+* Smith, Steven M., Thomas B. Ward, and Ronald A. Finke (eds.), 1995, _The Creative Cognition Approach_, Cambridge, MA: MIT Press.
+* Stein, Morris I., 1953, “Creativity and Culture”, _The Journal of Psychology_, 36(2): 311–322. doi:10.1080/00223980.1953.9712897
+* Sternberg, Robert J. (ed.), 1999, _Handbook of Creativity_, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511807916
+* Sternberg, Robert J. and Todd I. Lubart, 1995, _Defying the Crowd: Cultivating Creativity in a Culture of Conformity_, New York, NY: Free Press.
 * –––, 1999, “The Concept of Creativity: Prospects and Paradigms”, in Sternberg 1999: 3–15. doi:10.1017/CBO9780511807916.003
-* Stokes, Dustin R., 2007, “Incubated Cognition and Creativity”, *Journal of Consciousness Studies*, 14(3): 83–100.
-* –––, 2008, “A Metaphysics of Creativity”, in *New Waves in Aesthetics*, Kathleen Stock and Katherine Thomson-Jones (eds.), New York: Palgrave-Macmillan, 105–124.
-* –––, 2011, “Minimally Creative Thought: Minimally Creative Thought”, *Metaphilosophy*, 42(5): 658–681. doi:10.1111/j.1467-9973.2011.01716.x
+* Stokes, Dustin R., 2007, “Incubated Cognition and Creativity”, _Journal of Consciousness Studies_, 14(3): 83–100.
+* –––, 2008, “A Metaphysics of Creativity”, in _New Waves in Aesthetics_, Kathleen Stock and Katherine Thomson-Jones (eds.), New York: Palgrave-Macmillan, 105–124.
+* –––, 2011, “Minimally Creative Thought: Minimally Creative Thought”, _Metaphilosophy_, 42(5): 658–681. doi:10.1111/j.1467-9973.2011.01716.x
 * –––, 2014, “The Role of Imagination in Creativity”, in Paul and Kaufman 2014: 157–184. doi:10.1093/acprof:oso/9780199836963.003.0009
-* –––, 2016, “Imagination and Creativity”, in *The Routledge Handbook of the Philosophy of Imagination*, Amy Kind (ed.), London/New York: Routledge, chapter 18.
-* Stokes, Dustin R. and Jon Bird, 2008, “Evolutionary Robotics and Creative Constraints”, in *Beyond the Brain: Embodied, Situated, and Distributed Cognition*, Benoit Hardy-Vallée and Nicolas Payette (eds.), Newcastle: Cambridge Scholars Publishing, 227–245.
-* Tabery, James, 2014, *Beyond versus: The Struggle to Understand the Interaction of Nature and Nurture*, (Life and Mind: Philosophical Issues in Biology and Psychology), Cambridge, MA: MIT Press.
-* Takeuchi, Hikaru and Rex Jung (eds), 2019, *Creativity*, special issue of *Current Opinion in Behavioral Sciences*, 27: 1–174.
-* Tatarkiewicz, Władysław, 1980, *A History of Six Ideas: An Essay in Aesthetics*, Dordrecht: Springer Science & Business Media.
-* Thagard, Paul and Terrence C. Stewart, 2011, “The AHA! Experience: Creativity Through Emergent Binding in Neural Networks”, *Cognitive Science*, 35(1): 1–33. doi:10.1111/j.1551-6709.2010.01142.x
-* Turing, Alan M., 1950, “Computing Machinery and Intelligence”, *Mind*, 59(236): 433–460. doi:10.1093/mind/LIX.236.433
-* Verstijnen, Ilse Marieke, 1997, “Sketches of Creative Discovery: A Psycological Inquiry into the Role of Imagery and Sketching in Creative Discovery”, Doctoral thesis, Technische Universiteit, Delft, The Netherlands. [[Verstijnen 1997 available online](https://repository.tudelft.nl/islandora/object/uuid%3Ab7a30511-f327-4d6c-b5bf-11d1a5b8ae4c)]
-* Wallas, Graham, 1926, *The Art of Thought*, London: J. Cape.
-* Ward, Thomas B., 1994, “Structured Imagination: The Role of Category Structure in Exemplar Generation”, *Cognitive Psychology*, 27(1): 1–40. doi:10.1006/cogp.1994.1010
+* –––, 2016, “Imagination and Creativity”, in _The Routledge Handbook of the Philosophy of Imagination_, Amy Kind (ed.), London/New York: Routledge, chapter 18.
+* Stokes, Dustin R. and Jon Bird, 2008, “Evolutionary Robotics and Creative Constraints”, in _Beyond the Brain: Embodied, Situated, and Distributed Cognition_, Benoit Hardy-Vallée and Nicolas Payette (eds.), Newcastle: Cambridge Scholars Publishing, 227–245.
+* Tabery, James, 2014, _Beyond versus: The Struggle to Understand the Interaction of Nature and Nurture_, (Life and Mind: Philosophical Issues in Biology and Psychology), Cambridge, MA: MIT Press.
+* Takeuchi, Hikaru and Rex Jung (eds), 2019, _Creativity_, special issue of _Current Opinion in Behavioral Sciences_, 27: 1–174.
+* Tatarkiewicz, Władysław, 1980, _A History of Six Ideas: An Essay in Aesthetics_, Dordrecht: Springer Science & Business Media.
+* Thagard, Paul and Terrence C. Stewart, 2011, “The AHA! Experience: Creativity Through Emergent Binding in Neural Networks”, _Cognitive Science_, 35(1): 1–33. doi:10.1111/j.1551-6709.2010.01142.x
+* Turing, Alan M., 1950, “Computing Machinery and Intelligence”, _Mind_, 59(236): 433–460. doi:10.1093/mind/LIX.236.433
+* Verstijnen, Ilse Marieke, 1997, “Sketches of Creative Discovery: A Psycological Inquiry into the Role of Imagery and Sketching in Creative Discovery”, Doctoral thesis, Technische Universiteit, Delft, The Netherlands. \[[Verstijnen 1997 available online](https://repository.tudelft.nl/islandora/object/uuid%3Ab7a30511-f327-4d6c-b5bf-11d1a5b8ae4c)]
+* Wallas, Graham, 1926, _The Art of Thought_, London: J. Cape.
+* Ward, Thomas B., 1994, “Structured Imagination: The Role of Category Structure in Exemplar Generation”, _Cognitive Psychology_, 27(1): 1–40. doi:10.1006/cogp.1994.1010
 * –––, 1995, “What’s Old about New Ideas?” in Smith, Ward, and Finke 1995: 157–178.
-* Watson, James D., 1968 [1999], *The Double Helix: A Personal Account of the Discovery of the Structure of DNA*, New York: Atheneum. First Touchstone edition, London: Penguin, 1999.
-* Weisberg, Robert W., 1986, *Creativity: Genius and Other Myths*, New York: W.H. Freeman.
-* –––, 2006, *Creativity: Understanding Innovation in Problem Solving, Science, Invention, and the Arts*, Hoboken, NJ: Wiley.
-* Wiggins, Geraint A. and Joydeep Bhattacharya, 2014, “Mind the Gap: An Attempt to Bridge Computational and Neuroscientific Approaches to Study Creativity”, *Frontiers in Human Neuroscience*, 8(July). doi:10.3389/fnhum.2014.00540
-* Williams, Rich, Mark A. Runco, and Eric Berlow, 2016, “Mapping the Themes, Impact, and Cohesion of Creativity Research over the Last 25 Years”, *Creativity Research Journal*, 28(4): 385–394. doi:10.1080/10400419.2016.1230358
-* Young, Edward, 1759 [1966], *Conjectures on Original Composition: In a Letter to the Author of Sir Charles Grandison*, London: A. Millar. Reprinted Leeds: Scolar Press, 1966.
-* Zagzebski, Linda Trinkaus, 1997, *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*, Cambridge/New York: Cambridge University Press.
-* Zemore, Sarah E., 1995, “Ability to Generate Mental Images in Students of Art”, *Current Psychology*, 14(1): 83–88. doi:10.1007/BF02686876
+* Watson, James D., 1968 \[1999], _The Double Helix: A Personal Account of the Discovery of the Structure of DNA_, New York: Atheneum. First Touchstone edition, London: Penguin, 1999.
+* Weisberg, Robert W., 1986, _Creativity: Genius and Other Myths_, New York: W.H. Freeman.
+* –––, 2006, _Creativity: Understanding Innovation in Problem Solving, Science, Invention, and the Arts_, Hoboken, NJ: Wiley.
+* Wiggins, Geraint A. and Joydeep Bhattacharya, 2014, “Mind the Gap: An Attempt to Bridge Computational and Neuroscientific Approaches to Study Creativity”, _Frontiers in Human Neuroscience_, 8(July). doi:10.3389/fnhum.2014.00540
+* Williams, Rich, Mark A. Runco, and Eric Berlow, 2016, “Mapping the Themes, Impact, and Cohesion of Creativity Research over the Last 25 Years”, _Creativity Research Journal_, 28(4): 385–394. doi:10.1080/10400419.2016.1230358
+* Young, Edward, 1759 \[1966], _Conjectures on Original Composition: In a Letter to the Author of Sir Charles Grandison_, London: A. Millar. Reprinted Leeds: Scolar Press, 1966.
+* Zagzebski, Linda Trinkaus, 1997, _Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge_, Cambridge/New York: Cambridge University Press.
+* Zemore, Sarah E., 1995, “Ability to Generate Mental Images in Students of Art”, _Current Psychology_, 14(1): 83–88. doi:10.1007/BF02686876
 
 ## Academic Tools
 
-> | ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=creativity). |
-> | --- | --- |
-> | ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/creativity/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](../.gitbook/assets/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=creativity&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](../.gitbook/assets/pp.png) | [Enhanced bibliography for this entry](https://philpapers.org/sep/creativity/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=creativity).                                                                      |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/creativity/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=creativity\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](../.gitbook/assets/pp.png)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/creativity/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * Baker, Lucas and Fan Hui, 2017, “[Innovations of AlphaGo](https://deepmind.com/blog/article/innovations-alphago)”, on the DeepMind blog, 10 April 2017. Accessed 9 July 2021.
-* Whitney Museum, 2002, [The Migration Series: His Painting Method](https://whitney.org/www/jacoblawrence/art/painting_method.html).
+* Whitney Museum, 2002, [The Migration Series: His Painting Method](https://whitney.org/www/jacoblawrence/art/painting\_method.html).
 
 ## Related Entries
 
-[artificial intelligence](https://plato.stanford.edu/entries/artificial-intelligence/) | [epistemology: virtue](https://plato.stanford.edu/entries/epistemology-virtue/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [imagination](https://plato.stanford.edu/entries/imagination/) | [Turing, Alan](https://plato.stanford.edu/entries/turing/) | [Turing machines](https://plato.stanford.edu/entries/turing-machine/) | [Turing test](https://plato.stanford.edu/entries/turing-test/)
+[artificial intelligence](https://plato.stanford.edu/entries/artificial-intelligence/) | [epistemology: virtue](https://plato.stanford.edu/entries/epistemology-virtue/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [imagination](https://plato.stanford.edu/entries/imagination/) | [Turing, Alan](https://plato.stanford.edu/entries/turing/) | [Turing machines](https://plato.stanford.edu/entries/turing-machine/) | [Turing test](https://plato.stanford.edu/entries/turing-test/)
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-[Elliot Samuel Paul](https://www.queensu.ca/philosophy/paul-elliot) <[*elliotspaul@gmail.com*](mailto:elliotspaul%40gmail%2ecom)>  
-[Dustin Stokes](http://stokes.mentalpaint.net/) <[*dustin.stokes@utah.edu*](mailto:dustin%2estokes%40utah%2eedu)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+[Elliot Samuel Paul](https://www.queensu.ca/philosophy/paul-elliot) <[_elliotspaul@gmail.com_](mailto:elliotspaul%40gmail%2ecom)>\
+[Dustin Stokes](http://stokes.mentalpaint.net/) <[_dustin.stokes@utah.edu_](mailto:dustin%2estokes%40utah%2eedu)>

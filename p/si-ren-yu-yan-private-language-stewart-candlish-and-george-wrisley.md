@@ -1,13 +1,12 @@
 # 私人语言 private language (Stewart Candlish and George Wrisley)
 
-*首次发表于1996年7月26日，实质性修订于2019年7月30日。*
+_首次发表于1996年7月26日，实质性修订于2019年7月30日。_
 
 私人语言的概念在哲学界因路德维希·维特根斯坦而闻名，他在他的著作《哲学研究》的第 243 节中解释了这个概念：“这种语言的词汇是指只有说话者才能知道的事物-他的直接私人感觉。所以其他人无法理解这种语言。”这并不意味着涵盖了（容易想象的）用个人代码记录自己经历的情况，因为这样的代码，无论实际上多么晦涩，原则上都可以被解读。维特根斯坦所指的是一种被构想为只有其单一创始人能够理解的语言，因为定义其词汇的事物对其他人来说是无法接触的。
 
 在介绍这个概念之后，维特根斯坦接着论证了这样的语言是不存在的。引起哲学家们注意一个鲜为人知的概念，然后论证它是不可实现的重要性在于，一个未明确表达的对私人语言可能性的依赖在笛卡尔到二十世纪晚期认知科学中流行的心灵再现理论版本的主流认识论、心灵哲学和形而上学中都是至关重要的。
- 
 
----
+***
 
 ## 1. 概述：维特根斯坦的论证及其解释
 
@@ -35,7 +34,7 @@
 
 如果有人坚持私人语言是可能的，反驳他的一种方法是采用归谬法：假设私人语言是可能的，展示这一假设导致某些荒谬或矛盾，然后得出结论：私人语言实际上是不可能的。这通常是这个论点的理解方式。但是这种理解已经受到质疑。例如，与他早期的评论相比，戈登·贝克尔（Gordon Baker）后来质疑私人语言部分是否应该被理解为试图表明私人语言的概念是可理解但是错误的，而是将其视为伪装成重要可能性的无意义（贝克尔，1998 年）。
 
-然而，在维特根斯坦的思想中，有一种倾向将矛盾看作是意义的瓦解，以至于即使通过归谬进行的论证也可以不被理解为错误。（例如，在《逻辑哲学论》中，这种倾向的出现在 Fogelin [1995, Ch. IV]中得到了很好的阐述。）而维特根斯坦的特点是用无意义来谈论哲学错误。在《哲学研究》的第 119 节中，他写道：“哲学的结果是发现了一些纯粹的无意义和理解在语言的限制下遇到的障碍。它们——这些障碍——让我们看到了这一发现的价值。”在第 464 节中，他写道：“我想教导的是：从不明显的无意义到明显的无意义。”在讨论私人语言的可能性时，起初似乎我们理解了所考虑的可能性。毕竟，在第 256 节中，我们似乎理解了这个问题：“那么，描述我内心体验的语言，只有我自己能理解，怎么样？”但是维特根斯坦是在暗示我们只是似乎理解了这个问题吗？
+然而，在维特根斯坦的思想中，有一种倾向将矛盾看作是意义的瓦解，以至于即使通过归谬进行的论证也可以不被理解为错误。（例如，在《逻辑哲学论》中，这种倾向的出现在 Fogelin \[1995, Ch. IV]中得到了很好的阐述。）而维特根斯坦的特点是用无意义来谈论哲学错误。在《哲学研究》的第 119 节中，他写道：“哲学的结果是发现了一些纯粹的无意义和理解在语言的限制下遇到的障碍。它们——这些障碍——让我们看到了这一发现的价值。”在第 464 节中，他写道：“我想教导的是：从不明显的无意义到明显的无意义。”在讨论私人语言的可能性时，起初似乎我们理解了所考虑的可能性。毕竟，在第 256 节中，我们似乎理解了这个问题：“那么，描述我内心体验的语言，只有我自己能理解，怎么样？”但是维特根斯坦是在暗示我们只是似乎理解了这个问题吗？
 
 这个问题可能不太清楚。在主要的私人语言部分之后不久，对话中出现了以下备注：“问题在于：只有对于一个活着的人和类似（行为类似）于活着的人的东西，我们才能说：它有感觉；它看见；它是盲的；它听见；它是聋的；它有意识或无意识”（§281）。对话在§282 中继续：
 
@@ -61,7 +60,7 @@
 >
 > ...一个名称，在狭义的逻辑意义上，是指其含义是特定的词，只能应用于说话者熟悉的特定对象，因为你不能给你不熟悉的任何东西命名。
 >
-> ...一个人可以使用“这个”作为一个名称，代表自己此刻熟悉的特定对象。我们说“这个是白色的”。...但是，如果你试图理解我说“这个是白色的”时所表达的命题，你是做不到的。如果你把这块粉笔当作一个物理对象，那么你并没有使用一个适当的名称。只有当你非常严格地使用“这个”，代表一个实际的感觉对象[即感觉数据]时，它才是一个真正的适当名称。而且它对于一个适当名称来说有一个非常奇怪的特性，即它很少在两个时刻运行时意思相同，并且对于说话者和听话者来说意思也不相同。
+> ...一个人可以使用“这个”作为一个名称，代表自己此刻熟悉的特定对象。我们说“这个是白色的”。...但是，如果你试图理解我说“这个是白色的”时所表达的命题，你是做不到的。如果你把这块粉笔当作一个物理对象，那么你并没有使用一个适当的名称。只有当你非常严格地使用“这个”，代表一个实际的感觉对象\[即感觉数据]时，它才是一个真正的适当名称。而且它对于一个适当名称来说有一个非常奇怪的特性，即它很少在两个时刻运行时意思相同，并且对于说话者和听话者来说意思也不相同。
 >
 > …为了理解特定名称，唯一需要的就是熟悉该特定事物。当你熟悉该特定事物时，你对该名称有了充分、足够和完整的理解，不需要进一步的信息。
 
@@ -71,17 +70,17 @@
 
 《论述》为我们提供了反对罗素关于他人私人对象的观点的论据，比如毕马儿克盒子里的甲虫。它让我们看到，任何这样的甲虫在语言或思维中都没有任何作用，但它却没有触及到我们自己盒子里的甲虫。罗素关于我们如何思考他人心中的事物的观念受到了批评，但《论述》没有对我们的言语如何涉及我们自己心中的事物的可疑观念进行审查。（第283页）
 
-直到《论述之后的工作》才引起维特根斯坦对个人心灵中的私人对象的关注。钻石认为，罗素对私人对象及其可能性/可接受性的承诺主要来自他对熟人知识与描述知识的观点，其中重要的一部分是他认为：“描述知识的主要重要性在于它使我们能够超越我们的私人经验的限制。尽管我们只能知道完全由我们在熟人中经历过的术语组成的真理，但我们仍然可以通过描述知识了解我们从未经历过的事物”（引自钻石[2000]，第267页）。此外，根据钻石的观点，罗素对量化的理解和运用是他用来解决与他人心灵中的“私人”对象不熟悉的问题的方法。虽然俾斯麦通过直接熟人知识了解了“这是难以忍受的”这个词所描述的感觉的含义，但其他人只能说“俾斯麦的感觉是难以忍受的”。然而，一旦我们理解到它的含义是以“某物是一种感觉，现在由俾斯麦拥有，并且它是难以忍受的”来分析的，这就有了意义（第273页）。一旦她确定了隐私问题对罗素的重要性，并阐述了他的立场的细节，她主要关心的是展示维特根斯坦在《论述》中的观点（特别是关于量化、逻辑空间以及没有作为“一些”和“全部”这类术语的指称物的逻辑对象）如何破坏了罗素在量化和他人心灵中的私人对象上的立场。此外，她还简要论证了《论述》中存在“私人语言论证”的重要性，主要有两个方面。 首先，她认为这对我们理解维特根斯坦的作品及其发展很重要（在这里，她的论点与她对《论述》及其与维特根斯坦后期作品的连续性的坚定解读一致）。其次，她认为这对迈克尔·达梅特的现实主义和反现实主义问题的框架有影响，特别是与《论述》有关。与达梅特不同，她认为《论述》提出了一种反现实主义立场，“...至少是关于他人的私人对象”（第 284 页）。
+直到《论述之后的工作》才引起维特根斯坦对个人心灵中的私人对象的关注。钻石认为，罗素对私人对象及其可能性/可接受性的承诺主要来自他对熟人知识与描述知识的观点，其中重要的一部分是他认为：“描述知识的主要重要性在于它使我们能够超越我们的私人经验的限制。尽管我们只能知道完全由我们在熟人中经历过的术语组成的真理，但我们仍然可以通过描述知识了解我们从未经历过的事物”（引自钻石\[2000]，第267页）。此外，根据钻石的观点，罗素对量化的理解和运用是他用来解决与他人心灵中的“私人”对象不熟悉的问题的方法。虽然俾斯麦通过直接熟人知识了解了“这是难以忍受的”这个词所描述的感觉的含义，但其他人只能说“俾斯麦的感觉是难以忍受的”。然而，一旦我们理解到它的含义是以“某物是一种感觉，现在由俾斯麦拥有，并且它是难以忍受的”来分析的，这就有了意义（第273页）。一旦她确定了隐私问题对罗素的重要性，并阐述了他的立场的细节，她主要关心的是展示维特根斯坦在《论述》中的观点（特别是关于量化、逻辑空间以及没有作为“一些”和“全部”这类术语的指称物的逻辑对象）如何破坏了罗素在量化和他人心灵中的私人对象上的立场。此外，她还简要论证了《论述》中存在“私人语言论证”的重要性，主要有两个方面。 首先，她认为这对我们理解维特根斯坦的作品及其发展很重要（在这里，她的论点与她对《论述》及其与维特根斯坦后期作品的连续性的坚定解读一致）。其次，她认为这对迈克尔·达梅特的现实主义和反现实主义问题的框架有影响，特别是与《论述》有关。与达梅特不同，她认为《论述》提出了一种反现实主义立场，“...至少是关于他人的私人对象”（第 284 页）。
 
 由于本条目主要关注于《哲学研究》中的私人语言问题，我们不会详细讨论 Diamond 的论点。然而，正如上面所提到的，她提出的问题在直接和间接方面都越来越受到关注。直接来说，William Child 最近在他的文章《《论述》中是否包含私人语言论证？》中对此进行了讨论，他认为 Diamond 在关于《论述》中是否存在私人语言论证以及她对《论述》的评估方面基本上是错误的。他的核心观点是 Diamond 将后期维特根斯坦的观点投射到《论述》中，特别是关于命名和使用的观点。然而，他还提出维特根斯坦 1929 年关于感觉语言的观点“挑战”了对《论述》的“新”解读，比如 Diamond 的解读，其中“新解读”指的是“在《论述》中找不到积极的哲学学说、一种宁静主义和明确的治疗方法，这些传统上与维特根斯坦后期哲学有关联的观点”（第 143 页）。
 
-间接地，戴蒙德的作品与对如何阅读维特根斯坦的问题越来越感兴趣的趋势一致，比如我们在讨论坚决实质性和无决策非无决策的“维特根斯坦”时提到的那些问题。在这些背景下提出的问题对于理解其他中心维特根斯坦主题，比如如何最好地应对唯我论的诱惑，具有进一步的相关性（参见斯特恩[2010]对这些问题的有益概述；他没有直接讨论戴蒙德，但他确实关注维特根斯坦思想的发展问题，例如在私人语言考虑的背景下唯我论的问题。对维特根斯坦哲学发展感兴趣的另一个最近的例子，明确涉及私人语言的问题，是尼尔森[2008]）。
+间接地，戴蒙德的作品与对如何阅读维特根斯坦的问题越来越感兴趣的趋势一致，比如我们在讨论坚决实质性和无决策非无决策的“维特根斯坦”时提到的那些问题。在这些背景下提出的问题对于理解其他中心维特根斯坦主题，比如如何最好地应对唯我论的诱惑，具有进一步的相关性（参见斯特恩\[2010]对这些问题的有益概述；他没有直接讨论戴蒙德，但他确实关注维特根斯坦思想的发展问题，例如在私人语言考虑的背景下唯我论的问题。对维特根斯坦哲学发展感兴趣的另一个最近的例子，明确涉及私人语言的问题，是尼尔森\[2008]）。
 
 回到我们对《哲学研究》中私人语言问题的阐述，与罗素的工作相区别，私人语言的概念更常常隐藏起来：据称属于它的混淆在一系列表达的哲学概念和理论之下，而它们本身并没有被这样表达出来。因此，这个论点可能最有益地被理解为针对的不是任何特定的理论，而是对考虑一系列明显独立甚至相互竞争的理论及其相关任务、问题和解决方案的动机。
 
 例如，一个仍然非常常见的观念，常常被归功于约翰·洛克，并在七十年代被杰里·福多尔公开接受，即人际口头交流是通过说话者将他们内部的心理词汇翻译成声音，然后听者再将其重新翻译成自己内部的词汇。再次，笛卡尔认为自己能够与自己谈论自己的经验，同时声称在没有提出令人放心的哲学论证之前，他对作为与他们独立的东西的外部世界一无所知（或者直到他提出令人放心的哲学论证）。他和其他人认为：虽然我可能对外部世界犯错误，但如果我将我的判断限制在我直接的感觉上，我可以无误地避免错误。（参见《哲学原理》第一卷第九章。）再次，包括约翰·斯图尔特·密尔在内的许多哲学家认为存在其他思想的问题，根据这个问题，我可能合理地怀疑将感觉词应用于除我自己以外的存在的合法性。
 
-在这些例子中，暗示是我思考的内在载体原则上可以是私人的（正如肯尼[1966 年，第 369 页]所示，这个载体不必是一种语言，才能适用于这个论证）：为了这些问题和理论有意义，可共享性必须与意义无关，并且至少可以想象到我的知识，甚至我的理解，必然局限于我自己的情况。当然，这个暗示经常被否认。例如，Fodor 的思维语言的术语被认为能够指称公共对象。但问题是，这种能力的基础是什么？无论如何回答这个问题，Fodor 自己对维特根斯坦的论证非常关注，试图同时表明它不适用于他的观点，并且-显然是多余的-它也不是一个好的论证（Fodor 第 68-73 页）。对于笛卡尔来说，问题更加明确（参见肯尼 1966 年）：为了提出他的怀疑问题而不立即自我破坏，他必须认为可以在内部确定他的经验-其中“内部”意味着不依赖于他在一个独立于他自己的思想并且对他人可见的世界中的基本体现所提供的资源（例如，正常成长中获得的概念资源）。因此，在私人语言论证中，一个重要的问题是：如何实现对自己经验的识别？
+在这些例子中，暗示是我思考的内在载体原则上可以是私人的（正如肯尼\[1966 年，第 369 页]所示，这个载体不必是一种语言，才能适用于这个论证）：为了这些问题和理论有意义，可共享性必须与意义无关，并且至少可以想象到我的知识，甚至我的理解，必然局限于我自己的情况。当然，这个暗示经常被否认。例如，Fodor 的思维语言的术语被认为能够指称公共对象。但问题是，这种能力的基础是什么？无论如何回答这个问题，Fodor 自己对维特根斯坦的论证非常关注，试图同时表明它不适用于他的观点，并且-显然是多余的-它也不是一个好的论证（Fodor 第 68-73 页）。对于笛卡尔来说，问题更加明确（参见肯尼 1966 年）：为了提出他的怀疑问题而不立即自我破坏，他必须认为可以在内部确定他的经验-其中“内部”意味着不依赖于他在一个独立于他自己的思想并且对他人可见的世界中的基本体现所提供的资源（例如，正常成长中获得的概念资源）。因此，在私人语言论证中，一个重要的问题是：如何实现对自己经验的识别？
 
 然而，不能过分强调私人语言论证的重要性不在于学术细节，即这个或那个思想家是否可以正确地被描述为致力于这个观念。目标是一种产生哲学理论的思维方式，而不是理论本身。
 
@@ -101,13 +100,13 @@
 
 然而，要通过从内部探索来调查想象中的日记案例的可能性（他认为这是真正揭示其中混淆的唯一方法），他被迫在§258 中提到诸如指示定义、集中注意力、说话、写作、记忆、相信等例子，而在考虑中的情况下，这些例子都无法真正发生（§261）。
 
-这个困难常常被辩论者忽视，对于理解日记例子的讨论尤其不幸。例如，Fogelin [1976]，作为正统派的典型代表，将这个例子视为他自己作为一个有生命的人类身体存在者，保持日记并记录一种他无法向任何其他人描述的感觉的情况。但我们不应该假设保持日记的描述是一个可能的，甚至最终可理解的情况的描述。特别是，我们不应该认为这样一个人类保持着一个真实的日记，而是类似于笛卡尔内在等价物的东西。因此，对于论证来说，以第一人称呈现日记案例是至关重要的，我们不要迫使自己问：“谁在说话？”在这个阶段，我们只需要不担心日记故事最终是否有意义。但是，我们必须记住，它可能没有意义，在阅读接下来的内容时，应该不断地用引号来修饰（我们将像之前一样，偶尔提供它们作为提醒，保留双引号用于此目的）。
+这个困难常常被辩论者忽视，对于理解日记例子的讨论尤其不幸。例如，Fogelin \[1976]，作为正统派的典型代表，将这个例子视为他自己作为一个有生命的人类身体存在者，保持日记并记录一种他无法向任何其他人描述的感觉的情况。但我们不应该假设保持日记的描述是一个可能的，甚至最终可理解的情况的描述。特别是，我们不应该认为这样一个人类保持着一个真实的日记，而是类似于笛卡尔内在等价物的东西。因此，对于论证来说，以第一人称呈现日记案例是至关重要的，我们不要迫使自己问：“谁在说话？”在这个阶段，我们只需要不担心日记故事最终是否有意义。但是，我们必须记住，它可能没有意义，在阅读接下来的内容时，应该不断地用引号来修饰（我们将像之前一样，偶尔提供它们作为提醒，保留双引号用于此目的）。
 
 总结论证的初步阶段：在§256 中，维特根斯坦问到“私人语言”，‘我如何使用词语来表示我的感觉？’，并在§257 中提醒我们不能回答‘像我们通常那样’。因此，这个问题，也就是‘我如何为“私人语言”中的表达获得意义？’仍然是开放的；而答案必须独立于我们实际的词语和感觉之间的联系。在试图得出答案并深入探讨这个问题时，他暂时允许使用感觉和日记记录的概念（尽管在§257 中有异议），并想象自己处于一个记录感觉的私人语言学家的位置上。目的是要表明，即使做出了这个让步，一个感觉词的意义仍然不能由这样一个语言学家来确保和维持。关键的中心论证部分从这里开始，在§258。
 
 ### 3.2 中心论证
 
-维特根斯坦在日记案例中指出：“首先我想观察到，对符号的定义是无法被明确表述的。”（这里的翻译掩盖了原因。维特根斯坦使用的词是“aussprechen”，最好翻译为“表达”而不是“明确表述”：这一点从定义上来说是显而易见的，因为这个案例是一个定义是私人的案例。）因此，如果要获得“符号”的意义，必须通过私人的示意定义来实现，我要集中注意力于感觉并同时产生符号。（在这种情况下，意义无法从现有的私人使用惯例中提取，因为问题是如何首先建立这样的使用。）但是，如果这个练习要成为真正的和成功的示意定义，它必须建立符号和感觉之间的联系，并且这种联系必须持续存在。正如维特根斯坦所说：“‘我记住[这个联系]’只能意味着：这个过程使我在将来正确记住这个联系。”因为我不仅不会对任何人，甚至对我自己都不会仅仅通过关注某事物并做个标记来定义任何东西，除非这个事件具有适当的后果。
+维特根斯坦在日记案例中指出：“首先我想观察到，对符号的定义是无法被明确表述的。”（这里的翻译掩盖了原因。维特根斯坦使用的词是“aussprechen”，最好翻译为“表达”而不是“明确表述”：这一点从定义上来说是显而易见的，因为这个案例是一个定义是私人的案例。）因此，如果要获得“符号”的意义，必须通过私人的示意定义来实现，我要集中注意力于感觉并同时产生符号。（在这种情况下，意义无法从现有的私人使用惯例中提取，因为问题是如何首先建立这样的使用。）但是，如果这个练习要成为真正的和成功的示意定义，它必须建立符号和感觉之间的联系，并且这种联系必须持续存在。正如维特根斯坦所说：“‘我记住\[这个联系]’只能意味着：这个过程使我在将来正确记住这个联系。”因为我不仅不会对任何人，甚至对我自己都不会仅仅通过关注某事物并做个标记来定义任何东西，除非这个事件具有适当的后果。
 
 ### 3.3 插曲：对正统观点的拒绝
 
@@ -117,9 +116,9 @@
 
 > 许多哲学家认为，“我记得这个联系是正确的”意味着“只有当我真正有 S 时，我才使用'S'”。然后，他们认为维特根斯坦的论证是基于对记忆的怀疑：当你下次称呼一个感觉为'S'时，你怎么能确定你记得正确呢？...
 >
-> 维特根斯坦的批评者发现，这种解释下的论证并不令人信服。他们说，记忆的不可靠性对于使用私人语言的人来说并没有更多或更少的问题，与使用公共语言的人一样。维特根斯坦的辩护者则说，对于公共对象的记忆错误可以纠正，而对于私人感觉的记忆错误则无法纠正；而在无法纠正的情况下，谈论正确性是不合适的。在这一点上，维特根斯坦的批评者要么否认真理要求可纠正性，要么试图表明在私人情况下也是可能进行检查的。（肯尼[1973]第 191-2 页）
+> 维特根斯坦的批评者发现，这种解释下的论证并不令人信服。他们说，记忆的不可靠性对于使用私人语言的人来说并没有更多或更少的问题，与使用公共语言的人一样。维特根斯坦的辩护者则说，对于公共对象的记忆错误可以纠正，而对于私人感觉的记忆错误则无法纠正；而在无法纠正的情况下，谈论正确性是不合适的。在这一点上，维特根斯坦的批评者要么否认真理要求可纠正性，要么试图表明在私人情况下也是可能进行检查的。（肯尼\[1973]第 191-2 页）
 
-批评和辩护的相互作用是正统解释这个论点的特征。（参见 Fogelin [1976]，第 162-4 页，有一个很好的例子。）这种解释之所以能够确立起来，似乎至少有两个原因。首先，致力于私人语言观念的哲学家通常在寻找一种无法犯错误的安排；也就是说，他们试图通过找到绝对的确定性来克服怀疑论。（笛卡尔是通常被引用的例子。）这将使怀疑论的论证似乎成为对他们的回应的自然武器。（参见，例如，Fogelin [1976]，第 153 页。）其次，可以认为（这并不意味着是正确的），一个人对自己当前感觉的本质不会犯错误，而一个假设的证明，即私人语言的概念意味着在这个问题上一个人和其他任何问题一样容易犯错误，因此似乎会对这个概念造成严重损害。
+批评和辩护的相互作用是正统解释这个论点的特征。（参见 Fogelin \[1976]，第 162-4 页，有一个很好的例子。）这种解释之所以能够确立起来，似乎至少有两个原因。首先，致力于私人语言观念的哲学家通常在寻找一种无法犯错误的安排；也就是说，他们试图通过找到绝对的确定性来克服怀疑论。（笛卡尔是通常被引用的例子。）这将使怀疑论的论证似乎成为对他们的回应的自然武器。（参见，例如，Fogelin \[1976]，第 153 页。）其次，可以认为（这并不意味着是正确的），一个人对自己当前感觉的本质不会犯错误，而一个假设的证明，即私人语言的概念意味着在这个问题上一个人和其他任何问题一样容易犯错误，因此似乎会对这个概念造成严重损害。
 
 但是，正如肯尼首先表明的那样，关于将来使用符号“S”的事实上的绝对正确性并不是问题所在。如果我们仔细看看§258，我们会发现“我正确地记住了这个联系”是指记住了一个意义，即符号“S”的意义，而不是确保我将“S”仅仅无误地应用于将来的 S。 （私人语言论证也不依赖于将后者视为前者的结果。）
 
@@ -137,7 +136,7 @@
 
 #### 第二个答案
 
-Wittgenstein对于“S”我所指的第二个答案是：我所指的“S”不是当前的感觉，而是我过去所称之为“S”的感觉。我们已经看到，在Kenny对于论证的正统阅读的拒绝中，对于记忆的怀疑在“私人语言”的讨论中没有立足之地；文本根本不支持这一点。但在这一点上，我们必须与Kenny划清界限。因为根据他的解释，关键的主张变成了：“如果我有可能错误地记忆我以前对于‘S’的示意定义，那么我实际上并不知道‘S’是什么意思。”（参见，例如，Kenny [1973] p. 194.）这只是将对于记忆的传统怀疑扩展到包括意义和判断。而这是认识论的一个基本观点，即知道某事并不明显意味着根据知识的定义，一个人不可能在那件事上犯错，只是他实际上没有犯错而已。
+Wittgenstein对于“S”我所指的第二个答案是：我所指的“S”不是当前的感觉，而是我过去所称之为“S”的感觉。我们已经看到，在Kenny对于论证的正统阅读的拒绝中，对于记忆的怀疑在“私人语言”的讨论中没有立足之地；文本根本不支持这一点。但在这一点上，我们必须与Kenny划清界限。因为根据他的解释，关键的主张变成了：“如果我有可能错误地记忆我以前对于‘S’的示意定义，那么我实际上并不知道‘S’是什么意思。”（参见，例如，Kenny \[1973] p. 194.）这只是将对于记忆的传统怀疑扩展到包括意义和判断。而这是认识论的一个基本观点，即知道某事并不明显意味着根据知识的定义，一个人不可能在那件事上犯错，只是他实际上没有犯错而已。
 
 发生了什么问题？答案是肯尼和正统观点共享了一个被忽视的假设：即使在“私人语言”的情况下，私人语言学家实际上也将符号应用于私人感觉。肯尼所构想的问题是如何在之后记住早期的应用，以便“S”保留其意义。那么问题似乎是，我们承认的不可靠记忆是否足以维持意义。但为什么要允许这种假设呢？我们有什么资格假设私人语言学家甚至能够对自己进行明示定义呢？正如我们所见，这是一个有争议的问题之一；而且第260和261节表明，维特根斯坦不准备从这个假设中得出支持私人语言的论证。在这两节中，维特根斯坦提醒我们，他在《哲学研究》的早期章节（例如33-35节）中的论证表明，除非满足某些环境条件，否则任何行为都无法实现明示定义；迄今为止，关于日记案例的描述并未显示出这些条件的满足。只有在稍后的第270和271节中，维特根斯坦想象了它们的部分实现，结果是使语言变得公共。
 
@@ -157,13 +156,13 @@ Wittgenstein对于“S”我所指的第二个答案是：我所指的“S”不
 
 至于第一个反对意见所涉及的问题已经得到了回答。对公共语言的所谓威胁完全源于对记忆怀疑论无法局限于私人情况的主张。但由于对记忆的怀疑不是论证的一部分，所以没有理由认为会有任何关于这种局限性的问题，并且因此没有论证自我否定的问题，即排除我们已知的某种实际情况的可能性，即我们已经拥有的语言。现在，显示没有对记忆怀疑的任何诉求，将论证的负担从是否可以记住指示性定义的问题转移到了首先是否可以有指示性定义的问题上。
 
-这使我们能够回答涉及第二个反对意见的问题。很明显，一个以指示性定义为焦点的论证并不致力于事先排除所有“鲁滨逊漂流记”假设情况。因为我们可以想象到一个足够复杂的生活形式，使我们确信这样一个存在已经完成了一个明确的指示性定义。这样的鲁滨逊与私人语言学家不同，他生活在一个独立于他对其印象的世界中，因此在其中可能发生确定的事件，他可以记住或忘记；其中一些事件可能是符号与对象的相关性。很容易描述这样的假设情况（Canfield [1996]的 486-8 页中有一个明显的例子），很难合理地否认它们在某种意义上是可能的。然而，在这里还有进一步的复杂性，下面的第 4 节中简要描述了这些复杂性。
+这使我们能够回答涉及第二个反对意见的问题。很明显，一个以指示性定义为焦点的论证并不致力于事先排除所有“鲁滨逊漂流记”假设情况。因为我们可以想象到一个足够复杂的生活形式，使我们确信这样一个存在已经完成了一个明确的指示性定义。这样的鲁滨逊与私人语言学家不同，他生活在一个独立于他对其印象的世界中，因此在其中可能发生确定的事件，他可以记住或忘记；其中一些事件可能是符号与对象的相关性。很容易描述这样的假设情况（Canfield \[1996]的 486-8 页中有一个明显的例子），很难合理地否认它们在某种意义上是可能的。然而，在这里还有进一步的复杂性，下面的第 4 节中简要描述了这些复杂性。
 
 ## 4. 克里普克的怀疑主义维特根斯坦
 
-私人语言的次要文献中，东正教的主导地位在索尔·克里普克对维特根斯坦对规则和私人语言的处理的解释/原理中基本上结束了，其中维特根斯坦表现出对意义的怀疑。克里普克（第 5 页）否认将这个怀疑的人物与其历史来源的身份联系起来，并且，恰当地说，他的解释/原理已经产生了自己的文献，其中讨论往往在很大程度上独立于原始私人语言论证：克里普克的维特根斯坦已经成为一位独立的哲学家，对于许多人来说，历史维特根斯坦关于私人语言的原始思想是否在这个版本中得到了忠实的体现并不是一个问题。关于克里普克的维特根斯坦引发的哲学问题（而不是解释问题）的后续讨论的复杂性需要单独的文章来阐述。（有关概述，请参见博戈西安[1989]。）这里将解决的只是解释问题。
+私人语言的次要文献中，东正教的主导地位在索尔·克里普克对维特根斯坦对规则和私人语言的处理的解释/原理中基本上结束了，其中维特根斯坦表现出对意义的怀疑。克里普克（第 5 页）否认将这个怀疑的人物与其历史来源的身份联系起来，并且，恰当地说，他的解释/原理已经产生了自己的文献，其中讨论往往在很大程度上独立于原始私人语言论证：克里普克的维特根斯坦已经成为一位独立的哲学家，对于许多人来说，历史维特根斯坦关于私人语言的原始思想是否在这个版本中得到了忠实的体现并不是一个问题。关于克里普克的维特根斯坦引发的哲学问题（而不是解释问题）的后续讨论的复杂性需要单独的文章来阐述。（有关概述，请参见博戈西安\[1989]。）这里将解决的只是解释问题。
 
-克里普克的解释/原理与此处给出的解释在拒绝正统观点和强调维特根斯坦对规则遵循的讨论在私人语言之前的逻辑优先性方面相似。它的不同之处在于它对《哲学研究》§201 的开头句子给予了突出地位：“这是我们的悖论：没有任何行动可以由规则决定，因为每个行动都可以与规则一致。”克里普克对此说（第 68 页）：“私人语言的不可能性是[维特根斯坦]对自己悖论的怀疑解决方案的必然结果。”维特根斯坦自己在接下来的段落中立即将这个“悖论”抛在了一边：“这里有一个误解……”；但是克里普克认为这个悖论对于意义提出了一个真正而深刻的怀疑问题。
+克里普克的解释/原理与此处给出的解释在拒绝正统观点和强调维特根斯坦对规则遵循的讨论在私人语言之前的逻辑优先性方面相似。它的不同之处在于它对《哲学研究》§201 的开头句子给予了突出地位：“这是我们的悖论：没有任何行动可以由规则决定，因为每个行动都可以与规则一致。”克里普克对此说（第 68 页）：“私人语言的不可能性是\[维特根斯坦]对自己悖论的怀疑解决方案的必然结果。”维特根斯坦自己在接下来的段落中立即将这个“悖论”抛在了一边：“这里有一个误解……”；但是克里普克认为这个悖论对于意义提出了一个真正而深刻的怀疑问题。
 
 Kripke 选择的例子来说明这个问题是加法。理解加法规则是什么？规则的应用是潜在无限的，对规则的奇怪解释以及对它的标准使用与任何有限的应用集合兼容，例如 7 + 14 = 21。那么是什么使得当我说“加”时，我指的是通常的加法函数而不是其他函数？Kripke（第 62-71 页）将这个问题理解为包含一个 Hume 问题，他声称 Wittgenstein 给出了一个 Hume 式的“怀疑”解决方案。
 
@@ -190,76 +189,76 @@ Kripke 对私人语言论的解释/原理因他未经争论地依赖维特根斯
 
 争论双方都认为冲突是真实的。
 
-然而，有理由相信这个假设是错误的，因为对维特根斯坦关于基本、可能和终身克鲁索的概念的调查表明，承认第一个主张并不意味着他否认第二个主张。以第一个概念为例：在维特根斯坦的观点中，虽然国际象棋本质上是一个双人游戏，但这并不排除自己对弈的可能性，只要这样的独自游戏不被视为国际象棋的典范。同样，他可以声称语言本质上是社会性的，但仍然允许存在例外，只要这些是边缘案例。这个问题很复杂，追求它会偏离当前文章阐明中心内容的目的。有关详细解释，请参阅 Canfield [1996]（本节受其影响，并包含对社群观点争论的有用参考文献）和 Hacker [2010]。
+然而，有理由相信这个假设是错误的，因为对维特根斯坦关于基本、可能和终身克鲁索的概念的调查表明，承认第一个主张并不意味着他否认第二个主张。以第一个概念为例：在维特根斯坦的观点中，虽然国际象棋本质上是一个双人游戏，但这并不排除自己对弈的可能性，只要这样的独自游戏不被视为国际象棋的典范。同样，他可以声称语言本质上是社会性的，但仍然允许存在例外，只要这些是边缘案例。这个问题很复杂，追求它会偏离当前文章阐明中心内容的目的。有关详细解释，请参阅 Canfield \[1996]（本节受其影响，并包含对社群观点争论的有用参考文献）和 Hacker \[2010]。
 
 ## Bibliography
 
 The secondary literature on this topic is enormous. The following list is highly selective, and entries are included by meeting at least one of the following criteria: good representative of a standard reading of the argument; influential source, primary or secondary; useful collection of items meeting one or other of the previous two criteria; useful survey; item making recent and significant progress in the understanding and assessment of the argument; source drawn on in the writing of this article; item mentioned in the main text of this article.
 
-* Baker, G.P., 1998, ‘The private language argument’, *Language & Communication*, 18: 325–56.
-* Baker, G.P. & Hacker, P.M.S., 1990, ‘Malcolm on language and rules’, *Philosophy*, 65: 167–79.
-* Boghossian, P.A., 1989, ‘The rule-following considerations’, *Mind*, 98: 507–49.
-* Candlish, S., 1997, ‘Wittgensteins Privatsprachenargumentation’, in Eike von Savigny (ed.), *Wittgensteins Philosophische Untersuchungen*, Berlin: Akademie Verlag: 143–65.
-* Canfield, J.V. (ed.), 1986, *The Philosophy of Wittgenstein, Volume 9: The Private Language Argument*, New York: Garland.
-* ––– (ed.), 1986, *The Philosophy of Wittgenstein* (Volume 10: Logical Necessity and Rules), New York: Garland.
-* –––, 1996, ‘The community view’, *The Philosophical Review*, 105: 469–88.
-* –––, 2001, ‘Private language: the diary case’ *Australasian Journal of Philosophy*, 79: 377–94.
-* Child, W., 2013, ‘Does the *Tractatus* contain a private language argument?’ in P. Sullivan and M. Potter (eds.), *Wittgenstein’s*Tractatus*: History and Interpretation*, Oxford: Oxford University Press: 143–169.
-* Conant, J., 2004, ‘Why worry about the *Tractatus*?’, in B. Stocker (ed.), *Post-Analytic Tractatus*, Aldershot: Ashgate: 167–92.
-* Cook, J.W., 1969, ‘Human beings’, in P. Winch, (ed.), *Studies in the Philosophy of Wittgenstein*, London: Routledge & Kegan Paul.
-* Crary, A. & Read, R. (eds.), 2000, *The New Wittgenstein*, London and New York: Routledge.
-* Diamond, C. 2000, ‘Does Bismarck Have A Beetle In His Box?: The Private Language Argument in the *Tractatus*’ in A. Crary & R. Read (eds.) 2000: 272–302.
-* Fodor, J., 1975, *The Language of Thought*, New York: Crowell.
-* Fogelin, R.J., 1995., *Wittgenstein*, London: Routledge, 2nd edition, Ch. XII.
-* –––, 1994, *Pyrrhonian Reflections on Knowledge and Justification*, New York and Oxford: Oxford University Press.
-* Hacker, P.M.S., 1990, *Wittgenstein: Meaning and Mind, Volume 3 of an Analytical Commentary on the Philosophical Investigations*, Oxford: Blackwell.
-* –––, 2010, ‘Robinson Crusoe Sails Again: The Interpretative Relevance of Wittgenstein’s *Nachlass*’, in N. Venturhina (ed.), *Wittgenstein After His Nachlass*, Basingstoke and New York: Palgrave Macmillan.
-* Hymers, M., 2017, *Wittgenstein on Sensation and Perception*, London: Routledge.
-* Jones, O.R. (ed.), 1971, *The Private Language Argument*, London: Macmillan.
-* Kenny, A., 1966, ‘Cartesian privacy’, in G. Pitcher (ed.), *Wittgenstein: The Philosophical Investigations*, London: Macmillan, 1968.
-* –––, 2005, *Wittgenstein*, London: Allen Lane, revised edition, Ch. 10.
-* Kripke, S., 1982, *Wittgenstein on Rules and Private Language*, Oxford: Blackwell.
-* Kusch, M., 2006, *A sceptical guide to meaning and rules: defending Kripke’s Wittgenstein*. Routledge.
-* Malcolm, N., 1954, ‘Wittgenstein’s *Philosophical Investigations*’, *The Philosophical Review*, 63: 530–59.
-* –––, 1989, ‘Wittgenstein on language and rules’, *Philosophy*, 64: 5–28.
-* McDowell, J., 1989, ‘One Strand in the Private Language Argument’, *Grazer Philosophische Studien*, 33/34: 285–303.
-* McGinn, M., 2013, *Routledge Philosophy Guidebook to Wittgenstein and the Philosophical Investigations*, London: Routledge, Chs. 4–5.
-* Mulhall, S., 2007, *Wittgenstein’s Private Language: Grammar, Nonsense, and Imagination in* Philosophical Investigations, *§§ 243–315*, Oxford: Clarendon Press.
-* Nielsen, K.S., 2008, *The Evolution of the Private Language Argument*, Aldershot: Ashgate.
-* Pears, D., 1988, *The False Prison* (Volume Two), Oxford: Clarendon Press, Chs. 13–15.
-* –––, 2006, *Paradox and Platitude in Wittgenstein’s Philosophy*. Oxford: Oxford University Press, Ch. 3.
-* Rhees, R. (ed.), 1984, *Recollections of Wittgenstein*, revised edition, New York: Oxford University Press. Originally published as *Ludwig Wittgenstein: Personal Recollections*, Oxford: Blackwell, 1981.
-* Russell, B., 1918, ‘The philosophy of logical atomism’, in *The Collected Papers of Bertrand Russell* (Volume 8: The Philosophy of Logical Atomism and Other Essays 1914–19), London: George Allen and Unwin, 1986.
-* Sluga, H., 2004, ‘Wittgenstein and Pyrrhonism’, in W. Sinnott-Armstrong (ed.), *Pyrrhonian Skepticism*, Oxford and New York: Oxford University Press, 99–117.
-* Stern, D.G., 2004, *Wittgenstein’s Philosophical Investigations: an introduction*, Cambridge: Cambridge University Press.
-* –––, 2007, ‘The uses of Wittgenstein’s beetle: Philosophical Investigations §293 and its interpreters’, in G. Kahane, E., Kanterian, and O. Kuusela (eds.), *Wittgenstein and his Interpreters: Essays in Memory of Gordon Baker*, Malden: Blackwell: 248–68.
-* –––, 2010, ‘Another strand in the private language argument’, in A. Ahmed (ed.), *Wittgenstein’s Philosophical Investigations: A Critical Guide*, Cambridge and New York: Cambridge University Press, 178–96.
-* –––., 2011, ‘Private language’, in O. Kuusela and M. McGinn (eds.), *The Oxford Handbook of Wittgenstein*, Oxford: Oxford University Press: 333–50.
-* Stroud, B., 2000, *Meaning, Understanding, and Practice*, Oxford: Oxford University Press, Essays 5, 6 and 13.
-* Tang, H., 2014, ‘“It is not a *something*, but not a *nothing* either” – McDowell on Wittgenstein’, *Synthese*, 191: 557–67.
-* Travis, C., 2001, *The Uses of Sense: Wittgenstein’s Philosophy of Language*, Oxford: Oxford University Press, Ch. 8.
-* Verheggen, C. 2007, ‘The Community View Revisited’, *Metaphilosophy*, 38: 612–631.
-* Winch, P., 1983, ‘Facts and superfacts’, *The Philosophical Quarterly*, 33: 398–404; revised and reprinted in P. Winch, *Trying to Make Sense*, Oxford: Blackwell, 1987, 54–63.
-* Wittgenstein, L., 1993, *Philosophical Occasions*, specifically chapter 10, ‘Notes for lectures on “private experience” and “sense-data”’, chapter 11, ‘Notes by R. Rhees, The Language of Sense Data and Private Experience’, and chapter 14, ‘Notes for the “Philosophical Lecture”’, J. Klagge and A. Nordmann (eds.), Indianapolis: Hackett Publishing Company, Inc.
-* –––, 2009, *Philosophical Investigations*, translated by G. E. M. Anscombe, P. M. S. Hacker and Joachim Schulte, Oxford: Blackwell, Revised 4th edition by P. M. S. Hacker and Joachim Schulte.
-* Wrisley, G., 2011, ‘Wherefore the Failure of Private Ostension?’, *Australasian Journal of Philosophy*, 89:3: 483–498.
+* Baker, G.P., 1998, ‘The private language argument’, _Language & Communication_, 18: 325–56.
+* Baker, G.P. & Hacker, P.M.S., 1990, ‘Malcolm on language and rules’, _Philosophy_, 65: 167–79.
+* Boghossian, P.A., 1989, ‘The rule-following considerations’, _Mind_, 98: 507–49.
+* Candlish, S., 1997, ‘Wittgensteins Privatsprachenargumentation’, in Eike von Savigny (ed.), _Wittgensteins Philosophische Untersuchungen_, Berlin: Akademie Verlag: 143–65.
+* Canfield, J.V. (ed.), 1986, _The Philosophy of Wittgenstein, Volume 9: The Private Language Argument_, New York: Garland.
+* ––– (ed.), 1986, _The Philosophy of Wittgenstein_ (Volume 10: Logical Necessity and Rules), New York: Garland.
+* –––, 1996, ‘The community view’, _The Philosophical Review_, 105: 469–88.
+* –––, 2001, ‘Private language: the diary case’ _Australasian Journal of Philosophy_, 79: 377–94.
+* Child, W., 2013, ‘Does the _Tractatus_ contain a private language argument?’ in P. Sullivan and M. Potter (eds.), _Wittgenstein’s_Tractatus\*: History and Interpretation\*, Oxford: Oxford University Press: 143–169.
+* Conant, J., 2004, ‘Why worry about the _Tractatus_?’, in B. Stocker (ed.), _Post-Analytic Tractatus_, Aldershot: Ashgate: 167–92.
+* Cook, J.W., 1969, ‘Human beings’, in P. Winch, (ed.), _Studies in the Philosophy of Wittgenstein_, London: Routledge & Kegan Paul.
+* Crary, A. & Read, R. (eds.), 2000, _The New Wittgenstein_, London and New York: Routledge.
+* Diamond, C. 2000, ‘Does Bismarck Have A Beetle In His Box?: The Private Language Argument in the _Tractatus_’ in A. Crary & R. Read (eds.) 2000: 272–302.
+* Fodor, J., 1975, _The Language of Thought_, New York: Crowell.
+* Fogelin, R.J., 1995., _Wittgenstein_, London: Routledge, 2nd edition, Ch. XII.
+* –––, 1994, _Pyrrhonian Reflections on Knowledge and Justification_, New York and Oxford: Oxford University Press.
+* Hacker, P.M.S., 1990, _Wittgenstein: Meaning and Mind, Volume 3 of an Analytical Commentary on the Philosophical Investigations_, Oxford: Blackwell.
+* –––, 2010, ‘Robinson Crusoe Sails Again: The Interpretative Relevance of Wittgenstein’s _Nachlass_’, in N. Venturhina (ed.), _Wittgenstein After His Nachlass_, Basingstoke and New York: Palgrave Macmillan.
+* Hymers, M., 2017, _Wittgenstein on Sensation and Perception_, London: Routledge.
+* Jones, O.R. (ed.), 1971, _The Private Language Argument_, London: Macmillan.
+* Kenny, A., 1966, ‘Cartesian privacy’, in G. Pitcher (ed.), _Wittgenstein: The Philosophical Investigations_, London: Macmillan, 1968.
+* –––, 2005, _Wittgenstein_, London: Allen Lane, revised edition, Ch. 10.
+* Kripke, S., 1982, _Wittgenstein on Rules and Private Language_, Oxford: Blackwell.
+* Kusch, M., 2006, _A sceptical guide to meaning and rules: defending Kripke’s Wittgenstein_. Routledge.
+* Malcolm, N., 1954, ‘Wittgenstein’s _Philosophical Investigations_’, _The Philosophical Review_, 63: 530–59.
+* –––, 1989, ‘Wittgenstein on language and rules’, _Philosophy_, 64: 5–28.
+* McDowell, J., 1989, ‘One Strand in the Private Language Argument’, _Grazer Philosophische Studien_, 33/34: 285–303.
+* McGinn, M., 2013, _Routledge Philosophy Guidebook to Wittgenstein and the Philosophical Investigations_, London: Routledge, Chs. 4–5.
+* Mulhall, S., 2007, _Wittgenstein’s Private Language: Grammar, Nonsense, and Imagination in_ Philosophical Investigations, _§§ 243–315_, Oxford: Clarendon Press.
+* Nielsen, K.S., 2008, _The Evolution of the Private Language Argument_, Aldershot: Ashgate.
+* Pears, D., 1988, _The False Prison_ (Volume Two), Oxford: Clarendon Press, Chs. 13–15.
+* –––, 2006, _Paradox and Platitude in Wittgenstein’s Philosophy_. Oxford: Oxford University Press, Ch. 3.
+* Rhees, R. (ed.), 1984, _Recollections of Wittgenstein_, revised edition, New York: Oxford University Press. Originally published as _Ludwig Wittgenstein: Personal Recollections_, Oxford: Blackwell, 1981.
+* Russell, B., 1918, ‘The philosophy of logical atomism’, in _The Collected Papers of Bertrand Russell_ (Volume 8: The Philosophy of Logical Atomism and Other Essays 1914–19), London: George Allen and Unwin, 1986.
+* Sluga, H., 2004, ‘Wittgenstein and Pyrrhonism’, in W. Sinnott-Armstrong (ed.), _Pyrrhonian Skepticism_, Oxford and New York: Oxford University Press, 99–117.
+* Stern, D.G., 2004, _Wittgenstein’s Philosophical Investigations: an introduction_, Cambridge: Cambridge University Press.
+* –––, 2007, ‘The uses of Wittgenstein’s beetle: Philosophical Investigations §293 and its interpreters’, in G. Kahane, E., Kanterian, and O. Kuusela (eds.), _Wittgenstein and his Interpreters: Essays in Memory of Gordon Baker_, Malden: Blackwell: 248–68.
+* –––, 2010, ‘Another strand in the private language argument’, in A. Ahmed (ed.), _Wittgenstein’s Philosophical Investigations: A Critical Guide_, Cambridge and New York: Cambridge University Press, 178–96.
+* –––., 2011, ‘Private language’, in O. Kuusela and M. McGinn (eds.), _The Oxford Handbook of Wittgenstein_, Oxford: Oxford University Press: 333–50.
+* Stroud, B., 2000, _Meaning, Understanding, and Practice_, Oxford: Oxford University Press, Essays 5, 6 and 13.
+* Tang, H., 2014, ‘“It is not a _something_, but not a _nothing_ either” – McDowell on Wittgenstein’, _Synthese_, 191: 557–67.
+* Travis, C., 2001, _The Uses of Sense: Wittgenstein’s Philosophy of Language_, Oxford: Oxford University Press, Ch. 8.
+* Verheggen, C. 2007, ‘The Community View Revisited’, _Metaphilosophy_, 38: 612–631.
+* Winch, P., 1983, ‘Facts and superfacts’, _The Philosophical Quarterly_, 33: 398–404; revised and reprinted in P. Winch, _Trying to Make Sense_, Oxford: Blackwell, 1987, 54–63.
+* Wittgenstein, L., 1993, _Philosophical Occasions_, specifically chapter 10, ‘Notes for lectures on “private experience” and “sense-data”’, chapter 11, ‘Notes by R. Rhees, The Language of Sense Data and Private Experience’, and chapter 14, ‘Notes for the “Philosophical Lecture”’, J. Klagge and A. Nordmann (eds.), Indianapolis: Hackett Publishing Company, Inc.
+* –––, 2009, _Philosophical Investigations_, translated by G. E. M. Anscombe, P. M. S. Hacker and Joachim Schulte, Oxford: Blackwell, Revised 4th edition by P. M. S. Hacker and Joachim Schulte.
+* Wrisley, G., 2011, ‘Wherefore the Failure of Private Ostension?’, _Australasian Journal of Philosophy_, 89:3: 483–498.
 
 ## Academic Tools
 
-> | ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=private-language). |
-> | --- | --- |
-> | ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/private-language/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](../.gitbook/assets/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=private-language&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](../.gitbook/assets/pp.png) | [Enhanced bibliography for this entry](https://philpapers.org/sep/private-language/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=private-language).                                                                      |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/private-language/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=private-language\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](../.gitbook/assets/pp.png)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/private-language/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[consciousness](https://plato.stanford.edu/entries/consciousness/) | [language of thought hypothesis](https://plato.stanford.edu/entries/language-thought/) | [other minds](https://plato.stanford.edu/entries/other-minds/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [self-knowledge](https://plato.stanford.edu/entries/self-knowledge/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
+[consciousness](https://plato.stanford.edu/entries/consciousness/) | [language of thought hypothesis](https://plato.stanford.edu/entries/language-thought/) | [other minds](https://plato.stanford.edu/entries/other-minds/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [self-knowledge](https://plato.stanford.edu/entries/self-knowledge/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
 
-[Copyright © 2019](https://plato.stanford.edu/info.html#c) by  
-[Stewart Candlish](http://members.iinet.net.au/~stewartcandlish/)  
-[George Wrisley](http://www.georgewrisley.com/) <[*gwrisley3@gmail.com*](mailto:gwrisley3%40gmail%2ecom)>
+[Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
+[Stewart Candlish](http://members.iinet.net.au/\~stewartcandlish/)\
+[George Wrisley](http://www.georgewrisley.com/) <[_gwrisley3@gmail.com_](mailto:gwrisley3%40gmail%2ecom)>

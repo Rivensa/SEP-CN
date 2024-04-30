@@ -7,7 +7,7 @@ _首次发表于2021年6月23日星期三_
 伊本·鲁世德的工作的特点是他坚信哲学在许多领域具有确证性，亚里士多德应该是我们哲学的首要指南，并且哲学应该在宗教探究中起到核心作用，而不是宗教的替代品。但他的思想之所以具有持久的吸引力，部分原因在于他以微妙的方式在亚里士多德演绎的严格性在实践上不可行的情况下，推广其他推理和说服方法。要完全理解伊本·鲁世德的思想，不仅需要关注他试图将哲学发展为一门确证科学的亚里士多德评论，还需要关注宗教、医学和法律等领域，在这些领域中，主题和受众的限制要求使用其他论证和修辞技巧。
 
 伊本·鲁世德经常被错误地称为阿维罗伊斯（Averroes）-这是他的名字在拉丁语中变形的形式。他在后来的欧洲思想中迅速获得了如此重要的地位，以至于与亚里士多德本人的影响力相媲美，而伊本·鲁世德不知疲倦地捍卫了亚里士多德的著作。大多数现代学术研究都以他在基督教欧洲的接受为导向，他在那里被简称为“评论家”，因此无法欣赏到伊本·鲁世德自己独特的哲学成就。
- 
+
 ***
 
 ## 1. 生平与作品
@@ -355,7 +355,7 @@ See _CompLogic_, above.
 
 The Arabic is not extant, but there is a translation in Hebrew:
 
-_Commentarium medium in Porphyrii Isagogen et Aristotelis Categorias_, ed. Herbert A. Davidson (Cambridge, MA: Mediaeval Academy of America, 1969), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\In%20Isagogen%20et%20Categorias\Medium\hebrew.pdf).
+_Commentarium medium in Porphyrii Isagogen et Aristotelis Categorias_, ed. Herbert A. Davidson (Cambridge, MA: Mediaeval Academy of America, 1969), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes/In%20Isagogen%20et%20Categorias/Medium/hebrew.pdf).
 
 And in Latin:
 
@@ -425,7 +425,7 @@ Available in multiple Arabic editions, including
 
 _Talkhīṣ Kitāb al-Burhān_, ed. Mahmūd Qāsim (Cairo: al-Haya al-ʿĀmma li al-Kitāb, 1982).
 
-No modern translation has been made, but there is a Latin translation in [Junta 1562 vol. 1 pt. 2b](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Logica\JuntSecunda\01-3.pdf).
+No modern translation has been made, but there is a Latin translation in [Junta 1562 vol. 1 pt. 2b](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes/Logica/JuntSecunda/01-3.pdf).
 
 **Long Commentary** (after 1186)
 
@@ -435,7 +435,7 @@ _Sharḥ al-Burhān li-Arisṭū wa-Talkhīṣ al-Burhān_, ed. ʿAbd al-Raḥm�
 
 The complete Hebrew translation has been transcribed [online](https://dare.uni-koeln.de/app/fulltexts/FT114).
 
-No modern translation has been made, but three Latin translations, each based on an earlier, complete Hebrew translation, are printed in [Junta 1562 vol. 1 pt. 2a](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Logica\JuntSecunda\01-2a.Long%20Post%20An.pdf).
+No modern translation has been made, but three Latin translations, each based on an earlier, complete Hebrew translation, are printed in [Junta 1562 vol. 1 pt. 2a](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes/Logica/JuntSecunda/01-2a.Long%20Post%20An.pdf).
 
 _References are to (book.comment) of the Junta edition, plus {Arabic page}._
 
@@ -451,7 +451,7 @@ Available in multiple Arabic editions, including
 
 _Commentarium Medium in Aristotelis Topica_, ed. Charles E. Butterworth and Aḥmad ʿAbd al-Majīd al-Harīdī (Cairo: al-Hayʾa al-miṣriyya al-ʿāmma li-l-kitāb, 1979).
 
-No modern translation, but a Latin translation is available in [Junta 1562 vol. 1 pt. 3](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Logica\JuntSecunda\01-3.pdf).
+No modern translation, but a Latin translation is available in [Junta 1562 vol. 1 pt. 3](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes/Logica/JuntSecunda/01-3.pdf).
 
 _References are to the Latin (book.page {Arabic page})._
 
@@ -467,7 +467,7 @@ Available in multiple Arabic editions, including
 
 _Talkhīs al-Safsaṭa,_ ed. M. Salīm Sālim (Cairo: Dār al-Kutub, 1973).
 
-No modern translation, but a Latin translation is available in [Junta 1562 vol. I pt. 3](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Logica\JuntSecunda\01-3.pdf).
+No modern translation, but a Latin translation is available in [Junta 1562 vol. I pt. 3](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes/Logica/JuntSecunda/01-3.pdf).
 
 _**Rhetoric**_
 
@@ -527,11 +527,11 @@ The Latin translation (Junta 1962, vol. 4) is based on the Hebrew.
 
 A detailed outline (_taqsīm_) of the text is extant in Arabic:
 
-_Min Talkhīṣ al-Samāʿ al-ṭabīʿi: Taqsīm al-Samāʿ al-ṭabīʿi_, ed. Jamāl al-Dīn al- _ʿ_Alawī, _Revue de la Faculté des lettres et des sciences humaines_, _Dhar al-Mahraz de Fes_ 7 (1983-1984), 205\*–\*55.
+_Min Talkhīṣ al-Samāʿ al-ṭabīʿi: Taqsīm al-Samāʿ al-ṭabīʿi_, ed. Jamāl al-Dīn al- \_ʿ\_Alawī, _Revue de la Faculté des lettres et des sciences humaines_, _Dhar al-Mahraz de Fes_ 7 (1983-1984), 205\*–\*55.
 
 **Long Commentary** (1186)
 
-Not extant in Arabic. A Hebrew translation survives but is not yet edited (save for the edition with translation in Harvey 1985 of the important proem). The Latin translation is available in Iunta 1562, vol. 4, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Physica\JuntSecunda\04.pdf). The Latin text of Book VII is available in a modern edition:
+Not extant in Arabic. A Hebrew translation survives but is not yet edited (save for the edition with translation in Harvey 1985 of the important proem). The Latin translation is available in Iunta 1562, vol. 4, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes/Physica/JuntSecunda/04.pdf). The Latin text of Book VII is available in a modern edition:
 
 _Commentarium Magnum In Aristotelis Physicorum Librum Septimum (Vindobonensis \[Vienna] lat. 2334)_, ed. H. Schmieja (Paderborn, 2006), [available online](https://dare.uni-koeln.de/app/fulltexts/FT14).
 
@@ -555,7 +555,7 @@ Extant in Arabic:
 
 _Talkhīṣ al-Samāʾ wa-l-ʿālam_, ed. Jamāl al-Dīn al-ʿAlawī (Fes: Faculté des Lettres, 1984), [available online](https://dare.uni-koeln.de/app/fulltexts/FT109).
 
-There is no modern translation, but there is a Latin version in [Iunta 1962, vol. 5](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\DC\DGC\M\JuntSecunda\05.pdf).
+There is no modern translation, but there is a Latin version in [Iunta 1962, vol. 5](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes/DC/DGC/M/JuntSecunda/05.pdf).
 
 **Long Commentary** (1188)
 
@@ -609,7 +609,7 @@ Extant in Arabic:
 
 _Talkhīṣ al-Āthār al-ʿulwiyya_, ed. Jamāl-al-Dīn alʿAlawī (Beirut: Dār al-Gharb al-Islāmī, 1994).
 
-Translated into Latin in Junta 1962, vol. 5, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\DC\DGC\M\JuntSecunda\05.pdf).
+Translated into Latin in Junta 1962, vol. 5, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes/DC/DGC/M/JuntSecunda/05.pdf).
 
 _**De anima**_
 
@@ -635,7 +635,7 @@ _Middle Commentary on Aristotle’s De Anima_, ed. and tr. A. L. Ivry (Provo, UT
 
 Survives only in Latin:
 
-_Averrois Cordubensis Commentarium magnum in Aristotelis De anima libros_, ed. F. S. Crawford (Cambridge, MA: Medieval Academy of America, 1953), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\DeAnima\Crawford.pdf).
+_Averrois Cordubensis Commentarium magnum in Aristotelis De anima libros_, ed. F. S. Crawford (Cambridge, MA: Medieval Academy of America, 1953), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes/DeAnima/Crawford.pdf).
 
 An English translation carefully compares the Latin with surviving Arabic fragments:
 
@@ -659,7 +659,7 @@ _**De animalibus**_
 
 **Paraphrase** (1170)
 
-Extant in Latin and Hebrew, and covering only the _Parts of Animals_ and the _Generation of Animals_. Only the Latin has been edited, in volume 6 of the 1562 Junta edition, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Animalia\JuntSecunda\06.pdf).
+Extant in Latin and Hebrew, and covering only the _Parts of Animals_ and the _Generation of Animals_. Only the Latin has been edited, in volume 6 of the 1562 Junta edition, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes/Animalia/JuntSecunda/06.pdf).
 
 _**Metaphysics**_
 
@@ -701,7 +701,7 @@ And a French translation of books I, II, IV, and VI:
 
 _Traduction commentée du Grand commentaire d’ Averroès aux livres petit Alpha, grand Alpha, Gamma et Epsilon de la Métaphysique d’ Aristote_, tr. Karim Kaddour (Paris: Université Panthéon- Sorbonne - Paris I, 2018).
 
-For the remainder, there is a Latin translation, in Junta 1562 vol. 8, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Metaphysica\JuntSecunda\08.pdf).
+For the remainder, there is a Latin translation, in Junta 1562 vol. 8, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes/Metaphysica/JuntSecunda/08.pdf).
 
 _References are to (book.comment {Arabic page})_.
 
@@ -713,13 +713,13 @@ The Arabic is not extant, but the work has survived in Hebrew:
 
 _The Hebrew Version of Averroes’ Middle Commentary on Aristotle’s_ Nicomachean Ethics, ed. Lawrence V. Berman (Jerusalem: Israel Academy of Sciences and Humanities, 1999).
 
-An independent Latin translation, printed in Junta 1562 vol. 3, is [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Moralia\JuntSecunda\03.pdf). A modern edition of Book X of the Latin translation has made been, along with a French translation:
+An independent Latin translation, printed in Junta 1562 vol. 3, is [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes/Moralia/JuntSecunda/03.pdf). A modern edition of Book X of the Latin translation has made been, along with a French translation:
 
 _Le plaisir, le bonheur, et l’acquisition des vertus: édition du Livre x du Commentaire moyen d’Averroès à l’Éthique à Nicomaque d’Aristote_, ed. and tr. Frédérique Woerther (Leiden: Brill, 2018).
 
 _References are to (book.chapter, page) of the Junta edition._
 
-**Plato’s **_**Republic**_
+**Plato’s \_Republic**\_
 
 Not extant in Arabic, but it has survived in Hebrew:
 
@@ -741,7 +741,7 @@ _Al-Kulliyyāt fī al-ṭibb_, ed. Murād Maḥfūẓ et al., with an introducti
 
 The Latin (_Colliget_), which translates a significantly revised version of the text, is found in
 
-Iunta 1562, vol. 10, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Colliget\JuntSecunda\10.pdf).
+Iunta 1562, vol. 10, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes/Colliget/JuntSecunda/10.pdf).
 
 It is also available in a modern Spanish translation:
 
@@ -749,7 +749,7 @@ _El libro de las generalidades de la medicina_, tr. M. C. Vázquez de Benito, C.
 
 _References are to (book.page) of the Arabic text._
 
-_**Commentary on Ibn Sīnā’s Medical Poem**_** (**_**Sharḥ li-Urjūza fī al-ṭibb / Avicennae Cantica**_**)** (between 1184 and 1195)
+_**Commentary on Ibn Sīnā’s Medical Poem**_\*\* (**\_**Sharḥ li-Urjūza fī al-ṭibb / Avicennae Cantica**\_**)\*\* (between 1184 and 1195)
 
 The Arabic text, with Latin and a modern Spanish translation:
 
@@ -781,7 +781,7 @@ The material on assertoric propositions has been translated:
 
 Nicholas Rescher, “Averroes’ _Quaesitum_ on Assertoric (Absolute) Propositions,” _Journal of the History of Philosophy_ 1 (1963) 80–93.
 
-A lengthy collection of these questions is also available in Latin, in Junta 1562 vol. 1 pt. 2b, ff. 75v–119v, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\Logica\JuntSecunda\01-3.pdf).
+A lengthy collection of these questions is also available in Latin, in Junta 1562 vol. 1 pt. 2b, ff. 75v–119v, [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes/Logica/JuntSecunda/01-3.pdf).
 
 _**Questiones on Physics**_
 
@@ -809,7 +809,7 @@ _**De substantia orbis**_ (1178–9)
 
 This collection of six short treatises on cosmology and metaphysics is extant in Hebrew and has been translated:
 
-_De substantia orbis: Critical Edition of the Hebrew Text with English Translation and Commentary_, ed. Arthur Hyman (Cambridge, MA: Medieval Academy of America, 1986), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\De%20substantia%20orbis\Hyman.pdf).
+_De substantia orbis: Critical Edition of the Hebrew Text with English Translation and Commentary_, ed. Arthur Hyman (Cambridge, MA: Medieval Academy of America, 1986), [available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes/De%20substantia%20orbis/Hyman.pdf).
 
 _References are to (treatise.page) of the translation._
 
@@ -855,7 +855,7 @@ Translated into Spanish:
 
 Salvador Gómez Nogales, _La psicologia de Averroës: commentario al libro sobre el alma de Aristoteles_ (Madrid: Universidad Nacional de Educacion a Distancia, 1987), pp. 214–21.
 
-_**Commentary on Alexander’s**_** De intellectu**
+_**Commentary on Alexander’s**_\*\* De intellectu\*\*
 
 Extant in Arabic:
 
@@ -886,7 +886,7 @@ For a state-of-the-art recent study, in Italian, see
 * Adamson, Peter and Matteo Di Giovanni (eds.) (2019). _Interpreting Averroes: Critical Essays_ (Cambridge: Cambridge University Press).
 * Akasoy, Anna A. (2008). “Ibn Sabʿīn’s Sicilian Questions: The Text, Its Sources, and Their Historical Context,” _al-Qanṭara_ 29: 115–46.
 * Akasoy, Anna A. and Guido Giglioni (eds.) (2010). _Renaissance Averroism and Its Aftermath: Arabic Philosophy in Early Modern Europe_ (Dordrecht: Springer).
-* Al-_ʿ_Alawī, Jamal Al-Dīn (1986a). _Al-Matn al-Rushdī: Madkhal li-qirāʾa jadīda_ \[_The Rushdian Corpus: An Introduction to a New Reading_] (Casablanca: Dār Tubqāl).
+* Al-\_ʿ\_Alawī, Jamal Al-Dīn (1986a). _Al-Matn al-Rushdī: Madkhal li-qirāʾa jadīda_ \[_The Rushdian Corpus: An Introduction to a New Reading_] (Casablanca: Dār Tubqāl).
 * ––– (1986b). “Naẓariyyat al-burhān wa dalālatuhā fī al-khiṭāb al-falsafiy ʿinda Ibn Rushd,” in _Un Trait d’union entre l’Orient et l’Occident: al-Ghazzali et Ibn Maimoun_ (Rabat: Maṭbaʿat al-maʿārif al-jadīda), 43–101.
 * Amerini, Fabrizio (2008). “The Semantics of Substantial Names: The Tradition of the Commentaries on Aristotle’s _Metaphysics_,” _Recherches de théologie et philosophie médiévale_ 75: 395–440.
 * Arfa Mensia, Mokdad (1999). “Malāmiḥ min naẓariyyat Ibn Rushd fī al-nubuwwa,” in M. Arfa Mensia (ed.), _Ibn Rushd faylasūf al-sharq wa-l-gharb_ (Tunis: Dār al-Gharb al-Islāmī), I:219–57.
@@ -901,7 +901,7 @@ For a state-of-the-art recent study, in Italian, see
 * ––– (2019c). “Ibn Tumlūs’ Logic and Medicine: An Overview of the Current State of Scholarship,” in Jean-Baptiste Brenet and Olga L. Lizzini (eds.), _La philosophie arabe à l’étude: sens, limites et défis d’une discipline moderne / Studying Arabic Philosophy: Meaning, Limits and Challenges of a Modern Discipline_ (Paris: Vrin), 705–21.
 * ––– (2020a). “Ibn Ṭumlūs on Dialectic Reasoning: The Extent of His Reliance on al-Fārābī and Ibn Rušd,” in Nadja Germann and Steven Harvey (eds.), _The Origin and Nature of Language and Logic in Medieval Islamic, Jewish, and Christian Thought_ (Turnhout: Brepols).
 * ––– (2020b). “Re-writing the History of Philosophy in Sunni Muslim contexts: Ibn Taymiyyah and the Impact of Ibn Rushd,” _Hespéris-Tamuda_ 55: 303–54.
-* ––– (2020c). “Fī murājaʿat ʿalāqat Ibn Rushd bi al-maḏhab al-Ashʿarī wa bi al-ʿaqīda al-muwaḥḥidiyya,” in Jamāl ʿAllāl al-Bakhtī (ed.), a_l-Fikr al-Ashʿarī bi al-Andalus: Tārīkh wa ishkālāt_ (Tetouan: Markaz Abū al-Ḥasan al-Ashʿarī), 477-539.
+* ––– (2020c). “Fī murājaʿat ʿalāqat Ibn Rushd bi al-maḏhab al-Ashʿarī wa bi al-ʿaqīda al-muwaḥḥidiyya,” in Jamāl ʿAllāl al-Bakhtī (ed.), a\_l-Fikr al-Ashʿarī bi al-Andalus: Tārīkh wa ishkālāt\_ (Tetouan: Markaz Abū al-Ḥasan al-Ashʿarī), 477-539.
 * ––– (2020d). “What Were Ibn Rushd’s Works Doing in Egypt and the Levant in the 14th Century? Ibn Rushd in the Library of Ibn Taymiyya,” _Al-Ibānat_ 6: 183–233.
 * ––– (forthcoming). “Ibn Rushd in Irān: «En Orient, après Averroès…» Revisited,” in _Science, Philosophy and Kalām in Islamic Civilisation: The Old and the New_ (International colloquium organized by the Société internationale d’histoire des sciences et de la philosophie arabes et islamiques, Naples, 9–11 September 2019).
 * Ben Sharīfa, Muḥammad (1999). _Ibn Rushd al-Ḥafīd: Sīra wathāʾiqīyya_ (Casablanca: Maṭbaʿat al-Najāḥ al-Jadīda).
@@ -1000,7 +1000,7 @@ For a state-of-the-art recent study, in Italian, see
 ## Academic Tools
 
 | ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=ibn-rushd).                                                                      |
-| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/ibn-rushd/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
 | ![inpho icon](../../.gitbook/assets/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=ibn-rushd\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
 | ![phil papers icon](../../.gitbook/assets/pp.png)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/ibn-rushd/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |

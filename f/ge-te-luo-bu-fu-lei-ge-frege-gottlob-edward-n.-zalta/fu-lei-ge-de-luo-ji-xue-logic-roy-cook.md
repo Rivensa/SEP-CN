@@ -6,7 +6,6 @@ _首次发表于 2023 年 2 月 7 日_
 
 虽然本条目旨在向读者概述弗雷格在《概念符号》和《基本法则》中提出的逻辑系统，但并不意味着它是将弗雷格的逻辑系统翻译成现代符号的指南，因此以下内容中几乎没有现代符号。尽管“研究”弗雷格逻辑和他的逻辑主义计划的常见方法是通过将他的公理和定理翻译成现代符号，但这种方法往往会导致对弗雷格实际观点的误解，因为他自己的符号（在两个逻辑系统中）与现代的一阶和高阶量化逻辑在很多方面存在显著差异。因此，任何有兴趣以自己的方式理解弗雷格的逻辑和哲学观点的人都需要在《概念符号》和《基本法则》的逻辑和形式语言中研究这些观点，并且需要直接熟练地使用弗雷格的符号、演绎系统等。本条目旨在作为开始这一旅程的手段，除其他目的外。
 
-
 ***
 
 ## 1. 介绍
@@ -776,15 +775,11 @@ Frege 没有引入第三或更高阶的凹量化符号，因为从实际角度�
 >
 > 如果我们现在这样写前提：
 >
-> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-2-B1a.svg" alt="judgement all gothic a conditional term gothic a" data-size="original">
->
-> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-2-B1a.svg" alt="judgement all gothic a conditional term gothic a" data-size="original">
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-2-B1a.svg" alt="judgement all gothic a conditional term gothic a" data-size="original"> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-2-B1a.svg" alt="judgement all gothic a conditional term gothic a" data-size="original">
 >
 > 那么我们无法应用我们的推理方式；然而，如果我们将前提写成以下形式，我们就可以应用
 >
-> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-2-B2a.svg" alt="judgement conditional term x" data-size="original">
->
-> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-2-B2b.svg" alt="judgement conditional term x" data-size="original">
+> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-2-B2a.svg" alt="judgement conditional term x" data-size="original"> <img src="https://plato.stanford.edu/entries/frege-logic/sec-3-2-B2b.svg" alt="judgement conditional term x" data-size="original">
 >
 > 这里我们有第 15 段的情况。在上文中，我们尝试用罗马字母来表达一般性，但放弃了，因为我们观察到一般性的范围无法得到充分的界定。现在，我们通过规定罗马字母的范围为包括命题中除了判断符号之外的一切来解决这一问题。因此，一个人永远不能用罗马字母来表达一般性的否定，尽管我们可以表达否定的一般性。因此，现在不再存在歧义。然而，德语字母和凹凸的一般性表达并没有变得多余。我们关于罗马字母范围的规定仅仅是为了界定其最窄的范围，而不是最宽的范围。因此，让范围延伸到多个命题仍然是允许的，这样罗马字母就适合用于推理，而德语字母由于其严格的范围界定无法胜任。因此，当我们的前提是
 >
@@ -1291,7 +1286,7 @@ we can infer: (我们可以推断：)
 ## Academic Tools
 
 | ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=frege-logic).                                                                            |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/frege-logic/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/).       |
 | ![inpho icon](../../.gitbook/assets/inpho.png)         | [Look up this entry topic](https://www.inphoproject.org/entity?sep=frege-logic\&redirect=True) at the [Internet Philosophy Ontology Project](https://www.inphoproject.org/) (InPhO). |
 | ![phil papers icon](../../.gitbook/assets/pp.png)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/frege-logic/) at [PhilPapers](https://philpapers.org/), with links to its database.                                |
