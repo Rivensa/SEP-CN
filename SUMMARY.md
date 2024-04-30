@@ -65,7 +65,7 @@
   * [\*博弈论的认识论基础——见博弈论：博弈论的认识论基础 epistemic foundations of game theory — see game theory: epistemic foundations of](r/li-xing-rationality/bo-yi-lun-de-ren-shi-lun-ji-chu-jian-bo-yi-lun-bo-yi-lun-de-ren-shi-lun-ji-chu-epistemic-foundations.md)
   * [科学理性的历史主义 historicist theories of (Thomas Nickles)](r/li-xing-rationality/ke-xue-li-xing-de-li-shi-zhu-yi-historicist-theories-of-thomas-nickles.md)
   * [工具理性 instrumental (Niko Kolodny and John Brunero)](r/li-xing-rationality/gong-ju-li-xing-instrumental-niko-kolodny-and-john-brunero.md)
-  * [子结构逻辑 structural (Benjamin Kiesewetter and Alex Worsnip)](r/li-xing-rationality/zi-jie-gou-luo-ji-structural-benjamin-kiesewetter-and-alex-worsnip.md)
+  * [结构理性 structural (Benjamin Kiesewetter and Alex Worsnip)](r/li-xing-rationality/zi-jie-gou-luo-ji-structural-benjamin-kiesewetter-and-alex-worsnip.md)
 * [约翰·罗尔斯 Rawls, John (Leif Wenar)](r/yue-han-luo-er-si-rawls-john-leif-wenar.md)
 * [实在论 realism (Alexander Miller)](r/shi-zai-lun-realism-alexander-miller/README.md)
   * [对形而上学实在论的挑战 challenges to metaphysical (Drew Khlentzos)](r/shi-zai-lun-realism-alexander-miller/dui-xing-er-shang-xue-shi-zai-lun-de-tiao-zhan-challenges-to-metaphysical-drew-khlentzos.md)
