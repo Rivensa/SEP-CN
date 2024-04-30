@@ -45,7 +45,7 @@
 * [美学的概念 aesthetic, concept of the (James Shelley)](a/mei-xue-de-gai-nian-aesthetic-concept-of-the-james-shelley.md)
 * [审美体验 aesthetic experience (Antonia Peacocke)](a/shen-mei-ti-yan-aesthetic-experience-antonia-peacocke.md)
 * [\*美学 aesthetics](a/mei-xue-aesthetics/README.md)
-  * [19 世纪浪漫主义 19th Century Romantic (Keren Gorodeisky)](a/mei-xue-aesthetics/19-shi-ji-lang-man-zhu-yi-19th-century-romantic-keren-gorodeisky.md)
+  * [19 世纪浪漫主义美学 19th Century Romantic (Keren Gorodeisky)](a/mei-xue-aesthetics/19-shi-ji-lang-man-zhu-yi-19th-century-romantic-keren-gorodeisky.md)
   * [审美判断 aesthetic judgment (Nick Zangwill)](a/mei-xue-aesthetics/shen-mei-pan-duan-aesthetic-judgment-nick-zangwill.md)
   * [\*门罗·C.比厄斯利的美学——见门罗·C.比厄斯利：比厄斯利的美学 Beardsley — see Beardsley, Monroe C.: aesthetics](a/mei-xue-aesthetics/men-luo-c.-biesi-li-de-mei-xue-jian-men-luo-c.-biesi-li-biesi-li-de-mei-xue-beardsley-see-beardsley.md)
   * [18 世纪的英国美学 British, in the 18th century (James Shelley)](a/mei-xue-aesthetics/18-shi-ji-de-ying-guo-mei-xue-british-in-the-18th-century-james-shelley.md)
