@@ -82,7 +82,7 @@
 * [\*行动的理由 reasons for action](r/hang-dong-de-li-you-reasons-for-action/README.md)
   * [行动的原因：行动者中立与行动者相关 agent-neutral vs. agent-relative (Michael Ridge)](r/hang-dong-de-li-you-reasons-for-action/hang-dong-de-yuan-yin-hang-dong-zhe-zhong-li-yu-hang-dong-zhe-xiang-guan-agentneutral-vs.-agentrelat.md)
   * [行动的理由：内在或外在 internal vs. external (Stephen Finlay and Mark Schroeder)](r/hang-dong-de-li-you-reasons-for-action/hang-dong-de-li-you-nei-zai-huo-wai-zai-internal-vs.-external-stephen-finlay-and-mark-schroeder.md)
-  * [行动的理由：理由、动机、解释 justification, motivation, explanation (Maria Alvarez)](r/hang-dong-de-li-you-reasons-for-action/hang-dong-de-li-you-li-you-dong-ji-jie-shi-justification-motivation-explanation-maria-alvarez.md)
+  * [行动的理由：正当性、动机、解释 justification, motivation, explanation (Maria Alvarez)](r/hang-dong-de-li-you-reasons-for-action/hang-dong-de-li-you-li-you-dong-ji-jie-shi-justification-motivation-explanation-maria-alvarez.md)
 * [承认 recognition (Mattias Iser)](r/cheng-ren-recognition-mattias-iser.md)
 * [和解 reconciliation (Linda Radzik and Colleen Murphy)](r/he-jie-reconciliation-linda-radzik-and-colleen-murphy.md)
 * [递归——见递归 recursion — see recursion](r/di-gui-jian-di-gui-recursion-see-recursion.md)
