@@ -77,7 +77,7 @@
 * [\*推理 reasoning](r/tui-li-reasoning/README.md)
   * [自动推理 automated (Frederic Portoraro)](r/tui-li-reasoning/zi-dong-tui-li-automated-frederic-portoraro.md)
   * [\*类比——见类比与类推推理 by analogy — see analogy and analogical reasoning](r/tui-li-reasoning/lei-bi-jian-lei-bi-yu-lei-tui-tui-li-by-analogy-see-analogy-and-analogical-reasoning.md)
-  * [\*可辩驳推理 defeasible (Robert Koons)](r/tui-li-reasoning/ke-bian-bo-tui-li-defeasible-robert-koons.md)
+  * [可辩驳推理 defeasible (Robert Koons)](r/tui-li-reasoning/ke-bian-bo-tui-li-defeasible-robert-koons.md)
   * [道德推理 moral (Henry S. Richardson)](r/tui-li-reasoning/dao-de-tui-li-moral-henry-s.-richardson.md)
 * [\*行动的理由 reasons for action](r/hang-dong-de-li-you-reasons-for-action/README.md)
   * [行动的原因：行动者中立与行动者相关 agent-neutral vs. agent-relative (Michael Ridge)](r/hang-dong-de-li-you-reasons-for-action/hang-dong-de-yuan-yin-hang-dong-zhe-zhong-li-yu-hang-dong-zhe-xiang-guan-agentneutral-vs.-agentrelat.md)
