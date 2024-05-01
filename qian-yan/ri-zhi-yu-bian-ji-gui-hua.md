@@ -42,9 +42,5 @@
 - 2024.04.25 R 部分条目的目录创建完成
 - 2024.04.30 R 部分条目的机器翻译完成
 - 2024.05.01 A 部分条目的机器重译完成
-  - aesthetic testimony 不知道是什么（审美见证？审美陈词？审美证词？）——aesthetic testimony (Jon Robson and Rebecca Wallbank)
-  - al-Baghdadi, ‘Abd al-Latif  不知道是谁——al-Baghdadi, ‘Abd al-Latif (Cecilia Martini Bonadeo)
   - Robert Alyngton 不知道是谁———Alyngton, Robert (Alessandro Conti)
-  - Ibn Kammūna  不知道是谁——Ibn Kammūna — see Ibn Kammūna
-  - associationist theories of thought 不知道是什么——associationist theories of thought (Eric Mandelbaum)
   - French Franciscan Peter Auriol  不知道是谁——Auriol [Aureol, Aureoli], Peter (Russell L. Friedman)
