@@ -169,7 +169,7 @@
 * [\*认知规范的论证 arguments for epistemic norms](a/ren-zhi-gui-fan-de-lun-zheng-arguments-for-epistemic-norms/README.md)
   * [\*认知效用——见关于认知规范的认知效用论证 epistemic utility — see epistemic utility arguments for epistemic norms](a/ren-zhi-gui-fan-de-lun-zheng-arguments-for-epistemic-norms/ren-zhi-xiao-yong-jian-guan-yu-ren-zhi-gui-fan-de-ren-zhi-xiao-yong-lun-zheng-epistemic-utility-see.md)
 * [\*亚里士多德主义 Aristotelianism](a/ya-li-shi-duo-de-zhu-yi-aristotelianism/README.md)
-  * [亚里士多德的评注者——见亚里士多德的评注者 commentators on Aristotle — see Aristotle, commentators on](a/ya-li-shi-duo-de-zhu-yi-aristotelianism/ya-li-shi-duo-de-de-ping-zhu-zhe-jian-ya-li-shi-duo-de-de-ping-zhu-zhe-commentators-on-aristotle-see.md)
+  * [\*亚里士多德的评注者——见亚里士多德的评注者 commentators on Aristotle — see Aristotle, commentators on](a/ya-li-shi-duo-de-zhu-yi-aristotelianism/ya-li-shi-duo-de-de-ping-zhu-zhe-jian-ya-li-shi-duo-de-de-ping-zhu-zhe-commentators-on-aristotle-see.md)
   * [文艺复兴时期的亚里士多德主义 in the Renaissance (Heinrich Kuhn)](a/ya-li-shi-duo-de-zhu-yi-aristotelianism/wen-yi-fu-xing-shi-qi-de-ya-li-shi-duo-de-zhu-yi-in-the-renaissance-heinrich-kuhn.md)
 * [亚里士多德 Aristotle (Christopher Shields)](a/ya-li-shi-duo-de-aristotle-christopher-shields.md)
 * [亚里士多德的注释者 Aristotle, commentators on (Andrea Falcon)](a/ya-li-shi-duo-de-de-zhu-shi-zhe-aristotle-commentators-on-andrea-falcon/README.md)
