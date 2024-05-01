@@ -1,4 +1,4 @@
-# 阿罗不可能定理 Arrow’s theorem (Michael Morreau)
+# 阿罗定理 Arrow’s theorem (Michael Morreau)
 
 *首次发表于 2014 年 10 月 13 日星期一；实质性修订于 2019 年 11 月 26 日星期二*
 
