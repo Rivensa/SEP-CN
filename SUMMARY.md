@@ -172,7 +172,7 @@
   * [\*亚里士多德的评注者——见亚里士多德的评注者 commentators on Aristotle — see Aristotle, commentators on](a/ya-li-shi-duo-de-zhu-yi-aristotelianism/ya-li-shi-duo-de-de-ping-zhu-zhe-jian-ya-li-shi-duo-de-de-ping-zhu-zhe-commentators-on-aristotle-see.md)
   * [文艺复兴时期的亚里士多德主义 in the Renaissance (Heinrich Kuhn)](a/ya-li-shi-duo-de-zhu-yi-aristotelianism/wen-yi-fu-xing-shi-qi-de-ya-li-shi-duo-de-zhu-yi-in-the-renaissance-heinrich-kuhn.md)
 * [亚里士多德 Aristotle (Christopher Shields)](a/ya-li-shi-duo-de-aristotle-christopher-shields.md)
-* [亚里士多德的注释者 Aristotle, commentators on (Andrea Falcon)](a/ya-li-shi-duo-de-de-zhu-shi-zhe-aristotle-commentators-on-andrea-falcon/README.md)
+* [亚里士多德的评注者 Aristotle, commentators on (Andrea Falcon)](a/ya-li-shi-duo-de-de-zhu-shi-zhe-aristotle-commentators-on-andrea-falcon/README.md)
   * [\*阿芙罗蒂西亚的亚历山大——见阿芙罗蒂西亚的亚历山大 Alexander of Aphrosias — see Alexander of Aphrodisias](a/ya-li-shi-duo-de-de-zhu-shi-zhe-aristotle-commentators-on-andrea-falcon/a-fu-luo-di-xi-ya-de-ya-li-shan-da-jianafu-luo-di-xi-ya-de-ya-li-shan-da-alexander-of-aphrosias-see.md)
   * [\*赫尔米亚的阿莫尼俄斯——见赫尔米亚的阿莫尼俄斯 Ammonius — see Ammonius](a/ya-li-shi-duo-de-de-zhu-shi-zhe-aristotle-commentators-on-andrea-falcon/he-er-mi-ya-deamo-niesi-jian-he-er-mi-ya-deamo-niesi-ammonius-see-ammonius.md)
   * [\*大卫——见大卫 David — see David](a/ya-li-shi-duo-de-de-zhu-shi-zhe-aristotle-commentators-on-andrea-falcon/da-wei-jian-da-wei-david-see-david.md)
