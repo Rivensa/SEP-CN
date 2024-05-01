@@ -1,2 +1,2 @@
-# 认知规范的主张 arguments for epistemic norms
+# \*认知规范的论证 arguments for epistemic norms
 
