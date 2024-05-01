@@ -1,2 +1,2 @@
-# 中文房间——见中文房间 Chinese room argument — see Chinese room argument
+# \*中文房间实验——见中文房间实验 Chinese room argument — see Chinese room argument
 
