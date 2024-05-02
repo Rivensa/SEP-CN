@@ -6,20 +6,6 @@
 
 雷贝格的历史重要性主要在于他对法国大革命的批评。在 19 世纪 90 年代初，他因为成为其最重要的保守派批评家而闻名。他是所谓的“汉诺威辉格党”的首席发言人，这是一群以哥廷根为基地的保守派作家，他们捍卫了旧的“阶级国家”（即基于旧社会阶层的国家）抵抗革命意识形态。雷贝格为汉诺威人的政治提供了哲学基础，他比他们或他那个时代的任何其他保守派作家更清楚地看到了革命引发的一般哲学问题。他对革命意识形态的攻击基于他的怀疑论认识论，这源于他对休谟和康德的研究。出于所有这些原因，雷贝格被公认为德国保守主义的奠基人。
 
-* [1. 生平、声誉和影响](https://plato.stanford.edu/entries/august-rehberg/#LifRepInf)
-* [2. 早期哲学](https://plato.stanford.edu/entries/august-rehberg/#Ear)
-* [3. 政治信念](https://plato.stanford.edu/entries/august-rehberg/#PolCon)
-* [4. 革命批评](https://plato.stanford.edu/entries/august-rehberg/#CriRev)
-* [5. 与康德的争议](https://plato.stanford.edu/entries/august-rehberg/#DisKan)
-* [6. 雷贝格和历史主义传统](https://plato.stanford.edu/entries/august-rehberg/#RehHisTra)
-* [参考文献](https://plato.stanford.edu/entries/august-rehberg/#Bib)
-
-  * [主要来源：雷贝格的主要作品](https://plato.stanford.edu/entries/august-rehberg/#PriSouRehChiWor)
-  * [二次来源](https://plato.stanford.edu/entries/august-rehberg/#SecSou)
-* [学术工具](https://plato.stanford.edu/entries/august-rehberg/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/august-rehberg/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/august-rehberg/#Rel)
-
 ---
 
 ## 1. 生活、声誉和影响力
